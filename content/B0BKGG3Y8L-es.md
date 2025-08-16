@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - El Cascade es un excursionista ligero, cómodo y estable, de corte bajo y rendimiento
-- Cuello acolchado
 - Plantilla HH Max-Comfort
+- Cuello acolchado
 - 70% de la parte superior está fabricada con materiales reciclados
 
 [🛒 Aquí!!!]({{< param buyurl >}})

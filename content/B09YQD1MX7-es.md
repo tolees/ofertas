@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte
 - Cintura elástica con cordón
+- Corte
 - Bolsillos laterales
 
 [🛒 Visítala!!!]({{< param buyurl >}})

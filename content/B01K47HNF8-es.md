@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - FÁCIL INSTALACIÓN - Todos los materiales para el montaje como los tornillos, anclajes y separadores vienen incluidos con el soporte y se pueden configurar de forma rápida y sencilla
 - DIMENSIONES VESA - 75x75 100x100. VESA es un estándar que indica la distancia entre los agujeros en la parte posterior del televisor
-- TAMAÑO DE PANTALLA - Es adecuado para todas las pantallas con tamaños de entre 13 y 27 pulgadas
 - GIRATORIO E INCLINABLE- Giro variable (90°) e inclinación ajustable (15°) para crear una posición de visionado ideal
+- TAMAÑO DE PANTALLA - Es adecuado para todas las pantallas con tamaños de entre 13 y 27 pulgadas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01K47HNF8{{</world>}}

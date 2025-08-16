@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Máximo confort
-- Detalles buscados
 - Ergonómico
+- Detalles buscados
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CSK899V3{{</world>}}

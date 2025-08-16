@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Puños planos con ajustes de pestaña con un protector adicional en la barbilla para proteger tu cuerpo de las molestas corrientes.
-- Capucha ajustable con cremallera.
 - Chaqueta impermeable y transpirable.
 - Cremalleras de contraste.
+- Capucha ajustable con cremallera.
+- Puños planos con ajustes de pestaña con un protector adicional en la barbilla para proteger tu cuerpo de las molestas corrientes.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0734GC8QR{{</world>}}

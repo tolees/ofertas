@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Visera curvada de tamaño medio
 - Talla única
+- Visera curvada de tamaño medio
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZCBY6DH{{</world>}}

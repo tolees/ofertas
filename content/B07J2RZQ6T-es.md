@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compatible con Ninja V (ATOMNJAV01), Shinobi (ATOMSHBH01) y Shinobi SDI (ATOMSHBS01)
 - Parasol para disparar al aire libre
+- Compatible con Ninja V (ATOMNJAV01), Shinobi (ATOMSHBH01) y Shinobi SDI (ATOMSHBS01)
 - País de origen:- China
 - Protege de forma fiable contra la luz solar y ambiental
 

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Front zipper closure
-- Easy to pack jacket
 - Drawcords at the hem
+- Easy to pack jacket
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09MXCD6NH{{</world>}}

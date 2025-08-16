@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Capacidad: 47 cl.
 - Indicaciones: apta para lavavajillas, aunque se recomienda lavarla a mano para que el diseño permanezca intacto durante más tiempo.
 - Copa de vino realizada en vidrio, con mensaje dirigido a papá.
-- Capacidad: 47 cl.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DR2HH6Q5{{</world>}}

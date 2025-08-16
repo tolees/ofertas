@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido técnico 100% poliéster reciclado
 - Puños con cremallera
-- Bolsillos frontales con cremallera
 - Corte clásico con cintura de talle medio
+- Tejido técnico 100% poliéster reciclado
+- Bolsillos frontales con cremallera
 - Tecnología transpirable AEROREADY
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cantidad indicadores de desgaste [por eje]: 1
-- Producto de calidad
 - Altura [mm]: 55.2
+- Producto de calidad
 - Nuevo producto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ropa casual
 - Ajuste regular
+- Ropa casual
 - Informal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

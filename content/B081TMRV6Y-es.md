@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tinta con base de agua
 - Marcador fluorescente y diseño clásico desde 1974
-- Disponible en 9 colores neón y 10 colores pastel
 - Tinta de alta calidad y comodidad de escritura
 - Tecnología stabilo anti-secado: hasta 4 horas destapado sin secarse
-- Tinta con base de agua
+- Disponible en 9 colores neón y 10 colores pastel
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B081TMRV6Y{{</world>}}

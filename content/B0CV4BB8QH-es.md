@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela de TPR que aporta una mayor ligereza
 - Plantilla acolchada proporciona un mayor confort
+- Suela de TPR que aporta una mayor ligereza
 - Forro y la plantilla son de 100% poliéster transpirable
 - Sneakers blancas con acentos de color y cierres ajustables
 

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre: cordones
 - Parte superior: cuero
+- Cierre: cordones
 - Suela: Caucho
 
 [🛒 Aquí!!!]({{< param buyurl >}})

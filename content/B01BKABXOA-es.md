@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adecuada para proyectos artísticos y manualidades.
 - Ideales para decoración del hogar.
 - Fáciles de usar y de guardar.
+- Adecuada para proyectos artísticos y manualidades.
 - Ideales para decoración del hogar.
 - Ideales para decoración del hogar.
 

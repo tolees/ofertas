@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dimensiones: 11 x 23 x 7 cm
 - Cuerpo repelente a líquidos fabricado con material reciclado
+- Dimensiones: 11 x 23 x 7 cm
 - Forro interior
 - Estuche portatodo rectangular de tres compartimentos
 

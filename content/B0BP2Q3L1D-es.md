@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La altura del tobillo
-- Detalles distintivos de la marca
 - Paquete de tres pares
+- Detalles distintivos de la marca
+- La altura del tobillo
 - Estructura suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

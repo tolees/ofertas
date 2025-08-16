@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Este kit incluye 4 bolsas para el polvo y 1 prefiltro
 - Producto de la marca Nilfisk
-- Compatible con las series elite, extreme y king
 - Componentes incluidos: 4 x bolsas para el polvo de Nilfisk + 1 x prefiltro
+- Compatible con las series elite, extreme y king
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00IITQ8IS{{</world>}}

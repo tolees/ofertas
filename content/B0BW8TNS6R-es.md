@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Teléfono celular
 - En color gris
+- Teléfono celular
 - Tecnología 5G y 128 GB de capacidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

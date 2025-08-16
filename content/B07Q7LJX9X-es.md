@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Temperatura variable hasta 200 c
-- Fríe con una cucharada de aceite de forma más saludable y sin olores
 - Cestillo con asa: temporizador de 60 min; con desconexión automática
+- Fríe con una cucharada de aceite de forma más saludable y sin olores
 - Cajón para freír antiadherente con una capacidad de 2,6l, cómodo y fácil de extraer
 - Potencía: 1.300 w
+- Temperatura variable hasta 200 c
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07Q7LJX9X{{</world>}}

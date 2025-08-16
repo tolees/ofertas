@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Todo tipo de cabello
 - Para reducir la fragilidad del cabello
+- Todo tipo de cabello
 - Para cabello largo
 - Sérum anti encrespamiento
 

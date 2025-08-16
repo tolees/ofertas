@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Con 100 hojas de papel blanco
+- Óptimo para regalar
 - Con una rana Mr.Wonderful en ella
 - Libreta de tamaño A5 con la portada en 3D
-- Óptimo para regalar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB1LT6Z1{{</world>}}

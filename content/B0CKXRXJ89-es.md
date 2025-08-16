@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela de goma cosida
 - Horma clásica
-- Cierre de cordones
+- Suela de goma cosida
 - Forro sintético
+- Cierre de cordones
 - Parte superior de piel sintética
 
 [🛒 Comprar!!!]({{< param buyurl >}})

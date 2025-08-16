@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Detalle acado en el cuello, puños y dobladillo
-- Hombros caídos
 - Capucha ajustable con cordón
+- Hombros caídos
+- Detalle acado en el cuello, puños y dobladillo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BS5JWS4Z{{</world>}}

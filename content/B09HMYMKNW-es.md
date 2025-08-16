@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corrector mate multi-usos que cubre ojeras e imperfecciones durante todo el día
-- Formula de larga duración y alta cobertura con ácido hialurónico y vitamina E, para mantener la piel hidratada durante 24 horas
-- Formato jumbo 3 en 1: corrige, contornea e ilumina con Always Fabulous The Sculptor de Bourjois Paris
-- El corrector optimo en larga duración, semi-mate y de resistencia 24 horas
 - Aplicador XXL para usos múltiples
+- Formato jumbo 3 en 1: corrige, contornea e ilumina con Always Fabulous The Sculptor de Bourjois Paris
+- Formula de larga duración y alta cobertura con ácido hialurónico y vitamina E, para mantener la piel hidratada durante 24 horas
+- El corrector optimo en larga duración, semi-mate y de resistencia 24 horas
+- Corrector mate multi-usos que cubre ojeras e imperfecciones durante todo el día
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09HMYMKNW{{</world>}}

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- AEROREADY
-- Dobladillo con las costuras laterales abiertas
-- Bolsillos con cremallera
 - Cintura elástica con cordón ajustable
-- Corte clásico
+- Bolsillos con cremallera
+- Dobladillo con las costuras laterales abiertas
+- AEROREADY
 - Punto doble 100% poliéster reciclado
+- Corte clásico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQWX6NCD{{</world>}}

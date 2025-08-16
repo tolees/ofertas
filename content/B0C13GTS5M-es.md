@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Capacidad de dardos: el soporte X-Shot Skins Last Stand tiene un barril giratorio automático de capacidad de 14 dardos. Libera los 14 dardos en segundos con su mecanismo de disparo fácil de cebar y golpear.
 - El paquete incluye: 1 x X-Shot Skins Last Stand Blaster 16 dardos de espuma con tecnología Air Pocket
-- Potencia de disparo: el Last Stand es el lanzador más grande de la gama X-Shot Skins y viene empaquetado con un puñetazo. Golpea múltiples objetivos de hasta 27 m de distancia.
+- Capacidad de dardos: el soporte X-Shot Skins Last Stand tiene un barril giratorio automático de capacidad de 14 dardos. Libera los 14 dardos en segundos con su mecanismo de disparo fácil de cebar y golpear.
 - Elige tu piel: el X-Shot Skins Last Stand viene en muchas pieles únicas para seleccionar y coleccionar.
+- Potencia de disparo: el Last Stand es el lanzador más grande de la gama X-Shot Skins y viene empaquetado con un puñetazo. Golpea múltiples objetivos de hasta 27 m de distancia.
 - Tecnología Air Pocket: las fundas X-Shot incluyen dardos con tecnología Air Pocket para una toma más rápida, más precisa y más rápida
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

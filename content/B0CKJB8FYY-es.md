@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cierre de cordones
+- Tipo de superficie: Correr por carretera
+- Recomendado para: pronadores neutros
 - Drop del talón a los dedos: 9 mm
 - Tracción gracias a la goma por zonas
-- Cierre de cordones
-- Recomendado para: pronadores neutros
-- Tipo de superficie: Correr por carretera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CKJB8FYY{{</world>}}

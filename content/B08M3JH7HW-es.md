@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- color: negro/acero
-- marca: weber
 - medidas: 46 cm
+- color: negro/acero
 - producto de alta calidad
+- marca: weber
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08M3JH7HW{{</world>}}

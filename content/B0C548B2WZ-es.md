@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cintura elástica con cordón
-- AEROREADY
 - Corte clásico
 - Tejido técnico 87% poliéster reciclado / 13% elastán
+- Cintura elástica con cordón
+- AEROREADY
 - Bolsillos frontales con cremallera
 
 [🛒 Visítala!!!]({{< param buyurl >}})

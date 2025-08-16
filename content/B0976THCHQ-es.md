@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Adecuado para correr o para cualquier otra actividad deportiva
+- Tela suave
 - Cintura elástica
 - Corte entallado
-- Tela suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0976THCHQ{{</world>}}

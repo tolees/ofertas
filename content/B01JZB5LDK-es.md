@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fómulas con pigmentos negros super intensos y concentrados
 - Punta de fieltro ultrafina
-- Larga duración, hasta 24 horas
 - Maxima precisión en el trazado
+- Fómulas con pigmentos negros super intensos y concentrados
+- Larga duración, hasta 24 horas
 - Dibuja líneas más finas y artísticas con control hasta el final
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

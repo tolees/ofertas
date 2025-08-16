@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Tipo de producto : Altavoces
 - Color: plata
-- Marca: Energy System
 - Energy Sistem Music Box 9 Bluetooth True Wireless Kit Manos Libres Estéreo 50 W Mp3 Usb Microsd Radio Fm Negro
+- Marca: Energy System
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09QQQCKSZ{{</world>}}

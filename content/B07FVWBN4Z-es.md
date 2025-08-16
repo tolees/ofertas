@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Adecuado para combinar con cualquier prenda
 - Chaqueta de traje de estilo clásico
+- Adecuado para combinar con cualquier prenda
 - Sutil estampado de microcuadros
 
 [🛒 Comprar!!!]({{< param buyurl >}})

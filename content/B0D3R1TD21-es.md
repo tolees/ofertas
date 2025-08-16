@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con 80 hojas de papel blanco
 - Producto de calidad óptima
+- Con 80 hojas de papel blanco
 - Libreta de tamaño A5 con la portada en 3D
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

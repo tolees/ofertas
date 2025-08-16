@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🔹 ARTESANAL - Saco térmico de semillas diseñado y fabricado en España respetando a la naturaleza.
-- 🔹 MODO DE EMPLEO - Saquitos de semillas para microondas (calor) o congelador (frío). Debajo te mostramos los diferentes beneficios terapéuticos de la bolsa de semillas aplicando calor y frío.
-- 🔹 AROMA: Cada saco térmico tiene la mezcla perfecta de semillas de trigo y lavanda.
-- 🔹 PESO/DIMENSIONES - Mide 25x12 cm y pesa alrededor de 700 gr. Cada saco térmico se hace artesanalmente por lo que puede variar ligeramente.
 - 🔹 BENEFICIOS - Muy útil para aliviar dolores menstruales, contracturas, lumbar y dorsal, ojeras, varices y más el saco de semillas para microondas.
+- 🔹 ARTESANAL - Saco térmico de semillas diseñado y fabricado en España respetando a la naturaleza.
+- 🔹 AROMA: Cada saco térmico tiene la mezcla perfecta de semillas de trigo y lavanda.
+- 🔹 MODO DE EMPLEO - Saquitos de semillas para microondas (calor) o congelador (frío). Debajo te mostramos los diferentes beneficios terapéuticos de la bolsa de semillas aplicando calor y frío.
+- 🔹 PESO/DIMENSIONES - Mide 25x12 cm y pesa alrededor de 700 gr. Cada saco térmico se hace artesanalmente por lo que puede variar ligeramente.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B099NHQVWZ{{</world>}}

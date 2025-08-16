@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 1X LOréal Paris Elvive Champú Violeta, 200ml
-- Su fórmula con pigmentos violetas neutraliza el tono anaranjado y amarillento en minutos
-- Matiza los tonos anaranjados/amarillentos no deseados gracias a su fórmula con pigmentos violetas, al mismo tiempo que limpia con suavidad
 - Usar una vez por semana, alternando con el champú Elvive Color Vive. Aplicar masajeando el pelo durante 1-3min y aclarar abundantemente. Para el pelo castaño con mechas dejar actuar hasta 5 minutos y después aclarar abundantemente
+- Matiza los tonos anaranjados/amarillentos no deseados gracias a su fórmula con pigmentos violetas, al mismo tiempo que limpia con suavidad
+- Su fórmula con pigmentos violetas neutraliza el tono anaranjado y amarillento en minutos
 - Champú Matizador anti-efecto anaranjado para pelo con mechas, rubio, decolorado o gris.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

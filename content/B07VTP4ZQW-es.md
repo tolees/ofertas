@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ZTE Smartphone Blade L9 32 GB 1 GB RAM 5" Gris'
-date: 2025-08-04 19:28:17
+date: 2025-08-16 13:49:58
 image: 'https://m.media-amazon.com/images/I/41NnUEU+VWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ZTE'
 buyurl: 'https://www.amazon.es/dp/B07VTP4ZQW/?tag=tolees-21'
 descuento: '35.88'
-average: '38.270135135135'
+average: '38.2591999999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

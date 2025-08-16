@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Disponible en Sunday Grey
 - Dos compartimentos internos con cierre y correas de compresión para mantener todo en su lugar
+- Disponible en Sunday Grey
 - Bolsillo frontal con cierre para pequeñas cosas
 - Muévete fácilmente por las calles o estaciones de metro llenas de gente con su sistema de ruedas multidireccional
 - Compartimento principal grande de dos pisos con cierre para mantener seguras tus cosas

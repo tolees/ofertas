@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Fit: Slim
-- Cuello alto
 - Abertura trasera en el bajo
+- Cuello alto
 - Estampado de flores arty
 - Manga larga
 

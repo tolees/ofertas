@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte ajustado
-- AEROREADY
 - 70% poliéster (reciclado) / 30% algodón
+- AEROREADY
+- Corte ajustado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BQW4ZV9S{{</world>}}

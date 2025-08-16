@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Certificado vegano después de pruebas meticulosas realizadas por la etiqueta V italiana, hipoalergénico y resistente al sudor (por cobertura), el tono rosado brillante del protector solar ilumina el tono de la piel y Trufferol proporciona antioxidantes y nutrientes para tensar e iluminar la piel para una tez juvenil.
-- Aprobado por la Asociación Vegetariana Italiana por sus sustancias puras y 100% veganas. Los ingredientes de origen vegetal proporcionan una aplicación suave y delicada al mismo tiempo que iluminan el tono de la piel.
+- El producto de protección solar 2 en 1 perfecto durante todo el año, deja la piel naturalmente radiante, hidratada y protegida con su alto SPF de 57,3 (±8,9) y un PFA de 19,70 (±2,5 PA++++).
 - Una fórmula híbrida que incorpora tanto el uso suave y seguro de un protector solar físico como la textura suave de un protector solar químico, es liviana y ultrahidratante sin dejar residuos.
 - Las trufas blancas premium cuidadosamente extraídas del Piamonte, Italia, infundidas con tocoferol (vitamina E) constituyen el ingrediente característico de dAlba, Trufferol, que es rico en antioxidantes.
-- El producto de protección solar 2 en 1 perfecto durante todo el año, deja la piel naturalmente radiante, hidratada y protegida con su alto SPF de 57,3 (±8,9) y un PFA de 19,70 (±2,5 PA++++).
+- Aprobado por la Asociación Vegetariana Italiana por sus sustancias puras y 100% veganas. Los ingredientes de origen vegetal proporcionan una aplicación suave y delicada al mismo tiempo que iluminan el tono de la piel.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09D7QJP1M{{</world>}}

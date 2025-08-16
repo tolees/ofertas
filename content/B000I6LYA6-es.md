@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 2 anchos de trazo
-- Color verde
 - Tinta con base al agua
 - Muy útil para ti y tu hogar
+- Color verde
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B000I6LYA6{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Capacidad: 11,22l.
 - Bolsillo exterior trasero
 - Efecto piel
 - Color: Liso
-- Capacidad: 11,22l.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D9MJ9PV5{{</world>}}

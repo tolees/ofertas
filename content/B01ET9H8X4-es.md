@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Información de tallas del sombrero: 1 talla: se estira para adaptarse cómodamente de 55 cm a 61 cm.
-- El sombrero mide aproximadamente 17 cm con puño doblado dos veces
 - Levis Pestaña roja cosida en el labio
+- El sombrero mide aproximadamente 17 cm con puño doblado dos veces
 - El sombrero mide aproximadamente 25 cm con el puño doblado una vez
 
 [🛒 Comprar!!!]({{< param buyurl >}})

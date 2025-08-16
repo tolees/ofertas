@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tacto suave
 - 78% nailon (reciclado) / 22% elastán
+- Tacto suave
 - Corte clásico
 - Tejido Infinitex Fitness Eco resistente al cloro
 

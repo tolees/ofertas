@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Negro (Black Black)
-- XL para Mujer
 - Vmkerriultra Short Coated Jacket Noos Chaqueta
+- XL para Mujer
+- Negro (Black Black)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07XB5TJ83{{</world>}}

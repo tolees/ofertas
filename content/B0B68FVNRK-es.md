@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CONTROLADORA CHROMA ARGB: El sistema de iluminación de la caja MC61 te proporciona hasta 40 modos de luz RGB CHROMA preinstalados controlables a través del mando a distancia RF e incluye una conexión ARGB standard para sincronizar la iluminación con placas base o controladoras compatibles ARGB
 - REFRIGERACIÓN EXTREMA: La torre gaming MC61 elimina todo problema de temperatura manteniendo el silencio gracias a un flujo de aire extremo que ofrecen sus 4 ventiladores de 120 mm preinstalados (2 frontales y 2 superiores) y sus aperturas 360º sin restricción de flujo
+- CONTROLADORA CHROMA ARGB: El sistema de iluminación de la caja MC61 te proporciona hasta 40 modos de luz RGB CHROMA preinstalados controlables a través del mando a distancia RF e incluye una conexión ARGB standard para sincronizar la iluminación con placas base o controladoras compatibles ARGB
 - COMPACTO PREMIUM: La torre compacta MC61 está diseñada para placas de tamaño hasta Micro-ATX, soporte para refrigeraciones líquidas hasta 240mm, capacidad hasta 3 HDDs y gestión de cableado interno
 - DOBLE VENTANA CRISTAL TEMPLADO: Dotada de dos ventanas completas de cristal templado, la caja gaming premium MC61 permite mostrar tu PC en todo su esplendor
 

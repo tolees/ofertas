@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plug and play y ampliable a 4 cameras: Cámara de bebé es plug and play, sin configurar necesario. Un monitor de unidad de padres se puede emparejar con 4 cámaras de unidad de niño. (Un monitor y una cámara incluidos) Usted podría tomar el cuidado de todos sus cabritos con un monitor
 - Baby calmante música: Escuchar música (máximo 8 piezas) para sooth baby.Built-in lullabies puede ayudar a los padres a la comodidad del bebé caer en un sueño.
+- Plug and play y ampliable a 4 cameras: Cámara de bebé es plug and play, sin configurar necesario. Un monitor de unidad de padres se puede emparejar con 4 cámaras de unidad de niño. (Un monitor y una cámara incluidos) Usted podría tomar el cuidado de todos sus cabritos con un monitor
 - Señal privada estable: Utilizando la tecnología de transmisión inalámbrica FHSS de 2,4 GHz, la señal sin interferencias asegura una conexión privada y segura. Rango de hasta 984 pies (sin bloques), lo que permite a los padres a moverse libremente por toda la casa y mantener a bebé en la vista
 - Características impresionantes: Monitorización de la temperatura y alerta; charla de dos vías; pan y tilt óptica; Sonido Indicador LED activado; Pantalla-off modo de sólo audio; zoom digital 2X; 8 niveles de alarma, 8 canciones de cuna
 

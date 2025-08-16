@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 60 W de potencia: facilita la ventilación de la estancia en la que se sitúe el ventilador de manera instantánea y eficaz.
 - Domínalo fácilmente: gracias a su mando a distancia podrás controlar cómodamente todas las funciones del ventilador y, gracias a su pantalla LED, podrás ver la función seleccionada. Control táctil: también es posible seleccionar el funcionamiento del ventilador de manera táctil e, igualmente, podrás ver la configuración en su pantalla.
-- 42 pulgadas de altura: permiten suministrar un gran flujo de aire para intensificar el proceso de ventilación. Luz LED decorativa que bordea todo el ventilador.
+- 60 W de potencia: facilita la ventilación de la estancia en la que se sitúe el ventilador de manera instantánea y eficaz.
 - Oscilación automática de 150º: facilita la correcta distribución del aire fresco en la estancia en la cual sea ubicado.
+- 42 pulgadas de altura: permiten suministrar un gran flujo de aire para intensificar el proceso de ventilación. Luz LED decorativa que bordea todo el ventilador.
 - Regula la intensidad: posee 6 velocidades y 3 modos de funcionamiento (normal, nature, sleep) que permiten regular la intensidad del flujo del aire en función de las necesidades de cada momento. Temporizador programable: hasta un máximo de 9 horas, que permite seleccionar el tiempo de funcionamiento deseado y, tras el mismo, el ventilador se apagará de forma automática.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

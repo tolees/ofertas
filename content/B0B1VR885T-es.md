@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MATERIAL - Tela sostenible de 50% acrílico, 50% viscosa que se siente agradable en la piel.
 - BÁSICO NOOS - Diseño atemporal con rayas y aberturas laterales, un clásico en el mundo de la moda.
+- MATERIAL - Tela sostenible de 50% acrílico, 50% viscosa que se siente agradable en la piel.
 - COMODIDAD - Suéter de punto con mangas largas y cuello redondo.
 - ADAPTACIÓN - Corte holgado y amplio con una superficie suave.
 

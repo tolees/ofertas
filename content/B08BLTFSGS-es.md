@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste regular
-- Logotipo de Levis en el pecho
 - Cuello redondo
+- Logotipo de Levis en el pecho
+- Ajuste regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08BLTFSGS{{</world>}}

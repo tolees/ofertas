@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura de goma con cordón
 - Hecho de 100% poliéster
 - Material que evacúa el sudor
+- Cintura de goma con cordón
 - Logotipo en el pie izquierdo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

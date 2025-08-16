@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Bombillo de 40 mm
+- Apertura mediante llave desde el exterior de la puerta y mediante pulsador desde el interior de la puerta
 - Cerrojo de seguridad
 - Placa en acero de 2 mm.
 - Barra calibrada de 14 mm
-- Bombillo de 40 mm
-- Apertura mediante llave desde el exterior de la puerta y mediante pulsador desde el interior de la puerta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00MDJ2IYW{{</world>}}

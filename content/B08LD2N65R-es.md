@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste apretado
-- Tela transpirable
-- Material resistente y duradero
 - Tela impermeable
+- Tela transpirable
+- Ajuste apretado
+- Material resistente y duradero
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08LD2N65R{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cintura con cordón para un ajuste seguro y regulable
-- Bañador tipo slip con malla interior
 - Confeccionado con 100 Percentage nailon reciclado
+- Bañador tipo slip con malla interior
+- Cintura con cordón para un ajuste seguro y regulable
 - Bolsillos en las costuras laterales
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido súper suave de mezcla de algodón que proporciona comodidad durante todo el día
-- Corte más completo para una comodidad completa
 - Cuello acanalado
+- Corte más completo para una comodidad completa
+- Tejido súper suave de mezcla de algodón que proporciona comodidad durante todo el día
 - Secar en secadora a baja temperatura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

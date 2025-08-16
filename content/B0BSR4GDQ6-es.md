@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Antibacteriano
-- 100% poliéster
-- Absorbe la humedad
 - Collar
 - Insignia de TPU
+- 100% poliéster
+- Absorbe la humedad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BSR4GDQ6{{</world>}}

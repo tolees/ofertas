@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Memoria RAM de 32GB SO-DIMM DDR5 4800MHz
-- Pantalla de 16" WQXGA 2560 x 1600 pixeles, 240Hz, IPS 1100 nits
 - Tarjeta gráfica NVIDIA GeForce RTX 4080 12GB GDDR6
-- Sistema Operativo: Windows 11 Home
-- Almacenamiento de 2TB SSD M.2 NVMe PCIe
 - Procesador Intel Core i9-13980HX (24C/undefined 5.6GHz, 36MB)
+- Almacenamiento de 2TB SSD M.2 NVMe PCIe
+- Sistema Operativo: Windows 11 Home
+- Pantalla de 16" WQXGA 2560 x 1600 pixeles, 240Hz, IPS 1100 nits
+- Memoria RAM de 32GB SO-DIMM DDR5 4800MHz
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BWFTX228{{</world>}}

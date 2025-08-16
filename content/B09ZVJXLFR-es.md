@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Grado de resistencia al agua: no impermeable
-- Material exterior: ante
-- Forma del tacón: plano
 - Ancho del zapato: estrecho
+- Material exterior: ante
+- Grado de resistencia al agua: no impermeable
+- Forma del tacón: plano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09ZVJXLFR{{</world>}}

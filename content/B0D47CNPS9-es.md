@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- [Múltiples Puertos Incluidos] Esta V Mount batería de puerto viene con dos puertos USB-C; un USB-A, un DC 5,5x2,5mm 12V, BP y D-TAP,Haga que la alimentación de la batería sea más integrada, que admite la alimentación de múltiples dispositivos al mismo tiempo, como cámaras digitales, videocámaras, monitores, teléfonos inteligentes, transmisores de video inalámbricos, tabletas y computadoras portátiles, etc.
+- [100W Carga Rápida PD Bidireccional Mejorada] Mini V Mount Batería Soporta hasta 100W de alta potencia USB-C bidireccional PD carga/descarga rápida, tarda sólo 2,5h para cargar completamente la batería, y al mismo tiempo, puede cargar ordenadores/teléfonos móviles y otros dispositivos móviles, protocolos compatibles (PD/QC/SCP/PPS/APPLE-2,4A, etc.)
 - [Pantalla a color TFT]V mount batería tiene una pantalla a color TFT clara, fácil de leer la potencia de salida de cada puerto y la potencia de salida total, monitoreo en tiempo real de la energía de la batería.
 - [Night Light Design] El diseño de luz nocturna de emergencia en la parte posterior hace que sea fácil encajar la batería en el dispositivo en un entorno oscuro.
-- [100W Carga Rápida PD Bidireccional Mejorada] Mini V Mount Batería Soporta hasta 100W de alta potencia USB-C bidireccional PD carga/descarga rápida, tarda sólo 2,5h para cargar completamente la batería, y al mismo tiempo, puede cargar ordenadores/teléfonos móviles y otros dispositivos móviles, protocolos compatibles (PD/QC/SCP/PPS/APPLE-2,4A, etc.)
+- [Múltiples Puertos Incluidos] Esta V Mount batería de puerto viene con dos puertos USB-C; un USB-A, un DC 5,5x2,5mm 12V, BP y D-TAP,Haga que la alimentación de la batería sea más integrada, que admite la alimentación de múltiples dispositivos al mismo tiempo, como cámaras digitales, videocámaras, monitores, teléfonos inteligentes, transmisores de video inalámbricos, tabletas y computadoras portátiles, etc.
 - [99Wh de Gran Capacidad] V Mount Batería 99Wh de gran capacidad, 6700mAh/14.8V, la máxima potencia permitida para llevar en un avión, fácil de transportar, aporta una potente duración de la batería para proyectos de producción de vídeo y fotografía de larga duración.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

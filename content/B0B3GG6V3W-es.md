@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- TODA UNA GALAXIA DE FIGURAS: Colecciona figuras de Star Wars The Black Series inspiradas en la ficción y crea tu propia galaxia de Star Wars (Se venden por separado. Sujeto a disponibilidad)
 - BIB FORTUNA: ¡Conmemora el 40.º aniversario de Star Wars: El Retorno del Jedi con figuras de la línea The Black Series, las cuales cuentan con diseño y embalaje clásicos!
 - ARTICULACIÓN Y DISEÑO PREMIUM: Los fans y coleccionistas de Star Wars pueden exhibir en su colección esta figura de 15 cm fácilmente articulable (cabeza, brazos y piernas) con diseño premium
-- ACCESORIOS INSPIRADOS EN EL PERSONAJE: Esta figura de colección de Star Wars The Black Series viene con 3 tazas
-- TODA UNA GALAXIA DE FIGURAS: Colecciona figuras de Star Wars The Black Series inspiradas en la ficción y crea tu propia galaxia de Star Wars (Se venden por separado. Sujeto a disponibilidad)
 - STAR WARS: EL RETORNO DEL JEDI: Esta figura de Bib Fortuna, inspirada en el personaje de Star Wars: El Retorno del Jedi, es un regalo fantástico para todo coleccionista o fan de Star Wars a partir de 4 años
+- ACCESORIOS INSPIRADOS EN EL PERSONAJE: Esta figura de colección de Star Wars The Black Series viene con 3 tazas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B3GG6V3W{{</world>}}

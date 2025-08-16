@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Memoria USB
 - Negro
 - Capacidad de 32 GB
+- Memoria USB
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B007UK0RA6{{</world>}}

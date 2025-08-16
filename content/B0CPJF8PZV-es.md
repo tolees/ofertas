@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela de tracción de goma flexible
 - Parte superior perforada sintética suave Durabuck
+- Suela de tracción de goma flexible
 - Tacón de 1 1/2 pulgadas
 - Ajuste de cuña con tacón oculto de 1 pulgada
 

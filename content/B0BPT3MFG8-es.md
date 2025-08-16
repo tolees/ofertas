@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CASIO Modelo A100 PU band
 - Digital para Unisex adulto
+- CASIO Modelo A100 PU band
 - 11 milimetros calendario Sin cierre a presion plegable
 
 [🛒 Aquí!!!]({{< param buyurl >}})

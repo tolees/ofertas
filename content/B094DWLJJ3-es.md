@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Marca: NIKE
 - Alta calidad
+- Marca: NIKE
 - Ofrece comodidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material resistente y duradero
-- Cintura elástica
 - Tejido elástico; Dri-FIT
+- Cintura elástica
+- Material resistente y duradero
 - Ajuste delgado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

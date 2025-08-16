@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricado en Estados Unidos
 - Coser
+- Fabricado en Estados Unidos
 - Producto con licencia oficial
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tela suave
-- Corte cónico
-- Ofrece libertad de movimiento
 - Cintura elástica
+- Tela suave
+- Ofrece libertad de movimiento
+- Corte cónico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BPH7GB98{{</world>}}

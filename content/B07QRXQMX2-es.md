@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Puños elásticos
-- Pantalón cargo niño
 - Bolsillos funcionales para almacenamiento
+- Pantalón cargo niño
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07QRXQMX2{{</world>}}

@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Garantía: 2 años
 - Uso: caja de cambios de doble velocidad con posición de control de par de 22 Nm
-- Recarga: 1 hora de carga
-- Ergonómico: capacidad de perforación: madera – 35 mm, acero suave – 13 mm y ladrillo 13 mm
-- Potencia: 2 baterías de iones de litio de 20 V con baterías de iones de litio de 2,0 Ah
 - Peso: el martillo desnudo pesa 1,54 kg
+- Potencia: 2 baterías de iones de litio de 20 V con baterías de iones de litio de 2,0 Ah
+- Ergonómico: capacidad de perforación: madera – 35 mm, acero suave – 13 mm y ladrillo 13 mm
+- Recarga: 1 hora de carga
+- Garantía: 2 años
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07H1N2RGG{{</world>}}

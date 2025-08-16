@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Fácil manejo: su diseño ergonómico, peso bajo y perímetro de agarre reducido garantizan un trabajo cómodo
-- Para aplicaciones muy diversas: ideal para cortar metal, azulejos o ladrillos
-- Incluye: GWS 18V-7, empuñadura auxiliar, brida de fijación, caperuza de protección, tuerca de sujeción, llave de brida, en caja de cartón (batería y cargador no incluidos)
 - Professional 18V System. Máximo rendimiento. Máxima libertad. Todas las baterías son compatibles con herramientas Bosch Professional nuevas y ya existentes del mismo voltaje.
+- Incluye: GWS 18V-7, empuñadura auxiliar, brida de fijación, caperuza de protección, tuerca de sujeción, llave de brida, en caja de cartón (batería y cargador no incluidos)
+- Para aplicaciones muy diversas: ideal para cortar metal, azulejos o ladrillos
 - Excelente rendimiento: el motor Brushless sin escobillas proporciona la misma potencia que una amoladora angular con cable de 700 W
 
 [🛒 Aquí!!!]({{< param buyurl >}})

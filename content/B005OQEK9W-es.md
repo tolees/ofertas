@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Posicionamiento exacto de la pieza mediante el tope paralelo y la gran superficie de trabajo, con ayuda de la pinza de sujeción rápida incluso es posible fijar piezas redondas
-- Con engranaje de 2 velocidades: gran potencia en la primera velocidad, elevadas revoluciones en la segunda velocidad
+- Incluye: PBD 40, tope paralelo, pinzas de sujeción rápida, caja de cartón
 - Taladro de columna PBD 40: para perforar con la máxima precisión y disfrutar de un manejo fácil
 - El indicador digital permite ajustar el número de revoluciones de forma exacta y en función de las necesidades; el sistema Constant Electronic de Bosch garantiza un número de revoluciones constante
-- Incluye: PBD 40, tope paralelo, pinzas de sujeción rápida, caja de cartón
+- Con engranaje de 2 velocidades: gran potencia en la primera velocidad, elevadas revoluciones en la segunda velocidad
+- Posicionamiento exacto de la pieza mediante el tope paralelo y la gran superficie de trabajo, con ayuda de la pinza de sujeción rápida incluso es posible fijar piezas redondas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B005OQEK9W{{</world>}}

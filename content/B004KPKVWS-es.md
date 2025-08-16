@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Piezas resistentes de madera
 - 37 números y signos de matemática
 - Estimula la capacidad de reconocer números, colores y desarrolla habilidades tempranas de alfabetización
+- Piezas resistentes de madera
 - Ideal para usar en casa y para llevar de viaje
 - Viene guardado en una caja de madera
 

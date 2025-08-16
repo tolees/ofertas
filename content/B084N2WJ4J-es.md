@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Manga larga
 - Schott NYC de calidad desde 1913
 - Casual
-- Manga larga
 - Cremallera
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Instalación con atornillador. Huella Torx. Cabeza hexagonal arandela
-- Recomendado para usar en: hormigón, hormigón hueco, hormigón celular, ladrillo macizo, adobe, ladrillo hueco, piedra natural
 - Hecho en nailon. Recubrimiento cincado. Producto homologado EOTA. Producto homologado CE
+- Recomendado para usar en: hormigón, hormigón hueco, hormigón celular, ladrillo macizo, adobe, ladrillo hueco, piedra natural
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00K6JEE0C{{</world>}}

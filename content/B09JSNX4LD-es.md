@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cordón ajustable
 - Puños de punto acado
+- Cordón ajustable
 - Bolsillos delanteros paspel
 
 [🛒 Comprar!!!]({{< param buyurl >}})

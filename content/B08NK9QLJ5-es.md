@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 25 horas de acabado óptimo
-- Aplica la base de maquillaje con los dedos o una brocha des del centro hasta el exterior del rostro
 - Indicado para pieles secas
 - Fórmula resistente al calor, la humedad y no mancha
 - Alta cobertura para un acabado óptimo
+- Aplica la base de maquillaje con los dedos o una brocha des del centro hasta el exterior del rostro
+- 25 horas de acabado óptimo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08NK9QLJ5{{</world>}}

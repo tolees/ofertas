@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Parte de malla
 - Forro textil
-- Amortiguación Lightstrike
+- Parte de malla
 - Horma clásica
+- Amortiguación Lightstrike
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C2QKDLHS{{</world>}}

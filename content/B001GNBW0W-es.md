@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Oftalmológicamente testado, apto para usuarios de lentillas.
-- Fórmula con pigmentos hiper-negros para unas pestañas de alto impacto.
-- Secado rápido
 - Fácil de desmaquillar con agua y jabón
+- Fórmula con pigmentos hiper-negros para unas pestañas de alto impacto.
 - Máscara que aporta pestañas más espesas y voluminosas
+- Oftalmológicamente testado, apto para usuarios de lentillas.
+- Secado rápido
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B001GNBW0W{{</world>}}

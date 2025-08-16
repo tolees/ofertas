@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto hecho con un material de óptima calidad y resistente
-- Tiene detalles distintivos de la marca
 - Ropa deportiva que se adapta a cualquier actividad deportiva
+- Tiene detalles distintivos de la marca
+- Producto hecho con un material de óptima calidad y resistente
 - Diseño ligero que ofrece comodidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

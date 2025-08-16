@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiro alto que se ajusta a la cintura
-- Este producto es original Levis
 - Acabado con pierna acampanada
 - Para esos días en los que un jean ceñido no funciona
+- Este producto es original Levis
+- Tiro alto que se ajusta a la cintura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09MXDB3K6{{</world>}}

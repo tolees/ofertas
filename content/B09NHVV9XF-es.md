@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Horma clásica
 - Cierre de cordones
 - Forro textil
 - Diseño acolchado
+- Horma clásica
 - Parte superior de piel sintética
 
 [🛒 Comprar!!!]({{< param buyurl >}})

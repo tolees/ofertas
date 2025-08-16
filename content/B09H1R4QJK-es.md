@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- DETALLES AUTÉNTICOS: El sable de luz Force FX Elite de Leia Organa cuenta con diseño y decorado basado en el emblemático sable de luz azul de Leia Organa de la película Star Wars: El ascenso de Skywalker
 - EFECTOS INSPIRADOS EN LAS PELÍCULAS: Usa los botones en la empuñadura para activar sonidos inspirados en las películas, encendido progresivo, efecto de sable desviando disparo y efecto de punta ígnea
-- CREA UNA COLECCIÓN ÉPICA. Colecciona los otros artículos para roleplay premium de Star Wars The Black Series, como los sables de luz Force FX y los cascos (Se venden por separado. Sujeto a disponibilidad)
-- LUCES AVANZADAS Y EFECTOS DE SONIDO: El sable de luz Force FX Elite de Leia Organa combina luces LED avanzadas y efectos de sonido inspirados en las películas
 - INCLUYE BASE Y CUCHILLA EXTRAÍBLE. Exhibe con orgullo este sable de luz en la base incluida, con o sin la cuchilla extraíble
+- LUCES AVANZADAS Y EFECTOS DE SONIDO: El sable de luz Force FX Elite de Leia Organa combina luces LED avanzadas y efectos de sonido inspirados en las películas
+- CREA UNA COLECCIÓN ÉPICA. Colecciona los otros artículos para roleplay premium de Star Wars The Black Series, como los sables de luz Force FX y los cascos (Se venden por separado. Sujeto a disponibilidad)
+- DETALLES AUTÉNTICOS: El sable de luz Force FX Elite de Leia Organa cuenta con diseño y decorado basado en el emblemático sable de luz azul de Leia Organa de la película Star Wars: El ascenso de Skywalker
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09H1R4QJK{{</world>}}

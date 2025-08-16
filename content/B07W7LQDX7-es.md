@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Diseño TKL compacto – Un diseño sin teclado numérico deja más espacio para el movimiento del ratón. Espacio para guardar el receptor USB en la parte posterior del teclado, para facilitar el transporte.
 - RGB LIGHTSYNC – La iluminación RGB del teclado se sincroniza con cualquier contenido. Personaliza cada tecla o crea animaciones personalizadas a partir de ~16,8 millones de colores con el software Logitech G HUB.
 - Tecnología inalámbrica LIGHTSPEED – Para un rendimiento profesional con flexibilidad y sin ataduras de cables. G915 TKL crea una estética despejada para tus puestos de combate. Hasta 40 horas de uso con una sola carga completa.
-- Construcción premium en AL-MG – Bellamente diseñado, el G915 utiliza una aleación de aluminio de grado aeronáutico para ofrecer un diseño increíblemente fino, pero rígido y duradero.
-- Diseño TKL compacto – Un diseño sin teclado numérico deja más espacio para el movimiento del ratón. Espacio para guardar el receptor USB en la parte posterior del teclado, para facilitar el transporte.
 - Interruptores mecánicos de perfil bajo – La velocidad, la precisión y el rendimiento de un interruptor mecánico con la mitad de altura. Existen tres opciones: GL Táctil, GL Lineal o GL con clic perceptible. El interruptor GL Lineal ofrece una pulsación de teclado completamente fluida por el punto de actuación.
+- Construcción premium en AL-MG – Bellamente diseñado, el G915 utiliza una aleación de aluminio de grado aeronáutico para ofrecer un diseño increíblemente fino, pero rígido y duradero.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07W7LQDX7{{</world>}}

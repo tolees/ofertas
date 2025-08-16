@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cómoda y ligera
-- Sudadera con capucha
 - Ideal para todos los estilos
+- Sudadera con capucha
+- Cómoda y ligera
 - Omini Kappa
 
 [🛒 Visítala!!!]({{< param buyurl >}})

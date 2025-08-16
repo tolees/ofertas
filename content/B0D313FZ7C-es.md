@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Código de vestimenta: informal
 - Patrón: el diseño de la marca es visible
+- Código de vestimenta: informal
 - Temporada: Todas las estaciones
 
 [🛒 Visítala!!!]({{< param buyurl >}})

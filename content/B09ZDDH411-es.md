@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste: corte largo
 - Detalles: dobladillo redondeado
+- Ajuste: corte largo
 - Lavado: aspecto lavado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

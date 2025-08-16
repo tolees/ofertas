@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Esmalte de uñas
 - Fórmula de secado rápido y de larga duración
-- El pincel se adapta a cada tamaño de uña, aplicación fácil y optima
 - Color intenso y brillante
+- El pincel se adapta a cada tamaño de uña, aplicación fácil y optima
 - Disponible en varios tonos, desde clásicos atemporales hasta los más trendy con efectos particulares
 
 [🛒 Visítala!!!]({{< param buyurl >}})

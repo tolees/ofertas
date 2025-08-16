@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Pantalones largos
 - Cintura elástica interior
 - Logotipo bordado en la parte inferior de la pierna izquierda
-- Pantalones largos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C9R2CLR2{{</world>}}

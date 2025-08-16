@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Amortiguación
-- Respirable
 - Tecnología Dri Fit
+- Respirable
+- Amortiguación
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BQRG48SM{{</world>}}

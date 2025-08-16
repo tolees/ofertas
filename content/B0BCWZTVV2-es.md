@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Juega con el clásico personaje humano ¡o la esperada coprotagonista humana!
-- ¡Usa todas sus habilidades para explorar los secretos de Monster Land!
 - Disfruta de 3 niveles de dificultad apropiados para jugadores ocasionales y expertos, amigos y familias.
+- ¡Usa todas sus habilidades para explorar los secretos de Monster Land!
+- Juega con el clásico personaje humano ¡o la esperada coprotagonista humana!
 - Cambia entre gráficos y sonido modernos y de 8 bits cuando quieras, ¡incluso en plena partida!
 - Tranfórmate el hombre lagarto, el hombre ratón, el hombre piraña, el hombre león, el hombre halcón
 

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Punto doble 100% poliéster reciclado
 - Cintura elástica con cordón
 - Corte clásico con cintura de talle medio
+- Punto doble 100% poliéster reciclado
 - Tecnología transpirable AEROREADY
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

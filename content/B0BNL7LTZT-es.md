@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto adecuado para actividades deportivas
 - Fabricados en parte con materiales reciclados
 - Detalles distintivos de la marca
+- Producto adecuado para actividades deportivas
 - Calcetines cortos tobilleros
 
 [🛒 Visítala!!!]({{< param buyurl >}})

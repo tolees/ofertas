@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- aproximadamente 600 cm² de superficie de la encimera (volumen útil para 2 a 4 personas) placas de aluminio fundido con revestimiento antiadherente
+- Resultados ideales para asar a la parrilla, desde sanguinolentos hasta bien fritos
 - 6 programas de parrilla (hamburguesas, aves, sándwiches, salchichas, filetes y pescado) para ajustar automáticamente la temperatura en función del alimento y lo hacen ideal para cocinar hasta el punto
-- Medir el grosor para regular el proceso de cocción en función del grosor y la cantidad
 - Con un modo manual con 4 ajustes de temperatura, ideal para asar verduras y frutas
+- Medir el grosor para regular el proceso de cocción en función del grosor y la cantidad
 - Si los ingredientes se añaden demasiado pronto o el segundo proceso de cocción no se inicia correctamente, el aparato pasa al modo manual.
 - Nota Para evitar daños, lávelos a mano y con utensilios de cocina de madera, plástico o silicona.
-- Resultados ideales para asar a la parrilla, desde sanguinolentos hasta bien fritos
-- aproximadamente 600 cm² de superficie de la encimera (volumen útil para 2 a 4 personas) placas de aluminio fundido con revestimiento antiadherente
 - Recipiente recolector de jugo grande y placas para asar con un ángulo de 7° para que los jugos de la parrilla puedan escurrirse
 
 [🛒 Comprar!!!]({{< param buyurl >}})

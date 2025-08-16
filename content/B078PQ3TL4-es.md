@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre: Cordones
-- Tipo de tacón: Plano
-- Material de la suela: Goma
-- Material exterior: Cuero
 - Revestimiento: Tela
+- Tipo de tacón: Plano
+- Cierre: Cordones
+- Material exterior: Cuero
+- Material de la suela: Goma
 - Precio mínimo ofrecido por este vendedor en los 30 días anteriores a la oferta: 53.9€
 
 [🛒 Comprar!!!]({{< param buyurl >}})

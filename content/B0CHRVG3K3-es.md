@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Preparado para todo: el Harman Kardon Luna es impermeable y resistente al polvo según la clasificación IP67, diseñado para usarlo tanto en interiores como en exteriores
+- Contenido del envío: 1x Harman Kardon Luna Altavoz portátil con Bluetooth y diseño elegante en gris, 1x cable USB tipo C, 1x guía de inicio rápido, 1x hoja de seguridad
+- Aspecto elegante, diseño de calidad: el altavoz Luna destaca por su silueta elegante y ergonómica, posee detalles de aluminio anodizado de calidad y está hecho parcialmente con materiales reciclados
 - Batería incorporada: con el altavoz portátil Luna te beneficias de hasta 12 hrs de autonomía con 2,5 hrs de recarga. Disfruta de una experiencia de sonido sofisticada donde sea que estés
 - Transmisión por Bluetooth: este altavoz está dotado de la tecnología Bluetooth para que lo conectes con hasta dos dispositivos móviles a la vez. Conecta dos Harman Kardon Lunas para un sonido estéreo
-- Contenido del envío: 1x Harman Kardon Luna Altavoz portátil con Bluetooth y diseño elegante en gris, 1x cable USB tipo C, 1x guía de inicio rápido, 1x hoja de seguridad
-- Preparado para todo: el Harman Kardon Luna es impermeable y resistente al polvo según la clasificación IP67, diseñado para usarlo tanto en interiores como en exteriores
-- Aspecto elegante, diseño de calidad: el altavoz Luna destaca por su silueta elegante y ergonómica, posee detalles de aluminio anodizado de calidad y está hecho parcialmente con materiales reciclados
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CHRVG3K3{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- This terrain pack makes a crashed version of one of these fearsome machines
+- Featuring a variety of debris, including a Sentinel head, a wrecked car, as well as a Roxxon station
+- this pack adds even more thematic depth, letting players play out the Marvel battles they’ve always dreamed of.
 - Enhance Marvel: Crisis Protocol battlefields with the Crashed Sentinel Terrain Pack!
 - Towering robotic enemies of mutant-kind, Sentinels possess advanced energy weapons
-- Featuring a variety of debris, including a Sentinel head, a wrecked car, as well as a Roxxon station
-- This terrain pack makes a crashed version of one of these fearsome machines
-- this pack adds even more thematic depth, letting players play out the Marvel battles they’ve always dreamed of.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09M8D12CJ{{</world>}}

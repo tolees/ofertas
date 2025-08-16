@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Compartimento principal grande y bolsillo interior con cremallera para guardar más cosas
-- Correas para hombros desmontables, con asas de transporte que permiten colgarla del hombro
 - Altura: 30 cm, Ancho: 62 cm, Fondo: 29 cm
 - Elaborada con un poliéster óptimo para viajar
+- Compartimento principal grande y bolsillo interior con cremallera para guardar más cosas
+- Correas para hombros desmontables, con asas de transporte que permiten colgarla del hombro
 - Altura: 30 cm, Ancho: 62 cm, Fondo: 29 cm
 
 [🛒 Visítala!!!]({{< param buyurl >}})

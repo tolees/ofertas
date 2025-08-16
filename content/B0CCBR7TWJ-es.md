@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Descubre el mito de la Isla Calavera mientras desentierras objetos coleccionables, desbloqueas zonas misteriosas de la isla y conoces la historia de los isleños, la exótica flora y fauna y la rica historia de los Kongs.
-- Desata la furia de Kong en combate para asestar devastadores combos con los que dominar a los feroces esbirros de Gaw y desata tácticamente el modo furia para aumentar el impacto de tus ataques contra los gigantescos habitantes subterráneos de la isla.
 - Experimenta los orígenes del huérfano Kong a medida que se metamorfosea de un joven Kong al maduro Rey de la Isla Calavera.
-- Haz que tus enemigos huyan a toda velocidad mientras desatas el escalofriante rugido de Kong y les das el golpe de gracia con ataques finales únicos.
-- Salta y escala terrenos montañosos, lianas isleñas, pantanos, playas exóticas, cuevas ocultas y los diversos terrenos de la jungla-isla en tu búsqueda por vengar la muerte de tus padres.
+- Desata la furia de Kong en combate para asestar devastadores combos con los que dominar a los feroces esbirros de Gaw y desata tácticamente el modo furia para aumentar el impacto de tus ataques contra los gigantescos habitantes subterráneos de la isla.
 - Lleva a Kong a nuevas alturas a través de eventos especiales y una variedad de combates contra jefes que desbloquean todo su potencial de combate.
+- Salta y escala terrenos montañosos, lianas isleñas, pantanos, playas exóticas, cuevas ocultas y los diversos terrenos de la jungla-isla en tu búsqueda por vengar la muerte de tus padres.
+- Haz que tus enemigos huyan a toda velocidad mientras desatas el escalofriante rugido de Kong y les das el golpe de gracia con ataques finales únicos.
+- Descubre el mito de la Isla Calavera mientras desentierras objetos coleccionables, desbloqueas zonas misteriosas de la isla y conoces la historia de los isleños, la exótica flora y fauna y la rica historia de los Kongs.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CCBR7TWJ{{</world>}}

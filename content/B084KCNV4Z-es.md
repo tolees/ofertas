@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cabezal de corte regulable: gracias al cabezal de corte regulable, el cortabordes inalámbrico puede llegar incluso a los bordes de césped de terrazas y caminos con más difícil acceso
+- Corte preciso: el cortabordes Kärcher LTR 18-25 cuenta con un sistema de corte preciso con un diámetro de círculo de corte de 25 cm
+- Prolongación automática del hilo: el hilo de corte del carrete intercambiable se ajusta de forma automática para que su longitud sea óptima a la hora de cortar el césped
 - Trabajo ergonómico: con el mango telescópico y la sujeción para dos manos se favorece una postura de trabajo ergonómica; El cabezal ajustable llega por sí solo a las áreas con acceso más difícil
 - Solo el cuerpo, la batería y el cargador se venden por separado
-- Prolongación automática del hilo: el hilo de corte del carrete intercambiable se ajusta de forma automática para que su longitud sea óptima a la hora de cortar el césped
-- Corte preciso: el cortabordes Kärcher LTR 18-25 cuenta con un sistema de corte preciso con un diámetro de círculo de corte de 25 cm
+- Cabezal de corte regulable: gracias al cabezal de corte regulable, el cortabordes inalámbrico puede llegar incluso a los bordes de césped de terrazas y caminos con más difícil acceso
 - Incluye: Kärcher 18 V cortabordes y carrete de hilo; La batería de 18 V Kärcher y el cargador rápido se venden por separado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

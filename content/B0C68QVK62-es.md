@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Protección de dedos PGUARD
 - Plantilla OrthoLite
+- Protección de dedos PGUARD
 - Tecnología DYNAWING
 
 [🛒 Visítala!!!]({{< param buyurl >}})

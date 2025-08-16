@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Resistentes
-- Unidades: 1.0
 - Con tapa
-- Unidad de medida: unidad
-- Número de items: 1
-- Con aloe vera
 - Producto de alta calidad
+- Unidad de medida: unidad
+- Con aloe vera
+- Unidades: 1.0
+- Número de items: 1
+- Resistentes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01IHEPFSW{{</world>}}

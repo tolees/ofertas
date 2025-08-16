@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bolsillo trasero
-- 70% algodón / 30% poliéster (reciclado)
 - Corte clásico
 - Cintura elástica con cordón
+- Bolsillo trasero
 - Bolsillos laterales
+- 70% algodón / 30% poliéster (reciclado)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09YQ9R2BB{{</world>}}

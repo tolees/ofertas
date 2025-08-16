@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manga corta
-- Bajo plano con puntada a dos agujas
 - Punto grueso
 - Logo Carhartt cosido en el bolsillo
+- Manga corta
+- Bajo plano con puntada a dos agujas
 - Bolsillo lateral
 - Cuello redondo de punto ribeteado
 - Relaxed Fit

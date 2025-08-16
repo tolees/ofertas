@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Pantalones deportivos cortos
 - Fácil de usar
-- boxers
 - Ropa de baño inferior
+- boxers
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0821PJF4J{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 360º Stitching
 - Flexibilidad
 - Ajuste fácil
+- 360º Stitching
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08J1SV1GM{{</world>}}

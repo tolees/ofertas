@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Falda de denim atemporal de tiro medio
 - Bolsillos traseros diseñados para favorecer, igual que los de tus jeans 501 favoritos
 - Con detalles emblemáticos de Levis como la bragueta de botones original
 - Este producto es original Levis
-- Falda de denim atemporal de tiro medio
 - Un básico para el verano
 
 [🛒 Aquí!!!]({{< param buyurl >}})

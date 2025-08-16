@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cierre: Cordones
-- Anchura del zapato: Normal
 - Composición: Canvas
+- Anchura del zapato: Normal
 - Tipo de tacón: Plano
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

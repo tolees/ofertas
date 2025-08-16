@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ⭐ [ ¿CÓMO TOMAR EXTRACTO DE MELENA DE LEÓN DE HSN? ] Tomar 1 cápsula al día. No solo los estudiantes pueden utilizar un extracto de Lions Mane de calidad, ya que el aporte de vitaminas que contiene como el ácido pantoténico contribuye a la síntesis y al metabolismo normal de las hormonas esteroideas, la vitamina D y algunos neurotransmisores.
-- 🌿 [ EXTRACTO HERBAL ESTANDARIZADO ] HSN garantiza un contenido mínimo de 50% en polisacáridos de amplio espectro procedentes del auténtico Hericium erinaceus. Una garantía de máxima calidad para las propiedades más perseguidas del hongo.
-- 🔝 [ MELENA DE LEÓN CÁPSULAS ] Complemento alimenticio en cápsulas vegetales a base de extracto de fruto de hongo de Hericium erinaceus, con vitaminas B5 y B12. Cada cápsula aporta nada menos que una dosis de 300mg de Extracto de Melena de León (LION’S MANE).
 - 🏆 [ MAS POTENCIA ] Para la elaboración de nuestro producto se han empleado 4500mg de fruto del hongo, de modo que su equivalencia sería del 150% más potente que la composición nativa del hongo melena de león. El empleo del extracto en lugar del polvo directamente ofrece una mayor concentración del extracto.
+- 🔝 [ MELENA DE LEÓN CÁPSULAS ] Complemento alimenticio en cápsulas vegetales a base de extracto de fruto de hongo de Hericium erinaceus, con vitaminas B5 y B12. Cada cápsula aporta nada menos que una dosis de 300mg de Extracto de Melena de León (LION’S MANE).
+- ⭐ [ ¿CÓMO TOMAR EXTRACTO DE MELENA DE LEÓN DE HSN? ] Tomar 1 cápsula al día. No solo los estudiantes pueden utilizar un extracto de Lions Mane de calidad, ya que el aporte de vitaminas que contiene como el ácido pantoténico contribuye a la síntesis y al metabolismo normal de las hormonas esteroideas, la vitamina D y algunos neurotransmisores.
 - ☀️ [ ¿POR QUÉ ELEGIR EXTRACTO DE MELENA DE LEÓN DE HSN? ] Nuestro producto ha sido fabricado en España en laboratorio certificado con IFS y empleando buenas prácticas de fabricación (GMP). NO contiene gluten ni lactosa y se encuentra libre de OMG. Disfruta de un auténtico extracto de hongo Hericium erinaceus, especie certificada para garantizar la máxima efectividad en base a la investigación científica que existe del campo de estudio nootrópico.
+- 🌿 [ EXTRACTO HERBAL ESTANDARIZADO ] HSN garantiza un contenido mínimo de 50% en polisacáridos de amplio espectro procedentes del auténtico Hericium erinaceus. Una garantía de máxima calidad para las propiedades más perseguidas del hongo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BY2RG54T{{</world>}}

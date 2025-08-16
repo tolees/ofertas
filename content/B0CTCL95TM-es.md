@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Personalización: Innumerables opciones de piloto, con personajes y atributos generados proceduralmente, cuatro naves únicas y una docena de mejoras para equipar.
 - Configuración de Dificultad: Cuatro niveles de dificultad, siendo el más alto, insano, aumentando las apuestas con la muerte permanente.
+- Lunar Lander Beyond Deluxe incluye: Un Steelbook exclusivo, Un libro de arte exclusivo con cubierta blanda, El juego físico, Y todos los contenidos empaquetados dentro de una caja coleccionable.
 - Hermosa Arte: un lujoso paisaje de ciencia ficción en el estilo único y dibujado a mano de Dreams Uncorporated.
 - Campaña Profunda: Enfrenta 30 misiones en cinco lunas y planetas: Nueva Luna, Marte, Venus, Ganimedes y el misterioso Etimus.
-- Lunar Lander Beyond Deluxe incluye: Un Steelbook exclusivo, Un libro de arte exclusivo con cubierta blanda, El juego físico, Y todos los contenidos empaquetados dentro de una caja coleccionable.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CTCL95TM{{</world>}}

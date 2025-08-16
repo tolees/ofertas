@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Goldcrown
 - Espuma viscoelástica refrigerada por aire
+- Goldcrown
 - Zapatillas cómodas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

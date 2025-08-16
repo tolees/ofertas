@@ -29,12 +29,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Un clásico de Talisker, un whisky single malt de la isla de Skye
-- El sutil toque ahumado de Talisker 10 años es para disfrutarlo solo o con hielo
-- Destilado dos veces y envejecido un mínimo de diez años en barricas de roble americano, la primera destilación brinda la complejidad y el toque de pimienta a este whisky
-- Talisker 10 años es el whisky de la familia Talisker, recientemente galardonado con doble medalla de oro por cuarto año consecutivo en la San Francisco World Spirits Competition 2020
 - El premiado whisky escocés puro de malta Talisker es un homenaje a su lugar de origen: el mar; elaborado desde 1830 en la isla de Skye, en la destilería del mundo situada a orillas del mar, es un whisky para espíritus salvajes con un característico toque salado, notas ahumadas o de turba
-- Graduación alcohólica: 45.8 %
+- Destilado dos veces y envejecido un mínimo de diez años en barricas de roble americano, la primera destilación brinda la complejidad y el toque de pimienta a este whisky
 - Sabores suaves y ahumados y marinos, ligeramente picantes con una sensación reconfortante al final
+- El sutil toque ahumado de Talisker 10 años es para disfrutarlo solo o con hielo
+- Talisker 10 años es el whisky de la familia Talisker, recientemente galardonado con doble medalla de oro por cuarto año consecutivo en la San Francisco World Spirits Competition 2020
+- Graduación alcohólica: 45.8 %
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B002EPBL1Q{{</world>}}

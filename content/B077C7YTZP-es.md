@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Producto de la marca Converse
-- Detalles modernos
 - La tapa de goma del dedo del pie
 - De alta calidad
+- Detalles modernos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B077C7YTZP{{</world>}}

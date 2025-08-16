@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Revestimiento: Sintético
-- Cierre: Cremallera
 - Composición: Sintético
+- Cierre: Cremallera
+- Revestimiento: Sintético
 - Material exterior: Sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

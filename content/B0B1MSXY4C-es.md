@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cintura elástica
-- Sostenibilidad: Esta prenda está confeccionada con algodón orgánico certificado. Los agricultores implicados siguen prácticas de agricultura ecológica. Por lo tanto, no se han utilizado fertilizantes y pesticidas químicos ni semillas modificadas genéticamente.
-- Logotipo KARL en la cadera izquierda
-- Juego de tres bañadores
 - Tejido Jersey
+- Juego de tres bañadores
+- Sostenibilidad: Esta prenda está confeccionada con algodón orgánico certificado. Los agricultores implicados siguen prácticas de agricultura ecológica. Por lo tanto, no se han utilizado fertilizantes y pesticidas químicos ni semillas modificadas genéticamente.
+- Cintura elástica
+- Logotipo KARL en la cadera izquierda
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B1MSXY4C{{</world>}}

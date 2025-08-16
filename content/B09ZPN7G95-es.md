@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Enfoque LiDAR - El nuevo telémetro LiDAR (RS) proyecta 43 200 puntos de medición para permitir una detección de enfoque avanzado y preciso en un rango de 14 m.
-- Bloqueo automático de los ejes - Los tres ejes de DJI RS 3 Pro se pueden bloquear y desbloquear automáticamente con solo pulsar el botón de encendido, lo que mejora considerablemente la velocidad y la eficiencia de las transmisiones y el almacenamiento.
-- Solución dinámica y versátil - Los puertos extensivos y el protocolo SDK DJI RS permiten conectar el RS 3 Pro a múltiples accesorios y utilizarlo con soportes para vehículos, grúas, steadicams, etc.
-- Este pack incluye además el transmisor de imagen Ronin, motor Focus (2022), placa inferior de liberación rápida (extendida) y otros accesorios.
-- Brazos de los ejes prolongados de fibra de carbono - Proporciona más espacio de nivelación para cámaras profesionales y permite montar combinaciones profesionales como Sony FX6 y Canon C70 con objetivos 24-70 mm F2.8, para aumentar las posibilidades creativas de los usuarios.
 - Transmisión de vídeo O3 Pro de larga distancia[2] - El RS 3 Pro puede personalizarse y adaptarse a una amplia variedad de escenarios para ayudar a los usuarios a lograr las tomas que necesitan de manera precisa y eficaz.
+- Solución dinámica y versátil - Los puertos extensivos y el protocolo SDK DJI RS permiten conectar el RS 3 Pro a múltiples accesorios y utilizarlo con soportes para vehículos, grúas, steadicams, etc.
 - Carga probada de 4.5 kg - Con solo 1.5 kg de peso (incluidos estabilizador, empuñadura con batería y placas de liberación rápida de doble capa), DJI RS 3 Pro ofrece una carga probada máx. de 4.5 kg.
+- Brazos de los ejes prolongados de fibra de carbono - Proporciona más espacio de nivelación para cámaras profesionales y permite montar combinaciones profesionales como Sony FX6 y Canon C70 con objetivos 24-70 mm F2.8, para aumentar las posibilidades creativas de los usuarios.
+- Bloqueo automático de los ejes - Los tres ejes de DJI RS 3 Pro se pueden bloquear y desbloquear automáticamente con solo pulsar el botón de encendido, lo que mejora considerablemente la velocidad y la eficiencia de las transmisiones y el almacenamiento.
+- Este pack incluye además el transmisor de imagen Ronin, motor Focus (2022), placa inferior de liberación rápida (extendida) y otros accesorios.
+- Enfoque LiDAR - El nuevo telémetro LiDAR (RS) proyecta 43 200 puntos de medición para permitir una detección de enfoque avanzado y preciso en un rango de 14 m.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09ZPN7G95{{</world>}}

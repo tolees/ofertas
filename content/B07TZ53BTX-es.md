@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- No cargar o put en el pie.
-- 1,5 V – Larga potencia de lacado.
 - Philips Power Alkaline AAA Battery Pack - Pack de 4 paquetes
+- 1,5 V – Larga potencia de lacado.
+- No cargar o put en el pie.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07TZ53BTX{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dimensiones del producto: 10 x 5 x 25 cm
-- Secador de pelo
 - Número de modelo del producto: 8021233132278
 - facil de usar
+- Secador de pelo
+- Dimensiones del producto: 10 x 5 x 25 cm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07C92KMSH{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Aplicar en las zonas sensibles antes de la exposición solar. Renovar, especialmente después de bañarse.
 - Stick Zonas Sensibles ofrece alta protección solar contra los rayos UVA y UVB en áreas sensibles (nariz, pómulos, labios) o fragilizadas (quemaduras, heridas, cicatrices).
 - La siguiente información se aplica a cada unidad del paquete
-- Aplicar en las zonas sensibles antes de la exposición solar. Renovar, especialmente después de bañarse.
 - Piel sensible protegida del sol y el envejecimiento. Stick mate invisible.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

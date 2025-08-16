@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela: goma
 - Cierre: cordones
+- Suela: goma
 - Material interior: textil
 - Material exterior: piel
 

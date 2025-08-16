@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto adecuado para tu bicicleta
 - Producto de calidad óptima
+- Producto adecuado para tu bicicleta
 - Fácil de montar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tiene un diámetro interior de 31.5 mm
 - Filtro de aceite Mahle con un diámetro total de 64.5 mm
-- Modelo con aplicación para vehículos producidos por BMW
 - Recomendado para montaje especializado
+- Modelo con aplicación para vehículos producidos por BMW
+- Tiene un diámetro interior de 31.5 mm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B004JBW4QY{{</world>}}

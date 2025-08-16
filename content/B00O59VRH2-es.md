@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Esta lámpara colgante se fabrica en negro mate; Un bonito contraste gracias al interior de la pantalla en cobre
-- Dimensiones: Altura máximo 110 cm, diámetro: 37 cm
 - Esta lámpara sirve bien como decoración para salones de estilo vintage, retro, casas de campo, cottage chic o diseño escandinavo
 - Bombillla no incluida, se puede adquirir por separado bajo el nombre de EGLO 110052; Apto para cualquier bombilla con portalámparas E27, potencia máxima de 60W
+- Dimensiones: Altura máximo 110 cm, diámetro: 37 cm
+- Esta lámpara colgante se fabrica en negro mate; Un bonito contraste gracias al interior de la pantalla en cobre
 - Elegante lámpara de diseño industrial óptima para uso en interiores, como en el salón, la cocina, en el comedor, o encima de la mesa
 
 [🛒 Visítala!!!]({{< param buyurl >}})

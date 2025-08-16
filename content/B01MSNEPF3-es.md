@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Mantiene el café caliente hasta 30 minutos
 - Piloto luminoso de funcionamiento
 - Filtro permanente extraíble y protección antigoteo
-- Mantiene el café caliente hasta 30 minutos
 - Cafetera de goteo con capacidad para 6 tazas de café de 650 W de potencia
 - Depósito con indicador de nivel de agua
 

@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Conservar en lugar fresco y seco
 - Dulces de regaliz, sabor fresa
-- Las chuches de toda la vida
-- Deliciosas piezas largas en forma de stick
-- Intenso sabor a fresa
-- ¡Ahora más grandes!
 - Disfruta en casa de la alegría y diversión en cualquier momento
+- Intenso sabor a fresa
+- Las chuches de toda la vida
+- ¡Ahora más grandes!
+- Deliciosas piezas largas en forma de stick
+- Conservar en lugar fresco y seco
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C6DTHM8T{{</world>}}

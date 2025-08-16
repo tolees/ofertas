@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Material interior: poliuretano
 - Cierre: cordones
 - Suela: goma
-- Material interior: poliuretano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B61NHGC4{{</world>}}

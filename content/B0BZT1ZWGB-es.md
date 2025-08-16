@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Su fórmula vegana está enriquecida con extracto de granada y aceite de jojoba
-- Tiene una duración testada de hasta 10 horas; la textura suave y ligera no-transfer se funde en los labios y proporciona una sensación inmediata de confort
 - La pigmentación es intensa y la cobertura modulable
+- Tiene una duración testada de hasta 10 horas; la textura suave y ligera no-transfer se funde en los labios y proporciona una sensación inmediata de confort
+- Su fórmula vegana está enriquecida con extracto de granada y aceite de jojoba
 - Dermatológicamente testado
 - Perfecto para envolver los labios con un sofisticado velo opaco
 

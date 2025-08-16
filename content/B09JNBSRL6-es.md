@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 1369826-001-MD
-- Hombre
 - Guantes de entrenamiento para hombre
+- Hombre
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09JNBSRL6{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sole con ritmo
-- Espuma suave debajo del pie
 - Malla ligera y transpirable
+- Espuma suave debajo del pie
+- Sole con ritmo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B9SYGFWH{{</world>}}

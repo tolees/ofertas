@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- [Suministra alimentación a todos tus dispositivos esenciales] Con una potencia de hasta 1000 W, podrás utilizar 9 dispositivos esenciales de forma simultánea sin preocuparte porque haya una sobrecarga. Con una gran variedad de puertos, desde tomas de corriente de 500 W hasta el puerto USB-C, hemos cubierto todos los enchufes de tu dispositivo.
-- [La carga más rápida del sector] Carga completa mediante una toma de CA en solo 1 hora con la tecnología de carga rápida X-Stream de EcoFlow.
-- [Ligera y portátil] Con un peso reducido de solo 6 kg, la RIVER 2 Max es el generador para exteriores ideal para todas tus aventuras sin conexión a la red eléctrica. Con un asa integrada, esta batería portátil es fácil y cómoda de llevar allí donde necesites energía.
-- [Carga rápida mediante energía solar] Utiliza energía renovable limpia y ecológica para cargar la RIVER 2 Max en tan solo 3 horas con una entrada solar de 220 W.
 - [Batería LFP de larga duración] Con las celdas de batería LFP, utiliza y carga la RIVER 2 Max más de 3000 veces antes de que su capacidad descienda al 80 %. Eso equivale a prácticamente 10 años de uso regular. RIVER 2 Max incluye protección BMS avanzada, control de tensión, corriente y temperatura para mantener tu batería LFP en funcionamiento durante años.
+- [Carga rápida mediante energía solar] Utiliza energía renovable limpia y ecológica para cargar la RIVER 2 Max en tan solo 3 horas con una entrada solar de 220 W.
+- [Ligera y portátil] Con un peso reducido de solo 6 kg, la RIVER 2 Max es el generador para exteriores ideal para todas tus aventuras sin conexión a la red eléctrica. Con un asa integrada, esta batería portátil es fácil y cómoda de llevar allí donde necesites energía.
+- [La carga más rápida del sector] Carga completa mediante una toma de CA en solo 1 hora con la tecnología de carga rápida X-Stream de EcoFlow.
+- [Suministra alimentación a todos tus dispositivos esenciales] Con una potencia de hasta 1000 W, podrás utilizar 9 dispositivos esenciales de forma simultánea sin preocuparte porque haya una sobrecarga. Con una gran variedad de puertos, desde tomas de corriente de 500 W hasta el puerto USB-C, hemos cubierto todos los enchufes de tu dispositivo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BFQB86ZL{{</world>}}

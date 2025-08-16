@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Adecuada para practicar deporte
 - Camiseta de manga corta
+- Adecuada para practicar deporte
 - Con cuello redondo
 - Detalles distintivos de la marca
 

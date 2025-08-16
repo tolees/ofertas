@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Apta para lavavajillas
 - Con temporizador de 60 minutos
 - Luz indicadora de temperatura
-- Apta para lavavajillas
 - Con un sistema patentado de bandejas apilables sobre la base
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Verduras 9 cm
-- Limpia, pela y corta pequeñas frutas y verduras
 - Pequeño de hoja fuerte, filo liso y punta estable
 - Acero inoxidable, mango de polipropileno
+- Limpia, pela y corta pequeñas frutas y verduras
+- Verduras 9 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00ET4XMKS{{</world>}}

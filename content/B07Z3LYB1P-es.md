@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Excelente para el uso diario.
 - Gramaje: 500 g/m² (+/-5%).
-- Con certificación OEKO-TEX-100 Standard.
 - Dimensiones aprox. 50 x 90
+- Con certificación OEKO-TEX-100 Standard.
 - 100% algodón.
+- Excelente para el uso diario.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07Z3LYB1P{{</world>}}

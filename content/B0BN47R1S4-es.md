@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Capacidad de extracción máxima – mínima (Reg.(UE) nº65/2014): 650m3/h - 140m3/h
 - Nivel sonoro (Reg.(UE) nº65/2014): 40dB(A), máximo: 64dB(A)
-- Ancho de 77 cm
-- 5 niveles de extracción, 4 + 1 TURBO
 - Panel de Control Táctil con temporizador de desconexión automática e indicador de limpieza de filtros
+- Capacidad de extracción máxima – mínima (Reg.(UE) nº65/2014): 650m3/h - 140m3/h
+- 5 niveles de extracción, 4 + 1 TURBO
+- Ancho de 77 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BN47R1S4{{</world>}}

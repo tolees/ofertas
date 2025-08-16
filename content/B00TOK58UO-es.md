@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cuenta con un cubo cueva con dos salidas y una plataforma de observación
-- Producto para gatos
 - El V-BASE es el lugar ideal para que los gatos jueguen y descansen
-- Es el sitio ideal para que tu gato juegue, descanse y pueda satisfacer el instinto natural de rascar, mientras combina armónicamente en la decoración de cualquier hogar moderno
 - El V-BASE la combinación de algas marinas, tablas de densidad media y el color blanquecino hace que esta pieza de mobiliario para rascar tenga un aspecto vivaz y robusto
+- Es el sitio ideal para que tu gato juegue, descanse y pueda satisfacer el instinto natural de rascar, mientras combina armónicamente en la decoración de cualquier hogar moderno
+- Producto para gatos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00TOK58UO{{</world>}}

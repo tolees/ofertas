@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Fabricado en República Checa , Facil de limpiar
 - Reciclable , Ecológico , Borde fino , Material 100% saludable , 100% higiénico , No poroso , Larga duración
+- 6 copas 36 cl
 - Apto lavavajillas
 - Apto Frigorífico
-- 6 copas 36 cl
-- Fabricado en República Checa , Facil de limpiar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07ZTWB1PR{{</world>}}

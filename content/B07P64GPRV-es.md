@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Solaire Haute Protection Spray Enfant Spf50+ 200 Ml
-- Productos de belleza e higiene para mujer y hombre.
 - Productos de cuidado personal para tu día a día.
+- Productos de belleza e higiene para mujer y hombre.
+- Solaire Haute Protection Spray Enfant Spf50+ 200 Ml
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07P64GPRV{{</world>}}

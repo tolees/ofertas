@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Volumen de suministro: prismáticos, estuche, correa flotante, manual
-- Dimensiones del prismático: 150x1310x55 mm, Peso: 710 g
-- Diseño óptico: prisma de techo, prismas hechos de vidrio BaK-4, multi-recubrimiento completo
 - Campo de visión: 101 m, rosca de trípode, rueda de enfoque de fácil uso
+- Diseño óptico: prisma de techo, prismas hechos de vidrio BaK-4, multi-recubrimiento completo
+- Dimensiones del prismático: 150x1310x55 mm, Peso: 710 g
 - Estos prismáticos a prueba de agua incluyen una correa flotante por lo que son los compañeros ideales para los amantes del agua
 
 [🛒 Aquí!!!]({{< param buyurl >}})

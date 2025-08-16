@@ -30,10 +30,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Funda acolchada para portátiles de hasta 15 pulgadas
 - Asas para transportarla
-- Confeccionada en 100 % nailon
 - Correa desmontable para el hombro
-- El compartimento principal dispone de un bolsillo delantero con cremallera y un organizador integrado
 - Alto: 27,5 cm Ancho: 38 cm Fondo: 10,5 cm
+- Confeccionada en 100 % nailon
+- El compartimento principal dispone de un bolsillo delantero con cremallera y un organizador integrado
 - En nuestra gama de colores Black Denim
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

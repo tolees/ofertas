@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto cómodo
 - PUMA CHALLENGER AOP - Bolsa de deporte pequeña
+- Producto cómodo
 - Duradero y resistente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

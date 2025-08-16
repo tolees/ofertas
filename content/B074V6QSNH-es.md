@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Se puede usar con una batería de 5.0 ah (no incluida)
+- Viene con mango lateral, mango sin llave y llave de cuchilla
 - Cuenta con protección contra sobornos, cortes y ráfagas de ruedas
 - Motor sin escobillas de 18 v
-- Viene con mango lateral, mango sin llave y llave de cuchilla
-- Se puede usar con una batería de 5.0 ah (no incluida)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B074V6QSNH{{</world>}}

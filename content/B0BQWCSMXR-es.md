@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- corte normal
 - Cuello redondo
+- corte normal
 - Camiseta de manga corta
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

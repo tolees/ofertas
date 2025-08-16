@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ofrece una comodidad óptima
 - Este producto es original Levis
+- Ofrece una comodidad óptima
 - Adecuada para días calurosos
 - Tiene un diseño casual
 

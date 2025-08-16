@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material de la suela: goma
-- Suela: plana
-- Forro: textil
-- Ancho del zapato: medio
 - Cierre: cordones
-- Tipo de tacón: plano
+- Suela: plana
+- Material de la suela: goma
+- Ancho del zapato: medio
 - Parte superior: lona
+- Tipo de tacón: plano
+- Forro: textil
 - Plantilla: sintética
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ❤️【EFECTO CALMANTE 】Luz roja: tiene un efecto calmante y ayuda a disminuir la aparición de arrugas y líneas de expresión.
-- ❤️【TERAPIA DE LUZ 】Podrás poner la luz roja o la azul en función de los objetivos que quieras lograr.
 - ❤️【 EFECTO ANTIFATIGA 】Luz azul: tiene un efecto antifatiga y tensor de la piel, aportándole firmeza.
-- ❤️【 TERAPIA VIBRACIÓN 】La terapia de vibración relaja los músculos de la zona de los ojos, evitando la apariencia de cansancio.
 - ❤️【MASAJEADOR DE OJOS TERAPIA TRIPLE ACCIÓN 】Ayuda a reducir las antiestéticas ojeras, bolsas y patas de gallo en el contorno de los ojos, dándole a la mirada un aire más radiante y juvenil.
+- ❤️【TERAPIA DE LUZ 】Podrás poner la luz roja o la azul en función de los objetivos que quieras lograr.
+- ❤️【 TERAPIA VIBRACIÓN 】La terapia de vibración relaja los músculos de la zona de los ojos, evitando la apariencia de cansancio.
+- ❤️【EFECTO CALMANTE 】Luz roja: tiene un efecto calmante y ayuda a disminuir la aparición de arrugas y líneas de expresión.
 - ❤️【 TERAPIA TÉRMICA 】La terapia térmica gracias al efecto calor facilita la absorción y penetración en la piel de los productos de cuidado facial, potenciando sus efectos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

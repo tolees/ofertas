@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - No retiene ni transmite sabores. Resistente al agua, a los zumos, a las bebidas isotónicas y con gas
 - Hermético, reutilizable y 100% reciclable. Funda disponible
-- Lavado a mano recomendado (cuello estrecho). No utilizar con bebidas calientes
 - Sin bisfenol, ftalatos, plomo u otras sustancias perjudiciales. Revestimiento interior de poliamida
+- Lavado a mano recomendado (cuello estrecho). No utilizar con bebidas calientes
 - Botella de Laken en aluminio ligero con tapón de rosca, cuello estrecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})

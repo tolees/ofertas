@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tipo de uva: Elaborado con una selección de uvas Tempranillo, Mazuelo, Graciano y Garnacha cuatro uvas autóctonas de la Rioja. Sigue un proceso de maduración de 12 meses en barricas de roble americano. Consumo: Para disfrutar de sus cualidades óptimas, recomendamos su consumo a 16 ºC y conservarlo en un lugar fresco y seco. Maridaje: Este vino tinto se puede acompañar de carnes como el venado en salsa, riñones al vino tinto o empanada de atún, así como de quesos como el Manchego.
+- La cosecha puede variar!
 - BODEGAS MARQUÉS DE CARRIÓN S.A. Ctra. De Logroño, s/n La Bastida 01330 Álava R.E. 0140124-VI.
 - Apariencia: Vino tinto de color rubí intenso con capa media alta brillante. Gusto: En boca es suave y sabroso con una textura tánica agradable. Se percibe un sabor a cacao picante, café tostado en grano y vainilla. Los sabores tostados perduran en el final. Aroma: Presenta un perfil aromático con toques frutales, de bayas rojas con perfumes de vainilla y especias
-- La cosecha puede variar!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00M6OMP1K{{</world>}}

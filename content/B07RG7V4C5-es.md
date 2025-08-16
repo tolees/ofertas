@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 2 años de garantía Invicta
 - Este modelo es parte de la colección Invicta Pro Diver
-- El Invicta 30025 tiene una caja de acero inoxidable de 43 millimetros con una esfera oro
 - Resistencia a la presión de aqua de 10 bares
 - Esta modelo funciona con un movimiento de Cuarzo preciso
+- 2 años de garantía Invicta
+- El Invicta 30025 tiene una caja de acero inoxidable de 43 millimetros con una esfera oro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07RG7V4C5{{</world>}}

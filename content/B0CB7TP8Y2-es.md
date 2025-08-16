@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Parte superior en piel
 - Cierre con cordones
+- Parte superior en piel
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CB7TP8Y2{{</world>}}

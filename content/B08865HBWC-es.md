@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- OS: Android 10
-- Batería: 5020 mAh
 - Cámara: Cuádruple, 48MP+8MP +2MP+2MP
+- Batería: 5020 mAh
 - Pantalla: 6.53", 1080 x 2340 pixels
+- OS: Android 10
 - Procesador: Mediatek Helio G85 2GHz
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

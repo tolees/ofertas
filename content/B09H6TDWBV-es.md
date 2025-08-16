@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sudadera para hombre
 - Tiene detalles distintivos de la marca
-- Tela suave
 - Ajuste regular
+- Sudadera para hombre
+- Tela suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09H6TDWBV{{</world>}}

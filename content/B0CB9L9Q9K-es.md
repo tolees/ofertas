@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Isótipo icónico lateral
 - Estabilizador personalizado y logotipo clásico lateral
 - Cómoda suela de goma y espuma EVA
 - Correr zapatillas retro con detalles de cuero
-- Isótipo icónico lateral
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CB9L9Q9K{{</world>}}

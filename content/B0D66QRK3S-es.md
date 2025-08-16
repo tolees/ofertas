@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dermatológicamente testado No comedogénico
-- Fórmula enriquecida con ácido hialurónico y niacinamida
 - Protege e hidrata la piel del rostro, proporciona confort y se absorbe rápidamente sin dejar rastros
-- Resistente al agua
+- Fórmula enriquecida con ácido hialurónico y niacinamida
 - Textura de crema ligera e imperceptible, dermatológicamente testada e hidratante, superagradable en la piel
+- Resistente al agua
+- Dermatológicamente testado No comedogénico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D66QRK3S{{</world>}}

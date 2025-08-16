@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Explora diversos paisajes, ciudades y mucho más en un mundo basado en la mitología.
-- ¡Disfruta de más de 30 horas de contenido de historia y misiones secundarias opcionales!
-- Sword and Fairy: Together Forever (Edición Estándar) incluye Juego, Banda Sonora Digital, DLC Atuendos de Estilo Moderno, Temas dinámicos personalizados para PS4 y Standees de los Protagonistas en Cartón
 - Explora diversos paisajes, ciudades y mucho más en un mundo basado en la mitología.
+- Sword and Fairy: Together Forever (Edición Estándar) incluye Juego, Banda Sonora Digital, DLC Atuendos de Estilo Moderno, Temas dinámicos personalizados para PS4 y Standees de los Protagonistas en Cartón
 - ¡Lucha en tiempo real y pasa de un jugador de tu grupo a otro al instante!
+- ¡Disfruta de más de 30 horas de contenido de historia y misiones secundarias opcionales!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CPJRFBR9{{</world>}}

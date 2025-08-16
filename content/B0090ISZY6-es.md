@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Pack 24 latas de 33 cl cada una: cerveza San Miguel Especial, cerveza lata dorada lager, elaborada con experiencias, conquistando el mundo gracias a su sabor y espíritu aventurero desde 1890, con 5.4% de alcohol. Para un mayor disfrute se recomienda consumir entre 4º y 6º C
 - Sabor Equilibrado y Complejo: Descubre el sabor pleno de la cerveza San Miguel Especial fresca, con su cuerpo robusto, amargor moderado y final seco. Una elección perfecta para quienes buscan una experiencia cervecera única
 - Apariencia Brillante y Cremosa: Disfruta de la cerveza San Miguel Especial Lager, con su color dorado y espuma cremosa, ideal para los amantes de las cervezas lager
 - Tradición y Renombre Internacional: Sumérgete en la historia de San Miguel Especial, la primera cerveza especial de España, con su combinación única de maltas Pilsen y tostadas. Con su reconocido éxito a nivel mundial, San Miguel es la elección preferida por su calidad y sabor incomparables. San Miguel bebida refrescante de Calidad, de sabor suave y calidad Premium
 - Aroma Delicado y Frutal: Experimenta los aromas sutiles de la cerveza San Miguel Especial, con notas de levadura, frutas blancas como el plátano y la manzana, y un toque floral que cautivará tus sentidos
-- Pack 24 latas de 33 cl cada una: cerveza San Miguel Especial, cerveza lata dorada lager, elaborada con experiencias, conquistando el mundo gracias a su sabor y espíritu aventurero desde 1890, con 5.4% de alcohol. Para un mayor disfrute se recomienda consumir entre 4º y 6º C
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0090ISZY6{{</world>}}

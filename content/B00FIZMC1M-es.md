@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 0, nylon
 - Diámetro: 4 mm
 - Krone 10 m
-- 0, nylon
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00FIZMC1M{{</world>}}

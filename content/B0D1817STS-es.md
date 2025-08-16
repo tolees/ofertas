@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - NO se ADHIEREN a la herida.
-- RESISTENTES al AGUA.
-- Pikachu, Charmander, Squirtle, Bulbasaur y el resto de Pokémon están impresos con un efecto de “tatuaje” y alegran los días de tus pequeños aventureros.
-- 16 apósitos precortados de dos tamaños y 8 diseños (2x6cm y 3,5x5cm).
 - Apósitos para la protección de HERIDAS SUPERFICIALES.
+- 16 apósitos precortados de dos tamaños y 8 diseños (2x6cm y 3,5x5cm).
+- Pikachu, Charmander, Squirtle, Bulbasaur y el resto de Pokémon están impresos con un efecto de “tatuaje” y alegran los días de tus pequeños aventureros.
+- RESISTENTES al AGUA.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D1817STS{{</world>}}

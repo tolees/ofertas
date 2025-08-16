@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Vegano
 - Plantilla de espuma viscoelástica
-- Charitable
 - Lavable a máquina
+- Charitable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07NJNW4PL{{</world>}}

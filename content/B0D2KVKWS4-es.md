@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo icónico F-BOX en el lateral.
 - Silueta clásica de tenis. La suela de goma proporciona tracción y durabilidad.
+- Logotipo icónico F-BOX en el lateral.
 - PCF = Pro Comfort Foam Insock.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

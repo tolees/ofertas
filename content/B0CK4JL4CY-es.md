@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolso pequeño (con correa de hombro extraíble)
-- 20 cm de altura x 39 cm de ancho x 18.5 de profundidad
+- De poliéster reciclado
 - Repelente al agua
 - 0.46 kg
-- De poliéster reciclado
+- 20 cm de altura x 39 cm de ancho x 18.5 de profundidad
+- Bolso pequeño (con correa de hombro extraíble)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CK4JL4CY{{</world>}}

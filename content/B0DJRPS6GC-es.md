@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Sintéticos reciclados
 - Material exterior: 52% PET reciclado 48% piel de vacuno
 - Forro: 63% piel de cerdo - 37% tela (100% poliéster reciclado)
 - Color: gris pastel
-- Sintéticos reciclados
 - Suela: 100% caucho vulcanizado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

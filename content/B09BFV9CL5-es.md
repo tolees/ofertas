@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- recargable, cable de carga USB incluido
 - Control de aplicaciones y Bluetooth
+- recargable, cable de carga USB incluido
 - 2 potentes motores a prueba de agua
 - silicona suave para el cuerpo
 - también se puede controlar sin la aplicación

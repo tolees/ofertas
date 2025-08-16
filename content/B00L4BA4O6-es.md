@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Diseño con espalda cruzada
 - Modelo sin forro y sin relleno
 - Banda inferior elástica distintiva de Calvin Klein
-- Diseño con espalda cruzada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00L4BA4O6{{</world>}}

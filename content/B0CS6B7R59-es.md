@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Adecuado para el día a día
-- Insignia del monograma TH en la parte delantera
 - Con 2 asas superiores
+- Insignia del monograma TH en la parte delantera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CS6B7R59{{</world>}}

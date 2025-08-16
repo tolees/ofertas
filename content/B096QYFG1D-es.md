@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- SEGURIDAD: El cierre superior de nailon de gran calidad ayuda a evitar que nuestras baterías tengan fugas
+- AA y AAA fabricadas en Bélgica; disponibles en tamaños AA, AAA, C, D, 4,5 V y 9 V
+- HASTA UN 100% DE DURACIÓN EXTRA*.
+- *Rendimiento de la longevidad en comparación con la duración media mínima de la prueba de cámaras digitales AA de la IEC de 2015 y de juguetes motorizados de la IEC AAA de 2015 . Los resultados pueden variar según el dispositivo o el tipo de uso (sitio web de la IEC)).
 - Las pilas Duracell Plus son unas pilas alcalinas multiuso idóneas para dispositivos de uso cotidiano
 - El 98% de nuestros packs de cartón están fabricados con materiales reciclados.
-- AA y AAA fabricadas en Bélgica; disponibles en tamaños AA, AAA, C, D, 4,5 V y 9 V
-- *Rendimiento de la longevidad en comparación con la duración media mínima de la prueba de cámaras digitales AA de la IEC de 2015 y de juguetes motorizados de la IEC AAA de 2015 . Los resultados pueden variar según el dispositivo o el tipo de uso (sitio web de la IEC)).
-- HASTA UN 100% DE DURACIÓN EXTRA*.
-- SEGURIDAD: El cierre superior de nailon de gran calidad ayuda a evitar que nuestras baterías tengan fugas
 - DURABILIDAD: La tecnología Duracell mantiene la energía de las pilas no utilizadas hasta 10 años en su embalaje (almacenamiento a temperatura ambiente)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

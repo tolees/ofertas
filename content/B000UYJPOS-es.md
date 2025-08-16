@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alta calidad
 - Producto de calidad
+- Alta calidad
 - Brand: HITACHI
 - Diseño funcional
 

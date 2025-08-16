@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Peso: 224 g (talla 38 2/3)
+- Suela de goma y TPU para todo tipo de superficies
 - Empeine textil y de malla sintética
 - Contiene al menos un 20% de material reciclado
-- Forro textil y sintético
-- Horma clásica
-- Drop: 6 mm (talón: 33 mm / antepié: 27 mm)
 - Amortiguación Lightstrike
-- Suela de goma y TPU para todo tipo de superficies
+- Horma clásica
+- Peso: 224 g (talla 38 2/3)
+- Drop: 6 mm (talón: 33 mm / antepié: 27 mm)
+- Forro textil y sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CYTC359K{{</world>}}

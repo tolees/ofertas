@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Bragueta con cremallera
+- Dobladillo doblado
 - Etiqueta con logotipo PEPEJEANS en el pequeño bolsillo para monedas
 - Costuras decorativas en los bolsillos traseros
-- Dobladillo doblado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CB4D2PRB{{</world>}}

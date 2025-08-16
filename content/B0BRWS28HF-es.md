@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El chino es el último pantalón versátil, fabricado para cualquier situación y construido para la vida real
 - Un panel versátil integrado con un estilo effortless, un tacto de elástico y un tejido cómodo, perfecto para una cita informal o para complementar una blazer en una fiesta de oficina
+- El chino es el último pantalón versátil, fabricado para cualquier situación y construido para la vida real
 - Diseñado con nuestro ajuste delgado. Nuestro ajuste de cierre de cierre, corte suave
 - These one are made with our Smart 360 Flex 4 way stretch fabric for a chino that moves like no other
 

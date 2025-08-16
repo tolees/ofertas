@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Interruptor luminoso de encendido y apagado y filtro antical extraíble y lavable
+- Diseño mini de 1 L en acero inoxidable, color crema
 - Ahorra hasta un 66% de electricidad
 - Potencia de 2400 W
-- Diseño mini de 1 L en acero inoxidable, color crema
 - Hierve 1 taza en poco más de 50 segundos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

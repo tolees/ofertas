@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Sensor HERO: El sensor HERO de próxima generación ofrece hasta 10 veces más eficiencia energética que las generaciones anteriores. Este sensor óptico es capaz de una precisión y capacidad de respuesta excepcionales con una precisión de 400 ips y una sensibilidad de hasta 12.000 DPI.
-- Ultra-Ligero: En Logitech G, un ratón inalámbrico para gaming no tiene que ser pesado. G305 es muy ligero, apenas pesa 99 gramos con su diseño mecánico ligero y al uso ultra eficiente de la pila
 - Duración de Pilas Extralarga: El sensor HERO y la tecnología inalámbrica LIGHTSPEED ofrecen una eficiencia extrema, permite hasta 250 horas de uso con una sola pila AA
-- Juega en Cualquier Lugar: El diseño ligero, compacto y duradero, y el almacenamiento integrado para el nano receptor USB hacen de G305 un gran compañero de viaje
+- Ultra-Ligero: En Logitech G, un ratón inalámbrico para gaming no tiene que ser pesado. G305 es muy ligero, apenas pesa 99 gramos con su diseño mecánico ligero y al uso ultra eficiente de la pila
 - SIN CABLES. SIN LIMITES: La marca de accesorios inalámbricos para gaming más vendida del mundo - Basado en datos de ventas agregados independientes (febr. 2019 - febr. 2020) de teclados, ratones y auriculares para PC gaming inalámbricos en unidades
 - Tecnología Inalámbrica LIGHTSPEED: La latencia hace la diferencia, LIGHTSPEED es una solución inalámbrica de calidad profesional que ofrece un rendimiento similar al de la tecnología con cable
+- Juega en Cualquier Lugar: El diseño ligero, compacto y duradero, y el almacenamiento integrado para el nano receptor USB hacen de G305 un gran compañero de viaje
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07CGPZ3ZQ{{</world>}}

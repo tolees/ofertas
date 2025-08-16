@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Capacidad: 128 GB
 - Marca: Samsung
-- Tipo de producto: USB
 - Fácil de usar
+- Tipo de producto: USB
+- Capacidad: 128 GB
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07HPZ9ZDF{{</world>}}

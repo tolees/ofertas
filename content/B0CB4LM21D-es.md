@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Correas ajustables con anillo y deslizador
+- Detalle de cuentas de madera en las correas delanteras
 - Rayas impresas en tela texturizada acanalada
 - Traje de baño con cuello recto
-- Detalle de cuentas de madera en las correas delanteras
-- Correas ajustables con anillo y deslizador
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB4LM21D{{</world>}}

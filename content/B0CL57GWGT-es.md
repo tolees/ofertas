@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello redondeado
 - Corte regular
+- Cuello redondeado
 - Manga corta
 
 [🛒 Visítala!!!]({{< param buyurl >}})

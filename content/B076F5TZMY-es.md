@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- En nuestros cereales infantiles ni añadimos ni producimos azúcares
 - Papilla de multicereales nutritiva y sabrosa para bebés a partir de los 6 meses
-- Alérgenos: Contiene Gluten: Trigo, Avena y Cebada.
-- Las papillas de Hero Baby contribuyen al funcionamiento normal del sistema inmune y al correcto crecimiento de tu bebé
+- En nuestros cereales infantiles ni añadimos ni producimos azúcares
 - Elaborados con un 50% de trigo de grano completo, para obtener toda la fibra y los nutrientes de los cereales
 - Sabor auténtico y natural con una textura suave y cremosa
+- Alérgenos: Contiene Gluten: Trigo, Avena y Cebada.
+- Las papillas de Hero Baby contribuyen al funcionamiento normal del sistema inmune y al correcto crecimiento de tu bebé
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B076F5TZMY{{</world>}}

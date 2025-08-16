@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un ajuste versátil con un talle alto favorecedor
 - Llega al tobillo
+- Un ajuste versátil con un talle alto favorecedor
 - Acabado con una pierna recta clásica
 - Este producto es original Levis
 

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Otras aplicaciones: protege contra el polvo, evitar manchas de pintura
 - Material: Plástico
 - Dimensiones: 260 x 135 cm
-- Otras aplicaciones: protege contra el polvo, evitar manchas de pintura
 - Cubre tendedero impermeable para lluvia
 - Con aroma de limón
 

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Hecho de 100% poliéster
-- Ideal para llevar durante sesiones de entrenamiento de tenis y partidos
 - Malla para asegurar una buena transpirabilidad
+- Ideal para llevar durante sesiones de entrenamiento de tenis y partidos
 - Cintura elástica con ajuste de cordón
 - Tiene dos bolsillos laterales
 

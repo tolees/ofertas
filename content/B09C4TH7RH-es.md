@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Los pantalones cortos cuentan con una cintura elástico Material suave y un cierre de gancho y barra
 - La camiseta cuenta con mangas cortas y un estampado de tejido anudado
 - Tiene detalles distintivos de la marca
+- Los pantalones cortos cuentan con una cintura elástico Material suave y un cierre de gancho y barra
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09C4TH7RH{{</world>}}

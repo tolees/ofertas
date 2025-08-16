@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Parche con el logo en la manga
-- Diseño acolchado aislante
 - Dispone de capucha
+- Diseño acolchado aislante
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D1TGSX7J{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Memoria RAM de 8GB LPDDR4X
-- Sistema Operativo: ChromeOS
-- Procesador ARM Cortex A73 MT8183 (4C/QuadCore, 2GHz)
-- Almacenamiento de 64GB SSD
 - Pantalla de 14", FullHD 1920 x 1080 pixeles, 60Hz
+- Almacenamiento de 64GB SSD
+- Sistema Operativo: ChromeOS
+- Memoria RAM de 8GB LPDDR4X
+- Procesador ARM Cortex A73 MT8183 (4C/QuadCore, 2GHz)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C89YRN9X{{</world>}}

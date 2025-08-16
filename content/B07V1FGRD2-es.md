@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño moderno
 - Ajuste cómodo
+- Diseño moderno
 - Jersey de punto
 - Hecho de material duradero y ligero
 

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tipo de tacón: Plano
-- Material exterior: Cuero
 - Cierre: Cordones
 - Material de la suela: Goma
+- Tipo de tacón: Plano
+- Material exterior: Cuero
 - Revestimiento: Tela
 
 [🛒 Comprar!!!]({{< param buyurl >}})

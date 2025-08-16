@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Horma clásica
+- Suela de goma de aspecto vulcanizado
 - Parte de nobuk sintético
 - Tirador de tela en el talón
-- Suela de goma de aspecto vulcanizado
-- Horma clásica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BPDZXD7S{{</world>}}

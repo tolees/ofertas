@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ofrece comodidad y libertad de movimiento
 - Tela suave
+- Ofrece comodidad y libertad de movimiento
 - Tejido transpirable
 - Tiene detalles distintivos de la marca
 

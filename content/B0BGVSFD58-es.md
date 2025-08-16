@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Productos de excelente calidad
 - Puños y dobladillo inferior acanalados
+- Productos de excelente calidad
 - Eso significa que si uno establece un objetivo, ayudaremos a aplastarlo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

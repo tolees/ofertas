@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello redondo
 - Corte estándar
-- Logotipo de contraste bordado
+- Cuello redondo
 - Dobladillo y puños acanalados
+- Logotipo de contraste bordado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D54CNBC4{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Batería de ion-litio (2,0 A)
-- Adecuado para uso doméstico o profesional
 - Fabricado con material resistente y duradero
+- Adecuado para uso doméstico o profesional
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00CFNJMFO{{</world>}}

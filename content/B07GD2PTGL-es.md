@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material duro havaianas
-- Hav beach necessaire black (4135195)
 - Neceser tiempo libre y sportwear unisex adulto
+- Hav beach necessaire black (4135195)
+- Material duro havaianas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07GD2PTGL{{</world>}}

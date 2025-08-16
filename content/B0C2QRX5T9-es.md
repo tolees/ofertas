@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Horma clásica
 - Parte de piel sintética
-- Suela de goma que no deja marcas
 - Forro textil
+- Suela de goma que no deja marcas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C2QRX5T9{{</world>}}

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Basica
-- Lino
-- Bolsillos traseros con cierre de botón
-- que además es elástica
-- Comfort Slim fit
 - Bermuda en tejido de lino/algodón
+- Lino
+- Basica
+- que además es elástica
+- Bolsillos traseros con cierre de botón
+- Comfort Slim fit
 - Tiene cordón para ajustar en la cinturilla
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Piso ligero y flexible
 - Plantilla GioMemory Effect
 - Puntera y talón reforzados
+- Piso ligero y flexible
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09RB1NBQL{{</world>}}

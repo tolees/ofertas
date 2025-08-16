@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Paquete de 16 unidades
-- Una vez que los hayas atrapado a todos, lanza la mejor fiesta de Pokémon
-- Grosor: 2 capas
 - Servilletas de almuerzo con algunas de las pandillas Pokémon
+- Una vez que los hayas atrapado a todos, lanza la mejor fiesta de Pokémon
 - Tamaño: 33 cm
+- Paquete de 16 unidades
+- Grosor: 2 capas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07NV6R2F2{{</world>}}

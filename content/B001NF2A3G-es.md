@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Permite proteger las células contra los radicales libres
-- Libre de parabenos
 - Formulado sin filtro químico y libre de fragancia
+- Libre de parabenos
+- Permite proteger las células contra los radicales libres
 - Proporciona protección durable gracias a su SPF 50
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Windfighter - Detener el viento
 - Forro polar con diseño de viento
 - Capucha de tres piezas con cordón ajustable
+- Windfighter - Detener el viento
 - Rain Defender - Acabado resistente al agua
 - Ajuste correcto
 

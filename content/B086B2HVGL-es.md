@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- GROSOR FINO: Preservativos finos para mayor sensibilidad
 - FORMA EASY-ON: Preservativos con forma anatómica Easy-On, suave y con depósito
-- PRESERVATIVOS EXTRA LUBRICADOS: Extra lubricación de silicona.
 - TALLA REGULAR: Anchura nominal de 56 mm. Todos somos diferentes, pero la talla correcta debe hacerte sentir cómodo y seguro siempre.
+- GROSOR FINO: Preservativos finos para mayor sensibilidad
+- PRESERVATIVOS EXTRA LUBRICADOS: Extra lubricación de silicona.
 - SENSITIVO SUAVE: Los preservativos Sensitivo Suave de Durex son transparentes y de látex de caucho natural
 
 [🛒 Visítala!!!]({{< param buyurl >}})

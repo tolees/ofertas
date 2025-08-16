@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela de goma
 - Detalles de ante
-- Empeine de malla y nylon
 - Forro de material sintético
+- Suela de goma
+- Empeine de malla y nylon
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01AP940DI{{</world>}}

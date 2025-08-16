@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Comodidad
 - Manga larga
 - Logotipo de la marca
+- Comodidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C2HR4WFW{{</world>}}

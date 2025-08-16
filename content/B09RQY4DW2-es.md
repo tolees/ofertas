@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Controles Táctiles - Diseño con controles táctiles y materiales óptimos, vidrio y acero inoxidable cepillado y pulido y detalles con una microtextura
 - Capacidad de 1,7 litros - El hervidor cuenta con una capacidad de 1,7 L sin filtro y 1,5 L con filtro, tapa de apertura por presión y opción rápida de hervido con un toque
+- Controles Táctiles - Diseño con controles táctiles y materiales óptimos, vidrio y acero inoxidable cepillado y pulido y detalles con una microtextura
 - Temperatura Regulable - Los ajustes de temperatura regulables de 40 a 100°C te ofrecen plena flexibilidad para poder personalizarla según el tipo de bebida, e incluye función de mantenimiento del calor de 30 minutos
 - Filtro Extraíble - El filtro es un accesorio extraíble que permite que el té infusione dentro del hervidor y cuenta con temporizador de infusión
 - Potencia de 2400 W - La potencia del hervidor es de 2400 W

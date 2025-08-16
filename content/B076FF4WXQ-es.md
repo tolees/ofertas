@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Marca del producto: Guzzini
 - Las dimensiones son 24,8 x 12 x 39 cm
-- Tipo de producto: Reloj de péndulo
 - El color del producto es rojo
+- Tipo de producto: Reloj de péndulo
+- Marca del producto: Guzzini
 - Es adecuado como objeto de decoración
 
 [🛒 Comprar!!!]({{< param buyurl >}})

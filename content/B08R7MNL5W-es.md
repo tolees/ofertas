@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Punto doble 100% poliéster reciclado
-- Bolsillos frontales con cremallera
-- Corte clásico
 - Cierre de cremallera y cuello alzado
+- Corte clásico
+- Bolsillos frontales con cremallera
+- Punto doble 100% poliéster reciclado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08R7MNL5W{{</world>}}

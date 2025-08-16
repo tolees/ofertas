@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- De poliéster con forro de tafetán
 - Ein Klick auf den Markennamen führt zum URBAN CLASSICS Brand Store und noch mehr angesagter Streetwear!
 - Dobladillo con cordón y topes
+- De poliéster con forro de tafetán
 - Chaqueta de amortiguador corta y fuertemente acolchada para hombre
 - Cuello alto, bolsillos laterales
 

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 5-pocket jeans
 - Jeans made of cotton
+- 5-pocket jeans
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07QD1WS6L{{</world>}}

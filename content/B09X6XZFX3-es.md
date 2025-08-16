@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Procesador AMD Ryzen 7 PRO 5750G
 - De color negro
 - Windows 10 Pro 64
-- Procesador AMD Ryzen 7 PRO 5750G
 - Marca: Lenovo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

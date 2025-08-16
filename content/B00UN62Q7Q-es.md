@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dos ajustes de referencia: El ajuste de referencia permite medir desde la parte frontal o la trasera del aparato
 - Suma y resta de resultados: Utilice las características de suma y resta para combinar los resultados de diferentes mediciones
+- Cuatro modos de medición: Fácil medición de longitud y cálculo de áreas y volúmenes; se puede usar el modo continuo para conocer los valores mínimos y máximos en una medición continua
+- Dos ajustes de referencia: El ajuste de referencia permite medir desde la parte frontal o la trasera del aparato
 - Resultados precisos: El PLR 30 C mide distancias hasta 30 m con una precisión de ±2 mm
 - App para smartphone con conexión por Bluetooth: Permite transferir resultados de medición a la aplicación Bosch, añadir medidas a fotos, diseñar estancias, crear listas de medidas, exportar datos y más
-- Cuatro modos de medición: Fácil medición de longitud y cálculo de áreas y volúmenes; se puede usar el modo continuo para conocer los valores mínimos y máximos en una medición continua
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00UN62Q7Q{{</world>}}

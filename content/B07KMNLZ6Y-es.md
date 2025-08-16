@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tan ligero que no notarás que lo llevas puesto
-- Disponible en 12 tonos mate permanentes
 - Pintalabios líquido mate permanente
-- Textura ultra ligera para una sensación de labios desnudos, como no si llevases labial puesto
 - Pigmentos vibrantes de acabado mate para unos labios de impacto durante todo el día
+- Disponible en 12 tonos mate permanentes
+- Tan ligero que no notarás que lo llevas puesto
+- Textura ultra ligera para una sensación de labios desnudos, como no si llevases labial puesto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07KMNLZ6Y{{</world>}}

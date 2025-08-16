@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Disfraz de hombres
 - Cintura elástica con cordón
+- Disfraz de hombres
 - Ropa interior interna en malla
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

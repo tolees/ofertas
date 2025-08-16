@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estilo atemporal para hombres
 - Ajuste regular cómodo
+- Estilo atemporal para hombres
 - Cintura media para ajuste perfecto
 - Longitud midi versátil
 

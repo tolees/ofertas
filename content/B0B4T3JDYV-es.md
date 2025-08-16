@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material interior: sintético
-- Forma redonda
 - Ancho del zapato: estrecho
-- Material exterior: sintético
+- Material interior: sintético
 - Correa: tanga
+- Forma redonda
+- Material exterior: sintético
 - Piel: Cuero liso
 - Forro: poliéster
 

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gato Roboto: Un Meowtroidvania único que aporta algunas ideas frescas al género!
 - Demon Throttle: ¡El primer lanzamiento de Nintendo Switch exclusivamente en formato físico del mundo!
-- Doinksoft es un estudio de Devolver Digital con sede en Portland, Oregón (Estados Unidos), y son los creadores de Gunbrella, Gato Roboto y Demon Throttle. ¡Estos tres juegos de Doinksoft ahora están disponibles en una multicartucho de Nintendo Switch!
 - Gunbrella: Toma el papel de un rudo leñador en busca de venganza, armado con el misterioso Gunbrella: un arma de fuego que también sirve como paraguas.
+- Doinksoft es un estudio de Devolver Digital con sede en Portland, Oregón (Estados Unidos), y son los creadores de Gunbrella, Gato Roboto y Demon Throttle. ¡Estos tres juegos de Doinksoft ahora están disponibles en una multicartucho de Nintendo Switch!
+- Gato Roboto: Un Meowtroidvania único que aporta algunas ideas frescas al género!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D47MMGV6{{</world>}}

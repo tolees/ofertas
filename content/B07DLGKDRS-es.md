@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mecanismo y cadena de PVC en color blanco, regulación mediante mecanismo de cadena con seguridad infantil
-- Fácil limpieza con un trapo ligeramente húmedo
-- Nota: El ancho del producto, incluido soportes, es de 100 cm, el tejido mide 97 cm de ancho El largo del producto abierto completamente más el mecanismo mide 175 cm Solo, el tejido mide 170 cm
-- Este estor es recomendado para ventanas de hasta 95 cm de ancho y hasta 250 cm de alto
-- Cortina enrollable 100% poliéster, instalación a pared o techo con los mismos soportes
-- Puede encontrar un videotutorial explicativo en nuestra Brand Store: Blindecor
 - Más abajo encontrará modelos de ventanas compatibles con este estor. Optima para todo tipo de estancias (Habitaciones, Salas de estar, Salones, Cocinas, Oficinas)
+- Fácil limpieza con un trapo ligeramente húmedo
+- Este estor es recomendado para ventanas de hasta 95 cm de ancho y hasta 250 cm de alto
+- Mecanismo y cadena de PVC en color blanco, regulación mediante mecanismo de cadena con seguridad infantil
+- Nota: El ancho del producto, incluido soportes, es de 100 cm, el tejido mide 97 cm de ancho El largo del producto abierto completamente más el mecanismo mide 175 cm Solo, el tejido mide 170 cm
+- Puede encontrar un videotutorial explicativo en nuestra Brand Store: Blindecor
+- Cortina enrollable 100% poliéster, instalación a pared o techo con los mismos soportes
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07DLGKDRS{{</world>}}

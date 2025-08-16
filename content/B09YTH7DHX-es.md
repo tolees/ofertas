@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ventana con fecha.
 - Carcasa de acero inoxidable.
+- Ventana con fecha.
 - 5 bares.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

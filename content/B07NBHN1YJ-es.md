@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juego educativo
-- Juego de cartas
 - Totalmente en castellano
-- Duracion de partida 20 min
+- Juego de cartas
 - De 2 a 5 jugadores
+- Juego educativo
+- Duracion de partida 20 min
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07NBHN1YJ{{</world>}}

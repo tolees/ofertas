@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Fragancias naturales
-- Aroma a menta y árbol de té
-- Apto para veganos
 - Embalado con cosas naturales
+- Apto para veganos
 - 100% aceites esenciales
+- Aroma a menta y árbol de té
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B001ICEG4K{{</world>}}

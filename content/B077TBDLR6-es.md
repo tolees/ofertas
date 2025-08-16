@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Incluye una cómoda bolsa de almacenamiento
 - Incluye: recortadora, cuchillas, cabezal giratorio, peine accesorio variable, cortauñas, peine, lima/navaja, pinza, cepillo de limpieza, cepillo de dientes, 1 batería AA de litio, bolsa, instrucciones
-- Esta afeitadora de alta calidad se limpia fácilmente bajo el grifo gracias a unas hojas enjuagables
 - Peine accesorio variable de 4 posiciones, para un fácil cambio de longitud
+- Esta afeitadora de alta calidad se limpia fácilmente bajo el grifo gracias a unas hojas enjuagables
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B077TBDLR6{{</world>}}

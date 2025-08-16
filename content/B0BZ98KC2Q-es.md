@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Peso ligero
-- Skechers y detalle del logotipo de GO WALK
 - Estilo atlético de encaje elástico
+- Skechers y detalle del logotipo de GO WALK
 - Parte superior de malla
 
 [🛒 Visítala!!!]({{< param buyurl >}})

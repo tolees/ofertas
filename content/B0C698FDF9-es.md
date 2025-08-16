@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fabricado con electricidad 100 % renovable
-- Botella reciclable
-- Limpio y reluciente
 - Elimina hasta el 100 % de los restos de jabón
+- Botella reciclable
+- Fabricado con electricidad 100 % renovable
+- Limpio y reluciente
 - Tecnología antigoteo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

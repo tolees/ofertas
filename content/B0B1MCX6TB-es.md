@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Más detalles:
-- Composición del material: 75% algodón, 18% poliéster, 6% viscosa, 1% elastano
 - ERROR:#NAME?
+- Composición del material: 75% algodón, 18% poliéster, 6% viscosa, 1% elastano
 - Tipo de detalle: jeans con corte X-slim
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Función para grabar la señal de entrada del micrófono o la guitarra en una memoria USB o microSD conectada al altavoz, con 6 modos distintos de ecualización (Normal, Rock, Jazz, Clásico, Country y Pop), función Mega Bass para aumentar el sonido de los bajos a un nuevo y asombroso nivel y equipado con controles de volumen de micrófono y guitarra por separado.
+- Potente y enorme equipo de música de alta potencia para DJ para disfrutar de la fiesta a todo volumen, con 120 W de potencia máxima, un woofer de 8” y doble tweeter de 3”, equipado con una batería integrada de 11,1V/2,2 A que proporciona hasta 7 horas (al 50% de volumen) de reproducción.
+- Compatible con la tecnología Bluetooth, con entrada Aux, entrada de audio Micro SD y USB y compatible con la tecnología True Wireless Stereo, pudiendo emparejar de forma simultánea dos dispositivos de la familia Wild Dub a la vez.
 - Con salida de audio, con las luces de altavoces LED multicolores incorporadas, entrada de micrófono, una entrada de guitarra amplificada para sacar el artista que hay en ti y contiene la función karaoke que, una vez activado, reduce el sonido de la música cuando se detecta la señal de entrada del micrófono.
 - Destaca por su facilidad de uso y conveniencia con su control remoto incluido y una pantalla LED que muestra información útil (Modo, tiempo de reproducción, etc.).
-- Compatible con la tecnología Bluetooth, con entrada Aux, entrada de audio Micro SD y USB y compatible con la tecnología True Wireless Stereo, pudiendo emparejar de forma simultánea dos dispositivos de la familia Wild Dub a la vez.
-- Potente y enorme equipo de música de alta potencia para DJ para disfrutar de la fiesta a todo volumen, con 120 W de potencia máxima, un woofer de 8” y doble tweeter de 3”, equipado con una batería integrada de 11,1V/2,2 A que proporciona hasta 7 horas (al 50% de volumen) de reproducción.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09MFH1SNF{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Suela de goma con look retro.
 - Marca en el talón
 - Ajuste regular
-- Suela de goma con look retro.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CTMX5VFG{{</world>}}

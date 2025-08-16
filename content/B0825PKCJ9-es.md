@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Corte normal
-- Cómodo
 - Tejido: tejido ligero con caída mezcla de viscosa poliéster
+- Cómodo
 - Clásico
 - Cuello con escote redondo abierto y serigrafía en parte delantera
 

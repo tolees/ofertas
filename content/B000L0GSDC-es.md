@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Blíster de 4
-- Pilas recargables AAA 700 mAh
 - Recargables
+- Pilas recargables AAA 700 mAh
+- Blíster de 4
 - AAA 700 mAh 4-blister HR03)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

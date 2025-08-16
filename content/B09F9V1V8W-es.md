@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- De color oro cálido
 - Con notas dulces de vainilla, toffee y un toque a nueces
-- Declaración de edad de 10 años, que aporta profundidad y carácter
-- Es dulce y cremoso en boca
 - Madurado en barricas de roble americano
+- De color oro cálido
+- Es dulce y cremoso en boca
+- Declaración de edad de 10 años, que aporta profundidad y carácter
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09F9V1V8W{{</world>}}

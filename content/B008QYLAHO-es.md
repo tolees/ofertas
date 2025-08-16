@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Formato bolsa de 59g. Conservar en un lugar fresco y seco.
 - Caramelos masticables de cerveza de mantequilla, la bebida más querida del mundo mágico, ¡en forma de jarra!
+- Las gominolas sabor a cerveza de mantequilla (butterbeer) no contienen alcohol
 - Dulces creados por Jelly Belly inspirados en el mundo Harry Potter, con el mismo sabor que las servidas en Las Tres Escobas (Three Brroomsticks TM).
 - ¡Arriba las Copas con la bebida mágica de Harry Potter más icónica!
-- Formato bolsa de 59g. Conservar en un lugar fresco y seco.
-- Las gominolas sabor a cerveza de mantequilla (butterbeer) no contienen alcohol
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B008QYLAHO{{</world>}}

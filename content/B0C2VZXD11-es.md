@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 73,48% PU 26,52% TEXTILE
 - AZUL
 - Zapatillas casual para hombre
+- 73,48% PU 26,52% TEXTILE
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C2VZXD11{{</world>}}

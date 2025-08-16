@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Soporte medio
 - Copas removibles
+- Soporte medio
 - Tecnología Dri-FIT
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Medium treated
 - Cremallera
 - Tapered
 - Coloreado
-- Medium treated
 - JoggJeans
 
 [🛒 Comprar!!!]({{< param buyurl >}})

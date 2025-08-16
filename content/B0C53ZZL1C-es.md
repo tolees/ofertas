@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mediasuela con amortiguación
-- Parte de piel
-- Forro textil
 - Forma clásica
+- Parte de piel
+- Mediasuela con amortiguación
+- Forro textil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C53ZZL1C{{</world>}}

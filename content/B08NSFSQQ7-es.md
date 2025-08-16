@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - ALTURA AJUSTABLE: Asiento ajustable en altura mediante elevador de gas de alta gama, proporcionando un movimiento suave y seguro. Para adaptar la silla de escritorio ergonómica a tu escritorio y a tus hábitos
 - MOVILIDAD: Con ruedas giratorias de 360° y reposabrazos elevables, esta silla ergonómica te ofrece comodidad a la vez que te permite todo tipo de movimiento
-- MEDIDAS TOTALES: 62,5x60x94-104 cm (LxANxAL). Medidas del asiento: 50x50x47-57 cm (LxANxAL). Altura recomendada del usuario: 120-175 cm. Peso máximo soportado: 120 kg
 - BASCULANTE CON SOPORTE LUMBAR: El soporte lumbar de la silla de estudio se puede mover hacia arriba o hacia abajo, para adaptarse a las diferentes alturas de los usuarios. Esta silla de ordenador tiene función basculante y puedes balancearte mientras descansas si lo deseas
 - DISEÑO ERGONÓMICO: Silla de oficina cómoda de diseño ergonómico con asiento, respaldo y apoyabrazos acolchados y recubiertos con tela de lino
+- MEDIDAS TOTALES: 62,5x60x94-104 cm (LxANxAL). Medidas del asiento: 50x50x47-57 cm (LxANxAL). Altura recomendada del usuario: 120-175 cm. Peso máximo soportado: 120 kg
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08NSFSQQ7{{</world>}}

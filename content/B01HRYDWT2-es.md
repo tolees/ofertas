@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dimensiones: 190 mm x 30 mm
 - Se han seguido los más altos estándares durante el proceso de producción, con el fin de garantizar una excelente experiencia al cliente
+- Dimensiones: 190 mm x 30 mm
 - Extremadamente resistente y duradero
 - DEWALT DT99564-QZ - Hojas para Sierra Circular portátil XR EXTREME RUNTIME 190mm x 30mm 60D 25º
 

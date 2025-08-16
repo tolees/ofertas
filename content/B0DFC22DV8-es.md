@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ajuste normal
 - Logotipo en el frente
+- ajuste normal
 - Camiseta con cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

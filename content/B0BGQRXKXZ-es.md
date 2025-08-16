@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detalles superpuestos texturizados
 - Parte superior de malla ligera con detalles texturizados que ofrecen una transpirabilidad completa
+- Detalles superpuestos texturizados
 - La plantilla de EVA proporciona una comodidad suave al pisar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

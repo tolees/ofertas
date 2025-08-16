@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cacerola ovalada de hierro fundido esmaltado con capacidad de 6,7 L, óptima para asar, cocer a fuego lento y preparar de manera elegante carne, pescado, fruta o verdura
 - Made in France - Producto hecho a mano, Resistente a los arañazos y duradero gracias al esmaltado interior, Resistente a los ácidos, sabor neutro, Fácil de limpiar a mano, Apto para el lavavajillas
 - Cocina y ahorra energía en el horno y todo tipo de cocinas, incluso inducción, Resultado jugoso y tierno gracias a la estructura de la tapa que permite un efecto de autorrociado, Mantiene la temperatura de los alimentos fríos y calientes durante más tiempo
-- Contenido: 1 x Cacerola STAUB, Dimensiones con tapa y asas (L x A): 40 x 17,3 cm, Diámetro: 33 cm, Diámetro de fondo: 27,7 cm, Capacidad: 6,7 L, Peso: 7,1 kg, Color: Verde Albahaca, 40509-691-0
 - Diseño práctico y estético: Asas prácticas y ergonómicas, Pomo de la tapa de metal resistente al calor hasta 250° C, Colores vivos, Letras en relieve
+- Contenido: 1 x Cacerola STAUB, Dimensiones con tapa y asas (L x A): 40 x 17,3 cm, Diámetro: 33 cm, Diámetro de fondo: 27,7 cm, Capacidad: 6,7 L, Peso: 7,1 kg, Color: Verde Albahaca, 40509-691-0
+- Cacerola ovalada de hierro fundido esmaltado con capacidad de 6,7 L, óptima para asar, cocer a fuego lento y preparar de manera elegante carne, pescado, fruta o verdura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B000SAI4J6{{</world>}}

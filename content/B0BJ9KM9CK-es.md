@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Compra una talla más pequeña
-- 100% algodón
-- Corte clásico
 - Cuello redondo de canalé
+- Corte clásico
+- 100% algodón
+- Compra una talla más pequeña
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BJ9KM9CK{{</world>}}

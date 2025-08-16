@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Diámetro para placa de inducción: 116 mm
 - Recubrimiento antiadherente de calidad Teflon Innovations libre de PFOA
+- Aluminio fundido
 - Mango ergonómico y apilable
 - Descubre cómo cuidar tu menaje antiadherente en el apartado Guia de usuario de esta ficha
-- Aluminio fundido
-- Diámetro para placa de inducción: 116 mm
 - Apta para todo tipo de cocinas, incluido inducción
 
 [🛒 Aquí!!!]({{< param buyurl >}})

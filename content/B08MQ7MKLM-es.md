@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ofrecen comodidad y libertad de movimiento
 - Talle alto
+- Ofrecen comodidad y libertad de movimiento
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08MQ7MKLM{{</world>}}

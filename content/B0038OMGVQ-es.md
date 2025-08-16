@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Composición del material del forro: 53 % cuero, 39 % poliéster, 8 % tela
 - Cordones elásticos en zigzag
 - Parte superior de cuero suave de grano completo
-- Composición del material del forro: 53 % cuero, 39 % poliéster, 8 % tela
 - Plantilla extraíble, suela de goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})

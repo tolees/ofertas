@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- UNIDADES POR paquete: 10
 - Voltaje: 1.5 V
+- UNIDADES POR paquete: 10
 - Número de modelo: LR6 AA Mignon
 
 [🛒 Comprar!!!]({{< param buyurl >}})

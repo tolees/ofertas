@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Broca para pared
-- 5x85
 - Calidad premium
+- 5x85
+- Broca para pared
 - Para mamposteria y piedra
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

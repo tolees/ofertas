@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Peso de un solo zapato: 340g
-- Sistema 3F: Nuestro sistema 3F conecta el sistema de cordones con la suela y el talón para garantizar que la flexibilidad, sujeción y adaptación sean máximas
 - POMOCA S Path: La S Path está concebida para mantener el centro de presión del pie sobre el terreno y apoyar el desarrollo natural del pie
 - Un zapato para hombre, veloz, con protección GORE-TEX incorporada para una adecuado amortiguación, estabilidad y soporte en sesiones largas de speed hiking en terrenos alpinos
+- Peso de un solo zapato: 340g
+- Sistema 3F: Nuestro sistema 3F conecta el sistema de cordones con la suela y el talón para garantizar que la flexibilidad, sujeción y adaptación sean máximas
 - Suela exterior: Pomoca Dropline
 
 [🛒 Visítala!!!]({{< param buyurl >}})

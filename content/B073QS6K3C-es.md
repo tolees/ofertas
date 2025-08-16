@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Consumo de energía 9 kWh/1000h y 806 lm
-- La luz blanca cálida para la comodidad y la relajación, en el dormitorio o habitaciones de los niños
 - Encendido instantáneo, no necesita tiempo de calentamiento
+- La luz blanca cálida para la comodidad y la relajación, en el dormitorio o habitaciones de los niños
 - Fácil sustitución de las lámparas, reemplazo optimo para una lámpara de 60 W, uso al aire libre sólo en luminarias adecuadas
 - Larga duración: hasta 10000 horas y hasta 100000 ciclos de encendido
 

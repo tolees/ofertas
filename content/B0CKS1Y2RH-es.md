@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Compra una talla más pequeña
 - Parte superior de piel sintética
+- Forro textil
 - Suela y mediasuela de EVA
 - Horma clásica
-- Forro textil
-- Compra una talla más pequeña
 - Cierre autoadherente
 
 [🛒 Visítala!!!]({{< param buyurl >}})

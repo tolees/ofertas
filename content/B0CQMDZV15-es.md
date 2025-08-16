@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vive aventuras de alto voltaje con el Conjunto de juego Reposta y arranca de Monster Trucks de Hot Wheels.
-- Necesitas reparar el Motosaurus? ¡No te preocupes! Llévalo al elevador y luego levántalo para realizar cualquier mantenimiento.
-- Con forma de bidón de gasolina, el conjunto se abre para revelar una pequeña pista para acrobacias y un área de reparación.
 - El combustible también sirve como contenedor de almacenamiento y tiene una ventana transparente para exponer el Motosaurus.
 - Lanza el Motosaurus a escala 1:64 incluido por la rampa y sobre los 2 coches aplastados. ¡Añade más coches y camiones para aumentar la destrucción! (Se incluyen dos coches aplastados. Los coches adicionales se venden por separado.)
+- Con forma de bidón de gasolina, el conjunto se abre para revelar una pequeña pista para acrobacias y un área de reparación.
+- Necesitas reparar el Motosaurus? ¡No te preocupes! Llévalo al elevador y luego levántalo para realizar cualquier mantenimiento.
+- Vive aventuras de alto voltaje con el Conjunto de juego Reposta y arranca de Monster Trucks de Hot Wheels.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CQMDZV15{{</world>}}

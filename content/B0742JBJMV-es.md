@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Ventilación para el verano
 - Apto para estancias de hasta 55 m²
 - Termostato ajustable a la habitación
 - Diseño moderno y compacto, con base plegable y mango ergonómico
-- Ventilación para el verano
 - Con 2 ajustes de potencia (900 y 1800 w), para optimizar el consumo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

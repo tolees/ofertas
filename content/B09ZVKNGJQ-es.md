@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Parte superior: cuero
 - Forma del talón: plano
 - Suela: Caucho
-- Parte superior: cuero
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09ZVKNGJQ{{</world>}}

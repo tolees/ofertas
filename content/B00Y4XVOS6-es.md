@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cocodrilo verde bordado en el pecho
 - Tapeta 2 botones
+- Cocodrilo verde bordado en el pecho
 - Petit piqué de dos capas
-- Slim fit
 - Cuello acanalado
+- Slim fit
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00Y4XVOS6{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compatible con cables USB-C
+- Adaptador de viaje AFC sin cable
 - Potencia: hasta 25 W
 - El Wall Charger no solo carga rápidamente los dispositivos compatibles con carga rápida, sino que también funciona con el resto de modelos. Por lo tanto, para los dispositivos compatibles con el estándar PD 3.0, obtendrás una carga máxima de 25W, mientras que el resto se cargará a la velocidad compatible
+- Compatible con cables USB-C
 - Desde tapones para los oídos hasta computadoras portátiles, casi cualquier dispositivo se puede cargar sin problemas
-- Adaptador de viaje AFC sin cable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08P95B5FR{{</world>}}

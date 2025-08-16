@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Bajo nivel de ruido, alto rendimiento: El aspa translúcida de 140 mm del ventilador, diseñada para obtener el máximo rendimiento, gira silenciosamente a tan solo 18 dBA
-- Mantenga su sistema refrigerado: Potentes velocidades de ventilador controladas por PWM de hasta 1.200 RPM, lo que ofrece un flujo de aire de hasta 68,1 CFM con 1,66 mm-H2O de presión estática
 - Configuración bajo su control: Cree efectos de iluminación dinámicos con el potente software CORSAIR iCUE para dar vida a su sistema con la iluminación RGB dinámica
-- Ocho LED RGB direccionables individualmente: Complete su sistema de refrigeración CORSAIR SP RGB ELITE con un ventilador adicional, equipado con ocho LED alrededor del eje
 - iCUE Lighting Node CORE incluido: Controle la iluminación RGB de hasta seis ventiladores CORSAIR RGB mediante el software CORSAIR iCUE con este controlador de iluminación RGB compacto
+- Mantenga su sistema refrigerado: Potentes velocidades de ventilador controladas por PWM de hasta 1.200 RPM, lo que ofrece un flujo de aire de hasta 68,1 CFM con 1,66 mm-H2O de presión estática
 - Tecnología CORSAIR AirGuide: Utiliza aspas antirremolinos para dirigir el flujo de aire y concentrar la refrigeración, lo que óptimiza la refrigeración instalada
+- Ocho LED RGB direccionables individualmente: Complete su sistema de refrigeración CORSAIR SP RGB ELITE con un ventilador adicional, equipado con ocho LED alrededor del eje
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08XY3Q64X{{</world>}}

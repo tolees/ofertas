@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Batería de iones de litio: sin autodescarga, pequeña, ligera, de fácil manejo
-- Mandril portabrocas de sujeción rápida + parada rápida para cambio de herramientas sencillo
-- Incluye práctico soporte magnético de tornillos en el aparato
+- Acoplamiento a fricción de par contra el paso de rosca de tornillos
 - Forma constructiva esbelta con superficies ergonómicas de la empuñadura antideslizante
 - Motor de gran potencia y engranaje metálico para par de giro elevado
+- Batería de iones de litio: sin autodescarga, pequeña, ligera, de fácil manejo
+- Incluye práctico soporte magnético de tornillos en el aparato
+- Mandril portabrocas de sujeción rápida + parada rápida para cambio de herramientas sencillo
 - Unidad electrónica de precisión para regular el número de revoluciones para trabajos delicados
-- Acoplamiento a fricción de par contra el paso de rosca de tornillos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00LHX6LS4{{</world>}}

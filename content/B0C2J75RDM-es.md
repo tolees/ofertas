@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste regular
 - Cintura alta
+- Ajuste regular
 - Aspecto vintage
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

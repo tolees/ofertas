@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Número de modelo: MAJKCAK20004_BRTXL
-- Chaqueta acolchada de poliéster con 3 bolsillos con cremallera, cremalleras de perfil bajo
 - Dobladillo con cordón y puño elástico
+- Chaqueta acolchada de poliéster con 3 bolsillos con cremallera, cremalleras de perfil bajo
 - Capucha ajustable con cremallera
 
 [🛒 Comprar!!!]({{< param buyurl >}})

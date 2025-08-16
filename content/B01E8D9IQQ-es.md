@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Capacidad en acero de 2 mm
-- Voltaje: 10,8 V (mín.) - 12 V (máx.)
 - Freno eléctrico
-- Capacidad en madera 65 mm
+- Vástago tipo bayoneta
 - Biseles de 0 a 45 grados a la izquierda y a la derecha
 - 1 año de garantía del fabricante con 2 años adicionales si se registra dentro de los 30 días de la compra. (Esta garantía no se aplica cuando se montan piezas o accesorios no originales o recomendados en las herramientas)
-- Vástago tipo bayoneta
+- Voltaje: 10,8 V (mín.) - 12 V (máx.)
+- Capacidad en acero de 2 mm
+- Capacidad en madera 65 mm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01E8D9IQQ{{</world>}}

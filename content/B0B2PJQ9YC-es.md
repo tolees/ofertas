@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 2en1: asiento para la trona y balancín
+- Adecuado a partir de 2 años
 - Trona gemelar con la que el niño puede alimentar a 2 muñecos al mismo tiempo
+- Fabricado en Francia
 - Incluye: 2 cucharas y 2 platos.
 - Muñecos no incluidos
-- Adecuado a partir de 2 años
-- Fabricado en Francia
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B2PJQ9YC{{</world>}}

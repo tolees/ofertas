@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Luz de trabajo luminoso mediante LED COB, iluminación en modos diferentes: 100 % - 40 % - 10 % - rojo - rojo parpadeante
+- Linterna de mano en un formato muy delgado y manejable, práctico para espacios estrechos, para el uso en zonas de trabajo, práctico clip e imán
 - Volumen de suministro: 1x linterna de trabajo de mano portátil PL 200 A con batería recargable, incl. cable de carga USB - en la máxima calidad de brennenstuhl
 - Incluye un imán que permite un uso flexible en zonas de trabajo con metal como automóvil, camión o máquina
-- Linterna de mano en un formato muy delgado y manejable, práctico para espacios estrechos, para el uso en zonas de trabajo, práctico clip e imán
-- Luz de trabajo luminoso mediante LED COB, iluminación en modos diferentes: 100 % - 40 % - 10 % - rojo - rojo parpadeante
 - Linterna de trabajo e inspección a batería recargable (3,7V /450mAh) con un cargador USB, iluminación hasta 12 horas, para zonas de trabajo en interiores (IP20)
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Parte superior en piel
-- Detalles distintivos de la marca
 - Plantilla OrthoLite
+- Parte superior en piel
 - Suela cupsole entera de goma
+- Detalles distintivos de la marca
 - Presentan un estilo casual
 
 [🛒 Visítala!!!]({{< param buyurl >}})

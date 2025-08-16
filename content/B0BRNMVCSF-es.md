@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura: cintura alta
-- Tipo de producto: jeans holgados
 - Composición del material: 80% algodón, 14% algodón reciclado, 5% poliéster reciclado, 1% elastano
+- Tipo de producto: jeans holgados
+- Cintura: cintura alta
 - Cierre: bragueta con cierre de botón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

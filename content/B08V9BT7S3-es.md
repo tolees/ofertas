@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajusta el brillo, la velocidad y la dirección de los efectos de iluminación RGB; personaliza los efectos de iluminación y sincroniza los colores RGB de todos tus periféricos Thermaltake Gaming a través de la aplicación TT SYNC, creando un ecosistema completo.
-- Iluminación RGB AURA de 16,8 M con 8 efectos de iluminación dinámicos personalizables.
-- Construido con una base de aluminio para una mayor robustez y estilo.
 - Superficie de calidad acabada con una base de goma antideslizante que evita que la alfombrilla resbale.
 - La alfombrilla de ratón ARGENT MP1 RGB mide 359 x 254 x 10 mm, y su material de superficie dura está diseñado específicamente para un tracking rápido y preciso.
+- Construido con una base de aluminio para una mayor robustez y estilo.
+- Ajusta el brillo, la velocidad y la dirección de los efectos de iluminación RGB; personaliza los efectos de iluminación y sincroniza los colores RGB de todos tus periféricos Thermaltake Gaming a través de la aplicación TT SYNC, creando un ecosistema completo.
+- Iluminación RGB AURA de 16,8 M con 8 efectos de iluminación dinámicos personalizables.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08V9BT7S3{{</world>}}

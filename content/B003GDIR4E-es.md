@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Material hexagonal en niquelado mate, 6 mm
 - Dos tamaños en una sóla varilla
 - Varilla combinada ranura phillips/phillips para porta-varillas Vario
-- Material hexagonal en niquelado mate, 6 mm
 - Punta Black-Point ofrece alojamiento preciso y óptima protección anticorrosiva
 
 [🛒 Comprar!!!]({{< param buyurl >}})

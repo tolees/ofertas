@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Medidas de 140x200 cm
-- Fabricado 100% en España | Cumplimos la normativa STANDARD 100 by OEKO-TEX sistema de pruebas y verificación para productos textiles brutos, intermedios y finales en todas las fases de fabricación
 - Acoplamiento perfecto a las formas de nuestro cuerpo gracias al acolchado de viscoelástica en la cara de invierno y del tejido mallado en 3D que aporta frescor y transpiración en la cara de verano
 - Acolchado con visco INNOGEL | Altura 26cm | Gracias a la estructura de las partículas de gel, es un material termo-regulador y transpirable que evita la concentración de calor en los principales puntos de presión
+- Fabricado 100% en España | Cumplimos la normativa STANDARD 100 by OEKO-TEX sistema de pruebas y verificación para productos textiles brutos, intermedios y finales en todas las fases de fabricación
+- Medidas de 140x200 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07NR22HL9{{</world>}}

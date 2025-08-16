@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Horma clásica
+- Cierre de cordones
 - Forro textil
 - Parte textil
-- Cierre de cordones
 - Suela de goma para todo tipo de ficies
 
 [🛒 Comprar!!!]({{< param buyurl >}})

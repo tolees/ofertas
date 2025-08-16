@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material exterior: sintético
 - Cierre: Cordones
+- Material exterior: sintético
 - Forro: sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})

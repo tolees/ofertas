@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Movimiento de cuarzo de tres manecillas
+- Grosor de la caja de 8,85 mm / Diámetro de la caja: 32 mm
 - Esfera negra semibrillante con el logo distintivo de LACOSTE a las 3
 - Correa de silicona negra con diseño petit piqué
-- Grosor de la caja de 8,85 mm / Diámetro de la caja: 32 mm
-- Movimiento de cuarzo de tres manecillas
 - 5 ATM de resistencia al agua Se puede utilizar en la ducha o para nadar, pero no para bucear en aguas profundas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

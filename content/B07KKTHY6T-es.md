@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dimensiones: 43.2 cm x 31.9 cm x 2.4 cm
-- Antideslizante
+- Drenaje automático del agua que gotea
+- Nota: El usuario debe asegurarse de no intentar sujetar objetos que sean demasiado pesados, como utensilios pesados para el horno o objetos de hierro fundido
 - Crea espacio adicional para el drenaje
 - Plegable para un almacenamiento compacto
-- Nota: El usuario debe asegurarse de no intentar sujetar objetos que sean demasiado pesados, como utensilios pesados para el horno o objetos de hierro fundido
-- Drenaje automático del agua que gotea
+- Antideslizante
+- Dimensiones: 43.2 cm x 31.9 cm x 2.4 cm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07KKTHY6T{{</world>}}

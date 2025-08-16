@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte regular
 - Resistente al agua
+- Corte regular
 - Utilizado como casual
 
 [🛒 Visítala!!!]({{< param buyurl >}})

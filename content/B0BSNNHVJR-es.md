@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura ajustable
 - Fabricado con algodón BCI de origen sostenible
 - Ajuste regular
 - Una óptima alternativa a los jeans ajustados
+- Cintura ajustable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BSNNHVJR{{</world>}}

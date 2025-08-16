@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cifre su conexión y oculte su dirección IP real con una VPN ilimitada.
-- Mantenga sus dispositivos a salvo del malware con nuestra galardonada tecnología.
-- Protéjase de las páginas web perjudiciales cuando realice operaciones bancarias, navegue y compre en línea.
-- Premium, siempre actualizado, apps Office 365: Word, Excel, PowerPoint, Outlook y otras. Almacenamiento en la nube: 6 TB total de OneDrive (1 TB por usuario) con Seguridad Premium, para colaborar en documentos con otras personas online y para proteger tus archivos confidenciales en OneDrive Personal Vault. Skype: 60 minutos de llamadas al mes para cada usuario. Soporte premium por chat o teléfono de expertos de Microsoft y mucho más.
-- Office para Mac es compatible con las últimas tres versiones de macOS. Cuando se lanza una nueva versión de macOS, se convierte en la versión actual. También se ejecuta en Mac con chips basados ​​en ARM a través del modo de emulación integrado.
 - Suscripción de 12 meses + 3 meses adicionales si se compra en conjunto con otro producto elegible (hasta 6 usuarios), cada usuario puede instalar en 1 PC o Mac, 1 tablet o iPad y 1 teléfono móvil (Windows, iOS, Android). Instala el código por correo electrónico (requiere Internet).
+- Premium, siempre actualizado, apps Office 365: Word, Excel, PowerPoint, Outlook y otras. Almacenamiento en la nube: 6 TB total de OneDrive (1 TB por usuario) con Seguridad Premium, para colaborar en documentos con otras personas online y para proteger tus archivos confidenciales en OneDrive Personal Vault. Skype: 60 minutos de llamadas al mes para cada usuario. Soporte premium por chat o teléfono de expertos de Microsoft y mucho más.
+- Mantenga sus dispositivos a salvo del malware con nuestra galardonada tecnología.
+- Office para Mac es compatible con las últimas tres versiones de macOS. Cuando se lanza una nueva versión de macOS, se convierte en la versión actual. También se ejecuta en Mac con chips basados ​​en ARM a través del modo de emulación integrado.
+- Cifre su conexión y oculte su dirección IP real con una VPN ilimitada.
+- Protéjase de las páginas web perjudiciales cuando realice operaciones bancarias, navegue y compre en línea.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CT3H1KKS{{</world>}}

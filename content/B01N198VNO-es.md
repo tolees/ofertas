@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Facil de limpiar
 - 26cl
 - Apto frigorífico
 - Fabricado en francia
 - No microondas
-- Facil de limpiar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01N198VNO{{</world>}}

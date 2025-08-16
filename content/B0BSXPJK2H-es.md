@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Versatilidad: este inversor está diseñado para suministrar energía a la red doméstica de 230 V a través de un enchufe;
+- Certificado: este microinversor tiene certificación VDE: cumple con los más altos estándares de seguridad; el microinversor es resistente al agua con clase IP67
+- Ideal para centrales eléctricas de balcón y minisistemas solares: este microinversor tiene montaje directo en el sistema de rieles o en el marco del panel; el módulo fotovoltaico tiene conectores MC4 para conectar el panel solar;
 - Fácil instalación: este microinversor fotovoltaico es ligero y compacto; pensamos en nuestros clientes, porque este dispositivo funciona sencillamente como plug and play;
 - Especificaciones modernas: el inversor solar puede funcionar con una potencia máxima del módulo solar de 240-380 W (por panel); Controlador de carga MPPT integrado para paneles solares; Gama de tensión: DC29-48V; Corriente de entrada máxima 11.5A; corriente máx. de cortocircuito de entrada 15A;
-- Ideal para centrales eléctricas de balcón y minisistemas solares: este microinversor tiene montaje directo en el sistema de rieles o en el marco del panel; el módulo fotovoltaico tiene conectores MC4 para conectar el panel solar;
-- Certificado: este microinversor tiene certificación VDE: cumple con los más altos estándares de seguridad; el microinversor es resistente al agua con clase IP67
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BSXPJK2H{{</world>}}

@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - 80% poliamida, 20% elastano (tejido respetuoso con el medioambiente: el 100 % de la poliamida es reciclada)
 - Tejido MaxFit Eco arena: elástico en 4 direcciones, resistente al cloro y al agua salada, protección UV UPF 50+, secado rápido, ajuste optimo y máxima comodidad, fabricado con poliamida reciclada
-- Cordón interno, forro delantero, longitud lateral: 22 cm; el tejido de este producto cuenta con la etiqueta STANDARD 100 de OEKO-TEX
 - Bañador corto para niño, comodísimo y elástico, que se ajusta como una segunda piel
+- Cordón interno, forro delantero, longitud lateral: 22 cm; el tejido de este producto cuenta con la etiqueta STANDARD 100 de OEKO-TEX
 - Optimo para nadadores de fitness y de ocio, para realizar cualquier actividad acuática en la piscina, en la playa y en cualquier otro entorno acuático
 
 [🛒 Visítala!!!]({{< param buyurl >}})

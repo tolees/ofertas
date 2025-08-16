@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- FÁCIL Y CONVENIENTE: mezcla una cucharada de cazo en 180-240 ml de agua fría; tómala por la mañana y/o durante los 30 minutos previos del entrenamiento o justo después de finalizarlo
-- Gold Standard 100% WHEY de Optimum Nutrition es la proteína en polvo más vendida del mundo* diseñada para respaldar tu proceso de transformación física desde el día uno
-- La fórmula de proteína whey ON está certificada por Informed Choice, contiene BCAA y GLUTAMINA naturales y es BAJA EN AZÚCAR y grasa
-- Disponible en una VARIEDAD DE TAMAÑOS y SABORES: double rich chocolate, crema de banana, helado de vainilla, proteína en polvo sin sabor y más
 - Proteína whey de RÁPIDA ABSORCIÓN con aislado de proteína de suero como ingrediente principal que ayuda a ganar músculo y favorece la recuperación* después de cada sesión de entrenamiento
+- Gold Standard 100% WHEY de Optimum Nutrition es la proteína en polvo más vendida del mundo* diseñada para respaldar tu proceso de transformación física desde el día uno
+- Disponible en una VARIEDAD DE TAMAÑOS y SABORES: double rich chocolate, crema de banana, helado de vainilla, proteína en polvo sin sabor y más
+- FÁCIL Y CONVENIENTE: mezcla una cucharada de cazo en 180-240 ml de agua fría; tómala por la mañana y/o durante los 30 minutos previos del entrenamiento o justo después de finalizarlo
+- La fórmula de proteína whey ON está certificada por Informed Choice, contiene BCAA y GLUTAMINA naturales y es BAJA EN AZÚCAR y grasa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CRVH7YYK{{</world>}}

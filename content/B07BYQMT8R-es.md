@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - PARA PIELES MIXTAS-GRASAS: Tratamiento antimanchas ideal para pieles mixtas o grasas preocupadas en mantener un cutis joven, luminoso y sin manchas; o que desean seguir con un tratamiento, o que quieren prevenir y unificar las manchas cutáneas
-- MODO DE USO: Aplicar una pequeña cantidad sobre rostro, cuello y escote con la piel limpia o después del serum, realizando un suave masaje hasta su completa absorción
-- CREMA ANTIEDAD: Actúa sobre los signos de envejecimiento reduciendo arrugas y líneas de expresión, favoreciendo la regeneración celular. Disminuye la producción de grasa y reduce el tamaño del poro consiguiendo una piel mate y sin brillos.
-- TEXTURA: La crema antimanchas Bella Aurora tiene un tono blanco algodón, con una textura ligera y ultra suave con acabado aterciopelado. Su fragancia es de nota muy fresca de flores blancas con matiz herbáceo y acuoso de fondo dulce
 - CREMA ANTIMANCHAS FACIAL: Despigmenta, aclara manchas y unifica el tono de la piel, aportando luminosidad. Previene la aparición de nuevas manchas. Hidrata la piel en profundidad, tiene acción calmante y protectora contra las agresiones externas.
+- MODO DE USO: Aplicar una pequeña cantidad sobre rostro, cuello y escote con la piel limpia o después del serum, realizando un suave masaje hasta su completa absorción
+- TEXTURA: La crema antimanchas Bella Aurora tiene un tono blanco algodón, con una textura ligera y ultra suave con acabado aterciopelado. Su fragancia es de nota muy fresca de flores blancas con matiz herbáceo y acuoso de fondo dulce
+- CREMA ANTIEDAD: Actúa sobre los signos de envejecimiento reduciendo arrugas y líneas de expresión, favoreciendo la regeneración celular. Disminuye la producción de grasa y reduce el tamaño del poro consiguiendo una piel mate y sin brillos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07BYQMT8R{{</world>}}

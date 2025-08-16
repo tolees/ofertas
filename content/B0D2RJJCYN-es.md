@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tiene detalles distintivos de la marca "Puma"
-- Prenda de vestimenta
 - Para uso diario
+- Prenda de vestimenta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D2RJJCYN{{</world>}}

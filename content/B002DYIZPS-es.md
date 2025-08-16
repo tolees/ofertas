@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La proteína en polvo Serious Mass está disponible en 6 sabores (banana, mantequilla de cacahuete con chocolate, chocolate, cookies & cream, fresa y vainilla) y contiene edulcorante
 - Ganador de masa bajo en grasa, con más de 1250 CALORÍAS y 50 g de PROTEÍNA por dosis para mejorar el crecimiento muscular* más 3 gramos de MONOHIDRATO DE CREATINA para incrementar el rendimiento**
-- Para preparar el mix ganador de masa muscular, mezcla 2 cucharadas con 710 ml de agua o leche vegetal, añade fruta o mantequillas de frutos secos para obtener un delicioso y calórico batido de proteínas para después de entrenar o entre comidas.
 - Fuente EFSA Journal *2010;8(10):1811; 2011;9(6):2203; ** 2011;9(7):2303; ***2011; 9(7):2303
+- La proteína en polvo Serious Mass está disponible en 6 sabores (banana, mantequilla de cacahuete con chocolate, chocolate, cookies & cream, fresa y vainilla) y contiene edulcorante
 - Fórmula de proteína en polvo sin azúcar con 25 vitaminas y minerales y menos de 5 g de grasa por dosis, con más de 250 gramos de CARBOHIDRATOS que ayudan a la recuperación muscular***
+- Para preparar el mix ganador de masa muscular, mezcla 2 cucharadas con 710 ml de agua o leche vegetal, añade fruta o mantequillas de frutos secos para obtener un delicioso y calórico batido de proteínas para después de entrenar o entre comidas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B002DYIZPS{{</world>}}

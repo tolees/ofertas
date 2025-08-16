@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Breve
 - Suela de goma
+- Breve
 - Tipo de talón: recubierto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

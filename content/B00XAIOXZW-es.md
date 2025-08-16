@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca: Instituto Español
 - Tipo de producto: Gel de baño
+- Marca: Instituto Español
 - Género: Unisex Adulto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

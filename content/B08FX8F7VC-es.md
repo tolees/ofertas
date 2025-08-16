@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Material de la suela: Caucho
 - Material interior: Sintético
 - Tipo de tacón: Plano
-- Material de la suela: Caucho
-- Cierre: Cordones
 - Material exterior: Sintético
+- Cierre: Cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08FX8F7VC{{</world>}}

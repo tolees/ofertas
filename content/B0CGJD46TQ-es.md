@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compatibilidad: Carga baterías de 6 / 12 V de plomo-ácido, AGM, VRLA Abiertas, GEL y EFB en coches, escúteres, motocicletas, vehículos clásicos y antiguos, furgonetas, autocaravanas, etc.
-- Gran seguridad y durabilidad: Con protección contra sobrecalentamiento y cortocircuitos, apagándose automáticamente, y mantenimiento que prolonga su vida útil; resiste al polvo y al agua según el IP65
-- Contenido: 1x Bosch Cargador de Batería C30 con soporte en gancho, cable de alimentación, cable de carga con ojales, pinzas extraíbles, instrucciones de uso y una conveniente bolsa de transporte
-- Carga confiable y eficiente: Con 3.8 A, el cargador eléctrico de baterías es más rápido que el C10 (3.5 A) y 3 veces más potente y rápido que un cargador estándar (1.2 A)
-- Con funciones de carga lenta y regenerativa: El cargador es adecuado para los periodos invernales y prolonga la vida útil de las baterías
 - Inteligente y automático: El microprocesador integrado garantiza una carga rápida; si falla la energía, la función de memoria guarda la última configuración, reanudándola al restaurarse la conexión
+- Gran seguridad y durabilidad: Con protección contra sobrecalentamiento y cortocircuitos, apagándose automáticamente, y mantenimiento que prolonga su vida útil; resiste al polvo y al agua según el IP65
+- Con funciones de carga lenta y regenerativa: El cargador es adecuado para los periodos invernales y prolonga la vida útil de las baterías
+- Carga confiable y eficiente: Con 3.8 A, el cargador eléctrico de baterías es más rápido que el C10 (3.5 A) y 3 veces más potente y rápido que un cargador estándar (1.2 A)
+- Compatibilidad: Carga baterías de 6 / 12 V de plomo-ácido, AGM, VRLA Abiertas, GEL y EFB en coches, escúteres, motocicletas, vehículos clásicos y antiguos, furgonetas, autocaravanas, etc.
+- Contenido: 1x Bosch Cargador de Batería C30 con soporte en gancho, cable de alimentación, cable de carga con ojales, pinzas extraíbles, instrucciones de uso y una conveniente bolsa de transporte
 - Automatizado y fácil de usar: Simplemente adapta el proceso de carga al estado de la batería mediante el botón y la pantalla brillante; el indicador LED integrado informa sobre el estado de carga
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

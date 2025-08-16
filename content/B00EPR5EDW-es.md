@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Indicación luminosa al activar la protección por sobretensión
 - Interruptor de encendido de seguridad con ilumicación on/off
 - Protege los aparatos valiosos contra sobretensiones con una corriente de fuga máx de 13500 A
-- Indicación luminosa al activar la protección por sobretensión
 - Tomas de corrientes a prueba de niños en una práctica disposición de 45º
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

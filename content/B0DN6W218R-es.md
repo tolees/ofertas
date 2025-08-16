@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Receta original y sin alterar desde 1888. Fabricadas con ingredientes 100% franceses de alta calidad.
-- Sin conservantes, sin colorantes, sin saborizantes artificiales, sin aceite de palma y sin GMO. Apto para vegetarianos.
-- La siguiente información se aplica a cada unidad del paquete
-- Galletas tipo sablés de mantequilla pura y caramelo, delgadas y crujientes.
-- Diseño del empaque inspirado en el pintor checo y artista decorativo, Alfons Mucha.
 - Viene con envoltorio protector. Formato caja de 125g, incluye 16 galletas.
+- La siguiente información se aplica a cada unidad del paquete
+- Sin conservantes, sin colorantes, sin saborizantes artificiales, sin aceite de palma y sin GMO. Apto para vegetarianos.
+- Receta original y sin alterar desde 1888. Fabricadas con ingredientes 100% franceses de alta calidad.
+- Diseño del empaque inspirado en el pintor checo y artista decorativo, Alfons Mucha.
+- Galletas tipo sablés de mantequilla pura y caramelo, delgadas y crujientes.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DN6W218R{{</world>}}

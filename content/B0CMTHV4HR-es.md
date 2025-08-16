@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - La funda se ha diseñado a medida para Pixel 8
-- Silicona resistente a las manchas, revestimiento de microfibra y cientos de horas de pruebas con caídas: protección demostrada ante posibles percances
 - Smartphone Google Pixel 8 Pro 6,7" 128 GB 12 GB RAM Azul Celeste
 - La funda se ha diseñado a medida para que puedas cargar tu teléfono sin problemas, el audio sea nítido y más. Fabricada con un 42 % de materiales reciclados
+- Silicona resistente a las manchas, revestimiento de microfibra y cientos de horas de pruebas con caídas: protección demostrada ante posibles percances
 - Está disponible en colores originales con sutiles detalles metálicos para que puedas elegir el que mejor se adapte a tu estilo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

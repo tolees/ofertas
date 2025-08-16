@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Innovadora geometría del taco para un montaje rápido, sencillo y, por lo tanto, cómodo de varillas roscadas sin herramientas especiales.
 - La corta longitud del taco impide la coincidencia con el armado para un uso seguro en hormigón armado.
-- Control y ajuste posterior sencillos: Comprobación de la profundidad de colocación con la punta del taco cerrada.
 - El borde visible del taco garantiza la colocación correcta.
+- Control y ajuste posterior sencillos: Comprobación de la profundidad de colocación con la punta del taco cerrada.
 - Pestañas de encaje en el interior del taco para el alojamiento de roscas métricas convencionales.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

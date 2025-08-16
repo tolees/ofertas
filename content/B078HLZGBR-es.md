@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- long denim shorts
 - 5-pocket cotton shorts
+- long denim shorts
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B078HLZGBR{{</world>}}

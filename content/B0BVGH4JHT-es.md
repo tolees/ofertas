@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Set de dos piezas
 - Pantalón corto con cintura elastica ajustable
+- Set de dos piezas
 - Camiseta de manga corta
 
 [🛒 Comprar!!!]({{< param buyurl >}})

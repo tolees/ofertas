@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalla táctil (10 puntos multitáctil), 120 Hz, 7" (17.8 cm) FHD (1920 x 1080) 16:9 Nivel IPS
-- Gráfica AMD Radeon; AMD RDNA 3, 12 CUs, hasta 2.7 GHz, hasta 8.6 Teraflops
 - Procesador AMD Ryzen Z1 Extreme; Zen4 arquitectura de 4 nm, 8 núcleos/16 hilos, caché total de 24 MB, hasta 5.10 Ghz
+- Gráfica AMD Radeon; AMD RDNA 3, 12 CUs, hasta 2.7 GHz, hasta 8.6 Teraflops
 - Memoria RAM de 16 GB LPDDR5 en placa; 6400 MT/s doble canal
 - 3 meses de Game Pass incluido *
+- Pantalla táctil (10 puntos multitáctil), 120 Hz, 7" (17.8 cm) FHD (1920 x 1080) 16:9 Nivel IPS
 - Almacenamiento de 512 GB PCIe 4.0 NVMe M.2 SSD (2230)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
