@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El mini inflador de mano funciona de manera sencilla: movimientos hacia atrás y hacia delante
 - El inflador manual es ideal para inflar pequeñas pelotas y flotadores hinchables
+- El mini inflador de mano funciona de manera sencilla: movimientos hacia atrás y hacia delante
 - Incorpora una manguera con una boquilla graduable
 - Cómodo de almacenar y de transportar por su peso ligero
 - Diámetro: 29 cm

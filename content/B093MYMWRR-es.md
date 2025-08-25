@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste: Pelle
 - Corte estándar
+- Ajuste: Pelle
 - Slim
 
 [🛒 Aquí!!!]({{< param buyurl >}})

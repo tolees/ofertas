@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aspecto clásico con cuello redondo y manga corta que crea un aspecto clásico y atemporal
-- Transpirable y cómodo
 - Cierre: diseño de tirar, por lo que es fácil de poner y quitar
+- Transpirable y cómodo
 - Ajuste normal
+- Aspecto clásico con cuello redondo y manga corta que crea un aspecto clásico y atemporal
 - Fácil de lavar a máquina
 
 [🛒 Comprar!!!]({{< param buyurl >}})

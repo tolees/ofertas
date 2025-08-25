@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La piel infantil es sensible, delicada y necesita ayuda para desarrollarse correctamente. Denenes refuerza las defensas de la piel gracias a sus exclusivas fórmulas eco-enriquecidas para ayudar a su óptima maduración
-- Sin alcohol, sin siliconas, ni ftalatos. Su fórmula contiene un 98% de ingredientes de origen natural (Según norma ISO: 16128)
-- Aplicar diariamente después del baño sobre la piel limpia y seca mediante un suave masaje para facilitar su absorción. Evitar la ropa de lana y fibras sintéticas
 - Leche hidratante original Denenes Original eco-enriquecida con Karité y Petit Grain, refuerza las defensas de la piel. Además, ayuda a mantener la suavidad natural de la piel aportando máxima hidratación y cuidado
+- Aplicar diariamente después del baño sobre la piel limpia y seca mediante un suave masaje para facilitar su absorción. Evitar la ropa de lana y fibras sintéticas
 - Su fórmula biodegradable. Está testada bajo control dermatológico y pediátrico
+- Sin alcohol, sin siliconas, ni ftalatos. Su fórmula contiene un 98% de ingredientes de origen natural (Según norma ISO: 16128)
+- La piel infantil es sensible, delicada y necesita ayuda para desarrollarse correctamente. Denenes refuerza las defensas de la piel gracias a sus exclusivas fórmulas eco-enriquecidas para ayudar a su óptima maduración
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B69JHJNH{{</world>}}

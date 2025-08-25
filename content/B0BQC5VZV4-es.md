@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Algodón elástico y material suave
-- Detalle con el logo de Levis
-- Los bordes de las perneras se mantienen en su sitio
 - Bóxer cortos de calidad y con estilo para hombre
+- Detalle con el logo de Levis
+- Algodón elástico y material suave
+- Los bordes de las perneras se mantienen en su sitio
 - Algodón elástico suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})

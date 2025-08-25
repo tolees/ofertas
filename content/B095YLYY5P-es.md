@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Circuito de protección contra sobrecargas y cortocircuitos
 - Adaptador automático para tomas de 110/240 V
+- Optimización de la carga para proteger la batería
+- Circuito de protección contra sobrecargas y cortocircuitos
 - Potencia total del cargador: 100 W
 - Puerta USB: 18 W (salida máxima) / Puerta USB-C: hasta 100 W Power Delivery (salida máxima)
-- Optimización de la carga para proteger la batería
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B095YLYY5P{{</world>}}

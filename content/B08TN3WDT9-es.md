@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material exterior: Piel sintética
 - Material de la suela: Caucho
+- Material exterior: Piel sintética
 - Cierre: cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

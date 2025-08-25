@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Capucha con cordón ajustable en la espalda
 - Chaqueta lisa
+- Capucha con cordón ajustable en la espalda
 - Composición del material: material exterior: 92% poliéster, 8% nailon; forro: 100% poliéster
 - Cierre delantero
 

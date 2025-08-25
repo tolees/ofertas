@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Zapatillas de correr para mujer UA Charged Pursuit 3
 - 3024889-002-7
+- Zapatillas de correr para mujer UA Charged Pursuit 3
 - Mujeres
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- "Un referente en los FPS competitivos” – IGN España
 - La Deluxe Edition de Tom Clancys Rainbow Six Siege incluye el juego completo y los 16 agentes del Year 1 y el Year 2.
+- "Un referente en los FPS competitivos” – IGN España
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BYBQSHSQ{{</world>}}

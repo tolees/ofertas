@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte
 - Tela Suave
+- Corte
 - TODA LONGITURA CHIP
 
 [🛒 Visítala!!!]({{< param buyurl >}})

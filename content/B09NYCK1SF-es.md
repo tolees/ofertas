@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - La montura de carey pulida, semitransparente, en color miel, marrón, de este modelo de ojo de gato redondo se complementa con detalles metálicos en tono dorado a lo largo de la línea de las cejas y con lentes polarizadas en marrón degradado.
-- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Almohadillas de TR90 para una sujeción mucho más cómoda
 - Producto original Hawkers. La caja incluye funda en microfibra y caja
 - Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
+- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Almohadillas de TR90 para una sujeción mucho más cómoda
 - Medidas: Frontal 143 mm; Patillas 145 mm ; Puente 22 mm ; Alto 52 mm. Modelo Unisex
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

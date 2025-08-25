@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Paqueteage Weight: 64.0 grams
 - Paqueteage Dimensiones: 5.5 L x 5.5 H x 19.5 W (centimeters)
+- Paqueteage Weight: 64.0 grams
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08K92QDT1{{</world>}}

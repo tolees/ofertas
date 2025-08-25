@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Silueta de pantalón de entrenamiento clásico
+- Felino PUMA en la pernera izquierda
 - Ajuste regular
 - dryCELL: designación de PUMA para propiedades que absorben la humedad y ayudan a mantenerte seco y cómodo
-- Felino PUMA en la pernera izquierda
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0786DW2DR{{</world>}}

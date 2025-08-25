@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Bordado de marca en el pecho
-- Corte regular
 - Camisa Oxford
+- Corte regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CSN7FYHX{{</world>}}

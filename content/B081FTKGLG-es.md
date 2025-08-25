@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- become one with the jungle: outgunned and outnumbered, Lara must use the jungle to her advantage. Strike suddenly and disappear like a Jaguar, use mud as camouflage, and instill fear in enemies to Sow chaos
 - discover dark and brutal tombs: tombs are more terrifying than ever before, requiring advanced traversal techniques to reach them, and once inside they are filled with deadly puzzles
-- Definitive Edition Includes: Full Game With 7 Bonus Missions, 5 Co-Op Challenge Tombs, Digital Copy Of Original Soundtrack (Square Enix Members Account Required To Redeem Digital Content), All Previously Released Outfits And Skills
+- become one with the jungle: outgunned and outnumbered, Lara must use the jungle to her advantage. Strike suddenly and disappear like a Jaguar, use mud as camouflage, and instill fear in enemies to Sow chaos
 - uncover living history: discover a hidden city and explore the biggest hub space ever found in a Tomb Raider game
 - survive and thrive in the deadliest place on Earth: master an unforgiving jungle setting in order to survive. Explore underwater environments filled with crevasses and deep tunnel systems
+- Definitive Edition Includes: Full Game With 7 Bonus Missions, 5 Co-Op Challenge Tombs, Digital Copy Of Original Soundtrack (Square Enix Members Account Required To Redeem Digital Content), All Previously Released Outfits And Skills
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B081FTKGLG{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Regular Fit
 - Material transpirable
-- Ropa de aventura para todos los días
 - Ajuste cómodo
+- Regular Fit
+- Ropa de aventura para todos los días
 - 100% algodón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

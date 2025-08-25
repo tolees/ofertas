@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ofrece una resistencia de hasta 6 horas
 - Es testado dermatológicamente
-- Absorbe el aceite y ayuda a minimizar la apariencia de poros
 - Tiene una textura ligera
+- Absorbe el aceite y ayuda a minimizar la apariencia de poros
+- Ofrece una resistencia de hasta 6 horas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0046U6RKC{{</world>}}

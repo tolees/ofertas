@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ajuste regular
-- Parte superior de cuero sintético
 - Suela de goma
+- Parte superior de cuero sintético
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09NL6C5FN{{</world>}}

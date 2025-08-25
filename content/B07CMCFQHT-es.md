@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Carcasa fabricada en polipropileno duradero
 - Ancho de la caña ajustable mediante hebilla desplazada
+- Carcasa fabricada en polipropileno duradero
 - Tres micro hebillas finamente ajustables de aluminio robusto con palanca de policarbonato resistente a los impactos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

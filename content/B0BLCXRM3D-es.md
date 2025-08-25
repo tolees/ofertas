@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Calzado deportivo de la marca Puma
 - Zapatillas óptimales para Fitness y ejercicio de Hombre
+- Calzado deportivo de la marca Puma
 - Material de la suela: EVA
 
 [🛒 Aquí!!!]({{< param buyurl >}})

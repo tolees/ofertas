@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Máximo confort
 - Ergonómico
+- Máximo confort
 - Detalles buscados
 
 [🛒 Aquí!!!]({{< param buyurl >}})

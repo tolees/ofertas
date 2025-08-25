@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- pantalones
 - 98 % algodón, 2 % elastano
+- pantalones
 - Paquete de 2 unidades
 - Apoya la iniciativa Better Cotton
 

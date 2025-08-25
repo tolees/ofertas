@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte normal
 - pantalones deportivos
+- Corte normal
 - Tecnología Dri Fit
 
 [🛒 Comprar!!!]({{< param buyurl >}})

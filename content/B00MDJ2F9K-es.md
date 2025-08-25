@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Reversible
-- Acabado Níquel y Pintado
-- Cilindro europerfil
 - Entrada de 45
 - Apertura y cierre con llave tanto por el exterior como por el interior
+- Acabado Níquel y Pintado
+- Cilindro europerfil
 - Antes era marca AZBE y así mantenemos bien la marca y se puede buscar como AZBE
+- Reversible
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00MDJ2F9K{{</world>}}

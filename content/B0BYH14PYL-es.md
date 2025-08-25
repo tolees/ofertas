@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- AMPLIA VARIEDAD DE COLORES: Disponible en el tono 100, nuestra opción transparente, y en 6 más de nuestros tonos best-seller, ¡Combínalo con The Automatic Lip Pencil para mayor definición!
 - COLOR LIGERO EN UNA PASADA: Este gloss de labios aporta un ligero toque de color en una pasada. Su aplicador redondo fácil de usar permite conseguir una cobertura perfecta en un movimiento.
-- VEGANO Y CRUELTY FREE: 3INA es una marca de maquillaje española que fabrica en Europa. Todos nuestros productos son veganos, libres de parabenos y sin crueldad animal.
 - HIDRATACIÓN 24H: The Color Lip Oil aporta hidratación de larga duración para unos labios suaves y jugosos las 24H. Con esferas de Ácido Hialurónico efecto volumen que hidratan y suavizan tus labios.
+- AMPLIA VARIEDAD DE COLORES: Disponible en el tono 100, nuestra opción transparente, y en 6 más de nuestros tonos best-seller, ¡Combínalo con The Automatic Lip Pencil para mayor definición!
 - FÓRMULA INNOVADORA: La fórmula híbrida única de este bálsamo labial aporta brillo con una sensación cómoda y no pegajosa, combinando el acabado de un gloss con la comodidad de un aceite de labios.
+- VEGANO Y CRUELTY FREE: 3INA es una marca de maquillaje española que fabrica en Europa. Todos nuestros productos son veganos, libres de parabenos y sin crueldad animal.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BYH14PYL{{</world>}}

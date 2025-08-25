@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aspecto vintage
 - Ajuste regular
 - Cintura alta
+- Aspecto vintage
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C2J75RDM{{</world>}}

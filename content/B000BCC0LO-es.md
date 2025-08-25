@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene funciones de ahorro de energía con D-Link Green
-- Proceso de transporte seguro de almacenamiento y reenvío
-- Una detección automática de MDI/MDIX en todas las conexiones
-- Funciona silenciosamente gracias a una construcción sin ventilador
 - En modo Full Duplex hasta 1000 Mbit/s por puerto
+- Tiene funciones de ahorro de energía con D-Link Green
+- Funciona silenciosamente gracias a una construcción sin ventilador
+- Una detección automática de MDI/MDIX en todas las conexiones
+- Proceso de transporte seguro de almacenamiento y reenvío
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000BCC0LO{{</world>}}

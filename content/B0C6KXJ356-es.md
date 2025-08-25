@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Testtuto special polywarpknit (200 gr)
-- Ajuste regular: ajuste sencillo y cómodo con espacio para moverse
 - Logotipo: impresión directa, parche de transferencia, etiqueta jacquard
+- Ajuste regular: ajuste sencillo y cómodo con espacio para moverse
+- Testtuto special polywarpknit (200 gr)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C6KXJ356{{</world>}}

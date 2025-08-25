@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Sistema de triple cámara trasera de 13 MP con IA, video Full HD a 30fps y cámara frontal selfie de 5 MP
 - Procesador MediaTek Helio G85, procesador de 8 núcleos de alto rendimiento.
 - El Redmi 9C cuenta con una pantalla inmersiva HD+ de 6.53" lo que brinda una experiencia de video y juegos increíble. Cuenta con certificación de luz azul baja TÜV Rheinland
-- Batería de alta capacidad de 5000 mAh con carga rápida de 10W.
-- Sistema de triple cámara trasera de 13 MP con IA, video Full HD a 30fps y cámara frontal selfie de 5 MP
 - Sistema operativo: Android 10.0
+- Batería de alta capacidad de 5000 mAh con carga rápida de 10W.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08F1Z5CML{{</world>}}

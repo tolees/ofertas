@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tecnología Lamelar
 - Tratamiento Capilar de 8 Segundos
+- Tecnología Lamelar
 - Devuelve un pelo x8 nutrido y x5 luminoso
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Incluye una suscripción gratis de un mes al plan Adobe Creative Cloud All Apps Plan que le permite acceder a aplicaciones para la edición de fotos y vídeos
 - Micro B a USB C (incluido) . Cable USB Micro B a USB tipo A (no incluido)
 - Para aquellos que precisan de velocidad, realice transferencias con velocidades de hasta 130 MB con el cable Thunderbolt integrado que se recoge en el compartimento cuando no se está utilizando
-- Incluye una suscripción gratis de un mes al plan Adobe Creative Cloud All Apps Plan que le permite acceder a aplicaciones para la edición de fotos y vídeos
 - Recorra el mundo tranquilamente con una unidad de disco duro externa y portátil resistente a la lluvia, al polvo y al agua
 - Disfrute de transferencias de archivo de alta velocidad y de una durabilidad sobre el terreno con la unidad de disco duro externa Rugged Thunderbolt USB-C
 

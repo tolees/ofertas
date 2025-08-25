@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 90% algodón / 10% elastano
-- Talle alto
 - Corte ajustado
+- Talle alto
+- 90% algodón / 10% elastano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZPKNZK4{{</world>}}

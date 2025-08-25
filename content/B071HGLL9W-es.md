@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- CARACTERISTICAS - Hay 8 ollaos redondos de 4 centímetros en cada cortina. El tamaño de los ojales es adecuado para la mayoría de las barras en el mercado. Puede mover fácilmente la cortina a lo largo de la barra.
+- DIMENSIÓN - Material: 100% Poliéster. Contiene 2 paneles por paquete, dimensión 140 x 183 cm (ancho x alto). La altura de la cortina se mide desde la parte superior del anillo.
+- DISEÑO：Nuestras cortinas de visillos blancos están hechas con mano de obra, pueden crear un estilo elegante. Ideales en salon,dormitorio habiatcion infantil y cualquier tipo de ambiente.
 - INSTRUCCIONES DE CUIDADO - Admite lavado (agua fría <30°C), Planchado a baja temperatura
 - FUNCIÓN - Los visillos son la entrada de la luz del sol y aire fresco. Puede disfruntar la luz ambiental de una manera maravillos y cuenta con un espacio confortable, acogedor y romántico.
-- CARACTERISTICAS - Hay 8 ollaos redondos de 4 centímetros en cada cortina. El tamaño de los ojales es adecuado para la mayoría de las barras en el mercado. Puede mover fácilmente la cortina a lo largo de la barra.
-- DISEÑO：Nuestras cortinas de visillos blancos están hechas con mano de obra, pueden crear un estilo elegante. Ideales en salon,dormitorio habiatcion infantil y cualquier tipo de ambiente.
-- DIMENSIÓN - Material: 100% Poliéster. Contiene 2 paneles por paquete, dimensión 140 x 183 cm (ancho x alto). La altura de la cortina se mide desde la parte superior del anillo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B071HGLL9W{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dobladillo de camisa
 - La blusa en tejido dobby irradia elegancia clásica.
 - Estructura dobby refinada
+- Dobladillo de camisa
 - Algodón puro
 - Cuello en V con cuello alto
 

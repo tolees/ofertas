@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - - 1 escudo protector
-- - 2 sierras de chorro
 - - 1 pistola de chorro
-- piezas de efecto para rifle de chorro x 1.1 x junta
+- - 2 sierras de chorro
 - - 1 juego de piezas transparentes de unidad de carcasa
+- piezas de efecto para rifle de chorro x 1.1 x junta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B71XBLQZ{{</world>}}

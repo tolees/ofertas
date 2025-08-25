@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ve y oye lo que pasa con mayor claridad en tu domicilio gracias al vídeo HDR 1080p y a la comunicación bidireccional con tecnología Audio+.
-- Gracias a la visión nocturna en color, podrás ver qué pasa en el exterior de tu domicilio a todo color, tanto de día como de noche.
 - Coloca la Cámara exterior Pro solar en un lugar en el que reciba la luz directa del sol todos los días y mantenla cargada para disfrutar de una tranquilidad constante.
-- La detección de movimiento 3D, la vista panorámica y las zonas de vista panorámica te permiten saber con exactitud cuándo y dónde ha comenzado un evento de movimiento en el exterior a través del mapa de vista aérea.
-- Pon la Cámara exterior Pro solar Ring en una superficie horizontal para poder moverla según lo necesites o instálala en una pared exterior si quieres dejarla en una ubicación fija.
 - La Cámara exterior Pro solar Ring (Stick Up Cam Pro) es una cámara de vigilancia para exteriores con vídeo HDR 1080p, comunicación bidireccional con tecnología Audio+, detección de movimiento 3D, vista panorámica y wifi de doble banda.
+- La detección de movimiento 3D, la vista panorámica y las zonas de vista panorámica te permiten saber con exactitud cuándo y dónde ha comenzado un evento de movimiento en el exterior a través del mapa de vista aérea.
+- Ve y oye lo que pasa con mayor claridad en tu domicilio gracias al vídeo HDR 1080p y a la comunicación bidireccional con tecnología Audio+.
 - Vigila los caminos de entrada a tu domicilio, el jardín y otras zonas conectándola a otros dispositivos Ring y usándola como una alternativa activada por movimiento y asequible a los sistemas de vigilancia por CCTV tradicionales. La opción de grabación requiere una suscripción vendida por separado.
+- Pon la Cámara exterior Pro solar Ring en una superficie horizontal para poder moverla según lo necesites o instálala en una pared exterior si quieres dejarla en una ubicación fija.
+- Gracias a la visión nocturna en color, podrás ver qué pasa en el exterior de tu domicilio a todo color, tanto de día como de noche.
 - MÁS VISIÓN,MÁS INFORMACIÓNY MÁS PROTECCIÓN: guarda las grabaciones de tus vídeos hasta 180 días para volver a verlas en cualquier momento, recibe alertas cuando se detecte a una persona y mucho más con una suscripción a Ring Home (a la venta por separado)*.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

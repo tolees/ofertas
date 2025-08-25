@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Composición del material: 100% poliéster
 - Vestido cruzado estampado
+- Composición del material: 100% poliéster
 - Mangas cortas con detalle de volantes
 - Cinturón en la cintura
 

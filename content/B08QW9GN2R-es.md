@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cintura elástica con cordón
 - Corte cónico
+- Cintura elástica con cordón
 - Tecnología Dri-Fit
 
 [🛒 Visítala!!!]({{< param buyurl >}})

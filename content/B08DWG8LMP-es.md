@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Parte de malla y sintética
-- Skechers Plantilla acolchada de espuma viscoelástica
 - Entresuela acolchada de aire Skech-Air
+- Skechers Plantilla acolchada de espuma viscoelástica
+- Parte de malla y sintética
 - Diseño deportivo con cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})

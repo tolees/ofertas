@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Confort
-- Copas moldeadas
 - Con aros
+- Copas moldeadas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CN9RM9T8{{</world>}}

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Punta de bola rodante
-- Con un plumín solido de 0.7 mm y un ancho de línea de 0.5 mm
+- Capuchón con clip de metal
 - Cuenta con empuñadura de goma y ventana de monitoreo de tinta
 - Tinta de color azul, a prueba de agua, con resistencia a la luz UV, agentes químicos y disolventes y de secado rápido
-- Capuchón con clip de metal
+- Punta de bola rodante
 - Con regulador de caudal
+- Con un plumín solido de 0.7 mm y un ancho de línea de 0.5 mm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B003CRXODS{{</world>}}

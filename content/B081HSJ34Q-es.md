@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Plastic
 - Quieter and more shock resistant than a traditional hard drive.
+- Plastic
 - Faster loading of your most demanding applications – including games.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

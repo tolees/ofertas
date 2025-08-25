@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mediasuela de EVA
+- Horma clásica
 - Cierre de cordones
 - Parte de ripstop con refuerzos sintéticos
-- Horma clásica
+- Mediasuela de EVA
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BS8DGFBR{{</world>}}

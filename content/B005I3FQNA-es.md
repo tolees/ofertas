@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El campo de nombre en el frente del folleto se puede escribir con tinta, sin la escritura borrosa.
 - Las esquinas redondeadas evitan la aparición de orejas de burro y dejar que el aspecto portátil limpio y ordenado.
-- Gobernante 279 mm forrada, borde a la izquierda y la derecha.
+- El campo de nombre en el frente del folleto se puede escribir con tinta, sin la escritura borrosa.
 - El sobre es estable y robusto, por lo que el volumen aún todavía se ve en buenas condiciones después de un uso prolongado. Las manchas se pueden limpiar simplemente con un paño húmedo.
 - El papel de alta calidad permite que el efecto caligráfico, gracias a la superficie suave y sedosa. Puede ser descrito por ambos lados, sin la tinta por punzonado en la parte posterior.
+- Gobernante 279 mm forrada, borde a la izquierda y la derecha.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B005I3FQNA{{</world>}}

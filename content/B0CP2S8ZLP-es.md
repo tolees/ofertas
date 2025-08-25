@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalón estampado con cinturilla elástica y cordón regulable
 - Pijama largo 100% algodón, de manga corta y pantalón largo, en color verde con estampado de Mickey Mouse
+- Pantalón estampado con cinturilla elástica y cordón regulable
 - Camiseta con manga caída
 
 [🛒 Aquí!!!]({{< param buyurl >}})

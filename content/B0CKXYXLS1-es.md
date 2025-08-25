@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Esmalte
+- Circonita cúbica
 - Blanco
 - Mezcla de metal única chapada en oro de 14 quilates
-- Circonita cúbica
-- Esmalte
 - Charm Dangle
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

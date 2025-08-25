@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Forro sintético
 - Horma clásica
 - Cordones elásticos y cierre autoadherente
-- Forro sintético
 - Suela de goma cosida
 
 [🛒 Visítala!!!]({{< param buyurl >}})

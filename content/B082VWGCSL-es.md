@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Es expresivo e intenso, aromas muy definidos de pera verde, kiwi y piña, Con carácter cítrico y un ligero fondo florar
-- Xarel·lo, Chardonnay, Macabeo y Parellada
 - Boca: Intenso y afrutado, con una buena acidez que lo hace muy fresco. Notas de mandarina y anís .
 - Carnes y pescados poco elaborados, arroces suaves y pasta condimentada
+- Es expresivo e intenso, aromas muy definidos de pera verde, kiwi y piña, Con carácter cítrico y un ligero fondo florar
+- Xarel·lo, Chardonnay, Macabeo y Parellada
 - Gaudí
 
 [🛒 Visítala!!!]({{< param buyurl >}})

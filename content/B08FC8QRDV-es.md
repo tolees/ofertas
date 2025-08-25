@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - AI Rear Triple Camera, Make memories last with the AI triple camera, capturing your favorite moments in vivid color.13MP main camera, 2MP depth sensor, LED flasher, 2MP macro camera.
+- Massive 5000mAh Battery. Battery longevity increased by 25% compared to the market standard.
+- Convenient Unlocking. Use the fingerprint sensor in the back, or have the phone unlock upon recognizing your face with AI Face Unlock.
 - Immersive 6.53" HD+ display. The large display allows you to fully immerse yourself in the virtual world. Low blue light for a comfortable viewing experience.
 - New polished look. The back features a textured design that prevents fingerprints so that the device can retain its pristine look at all times.
-- Convenient Unlocking. Use the fingerprint sensor in the back, or have the phone unlock upon recognizing your face with AI Face Unlock.
-- Massive 5000mAh Battery. Battery longevity increased by 25% compared to the market standard.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08FC8QRDV{{</world>}}

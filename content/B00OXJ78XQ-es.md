@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Juegos de cartas Juegos de cartas
 - Se puede dar como regalo
 - Diseño colorido y atractivo
+- Juegos de cartas Juegos de cartas
 - Se recomienda la vigilancia de un adulto
 
 [🛒 Aquí!!!]({{< param buyurl >}})

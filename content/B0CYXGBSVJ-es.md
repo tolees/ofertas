@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Tecnología RAIN.RDY de doble capa
 - Cierre de cremallera y capucha con gorro impermeable interior
-- Puños parcialmente elásticos
-- 100% poliéster (reciclado)
 - Corte clásico
+- 100% poliéster (reciclado)
+- Puños parcialmente elásticos
 - Bolsillos laterales con cremallera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

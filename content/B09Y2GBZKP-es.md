@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Color de lente: Gris oscuro Degradado
 - De color negro
-- Material: acetato
+- Color de lente: Gris oscuro Degradado
 - Talla: 52
+- Material: acetato
 - Forma: CUADRADO
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tallas de XXS a XXL
 - Logotipo pequeño estampado en el pecho y banda con logo en las mangas
+- Tallas de XXS a XXL
 - Capucha y bolsillo de canguro
 - Tejido sin pulir (240 g)
 

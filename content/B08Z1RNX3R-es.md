@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Chándal de dos piezas
-- El logotipo está bordado en el pantalón y támbien en la chaqueta
 - La chaqueta abierta cuenta con bolsillos que incorpora rib en puños, cuello y bajo
+- El logotipo está bordado en el pantalón y támbien en la chaqueta
 - El pantalón cuenta con cintura elástica ajustable mediante cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})

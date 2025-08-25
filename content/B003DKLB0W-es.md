@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Cuenta con asas de gran resistencia para subirse con facilidad
 - Pueden tumbarse hasta dos personas ya que tiene unas medidas: de 193x142 cm y soporta hasta 180 kg de peso
-- Está fabricada con vinilo resistente probado
 - Cuenta con asas de gran resistencia para subirse con facilidad
+- Está fabricada con vinilo resistente probado
 - Cuenta con almohada integrada para mayor comodidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

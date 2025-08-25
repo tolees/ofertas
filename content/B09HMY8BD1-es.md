@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido transpirable AEROREADY
 - Interlock 100% poliéster reciclado
+- Tejido transpirable AEROREADY
 - Corte clásico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

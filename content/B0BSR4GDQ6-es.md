@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Absorbe la humedad
 - 100% poliéster
 - Insignia de TPU
+- Absorbe la humedad
 - Collar
 - Antibacteriano
 

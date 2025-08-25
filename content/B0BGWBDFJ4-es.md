@@ -28,19 +28,19 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Style : Camiseta de manga corta con logotipo grande
-- Fit type : Regular fit
 - Collar style : Camiseta
-- Steel light heather 035 / black 001 / royal 400
-- Shirt form type : t shirt
-- Sport type : Marcha
-- Occasion type : Vacaciones
-- Closure.type : Pull on
-- Neck.neck style : Cuello acanalado
-- Material : Poliéster
-- Sleeve.type : Manga corta
+- Fit type : Regular fit
 - Care instructions : Lavar a máquina
+- Sport type : Marcha
+- Closure.type : Pull on
 - Fabric type : 60 % Algodón, 40 % Poliéster
+- Shirt form type : t shirt
+- Sleeve.type : Manga corta
+- Material : Poliéster
+- Style : Camiseta de manga corta con logotipo grande
+- Steel light heather 035 / black 001 / royal 400
+- Occasion type : Vacaciones
+- Neck.neck style : Cuello acanalado
 - Item length description : Longitud estándar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

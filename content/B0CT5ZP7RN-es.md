@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Suela muy ligera, antideslizante y flexible
 - Forro y plantilla transpirables, absorbentes y de secado rápido
 - Botines colegiales color azul marino de piel curtida de forma sostenible
-- Suela muy ligera, antideslizante y flexible
 - Forro transpirable, piso flexible y plantilla de piel muy acolchada y transpirable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

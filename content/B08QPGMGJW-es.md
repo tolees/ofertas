@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Se puede disfrutar con una variedad de platos como ensaladas, arroces cremosos, carnes blancas, pescados y mariscos
+- Destacan las notas de fresas con nata, rosas y violetas
 - Composición: 80% tempranillo 18% garnacha 2% viura
 - Brillante y vivo color rosa pálido con una intensidad azulada en el ribete
+- Se puede disfrutar con una variedad de platos como ensaladas, arroces cremosos, carnes blancas, pescados y mariscos
 - En boca, se presenta armonioso y seductor con un post-gusto sedoso y elegante, con presencia de notas de marcadas frutas rojas frescas
-- Destacan las notas de fresas con nata, rosas y violetas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08QPGMGJW{{</world>}}

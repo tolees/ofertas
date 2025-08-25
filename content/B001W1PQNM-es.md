@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los electrodos pueden utilizarse con los dispositivos de Beurer para TENS para el alivio del dolor y EMS para el entrenamiento y la regeneración muscular y el masaje para la relajación y el bienestar
-- Los electrodos pueden aplicarse fácilmente sobre la piel, sólo hay que colocarlos en la región del cuerpo donde se desea realizar el tratamiento, no es necesario ningún gel de contacto
 - El juego de recambio para los dispositivos de corriente de estimulación de Beurer EM 40, EM 41, EM 41.1, EM 49 y EM 80 contiene 8 electrodos de gel autoadhesivos del tamaño 45 x 45 mm
-- Una distancia sensata entre los electrodos es de aproximadamente 5 a 15 cm; por debajo de 5 cm, se estimulan fuertemente las estructuras principalmente superficiales, por encima de 15 cm, se tratan muy débilmente
+- Los electrodos pueden utilizarse con los dispositivos de Beurer para TENS para el alivio del dolor y EMS para el entrenamiento y la regeneración muscular y el masaje para la relajación y el bienestar
 - La colocación de los electrodos debe ser elegida de manera que rodee los segmentos musculares a tratar; para un efecto óptimo, la distancia entre los electrodos no debe ser superior a unos 15 cm
+- Una distancia sensata entre los electrodos es de aproximadamente 5 a 15 cm; por debajo de 5 cm, se estimulan fuertemente las estructuras principalmente superficiales, por encima de 15 cm, se tratan muy débilmente
+- Los electrodos pueden aplicarse fácilmente sobre la piel, sólo hay que colocarlos en la región del cuerpo donde se desea realizar el tratamiento, no es necesario ningún gel de contacto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B001W1PQNM{{</world>}}

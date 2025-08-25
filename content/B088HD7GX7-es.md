@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Puños elásticos
+- Suéter de punto ligero
 - Composición del material: 50 % viscosa, 27 % nailon, 23 % poliéster
 - Mezcla de viscosa
-- Suéter de punto ligero
+- Puños elásticos
 - Cuello redondo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Confort óptimo gracias al material de jersey 100% algodón
-- Moderno logo de Columbia
 - Camiseta para hombre, Adecuada para usar a diario
 - Contenido: 1x Columbia Hombre Camiseta, M Rapid Ridge Graphic, Color: Verde (River Blue, Heavenly Stacked Gem), Talla: XL, Art.: 1888813
+- Moderno logo de Columbia
 - Disponible en diversos y elegantes colores
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

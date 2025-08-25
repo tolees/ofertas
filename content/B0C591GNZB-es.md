@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Suela de gofre inversa para una mayor tracción
-- Vans Protección: materiales repelentes al agua
 - Cierre de cordones
+- Vans Protección: materiales repelentes al agua
 - Vans Marca Sidestripe
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

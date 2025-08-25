@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- [Frecuencia de actualización de 120 Hz] Una frecuencia de actualización de 120 Hz significa que la pantalla se actualiza 120 veces por segundo, es decir, dos veces más que la frecuencia de actualización normal de 60 Hz.
-- [Hasta 11GB de RAM dinámica] El realme narzo 50 con tecnología Dynamic RAM Expansion (DRE) permite ampliar los 6 GB de RAM hasta 5 GB para operaciones de juego extremadamente fluidas.
 - [Pantalla completa FHD+ de 16,7 cm (6,6”)] La gran pantalla de 6,6 pulgadas es capaz de reproducir 16,7 millones de colores y tiene un mayor campo de visión y una claridad mejorada que aporta una completa inmersión real.
-- [Procesador gaming Mediatek Helio G96] Con su procesador G96, el realme narzo 50 está diseñado para gamers. Está equipado con una potente arquitectura de ocho núcleos que contiene ARM Cortex-A76 y Cortex-A55.
 - [3 años de garantía]
+- [Hasta 11GB de RAM dinámica] El realme narzo 50 con tecnología Dynamic RAM Expansion (DRE) permite ampliar los 6 GB de RAM hasta 5 GB para operaciones de juego extremadamente fluidas.
+- [Frecuencia de actualización de 120 Hz] Una frecuencia de actualización de 120 Hz significa que la pantalla se actualiza 120 veces por segundo, es decir, dos veces más que la frecuencia de actualización normal de 60 Hz.
+- [Procesador gaming Mediatek Helio G96] Con su procesador G96, el realme narzo 50 está diseñado para gamers. Está equipado con una potente arquitectura de ocho núcleos que contiene ARM Cortex-A76 y Cortex-A55.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09SPDDXG7{{</world>}}

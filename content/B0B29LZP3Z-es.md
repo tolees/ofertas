@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte recto de inspiración vintage
 - Este producto es original Levis
 - Estilo versátil que llega hasta mitad del muslo
+- Corte recto de inspiración vintage
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B29LZP3Z{{</world>}}

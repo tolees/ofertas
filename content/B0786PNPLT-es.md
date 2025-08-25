@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura de goma con cordón
 - Logotipo en el pie izquierdo
-- Hecho de 100% poliéster
+- Cintura de goma con cordón
 - Material que evacúa el sudor
+- Hecho de 100% poliéster
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0786PNPLT{{</world>}}

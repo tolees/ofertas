@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Correa de cuero marrón
 - Caja de 44 mm, pulsera de 22 mm de ancho, cristal mineral, movimiento cronógrafo de cuarzo, importado
 - Caja redonda de acero con esfera negra
+- Correa de cuero marrón
 - Resistente al agua hasta 50 m: se puede llevar al nadar en aguas poco profundas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

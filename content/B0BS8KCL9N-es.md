@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Horma clásica
+- Cierre de cordones
 - Parte de ripstop con refuerzos sintéticos
 - Mediasuela de EVA
-- Cierre de cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BS8KCL9N{{</world>}}

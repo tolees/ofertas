@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Panel de desplazamiento completo para movimientos verticales y horizontales
 - Se aplana para cerrar y cabe fácilmente en un bolsillo o bolso
 - Ultrafino y ligero
-- Panel de desplazamiento completo para movimientos verticales y horizontales
 - Se conecta de forma inalámbrica a través de Bluetooth 4.0 o superior
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

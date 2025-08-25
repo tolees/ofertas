@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- NÚCLEO GRAVITAS CORE. El colchón viscoelástico reversible cuenta con un núcleo de poro abierto que permite que el aire pase y circule libremente y con mayor fluidez, confiriendo al colchón un mayor grado de transpirabilidad. Es apto para cualquier tipo de base, ya sea somier de láminas, base tapizada o canapé.
 - DUO REVERSIBLE: Los materiales utilizados en ambas caras permiten utilizar el colchón visco por las dos partes, siendo la cara superior ideal para invierno y la cara inferior perfecta para verano, y consiguiendo la misma sensación de acogida.
+- NÚCLEO GRAVITAS CORE. El colchón viscoelástico reversible cuenta con un núcleo de poro abierto que permite que el aire pase y circule libremente y con mayor fluidez, confiriendo al colchón un mayor grado de transpirabilidad. Es apto para cualquier tipo de base, ya sea somier de láminas, base tapizada o canapé.
+- PLATABANDA CON TEJIDO 3D AIR PATH TRANSPIRABLE: Su estructura en forma de panal de abeja permite una circulación continua del aire a través del colchón viscoelástico reversible, aumentando la transpiración del mismo.
 - TEJIDO STRECH: Se adapta perfectamente al contorno resultando mucho más cómodo y agradable. Además también ofrece una alta transpiración generando un continuo paso de aire, que garantiza que el colchón visco se encuentre siempre bien aireado y libre ácaros, humedades y malos olores.
 - COLCHÓN CON SISTEMA VISCONFORT: Fabricado de forma sostenible en España, con certificado OEKO-TEX, el colchón viscoelástico reversible combina Visco Acu-Point, un material de poro abierto transpirable y duradero que alivia los puntos de presión y recupera su forma inicial sin apenas desgaste; con Breath Soft una espuma muy transpirable que ofrece una adaptación progresiva del colchón al cuerpo para ofrecer la máxima comodidad durante el descanso. ALTURA TOTAL DEL COLCHÓN: +/-21 cm
-- PLATABANDA CON TEJIDO 3D AIR PATH TRANSPIRABLE: Su estructura en forma de panal de abeja permite una circulación continua del aire a través del colchón viscoelástico reversible, aumentando la transpiración del mismo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BW1786HD{{</world>}}

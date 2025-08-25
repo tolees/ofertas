@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Detail
-- materialFabricComposition: 95% Cotton, 5% Elastane
-- Trunks
 - Care Label:
+- Detail
+- Trunks
+- materialFabricComposition: 95% Cotton, 5% Elastane
 - Cotton
 
 [🛒 Aquí!!!]({{< param buyurl >}})

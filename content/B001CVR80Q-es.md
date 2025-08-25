@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ancho de la caña: normal.
-- Cierre: cordones.
-- Suela: goma.
 - Exterior: piel.
-- Interior: textil.
+- Cierre: cordones.
 - Composición del material: lona y piel.
+- Interior: textil.
+- Ancho de la caña: normal.
+- Suela: goma.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B001CVR80Q{{</world>}}

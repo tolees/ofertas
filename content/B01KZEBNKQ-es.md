@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Pantalones vaqueros de 5 bolsillos con aspecto masculino
 - Borde de plata y cobre para un aspecto llamativo
 - Con cremallera
-- Asiento de cintura baja, estilo clásico de 5 bolsillos, costuras en plata y cobre
 - Estilo original de 5 bolsillos
+- Asiento de cintura baja, estilo clásico de 5 bolsillos, costuras en plata y cobre
 - Skinny: Corte ajustado con silueta delgada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

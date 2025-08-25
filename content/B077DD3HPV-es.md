@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El color se fija en los labios para un resultado duradero hasta 12 horas
-- Labial líquido de larga duración en 2 pasos: una extraordinaria combinación de base de color y brillo de labios con acabado intenso y luminoso.
-- Base de color: su fórmula, enriquecida con una combinación de polímeros filmógenos, garantiza el máximo confort, una óptima fijación en los labios y un color uniforme
 - Brillo de labios: la fórmula de acción emoliente aporta a los labios un acabado luminoso y brillante
+- Labial líquido de larga duración en 2 pasos: una extraordinaria combinación de base de color y brillo de labios con acabado intenso y luminoso.
+- El color se fija en los labios para un resultado duradero hasta 12 horas
 - Dermatológicamente testado
+- Base de color: su fórmula, enriquecida con una combinación de polímeros filmógenos, garantiza el máximo confort, una óptima fijación en los labios y un color uniforme
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B077DD3HPV{{</world>}}

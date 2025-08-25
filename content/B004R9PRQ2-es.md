@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tecnología Cool+ en las asas para que no se calienten
 - Base patentada universal TransTherm apta para inducción
 - Apto para lavavajillas
+- Tecnología Cool+ en las asas para que no se calienten
 - Cromargan acero inoxidable pulido
 
 [🛒 Visítala!!!]({{< param buyurl >}})

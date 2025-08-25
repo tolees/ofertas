@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Corte entallado
-- Cintura elástica
 - Tela suave
+- Cintura elástica
 - Adecuado para correr o para cualquier otra actividad deportiva
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

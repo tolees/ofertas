@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Accede a un mundo de contenidos extra con la App hOn y saca el máximo partido de tu microondas: más de 130 recetas creadas por chefs y bloggers culinarios, consejos, trucos y métodos de cocina.
-- Tamaño exterior microondas (alto x ancho x fondo): ): 28,1 x 48,3 x 40,6cm.
 - Un microondas moderno con diseño versátil que se adaptará en todos los ambientes: con panel de control digital intuitivo, para configurar las funciones, los programas y ¡mucho más!
+- Tamaño exterior microondas (alto x ancho x fondo): ): 28,1 x 48,3 x 40,6cm.
 - Microondas Candy Moderna, tu nuevo asistente en la cocina: ahorra tiempo gracias a sus 40 programas automáticos y prepara recetas rápidas y deliciosas para sorprender a todos tus invitados.
 - Ahorra tiempo en la limpieza con el programa Autoclean: limpia el microondas de forma fácil con la acción del vapor y elimina rápidamente grasas y olores en poco tiempo.
+- Accede a un mundo de contenidos extra con la App hOn y saca el máximo partido de tu microondas: más de 130 recetas creadas por chefs y bloggers culinarios, consejos, trucos y métodos de cocina.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09HKXGZZW{{</world>}}

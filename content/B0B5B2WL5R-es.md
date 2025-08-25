@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cifrado XTS-AES con protección contra ataques de fuerza bruta y BadUSB
-- Respaldo automático en la nube personal
 - Opción de implementar varias contraseñas (administrador y usuario) con los modos complejo o de frase de contraseña
 - Nuevo modo de frase de contraseña
+- Cifrado XTS-AES con protección contra ataques de fuerza bruta y BadUSB
+- Respaldo automático en la nube personal
 - Características de seguridad adicionales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

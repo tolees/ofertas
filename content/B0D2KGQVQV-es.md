@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Parte superior sintética
-- Cierre de cordones planos
 - Entresuela de goma
+- Cierre de cordones planos
+- Parte superior sintética
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D2KGQVQV{{</world>}}

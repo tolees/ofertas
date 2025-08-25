@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tamaño: se adapta a todos
 - Bolsillo de malla en el lado derecho.
 - Correas de hombro acolchadas rectas ajustables con borde, panel trasero acolchado
 - Asa de transporte tejida
+- Tamaño: se adapta a todos
 - Bucle reflectante en la parte delantera, soporte reflectante con logotipo de Puma Cat en las correas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo de contraste bordado
 - Dobladillo y puños acanalados
+- Logotipo de contraste bordado
 - Cuello redondo
 - Corte estándar
 

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- S.Café
 - Tela de jersey de punto técnico
+- Cuello acanalado para mayor comodidad.
 - estampado en el pecho
 - Solapa delantera abotonada
-- Cuello acanalado para mayor comodidad.
-- S.Café
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BKLTCP2Z{{</world>}}

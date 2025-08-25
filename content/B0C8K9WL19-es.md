@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Confort
-- Cintura elástica
 - Detalles de la marca
+- Cintura elástica
+- Confort
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C8K9WL19{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Adecuado para uso con todos los lápices mecánicos
 - Alta resistencia a la rotura debido al plomo flexible
-- Portaminas para lápiz mecánico para uso en papel y tarjeta de dibujo
 - Incluye 12 unidades de 0.7 mm
+- Portaminas para lápiz mecánico para uso en papel y tarjeta de dibujo
+- Adecuado para uso con todos los lápices mecánicos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B003SAD8E4{{</world>}}

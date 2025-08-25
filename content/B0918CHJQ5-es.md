@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aceite perfeccionador del brillo para el secado con fórmula reponedora, enriquecida con a ceite de onagra, aporta brillo y manejabilidad al cabello, dejándolo más suave y listo para la rutina de secado.
-- Se recomienda utilizar después del champú, acondicionador o mascarilla de la misma gama. Aplicar de medios a puntas. No aclarar.
 - Protege del encrespamiento mientras suaviza, nutre y protege las fibras capilares contra la humedad. Acción antiencrespamiento y suavizante
+- Se recomienda utilizar después del champú, acondicionador o mascarilla de la misma gama. Aplicar de medios a puntas. No aclarar.
+- Aceite perfeccionador del brillo para el secado con fórmula reponedora, enriquecida con a ceite de onagra, aporta brillo y manejabilidad al cabello, dejándolo más suave y listo para la rutina de secado.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0918CHJQ5{{</world>}}

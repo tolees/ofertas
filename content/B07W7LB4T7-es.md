@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Peso del paquete: 1727,49 gramos
-- País de origen: - China
-- Color: grafito
 - Dimensiones del paquete (largo x ancho x alto): 49,4 x 5,8 x 25,1 cm
+- Color: grafito
+- País de origen: - China
+- Peso del paquete: 1727,49 gramos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07W7LB4T7{{</world>}}

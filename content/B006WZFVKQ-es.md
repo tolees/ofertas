@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin saborizantes ni colorantes artificiales, sin OGM; alcance de la entrega: 1 x 15 kg
-- Calcio y glucosamina para contribuir a la salud de huesos y articulaciones; fuentes naturales de omega 6 y 3 para una piel y un pelaje sanos
-- Alimento seco para perros adultos (1.5+ años) de raza grande con sobrepeso, adecuado para que su perro de raza grande mantenga un peso saludable; con L-carnitina para un control del peso más saludable
 - Una forma de croqueta especial que, junto con la tecnología DentaDefense, ayuda a mantener los dientes limpios y sanos
+- Calcio y glucosamina para contribuir a la salud de huesos y articulaciones; fuentes naturales de omega 6 y 3 para una piel y un pelaje sanos
+- Sin saborizantes ni colorantes artificiales, sin OGM; alcance de la entrega: 1 x 15 kg
+- Alimento seco para perros adultos (1.5+ años) de raza grande con sobrepeso, adecuado para que su perro de raza grande mantenga un peso saludable; con L-carnitina para un control del peso más saludable
 - Con pollo fresco que ayuda a fomentar una musculatura compacta; prebióticos FOS y pulpa de remolacha para favorecer una digestión sana
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

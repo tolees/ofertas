@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tela transpirable
 - Ofrece libertad de movimiento
 - Cintura elástica de talle alto
+- Tela transpirable
 - Corte ajustado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

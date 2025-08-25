@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Pantalón de chándal corto, regular fit. CABAS tiene corte controlado, ofreciendo comodidad y libertad de movimiento. El conocido logotipo de Kappa se encuentra bordado en un lateral del pantalón dando un diseño elegante.
 - Lavar a máquina con colores similares a 30º máximo, no usar lejía. Se puede meter en la lavadora sin miedo a que se deforme o encoja.
+- Nueva colección de Kappa para la temporada primavera/verano 2024.
 - Cintura elástica con cordón de ajuste exterior para mayor confort. Incluye bolsillos laterales abiertos en cada pierna. Cierre:Pull on.
 - El pantalón CABAS es de punto jersey algodón 100% (160 gms). Su diseño confeccionado con algodón otorga una sensación de suavidad al tacto. Este pantalón corto tiene ADN 100% deportivo gracias a los materiales con los que ha sido fabricado.
-- Pantalón de chándal corto, regular fit. CABAS tiene corte controlado, ofreciendo comodidad y libertad de movimiento. El conocido logotipo de Kappa se encuentra bordado en un lateral del pantalón dando un diseño elegante.
-- Nueva colección de Kappa para la temporada primavera/verano 2024.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BSFNLMVZ{{</world>}}

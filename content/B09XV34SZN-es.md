@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ⚙Bolsillo interior | Collarín térmico interno | Solapa térmica interior | Señales de emergencia en el interior del saco | Tensor reflectante.
-- 🔗 Cremallera izquierda o derecha con posibilidad de unir 2 sacos
-- 🧵 PES PA15D/380T
-- 📦 Funda de compresión con infografía: Ø17 x 31 cm.
-- 🎨 Color exterior GRIS OSCURO y color interior AZUL TURQUESA
-- 🧗‍♂️ ACTIVIDADES: El saco de dormir ANDES 900 D H30 es perfecto para expediciones y trekking durante todo el año
-- 🌡Temperaturas - 3 ºC | - 9 ºC | - 28ºC
 - 🧶 Pluma (duvet 90/10) de 700 cuins con 600 g de relleno
+- ⚙Bolsillo interior | Collarín térmico interno | Solapa térmica interior | Señales de emergencia en el interior del saco | Tensor reflectante.
+- 🌡Temperaturas - 3 ºC | - 9 ºC | - 28ºC
+- 🧗‍♂️ ACTIVIDADES: El saco de dormir ANDES 900 D H30 es perfecto para expediciones y trekking durante todo el año
+- 🧵 PES PA15D/380T
+- 🎨 Color exterior GRIS OSCURO y color interior AZUL TURQUESA
+- 🔗 Cremallera izquierda o derecha con posibilidad de unir 2 sacos
+- 📦 Funda de compresión con infografía: Ø17 x 31 cm.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09XV34SZN{{</world>}}

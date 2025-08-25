@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Longitud/tamaño: bajo
 - Tipo de producto: zapatillas deportivas
+- Longitud/tamaño: bajo
 - Tipo de puntera: punta redonda. Composición: 100 % malla de forro, 100 % malla de calcetín, 100 % goma de suela, 100 % poliuretano superior
 - Cierre: con cordones
 - Forro: forro de malla transpirable

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ropa deportiva que se adapta a cualquier actividad deportiva
 - Con tejido ligero y suave
 - Tiene detalles distintivos de la marca
+- Ropa deportiva que se adapta a cualquier actividad deportiva
 - Ofrece comodidad y libertad de movimiento
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

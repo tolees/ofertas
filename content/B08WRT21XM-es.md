@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Goldcrown
 - Ajuste de cuña
-- Skech-Air
 - Espuma viscoelástica refrigerada por aire
+- Skech-Air
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08WRT21XM{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Zapatilla de skate para uso diario
-- Plantilla OrthoLite
 - Parte de ante
+- Plantilla OrthoLite
 - Horma clásica
+- Zapatilla de skate para uso diario
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B082T4RWFS{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color de la tinta: azul
 - Óptimo para regalar
+- Color de la tinta: azul
 - Un mensaje en inglés en la parte inferior y un personaje Mr; wonderful colgando de una pequeña cadena en su extremo
 - Bolígrafo con la parte superior de plástico transparente, con purpurina en su interior
 

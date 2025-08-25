@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 4 TB
-- SATA3, 3.5"
 - Fácil de instalar
+- SATA3, 3.5"
+- 4 TB
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00IMPO5OW{{</world>}}

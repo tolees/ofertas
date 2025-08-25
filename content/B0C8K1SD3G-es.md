@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Plantilla extraíble de goma termoplástica reciclada
-- Tommy Hilfiger Marca:
 - Punta redonda
+- Tommy Hilfiger Marca:
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C8K1SD3G{{</world>}}

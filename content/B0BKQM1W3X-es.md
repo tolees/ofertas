@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fabricado con prácticas y materiales sostenibles
 - Cintura baja
 - Corte entallado
+- Fabricado con prácticas y materiales sostenibles
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BKQM1W3X{{</world>}}

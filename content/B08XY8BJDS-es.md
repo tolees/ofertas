@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Resolución del panel: 2560 x 1440
 - Tamaño de pantalla: 27 pulgadas
 - Tipo de panel: IPS
-- Resolución del panel: 2560 x 1440
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08XY8BJDS{{</world>}}

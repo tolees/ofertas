@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre de cordones
 - Parte superior gris pardo claro
+- Cierre de cordones
 - Hecho de napa y gamuza
 
 [🛒 Aquí!!!]({{< param buyurl >}})

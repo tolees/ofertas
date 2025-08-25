@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Spread Collar
 - materialFabricComposition: 98% Cotton, 2% Elastane
+- Spread Collar
 - Denim jacket
-- Long Sleeves
 - Care Label:
+- Long Sleeves
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07HDJXP7Z{{</world>}}

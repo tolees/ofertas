@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Detalles en contraste de color
 - Color: liso con detalles a contraste
-- Diseñado en Barcelona
 - Efecto troquelado
+- Diseñado en Barcelona
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D9MHHF5C{{</world>}}

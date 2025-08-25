@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Memoria RAM de 16GB (8GB*2) DDR5
-- Procesador Raptor Lake i7-13700H
-- Almacenamiento de 1TB NVMe PCIe Gen4x4 SSD
-- Pantalla de 16" QHD+ (2560x1600), 60Hz DCI-P3 100% typical, 500nits
 - Tarjeta gráfica NVIDIA RTX A1000 Laptop GPU 6GB GDDR6
+- Pantalla de 16" QHD+ (2560x1600), 60Hz DCI-P3 100% typical, 500nits
+- Almacenamiento de 1TB NVMe PCIe Gen4x4 SSD
+- Procesador Raptor Lake i7-13700H
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CBC25Z23{{</world>}}

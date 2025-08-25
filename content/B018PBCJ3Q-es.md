@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalla táctil a color de 7" (17,78 cm), acabado plata
-- Contestador automático
 - Unidad adicional interior para ampliación del kit Videoportero Legrand de la gama Legrand
+- Contestador automático
+- Pantalla táctil a color de 7" (17,78 cm), acabado plata
 - Modalidad manos libres
 
 [🛒 Aquí!!!]({{< param buyurl >}})

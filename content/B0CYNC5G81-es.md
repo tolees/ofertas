@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Mediasuela de EVA
-- Empeine sintético Fusionfeel con textura
-- Lengüeta perforada y acolchada
 - Cierre de cordones
+- Lengüeta perforada y acolchada
+- Empeine sintético Fusionfeel con textura
 - Horma clásica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

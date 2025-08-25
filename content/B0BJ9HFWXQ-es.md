@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Piernas cónicas
 - Pantalones deportivos
 - Tecnología Aterready
+- Piernas cónicas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BJ9HFWXQ{{</world>}}

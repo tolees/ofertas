@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cintura elástico con cordones de ajuste
 - 60% algodón orgánico
 - 40% poliéster
-- Cintura elástico con cordones de ajuste
 - Pantalón de chandal
 - Bajos elásticos
 

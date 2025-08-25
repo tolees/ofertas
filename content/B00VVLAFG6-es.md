@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Soporte de manguera
 - Capacidad: hasta 10 kg
+- Soporte de manguera
 - Para espacios pequeños
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

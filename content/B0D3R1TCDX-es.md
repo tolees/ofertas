@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Libreta de tamaño A5 con la portada en 3D, con un perro Mr. Wonderful en ella
 - Producto de calidad óptima
 - Con 80 hojas de papel blanco
+- Libreta de tamaño A5 con la portada en 3D, con un perro Mr. Wonderful en ella
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D3R1TCDX{{</world>}}

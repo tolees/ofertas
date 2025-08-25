@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - YALE CONNECT WI-FI BRIDGE - Habilita la integración con asistentes de voz y funcionalidades remotas como bloquear y desbloquear la puerta remotamente y notificaciones instantáneas.
-- ACTUALIZACIONES DE ESTADO - Gracias a la tecnología DoorSense podrás comprobar el estado de tu puerta y ver si está correctamente cerrada y la cerradura bloqueada.
-- ALERTAS INSTANTANEAS - Si cambia algo en el estado de la puerta, serás la primera persona en saberlo a través de notificaciones en tu smartphone.
 - CONTROL REMOTO - Bloquea y desbloquea la puerta remotamente, comprueba el historial de actividad actualizado y accede a los ajustes de la cerradura estés donde estés mediante la app Yale Home.
 - CONFIGURACIÓN SENCILLA - Enchúfalo a una toma de corriente cercana a tu cerradura inteligente y conéctalo a tu red Wi-Fi doméstica en unos pocos segundos.
 - COMPATIBLE CON - Conecta tu cerradura con los principales sistemas inteligentes para el hogar, asistentes de voz y plataformas de alquiler de viviendas para un control total y una cómoda gestión de los accesos. Puedes bloquear, desbloquear y comprobar el estado de tu puerta con tu asistente de voz favorito.
+- ACTUALIZACIONES DE ESTADO - Gracias a la tecnología DoorSense podrás comprobar el estado de tu puerta y ver si está correctamente cerrada y la cerradura bloqueada.
+- ALERTAS INSTANTANEAS - Si cambia algo en el estado de la puerta, serás la primera persona en saberlo a través de notificaciones en tu smartphone.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08FNQC1YB{{</world>}}

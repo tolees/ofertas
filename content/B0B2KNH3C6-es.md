@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Stretch
 - Slim
-- Cierre con botón
 - Medium treated
+- Stretch
+- Cierre con botón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B2KNH3C6{{</world>}}

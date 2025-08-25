@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La tecnología Nike Dri-FIT absorbe el sudor para promover una rápida evaporación y mantener la piel seca para una comodidad ideal.
 - Logotipo de Nike
+- La tecnología Nike Dri-FIT absorbe el sudor para promover una rápida evaporación y mantener la piel seca para una comodidad ideal.
 - Silueta clásica para un ajuste relajado en el cuerpo y las caderas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ropa casual
-- Informal
 - Ajuste regular
+- Informal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00E5ZXFZ8{{</world>}}

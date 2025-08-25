@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Shorts de fútbol para hombre
-- Mantienen la piel fresca y seca
 - Tiene detalles distintivos de la marca
+- Mantienen la piel fresca y seca
+- Shorts de fútbol para hombre
 - Producto elaborado con fibras recicladas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

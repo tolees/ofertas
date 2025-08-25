@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Model number: L34DTWII
 - Forma Skinny
+- Model number: L34DTWII
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08T9WDB3D{{</world>}}

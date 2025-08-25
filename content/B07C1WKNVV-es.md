@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Care Label:
-- Slim Fit
-- materialFabricComposition: 78% Cotton, 20% Recycled Cotton, 2% Elastane
 - Cargo trousers
+- materialFabricComposition: 78% Cotton, 20% Recycled Cotton, 2% Elastane
 - Low rise
+- Slim Fit
+- Care Label:
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07C1WKNVV{{</world>}}

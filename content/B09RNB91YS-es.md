@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 4 personajes jugables entre los que elegir: ¿eres más de Metallica, Iron Maiden, o quizás Black Sabbath? ¡Elige al personaje con el que más te identifiques!
-- 8 jefes guitarreros – ¿listo para el show?
-- 15 enemigos diferentes para bailar sobre su tumba
 - Más de 50 objetos: prepárate para darlo todo con nuevas guitarras, pedales, amplis, libros e invocaciones
+- 8 jefes guitarreros – ¿listo para el show?
+- 4 personajes jugables entre los que elegir: ¿eres más de Metallica, Iron Maiden, o quizás Black Sabbath? ¡Elige al personaje con el que más te identifiques!
+- 15 enemigos diferentes para bailar sobre su tumba
 - Metal Tales Overkill Deluxe Edition incluye: Juego Metal Tales Overkill (Switch) Hoja de pegatinas Manual Púa de guitarra
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

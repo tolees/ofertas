@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Suela de goma
-- Forro de malla
-- Empeine sintético
 - Horma clásica
+- Empeine sintético
+- Forro de malla
 - Panel de malla alrededor del tobillo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

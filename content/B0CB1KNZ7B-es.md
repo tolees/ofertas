@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Taza take away térmica con mensaje en inglés motivacional, realizada en acero inoxidable 304 de doble capa
-- Ligera, antiolor, con cierre hermético y libre de BPA
 - Capacidad: 38 cl, Cuidados: apta para lavavajillas; no apta para microondas
+- Ligera, antiolor, con cierre hermético y libre de BPA
+- Taza take away térmica con mensaje en inglés motivacional, realizada en acero inoxidable 304 de doble capa
 - Mantiene las bebidas frías y calientes durante 6 horas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Lengüeta y tobillo de la marca Calvin Klein
 - Suela de goma
+- Lengüeta y tobillo de la marca Calvin Klein
 - Marca Calvin Klein en el lateral
 - Gamuza
 

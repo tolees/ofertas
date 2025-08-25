@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Especialmente diseñada para usar en pequeños dispositivos electrónicos (básculas de baño, mandos, gafas 3D)
-- La siguiente información se aplica a cada unidad del paquete
-- 55mAh
-- Pila Litio Botón de 3 V
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Pila Litio Botón de 3 V
+- 55mAh
+- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DDTQ3TQQ{{</world>}}

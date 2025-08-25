@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Labial líquido Colour Elixir Soft Matte
-- Cuidado e hidratación en una sola pasada
-- Formulado con pigmentos ultrafinos y tecnología flex, con escualeno, vitaminas A, E & C y proteinas de seda
 - Ahora con un perfilador de labios Colour Elixir
 - Sensación ligera y color impactante
+- Formulado con pigmentos ultrafinos y tecnología flex, con escualeno, vitaminas A, E & C y proteinas de seda
+- Cuidado e hidratación en una sola pasada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B8CM32MB{{</world>}}

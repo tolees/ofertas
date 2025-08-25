@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Manga corta
-- Proporciona comodidad
 - Largo regular
+- Proporciona comodidad
 - Bajo curvado
 - Corte relajado
 

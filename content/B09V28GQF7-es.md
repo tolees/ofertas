@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- DETALLES: Cintura elástica. Prenda diseñada para que quede por el tobillo.
 - TIRO DEL PANTALÓN: La talla 3 años mide 33 cm; la talla M mide 54,6 cm.
+- DETALLES: Cintura elástica. Prenda diseñada para que quede por el tobillo.
 - Este producto contiene un 57 % de algodón orgánico con la certificación Organic Content Standard (OCS)
-- BÁSICOS PARA EL DÍA A DÍA: Estos leggings sin cierre se convertirán en una prenda básica del amario de tu pequeño.
 - AJUSTE TIPO LEGGING: Ajuste ceñido u entallado en cadera, muslo y pierna
+- BÁSICOS PARA EL DÍA A DÍA: Estos leggings sin cierre se convertirán en una prenda básica del amario de tu pequeño.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09V28GQF7{{</world>}}

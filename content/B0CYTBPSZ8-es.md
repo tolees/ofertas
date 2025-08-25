@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Plantilla OrthoLite
 - Mediasuela Cloudfoam
+- Plantilla OrthoLite
 - Horma clásica
 - Empeine de malla
-- Cierre de cordones
 - Forro textil
+- Cierre de cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CYTBPSZ8{{</world>}}

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Especialmente diseñada para conductores profesionales y habituales que utilizan luz permanente, y con certificación ECE.
-- ULTRA LIFE de OSRAM: Convence por su larga vida útil y por la luminosidad.
-- Hasta 4 años de garantía previo registro en la página web de Osram
 - Disfrute del moderno diseño de lámpara combinado con la máxima calidad del fabricante.
+- Hasta 4 años de garantía previo registro en la página web de Osram
+- ULTRA LIFE de OSRAM: Convence por su larga vida útil y por la luminosidad.
 - Dura hasta cuatro veces más que las lámparas halógenas estándares (hasta 100.000 km funcionando).
 
 [🛒 Aquí!!!]({{< param buyurl >}})

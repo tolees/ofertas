@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cierre: cordones
 - Material interior: textil
 - Suela: goma
-- Cierre: cordones
 - Material exterior: piel
 
 [🛒 Visítala!!!]({{< param buyurl >}})

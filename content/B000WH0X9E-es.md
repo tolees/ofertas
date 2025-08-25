@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Compás de precisión para la iniciación al dibujo
-- Escolar
-- Con obtusángulo y aguja roma antilesiones
-- Compás
-- Diámetro máximo del círculo de 300 mm aproximadamente
 - Dibujo técnico
+- Con obtusángulo y aguja roma antilesiones
+- Compás de precisión para la iniciación al dibujo
 - Longitud de 124 mm
+- Diámetro máximo del círculo de 300 mm aproximadamente
+- Compás
+- Escolar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B000WH0X9E{{</world>}}

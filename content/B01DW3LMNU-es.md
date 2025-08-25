@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Alfombrilla de descanso para plancha de silicona antideslizante
-- Indicador de vapor listo
 - Pulsador de vapor continuo
+- Indicador de vapor listo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01DW3LMNU{{</world>}}

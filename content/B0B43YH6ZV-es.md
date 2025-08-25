@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Libreta en tamaño A4 con encuadernación en espiral.
-- Ideal para la vuelta al cole.
-- Incluye una hoja de pegatinas.
-- Con tapa dura y 80 hojas cuadriculadas de 80 gr. en su interior.
 - Original Mr. Wonderful.
+- Ideal para la vuelta al cole.
+- Libreta en tamaño A4 con encuadernación en espiral.
+- Con tapa dura y 80 hojas cuadriculadas de 80 gr. en su interior.
+- Incluye una hoja de pegatinas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B43YH6ZV{{</world>}}

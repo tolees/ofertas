@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ideal para estar en casa súper cómoda y con estilo
 - Pijama largo, confeccionado con tejido de viscosa suave, con camiseta de canalé lisa, y pantalón con estampado de rayas
+- Ideal para estar en casa súper cómoda y con estilo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQYNY16X{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 73,48% PU 26,52% TEXTILE
 - BLANCO
+- 73,48% PU 26,52% TEXTILE
 - Zapatillas casual para hombre
 
 [🛒 Aquí!!!]({{< param buyurl >}})

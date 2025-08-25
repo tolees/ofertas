@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tecnología de ajuste en seco
 - Corte normal
+- Tecnología de ajuste en seco
 - logotipo de Nike
 
 [🛒 Visítala!!!]({{< param buyurl >}})

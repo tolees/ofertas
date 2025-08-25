@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cinta extra gruesa (25 mm), curvada
 - Gancho final con tres remaches, deslizante para toma de medidas internas y externas
-- Cinta en calidad profesional con escala métrica
-- Cinta revestida completamente con una capa protectora de Mylar
 - Caja cromada de material sintético, a prueba de golpes y pulida
+- Cinta en calidad profesional con escala métrica
+- Cinta extra gruesa (25 mm), curvada
+- Cinta revestida completamente con una capa protectora de Mylar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B000ZEJY26{{</world>}}

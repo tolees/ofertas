@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Construcción vulcanizada
 - Vans Marca Sidestripe
-- Suela original Waffle
+- Construcción vulcanizada
 - Cierre de cordones
+- Suela original Waffle
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0949LRJBN{{</world>}}

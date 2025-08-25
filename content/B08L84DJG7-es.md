@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cintura elástica de talle alto
+- Tela transpirable
 - Corte ajustado
 - Ofrece libertad de movimiento
-- Tela transpirable
-- Cintura elástica de talle alto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08L84DJG7{{</world>}}

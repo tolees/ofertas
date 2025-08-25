@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pestaña con logotipo impreso en la lengüeta
-- Cuello y lengüeta acolchados en el tobillo
 - Plantilla moldeada
 - Paneles de cuero y gamuza
+- Cuello y lengüeta acolchados en el tobillo
 - Logotipo impreso en el panel del talón y ventana
+- Pestaña con logotipo impreso en la lengüeta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BGD2VG1S{{</world>}}

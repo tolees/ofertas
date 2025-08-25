@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estilo de cinco bolsillos
 - Bragueta con cremallera
 - Trabillas de
+- Estilo de cinco bolsillos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CB47C3ZZ{{</world>}}

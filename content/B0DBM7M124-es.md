@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Placa Base: ATX | M-ATX | ITX - - Filtro antipolvo magnético
+- Compatible con tarjetas de hasta 400mm - USB 3.0 y Type-C
 - Dos paneles frontales incluidos (cristal templado con diseño exclusivo y mesh) - Lateral de cristal templado
 - Espacio para instalar hasta 7 ventiladores
-- Placa Base: ATX | M-ATX | ITX - - Filtro antipolvo magnético
 - 4x Ventiladores 120 mm Hummer ARGB preinstalados
-- Compatible con tarjetas de hasta 400mm - USB 3.0 y Type-C
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DBM7M124{{</world>}}

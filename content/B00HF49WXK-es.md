@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Peso: 200
-- Timex - T49963
-- Reloj análogo de pulsera para Hombre
 - Color esfera: Beige
+- Peso: 200
+- Reloj análogo de pulsera para Hombre
+- Timex - T49963
 - Forma de la esfera: Redondo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

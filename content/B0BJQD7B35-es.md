@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Riñonera de 27 cm x 11 cm x 6,5 cm fabricada en microfibra.
 - De Next Door.
-- Ideal para llevar monedas, tarjetas y accesorios pequeños.
 - Correa ajustable para que se adapte mejor a la cintura.
+- Ideal para llevar monedas, tarjetas y accesorios pequeños.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BJQD7B35{{</world>}}

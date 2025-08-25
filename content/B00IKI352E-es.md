@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Óptima robustez: funcionamiento adecuado incluso tras una caída sobre hormigón desde tres metros de altura
 - Sistema de potencía flexible de Bosch: baterías válidas para todas las herramientas de una misma categoría de potencía
 - Professional 18V system; óptimo rendimiento; libertad; todas nuestras baterías son compatibles con las herramientas nuevas o ya existentes de Bosch professional de la misma categoría de potencía
-- Batería compacta de 12 V con 2.5 ah
 - Incluye: 1 batería de litio GBA 18 V 5.0 ah
 - Peso ligero para un trabajo aún más cómodo, sobre todo al utilizarla para tareas por encima de la altura de la cabeza
 - Un 25 % más de autonomía, en comparación con las baterías de 2.0 ah
+- Óptima robustez: funcionamiento adecuado incluso tras una caída sobre hormigón desde tres metros de altura
+- Batería compacta de 12 V con 2.5 ah
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00IKI352E{{</world>}}

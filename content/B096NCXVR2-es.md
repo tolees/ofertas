@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Forro textil
+- Plantilla moldeada
 - Parte superior sintética
 - Amortiguación ligera
-- Forro textil
 - Horma clásica
-- Plantilla moldeada
 - Suela de EVA
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Interruptores desmontables para ajustar la resistencia al clic y prolongar la vida útil del ratón.
-- Botones L/R de polímero PBT con un duradero acabado mate.
-- Microinterruptores ROG con una resistencia consistente y una vida útil de 70 millones de clics.
 - La estructura interna en forma de panal da como resultado un peso de 62 gramos.
-- Ergonomía optimizada para juegos FPS en colaboración con profesionales de eSports.
 - Sensor óptico ajustado por ROG con 16,000 dpi, 400 ips y 1000 Hz de tasa de sondeo.
+- Botones L/R de polímero PBT con un duradero acabado mate.
+- Ergonomía optimizada para juegos FPS en colaboración con profesionales de eSports.
+- Microinterruptores ROG con una resistencia consistente y una vida útil de 70 millones de clics.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08XJXY96T{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Volumen de suministro: 1x regleta de enchufes Alu-Line en formato 19" con 9 tomas de corriente, sin interruptor - en la máxima calidad de brennenstuhl
 - La regleta enchufes en formato 19" es una unidad de distribución para la montaje en el armario rack en formato 19", fabricada de aluminio
-- Base de enchufe múltiple con 9 tomas de corriente, colocados en un disposición de 45°, conector de tierra, cable de 2m (H05VV-F 3G1,5) para la instalación en armarios rack de formato de 19"
-- Protección contra el contacto accidental incorporada: Unas pequeñas placas de plástico cierran los contactos de la toma de corriente
 - Ladrón enchufe de distribución para el montaje con medidas de 19 pulgadas, enchufes con una mayor protección contra el contacto accidental
+- Protección contra el contacto accidental incorporada: Unas pequeñas placas de plástico cierran los contactos de la toma de corriente
+- Volumen de suministro: 1x regleta de enchufes Alu-Line en formato 19" con 9 tomas de corriente, sin interruptor - en la máxima calidad de brennenstuhl
+- Base de enchufe múltiple con 9 tomas de corriente, colocados en un disposición de 45°, conector de tierra, cable de 2m (H05VV-F 3G1,5) para la instalación en armarios rack de formato de 19"
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B007WVIV3I{{</world>}}

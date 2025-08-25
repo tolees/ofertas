@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tecnología transpirable AEROREADY
 - Cremallera hasta el pecho y cuello alzado
+- Tecnología transpirable AEROREADY
 - Punto doble 100% poliéster reciclado
 - Corte entallado
 

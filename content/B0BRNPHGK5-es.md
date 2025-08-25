@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Cierre: bragueta con cremallera
 - Cintura: altura normal de la cintura
-- Composición del material: 98% algodón, 2% elastano
 - Tipo de detalle: pantalones chinos
+- Composición del material: 98% algodón, 2% elastano
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BRNPHGK5{{</world>}}

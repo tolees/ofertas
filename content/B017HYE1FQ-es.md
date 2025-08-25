@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Sensación hidratante y sedosa
 - Fórmula de gel 100% libre de cera
-- El suave color mate se siente lujoso, ¡y también lo hace el aplicador de pie!
 - Agradable fragancia a vainilla
 - Tipo de piel: Normal
+- El suave color mate se siente lujoso, ¡y también lo hace el aplicador de pie!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B017HYE1FQ{{</world>}}

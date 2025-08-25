@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Color intenso y de larga duración
+- Labial líquido con acabado mate
 - Formula duradera, no mancha ni transfiere el color
+- Color intenso y de larga duración
 - Aplicador único fino y preciso adecuado para perfilar
 - 19 tonos diferentes
-- Labial líquido con acabado mate
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08FNDD834{{</world>}}

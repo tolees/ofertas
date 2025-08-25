@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tejido cómodo
-- Hecho de material duradero y ligero
-- Corte delgado en el muslo sin que quede demasiado apretado
-- Forma de pierna cónica
 - Pantalones chinos de la marca JACK & JONES
+- Forma de pierna cónica
+- Corte delgado en el muslo sin que quede demasiado apretado
+- Tejido cómodo
 - JACK & JONES apoya la iniciativa Better Cotton usando algodón orgánico o reciclado
+- Hecho de material duradero y ligero
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07JQBXWTC{{</world>}}

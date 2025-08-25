@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Baraja las cartas y colócalas con las respuestas ocultas. Lanza el dado y elige la categoría según el color. Responde correctamente para seguir jugando hasta una respuesta incorrecta. Gana el primero en obtener 6 cartas (12 respuestas correctas).
 - Sumérgete en el universo y demuestra cuánto sabes sobre las aventuras y desventuras de Rachel, Ross, Monica, Chandler, Joey y Phoebe en Friends con este emocionante juego de mesa.
-- Esta twisted game contiene: 1 portacuñas, 1 carta de reglas, 100 cartas de preguntas (600 preguntas en total), 1 dado, pegatina de cómo jugar.
 - Ideal como regalo niña 12 años, regalo niño 12 años, regalos niños 12 años y regalo adulto para fans de Friends. Revive las aventuras del grupo más divertido con este juego de mesa perfecto para adolescentes y adultos.
+- Baraja las cartas y colócalas con las respuestas ocultas. Lanza el dado y elige la categoría según el color. Responde correctamente para seguir jugando hasta una respuesta incorrecta. Gana el primero en obtener 6 cartas (12 respuestas correctas).
+- Esta twisted game contiene: 1 portacuñas, 1 carta de reglas, 100 cartas de preguntas (600 preguntas en total), 1 dado, pegatina de cómo jugar.
 - Juego de trivia para mayores de 12 años, perfecto para fans de Friends. Juega en casa, noches de juegos, fiestas o reuniones.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

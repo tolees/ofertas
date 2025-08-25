@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- 100% Poliamida
+- 22 Alto x 29 Ancho x 16.5 Fondo cm
 - Bolso Bandolera con Compartimento para Móvil
 - 0.33 kg
-- 22 Alto x 29 Ancho x 16.5 Fondo cm
-- 100% Poliamida
 - Hidrófugo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

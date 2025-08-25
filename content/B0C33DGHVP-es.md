@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Entresuela acolchada flexible
-- Cordones de entrenamiento ligeros con malla diseñada y parte superior sintética
-- Altura del tacón: 3/4 pulgadas
 - Suela de tracción súper flexible
+- Altura del tacón: 3/4 pulgadas
+- Cordones de entrenamiento ligeros con malla diseñada y parte superior sintética
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C33DGHVP{{</world>}}

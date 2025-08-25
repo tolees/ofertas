@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Apta para el lavavajillas, pero no para el microondas.
-- Capacidad: 370 ml
 - Taza de acero inoxidable con mensaje motivador.
 - Tapa de plástico apta para alimentos, sin BPA ni ftalatos.
+- Capacidad: 370 ml
 - Térmica, mantiene las bebidas calientes o frías durante 10h.
+- Apta para el lavavajillas, pero no para el microondas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09CLNBH8R{{</world>}}

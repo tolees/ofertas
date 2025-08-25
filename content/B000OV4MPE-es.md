@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 60 ecolápices acuarelables ordenados por gama cromática
-- Resistente a la acción de la luz
 - Pigmentos de máxima calidad y luminosidad
+- Resistente a la acción de la luz
 - Mina gruesa de 3,8 mm de diámetro
+- 60 ecolápices acuarelables ordenados por gama cromática
 - Trazo suave de colorido intenso
 - Estuche de metal
 

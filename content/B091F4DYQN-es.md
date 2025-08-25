@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Nuevas cartas y nueva jugabilidad - ¡Los minions traen consigo una carta nueva que cambia el juego, ya que permite a los jugadores clonar cartas!
-- Partidas de 15 minutos, de 2 a 5 jugadores, para mayores de 7 años - Incluye 72 cartas en una caja con un diseño lenticular muy molón y un reglamento.
-- Apto para principiantes, fácil de aprender - Si robas un Exploding Minion, explotas y quedas fuera del juego. ¡Un juego de cartas sencillo y rápido para niños, adolescentes y adultos!
 - ¡Los minions han invadido el Universo Exploding Kittens! Juega a la versión temática de los minions del galardonado juego de cartas, que incluye nuevas cartas, ilustraciones y diversión potenciada por bananas.
+- Partidas de 15 minutos, de 2 a 5 jugadores, para mayores de 7 años - Incluye 72 cartas en una caja con un diseño lenticular muy molón y un reglamento.
 - Creado por el ganador del premio Game of the Year, Exploding Kittens - El popular juego que ha vendido más de 10 millones de copias en todo el mundo, batiendo récords en juegos para niños, juegos para adultos y todo lo que hay en medio.
+- Apto para principiantes, fácil de aprender - Si robas un Exploding Minion, explotas y quedas fuera del juego. ¡Un juego de cartas sencillo y rápido para niños, adolescentes y adultos!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B091F4DYQN{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Se adapta a Thule WingBar Evo, WingBar, SlideBar, SquareBar y ProBar
 - Pie fácil de usar con 15 cm de espacio en el techo
 - Componente de barra de techo
-- Se adapta a Thule WingBar Evo, WingBar, SlideBar, SquareBar y ProBar
 - Adecuado para vehículos con vierteaguas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

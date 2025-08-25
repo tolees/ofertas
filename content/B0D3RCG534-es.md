@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Con un total de 36 hojas de pegatinas de distintos tipos.
 - Segunda hoja con pegatinas holográficas.
-- Primera hoja con pegatinas en relieve.
 - Bloc con encuadernación en espiral y nada menos que 1000 pegatinas en su interior.
 - 34 hojas más con pegatinas sin acabados especiales.
-- Con un total de 36 hojas de pegatinas de distintos tipos.
+- Primera hoja con pegatinas en relieve.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D3RCG534{{</world>}}

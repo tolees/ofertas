@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Hecho de cuero PU, plástico ABS (acrilonitrilo butadieno estireno) y nylon y metal
 - Adecuado para vehículos con y sin marcha atrás
 - Marca BC Corona. Idioma original
-- El producto se presenta con una placa montada, en este caso una placa de 5 velocidades, que puede sustituirse por una de las otras dos incluidas en el blíster
 - El pomo de cambio viene con 3 placas intercambiables, 2 placas para 5 marchas y una para 6 marchas y varios adaptadores para adaptar el pomo de cambios a la palanca de cambios
 - Diseño elegante. Pase universal
 - Diámetro 31 mm con mecanismo de suspensión de cambios reemplazable
-- Hecho de cuero PU, plástico ABS (acrilonitrilo butadieno estireno) y nylon y metal
+- El producto se presenta con una placa montada, en este caso una placa de 5 velocidades, que puede sustituirse por una de las otras dos incluidas en el blíster
 - Nota Los botones son adecuados para velocidades de 5 y 6 velocidades.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

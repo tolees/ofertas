@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plegable en el bolsillo de la mano
-- Bolsillos con cremallera
-- Peso promedio*: 400 g (14.1 oz)
-- *Peso basado en la talla M, el peso real puede variar.
 - Dobladillo ajustable con cordón
-- Aislamiento Thermarator 100% poliéster reciclado
 - La repelencia avanzada Omni-Shield sella salpicaduras y manchas de repelencia avanzada
+- *Peso basado en la talla M, el peso real puede variar.
 - Puños elásticos
+- Peso promedio*: 400 g (14.1 oz)
+- Plegable en el bolsillo de la mano
+- Aislamiento Thermarator 100% poliéster reciclado
+- Bolsillos con cremallera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CN3WW6K6{{</world>}}

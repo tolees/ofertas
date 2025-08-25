@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'ADIDAS H57525 ENT22 TK JKTW Jacket Mujer black Tamaño XL'
-date: 2024-11-05 18:23:07
-image: 'https://m.media-amazon.com/images/I/31RuROagDCL._SL500_._SL400_.jpg'
+title: 'adidas Mujer Entrada 22 Track Jacket  Black  XL'
+date: 2025-08-25 08:37:03
+image: 'https://m.media-amazon.com/images/I/31iByBFEYHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B09T6SSPWP-es ADIDAS H57525 ENT22 TK JKTW Jacket Mujer black Tamaño XL'
+slug: 'B09T6SSPWP-es adidas Mujer Entrada 22 Track Jacket Black XL'
 sku: 'B09T6SSPWP-es'
-tags: [ '🇪🇸', ]
-actualPrice: 22.49 EUR
+tags: [ 'Chaquetas deportivas para mujer','Moda','Moda Mujer','Ropa de mujer','Ropa deportiva para mujer','adidas','🇪🇸', ]
+actualPrice: 19.99 EUR
 currency: EUR
-price: 22.49
+price: 19.99
 comparePrice: 35.0 EUR
-prodname: 'ADIDAS H57525 ENT22 TK JKTW Jacket Mujer black Tamaño XL'
+prodname: 'adidas Mujer Entrada 22 Track Jacket  Black  XL'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B09T6SSPWP/?tag=tolees-21'
-descuento: '35.74'
-average: '21.7677777777779'
+descuento: '42.89'
+average: '21.5900000000001'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Puños y dobladillo elásticos
+- Puños y dobladillo elásticos
+- Compra 1 talla más grande
+- 100% poliéster (reciclado)
+- Bolsillos frontales de ojal
 - Tejido transpirable AEROREADY
-- Cierre de cremallera y cuello alzado
-- Punto doble 100% poliéster reciclado
-- Corte entallado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09T6SSPWP{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte sintética con textura en relieve Hybridfeel
-- Horma clásica
 - Cierre de cordones
+- Horma clásica
+- Parte sintética con textura en relieve Hybridfeel
 - Suela específica para campos de césped artificial de segunda y tercera generación
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

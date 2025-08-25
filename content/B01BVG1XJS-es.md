@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se especifica una tolerancia de medición de +/- 1 °C para la temperatura. Se especifica una tolerancia de medición de +/- 5% para la humedad
 - El conjunto de 3 indicadores es un termómetro y un higrómetro en uno. Se utiliza para controlar el clima de la habitación y evitar la formación de moho. Los termohigrómetros se pueden montar o colgar con el soporte integrado.
 - Además de los valores de temperatura y humedad interiores, el nivel de temperatura ambiente se representa mediante un símbolo sonriente. La temperatura se expresa en °C.
 - Con el práctico juego de 3, puedes controlar varias habitaciones a la vez y, por lo tanto, protegerlas contra la formación excesiva de humedad.
-- Dimensiones 45 x 58 x 16 mm, peso 31 g; se necesitan 3 pilas CR2032 (1 por sensor) para funcionar (incluidas)
 - Contenido del envío: 3 contadores térmicos/higroscópicos, pilas 3CR2032, manual de usuario
+- Dimensiones 45 x 58 x 16 mm, peso 31 g; se necesitan 3 pilas CR2032 (1 por sensor) para funcionar (incluidas)
+- Se especifica una tolerancia de medición de +/- 1 °C para la temperatura. Se especifica una tolerancia de medición de +/- 5% para la humedad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01BVG1XJS{{</world>}}

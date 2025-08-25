@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Empeine de malla
-- IMEVA: La entresuela de PUMA para una sensación cómoda y ligera
 - Caña baja
+- IMEVA: La entresuela de PUMA para una sensación cómoda y ligera
+- Empeine de malla
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B088RFQV7Z{{</world>}}

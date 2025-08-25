@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - PEPE JEANS KENTON BLOCK W WHITE Ladies 40
-- Diseño elegante
 - Cómodo y de apoyo
+- Diseño elegante
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D87BZFVP{{</world>}}

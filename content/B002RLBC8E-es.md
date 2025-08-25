@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Calcetines cortos finos
 - Costuras planas en la puntera para evitar molestias
 - Tienen logotipo bordado
+- Calcetines cortos finos
 - Material transpirable y resistente
 
 [🛒 Aquí!!!]({{< param buyurl >}})

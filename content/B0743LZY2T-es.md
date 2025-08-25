@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Protección integrada de aspecto
-- Especialmente para la pequeña cabeza tamaños, Niños o adultos con pequeño distancia de pupila o estrecha rostros adecuado
-- Antiarañazos.
 - Muy buen base Protección
+- Antiarañazos.
+- Especialmente para la pequeña cabeza tamaños, Niños o adultos con pequeño distancia de pupila o estrecha rostros adecuado
 - Ligero gafas de protección con sólo 26 g
 
 [🛒 Visítala!!!]({{< param buyurl >}})

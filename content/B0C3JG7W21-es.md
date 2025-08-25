@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Forro textil
-- Suela y mediasuela de EVA
-- Horma clásica
 - Cierre autoadherente
+- Horma clásica
+- Suela y mediasuela de EVA
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C3JG7W21{{</world>}}

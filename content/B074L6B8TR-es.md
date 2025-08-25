@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Kappa Zapatillas unisex para niños Follow Kids Azul (6033 Blue/Lime), 26 EU
 - Kappa Zapatillas unisex para niños Follow Kids en azul (6033 Blue/Lime) en la UE talla 26
+- Kappa Zapatillas unisex para niños Follow Kids Azul (6033 Blue/Lime), 26 EU
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B074L6B8TR{{</world>}}

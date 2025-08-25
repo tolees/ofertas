@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cuello acanalado
+- Logo serigrafiado con tacto suave
 - Contiene algodón orgánico peruano
 - El ajuste regular es óptimo: no demasiado apretado ni demasiado holgado
 - Pre-encogido
-- Logo serigrafiado con tacto suave
-- Cuello acanalado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09PBTRPJD{{</world>}}

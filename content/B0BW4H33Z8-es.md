@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tirador telescópico ajustable a 2 alturas (77/100cm)
-- Dimensiones: 47 x 32 x 27cm (ruedas incluidas)
 - Interior con forro y bolsillo acolchado para dispositivos electrónicos
 - Dos compartimentos, un bolsillo frontal y dos bolsillos laterales de red
+- Dimensiones: 47 x 32 x 27cm (ruedas incluidas)
+- Tirador telescópico ajustable a 2 alturas (77/100cm)
 - Mochila escolar con 2 ruedas integradas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

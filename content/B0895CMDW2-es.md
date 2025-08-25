@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- 16 cartas de personajes coleccionables
 - Imán de la nevera de nuestro dúo heroico
-- La edición incluye
 - La banda sonora original de Clive n Wrench
 - Un manual de juego a todo color con consejos y trucos
-- 16 cartas de personajes coleccionables
+- La edición incluye
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0895CMDW2{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tiro regular
 - Logotipo impreso
 - Cintura expuesta
+- Tiro regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CDGVKQ44{{</world>}}

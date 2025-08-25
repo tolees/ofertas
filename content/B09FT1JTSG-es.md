@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Espectacular producto de la marca CASIO, modelo A100WEG-9AEF.
-- Correa material/color: Acero / Dorado
-- Caja material/color: Resina / Dorado
 - Diámetro caja: 33 MM
+- Caja material/color: Resina / Dorado
+- Correa material/color: Acero / Dorado
+- Espectacular producto de la marca CASIO, modelo A100WEG-9AEF.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09FT1JTSG{{</world>}}

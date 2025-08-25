@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Superior de cuero
-- Suela de goma
-- Franja característica de PUMA en los lados medial y lateral
-- Entresuela de goma
 - Logotipo de PUMA Cat en el talón
+- Superior de cuero
+- Entresuela de goma
+- Franja característica de PUMA en los lados medial y lateral
+- Suela de goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09YY6S3XT{{</world>}}

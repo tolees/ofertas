@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Labios a prueba de todo
-- Pigmentos flexibles que se adaptan a tus labios para un acabado mate optimo inalterable durante 16 horas
 - Aplicador de optima presición que garantiza la cantidad exacta para una cobertura óptima.
-- No apelmaza, no se cuartea, a prueba de besos, a prueba de roces y resistente al agua
+- Labios a prueba de todo
 - Contiene factor de protección solar 20
+- Pigmentos flexibles que se adaptan a tus labios para un acabado mate optimo inalterable durante 16 horas
+- No apelmaza, no se cuartea, a prueba de besos, a prueba de roces y resistente al agua
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BNNPF6B3{{</world>}}

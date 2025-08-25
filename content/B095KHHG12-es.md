@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Apto para celacos
-- Caramelos de goma con forma de dedos
 - Sin colorantes artificiales
+- Caramelos de goma con forma de dedos
+- Apto para celacos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B095KHHG12{{</world>}}

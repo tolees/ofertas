@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ideal para almacenamiento y organización de alacena y gabinete
-- Incluye manijas integradas
 - 10 cm x 37 cm x 10cm
+- Incluye manijas integradas
 - Fabricado en plástico de calidad duradera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte textil
 - Forro textil
+- Parte textil
 - Suela de goma para todo tipo de ficies
 - Cierre de cordones
 - Horma clásica

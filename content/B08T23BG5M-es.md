@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- hasta 10 minutos de funcionamiento con tecnología de iones de litio «no-fade»
 - incluye 3 accesorios: accesorio motorizado para mascotas, cepillo para polvo y boquilla estrecha
 - 2 años de garantía del fabricante
-- hasta 10 minutos de funcionamiento con tecnología de iones de litio «no-fade»
 - depósito de gran capacidad y fácil de vaciar con un solo gesto
 - aspiradora de mano sin cable, ideal para hogares con mascotas
 

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto de calidad óptima
 - Accesorio de ciclismo
+- Producto de calidad óptima
 - Cámara de aire de repuesto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

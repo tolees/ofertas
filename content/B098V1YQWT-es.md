@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Excelentes gráficos
-- Personajes variados con una historia interesante
 - Accesible para todos
+- Personajes variados con una historia interesante
+- Excelentes gráficos
 - Obtendras mucha diversión
 - Una experiencia única
 

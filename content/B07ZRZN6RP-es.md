@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Incluye: lápiz con micro-punta, mini esponja para aplicar el polvo para cejas y cepillo profesional
-- Lápiz de cejas multi-uso con 5 beneficios en 3
-- Micro-lápiz de cejas multi-uso con 5 beneficios en 1: rellena, define, esculpe, da forma y difumina
 - Define y rellena la ceja con el lápiz preciso micro-sculpting que se desliza fácilmente mezclando el color con el color de tu ceja
+- Micro-lápiz de cejas multi-uso con 5 beneficios en 1: rellena, define, esculpe, da forma y difumina
+- Lápiz de cejas multi-uso con 5 beneficios en 3
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07ZRZN6RP{{</world>}}

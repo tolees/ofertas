@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte ior cómoda
 - Algodón suave hecho con componentes reciclados
+- Parte ior cómoda
 - Línea de ventilación para mantener la frescura y absorber la humedad
 - Corte natural para no perder la comodidad todo el día
 - Talón y punta reforzados para durabilidad

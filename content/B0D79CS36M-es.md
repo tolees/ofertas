@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- en el tobillo
 - Escote
+- en el tobillo
 - No resistente al agua
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

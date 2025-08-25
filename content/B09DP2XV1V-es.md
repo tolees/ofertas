@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 3 métodos de instalación: imán incorporado, las luces del gabinete se pueden adsorber en cualquier superficie de hierro que desee. Con cinta magnética adhesiva 3M, también puedes instalarlo en cualquier superficie. Además, puedes utilizar los tornillos adjuntos para reforzar el Adhesivo Magnético 3M, sin preocuparte de que se caiga. Le permite cambiar la ubicación fácilmente.
-- Recargable por USB: batería recargable de alta capacidad incorporada para luces debajo del gabinete, se carga fácilmente a través de USB. Solo tarda 4 horas en cargarse por completo y se puede usar hasta 30 días en el modo de sensor de movimiento. Se puede quitar y volver a instalar fácilmente cuando sea necesario cargar la batería desde la tira de LED.
 - OUILA 36 luces LED para debajo del armario, 5000 K, sensor de movimiento, luz de armario, inalámbrica, recargable por USB, 800 mAh, luz nocturna con tira magnética para escaleras, armario, pasillo, cocina, garaje, 2 paquetes
+- Recargable por USB: batería recargable de alta capacidad incorporada para luces debajo del gabinete, se carga fácilmente a través de USB. Solo tarda 4 horas en cargarse por completo y se puede usar hasta 30 días en el modo de sensor de movimiento. Se puede quitar y volver a instalar fácilmente cuando sea necesario cargar la batería desde la tira de LED.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09DP2XV1V{{</world>}}

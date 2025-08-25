@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material exterior: Tejido
 - Cierre: Hebilla
+- Material exterior: Tejido
 - Tipo de tacón: Cuña
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

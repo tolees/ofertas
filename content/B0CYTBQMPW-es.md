@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre de cordones
 - Horma clásica
 - Forro textil
+- Cierre de cordones
 - Parte superior de piel revestida
 - Mediasuela con amortiguación
 

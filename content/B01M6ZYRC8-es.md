@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Se utiliza con el modelo de pistola de pegar Dremel 940 (195°)
 - Goteo de control: para evitar el goteo pegamento sobre el proyecto
+- Se utiliza con el modelo de pistola de pegar Dremel 940 (195°)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01M6ZYRC8{{</world>}}

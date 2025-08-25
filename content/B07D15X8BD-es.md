@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 20 cm de alto x 25 cm de ancho x 13,5 cm de profundidad
 - 62 % poliéster, 38 % poliéster reciclado
+- 20 cm de alto x 25 cm de ancho x 13,5 cm de profundidad
 - Bolsa de almuerzo mediana aislada con funda para carrito
 - 0,26 kg de peso y 8 L de volumen
 - Repele el agua

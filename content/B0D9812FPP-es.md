@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- negro variado
 - Quiksilver Zapatos
+- negro variado
 - Quiksilver Zapatos variales de piel negra, textil, goma
 - piel, textil, goma
 

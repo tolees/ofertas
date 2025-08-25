@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - INSTRUCCIONES DE USO | Al abrir el frasco, remover con una cuchara no metálica y consumir directamente. No añadir azúcar. Una vez abierto se conserva 24 horas en el frigorífico
 - CONTIENE | Manzana ecológica (55%), melocotón ecológico (25%) y plátano ecológico (20%). Sin azúcares añadidos.Con los azúcares naturalmente presentes en la fruta. Procedentes de agricultura ecológica. Bajo en calorias, grasas y azúcares
+- SIN ACEITE DE PALMA | Tarritos libres de gluten, aceite de palma, almidón, azúcar añadido y cualquier otro ingrediente que pueda ser perjudicial para gartantizar una nutrición saludable. Proceso de elaboración natural y ecológico
 - CALIDAD HERO BABY | Ingredientes ecológicos envasados al vacío con un tratamiento térmico especial. Garantiza que cada tarrito conserve su frescura y nutrientes sin necesidad de añadir conservantes ni colorantes artificiales
 - INGREDIENTES ECOLÓGICOS | Tarritos Hero Solo Ecológicos de manzana, melocotón y plátano. Elaborados con ingredientes 100% naturales sin químicos añadidos. Perfectos para bebés a partir de los 4 meses para un alimentación saludable
-- SIN ACEITE DE PALMA | Tarritos libres de gluten, aceite de palma, almidón, azúcar añadido y cualquier otro ingrediente que pueda ser perjudicial para gartantizar una nutrición saludable. Proceso de elaboración natural y ecológico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08C61KL4Q{{</world>}}

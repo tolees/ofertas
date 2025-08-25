@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Fórmula nutritiva e hidratante
 - Da volumen de manera natural
 - Suavizar; con vitaminas; cuidado; reparar; brillante
 - Ingredientes que cuidan
-- Fórmula nutritiva e hidratante
 - Nos oponemos a los experimentos con animales; cosnova aparece internacionalmente con essence y CATRICE tanto en PETA Alemania como en PETA
 
 [🛒 Aquí!!!]({{< param buyurl >}})

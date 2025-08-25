@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fórmula con pigmentos de tinta mate
-- Sensación de comodidad y acabado velvet
-- Aplicador fino y súper preciso para delinear y rellenar
 - Colores súper intensos
 - Efecto tattoo y transferproof hasta 24H
+- Sensación de comodidad y acabado velvet
+- Aplicador fino y súper preciso para delinear y rellenar
+- Fórmula con pigmentos de tinta mate
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B085SGLZ17{{</world>}}

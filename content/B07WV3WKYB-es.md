@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Dispone de 4 ruedas giratorias (2 de ellas con freno de bloqueo)
 - Soporta una carga máxima de 10 kg
 - Base regulable para cpus de distintos anchos (entre 119 y 209 mm)
-- Dispone de 4 ruedas giratorias (2 de ellas con freno de bloqueo)
 - Soporte metálico con ruedas para ordenadores cpu o torres
 
 [🛒 Aquí!!!]({{< param buyurl >}})

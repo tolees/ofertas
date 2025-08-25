@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- piel, textil, tpr
 - Quiksilver Zapatillas Torrance de piel negra, textil, tpr
+- piel, textil, tpr
 - Quiksilver Zapatos
 - Torrance negro
 

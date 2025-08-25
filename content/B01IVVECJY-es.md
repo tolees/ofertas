@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- De microfibra de poliéster 100 % para resistencia y suavidad excepcional.
-- El gris oscuro ofrece una apariencia atemporal y bonita, y es fácil de combinar con el resto de la decoración.
 - Tela resistente a las arrugas, ofrece lo mejor de la calidez aislante y la comodidad de la transpirabilidad.
 - Incluye 2 fundas de almohada de Amazon Basics de microfibra (50 x 80 cm).
+- De microfibra de poliéster 100 % para resistencia y suavidad excepcional.
+- El gris oscuro ofrece una apariencia atemporal y bonita, y es fácil de combinar con el resto de la decoración.
 - Fácil mantenimiento: lavar a máquina en caliente, no usar lejía, secar en secadora a baja temperatura.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

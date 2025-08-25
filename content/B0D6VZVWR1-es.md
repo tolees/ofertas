@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillo frontal con organizador
-- Gran compartimento principal y organización interior
-- Capacidad: 22 litros
-- 2 bolsillos laterales para botellas de agua.
 - Dimensiones: 41 x 30,4 x 12 cm
+- Capacidad: 22 litros
+- Gran compartimento principal y organización interior
+- 2 bolsillos laterales para botellas de agua.
+- Bolsillo frontal con organizador
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6VZVWR1{{</world>}}

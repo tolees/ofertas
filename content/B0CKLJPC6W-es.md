@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aprende el camino de la Fuerza del Maestro Jedi Luke Skywalker, toma el control de un veloz Podracer, lidera un escuadrón de élite de clones... Haz todo esto y más con el STAR WARS Heritage Pack que incluye siete clásicos juegos de STAR WARS:
 - ¡Siete clásicos juegos de STAR WARS!
-- Los siguientes juegos no están incluidos en el cartucho y requerirán una descarga digital, ya sea a la memoria de la consola o en una tarjeta SD: STAR WARS: Knights of the Old Republic (12.1 GB), STAR WARS: Knights of the Old Republic II: The Sith Lords (15.9 GB)
 - Los siguientes juegos están incluidos en el cartucho: STAR WARS Jedi Knight: Jedi Academy (3.6 GB), STAR WARS Jedi Knight II: Jedi Outcast (1.1 GB), STAR WARS Episode I Racer (254 MB), STAR WARS Republic Commando (2.5 GB), STAR WARS: The Force Unleashed (3.4 GB)
+- Los siguientes juegos no están incluidos en el cartucho y requerirán una descarga digital, ya sea a la memoria de la consola o en una tarjeta SD: STAR WARS: Knights of the Old Republic (12.1 GB), STAR WARS: Knights of the Old Republic II: The Sith Lords (15.9 GB)
+- Aprende el camino de la Fuerza del Maestro Jedi Luke Skywalker, toma el control de un veloz Podracer, lidera un escuadrón de élite de clones... Haz todo esto y más con el STAR WARS Heritage Pack que incluye siete clásicos juegos de STAR WARS:
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKLJPC6W{{</world>}}

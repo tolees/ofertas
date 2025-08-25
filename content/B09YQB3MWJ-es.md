@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Corte
-- Bolsillos laterales
 - Cintura elástica con cordón
+- Bolsillos laterales
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09YQB3MWJ{{</world>}}

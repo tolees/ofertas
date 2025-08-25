@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Modelo unisex
-- Diseño flexible
 - Calcetines elásticos
+- Diseño flexible
+- Modelo unisex
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BP8F14WP{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material que absorbe el sudor
 - Elástico en cuatro direcciones
+- Material que absorbe el sudor
 - Dobladillo de ventilación lateral
 
 [🛒 Comprar!!!]({{< param buyurl >}})

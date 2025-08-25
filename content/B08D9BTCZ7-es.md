@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bota baja
 - Etiqueta con la marca PUMA en la parte superior
+- Bota baja
+- Suela de goma fina
 - Logotipo de gato en la entresuela lateral
 - Parte superior de malla
-- Suela de goma fina
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08D9BTCZ7{{</world>}}

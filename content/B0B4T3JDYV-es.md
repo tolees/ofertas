@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Ancho del zapato: estrecho
+- Forro: poliéster
 - Forma redonda
 - Piel: Cuero liso
-- Material exterior: sintético
 - Material interior: sintético
-- Forro: poliéster
-- Ancho del zapato: estrecho
+- Material exterior: sintético
 - Correa: tanga
 
 [🛒 Aquí!!!]({{< param buyurl >}})

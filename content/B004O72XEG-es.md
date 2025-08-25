@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Enriquecido con 500mg L-arginina
 - 47,5 g de carbohidratos por porción
+- Enriquecido con 500mg L-arginina
 - Ideal para recuperar energías tras el entrenamiento
 
 [🛒 Visítala!!!]({{< param buyurl >}})

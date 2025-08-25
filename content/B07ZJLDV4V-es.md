@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalones de chándal
-- Cintura elástica
-- Cordón
 - Cómodo
+- Cintura elástica
 - algodón
+- Cordón
+- Pantalones de chándal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07ZJLDV4V{{</world>}}

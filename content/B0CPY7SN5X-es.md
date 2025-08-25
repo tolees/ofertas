@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cámara de butilo
 - Es necesario inflarlo
 - Cubierta 100% poliuretano reciclado
+- Cámara de butilo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CPY7SN5X{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 217366
 - 889698620857
+- 217366
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09TFJ4R11{{</world>}}

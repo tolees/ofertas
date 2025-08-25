@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - El cargador Xiaomi 67W Charging Combo es un modelo de carga con un puerto USB y cable USB-C
-- Identificación inteligente de dispositivos para adaptar la corriente al máximo del aparato que estés conectando
 - Potencia de carga de 67W
+- Identificación inteligente de dispositivos para adaptar la corriente al máximo del aparato que estés conectando
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DB2793NS{{</world>}}

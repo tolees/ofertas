@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillos en las costuras laterales
 - Compra 1 talla más grande
 - 100% poliéster (reciclado)
-- Puños con cremallera
+- Bolsillos en las costuras laterales
 - Tecnología transpirable AEROREADY
+- Puños con cremallera
 - Puños con cremallera
 
 [🛒 Comprar!!!]({{< param buyurl >}})

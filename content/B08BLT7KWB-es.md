@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Adornadas con la emblemática Red Tab
 - Cuenta con un empeine de piel vegana con panel y detalles de costuras
+- Adornadas con la emblemática Red Tab
 - Combínalas con denim o chinos para un look clásico y elegante
 
 [🛒 Visítala!!!]({{< param buyurl >}})

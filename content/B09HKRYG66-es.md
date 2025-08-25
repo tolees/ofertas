@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura elástica con cordón
 - Corte clásico con cintura de talle medio
+- Cintura elástica con cordón
 - Punto doble 100% poliéster reciclado
 - Tecnología transpirable AEROREADY
 

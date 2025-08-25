@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsa de 35 gr.
 - Eficacísimo material filtrante completamente biológico.
 - Estructura de poros abiertos, tridimensional y funcional.
+- Bolsa de 35 gr.
 - Garantiza agua cristalina en el acuario o en el estanque.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

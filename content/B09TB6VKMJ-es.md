@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apta para microondas y lavavajillas.
-- Con mensaje dirigido a padrinos.
 - Mensaje del producto: Padrino, eres genial. Como tú no hay otro igual.
-- Capacidad: 370 ml
 - Taza original realizada en cerámica.
+- Apta para microondas y lavavajillas.
+- Capacidad: 370 ml
+- Con mensaje dirigido a padrinos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09TB6VKMJ{{</world>}}

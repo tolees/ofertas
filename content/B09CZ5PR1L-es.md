@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Doble esmaltado exterior e interior que previene de oxidaciones y proporciona una cocina sana y tradicional
 - Se recomienda secar muy bien inmediatamente después de su lavado.
+- Doble esmaltado exterior e interior que previene de oxidaciones y proporciona una cocina sana y tradicional
 - Cazuela fabricada en hierro fundido de gran calidad.
 - Incluye tapa también fabricada en hierro fundido de doble esmaltado
 

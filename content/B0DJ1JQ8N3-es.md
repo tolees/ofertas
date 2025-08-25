@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Alimento dietético completo para gatitos a partir de 8 semanas y gatos adultos
-- Con ARROZ para una fácil digestión y SEPIOLITA para heces de mejor calidad
-- PREBIÓTICOS (FOS): ayudan a desarrollar la microbiota intestinal
 - Ingredientes SIN GLUTEN
+- Con ARROZ para una fácil digestión y SEPIOLITA para heces de mejor calidad
+- Alimento dietético completo para gatitos a partir de 8 semanas y gatos adultos
+- PREBIÓTICOS (FOS): ayudan a desarrollar la microbiota intestinal
 - SENSITIVE: con pavo y guisante, para gatos con sensibilidad digestiva.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forma clásica
 - Parte de piel
 - Mediasuela con amortiguación
+- Forma clásica
 - Forro textil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

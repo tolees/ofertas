@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Margarita de caucho
+- Color de la tinta: azul
 - Bolígrafo lila individual
 - Optimo para la vuelta al col
-- Color de la tinta: azul
-- Margarita de caucho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C62M1V8K{{</world>}}

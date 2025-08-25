@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantilla acolchada y cómoda
-- Entresuela que absorbe los golpes
 - Suela de tracción flexible
+- Entresuela que absorbe los golpes
+- Plantilla acolchada y cómoda
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB1TGFCY{{</world>}}

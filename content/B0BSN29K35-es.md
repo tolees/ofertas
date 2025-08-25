@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela de tracción flexible
 - Parte superior sintética ligera y de malla
+- Suela de tracción flexible
 - Entresuela de apoyo que absorbe los golpes
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tela transpirable
-- Ajuste apretado
-- Tela impermeable
 - Material resistente y duradero
+- Tela impermeable
+- Ajuste apretado
+- Tela transpirable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08LD21WQ7{{</world>}}

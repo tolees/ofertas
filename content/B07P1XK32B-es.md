@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ● Ocasiones: golf, correr, trabajo, viajes, reuniones, citas, salidas nocturnas, fiestas, actividades al aire libre, lugar casual o formal. Estilo: varios patrones para tu elección, combina con cualquier pantalón (pantalones cortos, pantalones, vaqueros, pantalones deportivos).
 - ● Ajuste regular: comprueba la tabla de tallas en la última imagen. Entonces elige el mejor tamaño para ti. Esperamos que disfrutes de tu compra.
+- ● 100% poliéster. Patrón: tejido océano, cuadros azules y blancos, pata de gallo azul, pata de gallo azul claro, rayas horizontales azules y blancas, rayas horizontales azules y blancas.
 - ● La revolucionaria tecnología Coolpass proporciona una refrigeración máxima completa, de secado rápido.
 - ● Excelente calidad: cuello y manga antiarrugas, absorbe rápidamente el sudor, peso ligero, secado rápido, ajuste suave y flexible, tela transpirable, antibolitas, etiquetas sin etiquetas, acabado sin enganches, nunca se encoge ni se decolora, no necesita planchado, lavar a máquina y secar al aire.
-- ● 100% poliéster. Patrón: tejido océano, cuadros azules y blancos, pata de gallo azul, pata de gallo azul claro, rayas horizontales azules y blancas, rayas horizontales azules y blancas.
+- ● Ocasiones: golf, correr, trabajo, viajes, reuniones, citas, salidas nocturnas, fiestas, actividades al aire libre, lugar casual o formal. Estilo: varios patrones para tu elección, combina con cualquier pantalón (pantalones cortos, pantalones, vaqueros, pantalones deportivos).
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07P1XK32B{{</world>}}

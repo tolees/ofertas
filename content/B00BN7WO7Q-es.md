@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Texturas: Gel
 - Tipo de Piel: Todo Tipo de Pieles
+- Texturas: Gel
 - Formato: Dosificador
 
 [🛒 Visítala!!!]({{< param buyurl >}})

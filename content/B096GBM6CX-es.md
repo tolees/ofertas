@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- corte normal
 - Capucha ajustable con cordón
 - bolsillo canguro
+- corte normal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B096GBM6CX{{</world>}}

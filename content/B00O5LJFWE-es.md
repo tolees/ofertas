@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Skinny
 - Recomendamos adquirir la talla más grande
+- Skinny
 - Cierre: Cremallera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuantas más respuestas correctas de, más difíciles serán las preguntas
 - Trainer Challenge te comunicará un hecho y dos Pokémon y depende de ti decidir cuál es el Pokémon correcto
+- Cuantas más respuestas correctas de, más difíciles serán las preguntas
 - 300 preguntas para responder
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

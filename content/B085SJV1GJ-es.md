@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Composición del material: 100% algodón
 - Botones en la parte delantera
-- Pantalones cortos de mezclilla con cintura de bolsa de papel
+- Composición del material: 100% algodón
 - 4 bolsillos
+- Pantalones cortos de mezclilla con cintura de bolsa de papel
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B085SJV1GJ{{</world>}}

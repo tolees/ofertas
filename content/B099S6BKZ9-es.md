@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sutiles pliegues
 - Corte ajustado de mezclilla
+- Sutiles pliegues
 - Tejido elástico
 
 [🛒 Comprar!!!]({{< param buyurl >}})

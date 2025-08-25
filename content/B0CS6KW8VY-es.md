@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Bolsillo con cremallera en la parte de atrás para guardar y tener localizados pequeños accesorios.
 - Tamaño perfecto para llevar las cosas imprescindibles.
-- Correa ajustable para que se adapte mejor a la cintura.
 - Riñonera de 34 cm x 12,5 cm x 7,5 cm fabricada en poliéster.
+- Correa ajustable para que se adapte mejor a la cintura.
 - Compartimento principal con cierre cremallera.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

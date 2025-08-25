@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Figura POP Masters of the Universe Beast Man Exclusive 25cm
+- Figura POP Masters of the Universe Beast Man Exclusive 25cm
 - Las pegatinas de la caja pueden variar
-- Figura POP Masters of the Universe Beast Man Exclusive 25cm
-- Figura POP Masters of the Universe Beast Man Exclusive 25cm
 - Figura POP Masters of the Universe Beast Man Exclusive 25cm
 - Figura POP Masters of the Universe Beast Man Exclusive 25cm
 

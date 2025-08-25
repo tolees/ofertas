@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cordones moteados
-- Plantilla de poliuretano
 - Suela de goma termoplástica
+- Plantilla de poliuretano
+- Cordones moteados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09QBYBX6S{{</world>}}

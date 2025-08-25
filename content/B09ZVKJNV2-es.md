@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela de EVA para un peso ligero
 - Plantilla XL Extralight para mayor ligereza y absorción de impactos
+- Suela de EVA para un peso ligero
 - Bandas elásticas: ajuste cómodo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

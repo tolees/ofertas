@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Soporte de placa para BP #5
 - Soporte de placa para BP #2
 - Soporte de placa para BP #4
-- Soporte de placa para BP #5
 - Soporte de placa para BP #3
 - Soporte de placa para BP #1
 

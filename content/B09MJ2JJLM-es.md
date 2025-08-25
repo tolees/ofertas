@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Presenta cordones
+- Tiene un diseño monocromático
 - Este producto es original Levis
 - Adecuada para días fríos
-- Tiene un diseño monocromático
-- Presenta cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09MJ2JJLM{{</world>}}

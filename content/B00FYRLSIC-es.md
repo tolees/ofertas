@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Apertura máxima F4 constante en todo el alcance del zoom
 - Diseño resistente al polvo y la humedad
 - Objetivo de zoom estándar con fotograma completo de 35 mm de ZEISS
 - Estabilización de imagen SteadyShot
-- Apertura máxima F4 constante en todo el alcance del zoom
 - Fotograma completo de 35 mm, montura E
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

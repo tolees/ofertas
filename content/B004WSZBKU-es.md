@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ceras redondas y envueltas individualmente con papel protector
-- Colores vivos y cubrientes
-- 12 tonalidades
 - Lavables de tejidos y superficies no porosas
+- Colores vivos y cubrientes
 - Fórmula lavable de manos y de la mayor parte de tejidos y superficies no porosas
+- Ceras redondas y envueltas individualmente con papel protector
+- 12 tonalidades
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B004WSZBKU{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Productos de Cuidado de la piel para unisex adulto
 - Cuidado de la piel Body Pure Argan Oil de Moroccanoil
 - Los productos de la marca Moroccanoil están fabricados con ingredientes de la mejor calidad.
+- Productos de Cuidado de la piel para unisex adulto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00J6E3SU0{{</world>}}

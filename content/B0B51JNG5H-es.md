@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - ArmoLIPID PLUS combina dosis bajas de ingredientes de origen natural que trabajan sinérgicamente para favorecer el control de los triglicéridos plasmáticos y ayudar a mantener los niveles de colesterol.
+- ¡Nota! El Laboratorio presente en el embalaje puede variar. (Viatris se formó a través de la fusión de Mylan y Upjohn)
 - ArmoLIPID PLUS es producido cumpliendo normas de correcta fabricación, que aseguran la calidad del producto.
 - ArmoLIPID PLUS no es un complemento alimenticio cualquiera, se diferencia por: tener una fórmula patentada; triple acción para mantener el colesterol proveniente del: hígado, dieta y tejidos periféricos; por su seguridad y calidad, beneficios que hacen que el producto sea número 1 en ventas en España.
 - Sin gluten, sin lactosa, sin GMO (sin productos transgénicos).
 - ArmoLIPID PLUS, es el complemento alimenticio adecuado para las personas con colesterol leve/moderado y para los que las estatinas no están indicadas.
-- ¡Nota! El Laboratorio presente en el embalaje puede variar. (Viatris se formó a través de la fusión de Mylan y Upjohn)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B51JNG5H{{</world>}}

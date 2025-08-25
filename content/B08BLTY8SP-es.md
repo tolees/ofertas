@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material exterior: Lona
 - Material de la suela: Caucho
 - Cierre: Cordones
+- Material exterior: Lona
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08BLTY8SP{{</world>}}

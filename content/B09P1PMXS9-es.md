@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo de adidas
 - Tela Suave
+- Logotipo de adidas
 - Ajuste regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})

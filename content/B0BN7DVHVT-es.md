@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tipo de tacón: Plano
 - Cierre: Cordones
+- Tipo de tacón: Plano
 - Material exterior: Sintético
 
 [🛒 Visítala!!!]({{< param buyurl >}})

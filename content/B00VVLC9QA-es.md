@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Puedes regular el caudal de agua de forma sencilla y segura con el dial situado en la parte trasera de la pistola, girando hacia un lado o hacia otro
 - Pistola de riego para jardines, patios y terrazas con chorro regulable multifunción. También puedes usarla para lavar el coche o a tu mascota
-- Chorro multifunción que permite 7 formas de riego: jet fino, ducha A, jet grueso, nebulizador, abanico, inundador y ducha B
 - Incluye un gatillo bloqueable y el acople de manguera en aluminio. Así tendremos una conexión resistente y de larga duración que asegurará muchas horas de uso
+- Puedes regular el caudal de agua de forma sencilla y segura con el dial situado en la parte trasera de la pistola, girando hacia un lado o hacia otro
+- Chorro multifunción que permite 7 formas de riego: jet fino, ducha A, jet grueso, nebulizador, abanico, inundador y ducha B
 - Fabricada en metal y caucho para un mejor agarre incluso con las manos mojadas. Este tipo de fabricado aporta mayor resistencia y durabilidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

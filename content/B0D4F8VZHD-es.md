@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Contenido: 1x Columbia Hombre Camiseta de manga corta North Cascades, Color: Azul (Collegiate Navy, Pasteled Framed), Talla: L, Art.: 1834041
-- Material elástico y cómodo, 100% Algodón, Apto para lavadora
 - Corte regular: Ajuste universal y cómodo
 - Estampado del logo de Columbia en el pecho y la espalda
+- Material elástico y cómodo, 100% Algodón, Apto para lavadora
+- Contenido: 1x Columbia Hombre Camiseta de manga corta North Cascades, Color: Azul (Collegiate Navy, Pasteled Framed), Talla: L, Art.: 1834041
 - Columbia Camiseta de manga corta para hombre, Para el día a día y actividades al aire libre, Ajuste activo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

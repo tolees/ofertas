@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- UA Performance Tech 3pk NS, Blanco, LG
 - Productos de excelente calidad
 - Buen producto para su uso
+- UA Performance Tech 3pk NS, Blanco, LG
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BMM2DYTX{{</world>}}

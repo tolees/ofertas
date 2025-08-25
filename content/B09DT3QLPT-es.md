@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Simple weave for clean and smooth look
 - Regular fit
+- Simple weave for clean and smooth look
 - One back pocket
 
 [🛒 Aquí!!!]({{< param buyurl >}})

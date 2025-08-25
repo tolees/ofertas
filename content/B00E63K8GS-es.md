@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sin retenedor.
-- El modelo DC110 es el más compacto de toda la gama de cierrapuertas,destaca por tener certificado CE de acuerdo a la normativa EN1154, por lo que puede ser instalado en puertas cortafuego.
 - Su mecanismo interno es de tipo piñón-cremallera e incluye el brazo articulado. Para puertas de acción simple de una anchura de hasta 950 mm. Apto para puertas con protección contra fuego y humo. Velocidad de cierre, velocidad final de cierre regulables de modo continuo por medio de válvulas reguladoras Válvulas termodinámicas para un rendimiento consistente. Articulo conocido como:Cierrapuertas, Cierra puertas, Cierre de puerta, muelle puerta.
 - Acabado en plata.
+- El modelo DC110 es el más compacto de toda la gama de cierrapuertas,destaca por tener certificado CE de acuerdo a la normativa EN1154, por lo que puede ser instalado en puertas cortafuego.
+- Sin retenedor.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00E63K8GS{{</world>}}

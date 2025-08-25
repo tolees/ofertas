@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Aplicar 2 capas de color de Super Gel, seguido de la capa de Super Gel Top Coat para un acabado perfecto
 - Sistema de gel color patentado en dos pasos
+- Esmalte de uñas de acabado gel
 - Se desmaquilla con un quitaesmalte con acetona
 - Secado luz ambiental, no se precisa de lámpara de luz UV. Hasta 14 días de duración
-- Aplicar 2 capas de color de Super Gel, seguido de la capa de Super Gel Top Coat para un acabado perfecto
-- Esmalte de uñas de acabado gel
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01BNK0WB2{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Compartimento adecuado y cierre de cremallera
 - Forro interior
+- Compartimento adecuado y cierre de cremallera
 - Estuche portatodo cuadrado
 - Dimensiones: 7 x 21 x 5,5 cm
 

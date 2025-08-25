@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alimentación: AC 230 V, 50 Hz
-- Doble cono de exprimido pequeño y grande
-- Totalmente desmontable para una limpieza más fácil
 - Doble sentido de rotación del cono para un exprimido más completo
+- Rejilla filtrante
 - Estética fresca y animada
 - Capacidad: 700 cc
 - Potencia: 25 W
 - Exprimido automático a presión
-- Rejilla filtrante
+- Totalmente desmontable para una limpieza más fácil
+- Doble cono de exprimido pequeño y grande
+- Alimentación: AC 230 V, 50 Hz
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MSMULM0{{</world>}}

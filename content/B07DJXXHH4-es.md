@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Heather tiene un pelaje alegre y un hermoso cuerno brillante
 - El cumpleaños de Heather es el 26 de abril
+- Heather tiene un pelaje alegre y un hermoso cuerno brillante
 - Ojos relucientes y texturas superbrillantes
 - Gemaakt van super zachte TY zijde stof
 - Este producto contiene: 1 x TY - Beanie Boos Gato Heather - 15 CM

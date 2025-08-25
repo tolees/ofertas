@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ofrecen una comodidad óptima
 - Bolsillos con ranura y bolsillo trasero
+- Ofrecen una comodidad óptima
 - Logo de Calvin Klein Bold estampado en la pernera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

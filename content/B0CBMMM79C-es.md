@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - De mangas cortas
-- De la marca Billabong
 - Apropiado para infantes
+- De la marca Billabong
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CBMMM79C{{</world>}}

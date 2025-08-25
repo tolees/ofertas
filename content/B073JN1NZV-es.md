@@ -32,8 +32,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Cumple: con la normativa de Seguridad en Plásticos
 - Fabricado en España : con sello de garantía TATAY
 - Con Rosca: Tapa de cierre con rosca garantizando una mejor conservación de alimentos
-- Medidas: 8,5 x 8,5 x 6 cm
 - Apto: Para lavavajillas, nevera, congelador y microondas, desde -40ºC a 100º
+- Medidas: 8,5 x 8,5 x 6 cm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B073JN1NZV{{</world>}}

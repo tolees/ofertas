@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Relámpago para hombre
-- 1376700-400-M/L
 - Hombres
+- 1376700-400-M/L
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09WCZKPS7{{</world>}}

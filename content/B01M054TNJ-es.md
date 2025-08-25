@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Filtro polarizador que filtra reflexiones en vidrio y en agua
 - Proporciona un buen contraste
 - Aumenta la saturación del color
 - Incluye una caja de plástico con incrustación de espuma
 - Se puede ajustar de manera circular
-- Filtro polarizador que filtra reflexiones en vidrio y en agua
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01M054TNJ{{</world>}}

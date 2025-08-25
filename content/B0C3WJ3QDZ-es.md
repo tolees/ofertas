@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Parte superior sintética
-- Compra 1 talla más grande
 - Construcción sin cordones
+- Compra 1 talla más grande
+- Parte superior sintética
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C3WJ3QDZ{{</world>}}

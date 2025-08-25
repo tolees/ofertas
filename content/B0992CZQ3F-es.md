@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Con práctica cremallera
 - Ajuste normal cómodo y cintura media
-- Elegantes pantalones cortos chinos
 - Óptima para un look informal de verano
+- Elegantes pantalones cortos chinos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0992CZQ3F{{</world>}}

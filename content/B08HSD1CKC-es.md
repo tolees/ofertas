@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 3 EN 1: 3 modos de funcionamiento distintos: frío, deshumidificación y ventilación. Frío máximo: 2250 Frigorías / 9000 Btu/h / 2.6kW. Cuenta con 3 velocidades de ventilación y su caudal de aire máximo es de 350m3/h. Capacidad modo deshumidificador: 19.2L/24h
-- EFICIENTE Y ECOLÓGICO: el gas refrigerante que compone a Cold Digital es el R290. Este gas trata de ser más eficiente y además, garantiza un menor impacto en el medio ambiente.
 - POTENTE, SILENCIOSO Y CON TEMPORIZADOR: combate el calor del verano con el aire acondicionado portátil Cold Digital de Taurus. Su máxima potencia es de 1100W y es ideal para habitaciones de hasta 25 m2. En la parte delantera, incorpora 3 alerones oscilantes en la salida del aire para asegurar una buena distribución del frío. El nivel sonoro de Cold Digital es tan solo de 56-65 db(A) y su temporizador de 24 horas para programar el tiempo de funcionamiento
-- ACCESORIOS: incluye kit para dar salida al aire caliente para ventanas en guillotina y correderas. Diámetro de la manguera: 150mm. Longitud de la manguera: 1.5m
+- 3 EN 1: 3 modos de funcionamiento distintos: frío, deshumidificación y ventilación. Frío máximo: 2250 Frigorías / 9000 Btu/h / 2.6kW. Cuenta con 3 velocidades de ventilación y su caudal de aire máximo es de 350m3/h. Capacidad modo deshumidificador: 19.2L/24h
 - FÁCIL DE TRANSPORTAR Y DE USAR: ofrece 4 ruedas y asa en la parte trasera para un fácil y cómodo transporte. Tiene mando a distancia para que puedas darle las órdenes desde cualquier sitio sin necesidad de acercarte. El panel de control es táctil, muy intuitivo y sencillo de utilizar.
+- ACCESORIOS: incluye kit para dar salida al aire caliente para ventanas en guillotina y correderas. Diámetro de la manguera: 150mm. Longitud de la manguera: 1.5m
+- EFICIENTE Y ECOLÓGICO: el gas refrigerante que compone a Cold Digital es el R290. Este gas trata de ser más eficiente y además, garantiza un menor impacto en el medio ambiente.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08HSD1CKC{{</world>}}

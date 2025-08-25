@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mediasuela con amortiguación
 - Horma clásica
 - Parte superior de ante
 - Forro textil
+- Mediasuela con amortiguación
 - Cierre de cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

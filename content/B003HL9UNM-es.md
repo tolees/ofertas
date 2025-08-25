@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Marca: Artdeco
 - Tipo de producto: Mascara de pestañas
 - Género: Mujer
+- Marca: Artdeco
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B003HL9UNM{{</world>}}

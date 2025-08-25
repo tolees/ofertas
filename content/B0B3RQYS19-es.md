@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con envases reciclados y reciclables. Garnier aprobada por Cruelty-Free International.
-- Para pieles normales a secas, hidratación durante 48H.
-- Fórmula con un 96% de ingredientes de origen natural.
-- Hidrata hasta 10 capas de la epidermis.
-- Con Aloe Vera y Magnesio en una crema de absorción rápida.
-- Garnier Body Superfood Pack Crema Corporal Calmante con Aloe Vera y Magnesio para Pieles de Normales a Secas Hidratación 48 horas 2x380ML
 - Calma y refuerza la barrera protectora de la piel.
+- Con envases reciclados y reciclables. Garnier aprobada por Cruelty-Free International.
+- Hidrata hasta 10 capas de la epidermis.
+- Garnier Body Superfood Pack Crema Corporal Calmante con Aloe Vera y Magnesio para Pieles de Normales a Secas Hidratación 48 horas 2x380ML
+- Con Aloe Vera y Magnesio en una crema de absorción rápida.
+- Fórmula con un 96% de ingredientes de origen natural.
+- Para pieles normales a secas, hidratación durante 48H.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B3RQYS19{{</world>}}

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - GRAN VARIEDAD - ¡Descubre la calidad y la variedad de los cosméticos Wet n Wild! ¡Seas como seas, tu carácter salvaje se expresará con nuestros lápices labiales, sombras de ojos y mucho más!
+- PARA UNA MIRADA IRRESISTIBLE - Esta máscara hace tus pestañas hasta un 80% más largas gracias a su fórmula especial con cera y vitamina E para nutrir y suavizar las pestañas
 - CONSEJOS DE USO Y BENEFICIOS - Fácil de usar y de aplicar a cualquier hora del día. El aplicador es práctico y delgado; levanta las pestañas separándolas una por una
 - EXPERIENCIA - Desde 1979, Wet n Wild ha creado productos de alta calidad al alcance de todos los amantes de la belleza sin importar la edad, etnia, estatus social y tipo de piel
-- PARA UNA MIRADA IRRESISTIBLE - Esta máscara hace tus pestañas hasta un 80% más largas gracias a su fórmula especial con cera y vitamina E para nutrir y suavizar las pestañas
 - SEGURO Y NO TESTADO EN ANIMALES - Wet n Wild siempre tiene muy en cuenta la seguridad de nuestros productos, los cuales están testados dermatológicamente y no testados en animales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

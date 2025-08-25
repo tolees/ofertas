@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cordón con cuentas en la parte delantera
 - Cintura elástica
+- Cordón con cuentas en la parte delantera
 - Falda larga fluida
 
 [🛒 Aquí!!!]({{< param buyurl >}})

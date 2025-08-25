@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Los jugadores pueden abrir los misteriosos therososones durante el curso del juego para revelar el personaje misterioso en el interior para una sensación constante de sorpresa y deleite!
 - ¡Elige a tu héroe favorito, rescata a tus amigos y gana batallas para derrotar a Thanos! ¡BattleWorld es un juego de aventuras cooperativo revolucionario, expandible y coleccionable con docenas de personajes de todo el Universo Marvel!
-- Para 1–4 jugadores y toro; Juego de 15-30 minutos
 - Mega Packs te permiten impulsar tu colección con seis caracteres: cuatro héroes iniciales (incluida una variante exclusiva de la zona negativa Spider-Man) y dos más atrapados en Thantostones! Juego de aventuras coleccionables y Bull; Edad de 6 años y UP & bull;
+- Los jugadores pueden abrir los misteriosos therososones durante el curso del juego para revelar el personaje misterioso en el interior para una sensación constante de sorpresa y deleite!
+- Para 1–4 jugadores y toro; Juego de 15-30 minutos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B094VZBTZR{{</world>}}

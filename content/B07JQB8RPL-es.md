@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- MATERIAL - Tejido elástico de 98% algodón y 2% elastano.
-- PERFECTO - ¡Un super todoterreno para tu look diario! JPSTMARCO JJBOWIE - 12150148 de Jack & Jones.
 - CÓMODO - Ajuste slim fit con forma cónica en la pierna.
+- PERFECTO - ¡Un super todoterreno para tu look diario! JPSTMARCO JJBOWIE - 12150148 de Jack & Jones.
+- MATERIAL - Tejido elástico de 98% algodón y 2% elastano.
 - FLEXIBLE - Dos bolsillos tipo parche en la parte trasera y bolsillos frontales inclinados ofrecen mucho espacio.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

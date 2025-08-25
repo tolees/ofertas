@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto de calidad óptima
 - USB de 64 GB
+- Producto de calidad óptima
 - Diseño moderno
 
 [🛒 Comprar!!!]({{< param buyurl >}})

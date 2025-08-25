@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tejido transpirable expulsa rápidamente el sudor de la piel
 - Dobladillo curvado
 - Escote alto
-- Tejido transpirable expulsa rápidamente el sudor de la piel
 - Tirante central en la espalda
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

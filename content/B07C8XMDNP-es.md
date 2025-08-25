@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cierre de cordones
 - Construcción vulcanizada
 - Vans Marca Sidestripe
-- Cierre de cordones
 - Suela Waffle
 
 [🛒 Aquí!!!]({{< param buyurl >}})

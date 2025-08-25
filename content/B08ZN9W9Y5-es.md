@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Su tamaño medio es ideal para ordenadores de sobremesa y portátiles, y su instalación es muy sencilla gracias a la función "Plug&Play".
-- Dispone de 2 botones y una rueda de desplazamiento que proporciona un control excelente.
-- Conexión a través de su cable USB de 1,3 metros de longitud y compatible con todas las plataformas.
 - Ergonomía ambidiestra: puede ser utilizado tanto por usuarios diestros como zurdos.
+- Su tamaño medio es ideal para ordenadores de sobremesa y portátiles, y su instalación es muy sencilla gracias a la función "Plug&Play".
+- Conexión a través de su cable USB de 1,3 metros de longitud y compatible con todas las plataformas.
+- Dispone de 2 botones y una rueda de desplazamiento que proporciona un control excelente.
 - Ratón óptico de 1200 dpi de resolución con conexión USB para aquellos que exigen precisión en el movimiento.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Aplicar generosamente sobre todo el cuerpo cada día, tantas veces como sea necesario
-- Hidratación inmediata y duradera, hasta 48 horas, para una piel suave y confortable; Para toda la familia
 - 90% ingredientes naturales, Dermatológicamente testado; No perfumado y sin colorant
 - Fórmula enriquecida con el innovador Repair Complex, que actúa directamente en la raíz de la sequedad para un cambio profundo y duradero
+- Aplicar generosamente sobre todo el cuerpo cada día, tantas veces como sea necesario
+- Hidratación inmediata y duradera, hasta 48 horas, para una piel suave y confortable; Para toda la familia
 - Textura ligera, no pegajosa, y se absorbe rápidamente para asegurar un alivio eficaz e inmediato de la piel seca y sensible
 
 [🛒 Visítala!!!]({{< param buyurl >}})

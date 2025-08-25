@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Silueta de perfil bajo
 - Top minimalista
 - Construcción ligera de gamuza/malla
+- Silueta de perfil bajo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D845PKVB{{</world>}}

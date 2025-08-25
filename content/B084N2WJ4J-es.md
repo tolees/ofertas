@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Casual
-- Cremallera
 - Schott NYC de calidad desde 1913
+- Casual
 - Manga larga
+- Cremallera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B084N2WJ4J{{</world>}}

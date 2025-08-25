@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Amortiguación FF BLAST PLUS ECO
 - Tecnología RISETRUSS
+- Amortiguación FF BLAST PLUS ECO
 - Sistema de bloqueo de energía
 
 [🛒 Comprar!!!]({{< param buyurl >}})

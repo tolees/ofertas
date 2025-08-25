@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con certificado FSC
 - 34 hojas más con pegatinas sin acabados especiales
+- Con certificado FSC
 - Con un total de 36 hojas de pegatinas de distintos tipos, hoja con pegatinas en relieve.
 - Bloc con encuadernación en espiral y nada menos que 1400 pegatinas en su interior.
 

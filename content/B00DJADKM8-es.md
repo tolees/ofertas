@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Educa touch junior es una colección de juegos educativos electrónicos pensada para estimular el interés de los niños por el aprendizaje
-- Electrónico
+- Contenido: Base Educa Touch Junior, 12 láminas de actividades e instrucciones.
 - Cuentos
-- Disfruta de los cuentos y aprende con las actividades
+- Electrónico
+- Disfruta de los cuentos y aprende con las actividades; Con opción táctil, música y canciones.
+- Educa touch junior es una colección de juegos educativos electrónicos pensada para estimular el interés de los niños por el aprendizaje
 - 4 cuentos completos: Blanca nieves, Caperucita Roja, El Gato con Botas y El Patito Feo; Con 3 modos de juego: cuentacuentos, exploración y preguntas
 - Recomendado a partir de 24 meses
-- Contenido: Base Educa Touch Junior, 12 láminas de actividades e instrucciones.
-- Disfruta de los cuentos y aprende con las actividades; Con opción táctil, música y canciones.
+- Disfruta de los cuentos y aprende con las actividades
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00DJADKM8{{</world>}}

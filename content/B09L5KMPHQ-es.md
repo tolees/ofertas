@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Líneas verticales anchas en el talón
 - Suela y suela de goma
+- Líneas verticales anchas en el talón
 - Parte de cuero con empeine perforado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

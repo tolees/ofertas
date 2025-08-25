@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño moderno
-- Medidas: 40.1 x 51 x 17.3 cm
-- Color blanco
 - Pack de 2 zapateros
+- Color blanco
+- Medidas: 40.1 x 51 x 17.3 cm
+- Diseño moderno
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0932WXKF7{{</world>}}
