@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Avène Agua Termal con propiedades naturales calmantes y anti-irritantes
-- Pre-tocoferilo, un precursor de vitamina E fotostable, proporciona protección adicional a las células
 - Protección solar para pieles sensibles, resistente al agua
 - Con una textura ligera, invisible, no oleosa para una aplicación agradable y un embalaje a prueba de manipulaciones
+- Pre-tocoferilo, un precursor de vitamina E fotostable, proporciona protección adicional a las células
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00DX04ESI{{</world>}}

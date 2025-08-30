@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela: acetato de vinilo de etileno
+- Cierre: cordones
 - Forma del tacón: plano
 - Material exterior: piel
-- Cierre: cordones
+- Suela: acetato de vinilo de etileno
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B005AXA6PG{{</world>}}

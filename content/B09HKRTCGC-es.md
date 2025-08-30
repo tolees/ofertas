@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Puños con cremallera
 - Tecnología transpirable AEROREADY
 - 100% poliéster (reciclado)
+- Puños con cremallera
 - Bolsillos en las costuras laterales
-- Puños con cremallera
-- Puños con cremallera
 - Compra 1 talla más grande
 
 [🛒 Comprar!!!]({{< param buyurl >}})

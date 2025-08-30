@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material interior: textil
 - Cierre: etilvinilacetato
+- Material interior: textil
 - Material exterior: tela
 
 [🛒 Comprar!!!]({{< param buyurl >}})

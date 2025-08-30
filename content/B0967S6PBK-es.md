@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Único y con materiales de calidad.
-- Interior de 120 hojas cuadriculadas, cierre con goma, se entrega retractilada.
 - Carpeta con anillas que también sirve como libreta, gracias a las 120 hojas que incluye.
+- Interior de 120 hojas cuadriculadas, cierre con goma, se entrega retractilada.
+- Único y con materiales de calidad.
 - Producto original Mr. Wonderful
 - Un must have para los amantes de la papelería práctica y bonita.
 

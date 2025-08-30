@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cierre: Cordones
 - Material de la suela: Caucho
 - Tipo de tacón: Plano
-- Cierre: Cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CKZCXBG8{{</world>}}

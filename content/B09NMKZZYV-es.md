@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material: polipropileno
 - Volumen: 0,5 litros
-- Escala: litros y mililitros
 - Recibirá un equipo profesional sólido y duradero con las correspondientes declaraciones de conformidad bajo demanda.
+- Material: polipropileno
+- Escala: litros y mililitros
 - Color de la escala: azul, fijamente inyectado
 - Inastillable y antigolpes
 

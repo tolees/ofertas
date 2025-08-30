@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tomas de corrientes a prueba de niños en una práctica disposición de 45º
-- Protege los aparatos valiosos contra sobretensiones con una corriente de fuga máx de 13500 A
-- Interruptor de encendido de seguridad con ilumicación on/off
 - Indicación luminosa al activar la protección por sobretensión
+- Protege los aparatos valiosos contra sobretensiones con una corriente de fuga máx de 13500 A
+- Tomas de corrientes a prueba de niños en una práctica disposición de 45º
+- Interruptor de encendido de seguridad con ilumicación on/off
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00EPR5EDW{{</world>}}

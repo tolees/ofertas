@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Impresión de logotipo 4G
 - Bolsa de hombro
 - Elementos de metal de oro pálido
+- Impresión de logotipo 4G
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BP2SGLK8{{</world>}}

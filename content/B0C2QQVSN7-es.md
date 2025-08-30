@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mediasuela Cloudfoam y plantilla de espuma con memoria
 - No mires atrás
-- Horma clásica
-- Parte superior textil
 - Cierre de cordones
+- Horma clásica
+- Mediasuela Cloudfoam y plantilla de espuma con memoria
+- Parte superior textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C2QQVSN7{{</world>}}

@@ -30,10 +30,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Interlock 100% poliéster reciclado
 - AEROREADY
+- Tacto seco
 - Tejido transpirable
 - Cuello redondo
 - Corte clásico
-- Tacto seco
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BP7LYBVF{{</world>}}

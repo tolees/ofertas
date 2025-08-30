@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sudadera básica con capucha para deporte y ocio
-- Cuello alto con cordón
 - Cómodo y suave material de algodón
 - Hombreras delgadas
+- Cuello alto con cordón
 - Forro de malla fría
+- Sudadera básica con capucha para deporte y ocio
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07KS9FRYM{{</world>}}

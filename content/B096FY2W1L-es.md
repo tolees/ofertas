@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ofrece un resultado óptimo y adecuado
-- Producto para tu cuidado personal
 - Sencillo de usar
+- Producto para tu cuidado personal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B096FY2W1L{{</world>}}

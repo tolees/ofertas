@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- 😊 FÁCIL DE USAR: Agita el bote, añade 1 tapón por cada 5 litros de agua en la regadera y riega normalmente. Aplícalo cada 2 semanas de marzo a octubre y cada 4 semanas de noviembre a febrero. No necesitas medidas exactas, ¡te lo ponemos fácil!
 - ✅ CALIDAD PROFESIONAL EN TU JARDÍN: Nos avalan más de 70 años fertilizando grandes cultivos. Ahora puedes disfrutar de la calidad profesional de jardineros y agricultores en tus propias plantas. Fórmula NPK 5-2-4 BIOrganic.
 - 📦 VOLUMEN DE SUMINISTRO: 1 x Fertilizante Universal Líquido BIOrganic de 1 litro.
-- 😊 FÁCIL DE USAR: Agita el bote, añade 1 tapón por cada 5 litros de agua en la regadera y riega normalmente. Aplícalo cada 2 semanas de marzo a octubre y cada 4 semanas de noviembre a febrero. No necesitas medidas exactas, ¡te lo ponemos fácil!
 - 🌐 FERTILIZANTE UNIVERSAL TODO TIPO DE PLANTAS: Ideal para plantas de interior y exterior, árboles, arbustos, hierbas y cultivos urbanos. Favorece la salud general, estimula la floración y aumenta la producción de cosechas.
 - 💪 NUTRICIÓN COMPLETA: Su fórmula equilibrada con calcio, magnesio, hierro y manganeso fortalece las plantas, reduce la caída de hojas y estimula un crecimiento saludable.
 

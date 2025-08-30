@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte superior de malla
 - Amortiguación con tecnología EVA
+- Parte superior de malla
 - Al menos el 20% del material superior principal está hecho de poliéster reciclado.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

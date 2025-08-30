@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Composición del material: 50% algodón orgánico, 47% algodón, 3% elastano
 - Bragueta con botones
 - Corte entallado: no demasiado apretado, ni demasiado suelto
-- Composición del material: 50% algodón orgánico, 47% algodón, 3% elastano
 - Hecho de u mezcla de algodón orgánico
 
 [🛒 Visítala!!!]({{< param buyurl >}})

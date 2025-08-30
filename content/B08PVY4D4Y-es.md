@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cinturón y perneras acolchados para llevarse con mayor comodidad.
-- Disponible en dos tallas. Talla 1: contorno de cintura: 65-96 cm, perneras: 48,5-59 cm y Talla 2: contorno de cintura: 76-107 cm, perneras: 54-67 cm.
 - Arnés para escalada y alpinismo polivalente y completamente regulable. Cinturón y perneras regulables que permiten ajustar el arnés en función de la morfología y de la vestimenta.
+- Disponible en dos tallas. Talla 1: contorno de cintura: 65-96 cm, perneras: 48,5-59 cm y Talla 2: contorno de cintura: 76-107 cm, perneras: 54-67 cm.
 - Gran capacidad de transportar y organizar el equipo gracias a 4 anillos portamaterial y al anillo posterior.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

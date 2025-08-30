@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- SEL-P18110G; Tapa (modelo) ALC-SH148; Tapa de lente delantera; Tapa trasera de lente (ALC-R1EM); Bolsa; Dispositivo de trípode
-- Integral. Estabilizador óptico de imagen
-- Objetivo de vídeo ideal con amplio rango focal y zoom de potencia
 - 3 anillos de ajuste en la lente (enfoque, apertura, zoom)
 - Protección contra el polvo y la humedad
+- Objetivo de vídeo ideal con amplio rango focal y zoom de potencia
+- Integral. Estabilizador óptico de imagen
+- SEL-P18110G; Tapa (modelo) ALC-SH148; Tapa de lente delantera; Tapa trasera de lente (ALC-R1EM); Bolsa; Dispositivo de trípode
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01LZ4IW8A{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Proporciona comodidad
 - Corte relajado
+- Proporciona comodidad
+- Largo regular
 - Bajo curvado
 - Manga corta
-- Largo regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CKBZ5M4F{{</world>}}

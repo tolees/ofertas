@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - MF refrigerado por aire
-- Espuma viscoelástica
 - Skech-Air
+- Espuma viscoelástica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DDTGN86W{{</world>}}

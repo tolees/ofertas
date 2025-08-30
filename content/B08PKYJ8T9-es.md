@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste regular
 - Cuenta con 3 rayas en las mangas
 - Punto doble 100% poliéster reciclado
+- Ajuste regular
 - Ofrece comodidad y libertad de movimiento
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ajuste regular
+- Parte superior sintética
 - Construcción sin cordones
 - Ajuste regular
-- Parte superior sintética
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C5RS51XS{{</world>}}

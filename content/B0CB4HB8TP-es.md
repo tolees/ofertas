@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Detalles de 5 bolsillos
 - Pequeño destruye
-- Sraight Pierna
+- Detalles de 5 bolsillos
 - Cintura alta
+- Sraight Pierna
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CB4HB8TP{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dimensiones: 50 cm x 30 cm x 19 cm
 - Bolsillos laterales de malla
-- Base revestida muy resistente al desgaste
-- Compartimento para las botas con cierre de cremallera
+- Dimensiones: 50 cm x 30 cm x 19 cm
 - Correas acolchadas y ajustables para los hombros
+- Compartimento para las botas con cierre de cremallera
+- Base revestida muy resistente al desgaste
 - Tejido técnico 100% poliéster reciclado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

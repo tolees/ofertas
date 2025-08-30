@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Parche con el logo en la manga
 - Diseño acolchado aislante
+- Parche con el logo en la manga
 - Dispone de capucha
 
 [🛒 Visítala!!!]({{< param buyurl >}})

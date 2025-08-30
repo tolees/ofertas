@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 1 comprimido al día disuelto en un vaso de agua y consigue aquello que te propongas
 - Fórmula clínicamente testada de vitaminas y minerales sin cafeína con vitaminas B y C, Magnesio, Calcio y Zinc
-- Multivitamínico ideal para estudiantes o jóvenes profesionales, que necesitan ayudar a su rendimiento intelectual de forma continuada o en situaciones de actividad intelectual intensa
-- Berocca Performance es un complemento alimenticio para mayores de 18 años, que ayuda al rendimiento físico e intelectual, a reducir la sensación de fatiga
+- 1 comprimido al día disuelto en un vaso de agua y consigue aquello que te propongas
 - No se recomienda su uso en niños menores de 18 años o durante el embarazo o periodo de lactancia
+- Berocca Performance es un complemento alimenticio para mayores de 18 años, que ayuda al rendimiento físico e intelectual, a reducir la sensación de fatiga
+- Multivitamínico ideal para estudiantes o jóvenes profesionales, que necesitan ayudar a su rendimiento intelectual de forma continuada o en situaciones de actividad intelectual intensa
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01BCM08BK{{</world>}}

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Pantalón clásico liso
+- Composición del material: material exterior: 96% poliéster, 4% elastano; Forro: 100% poliéster
 - Cintura elástica
 - Longitud normal
-- Composición del material: material exterior: 96% poliéster, 4% elastano; Forro: 100% poliéster
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09DT4SL8G{{</world>}}

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Descubre batallas inesperadas y adéntrate en el amplio universo de Battlefield en una plataforma centrada en la comunidad que te permite cambiar las reglas de la guerra.
-- Un mundo transformado por el desorden – En 2042, los eventos climatológicos extremos y los conflictos por los recursos han cambiado el equilibrio de poder en el mundo.
-- Codigo de descarga, no incluye CD
-- Battlefield Hazard Zone es una nueva experiencia tensa de supervivencia centrada en la patrulla que combina una jugabilidad frenética con lo mejor del mundo abierto de Battlefield.
 - Elige tu papel en el campo de batalla y forma patrullas personalizadas con el nuevo sistema de especialistas.
+- Battlefield Hazard Zone es una nueva experiencia tensa de supervivencia centrada en la patrulla que combina una jugabilidad frenética con lo mejor del mundo abierto de Battlefield.
 - Da rienda suelta a tu creatividad en combate con toda una selección de armas, vehículos, cazas, helicópteros y nuevo equipamiento de vanguardia inspirado por el futuro cercano de 2042.
+- Un mundo transformado por el desorden – En 2042, los eventos climatológicos extremos y los conflictos por los recursos han cambiado el equilibrio de poder en el mundo.
+- Descubre batallas inesperadas y adéntrate en el amplio universo de Battlefield en una plataforma centrada en la comunidad que te permite cambiar las reglas de la guerra.
+- Codigo de descarga, no incluye CD
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B096YQMB9L{{</world>}}

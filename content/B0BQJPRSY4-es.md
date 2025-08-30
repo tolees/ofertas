@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cintura elástica
 - Tela Suave
 - Corte
-- Cintura elástica
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BQJPRSY4{{</world>}}

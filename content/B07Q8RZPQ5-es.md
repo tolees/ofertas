@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido: 1 Olla Arrocera Bestron con Recipiente de vapor, Tapa, Taza dosificadora, Cuchara de arroz, Potencia: 400 W, Capacidad: 1 L, Material: acero inoxidable/plástico, Medidas: 27,8x23x28,7 cm, Peso: 1,8 kg, ARC100
 - Recipiente de vapor adicional para la preparación saludable y simultánea de verduras, pescado, albóndigas, etc. sobre la cocción del arroz, Incluye taza dosificadora y cuchara de arroz
-- Cocción de arroz (máximo 750 g, 4-6 personas) y agua en el recipiente interior (incluye indicador de nivel de agua), Inteligente función de apagado automático y calentamiento
 - Luces indicadoras y tapa de vidrio para controlar el proceso de cocción, Olla interior extraíble apta para poner en el lavavajillas, Longitud del cable: 114 cm
+- Contenido: 1 Olla Arrocera Bestron con Recipiente de vapor, Tapa, Taza dosificadora, Cuchara de arroz, Potencia: 400 W, Capacidad: 1 L, Material: acero inoxidable/plástico, Medidas: 27,8x23x28,7 cm, Peso: 1,8 kg, ARC100
+- Cocción de arroz (máximo 750 g, 4-6 personas) y agua en el recipiente interior (incluye indicador de nivel de agua), Inteligente función de apagado automático y calentamiento
 - Olla arrocera multifuncional para cocinar de forma rápida y mantener caliente todo tipo de arroz (natural, basmati, risotto, sushi), verduras y otros alimentos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Con aberturas laterales en la cintura
-- Tiene botones personalizados en el cuello
 - Presenta el logo de la marca en el pecho
+- Tiene botones personalizados en el cuello
 - Polo para hombre
 
 [🛒 Aquí!!!]({{< param buyurl >}})

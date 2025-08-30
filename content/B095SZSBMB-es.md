@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Incluye 1 T-REX con rueda separable y 5 bolas
-- Divertido dinosaurio T-REX ambientado en Jurassic World que cuenta con una rejilla flexible que los niños agarrarán y empujarán cuando aprendan a caminar. Además, si se rueda sobre las pelotas, permite recogerlas y también sirve como juguete de actividad para el suelo
-- El regalo ideal para fiestas de cumpleaños o reuniones navideñas
-- Producto distribuido oficialmente en España por BIZAK. Servicio atención al cliente disponible todo el año (sat@bizak.es)
 - Está hecho de plástico y es indicado para niños desde 12 meses
+- Divertido dinosaurio T-REX ambientado en Jurassic World que cuenta con una rejilla flexible que los niños agarrarán y empujarán cuando aprendan a caminar. Además, si se rueda sobre las pelotas, permite recogerlas y también sirve como juguete de actividad para el suelo
+- Producto distribuido oficialmente en España por BIZAK. Servicio atención al cliente disponible todo el año (sat@bizak.es)
+- El regalo ideal para fiestas de cumpleaños o reuniones navideñas
 - Este juguete basado en el universo Jurassic World ayudará a desarrollar la comprensión causa-efecto, la habilidad manual y la imaginación
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

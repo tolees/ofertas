@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Adecuados para el verano
 - Detalles distintivos de la marca
 - Con trabillas para el cinturón
-- Adecuados para el verano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C5Y81JGC{{</world>}}

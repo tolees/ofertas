@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estampado gráfico en el pecho
-- Ajuste regular
 - Manga corta
 - Machine wash
 - Soft jersey
+- Ajuste regular
+- Estampado gráfico en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07ZVPWFWJ{{</world>}}

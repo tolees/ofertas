@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tamaño hoja: 80 mm
 - Mango de Polipropileno, higiénico y resistente, además de caracterizarse por su adherencia y comodida de uso
 - Hoja de acero inoxidable NITRUM, de gran rendimiento y durabilidad
-- Tamaño hoja: 80 mm
 - Cuchillo Mondador, perfecto para pelar tubérculos, frutas y verduras
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

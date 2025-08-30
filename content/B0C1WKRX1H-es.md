@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Motor Direct Motion: silencioso, eficiente y duradero. Funciona sin correa, conectado directamente al tambor, reduciendo el ruido y las vibraciones.
 - Un extra de higiene para una colada más limpia: consigue niveles de higiene extraordinarios gracias a la función de vapor Refresh, al tratamiento ABT y al programa Anti - Alergias con vapor.
+- Motor Direct Motion: silencioso, eficiente y duradero. Funciona sin correa, conectado directamente al tambor, reduciendo el ruido y las vibraciones.
 - Tamaño lavadora (alto x ancho x fondo): 85 x 60 x 60 cm.
 - Tecnología ABT: elimina el 99,8% de las bacterías en el cajón del detergente y en la escotilla de la lavadora, evitando su proliferación.
 - Programa Refresh para un cuidado profesional: emplea la tecnología de microvapor para alisar tu ropa y eliminar los olores, sin contacto con agua y detergente.

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tiene detalles distintivos de la marca
-- Ajuste regular
 - Cuenta con un diseño
+- Ajuste regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07YCNG9P1{{</world>}}

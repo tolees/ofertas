@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ofrece una comodidad óptima
 - Pantalón largo con cintura elástica
+- Ofrece una comodidad óptima
 - Top camisero con botones y bolsillo en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})

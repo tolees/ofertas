@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Los marcos están disponibles en cinco colores y en muchos formatos
 - Los marcos de steel style tienen ojos de suspensión para fotos de retrato y paisaje y están equipados con un soporte de hasta un tamaño de 20x30 cm
+- Los marcos están disponibles en cinco colores y en muchos formatos
 - Los marcos son particularmente refinados por una paspartú de corte
 - El estrecho perfil de plástico está inclinado hacia adentro
 

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Round sunglasses
-- Matt black polycarbonate temples
-- Triacetate polarized lenses
 - Gray lenses
+- Matt black polycarbonate temples
+- Round sunglasses
 - Matt black polycarbonate front
+- Triacetate polarized lenses
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07B3XCL6Y{{</world>}}

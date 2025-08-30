@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Confort extremo con su textura suave y aterciopelada
-- Color intenso y alta cobertura en una sola pasada
-- Preciso como un perfilador
-- Labial mate, intenso, preciso y de larga duración
 - En formato jumbo, ideal para perfilar tus labios
+- Color intenso y alta cobertura en una sola pasada
+- Confort extremo con su textura suave y aterciopelada
+- Labial mate, intenso, preciso y de larga duración
+- Preciso como un perfilador
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07QQDW9XF{{</world>}}

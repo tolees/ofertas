@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Altura del tacón de 1,27 cm
-- Lavable a máquina
 - Cordones para caminar con una parte superior de malla atlética
 - Suela de tracción duradera de doble densidad para mayor estabilidad
+- Lavable a máquina
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C15DR6TG{{</world>}}

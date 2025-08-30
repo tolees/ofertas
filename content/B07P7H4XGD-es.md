@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Puzle de cartón de 18 piezas gigantes decreciente de distintos vehículos
-- Los vehículos que aparecen són: bicicleta, moto, coche y autobús
 - El puzle lleva ilustrados distintos vehículos ordenados por su tamaño de menor a mayor
+- Los vehículos que aparecen són: bicicleta, moto, coche y autobús
+- Puzle de cartón de 18 piezas gigantes decreciente de distintos vehículos
 - Habilidades que desarrolla: coordinación ojo-mano, motricidad, visión espacial y el pensamiento lógico
 
 [🛒 Comprar!!!]({{< param buyurl >}})

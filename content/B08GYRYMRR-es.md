@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con el 99% de ingredientes procedentes de materias primas de origen natural
-- Perfecto para una mirada magnética, realzada con un look gráfico y sensual con una sola pasada
 - Delineador de ojos líquido con aplicador en formato pincel, con un acabado negro intenso
+- Perfecto para una mirada magnética, realzada con un look gráfico y sensual con una sola pasada
+- Con el 99% de ingredientes procedentes de materias primas de origen natural
 - La extraordinaria fórmula a base de agua contiene polímeros y pigmentos específicos para un efecto de larga duración hasta 12h
 - Ecológico y vegano, no contiene ingredientes de origen animal
 

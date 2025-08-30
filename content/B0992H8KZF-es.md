@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Polyurethane
 - Trainers
-- Detail
 - materialFabricComposition: Upper: 100% Polyurethane; Sole: 100% Rubber; Inner: 100% Polyurethane; Insole: 100% Polyurethane
+- Detail
+- Polyurethane
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0992H8KZF{{</world>}}

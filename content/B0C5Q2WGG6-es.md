@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Horma clásica
-- Parte superior textil revestida
 - Ganar es el trato
+- Parte superior textil revestida
 - Textura en relieve para un toque más suave
 - Cierre de cordones
 

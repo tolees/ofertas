@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lápiz de ojos resistente al agua de color vibrante
-- Puede utilizarse como liner o sombra de ojos
 - Disponible en 3 acabados: semi mate, brillante y metalizado
-- Fórmula resistene al agua a prueba de roces
+- Lápiz de ojos resistente al agua de color vibrante
 - Textura ultra suave enriquecida con vitamina E y con aceite de joboba
+- Puede utilizarse como liner o sombra de ojos
+- Fórmula resistene al agua a prueba de roces
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01GRF6HIA{{</world>}}

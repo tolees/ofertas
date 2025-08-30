@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Empeine de material sintético
 - Borde y lengüeta acolchados para dar una mayor comodidad
 - Cordón tejido más cordón satinado como opción adicional
+- Empeine de material sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07DBWXW8B{{</world>}}

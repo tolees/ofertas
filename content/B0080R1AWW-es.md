@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Juego de cinceles de madera de 4 piezas
-- cuchillas rectificadoras de precisión
-- Cuchillas forjadas a presión y tratadas térmicamente
 - Tamaño 6, 12, 19, 25 mm x 230 mm
+- cuchillas rectificadoras de precisión
 - Mango de plástico resistente a los impactos
+- Cuchillas forjadas a presión y tratadas térmicamente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0080R1AWW{{</world>}}

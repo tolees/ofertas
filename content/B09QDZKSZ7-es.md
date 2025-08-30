@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 3,44 kg de peso y 91 L de volumen
-- 77 cm de alto x 39 cm de ancho x 37,5 cm de profundidad
 - Repele el agua
 - 60% poliamida, 40% poliamida reciclada
 - Equipaje grande con ruedas
+- 3,44 kg de peso y 91 L de volumen
+- 77 cm de alto x 39 cm de ancho x 37,5 cm de profundidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09QDZKSZ7{{</world>}}

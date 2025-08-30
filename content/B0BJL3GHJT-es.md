@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Horma clásica
 - Forro textil
-- Mediasuela de aspecto vulcanizado
+- Horma clásica
 - Parte de nobuk sintético
+- Mediasuela de aspecto vulcanizado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BJL3GHJT{{</world>}}

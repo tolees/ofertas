@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Escote redondo en la espalda
-- En negro liso
 - Slim fit
-- Mangas de encaje
 - Body efecto arrugado
+- Mangas de encaje
+- En negro liso
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0999DSMRS{{</world>}}

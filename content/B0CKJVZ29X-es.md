@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cierre de cordones
-- Forro de malla
-- Horma estándar
 - Empeine de ante
+- Horma estándar
+- Forro de malla
 - Suela de goma
 
 [🛒 Comprar!!!]({{< param buyurl >}})

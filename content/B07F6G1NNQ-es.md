@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Color liso
-- Cierre delantero
 - Composición: 64% viscosa; 31% poliéster; 5% elastano
 - Pantalones de traje
+- Cierre delantero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07F6G1NNQ{{</world>}}

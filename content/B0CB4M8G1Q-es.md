@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Traje de baño con cuello redondo
 - Logotipo impreso en la parte central delantera
 - Detalles de ribete en contraste
-- Traje de baño con cuello redondo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB4M8G1Q{{</world>}}

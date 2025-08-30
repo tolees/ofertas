@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Suela de goma
 - Horma clásica
-- Cierre de cordones
 - Forro sintético
+- Cierre de cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09VT1PKCW{{</world>}}

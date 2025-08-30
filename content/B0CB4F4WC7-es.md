@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste holgado
 - Pantalón corto chino teñido
 - Marca bordada en el bolsillo
+- Ajuste holgado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CB4F4WC7{{</world>}}

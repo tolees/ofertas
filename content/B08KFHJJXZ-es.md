@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto de belleza
 - Adecuado para el cuidado de tu piel
+- Producto de belleza
 - Sencillo de aplicar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

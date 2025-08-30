@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Parte superior hecha de materiales mixtos.
-- Suela de goma
-- Cierre de encaje
 - Franja característica de PUMA en los lados medial y lateral
+- Cierre de encaje
+- Suela de goma
 - entresuela de EVA
 
 [🛒 Comprar!!!]({{< param buyurl >}})

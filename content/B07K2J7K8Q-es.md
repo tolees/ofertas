@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Iluminación dinámica RGB de 2 zonas brillante
 - Tela exclusiva de microtejido QcK para un control máximo
-- La base de goma antideslizante elimina los movimientos no deseados
 - Optimizada para movimientos de seguimiento de DPI bajos y altos
 - Nota: es recomendable que el firmware se actualice regularmente usango Steelseries Engine
+- La base de goma antideslizante elimina los movimientos no deseados
 - Configuración fácil e intuitiva de las notificaciones de iluminación en el juego
 
 [🛒 Aquí!!!]({{< param buyurl >}})

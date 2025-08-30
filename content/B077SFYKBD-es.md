@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela no marcada
 - Estilo versátil
+- Suela no marcada
 - Suela flexible
 
 [🛒 Visítala!!!]({{< param buyurl >}})

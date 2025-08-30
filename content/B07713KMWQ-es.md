@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Gráfico estampado
-- Corte regular
 - Cuello acanalado
+- Corte regular
+- Gráfico estampado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07713KMWQ{{</world>}}

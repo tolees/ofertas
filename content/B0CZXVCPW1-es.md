@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Contiene al menos un 70% de material reciclado y renovable
-- 55% algodón / 36% poliéster (reciclado) / 9% viscosa
 - Cierre de cordones
 - Corte holgado
 - Bolsillos laterales
+- 55% algodón / 36% poliéster (reciclado) / 9% viscosa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZXVCPW1{{</world>}}

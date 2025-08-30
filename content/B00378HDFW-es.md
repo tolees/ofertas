@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Más de 20 tonos disponibles; Elige el tuyo
-- Pintalabios Color Riche con textura cremosa
-- Su formula incluye rosa mosqueta, cera de abeja y aceites preciosos
-- Tonos versátiles que sientan bien a rubias, morenas, castañas
 - Colores intensos y duraderos gracias a los pigmentos puros
+- Su formula incluye rosa mosqueta, cera de abeja y aceites preciosos
+- Más de 20 tonos disponibles; Elige el tuyo
+- Tonos versátiles que sientan bien a rubias, morenas, castañas
+- Pintalabios Color Riche con textura cremosa
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00378HDFW{{</world>}}

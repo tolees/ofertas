@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Franja característica de PUMA en el costado
 - Entresuela de goma apilada
 - Suela de goma
-- Franja característica de PUMA en el costado
 - Detalles de la marca PUMA en la parte superior, el talón y la etiqueta de la lengüeta.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

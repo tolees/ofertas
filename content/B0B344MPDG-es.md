@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Código canjeable en Roblox.
-- Producto distribuido oficialmente en España por BIZAK. Servicio atención al cliente disponible todo el año (sat@bizak.es)
-- Diferentes modelos para coleccionar.
 - Ilusiónate con cada huevo y completa la colección.
+- Código canjeable en Roblox.
+- Diferentes modelos para coleccionar.
+- Producto distribuido oficialmente en España por BIZAK. Servicio atención al cliente disponible todo el año (sat@bizak.es)
 - Cada huevo es especial y trae mascotas exclusivas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

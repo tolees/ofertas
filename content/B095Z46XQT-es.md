@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Chaqueta ligera de mujer para entretiempo
-- Corte estándar
 - Cremallera frontal
+- Corte estándar
+- Chaqueta ligera de mujer para entretiempo
 - Clásica chaqueta acolchada: imprescindible en cualquier armario de mujer
 - Con capucha (no desmontable)
 

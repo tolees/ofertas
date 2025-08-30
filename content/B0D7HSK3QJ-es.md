@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - DISEÑO PREMIUM: Esta prenda de arriba de diseño atemporal sienta superbién y es muy cómoda. Ya sea en la oficina o en el tiempo libre, esta camiseta ofrece siempre la combinación perfecta de comodidad y estilo.
+- MODA URBANA REINTERPRETADA: Para acercar las populares prendas de los 90 a las nuevas generaciones, Tommy Jeans se inspira en los iconos del hip-hop de aquella época. Apostando por prendas de alta calidad y diseños modernos con mucho denim.
 - MATERIAL Y CUIDADO: Polo de algodón orgánico 100 %. Se puede lavar a máquina.
 - AJUSTE PERFECTO: El polo slim fit es un clásico atemporal que destaca por su corte cómodo. La prenda de material suave y corte recto es muy agradable de llevar.
-- MODA URBANA REINTERPRETADA: Para acercar las populares prendas de los 90 a las nuevas generaciones, Tommy Jeans se inspira en los iconos del hip-hop de aquella época. Apostando por prendas de alta calidad y diseños modernos con mucho denim.
 - SENCILLO Y ELEGANTE: Esta moderna camiseta destaca por su clásico cuello tipo polo y su material de alta calidad. Los dos botones y el logotipo en el pecho completan el look de la prenda.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

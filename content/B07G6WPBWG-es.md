@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sensación de alivio, confort y bienestar sobre la piel
-- Absorción inmediata
+- Nutre e hidrata intensamente las manos
 - Crema de manos con aceite de cannabis
 - Absorción inmediata
-- Nutre e hidrata intensamente las manos
+- Absorción inmediata
+- Sensación de alivio, confort y bienestar sobre la piel
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07G6WPBWG{{</world>}}

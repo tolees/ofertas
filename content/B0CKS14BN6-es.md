@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre de cordones
-- Empeine de malla
 - Forro textil
-- Horma clásica
+- Cierre de cordones
 - Compra una talla más grande
+- Empeine de malla
 - Mediasuela Cloudfoam
+- Horma clásica
 - Plantilla OrthoLite
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

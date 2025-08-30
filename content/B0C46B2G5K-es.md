@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura ajustable con cordón
 - Vida promedio
+- Cintura ajustable con cordón
 - Corte normal
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

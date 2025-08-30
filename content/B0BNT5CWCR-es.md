@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto de calidad óptima
 - Adecuado para regalar
+- Producto de calidad óptima
 - Fragancia agradable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

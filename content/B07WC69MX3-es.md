@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste regular
 - Ropa deportiva
+- Ajuste regular
 - Modelo: BV6706
 - Tela seca
 

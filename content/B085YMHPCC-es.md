@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tamaño montado: 60 x 86 x 35 cm.
-- Tablero con revestimiento de melamina en color blanco.
-- Tiradores de metal pulverizado en color negro, amortiguación de puerta y autocierre de los cajones, cantos de ABS de alta calidad.
 - Cómoda con dos cajones (cada uno soporta hasta 10 kg) y dos puertas, un estante ajustable detrás de las puertas, soporta hasta 10 kg.
+- Tiradores de metal pulverizado en color negro, amortiguación de puerta y autocierre de los cajones, cantos de ABS de alta calidad.
+- Tablero con revestimiento de melamina en color blanco.
 - Fabricado en Alemania, servicio personal del fabricante bajo beratung@mygermania.com
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

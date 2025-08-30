@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Manga larga con lengüeta ajustable y botones, bolsillo con solapa y botón en la parte de la manga
 - Cuello plano, lengüeta de quita y pon para llevarlo alzado
 - Bolsillos ribeteados anchos en la cintura
-- Abertura, botón a presión oculto
 - Cierre de botón oculto
+- Abertura, botón a presión oculto
+- Manga larga con lengüeta ajustable y botones, bolsillo con solapa y botón en la parte de la manga
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B6DBXQB9{{</world>}}

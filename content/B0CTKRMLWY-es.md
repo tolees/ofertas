@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 89 g de ligereza para jugar a los FPS como nunca: Con sus 89 g, el M75 lo catapulta a la cima del marcador con una velocidad y precisión sin igual, y sin cable.
 - Interruptores ópticos izquierdo y derecho: Los interruptores ópticos eliminan el retardo de rebote, lo que le permite atacar con una velocidad asombrosa, con garantía de 100 millones de clics.
-- Sensor óptico ultrapreciso de 26.000 PPP: Con sus 26.000 PPP nativos, un seguimiento de 650 IPS y una aceleración de hasta 50G, el sensor óptico CORSAIR MARKSMAN captura con precisión los reflejos vertiginosos del ratón, los barridos veloces y los recentrados rápidos
-- Forma ambidiestra con botones laterales intercambiables: La forma ambidiestra del ratón elaborada por expertos garantiza la máxima comodidad y control para jugadores zurdos y diestros y, además, incluye botones laterales intercambiables.
 - BOTONES CORSAIR QUICKSTRIKE: CORSAIR QUICKSTRIKE ofrece un retardo cero entre los botones de clic izquierdo y derecho y sus interruptores, para que sus disparos se registren al instante.
+- 89 g de ligereza para jugar a los FPS como nunca: Con sus 89 g, el M75 lo catapulta a la cima del marcador con una velocidad y precisión sin igual, y sin cable.
+- Forma ambidiestra con botones laterales intercambiables: La forma ambidiestra del ratón elaborada por expertos garantiza la máxima comodidad y control para jugadores zurdos y diestros y, además, incluye botones laterales intercambiables.
+- Sensor óptico ultrapreciso de 26.000 PPP: Con sus 26.000 PPP nativos, un seguimiento de 650 IPS y una aceleración de hasta 50G, el sensor óptico CORSAIR MARKSMAN captura con precisión los reflejos vertiginosos del ratón, los barridos veloces y los recentrados rápidos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CTKRMLWY{{</world>}}

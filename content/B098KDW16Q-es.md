@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PANTALLA DIGITAL: Conoce el estado de la batería, la potencia de succión y del filtro de un solo vistazo, además te permite seleccionar de forma sencilla los 3 niveles de potencia y el modo automático, que adapta la potencia de succión a las diferentes superficies de manera inteligente
 - 3 ACCESORIOS: Además del cepillo Pet Pro Plus, incluye un cepillo UltimatePower Bristle y una herramienta en ángulo para poder aspirar en altura, puedes guardarla en el centro de carga y para usarla solo tienes que desbloquear el mango con el botón y ajustar la altura del mango telescópico
-- POTENCIA Y AUTONOMÍA: Nuestra aspiradora vertical incorpora un motor de alta velocidad con 25,2 V de potencia y una batería Li-Ion HD con autonomía de hasta 35 min en el modo normal y de 60 min usando la aspiradora de mano, que podrás cargar en tan solo 2,5 h
+- PANTALLA DIGITAL: Conoce el estado de la batería, la potencia de succión y del filtro de un solo vistazo, además te permite seleccionar de forma sencilla los 3 niveles de potencia y el modo automático, que adapta la potencia de succión a las diferentes superficies de manera inteligente
 - ASPIRADOR 2 EN 1: Aspira y limpia pelo de tu perro o mascota gracias a la boquilla Pet Pro+ que combina un cepillo y tiras de goma para recogerlo de cualquier superficie incluido el coche, hundiéndose en la tapicería para quitar hasta el pelo más rebelde
+- POTENCIA Y AUTONOMÍA: Nuestra aspiradora vertical incorpora un motor de alta velocidad con 25,2 V de potencia y una batería Li-Ion HD con autonomía de hasta 35 min en el modo normal y de 60 min usando la aspiradora de mano, que podrás cargar en tan solo 2,5 h
 - ASPIRADORA DE MANO: Podrás liberar la unidad de mano y desmontarla apretando un solo botón, para poder manejar el aspirador en cualquier rincón sin problemas y sin esfuerzo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La caja contiene 24 latas de Red Bull energy drink 250 ml Revitaliza cuerpo y mente Red Bull Energy Drink es una bebida funcional que da alas cuando las necesitas La fórmula de Red Bull energy drink contiene una combinación única de ingredientes de alta calidad: cafeína, taurina, vitaminas del grupo b, sacarosa, glucosa y agua del manantial de los alpes
 - Red Bull GmbH, Am Brunnen 1, 5330 Fuschl am See, Austria
+- La caja contiene 24 latas de Red Bull energy drink 250 ml Revitaliza cuerpo y mente Red Bull Energy Drink es una bebida funcional que da alas cuando las necesitas La fórmula de Red Bull energy drink contiene una combinación única de ingredientes de alta calidad: cafeína, taurina, vitaminas del grupo b, sacarosa, glucosa y agua del manantial de los alpes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01G7F3UGC{{</world>}}

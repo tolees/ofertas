@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Felpa 70% algodón / 30% poliéster reciclado
-- Capucha con cordón ajustable
 - Bolsillo canguro
+- Capucha con cordón ajustable
 - Corte clásico
 
 [🛒 Visítala!!!]({{< param buyurl >}})

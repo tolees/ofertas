@@ -28,16 +28,16 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Caudal de aire ajustable mediante regulador
-- Mango antideslizante
-- De aleación de aluminio
-- Boquilla 110 mm, puede utilizarse opcionalmente con protección plástica antirayas
-- Consumo de aire: 320 l/min | nivel de presión sonora: 86 db (a)
 - Presión de servicio: 6,3 bar | presión máx. De servicio: 10 bar
 - Conexión de aire comprimido posible en el mango o en la parte superior de la pistola
-- Conexión de aire comprimido: 6,3 mm (1/4")
-- Longitud de la boquilla: 110 mm
 - Incluye conexión de aire comprimido 6,3 mm (1/4")
+- Longitud de la boquilla: 110 mm
+- Caudal de aire ajustable mediante regulador
+- Boquilla 110 mm, puede utilizarse opcionalmente con protección plástica antirayas
+- Conexión de aire comprimido: 6,3 mm (1/4")
+- Mango antideslizante
+- De aleación de aluminio
+- Consumo de aire: 320 l/min | nivel de presión sonora: 86 db (a)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00FJ3BF2K{{</world>}}

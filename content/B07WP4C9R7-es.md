@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Banda inferior elástica distintiva de Calvin Klein
 - Diseño con espalda cruzada
+- Banda inferior elástica distintiva de Calvin Klein
 - Modelo sin forro y sin relleno
 
 [🛒 Visítala!!!]({{< param buyurl >}})

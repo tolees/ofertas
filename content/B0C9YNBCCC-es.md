@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tarjeta base
-- Producto de calidad óptima
 - Requiere instalación
+- Producto de calidad óptima
+- Tarjeta base
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C9YNBCCC{{</world>}}

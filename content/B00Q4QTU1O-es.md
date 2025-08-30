@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Es un protector acolchado impermeable y transpirable gracias a su membrana Smartseal, la cual permite pasar el aire pero no los líquidos Por ello, es la protección adecuada para personas que deseen un nivel superior de calidad y transpirabilidad
-- Tiene un faldón elástico para un ajuste óptimo en colchones de hasta 32 cm de altura Es la opción óptima si la base de tu cama es un canapé o una base lisa tapizada, ya que cubre los lados del colchón que quedan al descubierto
-- Es un protector/cubre colchón acolchado de fibra hueca siliconada Ecolofil que ofrece una agradable sensación mullida en tu descanso
 - Es un producto fabricado sin utilizar sustancias nocivas, como garantiza el certificado Oekotex (20120k0516-AITEX)
 - Es un protector hipoalergénico, ya que la suave microfibra y la fibra hueca siliconada Ecolofil del relleno disminuyen los síntomas de alergia al ser tejidos sintéticos
+- Tiene un faldón elástico para un ajuste óptimo en colchones de hasta 32 cm de altura Es la opción óptima si la base de tu cama es un canapé o una base lisa tapizada, ya que cubre los lados del colchón que quedan al descubierto
+- Es un protector acolchado impermeable y transpirable gracias a su membrana Smartseal, la cual permite pasar el aire pero no los líquidos Por ello, es la protección adecuada para personas que deseen un nivel superior de calidad y transpirabilidad
+- Es un protector/cubre colchón acolchado de fibra hueca siliconada Ecolofil que ofrece una agradable sensación mullida en tu descanso
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00Q4QTU1O{{</world>}}

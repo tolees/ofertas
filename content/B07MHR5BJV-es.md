@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fácil de limpiar y máxima extracción; paneles de aluminio antigrasa incluidos y filtros de carbón incluidos, consiguiendo una limpieza del aire eficaz tanto del humo como del vapor, gracias a la capacidad absorbente del carbón activo.
-- Campana telescópica de 60cm de ancho (Muy silencioso: tan sólo 64dBA)
-- Luces LED - Ilumina perfectamente la zona de cocción, consume el 90% menos de energía con mucha más durabilidad que las bombillas tradicionales
 - Velocidad especial - 2 niveles de potencia - distintos niveles de velocidad para proporcionar en cada ocasión la potencia adecuada para la limpieza del aire
 - Capacidad de extracción máxima: 264 m3/h según norma EN61592
+- Luces LED - Ilumina perfectamente la zona de cocción, consume el 90% menos de energía con mucha más durabilidad que las bombillas tradicionales
+- Fácil de limpiar y máxima extracción; paneles de aluminio antigrasa incluidos y filtros de carbón incluidos, consiguiendo una limpieza del aire eficaz tanto del humo como del vapor, gracias a la capacidad absorbente del carbón activo.
+- Campana telescópica de 60cm de ancho (Muy silencioso: tan sólo 64dBA)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07MHR5BJV{{</world>}}

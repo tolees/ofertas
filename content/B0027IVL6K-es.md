@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- postes forrados con cuerda de sisal natural
+- color: crema
 - con forro de felpa de pelo largo (poliéster)
 - con juguete en cuerda
-- color: crema
+- postes forrados con cuerda de sisal natural
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0027IVL6K{{</world>}}

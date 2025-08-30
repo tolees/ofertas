@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto con licencia oficial - 100% original
 - Elegante botella reutilizable y decorada con elegantes diseños basados en algunos de los personajes más representativos del mundo del cine. Dispone de un tapón de rosca metálico para evitar derrames accidentales. Ideal para llevar tu bebida favorita allá donde vayas o para que la tengas siempre disponible en tu lugar de trabajo o estudio habitual. - Libre de BPA - Capacidad: 850 ml - Licencias Oficiales
+- Producto con licencia oficial - 100% original
 - Todos los productos de la marca Stor son reutilizables, están libres de BPA y han pasado los tests requeridos en su categoría para cumplir con la normativa Europea.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

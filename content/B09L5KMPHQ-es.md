@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Suela y suela de goma
 - Líneas verticales anchas en el talón
 - Parte de cuero con empeine perforado
-- Suela y suela de goma
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09L5KMPHQ{{</world>}}

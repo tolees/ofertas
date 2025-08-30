@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Pretina con el logotipo de Calvin Klein
 - Paquete de 3 bóxers trunk de tiro bajo
 - Producto con diseño clásico y estilo para todos los días
-- Pretina con el logotipo de Calvin Klein
 - Ajuste cómodo y adecuado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

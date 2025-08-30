@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Entresuela ligera Suela exterior de EVA
 - Plantilla OrthoLite
 - Logotipo en la lengüeta y en un lateral
-- Entresuela ligera Suela exterior de EVA
 - Parte superior en tejido y material sintético
 - Artículo de marca Reebok
 

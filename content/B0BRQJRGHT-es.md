@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material: Poliéster
 - Cojín muy blandito y suave
-- Con forma de margarita Mr. Wonderful.
 - Ideal para regalar y para decorar tu hogar.
+- Material: Poliéster
+- Con forma de margarita Mr. Wonderful.
 - Cojín cálido.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

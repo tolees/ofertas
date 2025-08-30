@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- HDR 1300nits - Con un brillo de 1300 nits, el QM8B ofrece una extraordinaria viveza visual en condiciones de iluminación variables, incluso a plena luz del día. Disfruta de los detalles ocultos en la escena soleada o en la sombra.
-- Mini-LED - TCL Mini LED es una obra maestra visual que presenta imágenes asombrosamente vívidas con colores realistas y una relación de contraste ultra alta. También ofrece un mayor brillo máximo, una gama de colores más amplia, una pantalla de mayor tamaño y una vida útil más larga, lo que la convierte en una tecnología de visualización de vanguardia.
-- QLED - La tecnología Quantum Dot presenta más de 1.000.000.000 de matices de colores vivos perfectos, lo que permite a TCL QM8B mostrar una gama de colores más amplia, de hasta el 96% según el estándar DCI-P3. Es como asomarse a un caleidoscopio y explorar un mundo infinito de colores.
 - 144Hz VRR - Nacido para estar orgulloso. Las pantallas reales de 144 Hz ofrecen una mejor resolución para disfrutar de imágenes más nítidas. Corre, compite y dispara hasta conseguir una rápida victoria sin zigzagueos, distorsiones ni desenfoques.
 - Full Array Local Dimming - Toda la pantalla está finamente dividida en más de 500 zonas. La atenuación local de matriz completa corrige y equilibra con precisión la retroiluminación y la imagen calculando la intensidad de brillo de cada zona en función de las señales de imagen, lo que garantiza que cada fotograma pueda mostrar más detalles de luces y sombras.
+- Mini-LED - TCL Mini LED es una obra maestra visual que presenta imágenes asombrosamente vívidas con colores realistas y una relación de contraste ultra alta. También ofrece un mayor brillo máximo, una gama de colores más amplia, una pantalla de mayor tamaño y una vida útil más larga, lo que la convierte en una tecnología de visualización de vanguardia.
+- QLED - La tecnología Quantum Dot presenta más de 1.000.000.000 de matices de colores vivos perfectos, lo que permite a TCL QM8B mostrar una gama de colores más amplia, de hasta el 96% según el estándar DCI-P3. Es como asomarse a un caleidoscopio y explorar un mundo infinito de colores.
+- HDR 1300nits - Con un brillo de 1300 nits, el QM8B ofrece una extraordinaria viveza visual en condiciones de iluminación variables, incluso a plena luz del día. Disfruta de los detalles ocultos en la escena soleada o en la sombra.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CF2QM6GY{{</world>}}

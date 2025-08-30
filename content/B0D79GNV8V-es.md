@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tracción estable
 - Acolchado
+- Tracción estable
 - Máxima estabilidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

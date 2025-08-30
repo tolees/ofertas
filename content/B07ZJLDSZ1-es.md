@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100% algodón
 - Puños acanalados
-- Sensación suave y cómoda
 - Trazado de corte y cintura elástica.
+- Sensación suave y cómoda
+- 100% algodón
 - Logotipo de impresión en el bolsillo lateral
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela de goma cosida
 - Forro sintético
-- Cordones elásticos y cierre autoadherente
 - Horma clásica
+- Suela de goma cosida
+- Cordones elásticos y cierre autoadherente
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B31NH38T{{</world>}}

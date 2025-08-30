@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con un 98% de ingredientes de origen natural, es el primer champú con fórmula vegana, sin siliconas, para una sensación natural
 - Ayudamos al medio ambiente apostando por un envase reciclable y la utilización de un 95% de material biodegradable
 - Champú ultra nutritivo con el poder hidratante de la Banana, que nutre en profundidad y limpia el pelo seco sin apelmazar
-- Comprometidos desde 1989 en no realizar test en animales, está dermatológicamente testado
 - Su espuma suave te ayuda a limpiar, nutrir y no apelmazar tu cabello mientras lo hidratas en profundidad y consigues un pelo saludable
+- Comprometidos desde 1989 en no realizar test en animales, está dermatológicamente testado
+- Con un 98% de ingredientes de origen natural, es el primer champú con fórmula vegana, sin siliconas, para una sensación natural
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B084K2P3CR{{</world>}}

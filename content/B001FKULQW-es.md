@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Acabado hidrófugo duradero
-- Tejido de poliéster Hydrafort impermeable
 - Capucha de una pieza
-- Puños elásticos
+- Tejido de poliéster Hydrafort impermeable
 - Costuras selladas
+- Puños elásticos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B001FKULQW{{</world>}}

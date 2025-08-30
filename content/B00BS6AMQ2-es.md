@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Aplicación: Aplica una capa de tu Base Coat favorita sobre la uña limpia y seca para protegerla, después aplica 2 capas de color, y por último una capa de Top Coat de Essie
+- Su pincel "perfect fit" de fácil aplicación se adapta a los contornos de la uña proporcionando un acabado uniforme y sin manchas
 - El resultado: una manicura óptima y resistente con un acabado profesional desde casa gracias a su fórmula resistente
 - Esmalte de uñas clásico de Essie con acabado óptimo, intenso y resistente
-- Su pincel "perfect fit" de fácil aplicación se adapta a los contornos de la uña proporcionando un acabado uniforme y sin manchas
-- Aplicación: Aplica una capa de tu Base Coat favorita sobre la uña limpia y seca para protegerla, después aplica 2 capas de color, y por último una capa de Top Coat de Essie
 - Descubre la amplia gama de esmaltes de uñas de essie en cientos de tonos icónicos para una manicura de lujo en cualquier temporada
 
 [🛒 Visítala!!!]({{< param buyurl >}})

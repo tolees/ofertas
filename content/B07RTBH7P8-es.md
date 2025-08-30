@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tono de teclas: Sí (activado/desactivado), (Ajuste predeterminado: ACTIVADO);
 - Tamaño: 114 mm x 51 mm x 13,5 mm
+- Tono de teclas: Sí (activado/desactivado), (Ajuste predeterminado: ACTIVADO);
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07RTBH7P8{{</world>}}

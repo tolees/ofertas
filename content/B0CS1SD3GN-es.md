@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Color: Rosa
-- Artículo: A06507C
-- Talla: 36
 - Marca: Converse
+- Color: Rosa
+- Talla: 36
+- Artículo: A06507C
 - Material: tela
 
 [🛒 Aquí!!!]({{< param buyurl >}})

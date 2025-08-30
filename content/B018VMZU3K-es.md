@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El paquete puede variar
-- Sabor Naranja
 - Sin azúcar
+- Sabor Naranja
 - 24 Latas De 33 Cl
 - Diseño funcional
+- El paquete puede variar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B018VMZU3K{{</world>}}

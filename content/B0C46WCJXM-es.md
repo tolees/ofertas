@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - TRATAMIENTO ANTIEDAD: Trata los signos del enevejecimiento en el contorno de ojos. Reduce líneas de expresión, hinchazón debajo de los ojos, ojeras y manchas oscuras
-- CUIDADO INTENSIVO: Es un contorno de ojos para tratar arrugas, ojeras, bolsas y manchas oscuras. Estimula la circulación, hidrata e iluma el contorno de tus ojos
-- MODO DE USO: Aplica una pequeña cantidad en el contorno de ojos y comisura labios. Realiza un ligero masaje en círculos con el aplicador desde el interior hasta la sien y por el arco de la ceja. Con la yema del dedo, dar suaves toques hasta la absorción
-- INGREDIENTES: Loto de India que reduce bolsas y ojeras es antioxidante y estimula la circulación sanguínea; extracto de Terminalia arjuna para hidratar y mejorar la elasticidad y firmeza; y nácares iluminadores para luminosidad inmediata y efecto buena cara.
 - TODO TIPO DE PIEL: Es apta para todo tipo de pieles en mujeres entre 40 y 50 años. Incluye aplicador con efecto frío
+- INGREDIENTES: Loto de India que reduce bolsas y ojeras es antioxidante y estimula la circulación sanguínea; extracto de Terminalia arjuna para hidratar y mejorar la elasticidad y firmeza; y nácares iluminadores para luminosidad inmediata y efecto buena cara.
+- MODO DE USO: Aplica una pequeña cantidad en el contorno de ojos y comisura labios. Realiza un ligero masaje en círculos con el aplicador desde el interior hasta la sien y por el arco de la ceja. Con la yema del dedo, dar suaves toques hasta la absorción
+- CUIDADO INTENSIVO: Es un contorno de ojos para tratar arrugas, ojeras, bolsas y manchas oscuras. Estimula la circulación, hidrata e iluma el contorno de tus ojos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C46WCJXM{{</world>}}

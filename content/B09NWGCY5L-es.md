@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Correa de cuero sintético negro con cierre de hebilla
-- Lente de cristal mineral
-- Esfera negra con manecillas e índices en tono dorado
 - No es resistente al agua
+- Esfera negra con manecillas e índices en tono dorado
+- Lente de cristal mineral
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09NWGCY5L{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño inspirado en la ejecución
-- Cierre de lágrimas
 - EVA SOLO
+- Cierre de lágrimas
+- Diseño inspirado en la ejecución
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B31PSMR9{{</world>}}

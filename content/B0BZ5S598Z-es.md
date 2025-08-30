@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- De triacetato con film polarizado japonés.
 - Polarizadas con protección Ultravioleta Total UV-400 Cat 3.
 - Realizada en policarbonato de alta calidad.
-- De triacetato con film polarizado japonés.
 - Modelo Unisex.
 - Ultraligera y flexible para una mayor comodidad.
 

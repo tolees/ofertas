@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dimensiones del producto:595 mm (alto) x 594 mm (ancho) x 548 mm (profundo)
-- Display LCD con luz blanca y mandos ocultables: fácil manejo del horno y acceso directo a toda la información necesaria como funciones adicionales, indicación de temperatura
-- Mandos ocultables, fácil y comoda limpieza del frontal
 - Recetas Gourmet: hasta 30 recetas pre-programadas. Selecciona solo el tipo de alimento y el peso, y disfruta de unos resultados perfectos
 - Autolimpieza pirolítica: elige entre los 3 niveles de intensidad, según el grado de suciedad del interior, y olvídate
+- Dimensiones del producto:595 mm (alto) x 594 mm (ancho) x 548 mm (profundo)
+- Display LCD con luz blanca y mandos ocultables: fácil manejo del horno y acceso directo a toda la información necesaria como funciones adicionales, indicación de temperatura
 - SoftMove: apertura y cierre de la puerta suave gracias a la robusta bisagra de la puerta
+- Mandos ocultables, fácil y comoda limpieza del frontal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07QKG4TMM{{</world>}}

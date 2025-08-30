@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CONCENTRACIÓN DE LUZ: Este pequeño aro de luz incorpora nada más y nada menos que 28 luces LED con hasta 5600k de temperatura.
 - CLIP INTEGRADO: Para facilitar la colocación de este en cualquier superficie en cuestión de segundos.
-- MULTIDISPOSITIVOS: Nuestro aro de luz pocket es compatible con diferentes dispositivos como smartphone, Tablet o portátil.
 - PEQUEÑO Y ULTRALIGERO: Su pequeño tamaño (85mm) permite llevarlo a todo tipo de eventos, salidas o excursiones, ya sea en una fiesta o de escalada. Además, tan solo pega 80g.
+- CONCENTRACIÓN DE LUZ: Este pequeño aro de luz incorpora nada más y nada menos que 28 luces LED con hasta 5600k de temperatura.
+- MULTIDISPOSITIVOS: Nuestro aro de luz pocket es compatible con diferentes dispositivos como smartphone, Tablet o portátil.
 - SOPORTE INCLUIDO: Este aro de luz incluye un ligero stand para conseguir estabilidad en cualquier sitio y sin esfuerzo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Casco de seguridad altamente equipado con gafas de seguridad con óptica de clase 1 integrada
-- Protección ocular siempre disponible
 - Safety cell evita que los partículas que rebotan lesionan el cuero cabelludo
+- Protección ocular siempre disponible
+- Casco de seguridad altamente equipado con gafas de seguridad con óptica de clase 1 integrada
 - Óptimo para uso con gafas graduadas sin comprometer la protección
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

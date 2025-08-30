@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Los poderosos 850 vatios de potencia ponen en acción el disco de corte de la amoladora angular de Einhell con hasta un máximo de 12.000 revoluciones por minuto. El cabezal de engranaje metálico robusto y plano garantiza posibilidades de uso flexibles.
 - La empuñadura auxiliar se puede montar en dos posiciones diferentes y, por lo tanto, amplía el espectro de aplicaciones y hace que el trabajo sea ergonómico.
 - Ya sea para lijado, alisado o remoción de óxido, la amoladora angular TC-AG 125/850 de Einhell es una máquina todoterreno flexible ideal para las obras domésticas de los amantes del bricolaje.
-- El bloqueo del husillo permite un cambio de herramienta fácil y cómodo. La amoladora angular es adecuada para discos de corte de 125 mm de diámetro. El disco de corte deseado es adquirible por separado.
-- Los poderosos 850 vatios de potencia ponen en acción el disco de corte de la amoladora angular de Einhell con hasta un máximo de 12.000 revoluciones por minuto. El cabezal de engranaje metálico robusto y plano garantiza posibilidades de uso flexibles.
 - En la concepción de la amoladora angular, Einhell puso gran énfasis en la alta seguridad del usuario a través de la protección del disco y el trabajo segura a través de la protección contra rearranque.
+- El bloqueo del husillo permite un cambio de herramienta fácil y cómodo. La amoladora angular es adecuada para discos de corte de 125 mm de diámetro. El disco de corte deseado es adquirible por separado.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08WQR6K5H{{</world>}}

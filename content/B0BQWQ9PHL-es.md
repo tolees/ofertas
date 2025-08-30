@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte normal
 - Vida promedio
+- Corte normal
 - Cintura ajustable con cordón
 
 [🛒 Comprar!!!]({{< param buyurl >}})

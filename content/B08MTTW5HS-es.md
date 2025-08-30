@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Bragueta de botones
-- Composición del material: 98 % algodón, 2 % elastano
-- Ofrece comodidad y libertad de movimiento
-- Pantalones cortos
 - Pantalones chinos de corte estándar
+- Ofrece comodidad y libertad de movimiento
+- Composición del material: 98 % algodón, 2 % elastano
+- Pantalones cortos
 - JACK & JONES apoya la iniciativa Better Cotton usando algodón orgánico o reciclado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

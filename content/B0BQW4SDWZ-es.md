@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Camiseta deportiva
-- Corte ancho
 - Sin mangas
+- Corte ancho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BQW4SDWZ{{</world>}}

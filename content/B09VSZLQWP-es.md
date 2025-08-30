@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela de goma
 - Forro sintético
-- Cierre de cordones
 - Horma clásica
+- Cierre de cordones
+- Suela de goma
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09VSZLQWP{{</world>}}

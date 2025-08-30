@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Base de maquillaje en polvo para conseguir un acabado mate impecable resistente hasta 24H
-- Piel impecable mate durante todo el día, Cobertura media-alta sin efecto máscara, Resistente a roces, agua, calor o humedad
 - Contenido: 1 x Polvos compactos mate de larga duración Infalible 24H LOréal Paris, Tono: 40 Cashmere, Cantidad: 50 g
+- Base de maquillaje en polvo para conseguir un acabado mate impecable resistente hasta 24H
 - Fórmula no comedogénica, Apta para pieles todo tipo de pieles
+- Piel impecable mate durante todo el día, Cobertura media-alta sin efecto máscara, Resistente a roces, agua, calor o humedad
 - Aplicar con la esponja en seco como si fuese una base o con la esponja mojada para una cobertura aún mayor
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -31,8 +31,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - Algodón suave
 - Suela acolchada para absorber los golpes y aportar comodidad
 - La base adecuado para look
-- Los básicos por naturaleza
 - Detalles de la marca Levi’s
+- Los básicos por naturaleza
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07VTWYSCL{{</world>}}

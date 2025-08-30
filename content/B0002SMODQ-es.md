@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Se adapta a todas las herramientas Dremel multiusos/rotativas u otras herramientas multiusos/rotativas con mandril de 3,2 mm
 - Incluye: 4 pinzas (480, 481, 482, 483), 1 tuerca de pinza
-- Velocidad máxima recomendada: 35.000 RPM
+- Se adapta a todas las herramientas Dremel multiusos/rotativas u otras herramientas multiusos/rotativas con mandril de 3,2 mm
 - Las pinzas permiten sujetar con precisión un accesorio en la multiherramienta
+- Velocidad máxima recomendada: 35.000 RPM
 - Este juego de accesorios Dremel contiene 1 tuerca de pinza y 4 tamaños diferentes de pinzas: 0,8 mm, 1,6 mm, 2,4 mm y 3,2 mm de diámetro
 
 [🛒 Visítala!!!]({{< param buyurl >}})

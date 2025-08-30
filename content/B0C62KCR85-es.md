@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye una hoja de pegatinas
+- Libreta en tamaño A5
 - Con tapa dura y 80 hojas de papel de 80 gr.
 - en espiral y pautado en cuadrícula
-- Libreta en tamaño A5
+- Incluye una hoja de pegatinas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C62KCR85{{</world>}}

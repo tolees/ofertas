@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 12 colores surtidos: amarillo amarillo limón azul azul cyan blanco magenta marrón naranja negro rojo verde claro y verde oscuro
-- Caja de 12 botes de témpera Jovi surtidos
-- Incluyen pincel
 - Secado rápido
-- Para uso escolar
-- Ideal para utilizar sobre papel cartulina madera tela pasta de modelar y arcilla
 - Pintura al agua
+- Caja de 12 botes de témpera Jovi surtidos
+- Para uso escolar
+- 12 colores surtidos: amarillo amarillo limón azul azul cyan blanco magenta marrón naranja negro rojo verde claro y verde oscuro
+- Ideal para utilizar sobre papel cartulina madera tela pasta de modelar y arcilla
+- Incluyen pincel
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00KL28BJY{{</world>}}

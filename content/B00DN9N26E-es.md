@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - MODO DE EMPLEO: Si el niño tiene entre 3 y 5 años recomendamos una cucharada de postre al día, pero si tiene más de 5 deberá tomar 2 cucharadas de postre al día. Es preferible que lo tomen media hora antes de irse a dormir.
-- INGREDIENTES NATURALES: Este suplemento está elaborado a base de jalea real fresca, manzanilla, melisa, tila, lavanda y melatonina. Todos nuestros componentes han sido cuidadosamente seleccionados y cumplen los estándares de calidad.
-- FAVORECE LA RELAJACIÓN: Gracias a las propiedades calmantes de muchos de sus ingredientes, este producto actúa como un suave relajante sobre el sistema nervioso, ayudando a reducir el nerviosismo antes de irse a dormir.
-- AYUDA A DESCANSAR MEJOR: Jelly Kids Dulces Sueños es un suplemento líquido enriquecido con jalea real, plantas relajantes y melatonina. Ayudará a tu pequeño a conciliar el sueño con mayor rapidez y a tener descansos profundos y reparadores.
 - SOBRE NOSOTROS: Naturaleza, tradición y pasión por ayudar a los demás fueron el impulso que en 1985 nos llevó a crear Eladiet. Actualmente, somos líderes en la elaboración de complementos alimenticios naturales cuyo objetivo es mejorar tu bienestar.
+- FAVORECE LA RELAJACIÓN: Gracias a las propiedades calmantes de muchos de sus ingredientes, este producto actúa como un suave relajante sobre el sistema nervioso, ayudando a reducir el nerviosismo antes de irse a dormir.
+- INGREDIENTES NATURALES: Este suplemento está elaborado a base de jalea real fresca, manzanilla, melisa, tila, lavanda y melatonina. Todos nuestros componentes han sido cuidadosamente seleccionados y cumplen los estándares de calidad.
+- AYUDA A DESCANSAR MEJOR: Jelly Kids Dulces Sueños es un suplemento líquido enriquecido con jalea real, plantas relajantes y melatonina. Ayudará a tu pequeño a conciliar el sueño con mayor rapidez y a tener descansos profundos y reparadores.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00DN9N26E{{</world>}}

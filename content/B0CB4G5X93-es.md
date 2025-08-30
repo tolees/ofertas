@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalones cortos con cintura estilo bolsa de papel
-- Cinturón de doble capa de calidad principal
-- Bolsillos delanteros con doble costura
 - Corte regular
+- Cinturón de doble capa de calidad principal
+- Pantalones cortos con cintura estilo bolsa de papel
+- Bolsillos delanteros con doble costura
 - Bolsillos traseros de parche
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fórmula: delineador de ojos resistente al agua, altamente pigmentado, fluido y de secado rápido; probado dermatológica y oftalmológicamente, es adecuado para su uso incluso en personas con ojos particularmente sensibles.
 - Exaggerate Liquid: delineador de ojos de larga duración con pigmentos intensos con acabado mate; ideal tanto para dibujar líneas finas como para crear looks atrevidos
-- Rimmel London Es la certeza de tener siempre un estilo guay, irreverente, impredecible y en constante evolución; Rimmel no aspira a la perfección y no quiere intimidar; es como Londres: joven, ecléctico, metropolitano; una expresión sin reglas, real y accesible
 - Aplicación: la brocha de fieltro de precisión ayuda incluso a los maquilladores más inexpertos a dibujar una línea precisa en el primer intento, fina o gruesa, según tus preferencias
+- Rimmel London Es la certeza de tener siempre un estilo guay, irreverente, impredecible y en constante evolución; Rimmel no aspira a la perfección y no quiere intimidar; es como Londres: joven, ecléctico, metropolitano; una expresión sin reglas, real y accesible
 - Efectos y beneficios: maquillaje de ojos impecable durante 24 horas consecutivas sin manchas y sin necesidad de retoques
+- Fórmula: delineador de ojos resistente al agua, altamente pigmentado, fluido y de secado rápido; probado dermatológica y oftalmológicamente, es adecuado para su uso incluso en personas con ojos particularmente sensibles.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00JTRHG16{{</world>}}

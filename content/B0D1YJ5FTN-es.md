@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con una suela duradera
 - Detalles distintivos de la marca
+- Con una suela duradera
 - Diseño ligero y cómodo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

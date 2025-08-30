@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Screen Tee
 - Tops
+- Screen Tee
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C8Z17TQM{{</world>}}

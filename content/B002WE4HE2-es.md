@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Compatible con el estándar SD 3.0
-- Capacidad de almacenamiento de 16 GB
 - Se envía en un embalaje certificado
+- Capacidad de almacenamiento de 16 GB
 - Compatible con CPRM
 
 [🛒 Visítala!!!]({{< param buyurl >}})

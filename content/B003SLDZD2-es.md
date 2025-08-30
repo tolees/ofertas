@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bomba de plástico cromado de alto brillo para dosificar porciones de detergente líquido
 - Rellenable, capacidad aprox. 380 ml
-- Dispensador de detergente o jabón con opción de almacenamiento integrado para esponjas lavavajillas
-- Dimensiones (ancho x alto x fondo): 10 x 18 x 10 cm
 - Superficie SOFT-TOUCH (cerámica engomada) en blanco
+- Bomba de plástico cromado de alto brillo para dosificar porciones de detergente líquido
+- Dimensiones (ancho x alto x fondo): 10 x 18 x 10 cm
+- Dispensador de detergente o jabón con opción de almacenamiento integrado para esponjas lavavajillas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B003SLDZD2{{</world>}}

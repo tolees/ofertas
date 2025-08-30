@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Protección extra para pantalla y cámara: Los bordes ligeramente elevados en la pantalla y el marco protector Camera Guard para la lente garantizan la mejor protección contra arañazos en las zonas donde realmente importa.
-- Mantente original: La parte trasera de acrílico transparente es resistente a arañazos y te permite mostrar el verdadero estilo de tu iPhone 14 y iPhone 13 con una transparencia asombrosamente duradera.
-- Compatibilidad: Solamente es compatible con iPhone 14 y iPhone 13; funcionalidad completa gracias a los recortes hechos a medida para altavoces y puerto y los botones fáciles de presionar.
-- Atención al cliente completa: videos de configuración detallados y preguntas frecuentes, garantía integral de 12 meses, soporte de por vida y ayuda personalizada.
 - Bloqueo magnético más fuerte: Los potentes imanes integrados tienen 1500g de fuerza de fijación para permitir una carga inalámbrica más rápida y fácil y un bloqueo más seguro con cualquier accesorio HaloLock o MagSafe.
+- Compatibilidad: Solamente es compatible con iPhone 14 y iPhone 13; funcionalidad completa gracias a los recortes hechos a medida para altavoces y puerto y los botones fáciles de presionar.
+- Mantente original: La parte trasera de acrílico transparente es resistente a arañazos y te permite mostrar el verdadero estilo de tu iPhone 14 y iPhone 13 con una transparencia asombrosamente duradera.
 - Protección de grado militar contra caídas: Rigurosamente testada para garantizar una protección total en todos sus lados, tiene integradas esquinas Air-Guard especialmente diseñadas para absorber la fuerza de los golpes y que tu teléfono no tenga que hacerlo.
+- Atención al cliente completa: videos de configuración detallados y preguntas frecuentes, garantía integral de 12 meses, soporte de por vida y ayuda personalizada.
+- Protección extra para pantalla y cámara: Los bordes ligeramente elevados en la pantalla y el marco protector Camera Guard para la lente garantizan la mejor protección contra arañazos en las zonas donde realmente importa.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B099JVC9HL{{</world>}}

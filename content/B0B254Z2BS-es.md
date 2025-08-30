@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Reúne los ingredientes en el mundo exterior
-- Prepara remedios en tu caldero
-- Enfréntate a monstruos terribles para obtener materiales.
-- Cuida de los habitantes
-- Disfruta de la paz y la tranquilidad del campo
 - ¡Diagnostica los síntomas y encuentra la cura!
+- Cuida de los habitantes
+- Enfréntate a monstruos terribles para obtener materiales.
+- Prepara remedios en tu caldero
+- Reúne los ingredientes en el mundo exterior
+- Disfruta de la paz y la tranquilidad del campo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B254Z2BS{{</world>}}

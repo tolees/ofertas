@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Las perlas Lenor UNstoppables están disponibles en diferentes aromas; Recomendamos que las combines con nuestro detergente lavadora Ariel PODs
 - Potenciador de fragancia, aroma Ariel, para la colada que hace estallar notas frescas aldehídicas de color verde para una limpieza tradicional aromática y profunda
 - Botella de plástico 100 percent reciclado, excepto el tapón de rosca, el dosificador y la cubierta; Totalmente reciclable, excluyendo la cubierta
+- Las perlas Lenor UNstoppables están disponibles en diferentes aromas; Recomendamos que las combines con nuestro detergente lavadora Ariel PODs
 - Lenor UNstoppables debe introducirse en el tambor vacío antes de cada lavado y, a continuación, añadir la ropa y el detergente como en una colada habitual
 - Personaliza la intensidad de la fragancia echando más o menos perlas lavadora perfumadas para la ropa
 

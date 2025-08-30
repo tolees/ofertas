@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye notas adhesivas y goma elástica para el cierre.
 - Planificador con contenido y diseño específicamente pensado para profesores y profesoras. Con contenido exclusivo mejorado respecto al último modelo que lanzamos al mercado.
 - Ha sido fabricado con papel proveniente de bosques gestionados de forma responsable, por lo que cuenta con el certificado FSC.
+- Incluye notas adhesivas y goma elástica para el cierre.
 - Con 208 páginas de 90 gr. y 4 hojas de pegatinas, también con temática específica de profesores.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

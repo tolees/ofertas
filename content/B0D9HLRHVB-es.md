@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño estilizado disponible en varios estampados.
 - Ligero y transpirable para días calurosos.
-- Cintura elástica para un ajuste cómodo y seguro.
 - Múltiples bolsillos para guardar lo esencial.
+- Cintura elástica para un ajuste cómodo y seguro.
+- Diseño estilizado disponible en varios estampados.
 - Material de secado rápido para fácil transición del agua a tierra.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

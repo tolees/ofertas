@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La suela de goma altamente resistente a la abrasión
 - Parte de piel
+- La suela de goma altamente resistente a la abrasión
 - Sensación ligera y transpirable
 
 [🛒 Comprar!!!]({{< param buyurl >}})

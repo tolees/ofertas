@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cambia de modo y escucha otra fantástica historia de La Granja en inglés
+- Presiona la estrella y activa el Modo Lectura
+- Con luz, sonidos y canciones de La Granja
 - Aprende con La Vaca Lola los números, colores y muchas cosas más, en cada página una increíble historia
 - Libro Electrónico Educativo y bilingüe de la Granja de Zenón
-- Presiona la estrella y activa el Modo Lectura
-- Cambia de modo y escucha otra fantástica historia de La Granja en inglés
-- Con luz, sonidos y canciones de La Granja
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BFJQL298{{</world>}}

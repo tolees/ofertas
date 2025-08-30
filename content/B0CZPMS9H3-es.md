@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Talle alto
 - Corte ajustado
 - 90% algodón / 10% elastano
+- Talle alto
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CZPMS9H3{{</world>}}

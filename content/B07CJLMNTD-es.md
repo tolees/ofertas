@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Vaqueros ajustados con cintura normal
-- Vaqueros clásicos de 5 bolsillos
 - Bolsillos traseros
+- Vaqueros clásicos de 5 bolsillos
+- Vaqueros ajustados con cintura normal
 - Pierna estrecha y cintura media
 - Calidad probada
 

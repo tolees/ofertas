@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- APRENDER MIENTRAS TE DIVIERTES: ¡Hagamos un viaje alrededor del mundo en 92 imanes! Diviértete poniendo cada país en su lugar, obtendrás un magnífico mapa del mundo que podrás colgar en la pared. Una forma divertida y educativa de descubrir el planeta y aprender sobre geografía. Medidas: 70 x 43 cm. Ideal a partir de los 7 años. Puzzle en francés.
-- ROMPECABEZAS MAGNÉTICO: Muy práctico, cada pieza del rompecabezas es un imán que se magnetiza en el tablero para no perderlas. Fácil de guardar, el puzle también se puede colocar en posición vertical, las piezas permanecen pegadas a su soporte.
-- ROMPECABEZAS DE MAPAS DEL MUNDO: Cada imán representa un país o región del mundo, con su nombre, capital y una ilustración que caracteriza esta parte del mundo. La gran pizarra magnética representa el mundo con sus continentes, mares y océanos: el color utilizado para cada región te permite orientarte.
 - CONTENIDO: bandeja de madera y 92 piezas magnéticas. Material: MDF para la bandeja y madera contrachapada para los imanes. Incluye cuerda de algodón para colgar el puzle en la pared.
+- APRENDER MIENTRAS TE DIVIERTES: ¡Hagamos un viaje alrededor del mundo en 92 imanes! Diviértete poniendo cada país en su lugar, obtendrás un magnífico mapa del mundo que podrás colgar en la pared. Una forma divertida y educativa de descubrir el planeta y aprender sobre geografía. Medidas: 70 x 43 cm. Ideal a partir de los 7 años. Puzzle en francés.
 - DISEÑO ADORABLE Y FRANCÉS: Los materiales nobles, los colores elegidos y el cuidado diseño de los juguetes de madera Janod les permiten integrarse en la vida diaria en completa armonía. Todos los juguetes Janod están diseñados en Francia, en el Jura.
+- ROMPECABEZAS DE MAPAS DEL MUNDO: Cada imán representa un país o región del mundo, con su nombre, capital y una ilustración que caracteriza esta parte del mundo. La gran pizarra magnética representa el mundo con sus continentes, mares y océanos: el color utilizado para cada región te permite orientarte.
+- ROMPECABEZAS MAGNÉTICO: Muy práctico, cada pieza del rompecabezas es un imán que se magnetiza en el tablero para no perderlas. Fácil de guardar, el puzle también se puede colocar en posición vertical, las piezas permanecen pegadas a su soporte.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B001M0KMBE{{</world>}}

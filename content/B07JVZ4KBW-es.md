@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- campana cbg625/1x
 - dimensiones del producto:52 x 28 x 13 cm; 5.18 kilogramos
-- nivel de ruido:63 db
+- campana cbg625/1x
 - marca:candy
+- nivel de ruido:63 db
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07JVZ4KBW{{</world>}}

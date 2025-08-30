@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CALIDAD DEMOSTRADA: Desde 1985, esta marca de diseñador lleva demostrando por todo el mundo la calidad y la ligereza mediante una gran variedad de diseños en los míticos colores azul oscuro, blanco y rojo.
-- DISEÑO PREMIUM: El top de diseño atemporal es agradable a la piel y destaca por su gran comodidad. Tanto en la oficina como en el tiempo libre, esta camiseta ofrece siempre la mejor combinación de comodidad y estilo.
-- MATERIAL DE CALIDAD: Este artículo se compone de un 96% de algodón orgánico, un 4% de elastano.
 - DISCRETO Y ELEGANTE: La moderna camiseta destaca por su cuello clásico y su gran comodidad. Los trés botones y la discreta bandera del pecho completan el look.
+- MATERIAL DE CALIDAD: Este artículo se compone de un 96% de algodón orgánico, un 4% de elastano.
+- DISEÑO PREMIUM: El top de diseño atemporal es agradable a la piel y destaca por su gran comodidad. Tanto en la oficina como en el tiempo libre, esta camiseta ofrece siempre la mejor combinación de comodidad y estilo.
+- CALIDAD DEMOSTRADA: Desde 1985, esta marca de diseñador lleva demostrando por todo el mundo la calidad y la ligereza mediante una gran variedad de diseños en los míticos colores azul oscuro, blanco y rojo.
 - AJUSTE PERFECTO: El polo slim fit es un clásico atemporal que destaca por su corte estrecho. La camiseta de suave material con porcentaje elástico posee un corte entallado y aporta una gran comodidad de uso.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

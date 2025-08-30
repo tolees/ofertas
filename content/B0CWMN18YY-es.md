@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Con etiqueta de identificación para escribir el nombre en la parte trasera.
-- Dos bolsillos laterales de red para guardar una botellita de agua, el paraguas, o cualquier otro pequeño accesorio.
 - Mochila de 21 cm x 25 cm x 10 cm fabricada en Poliéster.
+- Dos bolsillos laterales de red para guardar una botellita de agua, el paraguas, o cualquier otro pequeño accesorio.
 - Tirantes anchos, ergonómicos y acolchados que se adaptan perfectamente a la espalda.
 - Asa superior para colgarla de la percha cuando llegue a clase.
 

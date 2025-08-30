@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Material exterior: Sintético
-- Tipo de tacón: Plano
 - Cierre: Cordones
+- Tipo de tacón: Plano
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CL573XM2{{</world>}}

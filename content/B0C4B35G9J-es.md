@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Copas removibles
 - Soporte medio
 - Tecnología Dri-FIT
+- Copas removibles
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C4B35G9J{{</world>}}

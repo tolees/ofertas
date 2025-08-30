@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La funda de silicona de calidad superior se ajusta perfectamente sin añadir grosor
 - La correa ajustable mantiene tu GoPro a mano, ya la lleves puesta o colgada de tu equipo
+- La funda de silicona de calidad superior se ajusta perfectamente sin añadir grosor
 - Gracias al material delgado y flexible, resulta muy fácil de poner y quitar de tu GoPro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

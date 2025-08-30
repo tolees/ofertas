@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🎉 LENGUAS: Tarro de geles dulces de 290 gr. Lenguas pica con estupendo sabor a fresas
-- 🎊 CARAMELOS BLANDOS: Nuestros chuches son la opción perfecta para fiestas de cumpleaños, navidad, halloween u otras ocasiones especiales. Chucherias y gominolas ideales para un regalo original
-- 🪅 TARRO: Nuestro tarro plástico es el envase perfecto para compartir nuestras golosinas sin necesidad de bandejas adicionales, además que ayuda a conservar los caramelos con la mayor frescura, se pueden reutilizar
 - 💯 FINI: Marca líder en golosinas de España con las más altas puntuaciones en certificaciones y seguridad alimentaria del sector. La calidad, innovación y diversión están entre sus principales pilares para crear productos únicos
+- 🎊 CARAMELOS BLANDOS: Nuestros chuches son la opción perfecta para fiestas de cumpleaños, navidad, halloween u otras ocasiones especiales. Chucherias y gominolas ideales para un regalo original
+- 🎉 LENGUAS: Tarro de geles dulces de 290 gr. Lenguas pica con estupendo sabor a fresas
+- 🪅 TARRO: Nuestro tarro plástico es el envase perfecto para compartir nuestras golosinas sin necesidad de bandejas adicionales, además que ayuda a conservar los caramelos con la mayor frescura, se pueden reutilizar
 - ⚠️ EXTRA: Nuestro paquete de golosinas ha sido fabricada sin Organismo Modificados Geneticamente. Contiene GLUTEN y es fabricado en una fabrica que maneja derivados LÁCTEOS
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

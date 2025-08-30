@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ajuste de cuña
-- Espuma viscoelástica refrigerada por aire
 - Skech-Air
+- Espuma viscoelástica refrigerada por aire
 - Goldcrown
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

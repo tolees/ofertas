@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cintura elástica y cordones
-- Pantalón corto deportivo de ajuste relajado
 - Marca en la pierna
+- Pantalón corto deportivo de ajuste relajado
+- Cintura elástica y cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CB4F17BK{{</world>}}

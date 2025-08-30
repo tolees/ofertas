@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ideal con hielo y limón
-- Es elaborada sin azúcar
 - Bebida refrescante con gas
+- Es elaborada sin azúcar
+- Ideal con hielo y limón
 - No contiene cafeína
 - Conservar en un lugar fresco y seco
 

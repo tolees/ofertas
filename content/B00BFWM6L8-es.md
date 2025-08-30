@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 1 juego de 3 pedales
 - Nueva gama Sparco
+- Diseño deportivo
 - Válido para todos los vehículos , excepto automáticos, BMW, Mercedes y Mini
 - Fácil de instalar
-- Diseño deportivo
+- 1 juego de 3 pedales
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00BFWM6L8{{</world>}}

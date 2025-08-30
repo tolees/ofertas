@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura elástica
 - Corte
 - Tela Suave
+- Cintura elástica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQJM6ZB1{{</world>}}

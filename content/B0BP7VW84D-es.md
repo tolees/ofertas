@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Seis pares por paquete
-- Amortiguación en la planta, el talón y la puntera
 - Largo clásico
 - Refuerzo en el arco plantar
+- Seis pares por paquete
+- Amortiguación en la planta, el talón y la puntera
 - Costuras anatómicas en la puntera
 
 [🛒 Comprar!!!]({{< param buyurl >}})

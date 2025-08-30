@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - La tinta a base de agua no traspasa el papel
-- El grosor de trazo de la punta redonda es de 1 mm
-- 16 colores básicos + 4 colores neón
-- Rotulador de fibra para escritura, bocetos y diseños sobre papel de color claro
 - Forma de la punta: redondo
+- El grosor de trazo de la punta redonda es de 1 mm
+- Rotulador de fibra para escritura, bocetos y diseños sobre papel de color claro
+- 16 colores básicos + 4 colores neón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07D3DLKRY{{</world>}}

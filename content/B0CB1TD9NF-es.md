@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Resistente al agua
-- Ligera y ligera
 - Skechers Detalle del logotipo
+- Ligera y ligera
+- Resistente al agua
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CB1TD9NF{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Body efecto arrugado
 - Mangas de encaje
-- Escote redondo en la espalda
 - En blanco liso
+- Escote redondo en la espalda
 - Slim fit
+- Body efecto arrugado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0999DDSZP{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Presentan detalles distintivos de la marca
 - Compra una talla más grande
+- Presentan detalles distintivos de la marca
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C3WF5MJQ{{</world>}}

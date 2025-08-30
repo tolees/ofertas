@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 100% algodón.
-- Ojales bordados para una mejor ventilación.
+- Visera preformada.
 - Cierre de velcro.
 - Diseño de 6 paneles.
-- Visera preformada.
+- Ojales bordados para una mejor ventilación.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B016D48JYA{{</world>}}

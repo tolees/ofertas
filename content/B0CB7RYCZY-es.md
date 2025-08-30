@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Cuello en el tobillo y lengüeta acolchados Parche con logotipo en la lengüeta
 - Artículo de marca Reebok
-- Suela exterior de goma oversize Cierre frontal con cordones
 - Rayas de grogrén en el talón
+- Suela exterior de goma oversize Cierre frontal con cordones
 - Parte superior en textil tejido
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tela impermeable
+- Corte entallado
 - Tejido transpirable
 - Adecuado para correr o para cualquier otra actividad deportiva
-- Corte entallado
+- Tela impermeable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08VS5B1T5{{</world>}}

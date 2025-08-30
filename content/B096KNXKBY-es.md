@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Goma Goodyear
-- Espuma viscoelástica refrigerada por aire
 - Zapato cómodo
+- Espuma viscoelástica refrigerada por aire
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B096KNXKBY{{</world>}}

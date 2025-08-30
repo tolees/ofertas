@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Suela de tracción de goma flexible
 - Parte superior sintética con cordones y ribete perforado
 - Skechers Detalle del logotipo
-- Suela de tracción de goma flexible
 - Skechers Plantilla cómoda de espuma viscoelástica refrigerada por aire
 
 [🛒 Comprar!!!]({{< param buyurl >}})

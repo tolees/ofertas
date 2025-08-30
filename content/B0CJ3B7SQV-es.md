@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Silueta clásica para un ajuste relajado en el cuerpo y las caderas.
 - Logotipo de Nike
+- Silueta clásica para un ajuste relajado en el cuerpo y las caderas.
 - La tecnología Nike Dri-FIT absorbe el sudor para promover una rápida evaporación y mantener la piel seca para una comodidad ideal.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

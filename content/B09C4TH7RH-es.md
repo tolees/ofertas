@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tiene detalles distintivos de la marca
 - Los pantalones cortos cuentan con una cintura elástico Material suave y un cierre de gancho y barra
+- Tiene detalles distintivos de la marca
 - La camiseta cuenta con mangas cortas y un estampado de tejido anudado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

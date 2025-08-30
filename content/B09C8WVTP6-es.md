@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Bolsillos insertados con ribete y bolsillo para monedas con entrada lateral
 - Talle medio
 - Corte relajado en la cadera y los muslos, ligeramente estrecho de la rodilla al bajo
-- Bolsillos insertados con ribete y bolsillo para monedas con entrada lateral
 - Bolsillos traseros con ribete doble y bolsillo para el móvil debajo
 - Bragueta de cremallera
 

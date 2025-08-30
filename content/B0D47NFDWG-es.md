@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño plegable emblemático y refinado. Disfruta de un diseño duradero, compacto y cómodo en suave cuero vegano que podrás elegir en varios colores de moda.
-- Infinitas maneras de capturar. Da rienda suelta a tu creatividad con Flex View, tanto si vas a usar el smartphone como cámara de vídeo, vas a montar tu propio fotomatón o vas a hacerte unos cuantos selfies en modo manos libres.
 - La pantalla externa más grande e inteligente. Hazlo todo sin abrir el smartphone, hasta usar las funciones con tecnología moto ai para interactuar, capturar y crear.
 - Nuevo sistema de cámaras con tecnología moto ai. Captura fácilmente fotos y vídeos con el sistema de cámaras de 50 MP, con un teleobjetivo de doble aumento y tecnología moto ai.
+- Infinitas maneras de capturar. Da rienda suelta a tu creatividad con Flex View, tanto si vas a usar el smartphone como cámara de vídeo, vas a montar tu propio fotomatón o vas a hacerte unos cuantos selfies en modo manos libres.
 - Rendimiento Snapdragon 8s de 3.ª gen. Maximiza tus posibilidades con el potente procesado de un motor de inteligencia artificial, que te ofrece velocidades de hasta 3 GHz y más eficiencia.
+- Diseño plegable emblemático y refinado. Disfruta de un diseño duradero, compacto y cómodo en suave cuero vegano que podrás elegir en varios colores de moda.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D47NFDWG{{</world>}}

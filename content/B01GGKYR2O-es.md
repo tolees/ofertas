@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Carga rápida y transferencia de datos: Compatible con velocidades de carga rápida de hasta 15 W (5 V y 3 A) y de transferencia de datos de hasta 10 Gb/s (SuperSpeed+). No superes la carga recomendada (15 W, 5 V/3 A). Velocidad de carga limitada para dispositivos en los que se haya activado PD
 - Con certificación USB-IF: conecta cualquier cable USB-C a cualquier dispositivo con USB-A. Para transmisión potente o carga de smartphone, bancos de carga, cargadores murales o de coche o dispositivos de baja potencia. Apto para transmisión de datos entre smartphones, tablets, portátiles, discos duros y más.
+- Carga rápida y transferencia de datos: Compatible con velocidades de carga rápida de hasta 15 W (5 V y 3 A) y de transferencia de datos de hasta 10 Gb/s (SuperSpeed+). No superes la carga recomendada (15 W, 5 V/3 A). Velocidad de carga limitada para dispositivos en los que se haya activado PD
 - Contenido: 1 cable de 0,9 m, 15 W, cable USB-C 3.1, 2.ª gen., para cargar y alimentar dispositivos, transferencia de datos, fotos y música. Compatible con memorias USB 3.0 y USB 2.0
 
 [🛒 Visítala!!!]({{< param buyurl >}})

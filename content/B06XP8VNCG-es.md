@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Protector de piso
-- Prolongará la vida de tu tienda
 - Dimensions: 2,06 x 1,16 m
+- Prolongará la vida de tu tienda
+- Protector de piso
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B06XP8VNCG{{</world>}}

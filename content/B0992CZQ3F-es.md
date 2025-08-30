@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Con práctica cremallera
-- Óptima para un look informal de verano
 - Ajuste normal cómodo y cintura media
+- Óptima para un look informal de verano
 - Elegantes pantalones cortos chinos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

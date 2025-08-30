@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- De la colección "Knights"
 - Incluye: dragón con movimientos y armadura
+- De la colección "Knights"
 - Contiene 11 piezas
 - Figura de caballero con antorcha, espada y escudo
 

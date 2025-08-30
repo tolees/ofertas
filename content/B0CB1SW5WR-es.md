@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Punta redonda
 - Logotipo de la marca
 - Cierre de cordones
+- Punta redonda
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB1SW5WR{{</world>}}

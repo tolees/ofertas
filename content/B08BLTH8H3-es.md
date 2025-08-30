@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Una camiseta material suave y un par de pantalones
 - El conjunto incluye una sudadera con capucha
-- Tiene detalles distintivos de la marca
 - La sudadera con capucha cuenta con un cierre de cremallera
+- Tiene detalles distintivos de la marca
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08BLTH8H3{{</world>}}

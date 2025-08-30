@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Su fórmula repele la humedad y evita la corrosión
 - Recomendado para: cadena, cambio, plato y cassette
 - Suaviza los cambios de marcha
+- Su fórmula repele la humedad y evita la corrosión
 - Mejora el rendimiento de la cadena y componentes de la transmisión
 - Lubricación adaptada a todo tipo de condiciones
 

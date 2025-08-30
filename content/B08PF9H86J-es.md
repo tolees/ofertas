@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Con Levis Sculpt Hyperstretch: el tejido definitivo para sujetar y realzar la figura que no se estira, así que no te preocupes de acabar con un ajuste holgado al final del día
-- Talle alto que realza la cintura
 - Con Levis Sculpt Hyperstretch: el tejido definitivo para sujetar y realzar la figura que no se estira, así que no te preocupes de acabar con un ajuste holgado al final del día
+- Talle alto que realza la cintura
 - Elegante pierna superceñida
 - Este producto es original Levis
 

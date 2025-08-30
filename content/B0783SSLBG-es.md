@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tipo de tacón: plano
-- Estilo más adecuado para: female
-- Material de la suela: goma
 - Material exterior: cuero
-- Composición: LEDer
 - Revestimiento: sintético
+- Composición: LEDer
+- Estilo más adecuado para: female
+- Tipo de tacón: plano
 - Cierre: cordones
+- Material de la suela: goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0783SSLBG{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ofrece una comodidad óptima
 - Corte holgado
+- Ofrece una comodidad óptima
 - Con hombros caídos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

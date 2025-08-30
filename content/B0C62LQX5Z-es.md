@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Con tapa dura y 80 hojas de papel de 80 gr.
 - en espiral y pautado en cuadrícula
 - Libreta en tamaño A4
-- Con tapa dura y 80 hojas de papel de 80 gr.
 - Incluye una hoja de pegatinas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tela transpirable
+- Adecuado para correr o para cualquier otra actividad deportiva
 - Ajuste apretado
 - Tela impermeable
-- Adecuado para correr o para cualquier otra actividad deportiva
-- Tela transpirable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08PL3C2KR{{</world>}}

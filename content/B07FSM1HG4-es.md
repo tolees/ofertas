@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Capacidad; 1 L
-- Exprimidor manual
 - Limpieza sencilla
+- Exprimidor manual
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07FSM1HG4{{</world>}}

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Dimensiones: 10 x 15,5 x 2,5 cm
-- Billetero con múltiples departamentos para tarjetas de crédito o documentos de identidad
 - Compartimento interior cerrado con cremallera
 - Departamento trasero para billetes
+- Billetero con múltiples departamentos para tarjetas de crédito o documentos de identidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BJZFTDG8{{</world>}}

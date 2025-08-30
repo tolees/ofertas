@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pequeña, ligera y práctica para cortar con facilidad. Cambio de sierras sencillo y sin necesidad de herramientas.
-- Revoluciones controladas electrónicamente para trabajar en función del material.
-- Incl. adaptador para aspiración de polvo para un trabajo limpio.
 - Zapata giratoria para cortes oblicuos hasta 45º. Trabajo ameno gracias a la empuñadura Softgrip.
+- Incl. adaptador para aspiración de polvo para un trabajo limpio.
+- Revoluciones controladas electrónicamente para trabajar en función del material.
 - Bajo nivel de vibraciones gracias a un diseño equilibrado.
+- Pequeña, ligera y práctica para cortar con facilidad. Cambio de sierras sencillo y sin necesidad de herramientas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B073HFT4BD{{</world>}}

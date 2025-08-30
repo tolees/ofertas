@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Aplica sobre el cabello limpio y húmedo después de ducharte. Péinalo y distribúyelo homogéneamente. Después puedes secarlo con un secador o pásale un cepillo para obtener un resultado suave y brillante como de peluquería profesional
-- Nutre e hidrata para conseguir un pelo radiante y saludable, recuperando el cuerpo y la flexibilidad necesaria
 - El aceite curativo Healing Oil es el accesorio perfecto para restaurar y reavivar el pelo de mujer estresado y dañado por la sequedad. Elaborado con queratina y el complejo Phyto IV, consigue reparar el cabello desde la raíz hasta las puntas aportando el brillo y la belleza de un pelo sano
+- Nutre e hidrata para conseguir un pelo radiante y saludable, recuperando el cuerpo y la flexibilidad necesaria
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00DR6KEK0{{</world>}}

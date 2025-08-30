@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ayuda a reducir el exceso de producción de sebo.
 - Calma la piel sin engrasarla.
+- Ayuda a reducir el exceso de producción de sebo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C9JWCDW3{{</world>}}

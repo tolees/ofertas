@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Una zapatilla con un dedo del pie equilibrado y una parte superior de capas.
 - Logotipo de FILA sellado en el panel lateral.
+- Una zapatilla con un dedo del pie equilibrado y una parte superior de capas.
 - Webbing as lace-loops, and nice, round laces.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

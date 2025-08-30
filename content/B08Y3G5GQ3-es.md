@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Chándal de dos piezas formado por chaqueta con cuello alto y pantalón largo con bolsillos y cintura elástica ajustable. Logotipo estampado.
 - Rib en puños y bajo
+- Tipo de fábrica: 100 % Poliéster
 - Pantalón con cordones
 - Chaqueta con cremallera
-- Tipo de fábrica: 100 % Poliéster
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08Y3G5GQ3{{</world>}}

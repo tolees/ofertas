@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cremallera bidireccional en el compartimento principal
+- Compartimento lateral pequeño adicional con cremallera
 - Correa de hombro acolchada y ajustable con PUMA Logotipo de gato
 - Asas de transporte que se pueden unir con un cierre de velcro
-- Compartimento lateral pequeño adicional con cremallera
 - Gran compartimento con cremallera en el lateral
 
 [🛒 Visítala!!!]({{< param buyurl >}})

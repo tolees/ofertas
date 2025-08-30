@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Coche Peppa Pig de 17,5cm con control por infrarrojos
-- Incluye las figuras de Papá Pig y Peppa
-- Con sonido en el mando
 - Funciones: recto hacia adelante, giro en marcha atrás, giro 360º
 - Monocanal. 2,4GHz
+- Incluye las figuras de Papá Pig y Peppa
+- Con sonido en el mando
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B095HVB68R{{</world>}}

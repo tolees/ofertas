@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Lolita Lempicka mon premier parfum epv 100 ml
-- Para una sensación de bienestar
 - Producto de alta calidad
 - Producto que combina tradición e innovación
+- Para una sensación de bienestar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08CMR9SXW{{</world>}}

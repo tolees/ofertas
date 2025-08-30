@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cinturón de tela
 - Bolsillo en el lado izquierdo
+- Cinturón de tela
 - Vestido largo de camisa de ajuste regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})

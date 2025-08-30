@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Numero de núcleos de cpu: 4
-- Reloj de aumento máx: 4 ghz
-- Versión de pci express: pcie 30 x8
 - Tdp/tdp predeterminado: 65 w
+- Versión de pci express: pcie 30 x8
+- Reloj de aumento máx: 4 ghz
+- Numero de núcleos de cpu: 4
 - Solución térmica: wraith stealth
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Logotipo impreso en el pecho
 - Cómodo de llevar
+- Logotipo impreso en el pecho
 - Camiseta de manga corta para hombre
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ligeras
 - Parte superior de malla diseñada
+- Ligeras
 - Cierre de cordones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

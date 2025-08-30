@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bastidor de soporte que proporciona estabilidad
 - Diseño de corte bajo
+- Bastidor de soporte que proporciona estabilidad
 - Detalles distintivos de la marca
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Inspirados en nuestra serie BLAST, nuestro objetivo fue crear este calzado más suave y ligero. Está diseñado para garantizar una gran comodidad al practicar diversas actividades.
 - De cuerda
+- Inspirados en nuestra serie BLAST, nuestro objetivo fue crear este calzado más suave y ligero. Está diseñado para garantizar una gran comodidad al practicar diversas actividades.
 - Nos centramos en el retorno de energía del calzado, dándole a la espuma de la entresuela un rebote sensible para garantizar una sensación de rapidez bajo los pies.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

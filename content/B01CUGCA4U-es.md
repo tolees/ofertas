@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Empaque de 400 ml
-- Bálsamo capilar
 - Producto acondicionador
+- Bálsamo capilar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01CUGCA4U{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Entrega a domicilio contra firma
 - 9,99
 - Sandalia Pepe Jeans Ref 59949 Golden – Dorado – 39
-- Racine > Inicio > Zapatos mujer > Sandalias planas mujer
-- Entrega a domicilio contra firma
 - Pepe Jeans
+- Racine > Inicio > Zapatos mujer > Sandalias planas mujer
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C1TGVYXF{{</world>}}

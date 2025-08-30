@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Con fresca y suave fragancia floral
-- Protección duradera de 48h
 - Anti-transpirante
+- Protección duradera de 48h
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B071GRBXL3{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Material exterior: Lona
 - Material de la suela: Caucho
 - Cierre: Cordones
-- Material exterior: Lona
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09ZVP1SP9{{</world>}}

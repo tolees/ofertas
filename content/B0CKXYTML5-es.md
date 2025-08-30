@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Tirador de tela en el talón
 - Suela de goma de aspecto vulcanizado
-- La parte superior contiene al menos un 50% de material reciclado
 - Parte superior de nobuk sintético
+- La parte superior contiene al menos un 50% de material reciclado
 - Horma clásica
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

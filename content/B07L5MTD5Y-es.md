@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Whisky escocés mezcla de diferentes whiskys de malta y grano
 - Se madura durante un mínimo de 12 años
 - Con aromas de hierbas silvestres, brezo, miel y frutas
 - De textura cremosa en el paladar
-- Whisky escocés mezcla de diferentes whiskys de malta y grano
 - Color ámbar radiante y cálido
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

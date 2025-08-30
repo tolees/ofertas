@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 40% poliéster
 - 60% algodón orgánico
-- Pantalón de chandal
-- Cintura elástico con cordones de ajuste
 - Bajos elásticos
+- 40% poliéster
+- Cintura elástico con cordones de ajuste
+- Pantalón de chandal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07YCMV6XV{{</world>}}

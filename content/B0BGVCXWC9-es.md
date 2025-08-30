@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tiene detalles distintivos de la marca
 - Ofrece comodidad y libertad de movimientos
+- Tiene detalles distintivos de la marca
 - Tejido ligero
 
 [🛒 Comprar!!!]({{< param buyurl >}})

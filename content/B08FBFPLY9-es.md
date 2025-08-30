@@ -30,10 +30,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Estampado integral Levis
 - Cuello redondo
-- Tejido de punto y con material suave
-- Ajuste regular
 - Manga corta
+- Ajuste regular
 - 40% poliéster
+- Tejido de punto y con material suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08FBFPLY9{{</world>}}

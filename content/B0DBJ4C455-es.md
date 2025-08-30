@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Logotipo redondo de Kipling
-- Compartimentprincipal con cremallera
 - Mono robot de metal
+- Compartimentprincipal con cremallera
 - 2 bolsillos interiores: 1 abierto y 1 con cremallera
 - Anillo D
 

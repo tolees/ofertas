@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Suela flexible
 - Plantilla acolchada y cómoda
 - Entresuela acanalada que absorbe los golpes
-- Suela flexible
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08F9R2JWS{{</world>}}

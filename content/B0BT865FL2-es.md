@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tejido elástico
-- Cuerpo forrado y mangas transparentes
 - Fibras sostenibles: poliéster reciclado
 - Manga larga
 - Cuello Perkins
+- Tejido elástico
+- Cuerpo forrado y mangas transparentes
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BT865FL2{{</world>}}

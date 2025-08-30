@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dimensiones: 16 x 23 x 13cm
-- Forro interior
-- Bolso bandolera de un compartimento y bolsillo frontal
-- Bandolera extraíble y ajustable de 125cm de largo
 - Cuerpo exterior fabricado en material acolchado
+- Forro interior
+- Bandolera extraíble y ajustable de 125cm de largo
+- Bolso bandolera de un compartimento y bolsillo frontal
+- Dimensiones: 16 x 23 x 13cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09VCLYNG3{{</world>}}

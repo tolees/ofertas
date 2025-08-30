@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tiene detalles distintivos de la marca
 - Prenda de vestimenta
+- Tiene detalles distintivos de la marca
 - Para uso diario
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Altura Tacón Bajo (de 1 A 3 cm)
 - Material principal Sintético
-- Tipo de tacón Plano
+- Altura Tacón Bajo (de 1 A 3 cm)
 - Tipo de cierre Cordones
+- Tipo de tacón Plano
 - Material de la suela EVA
 
 [🛒 Aquí!!!]({{< param buyurl >}})

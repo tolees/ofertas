@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Empeine sintético
-- Forro textil
 - Horma clásica
 - Compra una talla más grande
-- Mediasuela Cloudfoam
 - Cierre de cordones
+- Mediasuela Cloudfoam
+- Empeine sintético
+- Forro textil
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CKS2F6F4{{</world>}}

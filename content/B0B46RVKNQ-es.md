@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- A partir de los 6 años
 - Contiene: 1 Figura de Unicornio fosforescente para decorar, 2 figuras sorpresa fosforescentes (entre: Dinosaurio, Gatito, Perrito, Panda), 3 hojas de pegatinas con purpurina, 1 hoja de gemas y 1 rotulador
-- No apto para niños menores de 3 años; para ser utilizado bajo la supervisión de un adulto
 - Decora tus 3 personajes con pegatinas brillantes, pedrería y un rotulador; magia, tus creaciones brillan en la oscuridad
 - Dimensiones: L22 x P8 x H12 cm
+- No apto para niños menores de 3 años; para ser utilizado bajo la supervisión de un adulto
+- A partir de los 6 años
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B46RVKNQ{{</world>}}

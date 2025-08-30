@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dimensiones (ancho x alto x fondo): 38 x 5,2 x 6,7 cm
+- Ideal para rollos de hasta 33 cm de ancho
 - Con cuchilla de acero inoxidable y dientes finos
 - En elegante color blanco con ventana
 - Práctico portarrollos para papel de aluminio y film transparente
-- Ideal para rollos de hasta 33 cm de ancho
+- Dimensiones (ancho x alto x fondo): 38 x 5,2 x 6,7 cm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B06WPBQRB6{{</world>}}

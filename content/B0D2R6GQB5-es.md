@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Prenda deportiva de vestir
-- Tiene detalles distintivos de la marca
 - Ofrece comodidad
+- Tiene detalles distintivos de la marca
+- Prenda deportiva de vestir
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D2R6GQB5{{</world>}}

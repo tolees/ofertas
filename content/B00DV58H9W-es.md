@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material exterior: Algodón
 - Cierre: Cordones
+- Material exterior: Algodón
 - Material de la suela: Caucho
 
 [🛒 Comprar!!!]({{< param buyurl >}})

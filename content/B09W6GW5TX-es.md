@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fórmula sin parabenos, con glicerina y semilla de hibisco para hidratar las fibras más secas y reforzar la barrera hidrolipídica dejando unos rizos y ondas intensamente hidratados y fortalecidos
 - Aplicar en el cabello húmedo después de limpiar y aclarar. Usar para un resultado natural, sin añadir peso.
+- Fórmula sin parabenos, con glicerina y semilla de hibisco para hidratar las fibras más secas y reforzar la barrera hidrolipídica dejando unos rizos y ondas intensamente hidratados y fortalecidos
 - Mascarilla hidratante intensiva de Curl Expression hidrata la fibra profundamente mientras aporta brillo y control del encrespamiento, de la manera pro. Para un cabello con movimiento y control anti-frizz
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fabricado en Alemania: Schneider Kreuznach (B W), tu especialista en mecánica de precisión desde hace más de 100 años
-- MASTER LINIE: la montura de filtro extremadamente estrecha evita el viñeteado también con un objetivo de gran angular corto (desde 12 mm APS) – con rosca frontal para tapa de objetivo o parasoles.
 - El revestimiento 7+1 MRC garantiza una alta transmisión y máxima antirreflejos. La capa exterior nano adicional garantiza una menor adherencia de la suciedad gracias al efecto loto.
+- Fabricado en Alemania: Schneider Kreuznach (B W), tu especialista en mecánica de precisión desde hace más de 100 años
 - Creativo por menos luz: filtro de densidad neutra perfecto para reducir la cantidad de luz entrante (3 niveles de diafragma) sin afectar los colores y el contraste. Perfecto para efectos de flujo.
+- MASTER LINIE: la montura de filtro extremadamente estrecha evita el viñeteado también con un objetivo de gran angular corto (desde 12 mm APS) – con rosca frontal para tapa de objetivo o parasoles.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09J9YN2MP{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100 % nailon
 - Este producto es original Levis
 - Un fit relajado con más espacio en el tronco y en los hombros
+- 100 % nailon
 - Un clásico atemporal
 - Cierre de cremallera completa
 

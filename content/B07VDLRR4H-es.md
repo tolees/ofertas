@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- MODO DE EMPLEO: Aplicar generosa y uniformemente sobre el rostro, cuello y escote 30 minutos antes de la exposición al sol. Reaplicar frecuentemente, al menos cada 2 horas, después de secarse con la toalla, cada baño o actividad deportiva.
 - FILTROS SOLARES: la crema facial para el sol contiene filtros solares FPS30 para proporcionar una protección efectiva contra los efectos dañinos de los rayos UVA y UVB. Disponible en FPS30+
+- MODO DE EMPLEO: Aplicar generosa y uniformemente sobre el rostro, cuello y escote 30 minutos antes de la exposición al sol. Reaplicar frecuentemente, al menos cada 2 horas, después de secarse con la toalla, cada baño o actividad deportiva.
+- PROTEGE TU PIEL: es ideal para proteger tu piel en el día a día, además no causa irritación por lo que lo podrás utilizarla hasta en las pieles más sensibles.
 - ANTIMANCHAS: esta crema facial está elaborada a partir de una fórmula innovadora que previene la aparición de manchas en la piel causadas por el sol, la luz y la polución.
 - RESISTENTE AL AGUA: esta crema resiste al agua lo que la convierte en el complemento ideal para cuidar de tu piel en verano.
-- PROTEGE TU PIEL: es ideal para proteger tu piel en el día a día, además no causa irritación por lo que lo podrás utilizarla hasta en las pieles más sensibles.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07VDLRR4H{{</world>}}

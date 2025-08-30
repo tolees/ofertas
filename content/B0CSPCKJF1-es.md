@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Corte entallado
-- Fabricado con un mínimo de 20 % de materiales reciclados y otros tejidos sostenibles
 - Estilo de tiro regular
+- Fabricado con un mínimo de 20 % de materiales reciclados y otros tejidos sostenibles
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CSPCKJF1{{</world>}}

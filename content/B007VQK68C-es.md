@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tensión: 1,2 V | Tipo 550 | Sistema: NiMH maxE | Tamaño de pila: AAA (Micro) | Ciclos de carga: hasta 1000
+- Alta resistencia a los ciclos | Alto rendimiento | Rápida capacidad de carga | Más autonomía en aparatos eléctricos | Larga vida útil | Sin efecto memoria | Sostenible | Sin metales pesados
 - Pilas con un nivel muy bajo de autodescarga Ideales para mandos a distancia, juguetes, modelismo, cámaras, linternas, relojes, despertadores y otros aparatos
 - La utilización de baterías permite reducir costes y proteger el medio ambiente Se trata de pilas que se autodescargan 10 veces menos que las pilas normales, por lo que después de un año las pilas conservan aún alrededor del 80% de su capacidad inicial
-- Alta resistencia a los ciclos | Alto rendimiento | Rápida capacidad de carga | Más autonomía en aparatos eléctricos | Larga vida útil | Sin efecto memoria | Sostenible | Sin metales pesados
+- Tensión: 1,2 V | Tipo 550 | Sistema: NiMH maxE | Tamaño de pila: AAA (Micro) | Ciclos de carga: hasta 1000
 - Volumen de suministro: 1x paquete de 2 pilas NiMH maxE Micro AAA tipo 550
 
 [🛒 Aquí!!!]({{< param buyurl >}})

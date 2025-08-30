@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El porcentaje elástico proporciona una gran comodidad
 - Cintura baja y bragueta con cremallera
+- El porcentaje elástico proporciona una gran comodidad
 - El denim se compone principalmente de algodón con un bajo porcentaje de estiramiento
 - Chinos en bolsillos ribeteados ajustados
 

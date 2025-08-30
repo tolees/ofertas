@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye tres ranuras pequeñas
+- Hierros simples para cepillos de banco
 - De color plateado
 - Marca: Stanley
-- Hierros simples para cepillos de banco
+- Incluye tres ranuras pequeñas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00009OYFT{{</world>}}

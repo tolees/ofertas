@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Duración: 30 minutos
 - Adecuado para gente competitiva y crítica, así como para los más sueltos
 - De 1 a 2 jugadores
 - Edad recomendada: 10
+- Duración: 30 minutos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07J1V5JFN{{</world>}}

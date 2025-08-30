@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Panel fruncido en la cintura
-- Bolsillos inclinados en los laterales
 - Viscosa dobby todo en uno
 - Mangas con costuras elásticas
+- Panel fruncido en la cintura
 - Ojo trasero abotonado
+- Bolsillos inclinados en los laterales
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CB4FQ42X{{</world>}}

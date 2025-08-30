@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Entresuela ligera compuesta de EVA moldeada por inyección que garantiza una amortiguación ligera
 - Cierre de encaje
+- Entresuela ligera compuesta de EVA moldeada por inyección que garantiza una amortiguación ligera
 - Parte superior en material sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Entresuela de espuma
-- Suela de goma
 - El patrón inspirado en gofres proporciona tracción.
+- Suela de goma
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DP2NGV4W{{</world>}}

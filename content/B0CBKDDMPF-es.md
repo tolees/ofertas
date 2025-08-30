@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aliento fresco: Previene el mal aliento. Sabor menta original
-- Ayuda a eliminar las manchas de la superficie: Consigue dientes más blancos
 - Triple Beneficio: Proporciona protección contra la caries, ayuda a mantener los dientes blancos de forma natural y refresca el aliento
+- Ayuda a eliminar las manchas de la superficie: Consigue dientes más blancos
+- Aliento fresco: Previene el mal aliento. Sabor menta original
 - Ayuda a prevenir la caries: Protección anticaries probada
 - Producto exclusivo en Amazon
 

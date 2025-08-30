@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuenta con un diseño ligero
-- Tiene detalles distintivos de la marca
 - Dispone de 5 bolsillos
+- Tiene detalles distintivos de la marca
+- Cuenta con un diseño ligero
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BKQJJD28{{</world>}}

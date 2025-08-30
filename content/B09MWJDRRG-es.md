@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 100% poliéster
-- Material tejido ligero
 - Logotipo de gato PUMA brillante en la pierna izquierda
+- Material tejido ligero
 - Cintura elástica con marcas PUMA
 
 [🛒 Comprar!!!]({{< param buyurl >}})

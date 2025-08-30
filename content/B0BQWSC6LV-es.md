@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tela suave ultra -flat
 - Agarre
 - Traje de baño
+- Tela suave ultra -flat
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQWSC6LV{{</world>}}

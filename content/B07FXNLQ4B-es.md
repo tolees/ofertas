@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - bolas: 4 azules,4 naranjas
 - Raqueta 1: azul y rosa
-- Este set cool incluye 2 palas colorato de calidad con recubrimientos de color diferente en golpe recto y reverso, así como bolas colorato bicolor. Las palas de moda con mango cóncavo ofrecen características de juego y diversión a la mesa. Las bolas bicolor están a juego con las palas y mejoran la lectura de la rotación de los diferentes golpes
 - Pala 2: verde- naranja
+- Este set cool incluye 2 palas colorato de calidad con recubrimientos de color diferente en golpe recto y reverso, así como bolas colorato bicolor. Las palas de moda con mango cóncavo ofrecen características de juego y diversión a la mesa. Las bolas bicolor están a juego con las palas y mejoran la lectura de la rotación de los diferentes golpes
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07FXNLQ4B{{</world>}}

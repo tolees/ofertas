@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalones de traje
 - Composición: 64% viscosa; 31% poliéster; 5% elastano
 - Cierre delantero
+- Pantalones de traje
 - Color liso
 
 [🛒 Aquí!!!]({{< param buyurl >}})

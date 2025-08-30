@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Disponible en muchos colores brillantes
+- Grosor de trazo: 0,4 mm
+- Punta metálica para una larga vida útil
 - Apto para reglas y plantillas
 - Alta protección contra el secado sin tapa
-- Punta metálica para una larga vida útil
-- Grosor de trazo: 0,4 mm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08S73SPCK{{</world>}}

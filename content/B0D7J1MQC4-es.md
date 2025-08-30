@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Forro de malla de poliéster
 - Suela TPR
+- Forro de malla de poliéster
 - Calvin Klein Logotipo en el lateral, lengüeta y entresuela
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Partes aptos para lavavajillas y cuerpo y la tapa en acero inoxidable
-- Capacidad de cubeta interna en esmalte: 3 Litros
 - Control de temperatura variable hasta 190 °C
+- Partes aptos para lavavajillas y cuerpo y la tapa en acero inoxidable
 - Sistema de seguridad con botón de reinicio «RESTART»
+- Capacidad de cubeta interna en esmalte: 3 Litros
 - Potencia: 2000 Watts - 220-240V~ 50/60Hz
 
 [🛒 Aquí!!!]({{< param buyurl >}})

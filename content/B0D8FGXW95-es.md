@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Una gama de ropa y accesorios de estilo de vida inspirados en el deporte pero diseñados para la calle, adidas tiene amplias colecciones de ropa deportiva y específicas para el deporte
 - Corte regular
-- Cintura elástica con cordón
 - 100% poliéster reciclado tejido liso
+- Cintura elástica con cordón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D8FGXW95{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 32 paneles de igual superficie
 - Exterior texturizado de PU de 0,8 mm para mejorar la aerodinámica
+- 32 paneles de igual superficie
 - Construcción híbrida para mayor durabilidad y menor absorción de agua
 
 [🛒 Comprar!!!]({{< param buyurl >}})

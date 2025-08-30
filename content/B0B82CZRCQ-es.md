@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Esfera negra cepillada
-- 3 ATM de resistencia al agua, el agua del grifo o la lluvia no daña nuestros relojes siempre y cuando la caja, la corona y el cristal permanezcan intactos
-- Movimiento multifunción de cuarzo de tres manecillas
 - Grosor de la caja de 10,0 mm / Diámetro de la caja: 44 mm
+- 3 ATM de resistencia al agua, el agua del grifo o la lluvia no daña nuestros relojes siempre y cuando la caja, la corona y el cristal permanezcan intactos
+- Esfera negra cepillada
+- Movimiento multifunción de cuarzo de tres manecillas
 - Correa de piel negra
 
 [🛒 Visítala!!!]({{< param buyurl >}})

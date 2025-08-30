@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Horma clásica
-- Diseño fácil de poner y quitar
 - Parte superior sintética
 - Plantilla moldeada
-- Amortiguación ligera
 - Forro textil
+- Horma clásica
+- Diseño fácil de poner y quitar
+- Amortiguación ligera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09HZD63HD{{</world>}}

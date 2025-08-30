@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material de la suela: Poliuretano
 - Material exterior: Cuero
 - Revestimiento: Sintético
+- Material de la suela: Poliuretano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B099NH23FM{{</world>}}

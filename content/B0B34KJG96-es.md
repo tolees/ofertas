@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - La frenética carrera de los décimos.
-- Con décimos para comprar, intercambiar…. O regalar!!! Partidas muy dinámicas y divertidas.
 - Recomendado a partir de 8 años.
-- 12 meses para convertirte en millonario.
 - Los puedes tener… Los puedes perder…
+- Con décimos para comprar, intercambiar…. O regalar!!! Partidas muy dinámicas y divertidas.
+- 12 meses para convertirte en millonario.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B34KJG96{{</world>}}

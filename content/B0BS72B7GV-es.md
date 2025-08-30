@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Detalle acanalado en el cuello
 - Tejido suave
+- Detalle acanalado en el cuello
 - Logotipo de Hackett bordado en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Recomendado particularmente para SUZUKI, KAWASAKI, YAMAHA, que recomienden aceite de grado SAE 10W-40 para algunos de sus modelos
 - 4L
+- Recomendado particularmente para SUZUKI, KAWASAKI, YAMAHA, que recomienden aceite de grado SAE 10W-40 para algunos de sus modelos
 - Otras aplicaciones: motos sin catalizadores, Scooters, ATV’s, UTV’s
 - Motos de altas prestaciones, de carretera, trail, motos de cross, enduro, trial equipadas con motores de 4 tiempos con cajas de velocidades integradas o no y embrague bañado en aceite o en seco, motores diseñados para utilizar lubricantes de baja viscosidad, que respondan a las normas anti-contaminantes Euro 2, 3, 4 y 5 equipadas con sistemas de tratamiento de gases de escape: catalizadores, inyección de aire en el escape
 

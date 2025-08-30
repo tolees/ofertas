@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Detalles distintivos de la marca
-- Ofrece comodidad todo el día
 - Diseño de ajuste regular
 - Camiseta deportiva de cuello redondo
+- Detalles distintivos de la marca
+- Ofrece comodidad todo el día
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07KL3FBC2{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Vans Sidestripe Branding
-- VansGuard: Materiales resistentes al agua
 - Vulcanized Construction.water_resistant
 - Suela de gofre inversa para una mayor tracción
+- Vans Sidestripe Branding
 - Lace-Up Closure
+- VansGuard: Materiales resistentes al agua
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B3S3FT8J{{</world>}}

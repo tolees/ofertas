@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 【Diseño Compacto y Completo】: Nuestro comprobador de voltaje ofrece una linterna LED brillante, alarma de batería baja y apagado automático después de 5 minutos sin uso para ahorrar energía. Su diseño con gancho permite transportarlo con facilidad.
-- 【Doble Rango, Sensibilidad Ajustable】: KAIWEETS HT100s tiene doble rango, baja sensibilidad 70V-1000V y alta sensibilidad 12V-1000V para mediciones precisas y flexibles. Basta con pulsar el botón S para ajustar el alcance y la sensibilidad.
-- 【Visualización Inteligente de la Intensidad de la Tensión】: NCV buscapolos muestra la tensión como un gráfico de barras y porcentajes en una pantalla LCD. Comprende intuitivamente la intensidad de la tensión para una evaluación precisa.
 - 【Detector de Voltaje de CA sin Contacto】: El detector de tensión con sonda NCV es una herramienta útil para electricistas profesionales y aficionados al bricolaje, que le ayudará a comprobar de forma segura y sin contacto las instalaciones eléctricas domésticas, localizar roturas y distinguir entre cables de fase y neutro.
+- 【Doble Rango, Sensibilidad Ajustable】: KAIWEETS HT100s tiene doble rango, baja sensibilidad 70V-1000V y alta sensibilidad 12V-1000V para mediciones precisas y flexibles. Basta con pulsar el botón S para ajustar el alcance y la sensibilidad.
 - 【Certificaciones de Confianza】: Pruebas seguras garantizadas, Cumple con CE. IEC está clasificado por CAT III 1000V, CAT IV 600V, El detector de tensión tiene doble aislamiento y doble alarma a través del sonido y la luz. Al detectar la tensión, el detector advertía el peligro con luz roja parpadeada y pitido de alarma.
+- 【Visualización Inteligente de la Intensidad de la Tensión】: NCV buscapolos muestra la tensión como un gráfico de barras y porcentajes en una pantalla LCD. Comprende intuitivamente la intensidad de la tensión para una evaluación precisa.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C2CNC624{{</world>}}

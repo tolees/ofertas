@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Incluye 1 cepillo para suelo seco y húmedo y 1 boquilla de ranuras
-- Aspirador para sólidos y líquidos dotado de función de soplado, con depósito de recogida hecho de material plástico robusto y resistente
-- Aspirador de diseño compacto, muy ligero y manejable
-- Potencia absorbida (W) 1200; Depresión (mbar) 170; Aire aspirado (l/s) 28; Capacidad del depósito (l) 20; Longitud del cable de alimentación (m) 2.5; Diámetro de tubos de aspiración (mm) 35
 - Dotado de bisagras de acoplamiento/desacoplamiento rápido para limpiar los filtros y el depósito
+- Aspirador para sólidos y líquidos dotado de función de soplado, con depósito de recogida hecho de material plástico robusto y resistente
+- Potencia absorbida (W) 1200; Depresión (mbar) 170; Aire aspirado (l/s) 28; Capacidad del depósito (l) 20; Longitud del cable de alimentación (m) 2.5; Diámetro de tubos de aspiración (mm) 35
+- Aspirador de diseño compacto, muy ligero y manejable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01IDMKI6C{{</world>}}

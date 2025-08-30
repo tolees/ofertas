@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- AQUABARRIER: Los interiores del mouse están protegidos contra salpicaduras de agua, polvo y suciedad, tecnología con clasificación IP54
-- IMPRESIONANTE RGB: PrismSync RGB radiante de 3 zonas brilla en 16,8 millones de colores configurables
-- 18 BOTONES PROGRAMABLES: Ejecute las rotaciones más difíciles y acceda instantáneamente a muchos atajos con un panel lateral de 12 botones
-- RENDIMIENTO PARA DURAR MÁS: Amplia duración de la batería de 180 horas gracias a la tecnología inalámbrica Quantum 2.0 sin demoras con 2,4 GHz para juegos y Bluetooth 5.0
 - ULTRA LIGERO: La carcasa perforada diseñada específicamente reduce el peso a 89 g para un juego rápido y sin esfuerzo.
+- RENDIMIENTO PARA DURAR MÁS: Amplia duración de la batería de 180 horas gracias a la tecnología inalámbrica Quantum 2.0 sin demoras con 2,4 GHz para juegos y Bluetooth 5.0
+- AQUABARRIER: Los interiores del mouse están protegidos contra salpicaduras de agua, polvo y suciedad, tecnología con clasificación IP54
+- 18 BOTONES PROGRAMABLES: Ejecute las rotaciones más difíciles y acceda instantáneamente a muchos atajos con un panel lateral de 12 botones
+- IMPRESIONANTE RGB: PrismSync RGB radiante de 3 zonas brilla en 16,8 millones de colores configurables
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09W18L7WJ{{</world>}}

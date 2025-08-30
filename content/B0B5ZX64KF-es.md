@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hecho de material respetuoso con el medio ambiente
-- Seguro y no tóxico para jugar
-- Una gran opción como regalo para niños
 - Se puede mostrar en tu casa o coche como decoración
+- Seguro y no tóxico para jugar
+- Hecho de material respetuoso con el medio ambiente
+- Una gran opción como regalo para niños
 - Hermoso y elegante, el juguete de vinilo más popular
 
 [🛒 Comprar!!!]({{< param buyurl >}})

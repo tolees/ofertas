@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte ajustado
 - Ofrece libertad de movimiento
+- Corte ajustado
 - Cintura elástica de talle alto
 - Tela transpirable
 

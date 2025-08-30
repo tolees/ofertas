@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cinturilla ajustada
 - High waist
+- Cinturilla ajustada
 - Ajustado desde el muslo hasta el bajo
 - El Jean Lynn Mid súper skinny se ajusta alrededor del cuerpo y presenta una construcción clásica de 5 bolsillos con bucles de cinturón transversal en la parte posterior.
 - La cintura se envuelve para eliminar la brecha y completar este ajuste súper flaco.

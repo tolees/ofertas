@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Materiales de alto rendimiento
-- - Un juego de 6 tarjetas de arte
 - Productos y accesorios diseñados para satisfacer todas las necesidades
 - Cada juego viene con artículos de coleccionista exclusivos:
+- - Un juego de 6 tarjetas de arte
+- Materiales de alto rendimiento
 - - Dos bandas sonoras digitales
 
 [🛒 Visítala!!!]({{< param buyurl >}})

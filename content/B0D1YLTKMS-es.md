@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Parte superior textil
-- Ancho normal
 - Cierre de cordones
+- Ancho normal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D1YLTKMS{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Entresuela ligera Techlite para una amortiguación superior de larga duración y alto retorno de energía
-- Nota: los cordones y cremalleras incorporados en el calzado Columbia Sportswear Company no son impermeables.
-- Forro reflectante Omni-Heat
-- Combinación superior de malla impermeable/cuero. Construcción de botines de membrana Omni-Tech impermeable y transpirable con costuras selladas
 - Goma de tracción Omni-Grip que no deja marcas
+- Forro reflectante Omni-Heat
+- Nota: los cordones y cremalleras incorporados en el calzado Columbia Sportswear Company no son impermeables.
+- Entresuela ligera Techlite para una amortiguación superior de larga duración y alto retorno de energía
+- Combinación superior de malla impermeable/cuero. Construcción de botines de membrana Omni-Tech impermeable y transpirable con costuras selladas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CN3THM5Q{{</world>}}

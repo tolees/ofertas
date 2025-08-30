@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Forma del talón: plano
 - Material interior: sintético
+- Forma del talón: plano
 - Material superior: poliuretano (PU)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

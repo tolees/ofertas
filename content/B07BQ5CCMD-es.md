@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MULTIFUNCIÓN: Cuenta con un diseño elegante y sencillo que combinará con cualquier estilo de cocina. Es una representación de la elegancia y calidad propia de Arcos. Incluye el cortacápsulas para un corte elegante y parejo de la cápsula ubicada en el cuello de la botella.
-- ACABADOS DE CALIDAD: Ha sido fabricado con materiales resistentes y duraderos, como el plástico ABS y una aleación de zinc + elastómero. Materiales que le confieren resistencia y durabilidad.
 - ARCOS: Una empresa familiar con un legado artesanal que se remonta a 1734. Casi tres siglos de investigación y mejora continua de nuestros productos hacen de ARCOS un referente internacional en el sector de la cuchillería. Desde Albacete, España, producimos cada año 11.000.000 de cuchillos que combinan conocimiento, diseño e innovación para alcanzar los más altos estándares de calidad.
+- ACABADOS DE CALIDAD: Ha sido fabricado con materiales resistentes y duraderos, como el plástico ABS y una aleación de zinc + elastómero. Materiales que le confieren resistencia y durabilidad.
 - DISEÑO ERGONÓMICO: Tiene un sistema de agarre antiadherente que facilita el proceso de manipulación del sacacorchos y evita que tu mano se resbale. Asimismo, su mango de elastómero se adapta perfectamente a la palma de su mano.
 - El sacacorchos manual de ABS y aleación de zinc + elastómero es un accesorio muy eficiente para destapar botellas de vino. La sencilla tarea de sacar un corcho puede ser una labor engorrosa sin la herramienta adecuada. Con este sacacorchos manual podrás completar la tarea de manera rápida y sencilla.
+- MULTIFUNCIÓN: Cuenta con un diseño elegante y sencillo que combinará con cualquier estilo de cocina. Es una representación de la elegancia y calidad propia de Arcos. Incluye el cortacápsulas para un corte elegante y parejo de la cápsula ubicada en el cuello de la botella.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07BQ5CCMD{{</world>}}

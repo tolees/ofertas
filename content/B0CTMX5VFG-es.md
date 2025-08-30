@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste regular
 - Suela de goma con look retro.
+- Ajuste regular
 - Marca en el talón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

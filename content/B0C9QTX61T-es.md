@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cuello redondo y estampado floral en la parte delantera
-- Camiseta de manga corta de algodón puro
 - Prenda cómoda
+- Camiseta de manga corta de algodón puro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C9QTX61T{{</world>}}

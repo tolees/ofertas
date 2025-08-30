@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Artículo anual 2021
-- El regalo perfecto
 - Porcelana de calidad de la marca Hutschenreuther
+- El regalo perfecto
 - Colección Coleccionable 2021 "Regalos de Navidad"
 - Diseño: Renáta
 

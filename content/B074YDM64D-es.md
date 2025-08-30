@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Apertura máxima: 40 mm.
-- Realizadas en acero al cromo-vanadio, aportandole mayor resistencia y duración.
 - Longitud: 200 mm.
+- Realizadas en acero al cromo-vanadio, aportandole mayor resistencia y duración.
 - Perfecto rectificado, ajuste suave y sin holguras.
+- Apertura máxima: 40 mm.
 - Mango en doble "t" aportandole robustez, resistencia y ergonomía.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

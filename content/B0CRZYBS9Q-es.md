@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Manga larga y puños acanalados
-- Bolsillos de solapa y bolsillos laterales con cierre a presión oculto
 - Cintura ajustable con cordón en el interior
 - Cuello alzado
 - Cierre de cremallera oculto con botones a presión
+- Bolsillos de solapa y bolsillos laterales con cierre a presión oculto
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CRZYBS9Q{{</world>}}

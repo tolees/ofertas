@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Motor X-Boost de alta potencia para una rápida apliación
 - Succión directa al recipiente
-- Función de auto-limpieza
 - Rendimiento:15m² en 5 minutos
+- Función de auto-limpieza
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01ABLFGQK{{</world>}}

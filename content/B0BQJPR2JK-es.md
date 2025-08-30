@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela exterior de goma
-- Paneles de piel de terciopelo
-- Sneakers L001 hombre de cuero recubierto
-- Cocodrilo en relieve en el lado
 - Parte superior de cuero
+- Paneles de piel de terciopelo
+- Cocodrilo en relieve en el lado
+- Suela exterior de goma
 - Forro textil y suela Ortholite
+- Sneakers L001 hombre de cuero recubierto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BQJPR2JK{{</world>}}

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Con Levis Sculpt Hyperstretch: el tejido definitivo para sujetar y realzar la figura que no se estira, así que no te preocupes de acabar con un ajuste holgado al final del día
-- Este producto es original Levis
 - Con Levis Sculpt Hyperstretch: el tejido definitivo para sujetar y realzar la figura que no se estira, así que no te preocupes de acabar con un ajuste holgado al final del día
+- Este producto es original Levis
 - Confeccionado con 15 % de algodón orgánico
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cobertura líquida de larga duración
-- Libre de aceites, adecuado para todo tipo de pieles
 - No comedogénico; no obstruye los poros
 - Fórmula a prueba de roces, no mancha ni se transfiere
+- Cobertura líquida de larga duración
+- Libre de aceites, adecuado para todo tipo de pieles
 - Cobertura alta, acabado luminoso y natural
 
 [🛒 Aquí!!!]({{< param buyurl >}})

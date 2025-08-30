@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tipo de tacón: Plano
 - Composición: Textil
+- Tipo de tacón: Plano
 - Tipo de talla: Talla estándar
 - Anchura del zapato: Normal
 - Cierre: Cordones

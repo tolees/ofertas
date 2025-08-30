@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Puños elásticos
 - Pantalón cargo niño
+- Puños elásticos
 - Bolsillos funcionales para almacenamiento
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sensación fresca, suave y transpirable
 - Ajuste ceñido
-- Cuello redondo
 - BRAAEROREADY
+- Cuello redondo
 - 89 % poliéster reciclado, 11 % elastano entrelazado
 - Espalda cruzada con tirantes
+- Sensación fresca, suave y transpirable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C4YP8WSJ{{</world>}}

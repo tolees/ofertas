@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Chaqueta lisa
 - Capucha con cordón ajustable en la espalda
+- Chaqueta lisa
 - Composición del material: material exterior: 92% poliéster, 8% nailon; forro: 100% poliéster
 - Cierre delantero
 

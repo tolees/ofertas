@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Proporciona un buen contraste
-- Se puede ajustar de manera circular
 - Filtro polarizador que filtra reflexiones en vidrio y en agua
+- Se puede ajustar de manera circular
+- Proporciona un buen contraste
 - Aumenta la saturación del color
 - Incluye una caja de plástico con incrustación de espuma
 

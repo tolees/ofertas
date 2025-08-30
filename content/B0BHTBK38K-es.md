@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Monitor de visualización
 - Tamaño: 27"
+- Monitor de visualización
 - Pantalla para gamers
 
 [🛒 Aquí!!!]({{< param buyurl >}})

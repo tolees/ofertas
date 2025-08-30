@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto sin gluten apto para celíacos. Puede contener trazas de leche.
 - Divertidos gusanos de goma con dos cabezas y delicioso sabor a fresa.
-- Formato: bolsa de 1 kg. Cada bolsa contiene 175 unidades.
 - La siguiente información se aplica a cada unidad del paquete
+- Formato: bolsa de 1 kg. Cada bolsa contiene 175 unidades.
+- Producto sin gluten apto para celíacos. Puede contener trazas de leche.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DKTK6ZYK{{</world>}}

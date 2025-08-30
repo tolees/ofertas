@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela exterior de goma muy resistente al desgaste
-- Entresuela resistente de goma
-- Parte en piel
 - Sensación suave
+- Entresuela resistente de goma
+- Suela exterior de goma muy resistente al desgaste
+- Parte en piel
 - La parte de piel lisa es resistente y duradera
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Camiseta de tejido elástico liso
-- Lavar a máquina
-- Tamaño normal
 - Manga corta
+- Lavar a máquina
+- Camiseta de tejido elástico liso
 - Cierre: no disponible
+- Tamaño normal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07JP9C8C8{{</world>}}

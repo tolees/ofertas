@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tecnología transpirable AEROREADY
-- Corte entallado
 - Punto doble 100% poliéster reciclado
+- Corte entallado
 - Cremallera hasta el pecho y cuello alzado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

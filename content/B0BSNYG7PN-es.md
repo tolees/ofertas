@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con cereales integrales: reconocido por su contenido en fibra, vitaminas y minerales
-- Cereales de cultivo sostenible especializado para bebés
-- Ricas en Hierro: cada ración de cereales Nestlé (preparada con Nidina 2) aporta el 50% de hierro diario ayudando a su desarrollo cognitivo normal
 - Con 8 vitaminas y 4 minerales
+- Cereales de cultivo sostenible especializado para bebés
+- Con cereales integrales: reconocido por su contenido en fibra, vitaminas y minerales
+- Ricas en Hierro: cada ración de cereales Nestlé (preparada con Nidina 2) aporta el 50% de hierro diario ayudando a su desarrollo cognitivo normal
 - 0% azúcares añadidos: contiene los naturalmente presentes
 
 [🛒 Visítala!!!]({{< param buyurl >}})

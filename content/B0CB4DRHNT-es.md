@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Detalle de costura en cuello
 - Acabado doble pespunte en mangas y bajo
+- Detalle de costura en cuello
 - Logo Pepe Jeans estampado en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})

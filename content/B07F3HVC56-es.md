@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Material Caja: Acero, Color: Dorado
-- Tamaño: 40MM
 - Movimiento: Cuarzo, Display: Analógico
 - GUESS WATCHES LADIES FRONTIER
+- Tamaño: 40MM
 - Material Correa: Acero, Color: Dorado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- EFECTO LIFTING: Restaura la tensión cutánea de la piel. Con ceramidas que ayudan a mantener la hidratación durante 24h y restaurar la barrera lipídica cutánea. Nutrición y confort. La flor de Edelweiss actúa aportando densidad y elasticidad a la piel.
-- MODO DE USO: Aplicar una pequeña cantidad sobre rostro, cuello y escote con la piel limpia o después del serum, realizando un suave masaje hasta su completa absorción.
 - TODO TIPO DE PIEL: Tratamiento reafirmante que completa el tratamiento anti-edad facial. Para pieles preocupadas por la firmeza. Aumenta la firmeza, mejora su flexibilidad y suavidad. Eleva las mejillas y suaviza las arrugas y líneas de expresión
+- MODO DE USO: Aplicar una pequeña cantidad sobre rostro, cuello y escote con la piel limpia o después del serum, realizando un suave masaje hasta su completa absorción.
 - A PARTIR DE 60 AÑOS: Ideal para mujeres de +60 años cuyas principales preocupaciones son: piel deshidratada, perdida de densidad y volumen. Tono de piel apagado e hipopigmentaciones. Arrugas profundas. Apto para todo tipo de piel.
+- EFECTO LIFTING: Restaura la tensión cutánea de la piel. Con ceramidas que ayudan a mantener la hidratación durante 24h y restaurar la barrera lipídica cutánea. Nutrición y confort. La flor de Edelweiss actúa aportando densidad y elasticidad a la piel.
 - TEXTURA: Fundente con cuerpo y tacto aterciopelado con tono coral suave y fragancia con notas frutales con frambuesa, combinada con matices verdes y tropicales aportando sofisticación y feminidad.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

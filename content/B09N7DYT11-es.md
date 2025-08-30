@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Cierre: goma
 - Forma del talón: plano
-- Material exterior: sintético
 - Talla del zapato: Medium
+- Material exterior: sintético
 - Material interior: sintético
 - Forro: cuero y textil
 

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Un moderno delgado con espacio para moverse
-- Diseño tradicional de 5 bolsillos
 - Un básico limpio y delgado en el armario que es una óptima alternativa a los jeans ajustados
+- Diseño tradicional de 5 bolsillos
+- Un moderno delgado con espacio para moverse
 - Mezclilla clásico impregnada con elástico para comodidad durante todo el día
 
 [🛒 Aquí!!!]({{< param buyurl >}})

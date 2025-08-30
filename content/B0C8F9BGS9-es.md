@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Forro de malla
 - Cintura elástica con cordón
 - Bolsillos con abertura
-- Forro de malla
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C8F9BGS9{{</world>}}

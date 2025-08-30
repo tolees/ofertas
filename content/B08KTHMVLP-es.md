@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - ILUMINACIÓN RGB - Efectos colores rueda y estructura ratón se pueden determinar utilizando modalidades preestablecidas en la rueda del ratón (on-the-fly) o mediante el software MasterPlus + (solo PC) personalización avanzada incluye macros y perfiles
 - EXCELENTE PRECISIÓN- Sensor óptico PixArt PMW3389 de 16000DPI (7 configuraciones sensibilidad) mínimo lag y tracking superior (400 IPS, 1000 Hz, <2 mm Lift Off, 50g de aceleración) con ajuste adicional de la superficie-alfombrilla a través de MasterPlus +
 - ULTRADESLIZANTE Y ALTAMENTE SENSIBLE - Emplea pies de PTFE de suave deslizamiento (estándar élite superficies de baja fricción) y se conecta a PC/Mac a través de un cable trenzado USB-A Ultraweave 1,8 m (sin-arrastre, super flexible) - 2 años de garantía
-- BOTONES L/R DE 70 MILLONES DE CLIC - El MM720 sobrepasa el MM710 con una estructura interna superior (sin botones sueltos) y conmutadores ópticos 70 millones de clics fabricados para ser resistentes (cuenta con resistencia IP58 al polvo y al agua)
 - EL MASTER CLAW- Cooler Master MM720 posee las características de diseño premiadas de los anteriormente populares MM710 y Spawn en el más reciente mouse para juegos profesional, liviano (49 gramos) y ergonómico con sujeción tipo garra (usuarios diestros)
+- BOTONES L/R DE 70 MILLONES DE CLIC - El MM720 sobrepasa el MM710 con una estructura interna superior (sin botones sueltos) y conmutadores ópticos 70 millones de clics fabricados para ser resistentes (cuenta con resistencia IP58 al polvo y al agua)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08KTHMVLP{{</world>}}

@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - MINIJUEGOS Y DESAFÍOS MUSICALES: Compite en minijuegos basados en el ritmo y resuelve divertidos y desafiantes puzles ambientales para desbloquear objetos especiales o nuevas habilidades.
-- JUEGA COMO LOS TROLLS: Elige entre tus Trolls favoritos, como Poppy, Branch, Guy Diamond y muchos más, y explora y viaja por el Reino de los Trolls para salvarlo.
-- MUÉVETE AL RITMO DE LOS TROLLS: La banda sonora del juego incluye música de la franquicia cinematográfica Trolls de DreamWorks Animation
-- EL PELO NO ES SOLO PARA LUCIR: Haz HairJitsu para azotar con tu pelo a los enemigos, gira tu pelo para flotar como un helicóptero y usa tu pelo para agarrar, transportar, empujar, tirar, lanzar y aplastar objetos a lo largo de tu misión.
 - CREA Y JUEGA COMO TU PROPIO PERSONAJE TROLL estilizado con diferentes peinados, rasgos faciales, atuendos y mucho más, ¡con miles de posibilidades de combinación!
+- EL PELO NO ES SOLO PARA LUCIR: Haz HairJitsu para azotar con tu pelo a los enemigos, gira tu pelo para flotar como un helicóptero y usa tu pelo para agarrar, transportar, empujar, tirar, lanzar y aplastar objetos a lo largo de tu misión.
+- MUÉVETE AL RITMO DE LOS TROLLS: La banda sonora del juego incluye música de la franquicia cinematográfica Trolls de DreamWorks Animation
+- JUEGA COMO LOS TROLLS: Elige entre tus Trolls favoritos, como Poppy, Branch, Guy Diamond y muchos más, y explora y viaja por el Reino de los Trolls para salvarlo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CCVRLN6R{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Juguete coleccionable
 - Producto de calidad
 - Figura d semental árabe
+- Juguete coleccionable
 - Estimulan tu imaginación
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,14 +29,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Base antideslizante
-- Corta en segundos de grueso a fino, verduras y frutos secos
-- Ecológico: no requiere electricidad
-- Diseño atractivo y compacto, ocupa la mitad de espacio que un cortaverduras tradicional
-- Cuchillas de alta calidad en acero inoxidable. Apto para lavavajillas (excepto tapa superior)
-- Corta en segundos de grueso a fino frutas, verduras y frutos secos
-- Sus cuchillas móviles permiten un corte continuo sin atascarse
-- Fácil y cómodo de usar gracias a su sistema de arrastre giratorio, con cuchillas móviles que permiten un corte continuo sin atascarse
 - Recipiente 13 cm de diámetro
+- Ecológico: no requiere electricidad
+- Corta en segundos de grueso a fino frutas, verduras y frutos secos
+- Fácil y cómodo de usar gracias a su sistema de arrastre giratorio, con cuchillas móviles que permiten un corte continuo sin atascarse
+- Corta en segundos de grueso a fino, verduras y frutos secos
+- Sus cuchillas móviles permiten un corte continuo sin atascarse
+- Cuchillas de alta calidad en acero inoxidable. Apto para lavavajillas (excepto tapa superior)
+- Diseño atractivo y compacto, ocupa la mitad de espacio que un cortaverduras tradicional
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00BWYUAHQ{{</world>}}

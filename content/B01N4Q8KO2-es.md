@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estuche incluido
 - Carrera de la Mujer
+- Estuche incluido
 - Los lentes recetados hijo listo (RX-Poder)
 
 [🛒 Visítala!!!]({{< param buyurl >}})

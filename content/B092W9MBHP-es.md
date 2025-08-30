@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Compatibilidad universal: Se adapta a la mayoría de teclados mecánicos a 60 %, 65%, 75%, tenkeyless, 96% y tamaño completo que empleen switches mecánicos de tipo MX de Glorious u otros fabricantes. Disponible en distribución de EE. UU. (ANSI) o internacional (ISO). Ojo: la distribución puede variar de las imágenes de producto.
 - Diseño preciosista: Su diseño clásico con perfil Cherry, etiquetas personalizadas nítidas y su amplia selección de opciones de color atrevidas hacen de las keycaps GPBT un complemento llamativo para cualquier configuración.
 - Etiquetas personalizadas nítidas: Un proceso especial de sublimación garantiza que todas las letras, números y símbolos de las keycaps sean nítidos, uniformes y resistentes a la decoloración. Nuestra fuente patentada ofrece una mayor legibilidad y un toque de sofisticación madura. Ojo: las etiquetas son sólidas y no traspasan la iluminación RGB.
-- Material PBT denso: Cada keycap está hecha de material PBT denso y duradero. Esto proporciona un sonido de tecleo profundo y completo, así como una sutil textura superficial que mantiene el lustre con el paso del tiempo mejor que los sets de ABS.
 - Perfil Cherry: Cada keycap está moldeada con el clásico perfil Cherry para ofrecer la máxima comodidad ergonómica y un aspecto atemporal. La comedida fabricación de todas las keycaps asegura que los bordes estén definidos y que no haya deformaciones en las teclas más largas.
-- Compatibilidad universal: Se adapta a la mayoría de teclados mecánicos a 60 %, 65%, 75%, tenkeyless, 96% y tamaño completo que empleen switches mecánicos de tipo MX de Glorious u otros fabricantes. Disponible en distribución de EE. UU. (ANSI) o internacional (ISO). Ojo: la distribución puede variar de las imágenes de producto.
+- Material PBT denso: Cada keycap está hecha de material PBT denso y duradero. Esto proporciona un sonido de tecleo profundo y completo, así como una sutil textura superficial que mantiene el lustre con el paso del tiempo mejor que los sets de ABS.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B092W9MBHP{{</world>}}

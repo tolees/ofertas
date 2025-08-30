@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Áreas de aplicación: paisaje, viaje, naturaleza, luz baja y retratos; equivalente a un 50 mm en un sistema de 35 mm
 - Contenido de la caja: Objetivo, tapa del objetivo LC-62F, tapa trasera del objetivo LR-2, capucha del objetivo LH-66B, bolsa del objetivo LSC-0811, manual de instrucciones
+- Áreas de aplicación: paisaje, viaje, naturaleza, luz baja y retratos; equivalente a un 50 mm en un sistema de 35 mm
 - Los límites de acercamiento de aprox. 0.25 m proporcionan posibilidades de disparo desde cualquier ángulo
 - Control total sobre la profundidad de campo y las condiciones de iluminación gracias al objetivo rápida con una gran apertura F1.2
 - Calidad de imagen óptima, a pesar de un diseño compacto con imágenes nítidas hasta los bordes de la imagen

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Amortiguación ligera y resistente
 - Entresuela de Phylon
 - Banda de rodadura natural
+- Amortiguación ligera y resistente
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B6FYQWV9{{</world>}}

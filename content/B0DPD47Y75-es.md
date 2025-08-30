@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ancho estándar
 - Detalles de perforación y correas laterales con los colores de la firma BMW
+- Ancho estándar
 - Empeine de material sintético
 - Suela de goma
 - Con cordones

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bolsillo canguro
 - Capucha con cordón
-- Tejido suave y cálido
 - Ajuste regular
+- Bolsillo canguro
+- Tejido suave y cálido
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08T9WJN47{{</world>}}

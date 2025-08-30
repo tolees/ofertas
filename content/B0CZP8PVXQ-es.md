@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Contiene al menos un 70% de material reciclado y renovable
-- Puños y dobladillo de canalé
 - Corte holgado
-- Bolsillo canguro
-- 55% algodón / 36% poliéster (reciclado) / 9% viscosa
 - Capucha con cordón ajustable
+- Puños y dobladillo de canalé
+- Bolsillo canguro
+- Contiene al menos un 70% de material reciclado y renovable
+- 55% algodón / 36% poliéster (reciclado) / 9% viscosa
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CZP8PVXQ{{</world>}}

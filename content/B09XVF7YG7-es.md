@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- MÚSICA Y SONIDOS: Las melodías clásicas y de la Nueva Era y los sonidos de la naturaleza contribuyen al descanso del niño o la niña; programa un ciclo de música de 15 o 45 minutos
-- 3 CONFIGURACIONES EVOLUTIVAS: Para acompañar a los niños y niñas en su crecimiento, este juguete se convierte en: 1; móvil de cuna 2; proyector mesilla de noche 3; móvil mesilla de noche
 - MANDO A DISTANCIA: Podrás personalizar y combinar las funciones de proyección para combinar la luz con la rotación de los 4 peluches colgantes y las melodías relajantes; los peluches son extraíbles y lavables
 - CARRUSEL EVOLUTIVO: Un móvil de cuna para acompañar al bebé durante el sueño; gracias a sus 3 configuraciones evolutivas, irá creciendo a su ritmo: carrusel para la cuna, para la mesita de noche y proyector
-- ESTÁTICO O ARCO IRIS: Llena la habitación de magia y colores del arco iris; proyecta todo el arco iris con música clásica o un rayo de color acompañado de sonidos de la naturaleza y melodías de Nueva Era
 - 2 MODOS DE PROYECCIÓN: Con el mando podrás configurar la proyección en estático con melodías clásicas o el arcoiris en movimiento, junto con los sonidos de la naturaleza. ¡Tú eliges qué poner!
+- ESTÁTICO O ARCO IRIS: Llena la habitación de magia y colores del arco iris; proyecta todo el arco iris con música clásica o un rayo de color acompañado de sonidos de la naturaleza y melodías de Nueva Era
+- MÚSICA Y SONIDOS: Las melodías clásicas y de la Nueva Era y los sonidos de la naturaleza contribuyen al descanso del niño o la niña; programa un ciclo de música de 15 o 45 minutos
+- 3 CONFIGURACIONES EVOLUTIVAS: Para acompañar a los niños y niñas en su crecimiento, este juguete se convierte en: 1; móvil de cuna 2; proyector mesilla de noche 3; móvil mesilla de noche
 - COMPATIBILIDAD: Gracias a su enganche modular (abertura máx. 38 mm) y soporte, es compatible con todas las cunas Next2Me de Chicco y la mayoría de cunas de madera, colecho y moisés del mercado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

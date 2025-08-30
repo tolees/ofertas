@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Función de aislamiento para bebidas frías y calientes
-- se puede lavar en lavavajillas
 - Tipo de fuente de alimentación de accionamiento manual
 - Qué componentes se incluyen en el contenido del producto: 2 piezas
+- se puede lavar en lavavajillas
 - gafas térmicas de doble pared
 
 [🛒 Visítala!!!]({{< param buyurl >}})

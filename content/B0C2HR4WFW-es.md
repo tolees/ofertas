@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Manga larga
 - Comodidad
+- Manga larga
 - Logotipo de la marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})

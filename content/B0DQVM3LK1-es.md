@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- De tipo cruzada, con cinturón para un mayor y mejor ajuste
 - Colección "Bridal"
+- De tipo cruzada, con cinturón para un mayor y mejor ajuste
 - Bata midi, de manga larga, confeccionada con tejido de satén y detalles de encaje floral en hombros y puños
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

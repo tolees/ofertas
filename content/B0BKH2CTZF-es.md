@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Chino de ajuste regular
-- Etiqueta de la marca en el bolsillo trasero derecho
 - Hecho de sarga suave
+- Etiqueta de la marca en el bolsillo trasero derecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BKH2CTZF{{</world>}}

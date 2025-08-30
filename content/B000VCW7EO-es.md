@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Un perfume para mujeres
 - Fragancia del diseñador House of Estee Lauder
 - Botella de 75 ml»
 - Las notas superiores son rosa, mandarín, lirio, nardo y caléndula
 - El aroma de mil flores
-- Un perfume para mujeres
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B000VCW7EO{{</world>}}

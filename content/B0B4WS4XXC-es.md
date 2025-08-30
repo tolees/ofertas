@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Mantener alejado de fuentes de calor extremo y de objetos punzantes.
 - Mini portatodo redondo realizado en silicona
 - Cuidados: no exponer largo tiempo al sol para evitar que los colores pierdan intensidad
-- mensaje y cierre de cremallera.
 - Limpiar frotando suavemente con un paño húmedo.
+- mensaje y cierre de cremallera.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B4WS4XXC{{</world>}}

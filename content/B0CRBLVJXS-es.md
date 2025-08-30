@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Better Leather,Better Outsoles,Lifetime Guarantee
 - Suela: 45% caucho vulcanizado - 38% EVA - 17% caucho natural
-- Material exterior: 100% piel de vacuno
 - Forro: 61% Tela (100% Poliamida) - 35% Tela (100% Poliéster Reciclado) - 4% Cuero Vaca
+- Material exterior: 100% piel de vacuno
 - Color: verde oscuro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

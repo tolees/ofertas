@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Incluye 1 hoja de pegatinas.
-- Cuenta con 200 páginas.
 - Libreta de tamaño A5 con encuadernación cosida, con apertura de 180º.
+- Cuenta con 200 páginas.
 - Libreta Mr.Wonderful - Mister
 
 [🛒 Comprar!!!]({{< param buyurl >}})

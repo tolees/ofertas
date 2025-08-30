@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 0.24 kg
-- 100% Poliamida
-- 21 Alto x 25 Ancho x 3 Fondo cm
-- Hidrófugo
 - Bolso Pequeño en Bandolera
+- 100% Poliamida
+- Hidrófugo
+- 21 Alto x 25 Ancho x 3 Fondo cm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B083YCWH65{{</world>}}

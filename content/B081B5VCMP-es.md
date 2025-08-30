@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Columbia CSC basic camiseta estampada de manga corta
-- Talla: M
 - Color: black
+- Talla: M
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B081B5VCMP{{</world>}}

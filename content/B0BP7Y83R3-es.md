@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logotipo de adidas
 - Calcetines elásticos
+- Logotipo de adidas
 - Paquete de dos pares
 
 [🛒 Aquí!!!]({{< param buyurl >}})

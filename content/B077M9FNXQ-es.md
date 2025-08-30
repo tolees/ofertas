@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Zapatillas PUMA Smash
 - Inspiradas en el tenis Comodidad elegante para el uso diario
 - Exterior de cuero suave
+- Zapatillas PUMA Smash
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B077M9FNXQ{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Skechers Detalle del logotipo
 - Exclusiva almohada para el talón
+- Skechers Detalle del logotipo
 - Skechers Manos libres para un ajuste fácil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

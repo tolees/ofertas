@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Regular fit
 - Elastic waistband with lanyard
 - Soft fabric
+- Regular fit
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07NJNKHKK{{</world>}}

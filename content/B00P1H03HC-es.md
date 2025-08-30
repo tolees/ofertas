@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Analógico para Hombre
 - 15 milimetros calendario Fecha y mes Hebilla
+- Analógico para Hombre
 - Wristwatch Modelo AVI-8 AV-4065-01 Hawker Harrier Chronograph 45mm 5ATM
 
 [🛒 Aquí!!!]({{< param buyurl >}})

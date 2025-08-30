@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ultra clean view: analiza el contenido para ofrecer imágenes de mayor calidad con menos distorsión.
-- HDR: mayor nivel de detalle con un amplio rando de iluminación que mejora el espectro de colores y detalles.
 - Smart TV: amplia plataforma de contenidos con apps como Netflix, HBO, Dazn, entre otras muchas.
 - Purcolor: escenas con colores naturales y mayor nivel de nitidez para una experiencia visual llena de color.
 - Micro dimming pro: tecnología capaz de dividir la pantalla por zonas y analizar cada una de ellas para mostrar negros más profundos y blancos más puros.
+- Ultra clean view: analiza el contenido para ofrecer imágenes de mayor calidad con menos distorsión.
+- HDR: mayor nivel de detalle con un amplio rando de iluminación que mejora el espectro de colores y detalles.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BTPL2FLR{{</world>}}

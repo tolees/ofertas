@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Dos bolsillos laterales y un bolsillo para monedas con ribetes anchos
+- Corte regular con piernas delgadas
 - Cremallera con botón de logotipo
 - Cintura con trabillas anchas
-- Corte regular con piernas delgadas
 - Vaqueros de cintura media
 
 [🛒 Comprar!!!]({{< param buyurl >}})

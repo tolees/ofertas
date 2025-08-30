@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Talla del anillo: 12
 - El producto no se entrega en caja. La caja se vende por separado.
-- Anillo Deseo Brillante marca Pandora
 - Fabricado en plata de ley
+- Anillo Deseo Brillante marca Pandora
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B074ZPDPQV{{</world>}}

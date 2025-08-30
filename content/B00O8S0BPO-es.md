@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Desmontable y extraíble para una mayor comodidad y almacenaje
-- De color crema, las medidas de la pieza son: 26x22x18 cm
-- Soporte Intex para depositar refrescos o vasos mientras te relajas en el Spa Intex
 - Lleva una bandeja de plástico y 2 portavasos
+- Desmontable y extraíble para una mayor comodidad y almacenaje
+- Soporte Intex para depositar refrescos o vasos mientras te relajas en el Spa Intex
+- De color crema, las medidas de la pieza son: 26x22x18 cm
 - El soporte Intex está diseñado para fijarlo en la pared del Spa
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

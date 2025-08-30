@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello escotado
-- Franja característica PUMA en los lados lateral y medial
-- Parte superior ricamente construida con materiales reciclados.
 - Entresuela y suela de goma
+- Franja característica PUMA en los lados lateral y medial
+- Cuello escotado
+- Parte superior ricamente construida con materiales reciclados.
 - Marca PUMA impresa en la lengüeta y el talón.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

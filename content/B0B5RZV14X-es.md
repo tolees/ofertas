@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Nos asociamos con la iniciativa Better Cotton para un cultivo sostenible del algodón
 - Diesel Los jeans tienen un aspecto sorprendente capaz de mejorar la contención y apoyar las formas
-- Resalta la vida conteniéndola
 - Un corte clásico y versátil de cintura alta
+- Nos asociamos con la iniciativa Better Cotton para un cultivo sostenible del algodón
+- Resalta la vida conteniéndola
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B5RZV14X{{</world>}}
