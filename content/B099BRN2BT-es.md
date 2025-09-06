@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Modo multijugador relajado y familiar para 1-16 jugadores
-- Cadenas de producción agregan una nueva capa económica.
 - Ciclos estacionales agregan nuevas mecánicas de juego.
 - Más de 400 máquinas, nuevas categorías, de más de 100 marcas agrícolas.
+- Cadenas de producción agregan una nueva capa económica.
 - Nuevos cultivos y maquinaria: uva, olivo y sorgo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

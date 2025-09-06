@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Revestimiento de fluor
-- Revestimiento de arneo
 - Zoom 24-200 mm
 - Optimo para videos
+- Revestimiento de fluor
+- Revestimiento de arneo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B084PVXX73{{</world>}}

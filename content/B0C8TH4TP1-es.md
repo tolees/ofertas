@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Punta de goma
-- Entresuela de espuma
 - Cordones elásticos
+- Entresuela de espuma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C8TH4TP1{{</world>}}

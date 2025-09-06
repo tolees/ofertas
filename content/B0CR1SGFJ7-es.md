@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Short con bolsillos en la parte delantera y trasera, con cierre de botón y cremallera, con detalle de flores bordadas en los bolsillos, con pernera con bajo deshilachado
-- con cierre de botón y cremallera
 - con estampado gráfico posicional de dibujo y texto en el delantero con relieve
+- con cierre de botón y cremallera
+- Short con bolsillos en la parte delantera y trasera, con cierre de botón y cremallera, con detalle de flores bordadas en los bolsillos, con pernera con bajo deshilachado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CR1SGFJ7{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estilo versátil que llega hasta mitad del muslo
 - Este producto es original Levis
+- Estilo versátil que llega hasta mitad del muslo
 - Corte recto de inspiración vintage
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fácil instalación: se incluyen los tornillos y tacos necesarios para el montaje. Smartwares recomienda instalar al menos un detector por estante, cerca de habitaciones y pasillos. Cuenta con un alcance de 40 m². Calcula el número de detectores de humo necesarios según la superficie de la que dispongas.
-- Inalámbrico: este detector de humo dispone de una pila 6F22 con una duración de 1 año. Puedes reemplazarla fácilmente y el detector no podrá instalarse en su base hasta que se inserte una batería.
-- Vida útil de 10 años: el sensor del detector tiene una vida útil de 10 años. Para no olvidar la fecha de caducición, insértala en tu calendario. También recomendamos limpiar tu dispositivo regularmente para evitar cualquier depósito de polvo que pueda afectar su correcto funcionamiento.
-- Botón de prueba y modo silencioso: recomendamos probar tu aparato inmediatamente después de su instalación para comprobar que funciona bien. Renueva la prueba al menos una vez al mes. También es posible colocar el dispositivo en modo silencioso cuando se activa. Tienes varios minutos para eliminar la fuente de humo antes de que vuelva a modo normal.
 - Sensor fotoeléctrico: el sensor fotoeléctrico del detector de humo Smartwares FSM-11410 garantiza una protección óptima. Detecta en efecto las salidas de incendios y los fuegos cubrientes. Su sirena de 85 dB te avisará en caso de peligro y será audible incluso cuando duermas.
+- Vida útil de 10 años: el sensor del detector tiene una vida útil de 10 años. Para no olvidar la fecha de caducición, insértala en tu calendario. También recomendamos limpiar tu dispositivo regularmente para evitar cualquier depósito de polvo que pueda afectar su correcto funcionamiento.
+- Inalámbrico: este detector de humo dispone de una pila 6F22 con una duración de 1 año. Puedes reemplazarla fácilmente y el detector no podrá instalarse en su base hasta que se inserte una batería.
+- Fácil instalación: se incluyen los tornillos y tacos necesarios para el montaje. Smartwares recomienda instalar al menos un detector por estante, cerca de habitaciones y pasillos. Cuenta con un alcance de 40 m². Calcula el número de detectores de humo necesarios según la superficie de la que dispongas.
+- Botón de prueba y modo silencioso: recomendamos probar tu aparato inmediatamente después de su instalación para comprobar que funciona bien. Renueva la prueba al menos una vez al mes. También es posible colocar el dispositivo en modo silencioso cuando se activa. Tienes varios minutos para eliminar la fuente de humo antes de que vuelva a modo normal.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09J19FFFK{{</world>}}

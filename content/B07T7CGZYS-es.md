@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Contenido: 1x Columbia Unisex Drawstring Pack Riñonera, Color: Black, Talla: O/S, Art. No.: 1890941
-- Volumen interior de 4,66 litros, Dimensiones en pulgadas de 17,7 x 13,4 x 1,2 y en centímetros de 45 x 34 x 3
 - Mochila de fácil transporte con cierre de cordón, Para llevar sobre el hombro o para llevar las correas a mano
 - Material duradero gracias al tejido de nylon 100% con revestimiento de poliuretano
 - Símbolo de Columbia como inspiración a la aventura
+- Contenido: 1x Columbia Unisex Drawstring Pack Riñonera, Color: Black, Talla: O/S, Art. No.: 1890941
+- Volumen interior de 4,66 litros, Dimensiones en pulgadas de 17,7 x 13,4 x 1,2 y en centímetros de 45 x 34 x 3
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07T7CGZYS{{</world>}}

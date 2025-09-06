@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Este producto es original Levis
-- Dispone de 5 bolsillos
 - Cuenta con un diseño ligero
+- Dispone de 5 bolsillos
+- Este producto es original Levis
 - Ofrece comodidad y libertad de movimiento
 
 [🛒 Comprar!!!]({{< param buyurl >}})

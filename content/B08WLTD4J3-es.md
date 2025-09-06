@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cada año los mejores magos y magas rivalizan para ver quién hace el elixir más potente durante el «Festival de magia y hechicería»; ¿Quieres ser tú el ganador este año?
 - El objetivo del juego es intercambiar y mezclar inteligentemente suficientes elixires para sumar 8 puntos
 - Habilidades que desarrolla: agilidad mental, pensamiento estratégico, juego en grupo
-- Cada año los mejores magos y magas rivalizan para ver quién hace el elixir más potente durante el «Festival de magia y hechicería»; ¿Quieres ser tú el ganador este año?
 - Número de jugadores: de 2 a 4
 - Contenido: 112 cartas y instrucciones del juego
 

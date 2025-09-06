@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Cotton fabric for soft, comfortable wear
 - Material composition: 100% cotton
-- Sweatpants with ribbed cuffs
 - Elasticated waistband with drawstring
+- Sweatpants with ribbed cuffs
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09KVGTSMT{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Productos de Cuidado del cabello para Unisex Adulto
 - Los productos de la marca Revlon están fabricados con ingredientes de la mejor calidad.
+- Productos de Cuidado del cabello para Unisex Adulto
 - Cuidado del cabello Revlonissimo Color Sublime Coloración Permanente Sin Amoniaco 8 75ml de Revlon
 
 [🛒 Aquí!!!]({{< param buyurl >}})

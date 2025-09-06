@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Recibe una alerta en caso de cambios en el ambiente de la habitación
-- Mejora fácilmente la calidad del aire en una habitación adicional
-- Accede a las mediciones de una habitación adicional en tiempo real en tu smartphone
-- Optimiza tu bienestar gracias a las mediciones registradas en la habitación
 - Consulta el historial de la habitación y los gráficos en la aplicación
+- Accede a las mediciones de una habitación adicional en tiempo real en tu smartphone
+- Recibe una alerta en caso de cambios en el ambiente de la habitación
 - Accesorio de la Estación Meteorológica Netatmo
 - Netatmo asistencia: si necesitas ayuda para instalar/usar tu producto, visita nuestra asistencia en helpcenter.netatmo.com/es o escríbenos a: contact-amazon@netatmo.com
+- Mejora fácilmente la calidad del aire en una habitación adicional
+- Optimiza tu bienestar gracias a las mediciones registradas en la habitación
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00D89YKBK{{</world>}}

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Mochila pequeña con un compartimento, bolsillo frontal plano y dos bolsillos de malla
-- Dimensiones: 12 x 26 x 33 cm
 - Forro interior estampado
+- Dimensiones: 12 x 26 x 33 cm
 - Material exterior de alta resitencia y repelente a los líquidos (Ripstop)
 - Correas al hombro acolchadas ajustables y espalda acolchada
 

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Network GSM / HSPA / LTE
+- Sim-type: Dual SIM (Nano-SIM, dual stand-by)
 - Type: Smartphone
+- Network GSM / HSPA / LTE
 - Dimensions: 71.9 x 77.8 x 8.2 mm
 - Weight: 204 / 207 / 211 g
-- Sim-type: Dual SIM (Nano-SIM, dual stand-by)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHY1FPGH{{</world>}}

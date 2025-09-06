@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre de cordones
-- Suela de goma
 - Horma clásica
 - Empeine textil y sintético
+- Suela de goma
+- Cierre de cordones
 - Mediasuela Bounce
 
 [🛒 Visítala!!!]({{< param buyurl >}})

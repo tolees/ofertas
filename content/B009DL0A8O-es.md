@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Pie de página con producción de páginas: A4
+- Tecnología de impresión: inyección de tinta
 - Tipo de tinta: tinta a base de pigmentos
 - Color de impresión: gris
-- Tecnología de impresión: inyección de tinta
-- Pie de página con producción de páginas: A4
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B009DL0A8O{{</world>}}

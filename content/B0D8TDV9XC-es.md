@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillo delantero para Essentials
-- Soporte lateral para botellas con anillo en D
-- Cierre enrollable
 - Compartimento húmedo y seco
+- Bolsillo delantero para Essentials
+- Cierre enrollable
+- Soporte lateral para botellas con anillo en D
 - __Dimensiones: 60 x 33 x 18 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})

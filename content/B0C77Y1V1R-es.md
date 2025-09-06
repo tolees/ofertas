@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Suela exterior de goma
-- Ventilación en el mediopié
 - Espuma Floatride Energy
 - Parte superior FLEXWEAVE y clip para el talón en TPU
+- Ventilación en el mediopié
 - Artículo de marca Reebok
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

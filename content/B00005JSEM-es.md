@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricada en vinilo resistente y con un diseño formado por 2 aros y una zona intermedia con triángulos en relieve
-- Piscina hinchable Intex infantil de color azul, con unas medidas de 188 cm de diámetro x 46 cm de alto y capacidad para 790 litros de agua
-- Incluye kit de parches para reparar pequeños poros y pinchazos
 - La piscina está diseñada para que sea utilizada por 2 niños a partir de los 3 años de edad
+- Piscina hinchable Intex infantil de color azul, con unas medidas de 188 cm de diámetro x 46 cm de alto y capacidad para 790 litros de agua
+- Fabricada en vinilo resistente y con un diseño formado por 2 aros y una zona intermedia con triángulos en relieve
+- Incluye kit de parches para reparar pequeños poros y pinchazos
 - Dispone de 3 cámaras de aire (la construcción lateral es de un único panel)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

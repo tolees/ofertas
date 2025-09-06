@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cintura elástica
-- Logotipo de la marca
 - Confort
+- Logotipo de la marca
+- Cintura elástica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C8K7RNMQ{{</world>}}

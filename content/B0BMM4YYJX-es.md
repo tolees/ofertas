@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Buena calidad con rendimiento
 - Fácil de usar
+- Buena calidad con rendimiento
 - UA Performance Tech 3pk NS
 
 [🛒 Comprar!!!]({{< param buyurl >}})

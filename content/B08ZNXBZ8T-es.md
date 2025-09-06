@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- cintura elástica
 - Amplios bolsillos: 2 bolsillos laterales, 1 bolsillo en el muslo, 2 bolsillos traseros
 - Calidad de la UE
-- cintura elástica
 - Rodillas reforzadas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

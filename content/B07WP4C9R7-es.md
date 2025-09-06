@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Modelo sin forro y sin relleno
 - Banda inferior elástica distintiva de Calvin Klein
+- Modelo sin forro y sin relleno
 - Diseño con espalda cruzada
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Componentes incluidos: 1 x freidora
-- Dimensiones del paquete 42.4 x 30.2 x 26.4 cm
-- Freidora de 2300 w de potencia para unas frituras uniformes y crujientes en apenas unos minutos
 - Componentes incluidos: 1 x freidora
-- Capacidad de 3 l de aceite para aproximadamente 1 kg de alimento lo que te permitirá resultados jugosos y llenos de sabor
+- Freidora de 2300 w de potencia para unas frituras uniformes y crujientes en apenas unos minutos
 - Termostato regulable con indicador de temperatura
+- Capacidad de 3 l de aceite para aproximadamente 1 kg de alimento lo que te permitirá resultados jugosos y llenos de sabor
+- Dimensiones del paquete 42.4 x 30.2 x 26.4 cm
 - Cuba extraíble de acero inoxidable ultrarresistente, fácil de desmontar y apto para lavavajillas
 - Tapa para cocinar con ventana para evitar salpicones y ensuciar la zona de cocción
 

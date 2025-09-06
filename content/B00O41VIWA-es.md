@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene: 2 láminas de cartón con espacios en blanco y puntos de colores a forma de guía para rellenar, 5 láminas de goma eva adhesiva troquelada con y sin purpurina y 1 lámina DIN A4 a modo ejemplo
 - Contiene todo el material necesario para completar dos mosaicos de diseño marinos.
+- Contiene: 2 láminas de cartón con espacios en blanco y puntos de colores a forma de guía para rellenar, 5 láminas de goma eva adhesiva troquelada con y sin purpurina y 1 lámina DIN A4 a modo ejemplo
 - Presentación: Caja de cartón, medidas: 24x18cm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

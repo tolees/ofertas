@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Resistencia a la presión de aqua de 5 bares
 - Esta modelo funciona con un movimiento de Cuarzo preciso
+- Resistencia a la presión de aqua de 5 bares
 - El Invicta 46332 tiene una caja de acero inoxidable de 38 millimetros con una esfera oro
 - Este modelo es parte de la colección Invicta Wildflower
 

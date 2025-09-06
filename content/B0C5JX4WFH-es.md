@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Personaliza tu juego con los botones traseros con doble programación.
 - Licencia oficial de Nintendo.
-- Conexión inalámbrica de 9 metros para que juegues cómodamente en el sofá
-- Batería recargable integrada con hasta 40 horas de juego con una sola carga.
 - Diseño exclusivo que brilla en la oscuridad tras la exposición a la luz
+- Batería recargable integrada con hasta 40 horas de juego con una sola carga.
+- Conexión inalámbrica de 9 metros para que juegues cómodamente en el sofá
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C5JX4WFH{{</world>}}

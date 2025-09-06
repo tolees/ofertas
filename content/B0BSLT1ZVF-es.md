@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela acolchada touch-it
 - Transpirable y repelente al agua
+- Suela acolchada touch-it
 - Cálidamente forrado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

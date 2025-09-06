@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Cierre de cordones.
 - Parte superior de material sintético.
-- Mediasuela moldeada de EVA.
 - Amortiguación de espuma MemoryTech.
+- Mediasuela moldeada de EVA.
 - Sensación de ligereza.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

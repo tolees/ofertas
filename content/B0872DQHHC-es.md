@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bolsillos abiertos para las manos
 - Cintura elástica recubierta con cordón exterior. Tejido de punto. Entrepierna: YMD 25 pulgadas (+/- 3 pulgadas por talla)
+- Bolsillos abiertos para las manos
 - Tipo de tela: 100% poliéster
 
 [🛒 Visítala!!!]({{< param buyurl >}})

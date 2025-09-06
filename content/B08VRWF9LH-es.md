@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Capucha con cordón ajustable
 - Puños y dobladillo de canalé
+- Capucha con cordón ajustable
 - Felpa 70% algodón / 30% poliéster reciclado
 - Bolsillo canguro
 - Corte clásico

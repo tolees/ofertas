@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con elementos de montaje para instalación en la pared
 - Separación apropiada entre las tomas
 - Opción de salida variable de cable en ambos lados
+- Con elementos de montaje para instalación en la pared
 - Con pinza de cable para guardar el cable sobrante
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

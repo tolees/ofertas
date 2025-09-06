@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillos: bolsillos laterales
-- Slip interior de malla
 - Bolsillos traseros
-- tejido reciclado: tejido reciclado Super Suede
+- Slip interior de malla
 - longitud: longitud 38 cm - más corto
+- tejido reciclado: tejido reciclado Super Suede
+- Bolsillos: bolsillos laterales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08284KZRS{{</world>}}

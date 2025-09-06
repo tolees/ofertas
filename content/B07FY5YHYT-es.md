@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Plantilla acolchada de espuma viscoelástica
 - Suela flexible ligera que absorbe los golpes
 - Forro de tela suave para zapatos
-- Plantilla acolchada de espuma viscoelástica
 - Suela de tracción flexible
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

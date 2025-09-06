@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste regular
 - Cintura ajustable
 - Cierre de cremallera
+- Ajuste regular
 - Cintura elástico flexible interior con logotipos repetidos de punto para óptimo comodidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

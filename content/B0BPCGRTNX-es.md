@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Emiten 250 lúmenes, equivalente a 25 W de una bombilla incandescente, con una vida útil superior a 13 años (basado en aproximadamente 3 horas de uso diario), para decoración, no para iluminación del hogar
 - Contenido del paquete: 2 bombillas LED A60 decorativas de estilo vintage, estas bombillas de diseño clásico emiten una luz ultra cálida y blanca para un ambiente acogedor
 - Brillo al instante sin tiempo de calentamiento, la tecnología LED, que permite ahorrar energía, es amigable con el planeta y con tu cartera
 - Dimensiones: lámpara individual mide 6 x 6 x 10,4 cm (largo x ancho x alto)
 - El diseño regulable te permite ajustar fácilmente el ambiente para cualquier tipo de situación
-- Emiten 250 lúmenes, equivalente a 25 W de una bombilla incandescente, con una vida útil superior a 13 años (basado en aproximadamente 3 horas de uso diario), para decoración, no para iluminación del hogar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BPCGRTNX{{</world>}}

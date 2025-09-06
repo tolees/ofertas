@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cómodo de llevar
 - Material de calidad
+- Cómodo de llevar
 - Producto de la marca Quiksilver
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

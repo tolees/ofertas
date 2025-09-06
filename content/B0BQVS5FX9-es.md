@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ordenador portátil
 - Diseño compacto y moderno
+- Ordenador portátil
 - Tecnología de chip marca Intel
 
 [🛒 Comprar!!!]({{< param buyurl >}})

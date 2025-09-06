@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estilo más adecuado para: unisex
 - Chunky outsole
+- Estilo más adecuado para: unisex
 - Nombre de departamento: Unisex niños
 - Composición del material: pelle
 

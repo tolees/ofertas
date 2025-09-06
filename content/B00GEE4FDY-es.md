@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido Omni-Wick
 - Protección solar Omni-Shade UPF 30
+- Tejido Omni-Wick
 - Refrigeración activada por la transpiración Omni-Freeze Zero
 
 [🛒 Comprar!!!]({{< param buyurl >}})

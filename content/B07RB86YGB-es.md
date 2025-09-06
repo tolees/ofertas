@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Desarrollo del neumático con un gran piloto Greg Minnaar
 - Protección EXO: ofrece la mejor protección contra el desgarro de los laterales.
+- Desarrollo del neumático con un gran piloto Greg Minnaar
 - El neumático Assegai tiene un máximo de agarre
 - Muchas ventajas con el montaje Tubeless Ready
 

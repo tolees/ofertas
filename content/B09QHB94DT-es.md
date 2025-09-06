@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Lavable a máquina
 - Ajuste y sensación sin esfuerzo
 - Logotipo de la marca
-- Lavable a máquina
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09QHB94DT{{</world>}}

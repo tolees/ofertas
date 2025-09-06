@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- El nuevo juego independiente basado en Kingdom Builder que incorpora nuevas mecánicas
 - Kingdom Builder es un juego fundamental, Spiel des Jahres de 2012
 - Del autor de Dominion
-- El nuevo juego independiente basado en Kingdom Builder que incorpora nuevas mecánicas
 - Una nueva vuelta de tuerca a Kingdom Builder que añade más estrategia y asmietría a tus partidas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

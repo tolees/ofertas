@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Aspecto natural y sensación ligera
 - Genera un efecto volumen, cejas más intensas y definidas
 - Muy fácil de utilizar y de retirar
-- Contiene un aplicador mini talla ultra preciso que ayuda a realizar una aplicación precisa
 - Fórmula de fibras de alta duración
+- Aspecto natural y sensación ligera
+- Contiene un aplicador mini talla ultra preciso que ayuda a realizar una aplicación precisa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07WLLLPPW{{</world>}}

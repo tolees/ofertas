@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ingredientes clave para efectos inmediatos y beneficios a largo plazo como una piel más lisa y suave, Acabado transparente adecuado para todos los tonos y matices de piel
-- Contenido: 1 x Prebase The Marshmellow Primer 01, 30 ml
 - Aplicar en las zonas del rostro que desees alisar y calmar con ayuda de la esponja Marshmellow Blender, Dejar secar para un acabado transparente, Utilizar sola o bajo la base de maquillaje
 - Prebase de maquillaje, Primer versátil que alisa y unifica con suave textura mousse, 10 beneficios, Fórmula vegana libre de silicona
+- Contenido: 1 x Prebase The Marshmellow Primer 01, 30 ml
+- Ingredientes clave para efectos inmediatos y beneficios a largo plazo como una piel más lisa y suave, Acabado transparente adecuado para todos los tonos y matices de piel
 - Hidratación y suavidad al instante, Raíz de malvavisco para combatir los signos de la edad y las irritaciones cutáneas, Chlorella vulgaris (vitamina B12) para regeneración celular, Fija el maquillaje hasta 16 horas, Acabado de efecto difuminado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

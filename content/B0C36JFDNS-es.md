@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Artículo de marca JACK & JONES
 - Tiene un estilo óptimo y ofrece un ajuste cómodo
+- Artículo de marca JACK & JONES
 - Tiene detalles distintivos de la marca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

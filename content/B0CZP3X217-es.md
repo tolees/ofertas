@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte clásico
 - Logo de 3 bandas en pecho
+- Corte clásico
 - 100 % algodón
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela exterior CMEVA moldeada para agarre y durabilidad.
 - Correa sintética acolchada
+- Suela exterior CMEVA moldeada para agarre y durabilidad.
 - Marca PUMA
 - CMEVA: material EVA moldeado por compresión de PUMA para un rendimiento liviano
 

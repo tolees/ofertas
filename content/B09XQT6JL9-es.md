@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ¡Satisface las necesidades de los aldeanos!
 - ¡Haz amigos animales!
+- ¡Satisface las necesidades de los aldeanos!
 - ¡Conviértete en un agricultor respetuoso con el medio ambiente!
 
 [🛒 Comprar!!!]({{< param buyurl >}})

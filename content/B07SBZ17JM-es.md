@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Horma clásica
-- Parte superior de piel lisa
 - Suela de goma; forro textil
+- Parte superior de piel lisa
+- Horma clásica
 - Plantilla ligera de EVA Adibouncy
 
 [🛒 Visítala!!!]({{< param buyurl >}})

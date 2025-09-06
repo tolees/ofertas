@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tejido Jersey
-- Tirantes ajustables y multidireccionales
 - Cierre delantero
+- Tirantes ajustables y multidireccionales
+- Tejido Jersey
 - Cinta con logotipo KARL en los tirantes, las copas y la banda del pecho
 - Sin aros
 

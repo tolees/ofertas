@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ingredientes que cuidan
-- Fórmula nutritiva e hidratante
 - Nos oponemos a los experimentos con animales; cosnova aparece internacionalmente con essence y CATRICE tanto en PETA Alemania como en PETA
 - Da volumen de manera natural
+- Ingredientes que cuidan
 - Suavizar; con vitaminas; cuidado; reparar; brillante
+- Fórmula nutritiva e hidratante
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DQ5C8QM8{{</world>}}

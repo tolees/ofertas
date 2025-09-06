@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 3 velocidades de ventilación reversibles con accionamiento por cadena para que puedas seleccionar la que mejor se ajuste a tus necesidades en cada momento
-- Motor con potencia de 60 W muy silencioso, permitiendo un descanso sin interrupciones
-- 4 aspas de 132 cm de diámetro reversibles que garantizan un gran caudal de aire para que puedas disfrutar de una temperatura agradable
-- Ventilador de techo con luz CP 20132 M de Orbegozo de 47,5 cm de altura con el que refrescarte en épocas de calor
 - Lámpara tipo E27, máximo 60W (bombilla no incluida)
+- Ventilador de techo con luz CP 20132 M de Orbegozo de 47,5 cm de altura con el que refrescarte en épocas de calor
+- 4 aspas de 132 cm de diámetro reversibles que garantizan un gran caudal de aire para que puedas disfrutar de una temperatura agradable
+- Motor con potencia de 60 W muy silencioso, permitiendo un descanso sin interrupciones
+- 3 velocidades de ventilación reversibles con accionamiento por cadena para que puedas seleccionar la que mejor se ajuste a tus necesidades en cada momento
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B007PRWAWC{{</world>}}

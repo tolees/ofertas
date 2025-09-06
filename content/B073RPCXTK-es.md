@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Capucha ajustable con cordón
 - Canalé en el bajo y los puños
 - Logotipo de Helly Hansen en el pecho
+- Capucha ajustable con cordón
 - Bolsillo canguro
 
 [🛒 Aquí!!!]({{< param buyurl >}})

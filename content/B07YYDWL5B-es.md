@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Botón de descarga rápida más grande para extraer facilmente los vasos
-- Juego de 20 vasos 1/2", trinquete, cardán, extensiones y maletín
-- Diseño ergonómico con un mango bimaterial que permite un agarre más cómodo
-- Incluye trinquete, 20 vasos 6, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 27, 30 y 32mm, 2 extensiones 3" y 5", 1 cardán y un maletín
 - Su palanca de cambio de sentido evita desvíos accidentales y permite una fácil operación cuando se utiliza con una sola mano
+- Incluye trinquete, 20 vasos 6, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 27, 30 y 32mm, 2 extensiones 3" y 5", 1 cardán y un maletín
+- Juego de 20 vasos 1/2", trinquete, cardán, extensiones y maletín
+- Botón de descarga rápida más grande para extraer facilmente los vasos
+- Diseño ergonómico con un mango bimaterial que permite un agarre más cómodo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07YYDWL5B{{</world>}}

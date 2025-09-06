@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cinturilla elástica
-- Corte ceñido
 - Algodón y elastano
+- Corte ceñido
+- Cinturilla elástica
 - Estampado del logotipo PUMA N.º 1 de goma en la pierna izquierda
 - BCI: Al comprar productos de algodón de PUMA, apoyas una producción más sostenible de algodón mediante la Iniciativa del Mejor Algodón (Better Cotton Initiative). Más información en: bettercotton.org/massbalance
 

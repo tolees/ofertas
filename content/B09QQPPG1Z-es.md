@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Regular
 - 100% Viscosa
+- Regular
 - Vero Moda Beauty Maxi Dress
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

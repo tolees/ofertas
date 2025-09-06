@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Serigrafía en parte delantera
 - Corte: corte normal, clásico, cómodo
+- Serigrafía en parte delantera
 - Tejido: punto jersey de algodón ligero
 - Cuello: cuello redondo
 

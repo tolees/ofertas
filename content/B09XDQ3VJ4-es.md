@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Chaqueta con cremallera
-- Pantalón largo con puños elásticos
 - Conjunto deportivo infantil
+- Pantalón largo con puños elásticos
+- Chaqueta con cremallera
 - Logo de la marca en el frente
 
 [🛒 Comprar!!!]({{< param buyurl >}})

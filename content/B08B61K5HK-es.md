@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Long Sleeves
+- High Neck
 - Care Label:
 - materialFabricComposition: Outer: 60% Polyester, 40% Nylon; Lining: 60% Polyester, 40% Nylon; Padding: 100% Polyester
 - Puffer jacket
-- Long Sleeves
-- High Neck
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08B61K5HK{{</world>}}

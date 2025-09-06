@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Formulación. Cuenta con Citrato, óxido y bisglicinato de magnesio, que ayudan a mantener el funcionamiento normal de músculos, sistema nervioso y salud cardiovascular; brinda soporte a un sistema inmunitario saludable, a prevenir cansancio, irritabilidad y depresión y mejora la calidad del sueño
-- Advertencia. Los complementos alimenticios no deben utilizarse como sustitutos de una dieta variada y equilibrada y de un estilo de vida saludable. No superar la cantidad diaria expresamente recomendada. Mantener fuera del alcance de los niños más pequeños. Conservar en lugar fresco y seco
-- Modo de uso. Para este suplemento alimenticio deben tomarse de 1 a 2 comprimidos al día. La cantidad de magnesio por 1 cápsula es de 125 mg y por 2 cápsulas es de 250 mg
 - Equilibrio físico y mental. Indicado a personas que quieren regular su sistema nervioso aportando energía y favoreciendo su descanso. Y en personas y deportistas que buscan una correcta recuperación del funcionamiento de los músculos
 - FemPlus Magnesium. Es un complemento alimenticio a base de magnesio, que contribuye al funcionamiento normal de los músculos, sistema nervioso y a la función psicológica normal. No tiene gluten, lactosa ni azúcares añadidos
+- Advertencia. Los complementos alimenticios no deben utilizarse como sustitutos de una dieta variada y equilibrada y de un estilo de vida saludable. No superar la cantidad diaria expresamente recomendada. Mantener fuera del alcance de los niños más pequeños. Conservar en lugar fresco y seco
+- Modo de uso. Para este suplemento alimenticio deben tomarse de 1 a 2 comprimidos al día. La cantidad de magnesio por 1 cápsula es de 125 mg y por 2 cápsulas es de 250 mg
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DVTCQYG5{{</world>}}

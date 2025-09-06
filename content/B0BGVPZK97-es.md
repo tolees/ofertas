@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tejido ligero
 - Ofrece comodidad y libertad de movimientos
 - Tiene detalles distintivos de la marca
+- Tejido ligero
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BGVPZK97{{</world>}}

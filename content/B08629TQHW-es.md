@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fuerza tu suerte, roba todas las cartas que puedas y zámpate cuantos más platos mejor. ¡Pero ojo con las indigestiones!
 - Divertidísimo juego de cartas con gatitos de ojos saltones y sushi. Muy fácil de jugar, de reglas sencillas y perfecto para disfrutar con niños y en familia.
-- ¡Risas aseguradas! Tempurra es un juego de cartas de partidas muy rápidas y ágiles. ¡Llévatelo a la piscina, al parque o donde tú quieras!
+- Fuerza tu suerte, roba todas las cartas que puedas y zámpate cuantos más platos mejor. ¡Pero ojo con las indigestiones!
 - Si te gusta el UNO o el famoso Virus, Tempurra te va a encantar. Permite hasta 7 jugadores a partir de 6 años de edad.
+- ¡Risas aseguradas! Tempurra es un juego de cartas de partidas muy rápidas y ágiles. ¡Llévatelo a la piscina, al parque o donde tú quieras!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08629TQHW{{</world>}}

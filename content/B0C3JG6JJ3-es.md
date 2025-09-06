@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Horma clásica
 - Suela y mediasuela de EVA de una sola pieza
-- Cierre autoadherente
+- Horma clásica
 - Forro textil
+- Cierre autoadherente
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C3JG6JJ3{{</world>}}

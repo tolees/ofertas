@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Este modelo es parte de la colección Invicta Pro Diver
-- El Invicta 26970 tiene una caja de acero inoxidable de 40 millimetros con una esfera negro
-- Esta modelo funciona con un movimiento de Cuarzo preciso
 - 2 años de garantía Invicta
+- Esta modelo funciona con un movimiento de Cuarzo preciso
+- El Invicta 26970 tiene una caja de acero inoxidable de 40 millimetros con una esfera negro
+- Este modelo es parte de la colección Invicta Pro Diver
 - Resistencia a la presión de aqua de 20 bares
 
 [🛒 Comprar!!!]({{< param buyurl >}})

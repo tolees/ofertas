@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela para césped natural húmedo
 - Empeine Hybridfeel con inserciones Strikescale
+- Suela para césped natural húmedo
 - Incluye una llave para poner y quitar los tacos
 - Horma clásica
 - Cierre de cordones

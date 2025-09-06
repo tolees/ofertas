@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 100% poliéster reciclado
-- Manga larga
 - Corte clásico
+- Manga larga
+- 100% poliéster reciclado
 - Cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

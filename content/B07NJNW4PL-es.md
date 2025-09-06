@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Plantilla de espuma viscoelástica
-- Lavable a máquina
 - Vegano
+- Lavable a máquina
 - Charitable
 
 [🛒 Comprar!!!]({{< param buyurl >}})

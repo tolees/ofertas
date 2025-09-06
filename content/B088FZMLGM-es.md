@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Champú de calidad profesional que ayuda al control del encrespamiento hasta 72h*
-- Desenredo fácil​ y acabado de peluquería
-- Globalmente TRESemmé no testa en animales
-- Champú formulado con aceite de marula y keratina​
 - Champú para cabellos secos y con tendencia a encresparse​; Botella 100% reciclable​
+- Champú de calidad profesional que ayuda al control del encrespamiento hasta 72h*
+- Globalmente TRESemmé no testa en animales
 - Cabello más suave, brillante y nutrido
+- Champú formulado con aceite de marula y keratina​
+- Desenredo fácil​ y acabado de peluquería
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B088FZMLGM{{</world>}}

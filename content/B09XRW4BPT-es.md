@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fórmula sin parabenos, con glicerina y semilla de hibisco para hidratar las fibras más secas y reforzar la barrera hidrolipídica dejando unos rizos y ondas intensamente hidratados y fortalecidos
 - Aplicar con los dedos de largos a puntas sobre el cabello húmedo y continuar con movimientos de técnicas de definición Curl para una hidratación con definición.
+- Fórmula sin parabenos, con glicerina y semilla de hibisco para hidratar las fibras más secas y reforzar la barrera hidrolipídica dejando unos rizos y ondas intensamente hidratados y fortalecidos
 - Leave-in hidratante de larga duración para pelo rizado u ondulado de Curl Expression protege el cabello del calor hasta 230°C/450F con una fórmula untuosa que dura en el cabello sin aportar peso
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Luz LED de alta calidad
 - Toque de iluminación
 - Bajo consumo
 - Soluciones de iluminación sostenible
-- Luz LED de alta calidad
 - Resalta tu hogar con luz
 
 [🛒 Visítala!!!]({{< param buyurl >}})

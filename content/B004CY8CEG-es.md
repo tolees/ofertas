@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Muy fácil de usar gracias al interruptor de encendido/apagado
 - Apta para usar de acampada con su potencia de 500 W
-- Puede guardar y llevar consigo la parrilla fácilmente gracias a su tamaño compacto y a su peso ligero
 - Adecuada para cuatro personas gracias a las cuatro sartenes gourmet incluidas
+- Puede guardar y llevar consigo la parrilla fácilmente gracias a su tamaño compacto y a su peso ligero
 - Parrilla extraíble con una superficie para cocinar de 22 x 17,5 cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Sostenibilidad: Esta prenda está confeccionada con algodón orgánico certificado. Los agricultores implicados siguen prácticas de agricultura ecológica. Por lo tanto, no se han utilizado fertilizantes y pesticidas químicos ni semillas modificadas genéticamente.
-- Juego de tres bañadores
-- Logotipo KARL en la cadera izquierda
 - Cintura elástica
+- Logotipo KARL en la cadera izquierda
+- Juego de tres bañadores
 - Tejido Jersey
 
 [🛒 Comprar!!!]({{< param buyurl >}})

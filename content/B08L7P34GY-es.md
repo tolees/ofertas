@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Te han contratado: Hora de mancharte las manos. Repara sistemas de ventilación claustrofóbicos, arregla animatronics estropeados que pueden activarse en cualquier momento o pasa las tardes acobardado en la oficina de seguridad del turno de noche.
-- Fiesta de la pizza: Las escenas de los títulos clásicos se han actualizado y rehecho para una experiencia completamente inmersiva: Five Nights at Freddys, Five Nights at Freddys 2, Five Nights at Freddys 3, Five Nights at Freddys 4 y Five Nights at Freddys: Sister Location.
 - Premios divertidísimos: Juguetes, peluches, muñecos cabezones y golosinaaas. Consigue premios superdivertidos para jugar con ellos en el mostrador de premios interactivo. Encuentra las fichas Faz escondidas para desbloquear coleccionables mucho más exclusivos y pásatelo SUPERGENIAL y SUPERBIEN.
+- Te han contratado: Hora de mancharte las manos. Repara sistemas de ventilación claustrofóbicos, arregla animatronics estropeados que pueden activarse en cualquier momento o pasa las tardes acobardado en la oficina de seguridad del turno de noche.
 - Homenaje nostálgico: Enfréntate a tus asesinos animatrónicos preferidos entre los que se incluyen: Freddy, Bonnie, Chica, Foxy, Springtrap, The Mangle, Funtime Foxy y Circus Baby.
 - Dos formas de jugar: Experimenta el terror en modo plano (sin RV) o con RV. Solo para PlayStation.
+- Fiesta de la pizza: Las escenas de los títulos clásicos se han actualizado y rehecho para una experiencia completamente inmersiva: Five Nights at Freddys, Five Nights at Freddys 2, Five Nights at Freddys 3, Five Nights at Freddys 4 y Five Nights at Freddys: Sister Location.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08L7P34GY{{</world>}}

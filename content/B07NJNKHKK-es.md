@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Elastic waistband with lanyard
 - Soft fabric
+- Elastic waistband with lanyard
 - Regular fit
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- ¿PELO EXTREMADAMENTE SECO Y DAÑADO que necesita cuidados extra? ¡Estás en buenas manos! Los productos Aussie dejarán tu pelo increíblemente hidratado
+- FÓRMULA VEGANA ENRIQUECIDA CON SUPERALIMENTOS AUSTRALIANOS: Sin ingredientes o subproductos derivados de animales
 - PARA UN RESCATE COMPLETO DEL PELO: completa la rutina con el champú y acondicionador Aussie SOS Repair & Revive
 - REPARA Y REVITALIZA: La mascarilla Aussie ayuda a reparar y revitalizar el pelo estresado, al mismo tiempo que lo protege contra daños futuros
-- FÓRMULA VEGANA ENRIQUECIDA CON SUPERALIMENTOS AUSTRALIANOS: Sin ingredientes o subproductos derivados de animales
-- ¿PELO EXTREMADAMENTE SECO Y DAÑADO que necesita cuidados extra? ¡Estás en buenas manos! Los productos Aussie dejarán tu pelo increíblemente hidratado
 - DI HOLA A UN PELO INCREÍBLEMENTE HIDRATADO. Tu pelo estará suave, liso e increíblemente hidratado durante 100 horas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

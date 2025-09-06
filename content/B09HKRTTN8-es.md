@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Felpa 70% algodón / 30% poliéster reciclado
+- Cintura elástica con cordón
 - Corte clásico con cintura de talle medio
 - Bolsillos en las costuras laterales
-- Cintura elástica con cordón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09HKRTTN8{{</world>}}

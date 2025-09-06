@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tienen un parche con el logo de la marca en la parte trasera
-- Vaqueros con cintura alta
 - Cuenta con un diseño de 5 bolsillos
+- Vaqueros con cintura alta
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07JLFBXB5{{</world>}}

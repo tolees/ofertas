@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Correa de hombro ajustable
-- Anillo en D
-- Dos bolsillos para bolígrafos
+- Dos bolsillos interiores: uno abierto +uno con cremallera
 - Logotipo de Kipling redondo
-- Mono robot
-- Uno bolsillo trasero
+- Dos bolsillos para bolígrafos
+- Anillo en D
 - Llavero
 - Dos compartimentos principales con cremallera
-- Dos bolsillos interiores: uno abierto +uno con cremallera
+- Mono robot
+- Correa de hombro ajustable
+- Uno bolsillo trasero
 - Uno bolsillo delantero
 
 [🛒 Aquí!!!]({{< param buyurl >}})

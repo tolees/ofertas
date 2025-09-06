@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Zócalo AM4, tipo de memoria del sistema: DDR4; Temperaturas máximas: 90°C
+- Enfriador no incluido, se recomienda enfriador de alto rendimiento
 - Núcleos de CPU: 8, número de subprocesos: 16, reloj base: 3,4 GHz, reloj de impulso máximo: hasta 4,7 GHz, caché L2 total: 4 MB, caché L3 total: 96 MB
 - Compatibilidad con sistemas operativos: Windows 11 - Edición de 64 bits, Windows 10 - Edición de 64 bits, RHEL x86 de 64 bits, Ubuntu x86 de 64 bits
-- Enfriador no incluido, se recomienda enfriador de alto rendimiento
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09VCJ2SHD{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Disuelve la grasa y la suciedad y es fácil de aclarar
 - Limpieza e higiene profunda sin residuos
 - Limpiador para baño en spray que elimina el 100% de los restos de jabón
-- Disuelve la grasa y la suciedad y es fácil de aclarar
 - Deja un aroma fresco y un brillo más duradero
 - Se puede utilizar con agua fría
 

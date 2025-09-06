@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con propiedades antioxidantes y antiinflamatorias, reduce la hinchazón y el dolor abdominal, mejora el tránsito intestinal y regula el desequilibrio hormonal
 - Sin gluten y sin lactosa. Tomar 1 cápsula al día, acompañada de un vaso de agua, preferiblemente antes del desayuno
 - Indicado para tratar la retención de líquidos causada por diversos factores: ovulación, anticonceptivos, climaterio, sedentarismo, mala circulación, etc.
 - Complemento nutricional drenante que ayuda a eliminar la retención de líquidos de forma natural y favorece el tránsito intestinal, mejorando la silueta
+- Con propiedades antioxidantes y antiinflamatorias, reduce la hinchazón y el dolor abdominal, mejora el tránsito intestinal y regula el desequilibrio hormonal
 - Formulado con té verde, potasio, magnesio, prebióticos y vitamina B6, que actúa eficazmente sobre el aumento de peso producido por la retención hídrica y sus consecuencias
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

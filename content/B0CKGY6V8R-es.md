@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Carcasa
 - - Forma de la Carcasa: Redondo
-- - Color de la caja: Plata
+- Carcasa
 - - Material de la Carcasa: Acero inoxidable
 - - Cristal: Cristal Mineral
+- - Color de la caja: Plata
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CKGY6V8R{{</world>}}

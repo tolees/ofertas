@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tamaño des pendientes de pasador: 7mm (Ancho) x 20mm (Longitud)
 - Material: Acero inoxidable pulido
 - Pendientes de pasador con forma de aro de Calvin Klein
 - Cierre: mariposa
-- Tamaño des pendientes de pasador: 7mm (Ancho) x 20mm (Longitud)
 - Decorada con logo CK grabado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

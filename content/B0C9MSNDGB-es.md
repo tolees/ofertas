@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Composición: 67% algodón 21% poliéster 10% viscosa 2% elastano
-- Instrucciones de cuidado: lavable a máquina
 - Tipo de estiramiento: elasticidad media
+- Instrucciones de cuidado: lavable a máquina
 - Ajuste: ajustado
 - Jeans Pantalones Largos
 

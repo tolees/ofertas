@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura elástica y cordones
-- Pantalones cortos de jogger de ajuste relajado
 - Branding en la pierna
+- Pantalones cortos de jogger de ajuste relajado
+- Cintura elástica y cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB4DK3W6{{</world>}}

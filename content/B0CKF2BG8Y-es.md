@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre: Hebilla
 - Material de la suela: Caucho
+- Cierre: Hebilla
 - Material exterior: Sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})

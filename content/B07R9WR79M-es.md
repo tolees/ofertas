@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Deja la piel hidratada
 - No contienen perfume ni parabenos
 - Con una textura suave
+- Deja la piel hidratada
 - Con extracto de avena natural y aloe vera
 - Toallitas húmedas para la higiene del bebé
 

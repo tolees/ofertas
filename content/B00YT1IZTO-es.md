@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Extender loción sobre la piel limpia y seca y masajear hasta absorber. Usar después de la ducha y según necesidad.
-- Loción hidratante para rostro y cuerpo que ayuda a restaurar la barrera protectora cutánea, dejando sensación de confort y suavidad. Con 3 ceramidas esenciales, Ácido Hialurónico y Tecnología MVE. Para piel seca a muy seca.
 - Piel suave e hidratada 24h. Textura ligera de rápida absorción. No comedogénica, sin aceites, perfume ni parabenos.
+- Loción hidratante para rostro y cuerpo que ayuda a restaurar la barrera protectora cutánea, dejando sensación de confort y suavidad. Con 3 ceramidas esenciales, Ácido Hialurónico y Tecnología MVE. Para piel seca a muy seca.
+- Extender loción sobre la piel limpia y seca y masajear hasta absorber. Usar después de la ducha y según necesidad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00YT1IZTO{{</world>}}

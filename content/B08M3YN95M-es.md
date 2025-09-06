@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MODO STEADY CAM y MODO CÁMARA 360: Grabación estabilizada con una sola lente. Pon todo toda la artillería detrás de una lente con el modo Steady Cam. Contenido gran angular ultra estabilizado listo para compartir al momento. Captura 5.7K 360 con doble lente. Descubre la libertad creativa del 360. Grábalo todo y apunta después a resolución súper 5.7K y codificación H.265.
 - CERTIFICACIÓN IPX8: Cámara 360 de bolsillo sumergible. La Insta360 ONE X2 es IPX8 sumergible hasta 10 metros (33 pies). Sácala en una tormenta o junto a la piscina sin preocuparte, o usa la Dive Case para coser sin problemas bajo el agua hasta 45 metros.
-- En la caja (versión estándar): ONE X2 (versión estándar) incluye 1x Insta360 ONE X2, 1x Cable de Carga, 1x batería, 1x Funda protectora, 1x Gamuza, 1x Guía del usuario.
+- MODO STEADY CAM y MODO CÁMARA 360: Grabación estabilizada con una sola lente. Pon todo toda la artillería detrás de una lente con el modo Steady Cam. Contenido gran angular ultra estabilizado listo para compartir al momento. Captura 5.7K 360 con doble lente. Descubre la libertad creativa del 360. Grábalo todo y apunta después a resolución súper 5.7K y codificación H.265.
 - ESTABILIZACIÓN FLOWSTATE: La mejor estabilización posible. La Estabilización FlowState está de vuelta con un algoritmo mejorado. Deshazte de tus gimbals y disfruta de una cámara totalmente estabilizada con nivelación de horizonte.
 - SELFIE STICK INVISIBLE y BULLET TIME 3.0: Graba con el Selfie Stick Invisible y descubre cómo desaparece en el vídeo. Captura ángulos imposibles como los de un drone y perspectivas en tercera persona con un simple movimiento de muñeca. Congela el tiempo en el centro de la acción. Bullet Time es más fácil y mejor que nunca con la nivelación automática de horizonte, aceleración inteligente y un accesorio completamente nuevo.
+- En la caja (versión estándar): ONE X2 (versión estándar) incluye 1x Insta360 ONE X2, 1x Cable de Carga, 1x batería, 1x Funda protectora, 1x Gamuza, 1x Guía del usuario.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08M3YN95M{{</world>}}

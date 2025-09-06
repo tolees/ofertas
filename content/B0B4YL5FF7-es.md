@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Factor de protección ultravioleta (FPU) de 40 para proteger de la exposición prolongada al sol moderado
 - Sin PFC
 - Artículos entregados: 1x Helly Hansen Womens W Vandre Tur Pant - Pant SPARROW GRE L
-- Factor de protección ultravioleta (FPU) de 40 para proteger de la exposición prolongada al sol moderado
 - Algodón orgánico
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste holgado
 - Fabricado con al menos un 70% de algodón sostenible
 - Cintura regular
+- Ajuste holgado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CSP4T29V{{</world>}}

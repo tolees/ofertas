@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Composición: Textil
-- Cierre: Cordones
-- Anchura del zapato: Normal
-- Tipo de tacón: Plano
 - Tipo de talla: Talla estándar
+- Anchura del zapato: Normal
+- Cierre: Cordones
+- Composición: Textil
+- Tipo de tacón: Plano
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00AVZMY7Q{{</world>}}

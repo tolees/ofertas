@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Personajes variados con una historia interesante
+- Accesible para todos
 - Una experiencia única
 - Excelentes gráficos
-- Accesible para todos
 - Obtendras mucha diversión
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

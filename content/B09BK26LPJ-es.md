@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Detalle de la marca Levis
-- Levis es líder en vaqueros y calcetines
 - Talón y puntera reforzados para durabilidad
+- Levis es líder en vaqueros y calcetines
 - Silueta de corte medio
 - Tacto de algodón suave
 

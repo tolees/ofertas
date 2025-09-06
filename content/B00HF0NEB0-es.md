@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Contenido: 2x molinillo de especias sin relleno (altura 13,8 cm, Ø 6 cm) sin rotulación - Número de artículo: 0652314500
 - El molinillo de cerámica es más duro que el acero, libre de corrosión y desgaste. Muele pimienta y sal en grano, hierbas secas (chiles) y especias. La cerámica es apta para alimentos y no abrasiva.
 - La rueda de ajuste le permite ajustar continuamente la fuerza del rectificado de grueso a fino. Con cada rotación, el material molido sale con un tamaño de grano uniforme. Gran apertura para fácil recarga
-- Contenido: 2x molinillo de especias sin relleno (altura 13,8 cm, Ø 6 cm) sin rotulación - Número de artículo: 0652314500
 - Material: madera de roble, molinillo de cerámica, recipiente de cristal (apto para lavavajillas). No hay suciedad en la superficie de trabajo porque la abertura de molienda del molinillo de sal y pimienta está en la parte superior. Se puede sellar herméticamente.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

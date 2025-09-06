@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - A partir de 3 años. Fabricado en Francia
-- Maletín de Spidey equipado con herramientas
-- Perfecto para el desarrollo motriz y la destreza mano ojo
-- Con chasis y carrocería del coche de Spidey para acoplar todas las piezas
-- Incluidos destornillador, llave fija , llave de tubo. Para poder montar el chasis, la carrocería, el alerón trasero, 6 tornillos, 4 ruedas y una figura de Spidey
 - Dimensiones (L x An x Al): 25,3 x 10,7 x 23,4cm
+- Maletín de Spidey equipado con herramientas
+- Incluidos destornillador, llave fija , llave de tubo. Para poder montar el chasis, la carrocería, el alerón trasero, 6 tornillos, 4 ruedas y una figura de Spidey
+- Con chasis y carrocería del coche de Spidey para acoplar todas las piezas
+- Perfecto para el desarrollo motriz y la destreza mano ojo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BRQQ7886{{</world>}}

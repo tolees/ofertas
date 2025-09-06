@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 65% FABRIC 35% SYNT
-- AZUL
 - Zapatillas casual para hombre
+- AZUL
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C2W51BL7{{</world>}}

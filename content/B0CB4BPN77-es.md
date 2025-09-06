@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste entallado
 - Cintura alta
+- Ajuste entallado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CB4BPN77{{</world>}}

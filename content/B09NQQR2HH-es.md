@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Flexible
-- Ligero
-- CUSHIONING
 - RECYCLED
+- CUSHIONING
+- Ligero
 - Ajuste fácil
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Skinny fit jeans
-- materialFabricComposition: 88% Cotton, 10% Organic Cotton, 2% Elastane
-- Skinny Fit
 - Care Label:
+- Skinny Fit
+- materialFabricComposition: 88% Cotton, 10% Organic Cotton, 2% Elastane
+- Skinny fit jeans
 - Low rise
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

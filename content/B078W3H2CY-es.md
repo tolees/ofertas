@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material de la suela: Goma
 - Cierre: Cordones
 - Revestimiento: Tela
+- Anchura del zapato: Regular
+- Material de la suela: Goma
 - Composición: textil
 - Material exterior: Cuero
 - Tipo de tacón: Plano
-- Anchura del zapato: Regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B078W3H2CY{{</world>}}

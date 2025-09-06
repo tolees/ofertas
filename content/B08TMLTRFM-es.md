@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Parte superior sintética
 - Entresuela acolchada
+- Parte superior sintética
 - Ajuste relajado
 - Ligeras
 

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Calidad probada solo
 - Con pierna estrecha y cintura media
-- Jeans clásicos de 5 bolsillos
 - Jeans Chelsea Skinny-kn
+- Calidad probada solo
+- Jeans clásicos de 5 bolsillos
 - Bordes abiertos en la parte inferior
 
 [🛒 Visítala!!!]({{< param buyurl >}})

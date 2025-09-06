@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Acabado satinado, no necesita esmalte protector
 - Secado rápido, no arruga el papel
 - Colores brillantes y lavables con una gran cobertura, fáciles de mezclar y sin disolventes
+- Acabado satinado, no necesita esmalte protector
 - Se aplica sobre folios, cartulinas, madera, cartón
 - Témperas sólidas color pastel, sin disolventes, perfectas para el colegio
 

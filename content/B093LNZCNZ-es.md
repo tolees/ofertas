@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte entallado
 - Tela suave
+- Corte entallado
 - Material resistente y duradero
 - Cintura elástica
 

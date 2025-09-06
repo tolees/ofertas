@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ¿CÓMO USARLO?: abrir el tapón y apretar suavemente para aplicarlo
-- COMPATIBLE CON PRESERVATIVOS DE LÁTEX: únicamente compatible con preservativos de látex de caucho natural y poliisopreno
 - ALIVIAR LA SEQUEDAD VAGINAL: Destinado para aliviar la sequedad vaginal y las molestias íntimas
+- ¿CÓMO USARLO?: abrir el tapón y apretar suavemente para aplicarlo
 - APTO PARA SEXO VAGINAL, ANAL Y ORAL: lubricante apto para sexo vaginal, anal y oral
+- COMPATIBLE CON PRESERVATIVOS DE LÁTEX: únicamente compatible con preservativos de látex de caucho natural y poliisopreno
 - FÓRMULA SUAVE Y PLACENTERA: Durex lubricante Original H2O, fórmula suave y placentera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

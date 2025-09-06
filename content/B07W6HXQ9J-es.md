@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño ergonómico: trabaje cómodamente con un ratón preciso diseñado para una postura de muñeca más natural y controles perfectamente situados a la altura del pulgar
 - Disfruta del rendimiento: el ratón Bluetooth MX Master 3S para Mac cuenta con un sensor de seguimiento de cristal de 8K DPI (2) y ofrece clics silenciosos, lo que reduce el ruido de los clics en un 90% (3)
+- Las piezas de plástico del ratón MX Master 3S para Mac incluyen plástico reciclado posconsumo certificado (gris espacial: 27%, gris pálido: 22%) y (9) certificación de «carbono neutro»
 - Desplazamiento magnético: un ratón de ordenador con una velocidad y precisión notables y casi silencioso, un 90% más rápido (4), un 87% más preciso (5) y ultrasilencioso.
-- Recargable de USB-C a USB-C: el ratón inalámbrico ofrece hasta 70 días de duración de la batería con una carga completa y 3 horas de funcionamiento después de solo 1 minuto de carga rápida (7).
 - Optimizado para Mac: el potente ratón MX Master 3S para Mac está optimizado para macOS y es compatible con iPadOS (1)
+- Diseño ergonómico: trabaje cómodamente con un ratón preciso diseñado para una postura de muñeca más natural y controles perfectamente situados a la altura del pulgar
+- Personalizaciones específicas de la aplicación: acelera y personaliza tus tareas con perfiles diseñados para macOS y aplicaciones específicas en la versión mejorada de Logi Options+ (6)
+- Recargable de USB-C a USB-C: el ratón inalámbrico ofrece hasta 70 días de duración de la batería con una carga completa y 3 horas de funcionamiento después de solo 1 minuto de carga rápida (7).
 - Flujo de trabajo para varios Mac: combina este ratón inalámbrico con hasta tres ordenadores Mac o portátiles y transfiere texto, imágenes y archivos entre ellos sin problemas (6)
 - Combina dos de las mejores herramientas creativas del mundo: consigue una suscripción gratuita de 1 mes a Creative Cloud con la compra de MX Master 3s para Mac
-- Las piezas de plástico del ratón MX Master 3S para Mac incluyen plástico reciclado posconsumo certificado (gris espacial: 27%, gris pálido: 22%) y (9) certificación de «carbono neutro»
-- Personalizaciones específicas de la aplicación: acelera y personaliza tus tareas con perfiles diseñados para macOS y aplicaciones específicas en la versión mejorada de Logi Options+ (6)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07W6HXQ9J{{</world>}}

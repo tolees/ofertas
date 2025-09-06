@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseñada por Mr. Christian Lacroix
 - Chaqueta corta de pelo de borreguito de colores diseñada por Mr. Christian Lacroix. Nueva colección Mujer OI21 Desigual.
 - Desigual mujer - Chaqueta corta de mujer de borreguito diseñada por Mr. Christian Lacroix.
 - Machine Wash Cold Inside Out, Mild Wash
+- Diseñada por Mr. Christian Lacroix
 - Estampado de cenefas dibujadas por el mismo tejido de borreguito
 
 [🛒 Visítala!!!]({{< param buyurl >}})

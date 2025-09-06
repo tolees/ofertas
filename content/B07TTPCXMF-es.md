@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Compartimento principal con cremallera con bolsillo con cremallera, compartimentos para el móvil, el boli y la cartera o llavero
-- 2 bolsillos frontales con cremallera
 - 2 bolsillos frontales abiertos
+- 2 bolsillos frontales con cremallera
+- Compartimento principal con cremallera con bolsillo con cremallera, compartimentos para el móvil, el boli y la cartera o llavero
 - Bolsillo trasero con cremallera
 
 [🛒 Visítala!!!]({{< param buyurl >}})

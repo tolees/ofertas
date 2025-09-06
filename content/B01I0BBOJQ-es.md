@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color: Marrón
 - EXTRALIGHT XL para una mayor ligereza y amortiguación
+- Color: Marrón
 - Empeine: Piel (Piel vacuna)
 - Suela/Características: EVA para mayor ligereza
 - Tiras elásticas para un fácil ajuste

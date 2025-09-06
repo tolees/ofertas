@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Diseño moderno
-- Teléfono celular
 - Requiere configuración
+- Teléfono celular
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CGVP8NRC{{</world>}}

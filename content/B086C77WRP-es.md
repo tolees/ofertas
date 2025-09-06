@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto útil y práctico
-- Dexeryl cremapompe
 - Peso: 500 gramos
+- Dexeryl cremapompe
 - Diseño elegante y creativo
 - Marca: dexeryl
+- Producto útil y práctico
 - Dimensiones del producto: 8 x 8 x 23 cm
 - Calidad óptima para los requisitos del cliente
 

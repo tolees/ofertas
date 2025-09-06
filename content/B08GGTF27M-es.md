@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Probado por pediatras – La calidad de los productos para bebés y niños de Johnsons Baby está rigurosamente avalada por pediatras y dermatólogos
 - Detalles del envío – Johnsons Baby Pure Protect Jabón de manos para niños, jabón desinfectante de manos suave que cuida la piel, con ingredientes naturales, 1 x 300 ml
+- Probado por pediatras – La calidad de los productos para bebés y niños de Johnsons Baby está rigurosamente avalada por pediatras y dermatólogos
 - Limpieza suave – Este jabón de manos líquido está especialmente formulado para los niños, y limpia la suciedad y las impurezas al mismo tiempo que protege su delicada piel
 - Fórmula hipoalergénica – Este gel niños para las manos no contiene sulfatos, colorantes, ftalatos ni alcohol por lo que es ideal para la piel delicada de los niños
 - Con ingredientes naturales – Con ingredientes como la miel, el té verde o el rooibos, este jabón para las manos limpia suavemente y deja un aspecto saludable en la piel

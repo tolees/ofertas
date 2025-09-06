@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- LISTO PARA EL USO AÉREO
 - cremalleras en las piernas
+- LISTO PARA EL USO AÉREO
 - Corte regular; cintura mediana
 - 100% poliéster reciclado (tejido liso)
 - Cintura elástica con cordón

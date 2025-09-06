@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Cintura elástica con marcas PUMA
 - Material tejido ligero
-- Logotipo de gato PUMA brillante en la pierna izquierda
 - 100% poliéster
+- Logotipo de gato PUMA brillante en la pierna izquierda
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09MWJDRRG{{</world>}}

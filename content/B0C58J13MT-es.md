@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Leggings gym con longitud total que acompaña en cada movimiento de manera cómoda
-- Leggings stretch niña se adaptan muy bien al cuerpo para movimientos óptimo
-- Cintura alta y elástica para ajuste firme y más sujeción durante el movimiento
-- 2 bonitas unicolor leggings de niños en corte ceñido para renovar el armario de las chicas
 - Estos leggings deportiva tienen costuras con relieve bajo para mayor comodidad
+- Cintura alta y elástica para ajuste firme y más sujeción durante el movimiento
+- Leggings stretch niña se adaptan muy bien al cuerpo para movimientos óptimo
+- 2 bonitas unicolor leggings de niños en corte ceñido para renovar el armario de las chicas
+- Leggings gym con longitud total que acompaña en cada movimiento de manera cómoda
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C58J13MT{{</world>}}

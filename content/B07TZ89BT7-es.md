@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Salida: 5.1 V
 - Rango de entrada de operación: 96-264 V
+- Salida: 5.1 V
 - Conector de salida: USB-C
 - Protección contra cortocircuito, sobrecorriente y sobretemperatura
 

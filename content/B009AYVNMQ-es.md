@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Capacidad de almacenamiento de 1000 GB
 - Velocidad de rotación de 5.400 revoluciones por minuto
+- Capacidad de almacenamiento de 1000 GB
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B009AYVNMQ{{</world>}}

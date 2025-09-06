@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- COLORANTE PARA CHOCOLATE. Da a tus creaciones un toque de color espectacular con estos colorantes en polvo. Consigue un color fuerte e intenso. Fácil de dispersar y mezclar, puedes crear una variedad de diferentes tonos de color a tu gusto
 - USO. Mezclar el producto directamente en la masa a colorear. Para la decoración de superficies, aplicar el producto con un pincel y, si es necesario, diluir con alcohol etílico. Puede aplicarse directamente con ayuda de un pincel sobre icing y figuras modeladas para dar toques de color. También puede utilizarse como pintura o colorante líquido si se mezcla con alcohol para decorar flores, utilizando un pincel suave
-- CANTIDAD. Contiene 10 G. La dosis recomendada es 1 g por cada 1 kg de masa
+- COLORANTE PARA CHOCOLATE. Da a tus creaciones un toque de color espectacular con estos colorantes en polvo. Consigue un color fuerte e intenso. Fácil de dispersar y mezclar, puedes crear una variedad de diferentes tonos de color a tu gusto
 - COLORANTE EN POLVO. Colorante para pintar en tartas con una pigmentación de alta calidad dado su grado de pureza y concentración
+- CANTIDAD. Contiene 10 G. La dosis recomendada es 1 g por cada 1 kg de masa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09XBG3ZZ1{{</world>}}

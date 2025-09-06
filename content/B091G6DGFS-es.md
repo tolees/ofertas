@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- País de Origen: Vietnam
+- Conservar en lugar limpio, fresco y seco. Mantener alejado de la acción de la luz solar.
 - Alérgenos: Puede contener trazas de cacahuetes, de otros frutos de cáscara, soja, leche y derivados.
 - Ingredientes: ANACARDOS
-- Conservar en lugar limpio, fresco y seco. Mantener alejado de la acción de la luz solar.
+- País de Origen: Vietnam
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B091G6DGFS{{</world>}}

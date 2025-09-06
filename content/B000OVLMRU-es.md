@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Distancia mínima de enfoque de solamente 3.5 m
-- Optica de cristal ecológico, sin plomo ni arsénico
-- Juntas tóricas y gas nitrógeno que proporcionan mayor resistencia ante los factores climáticos
 - Campo de visión amplio
+- Juntas tóricas y gas nitrógeno que proporcionan mayor resistencia ante los factores climáticos
+- Optica de cristal ecológico, sin plomo ni arsénico
 - Resistente al agua y antiempañamiento
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

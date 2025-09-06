@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- NUEVA CÁMARA INSTANTÁNEA NOW: Capture y conserve sus momentos cotidianos para siempre con la cámara de película instantánea Polaroid Now i-Type.
+- A TODO COLOR: Polaroid Now Generation 2 está disponible en 4 colores vibrantes, incluidos negro, panda, rojo y azul. Correa para el cuello y cable de carga USB incluidos.
+- NUEVO Y MEJORADO: Nuestra nueva cámara instantánea analógica Now Generation 2 ahora está fabricada con un 40 % de materiales reciclados y la batería interna de iones de litio se carga a través de USB-C
 - POINT. SHOOT. KEEP FOREVER: ahora la cámara es compatible tanto con la película i-Type como con la película 600. La película se vende por separado.
 - DOBLE EXPOSICIÓN: la cámara Now puede encuadrar dos momentos en uno con doble exposición, o aparecer en la foto con el disparador automático y un flash preciso para que todos se vean como deberían.
-- NUEVO Y MEJORADO: Nuestra nueva cámara instantánea analógica Now Generation 2 ahora está fabricada con un 40 % de materiales reciclados y la batería interna de iones de litio se carga a través de USB-C
-- A TODO COLOR: Polaroid Now Generation 2 está disponible en 4 colores vibrantes, incluidos negro, panda, rojo y azul. Correa para el cuello y cable de carga USB incluidos.
+- NUEVA CÁMARA INSTANTÁNEA NOW: Capture y conserve sus momentos cotidianos para siempre con la cámara de película instantánea Polaroid Now i-Type.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BVN4LLMQ{{</world>}}

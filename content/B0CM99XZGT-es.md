@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Iluminación Led:Mayor visibilidad y menor consumo de energía utilizando tecnología LED que ilumina todo el interior.
 - Botellero (Estante Interior):Espacio diseñado exclusivo para guardar botellas, ahorra espacio y facilita la organización interior.
+- Iluminación Led:Mayor visibilidad y menor consumo de energía utilizando tecnología LED que ilumina todo el interior.
 - Cajón Frutas Y Verduras:Mantiene la temperatura y humedad ideal para preservar la frescura y el aroma. Su diseño transparente permite visualizar fácilmente el interior.
-- Metal Back:Panel metálico que cubre la parte trasera del frigorífico ofreciendo mayor seguridad y protección.
 - Voltaje y potencia: 220 Voltios y 141 KvH.
+- Metal Back:Panel metálico que cubre la parte trasera del frigorífico ofreciendo mayor seguridad y protección.
 - Congelador Freeze Zone:Pequeño congelador para guardar artículos congelados, bolsas de hielo o cubitos de hielo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

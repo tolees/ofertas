@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Suela de goma de aspecto vulcanizado
-- Parte superior de nobuk sintético
-- La parte superior contiene al menos un 50% de material reciclado
 - Horma clásica
 - Tirador de tela en el talón
+- La parte superior contiene al menos un 50% de material reciclado
+- Parte superior de nobuk sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CKY2BQ78{{</world>}}

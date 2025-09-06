@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'Canal Toys - So Slime - Super Cubo de Slime Mix  in con Decoraciones SDO. - SSC148'
+date: 2025-09-05 08:57:15
+image: 'https://m.media-amazon.com/images/I/411FlDPjnUL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B08DG5W5J7-es Canal Toys - So Slime - Super Cubo de Slime Mix in con...'
+sku: 'B08DG5W5J7-es'
+tags: [ '3-4 años','Arborist Merchandising Root','Juguetes','Juguetes y juegos','Masas viscosas para jugar','Regalos originales y de broma','Self Service','Special Features Stores','b6d17eda-2c26-45ed-a098-453a9f96e839_0','b6d17eda-2c26-45ed-a098-453a9f96e839_1801','so slime','🇪🇸', ]
+actualPrice: 8.24 EUR
+currency: EUR
+price: 8.24
+comparePrice: 14.99 EUR
+prodname: 'Canal Toys - So Slime - Super Cubo de Slime Mix  in con Decoraciones SDO. - SSC148'
+country: 'es'
+flag: '🇪🇸'
+brand: 'So Slime'
+buyurl: 'https://www.amazon.es/dp/B08DG5W5J7/?tag=tolees-21'
+descuento: '45.03'
+average: '8.24'
+---
+
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Contenido: 1 cubo o barril 4 sobres de 250g de slime 4 tipos de decoraciones
+- Ventajas: ¡tu slime ya listo para usar!
+- Seguridad: cumple con los requisitos de seguridad de la ue; slime no tóxico, no contiene pegamento
+- Súper cubo de 1kg de slime mixin
+
+[🛒 Visítala!!!]({{< param buyurl >}})
+{{<world>}}B08DG5W5J7{{</world>}}

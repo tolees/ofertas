@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cook in app: aplicación para smartphone / tablet que proporciona consejos, trucos, recetas y información sobre los alimentos
 - Plato giratorio de grandes dimensiones (24,5 cm)
+- Cook in app: aplicación para smartphone / tablet que proporciona consejos, trucos, recetas y información sobre los alimentos
 - Eliminación del sonido de los pulsadores y aviso final de cocción
 - Función eco: apagado del display
 - 40 programas automáticos: el microondas te recomendará el tiempo y la potencia de cocción de todos tus platos

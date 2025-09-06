@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ofrece comodidad y libertad de movimiento
-- Cintura elástica
 - Corte entallado
+- Cintura elástica
 - Tela suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

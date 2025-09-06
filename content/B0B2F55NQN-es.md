@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Procesador Intel Core i5-12400F (HexaCore), 2,50 GHz
-- Almacenamiento de 512 GB SSD PCI Express
 - Sistema Operativo: Windows 11 Home
+- Procesador Intel Core i5-12400F (HexaCore), 2,50 GHz
 - Tarjeta gráfica NVIDIA GeForce RTX 3060Ti - 8GB
+- Almacenamiento de 512 GB SSD PCI Express
 - Memoria RAM de 16 GB DDR4 SDRAM
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

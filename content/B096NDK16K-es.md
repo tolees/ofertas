@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ojales reforzados
 - Cierre de velcro
+- Ojales reforzados
 - Parte con paneles de malla
-- Horma clásica
 - Suela de EVA de una sola pieza
+- Horma clásica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B096NDK16K{{</world>}}

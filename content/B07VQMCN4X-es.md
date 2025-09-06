@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 1 vaso te aporta el 50% de la cdr de omega 3
-- Regula el colesterol
-- Puleva omega 3 de siempre con nueces; haz que tus desayunos sean más sabrosos
 - Los ácidos grasos omega 3.ayudan a tener un corazón sano
+- Regula el colesterol
+- 1 vaso te aporta el 50% de la cdr de omega 3
+- Puleva omega 3 de siempre con nueces; haz que tus desayunos sean más sabrosos
 - Único lácteo con omega 3, que incorpora ácido oleico
 
 [🛒 Comprar!!!]({{< param buyurl >}})

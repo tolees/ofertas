@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Espuma frustrada
 - Insertos perforados en la punta
+- Espuma frustrada
 - Lengua ultraimbottita
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

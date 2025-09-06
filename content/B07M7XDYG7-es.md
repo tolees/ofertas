@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Incluye 15 tarjetas de actividades de doble cara y una guía de actividades en varios idiomas
 - Cubre conceptos básicos de matemáticas para niños de 6 años de edad
 - Las actividades van desde simples ejercicios de valor posicional hasta ejercicios para calcular el volumen de ciertas figuras
 - Las 30 actividades incluidas son compatibles con el plan de estudios nacional
 - Los niños podrán aprender la multiplicación y la división, las fracciones y la medición
-- Incluye 15 tarjetas de actividades de doble cara y una guía de actividades en varios idiomas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07M7XDYG7{{</world>}}

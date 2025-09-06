@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vida útil: hasta 30.000 h
 - LED replacement for conventional compact fluorescent lamps for use in CCG luminaires or on AC mains
-- Base plug-in 2G10 de casquillo simple de cuatro pines
-- Reemplazo rápido, simple y seguro sin recablear
+- Vida útil: hasta 30.000 h
 - Tipo de protección: IP20
+- Reemplazo rápido, simple y seguro sin recablear
+- Base plug-in 2G10 de casquillo simple de cuatro pines
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B097PXJ1MW{{</world>}}

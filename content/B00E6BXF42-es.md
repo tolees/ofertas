@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Patrón sólido
 - Cierre: sin cordones
+- Patrón sólido
 - Puntera cerrada
 - Bandas elásticas: fácil de instalar.
 

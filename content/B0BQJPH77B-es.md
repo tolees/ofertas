@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre de coulisse ajustable
 - Bolsa deportiva
+- Cierre de coulisse ajustable
 - Logotipo de Adidas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

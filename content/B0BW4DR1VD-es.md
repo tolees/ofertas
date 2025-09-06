@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro interior
 - Dimensiones: 11 x 23 x 7 cm
-- Estuche portatodo rectangular de tres compartimentos
 - Cuerpo repelente a líquidos fabricado con material reciclado
+- Estuche portatodo rectangular de tres compartimentos
+- Forro interior
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BW4DR1VD{{</world>}}

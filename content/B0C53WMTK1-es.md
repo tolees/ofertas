@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior de ante
 - Forro textil
-- Cierre de cordones
 - Mediasuela con amortiguación
+- Cierre de cordones
+- Parte superior de ante
 - Horma clásica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

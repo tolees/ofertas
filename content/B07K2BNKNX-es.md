@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Hecho de 67% algodón, 28% poliéster y 5% elastano
+- Cómodo de llevar
 - Ajuste excepcional y una sensación suave en la piel
 - Te da una sensación suave y ligera
-- Cómodo de llevar
-- Hecho de 67% algodón, 28% poliéster y 5% elastano
 - Slip de hombre clásico y suave
 
 [🛒 Visítala!!!]({{< param buyurl >}})

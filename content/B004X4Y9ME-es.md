@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Esfera con efecto rayos del sol en color champán con manecillas e índices en tono dorado; escala de minutos interior en negro
 - Correa de cuero marrón miel con cierre de hebilla
 - Resistente al agua hasta 30 m
-- Esfera con efecto rayos del sol en color champán con manecillas e índices en tono dorado; escala de minutos interior en negro
 - Lente de cristal mineral ligeramente abovedada
 
 [🛒 Comprar!!!]({{< param buyurl >}})

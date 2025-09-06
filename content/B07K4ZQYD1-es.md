@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Modelo casual
 - Ofrece comodidad todo el día
-- Tiene estampado el logotipo de Levis
 - Este producto es original Levis
+- Tiene estampado el logotipo de Levis
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07K4ZQYD1{{</world>}}

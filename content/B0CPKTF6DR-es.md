@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ideales a partir de 6 años, estos juguetes de construcción ayudan a fomentar la creatividad y a desarrollar la capacidad de resolución de problemas.
 - Las piezas pueden combinarse con todos los conjuntos de construcción de Pokémon de MEGA y son compatibles con las principales marcas.
+- Ideales a partir de 6 años, estos juguetes de construcción ayudan a fomentar la creatividad y a desarrollar la capacidad de resolución de problemas.
 - Incluye 3 Pokémon construibles: Squirtle, Psyduck y Finneon
 - Conjunto de construcción con bloque de movimiento: gira la manivela para activar el movimiento de los Pokémon
 - Officially licensed by The Pokémon Company International

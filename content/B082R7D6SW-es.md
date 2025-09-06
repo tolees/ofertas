@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tecnología DMX
 - Amortiguación DMX
+- Tecnología DMX
 - Parte superior en piel/tela
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

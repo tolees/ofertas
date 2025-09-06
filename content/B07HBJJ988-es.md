@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Conservar en un lugar fresco, seco y oscuro. Una vez abierto, volver a sellar lo más hermético posible
-- Con salmón fresco; carne y derivados animales: aprox. un 27%
-- Sin soja, cebada ni productos lácteos añadidos
-- Con biotina, zinc y salmón: una fuente natural de Omega 3 para mantener la piel y el cabello sanos
-- Sin aromas, colores o conservantes artificiales
-- Con glucosamina y condroitina para mejorar las articulaciones; Con taurina para tener la vista y el corazón saludables
 - Diseñada por nutricionistas de animales y revisada por veterinarios
 - Una receta sabrosa con proteínas de alta calidad
+- Sin aromas, colores o conservantes artificiales
+- Sin soja, cebada ni productos lácteos añadidos
+- Con biotina, zinc y salmón: una fuente natural de Omega 3 para mantener la piel y el cabello sanos
+- Conservar en un lugar fresco, seco y oscuro. Una vez abierto, volver a sellar lo más hermético posible
+- Con salmón fresco; carne y derivados animales: aprox. un 27%
+- Con glucosamina y condroitina para mejorar las articulaciones; Con taurina para tener la vista y el corazón saludables
 - Comida para perros adultos: nutrición 100% completa y equilibrada
 - Prebióticos naturales para mejorar la digestión sensible
 

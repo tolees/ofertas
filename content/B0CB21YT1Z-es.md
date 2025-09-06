@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Skechers Detalle del logotipo
 - Entresuela que absorbe los golpes
+- Skechers Detalle del logotipo
 - Cierre de cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

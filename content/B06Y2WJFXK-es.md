@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Fácil de usar, aplicar y aclarar
-- Limpiador versátil para toda la moto
 - Limpia en minutos
+- Limpiador versátil para toda la moto
 - Recomendado para piezas, carrocerías y fibra de carbono
 
 [🛒 Visítala!!!]({{< param buyurl >}})

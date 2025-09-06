@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste regular para el uso diario
 - PUMA Marca para el estilo
+- Ajuste regular para el uso diario
 - Tejido de algodón cómodo
 - Camiseta de manga corta con logotipo
 

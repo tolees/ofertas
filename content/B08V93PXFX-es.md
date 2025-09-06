@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño ligero que se adapta a la forma del pie
 - Paquete de 3 pares
+- Diseño ligero que se adapta a la forma del pie
 - Amortiguación dirigida
 - Tela suave
 

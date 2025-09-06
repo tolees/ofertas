@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Peso de 0,14 kg y volumen de 1 litro
-- Estuche mediano con capacidad para hasta 50 bolígrafos
-- 11,5 cm de alto x 21 cm de ancho x 5 cm de profundidad
-- Repele el agua
 - 100% poliamida
+- Estuche mediano con capacidad para hasta 50 bolígrafos
+- Peso de 0,14 kg y volumen de 1 litro
+- Repele el agua
+- 11,5 cm de alto x 21 cm de ancho x 5 cm de profundidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07V2HDLFF{{</world>}}

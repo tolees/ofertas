@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Costuras decorativas
-- Rampa
 - Tela superior
+- Rampa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BNJLXB4T{{</world>}}

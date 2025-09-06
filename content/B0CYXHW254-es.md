@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Horma clásica
 - Panel alrededor del tobillo y forro de malla
 - Cierre de cordones
+- Horma clásica
 - Puntera de ante
 - Empeine de piel sintética
 

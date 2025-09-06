@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cerrojo de seguridad
-- Placa en acero de 2 mm.
 - Apertura mediante llave desde el exterior de la puerta y mediante pulsador desde el interior de la puerta
+- Cerrojo de seguridad
 - Barra calibrada de 14 mm
+- Placa en acero de 2 mm.
 - Bombillo de 40 mm
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con tapa dura y 80 hojas de papel de 80 gr.
-- en espiral y pautado en cuadrícula
 - Libreta en tamaño A4
+- en espiral y pautado en cuadrícula
+- Con tapa dura y 80 hojas de papel de 80 gr.
 - Incluye una hoja de pegatinas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

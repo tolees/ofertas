@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contenido: NYX Professional Makeup Pintalabios Soft Matte Lip Cream, Tono: Abu Dhabi, 8 ml
-- Aroma sutil y dulce
 - Utiliza su aplicador o una brocha para labios desde el centro hacia el exterior para conseguir unos labios jugosos, Dejar secar
+- Aroma sutil y dulce
 - Irresistible pintalabios de un tono beige rosáceo, Perfecto para cada tono de piel
+- Contenido: NYX Professional Makeup Pintalabios Soft Matte Lip Cream, Tono: Abu Dhabi, 8 ml
 - Pintalabios ligero y cremoso muy pigmentado y de acabado mate
 
 [🛒 Comprar!!!]({{< param buyurl >}})

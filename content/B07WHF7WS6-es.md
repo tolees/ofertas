@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material exterior: Tejido
 - Material de la suela: Caucho
 - Cierre: Cordones
+- Material exterior: Tejido
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07WHF7WS6{{</world>}}

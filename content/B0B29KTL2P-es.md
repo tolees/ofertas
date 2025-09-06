@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Confeccionado con sarga ligera y un toque de elasticidad extra
-- Un chino short moderno y ligero con corte estándar
 - Largo justo por encima de la rodilla
-- Este producto es original Levis
 - Tiene un estampado de desierto por toda la prenda
+- Un chino short moderno y ligero con corte estándar
+- Este producto es original Levis
+- Confeccionado con sarga ligera y un toque de elasticidad extra
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B29KTL2P{{</world>}}

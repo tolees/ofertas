@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalla 14" 2.8K (2880 x 1800), IPS-Level, 100% DCI-P3 (Typical)
-- Procesador Intel Core Ultra 7 155H
-- Color Stellar Gray
-- Memoria 8GB x 2, DDR5-5600, Almacenamiento 1TB x 1 NVMe SSD PCIe Gen4
 - Gráfica NVIDIA GeForce RTX 4050
+- Color Stellar Gray
+- Procesador Intel Core Ultra 7 155H
+- Memoria 8GB x 2, DDR5-5600, Almacenamiento 1TB x 1 NVMe SSD PCIe Gen4
+- Pantalla 14" 2.8K (2880 x 1800), IPS-Level, 100% DCI-P3 (Typical)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D3VHJDGH{{</world>}}

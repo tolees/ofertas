@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Forro textil
 - Horma clásica
 - Cierre de cordones
-- Forro textil
 - Suela de goma cosida
 
 [🛒 Comprar!!!]({{< param buyurl >}})

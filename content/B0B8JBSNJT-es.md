@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Incluye 8 hojas de pegatinas para planificarte de una manera divertida, dos cintas de registro, un balance de gastos, ingresos y ahorros, páginas para anotar tus contraseñas y 10 hojas de notas al final de tu agenda.
-- Interior Semana Vista. Disposición de los días en cuadrícula. De lunes a jueves en página impar y de viernes a domingo en página par junto con un espacio para notas. Está decorado con preciosos diseños de galaxias en diferentes colores pastel. Además, al inicio de cada mes incluye textos relacionados con cada horóscopo.
-- Encuadernación flexible con apertura de 360º, perfecta y práctica para llevarlo a todas partes
-- Tamaño A5: 15 x 21 cm. Sus medidas son ideales para organizarte cómodamente. Su papel es de alta calidad (100 gr)
 - Dietario: Español e inglés
 - Agenda Anual 2023 Aura. ¡Organiza tu rutina al completo con tu Agenda 2023 Aura!
+- Interior Semana Vista. Disposición de los días en cuadrícula. De lunes a jueves en página impar y de viernes a domingo en página par junto con un espacio para notas. Está decorado con preciosos diseños de galaxias en diferentes colores pastel. Además, al inicio de cada mes incluye textos relacionados con cada horóscopo.
+- Incluye 8 hojas de pegatinas para planificarte de una manera divertida, dos cintas de registro, un balance de gastos, ingresos y ahorros, páginas para anotar tus contraseñas y 10 hojas de notas al final de tu agenda.
+- Tamaño A5: 15 x 21 cm. Sus medidas son ideales para organizarte cómodamente. Su papel es de alta calidad (100 gr)
+- Encuadernación flexible con apertura de 360º, perfecta y práctica para llevarlo a todas partes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B8JBSNJT{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Vaqueros clásicos de 5 bolsillos
-- Calidad probada
-- Bolsillos traseros
 - Vaqueros ajustados con cintura alta
+- Calidad probada
+- Vaqueros clásicos de 5 bolsillos
+- Bolsillos traseros
 - Pierna estrecha y talle alto
 
 [🛒 Aquí!!!]({{< param buyurl >}})

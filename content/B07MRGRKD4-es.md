@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela de tracción de goma flexible
 - Parte superior de punto de malla plana suave con cordones elásticos en la parte delantera
 - Diseño deportivo sin cordones
+- Suela de tracción de goma flexible
 - Entresuela ligera y flexible que absorbe los golpes
 
 [🛒 Comprar!!!]({{< param buyurl >}})

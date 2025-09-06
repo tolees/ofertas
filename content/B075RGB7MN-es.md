@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tejidos GORE Selected Fabrics: Altamente transpirables con rápida evacuación del sudor
-- Badana que se ajusta perfectamente, Mallas cortas elásticas, Trabillas en la cintura para unir con los pantalones
-- Talle ajustado/Corte específico para ciclismo
 - Mallas de hombre para cualquier condición meteorológica
+- Talle ajustado/Corte específico para ciclismo
+- Badana que se ajusta perfectamente, Mallas cortas elásticas, Trabillas en la cintura para unir con los pantalones
+- Tejidos GORE Selected Fabrics: Altamente transpirables con rápida evacuación del sudor
 - GORE C3 Liner Mallas cortas, Talla: M, Color: negro, 100128
 
 [🛒 Visítala!!!]({{< param buyurl >}})

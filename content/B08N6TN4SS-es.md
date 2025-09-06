@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Paw Patrol - Mini lámpara LED
-- Un bonito regalo para un fan de la Patrulla Canina
-- Funciona con pilas - 3 pilas AA - no incluidas en el suministro
 - Con un botón en la base para el encendido y apagado manual - Pulsa el botón ON/OFF una vez para luz blanca fija y dos veces para luz que cambia de color
 - En caja de regalo con ventana de 10 x 10 x 19 cm
+- Funciona con pilas - 3 pilas AA - no incluidas en el suministro
+- Paw Patrol - Mini lámpara LED
+- Un bonito regalo para un fan de la Patrulla Canina
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08N6TN4SS{{</world>}}

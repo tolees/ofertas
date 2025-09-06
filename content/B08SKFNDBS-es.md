@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Mallas ESS Logo Leggings Light Gray Heather
 - Los productos deportivos de la marca Puma están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
-- Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
-- Mallas para practicar Tiempo libre y sportwear de mujer
 - Ropa deportiva Gris de la marca Puma
+- Mallas para practicar Tiempo libre y sportwear de mujer
+- Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08SKFNDBS{{</world>}}

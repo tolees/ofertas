@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elegante parte superior y entresuela ligera
-- Entresuela FuelFoam Suela con toda la superficie en goma
 - Cuello del tobillo en textil acolchado
 - Parte superior en malla panelada con superposiciones
+- Entresuela FuelFoam Suela con toda la superficie en goma
+- Elegante parte superior y entresuela ligera
 - Trabilla con logotipo en el talón y la lengüeta
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

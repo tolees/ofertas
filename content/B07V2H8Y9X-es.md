@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Hidrófugo
 - 2.31kg peso x 27L volumen
 - 48 altura x 32.5 ancho x 25 profundidad cm
-- Hidrófugo
 - Mochila grande con ruedas para niños con compartimento para el portátil
 - 100% Poliéster
 

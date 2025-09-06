@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clinique All About Eyes Rich Bálsamo Anti Ojeras y Hinchazón - 15 ml'
-date: 2025-08-20 13:10:14
+date: 2025-09-06 06:59:17
 image: 'https://m.media-amazon.com/images/I/41nj9R5fWSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Clinique'
 buyurl: 'https://www.amazon.es/dp/B000UJHB4Y/?tag=tolees-21'
 descuento: '39.37'
-average: '24.7808333333332'
+average: '24.716923076923'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Productos de belleza y el cuidado personal
-- Tipo de producto: Locion anti-imperfecciones
 - Marca: Clinique
+- Tipo de producto: Locion anti-imperfecciones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B000UJHB4Y{{</world>}}

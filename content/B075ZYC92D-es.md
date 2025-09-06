@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Nuevo look, ajuste excelente
-- Cristal una comunicación clara
-- Construcción robusta.
 - Gaming en un mayor niveles
+- Nuevo look, ajuste excelente
+- Construcción robusta.
+- Cristal una comunicación clara
 - Perfecta adaptación
 
 [🛒 Visítala!!!]({{< param buyurl >}})

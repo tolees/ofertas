@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte clásico
 - Punto 100% algodón
+- Corte clásico
 - Apoya a Better Cotton Initiative
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

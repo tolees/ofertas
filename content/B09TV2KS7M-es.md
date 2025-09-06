@@ -31,8 +31,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - La loción está especialmente desarrollada para las pieles sensibles al sol, se absorbe rápidamente y proporciona horas de hidratación para calmar la piel sensible al sol
 - El paquete contiene: 1 unidad x 400 ml
 - La loción para pieles sensibles al sol de PIZ BUIN es resistente al sudor y al agua
-- Contiene Calmanelle, un complejo protector y anti-irritante que refuerza las defensas de la piel contra los rayos UV e incrementa la tolerancia al sol
 - Esta loción de protección alta ha sido desarrollada con un sistema de filtros solares UVA/UVB de Piz Buin
+- Contiene Calmanelle, un complejo protector y anti-irritante que refuerza las defensas de la piel contra los rayos UV e incrementa la tolerancia al sol
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09TV2KS7M{{</world>}}

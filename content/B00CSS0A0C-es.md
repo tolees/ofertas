@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Vástago hexagonal de ¼" (vástago ISO 1173 – C 6,3) con anillos de color para identificar claramente las puntas
 - 31 puntas Solid para tornillos de distintos tamaños con arrastre por ranura, estrella, TORX y hexágono interior, incl. soporte de puntas magnético
 - caja plegable de dos componentes de alta calidad con pinza para sujetar al cinturón
-- Vástago hexagonal de ¼" (vástago ISO 1173 – C 6,3) con anillos de color para identificar claramente las puntas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00CSS0A0C{{</world>}}

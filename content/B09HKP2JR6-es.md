@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tecnología transpirable AEROREADY
-- Corte clásico con cintura de talle medio
+- 100% poliéster (reciclado)
 - Bolsillos en las costuras laterales
 - Cintura elástica con cordón
+- Corte clásico con cintura de talle medio
+- Tecnología transpirable AEROREADY
 - Compra una talla más grande
-- 100% poliéster (reciclado)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09HKP2JR6{{</world>}}

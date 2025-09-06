@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre de cordones
-- Recomendado para: pronadores neutros
 - Drop del talón a los dedos: 9 mm
+- Cierre de cordones
 - Tipo de superficie: Correr por carretera
+- Recomendado para: pronadores neutros
 - Tracción gracias a la goma por zonas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

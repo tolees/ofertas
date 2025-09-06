@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Fómula con aire inyectado y cepillo que recoge todas las pestañas, incluso las mas cortas
+- Pestañas ligeras y flexibles durante 24H
+- Aplica desde la raíz hasta el final de la pestaña haciendo ligeros movimientos de Zig Zag para ir separándolas poco a poco
 - Máscara de pestañas para volumen ligero como el aire
 - LOréal Paris Air Máscara de pestañas para un volumen extremo, ligero como el aire
-- Aplica desde la raíz hasta el final de la pestaña haciendo ligeros movimientos de Zig Zag para ir separándolas poco a poco
-- Pestañas ligeras y flexibles durante 24H
-- Fómula con aire inyectado y cepillo que recoge todas las pestañas, incluso las mas cortas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08CCKF5GX{{</world>}}

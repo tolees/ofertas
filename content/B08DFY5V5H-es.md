@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Champú anti amarillo
 - Para cabello rubio
+- Champú anti amarillo
 - Botella 350 ml
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

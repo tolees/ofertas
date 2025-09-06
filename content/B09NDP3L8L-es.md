@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Interlock 100% poliéster reciclado
-- Tecnología transpirable AEROREADY
 - Corte clásico
+- Tecnología transpirable AEROREADY
+- Interlock 100% poliéster reciclado
 - Bolsillos en las costuras laterales
 
 [🛒 Aquí!!!]({{< param buyurl >}})

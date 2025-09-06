@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Parche de cuero con logo y OSFM = 56 cm
+- Construcción de 6 paneles con forma de J
 - Visera curvada
 - Características incluyen: tejido: tejido liso en sarga de poliéster
-- Parche de cuero con logo y OSFM = 56 cm
 - Gorra de béisbol para mujer
-- Construcción de 6 paneles con forma de J
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0825PNS4B{{</world>}}

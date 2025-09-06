@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Para fiestas temáticas de Star Wars, Halloween, bailes de disfraces, juegos de rol, juegos de aventuras y travesuras.
-- Marca: Hasbro Star Wars
 - Adecuada para adultos y niños
+- Marca: Hasbro Star Wars
+- Para fiestas temáticas de Star Wars, Halloween, bailes de disfraces, juegos de rol, juegos de aventuras y travesuras.
 - Tipo de producto: máscara
 
 [🛒 Aquí!!!]({{< param buyurl >}})

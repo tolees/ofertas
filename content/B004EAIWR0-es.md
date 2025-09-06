@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Graduación alcohólica: 38%
 - Toques sedosos y elegantes; una combinación de canela ligera, vainilla, miel y sabores herbáceos, equilibrada con las notas ligeramente ahumadas y de chocolate negro
+- Don Julio Reposado se destila en alambiques forrados de cobre y es envejecido en barriles de roble blanco americano durante ocho meses
 - Don Julio nace del amor por la familia, la tierra y los agaves de su fundador, Don Julio González, quien trajo valor al mundo del tequila dedicando 45 años a optimizar su oficio y técnicas pioneras; fruto de la pasión y la lealtad, Don Julio es un tequila muy apreciado por los expertos
 - Para disfrutarlo en un Don Julio Paloma, con zumo de pomelo rosa, lima fresca y azúcar vainillado, o solo con hielo
-- Don Julio Reposado se destila en alambiques forrados de cobre y es envejecido en barriles de roble blanco americano durante ocho meses
+- Graduación alcohólica: 38%
 - Siguiendo la tradición e historia de los tequilas Don Julio, Don Julio Reposado se elabora con una gran devoción
 - Un tequila maduro de color ámbar dorado, con sabores particulares y un final rico y suave
 

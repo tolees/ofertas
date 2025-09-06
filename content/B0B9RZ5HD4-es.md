@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Este producto es ajustable a la vista
-- Este estilo es la talla M
 - Lentes de colores modernos que proporcionan una gran protección a la luz solar
 - Forma macho rectangular modificada
+- Este producto es ajustable a la vista
+- Este estilo es la talla M
 - GAFAS DE SOL LACOSTE L988S MATTE CRYSTAL 54/18/145 PARA HOMBRE
 
 [🛒 Comprar!!!]({{< param buyurl >}})

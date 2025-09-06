@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Camiseta de manga corta
 - Detalles distintivos de la marca
 - Adecuada para practicar deporte
-- Camiseta de manga corta
 - Con cuello redondo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

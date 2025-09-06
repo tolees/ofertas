@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Aprende a descifrar mensajes en código Morse y descubre secretos ocultos del espacio profundo; con el manual de instrucciones incluido, serás capaz de descifrar el significado de los códigos Amplía tu capacidad de exploración espacial
-- Contenido: 1 astronauta, cápsula lunar, 1 estación de comunicaciones
 - Construye y juega: Ponte manos a la obra y haz volar tu imaginación con este divertido y educativo juguete
+- Aprende a descifrar mensajes en código Morse y descubre secretos ocultos del espacio profundo; con el manual de instrucciones incluido, serás capaz de descifrar el significado de los códigos Amplía tu capacidad de exploración espacial
 - Constrúyela tú mismo y gira el mando para sintonizar diferentes canales con luz y sonidos: ¿quién sabe lo que puedes encontrar?
+- Contenido: 1 astronauta, cápsula lunar, 1 estación de comunicaciones
 - Recomendado a partir de 6 años
 
 [🛒 Visítala!!!]({{< param buyurl >}})

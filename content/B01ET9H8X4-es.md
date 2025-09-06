@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Levis Pestaña roja cosida en el labio
-- El sombrero mide aproximadamente 25 cm con el puño doblado una vez
 - El sombrero mide aproximadamente 17 cm con puño doblado dos veces
+- El sombrero mide aproximadamente 25 cm con el puño doblado una vez
 - Información de tallas del sombrero: 1 talla: se estira para adaptarse cómodamente de 55 cm a 61 cm.
+- Levis Pestaña roja cosida en el labio
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01ET9H8X4{{</world>}}

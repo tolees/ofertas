@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tiene detalles distintivos de la marca
-- Cintura elástica ajustable con cordón
 - Diseño ligero que ofrece comodidad
+- Cintura elástica ajustable con cordón
 - Falda con pantalón interior
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para artículo nr. T 06 012
 - Rosca 1 F10X1
+- Para artículo nr. T 06 012
 - Longitud de 455 mm
 - Rosca 2 M10X1
 

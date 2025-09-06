@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Medidas: 20 x 9 x 6,7 cm.
 - Estuche portatodo ovalado semirrígido que ofrece una gran protección. Serie 1918, color azul marino. Inspirada en los colores y diseño originales de las gomas de borrar MILAN.
 - Compartimento interior de malla e interior aterciopelado, para proteger el contenido de posibles rasguños. Ideal para llevar cables, complementos electrónicos o incluso gafas.
 - Composición tejido: exterior de poliéster y E.V.A, forro interior de poliéster.
+- Medidas: 20 x 9 x 6,7 cm.
 - Tejido exterior ripstop: ligero y resistente a la rotura y rasgaduras. Utiliza una técnica especial que teje hilos gruesos de refuerzo a intervalos regulares en un patrón entrecruzado.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

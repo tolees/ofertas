@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillo tipo canguro
-- Producto con ajuste regular
 - Detalles distintivos de la marca
+- Producto con ajuste regular
+- Bolsillo tipo canguro
 - Tela suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

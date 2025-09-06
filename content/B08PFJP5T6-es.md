@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Silueta de bota baja
 - Parte superior de ante completa
+- Silueta de bota baja
 - Entresuela de goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

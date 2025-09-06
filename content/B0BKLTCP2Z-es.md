@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- S.Café
 - estampado en el pecho
-- Tela de jersey de punto técnico
 - Solapa delantera abotonada
 - Cuello acanalado para mayor comodidad.
+- Tela de jersey de punto técnico
+- S.Café
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BKLTCP2Z{{</world>}}

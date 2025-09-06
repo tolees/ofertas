@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte de ripstop con refuerzos sintéticos
-- Horma clásica
 - Mediasuela de EVA
+- Horma clásica
+- Parte de ripstop con refuerzos sintéticos
 - Cierre de cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

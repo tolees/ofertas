@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cacao tostado
 - Absoluto de osmanto
 - Melocotón con miel y Pétalos de freesia
+- Cacao tostado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D67DDRHH{{</world>}}

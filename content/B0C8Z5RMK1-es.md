@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte regular
 - Logotipo de la marca
+- Corte regular
 - Cuello redondo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

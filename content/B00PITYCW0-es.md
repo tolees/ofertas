@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gracias a la facilidad de colocación de gancho en la hamaca decides cómo alta o baja quieres estar.
 - En esta hamaca de algodón pueden estar cómodamente hasta dos personas.
+- Gracias a la facilidad de colocación de gancho en la hamaca decides cómo alta o baja quieres estar.
 - Con la bolsa de transporte y gracias al fácil montaje, el mundo es una zona para relajarse.
 - Tapas de goma le permiten montar con seguridad este soporte en el interior. Dijeron que no se podía hacer una hamaca INTERIOR
 

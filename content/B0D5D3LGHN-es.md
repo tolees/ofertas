@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- RESISTENCIA MILITAR: Disfuta de tu música en cualquier lugar con el LG XBOOM Go XG8T. Probado y certificado según los estándares militares de EE. UU. Ofreciendo una durabilidad y un rendimiento máximo.
-- SONIDO POTENTE Y NÍTIDO: Con 60W de potencia, sus 2 woofers de 8 pulgadas produce graves profundos y dos tweeters de 3 pulgadas diseñados para crear un sonido nítido mejorando la respuesta en alta frecuencia.
 - QUE NADA TE PARE: Su batería de hasta 15 horas y su resistencia al agua y polvo IP67 te permite disfrutar de la música en cualquier lugar durante más tiempo.
 - ILUMINACIÓN DE AMBIENTE PERSONALIZABLE: Sus luces laterales crean un espectáculo de colores que combinan con el ritmo de la música. Vincula canciones y elige entre 16 millones de colores con la app XBOOM.
+- SONIDO POTENTE Y NÍTIDO: Con 60W de potencia, sus 2 woofers de 8 pulgadas produce graves profundos y dos tweeters de 3 pulgadas diseñados para crear un sonido nítido mejorando la respuesta en alta frecuencia.
+- RESISTENCIA MILITAR: Disfuta de tu música en cualquier lugar con el LG XBOOM Go XG8T. Probado y certificado según los estándares militares de EE. UU. Ofreciendo una durabilidad y un rendimiento máximo.
 - AUMENTA LA DIVERSIÓN: Sound Boost amplifica la potencia de sonido y amplía su campo. Pulsa el botón para levantar el ánimo de la fiesta.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Apt para recién
-- Cushiony hoja base suave y formulación suave, fragancia y libre de alcohol
-- Limpieza suave que no se sequen la piel de tu little uno
 - La limpieza suave de algodón de pureza de y el agua y el práctico de un limpiador
+- Limpieza suave que no se sequen la piel de tu little uno
+- Cushiony hoja base suave y formulación suave, fragancia y libre de alcohol
 - La Fundación Británica del piel valida investigación Huggies en la piel sana
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

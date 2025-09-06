@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tecnología avanzada: el zapato de senderismo impermeable Redmond III cuenta con nuestra membrana Omni-Tech con diseño sellado con costuras. Se combina con nuestra entresuela ligera Techlite, para un confort duradero, con una amortiguación superior y retorno de alta energía.
-- Calzado de montaña resistente: la combinación perfecta de alta función con rendimiento diseñados en este calzado ideal para senderismo. Estos zapatos servirán para todos los terrenos.
-- Diseñados para la comodidad: las superposiciones de cuero sintético proporcionan protección a través de una parte superior de malla y gamuza para un ajuste excepcional y un apoyo mejorado, mientras que una lengüeta reforzada ayuda a mantener fuera el polvo y la suciedad.
 - Diseño reforzado: diseñados para viajar sobre mojado, hemos reforzado las barreras de la puntera y el talón, y hemos ampliado la suela exterior y añadido una envoltura en la puntera para proteger estos puntos clave de desgaste, mientras que los resistentes ojales metálicos superiores de los cordones aseguran el ajuste.
+- Calzado de montaña resistente: la combinación perfecta de alta función con rendimiento diseñados en este calzado ideal para senderismo. Estos zapatos servirán para todos los terrenos.
+- Tecnología avanzada: el zapato de senderismo impermeable Redmond III cuenta con nuestra membrana Omni-Tech con diseño sellado con costuras. Se combina con nuestra entresuela ligera Techlite, para un confort duradero, con una amortiguación superior y retorno de alta energía.
+- Diseñados para la comodidad: las superposiciones de cuero sintético proporcionan protección a través de una parte superior de malla y gamuza para un ajuste excepcional y un apoyo mejorado, mientras que una lengüeta reforzada ayuda a mantener fuera el polvo y la suciedad.
 - Tracción para todo tipo de terrenos: nuestra exclusiva suela de goma de tracción Omni-Grip que no deja marcas proporciona un agarre seguro en una amplia variedad de senderos y superficies, y aún así es segura y no provoca rozaduras en el interior.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

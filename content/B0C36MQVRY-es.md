@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Presentan detalles distintivos de la marca
-- Cuenta con un diseño ligero
 - Artículo de marca Jack & Jones
+- Cuenta con un diseño ligero
+- Presentan detalles distintivos de la marca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C36MQVRY{{</world>}}

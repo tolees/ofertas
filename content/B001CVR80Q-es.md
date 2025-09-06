@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Interior: textil.
-- Composición del material: lona y piel.
-- Cierre: cordones.
 - Ancho de la caña: normal.
+- Cierre: cordones.
 - Suela: goma.
+- Composición del material: lona y piel.
 - Exterior: piel.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

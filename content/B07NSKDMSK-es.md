@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Para los fans de Dragon Ball
-- Set de 9 imanes
+- SD toys Set A Imanes Dragon Ball, Color (SDTDRB22152)
 - SD toys Set A Imanes Dragon Ball, Color (SDTDRB22152)
 - Originales imanes
-- SD toys Set A Imanes Dragon Ball, Color (SDTDRB22152)
+- Set de 9 imanes
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07NSKDMSK{{</world>}}

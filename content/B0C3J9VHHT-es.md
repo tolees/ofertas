@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Parte textil
 - Cierre de cordones
-- Suela de goma para todo tipo de ficies
 - Forro textil
+- Suela de goma para todo tipo de ficies
 - Horma clásica
 
 [🛒 Comprar!!!]({{< param buyurl >}})

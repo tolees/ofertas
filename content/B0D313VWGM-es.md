@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Vida al aire libre
 - Tiene detalles distintivos de la marca, la misma es Puma
+- Vida al aire libre
 - Bolsa de lona
 
 [🛒 Aquí!!!]({{< param buyurl >}})

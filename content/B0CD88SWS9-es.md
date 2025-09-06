@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ofrece una comodidad óptima
 - Con detalles de encaje
+- Ofrece una comodidad óptima
 - Tiene un tejido ligero y suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})

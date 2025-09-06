@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Levis Mens 233658-728 Turner 2.0 SNEAKERS, Blue, 7 UK
+- Brand: Levis
+- Size: 7 UK
 - Product type: SHOES
 - Color: Blue
-- Size: 7 UK
-- Brand: Levis
+- Levis Mens 233658-728 Turner 2.0 SNEAKERS, Blue, 7 UK
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08NFCN2PF{{</world>}}

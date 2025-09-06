@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Protección solar de amplio espectro frente a los rayos UVA y UVB, con la inigualable tecnología SolaSheer de Olay
 - Piel visiblemente más luminosa en 1 día
-- Piel hidratada durante 24 horas
-- En 14 días, la piel tendrá una apariencia suave y restaurada
-- Ligera, no grasa y nutritiva
-- Actúa contra las manchas
 - Crema de día SPF 30 con vitamina C y niacinamida
+- Piel hidratada durante 24 horas
+- Actúa contra las manchas
+- Ligera, no grasa y nutritiva
+- En 14 días, la piel tendrá una apariencia suave y restaurada
+- Protección solar de amplio espectro frente a los rayos UVA y UVB, con la inigualable tecnología SolaSheer de Olay
 - Con el tiempo, reduce la apariencia de manchas oscuras e hiperpigmentación
 
 [🛒 Aquí!!!]({{< param buyurl >}})

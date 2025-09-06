@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Adecuado para el deporte y el tiempo libre
-- Camiseta cerrado con cremallera
 - Hecho 100% de poliéster
+- Camiseta cerrado con cremallera
 - Chándal completo, chaqueta y pantalón
 
 [🛒 Aquí!!!]({{< param buyurl >}})

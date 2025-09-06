@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Entresuela acolchada de aire Skech-Air
 - Skechers Plantilla acolchada de espuma viscoelástica
 - Diseño deportivo con cordones
+- Entresuela acolchada de aire Skech-Air
 - Parte de malla y sintética
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

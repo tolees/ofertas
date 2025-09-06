@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- AEROREADY
-- Cintura elástica con cordón ajustable
 - Dobladillo con las costuras laterales abiertas
-- Punto doble 100% poliéster reciclado
 - Corte clásico
+- Punto doble 100% poliéster reciclado
 - Bolsillos con cremallera
+- Cintura elástica con cordón ajustable
+- AEROREADY
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQWX6NCD{{</world>}}

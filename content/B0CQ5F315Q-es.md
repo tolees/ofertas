@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los WORLD MIX es un irresistible surtido de caramelos de goma y geles dulces con distintos sabores, colores y texturas. .¡Disfruta con los clásicos de siempre!
-- Variedad multicolor para grandes y pequeños
 - Disfruta en casa de la alegría y diversión en cualquier momento
+- Variedad multicolor para grandes y pequeños
+- Los WORLD MIX es un irresistible surtido de caramelos de goma y geles dulces con distintos sabores, colores y texturas. .¡Disfruta con los clásicos de siempre!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CQ5F315Q{{</world>}}

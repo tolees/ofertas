@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto de la marca Oregon
 - Material de calidad
+- Producto de la marca Oregon
 - Ofrece un resultado óptimo y adecuado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

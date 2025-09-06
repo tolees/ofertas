@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo en el pie izquierdo
-- Hecho de 100% poliéster
 - Cintura de goma con cordón
+- Hecho de 100% poliéster
+- Logotipo en el pie izquierdo
 - Material que evacúa el sudor
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

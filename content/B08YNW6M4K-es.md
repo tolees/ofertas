@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cremallera y bolsillos: Añaden practicidad a la prenda. Resumen:
 - Confección en poliéster: Proporciona una prenda ligera y resistente.
 - Capucha incorporada: Ofrece protección contra el clima.
+- Cremallera y bolsillos: Añaden practicidad a la prenda. Resumen:
 - Diseño moderno con corte ajustado: Maximiza la movilidad en la cancha.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

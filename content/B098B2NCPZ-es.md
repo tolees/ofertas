@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El ajuste regular es perfecto: no demasiado apretado ni demasiado holgado
 - Los materiales certificados por bluesign utilizan solo productos químicos seguros y reducen el impacto tanto en las personas como en el planeta durante la fabricación.
+- El ajuste regular es perfecto: no demasiado apretado ni demasiado holgado
 - Tejido de secado rápido y muy transpirable.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

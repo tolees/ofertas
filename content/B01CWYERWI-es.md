@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- This invigorating blend of Neem, Pomegranate and Mint will leave behind a cooling sensation on the tongue and gums, creating a refreshing, soothing feeling while removing bacteria,supportting your oral health and stopping bad breath.
 - ANTI-OXIDANT: Pomegranate, which is an astringent fruit extract, helps support healthy-looking gums by tightening the tissues. This natural toothpaste helps reduce and prevent bleeding gums, gum inflammations, and other dental problems.
+- This invigorating blend of Neem, Pomegranate and Mint will leave behind a cooling sensation on the tongue and gums, creating a refreshing, soothing feeling while removing bacteria,supportting your oral health and stopping bad breath.
 - Mints antibacterial properties help to eliminate bad odour and and prevent cavities. Mint also leaves behind a cooling sensation and imparts fresh breath.
-- ALL NATURAL FLUORIDE FREE TOOTHPASTE: Neem and Triphala clean teeth and give this formulation its ability to remove plaque and surface stains. They work to keep the mouth clean and give you a natural radiant smile.
 - NO ARTIFICIAL INGREDIENTS: NO Fluoride, NO Sodium Lauryl Sulfate (SLS), NO Carrageenan. NO harsh abrasives, yet it tastes and foams wonderfully.
+- ALL NATURAL FLUORIDE FREE TOOTHPASTE: Neem and Triphala clean teeth and give this formulation its ability to remove plaque and surface stains. They work to keep the mouth clean and give you a natural radiant smile.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01CWYERWI{{</world>}}

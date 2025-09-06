@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Puños y dobladillo de canalé
+- Cuello redondo de canalé
 - 100% algodón
 - Corte clásico
-- Cuello redondo de canalé
 - Compra una talla más pequeña
 
 [🛒 Visítala!!!]({{< param buyurl >}})

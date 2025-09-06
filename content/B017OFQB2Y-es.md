@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Modelo: 79961
 - Producto de calidad
 - Fácil de limpiar
-- Modelo: 79961
 - No se requiere ensamblaje
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tarjeta gráfica integrada Intel Iris Xe Graphics
 - Almacenamiento de 512GB SSD M.2 NVMe PCIe
+- Sistema Operativo: Windows 11 Pro
 - Memoria RAM de 16GB SO-DIMM DDR4
 - Procesador Intel Core i5-1235U (10C/DecaCore 4.4GHz, 12MB)
 - Pantalla de 14" Full HD 1920 x 1080 pixeles LCD 250 nits
-- Tarjeta gráfica integrada Intel Iris Xe Graphics
-- Sistema Operativo: Windows 11 Pro
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C65M3P8H{{</world>}}

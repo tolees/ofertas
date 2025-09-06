@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Imágenes y videoclips: guarde videos e fotos en su teléfono inteligente a través de la aplicación mydlink o de forma remota en su almacenamiento personal en la nube mydlink
-- Detección inteligente de personas: distinga a las personas de otros objetos en movimiento para reducir las falsas alarmas
 - Cámara de alta calidad: zoom digital de 4x, visualización nocturna de hasta 5 m y resolución full hd de 1080p que proporciona una imagen clara de su hogar o negocio
-- Detección de movimiento y sonido: envía automáticamente notificaciones de alerta con foto al móvil del usuario
+- Detección inteligente de personas: distinga a las personas de otros objetos en movimiento para reducir las falsas alarmas
 - Compatible con router de cualquier operadora, muy fácil de instalar desde app gratuita mydlink, no requiere ordenador
+- Imágenes y videoclips: guarde videos e fotos en su teléfono inteligente a través de la aplicación mydlink o de forma remota en su almacenamiento personal en la nube mydlink
+- Detección de movimiento y sonido: envía automáticamente notificaciones de alerta con foto al móvil del usuario
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00PS1NTQ8{{</world>}}

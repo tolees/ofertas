@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cierre de cordones
 - 55% algodón / 36% poliéster (reciclado) / 9% viscosa
 - Bolsillos laterales
-- Cierre de cordones
 - Corte holgado
 - Contiene al menos un 70% de material reciclado y renovable
 

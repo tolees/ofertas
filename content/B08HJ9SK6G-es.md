@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Diseno funcional
-- De la marca HAWKERS
 - Materiales resistentes
+- De la marca HAWKERS
 - Alta calidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

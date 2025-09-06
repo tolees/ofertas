@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estilo clásico, zapatillas de ocio.
 - Forro extraíble FILA Pro Comfort Foam Insock.
+- Estilo clásico, zapatillas de ocio.
 - Construcción vulcanizada de calidad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Capucha de tres piezas con cordón ajustable
-- Rain Defender - Acabado resistente al agua
-- Ajuste correcto
 - Forro polar con diseño de viento
+- Rain Defender - Acabado resistente al agua
+- Capucha de tres piezas con cordón ajustable
+- Ajuste correcto
 - Windfighter - Detener el viento
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

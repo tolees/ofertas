@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Material exterior: lona
 - Tipo de tacón: plano
 - Cierre: cordón
-- Material exterior: lona
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQJQ5DT6{{</world>}}

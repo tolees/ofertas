@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Recambio Oxford que está compuesto por 120 hojas de tamaño A4
-- Las hojas son cuadriculadas y tienen 4 taladros
 - Con un gramaje de 90
+- Las hojas son cuadriculadas y tienen 4 taladros
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00XUA3HJS{{</world>}}

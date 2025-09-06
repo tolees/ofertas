@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Compacto y fácil de transportar a zonas que son susceptibles en la calidad del aire
 - Con modo noche: especialmente silencioso y con panel tenue
-- Purificador de aire para espacios hasta 15m2 con 3 niveles de filtración y temporizador
+- Compacto y fácil de transportar a zonas que son susceptibles en la calidad del aire
 - 3 niveles de ventilación y función ionizador que se puede activar con el toque de un solo botón
+- Purificador de aire para espacios hasta 15m2 con 3 niveles de filtración y temporizador
 - Limpieza del aire mediante un sistema de filtrado de 3 capas: pre-filtro, filtro HEPA y filtro de carbón activo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

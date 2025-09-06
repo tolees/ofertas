@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tecnología transpirable AEROREADY
+- Corte clásico
 - Cierre de cremallera y cuello alzado
 - Tejido técnico 100% poliéster reciclado
-- Corte clásico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09T6TMMYC{{</world>}}

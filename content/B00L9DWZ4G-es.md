@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte superior de gamuza para mayor durabilidad y textil para mayor transpirabilidad
-- Logotipo de alta definición impreso
 - Suela de goma antideslizante y resistente a la abrasión
+- Logotipo de alta definición impreso
+- Parte superior de gamuza para mayor durabilidad y textil para mayor transpirabilidad
 - Forro de malla
 - Vulcanizados para una excelente sensación de tabla y suela elástica
 

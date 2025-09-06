@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Crema de protección solar muy alta.
+- Con acción antiedad.
+- Ideal como base de maquillaje.
 - Redensifica y unifica la tez.
 - Para pieles sensibles.
-- Ideal como base de maquillaje.
-- Con acción antiedad.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B085SDHG18{{</world>}}

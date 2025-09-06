@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre: cordones
 - Material interior: poliuretano
+- Cierre: cordones
 - Suela: Caucho
 
 [🛒 Aquí!!!]({{< param buyurl >}})

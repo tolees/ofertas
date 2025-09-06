@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ofrece comodidad y libertad de movimiento
-- Artículo de marca Pepe Jeans
 - Tiene detalles distintivos de la marca
+- Artículo de marca Pepe Jeans
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB47TC6T{{</world>}}

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Llaves en INCH:0,028; 0,036; 0,05; 1/16; 5/64; 3/32; 7/64; 1/8; 9/64; 5/32; 3/16; 7/32; 1/4; 5/16 und 3/8 INCH
-- Juego de llaves Profesionales para bici, moto, auto en acero al cromo-vanadio
 - Juego llaves Allen en Pulgadas. Juego 30 llaves en INCH + métrica
-- Llaves en MM: 0,7; 0,9; 1,27; 1,5; 2,0; 2,5; 4,0; 4,5; 5,0; 5,5; 6,0; 7,0; 8,0; 10,0 mm, largo
 - Compra garantizada 6 meses. Solo falta contactar con werkzeugbar de
+- Juego de llaves Profesionales para bici, moto, auto en acero al cromo-vanadio
+- Llaves en MM: 0,7; 0,9; 1,27; 1,5; 2,0; 2,5; 4,0; 4,5; 5,0; 5,5; 6,0; 7,0; 8,0; 10,0 mm, largo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00IOO3Y8Y{{</world>}}

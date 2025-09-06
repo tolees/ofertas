@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Sentirás que tú piel está más suave y radiante
-- Sometido a pruebas de alergia
 - Exfolia la piel, sin secarla
 - No contiene alcohol
+- Sometido a pruebas de alergia
 - Loción 100% sin perfume
 
 [🛒 Aquí!!!]({{< param buyurl >}})

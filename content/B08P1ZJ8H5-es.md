@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ataque mech strike: los vengadores crearon sus propias armaduras para hacer frente a la asombrosa amenaza de thanos y su armadura infinity. ¿serán suficientes estas herramientas para derrotarlo
-- Material duradero
 - Mech strike: thanos lleva la armadura de batalla infinity mech strike y un arma de doble filo que puedes girar. Está armado y listo para combatir contra los vengadores
 - Colecciona: busca más juguetes mech strike, un gran regalo para niños y niñas, incluyendo las figuras de iron man y pantera negra con armadura definitiva. Cada una se vende por separado; sujeto a disponibilidad
+- Material duradero
+- Ataque mech strike: los vengadores crearon sus propias armaduras para hacer frente a la asombrosa amenaza de thanos y su armadura infinity. ¿serán suficientes estas herramientas para derrotarlo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08P1ZJ8H5{{</world>}}

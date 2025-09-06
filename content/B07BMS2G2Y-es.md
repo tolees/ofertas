@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dimensiones: 260 x 135 cm
-- Cubre tendedero impermeable para lluvia
-- Material: Plástico
 - Otras aplicaciones: protege contra el polvo, evitar manchas de pintura
+- Cubre tendedero impermeable para lluvia
+- Dimensiones: 260 x 135 cm
 - Con aroma de limón
+- Material: Plástico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07BMS2G2Y{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El. Osborne Bailén. tiene un bonito color ámbar brillante. con reflejos verdes
 - Intensos aromas de vainilla y avellanas propios de su envejecimiento
-- Grado alcohólico: 20% Vol
-- Acompaña quesos curados como el Manchego, Ideazábal o Parmesano; también es ideal junto a guisos de carne, caza o incluso el atún a la parrilla; fantástico por sí mismo como aperitivo
 - Muy elegante y complejo, muestra notas de vainilla dulce, café tostado y madera de cedro; seco y persistente
+- Grado alcohólico: 20% Vol
+- El. Osborne Bailén. tiene un bonito color ámbar brillante. con reflejos verdes
+- Acompaña quesos curados como el Manchego, Ideazábal o Parmesano; también es ideal junto a guisos de carne, caza o incluso el atún a la parrilla; fantástico por sí mismo como aperitivo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08QPDXT2N{{</world>}}

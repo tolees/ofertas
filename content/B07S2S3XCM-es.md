@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Detalles con el logo de Levis
 - Ajuste regular
+- Detalles con el logo de Levis
 - Ajuste regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})

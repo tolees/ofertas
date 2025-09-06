@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Mediciones de hasta 12 usuarios
+- 4 g de sensor: detección inmediata del peso corporal, pantalla LCD grande, visible, diseño delgado, soporta hasta 180 kg
 - Body analyzer: medida de agua corporal, masa muscular y masa grasa
 - Modalidad Atleta: reparámetra los datos considerando las variables en caso de actividad deportiva
-- 4 g de sensor: detección inmediata del peso corporal, pantalla LCD grande, visible, diseño delgado, soporta hasta 180 kg
 - Modo niño: se activa automáticamente para niños menores de 12 años
-- Mediciones de hasta 12 usuarios
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07VGH4Z81{{</world>}}

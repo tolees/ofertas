@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte normal
 - Cuello redondo
+- Corte normal
 - Tirantes con logotipo en color de contraste
 
 [🛒 Aquí!!!]({{< param buyurl >}})

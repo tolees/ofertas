@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Camiseta deportiva
 - Tela suave
 - Ofrece comodidad y libertad de movimiento
-- Camiseta deportiva
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C8YYBW43{{</world>}}

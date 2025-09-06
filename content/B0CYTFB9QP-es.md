@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Amortiguación LIGHTMOTION
 - Horma clásica
+- Cierre de cordones
 - Suela Adiwear
 - Forro textil y sintético
-- Cierre de cordones
+- Amortiguación LIGHTMOTION
 - Empeine textil y de malla sintética
 
 [🛒 Comprar!!!]({{< param buyurl >}})

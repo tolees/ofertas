@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- en tejido de algodón ligero con stretch
 - Pantalón chino
 - comfort slim fit
-- en tejido de algodón ligero con stretch
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CCPL16R6{{</world>}}

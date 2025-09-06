@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Reserva, D.O.Ca. Rioja
 - Maridaje: arroz, verduras, caza y carnes rojas acompañan al vino Viña Pomal Reserva
-- Nota de cata (vista): picota intenso, con ribete rubí de marcada intensidad
+- Reserva, D.O.Ca. Rioja
 - Nota de cata (boca): persistente, con el equilibrio de los grandes Riojas
+- Nota de cata (vista): picota intenso, con ribete rubí de marcada intensidad
 - Varietales: tempranillo 100%
 
 [🛒 Comprar!!!]({{< param buyurl >}})

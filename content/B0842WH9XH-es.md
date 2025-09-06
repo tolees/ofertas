@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Este producto es original Levis
 - Con trabillas para cinturón
 - Ofrecen una comodidad óptima
 - Estilo casual
-- Este producto es original Levis
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0842WH9XH{{</world>}}

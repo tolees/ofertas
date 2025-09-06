@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El interruptor de luz inteligente Meross se puede usar con Apple HomeKit (iOS 13 o posterior), Apple Watch, Alexa y Google Assistant para administrar el dispositivo mediante el control por voz. Solo tienes que decir «Oye Siri, enciende las luces» y podrás disfrutar de una vida cómoda e inteligente. Los conmutadores HomeKit ofrecen opciones ilimitadas que se adaptan a tus necesidades
 - Consejo para la solución de problemas Asegúrese de tener instalado iOS 13.0 o superior en su dispositivo móvil. Inicia sesión en el router de tu casa y comprueba la contraseña WiFi de 2,4 GHz. Desactiva temporalmente el filtrado de direcciones MAC, los controles parentales y el firewall del router, y reinicia el router. No configures la conexión WiFi de 2,4 GHz como «oculta»; coloca el dispositivo inteligente cerca del router doméstico, restablécelo a los ajustes de fábrica y vuelve a configurarlo. Vuelva a instalar la aplicación Meross o pruebe con otro smartphone
+- El interruptor de luz inteligente Meross se puede usar con Apple HomeKit (iOS 13 o posterior), Apple Watch, Alexa y Google Assistant para administrar el dispositivo mediante el control por voz. Solo tienes que decir «Oye Siri, enciende las luces» y podrás disfrutar de una vida cómoda e inteligente. Los conmutadores HomeKit ofrecen opciones ilimitadas que se adaptan a tus necesidades
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07ZQW518B{{</world>}}

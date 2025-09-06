@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Vestido de punto con cuello redondo
+- Composición: 50% viscosa Ecológica, 28% poliéster, 22% nailon
 - Mangas largas
 - Tejido acanalado
-- Composición: 50% viscosa Ecológica, 28% poliéster, 22% nailon
+- Vestido de punto con cuello redondo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0968P4TCH{{</world>}}

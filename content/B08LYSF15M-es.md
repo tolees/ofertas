@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillo en el pecho con cremallera ykk
-- Primaloft black
-- Bolsillos con forro interior cepillado
 - Cremallera ykk
+- Bolsillos con forro interior cepillado
+- Primaloft black
+- Bolsillo en el pecho con cremallera ykk
 - Artículos entregados: 1x helly hansen mens crew insulator jacket 2.0 - insulator navy l
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

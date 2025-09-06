@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Caja y cubierta de acero galvanizado
-- Frentes de acero zincado en blanco; picaporte, palanca y cilindro niquelados
-- Palanca deslizante 11 mm de ancho; picaporte reversible accionado por manilla
 - No incluye cerradero ni escudo
 - Cerradura ideal para perfiles de hierro, entrada 13, 5 mm; solo requiere 27 mm de profundidad en perfil
+- Frentes de acero zincado en blanco; picaporte, palanca y cilindro niquelados
+- Palanca deslizante 11 mm de ancho; picaporte reversible accionado por manilla
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00ITVQB0U{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fórmula vegana (sin ingredientes de origen animal ni derivados)
-- Sin silicona para una sensación natural del cabello
-- Limpieza instantánea
 - Hidrata hasta 72 horas. Prueba instrumental
+- Limpieza instantánea
+- Sin silicona para una sensación natural del cabello
+- Fórmula vegana (sin ingredientes de origen animal ni derivados)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C27ZQC4K{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Detalles distintivos de Tommy Hilfiger
 - Ofrece una comodidad óptima
+- Detalles distintivos de Tommy Hilfiger
 - Cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

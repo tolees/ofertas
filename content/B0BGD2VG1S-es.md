@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Paneles de cuero y gamuza
+- Pestaña con logotipo impreso en la lengüeta
 - Plantilla moldeada
 - Logotipo impreso en el panel del talón y ventana
-- Pestaña con logotipo impreso en la lengüeta
 - Cuello y lengüeta acolchados en el tobillo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

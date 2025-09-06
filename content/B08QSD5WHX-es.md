@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adecuado para correr o para cualquier otra actividad deportiva
 - Cinturón elástico
 - Ajuste delgado
+- Adecuado para correr o para cualquier otra actividad deportiva
 - Tejido elástico; Dri-FIT
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

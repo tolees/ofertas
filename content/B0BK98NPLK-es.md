@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Detalles de la marca PUMA en la parte superior, el talón y la lengüeta.
-- Suela de goma
 - Parte superior de cuero sintético
+- Suela de goma
 - Entresuela de goma
+- Detalles de la marca PUMA en la parte superior, el talón y la lengüeta.
 - Franja característica PUMA en los lados lateral y medial
 
 [🛒 Aquí!!!]({{< param buyurl >}})

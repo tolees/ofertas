@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡Con este fantástico Kit podrás encontrar hasta 10 recambios de Slime y podrás conseguir hasta 100 combinaciones de Slime diferentes! ¿Estás preparado?
+- ¡Usa el Bol, añade los polvos de Slime, un poco de agua y agítalo con la herramienta!
 - ¡Inventa tu combinación de Slime!
 - ¡Listo, tan sólo falta añadir las decoraciones a tu gusto y guardarlo en su bote! Slime arcoiris, Slime de golosina, Slime metálico, Slime de pastel, Slime bicolor...
-- ¡Usa el Bol, añade los polvos de Slime, un poco de agua y agítalo con la herramienta!
+- ¡Con este fantástico Kit podrás encontrar hasta 10 recambios de Slime y podrás conseguir hasta 100 combinaciones de Slime diferentes! ¿Estás preparado?
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09NYKT6DC{{</world>}}

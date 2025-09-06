@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Capacidad 100 hojas
-- Formato Fº
-- Hecha con material 100% reciclado
 - Fabricada en cartulina de 170gr
+- Hecha con material 100% reciclado
+- Formato Fº
 - Color kraft
 
 [🛒 Visítala!!!]({{< param buyurl >}})

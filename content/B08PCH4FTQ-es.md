@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Rendimiento de nivel profesional para cámaras de acción, drones o smartphones Android
-- Aprovecha la tecnología UHS-I para ofrecer velocidades de lectura de hasta 160 MB/s (1066x)
 - Cargue aplicaciones más rápido con la increíble velocidad A2
+- Aprovecha la tecnología UHS-I para ofrecer velocidades de lectura de hasta 160 MB/s (1066x)
+- Rendimiento de nivel profesional para cámaras de acción, drones o smartphones Android
 - Capture rápidamente imágenes de alta calidad, Full-HD y 4K UHD de longitud extendida
 - Incluye adaptador SD
 

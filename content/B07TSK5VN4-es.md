@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Perfect Stay Waterproof & Long Lasting es un delineador de larga duración
-- Ofrece una aplicación suave
-- No mancha, no se mueve y es fácil de difuminar
 - Delineador de larga duración y resistente al agua
+- No mancha, no se mueve y es fácil de difuminar
 - Ofrece un acabado
+- Ofrece una aplicación suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07TSK5VN4{{</world>}}

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- COMPATIBILIDAD: Compatible con iOS 15 & Android OS 9.0
 - FASES Y PUNTUACIÓN DEL SUEÑO: Inspire 2 registra el tiempo que pasas en las fases de sueño ligero, profundo y REM y ofrece una Puntuación del sueño en la aplicación de Fitbit. Así podrás entender mejor tu sueño y mejorar tu descanso.
-- DURACIÓN DE LA BATERÍA: Hasta 10 días
-- ACTIVIDAD DIARIA: Todo lo que haces en tu día a día te acerca a tus objetivos: por eso Fitbit Inspire 2 monitoriza tus pasos, la distancia recorrida y las calorías que quemas.
 - MONITORIZACIÓN CONTINUA DEL RITMO CARDIACO: Utiliza la monitorización continua del ritmo cardiaco para controlar mejor la quema de calorías, optimizar los entrenamientos y conocer tus tendencias, lo que te inspirará a avanzar en tus objetivos de salud y forma física.
 - Descubre más sobre tu salud y bienestar con los 6 meses de subcripción al servicio Fitbit Premium incluidos
+- ACTIVIDAD DIARIA: Todo lo que haces en tu día a día te acerca a tus objetivos: por eso Fitbit Inspire 2 monitoriza tus pasos, la distancia recorrida y las calorías que quemas.
+- COMPATIBILIDAD: Compatible con iOS 15 & Android OS 9.0
+- DURACIÓN DE LA BATERÍA: Hasta 10 días
 - MINUTOS EN ZONA ACTIVA: Esta función te avisa en qué zona de ritmo cardiaco te encuentras para que veas si te estás esforzando lo suficiente para alcanzar tus objetivos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

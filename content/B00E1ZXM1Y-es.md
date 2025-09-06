@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Caja: acero inoxidable de grado médico (316l)/negro/40 mm de diámetro/9 mm de espesor
-- El cristal de zafiro es resistente a golpes y rayaduras
-- Solar Watch Collection; Cualquier tipo de luz lo cargará y, cuando esté completamente cargado, funcionará durante 6-12 meses; Solar
-- Resistente al agua hasta 5 ATM/50 metros/168 pies | Resistencia general a salpicaduras, duchas, períodos cortos de natación, pero no al esnórquel o buceo
-- Correa: acero inoxidable de grado médico (316l)/negro/203 mm de largo/24 mm de ancho
 - El reloj incluye la caja original de BERING
+- Correa: acero inoxidable de grado médico (316l)/negro/203 mm de largo/24 mm de ancho
+- Solar Watch Collection; Cualquier tipo de luz lo cargará y, cuando esté completamente cargado, funcionará durante 6-12 meses; Solar
+- El cristal de zafiro es resistente a golpes y rayaduras
+- Caja: acero inoxidable de grado médico (316l)/negro/40 mm de diámetro/9 mm de espesor
+- Resistente al agua hasta 5 ATM/50 metros/168 pies | Resistencia general a salpicaduras, duchas, períodos cortos de natación, pero no al esnórquel o buceo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00E1ZXM1Y{{</world>}}

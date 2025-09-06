@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalón con elástico en el bajo
-- Tipo de deporte: calcio
-- Compuesto, compuesto
 - Bolsillos laterales, puños en tejido acanalado
 - Sudadera con cremallera, pantalón con cremallera en el bajo
-- Tuta visa fluo
+- Tipo de deporte: calcio
+- Compuesto, compuesto
 - 100% poliéster triacetato, logotipos bordado
+- Tuta visa fluo
+- Pantalón con elástico en el bajo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01CYKC7V8{{</world>}}

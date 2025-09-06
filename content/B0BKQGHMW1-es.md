@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiro de entrepierna caído
 - Pantalón chino de ajuste holgado
 - Pierna cónica
+- Tiro de entrepierna caído
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BKQGHMW1{{</world>}}

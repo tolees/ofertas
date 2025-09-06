@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Libreta Mr.Wonderful - Mister
-- Libreta con encuadernación en espiral y laminado antirrayaduras en su portada.
 - Cuenta con 200 páginas.
+- Libreta con encuadernación en espiral y laminado antirrayaduras en su portada.
 - Incluye 3 hojas de pegatinas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

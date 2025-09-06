@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Cómodo de llevar
 - Este es un producto auténtico y original PUMA
-- asegura un ajuste óptimo
 - Este estilo ha sido producido de manera sostenible
+- asegura un ajuste óptimo
 - Ideal para todas las ocasiones y estaciones
 
 [🛒 Visítala!!!]({{< param buyurl >}})

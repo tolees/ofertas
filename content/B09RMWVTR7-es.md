@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- DESARROLLO ESPECIAL PARA NIÑOS: Los niños se divertirán con este puzzle desarrollando su capacidad de observación, su coordinaciónojo.mano, motricidad fina y su pensamieno lógico
 - A partir de 2 años
 - PUZZLE EDUCATIVO: Une las piezas de este puzzle hasta formar esta simpática familia de osos!
 - CONTENIDO: Puzzle de 16 piezas de cartón XXL
+- DESARROLLO ESPECIAL PARA NIÑOS: Los niños se divertirán con este puzzle desarrollando su capacidad de observación, su coordinaciónojo.mano, motricidad fina y su pensamieno lógico
 - PRIMEROS JUEGOS: ¡Aprendizaje y diversión con Puzzle XXL - Bear Family de Goula!
 
 [🛒 Visítala!!!]({{< param buyurl >}})

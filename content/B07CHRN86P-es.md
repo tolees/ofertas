@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Compatible con: Companion HF80CB10 HF805813 HF806RECE30 HF807E10 HF906B10
 - Fácil de usar: mezcla y cocinar directamente en el mini bol
 - Apto para el lavavajillas
 - Como accesorio para cocinar y servir
 - Se adapta a Cuisine Companion y Cuisine iCompanion
-- Compatible con: Companion HF80CB10 HF805813 HF806RECE30 HF807E10 HF906B10
 - Adecuado bol complementario ppara Cuisine Companion, con él ahorrarás tiempo y cocinarás más
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

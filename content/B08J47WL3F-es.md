@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Gracias a sus 4 sensores de alta precisión, permite unas mediciones más precisas y exactas, y sus cuatro patas que facilitan el agarre al suelo proporcionando una gran seguridad
+- Dispone de una batería de litio de 600mAh para olvidarte de las pilas y que puedas usarla en cualquier momento y lugar. De fácil usabilidad gracias a la función de autoapagado, de encendido rápido y sencillo e indicador de sobrecarga y desconexión automática tras segundos de inactividad
 - Diseño extraplano de cristal templado de alta seguridad con la tecnología ITO con amplio rango de medición, desde los 5 kg hasta los 180 kg, con precisión de 100 gr y botón para la conversión entre Kg y Lb
 - Báscula de baño con gran pantalla y conectividad con Smartphone vía Bluetooth 4.0 para un seguimiento más preciso de los 15 parámetros básicos que mide, tales como peso, IMC, % grasa corporal, peso sin grasa, grasa subcutánea, grasa visceral, % de agua, masa muscular, masa ósea, % músculo esquelético, proteína, BMR, edad corporal, frecuencia cardiaca, equilibrio corporal, además dispone de función de medición del pulso
-- Dispone de una batería de litio de 600mAh para olvidarte de las pilas y que puedas usarla en cualquier momento y lugar. De fácil usabilidad gracias a la función de autoapagado, de encendido rápido y sencillo e indicador de sobrecarga y desconexión automática tras segundos de inactividad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08J47WL3F{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Talla del zapato: Medium
 - Forma del tacón: sin tacón
 - Material exterior: piel Majority W/textil
+- Talla del zapato: Medium
 - Material interior: Rebotl
 - Grado de resistencia al agua: resistente al agua
 

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Número de tarjetas SIM: dos (Dual SIM)
 - Marca del producto: Microsoft
 - Sistema operativo: Android
 - Memoria interna: 128 GB
-- Número de tarjetas SIM: dos (Dual SIM)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08XNKVBTP{{</world>}}

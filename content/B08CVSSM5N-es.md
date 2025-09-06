@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene dobladillo asimétrico
-- Un producto auténtico de Tommy Hilfiger
-- Con tapeta de dos botones
 - Logo de Tommy Hilfiger bordado en el pecho
+- Tiene dobladillo asimétrico
+- Con tapeta de dos botones
+- Un producto auténtico de Tommy Hilfiger
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08CVSSM5N{{</world>}}

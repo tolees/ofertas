@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricado con material resistente y duradero
 - Batería de ion-litio (2,0 A)
+- Fabricado con material resistente y duradero
 - Adecuado para uso doméstico o profesional
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

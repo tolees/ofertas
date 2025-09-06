@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compra una talla más grande
-- Bolsillos frontales con cremallera
 - Felpa 70% algodón / 30% poliéster reciclado
-- Corte clásico con pernera más ajustada en el puño
 - Cintura elástica con cordón
+- Corte clásico con pernera más ajustada en el puño
+- Bolsillos frontales con cremallera
+- Compra una talla más grande
 - Inserciones de canalé en la parte inferior de las perneras; puños con cremallera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

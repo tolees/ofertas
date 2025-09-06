@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Proporciona protección durable gracias a su SPF 50
-- Formulado sin filtro químico y libre de fragancia
-- Permite proteger las células contra los radicales libres
 - Libre de parabenos
+- Proporciona protección durable gracias a su SPF 50
+- Permite proteger las células contra los radicales libres
+- Formulado sin filtro químico y libre de fragancia
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B001NF2A3G{{</world>}}

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Gran pantalla HD a color
-- 96 rutinas de entrenamiento
 - Batería para 10 días
+- 96 rutinas de entrenamiento
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09NDFMXY6{{</world>}}

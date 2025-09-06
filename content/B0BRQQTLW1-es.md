@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Encuadernación en espiral
-- Libreta de tamaño A5
-- Contiene un unicornio Mr. Wonderful en su portada. Este unicornio está realizado en espuma memory foam, tipo antiestrés.
-- Material: papel FSC, que garantiza que ha sido realizada con papel proveniente de bosques gestionados de forma ecológicamente responsable.
 - Cuenta con 160 páginas blancas en su interior y una hoja de pegatinas.
+- Contiene un unicornio Mr. Wonderful en su portada. Este unicornio está realizado en espuma memory foam, tipo antiestrés.
+- Libreta de tamaño A5
+- Encuadernación en espiral
+- Material: papel FSC, que garantiza que ha sido realizada con papel proveniente de bosques gestionados de forma ecológicamente responsable.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BRQQTLW1{{</world>}}

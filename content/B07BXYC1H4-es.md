@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mantener en lugar fresco y seco
 - Espumas dulces
-- Los clásicos marshamallows esponjosos en forma de tubo
+- Mantener en lugar fresco y seco
 - De color rosa y blanco en el interior
+- Los clásicos marshamallows esponjosos en forma de tubo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07BXYC1H4{{</world>}}

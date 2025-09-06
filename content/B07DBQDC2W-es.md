@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cable: 115mm - Cantidad de LEDS: 2
-- Marco en negro, blanco o plata
 - Marco resistente a los impactos
 - Color bastidor: negro - Funciones iluminación: 1 - Con lámpara de lectura
 - Óptimo rendimiento lumínico gracias al LED de potencia y al reflector de precisión
+- Marco en negro, blanco o plata
 - Longitud: 545mm
+- Cable: 115mm - Cantidad de LEDS: 2
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07DBQDC2W{{</world>}}

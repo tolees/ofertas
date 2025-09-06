@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tommy hilfiger Bandera grabada en el talón
 - Tommy hilfiger Marca:
+- Tommy hilfiger Bandera grabada en el talón
 - Logotipo Hilfiger monotipo en relieve en el lateral
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

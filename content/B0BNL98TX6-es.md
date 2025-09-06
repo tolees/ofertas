@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adecuado para actividades deportivas
-- Detalles distintivos de la marca
 - Cada paquete incluye tres unidades
 - Calcetines cortos tobilleros
+- Adecuado para actividades deportivas
+- Detalles distintivos de la marca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BNL98TX6{{</world>}}

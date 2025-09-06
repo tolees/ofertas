@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño moderno
-- Ajuste regular
 - Cómodo y ligero
+- Ajuste regular
+- Diseño moderno
 - Artículo de la marca United Colors of Benetton
 
 [🛒 Aquí!!!]({{< param buyurl >}})

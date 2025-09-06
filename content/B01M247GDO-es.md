@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tipo de fábrica: Compuesto
-- Instrucciones de cuidado: Lavar a máquina
 - Tipo de deporte: Deportes acuáticos
+- Instrucciones de cuidado: Lavar a máquina
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01M247GDO{{</world>}}

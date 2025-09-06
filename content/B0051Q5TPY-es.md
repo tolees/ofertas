@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Garantiza agua cristalina en el acuario o en el estanque.
-- Bolsa de 35 gr.
-- Eficacísimo material filtrante completamente biológico.
 - Estructura de poros abiertos, tridimensional y funcional.
+- Garantiza agua cristalina en el acuario o en el estanque.
+- Eficacísimo material filtrante completamente biológico.
+- Bolsa de 35 gr.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0051Q5TPY{{</world>}}

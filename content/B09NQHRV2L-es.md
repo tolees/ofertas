@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- GOOD GRIP
 - CUSHIONING
 - Ingredientes extraduraderos
+- GOOD GRIP
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09NQHRV2L{{</world>}}

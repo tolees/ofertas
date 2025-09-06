@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Taza de cerámica con mensaje dirigido a la pareja, con temática de bodas.
 - Capacidad: 300 ml
 - Apta para microondas y lavavajillas, aunque se recomienda el lavado a mano para que el diseño permanezca intacto durante más tiempo
+- Taza de cerámica con mensaje dirigido a la pareja, con temática de bodas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CZ1QD3XY{{</world>}}

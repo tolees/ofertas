@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Enriquecidas con vitamina E y aceite de jojoba, estas gotas mágicas hidratan y nutren tu piel, garantizando un acabado suave y luminoso
-- Extender unas gotas del producto por el rostro, el cuello y el escote limpios y secos; Lavarse las manos después del uso; Para un resultado óptimo, utilizar Gel-Scrub Mágico Rostro antes de la aplicación; Para un efecto más soft, añadir unas gotas del producto a la crema de rostro diaria
-- Este autobronceador de rostro ofrece resultados visibles en tan solo una hora, dejando tu piel con un tono dorado y radiante
 - Las gotas mágicas Collistar proporcionan un bronceado natural y uniforme para tu rostro, sin necesidad de exposición al sol
+- Extender unas gotas del producto por el rostro, el cuello y el escote limpios y secos; Lavarse las manos después del uso; Para un resultado óptimo, utilizar Gel-Scrub Mágico Rostro antes de la aplicación; Para un efecto más soft, añadir unas gotas del producto a la crema de rostro diaria
+- Enriquecidas con vitamina E y aceite de jojoba, estas gotas mágicas hidratan y nutren tu piel, garantizando un acabado suave y luminoso
+- Este autobronceador de rostro ofrece resultados visibles en tan solo una hora, dejando tu piel con un tono dorado y radiante
 - Con solo unas pocas gotas, puedes personalizar la intensidad del bronceado, logrando el color deseado sin esfuerzo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
