@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sistema Active Blade
 - Cabezal de corte giratorio
+- Sistema Active Blade
 - Tecnología Comfort Tip para una comodidad óptima
 - Revestimiento NanoSilver: antibacteriano e hipoalergénico
 - Cabezal cortacésped vertical de doble cara con guía de corte

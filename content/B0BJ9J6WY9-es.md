@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte clásico
-- AEROREADY
-- Bolsillos en las costuras laterales
-- Cintura elástica de talle medio con cordón
 - 100% poliéster (reciclado)
+- Corte clásico
+- Cintura elástica de talle medio con cordón
+- Bolsillos en las costuras laterales
+- AEROREADY
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BJ9J6WY9{{</world>}}

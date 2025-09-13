@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - LA MARGOSA (NEEM): Es un insecticida natural que elimina durante el proceso de lavado todos los insectos presentes en la piel y en el pelaje (pulgas, garrapatas, chinches y ácaros).
 - INGREDIENTES NATURALES: Champú de máxima calidad para perros con ingredientes naturales Margosa, Geraniol y Lavandino. Repelentes naturales que eliminan durante el proceso de lavado todo tipo de insectos y parásitos. Además este champú puede ser utilizado de forma frecuente.
-- PROTEGE A TU MASCOTA: Además de eliminar todos los insectos de la piel durante el proceso de lavado, este producto está testado científicamente y ha superado estudios de eficacia que certifican que protege durante 24 horas a tu mascota contra los ataques de mosquitos, pulgas y garrapatas.
 - EL GERANIOL Y EL LAVANDINO: Son repelentes naturales que proporcionan una protección adicional repeliendo todo tipo de insectos voladores (moscas, tábanos, avispas).
+- PROTEGE A TU MASCOTA: Además de eliminar todos los insectos de la piel durante el proceso de lavado, este producto está testado científicamente y ha superado estudios de eficacia que certifican que protege durante 24 horas a tu mascota contra los ataques de mosquitos, pulgas y garrapatas.
 - SIN INSECTICIDAS QUÍMICOS NI TÓXICOS: Protección total frente a todo tipo de insectos gracias a sus activos 100% naturales. Sin insecticidas químicos, tóxicos para el animal.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

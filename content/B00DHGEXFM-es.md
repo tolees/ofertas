@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Peso: 90 g.
 - Válvula: Presta.
+- Peso: 90 g.
 - Válvula de alta calidad que asegura buena retención del aire.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

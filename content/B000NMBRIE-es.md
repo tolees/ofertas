@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Micras : 80 mc
-- Tamaño DIN A3
 - Medidas : 303 x 426 mm
+- Tamaño DIN A3
+- Micras : 80 mc
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000NMBRIE{{</world>}}

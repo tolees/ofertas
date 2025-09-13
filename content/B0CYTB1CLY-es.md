@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mediasuela con amortiguación
-- Suela de goma vulcanizada
-- Forro textil
-- Horma clásica
 - Parte superior de piel
+- Forro textil
+- Mediasuela con amortiguación
+- Horma clásica
+- Suela de goma vulcanizada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CYTB1CLY{{</world>}}

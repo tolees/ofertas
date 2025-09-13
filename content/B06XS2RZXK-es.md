@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ☀ Con un color blanco cálido de 2700K, las bombillas LED con filamento de LVWIT producen una luz instantánea e intensa, sin parpadeos ni zumbidos.
-- ☀ Gracias a su vida útil de 15.000 horas, sumado a su bajo consumo, podrá ahorrar hasta un 85% en su consumo energético.
-- ☀ En LVWIT nos comprometemos con el medio ambiente y con su salud, por ello sólo ofrecemos productos libres de contaminantes (mercurio, plomo) y radiaciones (UV).
 - ☀ Bombillas LED con filamentos, modelo C35 con casquillo E14. Su esfera transparente mostrando los filamentos LED le otorgan un estilo retro vintage ideal para todo tipo de ambientes.
+- ☀ En LVWIT nos comprometemos con el medio ambiente y con su salud, por ello sólo ofrecemos productos libres de contaminantes (mercurio, plomo) y radiaciones (UV).
+- ☀ Gracias a su vida útil de 15.000 horas, sumado a su bajo consumo, podrá ahorrar hasta un 85% en su consumo energético.
+- ☀ Con un color blanco cálido de 2700K, las bombillas LED con filamento de LVWIT producen una luz instantánea e intensa, sin parpadeos ni zumbidos.
 - ☀ Producto con acabados de alta calidad y una garantía ilimitada de 3 años. Aprobado por los certificados internacionales CE y RoHS.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

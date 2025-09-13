@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Parte textil y de ante
 - Forro textil
-- Horma clásica
 - Suela de goma
 - Cierre de cordones
+- Horma clásica
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09HZ5JKGJ{{</world>}}

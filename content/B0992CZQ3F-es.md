@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con práctica cremallera
 - Elegantes pantalones cortos chinos
+- Con práctica cremallera
 - Ajuste normal cómodo y cintura media
 - Óptima para un look informal de verano
 

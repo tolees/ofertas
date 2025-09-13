@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Silueta sencilla
-- Un modelo imprescindible para diario
-- Caña baja
-- Logotipo en el talón en bajo relieve
 - Detalles distintivos de la marca
+- Un modelo imprescindible para diario
+- Logotipo en el talón en bajo relieve
+- Caña baja
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C77YW3YP{{</world>}}

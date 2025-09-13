@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Construcción ligera de gamuza/malla
 - Silueta de perfil bajo
+- Construcción ligera de gamuza/malla
 - Top minimalista
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

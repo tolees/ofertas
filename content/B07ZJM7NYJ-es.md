@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Trazado de corte y cintura elástica.
-- 100% algodón
 - Logotipo de impresión en el bolsillo lateral
+- 100% algodón
+- Trazado de corte y cintura elástica.
 - Sensación suave y cómoda
 - Puños acanalados
 

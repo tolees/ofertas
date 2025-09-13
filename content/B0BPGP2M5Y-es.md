@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tela Suave
 - Corte cónico
 - Cintura elástica
+- Tela Suave
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BPGP2M5Y{{</world>}}

@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Estructura duradera con partes internas totalmente metálicas
-- Grapadora compacta de carga superior para perforar hasta 20 hojas
 - Utiliza grapas extra fuertes Rapesco de 26/6 mm y 24/6 mm
-- 15 años de garantía
 - Profundidad de garganta 39 mm
+- Grapadora compacta de carga superior para perforar hasta 20 hojas
+- 15 años de garantía
 - Grapado suave, se necesita un 60 % en menos de esfuerzo para grapar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

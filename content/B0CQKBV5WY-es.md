@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Teléfono celular
 - En color verde
 - Requiere configuración
-- Teléfono celular
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CQKBV5WY{{</world>}}

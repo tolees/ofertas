@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Dobladillo ajustable con cordón
-- Capucha ajustable
 - Puños ajustables
-- Plegable en el bolsillo de la mano.
 - Omni-Tech impermeable/transpirable con costuras totalmente selladas
+- Plegable en el bolsillo de la mano.
 - Bolsillos con cremallera
+- Capucha ajustable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DLXDK4KF{{</world>}}

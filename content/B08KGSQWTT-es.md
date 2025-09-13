@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La última tecnología 802.11ac WAVE2 MU-MIMO que puede ofrecer hasta 2600 Mbps de velocidad wifi combinada
-- Soporta hasta 2,5 Gbps de servicios de internet multi-gigabit, perfecto para streaming
 - Acceso remoto fiable y flexible con conexión OpenVPN, lo que le proporciona privacidad y protección adicionales
+- Soporta hasta 2,5 Gbps de servicios de internet multi-gigabit, perfecto para streaming
+- La última tecnología 802.11ac WAVE2 MU-MIMO que puede ofrecer hasta 2600 Mbps de velocidad wifi combinada
 - Implementación y administración sencillas de Armor G1 con la aplicación Armor de Zyxel
 - Controles parentales inteligentes con la aplicación Armor que gestiona de manera sencilla los dispositivos conectados de los niños
 

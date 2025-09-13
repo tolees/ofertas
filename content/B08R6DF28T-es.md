@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste apretado
-- Tela transpirable
 - Ofrece comodidad y libertad de movimiento
+- Tela transpirable
+- Ajuste apretado
 - Cintura elástica
 
 [🛒 Aquí!!!]({{< param buyurl >}})

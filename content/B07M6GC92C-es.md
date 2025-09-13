@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dimensiones: 29 x 22 x 10 cm
+- Correa desmontable
 - Bolsa interior extraíble
 - Exterior de PVC
-- Correa desmontable
+- Dimensiones: 29 x 22 x 10 cm
 - Cocodrilo metálico plateado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

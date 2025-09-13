@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Perrigo España S.A. Plaza Xavier Cugat,2 08174 Sant Cugat del Vallès Barcelona - España
 - INGREDIENTES CANTIDAD Vitamina C 40mg 50% VRN, Zinc 7,5 mg 75% VRN, Equinácea (ext.) 100 mg, Jalea real liofilizada 69 mg, Equivalente ajalea realfresca 200mg, Reishi (ext.) 25mg, Shiitake (ext.) 25 mg. ** Cantidad de nutrientes o sustancias con efecto nutricional o fisiológico, por dosis diaria de consumo. VRN=Valoresde referencia de nutrientes.
+- Perrigo España S.A. Plaza Xavier Cugat,2 08174 Sant Cugat del Vallès Barcelona - España
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07YDXRR7P{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fabricante: FILA
-- Marca: FILA
 - Fila
+- Marca: FILA
+- Fabricante: FILA
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09W68XKYH{{</world>}}

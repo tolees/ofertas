@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo clásico cruzado en la correa lateral
 - Suela de goma y espuma EVA bicolor
 - Tenis para correr fabricados en combinación de colores y materiales
+- Logotipo clásico cruzado en la correa lateral
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CB9LRFV4{{</world>}}

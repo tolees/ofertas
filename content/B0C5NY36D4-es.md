@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Confort y estilo deportivo
-- Forro textil
 - Horma clásica
 - Parte superior sintética suave
 - Cierre de cordones
+- Forro textil
+- Confort y estilo deportivo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C5NY36D4{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Marca francesa
 - Combina elegancia y bienestar en la vida cotidiana
+- Marca francesa
 - Dim Calzoncillos tipo bóxer de algodón elástico, diseñados para ofrecer comodidad y apoyo durante todo el día
 
 [🛒 Comprar!!!]({{< param buyurl >}})

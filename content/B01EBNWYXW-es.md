@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Alta calidad
 - Dos bolsillos con cremallera
 - Costuras elásticas de contraste en cuello, puños y dobladillo
 - Cubre barbillas de tricot
-- Alta calidad
 - Material reflectante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

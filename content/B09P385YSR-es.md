@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Bolsillos laterales tipo cargo y puños con cordón
 - Composición del material: 97% algodón, 3% elastano
-- Los productos internacionales tienen términos separados, se venden desde el extranjero y pueden diferir de los productos locales, incluyendo ajuste, calificaciones de edad e idioma del producto, etiquetado o instrucciones.
 - Con elastano para un gran ajuste
+- Los productos internacionales tienen términos separados, se venden desde el extranjero y pueden diferir de los productos locales, incluyendo ajuste, calificaciones de edad e idioma del producto, etiquetado o instrucciones.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09P385YSR{{</world>}}

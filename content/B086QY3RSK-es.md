@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Objeto decorativo coleccionable: el coche de modelo es una pieza preciosa para cualquier vitrina de coleccionista y un artículo imprescindible para cualquier colgante de Ferrari
-- Detalles encantadores: el coche coleccionable de la serie Ferrari Race & Play de Bburago convence por su interior detallado y las puertas se pueden abrir
 - Réplica fiel al original: el coche de coleccionista está fabricado en metal inyectado y con piezas de plástico. Según la escala 1:24, tiene una longitud de aprox. 19 cm
+- Objeto decorativo coleccionable: el coche de modelo es una pieza preciosa para cualquier vitrina de coleccionista y un artículo imprescindible para cualquier colgante de Ferrari
 - Modelos listos para los fans del Ferrari: el Ferrari SF90 Stradale con su original acabado en color rojo encaja perfectamente en cualquier estante
+- Detalles encantadores: el coche coleccionable de la serie Ferrari Race & Play de Bburago convence por su interior detallado y las puertas se pueden abrir
 - El Ferrari SF90 Stradale se presenta con gran atención al detalle en color rojo en la edición Race & Play de Bburago
 
 [🛒 Aquí!!!]({{< param buyurl >}})

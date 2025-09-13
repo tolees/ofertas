@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cintura elástica
-- Tela suave
-- Corte cónico
 - Amplia libertad de movimiento
+- Cintura elástica
+- Corte cónico
+- Tela suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09NDND9PC{{</world>}}

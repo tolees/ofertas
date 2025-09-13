@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ofrece comodidad y libertad de movimiento
-- Pantalón largo deportivo
 - Producto adecuado para múltiples ocasiones
+- Pantalón largo deportivo
 - Tiene detalles distintivos de la marca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

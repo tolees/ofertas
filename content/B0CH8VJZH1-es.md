@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cierre: Cordones
 - Material exterior: Sintético
 - Revestimiento: Tela
-- Cierre: Cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CH8VJZH1{{</world>}}

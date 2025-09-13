@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Informal
 - Peso ligero
 - Cómoda
-- Informal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08FYPZVS4{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre de cremallera y cuello alzado
 - Tecnología transpirable AEROREADY
-- Punto doble 100% poliéster reciclado
 - Corte entallado
+- Cierre de cremallera y cuello alzado
+- Punto doble 100% poliéster reciclado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09SLMT6JK{{</world>}}

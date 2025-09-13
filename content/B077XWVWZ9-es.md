@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Hidratante Neutrogena facial – Esta crema oil-free no obstruye los poros e hidrata durante 24 h. Formulada con aloe vera y camomila, que reducen las marcas acneicas
-- Set de Neutrogena Spot Controlling – Consigue una piel uniforme con este set anti imperfecciones de Neutrogena, con un limpiador facial y una crema hidratante facial
 - Detalles del envío – Rutina facial Neutrogena Visibly Clear Spot Controlling, set de cuidado de la piel con tendencia acneica, limpiador (1x200 ml) e hidratante facial (1x50 ml) con ácido salicílico
+- Set de Neutrogena Spot Controlling – Consigue una piel uniforme con este set anti imperfecciones de Neutrogena, con un limpiador facial y una crema hidratante facial
 - Formulados con ácido salicílico – Desarrollados con dermatólogos para la piel propensa al acné y las imperfecciones, ambos productos contienen ácido salicílico purificante
 - Limpieza facial – El limpiador de Neutrogena para pieles acneicas ayuda a combatir los granos persistentes y a evitar la aparición de nuevos brotes en la piel
 

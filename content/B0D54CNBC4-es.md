@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Logotipo de contraste bordado
 - Cuello redondo
-- Dobladillo y puños acanalados
 - Corte estándar
+- Dobladillo y puños acanalados
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D54CNBC4{{</world>}}

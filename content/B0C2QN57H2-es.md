@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cierre de cordones
-- Confort y estilo deportivo
-- Parte superior de piel sintética con detalles de ante
 - Plantilla Cloudfoam Comfort para mayor comodidad
+- Parte superior de piel sintética con detalles de ante
+- Confort y estilo deportivo
 - Horma clásica
 
 [🛒 Visítala!!!]({{< param buyurl >}})

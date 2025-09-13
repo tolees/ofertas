@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Botas confortables
 - Glamurosas y cómodas
+- Botas confortables
 - Para todo tipo de ocasiones
 - Botas Gioseppo
 

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Pack de 12 latas
 - Con aromas naturales
 - Bebida refrescante
-- Pack de 12 latas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CMR1NV31{{</world>}}

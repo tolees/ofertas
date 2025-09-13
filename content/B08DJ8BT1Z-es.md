@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Centro de juegos infantil hinchable INTEX para disfrutar de un verano lleno de deporte y agua
 - Para los más peques: se recomienda el baño a 3 niños mayores de 3 años
 - Fácil de inflar: se puede hinchar rápidamente con una bomba de aire eléctrica (no incluida)
-- Gran capacidad: medidas 325x267x102 cm, capacidad para 470 litros de agua
 - Multideporte: incluye 1 pelota de fútbol y 2 porterias,1 set de voleibol (pelota y red); y set de béisol (base,bate y pelota)
+- Gran capacidad: medidas 325x267x102 cm, capacidad para 470 litros de agua
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08DJ8BT1Z{{</world>}}

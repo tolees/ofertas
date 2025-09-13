@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Un manual de juego a todo color con consejos y trucos
+- Imán de la nevera de nuestro dúo heroico
+- La edición incluye
 - La banda sonora original de Clive n Wrench
 - 16 cartas de personajes coleccionables
-- Un manual de juego a todo color con consejos y trucos
-- La edición incluye
-- Imán de la nevera de nuestro dúo heroico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0895CMDW2{{</world>}}

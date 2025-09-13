@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Escriba cómodamente con el teclado Surface Pro X delgado y compacto
-- Teclas multimedia
 - Marca del producto: Microsoft
+- Teclas multimedia
 - Compatible con Microsoft Surface Pro X
+- Escriba cómodamente con el teclado Surface Pro X delgado y compacto
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07YF4SPVJ{{</world>}}

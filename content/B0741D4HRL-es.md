@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Cambio de accesorios rápido y sencillo gracias al bloqueo SDS: si el cierre hace clic al introducirlo, el accesorio está fijado de forma segura y correcta (solo con GOP 18V-28; GOP 40-30 y GOP 55-36)
 - Portaherramientas Starlock: para un avance más rápido del trabajo y una máxima transmisión de la fuerza gracias al alojamiento tridimensional
+- Professional 12V System. Rendimiento con diseño compacto. Máxima libertad. Todas las baterías son compatibles con herramientas Bosch Professional nuevas y ya existentes del mismo voltaje.
 - Manejo sencillo gracias a su reducido peso y a su elevada comodidad de uso
 - Incluye: GOP 12V-28, 1 disco de sierra de inmersión Starlock BIM (AIZ 32 APB), en caja de cartón (batería y cargador no incluidos)
-- Professional 12V System. Rendimiento con diseño compacto. Máxima libertad. Todas las baterías son compatibles con herramientas Bosch Professional nuevas y ya existentes del mismo voltaje.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0741D4HRL{{</world>}}

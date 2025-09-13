@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🍺 TURIA MÄRZEN - Cerveza Tostada con 5,4% de alcohol, destacada por su color ámbar y reflejos rojizos, resultado de la malta tostada obtenida de un proceso similar al de la torrefacción del café. Ofrece una experiencia de sabor única, combinando frescura con un toque amargo y cítrico, manteniendo un carácter genuino a lo largo del tiempo.
+- 🍃 MALTA TOSTADA - Técnica especial de tostado de la malta, que no solo le otorga su distintivo color ámbar con reflejos rojizos, sino que también enriquece la cerveza con un sabor único. A pesar de ser una cerveza tostada, conserva una ligereza en su sabor, comparable a la diferencia entre pan tostado y pan sin tostar, ofreciendo así un perfil de sabor distintivo pero no más fuerte.
 - ⭐ CERVEZAS EL TURIA - Fundada en Valencia en 1935, "Cervezas el Turia" ha sabido mantenerse relevante a través de los años gracias a su dedicación a la calidad y a su pasión por ofrecer cervezas con un carácter genuino. Destaca por su capacidad para perdurar en el tiempo, ofreciendo una experiencia cervecera auténtica y de calidad.
 - 🌾 CARÁCTER ÚNICO - Se caracteriza por su frescura y su equilibrado toque amargo y cítrico, que complementan su intensidad y complejidad de aromas. Ideal para acompañar una amplia gama de platos, desde aperitivos hasta platos principales, gracias a su capacidad para realzar los sabores sin dominar el paladar.
-- 🍃 MALTA TOSTADA - Técnica especial de tostado de la malta, que no solo le otorga su distintivo color ámbar con reflejos rojizos, sino que también enriquece la cerveza con un sabor único. A pesar de ser una cerveza tostada, conserva una ligereza en su sabor, comparable a la diferencia entre pan tostado y pan sin tostar, ofreciendo así un perfil de sabor distintivo pero no más fuerte.
+- 🍺 TURIA MÄRZEN - Cerveza Tostada con 5,4% de alcohol, destacada por su color ámbar y reflejos rojizos, resultado de la malta tostada obtenida de un proceso similar al de la torrefacción del café. Ofrece una experiencia de sabor única, combinando frescura con un toque amargo y cítrico, manteniendo un carácter genuino a lo largo del tiempo.
 - ❄️ FORMATO Y CONSUMO - Pack de 12 latas de 33 cl, Turia Märzen es mejor disfrutada a una temperatura de entre 4-6ºC, para maximizar su carácter refrescante y la plenitud de sus sabores.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

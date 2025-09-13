@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Taza para beber
 - Para líquidos fríos o calientes
+- Taza para beber
 - Tiene detalles distintivos de la marca "MR WONDERFUL"
 
 [🛒 Comprar!!!]({{< param buyurl >}})

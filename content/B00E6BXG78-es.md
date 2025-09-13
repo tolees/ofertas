@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bandas elásticas: fácil de instalar.
 - Patrón sólido
 - Cierre: sin cordones
+- Bandas elásticas: fácil de instalar.
 - Puntera cerrada
 
 [🛒 Aquí!!!]({{< param buyurl >}})

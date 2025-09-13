@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Espiral simple negra, gira las páginas 360º cómodamente
 - Tapas de plástico translúcido, ligeras pero resistentes
 - 80 hojas con cuadrícula 4mm x 4mm con margen
 - Paquete de 5 cuadernos con colores de tapa aleatorios: verde, rojo, rosa y azul
-- Espiral simple negra, gira las páginas 360º cómodamente
 - Formato 4º
 
 [🛒 Visítala!!!]({{< param buyurl >}})

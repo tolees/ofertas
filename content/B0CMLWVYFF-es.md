@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Super-soft fabric. Brushed on the inside. 95% cotton and 5% spandex.
+- Minimalistic Carlheim branding
 - Multiple colour-ways & Matching items
 - Dropped shoulders
-- Super-soft fabric. Brushed on the inside. 95% cotton and 5% spandex.
 - Full-length relaxed fit hoodie
-- Minimalistic Carlheim branding
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CMLWVYFF{{</world>}}

@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- AEROREADY
-- Compra una talla más grande
-- Bolsillos frontales
-- Corte clásico
 - Cintura elástica de talle medio con cordón
+- Bolsillos frontales
+- Compra una talla más grande
 - 100% poliéster (reciclado)
+- Corte clásico
+- AEROREADY
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BYNQZC7F{{</world>}}

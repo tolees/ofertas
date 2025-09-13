@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Repele el agua
-- 100 % poliéster
-- Mochila grande
-- 0,65 kg de peso y 27 L de volumen
 - 44 cm de alto x 35 cm de ancho x 20,5 cm de profundidad
+- Repele el agua
+- Mochila grande
+- 100 % poliéster
+- 0,65 kg de peso y 27 L de volumen
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B083YDQ83X{{</world>}}

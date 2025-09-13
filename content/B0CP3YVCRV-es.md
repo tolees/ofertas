@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalón lounge con estampado allover de rayas, cinturilla elástica de punto smock regulable mediante cinta a tono y goma en el bajo
 - Parte de arriba con escote en pico, abotonadura con tapeta central y posicionado en el pecho
+- Pantalón lounge con estampado allover de rayas, cinturilla elástica de punto smock regulable mediante cinta a tono y goma en el bajo
 - Pijama 100% algodón de manga larga y pantalón largo, en tonos crudos y rosáceos, favorecedores adecuado para dormir y estar en casa con un toque de estilo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Detalles distintivos de la marca
-- Con cuello redondo
-- Adecuada para practicar deporte
 - Camiseta de manga corta
+- Adecuada para practicar deporte
+- Con cuello redondo
+- Detalles distintivos de la marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0741HRZG4{{</world>}}

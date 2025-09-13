@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Estos calzoncillos están disponibles en tres colores distintos
 - Cintura elástica con la inscripción de Tommy Hilfiger
 - Ajuste cómodo y adecuado
-- Estos calzoncillos están disponibles en tres colores distintos
 - Detalles distintivos de Tommy Hilfiger
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

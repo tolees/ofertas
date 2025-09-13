@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Absorbe el sudor para mantenerte seco y cómodo
-- Visera curva estrucuturada
-- Banda para el sudor H2O-DRI
-- Hurley H2O-DRI
 - Tricot 100% Poliéster
+- Hurley H2O-DRI
+- Visera curva estrucuturada
+- Absorbe el sudor para mantenerte seco y cómodo
+- Banda para el sudor H2O-DRI
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B096WC6G4H{{</world>}}

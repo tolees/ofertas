@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Tiene un contenido de 30 ml
 - Libre de aceite y de perfume; dura el calor y la humedad
-- No va a cambiar el color, mancha o salir en la ropa
 - Cuenta con una cobertura de media a completa, con acabado mate
 - Maquillaje de base de larga duración (24 horas), fórmula que controla el aceite, no obstruye los poros
+- No va a cambiar el color, mancha o salir en la ropa
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0073I3SCE{{</world>}}

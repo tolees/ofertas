@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre de botón y cremallera en bragueta
 - Pantalón en tejido de lino/algodón
+- Cierre de botón y cremallera en bragueta
 - Tiene cordón en la cinturilla, que además es elástica
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

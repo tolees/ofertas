@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material de la suela: EVA
-- Material exterior: Tejido
 - Cierre: Cordones
+- Material exterior: Tejido
+- Material de la suela: EVA
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09ZVLFND4{{</world>}}

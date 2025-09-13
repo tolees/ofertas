@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Punto doble 100% poliéster reciclado
 - Corte entallado
 - Tejido transpirable AEROREADY
-- Punto doble 100% poliéster reciclado
 - Cierre de cremallera y cuello alzado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

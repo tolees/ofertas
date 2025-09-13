@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Bolsillos frontales con cremallera
-- Punto doble 100% poliéster reciclado
 - Corte entallado
 - Cuello alzado y cremallera hasta el pecho
+- Punto doble 100% poliéster reciclado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08VSJXMKF{{</world>}}

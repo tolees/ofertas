@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bomba de presión de 19 bares
-- Disponible en color negro, naranja, crema y blanco
 - Parada de flujo automático Flow Stop: 2 botones programables (espresso y lungo)
 - Clase de eficiencia energética: A +
-- Función de autoapagado tras 9 minutos de inactividad
+- Bomba de presión de 19 bares
 - Sistema de calentamiento rápido Thermoblock: lista para usar en 25 segundos
+- Función de autoapagado tras 9 minutos de inactividad
 - Compacta, ligera y con asa ergonómica
+- Disponible en color negro, naranja, crema y blanco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00G5YP1ZE{{</world>}}

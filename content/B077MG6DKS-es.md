@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material de la suela: Caucho
-- Material exterior: Cuero
 - Cierre: Cordones
+- Material exterior: Cuero
+- Material de la suela: Caucho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B077MG6DKS{{</world>}}

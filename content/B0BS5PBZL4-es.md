@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Fabricado con 100 % algodón sostenible
-- Logotipo bordado en el pecho
 - Corte regular
+- Logotipo bordado en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BS5PBZL4{{</world>}}

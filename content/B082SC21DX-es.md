@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Perforación en la puntera
+- Silueta de bota baja
 - Parte superior sintética
 - Solapa del talón de ante
 - Cierre de encaje
-- Silueta de bota baja
+- Perforación en la puntera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B082SC21DX{{</world>}}

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Horma clásica
-- Llena de confort tu día a día
 - Mediasuela Cloudfoam
-- Cierre de cordones
 - Parte superior de piel
+- Cierre de cordones
+- Llena de confort tu día a día
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C4PVGKHW{{</world>}}

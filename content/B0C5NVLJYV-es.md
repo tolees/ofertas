@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior de piel sintética
-- Diseño acolchado
 - Forro textil
+- Diseño acolchado
+- Parte superior de piel sintética
 - Horma clásica
 - Cierre de cordones
 

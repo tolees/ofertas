@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- PREMIUM VINYL MATERIAL - Made from high-quality, durable vinyl, this collectible is built to last and withstand daily wear, ensuring long-lasting enjoyment for fans and collectors alike.
 - PERFECT GIFT FOR MONSTER HUNTER FANS - Ideal for holidays, birthdays, or special occasions and as a present this exclusive figurine is a must-have addition to any Monster Hunter merchandise collection
 - LEADING POP CULTURE BRAND - Trust in the expertise of Funko, the premier creator of pop culture merchandise that includes vinyl figures, action toys, plush, apparel, board games, and more.
 - IDEAL COLLECTIBLE SIZE - At approximately 3.75 inches (9.5 cm) tall, this vinyl mini figurine complements other collectable merchandise and fits perfectly in your display case or on your desk.
-- PREMIUM VINYL MATERIAL - Made from high-quality, durable vinyl, this collectible is built to last and withstand daily wear, ensuring long-lasting enjoyment for fans and collectors alike.
 - EXPAND YOUR COLLECTION - Add this unique Avinia vinyl display piece to your growing assortment of Funko Pop! figures, and seek out other rare and exclusive collectible items for a complete set
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

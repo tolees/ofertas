@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Además, incluye 8 hojas de pegatinas temáticas y un sobre para guardar papeles o elementos sueltos, como ecografías
-- Óptimo para regalar
-- Álbum de fotos para guardar los mejores momentos del primer año de vida del bebé
 - Cuenta con 64 páginas a lo largo de las cuales encontraremos contenido pautado para ir completando los momentos importantes de este primer año con las fotos del peque que los ilustran
+- Álbum de fotos para guardar los mejores momentos del primer año de vida del bebé
+- Óptimo para regalar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CB1LS9CS{{</world>}}

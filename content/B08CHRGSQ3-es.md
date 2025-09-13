@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Spray de manos para niños y familia, 100 ml
 - Tamaño ideal para llevar fuera de casa
-- Formulado para limpiar las manos en profundidad sin resecarlas
-- Active Formula Protection
 - Solución hidroalcohólica sin aclarado
-- MODO DE EMPLEO: pulverizar una cantidad suficiente sobre las manos y frotar para extender en profundidad. Dejar secar. No necesita aclarado
 - Con provitamina B5 (pantenol) potencia la hidratación y suavidad de las manos manteniéndolas protegidas e hidratadas
+- Active Formula Protection
+- Formulado para limpiar las manos en profundidad sin resecarlas
+- Spray de manos para niños y familia, 100 ml
+- MODO DE EMPLEO: pulverizar una cantidad suficiente sobre las manos y frotar para extender en profundidad. Dejar secar. No necesita aclarado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08CHRGSQ3{{</world>}}

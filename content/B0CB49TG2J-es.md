@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello redondo
 - Corte regular
-- Logotipo de strass en la parte delantera del pecho
 - Pepe Jeans se asocia con la iniciativa Better Cotton para mejorar la agricultura del algodón a nivel mundial
+- Cuello redondo
+- Logotipo de strass en la parte delantera del pecho
 - Fabricado con 100 % algodón sostenible
 
 [🛒 Visítala!!!]({{< param buyurl >}})

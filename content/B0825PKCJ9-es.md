@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Clásico
-- Cuello con escote redondo abierto y serigrafía en parte delantera
-- Tejido: tejido ligero con caída mezcla de viscosa poliéster
 - Cómodo
+- Tejido: tejido ligero con caída mezcla de viscosa poliéster
+- Cuello con escote redondo abierto y serigrafía en parte delantera
+- Clásico
 - Corte normal
 
 [🛒 Comprar!!!]({{< param buyurl >}})

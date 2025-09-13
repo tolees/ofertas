@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- De larga duración; dar volumen; alargar
-- Probado oftalmológicamente y adecuado para usuarios de lentes de contacto
+- Para pestañas extralargas y voluminosas
 - Con cepillo de elastómero flexible
 - Nos oponemos a los experimentos con animales; cosnova aparece internacionalmente con essence y CATRICE tanto en PETA Alemania como en PETA
-- Para pestañas extralargas y voluminosas
+- Probado oftalmológicamente y adecuado para usuarios de lentes de contacto
+- De larga duración; dar volumen; alargar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C78BM9QH{{</world>}}

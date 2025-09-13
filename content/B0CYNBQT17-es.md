@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Empeine Hybridfeel con inserciones Strikescale
+- Cierre de cordones
 - Lengüeta plegable
 - Horma clásica
-- Cierre de cordones
-- Empeine Hybridfeel con inserciones Strikescale
 - Incluye una llave para poner y quitar los tacos
 - Suela para césped natural húmedo
 

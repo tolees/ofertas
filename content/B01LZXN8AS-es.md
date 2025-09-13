@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- EXLUSIVIDAD «ESPACIOS REDUCIDOS»: La gama RCBL es ideal para los espacios reducidos (bajo ventanas, etc.). Dotado de elementos rectos de aluminio de inyección y de un termostato digital PID de alta precisión (+/- 0,2 °), este emisor térmico a fluido es un excelente conductor térmico con el cual mantendrás tu hogar a una temperatura agradable, homogénea y constante, al tiempo que ahorras energía gracias a su innovador diseño y tecnología de bajo consumo.
+- HAVERLAND RC13BL: El modelo RC13BL (1500 W), el cual se compone de 13 elementos calefactores, es ideal para un uso medio de 1-6 horas al día y para las estancias de +/- 17-24 m².
 - CONTROL DE CONSUMO: Gracias a su función exclusiva indicando el consumo de energía (KW), el emisor RCBL te permitirá tener el control sobre tu consumo real. Además, podrás elegir de poner tu emisor en modo manual o automático, así como seleccionar entre 3 modos de temperatura: Confort / Economía / Antihielo.
 - PROGRAMACIÓN 24H/7: Con su programación 24h/ 7, el emisor térmico es totalmente configurable según tus necesidades. Incluye también hasta 7 programas preconfigurados que podrás seleccionar, los cuales están pensados para cualquier estancia de tu casa.
 - SEGURIDAD Y FACILITAD: El emisor RCBL dispone de un teclado intuitivo con un sistema de bloqueo automático, así como un limitador térmico para un uso en total seguridad. El aparato no solo es fácil de utilizar sino también de instalar gracias a su kit completo de instalación y accesorios. Garantía Haverland de 2 años.
-- HAVERLAND RC13BL: El modelo RC13BL (1500 W), el cual se compone de 13 elementos calefactores, es ideal para un uso medio de 1-6 horas al día y para las estancias de +/- 17-24 m².
+- EXLUSIVIDAD «ESPACIOS REDUCIDOS»: La gama RCBL es ideal para los espacios reducidos (bajo ventanas, etc.). Dotado de elementos rectos de aluminio de inyección y de un termostato digital PID de alta precisión (+/- 0,2 °), este emisor térmico a fluido es un excelente conductor térmico con el cual mantendrás tu hogar a una temperatura agradable, homogénea y constante, al tiempo que ahorras energía gracias a su innovador diseño y tecnología de bajo consumo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01LZXN8AS{{</world>}}

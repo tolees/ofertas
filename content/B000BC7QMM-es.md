@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Incorpora la tecnología D-Link Green, hasta un 80% menos de consumo de energía
-- IGMP Snooping: si tienes servicio de TV por Internet, el tráfico de datos por tu red estará bajo control, sin bajadas de rendimiento para el resto de dispositivos
-- Jumbo frames: Soporta tramas de datos de 9000 bytes
 - Enchufar y listo, no necesita configuración alguna
+- Jumbo frames: Soporta tramas de datos de 9000 bytes
+- IGMP Snooping: si tienes servicio de TV por Internet, el tráfico de datos por tu red estará bajo control, sin bajadas de rendimiento para el resto de dispositivos
+- Incorpora la tecnología D-Link Green, hasta un 80% menos de consumo de energía
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B000BC7QMM{{</world>}}

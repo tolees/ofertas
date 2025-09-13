@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Incluye 3 Pokémon construibles: Squirtle, Psyduck y Finneon
 - Conjunto de construcción con bloque de movimiento: gira la manivela para activar el movimiento de los Pokémon
 - Officially licensed by The Pokémon Company International
 - Ideales a partir de 6 años, estos juguetes de construcción ayudan a fomentar la creatividad y a desarrollar la capacidad de resolución de problemas.
 - Las piezas pueden combinarse con todos los conjuntos de construcción de Pokémon de MEGA y son compatibles con las principales marcas.
-- Incluye 3 Pokémon construibles: Squirtle, Psyduck y Finneon
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CPKTF6DR{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Máscara de pestañas volumen waterproof para unas pestañas multiplicadas de un extremo del ojo al otro
+- Efecto abanico, Sin grumos, Sin efecto acartonado para un volumen extraoscuro incluso en las pestañas más finas
 - Contenido: 1x máscara waterproof Maybelline New York Lash Sensational, Tono: Negro, Cantidad: 9,5 ml
 - Cepillo curvo de silicona con 10 capas de cerdas diferentes, Fórmula fluida enriquecida con pigmentos negro intenso probada oftalmológicamente en ojos sensibles y en usuarios de lentes de contacto
 - Aplica la máscara desde la raíz hacia los extremos extendiendo las pestañas al máximo, Aplica el producto sobre las pestañas de forma repetida para un mayor impacto
-- Efecto abanico, Sin grumos, Sin efecto acartonado para un volumen extraoscuro incluso en las pestañas más finas
-- Máscara de pestañas volumen waterproof para unas pestañas multiplicadas de un extremo del ojo al otro
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00VP2SSFG{{</world>}}

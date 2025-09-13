@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La parte trasera del packaging cuenta con una parte personalizable por parte de la persona que lo regala, lo que incrementa la experiencia de regalo
 - Caja con 20 chocolatinas de chocolate extrafino con leche
 - Chocolate sin gluten
 - El producto tiene formato de libro en su exterior, y en su interior cuenta con 20 chocolatinas, cada una de ellas envuelta individualmente y con un mensaje exclusivo dirigido a madres
+- La parte trasera del packaging cuenta con una parte personalizable por parte de la persona que lo regala, lo que incrementa la experiencia de regalo
 - Producto original Mr. Wonderful
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

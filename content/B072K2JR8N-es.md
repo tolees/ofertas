@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- El mejor maquillaje para sentirte especial.
 - Los mejores productos para el cuidado y la salud personal.
 - Even Better Glow Light Reflecting Makeup Spf15 #Vanilla 30Ml
-- El mejor maquillaje para sentirte especial.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B072K2JR8N{{</world>}}

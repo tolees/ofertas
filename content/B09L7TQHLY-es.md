@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hecho de vinilo de alta calidad
-- Perfecto para exhibir
 - El complemento perfecto para cualquier colección
+- Perfecto para exhibir
+- Hecho de vinilo de alta calidad
 - Esta figura de vinilo es linda, potente y nunca ha sido más coleccionable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

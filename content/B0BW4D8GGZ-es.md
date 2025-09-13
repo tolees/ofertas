@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Dimensiones: 11 x 23 x 7 cm
-- Estuche portatodo rectangular
 - 3 compartimentos y cierre con cremallera
+- Estuche portatodo rectangular
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BW4D8GGZ{{</world>}}

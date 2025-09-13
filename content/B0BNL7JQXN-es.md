@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cinta interior para el sudor: punto doble 100% poliéster reciclado
+- Corona y visera con curvatura media
 - Estructura de seis paneles
 - Cierre ajustable en la nuca
-- Corona y visera con curvatura media
 - Exterior: sarga 100% algodón
 
 [🛒 Visítala!!!]({{< param buyurl >}})

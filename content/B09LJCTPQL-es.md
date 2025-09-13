@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cantidad: 0, 7 L
 - Material de calidad
 - Adecuado para regalar
+- Cantidad: 0, 7 L
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09LJCTPQL{{</world>}}

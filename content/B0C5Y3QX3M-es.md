@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela robusta
-- Zapatillas de la marca Asics
 - Amortiguación EVA
+- Zapatillas de la marca Asics
+- Suela robusta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C5Y3QX3M{{</world>}}

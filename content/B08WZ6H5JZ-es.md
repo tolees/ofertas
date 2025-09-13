@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con tejido ligero y suave
-- Tiene detalles distintivos de la marca
 - Ropa deportiva que se adapta a cualquier actividad deportiva
+- Tiene detalles distintivos de la marca
 - Ofrece comodidad y libertad de movimiento
+- Con tejido ligero y suave
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08WZ6H5JZ{{</world>}}

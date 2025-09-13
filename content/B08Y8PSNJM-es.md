@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Apto para toda la familia, testado bajo control pediátrico
-- Clínicamente testado. No comedogénico, hipoalergénico, sin sulfatos ni parabenos ni derivados del trigo. Desarrollado y fabricado en Milano. Excelencia dermatológica italiana desde 1972
-- Gel indicado para la higiene diaria en casos de piel seca, muy seca o con tendencia al rascado e irritación
 - Formulado con con lactato sódico, sodium DNA y manteca de karité al 1%. Sin jabón, SLS ni SLES
+- Apto para toda la familia, testado bajo control pediátrico
 - El gel limpiador reparador hidrata y respeta la piel durante la ducha sin incluir jabón
+- Gel indicado para la higiene diaria en casos de piel seca, muy seca o con tendencia al rascado e irritación
+- Clínicamente testado. No comedogénico, hipoalergénico, sin sulfatos ni parabenos ni derivados del trigo. Desarrollado y fabricado en Milano. Excelencia dermatológica italiana desde 1972
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08Y8PSNJM{{</world>}}

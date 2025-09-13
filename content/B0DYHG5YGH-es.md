@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Bálsamo labial ultrahidratante y cremoso
-- Deja los labios suaves reparados y rellenos
 - Dulce aroma a vainilla que querrás reaplicar 24/8
 - Con un 5% de escualano
+- Deja los labios suaves reparados y rellenos
 - Su aplicador envuelve los labios y proporciona un efecto calamante
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

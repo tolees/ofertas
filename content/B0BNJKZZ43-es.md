@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Suela de goma resistente
-- Estilo retro
 - Zapatos de baloncesto
+- Estilo retro
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BNJKZZ43{{</world>}}

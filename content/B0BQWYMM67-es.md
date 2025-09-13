@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tela Suave
 - Corte
 - TODA LONGITURA CHIP
+- Tela Suave
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BQWYMM67{{</world>}}

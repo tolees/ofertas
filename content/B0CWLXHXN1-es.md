@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ya sea para un capricho después de comer o como acompañamiento con tu café, los barquillos de Fontaneda son el toque dulce que necesitas
-- El trigo es el ingrediente principal de nuestros productos, y en Fontaneda nos aseguramos de que nuestro trigo cumpla con el Compromiso Harmony. Este compromiso se basa en el cultivo local de trigo que sea sostenible con el medio ambiente y la protección de la biodiversidad en nuestro país, evitando el uso de pesticidas y fertilizantes, preservando el agua y los suelos, así como reduciendo la emisión de dióxido de carbono
-- Descubre una gran combinación de crujientes barquillos con un cremoso relleno de chocolate con leche de la mano de Fontaneda
-- Estos barquillos rellenos de chocolate con leche son una delicia para los amantes del chocolate
 - Fontaneda es un producto tradicional y de calidad español. Por ello, desde hace más de 140 años desde Fontaneda nos comprometemos a utilizar exclusivamente ingredientes de calidad en nuestros productos, creando sabores únicos que acompañan nuestros desayunos día a día. Desde 1881, Fontaneda sigue compartiendo su pasión e ilusión por las clásicas galletas y bizcochos, para que podamos seguir disfrutando del lado dulce de la vida, porque en Fontaneda cuidando lo nuestro, cuidamos de ti
+- Estos barquillos rellenos de chocolate con leche son una delicia para los amantes del chocolate
+- Ya sea para un capricho después de comer o como acompañamiento con tu café, los barquillos de Fontaneda son el toque dulce que necesitas
+- Descubre una gran combinación de crujientes barquillos con un cremoso relleno de chocolate con leche de la mano de Fontaneda
+- El trigo es el ingrediente principal de nuestros productos, y en Fontaneda nos aseguramos de que nuestro trigo cumpla con el Compromiso Harmony. Este compromiso se basa en el cultivo local de trigo que sea sostenible con el medio ambiente y la protección de la biodiversidad en nuestro país, evitando el uso de pesticidas y fertilizantes, preservando el agua y los suelos, así como reduciendo la emisión de dióxido de carbono
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CWLXHXN1{{</world>}}

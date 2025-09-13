@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Buen producto para su uso
 - Productos de excelente calidad
+- Buen producto para su uso
 - UA Performance Tech 3pk NS, Negro, MD
 
 [🛒 Aquí!!!]({{< param buyurl >}})

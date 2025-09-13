@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Comodidad de
 - Pierna recta
 - Ajuste normal
+- Comodidad de
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08T9XFR12{{</world>}}

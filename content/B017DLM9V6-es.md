@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Monoblock de una pieza
 - Juego Tenedores Postre 3 pz.
 - Tamaño Tenedor: 180 mm
 - 3 tenedores envuelta en un display
+- Monoblock de una pieza
 - Acero Inoxidable 18,10 y espesor 2,5 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

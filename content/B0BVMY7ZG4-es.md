@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tarjeta gráfica NVIDIA GeForce RTX 3060 12GB GDDR6
-- Sin sistema operativo
-- Memoria RAM de 16GB (2x 8GB UDIMM ARMOR DDR5-4800) ampliables hasta 128GB DDR5-4800
 - Procesador Intel Core i5-12400F, 6C (6P + 0E) / 12T, P-core 2.5 / 4.4GHz, 18MB
+- Memoria RAM de 16GB (2x 8GB UDIMM ARMOR DDR5-4800) ampliables hasta 128GB DDR5-4800
+- Sin sistema operativo
 - Almacenamiento de 1TB SSD (M.2 2280 PCIe 4.0x4 NVMe)
+- Tarjeta gráfica NVIDIA GeForce RTX 3060 12GB GDDR6
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BVMY7ZG4{{</world>}}

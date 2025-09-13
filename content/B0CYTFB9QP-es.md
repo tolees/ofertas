@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Horma clásica
-- Forro textil y sintético
+- Amortiguación LIGHTMOTION
 - Suela Adiwear
 - Cierre de cordones
 - Empeine textil y de malla sintética
-- Amortiguación LIGHTMOTION
+- Forro textil y sintético
+- Horma clásica
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CYTFB9QP{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Parte superior de piel sintética
-- Forro textil
 - Corte regular
+- Parte superior de piel sintética
 - Parachoques
+- Forro textil
 - Cierre de cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})

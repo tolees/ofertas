@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Modelo de corte slim
-- Logo de Tommy Hilfiger bordado en el pecho
 - Con detalles distintivos de Tommy Hilfiger
+- Logo de Tommy Hilfiger bordado en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08CVRNW4R{{</world>}}

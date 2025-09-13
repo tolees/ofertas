@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- A Pantalones ajustados refinados con forma de pierna cónica
 - Bolsillos ribeteados
-- Chinos para hombres
+- A Pantalones ajustados refinados con forma de pierna cónica
 - Elástico para una comodidad ideal de uso
+- Chinos para hombres
 - Con ajuste delgado y corte delgado en el muslo sin que sea demasiado apretado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Los niños podrán aprender la multiplicación y la división, las fracciones y la medición
-- Las actividades van desde simples ejercicios de valor posicional hasta ejercicios para calcular el volumen de ciertas figuras
 - Cubre conceptos básicos de matemáticas para niños de 6 años de edad
+- Las actividades van desde simples ejercicios de valor posicional hasta ejercicios para calcular el volumen de ciertas figuras
 - Incluye 15 tarjetas de actividades de doble cara y una guía de actividades en varios idiomas
 - Las 30 actividades incluidas son compatibles con el plan de estudios nacional
 

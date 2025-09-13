@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Modelo casual
-- Con un discreto logo en el pecho
 - Este producto es original Levis
+- Con un discreto logo en el pecho
 - Elaborada en punto suave
 
 [🛒 Visítala!!!]({{< param buyurl >}})

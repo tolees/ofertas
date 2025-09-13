@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Con las dimensiones exteriores de 8,5 x 8,5 x 13,5 cm, la caja es manejable y ofrece mucho espacio para diseños creativos. La selección de colores consta de tres diseños/colores (negro, gris y blanco).
-- Desde el exterior, la caja de explosión da la apariencia de una caja de regalo para fotos, una vez que se abre, salen 25 superficies de diseño libres.
-- La caja de explosión está fabricada en cartón fotográfico sin ácidos y las superficies de diseño en el interior se pueden escribir y pegar perfectamente.
 - En color negro, la caja explosiva tiene una tapa impresa en color y en los cuatro lados exteriores ofrece espacio para una foto en formato de 7,6 x 11 cm.
+- La caja de explosión está fabricada en cartón fotográfico sin ácidos y las superficies de diseño en el interior se pueden escribir y pegar perfectamente.
+- Desde el exterior, la caja de explosión da la apariencia de una caja de regalo para fotos, una vez que se abre, salen 25 superficies de diseño libres.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08L65S2RD{{</world>}}

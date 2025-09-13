@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Piel hidratada hasta 48 horas después de la aplicación
-- Piel seca
 - Loción corporal rica
+- Piel seca
+- Piel hidratada hasta 48 horas después de la aplicación
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B075Z3CRSQ{{</world>}}

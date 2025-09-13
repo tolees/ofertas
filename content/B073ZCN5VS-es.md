@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nota: hay una sola lata. Introduce el número deseado en el carrito.
 - Umarex Las cápsulas de CO2 siempre han sido apreciadas por su consistencia y alto contenido de CO2, lo que permite disparos largos y repetidos.
+- Nota: hay una sola lata. Introduce el número deseado en el carrito.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B073ZCN5VS{{</world>}}

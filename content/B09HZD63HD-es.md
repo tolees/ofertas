@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Horma clásica
+- Parte superior sintética
 - Plantilla moldeada
 - Forro textil
+- Horma clásica
 - Amortiguación ligera
-- Parte superior sintética
 - Diseño fácil de poner y quitar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

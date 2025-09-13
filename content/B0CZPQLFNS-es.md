@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte clásico con tiro medio
 - Chaqueta y pantalón: Puños y dobladillo de canalé
-- Pantalón: Cintura elástica con cordón
-- Cierre de cremallera y cuello alzado
-- 100 % poliéster (reciclado)
+- Corte clásico con tiro medio
 - Chaqueta y pantalón: Bolsillos delanteros
+- 100 % poliéster (reciclado)
+- Cierre de cremallera y cuello alzado
+- Pantalón: Cintura elástica con cordón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZPQLFNS{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- NexYz se adapta a todos los oculares de 35 a 60 milímetros de diámetro, incluidos los telescopios con oculares de 1,25 y 2 pulgadas. Rango de sujeción locular: 35 mm - 60 mm (1,37» - 2,36») [Nota: tamaño mínimo de 25 mm (0,98») con los adaptadores suministrados
-- A diferencia de otros adaptadores, el dispositivo NexyZ cuenta con tres botones direccionales (ejes X, Y y Z) que permiten que la cámara del teléfono quede perfectamente alineada con el ocular en cuestión de segundos, lo que te permite tomar una foto perfecta; además, puedes ajustar el voltaje para mantener el teléfono firmemente en su lugar.
 - El NexyZ resiste un uso riguroso en el campo gracias a su construcción robusta y duradera, con una estructura de metal y un cuerpo de polímero.
+- NexYz se adapta a todos los oculares de 35 a 60 milímetros de diámetro, incluidos los telescopios con oculares de 1,25 y 2 pulgadas. Rango de sujeción locular: 35 mm - 60 mm (1,37» - 2,36») [Nota: tamaño mínimo de 25 mm (0,98») con los adaptadores suministrados
 - Funciona con una amplia gama de modelos de teléfonos móviles, incluidos los dispositivos más recientes de Samsung, Google y Apple
+- A diferencia de otros adaptadores, el dispositivo NexyZ cuenta con tres botones direccionales (ejes X, Y y Z) que permiten que la cámara del teléfono quede perfectamente alineada con el ocular en cuestión de segundos, lo que te permite tomar una foto perfecta; además, puedes ajustar el voltaje para mantener el teléfono firmemente en su lugar.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07D7V3B8M{{</world>}}

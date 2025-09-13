@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste regular
 - Tela suave
+- Ajuste regular
 - Detalles distintivos de la marca
 - Amplia libertad de movimiento
 

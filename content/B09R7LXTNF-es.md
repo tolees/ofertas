@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Ingredientes: avene thermal spring water (avene aqua). c12-15 alkyl benzoate. diethylamino hydroxybenzoyl hexyl benzoate. ethylhexyl triazone. glycerin. oryza sativa (rice) starch (oryza sativa starch). phenylene bis-diphenyltriazine. water (aqua). bis-ethylhexyloxyphenol methoxyphenyl triazine. glyceryl stearate. potassium cetyl phosphate. stearyl alcohol. vp/eicosene copolymer. benzoic acid. caprylic/capric triglyceride. caprylyl glycol. glyceryl behenate. glyceryl dibehenate. ppg-1-peg-9 lauryl glycol ether. red 33 (ci 17200). tocopheryl glucoside. tribehenin. xanthan gum.
+- Solar
 - Avene
 - 0
-- Solar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09R7LXTNF{{</world>}}

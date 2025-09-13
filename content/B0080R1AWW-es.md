@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuchillas forjadas a presión y tratadas térmicamente
 - cuchillas rectificadoras de precisión
-- Tamaño 6, 12, 19, 25 mm x 230 mm
 - Mango de plástico resistente a los impactos
 - Juego de cinceles de madera de 4 piezas
+- Tamaño 6, 12, 19, 25 mm x 230 mm
+- Cuchillas forjadas a presión y tratadas térmicamente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0080R1AWW{{</world>}}

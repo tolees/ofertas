@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aroma: De intensidad media-alta y con su carácter pilsen, la cerveza española Mahou clásica rubia lager otorga un ligero aroma frutal con sutiles notas florales de lúpulo
-- Es la primera cerveza Mahou de la historia, está elaborada a partir de una combinación de agua, lúpulo, maíz y maltas pilsen de distinto origen, manteniendo su receta original de 1890. Tradición Cervecera española
 - Pack 28 latas de 33 cl de cerveza Mahou Clásica, cerveza dorada lager, la cerveza de siempre que mantiene intacta su receta, sabor calidad y dedicación, con 4,8% de alcohol. Para un mayor disfrute se recomienda consumir entre 4º y 6º C
-- Apariencia: Cerveza lata Mahou Clásica dorada pale lager de aspecto dorado y reluciente con espuma consistente
+- Es la primera cerveza Mahou de la historia, está elaborada a partir de una combinación de agua, lúpulo, maíz y maltas pilsen de distinto origen, manteniendo su receta original de 1890. Tradición Cervecera española
 - Sabor: Sabor suave, con un buen equilibrio entre alcohol y acidez, en boca es fina y de cuerpo moderado, lo que unido a un amargor suave en intensidad le confiere un efecto muy refrescante. Cerveza Mahou Clásica es adecuada para acompañar cualquier aperitivo
+- Aroma: De intensidad media-alta y con su carácter pilsen, la cerveza española Mahou clásica rubia lager otorga un ligero aroma frutal con sutiles notas florales de lúpulo
+- Apariencia: Cerveza lata Mahou Clásica dorada pale lager de aspecto dorado y reluciente con espuma consistente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B082YFFPF1{{</world>}}

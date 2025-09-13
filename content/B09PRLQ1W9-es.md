@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 70 cartas adicionales
 - Idiomas: castellano, valenciano, euskera, gallego (todo en la misma caja)
-- Nuevos personajes castellanos, madrileños, valencianos, catalanes, gallegos, vascos y andaluces
-- A partir de 10 años, 2-5 jugadores, partidas de 20-40 minutos
-- Ampliación del juego Alakazum. Se requiere el juego básico para jugar.
 - ¡Nuevo modo de juego!
+- A partir de 10 años, 2-5 jugadores, partidas de 20-40 minutos
+- 70 cartas adicionales
+- Ampliación del juego Alakazum. Se requiere el juego básico para jugar.
+- Nuevos personajes castellanos, madrileños, valencianos, catalanes, gallegos, vascos y andaluces
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09PRLQ1W9{{</world>}}

@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mantiene el aliento fresco
 - Sin sensación de ardor
 - Probado cínicamente
-- Ayuda a prevenir problemas de encías
-- Sabor menta fresca
-- Ayuda a prevenir la reaparición de placa
 - Protección 24 horas frente a la placa si se usa dos veces al día (mañana y noche)
+- Ayuda a prevenir problemas de encías
+- Ayuda a prevenir la reaparición de placa
+- Sabor menta fresca
+- Mantiene el aliento fresco
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01H5VKWU4{{</world>}}

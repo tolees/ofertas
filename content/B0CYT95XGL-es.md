@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Horma clásica
 - Empeine de piel sintética
-- 3 bandas perforadas
 - Suela de goma
+- 3 bandas perforadas
 - Cierre de cordones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

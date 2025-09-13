@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material exterior: Lona
 - Revestimiento: Tela
-- Tipo de tacón: Tacón ancho
-- Composición: Textile
-- Altura del tacón: 3 centímetros
 - Anchura del zapato: Normal
+- Altura del tacón: 3 centímetros
 - Cierre: Cordones
+- Composición: Textile
+- Tipo de tacón: Tacón ancho
+- Material exterior: Lona
 - Material de la suela: Goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cierre de cordones para un ajuste cómodo
-- Cuello acolchado y cosido
 - Superior de cuero
 - Diseño de ojal actualizado
+- Cuello acolchado y cosido
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BLCPGSQ9{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalones cortos con las siguientes características:
 - Descubre todas las marcas de EMP!
-- Ropa de Calle
 - Pantalones cortos || Merch para fans y divertido || Patrón: Liso
+- Ropa de Calle
+- Pantalones cortos con las siguientes características:
 - Medidas: tamaño estándar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Blusa de manga corta con vuelta
 - con un bolsillo a la altura del pecho
+- Blusa de manga corta con vuelta
 - con cuello camisero
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

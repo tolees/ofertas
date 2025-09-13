@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela de tracción de goma flexible
 - Parte superior de punto de malla diseñada con cordones en la parte delantera
+- Suela de tracción de goma flexible
 - Entresuela contorneada que absorbe los golpes
 - Skechers Plantilla acolchada de espuma viscoelástica
 

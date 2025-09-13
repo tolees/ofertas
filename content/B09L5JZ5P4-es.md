@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Franja característica de PUMA en los lados lateral y medial
 - Logotipo de PUMA Cat en el talón
-- Parte superior reciclada
 - Suela de goma
+- Parte superior reciclada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09L5JZ5P4{{</world>}}

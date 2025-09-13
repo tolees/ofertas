@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fácil de usar
 - Material de calidad
+- Fácil de usar
 - Material de plástico
 - Disponible con diferentes números de cajones
 

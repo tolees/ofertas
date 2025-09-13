@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Estabilizador personalizado
 - Suela EVA y caucho
-- Logotipo clásico en el cuarto
 - Zapatillas de moda con diferentes materiales y combinaciones de colores neutros
+- Logotipo clásico en el cuarto
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CB9LH4BQ{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura alta
 - Ajuste entallado
+- Cintura alta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB491JGH{{</world>}}

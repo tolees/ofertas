@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 360º Stitching
 - Ajuste fácil
+- 360º Stitching
 - Flexibilidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

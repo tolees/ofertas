@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cintura elástica con cordón
-- Corte clásico con cintura de talle medio
 - Tecnología transpirable AEROREADY
+- Corte clásico con cintura de talle medio
+- Cintura elástica con cordón
 - Tejido técnico 100% poliéster reciclado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

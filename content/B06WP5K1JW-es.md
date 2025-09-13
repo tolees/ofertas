@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- regalitos para fiesta
-- pulseras elásticas de harry potter
 - Unique party 59068 - regalitos para fiesta - pulseras elásticas de harry potter - paquete de 4
+- pulseras elásticas de harry potter
+- regalitos para fiesta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B06WP5K1JW{{</world>}}

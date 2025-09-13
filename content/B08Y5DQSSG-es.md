@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de fábrica: 100 % Poliéster; tipo de deporte: Multi-deportes
-- Rib en puños y bajo
-- Chaqueta con cremallera
-- Pantalón con cordones
 - Chándal de dos piezas formado por chaqueta con cuello alto y pantalón largo con bolsillos y cintura elástica ajustable; logotipo estampado
+- Rib en puños y bajo
+- Pantalón con cordones
+- Chaqueta con cremallera
+- Tipo de fábrica: 100 % Poliéster; tipo de deporte: Multi-deportes
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08Y5DQSSG{{</world>}}

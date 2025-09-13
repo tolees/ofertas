@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Muy resistente
-- Licencia oficial
 - Alta calidad
+- Licencia oficial
+- Muy resistente
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B076QJ9V7R{{</world>}}

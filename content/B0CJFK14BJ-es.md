@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Interfaces Variadas & Amplia Compatibilidad - Con 2 puertos USB-C y un puerto USB-A, la central eléctrica Jackery E100 Plus puede cargar 3 dispositivos a la vez con una salida de 128W. Diseñado para admitir protocolos PD/AFC/QC/PPS, es compatible con varios dispositivos como teléfonos móviles, portátiles, tabletas, etc.
-- Carga Rápida Bidireccional & Carga Solar - Gracias a la tecnología bidireccional PD 3.0, E100 Plus estación de energía portátil es capaz de recibir una carga ultrapotente de 100W y recargarse completamente en 1.8 horas. Una vez conectado al panel solar SolarSaga de 100W, el E100 Plus puede cargarse rápida y completamente en 2 horas.
 - Contenido del Paquete - 1* Jackery Explorer 100 Plus 1*Manual de usuario, 1*Cable de carga USB-C
-- Larga Vida Útil & Resistencia - Gracias a su duradera celda de batería de fosfato de hierro y litio, el producto tiene una vida útil muy larga y la capacidad de su batería permanece en un 80% después de 2000 ciclos.
+- Interfaces Variadas & Amplia Compatibilidad - Con 2 puertos USB-C y un puerto USB-A, la central eléctrica Jackery E100 Plus puede cargar 3 dispositivos a la vez con una salida de 128W. Diseñado para admitir protocolos PD/AFC/QC/PPS, es compatible con varios dispositivos como teléfonos móviles, portátiles, tabletas, etc.
 - Portátil, Fácil de Usar & Seguro y Confiable - Esta central eléctrica portátil cumple con los estándares de transporte aéreo y es fácil de transportar gracias a su diseño de tamaño pequeño. Este generador eléctrico E100 Plus se beneficia de una seguridad de primer nivel gracias a las certificaciones UL y CE/EMC clase B, una compatibilidad electromagnética superior y 6 formas de protección.
+- Larga Vida Útil & Resistencia - Gracias a su duradera celda de batería de fosfato de hierro y litio, el producto tiene una vida útil muy larga y la capacidad de su batería permanece en un 80% después de 2000 ciclos.
+- Carga Rápida Bidireccional & Carga Solar - Gracias a la tecnología bidireccional PD 3.0, E100 Plus estación de energía portátil es capaz de recibir una carga ultrapotente de 100W y recargarse completamente en 1.8 horas. Una vez conectado al panel solar SolarSaga de 100W, el E100 Plus puede cargarse rápida y completamente en 2 horas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CJFK14BJ{{</world>}}

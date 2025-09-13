@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Nevera plegable. Aislamiento de espuma de polietileno expandido EPE de células cerradas
 - Capacidad de conservación: 6 h con acumuladores Freez’Pack (vendido separadamente) Capacidad: 4 L
+- Nevera plegable. Aislamiento de espuma de polietileno expandido EPE de células cerradas
 - Correa ajustable a los hombros. Un bolsillo central. Dos trabillas para ajustar a la bici
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hacemos eso con innovación de rendimiento y zapatos, camisas y herramientas digitales que cambian el juego y que empujan los límites de lo que uno pensaba posible
 - Eso significa que si uno establece un objetivo, ayudaremos a aplastarlo
+- Hacemos eso con innovación de rendimiento y zapatos, camisas y herramientas digitales que cambian el juego y que empujan los límites de lo que uno pensaba posible
 - La misión de Under Armour es simple: hacer una mejor
 
 [🛒 Comprar!!!]({{< param buyurl >}})

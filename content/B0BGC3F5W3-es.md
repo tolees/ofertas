@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Entresuela de espuma EVA
-- Suela de goma
 - Parte en ante y nailon
 - Parche con logotipo en la lengüeta
+- Entresuela de espuma EVA
+- Suela de goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BGC3F5W3{{</world>}}

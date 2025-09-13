@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Dimensiones (ancho x alto x fondo): 10 x 18 x 10 cm
-- Superficie SOFT-TOUCH (cerámica engomada) en blanco
-- Bomba de plástico cromado de alto brillo para dosificar porciones de detergente líquido
-- Rellenable, capacidad aprox. 380 ml
 - Dispensador de detergente o jabón con opción de almacenamiento integrado para esponjas lavavajillas
+- Bomba de plástico cromado de alto brillo para dosificar porciones de detergente líquido
+- Superficie SOFT-TOUCH (cerámica engomada) en blanco
+- Rellenable, capacidad aprox. 380 ml
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B003SLDZD2{{</world>}}

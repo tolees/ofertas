@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior sintética
 - Suela de goma
+- Parte superior sintética
 - Forro de malla en el cuello
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

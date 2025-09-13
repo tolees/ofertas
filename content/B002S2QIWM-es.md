@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dimensiones A x L x P (con Tapa Abierta) :89x59x52cm.
 - Sistema Limpieza de la Ceniza One-Touch
-- Parrilla de Cocción :de acero cromado
+- Sistema Limpieza de la Ceniza One-Touch :si
+- Dimensiones A x L x P (con Tapa Abierta) :89x59x52cm.
 - Superficie de Cocción :44,5cm. de diámetro
 - Parrilla de cocción: de acero cromado
-- Sistema Limpieza de la Ceniza One-Touch :si
+- Parrilla de Cocción :de acero cromado
 - Cuba y Tapa :de acero vitrificado
 - Cuba y tapa: de acero vitrificado
 

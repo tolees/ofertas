@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantilla: plantilla extraíble para un ajuste óptimo
-- Material exterior: piel (piel de vacuno) / textiles funcionales
-- Suela/características: correa elástica para un ajuste cómodo
 - Forro:
+- Plantilla: plantilla extraíble para un ajuste óptimo
+- Suela/características: correa elástica para un ajuste cómodo
+- Material exterior: piel (piel de vacuno) / textiles funcionales
 - Color: negro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

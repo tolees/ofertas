@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material de la suela: PU
 - Cierre: Cordones
+- Material de la suela: PU
 - Material exterior: Cuero
 
 [🛒 Aquí!!!]({{< param buyurl >}})

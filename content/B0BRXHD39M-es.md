@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material resistente
 - Tiene detalles distintivos de la marca
+- Material resistente
 - Raqueta de tenis
 
 [🛒 Comprar!!!]({{< param buyurl >}})

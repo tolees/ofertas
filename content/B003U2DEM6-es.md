@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mantener a temperatura ambiente
 - País de origen: Italia
+- Mantener a temperatura ambiente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B003U2DEM6{{</world>}}

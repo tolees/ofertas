@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cargo
 - T2 Orig Chino Skiny Opp Silver Sage
 - Añade un poco de estilo extra
-- Cargo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B1LSB664{{</world>}}

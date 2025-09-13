@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Escote alto
 - Tejido transpirable expulsa rápidamente el sudor de la piel
-- Dobladillo curvado
 - Tirante central en la espalda
+- Dobladillo curvado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08R6F66GT{{</world>}}

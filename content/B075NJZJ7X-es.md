@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- NO PEGAJOSO: protector solar de amplio espectro para una piel sana, suave y radiante, de uso diario, de fácil aplicación, resistente al agua
 - HIPOALERGÉNICO E INVISIBLE: fotoprotector de textura ligera y fluida, hipoalergénico, sin efecto blanqueante, para un acabado invisible incluso en pieles oscuras
 - 100% MINERAL: protector solar facial de alta tolerancia, con filtros 100% minerales, perfecto para pieles sensibles, reactivas e intolerantes o tras técnicas y procedimientos dermatológicos
 - TESTADO: fotoprotección avanzada testada bajo control dermatológico y oftalmológico, testado en pieles sensibles, ¡disfruta del sol sin preocupaciones!
-- NO PEGAJOSO: protector solar de amplio espectro para una piel sana, suave y radiante, de uso diario, de fácil aplicación, resistente al agua
 - PROTECCIÓN 360°: crema solar facial con Fernblock+, filtros específicos y activos reparadores y antioxidantes, protege frente a las 4 radiaciones (UVB, UVA, Visible e Infrarrojo), neutraliza y repara el daño solar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tiene cremallera central
+- Bolsillos delanteros sin cremallera
 - Con vivo elástico en puños
 - Cuello alto
-- Bolsillos delanteros sin cremallera
-- Tiene cremallera central
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08CBWQYJ3{{</world>}}

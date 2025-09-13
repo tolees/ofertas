@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello redondo
-- Este es un producto sostenible
-- Manga corta
 - Algodón regular (100%)
 - Lavar a máquina
+- Manga corta
+- Este es un producto sostenible
+- Cuello redondo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C2J6MH91{{</world>}}

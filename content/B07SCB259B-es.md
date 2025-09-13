@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - El óptimo pack de 3 calcetines óptimoes
-- Ajuste regular
 - Detalle del logo Batwing de Levis
+- Ajuste regular
 - Calcetines invisibles de tiro alto para hombre y mujer
 - Silicona antideslizante en el interior del talla
 

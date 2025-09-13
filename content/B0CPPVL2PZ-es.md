@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con una amortiguación óptima
 - Impermeables y transpirables
+- Con una amortiguación óptima
 - Protección contra el frío
 
 [🛒 Visítala!!!]({{< param buyurl >}})

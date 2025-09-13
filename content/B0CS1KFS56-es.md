@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CONVERSE
 - CONVERSE modelo CHUCK TAYLOR ALL STAR PLATFORM GLAZE T. 38
+- CONVERSE
 - ROSA
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

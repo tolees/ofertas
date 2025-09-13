@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Para pasar un buen rato en familia
-- Porducto con licencia oficial
 - Puzzle 3D
 - 0
+- Porducto con licencia oficial
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B093PW9FQ2{{</world>}}

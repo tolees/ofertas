@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Altura tacón 3cm
 - Plantilla muy acolchada y piso flexible
+- Altura tacón 3cm
 - Zapatos de salón color bronce de piel con trenzado artesanal
 - Plantilla de piel curtida de forma sostenible e hilatura de los tejidos del forro reciclados
 

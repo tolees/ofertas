@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - IMAX Enhanced cumple los más altos estándares de certificación en calibración, resolución, color, brillo, contraste, fotogramas y rendimiento de sonido.
-- La atenuación local Full Array admite 10 millones de niveles de control preciso de la luz.
 - El VRR de 144 Hz es mucho más rápido que los modelos tradicionales de 50 Hz, lo que se traduce en unos efectos visuales supersuaves.
 - HDR de 1000 nits proporciona una visualización nítida en diversas condiciones de iluminación, incluida la luz solar brillante.
 - QLED te ayuda a asomarte a un caleidoscopio y explorar un mundo infinito de colores.
+- La atenuación local Full Array admite 10 millones de niveles de control preciso de la luz.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C5QVPDMV{{</world>}}

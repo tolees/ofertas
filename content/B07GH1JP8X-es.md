@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Material de la suela: Caucho
-- Tipo de tacón: Plano
 - Material exterior: Sintético
+- Tipo de tacón: Plano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07GH1JP8X{{</world>}}

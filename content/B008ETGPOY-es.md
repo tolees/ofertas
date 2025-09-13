@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Compatibility: Works with Dremel rotary tools 200, 285, 300, 3000, 395, 398, 400, 4000, 4200, 4250, 4300, 8000, 8100, 8200 & 8220
 - Comfortable: Work longer, with more comfort and control thanks to the lightweight design and comfort grip handpiece for applications such as cutting, grinding, sanding, polishing, engraving and more
-- Precision: This rotary tool attachment allows for more detailed work and easier and more mobility in hard to reach places
 - Flexible: The 127 mm bend radius provides more manoeuvrability and flexibility during use
+- Precision: This rotary tool attachment allows for more detailed work and easier and more mobility in hard to reach places
 - Convenient: The integrated shaft lock button allows for quick and easy accessory changes
+- Compatibility: Works with Dremel rotary tools 200, 285, 300, 3000, 395, 398, 400, 4000, 4200, 4250, 4300, 8000, 8100, 8200 & 8220
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B008ETGPOY{{</world>}}

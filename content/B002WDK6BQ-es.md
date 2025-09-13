@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Piel sensible protegida del sol y el envejecimiento. Stick mate invisible.
 - Stick Zonas Sensibles ofrece alta protección solar contra los rayos UVA y UVB en áreas sensibles (nariz, pómulos, labios) o fragilizadas (quemaduras, heridas, cicatrices).
+- Piel sensible protegida del sol y el envejecimiento. Stick mate invisible.
 - Aplicar en las zonas sensibles antes de la exposición solar. Renovar, especialmente después de bañarse.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

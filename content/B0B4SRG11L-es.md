@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Labios a prueba de todo en 2 pasos: paso 1, tinta líquida, paso 2, bálsamo hidratante
-- A prueba de roces, besos y cenas
 - Color e hidratación de optimo impacto
 - Brillo e hidratación para una sensación de confort en los labios
+- A prueba de roces, besos y cenas
 - Hasta 16 horas de color inalterable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

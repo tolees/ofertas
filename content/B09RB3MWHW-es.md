@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pespuntes en color
 - Interior en color
+- Pespuntes en color
 - 100% POLYURETHANE
 - Color liso
 

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con dos bolsillos abiertos para las manos
 - Pantalón corto
 - Cintura de canalé con cordón ajustable
+- Con dos bolsillos abiertos para las manos
 - Logotipos en la parte delantera y trasera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

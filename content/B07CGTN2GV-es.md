@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Labial líquido de larga duración y acabado mate
-- Fragancia irresistible a chocolate
 - Alta pigmentación y fácil de aplicar
-- Color rojo nude
+- Fragancia irresistible a chocolate
 - Se seca rápidamente y proporciona larga duración
+- Color rojo nude
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07CGTN2GV{{</world>}}

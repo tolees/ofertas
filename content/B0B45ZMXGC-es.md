@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lavable a máquina
-- Vegano
 - Ajuste ancho
+- Vegano
+- Lavable a máquina
 - Espuma viscoelástica
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

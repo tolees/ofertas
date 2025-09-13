@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Set 150 accesorios con práctico maletín
 - Gran variedad de aplicaciones prácticas
-- Se adapta a todas las herramientas Dremel multiusos/rotativas u otras herramientas multiusos/rotativas con mandril de 3,2 mm
 - 4 para pinzas/mandriles; 21 para limpiar/pulir; 1 para tallar/fresar; 58 para lijar; 8 para amolar/afilar; 59 para cortar
+- Se adapta a todas las herramientas Dremel multiusos/rotativas u otras herramientas multiusos/rotativas con mandril de 3,2 mm
 - Caja transparente para la clara visión de los accesorios
 
 [🛒 Visítala!!!]({{< param buyurl >}})

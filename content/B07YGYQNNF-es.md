@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tipo de memoria flash: Micro SD
 - Velocidades de UHS-I Clase 10 de hasta 100 MB/s
+- Tipo de memoria flash: Micro SD
 - Capacidad de la memoria: 256 GB
 - Optimizada para uso con dispositivos Android
 

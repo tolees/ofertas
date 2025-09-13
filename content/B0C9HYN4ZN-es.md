@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ofrece una comodidad óptima
 - Con tejido ligero y suave
+- Ofrece una comodidad óptima
 - Escote redondo con abertura y cierre de botón
 
 [🛒 Comprar!!!]({{< param buyurl >}})

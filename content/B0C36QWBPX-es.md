@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Composición del material: 75% algodón orgánico, 20% algodón reciclado, 3% elastomultiéster, 2% elastano
 - - Cierre: tira de botones
 - - Tipo de producto: vaqueros de corte cómodo
+- Composición del material: 75% algodón orgánico, 20% algodón reciclado, 3% elastomultiéster, 2% elastano
 - - Cintura: Mid Rise
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

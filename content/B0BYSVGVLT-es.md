@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Burbuja de aire que brilla en la oscuridad
-- Se puede jugar con ella como si fuese un balón, además de aplastarla, estrujarla y golpearla.
 - Es muy resistente.
+- Se puede jugar con ella como si fuese un balón, además de aplastarla, estrujarla y golpearla.
+- Burbuja de aire que brilla en la oscuridad
 - No necesita hinchador y tiene el tamaño de una pelota de futbol
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

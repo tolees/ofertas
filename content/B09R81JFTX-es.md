@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantilla GioMemory Effect
 - Planta y forro de políester reciclado
+- Plantilla GioMemory Effect
 - Materiales reciclados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

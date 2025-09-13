@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Fabricado con 100 % algodón sostenible
+- Logotipo impreso en el pecho
 - Corte regular
 - Cuello redondo
 - Pepe Jeans se asocia con la iniciativa Better Cotton para mejorar la agricultura del algodón a nivel mundial
-- Logotipo impreso en el pecho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB4D6JMN{{</world>}}

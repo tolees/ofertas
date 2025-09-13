@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Polo para hombre de Tom Tailor
 - Ajuste óptimo y gran comodidad
+- Polo para hombre de Tom Tailor
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B099SZ6J8X{{</world>}}

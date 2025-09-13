@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ajuste Clásico: Ajuste universal y sencillo para una cómoda amplitud de movimiento
-- Chaqueta ligera para niños, Con suave forro polar y cuello alto que protege del frío
 - Bolsillos funcionales con cremallera para mantener las manos calientes y para guardar pequeños objetos en las excursiones
+- Chaqueta ligera para niños, Con suave forro polar y cuello alto que protege del frío
 - Contenido: 1x Columbia Niños Unisex Forro Polar con Cremallera Completa Sequoia Grove, Color: Verde (Stone Green, Satin Pink), Talla: XS, Artículo: 2087631
 - Puños y dobladillo elásticos para proteger de la intemperie
 

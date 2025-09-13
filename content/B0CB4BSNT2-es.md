@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hecho de algodón 100% sostenible
 - Logotipo impreso en el pecho
 - Corte normal
+- Hecho de algodón 100% sostenible
 - Cuello redondo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

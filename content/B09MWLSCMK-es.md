@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Lightweight knit
-- Material composition: 60% cotton, 20% viscose, 20% nylon
-- sweaters
 - High quality knit for every day
+- sweaters
+- Material composition: 60% cotton, 20% viscose, 20% nylon
+- Lightweight knit
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09MWLSCMK{{</world>}}

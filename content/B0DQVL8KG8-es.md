@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Ideal para llevar en casa o para tu día a día en tus looks de calle más relajados
 - Camisola de mangas largas, confeccionada en tejido de viscosa con un lindo estampado de flores en tonos s y s
 - Combina con otras prendas y accesorios de la colección
-- Ideal para llevar en casa o para tu día a día en tus looks de calle más relajados
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DQVL8KG8{{</world>}}

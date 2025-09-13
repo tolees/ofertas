@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte regular
 - Aspecto clásico y elegante
+- Corte regular
 - Cómodo de llevar y suave al tacto
 
 [🛒 Comprar!!!]({{< param buyurl >}})

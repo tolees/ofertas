@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bolsillos delanteros, bolsillos traseros
 - Envuelve cómodamente las piernas desde la cadera hasta el tobillo
+- Bolsillos delanteros, bolsillos traseros
 - Trabillas para cinturón
 
 [🛒 Visítala!!!]({{< param buyurl >}})

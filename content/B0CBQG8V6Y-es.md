@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Forro 100% Poliéster
 - Garantía certificada Global Recycled Standard (GRS)
 - Plantilla anatómica extraíble
-- Forro 100% Poliéster
 - Sneakers color malva con detalles en color morado, rosa, naranja y verde, en mix de materiales y texturas con piezas traslúcidas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

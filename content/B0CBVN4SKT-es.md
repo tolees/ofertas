@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Piso flexible
 - Plantilla acolchada de piel curtida de forma sostenible
-- Cierre ajustable al tobillo
 - Forro de piel
+- Cierre ajustable al tobillo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CBVN4SKT{{</world>}}

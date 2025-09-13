@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con células nativas de peonías, capaces de potenciar la luminosidad de la piel
 - Rostro más firme, nutrido, luminoso e hidratado.
-- El Aceite-Sérum de tono Rosado Golden Age Perfect con células de peonías, el mejor tratamiento antiflacidez enfocado en dar firmeza, nutrición y luminosidad al rostro.
 - Deja la piel más hidratada, cómoda y con más luminosidad
+- El Aceite-Sérum de tono Rosado Golden Age Perfect con células de peonías, el mejor tratamiento antiflacidez enfocado en dar firmeza, nutrición y luminosidad al rostro.
+- Con células nativas de peonías, capaces de potenciar la luminosidad de la piel
 - Proporciona + 29% firmeza al instante con una textura no grasa.
 - También cuenta con Calcium y Vitamina B3 que fortalecen la barrera de la piel y refuerzan su función protectora.
 

@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Función de luz intermitente o giratoria
-- Variante mini Con una anchura de 400 mm y una profundidad de 218 mm
-- Multivoltaje (10 - 30 V)
 - Homologación SAE - Tip. protec. (Cód-IP): 6X, X4K, X9K
-- Con señal de aviso giratorio/Con señal de aviso parpadeante - Color de tulipa: transparente - Color LED: amarillo/blanco - Lado de montaje: montaje exterior
 - Sistema de aviso óptico estrecho Con una altura de sólo 49 mm (sin soporte)
+- Multivoltaje (10 - 30 V)
+- Función de luz intermitente o giratoria
+- Con señal de aviso giratorio/Con señal de aviso parpadeante - Color de tulipa: transparente - Color LED: amarillo/blanco - Lado de montaje: montaje exterior
 - Tipo de lámpara: LED
+- Variante mini Con una anchura de 400 mm y una profundidad de 218 mm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B088GGX3NW{{</world>}}

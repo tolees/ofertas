@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Detalles distintivos de la marca
 - Libertad de movimiento
 - Resistente al viento
-- Detalles distintivos de la marca
 - Pantalones para mujer
 
 [🛒 Comprar!!!]({{< param buyurl >}})

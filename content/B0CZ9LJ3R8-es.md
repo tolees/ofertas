@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Neceser de 29 cm x 21 cm x 15 cm fabricado en ABS.
 - Tiradores de cremallera con agujeros para candado.
+- Neceser de 29 cm x 21 cm x 15 cm fabricado en ABS.
 - Posibilidad de llevarla con la bandolera que incorpora o de adaptarla a la maleta con la banda trasera para ahorrar espacio.
 - De Joumma Bags.
 - Contiene dos compartimentos, uno de ellos con bolsillo con cremallera y el otro contiene un bolsillo con gomas elásticas y espejito para llevar todos tus accesorios de aseo personal bien ordenados.

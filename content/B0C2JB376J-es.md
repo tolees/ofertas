@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiro medio
 - Ajuste regular
 - Pierna recta
+- Tiro medio
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C2JB376J{{</world>}}

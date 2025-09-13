@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- AJUSTE TIPO LEGGING: Ajuste ceñido u entallado en cadera, muslo y pierna
 - BÁSICOS PARA EL DÍA A DÍA: Estos leggings sin cierre se convertirán en una prenda básica del amario de tu pequeño.
-- DETALLES: Cintura elástica. Prenda diseñada para que quede por el tobillo.
 - Este producto contiene un 57 % de algodón orgánico con la certificación Organic Content Standard (OCS)
+- AJUSTE TIPO LEGGING: Ajuste ceñido u entallado en cadera, muslo y pierna
 - TIRO DEL PANTALÓN: La talla 3 años mide 33 cm; la talla M mide 54,6 cm.
+- DETALLES: Cintura elástica. Prenda diseñada para que quede por el tobillo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09V28GQF7{{</world>}}

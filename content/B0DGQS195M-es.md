@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Aplicación: Agita para activar, Extiende el labial con el aplicador angulado ultrapreciso desde el centro hasta las comisuras del labio, Deja secar para un acabado infalible
-- Fórmula de larga duración que no transfiere ni se emborrona, Enriquecido con escualano, No reseca los labios
 - Color intenso que dura hasta 16 horas (*test de consumidor en 109 voluntarias), Alta pigmentación en una sola pasada, Disponible en 12 tonos con acabado brillante
 - Contenido: 1x LOréal Paris Pintalabios Líquido, Color Intenso de Larga Duración, No Transfiere, Acabado Brillante con Efecto Vinilo, Infaillible Laque Resistance, Tono 250 Pink Oulala
+- Fórmula de larga duración que no transfiere ni se emborrona, Enriquecido con escualano, No reseca los labios
 - LOréal Paris Infaillible Laque Resistance: Pintalabios líquido de larga duración que no pesa en tus labios y cómodo de llevar todo el día, Acabado brillante con efecto vinilo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

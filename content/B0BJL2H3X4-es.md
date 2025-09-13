@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tirador de tela en el talón
 - Horma clásica
+- Tirador de tela en el talón
 - Suela de goma de aspecto vulcanizado
 - Parte de nobuk sintético
 

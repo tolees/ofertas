@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- zapatillas mujer deporte
-- cordones zapatillas deporte
 - zapatillas deportivas de muje
 - zapatillas running mujer
+- zapatillas mujer deporte
+- cordones zapatillas deporte
 - zapatillas mujer casual
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

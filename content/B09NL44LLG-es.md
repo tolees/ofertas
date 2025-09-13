@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte superior de cuero sintético
 - Ajuste regular
+- Parte superior de cuero sintético
 - Suela de goma
 
 [🛒 Comprar!!!]({{< param buyurl >}})

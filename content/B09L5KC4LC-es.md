@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela y suela de goma
 - Parte construida con materiales reciclados
+- Suela y suela de goma
 - Cuello bajo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello pico
 - Jersey de 100% algodón liso
+- Cuello pico
 - Puños y bajo en canale
 
 [🛒 Visítala!!!]({{< param buyurl >}})

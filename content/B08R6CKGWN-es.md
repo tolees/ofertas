@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tela transpirable
-- tela impermeable
 - ajuste apretado
+- tela impermeable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08R6CKGWN{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Lomo de 25mm
-- Cierre con gomas
 - Cartulina 7/10e 600 g/m2
+- Cierre con gomas
 - Se sirven montadas - 25x33 cm para A4
 - Colores surtidos : amarillo - azul - negro - rojo - rosa - turquesa - verde - violín
 

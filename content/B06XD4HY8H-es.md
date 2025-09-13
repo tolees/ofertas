@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cintura elástica ajustable con cordón
-- Pantalón pitillo con bolsillos y aberturas laterales en el bajo con cremalleras
 - Logos serigrafiados en laterales
+- Pantalón pitillo con bolsillos y aberturas laterales en el bajo con cremalleras
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B06XD4HY8H{{</world>}}

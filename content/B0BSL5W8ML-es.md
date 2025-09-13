@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ⚙️ ESPECIFICACIONES TÉCNICAS: Todas las piezas que conforman el juego han sido elaboradas a base de madera natural. Se incluyen 6 bolos (180 mm de altura) y 2 esferas (50 mm de diámetro).
-- 🧠 INTELIGENCIAS MÚLTIPLES: Gracias al uso de este juego, podrás estimular una serie de aspectos psicomotrices básicos: habilidades intrapersonales e interpersonales y coordinación visual-espacial.
 - 🎳 BOLOS: Este clásico deporte para niños y adultos llega a tu hogar convertido en juego de mesa y en tamaño miniatura, ideal para que puedas colocarlo dentro o fuera. Disfruta de increíbles tardes jugando con los tuyos a la vez que lo pasáis genial.
+- ⚙️ ESPECIFICACIONES TÉCNICAS: Todas las piezas que conforman el juego han sido elaboradas a base de madera natural. Se incluyen 6 bolos (180 mm de altura) y 2 esferas (50 mm de diámetro).
 - 👥 CÓMO JUGAR: Podéis jugar mínimo 2 personas y máximo 8. Colocad los bolos en forma triangular, con una fila de 3, otra de 2 y 1 bolo en el centro. Una vez establecidos los turnos, los jugadores tendrán 2 lanzamientos por cada uno. ¡Túmbalos todos!
 - 👨‍👧‍👦 PARA NIÑOS Y ADULTOS: Este juego está diseñado para edades comprendidas entre los 3 y 99 años. Esto lo convierte en un elemento ideal para todo tipo de hogares. Los juegos de mesa son clásicos atemporales que nos unen, estimulan y entretienen.
+- 🧠 INTELIGENCIAS MÚLTIPLES: Gracias al uso de este juego, podrás estimular una serie de aspectos psicomotrices básicos: habilidades intrapersonales e interpersonales y coordinación visual-espacial.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BSL5W8ML{{</world>}}

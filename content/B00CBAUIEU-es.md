@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye adaptador de tarjetas microSD a SD
 - Capacidad de almacenaje: 16 GB
 - Clase 10
+- Incluye adaptador de tarjetas microSD a SD
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00CBAUIEU{{</world>}}

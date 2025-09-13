@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con elementos reflectantes
 - Espuma ligera
+- Con elementos reflectantes
 - Ofrecen una comodidad óptima
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

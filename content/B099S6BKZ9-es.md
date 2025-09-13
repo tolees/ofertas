@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte ajustado de mezclilla
 - Sutiles pliegues
 - Tejido elástico
+- Corte ajustado de mezclilla
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B099S6BKZ9{{</world>}}

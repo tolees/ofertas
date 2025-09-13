@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Radio de acción de 7.5 m con recogecables automático
 - Con 4 fases de filtrado con filtro Hepa H13 lavable
-- Con 9 accesorios en dotación: turbo cepillo, mini cepillo turbo, lanza de aspiración, cepillo universal 2 posiciones, cepillo para líquidos y cepillo parquet para superficies delicadas
-- Regulación aspiración con mandos en la empuñadura, 4 velocidades, 850 W
 - Aspira sólidos y líquidos, filtro de agua y depósito extraíble
+- Regulación aspiración con mandos en la empuñadura, 4 velocidades, 850 W
+- Con 9 accesorios en dotación: turbo cepillo, mini cepillo turbo, lanza de aspiración, cepillo universal 2 posiciones, cepillo para líquidos y cepillo parquet para superficies delicadas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B079NFQVQD{{</world>}}

@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - High quality
 - Maximum comfort
-- Nike dry fabric
 - Regular fit
+- Nike dry fabric
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07W4SXQ6Z{{</world>}}

@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Color de la tinta: azul
 - Bolígrafo metálico
-- Mensaje “Full of great ideas” impreso en él
 - Optimo para la vuelta al col
+- Mensaje “Full of great ideas” impreso en él
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C62KY2NP{{</world>}}

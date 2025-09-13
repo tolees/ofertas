@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - La barra de labios Colour Elixir de Priyanka
-- Contiene ingredientes saludables como aceite de aguacate, aceite de coco, manteca de karité y extracto de hoja de aloe
 - Aplícalo para un color pigmentado con un acabado de larga duración
 - Su fórmula proporciona optima hidratación y suavidad durante 24 horas
 - Color intenso y brillante
+- Contiene ingredientes saludables como aceite de aguacate, aceite de coco, manteca de karité y extracto de hoja de aloe
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C2ZC4YB8{{</world>}}

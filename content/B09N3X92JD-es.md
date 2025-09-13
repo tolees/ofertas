@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- apretado con cordón
 - tejido ligero y transpirable
+- apretado con cordón
 - bolsillos laterales y bolsillo trasero con cremallera
 
 [🛒 Visítala!!!]({{< param buyurl >}})

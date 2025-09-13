@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tipo de deporte: Deportes acuáticos
 - Instrucciones de cuidado: Lavar a máquina
+- Tipo de deporte: Deportes acuáticos
 - Tipo de fábrica: Compuesto
 
 [🛒 Visítala!!!]({{< param buyurl >}})

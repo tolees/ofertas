@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con fresca y suave fragancia floral
 - Anti-transpirante
+- Con fresca y suave fragancia floral
 - Protección duradera de 48h
 
 [🛒 Aquí!!!]({{< param buyurl >}})

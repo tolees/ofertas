@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Parte superior de cuero suave de grano completo
 - Cordones elásticos en zigzag
 - Plantilla extraíble, suela de goma
-- Parte superior de cuero suave de grano completo
 - Composición del material del forro: 53 % cuero, 39 % poliéster, 8 % tela
 
 [🛒 Aquí!!!]({{< param buyurl >}})

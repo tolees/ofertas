@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Gafas de sol de forma cuadrada para hombre y mujer
 - Lentes polarizadas de triacetato
 - Frente en policarbonato habano oscuro
-- Gafas de sol de forma cuadrada para hombre y mujer
 - Logotipo verde en las patillas
 - Patillas de policarbonato habano oscuro
 

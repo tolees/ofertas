@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- suela de goma flexible y antideslizante
 - Forro textil
+- suela de goma flexible y antideslizante
 - Imitación de cuero liso
 
 [🛒 Comprar!!!]({{< param buyurl >}})

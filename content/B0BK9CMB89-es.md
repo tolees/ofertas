@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Plantilla Softfoam Plus
-- Parte superior sintética
-- Entresuela de goma
 - Botas medias
+- Entresuela de goma
+- Parte superior sintética
+- Plantilla Softfoam Plus
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BK9CMB89{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Potente acción antiséptica gracias a la acción de la Clorhexidina al 0,12 percent
-- Inhibe la formación de biofilm y produce una acción antiplaca
 - Eficacia clínicamente probada; Sin Gluten
+- Inhibe la formación de biofilm y produce una acción antiplaca
+- Potente acción antiséptica gracias a la acción de la Clorhexidina al 0,12 percent
 - Coadyuvante en tratamiento de gingivitis y periodontitis
 
 [🛒 Visítala!!!]({{< param buyurl >}})

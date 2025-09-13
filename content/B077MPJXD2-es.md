@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Inspirado en el tenis. Comodidad con estilo para todos los días.
-- Suela de goma
 - Parte superior de cuero suave
+- Suela de goma
 - zapatillas PUMA Smash
 - Inserto de espuma suave extraíble
 

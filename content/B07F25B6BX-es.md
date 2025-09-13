@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajustado en la cadera y los muslos, con pierna entallada. Se asienta por debajo de la cintura
 - Una marca de Amazon
+- Ajustado en la cadera y los muslos, con pierna entallada. Se asienta por debajo de la cintura
 - Diseñado con un corte bajo y un silueta sugerente que favorece tus curvas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ajuste regular y relajado
-- Cuello redondo
-- Sudadera clásica
 - Composición del material: 61% poliéster, 39% algodón
+- Sudadera clásica
+- Cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BRP13DMR{{</world>}}

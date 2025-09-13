@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - PEPE JEANS SLIM JEANS LW DENIM Ladies 27
-- Corte entallado
 - Estilo de talle bajo
+- Corte entallado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CSP92FNQ{{</world>}}

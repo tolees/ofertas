@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Entresuela y suela de goma
 - Franja característica PUMA en los lados lateral y medial
+- Entresuela y suela de goma
 - Parte superior ricamente construida con materiales reciclados.
 - Marca PUMA impresa en la lengüeta y el talón.
 - Cuello escotado

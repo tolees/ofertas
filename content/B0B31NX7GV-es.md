@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cordones elásticos y cierre autoadherente
-- Horma clásica
-- Suela de goma cosida
 - Forro sintético
+- Cordones elásticos y cierre autoadherente
+- Suela de goma cosida
+- Horma clásica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B31NX7GV{{</world>}}

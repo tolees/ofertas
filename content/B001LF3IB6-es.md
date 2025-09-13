@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- De alta calidad y con diseño deportivo
 - Taza Montañismo, alpinismo y trekking Unisex Adulto
+- De alta calidad y con diseño deportivo
 - Material duro GSI OUTDOORS
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

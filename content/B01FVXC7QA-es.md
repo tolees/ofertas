@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste cómodo.
 - Unisex.
 - 100 % algodón.
+- Ajuste cómodo.
 - Talla única, de 4 a 14 años.
 - Gorra de béisbol para niños.
 

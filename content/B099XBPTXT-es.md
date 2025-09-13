@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto de cuidado personal
-- DE LOS PIES A LA CABEZA: Este gel limpiador facial y corporal es súper suave con tu piel. Te permite una limpieza profunda y te da una sensación de frescor mientras tonifica la piel.
-- APLICACIÓN: Frote gel de ducha sólido bajo el agua para crear espuma. Aplicar la espuma sobre el cuerpo y el cabello o directamente sobre el cuerpo y el rostro. Masajee y luego enjuague.
 - FOAMIE: ¡En Foamie, le hemos declarado la guerra al plástico! Como tú, nos preocupamos por el medio ambiente. Por eso queremos contribuir a un mundo sin plástico, más ecológico y sostenible.
 - JABÓN BARBA Y CABELLO: Con una infusión de menta y limón, este champu solido limpia, hidrata y nutre suavemente el cabello dejando una sensación refrescante.
+- Producto de cuidado personal
+- APLICACIÓN: Frote gel de ducha sólido bajo el agua para crear espuma. Aplicar la espuma sobre el cuerpo y el cabello o directamente sobre el cuerpo y el rostro. Masajee y luego enjuague.
+- DE LOS PIES A LA CABEZA: Este gel limpiador facial y corporal es súper suave con tu piel. Te permite una limpieza profunda y te da una sensación de frescor mientras tonifica la piel.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B099XBPTXT{{</world>}}

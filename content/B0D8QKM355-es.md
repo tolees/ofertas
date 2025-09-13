@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 71% algodón, 29% lino
 - Camiseta con cuello de barco, ajuste boxy con hombros caídos, manga 3/4 recta, aberturas en las caderas, procesamiento alternado links/afeitado y acabados en costa
+- 71% algodón, 29% lino
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D8QKM355{{</world>}}

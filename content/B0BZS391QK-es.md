@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Empeine de monomalla
 - Compra una talla más grande
+- Cierre de cordones
+- Horma clásica
+- Empeine de monomalla
 - Forro textil
 - Diseño ligero y estable
-- Horma clásica
-- Cierre de cordones
 - Amortiguación LIGHTMOTION
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

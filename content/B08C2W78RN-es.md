@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- materialFabricComposition: 50% Cotton, 28% Polyester, 20% Recycled Cotton, 2% Elastane
-- Slim fit jeans
-- Care Label:
-- Slim Fit
 - Low rise
+- Care Label:
+- materialFabricComposition: 50% Cotton, 28% Polyester, 20% Recycled Cotton, 2% Elastane
+- Slim Fit
+- Slim fit jeans
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08C2W78RN{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Long Sleeves
-- High stand-up collar
-- Care Label:
-- materialFabricComposition: Outer: 100% Polyester; Lining: 100% Polyester; Padding: 100% Polyester
 - Quilted jacket
+- Long Sleeves
+- materialFabricComposition: Outer: 100% Polyester; Lining: 100% Polyester; Padding: 100% Polyester
+- Care Label:
+- High stand-up collar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07CJLJ6H1{{</world>}}

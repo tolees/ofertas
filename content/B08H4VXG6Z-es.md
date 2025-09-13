@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Manga larga
-- Con capucha
-- Sudadera de ajuste regular
-- JACK & JONES apoya la iniciativa Better Cotton usando algodón orgánico o reciclado
 - Durabilidad con material sostenible
+- JACK & JONES apoya la iniciativa Better Cotton usando algodón orgánico o reciclado
+- Sudadera de ajuste regular
+- Con capucha
 - Con bolsillo frontal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

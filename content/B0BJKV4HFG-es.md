@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Resistencia al agua: 5 atm.
-- Correa de acero inoxidable 316l de color azul con cierre doble pulsador.
 - Esfera redonda de color azul de cristal mineral.
+- Correa de acero inoxidable 316l de color azul con cierre doble pulsador.
 - Caja redonda de acero inoxidable 316l de color azul.
 - Reloj de analógico para hombre.
 

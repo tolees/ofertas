@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- BEIERSDORF
 - 5865A
+- BEIERSDORF
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0026XRFY8{{</world>}}

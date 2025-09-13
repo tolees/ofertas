@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material exterior: Tejido
 - Material de la suela: Caucho
+- Material exterior: Tejido
 - Cierre: Cordones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

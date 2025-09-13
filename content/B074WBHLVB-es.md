@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Correa marrón estilo equipaje con cierre de hebilla
 - Lente de cristal mineral; esfera en tono plateado con manecillas e índices en tono dorado; escala de minutos interior impresa en negro
 - Diámetro de la caja: 29 mm
 - No es resistente al agua
+- Correa marrón estilo equipaje con cierre de hebilla
 - Movimiento de cuarzo japonés
 
 [🛒 Comprar!!!]({{< param buyurl >}})

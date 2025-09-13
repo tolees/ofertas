@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con detalle de volantes
 - Ofrece una comodidad óptima
+- Con detalle de volantes
 - Con tejido ligero y suave
 
 [🛒 Visítala!!!]({{< param buyurl >}})

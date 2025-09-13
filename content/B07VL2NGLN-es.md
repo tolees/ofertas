@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Falda cómoda
 - Práctica y cómoda
+- Falda cómoda
 - Material suave
 
 [🛒 Visítala!!!]({{< param buyurl >}})

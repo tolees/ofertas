@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Caja de herramientas de metal para almacenar y organizar herramientas
 - Bloqueable con un candad
+- Caja de herramientas de metal para almacenar y organizar herramientas
 - Con 5 compartimientos desmontables
 - Hecho de chapa de acero, versión pintada
 

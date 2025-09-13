@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detalles: trabillas para cinturón
 - Cintura: cintura alta
 - Longitud: hasta el tobillo
+- Detalles: trabillas para cinturón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B3MG1YXL{{</world>}}

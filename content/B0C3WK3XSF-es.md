@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forro textil
-- Parte de piel con puntera de ante
 - Compra una talla más grande
+- Parte de piel con puntera de ante
+- Forro textil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C3WK3XSF{{</world>}}

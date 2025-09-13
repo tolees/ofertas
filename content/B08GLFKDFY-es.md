@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Medidas producto: 5,4 x 9,8 x 8,8 cm
-- Peso: 500 gr
 - Materiales: cerámica
-- Medidas con pack: 18,5 x 15,5 x 12 cm
 - Capacidad: 290 ml
+- Peso: 500 gr
+- Medidas con pack: 18,5 x 15,5 x 12 cm
+- Medidas producto: 5,4 x 9,8 x 8,8 cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08GLFKDFY{{</world>}}

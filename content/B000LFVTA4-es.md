@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Capacidad: 170 litros
 - Plegable para almacenar fácilmente
-- Fabricado en polietileno
+- Capacidad: 170 litros
 - Diseño en espiral
+- Fabricado en polietileno
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B000LFVTA4{{</world>}}

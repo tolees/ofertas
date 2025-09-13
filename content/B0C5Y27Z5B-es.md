@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Plantilla OrthoLite
 - Tecnología FLYTEFOAM Blast
 - Suela exterior de goma AHARPLUS
-- Plantilla OrthoLite
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C5Y27Z5B{{</world>}}

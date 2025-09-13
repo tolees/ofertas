@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Con certificación FSC, que garantiza que ha sido fabricado con papel proveniente de bosques gestionados de manera responsable.
 - Bloc con 200 notas adhesivas fabricadas con papel de 80gsm, con mensajes de amor.
 - Cuenta con 10 mensajes y diseños distintos que se van repitiendo a lo largo del producto.
-- Con certificación FSC, que garantiza que ha sido fabricado con papel proveniente de bosques gestionados de manera responsable.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQ5FYGZM{{</world>}}

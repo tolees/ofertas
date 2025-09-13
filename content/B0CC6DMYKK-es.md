@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido de punto
 - Encuentra el accesorio a juego y combínalo ¡Consigue tu conjunto!
+- Tejido de punto
 - Diseño tricot con estilo inconfundible y protección contra el frío
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

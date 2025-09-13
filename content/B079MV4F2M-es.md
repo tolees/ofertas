@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cada lote incluye 5 juegos de guías.
 - Guías con rodamientos de bolas y extracción total del cajón de largo 600mm.
-- Carga máxima por juego de hasta 35Kg.
-- Gatillo para el desmontaje de la guía.
 - Fabricadas en acero cincado.
+- Gatillo para el desmontaje de la guía.
+- Carga máxima por juego de hasta 35Kg.
+- Cada lote incluye 5 juegos de guías.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B079MV4F2M{{</world>}}

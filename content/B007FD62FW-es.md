@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto con calidad de marca: tiempo de almacenamiento de hasta 10 años
-- 20 mm de diámetro x 2.5 mm de profundidad, 3 V, tecnología de litio para el mejor rendimiento energético
-- También conocidas como DL 2025. KCR 2025
 - Fuente de energía fiable y durabilidad para el uso diario en varios aparatos como juguetes, mandos a distancia, llaves del coche, relojes electrónicos, calculadoras, equipos deportivos, dispositivos médicos, pesos y básculas, sensores y mucho más
+- También conocidas como DL 2025. KCR 2025
+- 20 mm de diámetro x 2.5 mm de profundidad, 3 V, tecnología de litio para el mejor rendimiento energético
+- Producto con calidad de marca: tiempo de almacenamiento de hasta 10 años
 - CR 2025 está entre las 10 pilas de botón más utilizadas para aparatos pequeños. Otras pilas especiales VARTA disponibles: AA AA, LR1. V27A, V13GA, V23GA, CR2032. CR2450. CR2016. CR1220. CR1225. CR2430. CR1616. CR1620. V28P x , V4034. V76P x , V625U, CR1/3N, V28P x l, V371. V394
 
 [🛒 Visítala!!!]({{< param buyurl >}})

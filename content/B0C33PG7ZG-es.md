@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- No es resistente al agua
 - Utilizado como casual
+- No es resistente al agua
 - Punta redonda
 
 [🛒 Visítala!!!]({{< param buyurl >}})

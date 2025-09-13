@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Finas líneas horizontales en gris sobre el fondo de lanería negro
-- Abrigo largo de lana en tonos negros y grises con interior acolchado y cierre de cremallera y botones. Nueva colección Mujer OI21 Desigual.
-- Machine Cold Wash Inside Out
 - Desigual mujer - Abrigo largo de mujer de lana con forro acochado
+- Machine Cold Wash Inside Out
+- Abrigo largo de lana en tonos negros y grises con interior acolchado y cierre de cremallera y botones. Nueva colección Mujer OI21 Desigual.
 - Bolsillos laterales con aberturas horizontales
 
 [🛒 Aquí!!!]({{< param buyurl >}})

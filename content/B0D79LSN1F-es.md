@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Parte superior de malla con inserciones de PU, para transpirabilidad y flexibilidad con total seguridad.
-- Mediasuela con tecnología TwissTruss capaz de ofrecer mayor soporte en el movimiento
 - Amortiguación GEL en el talón con tecnología FlyteFoam, que atenúa los impactos y mejora la reactividad tanto durante el aterrizaje como durante el despegue.
+- Mediasuela con tecnología TwissTruss capaz de ofrecer mayor soporte en el movimiento
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D79LSN1F{{</world>}}

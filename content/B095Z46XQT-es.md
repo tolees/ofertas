@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con capucha (no desmontable)
 - Clásica chaqueta acolchada: imprescindible en cualquier armario de mujer
 - Cremallera frontal
-- Corte estándar
 - Chaqueta ligera de mujer para entretiempo
+- Con capucha (no desmontable)
+- Corte estándar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B095Z46XQT{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sin forro
-- Patrón: color liso
 - Tapa abierta
+- Patrón: color liso
+- Sin forro
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B072T2VSVL{{</world>}}

@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Obtendras mucha diversión
-- Excelentes gráficos
-- Personajes variados con una historia interesante
 - Una experiencia única
 - Accesible para todos
+- Excelentes gráficos
+- Personajes variados con una historia interesante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B098V1YQWT{{</world>}}

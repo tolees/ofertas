@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Peso: 1000 gramos.
-- Contenido del envío: 1 filamento PLA de 1 kg.
 - Filamento PLA para impresora 3D. Adecuado para Bresser o muchas otras impresoras 3D que admiten filamentos de PLA, con 1,75 mm de diámetro.
+- Contenido del envío: 1 filamento PLA de 1 kg.
+- Peso: 1000 gramos.
 - Disponible en los colores: azul, verde, negro, rojo, blanco, neutro.
 - Longitud: 340 m. Diámetro: 1,75 mm.
 

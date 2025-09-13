@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Mezclilla elástica
-- Corte entallado que abraza el cuerpo
-- Cuello abatible
-- Se puede cerrar con botones
 - Chaqueta vaquera clásica para mujer de la marca. Only
+- Corte entallado que abraza el cuerpo
+- Se puede cerrar con botones
+- Cuello abatible
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BBH79RLP{{</world>}}

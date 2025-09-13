@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillos
 - Cintura elástica
+- Bolsillos
 - Cierre de cordón
 
 [🛒 Comprar!!!]({{< param buyurl >}})

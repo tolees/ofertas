@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cintura elástica
 - Corte entallado
 - Tejido elástico
-- Cintura elástica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B099S6YRZQ{{</world>}}

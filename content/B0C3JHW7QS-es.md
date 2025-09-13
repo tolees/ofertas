@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre autoadherente
 - Forro textil
+- Cierre autoadherente
 - Suela y mediasuela de EVA de una sola pieza
 - Horma clásica
 

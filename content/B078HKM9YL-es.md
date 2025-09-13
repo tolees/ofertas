@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 5-pocket cotton shorts
 - long denim shorts
+- 5-pocket cotton shorts
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B078HKM9YL{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los puedes tener… Los puedes perder…
 - La frenética carrera de los décimos.
-- Con décimos para comprar, intercambiar…. O regalar!!! Partidas muy dinámicas y divertidas.
 - Recomendado a partir de 8 años.
+- Con décimos para comprar, intercambiar…. O regalar!!! Partidas muy dinámicas y divertidas.
 - 12 meses para convertirte en millonario.
+- Los puedes tener… Los puedes perder…
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B34KJG96{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro textil
-- Suela de goma
 - Empeine textil y sintético
+- Suela de goma
+- Forro textil
 - Compra 1 talla más grande
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

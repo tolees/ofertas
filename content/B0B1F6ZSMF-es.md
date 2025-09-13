@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - 13,3464566793 Pulgadas
 - Piel: Smooth Leather
-- Cierre: goma
 - Amortiguación
+- Cierre: goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B1F6ZSMF{{</world>}}

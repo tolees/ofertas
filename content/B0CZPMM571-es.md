@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Talle alto
 - Corte ajustado
+- Talle alto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZPMM571{{</world>}}

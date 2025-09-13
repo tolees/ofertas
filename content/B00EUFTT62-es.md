@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Apertura máxima F4 constante
-- Lente Carl Zeiss de 16-70 mm con tecnología AA
-- Montura tipo E, formato APS-C
-- Máxima apertura F4 en la distancia focal
 - Lente ZEISS con zoom estándar
+- Lente Carl Zeiss de 16-70 mm con tecnología AA
+- Máxima apertura F4 en la distancia focal
+- Montura tipo E, formato APS-C
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00EUFTT62{{</world>}}
