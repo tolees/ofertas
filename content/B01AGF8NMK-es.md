@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - El resultado es una cerveza 0,0 ligera, fresca y de equilibrado amargor.
-- Consumirla a unos 4-6 grados, para poder disfrutar de su sabor y su carácter refrescante.
 - Free Damm es fruto de la revolución de las técnicas de elaboración.
+- Consumirla a unos 4-6 grados, para poder disfrutar de su sabor y su carácter refrescante.
 - Gracias a una avanzada técnica que denominamos destilación al vacío podemos eliminar el porcentaje de alcohol hasta llegar al 0,0%, manteniendo el sabor original de la cerveza.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

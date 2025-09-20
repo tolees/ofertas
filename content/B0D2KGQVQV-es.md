@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Entresuela de goma
 - Cierre de cordones planos
+- Entresuela de goma
 - Parte superior sintética
 
 [🛒 Visítala!!!]({{< param buyurl >}})

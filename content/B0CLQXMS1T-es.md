@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Puños y dobladillo elásticos para proteger de la intemperie
-- Ajuste Clásico: Ajuste universal y sencillo para una cómoda amplitud de movimiento
-- Contenido: 1x Columbia Niños Unisex Forro Polar con Cremallera Completa Sequoia Grove, Color: Verde (Stone Green, Satin Pink), Talla: XS, Artículo: 2087631
-- Bolsillos funcionales con cremallera para mantener las manos calientes y para guardar pequeños objetos en las excursiones
 - Chaqueta ligera para niños, Con suave forro polar y cuello alto que protege del frío
+- Contenido: 1x Columbia Niños Unisex Forro Polar con Cremallera Completa Sequoia Grove, Color: Verde (Stone Green, Satin Pink), Talla: XS, Artículo: 2087631
+- Ajuste Clásico: Ajuste universal y sencillo para una cómoda amplitud de movimiento
+- Bolsillos funcionales con cremallera para mantener las manos calientes y para guardar pequeños objetos en las excursiones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CLQXMS1T{{</world>}}

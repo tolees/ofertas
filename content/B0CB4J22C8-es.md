@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tejido cómodo con estructura de sarga
 - Corte normal
+- Tejido cómodo con estructura de sarga
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CB4J22C8{{</world>}}

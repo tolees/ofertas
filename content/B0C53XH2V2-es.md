@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tallo de gamuza
+- Zapato estándar
+- Entresuela amortiguada
 - Forro textil
 - Cierre con cordones
-- Entresuela amortiguada
-- Zapato estándar
-- Tallo de gamuza
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C53XH2V2{{</world>}}

@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sistema operativo FreeDOS
-- uertos delanteros 1 USB Type-C 5Gbps signaling rate; 2 USB Type-A 10Gbps signaling rate; 2 USB Type-A 5Gbps signaling rate; 1 headphone/microphone combo y parte trasera 4 USB 2.0 Type-A; 1 entrada de audio; 1 salida de audio; 1 micrófono; 1 RJ-45; conectores de vídeo 1 HDMI 2.1; 1 DisplayPort
 - Memoria RAM DDR4-3200 MHz 16 GB (1 x 16 GB)
-- Conectividad inalámbrica, tarjeta inalámbrica Realtek Wi-Fi 6 (2x2) y Bluetooth 5.3 (soporta velocidad de datos Gigabit)
+- uertos delanteros 1 USB Type-C 5Gbps signaling rate; 2 USB Type-A 10Gbps signaling rate; 2 USB Type-A 5Gbps signaling rate; 1 headphone/microphone combo y parte trasera 4 USB 2.0 Type-A; 1 entrada de audio; 1 salida de audio; 1 micrófono; 1 RJ-45; conectores de vídeo 1 HDMI 2.1; 1 DisplayPort
 - Gráficos Integrados NVIDIA GeForce RTX 3060 (GDDR6 de 12 GB dedicada)
-- Almacenamiento SSD Intel PCIe NVMe de 512 GB
+- Sistema operativo FreeDOS
+- Conectividad inalámbrica, tarjeta inalámbrica Realtek Wi-Fi 6 (2x2) y Bluetooth 5.3 (soporta velocidad de datos Gigabit)
 - Procesador Intel Core i5-13400F (hasta 4,6 GHz con tecnología Intel Turbo Boost, 20 MB de caché L3, 10 núcleos, 16 subprocesos)
+- Almacenamiento SSD Intel PCIe NVMe de 512 GB
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BTJ6PP5F{{</world>}}

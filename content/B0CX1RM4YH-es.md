@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Detalles de los vaqueros PEPE F1: con un cuello de doble punta adornado con una repetición jacquard del logotipo de Pepe Jeans, añadiendo un toque de estilo y sofisticación
 - Polo Red Bull Racing: eleva tu atuendo casual con nuestro polo con punta de logotipo, hecho de piqué elástico de algodón ligero para una sensación cómoda y deportiva
+- Detalles de los vaqueros PEPE F1: con un cuello de doble punta adornado con una repetición jacquard del logotipo de Pepe Jeans, añadiendo un toque de estilo y sofisticación
 - Aspectos destacados del equipo: el inserto de la solapa inferior muestra el icónico logotipo del equipo Red Bull Racing, sutilmente colocado en el pecho izquierdo del usuario, perfecto para mostrar el orgullo de tu equipo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Compas liderpapel con protector de punta
 - Modelos surtidos, no puedes elegir un modelo en particular
 - ¡Nota! El fabricante nos proporciona este producto en colores aleatorios. Nos resulta imposible proporcionarte el producto en un color en particular. Al confirmar tu compra, recibirás uno de los modelos que se muestran en la imagen o en el título, en función de la disponibilidad
-- Compas liderpapel con protector de punta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00PDR7P58{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Jeans hombre Diesel
-- Estilo: normal
 - Cremallera
+- Jeans hombre Diesel
 - Lavado a máquina
+- Estilo: normal
 - Algodón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

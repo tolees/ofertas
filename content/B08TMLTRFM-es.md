@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste relajado
 - Parte superior sintética
-- Ligeras
+- Ajuste relajado
 - Entresuela acolchada
+- Ligeras
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08TMLTRFM{{</world>}}

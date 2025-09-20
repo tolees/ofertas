@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- producto 2: Nutre y reafirma la piel; alisa pequeñas arrugas
-- producto 2: Adecuado para usuarios de lentes de contacto; testado dermatológica y oftalmológicamente; sin perfumes
 - producto 1: Facilita el peinado del cabello húmedo y en seco
-- producto 2: Contorno de ojos antiojeras con aciano; recomendado para el cuidado diario, apto para todas las edades
 - producto 1: Ayuda a eliminar el encrespamiento y protege contra la rotura del cabello
-- producto 1: Para cabello seco y dañado, y para después de tratamientos de peluquería
+- producto 2: Contorno de ojos antiojeras con aciano; recomendado para el cuidado diario, apto para todas las edades
 - producto 2: Reduce las ojeras; hidrata, tonifica y tensa ligeramente la epidermis
+- producto 2: Nutre y reafirma la piel; alisa pequeñas arrugas
+- producto 1: Para cabello seco y dañado, y para después de tratamientos de peluquería
 - producto 1: Alisa el cabello dejándolo suave y brillante; facilita el peinado del cabello húmedo y en seco
+- producto 2: Adecuado para usuarios de lentes de contacto; testado dermatológica y oftalmológicamente; sin perfumes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C5WJ6PXG{{</world>}}

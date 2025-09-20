@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Refuerzo para un ajuste o
 - Cintura elástica muy cómoda
-- Bragueta de doble capa para sujeción
 - Confeccionados en algodón orgánico
+- Refuerzo para un ajuste o
+- Bragueta de doble capa para sujeción
 - Tejido de algodón elástico suave
 
 [🛒 Aquí!!!]({{< param buyurl >}})

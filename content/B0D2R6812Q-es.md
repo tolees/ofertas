@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tiene detalles distintivos de la marca "Puma"
 - Pantalón largo
+- Tiene detalles distintivos de la marca "Puma"
 - Para uso diario
 
 [🛒 Visítala!!!]({{< param buyurl >}})

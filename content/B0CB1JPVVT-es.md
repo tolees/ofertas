@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El asa de la taza es de distinto color a la taza en sí
 - Cuidados: apta para microondas y lavavajillas
-- Taza de cerámica con mensaje de amistad
+- El asa de la taza es de distinto color a la taza en sí
 - Capacidad: 38 cl
+- Taza de cerámica con mensaje de amistad
 - Cuenta con un diseño en su parte interior
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

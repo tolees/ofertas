@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tapa extradura, máxima resistencia y protección de las hojas, y con un tacto suave
 - 80 hojas con cuadrícula 5mm x 5mm, sin margen
+- Tapa extradura, máxima resistencia y protección de las hojas, y con un tacto suave
 - Espiral simple a juego con la tapa
 - Recuadro de color a juego con la tapa
 - Formato A4+

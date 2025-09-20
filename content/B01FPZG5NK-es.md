@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de piel: normal
-- Proporciona un nivel de hidratación adecuado; nutre la piel y calma irritaciones
-- After sun prolongador de bronceado apto para todo tipo de piel, con manteca de karité
-- Ingredientes activos: manteca de karité, provitamina b5 (d-panthenol) y vitamina e
 - Producto vegano
+- Ingredientes activos: manteca de karité, provitamina b5 (d-panthenol) y vitamina e
+- Tipo de piel: normal
+- After sun prolongador de bronceado apto para todo tipo de piel, con manteca de karité
+- Proporciona un nivel de hidratación adecuado; nutre la piel y calma irritaciones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01FPZG5NK{{</world>}}

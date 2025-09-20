@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El Dremel VersaFlame utiliza gas butano líquido que ofrece recarga y calentamiento rápidos
-- Temperatura: 1200 °C (aire libre); 680 - 1000 °C (aire caliente); 550 °C (puntas)
 - Este quemador puede aplicarse en trabajos de estañado, retractilado, soldado, etc.
-- Quemador estacionario que se puede utilizar de forma segura con una llama abierta y que incluye un catalizador y un cabezal de soldadura
+- Temperatura: 1200 °C (aire libre); 680 - 1000 °C (aire caliente); 550 °C (puntas)
 - Duración del encendido: 75 - 90 min
+- El Dremel VersaFlame utiliza gas butano líquido que ofrece recarga y calentamiento rápidos
 - Incluye: Versaflame 2200-4, caja metálica de almacenaje, catalizador, reflector, esponja para estañado, estuche para la esponja, estaño para soldar, pieza de extensión de llama, punta de estañado
+- Quemador estacionario que se puede utilizar de forma segura con una llama abierta y que incluye un catalizador y un cabezal de soldadura
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B001DH7SP4{{</world>}}

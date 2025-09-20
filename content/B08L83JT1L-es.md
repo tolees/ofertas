@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Corte ajustado
 - Tela transpirable
-- Cintura elástica de talle alto
 - Ofrece libertad de movimiento
+- Cintura elástica de talle alto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08L83JT1L{{</world>}}

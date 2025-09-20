@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Ingredientes: ANACARDOS
 - País de Origen: Vietnam
-- Conservar en lugar limpio, fresco y seco. Mantener alejado de la acción de la luz solar.
 - Alérgenos: Puede contener trazas de cacahuetes, de otros frutos de cáscara, soja, leche y derivados.
+- Conservar en lugar limpio, fresco y seco. Mantener alejado de la acción de la luz solar.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B091G6DGFS{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Se puede ajustar de manera circular
 - Aumenta la saturación del color
 - Incluye una caja de plástico con incrustación de espuma
+- Se puede ajustar de manera circular
 - Filtro polarizador que filtra reflexiones en vidrio y en agua
 - Proporciona un buen contraste
 

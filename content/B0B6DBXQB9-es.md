@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cierre de botón oculto
+- Bolsillos ribeteados anchos en la cintura
 - Abertura, botón a presión oculto
 - Cuello plano, lengüeta de quita y pon para llevarlo alzado
 - Manga larga con lengüeta ajustable y botones, bolsillo con solapa y botón en la parte de la manga
-- Bolsillos ribeteados anchos en la cintura
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B6DBXQB9{{</world>}}

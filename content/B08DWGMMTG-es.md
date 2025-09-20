@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Entresuela acolchada de aire Skech-Air
 - Diseño deportivo con cordones
+- Entresuela acolchada de aire Skech-Air
 - Skechers Plantilla acolchada de espuma viscoelástica
 - Parte de malla y sintética
 

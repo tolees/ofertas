@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuentos
-- Disfruta de los cuentos y aprende con las actividades
-- 4 cuentos completos: Blanca nieves, Caperucita Roja, El Gato con Botas y El Patito Feo; Con 3 modos de juego: cuentacuentos, exploración y preguntas
 - Contenido: Base Educa Touch Junior, 12 láminas de actividades e instrucciones.
 - Educa touch junior es una colección de juegos educativos electrónicos pensada para estimular el interés de los niños por el aprendizaje
-- Electrónico
-- Recomendado a partir de 24 meses
 - Disfruta de los cuentos y aprende con las actividades; Con opción táctil, música y canciones.
+- Disfruta de los cuentos y aprende con las actividades
+- 4 cuentos completos: Blanca nieves, Caperucita Roja, El Gato con Botas y El Patito Feo; Con 3 modos de juego: cuentacuentos, exploración y preguntas
+- Electrónico
+- Cuentos
+- Recomendado a partir de 24 meses
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00DJADKM8{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Unidad de imágenes de reemplazo para impresoras
-- Para usar con el C8600 y 8800
 - Rendimiento de página de 20000
+- Para usar con el C8600 y 8800
 - Renueve la calidad de impresión para obtener resultados nítidos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

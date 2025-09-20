@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- en tejido de algodón ligero con stretch
-- Pantalón chino
 - comfort slim fit
+- Pantalón chino
+- en tejido de algodón ligero con stretch
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CCPLZQPN{{</world>}}

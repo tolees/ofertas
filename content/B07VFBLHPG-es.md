@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Extiende el uso del maquillaje 9 horas
-- Reduce el exceso de grasa
-- Ayuda a minimizar la apariencia de los poros
-- Controla el brillo
 - Primer Pre base de maquillaje ligera que ayuda preparar la piel, difuminar los poros y aportar durabilidad al maquillaje
+- Reduce el exceso de grasa
+- Controla el brillo
+- Extiende el uso del maquillaje 9 horas
+- Ayuda a minimizar la apariencia de los poros
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07VFBLHPG{{</world>}}

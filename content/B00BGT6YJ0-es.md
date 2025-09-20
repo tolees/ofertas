@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 17 x 19 mm
-- Antideslizantes fijación
 - Mango grande
+- Antideslizantes fijación
+- 17 x 19 mm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00BGT6YJ0{{</world>}}

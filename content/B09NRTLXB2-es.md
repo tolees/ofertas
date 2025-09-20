@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte clásico
 - Punto 100% algodón
+- Corte clásico
 - Apoya a Better Cotton Initiative
 
 [🛒 Visítala!!!]({{< param buyurl >}})

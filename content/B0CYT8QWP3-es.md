@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Horma clásica
-- Empeine de malla
 - Forro textil
-- Mediasuela Cloudfoam
-- Suela de goma
-- Contiene al menos un 20% de material reciclado
+- Empeine de malla
 - Refuerzo y estabilizador del talón de TPU
+- Horma clásica
+- Mediasuela Cloudfoam
+- Contiene al menos un 20% de material reciclado
+- Suela de goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CYT8QWP3{{</world>}}

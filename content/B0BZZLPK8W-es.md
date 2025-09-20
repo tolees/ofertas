@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Horma clásica
+- Parte superior de monomalla
 - Diseño ligero y estable
 - Siente la comodidad
-- Parte superior de monomalla
-- Horma clásica
 - Cierre de cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Corte cónico
-- Cintura elástica
 - Tela suave
+- Cintura elástica
 - Ofrece libertad de movimiento
 
 [🛒 Aquí!!!]({{< param buyurl >}})

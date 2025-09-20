@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte entallado
 - 100% poliéster (reciclado)
-- Puños elásticos
 - Tecnología transpirable AEROREADY
+- Puños elásticos
+- Corte entallado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09P1PZQX3{{</world>}}

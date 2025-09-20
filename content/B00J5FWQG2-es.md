@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fotoprotector corporal de alta protección SPF 30 UVB y UVA
-- Ahora con un 25% extra de fotoprotección, con un nuevo envase 250 ml. Ideal para toda la familia
-- Hidrata como una crema y se absorbe rápidamente como un gel; agradable sensación de frescor con un acabado sedoso y sin brillos
-- Aplicar generosamente sobre la piel seca, media hora antes de la exposición solar y reaplicar cada 2 horas y tras transpirar, nadar o secarse con toalla
 - Testado dermatológicamente; no sensibilizante; no comedogénico; apto para piel atópica y sensible
+- Hidrata como una crema y se absorbe rápidamente como un gel; agradable sensación de frescor con un acabado sedoso y sin brillos
+- Ahora con un 25% extra de fotoprotección, con un nuevo envase 250 ml. Ideal para toda la familia
+- Fotoprotector corporal de alta protección SPF 30 UVB y UVA
+- Aplicar generosamente sobre la piel seca, media hora antes de la exposición solar y reaplicar cada 2 horas y tras transpirar, nadar o secarse con toalla
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00J5FWQG2{{</world>}}

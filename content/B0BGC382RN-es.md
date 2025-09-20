@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Entresuela de espuma EVA
 - Parte en ante y nailon
 - Parche con logotipo en la lengüeta
-- Entresuela de espuma EVA
 - Suela de goma
 
 [🛒 Visítala!!!]({{< param buyurl >}})

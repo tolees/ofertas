@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Los mejores productos para tu cuidado personal, para tu bienestar, y para la higiene personal.
 - Clinique even better glow makeup spf15 wn12 meringue 30 ml
+- Los mejores productos para tu cuidado personal, para tu bienestar, y para la higiene personal.
 - Salud, bienestar, cuidado, perfumes, lociones, gelclinique even better glow makeup spf15 wn12 meringue 30 ml
 
 [🛒 Visítala!!!]({{< param buyurl >}})

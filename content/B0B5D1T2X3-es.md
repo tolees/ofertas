@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tela transpirable con tecnología Dri-FIT
 - Con cierre de cremallera y bolsillos delanteros
 - Fabricada en material de poliéster
-- Tela transpirable con tecnología Dri-FIT
 - Chaqueta deportiva de fútbol
 
 [🛒 Aquí!!!]({{< param buyurl >}})

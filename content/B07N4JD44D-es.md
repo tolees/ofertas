@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Está hecho de 73% polietileno de baja densidad, 23% polipropileno, 4% silicona.
-- Tipo de deporte: correr / trotar
 - El capitity de esta botella es 650 ml/22 oz
-- La botella es apta para lavavajillas y debe usarse antes del primer uso.
 - La botella de agua tiene un gráfico nike con el logotipo de swosh impreso en la botella.
+- Está hecho de 73% polietileno de baja densidad, 23% polipropileno, 4% silicona.
+- La botella es apta para lavavajillas y debe usarse antes del primer uso.
+- Tipo de deporte: correr / trotar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07N4JD44D{{</world>}}

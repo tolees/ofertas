@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fabricado con agua tratada: purificada
-- Laboratorio y fabricante certificado según las normas: iso 9001, iso 14001, iso 22716, aenor i + d + i y certificación halal
-- Formulado sin sulfatos, sin sal, sin parabenos, sin siliconas sin colorantes y sin alcohol
-- Keratina natural con pro-vitamina b5
-- Innovadora fórmula con efecto inmediato
 - No testado en animales
+- Laboratorio y fabricante certificado según las normas: iso 9001, iso 14001, iso 22716, aenor i + d + i y certificación halal
+- Keratina natural con pro-vitamina b5
+- Fabricado con agua tratada: purificada
+- Innovadora fórmula con efecto inmediato
+- Formulado sin sulfatos, sin sal, sin parabenos, sin siliconas sin colorantes y sin alcohol
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B074CQXD72{{</world>}}

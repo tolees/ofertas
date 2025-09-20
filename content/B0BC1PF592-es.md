@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Cian
 - Impresoras Compatibles: Expression Home XP-2200, XP-2205, XP-3200, XP-3205, XP-4200 y WorkForce WF-2910DWF, WF-2930DWF, WF-2935DWF, WF-2950DWF
-- Tamaño Estándar
 - Alta calidad
+- Tamaño Estándar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BC1PF592{{</world>}}

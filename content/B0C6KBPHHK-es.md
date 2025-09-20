@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Suela exterior: __ Suela de goma espuma optimizada con lengüetas de logotipo multiángulo para mayor agarre
-- Forro de tela
 - Material: material exterior de lona de algodón
 - __Plantilla: __ Plantilla texturizada con gráficos de pantalones cortos y camisetas
+- Forro de tela
 - Otras características: apoyo anatómicamente correcto del arco del pie
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- SOPORTE POE - Admite tanto el estándar 802.3af / at como el PoE pasivo (adaptador PoE incluido) para instalaciones flexibles
 - ACCESO A LA NUBE - Administración centralizada en la nube y monitoreo inteligente para máxima comodidad y gestión sencilla
-- ROAMING SIN INTERRUPCIONES - Las transmisiones de video y las llamadas de voz no se ven afectadas cuando los usuarios se mueven entre ubicaciones para no perder nunca la conexión
-- GRAN COBERTURA - 3 antenas Omni internas independientes de clase empresarial le ofrecen una mayor cobertura Wi-Fi. (tipo de antena: 2,4 GHz, 3 x 4 dBi; 5 GHz, 2 x 5 dBi)
-- RED INVITADOS SEGURA - Junto con múltiples opciones de autenticación (SMS / Facebook Wi-Fi / Voucher, etc.) y abundantes tecnologías de seguridad inalámbrica
-- TECNOLOGÍA INALÁMBRICA AVANZADA - Optimice el rendimiento de la red con tecnologías MU-MIMO, Band Steering, Airtime Fairness y Beamforming
 - WIFI RÁPIDO DOBLE BANDA - 450 Mbps simultáneos en 2.4 GHz y 867 Mbps en 5 GHz totalizan velocidades Wi-Fi de 1317 Mbps* (Las velocidades máximas de señal inalámbrica son las velocidades físicas derivadas de las especificaciones del estándar IEEE 802.11)
+- GRAN COBERTURA - 3 antenas Omni internas independientes de clase empresarial le ofrecen una mayor cobertura Wi-Fi. (tipo de antena: 2,4 GHz, 3 x 4 dBi; 5 GHz, 2 x 5 dBi)
+- TECNOLOGÍA INALÁMBRICA AVANZADA - Optimice el rendimiento de la red con tecnologías MU-MIMO, Band Steering, Airtime Fairness y Beamforming
+- ROAMING SIN INTERRUPCIONES - Las transmisiones de video y las llamadas de voz no se ven afectadas cuando los usuarios se mueven entre ubicaciones para no perder nunca la conexión
+- SOPORTE POE - Admite tanto el estándar 802.3af / at como el PoE pasivo (adaptador PoE incluido) para instalaciones flexibles
+- RED INVITADOS SEGURA - Junto con múltiples opciones de autenticación (SMS / Facebook Wi-Fi / Voucher, etc.) y abundantes tecnologías de seguridad inalámbrica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01LLAK1UG{{</world>}}

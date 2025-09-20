@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 0
 - Puzzle 3D
-- Para pasar un buen rato en familia
+- 0
 - Porducto con licencia oficial
+- Para pasar un buen rato en familia
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B093PW9FQ2{{</world>}}

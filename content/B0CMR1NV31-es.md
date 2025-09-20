@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bebida refrescante
 - Pack de 12 latas
+- Bebida refrescante
 - Con aromas naturales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Tiempo de funcionamiento: 65 minutos
 - Filtro: HEPA 6
-- Voltaje: 435 voltios
 - Aspiradora sin cable
+- Voltaje: 435 voltios
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B081D2KHQZ{{</world>}}

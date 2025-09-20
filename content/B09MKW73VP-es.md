@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Producto de la marca Home Decor
-- Categoria: Decoración
 - Espejo De Pared Dkd Home Decor Blanco Cristal Madera Mdf (120 X 3 X 120 Cm)
+- Categoria: Decoración
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09MKW73VP{{</world>}}

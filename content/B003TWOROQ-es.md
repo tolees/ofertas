@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- T25, T27, T30, T40)
-- (#8678 - Phillips_Kreuzschlitz; PH1, PH2 (2x), PH3)
+- (#8678 - Phillips_Kreuzschlitz; PH2)
+- (#8682 - Pozidriv_Kreuzschlitz; PZ2)
 - (#8687 - Innen_Torx; T10, T15, T20 (2x),
 - (Picto; Dimensión)
-- (#8682 - Pozidriv_Kreuzschlitz; PZ1, PZ2 (2x), PZ3)
-- (#8682 - Pozidriv_Kreuzschlitz; PZ2)
-- (#8687 - Innen_Torx; T10, T15, T20, T25, T30, T40 + UH)
+- T25, T27, T30, T40)
 - Contenido del set:
-- (#8678 - Phillips_Kreuzschlitz; PH2)
+- (#8678 - Phillips_Kreuzschlitz; PH1, PH2 (2x), PH3)
+- (#8682 - Pozidriv_Kreuzschlitz; PZ1, PZ2 (2x), PZ3)
+- (#8687 - Innen_Torx; T10, T15, T20, T25, T30, T40 + UH)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B003TWOROQ{{</world>}}

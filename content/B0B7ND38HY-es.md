@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- producto 1: Color: claro. Nariz: Fresco, afrutado. Sabor: Manzanas verdes y jugosas. Acabado: Larga duración.
+- producto 1: Perfecto como un regalo
 - producto 2: Contenido de alcohol: 37.5 %
 - producto 2: Sabor: dulce, suave, sutil, refinado
 - producto 2: Adecuado como regalo
-- producto 1: Perfecto como un regalo
-- producto 1: Color: claro. Nariz: Fresco, afrutado. Sabor: Manzanas verdes y jugosas. Acabado: Larga duración.
 - producto 2: Destilado 5 veces
 
 [🛒 Aquí!!!]({{< param buyurl >}})

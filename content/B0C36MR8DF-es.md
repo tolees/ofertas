@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con cintura media
 - Pantalones cortos de natación de hilo bien cortados
+- Con cintura media
 - Costuras decorativas en la parte delantera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Long Sleeves
+- Care Label:
 - Quilted jacket
 - materialFabricComposition: Outer: 100% Polyester; Lining: 100% Polyester; Padding: 100% Polyester
 - High stand-up collar
-- Care Label:
+- Long Sleeves
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07CJLJ6H1{{</world>}}

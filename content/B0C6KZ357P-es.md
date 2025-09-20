@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Logotipo: impresión directa, parche de transferencia, etiqueta jacquard
 - Testtuto special polywarpknit (200 gr)
+- Logotipo: impresión directa, parche de transferencia, etiqueta jacquard
 - Ajuste regular: ajuste sencillo y cómodo con espacio para moverse
 
 [🛒 Visítala!!!]({{< param buyurl >}})

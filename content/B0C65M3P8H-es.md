@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sistema Operativo: Windows 11 Pro
-- Memoria RAM de 16GB SO-DIMM DDR4
-- Pantalla de 14" Full HD 1920 x 1080 pixeles LCD 250 nits
-- Almacenamiento de 512GB SSD M.2 NVMe PCIe
 - Procesador Intel Core i5-1235U (10C/DecaCore 4.4GHz, 12MB)
+- Sistema Operativo: Windows 11 Pro
+- Almacenamiento de 512GB SSD M.2 NVMe PCIe
+- Memoria RAM de 16GB SO-DIMM DDR4
 - Tarjeta gráfica integrada Intel Iris Xe Graphics
+- Pantalla de 14" Full HD 1920 x 1080 pixeles LCD 250 nits
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C65M3P8H{{</world>}}

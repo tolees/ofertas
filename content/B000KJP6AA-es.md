@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Colores diferentes
+- Marcador fluorescente con tinta universal brillante, para resaltar sobre cualquier soporte
 - Uso escolar
 - Tinta de secado rápido
 - Puede usarse para resaltar impresiones inkjet sin emborronar
-- Marcador fluorescente con tinta universal brillante, para resaltar sobre cualquier soporte
-- Colores diferentes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B000KJP6AA{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Composición del material: 80% algodón, 14% algodón reciclado, 5% poliéster reciclado, 1% elastano
-- Cierre: bragueta con cierre de botón
 - Tipo de producto: jeans holgados
+- Cierre: bragueta con cierre de botón
 - Cintura: cintura alta
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

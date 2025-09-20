@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cuello sin etiqueta para un uso sin complicaciones
+- Hecho de Jersey con material suave para comodidad diaria durante todo el día
 - Cuello redondo acanalado y mangas cortas
 - Hombros relajados y un ajuste cuadrado
-- Hecho de Jersey con material suave para comodidad diaria durante todo el día
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07WZVFR18{{</world>}}

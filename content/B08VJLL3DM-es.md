@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tejido transpirable
 - Interlock 100% poliéster reciclado
 - Cuello redondo
 - Corte clásico
+- Tejido transpirable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08VJLL3DM{{</world>}}

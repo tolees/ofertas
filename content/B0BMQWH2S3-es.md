@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Este producto es original Levis
-- Un lienzo en blanco para la expresión propia
 - Un icono del estilo estadounidense
+- Un lienzo en blanco para la expresión propia
 - Los vaqueros azules originales desde 1873
+- Este producto es original Levis
 - El corte recto original
 
 [🛒 Aquí!!!]({{< param buyurl >}})

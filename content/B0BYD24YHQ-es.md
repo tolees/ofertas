@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- visera preformada
-- Correa ajustable
 - logotipo de adidas
+- Correa ajustable
+- visera preformada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BYD24YHQ{{</world>}}

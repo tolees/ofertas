@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Kit completo para cejas. Contiene 2 cepillos profesionales
 - Define, completa y arregla tus cejas
+- Incluye un cepillo en ángulo con doble punta y cepillo para modelar
 - Rimmel Brow this Way es una fórmula de larga duración y cómoda de llevar
 - Duo compacto con cera para dar forma y fijar, y sombra para dar color y rellenar
-- Incluye un cepillo en ángulo con doble punta y cepillo para modelar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00MGK9Q5M{{</world>}}

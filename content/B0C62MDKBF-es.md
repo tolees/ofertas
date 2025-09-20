@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Incluye una hoja de pegatinas
 - en espiral y pautado en cuadrícula
+- Incluye una hoja de pegatinas
 - Con tapa dura y 80 hojas de papel de 80 gr.
 - Libreta en tamaño A4
 

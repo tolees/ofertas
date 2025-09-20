@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sistema operativo, Windows 11 Home
 - Pantalla 15,6 pulgadas, FullHD, 1920 x 1080 pixeles TN, 250 nits, antirreflejos
-- Memoria RAM de 8 GB (4 GB Soldered DDR4-32004 GB SO-DI mm DDR4-3200)
 - Procesador AMD Ryzen 7 5700U
 - Almacenamiento de 512 GB SSD M,2 2280 PCIe 3,0 x 4 NVMe
+- Memoria RAM de 8 GB (4 GB Soldered DDR4-32004 GB SO-DI mm DDR4-3200)
+- Sistema operativo, Windows 11 Home
 - Tarjeta gráfica Integrada AMD Radeon Graphics
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

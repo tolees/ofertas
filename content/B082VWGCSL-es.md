@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Xarel·lo, Chardonnay, Macabeo y Parellada
-- Boca: Intenso y afrutado, con una buena acidez que lo hace muy fresco. Notas de mandarina y anís .
-- Carnes y pescados poco elaborados, arroces suaves y pasta condimentada
-- Gaudí
 - Es expresivo e intenso, aromas muy definidos de pera verde, kiwi y piña, Con carácter cítrico y un ligero fondo florar
+- Gaudí
+- Boca: Intenso y afrutado, con una buena acidez que lo hace muy fresco. Notas de mandarina y anís .
+- Xarel·lo, Chardonnay, Macabeo y Parellada
+- Carnes y pescados poco elaborados, arroces suaves y pasta condimentada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B082VWGCSL{{</world>}}

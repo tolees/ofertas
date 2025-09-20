@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cocodrilo estampado en relieve en el contrafuerte: el detalle emblemático
-- Forro de tela: confort y transpirabilidad óptimos
 - Suela de goma: Soporte acolchado agarre firme
+- Forro de tela: confort y transpirabilidad óptimos
 - Empeine de piel y material sintético: la funcionalidad se alía con la moda
+- Cocodrilo estampado en relieve en el contrafuerte: el detalle emblemático
 - Silueta inspirada en la pista de suela gruesa: diseño vanguardista con toques del legado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El mueble rascador Minou de Vesper contiene todo lo que tu gato necesita en un mueble rascador: cuna, rascador y escondite
 - Compacto y versátil
 - Con alfombrilla de sisal en su exterior para poder rascar tanto como quiera
+- El mueble rascador Minou de Vesper contiene todo lo que tu gato necesita en un mueble rascador: cuna, rascador y escondite
 - Cojines De Espuma Viscoelástica Para Proporcionarle Una Mayor Comodidad Al Descansar Ya Que Se Adapta Perfectamente A La Forma Del Cuerpo De Tu Gato
 
 [🛒 Comprar!!!]({{< param buyurl >}})

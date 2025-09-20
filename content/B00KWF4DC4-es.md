@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre: Cordones
-- Material exterior: Cuero
 - Tipo de tacón: Plano
 - Revestimiento: Sintético
 - Material de la suela: Goma
+- Cierre: Cordones
+- Material exterior: Cuero
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00KWF4DC4{{</world>}}

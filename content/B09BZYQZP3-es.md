@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cintura ancha de encaje que resalta la figura
 - Calzoncillos de algodón
+- Cintura ancha de encaje que resalta la figura
 - Braga femenina
 
 [🛒 Aquí!!!]({{< param buyurl >}})

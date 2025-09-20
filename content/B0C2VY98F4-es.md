@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Amplia gama de características
 - Rendimiento constante
+- Amplia gama de características
 - Construcción duradera
 
 [🛒 Comprar!!!]({{< param buyurl >}})

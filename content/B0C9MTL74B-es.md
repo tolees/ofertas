@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ropa deportiva multicolor de la marca Nike
 - pantalones cortos de deportes de equipo
+- Ropa deportiva multicolor de la marca Nike
 - pantalones cortos nike
 
 [🛒 Comprar!!!]({{< param buyurl >}})

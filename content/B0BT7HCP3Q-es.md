@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Forro: 100% poliéster
-- Bolsa de hombro
 - Cremallera
+- Bolsa de hombro
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BT7HCP3Q{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Planificador mensual al inicio de cada mes, frases mensuales divertidas
+- 17 x 3,5 x 22,6 cm
+- 160 páginas, papel de 100 gr con la certificación FSC, frases diarias motivacionales, separadores con pestaña para cada mes, bolsillo interior de cartón,
 - Agenda estilo Wonder de Mr.Wonderful, con organización semanal, va de septiembre de 2023 a finales de agosto de 2024; esta agenda contiene:
 - Regla de plástico interior, 8 hojas de pegatinas, juegos y extras entretenidísimos, horarios y calendarios (del último trimestre de 2023 y de 2024 y 2025, completos),
-- 160 páginas, papel de 100 gr con la certificación FSC, frases diarias motivacionales, separadores con pestaña para cada mes, bolsillo interior de cartón,
-- 17 x 3,5 x 22,6 cm
+- Planificador mensual al inicio de cada mes, frases mensuales divertidas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C62DF1B4{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Solé material: Caucho
 - Cierre: Cordones
+- Solé material: Caucho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B089FH8DJL{{</world>}}

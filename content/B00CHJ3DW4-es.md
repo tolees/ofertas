@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Soporta todos los ejercicios de alta intensidad
+- Probado para aumentar el rendimiento físico
 - Acelera el crecimiento muscular y la recuperación.
 - Apto para veganos y veganos
-- Probado para aumentar el rendimiento físico
+- Soporta todos los ejercicios de alta intensidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00CHJ3DW4{{</world>}}

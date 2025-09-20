@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Temporizador programable de hasta 2 horas, transcurridos los cuales el ventilador se apaga de forma automática, proporcionándote comodidad y ahorro de energía
+- La función oscilación permite dirigir el flujo de aire que sale del aparato para que vaya cubriendo alternativamente y de modo automático un radio de hasta 70º. Para activar esta función, pulse el botón (B)
+- Regula la intensidad del caudal de aire que prefieras mediante su selector de 3 velocidades y mejora la circulación del aire de la habitación gracias a la opción oscilante
 - Mantén tu hogar fresco de forma silenciosa al tiempo que ahorras energía con el ventilador Babel RC de tan solo 45 W de absorción de potencia
 - Incluye asa de transporte
-- Regula la intensidad del caudal de aire que prefieras mediante su selector de 3 velocidades y mejora la circulación del aire de la habitación gracias a la opción oscilante
-- La función oscilación permite dirigir el flujo de aire que sale del aparato para que vaya cubriendo alternativamente y de modo automático un radio de hasta 70º. Para activar esta función, pulse el botón (B)
+- Temporizador programable de hasta 2 horas, transcurridos los cuales el ventilador se apaga de forma automática, proporcionándote comodidad y ahorro de energía
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B007PS4WJ0{{</world>}}

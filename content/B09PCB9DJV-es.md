@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Brand: Floïd
-- CUIDA TU PIEL: Elaborado con una exclusiva fórmula con asombrosos beneficios para el cuidado de tu piel después del afeitado.
 - FRAGANCIA: la mejor combinación entre elegancia y frescura, con matices amaderados.
+- CUIDA TU PIEL: Elaborado con una exclusiva fórmula con asombrosos beneficios para el cuidado de tu piel después del afeitado.
 - BENEFICIOS: Este producto es ideal para pieles sensibles y delicadas al afeitado.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

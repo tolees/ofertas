@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- No contiene gluten.
 - Naturalmente refrescante
 - Tiene un 40% menos kcal que el vino
-- No contiene gluten.
 - Bebida natural de manzana
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

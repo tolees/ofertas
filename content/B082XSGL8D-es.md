@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Espejo incorporado para retoques durante todo el día
-- Nueva fórmula Best in class: formulación altamente avanzada
 - Respeta la luminosidad del color
+- Nueva fórmula Best in class: formulación altamente avanzada
 - Aplicación de tacto de seda creando una película fina y cómoda
+- Espejo incorporado para retoques durante todo el día
 - Color intenso
 
 [🛒 Aquí!!!]({{< param buyurl >}})

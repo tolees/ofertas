@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forro textil
 - Mediasuela con amortiguación
 - Forma clásica
+- Forro textil
 - Parte de piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Capacidad de dardos: La pistola XSHOT Skins Flux tiene capacidad para un solo dardo con recarga fácil y un almacenamiento adicional para 2 dardos.
 - Potencia de tiro: ¡La pistola XSHOT Skins Flux atacará a tus enemigos que se encuentren hasta una distancia de 27 metros/90 pies y tiene un mecanismo de retroceso después de cada disparo!
 - Tecnología air pocket: ¡La pistola XSHOT Skins incluye dardos con tecnología air pocket para disparos más precisos, más rápidos y más lejanos!
-- Excepcionales Skins: Busca las 6 skins de Sonic the Hedgehog y encuentra las excepcionales pistolas. ¿Encontrarás la skin X-Legendary? Solo tienes 1 posibilidad en 1000 de encontrarla.
+- Capacidad de dardos: La pistola XSHOT Skins Flux tiene capacidad para un solo dardo con recarga fácil y un almacenamiento adicional para 2 dardos.
 - Elige tu skin: Únete a la batalla con el ícono de cultura pop Sonic the Hedgehog, Tails y Knuckles con las skins de XSHOT Sonic.
+- Excepcionales Skins: Busca las 6 skins de Sonic the Hedgehog y encuentra las excepcionales pistolas. ¿Encontrarás la skin X-Legendary? Solo tienes 1 posibilidad en 1000 de encontrarla.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CD1GV37D{{</world>}}

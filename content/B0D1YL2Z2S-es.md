@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Parte superior textil
 - Ancho normal
 - Cierre de cordones
-- Parte superior textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D1YL2Z2S{{</world>}}

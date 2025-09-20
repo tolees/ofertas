@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cuello redondo
-- Levis logotipo de murciélago en el pecho
 - Ajuste regular
+- Levis logotipo de murciélago en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07SFJBC72{{</world>}}

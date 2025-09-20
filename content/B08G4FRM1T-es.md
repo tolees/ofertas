@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- HipHop Robot BeatBox
 - Los niños podrán dirigir, producir y protagonizar sus propios vídeos musicales en un abrir y cerrar de ojos con la app gratuita de realidad aumentada LEGO VIDIYO Creador de Vídeos Musicales
 - Verifica la compatibilidad de tu dispositivo descargando la aplicación gratuita y graba tu primer vídeo musical con un Bandmate digital gratis antes de comprarlo. Busca LEGO VIDIYO en App Store o Google Play
 - Número de piezas: 73
+- HipHop Robot BeatBox
 - Edad recomendada por el fabricante: 7+
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

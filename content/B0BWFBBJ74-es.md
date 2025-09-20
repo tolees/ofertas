@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Zapatos para correr
 - La malla en la parte superior está reforzada con cuero y superposiciones sintéticas.
 - La entresuela de espuma tiene surcos profundos
-- Zapatos para correr
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BWFBBJ74{{</world>}}

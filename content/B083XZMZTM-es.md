@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Mangas raglán cortas
-- Camiseta de cuello redondo
-- Camiseta con cuello redondo
 - Tejido de jersey
 - Pantalones cortos con cintura elástica y cordón de ajuste
+- Camiseta de cuello redondo
+- Camiseta con cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B083XZMZTM{{</world>}}

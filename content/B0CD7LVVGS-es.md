@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- JABÓN LÍQUIDO: para cuerpo y cabello
+- CHAMPÚ SUAVE: sin lágrimas
+- CON GAMA COMPLETA: contiene un Agua de Colonia Nenuco, un Champú Extra Suave Nenuco y un Jabón Líquido Ultra Suave Nenuco
 - PERSONALIZA SU MOCHILA
 - AGUA DE COLONIA: no reseca la piel
-- CON GAMA COMPLETA: contiene un Agua de Colonia Nenuco, un Champú Extra Suave Nenuco y un Jabón Líquido Ultra Suave Nenuco
-- CHAMPÚ SUAVE: sin lágrimas
+- JABÓN LÍQUIDO: para cuerpo y cabello
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CD7LVVGS{{</world>}}

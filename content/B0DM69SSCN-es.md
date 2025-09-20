@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sin Frutos Secos, Sin Huevo
-- Sin Gluten
-- Elaboradas en España por Galletas Gullón
-- Con aceite de girasol alto oleico, sin aceite de palma
 - Con alto contenido en fibra
-- Con deliciosas pepitas de chocolate
 - No podrás resistirte a la fusión de una galleta de chocolate con chips de chocolate, ¡una auténtica tentación sin gluten, sin frutos secos y sin huevo!
+- Sin Frutos Secos, Sin Huevo
+- Elaboradas en España por Galletas Gullón
+- Con deliciosas pepitas de chocolate
+- Con aceite de girasol alto oleico, sin aceite de palma
+- Sin Gluten
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DM69SSCN{{</world>}}

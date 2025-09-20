@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Horma clásica
 - Lengüeta perforada y acolchada
 - Mediasuela de EVA
 - Empeine sintético Fusionfeel con textura
 - Cierre de cordones
-- Horma clásica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CYNC5G81{{</world>}}

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Con protección contra cuerpos extraños y las salpicaduras de agua
-- Prolongador eléctrico
 - El cable alargador es óptimo para un uso corto en exteriores
+- Prolongador eléctrico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B000ZEM0S6{{</world>}}

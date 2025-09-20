@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hidrata y oculta las imperfecciones, poros y ojeras
 - Indicado para piel seca o mixta
 - Complejo hidratante con SPF 20
+- Hidrata y oculta las imperfecciones, poros y ojeras
 - Acabado sin brillos y natural, cobertura media
 - Aplica la base de maquillaje con los dedos o una brocha des del centro hasta el exterior para mezclarla con el tono de tu piel
 

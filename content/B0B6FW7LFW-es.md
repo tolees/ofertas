@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Espuma frustrada
-- Insertos perforados en la punta
 - Lengua ultraimbottita
+- Insertos perforados en la punta
+- Espuma frustrada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B6FW7LFW{{</world>}}

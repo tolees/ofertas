@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bolsa realizada en PP.
 - No lavar (las manchas pueden eliminarse frotando suavemente con un paño húmedo).
+- Bolsa realizada en PP.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D1RC7FBT{{</world>}}

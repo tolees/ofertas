@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cordones elásticos y cierre ajustable
 - Horma clásica
+- Cordones elásticos y cierre ajustable
 - Forro sintético
 - Mediasuela con amortiguación para una pisada cómoda
 

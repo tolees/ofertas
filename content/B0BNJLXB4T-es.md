@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Costuras decorativas
 - Rampa
+- Costuras decorativas
 - Tela superior
 
 [🛒 Comprar!!!]({{< param buyurl >}})

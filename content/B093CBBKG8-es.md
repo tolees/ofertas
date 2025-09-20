@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - * Proporciona una mayor duración en cámaras digitales en comparación con la duración media mínima de la prueba de aplicación de alto drenaje AA de la IEC de 2021 (web de la EIC). ** O mayor potencia en determinados dispositivos en comparación con la siguiente mejor pila alcalina AA de Duracell. Los resultados pueden variar según el dispositivo o el tipo de uso. *** En comparación con pilas AA de zinc de primera calidad. Los resultados pueden variar según el dispositivo y el tipo de uso. Para más información: web de Duracell.
-- EXTRA DURACIÓN: Te ofrece la experiencia de videojuego con pilas alcalinas más duradera en este mando de Xbox***
 - ALMACENAMIENTO ÓPTIMO: El innovador embalaje tipo libro mantiene las pilas en su sitio para que puedas guardarlas de forma sencilla y segura.
-- EMBALAJE SOSTENIBLE: El embalaje de las pilas con 0 % de plástico es 100 % reciclable.
 - EXTRA POTENCIA: Proporciona más potencia** que nuestra siguiente mejor pila AA para que determinados dispositivos funcionen mejor.
+- EMBALAJE SOSTENIBLE: El embalaje de las pilas con 0 % de plástico es 100 % reciclable.
+- EXTRA DURACIÓN: Te ofrece la experiencia de videojuego con pilas alcalinas más duradera en este mando de Xbox***
 - MEJORA EL RENDIMIENTO DE TUS DISPOSITIVOS: Las pilas Duracell Optimum aportan a los dispositivos que más consumen, como las cámaras digitales, hasta un 200 % más de duración*.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

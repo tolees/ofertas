@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Madurado en barricas de roble americano
-- Con notas dulces de vainilla, toffee y un toque a nueces
 - Es dulce y cremoso en boca
 - De color oro cálido
+- Con notas dulces de vainilla, toffee y un toque a nueces
+- Madurado en barricas de roble americano
 - Declaración de edad de 10 años, que aporta profundidad y carácter
 
 [🛒 Aquí!!!]({{< param buyurl >}})

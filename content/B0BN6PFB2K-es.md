@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Forma del talón: plano
 - Material exterior: sintético
-- Suela: Caucho
+- Forma del talón: plano
 - Material interior: sintético
+- Suela: Caucho
 - Cierre: cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Plantilla Step-in
 - PUMA Tira de forma en los lados medial y lateral
 - Perforaciones en la puntera
-- Plantilla Step-in
 - PUMA Marca en el talón
 
 [🛒 Aquí!!!]({{< param buyurl >}})

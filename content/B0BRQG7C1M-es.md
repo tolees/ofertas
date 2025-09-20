@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Proporciona hasta 6 horas de hidratación y duración
+- Textura deslizante que se difumina sin esfuerzo para conseguir un rostro radiante y fresco
+- La prebase de maquillaje Healthy Mix está compuesta por un 88% de ingredientes naturales y por vitaminas C, E y B5
+- Textura deslizante que se difumina sin esfuerzo para conseguir un rostro radiante y fresco
+- Su fórmula limpia y vegana prolonga la luminosidad del maquillaje, difumina los poros, cubre las irregularidades de la piel y disimula los signos de la fatiga
+- Su fórmula limpia y vegana prolonga la luminosidad del maquillaje, difumina los poros, cubre las irregularidades de la piel y disimula los signos de la fatiga
 - Testado dermatológicamente y apta para pieles sensibles
 - La prebase de maquillaje Healthy Mix está compuesta por un 88% de ingredientes naturales y por vitaminas C, E y B5
-- La prebase de maquillaje Healthy Mix está compuesta por un 88% de ingredientes naturales y por vitaminas C, E y B5
 - Proporciona hasta 6 horas de hidratación y duración
-- Proporciona hasta 6 horas de hidratación y duración
-- Textura deslizante que se difumina sin esfuerzo para conseguir un rostro radiante y fresco
-- Su fórmula limpia y vegana prolonga la luminosidad del maquillaje, difumina los poros, cubre las irregularidades de la piel y disimula los signos de la fatiga
-- Textura deslizante que se difumina sin esfuerzo para conseguir un rostro radiante y fresco
-- Su fórmula limpia y vegana prolonga la luminosidad del maquillaje, difumina los poros, cubre las irregularidades de la piel y disimula los signos de la fatiga
 - Testado dermatológicamente y apta para pieles sensibles
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

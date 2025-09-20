@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte regular
 - Cuello acanalado
+- Corte regular
 - Gráfico estampado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

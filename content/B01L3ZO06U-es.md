@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dimensiones mínimas: 101 x 60 x 25,3 mm y peso: 0,05 kg
-- Sensor óptico de 1200 PPP, preciso con gran resolución, podrás trabajar en una gran variedad de superficies
 - Sistemas operativos compatibles: Windows 7; Windows 8; Windows 10; Mac OS 10.3 o posterior; Chrome OS
 - Batería de larga duración, hasta 16 meses dependiendo su uso
-- Conexión inalámbrica de 2,4 GHz de gran fiabilidad, trabaja sin limitaciones
 - Diseñado para diestros y zurdos, fácilmente adaptable
+- Conexión inalámbrica de 2,4 GHz de gran fiabilidad, trabaja sin limitaciones
+- Sensor óptico de 1200 PPP, preciso con gran resolución, podrás trabajar en una gran variedad de superficies
+- Dimensiones mínimas: 101 x 60 x 25,3 mm y peso: 0,05 kg
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01L3ZO06U{{</world>}}

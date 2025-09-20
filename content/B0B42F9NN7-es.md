@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- logotipo de adidas
 - Longitud de la rodilla
 - Puños acanalados
-- logotipo de adidas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B42F9NN7{{</world>}}

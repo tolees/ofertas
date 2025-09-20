@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Composición de 100% poliéster
-- Cintura elástica para un ajuste óptimo
 - Pantalón largo con diseño pitillo y abertura lateral con cremalleras y fuelle para poner y quitar la prenda con facilidad
 - Cuenta con unos bolsillos con cremalleras
+- Composición de 100% poliéster
+- Cintura elástica para un ajuste óptimo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B010FYGZ36{{</world>}}

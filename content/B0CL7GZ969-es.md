@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ligeras
-- No es resistente al agua
 - Cierre de cordones
+- No es resistente al agua
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CL7GZ969{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fácil de aplicar
 - Textura suave
+- Fácil de aplicar
 - Marca: LOreal Paris
 - Color intenso y duradero
 

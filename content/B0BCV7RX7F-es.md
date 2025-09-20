@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Parche de bandera Tommy Jeans en el pecho
 - Cuello en V
+- Parche de bandera Tommy Jeans en el pecho
 - Mezcla de algodón orgánico elástico
 
 [🛒 Visítala!!!]({{< param buyurl >}})

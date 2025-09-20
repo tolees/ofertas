@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsa de lona
 - Vida al aire libre
+- Bolsa de lona
 - Tiene detalles distintivos de la marca, la misma es Puma
 
 [🛒 Aquí!!!]({{< param buyurl >}})

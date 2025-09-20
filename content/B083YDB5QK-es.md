@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 25 altura x 38 ancho x 13 profundidad cm
 - Bolsa para portátil
-- 0.75kg peso x 13L volumen
 - 100% Poliamida
 - Hidrófugo
+- 25 altura x 38 ancho x 13 profundidad cm
+- 0.75kg peso x 13L volumen
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B083YDB5QK{{</world>}}

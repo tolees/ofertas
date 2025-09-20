@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Comida para gato de la marca Purina
-- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
 - Color: Multicolor
+- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
 - Referencia: S9144239
 - Medidas: 19 x 14,5 x 8 centímetros
 

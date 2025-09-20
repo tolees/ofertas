@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello alto
-- Estampado de flores arty
 - Fit: Slim
+- Estampado de flores arty
 - Abertura trasera en el bajo
+- Cuello alto
 - Manga larga
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- FILA Logotipo bordado en el panel lateral
 - Webbing as lace-loops, and nice, feminine round laces
+- FILA Logotipo bordado en el panel lateral
 - Zapatillas con puntera equilibrada y parte superior de capas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

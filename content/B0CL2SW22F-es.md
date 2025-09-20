@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte clásico
 - 100% algodón
+- Corte clásico
 - Cuello redondo de canalé
 
 [🛒 Visítala!!!]({{< param buyurl >}})

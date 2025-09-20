@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 100% POLYURETHANE
 - Interior en color
-- Pespuntes en color
 - Color liso
+- Pespuntes en color
+- 100% POLYURETHANE
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09RB3MWHW{{</world>}}

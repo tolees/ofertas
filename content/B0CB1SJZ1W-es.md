@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Entresuela acolchada
 - Plantilla cómoda
+- Entresuela acolchada
 - Suela de tracción flexible
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

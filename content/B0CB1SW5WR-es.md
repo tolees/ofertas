@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre de cordones
 - Logotipo de la marca
+- Cierre de cordones
 - Punta redonda
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

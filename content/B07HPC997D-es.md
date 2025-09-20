@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Estilo clásico mini-me contemporáneo
-- Zapatillas Bulky
 - Unique Disruptor square lace loops
+- Zapatillas Bulky
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07HPC997D{{</world>}}

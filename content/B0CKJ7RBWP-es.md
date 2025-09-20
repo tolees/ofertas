@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Plantilla que proporciona amortiguación
 - Con puntera redondeada
+- Plantilla que proporciona amortiguación
 - Diseño transpirable y cómodo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

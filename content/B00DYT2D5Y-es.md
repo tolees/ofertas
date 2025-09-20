@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cubo de fregar con capacidad para 12 litros
 - Diseño de plástico ergonómico y resistente
 - Contiene medidor
-- Cubo de fregar con capacidad para 12 litros
 - Material libre de BpA
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

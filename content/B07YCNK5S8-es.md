@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diadema a juego
-- Cuello redondo
 - Logotipo gráfico de Levis Batwing en el pecho
+- Cuello redondo
+- Diadema a juego
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07YCNK5S8{{</world>}}

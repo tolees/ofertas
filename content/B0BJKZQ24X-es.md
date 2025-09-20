@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Lace closure
 - Regular fit
-- Synthetic upper
 - Synthetic lining
 - Rubber outsole
+- Lace closure
+- Synthetic upper
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BJKZQ24X{{</world>}}

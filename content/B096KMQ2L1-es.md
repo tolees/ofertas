@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Rubber outsole
-- Malla insole
 - PU - SINTETIC SUEDE
+- Malla insole
+- Rubber outsole
 - Cuero sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

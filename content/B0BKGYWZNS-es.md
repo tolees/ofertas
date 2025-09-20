@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Hecho de la mejor sarga
-- Pantalón casual
 - 5 bolsillos
+- Pantalón casual
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BKGYWZNS{{</world>}}

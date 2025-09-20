@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste normal
 - Comodidad de
+- Ajuste normal
 - Pierna recta
 
 [🛒 Visítala!!!]({{< param buyurl >}})

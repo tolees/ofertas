@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalla e indicador LED: el color del indicador luminoso te indica si funciona, si funciona mal, si está llegando al final de su vida útil o si detecta CO. La pantalla también muestra la cantidad de CO en el aire, si la hay.
-- Batería de 10 años: este detector funciona con una batería de 10 años, que no necesitarás sustituir durante toda la vida útil del dispositivo.
-- Botón de prueba: comprueba regularmente (una vez al mes) que el aparato funcione correctamente.
 - Instalación fácil: se incluye la tornillería de montaje necesaria. Instala un detector de CO por planta, cerca de tus aparatos de combustión y cerca de los dormitorios. Asegúrate de que todo el mundo pueda oír la alarma de 85 dB.
+- Botón de prueba: comprueba regularmente (una vez al mes) que el aparato funcione correctamente.
+- Batería de 10 años: este detector funciona con una batería de 10 años, que no necesitarás sustituir durante toda la vida útil del dispositivo.
 - Protección eficaz contra el monóxido de carbono (CO): Protege a tu familia del CO, un gas extremadamente tóxico que no puede ser detectado por los sentidos humanos. El detector de CO Smartwares FGA-13091 incorpora un sensor electroquímico para detectar el monóxido de carbono, incluso en pequeñas cantidades.
+- Pantalla e indicador LED: el color del indicador luminoso te indica si funciona, si funciona mal, si está llegando al final de su vida útil o si detecta CO. La pantalla también muestra la cantidad de CO en el aire, si la hay.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DJ8Y9YDF{{</world>}}

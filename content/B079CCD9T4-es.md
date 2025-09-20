@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Polo de corte entallado
 - Durabilidad con material sostenible
 - JACK & JONES apoya la iniciativa Better Cotton usando algodón orgánico o reciclado
 - Tiene detalles distintivos de la marca
-- Polo de corte entallado
-- Cuello estilo polo
 - Con camiseta clásica de piqué
+- Cuello estilo polo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B079CCD9T4{{</world>}}

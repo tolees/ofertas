@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Más de 50 minis para coleccionar
-- Incluyen figuras doradas exclusivas
 - Réplicas optimas de tus juguetes Disney favoritos en tamaño mini: desde las princesas y clásicos hasta Marvel y Star Wars
 - Figuras con un gran nivel detalle
+- Incluyen figuras doradas exclusivas
+- Más de 50 minis para coleccionar
 - Cada cápsula incluye 5 miniaturas Disney en su interior
 
 [🛒 Aquí!!!]({{< param buyurl >}})

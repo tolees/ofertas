@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillos laterales
 - Ajuste regular
 - Capucha con cordón
+- Bolsillos laterales
 - Cremallera frontal completa
 
 [🛒 Aquí!!!]({{< param buyurl >}})

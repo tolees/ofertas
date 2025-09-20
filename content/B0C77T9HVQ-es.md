@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Encuentra tu luz interior con BOSS Bottled Elixir
 - Tamaño: 50 ml
+- Encuentra tu luz interior con BOSS Bottled Elixir
 - Una interpretación sublime de la masculinidad moderna
 
 [🛒 Comprar!!!]({{< param buyurl >}})

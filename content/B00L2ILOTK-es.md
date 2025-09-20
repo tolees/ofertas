@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CONSUMO - Aplique el desencofrante NL unos días o tan solo unos minutos antes del hormigonado: necesitará aproximadamente 1 l por cada 10-20 m², según la naturaleza del soporte.
-- IDEAL PARA ENCOFRADOS METÁLICOS - Aplique este desencofrante para hormigón para conseguir un acabado impecable con una capa impermeabilizante. Es especialmente adecuado para los encofrados metálicos.
-- FÁCIL APLICACIÓN - Para aplicar este aceite desencofrante listo para usar, económico y de gran rendimiento, solo necesita pasar una brocha por el encofrado limpio y seco.
 - MAYOR DURABILIDAD DE LOS ENCOFRADOS - Alargue la vida útil de los encofrados y optimice la limpieza y el mantenimiento con el desencofrante LN para hormigón, cemento o mortero impermeabilizante.
+- IDEAL PARA ENCOFRADOS METÁLICOS - Aplique este desencofrante para hormigón para conseguir un acabado impecable con una capa impermeabilizante. Es especialmente adecuado para los encofrados metálicos.
+- CONSUMO - Aplique el desencofrante NL unos días o tan solo unos minutos antes del hormigonado: necesitará aproximadamente 1 l por cada 10-20 m², según la naturaleza del soporte.
+- FÁCIL APLICACIÓN - Para aplicar este aceite desencofrante listo para usar, económico y de gran rendimiento, solo necesita pasar una brocha por el encofrado limpio y seco.
 - ANTIADHERENCIA - Este aceite desencofrante LN garantiza hormigonados limpios, rápidos y fáciles. Evita que el hormigón, el cemento o el mortero se ensucien o se adhieran a los encofrados.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

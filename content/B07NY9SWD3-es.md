@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El gel lubricante control es hidratante y no tiene ni azúcar ni gluten
 - Gel lubricante Control Aloe íntimo de base silicona para la sequedad vaginal y genital
-- El gel lubricante Aloe con aroma a jazmín: toda la frescura del placer
-- No es graso, no mancha y es fácil de eliminar con agua
-- Compatible con el uso del preservativo, pero no debe emplearse con juguetes de silicona
-- El contacto oral con el lubricante no supone un riesgo
+- El gel lubricante control es hidratante y no tiene ni azúcar ni gluten
 - Botella de 75 ml para un más uso
+- El contacto oral con el lubricante no supone un riesgo
+- El gel lubricante Aloe con aroma a jazmín: toda la frescura del placer
+- Compatible con el uso del preservativo, pero no debe emplearse con juguetes de silicona
+- No es graso, no mancha y es fácil de eliminar con agua
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07NY9SWD3{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Todo en uno: Una maceta CUBICO color, que incluye sistema de riego, sustrato para plantas LECHUZA-PON como capa de drenaje e inserto reemplazable para plantas con asas retráctiles e indicador de nivel de agua; material: plástico; dimensiones: 29,5 x 29,5 x 56,5 cm; depósito de agua: 4 l; volumen de la planta: 14 l; inserto para la planta: 25 x 25 cm
-- Apto para interiores y exteriores: Fácil cuidado de las plantas durante todo el año; macetero con sistema de riego y rosca en la base para drenar el exceso de agua de lluvia
 - Superficie color mate: La superficie mate suave es fácil de cuidar y presenta las plantas con estilo; disponible en diferente colores y tamaños
+- Apto para interiores y exteriores: Fácil cuidado de las plantas durante todo el año; macetero con sistema de riego y rosca en la base para drenar el exceso de agua de lluvia
+- Todo en uno: Una maceta CUBICO color, que incluye sistema de riego, sustrato para plantas LECHUZA-PON como capa de drenaje e inserto reemplazable para plantas con asas retráctiles e indicador de nivel de agua; material: plástico; dimensiones: 29,5 x 29,5 x 56,5 cm; depósito de agua: 4 l; volumen de la planta: 14 l; inserto para la planta: 25 x 25 cm
 - Con sistema de riego: El sistema de riego de LECHUZA integrado en el macetero les brinda a las plantas la cantidad de agua adecuada de forma fiable, con práctico indicador del nivel de agua para un control total del riego
 - Fabricado en Alemania: Plástico resistente a los rayos UV y a la intemperie, 100 % reciclable, duradero e irrompible
 

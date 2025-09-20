@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Bolsillos con botones a presión ocultos en el muslo, bolsillo con cremallera a un lado
 - Bragueta de cremallera
-- Bolsillos con solapa y botones a presión ocultos en la parte trasera
 - Bolsillos reforzados
+- Bolsillos con solapa y botones a presión ocultos en la parte trasera
 - Proporciona comodidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

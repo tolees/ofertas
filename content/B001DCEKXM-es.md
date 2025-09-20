@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Doble indicación de la hora, fecha, alarma diaria y horas de salida y puesta del sol
 - El Suunto Core incluye las funciones más importantes para exteriores en una construcción robusta con una cómoda correa de elastómero
 - La combinación de altímetro, barómetro y brújula con información meteorológica es la herramienta indispensable para tus aventuras
+- Doble indicación de la hora, fecha, alarma diaria y horas de salida y puesta del sol
 - Pantalla matricial con retroiluminación electroluminiscente, Batería reemplazable por el usuario, 12 meses de duración de la batería en modo tiempo, Menú multilingüe disponible en inglés, francés, alemán y español, Temperatura de funcionamiento de -20° C a +60° C
 - Contenido: 1x Suunto Core Reloj deportivo outdoor, Material: Elastómero (Correa), Cristal mineral, Color: Negro (All Black), SS014279010
 

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tecnología transpirable AEROREADY
 - Corte entallado
+- Tecnología transpirable AEROREADY
 - Interlock 100% poliéster reciclado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

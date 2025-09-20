@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Exclusiva fragancia
-- Con aroma muy agradable
 - Buen olor
 - óptima duración
 - De óptima duración
+- Con aroma muy agradable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0853DBYT7{{</world>}}

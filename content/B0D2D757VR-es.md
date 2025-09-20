@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ¿PELO LARGO, DÉBIL Y QUEBRADIZO que necesita ayuda? ¡Estás en buenas manos! Los productos Aussie dejarán tu pelo heroicamente hidratado
-- FÓRMULA VEGANA ENRIQUECIDA CON SUPERALIMENTOS AUSTRALIANOS: Nuestra línea Aussie SOS es vegana, sin ingredientes o subproductos derivados de animales
-- DI HOLA A UN PELO EXTRAORDINARIAMENTE HIDRATADO, espectacular, lleno de vida en muy poco tiempo
-- PARA UN RESCATE COMPLETO DEL PELO: sigue nuestra rutina con el champú y acondicionador Aussie SOS Strength & Length para pelo largo y quebradizo
 - FUERZA & LARGO: este delicado champú Aussie fortalece el cabello mientras ayuda a prevenir la rotura y las puntas abiertas
+- FÓRMULA VEGANA ENRIQUECIDA CON SUPERALIMENTOS AUSTRALIANOS: Nuestra línea Aussie SOS es vegana, sin ingredientes o subproductos derivados de animales
+- PARA UN RESCATE COMPLETO DEL PELO: sigue nuestra rutina con el champú y acondicionador Aussie SOS Strength & Length para pelo largo y quebradizo
+- DI HOLA A UN PELO EXTRAORDINARIAMENTE HIDRATADO, espectacular, lleno de vida en muy poco tiempo
+- ¿PELO LARGO, DÉBIL Y QUEBRADIZO que necesita ayuda? ¡Estás en buenas manos! Los productos Aussie dejarán tu pelo heroicamente hidratado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D2D757VR{{</world>}}

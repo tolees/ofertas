@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Formulada con aceites vegetales de girasol y almendra, y extractos biológicos de plantas medicinales como el pensamiento silvestre, manzanilla y caléndula, que alivian todo tipo de irritaciones
-- Crema reparadora intensiva para las pieles secas, agrietadas y dañadas. Perfecta para cara y cuerpo, proporciona hidratación, calma y protege la piel de agresiones externas y el desecamiento cutáneo
-- Crema de efecto reparador intensivo y poder nutritivo, testada dermatológicamente. Sin conservantes, colorantes, perfumes sintéticos, ni sustancias de origen petroquímico
-- Consejos de uso: Rostro: aplicar mediante suaves toques para no estirar la piel, hasta su total absorción. Cuerpo: aplicar con un suave masaje en la zona afectada, hasta su total absorción
 - Razones para usar Skin Food Original: para nutrir la piel, calmar irritaciones, regenerar la piel. También como mascarilla revitalizante, iluminador del rostro o bálsamo labial reparador... y mucho más!
+- Formulada con aceites vegetales de girasol y almendra, y extractos biológicos de plantas medicinales como el pensamiento silvestre, manzanilla y caléndula, que alivian todo tipo de irritaciones
+- Crema de efecto reparador intensivo y poder nutritivo, testada dermatológicamente. Sin conservantes, colorantes, perfumes sintéticos, ni sustancias de origen petroquímico
+- Crema reparadora intensiva para las pieles secas, agrietadas y dañadas. Perfecta para cara y cuerpo, proporciona hidratación, calma y protege la piel de agresiones externas y el desecamiento cutáneo
+- Consejos de uso: Rostro: aplicar mediante suaves toques para no estirar la piel, hasta su total absorción. Cuerpo: aplicar con un suave masaje en la zona afectada, hasta su total absorción
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00A3M1TIW{{</world>}}

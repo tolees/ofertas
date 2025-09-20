@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- APTO Para lavavajillas, nevera, congelador y microondas, desde -40 grados Celsius a 100 grados
-- Fabricado en España con sello de garantía TATAY
-- LIBRE DE BPA Fabricado con plásicos de adecuada calidad libre de BPA y tóxicos
-- Cumple con la normativa de Seguridad en Plásticos
 - A PRESIÓN Tapa de cierre de presión, garantizando una mejor conservación de alimentos
-- MEDIDAS 18.4 x 9.7 x 6.1 cm
+- Cumple con la normativa de Seguridad en Plásticos
+- Fabricado en España con sello de garantía TATAY
 - La siguiente información se aplica a cada unidad del paquete
+- MEDIDAS 18.4 x 9.7 x 6.1 cm
+- APTO Para lavavajillas, nevera, congelador y microondas, desde -40 grados Celsius a 100 grados
+- LIBRE DE BPA Fabricado con plásicos de adecuada calidad libre de BPA y tóxicos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CPFB4HBY{{</world>}}

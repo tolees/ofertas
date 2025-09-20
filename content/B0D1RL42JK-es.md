@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Detalles distintivos de Tommy Hilfiger
 - Estilo de 5 bolsillos
+- Detalles distintivos de Tommy Hilfiger
 - Costuras a contraste
 
 [🛒 Visítala!!!]({{< param buyurl >}})

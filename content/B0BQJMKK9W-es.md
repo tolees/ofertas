@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte cónico
 - Cintura elástica
+- Corte cónico
 - Tela Suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})

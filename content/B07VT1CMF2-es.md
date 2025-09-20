@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pure system: filtro para polvo para un aire del hogar más sano y limpio
 - Compacto y fácil de transportar gracias al diseño slim (185mm de espesor), el asa y las ruedas pivotantes
 - Deshumidificación con descarga continua del condensado o a través de tanque extraíble de 2 litros. Apagado automático con tanque lleno.
 - Deshumidifica hasta 14 litros al día. Posibilidad de programar su funcionamiento con el temporizador incorporado (de 1 a 24 horas)
+- Pure system: filtro para polvo para un aire del hogar más sano y limpio
 - Precargado con gas refrigerante natural R290: respeta el medioambiente y garantiza el impacto mínimo en el calentamiento global (GWP = 3)
 
 [🛒 Visítala!!!]({{< param buyurl >}})

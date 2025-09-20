@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Transforma el cabello de mojado a peinado sin daño*
 - ghd duet style seca y peina perfectamente desde la raíz hasta las puntas
-- Peina el cabello seco con el modo Shine Shot para obtener 2 veces más brillo y 3,5 veces mayor alineación del cabello***
 - La primera plancha de pelo y secador de aire caliente 2 en 1
+- Transforma el cabello de mojado a peinado sin daño*
+- Peina el cabello seco con el modo Shine Shot para obtener 2 veces más brillo y 3,5 veces mayor alineación del cabello***
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DK5QTZ3Z{{</world>}}

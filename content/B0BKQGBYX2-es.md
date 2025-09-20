@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte acampanado en la pierna
 - Cintura alta
+- Corte acampanado en la pierna
 - Fabricado con materiales reciclados y tecnología Powerflex para una gran recuperación
 
 [🛒 Visítala!!!]({{< param buyurl >}})

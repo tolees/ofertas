@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Compatible con ATX, MicroATX y MiniITX
 - Tira Frontal ARGB y Ventilador Trasero
 - Cristal Templado
 - Diseño Frontal Mallado
+- Compatible con ATX, MicroATX y MiniITX
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09HRB2YJG{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tela elástica de tacto suave
-- La base adecuado para look
 - Otros detalles de estilo
+- Tela elástica de tacto suave
 - Cinturilla cómoda
+- La base adecuado para look
 - Cinturilla con la marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})

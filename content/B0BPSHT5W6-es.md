@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricados en parte con materiales reciclados
 - Producto adecuado para actividades deportivas
+- Fabricados en parte con materiales reciclados
 - Calcetines cortos tobilleros
 - Detalles distintivos de la marca
 

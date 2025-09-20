@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Dos tamaños en una sóla varilla
 - Varilla combinada ranura phillips/phillips para porta-varillas Vario
 - Punta Black-Point ofrece alojamiento preciso y óptima protección anticorrosiva
-- Dos tamaños en una sóla varilla
 - Material hexagonal en niquelado mate, 6 mm
 
 [🛒 Comprar!!!]({{< param buyurl >}})

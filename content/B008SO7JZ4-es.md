@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Fácil de usar
+- Material: Cerámica
 - Alisadores con revestimiento cerámico de queratina
 - Cerradura de transporte
-- Material: Cerámica
-- Fácil de usar
 - Cable giratorio
 
 [🛒 Comprar!!!]({{< param buyurl >}})

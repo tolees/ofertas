@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Banda Dual Wi-Fi 6 (802.11 b/g/n/ac/ax), 2,4 GHz/5 GHz
 - Procesador Mediatek Cortex A78/A55 (Octa Core ) 2.4GHz
-- 1 GB de datos internacionales incluidos del proveedor SIMO vSIM
-- Certificación MIL-STD-810H e IP54
-- Pantalla táctil 2.4” (240x320), 166 DPI
 - Batería de alta capacidad de 6500 mAh que dura todo el día
+- Certificación MIL-STD-810H e IP54
+- Banda Dual Wi-Fi 6 (802.11 b/g/n/ac/ax), 2,4 GHz/5 GHz
+- 1 GB de datos internacionales incluidos del proveedor SIMO vSIM
+- Pantalla táctil 2.4” (240x320), 166 DPI
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C6R5ZK3Q{{</world>}}

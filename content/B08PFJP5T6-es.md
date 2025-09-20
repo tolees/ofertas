@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Parte superior de ante completa
 - Silueta de bota baja
 - Entresuela de goma
-- Parte superior de ante completa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08PFJP5T6{{</world>}}

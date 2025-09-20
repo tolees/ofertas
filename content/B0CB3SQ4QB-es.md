@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Plantilla extraíble Contour Cushion que soporta cada paso
 - Suela flexible y antideslizante que ofrece la máxima durabilidad
+- Plantilla extraíble Contour Cushion que soporta cada paso
 - Cordones auténticos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

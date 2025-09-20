@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suavidad: Tacto suave
-- Confort : Matière de qualité pour un confort optimal
 - Cinturón elástico: para un ajuste perfecto
+- Confort : Matière de qualité pour un confort optimal
+- Suavidad: Tacto suave
 - Compositon : 90% Poliéster 10% Elastano
 - Sans couture pour un confort optimal
 

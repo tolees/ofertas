@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Trainer Challenge te comunicará un hecho y dos Pokémon y depende de ti decidir cuál es el Pokémon correcto
 - Cuantas más respuestas correctas de, más difíciles serán las preguntas
 - 300 preguntas para responder
+- Trainer Challenge te comunicará un hecho y dos Pokémon y depende de ti decidir cuál es el Pokémon correcto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B3RR6TBP{{</world>}}

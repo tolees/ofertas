@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Inspirado en el tenis. Diseñado para una apariencia y comodidad excelentes todos los días.
 - Suela de goma duradera y adherente
 - Suela de goma duradera y adherente
-- Ajuste actualizado y mejorado.
 - zapatillas PUMA Smash
+- Ajuste actualizado y mejorado.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0783PM5BM{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cuello redondo
-- Longitud estándar
 - Manga corta
+- Longitud estándar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B082KV8NV4{{</world>}}

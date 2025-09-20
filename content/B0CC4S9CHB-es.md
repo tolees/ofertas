@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cómodos
 - Parte superior de malla
 - Skechers Detalle del logotipo
-- Cómodos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CC4S9CHB{{</world>}}

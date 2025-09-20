@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Almacenamiento de alta capacidad de hasta 256 GB²
 - Altas velocidades de transferencia de datos de hasta 200 MB/s¹ de lectura
 - Diseño ultrapequeño en metal de alta calidad
-- Almacenamiento de alta capacidad de hasta 256 GB²
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B1W3TW59{{</world>}}

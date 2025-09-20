@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Colores de las tintas: amarillo, verde, rosa y azul
 - Set de 4 subrayadores con purpurina
+- Colores de las tintas: amarillo, verde, rosa y azul
 - Adecuado para líneas de diario, cuaderno de bocetos, libro de matemáticas y otras
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

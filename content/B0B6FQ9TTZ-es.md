@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bloque "Nike" escrito en la lengua en el talón
 - Placa de Swoosh en la parte posterior del talón
+- Bloque "Nike" escrito en la lengua en el talón
 - SOLO DE FUMA INTERNA SEGURA
 
 [🛒 Comprar!!!]({{< param buyurl >}})

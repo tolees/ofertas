@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Lugar de instalación: bañera, ducha
 - Tipo de instalación: empotrada
+- Lugar de instalación: bañera, ducha
 - Tipo de cartucho: cerámico
 
 [🛒 Aquí!!!]({{< param buyurl >}})

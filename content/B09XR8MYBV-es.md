@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cada jugador coge una carta con una palabra que deberá completar con las letras de la mesa.
-- De 2 a 5 jugadores y a partir de 6 años.
 - 3 dinámicas: por rondas, acumulación de palabras o comodines
-- ¿Quién será el primero en encontrar todas las letras de la palabra seleccionada?
+- De 2 a 5 jugadores y a partir de 6 años.
 - Contenido: 48 palabras y 150 letras en mayúsculas.
+- ¿Quién será el primero en encontrar todas las letras de la palabra seleccionada?
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09XR8MYBV{{</world>}}

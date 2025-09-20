@@ -30,12 +30,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Obturador equipado con una reducción de choque para fotografías silenciosas y reducir posibles trepidaciones
 - Estabilizador Dual de 5 ejes que se comunica con el estabilizador del objetivo Lumix para lograr hasta 5 pasos de estabilización
-- Con VlogL preinstalado, atravéte en tu primer paso hacía el mundo de edición, gradación de colores y realiza tus excelentes planos en slow-motion gracias a su capacidad de grabar a 120fps en FHD
-- Máxima tecnología en un cuerpo compacto y sellado contra salpicaduras, polvo, con conectividad WiFi y Bluetooth
-- Ideal para videografos y vloggers al tener pantalla giratoria 360º y entrada de micrófono y salida de auricular
-- Sensor de 20.3MP sin filtro de paso bajo, que mejora drásticamente la nitidez de la imagen además de evitar el efecto Moiré
 - Procesador Venus Engine de última generación para una rápida respuesta de la cámara y mejora en la gestión del color
 - Con Live Composite, tecnología que permite realizar fantásticas fotografías nocturnas y de lightpaiting
+- Máxima tecnología en un cuerpo compacto y sellado contra salpicaduras, polvo, con conectividad WiFi y Bluetooth
+- Sensor de 20.3MP sin filtro de paso bajo, que mejora drásticamente la nitidez de la imagen además de evitar el efecto Moiré
+- Ideal para videografos y vloggers al tener pantalla giratoria 360º y entrada de micrófono y salida de auricular
+- Con VlogL preinstalado, atravéte en tu primer paso hacía el mundo de edición, gradación de colores y realiza tus excelentes planos en slow-motion gracias a su capacidad de grabar a 120fps en FHD
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07SWSDDG8{{</world>}}

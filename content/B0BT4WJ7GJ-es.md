@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tipo de talón: recubierto
 - Suela de goma
 - Breve
-- Tipo de talón: recubierto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BT4WJ7GJ{{</world>}}

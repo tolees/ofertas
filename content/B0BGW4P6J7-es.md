@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- UA Rival - Sudadera con capucha de forro polar, azul, LG
-- Puños y dobladillo acanalados
 - Forro polar de mezcla de algodón ultra suave con interior cepillado para mayor calidez
 - Bolsillo canguro en la parte delantera
+- UA Rival - Sudadera con capucha de forro polar, azul, LG
+- Puños y dobladillo acanalados
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BGW4P6J7{{</world>}}

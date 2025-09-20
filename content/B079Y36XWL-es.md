@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Optimo como luz de pelo o luz de acento
 - Crea efectos especiales en tu fondo o como una luz de acento
 - Añade acentuación en retratos y fotografía de belleza
-- Compatible con muchos flashes estroboscópicos
 - Diseñado para crear un efecto de foco
+- Compatible con muchos flashes estroboscópicos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B079Y36XWL{{</world>}}

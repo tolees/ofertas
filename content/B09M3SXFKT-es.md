@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Sin cierre, abierto para llevar
 - Un compañero inteligente para looks de ocio y negocios de buen gusto
+- Abrigo de tela elegante para mujer
 - Cuello alto
 - Corte regular
-- Sin cierre, abierto para llevar
-- Abrigo de tela elegante para mujer
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09M3SXFKT{{</world>}}

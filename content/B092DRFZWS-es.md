@@ -30,11 +30,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Dimensiones cavidad : 330 x 211 x 324 mm (ancho, alto, fondo).
 - Grill Fry. Cuece, hornea y asa los alimentos al grill sin necesidad de aceite.
-- Dimensiones exterior sin marco: 489 x 275 x 362 mm (ancho, alto, fondo).
-- Sistema TDS. El sistema de Triple Distribución de las Ondas proporciona un eficiente reparto del calor para que los platos se cocinen en poco tiempo y de forma homogénea.
 - Dimensiones exterior con marco : 596 x 381 x 362mm (ancho, alto, fondo).
-- Modo Eco. Ahorra dinero con el modo Eco reduciendo significativamente el consumo de energía en modo Stand by. Cuando no se esté utilizando el microondas, la energía utilizada para mantener las funciones esenciales es mínima.
+- Sistema TDS. El sistema de Triple Distribución de las Ondas proporciona un eficiente reparto del calor para que los platos se cocinen en poco tiempo y de forma homogénea.
 - Postre casero. Elige el postre que quieras, junta los ingredientes y selecciona esta función. Olvídate de precalentar el horno.
+- Dimensiones exterior sin marco: 489 x 275 x 362 mm (ancho, alto, fondo).
+- Modo Eco. Ahorra dinero con el modo Eco reduciendo significativamente el consumo de energía en modo Stand by. Cuando no se esté utilizando el microondas, la energía utilizada para mantener las funciones esenciales es mínima.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B092DRFZWS{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- OXO GARANTÍA Si tiene algún problema con su OXO producto, lo repararemos o lo reemplazaremos. Agradecemos la oportunidad de aprender de la experiencia y hacerlo mejor.
 - PRÁCTICO El soporte de recortes con resorte protege las manos y se puede guardar fácilmente en el rallador después de su uso
+- OXO GARANTÍA Si tiene algún problema con su OXO producto, lo repararemos o lo reemplazaremos. Agradecemos la oportunidad de aprender de la experiencia y hacerlo mejor.
 - SOFISTICADO La perilla suave y antideslizante de este utensilio de cocina facilita el ajuste de los 17 ajustes de fuerza; la ventana de visualización muestra el ajuste de grosor desde arriba
 - Versátil: el cortador de verduras ofrece una variedad de cortes, desde rebanadas rectas, cortes ondulados y de gofres hasta tiras en juliana y palitos gruesos
 - Nota: La numeración de los artículos en la niveladora puede variar.

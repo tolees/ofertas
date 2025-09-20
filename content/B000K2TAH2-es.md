@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Conexión para bolsa de polvo o una aspiradora
-- Con la extracción de polvo a través de la placa de lijar perforada
 - Lijado bloque de papeles abrasivos con tamaño de 90 x 187 mm
+- Con la extracción de polvo a través de la placa de lijar perforada
 - Orbital Sander 150 Watt
 
 [🛒 Visítala!!!]({{< param buyurl >}})

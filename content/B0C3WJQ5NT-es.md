@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Plantilla Cloudfoam
 - Mediasuela Cloudfoam
 - Parte textil
 - Horma clásica
-- Plantilla Cloudfoam
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C3WJQ5NT{{</world>}}

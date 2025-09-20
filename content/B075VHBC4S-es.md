@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El control PMW permite ajustar la velocidad de forma dinámica entre 600 y 1300 rpm, reduciendo el ruido o maximizando el flujo de aire
-- Este producto ha sido diseñado como expansión del kit de 2 ventiladores LL140 RGB LED con Lighting Node PRO
 - La hoja de ventilador de 140 mm esta diseñada para conseguir un funcionamiento poco ruidoso sin interferir con el rendimiento
+- Este producto ha sido diseñado como expansión del kit de 2 ventiladores LL140 RGB LED con Lighting Node PRO
 - La funcionalidad RGB de este producto requiere un concentrador de iluminación RGB y Lighting Node PRO
 - Cuenta con 16 LEDs RGB independientes en cada ventilador, divididos en dos halos de luz
+- El control PMW permite ajustar la velocidad de forma dinámica entre 600 y 1300 rpm, reduciendo el ruido o maximizando el flujo de aire
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B075VHBC4S{{</world>}}

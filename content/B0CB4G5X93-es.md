@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte regular
-- Cinturón de doble capa de calidad principal
-- Bolsillos traseros de parche
 - Bolsillos delanteros con doble costura
+- Corte regular
+- Bolsillos traseros de parche
 - Pantalones cortos con cintura estilo bolsa de papel
+- Cinturón de doble capa de calidad principal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CB4G5X93{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte delantera de encaje elástico con correa de velcro en el empeine
-- Capa de malla sintética y parte superior de tela degradada
-- Suela de tracción flexible
 - Altura del tacón: 1 pulgada
+- Suela de tracción flexible
+- Capa de malla sintética y parte superior de tela degradada
+- Parte delantera de encaje elástico con correa de velcro en el empeine
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0921V4WJL{{</world>}}

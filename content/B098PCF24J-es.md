@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre: Velcro
 - Material de la suela: EVA
+- Cierre: Velcro
 - Material exterior: Cuero
 
 [🛒 Comprar!!!]({{< param buyurl >}})

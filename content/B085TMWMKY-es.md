@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PURIFICADOR de AIRE: Equipo generador de Ozono para Aire, Compacto y Portátil, para los lugares más reducidos. Tecnología iÓnica para generar Ozono (O3). Microprocesador inteligente que controla el ciclo de la operación haciendo que trabaje de manera continua, autónoma y con temporizador.
-- TRANSPORTABLE y con accesorios para ozonizar el agua y hacerla más óptima para su consumo, higiene, lavado de alimentos y cuidado de la piel. Ideal para uso doméstico y oficina: limpia el ambiente del salón, los dormitorios, elimina los malos olores de la cocina y purifica el ambiente en la oficina. También ideal para salones de belleza, comercios, Spa, garajes…
-- Este producto ha sido notificado al Ministerio de Sanidad (Número de registro: 200112180924) en cumplimiento de la Disposición Transitoria Segunda del Real Decreto 1054/2002. Marca miembro de la Asociación Europea de Comercio de Ozono (EUOTA). Si tiene alguna pregunta o insatisfacción, comuníquese con nosotros. Atenderemos su problema lo antes posible.
 - ALTA TECNOLOGÍA y FÁCIL DE USAR: botones de tiempo e intensidad que forman parte de un display digital de sencillo control. Emisión personalizable en potencia y duración.
+- TRANSPORTABLE y con accesorios para ozonizar el agua y hacerla más óptima para su consumo, higiene, lavado de alimentos y cuidado de la piel. Ideal para uso doméstico y oficina: limpia el ambiente del salón, los dormitorios, elimina los malos olores de la cocina y purifica el ambiente en la oficina. También ideal para salones de belleza, comercios, Spa, garajes…
+- PURIFICADOR de AIRE: Equipo generador de Ozono para Aire, Compacto y Portátil, para los lugares más reducidos. Tecnología iÓnica para generar Ozono (O3). Microprocesador inteligente que controla el ciclo de la operación haciendo que trabaje de manera continua, autónoma y con temporizador.
+- Este producto ha sido notificado al Ministerio de Sanidad (Número de registro: 200112180924) en cumplimiento de la Disposición Transitoria Segunda del Real Decreto 1054/2002. Marca miembro de la Asociación Europea de Comercio de Ozono (EUOTA). Si tiene alguna pregunta o insatisfacción, comuníquese con nosotros. Atenderemos su problema lo antes posible.
 - LIMPIEZA TOTAL: Eficiencia en áreas de hasta 100 m². Mantiene limpio de ácaros y partículas el ambiente. Elimina olores como el de la gasolina, el tabaco, evita el moho y la humedad. Sin añadir ningún tipo de químico.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

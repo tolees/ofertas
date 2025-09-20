@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Paquete de 5 cuadernos con colores de tapa aleatorios: verde, rojo, rosa y azul
 - Tapas de plástico translúcido, ligeras pero resistentes
-- Formato 4º
 - 80 hojas con cuadrícula 4mm x 4mm con margen
 - Espiral simple negra, gira las páginas 360º cómodamente
+- Formato 4º
+- Paquete de 5 cuadernos con colores de tapa aleatorios: verde, rojo, rosa y azul
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0742NGPPM{{</world>}}

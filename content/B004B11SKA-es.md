@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Toques de rico y suave chocolate con naranja
-- Notas de mazapán y nueces
 - De color dorado
 - Se puede usar para preparar cócteles
 - Aromas afrutados a naranja de naranja dulce y melocotón
+- Notas de mazapán y nueces
+- Toques de rico y suave chocolate con naranja
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B004B11SKA{{</world>}}

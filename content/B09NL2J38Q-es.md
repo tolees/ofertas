@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Parte superior de cuero sintético
 - Suela de goma
 - Ajuste regular
-- Parte superior de cuero sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09NL2J38Q{{</world>}}

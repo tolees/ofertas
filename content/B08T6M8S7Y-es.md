@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Solo cooperativo (local y online, pantalla dividida)
 - Embárcate en la aventura más loca de tu vida con It Takes Two.
-- En esta aventura de plataformas multigénero creada para el juego cooperativo solo hay una cosa segura: que juntos somos mejores.
 - Invita a un amigo a acompañarte gratis con el Pase de amigo en una gran variedad de desafíos alegremente disruptivos encarnando a la pareja separada formada por Cody y May.
+- En esta aventura de plataformas multigénero creada para el juego cooperativo solo hay una cosa segura: que juntos somos mejores.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08T6M8S7Y{{</world>}}

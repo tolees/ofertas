@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Paquete de dos
 - Proporciona comodidad
+- Cuello acanalado
 - Bordado de G-Star RAW en el pecho
 - Bajo recto
-- Cuello acanalado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B072BH2PXQ{{</world>}}

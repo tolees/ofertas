@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido elástico
 - Sutiles pliegues
 - Corte ajustado de mezclilla
+- Tejido elástico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B099S6BKZ9{{</world>}}

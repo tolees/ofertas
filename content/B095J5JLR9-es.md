@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Batallas tácticas por turnos.
 - Personajes adorables y coloridos.
-- Una historia intrigante.
-- Elige entre el camino de la oscuridad o el de la luz.
 - Sistema de batalla único basado en la invocación de muñecas.
+- Elige entre el camino de la oscuridad o el de la luz.
+- Una historia intrigante.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B095J5JLR9{{</world>}}

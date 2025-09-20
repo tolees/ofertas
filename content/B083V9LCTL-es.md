@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bañador natación hombre
 - 5 volley short (nessa566-018)
+- Bañador natación hombre
 - Ropa deportiva nike
 
 [🛒 Comprar!!!]({{< param buyurl >}})

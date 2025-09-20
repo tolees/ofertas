@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Trabillas de
 - Bragueta con cremallera
+- Trabillas de
 - Estilo de cinco bolsillos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Plantilla de EVA
-- Diseño acolchado
 - Forro textil
 - Parte superior de piel sintética
+- Plantilla de EVA
+- Diseño acolchado
 - Cierre de cordones
 - Horma clásica
 

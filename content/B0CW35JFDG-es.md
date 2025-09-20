@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Wattage: 1100.0 watts
 - 【GRAN TANQUE DE AGUA DE 37,2 OZ】 El tanque de agua grande de 37,2 oz (1,1 L) se calienta en menos de 5 minutos y proporciona hasta 30 minutos de vapor. Gatillo de vapor con cerradura opcional con función de distribución de vapor continua, fácil de usar, sin necesidad de seguir presionando el vapor.
+- Wattage: 1100.0 watts
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CW35JFDG{{</world>}}

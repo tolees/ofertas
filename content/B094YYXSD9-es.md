@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ilumina la noche con luces LED de 700 lúmenes de alta calidad que se activan con el movimiento.
-- Personaliza las zonas de detección de movimiento, activa alertas y configura las luces para que se enciendan desde la app gratuita Blink Home Monitor en tu teléfono.
-- Ve, escucha y habla a las visitas en tiempo real desde la app con el vídeo en directo HD 1080p y el audio bidireccional.
 - Configúralo en solo unos minutos: conecta la Blink Outdoor a la red wifi y sigue las instrucciones de la app. Instálalo donde quieras con el kit incluido (se incluye un gancho para poder instalarlo sobre revestimiento vinílico sin necesidad de agujeros).
+- Compatible con Alexa: usa la voz para controlar tu casa con el vídeo en directo, las notificaciones de movimiento y la activación de luces con los dispositivos Alexa seleccionados.
 - Gracias a sus potentes luces LED, el soporte con focos Blink convierte la Blink Outdoor en una cámara de seguridad inteligente HD con iluminación, sin cables y con alimentación por pilas.
 - Puedes guardar y compartir grabaciones en la nube con la prueba gratuita de 30 días del plan de suscripción de Blink o localmente con el Sync Module 2 y la unidad USB (ambos se venden por separado).
-- Compatible con Alexa: usa la voz para controlar tu casa con el vídeo en directo, las notificaciones de movimiento y la activación de luces con los dispositivos Alexa seleccionados.
+- Ilumina la noche con luces LED de 700 lúmenes de alta calidad que se activan con el movimiento.
 - Incluye una cámara Blink Outdoor, un soporte con focos Blink (Blink Floodlight Mount), un Sync Module 2, un accesorio de montaje, dos pilas AA de litio de 1,5 V, cuatro pilas D, un kit de montaje, un cable USB, un adaptador de corriente y un adaptador de corriente en ángulo recto.
+- Ve, escucha y habla a las visitas en tiempo real desde la app con el vídeo en directo HD 1080p y el audio bidireccional.
+- Personaliza las zonas de detección de movimiento, activa alertas y configura las luces para que se enciendan desde la app gratuita Blink Home Monitor en tu teléfono.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B094YYXSD9{{</world>}}

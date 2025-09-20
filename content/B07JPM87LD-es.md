@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - FLEXIBLE - Dos bolsillos de ojal en la parte trasera y bolsillos frontales inclinados ofrecen mucho espacio.
 - CONFORT - Ajuste ceñido con forma cónica en las piernas.
-- PERFECTO- ¡Un super todoterreno para tu look diario! JPSTMARCO JJBOWIE - 12150148 de Jack & Jones.
 - MATERIAL - Tejido elástico de 98% algodón y 2% elastano.
+- PERFECTO- ¡Un super todoterreno para tu look diario! JPSTMARCO JJBOWIE - 12150148 de Jack & Jones.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07JPM87LD{{</world>}}

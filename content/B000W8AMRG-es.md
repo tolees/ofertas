@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material exterior: Caucho
 - Revestimiento: Sin forro
+- Material exterior: Caucho
 - Material de la suela: Goma
 - Tipo de tacón: Plano
 - Cierre: Sin cordones

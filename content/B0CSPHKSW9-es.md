@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte entallado
 - Estilo de tiro medio
+- Corte entallado
 - Fabricado con un mínimo de 20 % de materiales reciclados y otros tejidos sostenibles
 
 [🛒 Comprar!!!]({{< param buyurl >}})

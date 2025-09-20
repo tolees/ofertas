@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cabello nutrido al instante, revitalizado y sin apelmazar, Aporta un fresco aroma a sandía
 - Contenido: 1x Garnier Fructis Hair Food Acondicionador de Sandía Revitalizante, 350ml
+- Cabello nutrido al instante, revitalizado y sin apelmazar, Aporta un fresco aroma a sandía
+- Aplicar sobre el cabello húmedo y dejar actuar durante 2 minutos, Después aclarar con agua profundamente
 - Fórmula 96% de origen natural, vegana y sin siliconas, Dermatológicamente testado, Envase con 50% de plástico reciclado
 - Acondicionador con el poder revitalizador de la Sandía, Aporta energía, nutre, revitaliza y desenreda el cabello apagado y sin vida
-- Aplicar sobre el cabello húmedo y dejar actuar durante 2 minutos, Después aclarar con agua profundamente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08SS7DC6P{{</world>}}

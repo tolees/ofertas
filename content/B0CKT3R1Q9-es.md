@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Prenda de vestimenta
 - Para uso diario
 - Tiene detalles distintivos de la marca
+- Prenda de vestimenta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CKT3R1Q9{{</world>}}

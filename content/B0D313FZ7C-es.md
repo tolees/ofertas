@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Temporada: Todas las estaciones
 - Código de vestimenta: informal
 - Patrón: el diseño de la marca es visible
-- Temporada: Todas las estaciones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D313FZ7C{{</world>}}

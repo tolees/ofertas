@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Revestimiento mate y suave al tacto, especialmente resistente a las huellas dactilares
-- Cierre higiénico Fix-Clip de 2 botones de acero inoxidable para una fácil colocación y extracción
-- Dimensiones (ancho x fondo) tapa: 36,2 x 45,2 cm; anillo exterior: 36,2 x 45,2 cm; anillo interior: 22 x 28,5 cm
 - Con mecanismo de cierre suave Easy Close integrado para un cierre silencioso y suave de la tapa
+- Dimensiones (ancho x fondo) tapa: 36,2 x 45,2 cm; anillo exterior: 36,2 x 45,2 cm; anillo interior: 22 x 28,5 cm
+- Cierre higiénico Fix-Clip de 2 botones de acero inoxidable para una fácil colocación y extracción
+- Revestimiento mate y suave al tacto, especialmente resistente a las huellas dactilares
 - Asiento de inodoro extraplano de Duroplast antibacteriano e inastillable, incl. tope de pared
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

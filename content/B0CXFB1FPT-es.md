@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Chasis de magnesio y nanocarbono de gran resistencia superando 7 pruebas del estándar militar STD-MIL-810H.
 - Alta conectividad con 7 puertos (2 x USB 3.2, 2x USB Tipo C con Thunderbolt 4 integrado para carga ultrarrápida, HDMI 2.1, ranura para Micro SD 3.0 y entrada de auriculares).
-- Procesador Intel Core Ultra 5, con memoria RAM ultrarrápida LPDDR5x de 16GB integrada en placa y disco duro SSD de 512GB NVMe de 4ª Generacion con doble ranura ampliable. Gráfica Intel Arc para trabajar con contenido 4K UHD con la máxima fluidez.
+- Chasis de magnesio y nanocarbono de gran resistencia superando 7 pruebas del estándar militar STD-MIL-810H.
 - Pantalla IPS (2560x1600) (WQXGA) con tratamiento antirreflejos de 40,6cm (16") en formato 16:10, con un amplio rango de color DCI-P3 99%.
+- Procesador Intel Core Ultra 5, con memoria RAM ultrarrápida LPDDR5x de 16GB integrada en placa y disco duro SSD de 512GB NVMe de 4ª Generacion con doble ranura ampliable. Gráfica Intel Arc para trabajar con contenido 4K UHD con la máxima fluidez.
 - Ultraligero, con tan solo 1,1kg de peso, nueva batería de hasta 24,5 horas de autonomía* y un grosor de 16,8mm convierten al LG gram en el más portátil de los portátiles de LG gram.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

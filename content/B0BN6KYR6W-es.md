@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela: Caucho
-- Material interior: sintético
 - Cierre: cordones
+- Material interior: sintético
 - Forma del talón: plano
 - Material exterior: sintético
+- Suela: Caucho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BN6KYR6W{{</world>}}

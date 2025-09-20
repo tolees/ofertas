@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Las modelos miden 178 cm y llevan una talla S y XXL
-- Este mono tiene una entrepierna de 79 cm
 - Cintura elástica
-- Tirantes elásticos ajustables
+- Este mono tiene una entrepierna de 79 cm
+- Las modelos miden 178 cm y llevan una talla S y XXL
 - Fabricado en tejido tencel lyocell de peso medio, suave y no elástico
+- Tirantes elásticos ajustables
 - Bolsillos laterales
 - Ajuste suelto: diseño cómodo
 

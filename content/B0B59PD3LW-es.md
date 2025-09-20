@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Manga corta
-- Lavar a mano
 - Cuello redondo
+- Lavar a mano
 - 100% Compuesto
+- Manga corta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B59PD3LW{{</world>}}

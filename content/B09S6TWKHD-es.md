@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto distribuido oficialmente en España por BIZAK.
-- Enfréntate a tus amigos con tu Pokémon favorito, elige los discos de ataque y aprieta el botón.
 - Fantástico playset con 2 MegaPokeballs, 2 figuras y 6 discos de ataquel
+- Producto distribuido oficialmente en España por BIZAK.
 - La Pokeball girará y revelará tu ataque sorpresa.
+- Enfréntate a tus amigos con tu Pokémon favorito, elige los discos de ataque y aprieta el botón.
 - Revive auténticas batallas Pokémon
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

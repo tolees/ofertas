@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Puzzle de 200 piezas
 - Edad recomendada: a partir de 12 años
 - Tamaño del puzzle: 43,2 x 29,1 cm
 - Número de jugadores: a partir de 1 jugador
-- Puzzle de 200 piezas
 - SCHMIDT JUEGA Puzzles Premium – con calidad que puedes agarrar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

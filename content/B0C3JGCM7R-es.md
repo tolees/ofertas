@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Compra una talla más pequeña
 - Suela y mediasuela de EVA de una sola pieza
+- Compra una talla más pequeña
 - Forro textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Jersey de 1% algodón con hilatura melange, con coderas y bordado árbol
 - Puños y bajo en canalé
+- Jersey de 1% algodón con hilatura melange, con coderas y bordado árbol
 - Etiqueta decorativa efecto piel
 
 [🛒 Visítala!!!]({{< param buyurl >}})

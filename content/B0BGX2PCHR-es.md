@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Largo hasta el tobillo
 - Refuerzo en el arco plantar
 - Puntera sin costuras
 - Tres pares por paquete
+- Largo hasta el tobillo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BGX2PCHR{{</world>}}

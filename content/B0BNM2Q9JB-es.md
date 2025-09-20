@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Perneras ajustadas
-- Corte clásico
-- 100% poliéster (reciclado)
-- Bolsillos laterales con cremallera
-- AEROREADY
 - Cintura elástica con cordón ajustable
+- 100% poliéster (reciclado)
+- AEROREADY
+- Corte clásico
+- Perneras ajustadas
+- Bolsillos laterales con cremallera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BNM2Q9JB{{</world>}}

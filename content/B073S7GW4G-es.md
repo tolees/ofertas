@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Resistente al viento
 - Pantalones para mujer
+- Resistente al viento
 - Libertad de movimiento
 - Detalles distintivos de la marca
 

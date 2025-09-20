@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Logo de metal de Kipling
 - Asa superior
-- Llavero de metal del mono de Kipling
 - Correas de mochila ajustables
+- Llavero de metal del mono de Kipling
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B083YCTQQB{{</world>}}

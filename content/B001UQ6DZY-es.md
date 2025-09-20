@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Requiere baterías: No
-- Descripción del producto : Blister 3 placas preformadas rana / Star / dragon
 - Valores educativos: imaginar, inventar, crear
 - Edad mínima: 5 años
+- Descripción del producto : Blister 3 placas preformadas rana / Star / dragon
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B001UQ6DZY{{</world>}}

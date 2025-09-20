@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cómodos de llevar
 - Pantalones cortos para hombre
 - Material de calidad
-- Cómodos de llevar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C8YYSHMB{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- AMARILLO
 - Zapatillas casual para hombre
+- AMARILLO
 - 100% PU
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

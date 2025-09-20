@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bolsa deportiva
 - Cierre de coulisse ajustable
+- Bolsa deportiva
 - Logotipo de Adidas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

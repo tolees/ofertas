@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Adecuado para: mujeres
 - Sistema a prueba de roce, no se correrá o manchará tu ropa
 - Sin perfume y adecuada para piel sensible
-- No comedogénico, por lo que no va a tapar los poros de tu piel
 - Fórmula de larga duración garantizada durante ocho horas
+- No comedogénico, por lo que no va a tapar los poros de tu piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00378FSXQ{{</world>}}

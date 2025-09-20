@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- ALIVIAR LA SEQUEDAD VAGINAL: Destinado para aliviar la sequedad vaginal y las molestias íntimas
 - CALOR Y DIVERSIÓN: Durex lubricante Calor y Diversión
 - ¿CÓMO USARLO?: abrir el tapón y apretar suavemente para aplicarlo
 - COMPATIBLE CON PRESERVATIVOS DE LÁTEX: únicamente compatible con preservativos de látex de caucho natural y poliisopreno
-- ALIVIAR LA SEQUEDAD VAGINAL: Destinado para aliviar la sequedad vaginal y las molestias íntimas
 - APTO PARA SEXO VAGINAL, ANAL Y ORAL: lubricante apto para sexo vaginal, anal y oral
 
 [🛒 Visítala!!!]({{< param buyurl >}})

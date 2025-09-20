@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Longitud de la manga: manga larga
 - Ribete de volantes
+- Longitud de la manga: manga larga
 - Ajuste: ajuste cómodo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

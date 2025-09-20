@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- LYBANG Niños Skateboarding Zapatos Doble Rueda Calzado Deportes de Exterior Gimnástico Sneakers Moda Zapatillas Regalo de cumpleaños para niños
-- Tipo de producto: SHOES
 - Marca: LYBANG
+- Tipo de producto: SHOES
+- LYBANG Niños Skateboarding Zapatos Doble Rueda Calzado Deportes de Exterior Gimnástico Sneakers Moda Zapatillas Regalo de cumpleaños para niños
 - Tamaño: 38 EU
 
 [🛒 Aquí!!!]({{< param buyurl >}})

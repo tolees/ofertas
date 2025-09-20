@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Alérgenos: Contiene trigo; puede contener huevo y leche
 - Estilo tortitas americanas o pancakes, un clásico de los desayunos más típicos y tradicionales de los Estados Unidos
+- Preparado para tortitas American Style de la marca Royal, fáciles y rápidas de preparar para tus desayunos y meriendas
 - Conservar en lugar fresco y seco. Una vez preparado, conservar refrigerado
 - Textura esponjosa y suave, especialmente deliciosa en combinación con el sirope Milka de Royal y con tus piezas de fruta preferidas
-- Preparado para tortitas American Style de la marca Royal, fáciles y rápidas de preparar para tus desayunos y meriendas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B078FLK5Y1{{</world>}}

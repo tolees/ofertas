@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Resistencia al agua: 10 atm.
 - Correa de acero inoxidable 316l de color plateado con cierre doble pulsador.
+- Resistencia al agua: 10 atm.
 - Caja redonda de acero inoxidable 316l de color plateado.
 - Esfera redonda de color verde de cristal mineral.
 - Reloj cronógrafo de cuarzo para hombre.

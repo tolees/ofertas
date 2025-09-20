@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 2 guías de corte: 2-14 mm y 3-15 mm
-- Guía de precisión con 6 posiciones: 0,5 a 3 mm
-- Cabezal cuerpo: doble cabezal + peine guía
 - Uso con o sin cable: 45 minutos de autonomía
-- Waterproof: resistente al agua
-- Cuchillas auto lubricantes 32 mm para cabello y barba
+- Cabezal cuerpo: doble cabezal + peine guía
 - Varios cabezales de afeitado para cara y cabello
+- Guía de precisión con 6 posiciones: 0,5 a 3 mm
+- Waterproof: resistente al agua
 - Recortador para nariz y oreja
+- Cuchillas auto lubricantes 32 mm para cabello y barba
+- 2 guías de corte: 2-14 mm y 3-15 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00BJH46JE{{</world>}}

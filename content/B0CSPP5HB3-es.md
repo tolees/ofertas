@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Contenido: 2x Maybelline New York Lifter Gloss Tono 02 Ice
-- Brillo de labios formulado con ácido hialurónico para unos labios más hidratados, rellenos y jugosos, sin necesidad de retoques, y disponible en varios tonos para cada ocasión
-- El aplicador XXL define el contorno de los labios y potencia el brillo en una sola pasada, Aplica en el centro del labio y sigue el contorno de la boca
-- Resultado: Labios más suaves y definidos en una sola pasada, con brillo de larga duración y sensación no pegajosa, para un acabado natural con brillo
 - Fórmula con ácido hialurónico que aporta una hidratación intensa, para unos labios más lisos y rellenos, sin retoques y sin resecarse
+- El aplicador XXL define el contorno de los labios y potencia el brillo en una sola pasada, Aplica en el centro del labio y sigue el contorno de la boca
+- Brillo de labios formulado con ácido hialurónico para unos labios más hidratados, rellenos y jugosos, sin necesidad de retoques, y disponible en varios tonos para cada ocasión
+- Resultado: Labios más suaves y definidos en una sola pasada, con brillo de larga duración y sensación no pegajosa, para un acabado natural con brillo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CSPP5HB3{{</world>}}

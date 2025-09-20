@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hasta 16 horas de color inalterable
 - A prueba de roces, besos y cenas
+- Hasta 16 horas de color inalterable
 - Brillo e hidratación para una sensación de confort en los labios
 - Labios a prueba de todo en 2 pasos: paso 1, tinta líquida, paso 2, bálsamo hidratante
 - Color e hidratación de optimo impacto

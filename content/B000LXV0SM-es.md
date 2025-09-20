@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Wafer de forma estable corresponden al comportamiento alimentario natural
-- Nutrición óptima y variada para peces de fondo y crustáceos / Las tabletas alimentarias favorecen un crecimiento sano y una mayor resistencia
-- Gracias a su consistencia sólida, las obleas no enturbian el agua
 - Wafer marrones adecuados para peces carnívoros de fondo
 - Wafer verdes con valiosas algas espirulina especiales para peces herbívoros de fondo
+- Gracias a su consistencia sólida, las obleas no enturbian el agua
+- Nutrición óptima y variada para peces de fondo y crustáceos / Las tabletas alimentarias favorecen un crecimiento sano y una mayor resistencia
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000LXV0SM{{</world>}}

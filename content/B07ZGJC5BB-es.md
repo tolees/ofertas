@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Procesador: Snapdragon 730G 2.2GHz
-- OS: Android 9.0
-- Cámara: Penta, 108MP+5MP +12MP+20MP+2MP
-- Batería: 5260 mAh
 - Pantalla: 6.47", 1080 x 2340 pixels
+- Batería: 5260 mAh
+- Procesador: Snapdragon 730G 2.2GHz
+- Cámara: Penta, 108MP+5MP +12MP+20MP+2MP
+- OS: Android 9.0
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07ZGJC5BB{{</world>}}

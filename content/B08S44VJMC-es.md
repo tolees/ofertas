@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cintura media para ajuste perfecto
-- Longitud midi versátil
 - Estilo atemporal para hombres
+- Longitud midi versátil
+- Cintura media para ajuste perfecto
 - Ajuste regular cómodo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

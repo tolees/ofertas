@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Nuestra calidad es lo que nos recomienda
 - Contiene todo lo necesario para cultivar 4 tipos de pimientos picantes: Guindilla Roja, Anaheim, Jalapeño y Habanero
+- Nuestra calidad es lo que nos recomienda
 - Producto fue creado con atención al detalle
 - Tiempo de germinación: 8.0 days
 

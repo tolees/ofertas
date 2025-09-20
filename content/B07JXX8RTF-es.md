@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - MATERIAL - Stretch fabric made of 98% cotton and 2% elastane.
-- EL TAMAÑO DEL ARTÍCULO ES NORMAL
 - COMFORT - Slim fit with tapered leg shape.
+- EL TAMAÑO DEL ARTÍCULO ES NORMAL
 - FLEXIBLE - Two welt pockets at the back and slanted front pockets each offer plenty of room.
 - PERFECT- A super all-rounder for your daily look! JPSTMARCO JJBOWIE - 12150148 by Jack & Jones.
 

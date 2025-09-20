@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Excelente efecto de amortiguación
-- Transpirables
 - Hebilla en la correa para ajustar el ajuste
+- Transpirables
 - Calzado fácil de poner
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

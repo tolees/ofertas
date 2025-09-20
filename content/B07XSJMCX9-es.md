@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - VERSATILIDAD. 2 conos de diferentes tamaños, para cítricos más pequeños o más grandes, brindándote flexibilidad en tus opciones de exprimido.
-- PALAS PARA ARRASTRAR PULPA: Palas diseñadas específicamente para arrastrar la pulpa, asegurando un jugo suave y sin residuos.
-- GIRO EN AMBOS SENTIDOS. Exprimido eficaz y completo gracias a la función de giro en ambos sentidos, para aprovechar al máximo la obtención de jugo.
 - CAPACIDAD. 0,7L para preparar grandes cantidades de jugo de manera conveniente y eficiente.
+- GIRO EN AMBOS SENTIDOS. Exprimido eficaz y completo gracias a la función de giro en ambos sentidos, para aprovechar al máximo la obtención de jugo.
+- PALAS PARA ARRASTRAR PULPA: Palas diseñadas específicamente para arrastrar la pulpa, asegurando un jugo suave y sin residuos.
 - DESMONTABLE: Exprimidor desmontable, facilitando la limpieza después de su uso, manteniendo el exprimidor en perfecto estado.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

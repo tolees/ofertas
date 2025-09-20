@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Intel XMP 3.0 and AMD EXPO supported on the same module
+- Best for 13th Gen Intel Core and AMD Ryzen 7000 Series processors
 - ECC type=non-ECC, Form Factor=UDIMM, Pin count=288-pin, PC speed=PC5-44800, Voltage=1.1V, Rank and Configuration=1Rx8
 - Enhance productivity, save time and money, game at higher frame rates, multitask better
-- Best for 13th Gen Intel Core and AMD Ryzen 7000 Series processors
-- Intel XMP 3.0 and AMD EXPO supported on the same module
 - 5600MHz RAM can downclock if system specification only supports 5200MHz or 4800MHz
 
 [🛒 Aquí!!!]({{< param buyurl >}})

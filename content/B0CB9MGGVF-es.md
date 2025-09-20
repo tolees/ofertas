@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Composición Interior: Piel Sintetica
 - Si no sabes cuál es tu talla, te recomendamos: Selecciona tu talla habitual
 - Disfruta De Los Mejores Zapatos De La Marca: Pepe Jeans
-- Composición Interior: Piel Sintetica
 - Composición Exterior:
 - Estación: Verano
 

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fácil de usar en capas o por sí solo.
 - Costuras planas para evitar rozaduras al moverse.
-- Cuello alto para mayor protección contra el frío.
 - Tela elástica para comodidad adicional y flexibilidad.
+- Fácil de usar en capas o por sí solo.
+- Cuello alto para mayor protección contra el frío.
 - Material de forro polar aislante para calidez ligera.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

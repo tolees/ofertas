@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Refuerzo en el arco plantar
+- Puños de canalé
 - Calcetines tobilleros
 - Costuras anatómicas en la puntera
-- Puños de canalé
-- Refuerzo en el arco plantar
 - Tres pares por paquete
 
 [🛒 Visítala!!!]({{< param buyurl >}})

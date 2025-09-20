@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cierre de cordones
-- Horma clásica
 - Diseño concebido para ofrecer mayor amortiguación y respuesta
+- Horma clásica
 - Parte superior de malla técnica
 - Escapa de la rutina
 

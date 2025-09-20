@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Slim Fit
-- Slim fit jeans
 - Care Label:
 - Low rise
+- Slim fit jeans
 - materialFabricComposition: 50% Cotton, 28% Polyester, 20% Recycled Cotton, 2% Elastane
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

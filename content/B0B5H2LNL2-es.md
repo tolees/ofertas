@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Soporte USB 1.1 Host y dispositivo
-- 26 pines GPIO multifunción
-- Procesador ARM Cortex M0+ de doble núcleo, reloj flexible que funciona hasta 133 MHz
-- Chip de microcontrolador RP2040 diseñado por Raspberry Pi en el Reino Unido
 - 264 kB de SRAM y 2 MB de memoria flash integrada
+- Procesador ARM Cortex M0+ de doble núcleo, reloj flexible que funciona hasta 133 MHz
+- 26 pines GPIO multifunción
+- Chip de microcontrolador RP2040 diseñado por Raspberry Pi en el Reino Unido
+- Soporte USB 1.1 Host y dispositivo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B5H2LNL2{{</world>}}

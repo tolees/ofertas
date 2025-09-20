@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Su fórmula de cobertura modulable y enriquecida con bayas de goji y haloxyl para ralentizar el envejecimiento, permite un acabado uniforme e hidratado durante 12h sin cuartearse
+- Aplicación: Al utilizar el producto por primera vez, gira el cuello del aplicador 8 veces hasta que la fórmula aparezca en la esponja, y aplica la fórmula sobre el contorno de los ojos, las imperfecciones o pómulos para definir e iluminar el rostro
 - Aplicador en esponja, recubierto por miles de microfibras suaves para modular la cobertura y conseguir un rostro unificado
 - Contenido: 1x Maybelline New York, Corrector borrador multiusos, con cobertura modulable, en tono 10 Caramel, 6 ml
-- Aplicación: Al utilizar el producto por primera vez, gira el cuello del aplicador 8 veces hasta que la fórmula aparezca en la esponja, y aplica la fórmula sobre el contorno de los ojos, las imperfecciones o pómulos para definir e iluminar el rostro
+- Su fórmula de cobertura modulable y enriquecida con bayas de goji y haloxyl para ralentizar el envejecimiento, permite un acabado uniforme e hidratado durante 12h sin cuartearse
 - El Corrector Borrador multiusos difumina las ojeras y bolsas, corrige las imperfecciones y define e ilumina el rostro al instante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

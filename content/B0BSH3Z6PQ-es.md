@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Piel más luminosa y poros menos visibles, Reducción de las primeras arrugas y líneas de expresión, Tez más uniforme y radiante, Adecuado para todos los tonos y tipos de piel, incluso las sensibles
+- Contenido: 1x LOréal Paris Suero Facial 12% Pura Vitamina C , Piel más luminosa y poros menos visibles, reduce arrugas, discromía y poros, Revitalift Clinical, 30 ml
+- Aplicar 2-3 gotas de sérum sobre el rostro y el cuello bien limpios, Evitar el área de los ojos, Utilizar en combinación con una crema facial con SPF 20
 - Sérum facial formulado con 12% de Vitamina C pura, combate los primeros signos de envejecimiento, después de 8 semanas 2x piel más brillante y 2x poros menos visibles (probado clínicamente, 63 sujetos, 8 semanas)
 - Enriquecido con un 12% de Vitamina C pura, Vitamina E y Ácido Salicílico, Frasco opaco anti-UV y formulación ideal con PH 6.0 para preservar el poder del suero desde la primera hasta la última gota, Práctico aplicador de pipeta para una óptima dosificación
-- Aplicar 2-3 gotas de sérum sobre el rostro y el cuello bien limpios, Evitar el área de los ojos, Utilizar en combinación con una crema facial con SPF 20
-- Contenido: 1x LOréal Paris Suero Facial 12% Pura Vitamina C , Piel más luminosa y poros menos visibles, reduce arrugas, discromía y poros, Revitalift Clinical, 30 ml
+- Piel más luminosa y poros menos visibles, Reducción de las primeras arrugas y líneas de expresión, Tez más uniforme y radiante, Adecuado para todos los tonos y tipos de piel, incluso las sensibles
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BSH3Z6PQ{{</world>}}

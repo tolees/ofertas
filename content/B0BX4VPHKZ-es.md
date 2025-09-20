@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Peso: 150 gr.
 - El antifaz está realizado en poliéster y el cojín cervical en algodón PP 3D, lo que lo hace muy cómodo y práctico al uso.
-- Ambos con mensaje en inglés.
+- Peso: 150 gr.
 - Medidas: 21.5 x 8.5 x 15 cm
+- Ambos con mensaje en inglés.
 - Set de viaje compuesto por un cojín cervical y un antifaz.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

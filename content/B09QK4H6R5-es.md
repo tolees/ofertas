@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- algodón
-- Ajuste: relajado
-- Casual
 - Material exterior: vaquero
+- Casual
+- Ajuste: relajado
+- algodón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09QK4H6R5{{</world>}}

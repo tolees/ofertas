@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Textura ligera
 - Es un regalo adecuado en cualquier momento
 - Buena calidad
-- Textura ligera
 - Fácil de usar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ECONOMICO Y ECOLOGICO: Agua más pura y de excelente sabor con un coste y un desperdicio muy inferior al del agua embotellada desechable. Cada cartucho evita el residuo de hasta 2.000 botellas de plástico (500 ml)
+- GRAN CAPACIDAD: 1.000 litros / hasta 6 meses
+- INSTALACION SENCILLA: Una vez esté instalado el adaptador correcto, solo tendrás que colocar el filtro en el grifo y soltar. ¡Supersencillo!, incluye 6 adaptadores. Compatible con grifos standard
 - RECORDATORIO DE SUSTITUCION DEL FILTRO: El indicador te recuerda cuándo debes sustituir el filtro para obtener los mejores resultados
 - AGUA MAS PURA Y DE EXCELENTE SABOR: Gracias al Filtro X-Guard con carbón activado natural de alta calidad, se reduce hasta el 99 % del cloro y de las sustancias que afectan al sabor para ofrecerte un agua de sabor puro y fresco, manteniendo los minerales esenciales
-- INSTALACION SENCILLA: Una vez esté instalado el adaptador correcto, solo tendrás que colocar el filtro en el grifo y soltar. ¡Supersencillo!, incluye 6 adaptadores. Compatible con grifos standard
 - COMODIDAD Y FUNCIONALIDAD: Pulsador con 2 modos de flujo de agua entre los que seleccionar El modo agua filtrada es apta para cocinar o para beber, mientras que el agua de la ducha sin filtrar es adecuada para lavar los platos y para limpieza. Rápido flujo de agua filtrada: 2l / minuto
-- GRAN CAPACIDAD: 1.000 litros / hasta 6 meses
+- ECONOMICO Y ECOLOGICO: Agua más pura y de excelente sabor con un coste y un desperdicio muy inferior al del agua embotellada desechable. Cada cartucho evita el residuo de hasta 2.000 botellas de plástico (500 ml)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08FC41YSH{{</world>}}

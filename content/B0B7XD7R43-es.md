@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Inicio rápido - Despliégalo y encájalo magnéticamente. La aplicación DJI Mimo se inicia en cuanto acoplas tu smartphone al estabilizador. Pulsa para abrirla y podrás comenzar a grabar. Simplemente despliega el estabilizador y se encenderá.
 - Empieza rápidamente - ShotGuides y Edición en un toque: Este estabilizador de DJI es muy inteligente y dispone de extensas y dinámicas guías de grabación que son fáciles de dominar. Usa LightCut para editar fácilmente desde dondequiera que estés.
-- Control intuitivo y sencillo - Una nueva rueda lateral ajusta el enfoque y el zoom. Consigue desenfoques cinematográficos o acerca y aleja lentamente el zoom para lograr un efecto espectacular.
-- Control remoto con Watch - Instala la aplicación DJI Mimo en tu Apple Watch y conviértelo en un control remoto inteligente para Osmo Mobile 6. Visualiza a distancia la transmisión de la cámara, ajusta el ángulo del estabilizador, y captura fotos y graba vídeos. Todo desde tu reloj.
-- Nuevo modo Padres y Niños - Captura y graba momentos conmovedores con tu hijo mientras el estabilizador graba de forma autónoma para que tú puedas estar presente en el plano.
-- Vídeos estables con estabilización en 3 ejes - La tecnología de estabilización integrada y avanzada de DJI compensa los movimientos no deseados y atrapa el momento con fluidez cinematográfica.
 - Mantente centrado con el renovado ActiveTrack 6.0 - La última generación de tecnología de seguimiento permite seleccionar un objetivo y que el estabilizador lo siga automáticamente, incluso durante movimientos rápidos y dinámicos, o con obstáculos.
 - Ligero, compacto y extensible - Con un diseño plegable y solo 309 g de peso, este estabilizador de teléfonos móviles es fácil de llevar a cualquier sitio. Despliega el brazo extensible para lograr ángulos creativos o el selfie perfecto.
-- Inicio rápido - Despliégalo y encájalo magnéticamente. La aplicación DJI Mimo se inicia en cuanto acoplas tu smartphone al estabilizador. Pulsa para abrirla y podrás comenzar a grabar. Simplemente despliega el estabilizador y se encenderá.
+- Nuevo modo Padres y Niños - Captura y graba momentos conmovedores con tu hijo mientras el estabilizador graba de forma autónoma para que tú puedas estar presente en el plano.
+- Control intuitivo y sencillo - Una nueva rueda lateral ajusta el enfoque y el zoom. Consigue desenfoques cinematográficos o acerca y aleja lentamente el zoom para lograr un efecto espectacular.
+- Vídeos estables con estabilización en 3 ejes - La tecnología de estabilización integrada y avanzada de DJI compensa los movimientos no deseados y atrapa el momento con fluidez cinematográfica.
+- Control remoto con Watch - Instala la aplicación DJI Mimo en tu Apple Watch y conviértelo en un control remoto inteligente para Osmo Mobile 6. Visualiza a distancia la transmisión de la cámara, ajusta el ángulo del estabilizador, y captura fotos y graba vídeos. Todo desde tu reloj.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B7XD7R43{{</world>}}

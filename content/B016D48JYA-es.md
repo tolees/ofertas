@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Visera preformada.
-- Cierre de velcro.
-- Diseño de 6 paneles.
 - 100% algodón.
+- Cierre de velcro.
+- Visera preformada.
+- Diseño de 6 paneles.
 - Ojales bordados para una mejor ventilación.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

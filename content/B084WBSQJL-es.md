@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El vapor de Polti Vaporetto mata y elimina el 99.99% * de virus, gérmenes y bacterias
-- Caldera de alta presión 4 bar, emisión de vapor regulable hasta 110g/min
-- Calentamiento rápido: listo para el uso en 2 minutos. Autonomía de vapor ilimitada
 - Amplio compartimento para guardar los accesorios
+- Caldera de alta presión 4 bar, emisión de vapor regulable hasta 110g/min
+- El vapor de Polti Vaporetto mata y elimina el 99.99% * de virus, gérmenes y bacterias
+- Calentamiento rápido: listo para el uso en 2 minutos. Autonomía de vapor ilimitada
 - Múltiples accesorios: 11 accesorios para la limpieza de diferentes superficies + 3 paños para la limpieza de alfombras y moquetas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sleeveless
-- High stand-up collar
-- Quilted gilet
-- Care Label:
 - materialFabricComposition: Outer: 100% Nylon; Lining: 100% Polyester; Padding: 100% Polyester
+- Quilted gilet
+- Sleeveless
+- Care Label:
+- High stand-up collar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B089YSKLXN{{</world>}}

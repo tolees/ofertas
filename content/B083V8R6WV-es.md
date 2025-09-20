@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 5 volley short (nessa566-018)
-- Ropa deportiva nike
 - Bañador natación hombre
+- Ropa deportiva nike
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B083V8R6WV{{</world>}}

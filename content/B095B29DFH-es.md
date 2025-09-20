@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Compatible con todos los medidores de potencia Wallbox que te permiten evitar apagones y sorpresas inesperadas en tus facturas de energía, y cargar el VE con tus paneles solares.
 - Apto para instalación en interiores y exteriores, ya que es resistente al agua y al polvo gracias a su certificación de protección IP54.
 - Conéctate a la app myWallbox para controlar y programar tus cargas y ver estadísticas en tiempo real y muchas más funciones.
 - Capacidad de carga de potencia ajustable hasta 22 kW. Cable de carga tipo 2 de 5 o 7 metros de longitud. Conectividad wifi y Bluetooth.
-- Compatible con todos los medidores de potencia Wallbox que te permiten evitar apagones y sorpresas inesperadas en tus facturas de energía, y cargar el VE con tus paneles solares.
 - Compatible con todas las instalaciones domésticas y vehículos eléctricos e híbridos enchufables del mercado con conector tipo 2.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

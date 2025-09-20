@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Horma clásica
-- Parte superior textil
-- Cierre de cordones
 - Mediasuela Cloudfoam y plantilla de espuma con memoria
 - No mires atrás
+- Parte superior textil
+- Cierre de cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C2QQVSN7{{</world>}}

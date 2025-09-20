@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ajuste regular
-- Ajuste regular
 - Parte superior sintética
+- Ajuste regular
 - Construcción sin cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

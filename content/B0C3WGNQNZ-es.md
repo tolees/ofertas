@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela de goma
-- Compra 1 talla más grande
-- Parte superior de malla transpirable con refuerzos sintéticos
 - Mediasuela Bounce
+- Compra 1 talla más grande
+- Suela de goma
 - Forro textil
+- Parte superior de malla transpirable con refuerzos sintéticos
 - Contiene al menos un 20% de material reciclado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

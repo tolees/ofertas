@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Forma del tacón: sin tacón
 - Talla del zapato: Medium
 - Grado de resistencia al agua: no impermeable
-- Forma del tacón: sin tacón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BM52SG16{{</world>}}

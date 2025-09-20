@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Apto para el uso alimenticio. No tóxico
 - Se pueden lavar en el lavavajillas. Reutilizables
+- Apto para el uso alimenticio. No tóxico
 - Acumuladores diseñados para mantener fresca la comida, bebidas o medicinas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

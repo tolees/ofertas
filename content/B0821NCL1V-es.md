@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tela elástica
+- Detalles de la marca PUMA
 - De secado rápido
 - Hecho con tela reciclada
-- Detalles de la marca PUMA
-- Tela elástica
 - Diseño de cremallera integral de tecnología en el bolsillo trasero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

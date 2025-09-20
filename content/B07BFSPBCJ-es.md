@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Compatibilidad con armarios Rack con fondo de 80 a 100 cm - Dimensiones 550 (L) x 45 (W) mm
 - Se han seguido los más altos estándares durante el proceso de producción, con el fin de garantizar una excelente experiencia al cliente
 - Con su formato telescópico y un peso de 2,2 kg son el complemento necesario para instalar una caja Rack dentro de un armario Rack
-- Válidos para Cajas Rack 19" 1U/2U/3U/4U
 - Pareja de railes de acero, en color negro, para cajas Rack
+- Válidos para Cajas Rack 19" 1U/2U/3U/4U
+- Compatibilidad con armarios Rack con fondo de 80 a 100 cm - Dimensiones 550 (L) x 45 (W) mm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07BFSPBCJ{{</world>}}

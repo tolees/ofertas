@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Ajuste: delgado
+- Camisa
 - Suave
 - algodón
 - Cuello
-- Camisa
-- Ajuste: delgado
 - Tira de botones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Altura de 32 cm
-- Ancho de 21 cm
 - Vehículo con dirección a la izquierda/derecha para vehiculo dirección izquierda
+- Altura de 32 cm
 - Longitud de 21 cm
+- Ancho de 21 cm
 - Retrovisor exterior/interiror: convexo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

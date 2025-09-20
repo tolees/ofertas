@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Articulo tambien conocido como cinta metrica, metro, metro magnetico.
 - Cinta de acero recubierta de nylon que garantiza máxima flexibilidad, durabilidad y protección de los agentes externos.
 - Ancho de cinta: 16 mm.
-- Articulo tambien conocido como cinta metrica, metro, metro magnetico.
 - Longitud: 3 metros.
 - Carcasa de abs antichoque recubierta de goma.
 

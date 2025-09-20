@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Micrófono de condensador alimentado por USB para grabar, no se requieren controladores ni alimentación fantasma de 48V; optimizado para el uso con Discord, Cortana, chat de voz y reconocimiento de voz
-- Compacto y robusto: base de micrófono metálica y resistente para escritorio y tamaño portátil compacto, perfecto para grabar en casa o fuera
 - Soporte de micrófono para escritorio integrado, filtro antipop y pad de 10 dB para su uso con cualquier aplicación de grabación; el amortiguador reduce la entrada de ruido circundante no deseado
+- Compacto y robusto: base de micrófono metálica y resistente para escritorio y tamaño portátil compacto, perfecto para grabar en casa o fuera
+- Micrófono de condensador alimentado por USB para grabar, no se requieren controladores ni alimentación fantasma de 48V; optimizado para el uso con Discord, Cortana, chat de voz y reconocimiento de voz
 - La interfaz de audio integrada con una resolución de 16 bits y tasas de muestreo seleccionables graba hasta el más mínimo detalle de tu actuación; el patrón polar cardioide reduce el ruido no deseado
 - Micrófono versátil para Mac/PC: micrófono USB de alta calidad para streaming, captura de pódcasts (Garageband, Logic, Adobe Audition, Audacity), juegos, Twitch, Skype, vídeos de YouTube y conferencias
 

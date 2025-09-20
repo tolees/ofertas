@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño moderno y alta calidad
-- Efecto de luz dirigida hacia arriba y abajo
-- El fabricante recomienda una bombilla Philips led E27 con 60W
-- Fácil montaje en la pared
 - Apto para bombillas de las clases: A++,A+,A,B,C,D,E
 - IP44, resistente a la intemperie: desarrollado especialmente para entornos de humedad al aire libre
+- El fabricante recomienda una bombilla Philips led E27 con 60W
+- Fácil montaje en la pared
+- Diseño moderno y alta calidad
+- Efecto de luz dirigida hacia arriba y abajo
 - Área de jardín: Patio trasero/Patio delantero, terraza, balcón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Deja la piel suave y flexible, contrarrestando el fotoenvejecimiento y ayuda a mantener un bronceado intenso durante más tiempo
-- Modo de empleo: Aplicar generosamente sobre la piel del cuerpo de manera uniforme. Se absorbe rápidamente
-- Clínicamente testado. Testado en Níquel, Cobalto, Cromo, Paladio y Mercurio
 - Leche de textura ligera que hidrata y calma la piel sometida al estrés oxidativo, manteniéndola saludable y flexible. Para pieles sensibles, apto para rostro y cuerpo
+- Deja la piel suave y flexible, contrarrestando el fotoenvejecimiento y ayuda a mantener un bronceado intenso durante más tiempo
+- Clínicamente testado. Testado en Níquel, Cobalto, Cromo, Paladio y Mercurio
+- Modo de empleo: Aplicar generosamente sobre la piel del cuerpo de manera uniforme. Se absorbe rápidamente
 - Formulado sin gas propelente, derivados del trigo y colorantes. Con perfume sin alérgenos. Producto hipoalergénico y no comedogénico
 
 [🛒 Aquí!!!]({{< param buyurl >}})

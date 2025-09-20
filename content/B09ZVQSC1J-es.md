@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material de la suela: EVA
 - Material exterior: Tejido
+- Material de la suela: EVA
 - Cierre: Velcro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

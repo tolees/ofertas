@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - 0.08kg peso x 1L volumen
 - 100% Poliéster
+- 6.5 altura x 22 ancho x 6.5 profundidad cm
 - Hidrófugo
 - Estuche mediano con cremallera
-- 6.5 altura x 22 ancho x 6.5 profundidad cm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07V3M6YGJ{{</world>}}

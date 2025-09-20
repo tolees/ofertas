@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte de ripstop con refuerzos sintéticos
 - Mediasuela de EVA
+- Parte de ripstop con refuerzos sintéticos
 - Cierre de cordones
 - Horma clásica
 

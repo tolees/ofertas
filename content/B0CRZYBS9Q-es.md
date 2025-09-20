@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cuello alzado
 - Bolsillos de solapa y bolsillos laterales con cierre a presión oculto
 - Manga larga y puños acanalados
-- Cuello alzado
 - Cintura ajustable con cordón en el interior
 - Cierre de cremallera oculto con botones a presión
 

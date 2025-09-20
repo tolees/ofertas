@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- AEROREADY
-- Interlock 91% poliéster reciclado / 9% elastán
-- Cintura de talle alto
 - Cintura elástica
 - Corte ajustado
+- Cintura de talle alto
+- Interlock 91% poliéster reciclado / 9% elastán
+- AEROREADY
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C547M5RH{{</world>}}

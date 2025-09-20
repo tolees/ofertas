@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fabricado con prácticas y materiales sostenibles
-- Cintura media detallada con pierna ajustada
 - Costuras dobles en los bolsillos delanteros y en el canesú trasero
+- Cintura media detallada con pierna ajustada
+- Fabricado con prácticas y materiales sostenibles
 - Viene en una mezclilla elástica azul y negro nocturno
 
 [🛒 Visítala!!!]({{< param buyurl >}})

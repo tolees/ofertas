@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Copas removibles
 - Tecnología Dri-FIT
+- Copas removibles
 - Soporte medio
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

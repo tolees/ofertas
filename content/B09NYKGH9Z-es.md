@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
 - Jeans for men
-- Material composition: 80% cotton, 20% recycled cotton
+- International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
 - Comfortable jeans in loose fit with high rise
+- Material composition: 80% cotton, 20% recycled cotton
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09NYKGH9Z{{</world>}}
