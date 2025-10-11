@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color ámbar radiante y cálido
-- Whisky escocés mezcla de diferentes whiskys de malta y grano
 - Se madura durante un mínimo de 12 años
-- De textura cremosa en el paladar
+- Whisky escocés mezcla de diferentes whiskys de malta y grano
 - Con aromas de hierbas silvestres, brezo, miel y frutas
+- Color ámbar radiante y cálido
+- De textura cremosa en el paladar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07L5MTD5Y{{</world>}}

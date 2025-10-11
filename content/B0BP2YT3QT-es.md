@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tejido ultraplano y suave
-- Tejido Infinitex Fitness Eco resistente al cloro
-- Espalda con escote medio
-- Espalda con escote medio
-- Compra 1 talla más grande
-- Forro de punto
 - Pernera de corte medio
-- 78% nailon (reciclado) / 22% elastán
 - Tejido ultraplano y suave
+- 78% nailon (reciclado) / 22% elastán
+- Tejido Infinitex Fitness Eco resistente al cloro
+- Tejido ultraplano y suave
+- Compra 1 talla más grande
+- Espalda con escote medio
+- Forro de punto
+- Espalda con escote medio
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BP2YT3QT{{</world>}}

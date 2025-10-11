@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diámetro exterior mm: 254
 - Anchura de corte (b1) mm: 2,8
-- Resultado de corte: 3
 - Anchura de corte (b1) mm / Grosor del disco (b2) mm: 2,8/1,8
+- Diámetro exterior mm: 254
+- Resultado de corte: 3
 - Grosor del disco (b2) mm: 1,8
 
 [🛒 Aquí!!!]({{< param buyurl >}})

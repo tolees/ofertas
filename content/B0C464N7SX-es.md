@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tiro medio
 - Cintura elástica con cordón
 - Ajuste regular
-- Tiro medio
 - 78% algodón, 22% poliéster reciclado forro polar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Disfruta del verdadero sabor y dale un toque a tu comida Mexicana con los productos de SAWORS.
-- ¡Consejo! Añada jalapeños troceados para darle un toque más picante.
-- Dale sabor a tus platos mexicanos con la mejor salsa cheddar. También se puede calentar para acompañar carnes, patatas, verduras o tus platós favoritos.
 - Salsa cheddar formato hostelería: Lata de 3 kg.
+- ¡Consejo! Añada jalapeños troceados para darle un toque más picante.
+- Disfruta del verdadero sabor y dale un toque a tu comida Mexicana con los productos de SAWORS.
+- Dale sabor a tus platos mexicanos con la mejor salsa cheddar. También se puede calentar para acompañar carnes, patatas, verduras o tus platós favoritos.
 - Salsa de queso cheddar de SAWORS con un toque a jalapeño y cremosa para "dippear" con nachos o añadir a tus burritos o fajitas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

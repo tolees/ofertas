@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cierre de cordones
+- Suela original de gofre
 - Construcción vulcanizada
 - Vans Marca Sidestripe
-- Suela original de gofre
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0949LRL9K{{</world>}}

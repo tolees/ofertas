@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Canalé cómodo 3:1 para un ajuste perfecto
 - PUMA SPORT CREW STRIPE 3P
+- Canalé cómodo 3:1 para un ajuste perfecto
 - Costuras planas en la puntera para evitar molestias
 - Acolchado parcial de felpa para proporcionar una buena amortiguación y una comodidad superior
 

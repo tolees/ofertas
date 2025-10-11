@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Producto oficial
-- Pyramid International, Estuche Emblemas casas de Harry Potter
 - Número de modelo: SR72861
+- Pyramid International, Estuche Emblemas casas de Harry Potter
 - Con impresión en color y cremallera
 - Estuche de PVC sin relleno de Harry Potter (20 x 8 cm)
 

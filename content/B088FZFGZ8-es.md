@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Marca: Totto
 - Mochila juvenil Colección Yatra - Fuerte
+- Marca: Totto
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B088FZFGZ8{{</world>}}

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cuello redondo
-- Longitud estándar
 - Levis Detalles de la marca
+- Longitud estándar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C5YNRS7S{{</world>}}

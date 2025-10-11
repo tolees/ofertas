@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Elimina el maquillaje de la cara y los ojos
 - Tonifica, purifica y refresca la piel
 - Cierra los poros y afina la textura de la piel
+- Elimina el maquillaje de la cara y los ojos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B8QRKNL7{{</world>}}

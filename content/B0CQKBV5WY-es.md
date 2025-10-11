@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- En color verde
 - Requiere configuración
+- En color verde
 - Teléfono celular
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

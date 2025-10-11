@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste holgado y cuadrado
 - Cuello redondo
+- Ajuste holgado y cuadrado
 - Puños y dobladillo acanalados
 - Ajuste regular
 

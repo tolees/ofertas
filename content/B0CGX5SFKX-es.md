@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Escote: cuello redondo
-- Tipo de detalle: jersey
 - Mangas: manga larga
+- Tipo de detalle: jersey
 - Composición: 52% poliéster reciclado, 41% poliacrílico, 4% lana, 3% elastano
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

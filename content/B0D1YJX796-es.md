@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior de malla
 - Tira ribeteada en el lateral
 - Talón de TPU para mayor estabilidad
+- Parte superior de malla
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D1YJX796{{</world>}}

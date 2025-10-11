@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- EL SECRETO PARA UN PELO VISIBLEMENTE MÁS SANO*: El champú Repara y Protege ayuda a conseguir un pelo hasta 100% más fuerte** y sano* *frente al desgaste por el peinado en comparación con el champú Volumen/Purificante. **Contra los daños del peinado
 - RUTINA DE CUIDADO PARA UN PELO SANO: Si necesitas un cuidado adicional, combínalo con el resto de productos de nuestra línea Repara y Protege para revertir al instante los signos de daños y aportar suavidad y brillo
 - PROTECCIÓN DE ENLACES CAPILARES: Con la fórmula Pro-V y la tecnología Active Nutri-Plex, este champú está diseñado para proteger los enlaces capilares y aportar fuerza frente al desgaste por el peinado
-- EL SECRETO PARA UN PELO VISIBLEMENTE MÁS SANO*: El champú Repara y Protege ayuda a conseguir un pelo hasta 100% más fuerte** y sano* *frente al desgaste por el peinado en comparación con el champú Volumen/Purificante. **Contra los daños del peinado
 - CHAMPÚ DE USO DIARIO SIN SILICONAS: Nuestro champú sin siliconas, aceites minerales ni colorantes limpia suavemente tu pelo y le aporta nutrientes
 
 [🛒 Comprar!!!]({{< param buyurl >}})

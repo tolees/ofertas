@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Malla para asegurar una buena transpirabilidad
 - Hecho de 100% poliéster
-- Cintura elástica con ajuste de cordón
 - Ideal para llevar durante sesiones de entrenamiento de tenis y partidos
 - Tiene dos bolsillos laterales
-- Malla para asegurar una buena transpirabilidad
+- Cintura elástica con ajuste de cordón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07NZVP354{{</world>}}

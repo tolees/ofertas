@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El cepillo con forma de reloj de arena facilita la aplicación del gel en toda la longitud de las pestañas y aumenta su definición
 - La extraordinaria textura ligera y no pegajosa, enriquecida con aceite de ricino, abraza y recubre las pestañas sin apelmazarlas
 - Suero para pestañas en gel con efecto longitud y volumen
+- El cepillo con forma de reloj de arena facilita la aplicación del gel en toda la longitud de las pestañas y aumenta su definición
 - Perfecto para proporcionar un efecto de volumen y longitud a las pestañas gracias a una fórmula innovadora, para lucir una mirada brillante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

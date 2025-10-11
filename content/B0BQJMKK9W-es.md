@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte cónico
-- Cintura elástica
 - Tela Suave
+- Cintura elástica
+- Corte cónico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BQJMKK9W{{</world>}}

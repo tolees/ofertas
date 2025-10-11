@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela de goma
-- Cierre de cordones
-- La parte superior contiene al menos un 50% de material reciclado
-- Parte superior de nobuk sintético
-- Forro textil
 - Mediasuela de aspecto vulcanizado
 - Horma clásica
+- La parte superior contiene al menos un 50% de material reciclado
+- Forro textil
+- Parte superior de nobuk sintético
+- Cierre de cordones
+- Suela de goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DMVKV3Y6{{</world>}}

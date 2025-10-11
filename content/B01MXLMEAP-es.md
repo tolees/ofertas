@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lanza dardos a una distancia de hasta 27 metros
-- Incluye 6 dardos Elite
 - Lanza los dardos hasta 27m
+- Lanza dardos a una distancia de hasta 27 metros
 - Tambor rotatorio de 6 dardos
+- Incluye 6 dardos Elite
 - Lanzamiento en ráfaga
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Elaborada en punto suave
-- Este producto es original Levis
 - Con un discreto logo en el pecho
+- Este producto es original Levis
 - Modelo casual
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

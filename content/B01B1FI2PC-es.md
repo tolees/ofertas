@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ⭐DAMM CERVEZAS - Fundada en 1876, la intencionalidad de Damm es unir la pasión por sus productos y por el territorio para mejorar los momentos de disfrute de las personas.
-- 🌾 INGREDIENTES NATURALES - Free Damm Limón combina el cuerpo característico de una cerveza sin alcohol de calidad con la frescura vibrante del zumo de frutas, garantizando una experiencia refrescante en cada sorbo.
 - ❄️FORMATO Y CONSUMO - Presentada en un pack de 24 latas de 330 ml, esta cerveza está diseñada para ser disfrutada bien fría, idealmente entre 4-6ºC, para maximizar su carácter refrescante y sabor cítrico.
 - 🍃 CUERPO Y FRESCURA - Compuesta por agua, malta de cebada, maíz, jarabe de glucosa y fructosa, arroz, lúpulo, y una bebida refrescante de zumo de frutas con agua carbonatada, zumo de limón a partir de concentrado, y aromas naturales de cítricos, es una fusión perfecta entre cerveza sin alcohol y la esencia natural de los cítricos.
+- 🌾 INGREDIENTES NATURALES - Free Damm Limón combina el cuerpo característico de una cerveza sin alcohol de calidad con la frescura vibrante del zumo de frutas, garantizando una experiencia refrescante en cada sorbo.
+- ⭐DAMM CERVEZAS - Fundada en 1876, la intencionalidad de Damm es unir la pasión por sus productos y por el territorio para mejorar los momentos de disfrute de las personas.
 - 🍺FREE DAMM LIMÓN - La primera cerveza sin alcohol 0,0% enriquecida con la frescura de limones maduros y limas ácidas, ofreciendo una experiencia única de sabor y frescura.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

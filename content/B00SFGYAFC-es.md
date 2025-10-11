@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Descubre la colección de conector junior - Peppa Pig formato pocket, ideal para llevarlo donde quieras
 - Elemento adicional (Boli Sabio) para responder
 - Recomendado a partir de 3 años
+- Descubre la colección de conector junior - Peppa Pig formato pocket, ideal para llevarlo donde quieras
 - Contenido: 40 láminas, base multiconectora con tapa/cubierta y un boli Sabio con led
 - Con más de 200 preguntas con respuesta múltiple sobre temas educativos básicos: formas, colores, números, lógica, asociaciones
 

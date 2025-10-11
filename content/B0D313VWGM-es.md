@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tiene detalles distintivos de la marca, la misma es Puma
 - Bolsa de lona
+- Tiene detalles distintivos de la marca, la misma es Puma
 - Vida al aire libre
 
 [🛒 Aquí!!!]({{< param buyurl >}})

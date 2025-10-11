@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cremallera de un cuarto con cuello alto
 - Tejido transpirable
 - Forma para libertad de movimiento
 - Piqué de poliéster 100% reciclado
+- Cremallera de un cuarto con cuello alto
 - Aeroready
 - Corte regular
 

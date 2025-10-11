@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material de la suela: goma
 - Material exterior: lona
+- Material de la suela: goma
 - Forro: tela
 
 [🛒 Comprar!!!]({{< param buyurl >}})

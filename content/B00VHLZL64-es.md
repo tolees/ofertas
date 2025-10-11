@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Genero: Thriller, Drama
-- Serie completa: 7 Temporadas
 - Subtitulos: Español para sordos
+- Serie completa: 7 Temporadas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00VHLZL64{{</world>}}

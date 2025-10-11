@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Entresuela vulcanizada que absorbe los golpes
 - Suela de tracción flexible
+- Entresuela vulcanizada que absorbe los golpes
 - Plantilla acolchada y cómoda
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

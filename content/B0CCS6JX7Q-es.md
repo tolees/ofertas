@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Conexión: Bluetooth y lector de tarjetas TF
-- Frecuencia de respuesta: 50Hz-20KHz
 - Alimentación por toma USB Tipo C
-- Potencia: 20 W
 - LEDs desconectables RGB
+- Frecuencia de respuesta: 50Hz-20KHz
+- Potencia: 20 W
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CCS6JX7Q{{</world>}}

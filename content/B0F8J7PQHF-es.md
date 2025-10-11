@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Elige la limpieza que prefieras gracias a la tecnología 3 Modes con 3 modos distintos.
 - Aspirador de colchones y tapicerías con una potencia máxima de 300 W y succión de 10 kPa.
-- Elige si quieres succionar con luz UV-C para acabar con las bacterias de tus colchones y tapicerias, succionar con cepillo motorizado si lo que quieres es eliminar los alérgenos incrustados o una limpieza completa con succión, luz UV-C y cepillo motorizado para acabar con todo tipo de bacterias y alérgenos.
 - Elimina hasta el 99,9 % de las bacterias gracias a la luz ultravioleta y la tecnología de aire caliente que desinfecta y ayuda a eliminar los alérgenos de los colchones y tapicerías.
+- Elige si quieres succionar con luz UV-C para acabar con las bacterias de tus colchones y tapicerias, succionar con cepillo motorizado si lo que quieres es eliminar los alérgenos incrustados o una limpieza completa con succión, luz UV-C y cepillo motorizado para acabar con todo tipo de bacterias y alérgenos.
 - Su cepillo motorizado de cerdas y silicona facilita la eliminación de ácaros de los colchones.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

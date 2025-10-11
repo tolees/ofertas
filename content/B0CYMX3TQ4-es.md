@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Empeine de piel
-- Forro textil
-- Horma clásica
-- Forro textil
 - Cordones elásticos y cierre autoadherente
 - Puntera de ante
+- Forro textil
+- Forro textil
+- Horma clásica
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CYMX3TQ4{{</world>}}

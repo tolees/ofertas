@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- UA Rival Sudadera con capucha de forro polar, gris, talla SM
 - Fácil de usar
+- UA Rival Sudadera con capucha de forro polar, gris, talla SM
 - Buena calidad y rendimiento
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estampado de G-Star RAW en la parte delantera
-- Una mirada original
 - Proporciona comodidad
 - Cuello acanalado
+- Una mirada original
+- Estampado de G-Star RAW en la parte delantera
 - Bajo recto
 
 [🛒 Visítala!!!]({{< param buyurl >}})

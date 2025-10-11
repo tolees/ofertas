@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CUSHIONING
-- GOOD GRIP
 - Ingredientes extraduraderos
+- GOOD GRIP
+- CUSHIONING
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09NQGWMC4{{</world>}}

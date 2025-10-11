@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Skechers Detalle del logotipo
 - Suela de tracción flexible
+- Skechers Detalle del logotipo
 - Parte superior de piel duraleather metálica desgastada con cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})

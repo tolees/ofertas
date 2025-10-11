@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- SNACK DE CARNE - Tiernos trozos de carne ricos en proteína en deliciosa gelatina para gatos adultos
 - VOLUMEN DE ENTREGA: 48 latas 70g GimCat Shiny Cat in Jelly, pollo, comida húmeda para gatos con alto contenido de carne como complemento alimenticio para gatos
 - ADITIVOS - Enriquecido con vitamina E y valiosa taurina para favorecer la función cardíaca y la vista
+- SNACK DE CARNE - Tiernos trozos de carne ricos en proteína en deliciosa gelatina para gatos adultos
 - RECETA - Alimento complementario sin gluten y sin colorantes, conservantes ni aromatizantes artificiales, así como sin azúcar
 - COMPOSICIÓN - Pollo (38,6%), arroz, cloruro potásico
 

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cintura ajustable con ceñidor
 - Bolsillos laterales con cremallera
+- Cintura ajustable con ceñidor
 - Bolsillos con cremallera en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})

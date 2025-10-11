@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El afilador se saca de la funda protectora para usarlo y luego se vuelve a guardar.
-- Agujero pequeño para lápices de grafito de tamaño estándar de hasta 8,2 mm de diámetro con un ángulo de afilado de 23°.
 - Agujero grande para lápices de grafito y color de hasta 10,2 mm de diámetro con un ángulo de afilado de 30º.
-- Sacapuntas manual de plástico, que permite un afilado preciso y seguro para lápices de grafito y de color.
 - El agujero más pequeño ofrece líneas limpias y precisas. El agujero más grande ofrece líneas anchas y suaves.
+- El afilador se saca de la funda protectora para usarlo y luego se vuelve a guardar.
+- Sacapuntas manual de plástico, que permite un afilado preciso y seguro para lápices de grafito y de color.
+- Agujero pequeño para lápices de grafito de tamaño estándar de hasta 8,2 mm de diámetro con un ángulo de afilado de 23°.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0857S8TCM{{</world>}}

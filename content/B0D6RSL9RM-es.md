@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ajuste: recto regular
-- Instrucciones de cuidado: lavable a máquina
+- Pantalón largo
 - Composición: 81 por ciento de algodón y 19 por ciento de lino
 - Tipo de estiramiento: no elástico
-- Pantalón largo
+- Instrucciones de cuidado: lavable a máquina
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D6RSL9RM{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tejido técnico 100% poliéster reciclado
 - Cierre de cremallera y cuello alzado
 - Bolsillos frontales con cremallera
-- Corte clásico
 - Tejido transpirable
-- Tejido técnico 100% poliéster reciclado
+- Corte clásico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08VRVLGMS{{</world>}}

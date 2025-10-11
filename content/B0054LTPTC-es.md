@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Desafiante juego de mesa para los profesionales
 - Dog Activity Move2Win, 34x6x13 cm, Niv.3
+- Desafiante juego de mesa para los profesionales
 - Mediante la apertura de los cajones utilizando los bucles o moviendo el punzón entra en el perro a su recompensa
 
 [🛒 Comprar!!!]({{< param buyurl >}})

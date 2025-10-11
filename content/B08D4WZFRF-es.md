@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Diseño con cinco bolsillos
-- Tienen un ajuste recto para un aspecto americano
 - Vaqueros de estilo clásico
+- Tienen un ajuste recto para un aspecto americano
 - Este producto es original Levis
 
 [🛒 Comprar!!!]({{< param buyurl >}})

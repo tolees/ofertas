@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El cable Phantom Flex desaparece casi por completo, no requiere soporte de cable
-- Interruptor óptico de titanio para una sensación mecánica con velocidad óptica
-- Elementos deslizantes tratados térmicamente, que proporcionan movimientos fluidos con un sensor óptico OWL Eye de 16 K dpi basado en PMW3389 de Pixart. Color Blanco
-- Forma simétrica y ergonómica que se ha rediseñado desde el principio, se siente mejor y funciona mejor
 - Carcasa de panal translúcida con un peso extremadamente bajo de 68 g
+- Forma simétrica y ergonómica que se ha rediseñado desde el principio, se siente mejor y funciona mejor
+- Elementos deslizantes tratados térmicamente, que proporcionan movimientos fluidos con un sensor óptico OWL Eye de 16 K dpi basado en PMW3389 de Pixart. Color Blanco
+- Interruptor óptico de titanio para una sensación mecánica con velocidad óptica
+- El cable Phantom Flex desaparece casi por completo, no requiere soporte de cable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08HR39MYY{{</world>}}

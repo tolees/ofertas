@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Combinación masticable de enzimas
 - No contiene azúcares ni sal
+- Combinación masticable de enzimas
 - Sin gluten, trigo, almidón, lácteos, soja ni levadura
 
 [🛒 Visítala!!!]({{< param buyurl >}})

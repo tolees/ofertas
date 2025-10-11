@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Logotipo Hilfiger monotipo en relieve en el lateral
-- Tommy hilfiger Marca:
 - Tommy hilfiger Bandera grabada en el talón
+- Tommy hilfiger Marca:
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D7J6WW35{{</world>}}

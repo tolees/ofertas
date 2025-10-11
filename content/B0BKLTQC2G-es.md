@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Capucha ajustada
 - Logotipo impreso de HH
-- Mentonera de tricot cepillado
 - Bolsillos para las manos con cremallera YKK
+- Capucha ajustada
 - Manga raglán para libertad de movimiento.
+- Mentonera de tricot cepillado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BKLTQC2G{{</world>}}

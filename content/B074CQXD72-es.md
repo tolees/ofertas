@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- No testado en animales
-- Fabricado con agua tratada: purificada
-- Innovadora fórmula con efecto inmediato
 - Formulado sin sulfatos, sin sal, sin parabenos, sin siliconas sin colorantes y sin alcohol
+- Innovadora fórmula con efecto inmediato
+- Fabricado con agua tratada: purificada
+- No testado en animales
 - Laboratorio y fabricante certificado según las normas: iso 9001, iso 14001, iso 22716, aenor i + d + i y certificación halal
 - Keratina natural con pro-vitamina b5
 

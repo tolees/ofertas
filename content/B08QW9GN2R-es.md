@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tecnología Dri-Fit
-- Corte cónico
 - Cintura elástica con cordón
+- Corte cónico
+- Tecnología Dri-Fit
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08QW9GN2R{{</world>}}

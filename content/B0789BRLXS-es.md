@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hemos utilizado punto de algodón orgánico con una sutil textura de piqué para nuestro icónico Crew Polo; el resultado es un tejido suave y de secado rápido que luce bien y se mantiene fresco y seco durante cualquier actividad
 - Polo fresco y de secado rápido en algodón orgánico
-- Exterior: 100% algodón orgánico
 - Artículos entregados: 1x Helly Hansen Hombre Polo Crew,M,Blanco
+- Exterior: 100% algodón orgánico
+- Hemos utilizado punto de algodón orgánico con una sutil textura de piqué para nuestro icónico Crew Polo; el resultado es un tejido suave y de secado rápido que luce bien y se mantiene fresco y seco durante cualquier actividad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0789BRLXS{{</world>}}

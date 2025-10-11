@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La edición exclusiva de Amazon incluye una Tarjeta de visita exclusiva que incluye contenido digital para personalizar tu perfil de usuario
-- Blackout es una celebración de la comunidad de Black Ops, una enorme experiencia de Battle Royale donde puedes ponerte en la piel de tus personajes favoritos y luchar en escenarios emblemáticos del universo Black Ops en una experiencia de supervivencia y eliminación.
-- Call of Duty: Black Ops 4 incluye la mayor oferta de lanzamiento en el modo Zombies con tres experiencias completas: IX, Voyage of Despair y Blood of the Dead.
 - El multijugador de Call of Duty: Black Ops 4 sube el listón y ofrece la experiencia de combate más apasionante hasta la fecha, con especial atención a la jugabilidad táctica y a la toma de decisiones del jugador.
+- La edición exclusiva de Amazon incluye una Tarjeta de visita exclusiva que incluye contenido digital para personalizar tu perfil de usuario
+- Call of Duty: Black Ops 4 incluye la mayor oferta de lanzamiento en el modo Zombies con tres experiencias completas: IX, Voyage of Despair y Blood of the Dead.
+- Blackout es una celebración de la comunidad de Black Ops, una enorme experiencia de Battle Royale donde puedes ponerte en la piel de tus personajes favoritos y luchar en escenarios emblemáticos del universo Black Ops en una experiencia de supervivencia y eliminación.
 - Call of Duty: Black Ops 4 ofrece tres modos de juego distintos: multijugador, zombies y blackout.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

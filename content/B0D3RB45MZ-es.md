@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 1 hoja extra de pegatinas con relieve.
-- Libreta con pegatinas y notas adhesivas en su interior.
-- 5 hojas de pegatinas.
 - 5 blocs de notas adhesivas, con 50 hojas cada uno.
+- 5 hojas de pegatinas.
+- Libreta con pegatinas y notas adhesivas en su interior.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D3RB45MZ{{</world>}}

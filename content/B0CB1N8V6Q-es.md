@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Botella de cristal con tapón de plástico libre de BPA y faja de silicona alrededor, con mensaje divertido en español
 - La faja de silicona evita que la botella resbale y facilita su agarre
-- Capacidad: 47 cl
+- Botella de cristal con tapón de plástico libre de BPA y faja de silicona alrededor, con mensaje divertido en español
 - Cuidados: lavar antes del primer uso; no congelar; apta para lavavajillas; no apta para microondas; cuando no esté en uso, guardarla con el tapón abierto para evitar la formación de malos olores
+- Capacidad: 47 cl
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB1N8V6Q{{</world>}}

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Colección Harry Potter
-- Caja ilustrada de coleccionista
 - 5 puzzles
+- Caja ilustrada de coleccionista
 - Licencia oficial
 
 [🛒 Visítala!!!]({{< param buyurl >}})

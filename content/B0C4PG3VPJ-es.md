@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste estructurado y de apoyo.
 - Ranuras flexibles que siguen el movimiento del pie
+- Ajuste estructurado y de apoyo.
 - Suela de goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Diseño ligero que ofrece comodidad
 - Cintura elástica ajustable con cordón
 - Tiene detalles distintivos de la marca
-- Diseño ligero que ofrece comodidad
 - Falda con pantalón interior
 
 [🛒 Visítala!!!]({{< param buyurl >}})

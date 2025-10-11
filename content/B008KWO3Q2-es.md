@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Latidos irregulares: El BU 510 puede indicar posibles arritmias del pulso. Sólo su médico puede evaluar el tipo y la gravedad de una arritmia
-- Función de memoria: El tensiómetro de brazo está equipado con una memoria interna que permite almacenar 90 resultados de medición para cada uno de los 2 usuarios
-- Para la parte superior del brazo: El manguito es adecuado para circunferencias de brazo de 22 a 36 cm. Tiene una gran pantalla que muestra los valores de sístole, diástole y pulso, así como la fecha y la hora
 - En casa o de viaje: el tensiómetro BU 510 se suministra con una práctica bolsa de almacenamiento adicional para un transporte fácil y seguro.
+- Función de memoria: El tensiómetro de brazo está equipado con una memoria interna que permite almacenar 90 resultados de medición para cada uno de los 2 usuarios
 - Dispositivo médico: Para la monitorización independiente de la presión arterial con escala de colores de semáforo para una fácil clasificación de los resultados de la medición. Además de la medición de la presión arterial propiamente dicha, también se realiza una medición del pulso
+- Para la parte superior del brazo: El manguito es adecuado para circunferencias de brazo de 22 a 36 cm. Tiene una gran pantalla que muestra los valores de sístole, diástole y pulso, así como la fecha y la hora
+- Latidos irregulares: El BU 510 puede indicar posibles arritmias del pulso. Sólo su médico puede evaluar el tipo y la gravedad de una arritmia
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B008KWO3Q2{{</world>}}

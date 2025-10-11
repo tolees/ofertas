@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 143645
-- SNEAKERS
-- MUJER
-- PLATAFORMA
 - Sneakers Xti 143645 Mujer Blanco
+- SNEAKERS
+- PLATAFORMA
+- MUJER
+- 143645
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DJ2QQLLF{{</world>}}

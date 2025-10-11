@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Licencia oficial
 - Alta calidad
+- Licencia oficial
 - Muy resistente
 
 [🛒 Visítala!!!]({{< param buyurl >}})

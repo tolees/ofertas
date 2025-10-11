@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dermatológicamente probado
-- Corrector de ojeras e imperfecciones en barra
 - Stick que camufla las ojeras, granitos e imperfecciones
+- Dermatológicamente probado
 - Alta cobertura, fácil de desmaquillar
 - Indicado para todo tipo de pieles
+- Corrector de ojeras e imperfecciones en barra
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B001V9LBFM{{</world>}}

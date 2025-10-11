@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Presenta el logotipo de la marca en el pecho
-- Ofrece una comodidad óptima
 - Este producto es original Levis
+- Ofrece una comodidad óptima
+- Presenta el logotipo de la marca en el pecho
 - Tiene botones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Longitud midi versátil
 - Estilo atemporal para hombres
+- Longitud midi versátil
 - Cintura media para ajuste perfecto
 - Ajuste regular cómodo
 

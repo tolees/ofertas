@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Tela suave
 - Corte entallado
-- Ofrece comodidad y libertad de movimiento
 - Cintura elástica
+- Ofrece comodidad y libertad de movimiento
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B093LNK1KB{{</world>}}

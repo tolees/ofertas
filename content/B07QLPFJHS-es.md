@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Jeans with pockets
 - Jeans with elastic seam
+- Jeans with pockets
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07QLPFJHS{{</world>}}

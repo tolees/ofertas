@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para uso diario
 - Prenda deportiva de vestir
 - Tiene detalles distintivos de la marca, la misma es Puma
+- Para uso diario
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D923L4KY{{</world>}}

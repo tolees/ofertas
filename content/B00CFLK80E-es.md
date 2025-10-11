@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dureza: es una plancha de asar de terracota lo que la hace ser especialmente dura
-- Amplitud: su superficie que es de 46 x 28 cm
 - Fabricación nacional: la fabricación de esta plancha de asar es española
-- Limpieza: su limpieza es muy sencilla; hay que dejar enfriar la terracota antes de limpiarla debajo del grifo donde emplearemos un trapo o un estropajo; el resto de las partes exteriores se pueden limpiar con un paño ligeramente humedecido
 - Temperatura: hay que dejar que la terracota se caliente bien y así ofrecerá un sabor único y natural a todos los alimentos cocinados; el tiempo de calentamiento suele ser de aproximadamente 20 minutos; la espera es más larga que en otras planchas pero su enfriamiento también será más lento por lo que podemos dejar los alimentos sin terminar de cocinarlos y llevar la plancha a la mesa y darle allí mismo a los alimentos el punto exacto que cada comensal desee
-- Material: la terracota le aporta una gran dureza y resistencia al rayado; tanto es así que se puede cortar directamente sobre ella con el cuchillo sin temer que sea rayada y se pueda estropear
+- Limpieza: su limpieza es muy sencilla; hay que dejar enfriar la terracota antes de limpiarla debajo del grifo donde emplearemos un trapo o un estropajo; el resto de las partes exteriores se pueden limpiar con un paño ligeramente humedecido
 - Componentes incluidos: no es una batidora
+- Material: la terracota le aporta una gran dureza y resistencia al rayado; tanto es así que se puede cortar directamente sobre ella con el cuchillo sin temer que sea rayada y se pueda estropear
+- Amplitud: su superficie que es de 46 x 28 cm
+- Dureza: es una plancha de asar de terracota lo que la hace ser especialmente dura
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00CFLK80E{{</world>}}

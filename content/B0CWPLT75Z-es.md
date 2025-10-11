@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - [Energía y vitalidad] Con vitaminas C, B6, B7 (biotina), B9 (ac. fólico) y B12, ayudan a disminuir el cansancio y la fatiga y contribuyen al normal funcionamiento del sistema nervioso e inmunitario. La vitamina E contribuye a la protección de las células frente al daño oxidativo
-- [Modo de empleo] Tomar 2 gummies al día a lo largo de la mañana. Deben ser masticados hasta que se deshagan y no tragarlos enteros
 - [Energy Gummies] Complemento alimenticio en formato de gominolas con sabor a mandarina, que contribuyen al mantenimiento de la energía y disminuir el cansancio. Es vegano, y no contiene gluten, lactosa, frutos de cáscara, huevo, ni soja. Apto para hombres y mujeres
+- [Modo de empleo] Tomar 2 gummies al día a lo largo de la mañana. Deben ser masticados hasta que se deshagan y no tragarlos enteros
 - [Bienestar físico y mental] El ginseng ayuda a mantener las capacidades físicas y mentales contribuyendo al mantenimiento de la nergía, la vitalidad y el bienestar físico y mental
 - [Recomendaciones] No superar la dosis diaria recomendada. Los complementos alimenticios no deben utilizarse como sustitutos de una dieta variada y equilibrada. Mantener fuera del alcance de los niños más pequeños
 

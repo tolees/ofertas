@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Horma clásica
-- Empeine de material sintético
 - Suela para césped natural seco / multisuperficie
+- Empeine de material sintético
+- Horma clásica
 - Forro textil
 
 [🛒 Comprar!!!]({{< param buyurl >}})

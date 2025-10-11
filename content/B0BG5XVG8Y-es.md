@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Diseño moderno
 - Cómodo y ligero
-- Artículo de la marca United Colors of Benetton
 - Ajuste regular
+- Artículo de la marca United Colors of Benetton
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BG5XVG8Y{{</world>}}

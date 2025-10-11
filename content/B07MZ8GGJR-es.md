@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Agujeros en el tejido para una máxima transpirabilidad
-- Hecho de material de algodón
 - Logotipo de cabeza bordado en la parte delantera
 - Cierre ajustable en la parte trasera
+- Hecho de material de algodón
+- Agujeros en el tejido para una máxima transpirabilidad
 - Gran gorra para cualquier ocasión
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cumple la norma ASTM D4236
-- Juego de 12 rotuladores de punta de fieltro en una variedad de colores
-- Exterior de plástico duradero con capuchón y clip de metal a juego
 - Tinta de base acuosa de alta pigmentación y resistente a las manchas
+- Exterior de plástico duradero con capuchón y clip de metal a juego
+- Juego de 12 rotuladores de punta de fieltro en una variedad de colores
 - Genial para proyectos de arte, correcciones o notas
+- Cumple la norma ASTM D4236
 - Con una punta de fieltro de grosor medio que no se deshilacha, ideal para detalles y relleno
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

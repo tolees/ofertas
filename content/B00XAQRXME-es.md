@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conservar en lugar fresco y seco
 - Caramelos de goma
+- Conservar en lugar fresco y seco
 - Con recubrimiento de azúcar
 - Deliciosas piezas en forma de corazón con intenso sabor a melocotón
 

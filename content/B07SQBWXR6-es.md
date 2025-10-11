@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - In Darksiders Genesis wird der vierte Reiter der Apokalypse, STRIFE, gerufen, um die Menschheit vor den zerstörerischen Plänen Luzifers zu retten
+- Kämpfen Sie sich durch eine verworrene, dämonische Verschwörung, die das Gleichgewicht für immer aus der Balance zu bringen droht
 - Es gibt Kämpfe, Erkundungen, Rätsel, epische Bosskämpfe und Schlangenlöcher, die vom Himmel bis in die Hölle reichen
 - Dieses Spiel ist das erste vollständige Darksiders-Abenteuer, das aus der Vogelperspektive gespielt wird
-- Kämpfen Sie sich durch eine verworrene, dämonische Verschwörung, die das Gleichgewicht für immer aus der Balance zu bringen droht
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07SQBWXR6{{</world>}}

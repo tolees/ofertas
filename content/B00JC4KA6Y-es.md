@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adecuado solo para inflar con helio
 - Hecho de papel de aluminio duradero
+- Adecuado solo para inflar con helio
 - Este globo sería el complemento ideal para cualquier fiesta temática de Star Wars
 - Tamaño: 25 pulgadas
 

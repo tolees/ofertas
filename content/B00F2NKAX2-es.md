@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseñada para una perfecta penetración en la madera
-- Bocas pulidas
 - Peso (gramos):1500.
+- ): 210x35.
+- Diseñada para una perfecta penetración en la madera
 - Cabeza forjada de una sola pieza
 - Templada hasta el núcleo con durezas y homogéneas en las bocas
-- ): 210x35.
 - Máxima tenacidad en el ojo para evitar roturas.
+- Bocas pulidas
 - Para corte de madera.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Marca: Turtle Wax. Gama Green Line
-- Se puede dejar mucho más tiempo en las llantas que los limpiadores basados en ácidos o alcalinos agresivos
 - Fórmula no ácida, por lo que no dañará las aleaciones, impresiones o tuercas de la llanta
+- Se puede dejar mucho más tiempo en las llantas que los limpiadores basados en ácidos o alcalinos agresivos
 - Único limpiador con PH neutro que activamente cambia a rojo mientras limpia el polvo del freno
 - Spray limpia llantas. Devuelve el brillo rápidamente a todo tipo de llantas
 

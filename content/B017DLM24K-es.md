@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuchillo Lunch
 - Hoja: Acero Inoxidable y espesor 2,5 mm
 - Tamaño Hoja: 85 mm
+- Cuchillo Lunch
 - Monoblock de una pieza
 
 [🛒 Comprar!!!]({{< param buyurl >}})

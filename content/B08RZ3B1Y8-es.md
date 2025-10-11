@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Detail
 - materialFabricComposition: 70% Plastic, 30% Brass
+- Detail
 - Plastic
 - Rectangular sunglasses
 

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela para césped artificial
+- Cierre de cordones
 - Lengüeta elástica
 - Horma clásica
-- Cierre de cordones
+- Suela para césped artificial
 - Empeine Fiberskin con estampado Sprintgrid
 
 [🛒 Comprar!!!]({{< param buyurl >}})

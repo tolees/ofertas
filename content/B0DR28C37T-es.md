@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Set de 3 rotuladores de punta doble
 - Presentados en una caja de plástico translúcido
+- Set de 3 rotuladores de punta doble
 - Producto de calidad óptima
 
 [🛒 Visítala!!!]({{< param buyurl >}})

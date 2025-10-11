@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Su varilla inclinada precisa permite una aplicación sin esfuerzo
+- Ofrece la profundidad y pigmentación de una base
 - Fórmula de alta resistencia
 - Consigue la cobertura total de un corrector
 - Base y corrector en barra 2 en 1 de larga duración
-- Ofrece la profundidad y pigmentación de una base
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07N4CJ7MB{{</world>}}

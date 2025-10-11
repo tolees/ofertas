@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- ENCHUFE con PROTECCION: 16A a 230V
 - ENCHUFE SCHUKO: 2 enchufes pared con toma de tierra, instalación en superficie
 - ENCHUFE SUPERFICIE: Medidas: 6, 5 x 4 x 11 cm, peso: 95, 3 gr
-- ENCHUFE con PROTECCION: 16A a 230V
 - SEGURIDAD: Dispone de protección infantil en los polos de conexión
 - BASE ENCHUFE: De la Gama Forix, color Blanco brillante
 

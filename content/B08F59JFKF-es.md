@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- TECNOLOGÍA H-MECH: La tecnología H-Mech combina la suavidad e los sistemas de membrana y la precisión y velocidad de los teclados mecánicos, sacando lo mejor de cada jugador en un teclado compacto y cómodo
-- COMPATIBILIDAD MULTIPLATAFORMA: Windows, Linux, Mac, PS4, PS5, XBOX ONE, XBOX SERIES X-S, Nintendo Switch
-- TECLADO ILUMINACIÓN RGB CONTROL: El sistema de iluminación RGB Control del MKAX te permite elegir entre 9 efectos distintos para combinar y potenciar el aspecto de tu setup de forma fácil y rápida; Desde Rainbow hasta Breathing, 7 tonos sólidos y perfil personalizado. ; Dispone de modo reactivo al sonido ambiental, que te permite experimentar con la iluminación y voz durante la partida
-- TECLADO COMPACTO: El teclado MKAX ofrece un formato reducido prescindiendo del panel numérico, reduciendo el espacio que ocupa y dejando mayor espacio al ratón; Estructura ABS resistente que aumenta la durabilidad del teclado; Control de volumen avanzado a través de una ruleta situada en la parte superior derecha del teclado; Layout Español
 - DISEÑO ERGONÓMICO: El teclado MKAX incluye un reposamuñecas avanzado de gel de memoria que amortigua la presión en las manos al teclear; Equipado con una base de goma que lo mantiene fijo en su posición, su diseño independiente te permite colocarlo donde prefieras para adaptar tu experiencia
+- TECLADO ILUMINACIÓN RGB CONTROL: El sistema de iluminación RGB Control del MKAX te permite elegir entre 9 efectos distintos para combinar y potenciar el aspecto de tu setup de forma fácil y rápida; Desde Rainbow hasta Breathing, 7 tonos sólidos y perfil personalizado. ; Dispone de modo reactivo al sonido ambiental, que te permite experimentar con la iluminación y voz durante la partida
+- TECNOLOGÍA H-MECH: La tecnología H-Mech combina la suavidad e los sistemas de membrana y la precisión y velocidad de los teclados mecánicos, sacando lo mejor de cada jugador en un teclado compacto y cómodo
+- TECLADO COMPACTO: El teclado MKAX ofrece un formato reducido prescindiendo del panel numérico, reduciendo el espacio que ocupa y dejando mayor espacio al ratón; Estructura ABS resistente que aumenta la durabilidad del teclado; Control de volumen avanzado a través de una ruleta situada en la parte superior derecha del teclado; Layout Español
+- COMPATIBILIDAD MULTIPLATAFORMA: Windows, Linux, Mac, PS4, PS5, XBOX ONE, XBOX SERIES X-S, Nintendo Switch
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08F59JFKF{{</world>}}

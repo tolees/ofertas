@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cremallera frontal
-- Cuello alto acolchado
 - Bolsillos laterales ribeteados
+- Cuello alto acolchado
+- Cremallera frontal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BS5HCS4M{{</world>}}

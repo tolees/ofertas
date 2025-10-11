@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Rendimiento 4 en 1: el mecanismo de martillo neumático de 2,0 J permite perforar en hormigón hasta 16 mm de diámetro y realizar trabajos de cincelado; además, sin la función de impacto, se pueden perforar orificios en la madera o atornillar tornillos
+- Incluye: UniversalHammer 18V, empuñadura adicional, 2 baterías PBA 18V 2.5Ah W-B, cargador AL 18V-20, tope de profundidad, maletín de transporte
 - Óptima seguridad: control de vibración y rotación para proporcionar un manejo óptimoy reducir la fatiga
+- Rendimiento 4 en 1: el mecanismo de martillo neumático de 2,0 J permite perforar en hormigón hasta 16 mm de diámetro y realizar trabajos de cincelado; además, sin la función de impacto, se pueden perforar orificios en la madera o atornillar tornillos
 - Las herramientas eléctricas universales de Bosch: versátiles y potentes para una amplia variedad de tareas
 - Cambio fácil de accesorios: el portabrocas universal SDS plus permite cambiar brocas y cinceles de forma sencilla sin herramientas auxiliares
-- Incluye: UniversalHammer 18V, empuñadura adicional, 2 baterías PBA 18V 2.5Ah W-B, cargador AL 18V-20, tope de profundidad, maletín de transporte
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BBRKZB86{{</world>}}

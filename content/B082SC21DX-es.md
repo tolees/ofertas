@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior sintética
-- Perforación en la puntera
 - Silueta de bota baja
+- Perforación en la puntera
+- Parte superior sintética
 - Solapa del talón de ante
 - Cierre de encaje
 

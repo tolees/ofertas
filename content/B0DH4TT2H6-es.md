@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adecuado para líneas de diario, cuaderno de bocetos, libro de matemáticas y otras
 - Colores de las tintas: amarillo, verde, rosa y azul
 - Set de 4 subrayadores con purpurina
+- Adecuado para líneas de diario, cuaderno de bocetos, libro de matemáticas y otras
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DH4TT2H6{{</world>}}

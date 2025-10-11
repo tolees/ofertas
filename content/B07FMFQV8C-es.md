@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Valve type: Presta and Schrader
-- Mounting bracket: Included
 - Crankbrothers Klic High Volume - Bombas - Negro 2019
 - Without gauge and CO2: 124g, 220mm
+- Mounting bracket: Included
 - Warranty: 5 years
 
 [🛒 Aquí!!!]({{< param buyurl >}})

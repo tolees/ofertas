@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Logotipo circular en la parte delantera
-- Cuello, puños y dobladillo acanalados
 - Suave, cómodo, transpirable, ligero
+- Cuello, puños y dobladillo acanalados
 - Logotipo en la manga
 
 [🛒 Aquí!!!]({{< param buyurl >}})

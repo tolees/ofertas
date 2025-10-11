@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - BENEFICIOS: Este producto es ideal para pieles sensibles y delicadas al afeitado.
-- La siguiente información se aplica a cada unidad del paquete
 - Brand: Floïd
 - FRAGANCIA: la mejor combinación entre elegancia y frescura, con matices amaderados.
+- La siguiente información se aplica a cada unidad del paquete
 - CUIDA TU PIEL: Elaborado con una exclusiva fórmula con asombrosos beneficios para el cuidado de tu piel después del afeitado.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Alarma Sonora y Lumínica: Disuasión activa con sirena y luces estroboscópicas para ahuyentar intrusos.
-- Visión Nocturna de 12m: Vigilancia clara día y noche, incluso en condiciones de poca luz.
-- Detección Inteligente por AI: Alertas precisas de movimiento, personas o sonidos, minimizando falsas alarmas.
 - Movimiento 360° + 114°: Cobertura completa sin puntos ciegos, ideal para monitorear áreas amplias.
+- Detección Inteligente por AI: Alertas precisas de movimiento, personas o sonidos, minimizando falsas alarmas.
+- Visión Nocturna de 12m: Vigilancia clara día y noche, incluso en condiciones de poca luz.
+- Alarma Sonora y Lumínica: Disuasión activa con sirena y luces estroboscópicas para ahuyentar intrusos.
 - Grabación en 3K 5MP: Captura cada detalle con una claridad excepcional gracias a su resolución profesional.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

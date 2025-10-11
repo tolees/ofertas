@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Toque de iluminación
 - Bajo consumo
-- Resalta tu hogar con luz
+- Toque de iluminación
 - Soluciones de iluminación sostenible
 - Luz LED de alta calidad
+- Resalta tu hogar con luz
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00A9VWD2S{{</world>}}

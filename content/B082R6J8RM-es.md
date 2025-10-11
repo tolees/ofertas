@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Para uso diario
-- Estilo deportivo y casual
 - Prenda de vestir
+- Estilo deportivo y casual
+- Para uso diario
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B082R6J8RM{{</world>}}

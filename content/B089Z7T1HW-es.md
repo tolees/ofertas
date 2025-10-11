@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Bolsillos laterales
 - Largo por encima de la rodilla
+- Corte normal
 - Logotipo del PUMA por transferencia de calor en la pierna izquierda
 - Cinturilla elástica con cordones para adaptar el ajuste
-- Corte normal
-- Bolsillos laterales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B089Z7T1HW{{</world>}}

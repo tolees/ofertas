@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - CALMANTES Y ANTIINFLAMATORIAS: Flor de Jeju con propiedades calmantes y antiinflamatorias y niacinamida que aclara e ilumina y ayuda a limpiar impurezas de la piel mejorando su textura
+- MODO DE USO: Sobre el rostro, cuello y escote limpio, aplicar con la ayuda de un disco de algodón. Sin aclarado.
 - EXFOLIANTE Y ANTIOXIDANTE: Fórmula rica en antioxidantes con extracto de hibiscos y flor de jeju exfolia suavemente la piel, elimina las células muertas, minimiza la apariencia de poros y acelera el proceso de renovación celular
 - TEXTURA: Ligera y acuosa. con tono rosado cuarzo. Su fragancia es una combinación fresca y floral irisada y blanca, con ligero acorde afrutado que recuerda a la pera y piña
 - ANTIMANCHAS: Con activos anti-manchas, unifica y aclara el tono de la piel. Además reestablece el pH natural de la piel. Indicado para todo tipo de pieles. Con extracto de hibiscus que produce una suave exfoliación en la piel y ayuda a la regeneración
-- MODO DE USO: Sobre el rostro, cuello y escote limpio, aplicar con la ayuda de un disco de algodón. Sin aclarado.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07Z7TYQ4W{{</world>}}

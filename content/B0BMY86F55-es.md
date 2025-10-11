@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- HJC te ofrece su casco de moto modular de alta gama el RPHA 91: Matriz integrada premium compuesta por fibras híbridas de carbono-aramida y fibras naturales, que ofrece un rendimiento mejorado en términos de resistencia al impacto, ligereza y comodidad. Sistema de desmontaje rápido de las almohadillas para las mejillas en caso de emergencia. Cierre barbijo con hebilla micrométrica
 - Aprobado por ECE 22.06
+- HJC te ofrece su casco de moto modular de alta gama el RPHA 91: Matriz integrada premium compuesta por fibras híbridas de carbono-aramida y fibras naturales, que ofrece un rendimiento mejorado en términos de resistencia al impacto, ligereza y comodidad. Sistema de desmontaje rápido de las almohadillas para las mejillas en caso de emergencia. Cierre barbijo con hebilla micrométrica
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BMY86F55{{</world>}}

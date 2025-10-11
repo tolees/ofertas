@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Exprimidor eléctrico para naranjas y cítricos con 60 W de potencia. Filtro de acero inoxidable.
-- Tambor calibrado en ml con capacidad de 1L.
-- Doble sentido de giro para aprovechar al máximo la fruta con encendido automático al presionar el cono con la fruta.
 - Dos conos desmontables, uno de plástico y otro de acero inoxidable para cítricos más pequeños o más grandes.
+- Exprimidor eléctrico para naranjas y cítricos con 60 W de potencia. Filtro de acero inoxidable.
 - Piezas no eléctricas aptas para el lavavajillas.
+- Doble sentido de giro para aprovechar al máximo la fruta con encendido automático al presionar el cono con la fruta.
+- Tambor calibrado en ml con capacidad de 1L.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BPYYYQ5L{{</world>}}

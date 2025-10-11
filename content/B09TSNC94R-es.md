@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 0
-- Solar
 - Parafarmacia
+- Solar
+- 0
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09TSNC94R{{</world>}}

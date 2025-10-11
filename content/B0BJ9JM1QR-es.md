@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricados en material cómodo
 - Tela suave
 - Pantalones largos deportivos
+- Fabricados en material cómodo
 - Cintura elástica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Trazo : 0,5 mm
+- Color : naranja
 - Tipo : rollers
 - Marca : uniball
-- Color : naranja
+- Trazo : 0,5 mm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B000WGWR94{{</world>}}

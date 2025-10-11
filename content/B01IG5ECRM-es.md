@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- EXTRALIGHT XL para una mayor ligereza y amortiguación
-- Suela/Características: EVA para mayor ligereza
 - Color: Negro
+- EXTRALIGHT XL para una mayor ligereza y amortiguación
 - Tiras elásticas para un fácil ajuste
+- Suela/Características: EVA para mayor ligereza
 - Empeine: Piel (Piel vacuna)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

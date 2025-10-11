@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Utilizamos una técnica innovadora, con un diseño simple para decorar tu hogar y crear un ambiente agradable.
-- Material: 100% poliéster, capa intermedia negra negra que ayunda a bloquear la luz efectivamente.
-- Tiene dos maneras de colgar. Usar anillas y ganchos o simplemente colgar la cortina directamente en la barra(sin anillas o ganchos en paquete).
-- Rendimiento: Protege de la luz solar. Ideal en cualquier tipo de ambiente: dormitorios, salones, habitaciones infantiles, cocinas, estudios etc.
 - 2 paneles por cada paquete. Se puede lavar a mano o máquina en agua fría (menos de 30°C).
+- Utilizamos una técnica innovadora, con un diseño simple para decorar tu hogar y crear un ambiente agradable.
+- Tiene dos maneras de colgar. Usar anillas y ganchos o simplemente colgar la cortina directamente en la barra(sin anillas o ganchos en paquete).
+- Material: 100% poliéster, capa intermedia negra negra que ayunda a bloquear la luz efectivamente.
+- Rendimiento: Protege de la luz solar. Ideal en cualquier tipo de ambiente: dormitorios, salones, habitaciones infantiles, cocinas, estudios etc.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00VWLI27O{{</world>}}

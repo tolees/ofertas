@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Apariencia: Cerveza de color cobrizo, aspecto brillante y una espuma densa de reflejos bronceados.
 - Nuestros maestros cerveceros se han inspirado en las cervezas Bock alemanas para elaborar esta cerveza de tonos rojizos y alta graduación, y llena de matices pensada para momentos especiales y capaz de desafiar los sentidos.
 - Aroma: Aroma complejo con notas marcadas de cereal tostado junto a notas intensas afrutadas y todo ello acompañado de una elegante fragancia de alcohol. Al trago salen nuevos sabores a caramelo y grano y se potencian los afrutados.
-- Sabor: En boca presenta un gusto fino y equilibrado con una ligera acidez. La textura es plena, con cuerpo y deja una agradable persistencia amarga.
 - Pack de 24 botellas de cerveza Bock, de 33 cl y 7.2% vol. Alcohol. Una cerveza tostada única, de fermentación larga y reposada.
+- Sabor: En boca presenta un gusto fino y equilibrado con una ligera acidez. La textura es plena, con cuerpo y deja una agradable persistencia amarga.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07KXL1HXT{{</world>}}

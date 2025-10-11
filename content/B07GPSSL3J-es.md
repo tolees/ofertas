@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Botella de ron Barceló Imperial Onyx de 700 ml. Ron 100% origen dominicano, cosechado, destilado y envejecido en República Dominicana. Filtrado en piedras de Onyx
 - Con un cuerpo robusto y estructurado, de gran carácter. Aromas tostados, con un sutil toque de cereza, café y frutos secos, notas profundas de madera y vainilla. En boca, suave y sedoso, termina con un retrogusto largo y persistente.
 - Ron dominicano envejecido en barricas de roble blanco americano con alto grado de tueste, cuidadosamente seleccionadas por expertos maestros toneleros. Posteriormente filtrado en auténticas piedras de Onyx, que le aportan el misticismo que le caracteriza.
-- Ron Barceló está comprometida con el cuidado del medio ambiente: ha obtenido la certificación Carbono Neutral, como parte del compromiso por cuantificar, reducir y compensar las emisiones de gases de efecto invernadero.
 - Para disfrutarlo del mejor modo. degustar el ron Barceló Imperial, en un vaso de cristal, sólo o con hielo. Barceló recomienda un consumo responsable.
+- Ron Barceló está comprometida con el cuidado del medio ambiente: ha obtenido la certificación Carbono Neutral, como parte del compromiso por cuantificar, reducir y compensar las emisiones de gases de efecto invernadero.
+- Botella de ron Barceló Imperial Onyx de 700 ml. Ron 100% origen dominicano, cosechado, destilado y envejecido en República Dominicana. Filtrado en piedras de Onyx
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07GPSSL3J{{</world>}}

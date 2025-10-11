@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pendientes realizados en cuentas bordadas
 - Estampado fotográfico
-- Crop
 - Camiseta arty cuentas
+- Pendientes realizados en cuentas bordadas
 - Regular fit
+- Crop
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0999FQZK5{{</world>}}

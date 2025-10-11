@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Textura suave que se funde fácilmente con la piel
-- Fórmula ligera
-- Colorete pigmentado para marcar el pómulo
 - Efecto recién aplicado durante todo el día
 - Larga duración
+- Textura suave que se funde fácilmente con la piel
+- Colorete pigmentado para marcar el pómulo
+- Fórmula ligera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07D7JKFDH{{</world>}}

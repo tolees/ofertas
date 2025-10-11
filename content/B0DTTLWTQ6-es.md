@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compatible con: todas las maquinillas de afeitar Gillette Proglide y Fusion5
 - Hojas 5 afiladas: para un afeitado apurado y duradero
 - Recortadora de precisión: diseñada para zonas de difícil acceso para garantizar siempre un look impecable
+- Compatible con: todas las maquinillas de afeitar Gillette Proglide y Fusion5
 - Banda de gel lubricante: incluye una banda lubricante para un deslizamiento suave
 - Duradero: cada recambio de Fusion5 proporciona hasta 20 afeitados* (*basado en 3 afeitados a la semana)
 

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tecnología Dri-Fit
-- Respirable
 - Corte normal
+- Respirable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01B1MQWPC{{</world>}}

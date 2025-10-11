@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hecho de 100% poliéster
 - Tiene dos bolsillos laterales
+- Cintura elástica con ajuste de cordón
+- Hecho de 100% poliéster
 - Ideal para llevar durante sesiones de entrenamiento de tenis y partidos
 - Malla para asegurar una buena transpirabilidad
-- Cintura elástica con ajuste de cordón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07HVFP8SJ{{</world>}}

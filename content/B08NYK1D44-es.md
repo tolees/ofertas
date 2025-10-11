@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Elastic waistband with lanyard
 - Breathable fabric
+- Elastic waistband with lanyard
 - Regular fit
 
 [🛒 Comprar!!!]({{< param buyurl >}})

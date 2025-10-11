@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Intensa iluminación LED RGB: Ocho LED RGB direccionables individualmente en cada ventilador proporcionan un fondo de gran intensidad para el diseño de su PC.
-- Tecnología CORSAIR AirGuide: Utiliza aspas antirremolinos para dirigir el flujo de aire concentrado y mejorar la refrigeración, ya sea de entrada, salida o instalada en radiador de refrigeración líquida o disipador.
 - Controlador iCUE Lighting Node CORE incluido: Controle la iluminación RGB de forma práctica, pudiendo conectar hasta seis ventiladores RGB para una iluminación simplificada e intuitiva a su disposición, reduciendo así las marañas de cables con sencillas conexiones USB 2.0 y SATA.
-- Mantenga su sistema refrigerado: Potentes velocidades de ventilador controladas por PWM desde 550 RPM hasta 2.100 RPM, lo que ofrece un flujo de aire de hasta 65,57 CFM con una presión estática de 2,68 mm-H2O.
 - Funcionamiento silencioso con modo Zero RPM y rodamiento dinámico por líquido: El lubricante entre el eje y el rodamiento reduce la fricción para una durabilidad excepcional y un ruido mínimo, además de compatibilidad con el modo de ventilador Zero RPM para eliminar por completo el ruido del ventilador.
+- Mantenga su sistema refrigerado: Potentes velocidades de ventilador controladas por PWM desde 550 RPM hasta 2.100 RPM, lo que ofrece un flujo de aire de hasta 65,57 CFM con una presión estática de 2,68 mm-H2O.
+- Tecnología CORSAIR AirGuide: Utiliza aspas antirremolinos para dirigir el flujo de aire concentrado y mejorar la refrigeración, ya sea de entrada, salida o instalada en radiador de refrigeración líquida o disipador.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQWXHJBW{{</world>}}

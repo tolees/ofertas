@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Horma clásica
 - Parte superior de piel sintética
+- Diseño acolchado
 - Forro textil
 - Plantilla de EVA
-- Diseño acolchado
 - Suela de goma
 
 [🛒 Visítala!!!]({{< param buyurl >}})

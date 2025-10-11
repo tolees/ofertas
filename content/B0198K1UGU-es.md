@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Breiter Schirm
 - Tirante ajustable en tejido idéntico
+- Breiter Schirm
 - Tejido: tejido en sarga de algodón
 - Bordado en la parte frontal
 

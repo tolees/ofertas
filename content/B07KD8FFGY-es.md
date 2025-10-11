@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Capucha con cordón
+- Cremallera frontal completa
 - Ajuste regular
 - Bolsillos laterales
-- Cremallera frontal completa
+- Capucha con cordón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07KD8FFGY{{</world>}}

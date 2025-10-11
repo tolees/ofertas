@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Versace eros epv 100 ml
-- Un perfume con una fragancia inconfundible y elegante
 - Para una sensación de bienestar
 - Producto de alta calidad
+- Un perfume con una fragancia inconfundible y elegante
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08F5FMLCQ{{</world>}}

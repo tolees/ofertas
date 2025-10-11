@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Revestimiento: Tela
 - Material de la suela: Goma
-- Material exterior: Lona
-- Tipo de tacón: Plano
 - Cierre: Cordones
+- Tipo de tacón: Plano
+- Material exterior: Lona
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07NJPM9H5{{</world>}}

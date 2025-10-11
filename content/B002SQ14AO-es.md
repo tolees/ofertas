@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Marca: Clinique
 - Tipo de producto: Crema antiarrugas
 - Productos de belleza y el cuidado personal
+- Marca: Clinique
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B002SQ14AO{{</world>}}

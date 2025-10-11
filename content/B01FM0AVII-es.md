@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lubricación duradera y excelente adherencia
-- Envase en spray para una cómoda aplicación
 - Recomendado para cadenas, transmisiones y O,X,Z rings
+- Envase en spray para una cómoda aplicación
+- Lubricación duradera y excelente adherencia
 - Especial para condiciones secas
 - Mantiene el rendimiento óptimo de la cadena
 

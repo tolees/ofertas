@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Set de 24 rotuladores
 - Tapa en el extremo
+- Set de 24 rotuladores
 - Rotulador de colores intensos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

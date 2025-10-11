@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tripulación
-- Logotipo icónico
 - Corte
+- Logotipo icónico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BJ9J3CNW{{</world>}}

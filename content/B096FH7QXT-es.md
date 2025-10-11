@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Stone Red / Blue
-- Gafas de Motocross
 - Gafas de Motocross y MTB Enduro Stone Rojo y Azul para hombre y mujer
+- Gafas de Motocross
+- Stone Red / Blue
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B096FH7QXT{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Combínala con la parte de arriba que más te guste para lucir el conjunto (o des- conjunto) completo
 - Braga ancha brasileña confeccionada en microfibra, con estampado de flores multicolor y detalle de encaje
+- Combínala con la parte de arriba que más te guste para lucir el conjunto (o des- conjunto) completo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DQYPRHD9{{</world>}}

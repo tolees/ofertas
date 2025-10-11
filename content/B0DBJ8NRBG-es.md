@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logotipo redondo de Kipling
-- 2 bolsillos interiores: 1 abierto y 1 con cremallera
-- Mono robot de metal
 - Anillo D
 - Compartimentprincipal con cremallera
+- Logotipo redondo de Kipling
+- Mono robot de metal
+- 2 bolsillos interiores: 1 abierto y 1 con cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DBJ8NRBG{{</world>}}

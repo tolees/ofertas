@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Easy to use
 - PETA Approved - cruelty free and vegan friendly
 - Stimulates hair follicles
-- Removes product build up
 - Perfect for the ultimate deep cleanse
+- Removes product build up
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BPDMHHPW{{</world>}}

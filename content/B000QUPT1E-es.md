@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Excelente calidad WELEDA: Con Aceite de Almendra Dulce BIO y Aceites Esenciales de Cardamomo y Manzanilla.
-- Contenido: 1 x WELEDA Aceite para La Tripita del Bebé
-- Contra los cólicos: 1 de cada 4 bebés lactantes sufre cólicos que pueden afectar al bienestar del bebé. Aunque su origen puede venir de diferentes motivos, normalmente se trata de gases.
 - Para masajes relajantes en la tripita del bebé: Un masaje suave está recomendado por la Asociación de Pediatría Española para prevenir y mejorar las molestias del lactante.
 - Con propiedades digestivas: Los aceites esenciales de Cardamomo y Manzanilla son conocidos por sus propiedades digestivas y son ideales para aliviar los cólicos, favoreciendo la expulsión de gases.
+- Contenido: 1 x WELEDA Aceite para La Tripita del Bebé
+- Excelente calidad WELEDA: Con Aceite de Almendra Dulce BIO y Aceites Esenciales de Cardamomo y Manzanilla.
+- Contra los cólicos: 1 de cada 4 bebés lactantes sufre cólicos que pueden afectar al bienestar del bebé. Aunque su origen puede venir de diferentes motivos, normalmente se trata de gases.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B000QUPT1E{{</world>}}

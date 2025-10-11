@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - un bolsillo frontal cubierto con malla de malla
-- Con un compartimento principal con cremallera
 - 100% poliéster
+- Con un compartimento principal con cremallera
 - Correa de rayas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

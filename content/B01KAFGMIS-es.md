@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 6 enchufes protegidos contra sobretensiones para conectar y alimentar dispositivos de forma segura
-- Enchufes dotados con protección infantil para evitar que los niños accedan a los contactos de los enchufes
+- Práctico interruptor general para apagar simultáneamente todos los dispositivos conectados
 - Interruptor iluminado con indicación de modo activado o desactivado
 - Orificios de sujeción para montaje fácil en pared
-- Práctico interruptor general para apagar simultáneamente todos los dispositivos conectados
 - Enchufes situados en ángulo de 45 grados para un mejor acceso
+- Enchufes dotados con protección infantil para evitar que los niños accedan a los contactos de los enchufes
+- 6 enchufes protegidos contra sobretensiones para conectar y alimentar dispositivos de forma segura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01KAFGMIS{{</world>}}

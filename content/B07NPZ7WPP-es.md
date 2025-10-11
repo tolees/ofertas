@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dimensiones: 27,5x2,80
 - Etrto 71-584
+- Dimensiones: 27,5x2,80
 - Optimo para tu bicicleta
 
 [🛒 Visítala!!!]({{< param buyurl >}})

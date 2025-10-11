@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - BOOMY: Altavoz a pilas con batería recargable de larga duración. El BOOMY, con su forma redonda y su peso ligero (0,370 kg), te seguirá a todas partes.
-- CONECTIVIDAD: El BOOMY tiene toda la conectividad para transmitir tu música desde cualquier soporte: Bluetooth, USB, MICRO-SD y AUX.
-- AUTONOMÍA: No te preocupes por quedarte sin energía con su batería de larga duración. Aunque su tamaño es pequeño, te sorprenderán sus capacidades.
-- LED: Con un anillo luminoso en la parte superior, disfruta de muchos modos preprogramados o pausa los efectos luminosos.
 - REDONDO: ¿Quieres destacar entre la multitud con un altavoz que nadie más tiene? Con su diseño esférico, BOOMY se convierte en uno de los primeros bafles redondos.
+- CONECTIVIDAD: El BOOMY tiene toda la conectividad para transmitir tu música desde cualquier soporte: Bluetooth, USB, MICRO-SD y AUX.
+- LED: Con un anillo luminoso en la parte superior, disfruta de muchos modos preprogramados o pausa los efectos luminosos.
+- AUTONOMÍA: No te preocupes por quedarte sin energía con su batería de larga duración. Aunque su tamaño es pequeño, te sorprenderán sus capacidades.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BTZ86S5D{{</world>}}

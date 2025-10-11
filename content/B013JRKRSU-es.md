@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- CONTROL DE LA SALUD: Es adecuado para comprobar y controlar regularmente la saturación de oxígeno – las enfermedades respiratorias como el asma, la EPOC y otras enfermedades pulmonares pueden provocar un descenso de la saturación de oxígeno
+- AVISO DE MEDICIÓN INESTABLE: En caso de una medición inestable, aparece un icono de signo de interrogación en la pantalla en color y puede volver a realizar la medición para obtener lecturas fiables
 - DEPORTE A GRAN ALTURA: Las personas sanas y los deportistas puedan controlar la saturación de oxígeno incluso en entornos con niveles de oxígeno más bajos
 - SENCILLO E INDOLORO: El pulsioxímetro mide su saturación de oxígeno (SpO2), su frecuencia cardíaca (pulso), así como su índice de perfusión (IP), sin necesidad de una muestra de sangre – Precisión clínicamente validada para uso doméstico
-- AVISO DE MEDICIÓN INESTABLE: En caso de una medición inestable, aparece un icono de signo de interrogación en la pantalla en color y puede volver a realizar la medición para obtener lecturas fiables
 - PRÁCTICA PANTALLA EN COLOR: El pulsioxímetro PO 40 de Beurer está equipado con una pantalla en color de fácil lectura y 7 formatos de visualización
-- CONTROL DE LA SALUD: Es adecuado para comprobar y controlar regularmente la saturación de oxígeno – las enfermedades respiratorias como el asma, la EPOC y otras enfermedades pulmonares pueden provocar un descenso de la saturación de oxígeno
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B013JRKRSU{{</world>}}

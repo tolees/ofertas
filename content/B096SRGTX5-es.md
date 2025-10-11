@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 0 percent PLÁSTICO, 100 percent RENDIMIENTO: Gracias a la formula optimizada y prensada en frío de nuestro gel de ducha sólido Foamie, los ingredientes mantienen toda su eficacia y olerás a coco todo el día
-- APLICACIÓN: Espumar ligeramente con agua y usar para enjabonar el cuerpo con movimientos circulares debajo de la ducha o en el baño. Luego aclarar y colgar el gel solido para que se seque
-- Producto de cuidado personal
 - FOAMIE: En Foamie, le hemos declarado la guerra al plástico. Como tú, nos preocupamos por el medio ambiente. Por eso queremos contribuir a un mundo sin plástico, más ecológico y sostenible
+- APLICACIÓN: Espumar ligeramente con agua y usar para enjabonar el cuerpo con movimientos circulares debajo de la ducha o en el baño. Luego aclarar y colgar el gel solido para que se seque
+- 0 percent PLÁSTICO, 100 percent RENDIMIENTO: Gracias a la formula optimizada y prensada en frío de nuestro gel de ducha sólido Foamie, los ingredientes mantienen toda su eficacia y olerás a coco todo el día
+- Producto de cuidado personal
 - PENSAMOS EN TI: La forma ergonómica de nuestro gel de ducha sólido le permitirá un mejor agarre al utilizar el gel en barra y facilidad para masajearse con las pequeñas bolas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

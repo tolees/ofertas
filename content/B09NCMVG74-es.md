@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto de calidad óptima
 - Con vitamina C
+- Producto de calidad óptima
 - Agua micelar desmaquillante suave con acción limpiadora
 
 [🛒 Comprar!!!]({{< param buyurl >}})

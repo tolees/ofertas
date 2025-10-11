@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Color: multicolor, morado
 - Suela: sintética de alta calidad.
+- Color: multicolor, morado
 - Parte superior: Cuero - Ante, Sintético/-Sintético precioso, Cuero - Piel de flor, Tela/-Tejido
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello sin etiqueta para un uso sin complicaciones
-- Un logotipo de Levis en tu pecho
 - Hecho de algodón suave para comodidad diaria durante todo el día
 - Cuello redondo acanalado y mangas cortas
+- Un logotipo de Levis en tu pecho
+- Cuello sin etiqueta para un uso sin complicaciones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07XF4SNHC{{</world>}}

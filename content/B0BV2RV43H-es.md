@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tecnología transpirable AEROREADY
-- 100% poliéster (reciclado)
+- Puños y dobladillo elásticos
 - Bolsillos frontales de ojal
+- Tecnología transpirable AEROREADY
 - Puños y dobladillo elásticos
+- 100% poliéster (reciclado)
 - Corte entallado
-- Puños y dobladillo elásticos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BV2RV43H{{</world>}}

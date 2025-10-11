@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Corte clásico
 - Bolsillos laterales
-- Bolsillo trasero
-- Cintura elástica con cordón
 - 70% algodón / 30% poliéster (reciclado)
+- Cintura elástica con cordón
+- Bolsillo trasero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09YQ91TDD{{</world>}}

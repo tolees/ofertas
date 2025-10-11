@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Bota baja
 - Cierre de velcro
 - Puma Tira en el lateral
-- Bota baja
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CKK63S99{{</world>}}

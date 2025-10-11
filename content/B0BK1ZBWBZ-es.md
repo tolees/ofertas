@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mezclilla hecha de algodón parcialmente reciclado con comodidad elástica
 - Cintura con trabillas para cinturón, botón y cremallera frontal
+- Mezclilla hecha de algodón parcialmente reciclado con comodidad elástica
 - Estilo de cinco bolsillos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

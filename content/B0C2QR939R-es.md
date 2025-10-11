@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Parte superior de malla técnica
 - Horma clásica
-- Escapa de la rutina
 - Diseño concebido para ofrecer mayor amortiguación y respuesta
+- Escapa de la rutina
 - Cierre de cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

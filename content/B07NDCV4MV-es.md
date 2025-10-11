@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Filtro Extraíble - El filtro del hervidor es extraíble y lavable
-- Indicador del Nivel de Agua - El hervidor cuenta con indicador lateral del nivel de agua, tapa abatible, boquilla de vertido perfecto y base de 360°
 - Capacidad de 1 Litro - Hervidor mini de acero inoxidable cepillado con capacidad para 1 litro
-- Interruptor Luminoso - Dispone de interruptor luminoso de encendido y apagado
 - Potencia de 2400 W - Hierve una taza de agua en poco más de 50 segundos y ahorra hasta un 66% de electricidad
+- Indicador del Nivel de Agua - El hervidor cuenta con indicador lateral del nivel de agua, tapa abatible, boquilla de vertido perfecto y base de 360°
+- Interruptor Luminoso - Dispone de interruptor luminoso de encendido y apagado
+- Filtro Extraíble - El filtro del hervidor es extraíble y lavable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07NDCV4MV{{</world>}}

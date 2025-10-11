@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Resistente a la intemperie
 - Fijación al vidrio mediante tira adhesiva
 - Rango: -25+70ºC
+- Resistente a la intemperie
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B000EOR47Y{{</world>}}

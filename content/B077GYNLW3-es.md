@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dos bolsillos delanteros y un bolsillo para monedas
 - Cinco trabillas para cinturón
 - Dos bolsillos traseros
+- Dos bolsillos delanteros y un bolsillo para monedas
 - Bordes abiertos en la parte inferior
 
 [🛒 Aquí!!!]({{< param buyurl >}})

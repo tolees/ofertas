@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Resolución: 320 x 240 pixels
-- Agenda: 300 contactos
 - Cámara: 0.3 MP calidad
-- Pantalla: TFT 2.31" color
+- Resolución: 320 x 240 pixels
 - Teclas en caucho grandes y ergonómicas
+- Pantalla: TFT 2.31" color
+- Agenda: 300 contactos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08WKJF14D{{</world>}}

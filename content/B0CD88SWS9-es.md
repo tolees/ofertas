@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tiene un tejido ligero y suave
 - Ofrece una comodidad óptima
 - Con detalles de encaje
+- Tiene un tejido ligero y suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CD88SWS9{{</world>}}

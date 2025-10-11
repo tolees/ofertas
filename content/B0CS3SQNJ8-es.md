@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estuche de carga de tamaño bolsillo: el fino estuche de carga cabe perfectamente en un bolsillo, lo que le permitirá proteger sus auriculares y cargarlos mientras no los use. El modo Mono le permitirá usar uno de los auriculares mientras el otro se carga.
-- Resistente a salpicaduras y sudor, protección IPX4. No se preocupe por el tiempo: IPX4 significa que resisten a las salpicaduras, por lo que puede llover un poco. ¿Quiere usarlos entrenando o en un día muy caluroso? Tampoco importa un poco de sudor.
-- 18 horas de reproducción con el estuche: 6 horas con carga completa, y 12 horas adicionales con el estuche. Recárguelos en el estuche completamente en 2 horas. ¿Necesita una carga rápida? En 15 minutos tendrá una hora extra. El estuche se carga por USB.
-- Ajuste cómodo y controles táctiles: almohadillas intercambiables para un ajuste perfecto, adaptación suave y segura a su oído. Controles táctiles para mayor simplicidad. Refuerzo dinámico de graves, control de reproducción o contestación de llamadas.
 - Llamadas nítidas: su voz se escuchará con total claridad durante sus llamadas. Un micrófono específico recoge el sonido de su voz, mientras que un algoritmo de reducción del ruido silencia parte del ruido de fondo procedente del mundo que le rodea.
+- Estuche de carga de tamaño bolsillo: el fino estuche de carga cabe perfectamente en un bolsillo, lo que le permitirá proteger sus auriculares y cargarlos mientras no los use. El modo Mono le permitirá usar uno de los auriculares mientras el otro se carga.
+- Ajuste cómodo y controles táctiles: almohadillas intercambiables para un ajuste perfecto, adaptación suave y segura a su oído. Controles táctiles para mayor simplicidad. Refuerzo dinámico de graves, control de reproducción o contestación de llamadas.
+- 18 horas de reproducción con el estuche: 6 horas con carga completa, y 12 horas adicionales con el estuche. Recárguelos en el estuche completamente en 2 horas. ¿Necesita una carga rápida? En 15 minutos tendrá una hora extra. El estuche se carga por USB.
+- Resistente a salpicaduras y sudor, protección IPX4. No se preocupe por el tiempo: IPX4 significa que resisten a las salpicaduras, por lo que puede llover un poco. ¿Quiere usarlos entrenando o en un día muy caluroso? Tampoco importa un poco de sudor.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CS3SQNJ8{{</world>}}

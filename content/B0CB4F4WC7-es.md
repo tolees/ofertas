@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Marca bordada en el bolsillo
 - Ajuste holgado
+- Marca bordada en el bolsillo
 - Pantalón corto chino teñido
 
 [🛒 Visítala!!!]({{< param buyurl >}})

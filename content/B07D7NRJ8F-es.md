@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- De la marca Braun
 - Seca, estiliza y volumen en uno
 - Diseñado para cabello más corto
+- De la marca Braun
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07D7NRJ8F{{</world>}}

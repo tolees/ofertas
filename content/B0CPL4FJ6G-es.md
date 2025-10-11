@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Officially licensed by The Pokémon Company International
-- Incluye 4 Pokémon construibles: Sprigatito, Meowth, Wooper de Paldea y Munchlax
 - Ideales a partir de 6 años, estos juguetes de construcción ayudan a fomentar la creatividad y a desarrollar la capacidad de resolución de problemas.
+- Incluye 4 Pokémon construibles: Sprigatito, Meowth, Wooper de Paldea y Munchlax
 - Las piezas pueden combinarse con todos los conjuntos de construcción de Pokémon de MEGA y son compatibles con las principales marcas
 - Conjunto de construcción con bloque de movimiento: gira la manivela para activar el movimiento de la noria.
 

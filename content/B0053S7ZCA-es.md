@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con 5 compartimientos desmontables
-- Bloqueable con un candad
 - Caja de herramientas de metal para almacenar y organizar herramientas
+- Bloqueable con un candad
+- Con 5 compartimientos desmontables
 - Hecho de chapa de acero, versión pintada
 
 [🛒 Visítala!!!]({{< param buyurl >}})

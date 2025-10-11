@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cuello con cremallera
 - Ajuste regular
 - Sudadera con capucha
-- Cuello con cremallera
 - 40% poliéster
 
 [🛒 Aquí!!!]({{< param buyurl >}})

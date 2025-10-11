@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Chaqueta acolchada de corte regular
-- Ajuste regular
 - Cremallera completa
 - Forro polar interior
+- Ajuste regular
+- Chaqueta acolchada de corte regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00VLN9DAI{{</world>}}

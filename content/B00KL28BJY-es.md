@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ideal para utilizar sobre papel cartulina madera tela pasta de modelar y arcilla
-- Pintura al agua
-- Incluyen pincel
 - Secado rápido
+- Pintura al agua
+- Ideal para utilizar sobre papel cartulina madera tela pasta de modelar y arcilla
+- Para uso escolar
+- Incluyen pincel
 - 12 colores surtidos: amarillo amarillo limón azul azul cyan blanco magenta marrón naranja negro rojo verde claro y verde oscuro
 - Caja de 12 botes de témpera Jovi surtidos
-- Para uso escolar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00KL28BJY{{</world>}}

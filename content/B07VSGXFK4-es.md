@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Manga Raglán con costura decorativa en media manga
-- Cubrecosturas del cuello reforzado con cinta de tejido base
 - Cuello Redondo
+- Cubrecosturas del cuello reforzado con cinta de tejido base
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07VSGXFK4{{</world>}}

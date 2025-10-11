@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tela impermeable
 - Tela transpirable
+- Tela impermeable
 - Ajuste apretado
 - Material resistente y duradero
 

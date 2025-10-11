@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Melocotón con miel y Pétalos de freesia
 - Cacao tostado
+- Melocotón con miel y Pétalos de freesia
 - Absoluto de osmanto
 
 [🛒 Visítala!!!]({{< param buyurl >}})

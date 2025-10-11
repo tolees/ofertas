@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de disco de freno: 1
 - Para artículo nr.: 08.9502.11
+- Tipo de disco de freno: 1
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00CJNZJQG{{</world>}}

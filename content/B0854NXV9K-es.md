@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- charreteras
 - bordes crudos
+- charreteras
 - dos bolsillos de parche en el pecho
 - lavado antiguo
 

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ENVASE: El aparato Casa Jardín Green está fabricado con un 20% de material proveniente de FIBRA DE BAMBÚ. Nuestros envases casa jardín green están hechos con cartón FSC. 85% cartón reciclado.
+- FÓRMULA ECOLÓGICA: Comprometidos con el medio ambiente, este producto contienen aceites esenciales 100% naturales. Sin manchas ni residuos, son seguros para el contacto directo con los tejidos.
 - EFICACIA: Fórmula con 5 aceites esenciales naturales: Citronella, Eucalipto., Limón, Lavanda y Litsea Cubeba
 - TIEMPO DE USO: Hasta 45 noches de duración, utilizándolo 8 horas.
-- FÓRMULA ECOLÓGICA: Comprometidos con el medio ambiente, este producto contienen aceites esenciales 100% naturales. Sin manchas ni residuos, son seguros para el contacto directo con los tejidos.
 - AROMA Y FORMATO: Recambio con el poder de los aceites esenciales ayuda crear un ambiente natural en cualquier estancia.
+- ENVASE: El aparato Casa Jardín Green está fabricado con un 20% de material proveniente de FIBRA DE BAMBÚ. Nuestros envases casa jardín green están hechos con cartón FSC. 85% cartón reciclado.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08XMN396F{{</world>}}

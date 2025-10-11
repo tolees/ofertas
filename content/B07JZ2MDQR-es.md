@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Bordado en forma de montaña en el lado izquierdo, Con el logo de Columbia en la parte delantera
-- Agradable flujo de aire gracias a la construcción de malla en la parte posterior del sombrero, Cierre regulable por detrás a presión para la personalización del ajuste
 - Diseño clásico de la gorra con la visera ligeramente curvada y el botón en la parte superior, 98% de algodón y 2% de elastano
+- Agradable flujo de aire gracias a la construcción de malla en la parte posterior del sombrero, Cierre regulable por detrás a presión para la personalización del ajuste
 - La gorra de malla es óptima para un día de aventuras al aire libre, ya sea el bosque, en el agua o por el vecindario
 - Contenido: 1 x Columbia Mesh Gorra unisex con cierre por detrás, Material: Material: 98% algodón /2% elastano, Color: Negro (Black, Weld), Talla: O/S, Art.No. 1652541
 

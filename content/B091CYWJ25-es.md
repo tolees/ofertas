@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Aplicación directa sobre el óxido
 - Acabado: brillante
 - Recomendado para la protección y decoración de barandillas, rejas, verjas, y otros objetos de metal expuestos a la intemperie y al sol
-- Aplicación directa sobre el óxido
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B091CYWJ25{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Entresuela de goma de perfil bajo
 - Perfil bajo
+- Entresuela de goma de perfil bajo
 - Exterior de piel flexible con capas de ante superpuestas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

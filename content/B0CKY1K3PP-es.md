@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forro textil
-- Cierre de cordones
 - Suela versátil
-- Horma clásica
+- Cierre de cordones
 - Empeine sintético con textura Strikeprint
+- Horma clásica
+- Forro textil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CKY1K3PP{{</world>}}

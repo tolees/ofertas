@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tiene detalles distintivos de la marca
 - El diseño otorga libertad a los movimientos
+- Tiene detalles distintivos de la marca
 - Ropa deportiva fabricada con materiales que se adaptan a cualquier actividad deportiva
 - La tecnología del material elimina el sudor de la piel
 

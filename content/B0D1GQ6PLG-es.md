@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este aceite capilar nutre sin apelmazar, protege contra la oxidación y el calor, y realza el cabello apagado aportándole brillo, suavidad y flexibilidad.
 - Este aceite de Kérastase puede utilizarse sobre el cabello húmedo para facilitar el secado, o sobre el cabello seco para un acabado sedoso perfecto. Huile Originale también puede mezclarse con la mascarilla capilar Elixir Ultime para nutrir el cabello seco, grueso, apagado y dañado.
 - Huile Originale Elixir Ultime es un aceite termoprotector que se utiliza antes o después del secado, para dejar el cabello con un aspecto sublime. Su fórmula perfumada combina aceites vegetales de camelia silvestre francesa, marula y argán por sus propiedades intensamente nutritivas.
+- Este aceite capilar nutre sin apelmazar, protege contra la oxidación y el calor, y realza el cabello apagado aportándole brillo, suavidad y flexibilidad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D1GQ6PLG{{</world>}}

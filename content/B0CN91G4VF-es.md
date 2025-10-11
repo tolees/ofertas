@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bases de malla transpirable
 - Máxima estabilidad
+- Bases de malla transpirable
 - Cuenta con una sección grande con inserciones de malla que ayuda a crear un ajuste más suave y adaptable.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

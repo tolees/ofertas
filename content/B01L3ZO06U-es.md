@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sistemas operativos compatibles: Windows 7; Windows 8; Windows 10; Mac OS 10.3 o posterior; Chrome OS
-- Sensor óptico de 1200 PPP, preciso con gran resolución, podrás trabajar en una gran variedad de superficies
 - Batería de larga duración, hasta 16 meses dependiendo su uso
 - Dimensiones mínimas: 101 x 60 x 25,3 mm y peso: 0,05 kg
+- Sistemas operativos compatibles: Windows 7; Windows 8; Windows 10; Mac OS 10.3 o posterior; Chrome OS
+- Sensor óptico de 1200 PPP, preciso con gran resolución, podrás trabajar en una gran variedad de superficies
 - Conexión inalámbrica de 2,4 GHz de gran fiabilidad, trabaja sin limitaciones
 - Diseñado para diestros y zurdos, fácilmente adaptable
 

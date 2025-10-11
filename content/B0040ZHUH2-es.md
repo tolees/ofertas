@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Protección antioxidante - Protege tu piel de la contaminación con los beneficios ricos en antioxidantes de nuestro sérum. Rico en extractos naturales, actúa como barrera protectora, combatiendo los efectos nocivos de la contaminación y los radicales libres, dejando la piel joven y radiante.
-- Ingredientes poderosos: libera el brillo de los mejores ingredientes de la naturaleza con el suero iluminador Aour. Investigamos y combinamos meticulosamente supernutrientes como el aceite de argán, calabaza y arándano para crear una fórmula poderosa que revitaliza tu piel como nunca antes.
-- Para todo tipo de pieles: Acure Radiant Brightening Serum está diseñado para adaptarse a todo tipo de pieles. Ya sea que tenga la piel seca, grasa o sensible, nuestra fórmula cuidadosamente equilibrada garantiza que todos puedan disfrutar de los beneficios de un suero que revitaliza y realza su brillo natural.
 - Hidratante y calmante: experimente una hidratación profunda y un confort relajante con cada aplicación. Nuestro sérum penetra en profundidad, proporcionando una hidratación esencial que deja la piel flexible, suave y rejuvenecida. Dile adiós a la sequedad y hola a un brillo diario.
+- Ingredientes poderosos: libera el brillo de los mejores ingredientes de la naturaleza con el suero iluminador Aour. Investigamos y combinamos meticulosamente supernutrientes como el aceite de argán, calabaza y arándano para crear una fórmula poderosa que revitaliza tu piel como nunca antes.
+- Protección antioxidante - Protege tu piel de la contaminación con los beneficios ricos en antioxidantes de nuestro sérum. Rico en extractos naturales, actúa como barrera protectora, combatiendo los efectos nocivos de la contaminación y los radicales libres, dejando la piel joven y radiante.
+- Para todo tipo de pieles: Acure Radiant Brightening Serum está diseñado para adaptarse a todo tipo de pieles. Ya sea que tenga la piel seca, grasa o sensible, nuestra fórmula cuidadosamente equilibrada garantiza que todos puedan disfrutar de los beneficios de un suero que revitaliza y realza su brillo natural.
 - Piel radiante y aprobada por veganos: mejora tu rutina de cuidado de la piel con el sérum iluminador Acare, seguro y 100% vegano. Consigue un cutis más luminoso y radiante sin comprometer tus valores, ya que nuestro sérum está formulado sin ingredientes de origen animal.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detalles perforados en el empeine
-- Con cordones
-- Empeine de material sintético con aplicaciones de cuero suave en ojetera y puntera
 - Ancho estándar
+- Detalles perforados en el empeine
 - Entresuela apilada combinada con una textura pronunciada
+- Empeine de material sintético con aplicaciones de cuero suave en ojetera y puntera
+- Con cordones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DVQNPQRV{{</world>}}

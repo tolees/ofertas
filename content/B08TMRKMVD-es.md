@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Entresuela que absorbe los golpes
 - Skechers Detalle del logotipo
 - Malla atlética
+- Entresuela que absorbe los golpes
 - Ligeras
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puede contener trazas de gluten
-- Producto listo para el consumo
-- Conservar en lugar fresco y seco
-- Ingredientes: Copos De Patata (65%), Almidón, Aceite De Girasol, Azúcar, Aroma a Sal Marina [ sal marina (0,5%), sal (0,3%), aromas], Emulgentes (Lecitina De girasol), colorante(norbixina de bija)
 - Bolsa con patata horneado
 - Con 50% menos de grasa
+- Conservar en lugar fresco y seco
+- Ingredientes: Copos De Patata (65%), Almidón, Aceite De Girasol, Azúcar, Aroma a Sal Marina [ sal marina (0,5%), sal (0,3%), aromas], Emulgentes (Lecitina De girasol), colorante(norbixina de bija)
+- Puede contener trazas de gluten
+- Producto listo para el consumo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00A6TIYZI{{</world>}}

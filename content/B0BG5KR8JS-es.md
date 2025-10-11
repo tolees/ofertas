@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Parte superior en piel revestida
 - Ajuste regular
 - Forro textil
-- Parte superior en piel revestida
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BG5KR8JS{{</world>}}

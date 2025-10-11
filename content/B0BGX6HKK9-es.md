@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Puntera sin costuras
+- 51% algodón / 46% poliéster reciclado / 2% elastán / 1% nailon
 - Tres pares por paquete
 - Largo hasta el tobillo
 - Refuerzo en el arco plantar
-- 51% algodón / 46% poliéster reciclado / 2% elastán / 1% nailon
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BGX6HKK9{{</world>}}

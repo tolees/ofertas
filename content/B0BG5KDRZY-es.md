@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro textil
-- Parte elegante y entresuela ligera de una sola pieza
 - Cierre de cordones
+- Parte elegante y entresuela ligera de una sola pieza
+- Forro textil
 - Parte sintética y textil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

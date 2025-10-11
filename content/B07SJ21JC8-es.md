@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Dimensiones : 47 x 57 cm
 - Autoextinguible
-- Filtros de campana
-- Antigrasa y antiolores
 - Universal y cortado a la medida
 - Captura la grasa y atrae vapor y humos
-- Dimensiones : 47 x 57 cm
+- Filtros de campana
+- Antigrasa y antiolores
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07SJ21JC8{{</world>}}

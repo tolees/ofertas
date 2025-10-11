@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Leather
-- Plain
 - materialFabricComposition: 100% Cow Leather
+- Plain
+- Leather
 - Belt
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

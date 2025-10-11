@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño moderno
 - Jersey de punto
 - Ajuste cómodo
+- Diseño moderno
 - Hecho de material duradero y ligero
 
 [🛒 Visítala!!!]({{< param buyurl >}})

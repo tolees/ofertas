@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cientos de películas en la aplicación BRAVIA CORE, accede a la biblioteca de Sony Pictures Entertainment, con los últimos éxitos de taquilla y clásicos; disfruta de la mayor colección disponible de películas IMAX Enhanced y accede a las escenas de los estudios entre bastidores
+- La tecnología Acoustic Surface Audio + hace que el sonido salga directamente de la pantalla, creando una experiencia más envolvente; lleva su configuración al siguiente nivel con la función Acoustic Center Sync y una barra de sonido Sony compatible
 - Todo en el A80L es realista, al combinar nuestro panel OLED con XR OLED Contrast Pro que optimiza los colores y aporta negros nítidos y reales; incluso en las escenas más oscuras, nuestro Cognitive Processor XR, optimizará las imágenes del mismo modo que tus ojos enfocan en la vida real
 - Es óptimo para PS5, reconoce la consola y cambia automáticamente a modo de baja latencia en HDMI 2.1; el menú gaming optimiza el rendimiento de tus juegos; con Reducción del Desenfoque de Movimiento, Ecualizador de Negros, Crosshair y Pantalla Personalizada, y 4K/120 fps para disfrutar de la acción
-- La tecnología Acoustic Surface Audio + hace que el sonido salga directamente de la pantalla, creando una experiencia más envolvente; lleva su configuración al siguiente nivel con la función Acoustic Center Sync y una barra de sonido Sony compatible
 - Ahorra hasta un 32% más de energía con el A80L; el Eco Dashboard pone todos tus ajustes ecológicos en un lugar intuitivo y fácil de usar, para que puedas ahorrar energía sin complicaciones El marco metálico enrasado armoniza con cualquier interior, con un soporte de 3 posiciones versátil
 
 [🛒 Visítala!!!]({{< param buyurl >}})

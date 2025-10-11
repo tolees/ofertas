@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 2,25 kg de peso y 25 L de volumen
-- 62 % poliéster, 38 % poliéster reciclado
 - 45 cm de alto x 40,5 cm de ancho x 20 cm de profundidad
-- Bolsa grande con ruedas
+- 62 % poliéster, 38 % poliéster reciclado
 - Repele el agua
+- Bolsa grande con ruedas
+- 2,25 kg de peso y 25 L de volumen
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08SY69DM8{{</world>}}

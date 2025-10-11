@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 2 Conos de prensa
-- Prepara deliciosos zumos con nuestro exprimidor blanco EX-40B de 1 litro de capacidad, 40 W de potencia, con filtro para pulpa y con jarra extraíble.
 - Color negro / inox.
+- Prepara deliciosos zumos con nuestro exprimidor blanco EX-40B de 1 litro de capacidad, 40 W de potencia, con filtro para pulpa y con jarra extraíble.
 - Potencia: 40 W
 - Doble sentido de rotación
 

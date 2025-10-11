@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Entresuela de EVA
 - Parte superior en piel
 - Forro textil
-- REEBOK CLASSIC LEATHER PUGRY3/PUGRY6/VECRED 37.5 UNISEX
+- Entresuela de EVA
 - Suela exterior de goma muy resistente al desgaste
+- REEBOK CLASSIC LEATHER PUGRY3/PUGRY6/VECRED 37.5 UNISEX
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CB8MV3FN{{</world>}}

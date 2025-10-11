@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Rosca 1 F10X1
 - Rosca 2 M10X1
 - Longitud de 455 mm
+- Rosca 1 F10X1
 - Para artículo nr. T 06 012
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

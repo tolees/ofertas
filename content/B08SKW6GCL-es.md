@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un clásico que no debe faltar en tu armario
-- Punto 100% algodón
 - Corte entallado
 - Manga corta
+- Un clásico que no debe faltar en tu armario
+- Punto 100% algodón
 - Cuello redondo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

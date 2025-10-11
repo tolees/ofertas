@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Accesorios: Con pernos para pinza de freno
 - Equivalente al OE/ Calidad Brembo/ Certificado ECE-R90/ Seguridad/ Rendimiento/Confort
 - Sistema de frenos- TRW/WVA-25683,25684/FMSI-D1760 8989
-- Eje: Delantero
-- Indicador de desgaste: Eléctrico
 - Dimensiones: Anchura-160mm/ Espesor-20mm/ Altura-65mm
 - ¡CUIDADO! ¡Antes de comprar el producto, consulte la guía de compatibilidad a continuación!
+- Eje: Delantero
+- Accesorios: Con pernos para pinza de freno
+- Indicador de desgaste: Eléctrico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00PWIBTBY{{</world>}}

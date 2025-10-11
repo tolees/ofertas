@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Lavar a mano
 - Construcción de lengüeta regular que se adapta a varias formas de pie
+- Lavar a mano
 - Ajuste regular a estrecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})

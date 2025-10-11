@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estilo clásico clásico mini me
 - Loops de encaje cuadrado único disruptor
 - Zapatillas Bulky
+- Estilo clásico clásico mini me
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07NPRGCX5{{</world>}}

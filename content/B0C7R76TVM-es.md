@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Grandes asas para una sujeción segura y cómoda al levantar y transportar la cacerola, incluso con guantes de horno, interior esmaltado claro
+- Contenido: 1 x evolution cocotte redonda de hierro fundido con tapa, capacidad: 6, 7 l, material: hierro fundido esmaltado, dimensiones: 37, 7 x 29, 7 x 18, 4 cm, peso: 6,125 kg, color: nectar, 21177286724430
 - Distribución uniforme del calor, cocina eficiente gracias a su construcción de hierro fundido, todo tipo de fuentes de calor (incluido inducción) y horno
 - Fácil de lavar a mano o en lavavajillas, tapa de hierro fundido con pomo de acero inoxidable resistente al calor
 - Cacerola redonda de hierro fundido para guisar y asar carne o verduras, optimo para preparar guisos y sopas u hornear pan
-- Contenido: 1 x evolution cocotte redonda de hierro fundido con tapa, capacidad: 6, 7 l, material: hierro fundido esmaltado, dimensiones: 37, 7 x 29, 7 x 18, 4 cm, peso: 6,125 kg, color: nectar, 21177286724430
+- Grandes asas para una sujeción segura y cómoda al levantar y transportar la cacerola, incluso con guantes de horno, interior esmaltado claro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C7R76TVM{{</world>}}

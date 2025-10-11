@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Alcance de suministro: 1x SONAX XTREME Polish+Wax 2 Hybrid NPT (500 ml) | No de artículo 02072000-544
 - Mediante la adaptación óptima de los cuerpos de pulido extremadamente finos con la innovadora tecnología Hybrid NetProtection se consigue un brillo profundo reflectante, una renovación intensa del color y un sellado permanente con un efecto a largo plazo. En la tecnología Hybrid NPT se combinan componentes inorgánicos y orgánicos especiales para formar una red estable y resistente a la intemperie
 - Pulimento protector con efecto de pulido medio para pinturas nuevas, ligeramente desgastadas y mantenidas regularmente. Elimina rayas finas (p. ej. de las bandas del cepillo de lavado) y el matizado del brillo
-- Alcance de suministro: 1x SONAX XTREME Polish+Wax 2 Hybrid NPT (500 ml) | No de artículo 02072000-544
 - Protección y cuidado del automóvil. SONAX pasión por los coches - made in Germany
 - La superficie impresiona con una lisura suave, un brillo profundo y brillante y un notable efecto de perlado del agua: También se puede aplicar el producto con una pulidora
 

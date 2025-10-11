@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Placa gigabyte b450 aorus elite v2,amd,am4,b450,4ddr4,128gb,dvi hdmi,gblan,6sata3,2xm.2,6usb3.1,atx
-- Brand: Gigabyte Technology
-- Alta calidad
-- ¡ATENCIÓN! ¡Compruebe en el sitio web del fabricante si sus componentes (memorias RAM, procesador) son compatibles con esta placa base antes de comprarla!
 - Diseno funcional
+- Brand: Gigabyte Technology
+- Placa gigabyte b450 aorus elite v2,amd,am4,b450,4ddr4,128gb,dvi hdmi,gblan,6sata3,2xm.2,6usb3.1,atx
+- ¡ATENCIÓN! ¡Compruebe en el sitio web del fabricante si sus componentes (memorias RAM, procesador) son compatibles con esta placa base antes de comprarla!
+- Alta calidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08K15DV9M{{</world>}}

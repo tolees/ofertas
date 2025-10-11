@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Soporte metálico con ruedas para ordenadores cpu o torres
 - Base regulable para cpus de distintos anchos (entre 119 y 209 mm)
+- Soporte metálico con ruedas para ordenadores cpu o torres
 - Dispone de 4 ruedas giratorias (2 de ellas con freno de bloqueo)
 - Soporta una carga máxima de 10 kg
 

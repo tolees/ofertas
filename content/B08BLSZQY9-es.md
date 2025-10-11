@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Combínalas con tus vaqueros favoritos para un look sencillo y clásico
 - Deportivas básicas y sencillas
+- Combínalas con tus vaqueros favoritos para un look sencillo y clásico
 - Con forro de malla reciclada
 
 [🛒 Comprar!!!]({{< param buyurl >}})

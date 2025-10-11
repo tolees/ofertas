@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cierre: Cremallera
-- Skinny
 - Recomendamos adquirir la talla más grande
+- Skinny
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00O5LJFWE{{</world>}}

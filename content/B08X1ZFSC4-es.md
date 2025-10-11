@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Tomar 1 cápsula al día, por la mañana, durante el desayuno. Programa para 30 días, renovable.
 - EXPERT HIALURÓNICO INTENSE nutricosmético antiedad, que contribuye a hidratar, reafirmar y a alisar la piel.
+- Los complementos alimenticios no deben utilizarse como sustituto de una dieta variada y equilibrada y un modo de vida saludable. No sobrepase la dosis diaria recomendada. Este producto debe mantenerse fuera de la vista y del alcance de los niños. Desaconsejado en mujeres embarazadas o en periodo de lactancia y en niños menores de 12 años. Si toma medicamentos o padece dolencias crónicas, inicie la toma de este producto solamente con la recomendación de su médico o farmacéutico.
 - Para hidratar y reafirmar la piel. Para un resultado óptimo sobre la piel, Expert Hialurónico Intense se puede asociar a Expert Colágeno Intense.
 - Su fórmula concentrada en activos hidratantes y reafirmantes, con ácido hiarulónico (300mg) esta reforzada con vitamina C, A, y E y Selenio para una mayor protección antioxidante, y mantiene la piel en condiciones normales. Sin gluten, sin huevo, sin lactosa y sin azúcares añadidos.
-- Los complementos alimenticios no deben utilizarse como sustituto de una dieta variada y equilibrada y un modo de vida saludable. No sobrepase la dosis diaria recomendada. Este producto debe mantenerse fuera de la vista y del alcance de los niños. Desaconsejado en mujeres embarazadas o en periodo de lactancia y en niños menores de 12 años. Si toma medicamentos o padece dolencias crónicas, inicie la toma de este producto solamente con la recomendación de su médico o farmacéutico.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08X1ZFSC4{{</world>}}

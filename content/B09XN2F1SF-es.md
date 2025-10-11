@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Máscara resistente al agua
-- Máscara de pestañas de Clean de Bourjois
-- Fórmula vegana, compuesta por un 99% de ingredientes de origen natural
 - Aporta longitud y definición para un acabado natural e impecable
+- Fórmula vegana, compuesta por un 99% de ingredientes de origen natural
+- Máscara de pestañas de Clean de Bourjois
+- Máscara resistente al agua
 - Óptima fijación sin grumos y sin manchas mientras nutre tus pestañas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

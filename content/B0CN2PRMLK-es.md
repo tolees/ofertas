@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La siguiente información se aplica a cada unidad del paquete
-- Hasta 4 años de garantía previo registro en la página web de Osram
 - Dura hasta cuatro veces más que las lámparas halógenas estándares (hasta 100.000 km funcionando).
-- Disfrute del moderno diseño de lámpara combinado con la máxima calidad del fabricante.
-- Especialmente diseñada para conductores profesionales y habituales que utilizan luz permanente, y con certificación ECE.
-- 以下の情報は単品あたりの情報です。
 - ULTRA LIFE de OSRAM: Convence por su larga vida útil y por la luminosidad.
+- Especialmente diseñada para conductores profesionales y habituales que utilizan luz permanente, y con certificación ECE.
+- Hasta 4 años de garantía previo registro en la página web de Osram
+- 以下の情報は単品あたりの情報です。
+- Disfrute del moderno diseño de lámpara combinado con la máxima calidad del fabricante.
+- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CN2PRMLK{{</world>}}

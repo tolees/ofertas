@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Modalidad Atleta: reparámetra los datos considerando las variables en caso de actividad deportiva
 - Modo niño: se activa automáticamente para niños menores de 12 años
 - 4 g de sensor: detección inmediata del peso corporal, pantalla LCD grande, visible, diseño delgado, soporta hasta 180 kg
 - Mediciones de hasta 12 usuarios
+- Modalidad Atleta: reparámetra los datos considerando las variables en caso de actividad deportiva
 - Body analyzer: medida de agua corporal, masa muscular y masa grasa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pieza de recambio para bicicleta
 - Fácil de cambiar
+- Pieza de recambio para bicicleta
 - Material resistente y duradero
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Franja característica PUMA en los lados lateral y medial
 - Detalles de la marca PUMA en la parte superior, el talón y la lengüeta.
 - Entresuela de goma
 - Parte superior de cuero sintético
+- Franja característica PUMA en los lados lateral y medial
 - Suela de goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

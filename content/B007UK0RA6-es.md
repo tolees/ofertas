@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Capacidad de 32 GB
 - Memoria USB
+- Capacidad de 32 GB
 - Negro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Contenido: 4 tubos de ensayo y 4 tapones,1 soporte,1 pinza,1 pipeta, 20 papeles pH, 1 escala de pH, 1 vasito, 1 vaso grande, 1 cuchara medidora, 1 agitador, 1 jeringa, 1 embudo, 1 globo, gafas protectoras, 1 bobina, 1 lupa, 2 placas de Petri, 30 g de bicarbonato, 10 cables de burbujas, Papel de filtro
-- Folleto ilustrado en color
 - A partir de los 8 anos
+- Folleto ilustrado en color
 - 75 experimentos de química sin productos químicos y por lo tanto, sin peligro - Realizar experimentos divertidos y científicos solamente con productos habituales como la sal, el vinagre, la harina
 
 [🛒 Visítala!!!]({{< param buyurl >}})

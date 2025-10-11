@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Paquete de 5 cuadernos con color de tapa aleatorio: rojo, verde, naranja, rosa, turquesa y morado
+- Espiral simple negra, gira las páginas 360º cómodamente
 - Formato Fº
 - 80 hojas con cuadrícula 4mm x 4mm con margen
-- Espiral simple negra, gira las páginas 360º cómodamente
 - Tapa dura, resistente y ligera
 
 [🛒 Visítala!!!]({{< param buyurl >}})

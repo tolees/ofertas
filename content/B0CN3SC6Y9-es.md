@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Combinación superior de malla impermeable/cuero. Construcción de botines de membrana Omni-Tech impermeable y transpirable con costuras selladas
 - Nota: los cordones y cremalleras incorporados en el calzado Columbia Sportswear Company no son impermeables.
-- Entresuela ligera Techlite para una amortiguación superior de larga duración y alto retorno de energía
+- Combinación superior de malla impermeable/cuero. Construcción de botines de membrana Omni-Tech impermeable y transpirable con costuras selladas
 - Goma de tracción Omni-Grip que no deja marcas
+- Entresuela ligera Techlite para una amortiguación superior de larga duración y alto retorno de energía
 - Forro reflectante Omni-Heat
 
 [🛒 Comprar!!!]({{< param buyurl >}})

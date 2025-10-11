@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con pelos intercambiables y pequeños accesorios relacionados con su cuento
 - Set de figuras de Pinocho y Peter Pan
+- Con pelos intercambiables y pequeños accesorios relacionados con su cuento
 - Cada figura lleva un sombrero textil
 - Juguete para niños y niñas a partir de 4 años
 

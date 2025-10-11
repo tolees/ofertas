@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fabricado con algodón orgánico
 - JACK & JONES apoya la iniciativa Better Cotton usando algodón orgánico o reciclado
+- Fabricado con algodón orgánico
+- Manga larga
 - Camisa para hombre en tallas grandes de la marca danesa JACK & JONES Plus
 - Durabilidad con material sostenible
-- Manga larga
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09JSMRJC8{{</world>}}

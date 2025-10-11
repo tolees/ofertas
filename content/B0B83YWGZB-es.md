@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Abertura trasera en el bajo
-- Fit: Slim
 - Cuello alto
-- Manga larga
+- Fit: Slim
 - Estampado de flores arty
+- Abertura trasera en el bajo
+- Manga larga
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B83YWGZB{{</world>}}

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- JACK & JONES apoya la iniciativa Better Cotton usando algodón orgánico o reciclado
-- Características: cremallera, pierna doblada con costuras decorativas, costuras en los bolsillos oblicuos, bolsillos para el glúteo, logotipo de piel
-- Durabilidad con material sostenible
 - Composición del material: 98 % algodón, 2 % elastano
+- Características: cremallera, pierna doblada con costuras decorativas, costuras en los bolsillos oblicuos, bolsillos para el glúteo, logotipo de piel
 - Bragueta de botones
 - Pantalones chinos de corte estándar
+- Durabilidad con material sostenible
+- JACK & JONES apoya la iniciativa Better Cotton usando algodón orgánico o reciclado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09TPL8KY5{{</world>}}

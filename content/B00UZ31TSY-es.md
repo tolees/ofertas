@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Producto de la marca WMF
 - Alta calidad
 - Cortador pizza profi plus wmf
-- Producto de la marca WMF
 - Diseño funcional
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

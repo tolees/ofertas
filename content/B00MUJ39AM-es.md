@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Herramienta manual
 - Adecuado para uso profesional
 - Mango ergonómico
+- Herramienta manual
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00MUJ39AM{{</world>}}

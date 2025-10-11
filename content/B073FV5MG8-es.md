@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- objetivo equipado con el motor regulador de torsión HLD – potencia y estabilidad
-- Di - óptica digital para formato completo
 - Óptica digital con distancia focal variable ultra-gran-angular para cámaras DSLR con sensor Full Frame 24x36
+- Di - óptica digital para formato completo
+- Nueva construcción óptica que incluye lentes LD (Low Dispersion) y dos elementos XLD (eXtra Low Dispersion). Revestimiento BBAR (Broad-Band Anti-Reflection)
 - VC - estabilización de imagen con función shift
 - Compatible con la TAMRON TAP-in ConsoleTM
-- Nueva construcción óptica que incluye lentes LD (Low Dispersion) y dos elementos XLD (eXtra Low Dispersion). Revestimiento BBAR (Broad-Band Anti-Reflection)
+- objetivo equipado con el motor regulador de torsión HLD – potencia y estabilidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B073FV5MG8{{</world>}}

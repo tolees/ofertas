@@ -31,8 +31,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - Lattafa Asad Zansibar Eau de Parfum unisex, 100 ml
 - Notas base: vainilla e incienso.
 - Notas medianas: agua de coco salada e iris.
-- Notas principales: pimienta negra y lavanda marina.
 - Apto para todas las estaciones.
+- Notas principales: pimienta negra y lavanda marina.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CWPS2CJS{{</world>}}

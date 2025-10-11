@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Parte superior de cuero y material mixto
-- Cierre de cordones
 - PUMA Detalles de la marca
+- Cierre de cordones
+- Parte superior de cuero y material mixto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D2KVW7HR{{</world>}}

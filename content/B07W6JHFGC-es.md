@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Control de temperatura de planchado.
-- Potencia: 900 W.
-- Indicador de funcionamiento.
-- Placa de aluminio.
-- Peso de 1,6 kg para planchar cada arruga.
 - Requisitos de energía: AC 230V ~ 50Hz
+- Peso de 1,6 kg para planchar cada arruga.
+- Indicador de funcionamiento.
+- Potencia: 900 W.
+- Placa de aluminio.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07W6JHFGC{{</world>}}

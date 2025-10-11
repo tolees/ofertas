@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de detalle: pantalones chinos
 - Composición del material: 98% algodón, 2% elastano
 - Cierre: bragueta con cremallera
 - Cintura: altura normal de la cintura
+- Tipo de detalle: pantalones chinos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BRNPHGK5{{</world>}}

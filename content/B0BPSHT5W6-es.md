@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Calcetines cortos tobilleros
 - Producto adecuado para actividades deportivas
 - Detalles distintivos de la marca
-- Calcetines cortos tobilleros
 - Fabricados en parte con materiales reciclados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

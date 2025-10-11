@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tipo de tacón: Plano
 - Material exterior: Sintético
+- Tipo de tacón: Plano
 - Cierre: Cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

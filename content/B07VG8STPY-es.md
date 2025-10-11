@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Two-button closure
+- Tipo de deporte: ropa de deportes atléticos
 - Soft fabric
 - Regular fit
-- Tipo de deporte: ropa de deportes atléticos
-- Two-button closure
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07VG8STPY{{</world>}}

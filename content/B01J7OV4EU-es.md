@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cook in app: aplicación para smartphone / tablet que proporciona consejos, trucos, recetas y información sobre los alimentos
+- Función eco: apagado del display
 - Eliminación del sonido de los pulsadores y aviso final de cocción
 - 40 programas automáticos: el microondas te recomendará el tiempo y la potencia de cocción de todos tus platos
 - Plato giratorio de grandes dimensiones (24,5 cm)
-- Función eco: apagado del display
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01J7OV4EU{{</world>}}

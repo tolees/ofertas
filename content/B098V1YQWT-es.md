@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Una experiencia única
+- Personajes variados con una historia interesante
 - Accesible para todos
 - Excelentes gráficos
-- Una experiencia única
 - Obtendras mucha diversión
-- Personajes variados con una historia interesante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B098V1YQWT{{</world>}}

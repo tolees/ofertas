@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ofrecen una comodidad óptima
 - Tul transparente en la parte superior
+- Ofrecen una comodidad óptima
 - Con tejido suave y ligero
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cada una de ellas lleva un mensaje en inglés en su portada
 - Incluye una hoja de pegatinas
-- Set de 3 libretas A5, con encuadernación en espiral
 - Con tapa dura y 80 hojas de papel de 80 gr.
+- Set de 3 libretas A5, con encuadernación en espiral
+- Cada una de ellas lleva un mensaje en inglés en su portada
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C62KG3RZ{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Perfecto para fiestas, cumpleaños, aniversarios, regalos de empresa, cestas de regalo
 - SATISFACCIÓN GARANTIZADA – En Té Tonic estamos tan seguros de que nuestras infusiones y botánicos te van a encantar que, si no quedas satisfecho con tu compra, te devolvemos tu dinero
-- Combinación de frutas, especias y botánicos que crean sabores diferentes, frescos y excepcionales
+- Perfecto para fiestas, cumpleaños, aniversarios, regalos de empresa, cestas de regalo
 - Pack con 6 infusiones distintas para aromatizar y maridar con alcoholes destilados
 - El regalo perfecto para los amantes de los cócteles y en del Gin & Tonic
+- Combinación de frutas, especias y botánicos que crean sabores diferentes, frescos y excepcionales
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01MFX33N3{{</world>}}

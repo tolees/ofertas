@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre con cordones
-- Con detalles distintivos de la marca
 - Puntera reforzada
+- Cierre con cordones
 - Parche con logotipo en la lengüeta
+- Con detalles distintivos de la marca
 - Parte superior en ante y nailon
 - Tobillo y lengüeta acolchados
 

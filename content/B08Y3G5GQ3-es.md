@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Rib en puños y bajo
 - Chándal de dos piezas formado por chaqueta con cuello alto y pantalón largo con bolsillos y cintura elástica ajustable. Logotipo estampado.
-- Chaqueta con cremallera
-- Tipo de fábrica: 100 % Poliéster
+- Rib en puños y bajo
 - Pantalón con cordones
+- Tipo de fábrica: 100 % Poliéster
+- Chaqueta con cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08Y3G5GQ3{{</world>}}

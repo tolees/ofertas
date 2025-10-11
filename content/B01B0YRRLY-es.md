@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Seis niveles de dorado ajustables
-- La rejilla para panecillos no debe utilizarse para calentar panecillos congelados, engrasados, rebozados, glaseados o rellenos.
-- Accesorio para panecillos y bandeja para migas;
-- Dos ranuras para tostadas extra anchas
-- Botón de parada, función de descongelación, función de calentamiento
-- La tostadora se coloca sobre la tostadora con los pies en las aberturas.
 - Centrado automático del pan
+- Dos ranuras para tostadas extra anchas
+- La rejilla para panecillos no debe utilizarse para calentar panecillos congelados, engrasados, rebozados, glaseados o rellenos.
+- Seis niveles de dorado ajustables
+- La tostadora se coloca sobre la tostadora con los pies en las aberturas.
 - Pinzas tostadas integradas
+- Accesorio para panecillos y bandeja para migas;
+- Botón de parada, función de descongelación, función de calentamiento
 - NOTA: consulte las guías y los documentos del producto para obtener más información.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

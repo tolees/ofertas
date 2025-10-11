@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello redondo
 - El diseño otorga libertad a los movimientos
-- Tecnología Dri-Fit
 - Ajuste regular
+- Cuello redondo
+- Tecnología Dri-Fit
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07WC6J18D{{</world>}}

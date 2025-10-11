@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Envejecido en barril en pequeñas cantidades durante dieciocho meses, ofrece una experiencia de degustación redonda y compleja
-- Don Julio Añejo es fruto de la maestría artesanal en la elaboración de un tequila envejecido, interpretando de forma óptima el equilibrio entre agave, madera y toques de vainilla
-- Tequila maduro aromatizado con caramelo y agave, de sabor rico y distintivo
 - Ofrece ricas notas de frutos rojos y caramelo, además de un final ligeramente picante
 - Disfruta de este tequila solo o con hielo o en un Old Fashioned: Don Julio Añejo, un toque de sirope de arce y tres gotas de chocolate sobre un esférico de hielo hecho con agua de coco
+- Tequila maduro aromatizado con caramelo y agave, de sabor rico y distintivo
 - Don Julio nace del amor por la familia, la tierra y los agaves de su fundador, Don Julio González, quien revolucionó el mundo del tequila dedicando 45 años a perfeccionar su oficio y técnicas pioneras; fruto de la pasión y la lealtad, Don Julio es un tequila muy apreciado por los expertos
+- Don Julio Añejo es fruto de la maestría artesanal en la elaboración de un tequila envejecido, interpretando de forma óptima el equilibrio entre agave, madera y toques de vainilla
+- Envejecido en barril en pequeñas cantidades durante dieciocho meses, ofrece una experiencia de degustación redonda y compleja
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B005J0PG7I{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Monedero extraíble
-- Cocodrilo metal níquel brillante
 - Dimensiones: 35 x 30 x 14 cm
 - Exterior en PVC
+- Monedero extraíble
+- Cocodrilo metal níquel brillante
 - Reversible, bicolor
 
 [🛒 Comprar!!!]({{< param buyurl >}})

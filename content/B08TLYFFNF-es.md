@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalones cortos || Merch para fans y divertido || Patrón: Liso
 - Pantalones cortos con las siguientes características:
 - Ropa de Calle
+- Pantalones cortos || Merch para fans y divertido || Patrón: Liso
 - Descubre todas las marcas de EMP!
 - Medidas: tamaño estándar
 

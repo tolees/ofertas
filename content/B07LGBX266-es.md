@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Función de espuma viscoelástica
 - Resistente al agua
+- Función de espuma viscoelástica
 - Suela ligera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

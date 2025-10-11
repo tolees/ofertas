@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Resto textil
-- Tipo de fábrica: Poliéster
 - Chaquetas
+- Tipo de fábrica: Poliéster
 - Berna capucha marino
 
 [🛒 Visítala!!!]({{< param buyurl >}})
