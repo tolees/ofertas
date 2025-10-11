@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Altos De Tamaron - Condado de Oriza 409 D.O. Ribera del Duero 750 ml'
+date: 2025-09-05 18:04:58
+image: 'https://m.media-amazon.com/images/I/31QdnYNLkQL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B01N40QAUH-es Altos De Tamaron - Condado de Oriza 409 D.O. Ribera del...'
+sku: 'B01N40QAUH-es'
+tags: [ 'Alimentación y bebidas','Arborist Merchandising Root','Cervezas, vinos y licores','Promociones en Vino_1','Self Service','Special Features Stores','Vinos','Vinos Premium','Vinos tintos','altos de tamaron','dd53b5bc-bcd1-4c9b-ab43-793ed912ccdd_0','dd53b5bc-bcd1-4c9b-ab43-793ed912ccdd_201','dd53b5bc-bcd1-4c9b-ab43-793ed912ccdd_6701','dd53b5bc-bcd1-4c9b-ab43-793ed912ccdd_8701','experiences','🇪🇸', ]
+actualPrice: 6.52 EUR
+currency: EUR
+price: 6.52
+comparePrice: 11.53 EUR
+prodname: 'Altos De Tamaron - Condado de Oriza 409 D.O. Ribera del Duero 750 ml'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Altos De Tamaron'
+buyurl: 'https://www.amazon.es/dp/B01N40QAUH/?tag=tolees-21'
+descuento: '43.45'
+average: '8.27380000000001'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Maridaje perfecto con asados, quesos y tapas
+- Servir entre 16-17ºC
+- Vino Tinto Autor DO Ribera del Duero
+- Color rojo rubí brillante con matices violáceos. Aromas a moras y arándanos con sutiles notas a tostados y especias fruto del uso elegante del roble de la barrica. En boca abundantes taninos suaves y redondeados, acidez bien integrada y complejo
+- 409 días de crianza en barrica de roble francés
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B01N40QAUH{{</world>}}
