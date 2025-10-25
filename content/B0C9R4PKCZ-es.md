@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tecnología Dri-FIT
 - Ajuste estándar
+- Tecnología Dri-FIT
 - Cintura elástica
 
 [🛒 Comprar!!!]({{< param buyurl >}})

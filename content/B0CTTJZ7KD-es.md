@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste cómodo
-- Material transpirable
 - Regular Fit
-- 100% algodón
 - Ropa de aventura para todos los días
+- Ajuste cómodo
+- 100% algodón
+- Material transpirable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CTTJZ7KD{{</world>}}

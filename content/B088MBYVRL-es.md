@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Espátula resistente al calor hasta 270 grados
 - Fabricadas con acero inoxidable Cromargan 18/10, un tipo de aleación patentada por WMF, que la hace robusta, resistente al rayado y fácil de cuidar
 - Capacidad: 3.1 litros
-- Espátula resistente al calor hasta 270 grados
 - Base TransTherm, para ofrecer un reparto óptimo del calor; apta para todo tipo de cocinas, incluida la de inducción
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Brand Details
 - Elastic Waist
+- Brand Details
 - Comfort
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

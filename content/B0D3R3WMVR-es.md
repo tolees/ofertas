@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Libreta A4 con interior a cuadros
-- Cuenta con 5 divisores internos con pestaña
 - Con 160 páginas
+- Cuenta con 5 divisores internos con pestaña
+- Libreta A4 con interior a cuadros
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D3R3WMVR{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material interior: sintético
-- Material exterior: sintético
 - Forma del tacón: plataforma
 - Ancho del zapato: estrecho
+- Material interior: sintético
+- Material exterior: sintético
 - Cierre: goma
 
 [🛒 Visítala!!!]({{< param buyurl >}})

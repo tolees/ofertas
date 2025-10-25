@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Amplia Compatibilidad: Cargador 100 W puede cargar sus dispositivos a toda velocidad y ahorrarle tiempo, compatible con MacBook, Vivobook 15.6, HP Spectre, Huawei MateBook, iPad Pro/Air y tabletas, iPhone 17/ iPhone 17 Air/ iPhone 17 Pro/ iPhone 17 Pro Max Serie 12-16, AirPods, MagSafe y Galaxy series, Huawei MATE series, Xiaomi, Redmi, Google Pixel 8/7, Steam Deck
 - Carga Rápida Simultánea: Los puertos USB-C (C1 y C2) brindan una potencia total de 100W cuando se usan solos, ofrece una potencia para su ordenador portátil (65 W) y móvil (30 W) cuando ambos puertos USB-C (C1 y C2) se usan juntos, y los puertos de tres salidas brindan carga simultánea de 45W + 30W + 22,5W a 3 dispositivos. El puerto USB-A admite hasta 22,5 W cuando se usa solo, admite carga rápida Huawei SCP.
 - Cargador Ugreen 100W: 100w charger admite protocolos de carga rápida PD 3.0/2.0, PPS, Galaxy Super Fast Charging, QC 4+/4.0/3.0/2.0 y SCP para compatibilidad con una variedad de dispositivos.
 - 4 En 1 Cargador: UGREEN cargador USB C con 4 puertos (3 USB C y 1 USB A) admita una salida total de hasta 100 W, compatible con casi todos los dispositivos. Carga 4 dispositivos simultáneamente y evita cables enredados, perfecto para uso doméstico y laboral.
-- Amplia Compatibilidad: Cargador 100 W puede cargar sus dispositivos a toda velocidad y ahorrarle tiempo, compatible con MacBook, Vivobook 15.6, HP Spectre, Huawei MateBook, iPad Pro/Air y tabletas, iPhone 17/ iPhone 17 Air/ iPhone 17 Pro/ iPhone 17 Pro Max Serie 12-16, AirPods, MagSafe y Galaxy series, Huawei MATE series, Xiaomi, Redmi, Google Pixel 8/7, Steam Deck
 - Seguro y Confiable: UGREEN cargador USB C equipado con un chip inteligente para proteger sus dispositivos de cortocircuitos, sobretensiones, sobrecalentamientos y sobrecorrientes. La gran resistencia al fuego UL94-V0 y la robusta carcasa para PC garantizan una carga rápida y segura.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

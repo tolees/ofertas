@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Sensor óptico de gran precisión - 4 niveles de DPI (800 - 3200)
+- Iluminación LED de varios colores - 7 botones
 - Dimensiones: 125 x 68 x 38 mm
 - Compatibilidad Windows 7/8.1/10
-- Sensor óptico de gran precisión - 4 niveles de DPI (800 - 3200)
 - RATÓN GAMING KROM KALAX 3200 DPI 7 COLORES LED
-- Iluminación LED de varios colores - 7 botones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09G73PLTF{{</world>}}

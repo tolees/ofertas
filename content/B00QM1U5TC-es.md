@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se encuentra en un momento óptimo de consumo, pero se desarrollará favorablemente en botella los próximos tres o cuatro años
 - La sensación en boca es sedosa, con un largo y elegante final
-- Varietales: Cabernet Sauvignon, Tempranillo, Merlot y Syrah
-- Aromas intensos a frutas rojas y negras, con predominio de cerezas, ciruelas y arándanos acompañados de notas especiadas, anisadas, chocolate y torrefactos
+- Se encuentra en un momento óptimo de consumo, pero se desarrollará favorablemente en botella los próximos tres o cuatro años
 - Color rojo picota brillante e intenso, con reflejos púrpura
+- Aromas intensos a frutas rojas y negras, con predominio de cerezas, ciruelas y arándanos acompañados de notas especiadas, anisadas, chocolate y torrefactos
+- Varietales: Cabernet Sauvignon, Tempranillo, Merlot y Syrah
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00QM1U5TC{{</world>}}

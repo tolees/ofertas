@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Corte entallado
 - Cuello redondo
+- Punto 100% algodón
 - Manga corta
 - Un clásico que no debe faltar en tu armario
-- Punto 100% algodón
-- Corte entallado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08SKW6GCL{{</world>}}

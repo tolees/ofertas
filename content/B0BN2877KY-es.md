@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Este producto es un juego de investigación y aventuras
-- Pueden participar entre 1 y 4 jugadores, a partir de 12 años
 - Una aventura gráfica en tu mesa de juego
+- Pueden participar entre 1 y 4 jugadores, a partir de 12 años
+- Este producto es un juego de investigación y aventuras
 - Se desarrolla en tres sesiones de juego que duran entre 75 y 90 minutos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

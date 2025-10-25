@@ -28,16 +28,16 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- con la garantía de calidad de Hawaiian Tropic
-- Mezcla irresistible de frutas tropicales y vitaminas C y e
-- Formato Loción: 180 ml
-- Resistente al agua
+- Protección contra los rayos UVA / UVB
 - Recomendado por la Asociación Contra el Cáncer de Piel
 - Crema solar protectora apta para todo tipo de pieles
-- Protección Alta: SPF 30
 - Fórmula “Ultra Radiance” con un triple enriquecimiento para la piel: protege, suaviza, deja la piel rica y radiante
 - Proporciona antioxidantes que nutren la piel, una textura ligera y un aroma tropical a coco
-- Protección contra los rayos UVA / UVB
+- Formato Loción: 180 ml
+- Protección Alta: SPF 30
+- Resistente al agua
+- con la garantía de calidad de Hawaiian Tropic
+- Mezcla irresistible de frutas tropicales y vitaminas C y e
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01D9RP6QS{{</world>}}

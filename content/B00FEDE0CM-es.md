@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Memoria interna, programable, 12 botones, 4 ejes, conexión USB
-- Reposamanos, gatillo de freno, botón de mapeo (intercambios de comandos entre ellos)
 - Configuraciones predeterminadas: simulador de vuelo X y Blazing Angels, Plug and Play, base ponderada
+- Reposamanos, gatillo de freno, botón de mapeo (intercambios de comandos entre ellos)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00FEDE0CM{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fit: Regular
-- Escote pico
 - Estampado digital con flores desenfocadas
 - Largo: Corto
+- Escote pico
+- Fit: Regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B846V7WH{{</world>}}

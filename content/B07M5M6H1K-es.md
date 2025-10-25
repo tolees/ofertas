@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cintura de canalé con cordón ajustable
-- Logotipos en la parte delantera y trasera
 - Pantalón corto
+- Logotipos en la parte delantera y trasera
 - Con dos bolsillos abiertos para las manos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Harry Potter - Mando inalámbrico con cable de 1M - El legado de Hogwarts
-- 4 indicadores LED
 - Doble motor de vibración y ontrol de movimiento (giroscopio)
-- Juega y carga simultáneamente con el cable USB-C incluido (1M de longitud)
+- 4 indicadores LED
 - Batería de 600 mAh. Duración de la batería 6~8 H.
+- Juega y carga simultáneamente con el cable USB-C incluido (1M de longitud)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BVGMJV7W{{</world>}}

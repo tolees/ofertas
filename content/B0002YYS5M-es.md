@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Profundidad mín. del agujero: 60 [mm]
 - Grosor mín. panel: 9 5 [mm]
-- Tornillo rosca madera de/hasta: 4 - 5 [mm]
 - Longitud de anclaje: 50 [mm]
 - Fijaciones de lavabosdiámetro de agujero: 6 [mm]
+- Profundidad mín. del agujero: 60 [mm]
+- Tornillo rosca madera de/hasta: 4 - 5 [mm]
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0002YYS5M{{</world>}}

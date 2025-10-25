@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Irresistible sabor a cola
 - Deliciosas piezas en forma de cola recubiertas de pica
 - Caramelos de goma
+- Irresistible sabor a cola
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C1HH1KPM{{</world>}}

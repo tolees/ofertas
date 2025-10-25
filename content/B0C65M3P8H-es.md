@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Procesador Intel Core i5-1235U (10C/DecaCore 4.4GHz, 12MB)
 - Almacenamiento de 512GB SSD M.2 NVMe PCIe
-- Pantalla de 14" Full HD 1920 x 1080 pixeles LCD 250 nits
 - Tarjeta gráfica integrada Intel Iris Xe Graphics
+- Pantalla de 14" Full HD 1920 x 1080 pixeles LCD 250 nits
+- Procesador Intel Core i5-1235U (10C/DecaCore 4.4GHz, 12MB)
 - Memoria RAM de 16GB SO-DIMM DDR4
 - Sistema Operativo: Windows 11 Pro
 

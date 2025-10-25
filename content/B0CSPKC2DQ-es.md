@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte entallado
 - Estilo de talle bajo
+- Corte entallado
 - Fabricado con lavado más sabio para garantizar un uso responsable del agua
 
 [🛒 Visítala!!!]({{< param buyurl >}})

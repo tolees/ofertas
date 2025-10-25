@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Memoria RAM de 16GB DDR4 SDRAM
 - Procesador Intel Core i5-1135G7 (4C/Quadcore 2.40GHz)
-- Pantalla de 14", FullHD 1920 x 1080 pixeles
-- Almacenamiento de 512GB SSD PCI Express
+- Memoria RAM de 16GB DDR4 SDRAM
 - Tarjeta gráfica ‎Intel Iris Xe Graphics
+- Almacenamiento de 512GB SSD PCI Express
 - Sistema Operativo: Windows 10 Pro
+- Pantalla de 14", FullHD 1920 x 1080 pixeles
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09DGQJXW2{{</world>}}

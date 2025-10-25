@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Pernera cónica
 - Con trabillas para cinturón
 - Estilo de 5 bolsillos
-- Pernera cónica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D3J76D8T{{</world>}}

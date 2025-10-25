@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cada paquete incluye tres unidades
 - Detalles distintivos de la marca
 - Calcetines cortos tobilleros
+- Cada paquete incluye tres unidades
 - Adecuado para actividades deportivas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

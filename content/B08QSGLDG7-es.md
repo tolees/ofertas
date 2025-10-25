@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Ajuste delgado
-- Tecnología Dri-fit
 - Cinturón elástico
+- Tecnología Dri-fit
 - Adecuado para correr o para cualquier otra actividad deportiva
 
 [🛒 Visítala!!!]({{< param buyurl >}})

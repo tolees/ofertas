@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Utilizado como casual
-- Punta redonda
 - No es resistente al agua
+- Punta redonda
+- Utilizado como casual
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C33PG7ZG{{</world>}}

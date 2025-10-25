@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Inspirado en nuestro popular Scout Duffle, este neceser de viaje en miniatura es robusto y resistente al agua
-- Exterior: 100% poliéster, 100% cloruro de polivinilo
 - El Scout, un neceser de viaje clásico, está fabricado con poliéster 600D resistente con una membrana de TPU impermeable; la membrana reduce la posibilidad de fugas en situaciones en las que tu equipaje recibe una paliza; hemos añadido un bolsillo interior de malla para los objetos más pequeños; un lazo para colgar permite enganchar la bolsa de aseo donde esté más a mano
+- Exterior: 100% poliéster, 100% cloruro de polivinilo
+- Inspirado en nuestro popular Scout Duffle, este neceser de viaje en miniatura es robusto y resistente al agua
 - Artículos entregados: 1x Helly Hansen Unisex Neceser Scout HH,STD,Negro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

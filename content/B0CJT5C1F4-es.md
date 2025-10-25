@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Artículo de marca Under Armour
 - Los zapatos pueden combinar con multitud de conjuntos
+- Artículo de marca Under Armour
 - Presentan detalles distintivos de la marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})

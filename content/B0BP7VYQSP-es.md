@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Forro textil
 - Cierre de cordones
 - Parte de malla con refuerzos sintéticos para una adecuado resistencia al desgaste
-- Forro textil
 - Horma clásica
 
 [🛒 Visítala!!!]({{< param buyurl >}})

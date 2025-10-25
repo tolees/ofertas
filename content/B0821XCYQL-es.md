@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Modo de empleo: Tomar 1 vial al día, con la comida durante 4 semanas. Se recomienda repetir varias veces al año
 - El selenio contribuye al mantenimiento del cabello y uñas en condiciones normales, además de proteger a las células frente al daño oxidativo (1). Por otro lado, el extracto de pepitas de uva mejora el aspecto de la piel (1)
-- La vitamina C contribuye a la formación normal de colágeno para el funcionamiento normal de la piel y protege a las células del daño oxidativo (1). Por otro lado, el zinc contribuye al mantenimiento de la piel, cabello y uñas en condiciones normales y protege a las células frente al daño oxidativo (1)
-- Fórmula completa a base de péptidos de colágeno (Peptan), ácido hialurónico, extracto de semillas de uva, vitamina C, selenio y zinc (1). Estos ingredientes activos contribuyen a mejorar el aspecto de la piel (1), con acción antiedad (1)
 - Vitanatur Collagen Antiaging es un complemento alimenticio con ingredientes especialmente seleccionados para ayudar mantener la piel en buen estado desde el interior (1)
+- La vitamina C contribuye a la formación normal de colágeno para el funcionamiento normal de la piel y protege a las células del daño oxidativo (1). Por otro lado, el zinc contribuye al mantenimiento de la piel, cabello y uñas en condiciones normales y protege a las células frente al daño oxidativo (1)
+- Modo de empleo: Tomar 1 vial al día, con la comida durante 4 semanas. Se recomienda repetir varias veces al año
+- Fórmula completa a base de péptidos de colágeno (Peptan), ácido hialurónico, extracto de semillas de uva, vitamina C, selenio y zinc (1). Estos ingredientes activos contribuyen a mejorar el aspecto de la piel (1), con acción antiedad (1)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0821XCYQL{{</world>}}

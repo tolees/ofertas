@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Respuesta rápida y fiable gracias al sistema cómodo de frenado con una sola mano
 - Manejo intuitivo, gracias al cómodo botón de frenado y a la empuñadura ergonómica
+- Respuesta rápida y fiable gracias al sistema cómodo de frenado con una sola mano
 - Made in Germany
 
 [🛒 Comprar!!!]({{< param buyurl >}})

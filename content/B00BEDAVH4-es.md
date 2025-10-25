@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Las dimensiones de 3 x 9 x 18 cm
 - Empresa francesa
-- Regalo ideal
 - Peso: 82 g
+- Regalo ideal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00BEDAVH4{{</world>}}

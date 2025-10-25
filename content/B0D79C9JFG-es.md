@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- No resistente al agua
 - Escote
 - en el tobillo
+- No resistente al agua
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D79C9JFG{{</world>}}

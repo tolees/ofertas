@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Complementa la alimentación habitual
-- Avena de cocción
 - Cereales para el desayuno
+- Avena de cocción
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00SX4T6Z0{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre de cordones
-- Suela Sprintplate 360 para césped natural seco/multisuperficie
 - Horma clásica
+- Suela Sprintplate 360 para césped natural seco/multisuperficie
+- Cierre de cordones
 - Lengüeta elástica
 - Empeine Fiberskin con estampado Sprintgrid
 

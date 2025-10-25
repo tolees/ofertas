@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apto para todo tipo de pieles.
 - Promueve la prolongación del bronceado.
+- Apto para todo tipo de pieles.
 - Hidrata intensamente la piel
 - Efecto calmante y refrescante: Calma, refresca y repara intensamente la piel tras la exposición solar devolviéndole su tersura y flexibilidad natural.
 

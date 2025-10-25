@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Para espacios pequeños
-- Capacidad: hasta 10 kg
 - Soporte de manguera
+- Capacidad: hasta 10 kg
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00VVLAFG6{{</world>}}

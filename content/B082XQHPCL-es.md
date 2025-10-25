@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- NOTA: Compruebe la compatibilidad del dispositivo y asegúrese de que esté instalado el firmware más reciente.
 - Construcción cómoda y ergonómica: el diseño ergonómico garantiza sesiones de juego intensas
+- NOTA: Compruebe la compatibilidad del dispositivo y asegúrese de que esté instalado el firmware más reciente.
 - Interruptores mecánicos con 60 millones de clics: precisión desde el primer hasta el último clic
 - Materiales hiperduraderos: fabricados con polímero ultrarresistente para una larga vida útil. Construcción de la base: plástico ABS
 - Sensor óptico TrueMove Core para juegos: seguimiento real de 1:1, 8500 CPI, 300 FPS, aceleración de 35 G

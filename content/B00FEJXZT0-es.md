@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aplicación: esta resina de poliéster se puede utilizar para anclar rejillas, puertas, pasamanos de escalera, consolas y tuberías, asegurando sujeción a materiales como hormigón, ladrillo y bloque de hormigón.
-- Contenido: 1 x Anclaje Químico Fis Pe 300 SF / Resina o Taco químico Poliéster en cartucho de 300 ml, mortero bicomponente, para fijaciones que no requieran homologación, de fischer.
-- Principales ventajas: solución económica para anclajes en mampostería sin homologación, puede utilizarse con pistolas de silicona estándar, sin equipamiento especial, contribuye a reducir costes de adquisición.
-- Modo de empleo: la resina de poliéster y el endurecedor están separados, se mezclan y activan al comprimirlos en el mezclador, el mortero se inyecta en la base del agujero, pega el elemento con la pared de la perforación y tapa.
 - Tecnología: la FIS P se utiliza con otros componentes como la varilla roscada FIS A, la varilla con roscado interno FIS E junto con el tamiz, es posible la reutilización de cartuchos gracias al cambio de boquilla fischer, lo que permite ahorrar tiempo y costes en el montaje.
+- Modo de empleo: la resina de poliéster y el endurecedor están separados, se mezclan y activan al comprimirlos en el mezclador, el mortero se inyecta en la base del agujero, pega el elemento con la pared de la perforación y tapa.
+- Aplicación: esta resina de poliéster se puede utilizar para anclar rejillas, puertas, pasamanos de escalera, consolas y tuberías, asegurando sujeción a materiales como hormigón, ladrillo y bloque de hormigón.
+- Principales ventajas: solución económica para anclajes en mampostería sin homologación, puede utilizarse con pistolas de silicona estándar, sin equipamiento especial, contribuye a reducir costes de adquisición.
+- Contenido: 1 x Anclaje Químico Fis Pe 300 SF / Resina o Taco químico Poliéster en cartucho de 300 ml, mortero bicomponente, para fijaciones que no requieran homologación, de fischer.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00FEJXZT0{{</world>}}

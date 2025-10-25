@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - FOCO PROYECTOR LED PORTÁTIL Y AJUSTABLE: con un soporte ajustable de 360° y un cable de 3,5 m, esta luz de trabajo ofrece una posición flexible para satisfacer sus necesidades. El mango de espuma antideslizante garantiza un agarre seguro y cómodo para transportarla o colgarla fácilmente. Su diseño plegable facilita el almacenamiento y el transporte, ahorrando espacio.
-- AMPLIA GAMA DE APLICACIONES: El Foco de Trabajo LED portátil está diseñado con un ángulo de haz de 120 grados para garantizar suficiente luz para áreas grandes. Ideal para almacenes, garajes, gimnasios, talleres, depósitos, patios, campamentos y más.
+- GARANTÍA: Nuestra Foco de Trabajo LED ofrece una garantía de 3 AÑOS por cualquier problema de calidad del producto. Nuestro equipo de soporte dedicado siempre está listo para ayudarlo. Si tiene preguntas, comuníquese con nosotros a través de su pedido para recibir asistencia rápida y satisfactoria.
 - ALTA CALIDAD: Fabricado en aluminio fundido a alta presión con un diseño de múltiples ranuras en la parte posterior, este reflector garantiza una disipación óptima del calor y resistencia a la corrosión para un rendimiento duradero. La cubierta de vidrio templado mejora la resistencia al impacto, mientras que la clasificación de impermeabilidad IP66 garantiza un funcionamiento confiable en condiciones de lluvia, nieve, calor o frío, lo que lo hace ideal para sitios de construcción y uso al aire libre.
 - SUPER BRILLANTE Y AHORRO DE ENERGÍA: El Luz para el lugar de trabajo LED de 50W con luz blanca diurna de 6000K proporciona una salida de 5400 lúmenes, equivalente a bombillas incandescentes tradicionales de 300W, lo que ahorra más del 90 % de electricidad. Equipado con 72 LED SMD 2835 de alto rendimiento y larga duración, ilumina eficazmente su área de trabajo.
-- GARANTÍA: Nuestra Foco de Trabajo LED ofrece una garantía de 3 AÑOS por cualquier problema de calidad del producto. Nuestro equipo de soporte dedicado siempre está listo para ayudarlo. Si tiene preguntas, comuníquese con nosotros a través de su pedido para recibir asistencia rápida y satisfactoria.
+- AMPLIA GAMA DE APLICACIONES: El Foco de Trabajo LED portátil está diseñado con un ángulo de haz de 120 grados para garantizar suficiente luz para áreas grandes. Ideal para almacenes, garajes, gimnasios, talleres, depósitos, patios, campamentos y más.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DT14Q7M2{{</world>}}

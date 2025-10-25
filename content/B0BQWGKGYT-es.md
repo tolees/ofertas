@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una pierna delgada desde la cadera hasta la rodilla
 - Con trabillas para cinturón en la cintura
+- Una pierna delgada desde la cadera hasta la rodilla
 - Aspecto elegante
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

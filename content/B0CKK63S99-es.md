@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bota baja
 - Puma Tira en el lateral
+- Bota baja
 - Cierre de velcro
 
 [🛒 Comprar!!!]({{< param buyurl >}})

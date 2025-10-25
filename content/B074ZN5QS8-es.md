@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fabricado en plata de ley
 - Anillo Elegancia Clásica marca Pandora
+- Fabricado en plata de ley
 - Adornado con circonitas cúbicas transparentes
 
 [🛒 Aquí!!!]({{< param buyurl >}})

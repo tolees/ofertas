@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Tecnología de plasma avanzada con sistema iónico dual
-- Barril de cerámica de 96 mm x 55 mm sobre; boquilla de secado Cepillo de alisado; cepillo para estructurar; cabezal de moldeado
 - Cable giratorio de 2.5 m; 3 años de garantía
+- Barril de cerámica de 96 mm x 55 mm sobre; boquilla de secado Cepillo de alisado; cepillo para estructurar; cabezal de moldeado
 - Cepillo secador de pelo multifuncion con 4 accesorios y 1000W
 - 2 posiciones de calor; posición ajuste frío
 

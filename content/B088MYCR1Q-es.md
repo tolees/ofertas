@@ -29,12 +29,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - ASISTENCIA NETATMO: si necesita ayuda para instalar/utilizar su producto, visite helpcenter.netatmo.com/es, o envíenos un correo electrónico a: contact-amazon@netatmo.com
-- PACK TERMOSTATO + 3 CABEZALES TERMOSTATICOS: Este pack contiene 1 x termostato inteligente + 3 cabezales termostáticos.
-- AHORRE ENERGÍA: Ante la subida de los precios de la energía, ahorre dinero con la programación de la calefacción y caliente su casa según sus necesidades. En vacaciones, programe los modos Ausente y Protección contra heladas.
-- COMPLETE SU INSTALACIÓN: añada cabezales termostáticos inteligentes adicionales, que activan de forma independiente la calefacción de cada radiador.
-- INSTALACIÓN FÁCIL Y RÁPIDA: usted mismo puede instalar fácilmente su termostato inteligente Netatmo en menos de una hora. Instálalo donde quieras: inalámbrico (a pilas), para que puedas colocarlo donde quieras, o con cable, para que puedas colgarlo en la pared. A continuación, conéctalo a Wi-Fi (2,4 GHz) a través de la aplicación Termostato Inteligente Netatmo.
 - INFORMACIÓN Y CONSEJOS PARA SEGUIR TU CONSUMO: visualiza tu historial y consulta tu informe personalizado de ahorro energético para controlar y optimizar tu consumo de energía.
+- PACK TERMOSTATO + 3 CABEZALES TERMOSTATICOS: Este pack contiene 1 x termostato inteligente + 3 cabezales termostáticos.
 - TEMPERATURA ÓPTIMA EN CADA HABITACIÓN: añade válvulas inteligentes adicionales que regulan el calor en cada radiador por sí mismas.
+- INSTALACIÓN FÁCIL Y RÁPIDA: usted mismo puede instalar fácilmente su termostato inteligente Netatmo en menos de una hora. Instálalo donde quieras: inalámbrico (a pilas), para que puedas colocarlo donde quieras, o con cable, para que puedas colgarlo en la pared. A continuación, conéctalo a Wi-Fi (2,4 GHz) a través de la aplicación Termostato Inteligente Netatmo.
+- COMPLETE SU INSTALACIÓN: añada cabezales termostáticos inteligentes adicionales, que activan de forma independiente la calefacción de cada radiador.
+- AHORRE ENERGÍA: Ante la subida de los precios de la energía, ahorre dinero con la programación de la calefacción y caliente su casa según sus necesidades. En vacaciones, programe los modos Ausente y Protección contra heladas.
 - COMPATIBILIDAD: el termostato inteligente Netatmo es compatible con la mayoría de los modelos de caldera (electricidad, gas, gasóleo, leña, bomba de calor).
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

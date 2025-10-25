@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tira ribeteada en el lateral
 - Talón de TPU para mayor estabilidad
+- Tira ribeteada en el lateral
 - Parte superior de malla
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

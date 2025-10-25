@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsa Tracolla Le Realizzata de poliéster resistente 600D procedente del plástico Presenta uno scomparto MANO con cerniera Tracolla regolabile dotata di fibbia a sgancio rapido Logo Iconico Levis Batwing
 - BOLSA DE MANO
+- Bolsa Tracolla Le Realizzata de poliéster resistente 600D procedente del plástico Presenta uno scomparto MANO con cerniera Tracolla regolabile dotata di fibbia a sgancio rapido Logo Iconico Levis Batwing
 - Levís
 
 [🛒 Aquí!!!]({{< param buyurl >}})

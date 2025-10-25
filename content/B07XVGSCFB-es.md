@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El cuero y la imitación de cuero garantizan la durabilidad y el confort.
 - Importado
+- El cuero y la imitación de cuero garantizan la durabilidad y el confort.
 - Espuma para amortiguar con poco peso.
 - La suela exterior de goma garantiza una tracción duradera.
 - Las correas de velcro hacen que el zapato sea fácil de poner y quitar.

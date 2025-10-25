@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - PUMA Tira en los lados lateral y medial
 - Entresuela de goma, suela exterior
-- Parte superior de piel sintética
 - PUMA Detalles de la marca en la parte superior, talón y lengüeta
+- Parte superior de piel sintética
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BK97RVF9{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto que combina tradición e innovación
-- 80 g
 - Papel A4
+- 80 g
+- Producto que combina tradición e innovación
 - 100 hojas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

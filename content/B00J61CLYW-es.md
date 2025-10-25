@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mediasuela Techlite, amortiguación superior, alto retorno de la energía
 - Caucho antimarcas con tracción sobre mojado Omni-Grip
+- Mediasuela Techlite, amortiguación superior, alto retorno de la energía
 - Ideales para actividades de trekking
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

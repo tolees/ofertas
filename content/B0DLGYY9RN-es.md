@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Unifica el tono de la piel y difumina los poros; oculta los signos de fatiga; cubre y reduce imperfecciones, manchas oscuras y enrojecimiento
+- Con Schisandra Berry para calmar la piel, Lenteja Verde para reafirmar los poros y absorber el exceso de grasa, y una mezcla de Vitaminas C, E y B5 para un efecto antioxidante
+- Su textura sedosa y ligera es fácil de aplicar y difuminar, proporcionando una cobertura radiante y uniforme, además de comodidad durante todo el día
 - Bourjois Healthy Mix combina la cobertura de una base con la hidratación de una crema
 - Fórmula limpia y vegana con un 81% de ingredientes naturales
-- Su textura sedosa y ligera es fácil de aplicar y difuminar, proporcionando una cobertura radiante y uniforme, además de comodidad durante todo el día
-- Con Schisandra Berry para calmar la piel, Lenteja Verde para reafirmar los poros y absorber el exceso de grasa, y una mezcla de Vitaminas C, E y B5 para un efecto antioxidante
+- Unifica el tono de la piel y difumina los poros; oculta los signos de fatiga; cubre y reduce imperfecciones, manchas oscuras y enrojecimiento
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DLGYY9RN{{</world>}}

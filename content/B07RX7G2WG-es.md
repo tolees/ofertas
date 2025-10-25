@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- SIN ESCOZOR: Seca rápidamente y no causa escozor. Impide la contaminación de la zona afectada. Una sola aplicación dura varios días, hasta la desaparición de la herida. Se elimina de forma natural según se regenera y crece la capa dérmica afectada.
 - BETER: empresa familiar española con más de 85 años de historia, líder en accesorios de belleza y cuidado personal gracias a la innovación constante y compromiso medioambiental.
-- RESISTENTE AL AGUA: tras su aplicación forma una capa protectora flexible, transpirable y 100% resistente al agua que sella la zona afectada creando una segunda “piel artificial”, es una alternativa ideal a las tiritas convencionales.
 - PROTECCIÓN: protege y sella pequeñas lesiones cutáneas. Con una sola aplicación este adhesivo tisular protege la piel de pequeñas heridas, cortes superficiales, rozaduras, rasguños, grietas y erosiones.
 - PRODUCTO SANITARIO: cumple con la normativa de productos sanitarios (CPSP18046CAT). Leer las advertencias antes de su aplicación.
+- SIN ESCOZOR: Seca rápidamente y no causa escozor. Impide la contaminación de la zona afectada. Una sola aplicación dura varios días, hasta la desaparición de la herida. Se elimina de forma natural según se regenera y crece la capa dérmica afectada.
+- RESISTENTE AL AGUA: tras su aplicación forma una capa protectora flexible, transpirable y 100% resistente al agua que sella la zona afectada creando una segunda “piel artificial”, es una alternativa ideal a las tiritas convencionales.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07RX7G2WG{{</world>}}

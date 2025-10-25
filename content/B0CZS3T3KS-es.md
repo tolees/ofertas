@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello redondo de canalé
-- Corte clásico
 - Hombros con las costuras caídas
+- Corte clásico
+- Cuello redondo de canalé
 - 100% algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})

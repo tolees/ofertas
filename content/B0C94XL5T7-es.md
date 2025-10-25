@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- SABOR: Sacia tu sed con este bálsamo labial sabor a coca-cola de cereza inspirado en Coca-Cola. Sumerge tus sentidos en el mundo de Coca-Cola con tus labios suaves y luminosos
 - SABOR AUTÉNTICO: Sabe a coca-cola de cereza y ofrece una hidratación prolongada a tus labios. Hidratación suavizante y refrescante en un solo producto
-- SONRISAS DULCES: Desde 1973, Lip Smacker endulza sonrisas por todo el mundo. Nuestros sabores auténticos, aromas y productos llenos de vida te harán brillar
 - COLECCIÓN COCA-COLA: Una Coca-Cola, una sonrisa. Disfruta de los bálsamos labiales Coca-Cola.Estos irresistibles sabores se deslizan sobre los labios y proporcionan una hidratación duradera
+- SABOR: Sacia tu sed con este bálsamo labial sabor a coca-cola de cereza inspirado en Coca-Cola. Sumerge tus sentidos en el mundo de Coca-Cola con tus labios suaves y luminosos
+- SONRISAS DULCES: Desde 1973, Lip Smacker endulza sonrisas por todo el mundo. Nuestros sabores auténticos, aromas y productos llenos de vida te harán brillar
 - APLICACIÓN: El regalo para cualquier persona... Desde tu sobrina preadolescente hasta tu amiga, ¡Lip Smacker tiene lo que necesitas! Aplica generosamente en los labios las veces que quieras
 
 [🛒 Visítala!!!]({{< param buyurl >}})

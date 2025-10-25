@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta de cuello redondo con posicionado frontal de licencia Little Miss de Mr
 - Pijama 1% algodón de manga corta y pantalón largo
+- Camiseta de cuello redondo con posicionado frontal de licencia Little Miss de Mr
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DQVGLD94{{</world>}}

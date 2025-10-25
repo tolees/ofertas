@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Plantilla GioMemory Effect
 - Materiales reciclados
+- Plantilla GioMemory Effect
 - Planta acolchada
 
 [🛒 Visítala!!!]({{< param buyurl >}})

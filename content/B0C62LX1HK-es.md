@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Con un total de 36 hojas de pegatinas de distintos tipos, hoja con pegatinas en relieve.
+- Bloc con encuadernación en espiral y nada menos que 1400 pegatinas en su interior.
 - Con certificado FSC
 - 34 hojas más con pegatinas sin acabados especiales
-- Bloc con encuadernación en espiral y nada menos que 1400 pegatinas en su interior.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C62LX1HK{{</world>}}

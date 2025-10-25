@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tarjeta gráfica Integrated Intel Iris Graphics
 - Procesador Intel Core Ultra 5 125U, 12C (2P + 8E + 2LPE) / 14T, Max Turbo up to 4.3GHz, 12MB
-- Memoria RAM 16GB SO-DIMM DDR5-5600
-- Pantalla de 16" WUXGA (1920x1200) IPS 300nits Anti-glare, 45% NTSC, 60Hz
-- Almacenamiento de 256GB SSD M.2 2242 PCIe 4.0x4 NVMe
 - W11 Pro
+- Memoria RAM 16GB SO-DIMM DDR5-5600
+- Tarjeta gráfica Integrated Intel Iris Graphics
+- Almacenamiento de 256GB SSD M.2 2242 PCIe 4.0x4 NVMe
+- Pantalla de 16" WUXGA (1920x1200) IPS 300nits Anti-glare, 45% NTSC, 60Hz
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D66ZKJ4V{{</world>}}

@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Instálalo por tu cuenta. Como es un timbre con batería, puedes instalarlo sin ayuda. Si prefieres la instalación con cables, puedes conectarlo a los de tu timbre actual con el conector para cables incluido.
 - Diseñado para cualquier puerta.
+- Habla con quien esté ahí desde cualquier lugar. Habla y escucha a quien llegue a tu puerta aunque no estés en casa. Usa la aplicación Google Home para decirle a tu visita que abres enseguida o al repartidor que deje el paquete en la entrada.
+- Averigua si hay alguien en tu puerta. Nest Doorbell puede diferenciar entre personas, animales, paquetes y vehículos, y avisarte cuando haya alguien en tu puerta.
 - Nest Doorbell funciona con batería y no lleva cables, por lo que funciona en casi cualquier puerta, tanto en pisos como en casas.
 - Retrocede en el tiempo. Puedes ver lo que ha pasado con 3 horas de historial de vídeo por eventos sin coste adicional.
-- Habla con quien esté ahí desde cualquier lugar. Habla y escucha a quien llegue a tu puerta aunque no estés en casa. Usa la aplicación Google Home para decirle a tu visita que abres enseguida o al repartidor que deje el paquete en la entrada.
-- Google Nest. Te damos la bienvenida al hogar que te ayuda. Transmite en streaming tus videos sin usar las manos a pantallas inteligentes y smart TVs compatibles con el Asistente de Google y Amazon Alexa.
-- Averigua si hay alguien en tu puerta. Nest Doorbell puede diferenciar entre personas, animales, paquetes y vehículos, y avisarte cuando haya alguien en tu puerta.
 - Echa un vistazo cuando quieras. Entérate de lo que ocurre en la puerta de tu casa las 24 horas. Puedes echar un vistazo a las imágenes de tu cámara con timbre estés donde estés y recibir alertas sobre actividades importantes, como la llegada de una visita o la entrega de un paquete.
-- Instálalo por tu cuenta. Como es un timbre con batería, puedes instalarlo sin ayuda. Si prefieres la instalación con cables, puedes conectarlo a los de tu timbre actual con el conector para cables incluido.
+- Google Nest. Te damos la bienvenida al hogar que te ayuda. Transmite en streaming tus videos sin usar las manos a pantallas inteligentes y smart TVs compatibles con el Asistente de Google y Amazon Alexa.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09MZMXT7X{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Posibilidad de regulación, fuente de calor muy cómoda. Calor rápido y envolvente.
 - Combustión limpia de máxima calidad
+- Posibilidad de regulación, fuente de calor muy cómoda. Calor rápido y envolvente.
 - Alto rendimiento
 - Fabricado en japón
 

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Officially licensed by The Pokémon Company International
-- Conjunto de construcción con bloque de movimiento: gira la manivela para activar el movimiento de la noria.
 - Ideales a partir de 6 años, estos juguetes de construcción ayudan a fomentar la creatividad y a desarrollar la capacidad de resolución de problemas.
+- Conjunto de construcción con bloque de movimiento: gira la manivela para activar el movimiento de la noria.
+- Officially licensed by The Pokémon Company International
 - Las piezas pueden combinarse con todos los conjuntos de construcción de Pokémon de MEGA y son compatibles con las principales marcas
 - Incluye 4 Pokémon construibles: Sprigatito, Meowth, Wooper de Paldea y Munchlax
 

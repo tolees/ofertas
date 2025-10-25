@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ropa de Calle
 - Descubre todas las marcas de EMP!
 - Top Mujer || Materiales de larga duración || Altura del tacón: /
-- Merch para fans y divertido
 - Top con las siguientes características:
+- Ropa de Calle
+- Merch para fans y divertido
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B4V3YSD9{{</world>}}

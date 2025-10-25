@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - PARA APARATOS DE ORTODONCIA: Colutorio para el cuidado y protección de los dientes y encías en portadores de aparatos de ortodoncia. Limpia las áreas que son difíciles de alcanzar con el cepillado
-- FORMULADO CON: Cymenol con función antiséptica y antioxidante en la mucosa oral. Ion Fluoruro y Glicerofosfato de Calcio que actuán contra la caries y fortalecen el esmalte dental. Glicirrizato Potasico, sistema protector de mucosas y encías
-- TRIPLE SISTEMA DE PROTECCIÓN: Nueva formulación basada en un triple sistema de protección frente a la caries, la desmineralización y la inflamación de las encías provocada por el uso de aparatos de ortodoncia
-- MODO DE USO: Después del cepillado, verter 10 ml en el vaso dosificador y enjuagarse durante 1 minuto. Es aconsejable no enjuagarse con agua después de usar el enjuague bucal ni comer o beber durante los siguientes 15 minutos. Aconsejable su uso después de cada comida
 - LACER: Lacer, que nació en 1949, tiene el propósito de mejorar la salud de las personas cada día, cuidando de su bienestar. Porque nos importa la salud integral y del planeta, siempre con calidad y rigurosidad en nuestra actuación
+- FORMULADO CON: Cymenol con función antiséptica y antioxidante en la mucosa oral. Ion Fluoruro y Glicerofosfato de Calcio que actuán contra la caries y fortalecen el esmalte dental. Glicirrizato Potasico, sistema protector de mucosas y encías
+- MODO DE USO: Después del cepillado, verter 10 ml en el vaso dosificador y enjuagarse durante 1 minuto. Es aconsejable no enjuagarse con agua después de usar el enjuague bucal ni comer o beber durante los siguientes 15 minutos. Aconsejable su uso después de cada comida
+- TRIPLE SISTEMA DE PROTECCIÓN: Nueva formulación basada en un triple sistema de protección frente a la caries, la desmineralización y la inflamación de las encías provocada por el uso de aparatos de ortodoncia
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BKJK1CYS{{</world>}}

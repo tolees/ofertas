@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cremallera: cremallera principal asegurada con una solapa interna para el viento y un protector de barbilla
+- Aislamiento: plumón sintético ligero para mayor calidez en climas de transición
 - Plegable: el peso de relleno bajo hace que la chaqueta sea ligera y fácil de empacar
+- Dobladillo inferior: sin ajuste
 - Puños: elásticos, no ajustables
 - Bolsillos: dos bolsillos laterales con cremallera
-- Aislamiento: plumón sintético ligero para mayor calidez en climas de transición
-- Dobladillo inferior: sin ajuste
-- Cremallera: cremallera principal asegurada con una solapa interna para el viento y un protector de barbilla
 - Resistencia al agua: revestimiento hidrofóbico que reduce la absorción de humedad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

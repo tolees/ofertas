@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Elevador de viaje compacto y regulable en altura hasta 14 cm
 - Asa para el transporte
 - Seguridad: 3 correas de protección, arnés de 3 puntos, 4 patas antideslizantes
-- Elevador de viaje compacto y regulable en altura hasta 14 cm
 - Confortable: el respaldo y el asiento son de neopreno y se adapta a todas las sillas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

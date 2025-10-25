@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Acero inoxidable 18/10 de alta calidad.
 - Jarra térmica de acero inoxidable que mantiene el café caliente hasta una hora
+- Acero inoxidable 18/10 de alta calidad.
 - Ideal para espumar leche para capuchino, latte macchiato.
-- Fabricado en Italia.
 - Capacidad: 500 ml.
+- Fabricado en Italia.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B017OC7MNO{{</world>}}

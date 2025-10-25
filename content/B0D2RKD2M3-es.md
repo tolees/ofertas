@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Prenda de vestimenta
 - Para uso diario
+- Prenda de vestimenta
 - Tiene detalles distintivos de la marca "Puma"
 
 [🛒 Aquí!!!]({{< param buyurl >}})

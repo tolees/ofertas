@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Elementos deslizantes tratados térmicamente, que proporcionan movimientos fluidos con un sensor óptico OWL Eye de 16 K dpi basado en PMW3389 de Pixart. Color Blanco
 - Forma simétrica y ergonómica que se ha rediseñado desde el principio, se siente mejor y funciona mejor
-- Carcasa de panal translúcida con un peso extremadamente bajo de 68 g
 - Interruptor óptico de titanio para una sensación mecánica con velocidad óptica
+- Carcasa de panal translúcida con un peso extremadamente bajo de 68 g
 - El cable Phantom Flex desaparece casi por completo, no requiere soporte de cable
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Apto para niños y adultos; Sin alcohol y sin Gluten
-- Aporta un alivio rápido y duradero desde la primera aplicación
-- Crea un film que alivia el dolor y protege frente a agentes externos; Hidrata Los tejidos dañads; Facilita la cicatrización
-- Una formato para cada necesidad; Gel para aftas localizadas; Spray para aftas de difícil acceso y colutorio para múltiples aftas
 - Spray para aftas, llagas o úlceras bucales. Con Acido Hialuronico
+- Aporta un alivio rápido y duradero desde la primera aplicación
+- Una formato para cada necesidad; Gel para aftas localizadas; Spray para aftas de difícil acceso y colutorio para múltiples aftas
+- Apto para niños y adultos; Sin alcohol y sin Gluten
+- Crea un film que alivia el dolor y protege frente a agentes externos; Hidrata Los tejidos dañads; Facilita la cicatrización
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B06XSZSXD3{{</world>}}

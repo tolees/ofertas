@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - ESMALTE DE UÑAS SECADO RÁPIDO: OPI RapiDry Quick-Dry Lacquer te deja unas uñas impecables que no manchan en 60 segundos, ideal para cambiarte de pintauñas antes de una fiesta, festival o cualquier ocasión.
-- PINCEL: El Speedy Rush Brush de OPI está diseñado con 200 cerdas adicionales y en forma de de abanico ancho para recoger, aplicar y secar el pintauñas más rápido, ideal para una fiesta, festival o cualquier ocasión.
 - OPI: Pintauñas para profesionales de salón y para usar en casa, con colores intensos y respetuosos con tus uñas. El regalo ideal para un cumpleaños, un detalle en Navidad o para darte un capricho.
+- PINCEL: El Speedy Rush Brush de OPI está diseñado con 200 cerdas adicionales y en forma de de abanico ancho para recoger, aplicar y secar el pintauñas más rápido, ideal para una fiesta, festival o cualquier ocasión.
 - TOP COAT PARA UÑAS: Dos capas garantizan cinco días de duración. Usa OPI Clearly Fast como base coat protector y top coat para potenciar el brillo y lograr un efecto máximo.
 - CÓMO SE APLICA: Agita bien el pintauñas para mezclar los ingredientes y prepara tus uñas empujando las cutículas, recortando, limando y puliendo. Aplica una capa fina de cualquier esmalte de uñas RapiDry Quick-Dry y sella el borde.
 

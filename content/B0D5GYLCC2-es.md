@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con una plantilla DURATEX y un diseño moderno, las zapatillas COURT SLIDE te ayudarán a afrontar un gran partido de tenis.
 - Amortiguación con tecnología EVA
+- Con una plantilla DURATEX y un diseño moderno, las zapatillas COURT SLIDE te ayudarán a afrontar un gran partido de tenis.
 - Plantilla de EVA extraíble
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ojos más brillantes y ligeros, pestañas negras impactantes.
-- Cepillo volumizante anti grupos para una mayor definición
 - Microfibras que aportan un mayor grosos, volumen y longitud
+- Cepillo volumizante anti grupos para una mayor definición
 - Pigmentos azules que maximizan la intensidad y profundidad del tono de la mascara
 - Primer para maximizar el efecto de la máscara de pestañas
 

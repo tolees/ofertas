@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Se pueden combinar con cualquier prenda
 - Detalles distintivos de la marca
+- Se pueden combinar con cualquier prenda
 - Entresuela de EVA Suela serrada en goma
 - Ofrecen una comodidad óptima
 

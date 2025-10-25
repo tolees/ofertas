@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Parte en ante y nailon
 - Suela de goma
 - Parche con logotipo en la lengüeta
 - Entresuela de espuma EVA
+- Parte en ante y nailon
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BGC3H7BX{{</world>}}

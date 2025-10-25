@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - dos bolsillos de parche en el pecho
 - charreteras
-- lavado antiguo
 - bordes crudos
+- lavado antiguo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0854NXV9K{{</world>}}

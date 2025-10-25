@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Aislamiento: 3 2mm EPE de células cerradas
 - Conservación: 10 h con Freez’Pack (vendido por separado)
 - Capacidad 15 L
-- Aislamiento: 3 2mm EPE de células cerradas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0749XNV5Q{{</world>}}

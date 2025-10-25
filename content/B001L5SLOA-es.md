@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El taco se expande en materiales de construcción sólidos.
-- Se anuda en ladrillo perforado y detrás de las placas cartón-yeso.
 - Orientación óptima del tornillo.
 - El taco se sostiene en todos los materiales de construcción.
+- El taco se expande en materiales de construcción sólidos.
+- Se anuda en ladrillo perforado y detrás de las placas cartón-yeso.
 - Las fijaciones anti-rotación serradas impiden el giro dentro del agujero.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

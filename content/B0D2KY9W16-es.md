@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Silueta clásica de tenis. La suela de goma proporciona tracción y durabilidad.
 - PCF = Pro Comfort Foam Insock.
+- Silueta clásica de tenis. La suela de goma proporciona tracción y durabilidad.
 - Logotipo icónico F-BOX en el lateral.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

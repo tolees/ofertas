@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Puerta reversible
-- Termostato con ajuste de temperatura
 - patas ajustables
 - bandejas de cristal
 - Electrodomésticos
 - Clasificación Energética A++
+- Puerta reversible
+- Termostato con ajuste de temperatura
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08TVCKTVZ{{</world>}}

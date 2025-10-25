@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Elaborado con sabores naturales de frutas de hueso y cítricos, como el melocotón, albaricoque y pomelo, que se mezclan con frutas del bosque negras para una experiencia de sabor
-- Experiencia de sabor equilibrada gracias a la combinación de amargor medio-alto y acidez ligera que envuelve al paladar, además de ser una bebida sin azúcar
 - Cada pack contiene 24 botellas de vidrio de 200 ml, para compartir en reuniones o fiestas, o simplemente para disfrutar de un momento de tranquilidad
 - Royal Bliss Bitter Rosso es una bebida refrescante con notas aromáticas y bien equilibrada, sin azúcares ni calorías, que ofrece una experiencia sensorial única
+- Elaborado con sabores naturales de frutas de hueso y cítricos, como el melocotón, albaricoque y pomelo, que se mezclan con frutas del bosque negras para una experiencia de sabor
+- Experiencia de sabor equilibrada gracias a la combinación de amargor medio-alto y acidez ligera que envuelve al paladar, además de ser una bebida sin azúcar
 - Royal Bliss Bitter Rosso, una bebida refrescante y única que combina adecuadamente la acidez, el dulzor y el amargor
 
 [🛒 Aquí!!!]({{< param buyurl >}})

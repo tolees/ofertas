@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tendrás que conseguir la mayor parte de recursos del mercado para construir cabañas sobre islas y hacer ofrendas a la Diosa del Mar
 - Podrás comerciar con otros jugadores para llegar más lejos y así ganar la partida
+- Tendrás que conseguir la mayor parte de recursos del mercado para construir cabañas sobre islas y hacer ofrendas a la Diosa del Mar
 - Deberás aumentar tu reputación eligiendo el mejor lugar para construir en cada isla
 - Hawaiki es un eurogame introductorio donde gana quien tiene la mejor reputación
 

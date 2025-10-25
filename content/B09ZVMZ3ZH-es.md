@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre: Cordones
 - Material exterior: Ante
+- Cierre: Cordones
 - Material de la suela: EVA
 
 [🛒 Aquí!!!]({{< param buyurl >}})

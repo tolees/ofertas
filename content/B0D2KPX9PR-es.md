@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Superposiciones de gamuza
 - Suela de goma
 - Cierre de cordones
-- Superposiciones de gamuza
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D2KPX9PR{{</world>}}

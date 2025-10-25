@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Jacket
-- Care Label:
 - Long Sleeves
+- Care Label:
 - materialFabricComposition: Outer: 50% Polyester, 50% Viscose; Lining: 100% Recycled Polyester; Coating: 100% Polyurethane
+- Jacket
 - Biker Collar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

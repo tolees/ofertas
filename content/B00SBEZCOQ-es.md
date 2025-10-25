@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Impermeable y resistente a los impactos de hasta 7 m
+- Tiempo de Funcionamiento de hasta 17 horas
 - Emite un haz de 65 m m
 - Bombilla LED de color blanco con brillo de 200 lúmenes.
-- Tiempo de Funcionamiento de hasta 17 horas
 - Robusto foco con imán y cinta para la cabeza extraíble
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

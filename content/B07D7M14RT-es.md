@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Juego Educativo infantil para mejorar el aprendizaje de niños y niñas mientras disfrutan de los cuentos, aprende con las diferentes actividades: Opción táctil, música y canciones para aprendizaje interactivo
-- Recomendado a partir de 24 meses de edad. Este producto NO es una tablet, ya que se debe intrudicir los cartones para poder realizar las diferentes actividades
-- EducaTouch Junior Cuentacuentos consta de: 4 cuentos completos; Los Tres Cerditos, La tortuga y la Liebre, La bella Durmiente, Hansel y Gretel. Con 3 modos de juegos diferentes para un mejor aprendizaje: cuentacuentos, exploración y preguntas
 - Educa Touch junior es una colección de juegos educativos electrónicos pensada para estimular el interés de los niños y niñas por el aprendizaje. Juegos de aprendizaje para niños de 2 años en adelante.
 - Contenido del juego educativo: Base Educa Touch Junior, 8 láminas de actividades interactivas e instrucciones.
+- Juego Educativo infantil para mejorar el aprendizaje de niños y niñas mientras disfrutan de los cuentos, aprende con las diferentes actividades: Opción táctil, música y canciones para aprendizaje interactivo
+- EducaTouch Junior Cuentacuentos consta de: 4 cuentos completos; Los Tres Cerditos, La tortuga y la Liebre, La bella Durmiente, Hansel y Gretel. Con 3 modos de juegos diferentes para un mejor aprendizaje: cuentacuentos, exploración y preguntas
+- Recomendado a partir de 24 meses de edad. Este producto NO es una tablet, ya que se debe intrudicir los cartones para poder realizar las diferentes actividades
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07D7M14RT{{</world>}}

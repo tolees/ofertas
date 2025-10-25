@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Material exterior: Lona
 - Composición: Lona
-- Material de la suela: Sintético
 - Revestimiento: Tela
+- Material de la suela: Sintético
 - Tipo de tacón: Plano
 - Cierre: Cordones
 

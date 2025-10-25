@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre de cremallera y cuello alzado
-- Bolsillos en las costuras laterales
-- 100% poliéster (reciclado)
 - AEROREADY
+- Bolsillos en las costuras laterales
 - Corte clásico
 - Compra una talla más pequeña
+- Cierre de cremallera y cuello alzado
+- 100% poliéster (reciclado)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BXPRYSVD{{</world>}}

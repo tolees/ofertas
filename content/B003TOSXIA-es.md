@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Se puede ensamblar fácil y rápidamente
-- Diseño moderno y funcional
-- Dimensiones del producto: 62 x 51 x 46 cm
-- Forma de mesa: redonda
 - Producto de vidrio y acero
+- Forma de mesa: redonda
+- Se puede ensamblar fácil y rápidamente
+- Dimensiones del producto: 62 x 51 x 46 cm
+- Diseño moderno y funcional
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B003TOSXIA{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Detalle de la marca Levis
 - Talla y puntera reforzados para durabilidad
 - Tacto de algodón suave
-- Detalle de la marca Levis
 - Silueta de corte medio
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

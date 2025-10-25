@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuenco de acero inoxidable, capacidad del cuenco de 1,7 litros, apto para el lavavajillas
+- Temperatura ajustable con función de mantenimiento del calor
 - Potencia de 1200 vatios
 - Base de acero inoxidable cepillado
-- Temperatura ajustable con función de mantenimiento del calor
+- Cuenco de acero inoxidable, capacidad del cuenco de 1,7 litros, apto para el lavavajillas
 - 6 tenedores de fondue incluidos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

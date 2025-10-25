@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- COMPLEJO FITOVITAMÍNICO - una combinación perfecta de CÚRCUMA, REGALIZ y NIACINAMIDA para potenciar la luminosidad de la piel
+- REDUCE VISIBLEMENTE LAS MANCHAS OSCURAS; POTENCIA LA LUMINOSIDAD DE LA PIEL
+- TODOS TIPOS DE MANCHAS OSCURAS: manchas solares, manchas de la edad, manchas del acné
 - CÚRCUMA PRENSADA EN FRÍO, DE ORIGEN ORGÁNICO; 97 % de ingredientes de origen natural
 - PARA TODO TIPO DE PIELES; fórmula ligera, de rápida absorción y que no mancha; clínica y dermatológicamente comprobada
-- COMPLEJO FITOVITAMÍNICO - una combinación perfecta de CÚRCUMA, REGALIZ y NIACINAMIDA para potenciar la luminosidad de la piel
-- TODOS TIPOS DE MANCHAS OSCURAS: manchas solares, manchas de la edad, manchas del acné
-- REDUCE VISIBLEMENTE LAS MANCHAS OSCURAS; POTENCIA LA LUMINOSIDAD DE LA PIEL
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DJ8MN7D8{{</world>}}

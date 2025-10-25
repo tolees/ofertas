@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Estilo corto
-- Suela de TPR
 - Corte bajo
 - PU Upper
+- Suela de TPR
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D5MLRB2K{{</world>}}

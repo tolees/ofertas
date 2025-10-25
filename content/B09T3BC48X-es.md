@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Plantilla amortiguadora superabsorbente y antibacterias.
 - Piso ultraligero de gran resistencia y comodidad, para sentir los pies libres todo el día.
-- Forro inTech sin costuras, una microfibra ecológica 7 veces más absorbente que la piel, neutro y resistente. Cuenta con el certificado STANDARD 100 by OEKO-TEX.
 - Los únicos fabricados en España y avalados por expertos podólogos: SEBIOR, Sociedad Española de Biomecánica y ortopodología. Consulta más información en nuestras RRSS.
+- Forro inTech sin costuras, una microfibra ecológica 7 veces más absorbente que la piel, neutro y resistente. Cuenta con el certificado STANDARD 100 by OEKO-TEX.
 - Textil técnico transpirable y de alta resistencia a la abrasión para optimizar la temperatura del pie. Cuenta con el certificado STANDARD 100 class I by OEKO-TEX.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

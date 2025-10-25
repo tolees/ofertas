@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Ancho del zapato: ancho G para una comodidad óptima
 - Sostenibilidad: vegano para ofrecer a los clientes conscientes del medio ambiente una alternativa ética; tecnología Airmotion para una óptima circulación del aire y transpirabilidad
 - Altura del tacón: 2 cm para un ajuste cómodo pero elegante
-- Ancho del zapato: ancho G para una comodidad óptima
 - Material exterior: textil para una sensación agradable y un aspecto moderno
 - Tipo de tacón: tacón de bloque para un agarre seguro y estabilidad
 

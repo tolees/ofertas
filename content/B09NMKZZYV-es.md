@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Escala: litros y mililitros
-- Inastillable y antigolpes
-- Volumen: 0,5 litros
-- Material: polipropileno
 - Color de la escala: azul, fijamente inyectado
 - Recibirá un equipo profesional sólido y duradero con las correspondientes declaraciones de conformidad bajo demanda.
+- Volumen: 0,5 litros
+- Inastillable y antigolpes
+- Material: polipropileno
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09NMKZZYV{{</world>}}

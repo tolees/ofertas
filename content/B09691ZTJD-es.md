@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- País de origen: Alemania
 - Fabricante: Under Armour
 - Zapatillas de correr para hombre UA Charged Pursuit 3
-- País de origen: Alemania
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09691ZTJD{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela de goma vulcanizada
-- Compra 1 talla más grande
-- Forro textil
-- Empeine de piel sintética
 - Mediasuela con amortiguación
+- Empeine de piel sintética
+- Compra 1 talla más grande
+- Suela de goma vulcanizada
+- Forro textil
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C59CXZVX{{</world>}}

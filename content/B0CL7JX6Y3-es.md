@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Artículo de marca Skechers
 - Tiene detalles distintivos de la marca
+- Artículo de marca Skechers
 - Ofrece comodidad y libertad de movimiento
 
 [🛒 Aquí!!!]({{< param buyurl >}})

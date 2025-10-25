@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - FRAGANCIA: Mimosín Origins Rosas Silvestres aporta a la ropa una fragancia duradera con notas frutales, con una aterciopelada base de vainilla
-- DURACIÓN: fórmula con x4 duración de la fragancia
 - PROTECCIÓN: Protege las fibras de las prendas y preserva el brillo del color
-- Mimosín es el suavizante que lleva cuidando tu ropa desde hace más de 40 años
+- DURACIÓN: fórmula con x4 duración de la fragancia
 - CUIDADO: Ayuda a suavizar las fibras de tu ropa, dejándolas suaves
+- Mimosín es el suavizante que lleva cuidando tu ropa desde hace más de 40 años
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CX22G75D{{</world>}}

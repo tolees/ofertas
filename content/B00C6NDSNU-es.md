@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juego de equilibrio ya que cada cubo tiene distintos tamaños y tendrán que aprender a colocarlos para que no se caigan
-- Habilidades que desarrolla: la destreza manual y la coordinación ojo/mano
-- Los niños se divertirán colocando los cubos de mayor a menor en vertical y encontrarán los mismos animales en diferentes ambientes: en una casita, en un árbol
 - Contenido: 10 cubos apilables de diferentes medidas
 - Si montan los cubos en horizontal, los animalitos, están subidos a un tren
+- Juego de equilibrio ya que cada cubo tiene distintos tamaños y tendrán que aprender a colocarlos para que no se caigan
+- Los niños se divertirán colocando los cubos de mayor a menor en vertical y encontrarán los mismos animales en diferentes ambientes: en una casita, en un árbol
+- Habilidades que desarrolla: la destreza manual y la coordinación ojo/mano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00C6NDSNU{{</world>}}

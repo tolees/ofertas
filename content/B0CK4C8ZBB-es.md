@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - 2 bolsillos frontales abiertos
 - Correa de hombro ajustable
+- Bolsillo trasero con cremallera
 - Compartimento principal con cremallera: bolsillo con cremallera, compartimentos para teléfono, bolígrafo y cartera, clip para llaves
 - 2 bolsillos frontales con cremallera
-- Bolsillo trasero con cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CK4C8ZBB{{</world>}}

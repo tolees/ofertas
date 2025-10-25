@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Entresuela ligera y flexible que absorbe los golpes
 - Parte superior de malla geométrica con cordones elásticos
-- Skechers Detalle del logotipo
 - Skechers Plantilla acolchada de espuma viscoelástica
+- Skechers Detalle del logotipo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB1TZTTY{{</world>}}

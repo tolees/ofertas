@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100% Poliéster
-- Hombres - Shorts
 - Running
+- Hombres - Shorts
+- 100% Poliéster
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D195QYXS{{</world>}}

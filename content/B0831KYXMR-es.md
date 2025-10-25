@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño moderno y funcional
 - Aquadeb estuche
+- Diseño moderno y funcional
 - De la marca Aquabeads
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

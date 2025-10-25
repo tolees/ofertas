@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forro textil
 - Ajuste regular
+- Forro textil
 - Parte superior en piel revestida
 
 [🛒 Aquí!!!]({{< param buyurl >}})

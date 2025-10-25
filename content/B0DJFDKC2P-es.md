@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Reúne a tu equipo
-- Una aventura de LEGO sin igual
-- ¡Aquí es donde entras tú!
 - Ha nacido una heroína
+- Una aventura de LEGO sin igual
 - Personaliza tu hogar y tus personajes
+- ¡Aquí es donde entras tú!
+- Reúne a tu equipo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DJFDKC2P{{</world>}}

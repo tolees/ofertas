@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fantástico sabor menta
-- Contiene flúor activo y calcio líquido
-- Protección contra la caries
-- Dientes fuertes
 - Siéntete cómodo con aliento fresco
+- Contiene flúor activo y calcio líquido
+- Fantástico sabor menta
+- Dientes fuertes
+- Protección contra la caries
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XDOSIZO{{</world>}}

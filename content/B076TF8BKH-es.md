@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Para gatos adultos
 - Preparado sin azúcar y sin cereales, colorantes artificiales y conservantes
 - Ingredientes de calidad y naturales
+- Para gatos adultos
 - Comida húmeda de salsa con jugosa pechuga de pavo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La siguiente información se refiere únicamente a cada paquete
 - Adhesión inmediata – Este pegamento blanco se aplica directamente y garantiza una adhesión inmediata y fuerte. No se contrae y no contiene disolventes.
-- Gran resistencia – Este adhesivo de pared es flexible y garantiza una alta resistencia a los rayos UV y a las temperaturas extremas tanto en interiores como en exteriores.
 - Envío y detalles – Pattex No Mas Clavos Para Todo HighTack, adhesivo multiusos con fórmula sin disolventes, con agarre inmediato, blanco, 1 x 340 g tubo, n.º de artículo: 2498466
+- Gran resistencia – Este adhesivo de pared es flexible y garantiza una alta resistencia a los rayos UV y a las temperaturas extremas tanto en interiores como en exteriores.
+- La siguiente información se refiere únicamente a cada paquete
 - Pegamento multimaterial – Este adhesivo se usa sobre múltiples materiales, como cerámica, azulejos, metal o plástico*, por ejemplo para montar muebles o reparar muebles.
 - Superficies húmedas – Este pegamento universal para reparación y montaje es perfecto para aplicarlo sobre superficies húmedas y cuenta con un fuerte poder de relleno.
 

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Adecuado para uso doméstico o profesional
 - Herramienta manual
+- Adecuado para uso doméstico o profesional
 - Producto de calidad óptima
 
 [🛒 Visítala!!!]({{< param buyurl >}})

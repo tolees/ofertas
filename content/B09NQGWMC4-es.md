@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- GOOD GRIP
 - CUSHIONING
+- GOOD GRIP
 - Ingredientes extraduraderos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

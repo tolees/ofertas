@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Revestimiento: Tela
 - Tipo de tacón: Plano
+- Revestimiento: Tela
 - Cierre: Cordones rápidos
-- Anchura del zapato: Regular
 - Material exterior: Tela
+- Anchura del zapato: Regular
 - Material de la suela: Goma
 
 [🛒 Visítala!!!]({{< param buyurl >}})

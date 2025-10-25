@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ingredientes: avene thermal spring water (avene aqua). c12-15 alkyl benzoate. diethylamino hydroxybenzoyl hexyl benzoate. ethylhexyl triazone. oryza sativa (rice) starch (oryza sativa starch). phenylene bis-diphenyltriazine. water (aqua). glycerin. bis-ethylhexyloxyphenol methoxyphenyl triazine. potassium cetyl phosphate. glyceryl laurate. glyceryl stearate. stearyl alcohol. tapioca starch. vp/eicosene copolymer. benzoic acid. caprylic/capric triglyceride. caprylyl glycol. fragrance (parfum). glyceryl behenate. glyceryl dibehenate. ppg-1-peg-9 lauryl glycol ether. red 33 (ci 17200). tocopheryl glucoside. tribehenin. xanthan gum. zinc gluconate
-- 0
 - Solar
+- 0
 - Cleanance solar spf 50+ 50 ml
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

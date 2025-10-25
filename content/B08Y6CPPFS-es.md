@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Parte superior de cuero y malla sintética
+- Skechers Detalle del logotipo
 - Skechers Plantilla acolchada de espuma viscoelástica
 - Diseño de sendero con cordones
-- Skechers Detalle del logotipo
-- Parte superior de cuero y malla sintética
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08Y6CPPFS{{</world>}}

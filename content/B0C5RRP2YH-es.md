@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Ajuste regular
 - Parte superior sintética
-- Construcción sin cordones
 - Ajuste regular
+- Construcción sin cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C5RRP2YH{{</world>}}

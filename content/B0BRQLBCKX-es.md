@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡Lleva contigo el buen rollito y la magia de Unicornio Wonder en este precioso llavero!
-- Llavero con forma de unicornio Mr. Wonderful.
 - Material: PVC + metal + luz
+- Llavero con forma de unicornio Mr. Wonderful.
+- ¡Lleva contigo el buen rollito y la magia de Unicornio Wonder en este precioso llavero!
 - Incorpora una pequeña luz, lo que le aporta originalidad.
 - Llavero realizado en metal
 

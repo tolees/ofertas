@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillos traseros con ribete doble y bolsillo para el móvil debajo
 - Talle medio
 - Bolsillos insertados con ribete y bolsillo para monedas con entrada lateral
 - Corte relajado en la cadera y los muslos, ligeramente estrecho de la rodilla al bajo
+- Bolsillos traseros con ribete doble y bolsillo para el móvil debajo
 - Bragueta de cremallera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

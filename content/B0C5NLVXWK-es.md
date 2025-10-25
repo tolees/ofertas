@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Parte superior de piel sintética
 - Forro textil
 - Cierre de velcro
-- Horma clásica
 - Mediasuela con amortiguación para una pisada cómoda
+- Horma clásica
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C5NLVXWK{{</world>}}

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Maximiza la vida del motor.
 - Garantizado para ajustarse y garantizar el cumplimiento de las emisiones del motor Briggs & Stratton.
-- Fabricado y probado para ayudar a ofrecer un rendimiento óptimo.
-- Antes de comprar, comprueba la compatibilidad de la pieza con el Manual del Operador o en Listado Ilustrado de Piezas disponible en la página web de Briggs & Stratton
-- Para motores horizontales y verticales de potencia bruta 2 a 5.
 - Pieza original de Briggs & Stratton.
+- Maximiza la vida del motor.
+- Antes de comprar, comprueba la compatibilidad de la pieza con el Manual del Operador o en Listado Ilustrado de Piezas disponible en la página web de Briggs & Stratton
+- Fabricado y probado para ayudar a ofrecer un rendimiento óptimo.
+- Para motores horizontales y verticales de potencia bruta 2 a 5.
 - Especialmente diseñado para cumplir con los estándares OEM.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

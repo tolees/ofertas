@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DISFRUTAR CON SEGURIDAD es nuestro lema: todos nuestros productos están incluidos en la Lista de Colonia alemana, es decir, han dado negativo en análisis de sustancias prohibidas
-- ACONSEJAMOS disfrutar, como parte de una dieta variada y equilibrada y un estilo de vida saludable, de 1-2 gel/es energéticos según las necesidades en intervalos regulares durante el ejercicio (en el caso de Cola solo 1 bolsita/día)
-- RENDIMIENTO EXCELENTE en cada competición con el impulso energético decisivo en el momento preciso gracias a nuestro gel energético vegano: sin necesidad de beber después
 - APORTE ENERGÉTICO ÓPTIMO para el cuerpo en sesiones intensas de ejercicio gracias a la mezcla de hidratos C2MAX de fuentes de glucosa y fructosa en proporción 2:1 que contiene este Power Gel
 - POTENCIA A RAUDALES en cada paquete: cada caja contiene 24 bolsitas
+- ACONSEJAMOS disfrutar, como parte de una dieta variada y equilibrada y un estilo de vida saludable, de 1-2 gel/es energéticos según las necesidades en intervalos regulares durante el ejercicio (en el caso de Cola solo 1 bolsita/día)
+- RENDIMIENTO EXCELENTE en cada competición con el impulso energético decisivo en el momento preciso gracias a nuestro gel energético vegano: sin necesidad de beber después
+- DISFRUTAR CON SEGURIDAD es nuestro lema: todos nuestros productos están incluidos en la Lista de Colonia alemana, es decir, han dado negativo en análisis de sustancias prohibidas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07MPDHQ15{{</world>}}

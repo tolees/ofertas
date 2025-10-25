@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela: Caucho
 - Parte superior: cuero
+- Suela: Caucho
 - Forma del talón: plano
 
 [🛒 Comprar!!!]({{< param buyurl >}})

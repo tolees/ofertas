@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - materialFabricComposition: 98% Cotton, 2% Elastane
-- Comfort Fit
-- Care Label:
-- Cargo trousers
 - Mid waist
+- Cargo trousers
+- Care Label:
+- Comfort Fit
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07Y3SBKCC{{</world>}}

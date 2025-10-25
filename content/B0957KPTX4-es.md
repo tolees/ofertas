@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Horma clásica
-- Mediasuela de EVA para una pisada cómoda
 - Parte de malla con refuerzos
-- Puntera de piel sintética resistente al desgaste
+- Horma clásica
 - Cierre de cordones
+- Puntera de piel sintética resistente al desgaste
+- Mediasuela de EVA para una pisada cómoda
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0957KPTX4{{</world>}}

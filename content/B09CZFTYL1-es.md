@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CONTROL DIGITAL TÁCTIL. Fácil y cómodo de usar gracia sa su control digital táctil de tiempo y temperatura de 80ºC a 200ºC. Simplemente programa la temperatura deseada y el tiempo necesario y la freidora se apagará automáticamente una vez transcurrido el tiempo programado
-- SEGURA. Tiene un diseño con cuerpo y asa de tacto frío además de una base anti-deslizante lo que permite cocinar y manipular la freidora de forma segura
 - 6 PROGRAMAS PREESTABLECIDOS. Patatas fritas, carne, pescado, pollo, hornear y gambas. 6 programas preestablecidos con una capcidad de 2.8L.
 - SIN ACEITES AÑADIDOS. Freidora de aire sin aceite con 1200W de potencia y tecnología de circulación de aire a alta velocidad, lo que permite cocinar sin necesidad de aceites añadidos haciendo que tus platos tengan menos calorías y sean más saludables
+- SEGURA. Tiene un diseño con cuerpo y asa de tacto frío además de una base anti-deslizante lo que permite cocinar y manipular la freidora de forma segura
+- CONTROL DIGITAL TÁCTIL. Fácil y cómodo de usar gracia sa su control digital táctil de tiempo y temperatura de 80ºC a 200ºC. Simplemente programa la temperatura deseada y el tiempo necesario y la freidora se apagará automáticamente una vez transcurrido el tiempo programado
 - LIMPIEZA Y DESMONTAJE FÁCIL. Cubeta y bandeja antiadherentes y extraíbles diseñadas para un fácil desmontaje y una cómoda y rápida limpieza.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

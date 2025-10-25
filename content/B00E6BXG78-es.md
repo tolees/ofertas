@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Puntera cerrada
 - Cierre: sin cordones
 - Bandas elásticas: fácil de instalar.
+- Puntera cerrada
 - Patrón sólido
 
 [🛒 Aquí!!!]({{< param buyurl >}})

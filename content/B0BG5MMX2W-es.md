@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Logotipo estampado en el talón y la lengüeta Plantilla moldeada
 - Cierre frontal con cordones bicolor
-- Trabilla de grogrén en el talón
-- Pestaña de grogrén en el
 - Entresuela FuelFoam con logotipo en relieve Suela exterior de goma ranurada
+- Pestaña de grogrén en el
+- Trabilla de grogrén en el talón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BG5MMX2W{{</world>}}

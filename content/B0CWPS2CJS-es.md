@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Apto para todas las estaciones.
-- Notas base: vainilla e incienso.
-- Notas medianas: agua de coco salada e iris.
 - Notas principales: pimienta negra y lavanda marina.
+- Notas medianas: agua de coco salada e iris.
+- Apto para todas las estaciones.
 - Lattafa Asad Zansibar Eau de Parfum unisex, 100 ml
+- Notas base: vainilla e incienso.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CWPS2CJS{{</world>}}

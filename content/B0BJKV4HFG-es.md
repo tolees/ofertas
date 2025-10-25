@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Caja redonda de acero inoxidable 316l de color azul.
 - Correa de acero inoxidable 316l de color azul con cierre doble pulsador.
 - Resistencia al agua: 5 atm.
 - Esfera redonda de color azul de cristal mineral.
+- Caja redonda de acero inoxidable 316l de color azul.
 - Reloj de analógico para hombre.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sombrero de vestimento
 - Tiene detalles distintivos de la marca "Puma"
+- Sombrero de vestimento
 - Para uso diario
 
 [🛒 Aquí!!!]({{< param buyurl >}})

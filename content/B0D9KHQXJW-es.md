@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cintura baja con logotipo en contraste
 - Cintura baja
+- Cintura baja con logotipo en contraste
 - Cómodo jersey de algodón con porcentaje de elastano
 
 [🛒 Comprar!!!]({{< param buyurl >}})

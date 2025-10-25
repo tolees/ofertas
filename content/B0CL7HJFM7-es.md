@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- materialFabricComposition: 78% Cotton, 20% Recycled Cotton, 2% Elastane
+- Chino trousers
+- Low rise
 - Slim Fit
 - Care Label:
-- Low rise
-- Chino trousers
-- materialFabricComposition: 78% Cotton, 20% Recycled Cotton, 2% Elastane
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CL7HJFM7{{</world>}}

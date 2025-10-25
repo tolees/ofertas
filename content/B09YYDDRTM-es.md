@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Bolsillos
 - Cintura elástica
 - Cierre de cordón
-- Bolsillos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09YYDDRTM{{</world>}}

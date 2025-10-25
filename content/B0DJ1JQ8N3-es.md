@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- SENSITIVE: con pavo y guisante, para gatos con sensibilidad digestiva.
-- Ingredientes SIN GLUTEN
-- PREBIÓTICOS (FOS): ayudan a desarrollar la microbiota intestinal
-- Alimento dietético completo para gatitos a partir de 8 semanas y gatos adultos
 - Con ARROZ para una fácil digestión y SEPIOLITA para heces de mejor calidad
+- PREBIÓTICOS (FOS): ayudan a desarrollar la microbiota intestinal
+- Ingredientes SIN GLUTEN
+- Alimento dietético completo para gatitos a partir de 8 semanas y gatos adultos
+- SENSITIVE: con pavo y guisante, para gatos con sensibilidad digestiva.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DJ1JQ8N3{{</world>}}

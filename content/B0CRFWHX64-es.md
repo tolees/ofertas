@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste: corte holgado
-- Composición: 60 por ciento de algodón 38 por ciento de poliéster y 2 por ciento de elastano
-- Instrucciones de cuidado: lavable a máquina
-- Pantalón largo
 - Cierre: cremallera y botón
+- Instrucciones de cuidado: lavable a máquina
+- Ajuste: corte holgado
+- Pantalón largo
+- Composición: 60 por ciento de algodón 38 por ciento de poliéster y 2 por ciento de elastano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CRFWHX64{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Authorised Stockist
 - Genuine Product
+- Authorised Stockist
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0000ATCP4{{</world>}}

@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Uso con o sin cable: 45 minutos de autonomía
 - Varios cabezales de afeitado para cara y cabello
-- 2 guías de corte: 2-14 mm y 3-15 mm
+- Uso con o sin cable: 45 minutos de autonomía
 - Recortador para nariz y oreja
 - Cabezal cuerpo: doble cabezal + peine guía
-- Guía de precisión con 6 posiciones: 0,5 a 3 mm
 - Waterproof: resistente al agua
+- Guía de precisión con 6 posiciones: 0,5 a 3 mm
+- 2 guías de corte: 2-14 mm y 3-15 mm
 - Cuchillas auto lubricantes 32 mm para cabello y barba
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Línea inspirada en correr
 - Colección Legacy Plus
+- Línea inspirada en correr
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D5BQH8KT{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Caja de 51 mm, pulsera de 26 mm de ancho, cristal mineral, movimiento cronógrafo de cuarzo, importado
 - Resistente al agua hasta 100 m: se puede llevar bañándose, nadando o practicando snorkel y buceo poco profundo
 - Caja redonda de acero inoxidable con esfera gris
+- Caja de 51 mm, pulsera de 26 mm de ancho, cristal mineral, movimiento cronógrafo de cuarzo, importado
 - Correa de acero inoxidable Gunmetal
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

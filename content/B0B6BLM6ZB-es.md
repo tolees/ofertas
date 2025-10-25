@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ropa interior para hombre
-- Camiseta individual
 - Ajuste regular
+- Camiseta individual
+- Ropa interior para hombre
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B6BLM6ZB{{</world>}}

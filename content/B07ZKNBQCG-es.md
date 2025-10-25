@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Limpieza y cuidados: A las zapatillas Munich no les gusta ni la lavadora ni la secadora porque las estropean
+- Con la X de Munich visible
 - Cierre: Cordones
 - Suela de goma caucho
 - Piel de ante
-- Con la X de Munich visible
-- Limpieza y cuidados: A las zapatillas Munich no les gusta ni la lavadora ni la secadora porque las estropean
 - Zapatillas con un diseño urbano y ligero de la marca Munich
 
 [🛒 Visítala!!!]({{< param buyurl >}})

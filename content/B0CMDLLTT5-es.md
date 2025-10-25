@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Espuma de vapor
 - Espuma viscoelástica
+- Espuma de vapor
 - Slip-Ins integrados
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

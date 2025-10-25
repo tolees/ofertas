@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- sin cristal
 - Medición precisa de la temperatura corpora
+- sin cristal
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0009G5BRW{{</world>}}

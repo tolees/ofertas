@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Manicura de larga duración
-- Acabado brillante en una sola pasada
 - Protege y realza el color de tu esmalte de uñas favorito de Rimmel
 - Top Coat brillante
+- Manicura de larga duración
+- Acabado brillante en una sola pasada
 - Fórmula vegana
 
 [🛒 Visítala!!!]({{< param buyurl >}})

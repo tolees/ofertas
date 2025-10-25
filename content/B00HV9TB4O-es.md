@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Objectif
 - SONY
+- Objectif
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00HV9TB4O{{</world>}}

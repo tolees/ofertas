@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Incluye 6 marcadores punta bala a base de agua en color gris.
-- No es necesario agitarlos, simplemente destapa y crea. Para obtener los mejores resultados, almacena los marcadores en posición horizontal.
-- Colores que destacan en superficies claras y oscuras; marcan intensamente sobre papel, metal, madera, cerámica, vidrio, piedra y lienzo.
-- Crea hermosas capas de color con colores que no se mezclan.
 - Marcadores creativos acrílicos con tinta con efecto de pintura que no traspasa el papel.
+- No es necesario agitarlos, simplemente destapa y crea. Para obtener los mejores resultados, almacena los marcadores en posición horizontal.
+- Crea hermosas capas de color con colores que no se mezclan.
+- Colores que destacan en superficies claras y oscuras; marcan intensamente sobre papel, metal, madera, cerámica, vidrio, piedra y lienzo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DWSC3NJR{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para que cada dia te sientas unica
-- Tu imagen nos importa, por eso te ofrecemos los mejores productos
 - Piz Buin es un nombre de marca reconocido
+- Tu imagen nos importa, por eso te ofrecemos los mejores productos
 - Tan Protect Oil Spray Spf30 150 ml
+- Para que cada dia te sientas unica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00GO4KI1W{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajustado
 - Cintura elástica con cordón
 - Tejido transpirable
+- Ajustado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B61WYV9M{{</world>}}

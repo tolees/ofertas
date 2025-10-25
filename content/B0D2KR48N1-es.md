@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detalles distintivos de la marca
 - Ofrecen comodidad y amortiguación
+- Detalles distintivos de la marca
 - Con detalles perforados en el empeine
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

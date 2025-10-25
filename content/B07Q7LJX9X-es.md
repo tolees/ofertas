@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cajón para freír antiadherente con una capacidad de 2,6l, cómodo y fácil de extraer
-- Temperatura variable hasta 200 c
-- Potencía: 1.300 w
 - Fríe con una cucharada de aceite de forma más saludable y sin olores
+- Temperatura variable hasta 200 c
 - Cestillo con asa: temporizador de 60 min; con desconexión automática
+- Potencía: 1.300 w
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07Q7LJX9X{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre de cordones
 - Parte superior sintética suave
 - Forro textil
+- Cierre de cordones
 - Horma clásica
 - Confort y estilo deportivo
 

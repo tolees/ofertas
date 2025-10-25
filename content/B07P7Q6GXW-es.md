@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conjunto de futbol
 - Con pantalón de doble cintura acentuado con elástico y cordón
 - Tiene la camiseta de cuello redondo con cortes a contraste en la parte delantera
+- Conjunto de futbol
 - Presenta el logotipo impreso
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

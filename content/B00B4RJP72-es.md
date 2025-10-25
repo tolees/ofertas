@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Crema con un acabado mate y con un efecto duradero
+- Absorbe el sebo directamente sobre la superficie de la piel
 - Es adecuada para pieles grasas, impuras y poros grandes
 - muestra de Effaclar Purifying Foaming Cleansing Gel para pieles grasas puede o no venir con el artículo
 - Cuenta con una textura libre de aceite
-- Absorbe el sebo directamente sobre la superficie de la piel
+- Crema con un acabado mate y con un efecto duradero
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00B4RJP72{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Parte superior de malla de jersey con cordones elásticos
 - Skechers Manos libres se deslizan para un ajuste fácil
 - Tacón de 1 1/4 pulgadas
-- Parte superior de malla de jersey con cordones elásticos
 - Suela de tracción flexible
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

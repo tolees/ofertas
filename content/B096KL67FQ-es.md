@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Espuma viscoelástica
 - Vegano
+- Espuma viscoelástica
 - Zapato cómodo
 - Lavable a máquina
 

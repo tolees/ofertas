@@ -29,15 +29,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Color intenso
-- Nueva fórmula Best in class: formulación altamente avanzada
-- Respeta la luminosidad del color
-- Espejo incorporado para retoques durante todo el día
-- Espejo incorporado para retoques durante todo el día
-- Nueva fórmula Best in class: formulación altamente avanzada
-- Aplicación de tacto de seda creando una película fina y cómoda
-- Aplicación de tacto de seda creando una película fina y cómoda
-- Respeta la luminosidad del color
 - Color intenso
+- Aplicación de tacto de seda creando una película fina y cómoda
+- Respeta la luminosidad del color
+- Aplicación de tacto de seda creando una película fina y cómoda
+- Respeta la luminosidad del color
+- Nueva fórmula Best in class: formulación altamente avanzada
+- Nueva fórmula Best in class: formulación altamente avanzada
+- Espejo incorporado para retoques durante todo el día
+- Espejo incorporado para retoques durante todo el día
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B082XS1ZZ4{{</world>}}

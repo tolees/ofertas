@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Utiliza marcadores para guiar tácticamente a tus alumnos soldados en tiempo real.
-- Equipa a tus alumnos con valioso equipo para aumentar sus habilidades o potenciarlas. Encuéntralo en los cofres durante tus misiones o cómpralo en la tienda de la base.
 - Una historia global que avanza a medida que completas misiones y la oportunidad de mantener un divertido diálogo entre los personajes mientras juegas.
+- Equipa a tus alumnos con valioso equipo para aumentar sus habilidades o potenciarlas. Encuéntralo en los cofres durante tus misiones o cómpralo en la tienda de la base.
 - Sistema de gestión de grupos para cambiar a los compañeros de equipo y supervisar los niveles, las habilidades y las estadísticas.
-- ¡Posibilidad de elegir entre 10 razas con sexo masculino y femenino y más de 80 rasgos de personalidad diferentes para tu equipo!
 - Cada fase cuenta con monstruos jefes únicos con diferentes habilidades y ataques que deberás derrotar para avanzar en la historia.
+- Utiliza marcadores para guiar tácticamente a tus alumnos soldados en tiempo real.
+- ¡Posibilidad de elegir entre 10 razas con sexo masculino y femenino y más de 80 rasgos de personalidad diferentes para tu equipo!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B76WW3HT{{</world>}}

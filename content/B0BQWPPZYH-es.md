@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Refuerzo en el arco plantar
-- 55% poliéster reciclado / 42% algodón / 2% elastán / 1% nailon reciclado
-- Calcetines piqui
 - Tres pares por paquete
+- 55% poliéster reciclado / 42% algodón / 2% elastán / 1% nailon reciclado
+- Refuerzo en el arco plantar
+- Calcetines piqui
 - AEROREADY
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido transpirable
-- Ofrece comodidad y libertad de movimiento
 - Producto hecho con un material de calidad y resistente
+- Ofrece comodidad y libertad de movimiento
+- Tejido transpirable
 - Producto adecuado para los días de verano
 
 [🛒 Comprar!!!]({{< param buyurl >}})

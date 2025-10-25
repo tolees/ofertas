@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cintura elástica
 - 93% algodón / 7% elastán
 - Corte ajustado
-- Cintura elástica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CKTP38SN{{</world>}}

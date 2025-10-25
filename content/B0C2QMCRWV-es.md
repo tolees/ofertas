@@ -31,8 +31,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - Parte sintética suave
 - Cierre de cordones
 - Forro textil
-- Horma clásica
 - Mediasuela Bounce
+- Horma clásica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C2QMCRWV{{</world>}}

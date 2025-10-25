@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- zapatillas PUMA Smash
 - Inserto de espuma suave extraíble
 - Inspirado en el tenis. Comodidad con estilo para todos los días.
-- zapatillas PUMA Smash
-- Suela de goma
 - Parte superior de cuero suave
+- Suela de goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B077MJJM3W{{</world>}}

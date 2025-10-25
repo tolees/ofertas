@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La barra de labios icono de Revlon
 - Extra sedoso e hidratante, acabado satinado y sin fragancia
-- Su fórmula LiquidSilk sella el color y suaviza los labios aportando hidratación
 - Enriquecido con aloe, vitaminas A, C y E
+- La barra de labios icono de Revlon
+- Su fórmula LiquidSilk sella el color y suaviza los labios aportando hidratación
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0047PNCHW{{</world>}}

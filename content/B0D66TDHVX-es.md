@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dermatológicamente testado No comedogénico
-- Un velo de luz, una caricia de perla para la piel del cuerpo y el cabello. Una mezcla única de aceites vegetales que se desliza sobre la piel, deleitándola y realzándola al instante, durante todo el año
-- Los aceites de aguacate, oliva, almendras dulces y coco enriquecen una fórmula preciosa, sensorial, hidratante y calmante
-- Increíblemente suave y confortable para el cuerpo, está enriquecida con microperlas y deja la piel luminosa, nutrida y suave, y el cabello brillante
 - Mima tu piel tras la exposición al sol, el viento y la salinidad
+- Un velo de luz, una caricia de perla para la piel del cuerpo y el cabello. Una mezcla única de aceites vegetales que se desliza sobre la piel, deleitándola y realzándola al instante, durante todo el año
+- Increíblemente suave y confortable para el cuerpo, está enriquecida con microperlas y deja la piel luminosa, nutrida y suave, y el cabello brillante
+- Los aceites de aguacate, oliva, almendras dulces y coco enriquecen una fórmula preciosa, sensorial, hidratante y calmante
+- Dermatológicamente testado No comedogénico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D66TDHVX{{</world>}}

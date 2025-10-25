@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ligereza
 - Zapatos deportivos
+- Ligereza
 - Almohadón
 
 [🛒 Comprar!!!]({{< param buyurl >}})

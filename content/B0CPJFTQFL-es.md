@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Skechers Detalle del logotipo
-- Empeine sintético Durabuck con cordones y detalles grabados
 - Suela de tracción flexible
+- Empeine sintético Durabuck con cordones y detalles grabados
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CPJFTQFL{{</world>}}

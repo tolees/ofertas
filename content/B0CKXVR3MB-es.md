@@ -31,9 +31,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Contiene al menos un 20% de material reciclado
 - Horma clásica
 - Forro textil
-- Empeine de malla
 - Suela y mediasuela de EVA
 - Forro textil
+- Empeine de malla
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CKXVR3MB{{</world>}}

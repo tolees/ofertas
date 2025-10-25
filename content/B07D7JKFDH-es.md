@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Efecto recién aplicado durante todo el día
-- Colorete pigmentado para marcar el pómulo
 - Textura suave que se funde fácilmente con la piel
 - Fórmula ligera
+- Colorete pigmentado para marcar el pómulo
 - Larga duración
 
 [🛒 Visítala!!!]({{< param buyurl >}})

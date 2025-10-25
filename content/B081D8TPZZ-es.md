@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Impedancia: 65 Ω
-- Comodidad HyperX Marco de aluminio distintivo y duradero
-- Compatible con PC y PS4
 - Altavoces de dos cámaras HyperX . Sensibilidad -38 dBV (0 dB = 1 V/Pa a 1 kHz)
 - Diapositivas de control de graves, equilibrio de audio de juego/chat, mezclador de audio avanzado; nivel de presión sonora de 99 dBspl/mW a 1 kHz
+- Impedancia: 65 Ω
+- Compatible con PC y PS4
 - Sony Surround 7.1 HyperX *
+- Comodidad HyperX Marco de aluminio distintivo y duradero
 - Asegúrese de tener instalados los controladores USB y de audio más recientes y de que el firmware de la tarjeta de sonido USB esté actualizado. Asegúrese de que los auriculares estén activados en la configuración de privacidad del micrófono. (Configuración > Privacidad > Micrófono) y recomendamos probar los auriculares en diferentes dispositivos, con y sin la tarjeta de sonido USB. Esto ayudará a detectar el problema.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

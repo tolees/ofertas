@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Disminuye las arrugas de expresión
 - Mejora la tonicidad, hidratación y elasticidad de la piel
-- Protege la piel de los radical libres
 - Atenúa las arrugas profundas
+- Protege la piel de los radical libres
 - Promueve la síntesis de ácido hialurónico, colágeno y elastina
 
 [🛒 Visítala!!!]({{< param buyurl >}})

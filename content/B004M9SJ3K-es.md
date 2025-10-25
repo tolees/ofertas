@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Adecuado para el retoque durante el día
-- Libre de fragancia, aceites, parabenos y talco, no obstruirá los poros y es óptimo para todo tipo de piel
 - Hasta 5 horas de control de brillo natural con minerales naturales
 - Ayuda a minimizar la apariencia de los poros
+- Adecuado para el retoque durante el día
+- Libre de fragancia, aceites, parabenos y talco, no obstruirá los poros y es óptimo para todo tipo de piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B004M9SJ3K{{</world>}}

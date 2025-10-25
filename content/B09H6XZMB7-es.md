@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tela suave
 - Tiene detalles distintivos de la marca
+- Tela suave
 - Sudadera para hombre
 - Ajuste regular
 

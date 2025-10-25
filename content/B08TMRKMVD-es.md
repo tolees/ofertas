@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Malla atlética
+- Skechers Detalle del logotipo
 - Entresuela que absorbe los golpes
 - Ligeras
-- Skechers Detalle del logotipo
-- Malla atlética
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08TMRKMVD{{</world>}}

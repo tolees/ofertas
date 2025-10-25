@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Resistente al agua hasta 50 m: ponible mientras se nada en aguas poco profundas
 - Correa de acero inoxidable color plata
+- Resistente al agua hasta 50 m: ponible mientras se nada en aguas poco profundas
 - Caja redonda de acero inoxidable con esfera plateada
 - Caja de 44 mm, cristal mineral, movimiento de cuarzo con pantalla de cronógrafo analógico, correa de 22 mm
 

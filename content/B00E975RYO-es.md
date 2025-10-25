@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color negro
 - Papel de triple capa
-- 10 pañuelos por paquetito
-- Suaves y absorbentes
 - 6 paquetitos por pack
+- Suaves y absorbentes
+- Color negro
+- 10 pañuelos por paquetito
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00E975RYO{{</world>}}

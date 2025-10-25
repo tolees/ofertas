@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Explora un mundo inmenso y variado
-- Haz nuevos amigos y lucha contra enemigos malvados
-- Conviértete en un Gran Maestro de Nexomon
 - Lucha y domina a cientos de Nexomon
+- Haz nuevos amigos y lucha contra enemigos malvados
+- Explora un mundo inmenso y variado
+- Conviértete en un Gran Maestro de Nexomon
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B1QK7NHV{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Botón de bloqueo del husillo: Si quieres cambiar el disco, el botón de bloqueo te ayudará muchísimo. El botón de bloqueo se puede cambiar fácilmente sin ningún esfuerzo, lo que mejora en gran medida la experiencia del usuario.
 - Amoladora versátil: La amoladora WX800 de Worx, es perfecta para desbastar y cortar. Al ser a batería, te permitirá trabajar donde sea, sin necesidad de tener tomas de corriente cerca. Ya sea desbastar, cortar o pulir, la herramienta será igual de confortable y duradera que las amoladoras a cable de Worx, pero con la ventaja y flexibilidad de que es a batería
-- Empuñadura auxiliar 2 posiciones: La empuñadura auxiliar puede colocarse en ambos lados, esto te permitirá trabajar con la mano derecha e izquierda
+- Botón de bloqueo del husillo: Si quieres cambiar el disco, el botón de bloqueo te ayudará muchísimo. El botón de bloqueo se puede cambiar fácilmente sin ningún esfuerzo, lo que mejora en gran medida la experiencia del usuario.
 - Diseño compacto y ligero: La amoladora WX800 es perfecta para llevarla encima y para trabajar. El diseño hace que sea una herramienta compacta y ligera, para que puedas trabajar en espacios estrechos. El peso con batería es de tan solo 1,8kg, mucho más ligera que las de la competencia.
 - Ajuste del protector del disco sin herramientas: En la amoladora Worx WX800 el ajuste e instalación del protector del disco no necesita herramientas, haciendo que sea muy fácil el montaje y retirada de este.
+- Empuñadura auxiliar 2 posiciones: La empuñadura auxiliar puede colocarse en ambos lados, esto te permitirá trabajar con la mano derecha e izquierda
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01N33OMZO{{</world>}}

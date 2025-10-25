@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Nuestras fórmulas con densipeptide fortalecen la estructura del cabello, revitalizan el cabello quebradizo, mantienen la densidad del cabello e hidratan el cuero cabelludo y el cabello
 - Volumen 350 ml
 - Brand: Revlon Professional ProYou
-- Nuestras fórmulas con densipeptide fortalecen la estructura del cabello, revitalizan el cabello quebradizo, mantienen la densidad del cabello e hidratan el cuero cabelludo y el cabello
 - Limpia suavemente el cabello débil y fino
 
 [🛒 Aquí!!!]({{< param buyurl >}})

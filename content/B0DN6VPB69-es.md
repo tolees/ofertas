@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La siguiente información se aplica a cada unidad del paquete
-- Disfrútalas ahora o más tarde, gracias a la práctica lata que se puede volver a cerrar
-- Con sabor a crema agria
-- Aperitivo hecho a base de patata
 - Conservar en lugar fresco, seco y oscuro
+- Aperitivo hecho a base de patata
+- Disfrútalas ahora o más tarde, gracias a la práctica lata que se puede volver a cerrar
+- La siguiente información se aplica a cada unidad del paquete
+- Con sabor a crema agria
 - El aperitivo optimo para disfrutar solo o acompañado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

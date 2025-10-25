@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte superior: lona
 - Tipo de tacón: plano
-- Cierre: cordones
 - Forro: textil
-- Ancho del zapato: medio
 - Suela: plana
-- Material de la suela: goma
+- Parte superior: lona
+- Cierre: cordones
 - Plantilla: sintética
+- Material de la suela: goma
+- Ancho del zapato: medio
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B079C74NQQ{{</world>}}

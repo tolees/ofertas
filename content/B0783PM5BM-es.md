@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Inspirado en el tenis. Diseñado para una apariencia y comodidad excelentes todos los días.
 - Suela de goma duradera y adherente
 - Ajuste actualizado y mejorado.
+- Inspirado en el tenis. Diseñado para una apariencia y comodidad excelentes todos los días.
 - zapatillas PUMA Smash
 - Suela de goma duradera y adherente
 

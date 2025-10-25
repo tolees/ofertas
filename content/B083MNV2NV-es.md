@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Puzzles progresivos, 4 puzzles de: 3, 6, 9 y 12 piezas de distintos personajes
-- Crea distintos personajes y formas variadas de forma fácil y progresiva
 - Favorece la concentración y las habilidades manuales
+- Crea distintos personajes y formas variadas de forma fácil y progresiva
+- Puzzles progresivos, 4 puzzles de: 3, 6, 9 y 12 piezas de distintos personajes
 - Hecho en Italia
 
 [🛒 Visítala!!!]({{< param buyurl >}})

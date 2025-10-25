@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Prenda deportiva de vestir
 - Para uso diario
+- Prenda deportiva de vestir
 - Tiene detalles distintivos de la marca "Puma"
 
 [🛒 Aquí!!!]({{< param buyurl >}})

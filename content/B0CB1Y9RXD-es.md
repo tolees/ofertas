@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Una mirada original
-- Bordado de G-STAR en el pecho
 - Proporciona comodidad
+- Bordado de G-STAR en el pecho
 - Un ajuste cómodo
 - Cuello acanalado
+- Una mirada original
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CB1Y9RXD{{</world>}}

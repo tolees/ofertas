@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela de goma de aspecto vulcanizado
-- Horma clásica
 - Parte superior de nobuk sintético
 - Cierre de cordones
+- Suela de goma de aspecto vulcanizado
+- Horma clásica
 - Tirador de tela en el talón
 
 [🛒 Aquí!!!]({{< param buyurl >}})

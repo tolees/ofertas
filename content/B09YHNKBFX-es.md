@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Auriculares con Micrófono de la marca Corsair
 - Medidas: 31,1 x 29,3 x 11,9 centímetros
 - Color: Multicolor
-- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
 - Referencia: S7191331
+- Auriculares con Micrófono de la marca Corsair
+- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09YHNKBFX{{</world>}}

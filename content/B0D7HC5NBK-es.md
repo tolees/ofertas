@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Costuras texturizadas en la visera
-- Botón en la corona
 - Ojales de ventilación
 - Cierre de en la parte trasera
+- Botón en la corona
+- Costuras texturizadas en la visera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D7HC5NBK{{</world>}}

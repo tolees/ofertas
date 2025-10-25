@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte clásico
 - 100% poliéster (reciclado)
+- Corte clásico
 - Tecnología transpirable AEROREADY
 
 [🛒 Aquí!!!]({{< param buyurl >}})

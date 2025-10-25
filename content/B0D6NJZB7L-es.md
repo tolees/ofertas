@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tipo de estiramiento: no elástico
-- Polo informal
 - Composición: 100% algodón
-- Ajuste: regular
+- Polo informal
 - Instrucciones de cuidado: lavable a máquina
+- Ajuste: regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D6NJZB7L{{</world>}}

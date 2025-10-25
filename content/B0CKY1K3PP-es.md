@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Empeine sintético con textura Strikeprint
-- Horma clásica
 - Forro textil
-- Suela versátil
 - Cierre de cordones
+- Horma clásica
+- Empeine sintético con textura Strikeprint
+- Suela versátil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CKY1K3PP{{</world>}}

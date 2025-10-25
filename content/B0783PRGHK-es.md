@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - La estación de carga (no incluida), mantiene tu Air totalmente cargado y listo para la acción, y además funciona como elegante soporte de exhibición
-- Conexión con tu smartphone. La SumUp App gratuita te permite empezar a aceptar pagos de inmediato
 - Batería de larga duración. Procesa más de 500 transacciones con una sola carga
-- Aceptación de pagos. Acepta todas las tarjetas de crédito y débito principales, ya sean con banda magnética, con chip y PIN o contactless
 - Transparencia. 1,5 % Comisión por transacción
+- Conexión con tu smartphone. La SumUp App gratuita te permite empezar a aceptar pagos de inmediato
+- Aceptación de pagos. Acepta todas las tarjetas de crédito y débito principales, ya sean con banda magnética, con chip y PIN o contactless
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0783PRGHK{{</world>}}

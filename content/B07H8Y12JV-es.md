@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Paleta de 8 sombras para crear un ahumado perfecto
+- Contiene 8 tonos luminosos, intenso y modernos
 - Contiene un aplicador de doble punta: una suave para combinar las combras y otra precisa para delinear o definir
 - Incluye un espejo giratorio para retoques rápidos sobre la marcha
-- Contiene 8 tonos luminosos, intenso y modernos
 - Su fórmula contiene primer para proporcionar hasta 12 horas de duración
 
 [🛒 Visítala!!!]({{< param buyurl >}})

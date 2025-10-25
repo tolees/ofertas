@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Almacenamiento interno de 256GB y 8GB de RAM para un rendimiento rápido y espacio de almacenamiento amplio.
-- Batería de gran capacidad de 5110 mAh para un uso prolongado sin necesidad de cargar con frecuencia.
-- Pantalla OLED de 6,67 pulgadas con una tasa de refresco de 120Hz para una experiencia visual fluida y nítida.
 - Cámara de 50 megapíxeles para capturar imágenes de alta calidad con detalles nítidos.
 - Diseño resistente al polvo y al agua con certificación IP64 para mayor durabilidad.
+- Pantalla OLED de 6,67 pulgadas con una tasa de refresco de 120Hz para una experiencia visual fluida y nítida.
+- Batería de gran capacidad de 5110 mAh para un uso prolongado sin necesidad de cargar con frecuencia.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DPHSL9FP{{</world>}}

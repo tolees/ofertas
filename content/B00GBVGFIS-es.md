@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- EDAD RECOMENDADA: a partir de 3 años
-- CRAYOLA COLOR y STICKER: álbum con 32 páginas para colorear y 50 pegatinas temáticas de Princesas Disney
 - DESCARGA TU CREATIVIDAD: utiliza las pegatinas para completar las páginas para colorear o para decorar libros, cuadernos o el dormitorio
 - TEMA PRINCESAS DISNEY: para niñas y niños amantes de las Princesas Disney, imagina fantásticas aventuras con Ariel, Jasmin y todas las princesas
+- EDAD RECOMENDADA: a partir de 3 años
+- CRAYOLA COLOR y STICKER: álbum con 32 páginas para colorear y 50 pegatinas temáticas de Princesas Disney
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00GBVGFIS{{</world>}}

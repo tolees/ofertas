@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Horma clásica
-- Forro textil
 - Parte superior de piel sintética con detalles de ante
-- Plantilla Cloudfoam Comfort para mayor comodidad
+- Forro textil
+- Horma clásica
 - Cierre de cordones
+- Plantilla Cloudfoam Comfort para mayor comodidad
 - Compra una talla más grande
 
 [🛒 Comprar!!!]({{< param buyurl >}})

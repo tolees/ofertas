@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro textil
 - Horma clásica
 - Cierre de cordones
 - Parte superior sintética suave
+- Forro textil
 - Suela de goma
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

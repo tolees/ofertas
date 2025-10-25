@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Encuentra a los Rot: los tímidos e ilusorios espíritus están dispersos por todo el bosque. Para mantener el equilibrio, descomponen elementos muertos y putrefactos.
-- La versión física de Kena: Bridge of Spirits – Deluxe Edition incluye: Juego base Banda sonora original en formato digital Bastón exclusivo de Kena Aspecto de Rot dorado Hoja de pegatinas exclusivas en formato físico Gorros de celebración para Rots
-- Explora: una aldea olvidada y una extraña maldición. Haz uso del poder del reino espiritual para restablecer un mundo otrora majestuoso.
-- Crea tu equipo: encuentra y recoge Rot para obtener poderosas habilidades, realizar descubrimientos y transformar el entorno.
 - Combates frenéticos: enfréntate con Kena a espíritus corruptos que han sido atrapados y son incapaces de escapar.
+- Encuentra a los Rot: los tímidos e ilusorios espíritus están dispersos por todo el bosque. Para mantener el equilibrio, descomponen elementos muertos y putrefactos.
+- Explora: una aldea olvidada y una extraña maldición. Haz uso del poder del reino espiritual para restablecer un mundo otrora majestuoso.
+- La versión física de Kena: Bridge of Spirits – Deluxe Edition incluye: Juego base Banda sonora original en formato digital Bastón exclusivo de Kena Aspecto de Rot dorado Hoja de pegatinas exclusivas en formato físico Gorros de celebración para Rots
+- Crea tu equipo: encuentra y recoge Rot para obtener poderosas habilidades, realizar descubrimientos y transformar el entorno.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09H7V5WM2{{</world>}}

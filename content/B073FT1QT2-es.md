@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Clase de eficiencia energética A+
 - Durabilidad media: 15000 horas
-- Temperatura del color: 2700 Kelvin
 - Tipo de bombilla: LED
+- Temperatura del color: 2700 Kelvin
+- Clase de eficiencia energética A+
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B073FT1QT2{{</world>}}

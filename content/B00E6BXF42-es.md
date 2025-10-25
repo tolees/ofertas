@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre: sin cordones
 - Puntera cerrada
 - Bandas elásticas: fácil de instalar.
+- Cierre: sin cordones
 - Patrón sólido
 
 [🛒 Visítala!!!]({{< param buyurl >}})

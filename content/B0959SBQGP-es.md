@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Polartec
+- Tejido helly tech protection
+- Helly tech protection
 - Artículos entregados: 1x helly hansen mens crew midlayer jacket - jacket deep fjord l
 - Cremallera ykk
-- Helly tech protection
-- Tejido helly tech protection
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0959SBQGP{{</world>}}

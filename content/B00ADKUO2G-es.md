@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Fabricado en microfibra de dos capas preformadas
+- Lavar a máquina a 30°C
 - Gran capacidad y sujeción
 - Modelo: LOREA D
 - Minimizer-reductor
-- Lavar a máquina a 30°C
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00ADKUO2G{{</world>}}

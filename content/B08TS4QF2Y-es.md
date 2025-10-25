@@ -32,8 +32,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - NOTA: Al abrir la tapa, presione el botón de la tapa hasta el fondo. Si no quieres que el agua siga hirviendo, vuelve a pulsar el botón de mantener caliente para detener el proceso.
 - Tapa fácil de abrir para llenar y vaciar sin esfuerzo y sin salpicaduras
 - Controlador de termostato British Strix avanzado; funciona a 1850-2200 W para un calentamiento rápido
-- Hervidor de 1,7 l con un exterior elegante, elegante y moderno de acero inoxidable cepillado
 - La función de mantener el calor ahorra tiempo y energía
+- Hervidor de 1,7 l con un exterior elegante, elegante y moderno de acero inoxidable cepillado
 - Fija la temperatura perfecta para el té, el café y otras bebidas con la pantalla LED de fácil lectura del mango
 
 [🛒 Visítala!!!]({{< param buyurl >}})

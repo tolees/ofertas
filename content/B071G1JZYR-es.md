@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conservar en lugar fresco y seco
-- De distintos colores y sabores
 - Geles dulces
 - Deliciosas piezas de regaliz enrolladas en forma de disco
+- Conservar en lugar fresco y seco
+- De distintos colores y sabores
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B071G1JZYR{{</world>}}

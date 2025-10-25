@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Contenido: 1x Base de maquillaje fluido Fit Me Mate y Afinaporos Maybelline New York, Tono: 100 Warm Ivory Cantidad: 30 ml
-- Fórmula ligera no comedogénica enriquecida con arcilla matificante y micropolvos borradores de brillos y poros para un acabado natural
 - Utiliza tu tono en toda la cara y otro ligeramente más oscuro en los relieves del rostro para un efecto bronceado, Combínalo con el corrector y los polvos Fit Me para un acabado impecable.
+- Fórmula ligera no comedogénica enriquecida con arcilla matificante y micropolvos borradores de brillos y poros para un acabado natural
 - Idónea para pieles mixtas o grasas gracias a nuestra exclusiva fórmula
+- Contenido: 1x Base de maquillaje fluido Fit Me Mate y Afinaporos Maybelline New York, Tono: 100 Warm Ivory Cantidad: 30 ml
 - Base de maquillaje que calca tu tono y tu textura para un resultado sublime y homogéneo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

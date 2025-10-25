@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - zapatillas PUMA Smash
-- Suela de goma duradera y adherente
 - Inspirado en el tenis. Diseñado para una apariencia y comodidad excelentes todos los días.
 - Ajuste actualizado y mejorado.
+- Suela de goma duradera y adherente
 - Suela de goma duradera y adherente
 
 [🛒 Comprar!!!]({{< param buyurl >}})

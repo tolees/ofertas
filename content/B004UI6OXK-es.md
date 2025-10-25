@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La lámpara de pie Nature Straight añade un toque de naturaleza y originalidad a cualquier espacio con su diseño único
-- Lámpara de pie con pantalla de algodón en el exterior y papel en el interior, que le da un aspecto fresco y natural
-- La varilla está fabricada con madera flotante reciclada sin tratar, resaltando su compromiso con la sostenibilidad
 - La pantalla de esta lámpara proporciona una iluminación suave y cálida, ideal para crear un ambiente acogedor
+- La lámpara de pie Nature Straight añade un toque de naturaleza y originalidad a cualquier espacio con su diseño único
+- La varilla está fabricada con madera flotante reciclada sin tratar, resaltando su compromiso con la sostenibilidad
+- Lámpara de pie con pantalla de algodón en el exterior y papel en el interior, que le da un aspecto fresco y natural
 - El soporte está hecho de acero con recubrimiento de polvo, proporcionando estabilidad y durabilidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

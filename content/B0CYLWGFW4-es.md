@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Horma clásica
-- Peso: 306 g (talla 42 2/3)
-- Contiene al menos un 20% de material reciclado
-- Mediasuela Bounce 2.0
-- Forro textil
-- Empeine de malla
-- Suela de goma
 - Drop: 5 mm (talón: 29 mm / antepié: 24 mm)
+- Mediasuela Bounce 2.0
+- Peso: 306 g (talla 42 2/3)
+- Suela de goma
+- Empeine de malla
+- Forro textil
+- Contiene al menos un 20% de material reciclado
 - Plantilla Cloudfoam Plus
+- Horma clásica
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CYLWGFW4{{</world>}}

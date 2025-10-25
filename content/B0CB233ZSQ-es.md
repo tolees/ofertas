@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Media suela flexible con amortiguación
 - Ofrecen una comodidad óptima
+- Media suela flexible con amortiguación
 - Con detalles distintivos de la marca
 
 [🛒 Aquí!!!]({{< param buyurl >}})

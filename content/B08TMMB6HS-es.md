@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ligeras
-- Malla atlética
-- Entresuela que absorbe los golpes
 - Skechers Detalle del logotipo
+- Ligeras
+- Entresuela que absorbe los golpes
+- Malla atlética
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08TMMB6HS{{</world>}}

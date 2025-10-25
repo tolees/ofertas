@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ribbed longsleeve
 - Soft organic Cotton quality
+- Ribbed longsleeve
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07YL6ZKSD{{</world>}}

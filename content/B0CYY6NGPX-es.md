@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene al menos un 70% de material reciclado y renovable
-- Felpa 70% algodón / 30% poliéster reciclado
-- Corte holgado
 - Interior cepillado
-- Puños y dobladillo de canalé
 - Bolsillo canguro
+- Puños y dobladillo de canalé
+- Corte holgado
+- Felpa 70% algodón / 30% poliéster reciclado
+- Contiene al menos un 70% de material reciclado y renovable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CYY6NGPX{{</world>}}

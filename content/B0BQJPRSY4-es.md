@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tela Suave
 - Corte
+- Tela Suave
 - Cintura elástica
 
 [🛒 Comprar!!!]({{< param buyurl >}})

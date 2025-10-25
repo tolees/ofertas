@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Punta redonda
 - Plantilla SOFTFOAM+
-- Suela de goma
 - Utilizado como casual
+- Suela de goma
+- Punta redonda
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKJTTH5R{{</world>}}

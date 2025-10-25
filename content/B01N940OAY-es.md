@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Consumo: Para disfrutar de sus cualidades óptimas, recomendamos servir a 16ºC
-- Tipo de uva: Elaborado con una interesante combinación de uvas Monastrell, Petit Verdot y Cabernet Sauvignon; cada variedad se elabora por separado y solo después de estar los vinos terminados, se decide cuál es el porcentaje de cada uno que se añade a la mezcla final
-- Maridaje: Este vino combina óptimamente simplemente por copas o con carnes a la parrilla y comida picante. Pruébalo con una onza de chocolate negro
 - Apariencia: Vino tinto de color picota oscuro y brillante, de capa muy cubierta
 - Aroma: Perfil aromático intenso y atractivo con notas de café tostado, ciruelas y frutos negros
+- Tipo de uva: Elaborado con una interesante combinación de uvas Monastrell, Petit Verdot y Cabernet Sauvignon; cada variedad se elabora por separado y solo después de estar los vinos terminados, se decide cuál es el porcentaje de cada uno que se añade a la mezcla final
 - Gusto: Da sensación de plenitud en boca, sabroso y largo; con taninos suaves y redondos unidos a un final muy persistente
+- Maridaje: Este vino combina óptimamente simplemente por copas o con carnes a la parrilla y comida picante. Pruébalo con una onza de chocolate negro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01N940OAY{{</world>}}

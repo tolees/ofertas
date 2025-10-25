@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Pantalla a color de 1.39 pulgadas que es resistente al agua hasta 5 ATM
 - Supervisión de la frecuencia cardiaca en tiempo real de 24 horas
-- Batería de larga duración de 16 días
 - Con 117 modos de deportivos, un control preciso de tu frecuencia cardíaca, la cantidad de oxígeno en sangre y la calidad del sueño
+- Batería de larga duración de 16 días
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08P5J7KGH{{</world>}}

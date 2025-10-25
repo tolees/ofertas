@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Freidora de aire sin aceite con tecnología de circulación de aire caliente y 8 Programas Automáticos. Freír alimentos sin aceite y reducir el exceso de grasas y calorías. Seleccione fácilmente entre 8 modos de cocción diferentes predefinidos para carne, alitas de pollo, gambas, pescado, pizza, patatas, pizza, muffins o verduras.
-- Airfryer con temporizador de hasta 60 minutos, que se apaga automáticamente cuando el tiempo se acaba, evitando el sobrecalentamiento o el secado de los alimentos. Además, tiene una función de pausa y reanudación que permite revisar el estado de la comida sin perder la configuración.
 - Air fryer con bandeja de 6,3L de capacidad y cesta para freír de 5L es ideal para preparar comidas para toda la familia o para ocasiones especiales. Cuenta con una bandeja extraíble antiadherente y un cesto de freír desmontable y apto para lavavajillas, lo que facilita la limpieza.
 - Freidora de aire con control de temperatura ajustable desde 80°C hasta 200°C, lo que permite adaptar la cocción a diferentes tipos de alimentos, desde verduras hasta carnes, pescados, patatas o postres.
 - Freidora sin aceite con diseño elegante y moderno, que se integra fácilmente en cualquier cocina. Tiene un panel digital con pantalla LED y botones táctiles, que facilitan el manejo y la selección de los ajustes. También dispone de un indicador luminoso y una señal sonora que avisan cuando la comida está lista.
+- Airfryer con temporizador de hasta 60 minutos, que se apaga automáticamente cuando el tiempo se acaba, evitando el sobrecalentamiento o el secado de los alimentos. Además, tiene una función de pausa y reanudación que permite revisar el estado de la comida sin perder la configuración.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BCG9SM1K{{</world>}}

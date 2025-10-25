@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - PROTECCIÓN INTEGRAL: La fuente de alimentación 12v MPZE750SI ofrece una garantía extendida de 10 años; Además, equipa tecnología de fabricación SMD, componentes de alta calidad y cuenta con una amplia gama de sistemas de protección y seguridad electrónica: OCP, OVP, OPP, OTP, OLP, NLO, PFP, UVP, SCP y TCP; Certificada por el reconocido laboratorio de calidad y seguridad alemana TÜV Rheinland
-- EFICIENCIA Y POTENCIA: La fuente de alimentación ATX MPZE750SI ofrece un rendimiento excepcional con 750W de potencia y raíl único de +12V; Equipada con tecnología ACTIVE-PFC digital del 99% y una eficiencia eléctrica del 87%, proporciona la potencia necesaria y constante en cualquier situación
 - SMART CONTROL AI2-RPM: La fuente de alimentación PC MPZE750SI ofrece un entorno silencioso gracias a su tecnología AI2-RPM, que ajusta en tiempo real la velocidad del ventilador mediante inteligencia artificial y machine learning; Su ventilador de 120mm con rodamientos FDB y núcleo de cobre hiperbalanceado asegura un funcionamiento estable y sin ruido
 - CERTIFICADO 80 PLUS SILVER: La fuente de alimentación 750W MPZE750SI dispone de certificación 80Plus Silver, garantizando una eficiencia energética superior al 87%; Además, incorpora condensadores japoneses Toshin Kyogo de 105º reconocidos por su calidad y su estricto control de fabricación, asegurando una vida útil prolongada y una estabilidad constante
 - TECNOLOGÍA DC-DC, SMD Y CABLEADO PREMIUM: Gracias a la tecnología DC-DC, la fuente MPZE750SI garantiza una conversión de energía eficiente, estable y un suministro uniforme; La tecnología SMD mejora la durabilidad, asegurando un funcionamiento fiable a largo plazo y reduciendo el consumo energético un 20%; Además, sus cables planos, negros y extralargos, permiten una gestión del cableado eficiente y una instalación sencilla
+- EFICIENCIA Y POTENCIA: La fuente de alimentación ATX MPZE750SI ofrece un rendimiento excepcional con 750W de potencia y raíl único de +12V; Equipada con tecnología ACTIVE-PFC digital del 99% y una eficiencia eléctrica del 87%, proporciona la potencia necesaria y constante en cualquier situación
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQLBWYPV{{</world>}}
