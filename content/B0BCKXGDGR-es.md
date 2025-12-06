@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tecla SOS, Linterna, conectividad 4G, Cámara 2MP, Batería 2200mAh.
 - El TCL 3189 es el último teléfono resistente 4G.
 - IP68, resiste al agua y golpes
+- Tecla SOS, Linterna, conectividad 4G, Cámara 2MP, Batería 2200mAh.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BCKXGDGR{{</world>}}

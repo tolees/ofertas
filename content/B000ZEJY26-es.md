@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cinta en calidad profesional con escala métrica
-- Caja cromada de material sintético, a prueba de golpes y pulida
 - Cinta extra gruesa (25 mm), curvada
+- Caja cromada de material sintético, a prueba de golpes y pulida
 - Gancho final con tres remaches, deslizante para toma de medidas internas y externas
+- Cinta en calidad profesional con escala métrica
 - Cinta revestida completamente con una capa protectora de Mylar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

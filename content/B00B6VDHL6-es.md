@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Compartimento para guardar el cable en la tapa
-- Refrigeración de hasta 18⁰C por debajo temperatura ambiente
-- Nevera arcón termoeléctrica portátil con ruedas 39 litros 12/230V A++
 - Incorpora ruedas para su fácil transporte
 - Capacidad para botellas de 2 litros en vertical
+- Refrigeración de hasta 18⁰C por debajo temperatura ambiente
+- Nevera arcón termoeléctrica portátil con ruedas 39 litros 12/230V A++
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00B6VDHL6{{</world>}}

@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Tipo de producto: cartucho de tóner negro
 - De la marca Brother
-- Imprime 2500 páginas con una cobertura del 5%
 - Fácil de instalar
+- Imprime 2500 páginas con una cobertura del 5%
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000T9TU0S{{</world>}}

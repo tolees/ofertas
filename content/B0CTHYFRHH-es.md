@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Protección ocular cuando más importa: atenuación PWM de 2160 Hz; brillo máximo localizado de 950 nits
 - Óptimo brillo: pantalla de visión curva de 120 Hz; auténtica experiencia de visualización insignia; Pro-XDR
+- Cámara para retratos con teleobjetivo: cámara OIS Sony IMX882; algoritmo MasterShot omnifocal; una verdadera experiencia fotográfica
+- Protección ocular cuando más importa: atenuación PWM de 2160 Hz; brillo máximo localizado de 950 nits
 - Una combinación ganadora: gran batería de 5000 mAh, carga SUPERVOOC de 67 W
 - Fabricación magistral: diseño inspirado en los relojes de lujo
-- Cámara para retratos con teleobjetivo: cámara OIS Sony IMX882; algoritmo MasterShot omnifocal; una verdadera experiencia fotográfica
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CTHYFRHH{{</world>}}

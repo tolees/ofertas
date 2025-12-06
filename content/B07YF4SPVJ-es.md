@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Marca del producto: Microsoft
-- Teclas multimedia
-- Compatible con Microsoft Surface Pro X
 - Escriba cómodamente con el teclado Surface Pro X delgado y compacto
+- Compatible con Microsoft Surface Pro X
+- Teclas multimedia
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07YF4SPVJ{{</world>}}

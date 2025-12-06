@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Volumen del artículo: 50 ml
 - Aplicar como último paso de tu ritual de cuidado de la piel por la mañana, en todas las zonas de la piel que estarán expuestas al sol. Se recomienda reaplicar cada 4 horas, y al final del día utilizar el método de doble limpieza para eliminarlo por completo.
 - Descripción del rango de edad: Recién nacidos
-- Volumen del artículo: 50 ml
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B881GN1P{{</world>}}

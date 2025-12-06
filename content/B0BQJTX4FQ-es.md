@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- COLECCIONA TODO: Este multipack consta de seis animales de Animal Life para integrar en tu colección ¡Adoptame!.
 - TABLA DE TAREAS: para ver tus tareas, rasca los tres en el tablero, como en el juego.
-- CÓDIGO VIRTUAL EXCLUSIVO: ¡Reclama tu código de objeto virtual Adoptame! en línea.
-- Animales misterios: para descubrir uno de los tres animales misteriosos, quita la película y sumerge el huevo en el agua.
 - PETS DE VIDA ANIMAL: ¡seis animales Adoptame! variando en rareza de lo más común a lo legendario, que podrás cuidar.
+- Animales misterios: para descubrir uno de los tres animales misteriosos, quita la película y sumerge el huevo en el agua.
+- COLECCIONA TODO: Este multipack consta de seis animales de Animal Life para integrar en tu colección ¡Adoptame!.
+- CÓDIGO VIRTUAL EXCLUSIVO: ¡Reclama tu código de objeto virtual Adoptame! en línea.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BQJTX4FQ{{</world>}}

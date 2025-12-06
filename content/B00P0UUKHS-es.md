@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Temperatura del horno:220° C
-- Moldes rectangulares
 - Producto de calidad
+- Moldes rectangulares
+- Temperatura del horno:220° C
 - Material: cartón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

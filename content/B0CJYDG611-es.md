@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- COMPACTO EN LA COTIDIANIDAD - Se pliega en su propia bolsa de transporte integrada, el portabebés de viaje Ergobaby Away cabe fácilmente en una bolsa de pañales o en un bolso de mano
 - PARA PORTEO ESPONTÁNEO - Ideal como segundo portabebés o para viajar. El portabebés se pliega fácilmente sobre sí mismo para servir de cómoda alternativa de transporte cuando los pequeños quieren ser llevados espontáneamente o se cansan
 - PREMIADO - como portabebés respetuoso con la espalda con el sello de aprobación de la "Aktion gesunder Rücken e.V." (Campaña Espalda Sana)
 - PORTABEBÉS ERGONÓMICO - con 2 posiciones de transporte: Posición frontal mirando hacia dentro y posición en la espalda. Posición ergonómica y cómoda en todas las situaciones.
+- COMPACTO EN LA COTIDIANIDAD - Se pliega en su propia bolsa de transporte integrada, el portabebés de viaje Ergobaby Away cabe fácilmente en una bolsa de pañales o en un bolso de mano
 - COMODIDAD DE USO - Los tirantes acolchados y ajustables individualmente, así como el cinturón ligeramente acolchado, garantizan un ajuste y una comodidad de uso aún mayores
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

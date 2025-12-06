@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior de ante
 - Cierre con cordones
+- Parte superior de ante
 - Suela de goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Slim fit chino pants
 - Low waist chino
+- Slim fit chino pants
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07JXZV2CF{{</world>}}

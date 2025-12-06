@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Buen producto para el uso
 - UA Ms Ch. Chándal, azul, MD
+- Buen producto para el uso
 - Productos de excelente calidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

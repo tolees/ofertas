@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con forro de malla reciclada
 - Deportivas básicas y sencillas
+- Con forro de malla reciclada
 - Combínalas con tus vaqueros favoritos para un look sencillo y clásico
 
 [🛒 Comprar!!!]({{< param buyurl >}})

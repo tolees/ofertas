@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Su diseño compacto permite un perfecto manejo y es ideal para trabajar en altura y en lugares estrechos
-- Incluye: GSR 12V-15
 - Professional 12V System. Rendimiento compacto. Máxima libertad. Todas nuestras baterías son compatibles con las herramientas nuevas o existentes Bosch Professional de la misma tensión
 - La función Electronic Cell Protection evita la sobrecarga, el calentamiento y la descarga total
+- Incluye: GSR 12V-15
+- Su diseño compacto permite un perfecto manejo y es ideal para trabajar en altura y en lugares estrechos
 - Par de apriete duro de 30 Nm y velocidad de 0-1300 rpm para una relación equilibrada entre potencia y tamaño
 
 [🛒 Aquí!!!]({{< param buyurl >}})

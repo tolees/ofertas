@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con logo
 - Garantiza un confort óptimo
+- Con logo
 - Ofrece una gran libertad de movimiento
 - Ideal para dar un toque desenfadado
 

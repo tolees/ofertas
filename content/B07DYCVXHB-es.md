@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Espadrille inspired outsole texture
 - Plantilla de espuma viscoelástica para una comodidad instantánea
-- Diseño superior sin cordones con espalda aplastada
 - Elástico en el paso para un ajuste seguro
+- Diseño superior sin cordones con espalda aplastada
+- Espadrille inspired outsole texture
 - Pared lateral envuelta en yute
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cámara de aire de repuesto
 - Accesorio de ciclismo
+- Cámara de aire de repuesto
 - Producto de calidad óptima
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

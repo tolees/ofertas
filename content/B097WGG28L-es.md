@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sérum rellenador con color enriquecido con ácido hialurónico, Con cobertura ligera, Disponible en 6 tonos, Apto para todo tipo de pieles
 - Combina los beneficios de un sérum y una base de maquillaje, Rellena, hidrata e ilumina la piel al instante, Alisa las líneas de expresión y unifica el tono para un acabado natural y radiante
+- Sérum rellenador con color enriquecido con ácido hialurónico, Con cobertura ligera, Disponible en 6 tonos, Apto para todo tipo de pieles
 - Fórmula enriquecida con ácido hialurónico microepidérmico, glicerina y pigmentos minerales luminosos, No comedogénica, Apta para pieles sensibles
 - Contenido: 1x LOréal Paris Accord Parfait Sérum con Color, Tono 5-6 Medium-Tan
 - Agita bien antes de usar, Aplica 2-3 gotas sobre el rostro y el cuello secos y limpios, Extiende el producto con un pincel, una esponja o los dedos

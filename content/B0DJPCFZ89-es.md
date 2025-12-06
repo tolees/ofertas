@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Talla única
 - Puño con vuelta
 - 100 % acrílico
+- Talla única
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DJPCFZ89{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forma de reflector: Ovalado
-- Reflector Tamaño (cm): 120 x 180
 - Reflexión de la luz favorable, trae finos efecto de luz para tu foto de shooting en el estudio
 - Colores de la final: luz permeable, plata, Negro, Oro, Blanco
+- Forma de reflector: Ovalado
+- Reflector Tamaño (cm): 120 x 180
 - Contenido del paquete: Contenido del paquete: 1 x 5 en 1 reflector set 1 x bolsa de transporte
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

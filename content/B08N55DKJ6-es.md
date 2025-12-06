@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- IDEAL PARA CASA O AULA: Perfecto para lecciones, juego libre o actividades en grupo. Regalo educativo para Navidad.
-- INCLUYE 251 PIEZAS: 100 cubos, 59 placas, 54 pegatinas, 11 numberlings, 26 tarjetas y base para Cero. Guía multilingüe incluida.
-- FORTALECE LA MOTRICIDAD FINA: Apilar y encajar cubos mejora la coordinación mano-ojo. Ideal para niños desde 3 años.
 - DESARROLLO MATEMÁTICO TEMPRANO: Practica conteo, suma y resolución de problemas con actividades visuales y manipulativas.
-- APRENDER ES NUESTRO JUEGO: Learning Resources crea desde hace 40 años juguetes educativos de calidad que hacen que aprender sea divertido y accesible.
 - APRENDE CON LOS NUMBERBLOCKS: Construye personajes del 1 al 10 con cubos MathLink y descubre conceptos matemáticos jugando.
+- INCLUYE 251 PIEZAS: 100 cubos, 59 placas, 54 pegatinas, 11 numberlings, 26 tarjetas y base para Cero. Guía multilingüe incluida.
+- IDEAL PARA CASA O AULA: Perfecto para lecciones, juego libre o actividades en grupo. Regalo educativo para Navidad.
+- APRENDER ES NUESTRO JUEGO: Learning Resources crea desde hace 40 años juguetes educativos de calidad que hacen que aprender sea divertido y accesible.
+- FORTALECE LA MOTRICIDAD FINA: Apilar y encajar cubos mejora la coordinación mano-ojo. Ideal para niños desde 3 años.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08N55DKJ6{{</world>}}

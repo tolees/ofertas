@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Collar para Hombre
 - Referencia PJ26567PSS01. De la marca Police
+- Collar para Hombre
 - Police Modelo Collar Noto PJ26567PSS01
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

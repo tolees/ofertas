@@ -28,15 +28,15 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Drop: 10 mm (talón: 33 mm / antepié: 23 mm)
-- Horma clásica
-- Plantilla OrthoLite
 - Suela Adiwear
-- Cierre de cordones
-- Peso: 304 g (talla 42 2/3)
 - Empeine de malla
-- Mediasuela Cloudfoam
+- Drop: 10 mm (talón: 33 mm / antepié: 23 mm)
 - Forro textil
+- Peso: 304 g (talla 42 2/3)
+- Cierre de cordones
+- Plantilla OrthoLite
+- Mediasuela Cloudfoam
+- Horma clásica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CKS1Y72V{{</world>}}

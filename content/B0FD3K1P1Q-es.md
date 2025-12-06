@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corre con nuevos personajes
-- Acción en compañía
 - Acrobacias para ganar
+- Acción en compañía
+- Corre con nuevos personajes
 - Monster Trucks
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

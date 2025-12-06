@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- DISEÑADO PARA EXHIBIRLO: Es una formidable adición a tu colección de maquetas de papel, ya que es una gran opción para decorar tu dormitorio, tu oficina o tus estanterías. Este kit de maqueta de cartulina mide 13,3 cm x 12,5 cm x 17,6 cm
 - JUEGOS DE MESA PARA NOCHES EN FAMILIA: Empieza a disfrutar con juegos de jardín, para fiestas y para parejas. No dejes pasar los rompecabezas de 1000 piezas ni los juegos de cartas para adultos. También tenemos juegos de mesa para niños entre 8 y 12 años y juegos para niños entre 4 y 8 años
+- DISEÑADO PARA EXHIBIRLO: Es una formidable adición a tu colección de maquetas de papel, ya que es una gran opción para decorar tu dormitorio, tu oficina o tus estanterías. Este kit de maqueta de cartulina mide 13,3 cm x 12,5 cm x 17,6 cm
 - MÁS DE NUESTROS PRODUCTOS: Si te encanta tu kit de maqueta de 4D Build y quieres seguir divirtiéndote, Spin Master ofrece una gran variedad de productos, desde juegos infantiles hasta juegos de mesa y rompecabezas para adultos o juegos para exteriores
 - FÁCIL DE MONTAR: Tendrás 6 hojas con 83 piezas troqueladas muy resistentes e instrucciones detalladas para completar este desafío artesanal de forma satisfactoria. No es necesario utilizar ninguna herramienta
 - RÉPLICA DETALLADA: Embárcate en una épica aventura de construcción con este casco de Star Wars fiel a las películas. Este casco de Darth Vader de 4D Build está repleto de detalles como los de las películas. Además, incluye pegamento y un soporte

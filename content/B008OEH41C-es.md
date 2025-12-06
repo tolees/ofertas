@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ✅ CARACTERÍSTICAS: Tamaño A4. El material copy-safe y libre de ácido garantiza la protección de los documentos a largo plazo.
-- 🛒 CONTENIDO: 1 caja de 100 fundas (A4), (46099)
-- ✅ MATERIAL: Fabricado con un 30% de plástico PP preconsumo, 100% reciclable
 - 📂 ARCHIVO: La tira multiperforada de 16 agujeros, permite guardar cómodamente los documentos en archivadores de palanca y carpetas
 - 📂 USO: Se abre por la parte superior para facilitar el acceso a los documentos sin soltar el mecanismo de la carpeta. El material grabado de acabado mate evita las huellas dactilares o las marcas de grasa
+- ✅ CARACTERÍSTICAS: Tamaño A4. El material copy-safe y libre de ácido garantiza la protección de los documentos a largo plazo.
 - ✅ CALIDAD: Polipropileno de 85 micras resistente al desgarro, que permite reutilizar la funda una y otra vez
+- ✅ MATERIAL: Fabricado con un 30% de plástico PP preconsumo, 100% reciclable
+- 🛒 CONTENIDO: 1 caja de 100 fundas (A4), (46099)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B008OEH41C{{</world>}}

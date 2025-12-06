@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pantalón: cintura de talle medio
+- Corte clásico
 - Pantalón: bolsillos laterales
 - Chaqueta: cierre de cremallera y cuello alzado
 - Felpa 52% algodón / 48% poliéster reciclado
-- Corte clásico
+- Pantalón: cintura de talle medio
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BP7Y1LZ7{{</world>}}

@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bocas pulidas
 - ): 210x35.
+- Peso (gramos):1500.
+- Templada hasta el núcleo con durezas y homogéneas en las bocas
 - Diseñada para una perfecta penetración en la madera
 - Cabeza forjada de una sola pieza
-- Templada hasta el núcleo con durezas y homogéneas en las bocas
 - Para corte de madera.
 - Máxima tenacidad en el ojo para evitar roturas.
-- Peso (gramos):1500.
+- Bocas pulidas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00F2NKAX2{{</world>}}

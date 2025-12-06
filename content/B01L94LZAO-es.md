@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Forma : hexagonal
 - Colores intensos y brillantes de aplicación extra suave
+- Forma : hexagonal
 - Madera procedente de bosques gestionados de manera sostenible
 - Mina protegida contra la rotura por el proceso de encolado SV
 

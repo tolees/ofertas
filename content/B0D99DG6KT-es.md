@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manga larga
 - Sudadera
+- Manga larga
 - Composición del material: 61% poliéster, 39% algodón
 - Corte holgado
 

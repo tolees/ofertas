@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre de cordones
 - Vans Marca Sidestripe
 - Construcción vulcanizada
+- Cierre de cordones
 - Suela original de gofre
 
 [🛒 Aquí!!!]({{< param buyurl >}})

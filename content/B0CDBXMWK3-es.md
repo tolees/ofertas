@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Multicentrum hombre 50+ contiene vitamina A para el mantenimiento de la visión en condiciones normales y ácido pantoténico que ayuda al rendimiento intelectual normal
-- Contiene vitaminas del tipo B y hierro, que ayudan a disminuir el cansancio y la fatiga, y vitamina C y zinc, que contribuyen al funcionamiento normal del sistema inmunitario
 - Después de cada uso, asegúrese de que el bote se encuentra cerrado y guardado dentro de su caja, en un lugar seco y a una temperatura inferior a 25ºC
+- Multicentrum hombre 50+ contiene vitamina A para el mantenimiento de la visión en condiciones normales y ácido pantoténico que ayuda al rendimiento intelectual normal
 - Nuevo envase de 100 comprimidos de Multicentrum hombre 50+: Complemento alimenticio completo, con vitaminas y minerales, especialmente formulado para satisfacer las necesidades nutricionales de los hombres a partir de los 50 años
+- Contiene vitaminas del tipo B y hierro, que ayudan a disminuir el cansancio y la fatiga, y vitamina C y zinc, que contribuyen al funcionamiento normal del sistema inmunitario
 - Multivitaminas Multicentrum hombre 50+ es un complemento alimenticio que no contiene gluten, ni lactosa, ni azúcar ni fructosa
 - Los complementos alimenticios no deben ser usados como sustitutos de una dieta equilibrada
 

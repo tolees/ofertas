@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto de calidad óptima
 - Momentos de entretenimiento
+- Producto de calidad óptima
 - Adecuado para disfrutar solo, en familia o con amigos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

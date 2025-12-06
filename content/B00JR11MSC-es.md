@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Crea tus propias Tortugas Ninja rellenas de Slime con la Fidget Ooze Factory TMNT
 - Amigable con los niños: todos nuestros productos cumplen la normativa europea sobre juguetes; desarrollado en España
 - Incluye las 4 tortugas, Leonardo, Rafael, Donatello y Miguel Ángel
 - Las Tortugas Mutantes Ninja y el Slime han unido sus poderes
-- Crea tus propias Tortugas Ninja rellenas de Slime con la Fidget Ooze Factory TMNT
 - Su piel flexible hace que sean un juguete antiestrés estrujable, estirable y muy satisfactorio al tacto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

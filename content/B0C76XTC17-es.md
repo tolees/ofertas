@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Skechers Detalle del logotipo
 - Skechers Espuma viscoelástica refrigerada por aire
+- Skechers Detalle del logotipo
 - Ligeras
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- 100% sin aceite
+- Inodoro
+- Líquido especial de base acuosa de muy alta calidad para máquinas de neblina
 - Listo para usar
 - Biodegradable
+- Excelente comportamiento en la reflexión
 - No perjudicial para la salud
 - Fabricado en Alemania
 - Ideal para utilizar en televisión, teatro, escenario y discoteca
-- Excelente comportamiento en la reflexión
-- Inodoro
-- 100% sin aceite
-- Líquido especial de base acuosa de muy alta calidad para máquinas de neblina
 - Cantidad 10 l
 
 [🛒 Comprar!!!]({{< param buyurl >}})

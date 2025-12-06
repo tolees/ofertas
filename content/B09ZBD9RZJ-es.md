@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con tecnología ProWeighing para controlar el peso con precisión. Hasta los 30 kg. mide con dos decimales y la resolución se mide de 10 en 10 gr. A partir de 30 kg. mide con un decimal y la resolución se mide de 100 en 100 gr.
 - Cuenta con una función de tara, para poder excluir el peso de la colchoneta o de cualquier otro textil, y con botón de conversión de medidas (kg, lb, oz y lb:oz). Cuenta con modo ahorro, si no se utiliza durante 60 segundos se apaga automáticamente
 - Incluye una bandeja plegable y desmontable para medir al bebé, hasta 70 cm. Incluye también una colchoneta para que esté más cómodo durante la medición
+- Con tecnología ProWeighing para controlar el peso con precisión. Hasta los 30 kg. mide con dos decimales y la resolución se mide de 10 en 10 gr. A partir de 30 kg. mide con un decimal y la resolución se mide de 100 en 100 gr.
 - Con la Báscula Evolutiva de Suavinex podrás hacer un seguimiento preciso del crecimiento del bebé, tanto de su peso como de su altura. Diseñada para utilizarla desde los primeros días de vida del bebé hasta la edad adulta. (Desde 1 kg. hasta 100 kg.)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tienda de campaña Pop Up de montaje instantáneo tras lanzarla, tiene forma de iglú
-- Medidas: 140 cm de ancho x 160 cm profundo x 110 cm de alto
 - Capacidad para dos personas, adecuado para protegerte del viento y del sol en la playa o la montaña
 - Fabricado en material poliéster con protección solar UV50
 - Diseño azul y verde con estructura de acero de 4,5 mm de grosor, una de las paredes está abierta y tiene el suelo ampliado
+- Medidas: 140 cm de ancho x 160 cm profundo x 110 cm de alto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B085J1JYWQ{{</world>}}

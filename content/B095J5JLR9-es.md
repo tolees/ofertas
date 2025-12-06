@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Una historia intrigante.
 - Sistema de batalla único basado en la invocación de muñecas.
-- Batallas tácticas por turnos.
 - Personajes adorables y coloridos.
+- Batallas tácticas por turnos.
 - Elige entre el camino de la oscuridad o el de la luz.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

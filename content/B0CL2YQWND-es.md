@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tejido Infinitex Fitness Eco resistente al cloro
-- Espalda en forma de X
-- 78% poliéster (reciclado) / 22% elastán
-- Espalda con escote medio
-- Compra una talla más grande
 - Diseño ligero
+- 78% poliéster (reciclado) / 22% elastán
+- Tejido Infinitex Fitness Eco resistente al cloro
+- Espalda con escote medio
+- Espalda en forma de X
+- Compra una talla más grande
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CL2YQWND{{</world>}}

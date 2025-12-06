@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte superior de malla con inserciones de PU, para transpirabilidad y flexibilidad con total seguridad.
 - Amortiguación GEL en el retropié con tecnología FlyteFoam, que atenúa el impacto y mejora la capacidad de respuesta durante las fases de impacto y despegue.
+- Parte superior de malla con inserciones de PU, para transpirabilidad y flexibilidad con total seguridad.
 - Entresuela con tecnología TwissTruss para ofrecer mayor soporte durante el movimiento
 
 [🛒 Comprar!!!]({{< param buyurl >}})

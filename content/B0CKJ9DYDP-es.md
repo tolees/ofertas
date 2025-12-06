@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Superposiciones de gamuza
-- Cierre de cordones
 - Parte superior de nailon
+- Cierre de cordones
+- Superposiciones de gamuza
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CKJ9DYDP{{</world>}}

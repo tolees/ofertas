@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ofrece comodidad y libertad de movimiento
 - Cuello redondo
+- Ofrece comodidad y libertad de movimiento
 - Para todo tipo de actividad al aire libre y uso urbano diario
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

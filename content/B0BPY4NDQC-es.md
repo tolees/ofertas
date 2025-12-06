@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- BERING Reloj Classic 12034-808 Mujer Acero Verde
 - Marca: BERING
+- BERING Reloj Classic 12034-808 Mujer Acero Verde
 - Tipo de producto: RELOJ
 
 [🛒 Comprar!!!]({{< param buyurl >}})

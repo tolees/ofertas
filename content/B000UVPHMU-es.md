@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aceite de oliva virgen extra lleno de matices que destacan por su equilibrio y armonía, siendo capaz de envolver con su presencia los aromas, convirtiendo cada plato en único
-- Su sabor auténtico y suave lo convierte en un imprescindible en la cocina de cualquier hogar y es ideal para guisos, verduras a la plancha, cremas o incluso un toque especial en sopas
 - Es un aceite en el que resalta un equilibrio perfecto entre el amargor y el picor, con un perfil sensorial que lo convierte en una joya de la cocina mediterránea
+- Su sabor auténtico y suave lo convierte en un imprescindible en la cocina de cualquier hogar y es ideal para guisos, verduras a la plancha, cremas o incluso un toque especial en sopas
 - Cada botella cuenta con un código QR único que permite seguir el viaje desde el olivar hasta tu mesa. Este sistema de trazabilidad, garantiza que cada etapa de la producción de nuestro aceite sea transparente, verificable y segura
+- Aceite de oliva virgen extra lleno de matices que destacan por su equilibrio y armonía, siendo capaz de envolver con su presencia los aromas, convirtiendo cada plato en único
 - Nuestras botellas de plástico están diseñadas de RPET. Cuentan con una boquilla antigoteo y tapón hermético para mejor conservación, la botella tiene estrías para un mejor agarre y la botella está tintada para preservar el sabor y la calidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

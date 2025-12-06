@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Puntera cerrada
+- Bandas elásticas: fácil de instalar.
 - Cierre: sin cordones
 - Patrón sólido
-- Bandas elásticas: fácil de instalar.
-- Puntera cerrada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00E6BXFT2{{</world>}}

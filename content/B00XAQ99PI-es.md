@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Conservar en lugar fresco y seco
-- Pequeñas piezas de distintos sabores frutales
-- Formato snack: individual con distintas unidades
 - Caramelos de goma
+- Pequeñas piezas de distintos sabores frutales
+- Conservar en lugar fresco y seco
+- Formato snack: individual con distintas unidades
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00XAQ99PI{{</world>}}

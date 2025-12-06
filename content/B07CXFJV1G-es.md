@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Realizados con madera de cedro de California
 - Colores lavables de manos y tejidos y dermatológicamente testados
-- Capuchón de seguridad de plástico con sistema anti-mordedura
+- Realizados con madera de cedro de California
 - Mina suave, permite extender con facilidad y rapidez el color
+- Capuchón de seguridad de plástico con sistema anti-mordedura
 - Lápices de colores de mina gigante de Ø 7mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

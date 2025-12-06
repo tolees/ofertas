@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Descubra el SMARTWATCH: un reloj conectado que navega tanto por las tendencias actuales como por el ADN de la marca Ice-Watch. Esferas de reloj variadas y coloridas, en línea con la proeza de la marca, así como una pluralidad de funcionalidades que le acompañarán en su vida diaria: ¡suficiente para mantener su muñeca bien vestida para cada momento de la vida y cada estación!
-- Resistente hasta 1,5 metros: resistente a la inmersión (durante 30 minutos), pero no a los deportes acuáticos (natación, natación deportiva) ni al submarinismo.
 - Caja de aleación de aluminio de 1,85 pulgadas (38 mm) con correa de silicona.
+- Resistente hasta 1,5 metros: resistente a la inmersión (durante 30 minutos), pero no a los deportes acuáticos (natación, natación deportiva) ni al submarinismo.
+- Descubra el SMARTWATCH: un reloj conectado que navega tanto por las tendencias actuales como por el ADN de la marca Ice-Watch. Esferas de reloj variadas y coloridas, en línea con la proeza de la marca, así como una pluralidad de funcionalidades que le acompañarán en su vida diaria: ¡suficiente para mantener su muñeca bien vestida para cada momento de la vida y cada estación!
 - Colleccion ICE smart
 - Enviado con instrucciones e caja de presentación
 

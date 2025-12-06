@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 55% algodón / 36% poliéster (reciclado) / 9% viscosa
-- Bolsillos laterales
 - Corte holgado
+- Bolsillos laterales
+- 55% algodón / 36% poliéster (reciclado) / 9% viscosa
 - Cierre de cordones
 - Contiene al menos un 70% de material reciclado y renovable
 

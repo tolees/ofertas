@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño ligero y transpirable
 - Ofrecen una comodidad óptima
+- Diseño ligero y transpirable
 - Con detalles distintivos de la marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})

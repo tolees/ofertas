@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Fabricado con 100 % algodón sostenible
 - PORTOBELLO ORGÁNICO
 - Camiseta de manga corta de algodón lavado con logotipo impreso en el pecho.
-- Fabricado con 100 % algodón sostenible
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B64FLF96{{</world>}}

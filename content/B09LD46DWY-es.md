@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PRÁCTICA: Apta para lavavajillas y totalmente desmontable. Jarra y cuchillas extraíbles, las cuchillas se separan de la jarra y el cuerpo motor. Pies antideslizantes en la base para un extra de estabilidad.
 - REGULABLE: Cuenta con 2 velocidades y con función turbo/pulse que aporta la máxima potencia para los resultados más rápidos.
 - ALTA POTENCIA: Pica hielo y alimentos congelados rápidamente. Cuenta con 1500W de máxima potencia y con cuchillas de 4 hilos en acero inoxidable ultra resistentes.
 - TAPA CON VASO MEDIDOR: Tapa extraíble y con un hueco en el medio ideal para introducir alimentos sin necesidad de destapar la jarra. Este hueco es bloqueable con el accesorio de vaso medidor. Un accesorio para medir pequeñas cantidades de ingredientes rápidamente.
+- PRÁCTICA: Apta para lavavajillas y totalmente desmontable. Jarra y cuchillas extraíbles, las cuchillas se separan de la jarra y el cuerpo motor. Pies antideslizantes en la base para un extra de estabilidad.
 - JARRA CRISTAL: Jarra ultra resistente que permite también picar alimentos duros con total seguridad. Con 1.5L de capacidad y graduada. Cuenta con boca de vertido y con tapa.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

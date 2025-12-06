@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - CAPTACIÓN DE SONIDO FRONTAL: este micro compacto es capaz de minimizar el sonido ambiente y enfatizar el sonido de delante de la cámara; optimo cuando el rango de captación de sonido objetivo se encuentra en posición frontal, como cuando vloggeamos
-- Nivel de ruido: 20.0 decibels
 - COMPACTO Y PORTABLE: el tamaño compacto hace que este micro de pistola sea fácil de llevar y usar en todo momento y en cualquier lugar
-- GRABACIÓN DE SONIDO DE CALIDAD: disfruta de una grabación de voces nítida y de la reducción de ruidos no deseados; este micrófono Sony ofrece captación de sonido de calidad, optimo para grabaciones selfie
+- Nivel de ruido: 20.0 decibels
 - SIN CABLES NI BATERÍA: este micro sin cables te ofrece una gran movilidad por su experiencia sin batería ni cables; usa este micrófono de cámara para vloggear o crear contenido y no vuelvas a preocuparte por si la batería se agota durante una grabación
+- GRABACIÓN DE SONIDO DE CALIDAD: disfruta de una grabación de voces nítida y de la reducción de ruidos no deseados; este micrófono Sony ofrece captación de sonido de calidad, optimo para grabaciones selfie
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B6G61ZS2{{</world>}}

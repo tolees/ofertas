@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- El polo Transat es nuestro polo clásico de manga corta para hombre de la marca HH con un corte clásico actualizado
 - Exterior: 100% algodón orgánico
 - El polo Transat es nuestro polo clásico de manga corta para hombre de la marca HH con un corte clásico actualizado; suave y cómodo piqué de algodón con logotipo bordado fabricado en Europa, adecuado para cualquier ocasión; disponible en una selección de colores para que puedas mezclarlos y combinarlos a tu gusto
 - Artículos entregados: 1x Helly Hansen Hombre Polo Transat,M,Negro
-- El polo Transat es nuestro polo clásico de manga corta para hombre de la marca HH con un corte clásico actualizado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B073RPYB1S{{</world>}}

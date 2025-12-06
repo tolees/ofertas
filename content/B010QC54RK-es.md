@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Instrucciones de cuidado: lavar a máquina a 40 °C en programa de lavado suave, no usar lejía, no usar secadora, planchar a temperatura media, no limpiar en seco
-- El pantalón tiene un corte estrecho y acentúa la pierna gracias al porcentaje elástico en la suave mezcla de fibras
-- Cintura alta
-- El modelo de cinco bolsillos con cintura alta evoca grandes curvas e incluso logra hacer que la cintura parezca visualmente más estrecha. Elegante también es el tejido azul uniforme, que permite muchas combinaciones
-- Flaco
 - Número de modelo: 15097919
+- El pantalón tiene un corte estrecho y acentúa la pierna gracias al porcentaje elástico en la suave mezcla de fibras
+- Instrucciones de cuidado: lavar a máquina a 40 °C en programa de lavado suave, no usar lejía, no usar secadora, planchar a temperatura media, no limpiar en seco
+- Flaco
 - Cierre: cremallera
+- El modelo de cinco bolsillos con cintura alta evoca grandes curvas e incluso logra hacer que la cintura parezca visualmente más estrecha. Elegante también es el tejido azul uniforme, que permite muchas combinaciones
+- Cintura alta
 - 50 % algodón orgánico, 29 por ciento de poliéster, 19 por ciento algodón, 2 por ciento de elastano
 
 [🛒 Comprar!!!]({{< param buyurl >}})

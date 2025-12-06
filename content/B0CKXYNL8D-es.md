@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela de goma
-- Horma clásica
-- Contiene al menos un 20% de material reciclado
+- Puntera reforzada
 - Forro textil
 - Empeine de piel
-- Puntera reforzada
+- Contiene al menos un 20% de material reciclado
+- Horma clásica
+- Suela de goma
 - Forro textil
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- DWST83408-1
-- DEWALT DWST83408-1 - Bandeja profunda TS 2.0
-- Tamaño: 31 x 47 x 12 cm
-- Asa lateral para transportar o conectar
 - Apilable y para combinar con otros
+- DWST83408-1
+- Tamaño: 31 x 47 x 12 cm
+- DEWALT DWST83408-1 - Bandeja profunda TS 2.0
+- Asa lateral para transportar o conectar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B096M29GSC{{</world>}}

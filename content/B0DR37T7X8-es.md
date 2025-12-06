@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- TODOS LOS PÚBLICOS: Ideal para niños que cursan la etapa escolar tanto guardería como primaria y secundaria
 - DISEÑO ÚNICO: Confeccionado con un material de tapas extra duras glasofonadas, con espiral metálico de 42 agujeros
 - GARANTÍA Y CALIDAD: SNOOPY LOVE Oficial libreta tamaño cuarto perfecta para uso escolar. 2 años de garantía
-- FORMATO: 80 hojas con cuadrículas de 4x4 mm con margen a la izquierda. Gramaje de las hojas (60 grs/m2)
 - RESISTENCIA Y DURABILIDAD: Este producto está especialmente diseñado pensando en su durabilidad, elaborado con materiales de alta resistencia para asegurar que se pueda utilizar en todo tipo de actividades, garantizando su funcionalidad
+- FORMATO: 80 hojas con cuadrículas de 4x4 mm con margen a la izquierda. Gramaje de las hojas (60 grs/m2)
+- TODOS LOS PÚBLICOS: Ideal para niños que cursan la etapa escolar tanto guardería como primaria y secundaria
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DR37T7X8{{</world>}}

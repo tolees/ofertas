@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cordones elásticos y correa autoadherente
-- Mediasuela Cloudfoam
 - Forro textil
+- Cordones elásticos y correa autoadherente
 - Horma clásica
+- Mediasuela Cloudfoam
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BPD5SGG8{{</world>}}

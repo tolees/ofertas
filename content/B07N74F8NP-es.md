@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- RESULTADOS INMEDIATOS Y DURADEROS: Proporciona hidratación inmediata y mejoras a largo plazo en la barrera cutánea con un uso continuo.
-- INSTRUCCIONES DE USO: Aplicar según sea necesario en el rostro como paso final de la rutina de cuidado de la piel. Realizar una prueba cutánea antes de usar y evitar su aplicación sobre piel lesionada.
-- HIDRATANTE NO GRASO: Esta fórmula ligera mantiene la capa externa de la piel protegida e hidratada sin dejar sensación grasa.
 - FAVORECE LA BARRERA HIDRATANTE: Natural Moisturizing Factors + HA actúa sobre la piel para mejorar su barrera hidratante natural.
+- HIDRATANTE NO GRASO: Esta fórmula ligera mantiene la capa externa de la piel protegida e hidratada sin dejar sensación grasa.
+- INSTRUCCIONES DE USO: Aplicar según sea necesario en el rostro como paso final de la rutina de cuidado de la piel. Realizar una prueba cutánea antes de usar y evitar su aplicación sobre piel lesionada.
+- RESULTADOS INMEDIATOS Y DURADEROS: Proporciona hidratación inmediata y mejoras a largo plazo en la barrera cutánea con un uso continuo.
 - INGREDIENTES IDÉNTICOS A LOS DE LA PIEL: Formulado con aminoácidos, ácidos grasos, ceramidas, urea y ácido hialurónico para hidratar y proteger la piel.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

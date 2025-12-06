@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Perforación en la puntera
 - Silueta de bota baja
 - Parte superior sintética
-- Solapa del talón de ante
 - Cierre de encaje
-- Perforación en la puntera
+- Solapa del talón de ante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B082SDYL1R{{</world>}}

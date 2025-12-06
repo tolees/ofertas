@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Almohada para el talón
 - Slip-Ins
 - MF refrigerado por aire
 - Ultra Go
-- Almohada para el talón
 - Flex
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

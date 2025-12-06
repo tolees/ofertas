@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para hombre
 - 100% algodón
 - Manga corta
+- Para hombre
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08TBKKR4P{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Insert madera reemplazable
-- 248 x 65 x 55 mm
 - Mitra de aluminio sólido / mitre
-- Para el corte de la barra, madera en rollo, tuberías, marcos y molduras en madera, yeso, plástico y metal
+- 248 x 65 x 55 mm
 - Para cortes angulares muy precisas y limpias las juntas de esquina en el 45 y 90 de ángulo
+- Para el corte de la barra, madera en rollo, tuberías, marcos y molduras en madera, yeso, plástico y metal
+- Insert madera reemplazable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00GN5KJDE{{</world>}}

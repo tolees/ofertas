@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Costuras en los hombros hacia delante
-- Cuello acanalado
+- G-Star RAW bordado en el pecho
 - Costura vertical en la espalda
 - Mangas con dobladillo, fijo
-- G-Star RAW bordado en el pecho
+- Costuras en los hombros hacia delante
+- Cuello acanalado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DSWJPFQP{{</world>}}

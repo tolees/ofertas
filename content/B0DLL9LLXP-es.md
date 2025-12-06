@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Sistema de cordones para sujetar la esterilla de yoga
 - Capacidad: 30,5 l
-- 100% poliéster (reciclado)
 - Dimensiones: 23 cm x 54 cm x 27 cm
 - Sistema de cordones para sujetar la esterilla de yoga
-- Sistema de cordones para sujetar la esterilla de yoga
+- 100% poliéster (reciclado)
 - Primegreen
 - Bolsillo frontal con cremallera
 

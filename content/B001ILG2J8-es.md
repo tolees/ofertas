@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Llave combinadas 6 - 7 - 8 - 9 - 10 - 11 - 12 - 13 - 14 - 17 - 19 - 22 mm
-- Salida del anillo: 12 caras
-- Cromado, cabezas pulidas
 - Hecho de acero al cromo vanadio
-- Din 3113-a
 - Extremo del anillo en ángulo de 15°
+- Llave combinadas 6 - 7 - 8 - 9 - 10 - 11 - 12 - 13 - 14 - 17 - 19 - 22 mm
+- Cromado, cabezas pulidas
 - En bolsa enrollable de vinilo
 - Forjado en caliente
+- Din 3113-a
+- Salida del anillo: 12 caras
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B001ILG2J8{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Batería Voltaje: 1.5 V. Altura: 5,05 cm
 - Batería de factor de forma: cilíndrico
-- Diámetro: 1,5 cm
 - mediarange mrbat144. paquete Peso: 1 g
+- Batería Voltaje: 1.5 V. Altura: 5,05 cm
+- Diámetro: 1,5 cm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01JW7NHQ0{{</world>}}

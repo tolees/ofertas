@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- PERFECT SERVE: 50 ml de Brockmans Agave Cut 12.5 ml de jugo de lima 25 ml de jugo de pomelo rosado 7.5 ml de jarabe de agave 50 ml de soda Guarnición: rodaja de pomelo
-- Brockmans Agave Cut es un producto muy exclusivo que combina el sabor de nuestra icónica Gin Original con un destilado premium de agave de Jalisco, México, complementado con un sutil toque de pomelo rosado.
-- Nota de Cata: COLOR: Transparente; AROMA: Notas frescas de pomelo seguidas de un vibrante agave; SABOR: Enebro al inicio, seguido de un destilado herbal de agave, sutilmente realzado con pomelo rosado para un final largo y elegante.
 - Brockmans Agave Cut Ginebra botella 70 cl
+- Nota de Cata: COLOR: Transparente; AROMA: Notas frescas de pomelo seguidas de un vibrante agave; SABOR: Enebro al inicio, seguido de un destilado herbal de agave, sutilmente realzado con pomelo rosado para un final largo y elegante.
+- PERFECT SERVE: 50 ml de Brockmans Agave Cut 12.5 ml de jugo de lima 25 ml de jugo de pomelo rosado 7.5 ml de jarabe de agave 50 ml de soda Guarnición: rodaja de pomelo
 - ¿Qué tan atrevido e inesperado sería combinar la Properly Improper Gin con un destilado premium de agave mexicano? Al combinar las notas de frutos oscuros y cítricos de Brockmans Gin con los matices herbales y aromáticos del mejor agave mexicano, hemos creado una edición exclusiva para disfrutar sorbo a sorbo, un auténtico deleite para los paladares más exigentes en busca de una experiencia sensorial única.
+- Brockmans Agave Cut es un producto muy exclusivo que combina el sabor de nuestra icónica Gin Original con un destilado premium de agave de Jalisco, México, complementado con un sutil toque de pomelo rosado.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CNBJ3128{{</world>}}

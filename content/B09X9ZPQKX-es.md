@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Témperas sólidas color pastel, sin disolventes, perfectas para el colegio
+- Acabado satinado, no necesita esmalte protector
 - Secado rápido, no arruga el papel
 - Colores brillantes y lavables con una gran cobertura, fáciles de mezclar y sin disolventes
 - Se aplica sobre folios, cartulinas, madera, cartón
-- Acabado satinado, no necesita esmalte protector
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09X9ZPQKX{{</world>}}

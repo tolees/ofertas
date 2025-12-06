@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Exterior: sarga 100% algodón
-- Cierre ajustable en la nuca
-- Cinta interior para el sudor: punto doble 100% poliéster reciclado
-- Corona y visera con curvatura media
 - Estructura de seis paneles
+- Corona y visera con curvatura media
+- Cierre ajustable en la nuca
+- Exterior: sarga 100% algodón
+- Cinta interior para el sudor: punto doble 100% poliéster reciclado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BNL8BX66{{</world>}}

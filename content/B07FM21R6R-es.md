@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Plain
 - materialFabricComposition: 50% Acrylic, 50% Recycled Polyester
 - Care Label:
-- Plain
 - Scarf
 - Recycled Polyester
 

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Combinado de tejidos
-- Fit: Regular
 - Manga: larga
+- Fit: Regular
+- Combinado de tejidos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D9JZ4WM2{{</world>}}

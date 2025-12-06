@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 100% poliéster (reciclado)
+- Bolsillos frontales
+- Cintura elástica con cordón
 - Detalles bordados
 - Corte clásico
-- Cintura elástica con cordón
-- Bolsillos frontales
-- 100% poliéster (reciclado)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZPGQW6F{{</world>}}

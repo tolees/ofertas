@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- SUPERFICIES APTAS: Zonas húmedas y cualquier elemento de carpintería metálica.
+- CARACTERÍSTICAS: Resistencia máxima al moho. Antimoho extremo nivel 5. Seca en 30min. Alta adherencia. 100% impermeable. No pintable.
 - FORMATO: 125 ML
 - MODO DE EMPLEO: RETIRAR bien la silicona anterior. LIMPIAR la superficie. Cortar la cánula. ALISAR el cordón y una vez aplicada la silicona, retirar la cinta de pintor.
-- CARACTERÍSTICAS: Resistencia máxima al moho. Antimoho extremo nivel 5. Seca en 30min. Alta adherencia. 100% impermeable. No pintable.
+- SUPERFICIES APTAS: Zonas húmedas y cualquier elemento de carpintería metálica.
 - USO: Sellado de duchas, bañeras, lavabos, pilas, inodoros, bidé, fregaderos, vitrocerámicas, encimeras.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

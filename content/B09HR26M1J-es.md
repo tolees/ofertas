@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Botón de bloqueo de seguridad.
 - Diseño compacto, cómodo y fácil de usar.
 - Llama capaz de alcanzar 1300ºC / 2370ºF.
-- Pincel, espátula y recetario incluido.
 - Regulador de ajuste de llama.
+- Pincel, espátula y recetario incluido.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09HR26M1J{{</world>}}

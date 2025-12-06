@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Fabricado en vidrio borosilicato
 - Tapa de plástico
-- Recipiente de vidrio
 - Válido para usar en frigorífico y congelador
+- Recipiente de vidrio
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0007VGT9I{{</world>}}

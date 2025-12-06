@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Producto de alta calidad
-- Ayuda al sistema nervioso y mantiene el estado anímico en casos depresivos
 - Modo de empleo: 1 cápsula al día, preferentemente antes del desayuno no deberá sobrepasar la dosis diaria recomendada
+- Ayuda al sistema nervioso y mantiene el estado anímico en casos depresivos
 - A base de rhodiola y vitamina c, tradicionalmente utilizados para calmar momentos de ansiedad y estrés
 
 [🛒 Comprar!!!]({{< param buyurl >}})

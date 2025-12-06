@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Gran apertura y lente 4P, que ofrecen imágenes más vívidas. Con una gran apertura y una lente 4P, la cámara reduce efectivamente la refracción de la luz, brindando una calidad de imagen clara y nítida que brinda una experiencia de visualización transparente y realista
+- Detección humana y alerta activa. La cámara admite la detección humana local basada en IA para detectar humanos con mayor precisión y rapidez sin procesamiento en la nube. Cuando se detecta a alguien, la cámara envía automáticamente una alerta a tu smartphone
+- Visión nocturna a todo color. Con la ayuda del sensor de imagen de alta sensibilidad incorporado, la cámara puede adaptarse mejor a entornos con poca luz y conservar imágenes en color durante un largo período de tiempo
 - Experiencia visual ultra clara de 3MP. Con 3MP y una resolución de 2304x1296, la cámara muestra imágenes 2K, brindando detalles más sutiles e imágenes más realistas
 - Soporte para montaje plano e invertido, adecuado para múltiples escenarios. Con el montaje invertido, simplemente ajuste la rotación de la imagen en la aplicación Xiaomi Home para ver la orientación estándar
-- Gran apertura y lente 4P, que ofrecen imágenes más vívidas. Con una gran apertura y una lente 4P, la cámara reduce efectivamente la refracción de la luz, brindando una calidad de imagen clara y nítida que brinda una experiencia de visualización transparente y realista
-- Visión nocturna a todo color. Con la ayuda del sensor de imagen de alta sensibilidad incorporado, la cámara puede adaptarse mejor a entornos con poca luz y conservar imágenes en color durante un largo período de tiempo
-- Detección humana y alerta activa. La cámara admite la detección humana local basada en IA para detectar humanos con mayor precisión y rapidez sin procesamiento en la nube. Cuando se detecta a alguien, la cámara envía automáticamente una alerta a tu smartphone
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D7D7P84Q{{</world>}}

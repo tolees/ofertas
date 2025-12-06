@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Limpiador facial suave para extraer la suciedad, las impurezas y el maquillaje de rostro, labios y ojos sin necesidad de frotar, Formato maxi
-- Tecnología constituida por micelas que actúan como un imán y atraen las impurezas y el maquillaje, Fórmula hipoalergénica indicada para todo tipo de pieles, incluyendo las sensibles, Testado dermatológicamente
-- Desmaquilla, limpia y tonifica en un solo gesto, No reseca la piel
 - Aplicación: limpia cara, ojos y los labios con la ayuda de un algodón, Sin aclarado
+- Tecnología constituida por micelas que actúan como un imán y atraen las impurezas y el maquillaje, Fórmula hipoalergénica indicada para todo tipo de pieles, incluyendo las sensibles, Testado dermatológicamente
+- Limpiador facial suave para extraer la suciedad, las impurezas y el maquillaje de rostro, labios y ojos sin necesidad de frotar, Formato maxi
 - Contenido: 1 x Agua Micelar Clásica Garnier Skin Active Formato Maxi, 700 ml
+- Desmaquilla, limpia y tonifica en un solo gesto, No reseca la piel
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MFA51IR{{</world>}}

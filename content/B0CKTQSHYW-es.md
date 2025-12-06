@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 93% algodón / 7% elastán
 - Corte ajustado
+- 93% algodón / 7% elastán
 - Cintura elástica
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Libertad
-- Confort
 - Transpirable
+- Confort
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B006G5N4XS{{</world>}}

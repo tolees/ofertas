@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - STOPS SWEAT BUILDUP - Hygienic mats with a coating to protect you from odor and stop sweat buildup
 - STYLISH STABILITY - 6 yoga inspired designs capture the values & essence on a non-slip surface with superior traction
-- LIGHTWEIGHT - Thicker than standard 3mm yoga mats, offering lightweight comfort and are travel friendly
 - CONSCIOUSLY CONSTRUCTED - Mats contain none of the toxic Phthalates DEHP, DBP, BBP, DINP, DIDP, or DNOP
+- LIGHTWEIGHT - Thicker than standard 3mm yoga mats, offering lightweight comfort and are travel friendly
 - ULTIMATE COMFORT - 3/16”(5mm) thickness offers comfort plus stability and the 72” L x 24” W size fits a variety of users
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cordones
-- Plano
-- Suela exterior de goma
-- Sintético
 - Parte superior de malla con superposiciones de ante y TPU
+- Plano
+- Sintético
+- Cordones
+- Suela exterior de goma
 - Forro textil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este cóctel está elaborado exclusivamente con un 8 % de Absolut Vodka y un 92 % Sprite, garantizando un sabor suave y equilibrado
 - Cada pack incluye 12 latas de 250 ml cada una, proporcionando un cóctel ya mezclado con un 5% de alcohol para que puedas disfrutar en reuniones o fiestas
-- Cóctel Absolut Vodka con Sprite, una bebida clásica y refrescante preparada con un 5% de alcohol
 - Recuerda siempre un consumo responsable y solo si eres mayor de edad
 - Disfruta de la versatilidad y practicidad de este cóctel, tomandolo directamente o mezclandolo con hielo y una rodaja de lima o limón
+- Este cóctel está elaborado exclusivamente con un 8 % de Absolut Vodka y un 92 % Sprite, garantizando un sabor suave y equilibrado
+- Cóctel Absolut Vodka con Sprite, una bebida clásica y refrescante preparada con un 5% de alcohol
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DDKX921V{{</world>}}

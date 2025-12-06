@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 4x Ventiladores 120 mm Hummer ARGB preinstalados
-- Placa Base: ATX | M-ATX | ITX - - Filtro antipolvo magnético
 - Dos paneles frontales incluidos (cristal templado con diseño exclusivo y mesh) - Lateral de cristal templado
-- Espacio para instalar hasta 7 ventiladores
 - Compatible con tarjetas de hasta 400mm - USB 3.0 y Type-C
+- Placa Base: ATX | M-ATX | ITX - - Filtro antipolvo magnético
+- Espacio para instalar hasta 7 ventiladores
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DBM7M124{{</world>}}

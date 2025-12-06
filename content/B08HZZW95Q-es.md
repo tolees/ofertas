@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Revlon professional proyou champú reparador
-- Volumen 350 ml
-- Producto de la marca ProYou Care
 - Champú reparador hecho para cabello dañado debido a coloración o herramientas de secado
+- Volumen 350 ml
+- Revlon professional proyou champú reparador
+- Producto de la marca ProYou Care
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08HZZW95Q{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aumenta el suministro de energía en el cuerpo
-- Monohidrato de creatina patentado micronizado
 - Propiedades anticatabólicas
+- Monohidrato de creatina patentado micronizado
+- Aumenta el suministro de energía en el cuerpo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B004FF5BO6{{</world>}}

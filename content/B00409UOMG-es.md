@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Principales ventajas: el taco fischer SX se puede utilizar con una amplia gama de tornillos, especialmente indicado para tornillos rosca aglomerado, posee anti-giro que lo mantiene fijo incluso en ladrillo hueco.
 - Tecnología: taco fischer con resistencia térmica de – 40 °C a + 80 °C, con bloqueo de penetración a golpes que evita expansión prematura del taco al introducirlo, el reborde evita que el taco se cuele por el taladro.
-- Modo de empleo: taco para montaje rasante y a través, tornillo rosca madera y aglomerado; longitud tornillo = longitud taco + espesor objeto + diámetro tornillo; para montaje a través usar tornillos máximo diámetro.
 - Contenido: 1 x Caja de tacos SX 4x20 con 200 uds para anclaje a pared con tornillos, cuello libre de expansión evita daños en paredes con azulejos y enlucidas, de fischer.
 - Aplicación: hormigón, placas alveolares, piedra natural, ladrillo hueco y macizo cerámico y sílico-calcáreo, bloque macizo y hueco de hormigón, hormigón celular, yeso, ladrillo perforado cerámico y sílico-calcáreo.
+- Modo de empleo: taco para montaje rasante y a través, tornillo rosca madera y aglomerado; longitud tornillo = longitud taco + espesor objeto + diámetro tornillo; para montaje a través usar tornillos máximo diámetro.
+- Principales ventajas: el taco fischer SX se puede utilizar con una amplia gama de tornillos, especialmente indicado para tornillos rosca aglomerado, posee anti-giro que lo mantiene fijo incluso en ladrillo hueco.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00409UOMG{{</world>}}

@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Entresuela FuelFoam con logotipo en relieve Suela exterior de goma ranurada
 - Cierre frontal con cordones bicolor
-- Logotipo estampado en el talón y la lengüeta Plantilla moldeada
 - Pestaña de grogrén en el
+- Logotipo estampado en el talón y la lengüeta Plantilla moldeada
 - Trabilla de grogrén en el talón
 
 [🛒 Visítala!!!]({{< param buyurl >}})

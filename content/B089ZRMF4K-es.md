@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Apta para todo tipo de cocinas, incluidas las de inducción; apta para lavavajillas
-- Triple fondo difusor que asegura un eficiente reparto del calor
+- Composición: olla 20 cm con tapa de cristal (4 L) + cacerola 24 cm con tapa de cristal (4 L) + cacerola 20 cm con tapa de cristal (2.5 L) + cazo 16 cm sin tapa (1.5 L)
 - Batería de 4 piezas fabricada en acero inoxidable 18/10
 - Mangos y asas fabricadas en acero inoxidable con acabado pulido brillo; tapa fabricada en vidrio templado con pomo de acero inoxidable
-- Composición: olla 20 cm con tapa de cristal (4 L) + cacerola 24 cm con tapa de cristal (4 L) + cacerola 20 cm con tapa de cristal (2.5 L) + cazo 16 cm sin tapa (1.5 L)
+- Apta para todo tipo de cocinas, incluidas las de inducción; apta para lavavajillas
+- Triple fondo difusor que asegura un eficiente reparto del calor
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B089ZRMF4K{{</world>}}

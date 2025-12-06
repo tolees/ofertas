@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Múltiples sistemas de armas para elegir.
 - Combate intenso y de alta velocidad.
-- Imágenes clásicas de pixel art.
 - Acción para un jugador. Usa contramedidas (tácticas defensivas y armas) para protegerte y derrotar a los enemigos.
+- Imágenes clásicas de pixel art.
 - Compatible con las consolas Atari (2600+, 7800+ y 7800)
+- Múltiples sistemas de armas para elegir.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F3JQF6QX{{</world>}}

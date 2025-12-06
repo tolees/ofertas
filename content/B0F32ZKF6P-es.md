@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dragon Fruit Scented
 - Para cara, cuerpo y manos
 - Jabón en pastilla
+- Dragon Fruit Scented
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F32ZKF6P{{</world>}}

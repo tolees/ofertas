@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El maletín esta hecho de aluminio
-- Mide 34 x 45 x 13 cm
 - Maletín de herramienta con 108 piezas
 - Peso 8 kg
+- Mide 34 x 45 x 13 cm
+- El maletín esta hecho de aluminio
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B005ERFK9U{{</world>}}

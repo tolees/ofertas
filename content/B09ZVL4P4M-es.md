@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material exterior: Ante
 - Material de la suela: EVA
+- Material exterior: Ante
 - Cierre: Cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

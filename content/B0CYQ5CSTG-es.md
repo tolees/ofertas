@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Drop: 5 mm (talón: 29 mm / antepié: 24 mm)
-- Plantilla Cloudfoam Plus
 - Contiene al menos un 20% de material reciclado
+- Drop: 5 mm (talón: 29 mm / antepié: 24 mm)
 - Mediasuela Bounce 2.0
 - Suela de goma
-- Horma clásica
 - Peso: 306 g (talla 42 2/3)
+- Plantilla Cloudfoam Plus
+- Horma clásica
 - Empeine de malla
 - Forro textil
 

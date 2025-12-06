@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - CLIMAPROOF
-- Dobladillo con cordón elástico ajustable
-- Exterior: 100% poliéster (reciclado); Interior: 100% poliéster (reciclado)
 - Bolsillos para las manos con cremallera
+- Dobladillo con cordón elástico ajustable
 - Corte clásico
+- Exterior: 100% poliéster (reciclado); Interior: 100% poliéster (reciclado)
 - Cierre de cremallera, cuello alto y capucha
 
 [🛒 Visítala!!!]({{< param buyurl >}})

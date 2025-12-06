@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste relajado
-- Entresuela acolchada
 - Ligeras
+- Entresuela acolchada
+- Ajuste relajado
 - Parte superior sintética
 
 [🛒 Aquí!!!]({{< param buyurl >}})

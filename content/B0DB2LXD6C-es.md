@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño estilizado que complementa cualquier look casual
 - Material transpirable para días calurosos
 - Ala ancha para protección solar óptima
+- Diseño estilizado que complementa cualquier look casual
 - Material resistente para uso diario
 - Ajuste regulable para mayor comodidad
 

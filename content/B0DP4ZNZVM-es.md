@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Santa Teresa Añejo Gran Reserva es el ron Óptimo para mezclar en cócteles con zumos de frutas y refrescos
-- Resulta de una ingeniosa mezcla de rones de primera calidad, envejecidos hasta cinco años en barricas y toneles de roble
-- Ron oscuro Venezolano con Denominación de Origen Contrastada
-- La siguiente información se aplica a cada unidad del paquete
 - Santa Teresa es el único ron añejo envejecido mediante el método de solera
 - El vaciado de toneles le confiere a Santa Teresa Añejo Gran Reserva su inconfundible suavidad y ese carácter que lo hace Óptimo para mezclar con refrescos y zumos de fruta, y lo convierten en el favorito del consumidor joven
+- Santa Teresa Añejo Gran Reserva es el ron Óptimo para mezclar en cócteles con zumos de frutas y refrescos
+- La siguiente información se aplica a cada unidad del paquete
+- Resulta de una ingeniosa mezcla de rones de primera calidad, envejecidos hasta cinco años en barricas y toneles de roble
+- Ron oscuro Venezolano con Denominación de Origen Contrastada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DP4ZNZVM{{</world>}}

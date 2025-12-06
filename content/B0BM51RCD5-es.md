@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material exterior: piel
-- Suela: acetato de vinilo de etileno
-- Cierre: cremallera
 - Forma del tacón: plano
+- Suela: acetato de vinilo de etileno
+- Material exterior: piel
+- Cierre: cremallera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BM51RCD5{{</world>}}

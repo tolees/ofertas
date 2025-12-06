@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Color: dorado
-- Material: acero inoxidable
 - Tipo de cierre: a presión
 - Acabado: pulido
+- Color: dorado
+- Material: acero inoxidable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CQXVF8DF{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Manga larga
-- Camisa para hombre de la marca danesa JACK & JONES
 - Corte ajustado
+- Camisa para hombre de la marca danesa JACK & JONES
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CL8B29HY{{</world>}}

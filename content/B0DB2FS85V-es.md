@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Borde precurvado
 - 100 % algodón
 - Correa trasera ajustable
+- Borde precurvado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DB2FS85V{{</world>}}

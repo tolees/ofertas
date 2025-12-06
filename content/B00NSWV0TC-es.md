@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cabezal de ajuste de profundidad para regular el espesor de las virutas entre 0 y 1,5 mm
+- La posición de apoyo se activa automáticamente para proteger la cuchilla y la superficie de trabajo de cualquier tipo de daño
 - Incluye: PHO 1500, tope de profundidad, cuchilla de cepillo, tope longitudinal y angular, bolsa para polvo, en caja
 - Potente motor de 550 W con una profundidad de corte de hasta 1,5 mm
-- La posición de apoyo se activa automáticamente para proteger la cuchilla y la superficie de trabajo de cualquier tipo de daño
 - Acabado de superficies rápido y sin esfuerzo gracias al sistema de cuchillas Woodrazor
+- Cabezal de ajuste de profundidad para regular el espesor de las virutas entre 0 y 1,5 mm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00NSWV0TC{{</world>}}

@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Cable de red Cat.6e UTP AWG24 100% cobre con conector tipo RJ45 en ambos extremos
 - Normativas: RoHS
-- Cumple las normas ANSI/TIA/EIA 568-B-1, Cat.6, ISO/IEC 11801 Clase E (2da edición), CENELEC EN 50173-1, IEC 61156-5, CENELEC EN 50288-6-1, IEC 61156-6, CENELEC EN 50288-6-2. Resistencia a la propagación de las llamas según IEC 60332
-- Conductor OFC (Oxygen Free Copper), pureza 99.9% con diámetro AWG24 que garantiza la transferencia de datos
 - El producto está 100% testado
+- Conductor OFC (Oxygen Free Copper), pureza 99.9% con diámetro AWG24 que garantiza la transferencia de datos
+- Cumple las normas ANSI/TIA/EIA 568-B-1, Cat.6, ISO/IEC 11801 Clase E (2da edición), CENELEC EN 50173-1, IEC 61156-5, CENELEC EN 50288-6-1, IEC 61156-6, CENELEC EN 50288-6-2. Resistencia a la propagación de las llamas según IEC 60332
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00AKBSB1E{{</world>}}

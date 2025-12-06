@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - OSITOS DE ORO PICA. Todo el mundo los conoce, y con razón, los icónicos OSITOS DE ORO HARIBO, son los clásicos caramelos de goma, en forma de ositos, de varios colores y sabores frutales, ahora recubiertos de delicioso pica. Los ositos HARIBO alegran la vida de grandes y pequeñ@s, desde 1922.
 - Conservar en lugar fresco y seco
-- Formato cómodo y fácil
 - ¡Con sus inconfundibles colores y sabores frutales, son sinónimo de alegría y diversión para toda la familia!​
+- Formato cómodo y fácil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DXLHQ378{{</world>}}

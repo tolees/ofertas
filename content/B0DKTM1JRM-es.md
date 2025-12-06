@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juego de colores mágicos de tonos rosa, dorado y lima
-- Decimos no a los ensayos con animales. cosnova está enumerado internacionalmente con essence y Catrice tanto en PETA Deutschland como en PETA.
-- Polvo iluminador reflectante con efecto multicolor
-- Vegano, sin aceite, sin perfume, sin alcohol, sin parabenos, sin micropartículas plásticas, nanopartículas, sin gluten, sin acetona
 - Radiante, duradero, resultado inmediato, holográfico, intenso, brillante, para todo tipo de piel
-- La siguiente información se aplica a cada unidad del paquete
+- Decimos no a los ensayos con animales. cosnova está enumerado internacionalmente con essence y Catrice tanto en PETA Deutschland como en PETA.
+- Vegano, sin aceite, sin perfume, sin alcohol, sin parabenos, sin micropartículas plásticas, nanopartículas, sin gluten, sin acetona
+- Polvo iluminador reflectante con efecto multicolor
+- Juego de colores mágicos de tonos rosa, dorado y lima
 - Textura en polvo ultraligera y construible
+- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DKTM1JRM{{</world>}}

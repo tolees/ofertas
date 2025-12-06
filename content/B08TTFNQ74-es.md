@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Los diseños de las plantillas incluyen unicornio, arcoíris y estrella fugaz.
-- Sigue la plantilla y coloca los abalorios en la bandeja de diseño. Rocía con agua y observa cómo se pegan mágicamente
 - Las creaciones pueden fijarse a la bolsa con las clavijas de diseño y los topes de clavijas incluidos
 - Este set completo de Aquabeads incluye más de 500 abalorios en 21 colores; bandeja de diseño; pipeta de agua; clavijas de diseño y tapones de clavijas; bolsa de tela (estuche); hoja de plantilla con instrucciones
+- Sigue la plantilla y coloca los abalorios en la bandeja de diseño. Rocía con agua y observa cómo se pegan mágicamente
 - Aquabeads es adecuado para niñas y niños a partir de 4 años. No es adecuado para niños menores de 3 años debido a las piezas pequeñas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Piel protegida de los rayos UVA/UVB/IR-A y la polución. Acabado invisible, efecto matificante. Textura ligera.
 - Protector solar fluido SPF50+ de amplio espectro para proteger la piel de los rayos UVA/UVB/IR-A/polución y prevenir la aparición de manchas y el fotoenvejecimiento. Para piel sensible y grasa.
 - Aplicar el protector solar antes de exponerse al sol. Reaplicar regularmente,.
-- Piel protegida de los rayos UVA/UVB/IR-A y la polución. Acabado invisible, efecto matificante. Textura ligera.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BWSJGBHW{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Entresuela de Phylon
 - Banda de rodadura natural
+- Entresuela de Phylon
 - Amortiguación ligera y resistente
 
 [🛒 Comprar!!!]({{< param buyurl >}})

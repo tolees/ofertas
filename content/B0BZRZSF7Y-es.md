@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño ligero y estable
-- Cierre de cordones
-- Siente la comodidad
 - Horma clásica
+- Diseño ligero y estable
+- Siente la comodidad
+- Cierre de cordones
 - Parte superior de monomalla
 
 [🛒 Visítala!!!]({{< param buyurl >}})

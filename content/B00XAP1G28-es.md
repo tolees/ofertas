@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Deliciosas piezas de regaliz negro enrolladas en forma de disco
-- Intenso sabor a regaliz
-- Conservar en lugar fresco y seco
 - Geles dulces
+- Deliciosas piezas de regaliz negro enrolladas en forma de disco
+- Conservar en lugar fresco y seco
+- Intenso sabor a regaliz
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00XAP1G28{{</world>}}

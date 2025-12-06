@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño moderno y funcional para que disfrutes de tu pasión por la cocina sin complicaciones: Display con Timer Touch y una gran capacidad interior de 70L.
-- Cocina con total seguridad todos tus preparados: Con puerta de doble cristal desmontable con ventilador radial de enfriamiento.
 - Tamaño horno | Tamaño hueco integración (Alto x Ancho x Profundidad): 59,5 x 59,5 x 56,8 CM| 59 x 56 x 56 CM.
+- Cocina con total seguridad todos tus preparados: Con puerta de doble cristal desmontable con ventilador radial de enfriamiento.
+- Diseño moderno y funcional para que disfrutes de tu pasión por la cocina sin complicaciones: Display con Timer Touch y una gran capacidad interior de 70L.
 - Disfruta de la comodidad de uso gracias a los Mandos Push&Pull.
 - Sistema de limpieza natural, Limpieza Aquactiva: Calienta el horno a 90º y en 30min podrás extraer sin esfuerzos los restos de grasa con un trapo húmedo.
 

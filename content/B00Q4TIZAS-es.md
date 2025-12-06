@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Incluye 2 toallas de baño y 2 toallas de manos.
 - Fabricada en 100% algodón.
 - Lavables en lavadora a 60 °C; se puede secar en secadora a baja temperatura.
-- Colores resistentes al uso, toallas ligeras y absorbentes.
 - Tamaño: 140 x 70 cm (toalla de baño), 50 x 100 cm (toalla de manos).
+- Colores resistentes al uso, toallas ligeras y absorbentes.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00Q4TIZAS{{</world>}}

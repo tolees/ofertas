@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Instrucciones de cuidado: limpiar con un paño limpio y seco
-- Exterior de piel flexible con capas de ante superpuestas
 - Entresuela de goma de perfil bajo
 - Perfil bajo
 - Material: piel sintética
+- Exterior de piel flexible con capas de ante superpuestas
+- Instrucciones de cuidado: limpiar con un paño limpio y seco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D1YJDNRW{{</world>}}

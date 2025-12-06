@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con una amortiguación óptima
 - Ofrecen comodidad y transpirabilidad
+- Con una amortiguación óptima
 - De corte bajo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

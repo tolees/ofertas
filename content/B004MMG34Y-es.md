@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diafragma de neodimio
-- Cable de 1.2 m duradero y ligero
-- Disponible en varios colores
 - Auriculares internos ligeros con diafragma de 13.5 mm
 - Rango de frecuencia: 18 Hz a 22 kHz
+- Disponible en varios colores
+- Diafragma de neodimio
+- Cable de 1.2 m duradero y ligero
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B004MMG34Y{{</world>}}

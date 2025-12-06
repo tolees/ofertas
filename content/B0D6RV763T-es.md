@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Pantalón largo
 - Instrucciones de cuidado: lavable a máquina
 - Tipo de estiramiento: Medium Stretch
-- Pantalón largo
 - Composición: 97 por ciento algodón 3 por ciento elastano
 - Ajuste: auténtico recto
 

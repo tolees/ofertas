@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- DETALLES: cuenta con una cintura elástica, cierre con cordón y forro de malla suave, bolsillos laterales y un bolsillo trasero único con cierre de gancho y bucle para tener a la mano pequeños objetos esenciales
 - TIRO: 17,8cm en la talla M de España
-- BAÑADOR DE 17,8CM: pantalones cortos de baño diseñados para ofrecer rendimiento y comodidad durante todo el día bajo el sol
+- DETALLES: cuenta con una cintura elástica, cierre con cordón y forro de malla suave, bolsillos laterales y un bolsillo trasero único con cierre de gancho y bucle para tener a la mano pequeños objetos esenciales
 - CORTE: corte cómodo y fácil en la cadera y el muslo con pernera recta. Se ajusta por debajo de la cintura
 - TEJIDO RESISTENTE Y DURADERO: tejido de natación ligero y transpirable
+- BAÑADOR DE 17,8CM: pantalones cortos de baño diseñados para ofrecer rendimiento y comodidad durante todo el día bajo el sol
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07YF47HGF{{</world>}}

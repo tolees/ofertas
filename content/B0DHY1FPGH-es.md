@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Type: Smartphone
 - Weight: 204 / 207 / 211 g
+- Type: Smartphone
 - Dimensions: 71.9 x 77.8 x 8.2 mm
 - Sim-type: Dual SIM (Nano-SIM, dual stand-by)
 - Network GSM / HSPA / LTE

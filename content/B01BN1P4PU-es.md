@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - AYUDA A CONCILIAR EL SUEÑO(1) - Soñodina Melatonina Tri es un complemento alimenticio que ayuda a conciliar el sueño.
-- DOSIS - Se recomienda tomar 1 comprimido antes de acostarse. El envase contiene 60 comprimidos. No superar la dosis diaria recomendada.
-- SIN AZÚCARES AÑADIDOS*, SIN GLUTEN Y SIN LACTOSA - *Contiene azúcares naturalmente presentes. Cada comprimido contiene Melatonina (1,99 mg), Extracto de Valeriana (100 mg), Extracto de Pasiflora (100 mg), Zinc (10 mg), Vitamina B6 (1,4mg), L-Triptófano (100 mg).
-- INICIO DEL SUEÑO - Contiene pasiflora que favorece un descanso nocturno y saludable; y valeriana que ayuda a una relajación óptima y al bienestar físico y mental en casos de tensión y estrés.
 - MELATONINA - La liberación de melatonina ayuda a disminuir el tiempo necesario para conciliar el sueño(1) y alivia la sensación de desfase horario (jet lag) (2).
+- INICIO DEL SUEÑO - Contiene pasiflora que favorece un descanso nocturno y saludable; y valeriana que ayuda a una relajación óptima y al bienestar físico y mental en casos de tensión y estrés.
+- SIN AZÚCARES AÑADIDOS*, SIN GLUTEN Y SIN LACTOSA - *Contiene azúcares naturalmente presentes. Cada comprimido contiene Melatonina (1,99 mg), Extracto de Valeriana (100 mg), Extracto de Pasiflora (100 mg), Zinc (10 mg), Vitamina B6 (1,4mg), L-Triptófano (100 mg).
+- DOSIS - Se recomienda tomar 1 comprimido antes de acostarse. El envase contiene 60 comprimidos. No superar la dosis diaria recomendada.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01BN1P4PU{{</world>}}

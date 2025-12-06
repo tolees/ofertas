@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Detalles distintivos de la marca
 - Ofrece una comodidad óptima
+- Detalles distintivos de la marca
 - Bolsillos de parche con solapa en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})

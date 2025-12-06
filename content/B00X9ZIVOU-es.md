@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Juego de 4 paquetes de 10 grageas cada uno
-- Chicle sin azúcar que beneficia la salud dental
-- Un consumo excesivo puede tener efectos laxantes
 - Ayuda a neutralizar los ácidos de la placa
+- Juego de 4 paquetes de 10 grageas cada uno
+- Un consumo excesivo puede tener efectos laxantes
+- Chicle sin azúcar que beneficia la salud dental
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00X9ZIVOU{{</world>}}

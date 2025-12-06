@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Deja el cabello suave
 - La siguiente información se aplica a cada unidad del paquete
 - Protege de la rotura del cabello
+- Deja el cabello suave
 - Fórmula enriquecida con arginina, biotina y vitamina B5
 
 [🛒 Visítala!!!]({{< param buyurl >}})

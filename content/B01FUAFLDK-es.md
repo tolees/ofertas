@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cóctel preparado para beber de alta calidad mezclando vodka de una marca de referencia con el sabor tropical del maracuyá
-- Los sabores exóticos y frutales están de moda; a parte del limón, el maracuyá se ha convertido en un clásico para mezclar con Vodka
 - Perfecta combinación de Vodka y maracuyá; el ácido carbónico aporta mucha frescura
+- Los sabores exóticos y frutales están de moda; a parte del limón, el maracuyá se ha convertido en un clásico para mezclar con Vodka
 - Contenido en alchol: 10%
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

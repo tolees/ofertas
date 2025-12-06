@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parche con logo de Tommy Jeans en el pecho
 - Detalles distintivos de Tommy Jeans
+- Parche con logo de Tommy Jeans en el pecho
 - Bolsillo canguro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

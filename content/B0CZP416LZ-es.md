@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100% algodón
 - Cuello redondo
+- 100% algodón
 - Corte holgado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

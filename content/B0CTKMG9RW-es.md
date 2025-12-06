@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- LS2 presenta el casco LS2 OF616 AIRFLOW II, un casco jet con visera protectora larga tratada antirrayas y conforme a la norma 22.06. Ligera con 950 g, es perfecta para usar en la ciudad.
 - - Visera larga de policarbonato 3D transparente: buena protección - Tratamiento antirayaduras y resistente a los rayos UV - Pantalla de liberación rápida
+- LS2 presenta el casco LS2 OF616 AIRFLOW II, un casco jet con visera protectora larga tratada antirrayas y conforme a la norma 22.06. Ligera con 950 g, es perfecta para usar en la ciudad.
 - Certificación de norma europea ECE 22.06
 
 [🛒 Comprar!!!]({{< param buyurl >}})

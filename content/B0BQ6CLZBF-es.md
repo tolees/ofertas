@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño FreeLift
 - Corte entallado
+- Diseño FreeLift
 - 93% poliéster (reciclado) / 7% elastano
 - AEROREADY
 

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Longitud del tamaño: hasta el tobillo
-- Detalles de las piernas: dobladillos para voltear
 - Cintura: Media
+- Detalles de las piernas: dobladillos para voltear
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08N18WVBD{{</world>}}

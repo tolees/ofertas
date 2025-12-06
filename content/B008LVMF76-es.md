@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Talla universal
-- Tejido no tejido - malla elástica
-- Transpirables
 - Preparadas para usarlas con compresas - post parto
+- Talla universal
+- Transpirables
+- Tejido no tejido - malla elástica
 - Braguitas monouso desechable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

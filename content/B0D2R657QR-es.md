@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pantalón corto
 - Tiene detalles distintivos de la marca
+- Pantalón corto
 - Ofrece comodidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

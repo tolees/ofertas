@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Colores vivos y cubrientes
-- Fórmula lavable de manos y de la mayor parte de tejidos y superficies no porosas
-- Ceras redondas y envueltas individualmente con papel protector
-- Lavables de tejidos y superficies no porosas
 - 12 tonalidades
+- Lavables de tejidos y superficies no porosas
+- Ceras redondas y envueltas individualmente con papel protector
+- Fórmula lavable de manos y de la mayor parte de tejidos y superficies no porosas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B004WSZBKU{{</world>}}

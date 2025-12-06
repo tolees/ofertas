@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Conectividad: FM, bluetooth, USB, tarjeta de memoria SD y entrada Auxiliar, ideal para conectar cualquier smartphone, MP3, PC, DVD, CD, DVD, teclado electrónico y cualquier dispositivo con salida de audio.
+- Altavoces: 2x8"
 - Tiempo de carga: aproximadamente 5 horas. Duración de la batería: aproximadamente 5 horas.
 - Modo “PRIORIDAD MIC”, al hablar por el micrófono disminuye la música.
-- Conectividad: FM, bluetooth, USB, tarjeta de memoria SD y entrada Auxiliar, ideal para conectar cualquier smartphone, MP3, PC, DVD, CD, DVD, teclado electrónico y cualquier dispositivo con salida de audio.
-- Batería: 12 v 4.5 Ah.
 - Potencia: 100 W.
-- Altavoces: 2x8"
+- Batería: 12 v 4.5 Ah.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BXYBZDWL{{</world>}}

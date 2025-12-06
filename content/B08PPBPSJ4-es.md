@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Punto doble 100% poliéster reciclado
 - Corte entallado
-- Puños elásticos
-- Bolsillos frontales con cremallera
 - Cuello alzado y cremallera hasta el pecho
+- Punto doble 100% poliéster reciclado
+- Bolsillos frontales con cremallera
+- Puños elásticos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08PPBPSJ4{{</world>}}

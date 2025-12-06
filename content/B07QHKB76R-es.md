@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tapa rosca con boca amplia
 - Fácil de lavar
 - Diseño de botella de agua
+- Tapa rosca con boca amplia
 - Sistema de cierre con clic a prueba de derrames
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

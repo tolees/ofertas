@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tres pares por paquete
 - Puntera sin costuras
 - No asoman por encima de la zapatilla
+- Tres pares por paquete
 - Refuerzo en el arco plantar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

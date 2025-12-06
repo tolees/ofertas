@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Puños y dobladillo de canalé
-- Contiene al menos un 70% de material reciclado y renovable
 - Corte holgado
-- Interior cepillado
+- Contiene al menos un 70% de material reciclado y renovable
 - Felpa 70% algodón / 30% poliéster reciclado
+- Interior cepillado
 - Bolsillo canguro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

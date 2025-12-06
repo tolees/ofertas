@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Apto lavavajillas
-- Su asa facilita el uso y proporciona estabilidad al dejarlo sobre la superficie
 - Dos tamaños de colador integrados ocupan poco espacio en la cocina
+- Su asa facilita el uso y proporciona estabilidad al dejarlo sobre la superficie
 - Sus agujeros alargados consiguen un rápido escurrido de los líquidos
+- Apto lavavajillas
 - Fabricado en polipropileno, muy resistente
 
 [🛒 Comprar!!!]({{< param buyurl >}})

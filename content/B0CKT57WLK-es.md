@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estilo de jersey clásico con diseño de espalda cruzada y escote en forma de cerradura para mayor ventilación y fácil de poner y quitar.
 - Banda elástica suave en la parte inferior con detalle de marca para un ajuste cómodo
+- Estilo de jersey clásico con diseño de espalda cruzada y escote en forma de cerradura para mayor ventilación y fácil de poner y quitar.
 - Marca UA HG Mid - Negro/Blanco - SM
 
 [🛒 Visítala!!!]({{< param buyurl >}})

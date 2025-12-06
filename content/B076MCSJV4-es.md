@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Organizador con llavero extraíble
-- Espaldar ergonómico
-- Correas en forma de S
 - La cartera escolar de toda la vida, pero en una versión renovada y con asas en la espalda para llevar como mochila o cartera indistintamente. Revive tu infancia acompañándolos al cole con sus colores y estampados favoritos.
+- Correas en forma de S
+- Espaldar ergonómico
 - Dimensión 37.50X32.00X16.50 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})

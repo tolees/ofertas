@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- UA HG Mid Branded - Negro/Blanco - MD
-- Estilo clásico de suéter con diseño de espalda cruzada y abertura para mayor ventilación y fácil de poner y quitar
 - Banda inferior elástica suave con detalle de marca para un ajuste permanente
+- Estilo clásico de suéter con diseño de espalda cruzada y abertura para mayor ventilación y fácil de poner y quitar
+- UA HG Mid Branded - Negro/Blanco - MD
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKT5CLYX{{</world>}}

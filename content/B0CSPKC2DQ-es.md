@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estilo de talle bajo
 - Corte entallado
 - Fabricado con lavado más sabio para garantizar un uso responsable del agua
+- Estilo de talle bajo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CSPKC2DQ{{</world>}}

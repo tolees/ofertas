@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Instalación PerfectFit, fácil y rápido, asegurando unas líneas limpias y una cocina cómoda
-- Microondas integrable de 23L sin necesidad de ventilación trasera de 900W con función Grill de 1100W, consigue el mejor sabor y textura con solo pulsar un botón
 - Función Descongelado: Selecciona el tipo de alimento y el peso.
+- Microondas integrable de 23L sin necesidad de ventilación trasera de 900W con función Grill de 1100W, consigue el mejor sabor y textura con solo pulsar un botón
 - Control táctil intuitivo, de superficie sencilla y lisa para una limpieza más fácil. Además, permite cambiar funciones y tiempos en segundos
 - PLATO GIRATORIO Y PARRILLA GRILL: Disfruta de un plato giratorio para una cocción uniforme y una parrilla grill para lograr ese acabado crujiente; Fabricado en UE
 

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Coloración permanente enriquecida con aceites naturales: el tratamiento de cuidado con Aceite Natural de Marula suaviza la superficie del cabello y proporciona brillo
-- Tono 5.6 – Castaño Caramelo
-- Descubre la coloración permanente de cuidado Palette Intensive Creme Color con óptima cobertura de canas para un color duradero y brillo en tu cabello
 - La crema colorante con pigmentos de color altamente eficaces proporciona un color vivo, radiante y duradero hasta 8 semanas
+- Descubre la coloración permanente de cuidado Palette Intensive Creme Color con óptima cobertura de canas para un color duradero y brillo en tu cabello
+- Tono 5.6 – Castaño Caramelo
 - Penetra profundamente en el núcleo del cabello sellando los altamente eficaces pigmentos de color
+- Coloración permanente enriquecida con aceites naturales: el tratamiento de cuidado con Aceite Natural de Marula suaviza la superficie del cabello y proporciona brillo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00X9VB5DI{{</world>}}

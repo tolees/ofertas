@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Capucha con cordón
 - Tejido suave y cálido
+- Capucha con cordón
 - Ajuste regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Acabado: cromado
-- Forma: circular
 - Hecho en España
 - Diámetro (mm): 80
+- Forma: circular
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00ZPZSHEQ{{</world>}}

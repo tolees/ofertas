@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Secciones y tipos de conductores mezclables individualmente
-- Conexión de todos los tipos de conductores, incluso sin tratamiento previo
 - Cómodo conector de escalera de 0,5 a 6 mm²
+- Conexión de todos los tipos de conductores, incluso sin tratamiento previo
 - Manejo sencillo y sin herramientas gracias a la palanca
 - Conexión de hasta 5 conductores
 

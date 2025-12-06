@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Destruye a los infieles: Explora un inmenso mundo generado de forma procedimental, rechaza a hordas de enemigos y derrota a los líderes de grupos rivales para absorber su poder y reafirmar la supremacía de tu secta.
 - Difunde la palabra: Entrena a tu rebaño y embárcate en la misión de explorar y descubrir los secretos de cinco misteriosas regiones. Purifica a los infieles, difunde la iluminación y lleva a cabo rituales místicos en tu periplo para convertirte en el poderoso dios cordero.
-- Crea tu propia secta en una tierra de falsos profetas, aventurándote en regiones diversas y misteriosas para construir una leal comunidad de adoradores de los bosques, y difunde tu Palabra para convertir tu secta en la única y verdadera.
 - Construye tu rebaño: Reúne recursos y úsalos para construir nuevas estructuras, realiza rituales oscuros para apaciguar a los dioses y pronuncia sermones para reforzar la fe de tu rebaño.
+- Crea tu propia secta en una tierra de falsos profetas, aventurándote en regiones diversas y misteriosas para construir una leal comunidad de adoradores de los bosques, y difunde tu Palabra para convertir tu secta en la única y verdadera.
+- Destruye a los infieles: Explora un inmenso mundo generado de forma procedimental, rechaza a hordas de enemigos y derrota a los líderes de grupos rivales para absorber su poder y reafirmar la supremacía de tu secta.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BJ4J441F{{</world>}}

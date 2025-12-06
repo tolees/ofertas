@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suave al tacto
 - Espuma indispensable
+- Suave al tacto
 - Adhesión confiable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Horas de entrenamiento
-- Remix es un juego de 1 a 6 jugadores con partidas rápidas de 20 minutos de duración
 - Juego de tablero
+- Remix es un juego de 1 a 6 jugadores con partidas rápidas de 20 minutos de duración
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CD9873YW{{</world>}}

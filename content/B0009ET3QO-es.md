@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Gel de fijación media
-- Protege de los daños causados por el sol
 - Fija el peinado
+- Protege de los daños causados por el sol
 - Aporta brillo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

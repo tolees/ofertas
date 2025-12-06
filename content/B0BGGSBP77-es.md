@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Mediasuela con amortiguación para una pisada cómoda
+- Cierre de cordones
 - Forro sintético
 - Horma clásica
-- Cierre de cordones
-- Mediasuela con amortiguación para una pisada cómoda
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BGGSBP77{{</world>}}

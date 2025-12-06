@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tracción estable
 - Acolchado
+- Tracción estable
 - Máxima estabilidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

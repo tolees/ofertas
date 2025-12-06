@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- APTO PARA SEXO VAGINAL, ANAL Y ORAL: lubricante apto para sexo vaginal, anal y oral
 - COMPATIBLE CON PRESERVATIVOS DE LÁTEX: únicamente compatible con preservativos de látex de caucho natural y poliisopreno
 - ¿CÓMO USARLO?: abrir el tapón y apretar suavemente para aplicarlo
-- APTO PARA SEXO VAGINAL, ANAL Y ORAL: lubricante apto para sexo vaginal, anal y oral
-- DULCE Y PLACENTERO: Durex lubricante Cherry, dulce y placentero
 - ALIVIAR LA SEQUEDAD VAGINAL: Destinado para aliviar la sequedad vaginal y las molestias íntimas
+- DULCE Y PLACENTERO: Durex lubricante Cherry, dulce y placentero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XAD57V6{{</world>}}

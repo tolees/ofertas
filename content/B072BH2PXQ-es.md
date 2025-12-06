@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello acanalado
-- Proporciona comodidad
 - Bajo recto
+- Cuello acanalado
 - Bordado de G-Star RAW en el pecho
+- Proporciona comodidad
 - Paquete de dos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

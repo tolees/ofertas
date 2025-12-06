@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Procesador MediaTek Helio G80 Octa-Core 2,0 G Hz
 - Sistema Operativo, Android 12
-- Pantalla táctil IPS 2K de 26,92 cm (10,6 pulgadas), 2000 x 1200 pixeles, 400 nits
 - Tarjeta gráfica Integrada ARM Mali-G52 MC2 GPU
 - Memoria RAM de 4 GB Soldered LPDDR4x, ampliables mediante tarjeta micro SD hasta 1TB
+- Procesador MediaTek Helio G80 Octa-Core 2,0 G Hz
+- Pantalla táctil IPS 2K de 26,92 cm (10,6 pulgadas), 2000 x 1200 pixeles, 400 nits
 - Conectividad, WiFi 5 (1x1 802,11abgnac) y Bluetooth 5,0
 - Almacenamiento de 64 GB (eMCP, e mmC 5,1) ampliables mediante tarjeta micro SD hasta 1TB
 

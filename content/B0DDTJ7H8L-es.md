@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Slip-Ins
 - Espuma viscoelástica refrigerada por aire
+- Slip-Ins
 - Doble densidad
 - Zancada suave
 - Tecnología Hyper Pillar

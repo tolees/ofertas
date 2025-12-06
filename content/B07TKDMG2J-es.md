@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estilo casual
-- Este producto es original Levis
 - Ofrecen una comodidad óptima
+- Este producto es original Levis
+- Estilo casual
 - Con trabillas para cinturón
 
 [🛒 Visítala!!!]({{< param buyurl >}})

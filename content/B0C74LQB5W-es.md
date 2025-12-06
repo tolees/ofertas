@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 25 mm de ancho
 - MODERN WESTERN INSPIRED BUCKLE
+- 25 mm de ancho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C74LQB5W{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estuche con 3 rotuladores colores dorado, plateado y blanco
 - Ideal para álbumes de recortes, tarjetas y manualidades en general
-- Punta redondeada, ancho de línea aprox. 1-2 mm
 - Se puede limpiar fácilmente con un paño húmedo
+- Estuche con 3 rotuladores colores dorado, plateado y blanco
 - Rotuladores metálicos de alta calidad para escribir y decorar en papel claro y oscuro, así como en cartón
+- Punta redondeada, ancho de línea aprox. 1-2 mm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08R67JJX4{{</world>}}

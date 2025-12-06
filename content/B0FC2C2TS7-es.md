@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Perlas de perfume con refrescantes aromas de Brisa Marina y Jazmín
 - Personaliza la intensidad de la fragancia con la cantidad de perlas de perfume que desees utilizar
-- La siguiente información se aplica a cada unidad del paquete
-- Tu colada siempre fresca hasta 12 semanas después de haberla guardado
-- Pueden añadirse a todas las coladas, con todo tipo de tejidos
 - Descubre nuestra edición limitada Costa Mediterránea
+- Pueden añadirse a todas las coladas, con todo tipo de tejidos
+- Tu colada siempre fresca hasta 12 semanas después de haberla guardado
+- Perlas de perfume con refrescantes aromas de Brisa Marina y Jazmín
+- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FC2C2TS7{{</world>}}

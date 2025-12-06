@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mantener en lugar fresco y seco
 - Aportó calórico de 32 Kcal/100 ml
-- Contiene dióxido de azufre y sulfitos
 - Contenido de alcohol de 4.3%
+- Contiene dióxido de azufre y sulfitos
+- Mantener en lugar fresco y seco
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01M0BD49Q{{</world>}}

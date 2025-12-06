@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- PELÍCULA INCLUIDA: Now Everything Box incluye la cámara instantánea Now i-Type (negra) más un paquete doble de película Color i-Type (16 fotos) para que pueda disparar de inmediato.
-- POINT. SHOOT. KEEP FOREVER: ahora la cámara es compatible tanto con la película i-Type como con la película 600. La película se vende por separado.
+- DOBLE EXPOSICIÓN: la cámara Now puede encuadrar dos momentos en uno con doble exposición, o aparecer en la foto con el disparador automático y un flash preciso para que todos se vean como deberían.
 - NOW CAMERA + FILM BUNDLE: la cámara instantánea analógica de apuntar y disparar Polaroid Now Generation 2 tiene todo lo que necesita para capturar cada momento de la vida en una fotografía Polaroid original.
 - NUEVO Y MEJORADO: Nuestra nueva cámara instantánea analógica Now Generation 2 ahora está fabricada con un 40 % de materiales reciclados y la batería interna de iones de litio se carga a través de USB-C
-- DOBLE EXPOSICIÓN: la cámara Now puede encuadrar dos momentos en uno con doble exposición, o aparecer en la foto con el disparador automático y un flash preciso para que todos se vean como deberían.
+- PELÍCULA INCLUIDA: Now Everything Box incluye la cámara instantánea Now i-Type (negra) más un paquete doble de película Color i-Type (16 fotos) para que pueda disparar de inmediato.
+- POINT. SHOOT. KEEP FOREVER: ahora la cámara es compatible tanto con la película i-Type como con la película 600. La película se vende por separado.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BVNMK48Q{{</world>}}

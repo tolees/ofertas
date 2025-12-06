@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sneakers Skechers Track-scloric Hombre Marino
-- MARINO
-- HOMBRE
-- SNEAKERS
 - V-25
+- MARINO
+- SNEAKERS
+- HOMBRE
+- Sneakers Skechers Track-scloric Hombre Marino
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07BQXMJFX{{</world>}}

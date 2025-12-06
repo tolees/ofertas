@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Empeine textil
 - Horma clásica
+- Suela sintética
 - Forro textil
 - Forro textil
 - Plantilla Cloudfoam Comfort
-- Empeine textil
-- Suela sintética
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CYTBZK4H{{</world>}}

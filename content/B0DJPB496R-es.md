@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Talla única
 - Puño con vuelta
+- Talla única
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJPB496R{{</world>}}

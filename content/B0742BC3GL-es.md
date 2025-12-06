@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Dermatológicamente y oftalmológicamente probado
-- Resistente al agua
 - Fórmula suave y cremosa para una fácil aplicación
+- Resistente al agua
 - Color de alta intensidad para un impacto instantáneo
 - Dibuja una línea fina sobre el ojo para una mirada más intensa
 

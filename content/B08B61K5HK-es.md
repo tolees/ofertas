@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Puffer jacket
+- Care Label:
 - High Neck
 - materialFabricComposition: Outer: 60% Polyester, 40% Nylon; Lining: 60% Polyester, 40% Nylon; Padding: 100% Polyester
 - Long Sleeves
-- Care Label:
-- Puffer jacket
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08B61K5HK{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gel de crema con tecnología PureBronze que te broncea más rápido, refuerza un 55% la melanina natural, dejando un bronceado natural y uniforme
-- Gracias a la tecnología VitEox80 , este protector de Ecran protege de las quemaduras solares y refuerza las defensas antioxidantes de la piel
-- Este gel crema protector sin autobronceador tiene un SPF de 30 con protección media frente a los rayos UVB y UVA
 - Ecran ahora con nuevas fórmulas más eficaces, seguras y sostenibles, gracias a la tecnología de su nueva molécula propia y única, un potente activo antioxidante refuerza las defensas de la pie
+- Gracias a la tecnología VitEox80 , este protector de Ecran protege de las quemaduras solares y refuerza las defensas antioxidantes de la piel
+- Gel de crema con tecnología PureBronze que te broncea más rápido, refuerza un 55% la melanina natural, dejando un bronceado natural y uniforme
+- Este gel crema protector sin autobronceador tiene un SPF de 30 con protección media frente a los rayos UVB y UVA
 - El protector solar de Ecran Sunnique Broncea + cuenta con una textura ligera y de rápida absorción. Es resistente al agua y se presenta en un cómodo formato de tubo de 250 ml
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

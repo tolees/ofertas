@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- AMPLIA CONECTIVIDAD. Se pueden conectar hasta 3 móviles a la vez para crear la playlist perfecta, vincular 2 altavoces para aumentar la potencia a y conectarlo a tu TV LG para una experiencia inmersiva.
-- MONTA LAS MEJORES FIESTAS CON AMIGOS. Haz que todos bailen con su mesa DJ o utiliza la gran variedad de efectos sonoros de DJ y de voz directamente desde tu teléfono a través de App XBOOM (1).
 - ILUMINA LA FIESTA. Además de incorporar iluminación LED multicolor, puedes conectar hasta 3 móviles para que sus luces traseras también cambien al ritmo de la música.
-- REVIVE TUS SESIONES. Graba tus listas de reproducción y mezclas de DJ en un USB para volver a escucharlas en cualquier momento. Cópialas en otro USB o envíaselas a tus amigos por Bluetooth.
+- MONTA LAS MEJORES FIESTAS CON AMIGOS. Haz que todos bailen con su mesa DJ o utiliza la gran variedad de efectos sonoros de DJ y de voz directamente desde tu teléfono a través de App XBOOM (1).
+- AMPLIA CONECTIVIDAD. Se pueden conectar hasta 3 móviles a la vez para crear la playlist perfecta, vincular 2 altavoces para aumentar la potencia a y conectarlo a tu TV LG para una experiencia inmersiva.
 - SONIDO NÍTIDO Y GRAVES POTENTES: 4 altavoces, cuenta con dos grandes woofers de 8 pulgadas y dos tweeters.
+- REVIVE TUS SESIONES. Graba tus listas de reproducción y mezclas de DJ en un USB para volver a escucharlas en cualquier momento. Cópialas en otro USB o envíaselas a tus amigos por Bluetooth.
 - CELEBRA TU PROPIO CONCIERTO. Con entrada para micrófono y guitarra. Activa la función Karaoke pulsando un simple botón.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

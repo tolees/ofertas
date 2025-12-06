@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tela transpirable
-- Ofrece comodidad y libertad de movimiento
 - Ajuste apretado
 - Cintura elástica
+- Tela transpirable
+- Ofrece comodidad y libertad de movimiento
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08R6DF28T{{</world>}}

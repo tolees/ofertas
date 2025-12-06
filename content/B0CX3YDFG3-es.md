@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Memoria RAM de 16GB DDR4 SDRAM
 - Tarjeta Gráfica Intel UHD Graphics DDR4 SDRAM
-- Sistema Operativo: Windows 11 Home
-- Almacenamiento de 1TB SSD PCI Express 4.0
+- Memoria RAM de 16GB DDR4 SDRAM
 - Procesador Intel Core i5-13400 (10C/DecaCore) 2,50GHz
+- Almacenamiento de 1TB SSD PCI Express 4.0
+- Sistema Operativo: Windows 11 Home
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CX3YDFG3{{</world>}}

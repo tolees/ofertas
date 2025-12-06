@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Jeans in a light blue wash
 - Jeans highwaist
+- Jeans in a light blue wash
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07M5BCT16{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Carcasa del motor color latón antiguo, motor ca de alta calidad, duradero y de funcionamiento suave
-- Operación de verano y operación inverso de invierno para recuperación de calor (en invierno, hasta 30% de ahorro en costos de calefaccion)
 - Diámetro de las palas de 132cm para habitaciones hasta 25 m²; aspas en estilo de madera, colores negro y negro con tiras argénteos; se puede montar directamente en el techo (más plano)
+- Carcasa del motor color latón antiguo, motor ca de alta calidad, duradero y de funcionamiento suave
 - Ventiladores de techo sin lamparas con 5 cuchillas; apto para techos inclinados
 - 3 velocidades regulables con un cadena; control mando a distancia o interruptor de pared disponible como accesorio
+- Operación de verano y operación inverso de invierno para recuperación de calor (en invierno, hasta 30% de ahorro en costos de calefaccion)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00GJKDDI6{{</world>}}

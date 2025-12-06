@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Deportes: Ocio
 - Sudadera deportiva
+- Deportes: Ocio
 - Ajuste estándar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

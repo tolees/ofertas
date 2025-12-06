@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Punto 76% poliéster reciclado / 12% algodón / 12% viscosa
 - Corte clásico
-- Cuello redondo
 - Diseño New Lift
 - AEROREADY
+- Punto 76% poliéster reciclado / 12% algodón / 12% viscosa
+- Cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CL2SY3RC{{</world>}}

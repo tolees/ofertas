@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Made in Spain
+- Plantilla de piel
 - Materiales reciclados
 - Suela flexible
-- Plantilla de piel
+- Made in Spain
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09B2KHYGX{{</world>}}

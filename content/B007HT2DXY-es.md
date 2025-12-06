@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Creando un acabado duradero resistente al agua y al roce
 - Un iluminador líquido sin aceite a base de silicona
-- Dando un aspecto natural, juvenil y radiante
 - Adecuado para todo tipo de pieles con un brillo instantáneo
+- Creando un acabado duradero resistente al agua y al roce
+- Dando un aspecto natural, juvenil y radiante
 - Un tono melocotón medio, brillante y delicado que se adapta a tonos de piel muy claros
 
 [🛒 Visítala!!!]({{< param buyurl >}})

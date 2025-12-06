@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte entallado
 - Estilo de tiro regular
+- Corte entallado
 - Fabricado con un mínimo de 20% de materiales reciclados y otros tejidos sostenibles
 
 [🛒 Aquí!!!]({{< param buyurl >}})

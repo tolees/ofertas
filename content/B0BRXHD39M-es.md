@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Raqueta de tenis
-- Material resistente
 - Tiene detalles distintivos de la marca
+- Material resistente
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BRXHD39M{{</world>}}

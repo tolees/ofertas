@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - silueta corriendo
-- diseño de la icónica zapatilla 574
 - entresuela de EVA
+- diseño de la icónica zapatilla 574
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C7WJG2Z3{{</world>}}

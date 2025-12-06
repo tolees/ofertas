@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Talle alto
 - Corte ajustado
+- Talle alto
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZPP6DB9{{</world>}}

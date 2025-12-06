@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela de goma
+- Cordones y correas 100 % reciclados
 - Piel de ante y parte superior textil 100% reciclada
 - Talonera de TPU moldeado para mayor seguridad
-- Cordones y correas 100 % reciclados
+- Suela de goma
 - Plantilla de espuma EVA extraíble 50% reciclada que se coloca en la parte superior de una entresuela ligera de espuma EVA para mayor estabilidad y comodidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

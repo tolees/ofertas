@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Quality and precision at your fingertips
 - Paqueteage Dimensiones: 3.4 L x 22.2 H x 9.5 W (centimeters)
+- Quality and precision at your fingertips
 - Componentes incluidos: Components included
 
 [🛒 Aquí!!!]({{< param buyurl >}})

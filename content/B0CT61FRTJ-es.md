@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela muy ligera, antideslizante y flexible
 - Forro transpirable, piso flexible y plantilla de piel muy acolchada y transpirable
+- Suela muy ligera, antideslizante y flexible
 - Sneakers colegiales blancas de piel curtido de forma sostenible con cierres ajustasbles
 - Forro y plantilla transpirables, absorbentes y de secado rápido
 

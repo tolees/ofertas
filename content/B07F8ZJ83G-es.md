@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Hidratante facial Cosmética Unisex Adulto
-- Hidratante facial CLINIQUE
 - CLINIQUE DRAMATICALLY DIFFERENT HYDRATING JELLY 125ML (0020714939472)
+- Hidratante facial CLINIQUE
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07F8ZJ83G{{</world>}}

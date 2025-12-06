@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Asustor Lockerstor 6 Gen3 AS6806T 6 Bay NAS
-- Compatible con Wake on LAN y Wake on WAN (5 GbE)
-- Procesador AMD Ryzen Embedded V3C14 de cuatro núcleos a 2,3 GHz - 3,8 GHz (Turbo)
 - Cuatro ranuras M.2 para SSD NVMe - Doble rendimiento con PCIe 4.0
+- Procesador AMD Ryzen Embedded V3C14 de cuatro núcleos a 2,3 GHz - 3,8 GHz (Turbo)
+- Compatible con Wake on LAN y Wake on WAN (5 GbE)
+- Asustor Lockerstor 6 Gen3 AS6806T 6 Bay NAS
 - SPEC: 16 GB DDR5 ECC RAM. 2 puertos USB4 a 40 Gbps. 3 puertos USB 3.2 Gen 2 de Tipo-A a 10 Gbps. 2 Ethernet de 10 Gigabits. 2 Ethernet de 5 Gigabits
 
 [🛒 Aquí!!!]({{< param buyurl >}})

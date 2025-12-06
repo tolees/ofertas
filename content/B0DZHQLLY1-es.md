@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La siguiente información se aplica a cada unidad del paquete
+- Apto Frigorífico
+- Reciclable , Ecológico , Material 100% saludable , 100% higiénico , No poroso , Larga duración
 - Facil de limpiar
 - 6 vasos 25 cl
-- Reciclable , Ecológico , Material 100% saludable , 100% higiénico , No poroso , Larga duración
-- Apto Frigorífico
+- La siguiente información se aplica a cada unidad del paquete
 - Apto lavavajillas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

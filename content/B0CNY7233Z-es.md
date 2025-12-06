@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Skechers Detalle del logotipo
 - Suela de tracción flexible
 - Skechers Espuma viscoelástica refrigerada por aire
+- Skechers Detalle del logotipo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CNY7233Z{{</world>}}

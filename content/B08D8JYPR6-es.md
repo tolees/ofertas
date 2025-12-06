@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- USO VERSÁTIL Y DIARIO Este producto es ideal para usar en cualquier momento del día para refrescar y revitalizar el cabello sin esfuerzo, además, combina perfectamente con otros productos de styling de American Crew para crear estilos únicos y duraderos
 - VOLUMEN EFECTO MATE Aumenta el volumen del cabello, proporcionando un aspecto más voluminoso, además, su acabado es mate, proporcionando un aspecto natural y sin brillo, también ayuda a refrescar y revitalizar el cabello entre lavados, aumentando la duración del peinado
+- USO VERSÁTIL Y DIARIO Este producto es ideal para usar en cualquier momento del día para refrescar y revitalizar el cabello sin esfuerzo, además, combina perfectamente con otros productos de styling de American Crew para crear estilos únicos y duraderos
 - VOLUMEN EFECTO MATE Aumenta el volumen del cabello, proporcionando un aspecto más voluminoso, además, su acabado es mate, proporcionando un aspecto natural y sin brillo, también ayuda a refrescar y revitalizar el cabello entre lavados, aumentando la duración del peinado
 - AMERICAN CREW BOOST POWDER Es un polvo antigravedad diseñado para agregar volumen al cabello con un acabado mate. Ofrece una solución efectiva para darle vida y cuerpo al cabello, proporcionando un aspecto más voluminoso
 - ABSORBE EL EXCESO DE GRASA Uno de sus ingredientes principales es el sílice, que absorbe el exceso de grasa y proporciona textura al cabello, manteniendo su aspecto fresco y con volumen

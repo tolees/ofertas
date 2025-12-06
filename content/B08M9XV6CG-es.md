@@ -30,10 +30,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - 🔇 Funcionamiento ultra silencioso y modo sueño – Mantiene un NIVEL BAJO DE RUIDO para descansar o trabajar sin molestias; ideal como purificador aire silencioso para dormitorio. Cuenta con Modo Sleep para acompañarte durante la noche sin notar siquiera su funcionamiento. Nivel sonoro normal 20-48dB; Nivel sonoro en modo Sleep <20dB
 - 🧪 Luz UV C esterilizadora + ionizador negativo – Neutraliza bacterias y virus, mientras el generador de iones negativos ayuda a REDUCIR OLORES, HUMO Y COMPUESTOS ORGÁNICOS VOLÁTILES.
-- 💨 Purificación multicapa para aire más limpio – Filtro HEPA H13 de 4 etapas que elimina hasta el 99,9 % de partículas PM2.5, polvo, polen y bacterias, IDEAL PARA ALÉRGICOS Y HOGARES CON MASCOTAS.
-- 📊 Pantalla LCD intuitiva con sensores de calidad – Muestra en TIEMPO REAL la concentración de partículas PM2.5, permitiendo ajustar manualmente o dejarlo en modo automático para una purificación inteligente. Puedes usar su CONTROL REMOTO a través del mando a distancia o descrgándote la APP donde aparecen todas las mediciones de la habitacion.
 - ✅Pantalla mostrará TRES TIPOS DE COLORES: Verde, cuando la calidad del aire es excelente; Azul, cuando el aire está ligeramente contaminado; Rojo, cuando el aire está seriamente contaminado.
+- 📊 Pantalla LCD intuitiva con sensores de calidad – Muestra en TIEMPO REAL la concentración de partículas PM2.5, permitiendo ajustar manualmente o dejarlo en modo automático para una purificación inteligente. Puedes usar su CONTROL REMOTO a través del mando a distancia o descrgándote la APP donde aparecen todas las mediciones de la habitacion.
 - 🌬 CADR 220 m³/h para estancias amplias – Alto caudal de aire purificado que permite cubrir espacios de hasta 88 m², perfecto como purificador habitación grande o salones familiares.
+- 💨 Purificación multicapa para aire más limpio – Filtro HEPA H13 de 4 etapas que elimina hasta el 99,9 % de partículas PM2.5, polvo, polen y bacterias, IDEAL PARA ALÉRGICOS Y HOGARES CON MASCOTAS.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08M9XV6CG{{</world>}}

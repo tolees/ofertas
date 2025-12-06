@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vehículos clásicos y geniales a escala 1:64 con un estilo auténtico y detalles llamativos.
+- Presentan varias temáticas distintas para coleccionarlos e intercambiarlos con los amigos.
 - Cada pack incluye cinco vehículos Hot Wheels.
 - ¡Un gran regalo para niños y coleccionistas!
 - ¡Algunos packs de 5 coches incluyen vehículos de las minicolecciones básicas de Hot Wheels!
-- Presentan varias temáticas distintas para coleccionarlos e intercambiarlos con los amigos.
+- Vehículos clásicos y geniales a escala 1:64 con un estilo auténtico y detalles llamativos.
 - ¡Cada pack de cinco es perfecto para comenzar una colección de coches y una ampliación genial para coleccionistas experimentados!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

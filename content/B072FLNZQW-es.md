@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello: cuello redondo
 - Material: 100% acrílico
+- Cuello: cuello redondo
 - Longitud de la manga: manga larga
 
 [🛒 Visítala!!!]({{< param buyurl >}})

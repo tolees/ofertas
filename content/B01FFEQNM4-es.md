@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El vapor de polti vaporetto mata y elimina el 99.99 percent de virus, gérmenes y bacterias
-- Múltiples accesorios para la limpieza de toda la casa
 - Perfecto para las limpiezas en profundidad y/o diarias, su cepillo más grande y flexible limpia rápidamente y su forma triangular permite alcanzar cualquier ángulo
+- Múltiples accesorios para la limpieza de toda la casa
+- El vapor de polti vaporetto mata y elimina el 99.99 percent de virus, gérmenes y bacterias
 - Caldera de alta presión, hasta 3,5 bar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Resolución Full HD proporciona imágenes nítidas y detalladas. Es ideal para disfrutar de contenido multimedia en alta definición, como películas y series.
 - Google TV: Todo tu contenido favorito en un óptimo lugar; accede a más de 10,000 aplicaciones, como Disney+, Youtube o Netflix, disponibles en Google Store; además, a través de Chromecast, podrás transmitir el contenido desde tu teléfono móvil a la televisión con facilidad
+- Resolución Full HD proporciona imágenes nítidas y detalladas. Es ideal para disfrutar de contenido multimedia en alta definición, como películas y series.
 - Medidas del producto (Ancho x Alto x Fondo): sin peana 89,3 x 51,7 x 8,8 cm, con peana 89,3 x 54,3 x 22,5 cm
 - Este televisor está equipado con óptima tecnología de conectividad, incluyendo cuatro puertos HDMI 2.1 y Bluetooth 5.1 para una experiencia de conexión rápida y sin complicaciones con tus dispositivos
 - Panel Direct LED: la retroiluminación trasera ajusta la potencia e intensidad de los LED con precisión según cada escena; así, se consigue un óptimo contraste, un brillo óptimo y una óptimo homogeneidad en la pantalla con unos negros puros haciendo que disfrutes una experiencia visual óptima

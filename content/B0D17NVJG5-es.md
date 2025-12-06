@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte clásico
-- Relleno: acolchado sintético
-- Acabado que repele el agua
-- Cierre de cremallera y cuello alzado
-- Dobladillo con cordón ajustable
 - Ribetes elásticos en los puños
 - Exterior: 100% poliéster (reciclado)
+- Acabado que repele el agua
+- Cierre de cremallera y cuello alzado
+- Relleno: acolchado sintético
+- Dobladillo con cordón ajustable
 - Bolsillos laterales
+- Corte clásico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D17NVJG5{{</world>}}

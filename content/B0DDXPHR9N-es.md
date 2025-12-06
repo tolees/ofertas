@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido de rejilla en espalda que transpira y absorbe el sudor mejorando la sensación térmica.
 - Elementos reflectantes para una mayor visibilidad y seguridad.
 - Pantalón con tirantes de ciclismo para épocas de frío.
+- Tejido de rejilla en espalda que transpira y absorbe el sudor mejorando la sensación térmica.
 - Tejidos bielásticos ErgodryWarm con cardado interior que mantienen el calor generado.
 - Badana 300 Line optimizada para salidas de hasta 3 horas.
 

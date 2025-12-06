@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aplica a diario unas gotas en la palma de tu mano y masajéalas en la barba y la piel para un efecto duradero
 - Puede usarse en cualquier largo o estilo del pelo facial: desde barbas frondosas a barbas de 3 días
-- El aceite para barba King C. Gillette hidrata para combatir la piel seca y escamosa bajo la barba a la vez que acondiciona y da forma al pelo facial para un aspecto saludable y brillante
-- Acondiciona e hidrata la piel bajo la barba para combatir la picazón y la irritación. Cubre el pelo facial con aceites relajantes para una barba fragante y suave al tacto cada día
 - Aromatizado ligeramente con el aroma característico de King C. Gillette, con notas de sándalo, cedro, bergamota, semillas de cardamomo y mandarina
+- El aceite para barba King C. Gillette hidrata para combatir la piel seca y escamosa bajo la barba a la vez que acondiciona y da forma al pelo facial para un aspecto saludable y brillante
+- Aplica a diario unas gotas en la palma de tu mano y masajéalas en la barba y la piel para un efecto duradero
+- Acondiciona e hidrata la piel bajo la barba para combatir la picazón y la irritación. Cubre el pelo facial con aceites relajantes para una barba fragante y suave al tacto cada día
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08B8ZTNVT{{</world>}}

@@ -30,10 +30,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Desigual
 - Fit: Regular
-- Color: Liso
-- Manga: Larga
-- Cuello: Mao
 - Bolsillos delanteros
+- Manga: Larga
+- Color: Liso
+- Cuello: Mao
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DW9HDG84{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alta calidad
-- Brand: Lamela
 - Libreta cuadriculada 8x8mm 16 hojas
 - Modelo - 05008
+- Alta calidad
+- Brand: Lamela
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B06XXLGXNQ{{</world>}}

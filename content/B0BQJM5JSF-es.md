@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Cintura elástica con cordón
 - cremalleras en las piernas
-- Corte regular; cintura mediana
 - 100% poliéster reciclado (tejido liso)
+- Corte regular; cintura mediana
 - LISTO PARA EL USO AÉREO
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

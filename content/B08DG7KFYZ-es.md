@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Capacidad: 90% 690 Gal/2612 L
 - Piscina rectangular con estructura de acero inoxidable y liner de PVC multicapa
+- Capacidad: 90% 690 Gal/2612 L
 - Dimensiones: 258 x 179 x 66 cm
 
 [🛒 Visítala!!!]({{< param buyurl >}})

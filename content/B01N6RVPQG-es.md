@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Acero modificado S2
 - Zona de torsión extendida
 - Calidad adecuada del producto garantizada por el fabricante
-- Acero modificado S2
 - Marcado láser para mejorar la visibilidad del tipo de broca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

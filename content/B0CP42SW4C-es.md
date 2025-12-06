@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - pantalones deportivos
-- Corte normal
 - Tecnología Dri Fit
+- Corte normal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CP42SW4C{{</world>}}

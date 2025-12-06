@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Combo teclado/ ratón krom kalyos gaming membrana USB negro LED-RGB
+- Teclado N-19 capacidad anti-ghosting - 10 teclas multimedia dedicadas
 - Devices compatibles; Windows XP / Vista / 7 / 8 / 10
 - Raton optico RGB - Diseño ergonomico - 6 niveles DPI intercambiables on-the-fly
 - Longitud cable 1,5 m
-- Teclado N-19 capacidad anti-ghosting - 10 teclas multimedia dedicadas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08KFK6W9H{{</world>}}

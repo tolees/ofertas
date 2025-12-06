@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Quiksilver Zapatos
 - piel, textil, tpr
 - Quiksilver Zapatillas Torrance de piel negra, textil, tpr
+- Quiksilver Zapatos
 - Torrance negro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

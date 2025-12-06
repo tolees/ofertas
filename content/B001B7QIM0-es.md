@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - FUERTE Y SEGURO EN LAS SUPERFICIES - Elimina las manchas y los olores de perros y gatos de la alfombra; la tapicería; la ropa de cama; los juguetes de tela; la ropa y otras superficies aptas para el agua en su hogar; Incluso puede utilizarlo como prelavado para la ropa
-- DURA CON LAS MANCHAS; PERO NO CON SU FAMILIA - Es segura para los niños y las mascotas si se utiliza según las instrucciones
 - DOMINAR LOS LÍOS - Los líos de las mascotas ocurren; Con Simple Solution Stain & Odour Remover puede eliminar y neutralizar las manchas y los olores difíciles de gatos y perros; incluyendo la orina; las heces y el vómito
+- DURA CON LAS MANCHAS; PERO NO CON SU FAMILIA - Es segura para los niños y las mascotas si se utiliza según las instrucciones
 - ELIMINA LOS OLORES Y LAS MANCHAS - Evita que se repitan las marcas con nuestra fórmula profesional de bacterias y enzimas; que descompone y elimina las manchas y los olores; dejando un refrescante aroma a bosque
 - SIMPLEMENTE FUNCIONA - libera completamente su hogar de los olores y disuade a las mascotas de repetir el marcaje
 

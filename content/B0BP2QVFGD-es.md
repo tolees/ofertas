@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Costuras anatómicas en la puntera
 - Tres pares por paquete
-- Calcetines tobilleros
 - Puños de canalé
+- Costuras anatómicas en la puntera
+- Calcetines tobilleros
 - Refuerzo en el arco plantar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

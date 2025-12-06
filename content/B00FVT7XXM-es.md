@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- 0
+- 0
 - Estos productos de ultima generacion te ayudaran a adisfrutar de la nuevas tecnologias como nunca antes
-- 0
-- 0
 - Con esta gama de productos podras instalarlos con fácil idad y de forma eficaz sin problemas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

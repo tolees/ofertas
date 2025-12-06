@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela sintética
-- Forro textil
-- Contiene al menos un 20% de material reciclado
 - Horma clásica
-- Suela y mediasuela de EVA
+- Forro textil
+- Suela sintética
 - Empeine de malla
 - Forro textil
+- Contiene al menos un 20% de material reciclado
+- Suela y mediasuela de EVA
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHZHFXT1{{</world>}}

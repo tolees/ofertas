@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Labios a prueba de todo en 2 pasos: paso 1, tinta líquida, paso 2, bálsamo hidratante
-- Color e hidratación de optimo impacto
 - Hasta 16 horas de color inalterable
-- A prueba de roces, besos y cenas
+- Labios a prueba de todo en 2 pasos: paso 1, tinta líquida, paso 2, bálsamo hidratante
 - Brillo e hidratación para una sensación de confort en los labios
+- A prueba de roces, besos y cenas
+- Color e hidratación de optimo impacto
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B4SP858H{{</world>}}

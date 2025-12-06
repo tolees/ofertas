@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Piel suave, hidratada. Imperfecciones y manchas reducidas. Rápida absorción. Sin perfume, aceite o alcohol secante.
 - Aplicar por la noche después de limpiar bien la piel. Puede aumentar la sensibilidad al sol: usar protección solar.
 - Gel para tratar y prevenir imperfecciones y manchas, desobstruir poros, hidratar y respetar la barrera cutánea. Con Ácido Salicílico, Ácido Glicólico y Láctico, Niacinamida y ceramidas. Para piel con tendencia acneica y grasa.
-- Piel suave, hidratada. Imperfecciones y manchas reducidas. Rápida absorción. Sin perfume, aceite o alcohol secante.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B7RQC9N4{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste regular
 - Tiene un diseño clásico con costuras finas
+- Ajuste regular
 - Tiene un diseño clásico con costuras finas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

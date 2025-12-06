@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Exclusivo color Antracita
+- Rango de temperatura de 120 a 200 grados
 - Cable giratorio de 360 grados
 - Elemento de calentamiento rápido PTC
-- Rango de temperatura de 120 a 200 grados
 - Potencia 25W y temperatura ajustable
 
 [🛒 Comprar!!!]({{< param buyurl >}})

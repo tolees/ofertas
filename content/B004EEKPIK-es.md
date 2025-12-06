@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Capacidad de 500 mililitros
-- Fácil de usar
 - alto rendimiento
+- Fácil de usar
 - Hecho de vidrio
+- Capacidad de 500 mililitros
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B004EEKPIK{{</world>}}

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cierre adherente
-- Horma Fisiológica
 - Planta extraible inTech
+- Horma Fisiológica
 - Puntera+protectores
 
 [🛒 Visítala!!!]({{< param buyurl >}})

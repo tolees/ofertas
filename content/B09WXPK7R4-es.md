@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- APLICACIÓN: aplique el producto generosa y uniformemente sobre la piel después de tomar el sol. La leche corporal se absorbe rápidamente
-- EMULSIÓN LÍQUIDA: Con una textura ligera que hidrata y regenera la piel expuesta al estrés oxidativo de la radiación UV
-- AFTER-SUN: hidrata y calma la piel después de tomar el sol. Adecuado tanto para la cara como para el cuerpo
 - Leche corporal: calma la piel y la hace suave y flexible. Contra el envejecimiento de la piel causado por el sol y ayuda a mantener tu bronceado intenso durante más tiempo
+- EMULSIÓN LÍQUIDA: Con una textura ligera que hidrata y regenera la piel expuesta al estrés oxidativo de la radiación UV
+- APLICACIÓN: aplique el producto generosa y uniformemente sobre la piel después de tomar el sol. La leche corporal se absorbe rápidamente
+- AFTER-SUN: hidrata y calma la piel después de tomar el sol. Adecuado tanto para la cara como para el cuerpo
 - Fórmula: contiene el complejo pro-ADN que protege el ADN de las células del daño oxidativo causado por los rayos UV
 
 [🛒 Comprar!!!]({{< param buyurl >}})

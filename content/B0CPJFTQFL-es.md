@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela de tracción flexible
 - Empeine sintético Durabuck con cordones y detalles grabados
+- Suela de tracción flexible
 - Skechers Detalle del logotipo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

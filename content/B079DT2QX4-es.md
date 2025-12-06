@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Utilizar con Kärcher Outdoor Cleaner OC 3
-- Para el funcionamiento de 12 V
 - Con conector para mechero de coche estándar
+- Para el funcionamiento de 12 V
 - Fuente de alimentación adecuado para viajes
 
 [🛒 Comprar!!!]({{< param buyurl >}})

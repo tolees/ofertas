@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 🤫 ¡SUSPENSE Y RISAS! Cada jugador dice una palabra... pero cuidado con los impostores. Misterio, intriga y faroles garantizados.
 - 🏆 ¡PREMIO DEL JUEGO 2022! Ganador en la categoría “Juego de faroles”. Un regalo original y divertido para hombres, mujeres y niños.
+- 🤫 ¡SUSPENSE Y RISAS! Cada jugador dice una palabra... pero cuidado con los impostores. Misterio, intriga y faroles garantizados.
+- 👥 ¡PARA TODA LA FAMILIA! De 4 a 8 jugadores, +10 años, partidas de 30 min. Perfecto para fiestas, amigos o tardes familiares.
 - 🕵️‍♂️ ¡DESCUBRE AL IMPOSTOR! Juego de mesa de deducción, palabras secretas y engaños. Usa tu intuición para desenmascarar al infiltrado.
 - 🌱 ¡RESPONSABLE Y SOLIDARIO! Fabricado en Europa con papel sostenible. Donamos el 1% de beneficios a causas benéficas.
-- 👥 ¡PARA TODA LA FAMILIA! De 4 a 8 jugadores, +10 años, partidas de 30 min. Perfecto para fiestas, amigos o tardes familiares.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B77CMJXZ{{</world>}}

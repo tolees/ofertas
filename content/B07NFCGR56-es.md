@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sus notas de Jazmín y Tuberose perfuman sutilmente su cabello. Protege el cabello de las agresiones externas (rayos UV, sal, cloro, etc.) Hidrata y resalta las ondas surferas, sin acartonar el pelo
 - Aceite bifásico, enriquecido con aceite de Babasu y filtro UV. Hidrata y resalta las ondas surferas, sin acartonar le cabello
 - Agitar bien antes de usar. Aplicar sobre el cabello húmedo o seco, insistiendo en las puntas. Dejar secar al aire libre. Completar la rutina de protección solar con el champú Après-Soleil y la mascarilla Après-Soleil
+- Sus notas de Jazmín y Tuberose perfuman sutilmente su cabello. Protege el cabello de las agresiones externas (rayos UV, sal, cloro, etc.) Hidrata y resalta las ondas surferas, sin acartonar el pelo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07NFCGR56{{</world>}}

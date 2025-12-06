@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- en el tobillo
 - No resistente al agua
+- en el tobillo
 - Escote
 
 [🛒 Comprar!!!]({{< param buyurl >}})

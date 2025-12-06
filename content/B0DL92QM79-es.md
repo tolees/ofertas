@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- MADE FOR ALL SKIN TYPES : Frangrance Free, Cruelty-Free
-- HOW TO USE : Apply a few drops to affected areas and gradually increase the area accordingly. Use in the morning and night before oils and moisturizers.
-- GENTLE YET EFFECTIVE SERUM FOR EVERYDAY USE : Infused with Ceramides and Hyaluronic Acid to protect damaged skin barrier, soothe and hydrate the skin. Gentle enough to be used daily, morning and night.
 - KOREAN GLASS SKIN : Containing 10% Niacinamide, 4% Tranexamic Acid and 2% Arbutin, a powerful trio of ingredients to target dull skin, and enlarged pores.
+- MADE FOR ALL SKIN TYPES : Frangrance Free, Cruelty-Free
+- GENTLE YET EFFECTIVE SERUM FOR EVERYDAY USE : Infused with Ceramides and Hyaluronic Acid to protect damaged skin barrier, soothe and hydrate the skin. Gentle enough to be used daily, morning and night.
+- HOW TO USE : Apply a few drops to affected areas and gradually increase the area accordingly. Use in the morning and night before oils and moisturizers.
 - LIGHTWEIGHT TEXTURE WITH NATURE-DRIVEN PINK COLOR : Non-Greasy watery lightweight texture, easy to absorb and perfect addition to your skincare regimen.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

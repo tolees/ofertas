@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ✨​|DETECCIÓN VENTANAS ABIERTAS| Cuenta con una función que detecta un descenso repentino de la temperatura en la habitación que se interpreta como una ""ventana abierta"". En este caso, el termostato desconecta automáticamente la calefacción. Además, cuenta con otros tres modos: modo ECO, CONFORT y protección antiheladas.
-- 📱​|CONTROL DESDE LA APP| Solo tienes que conectar el calefactor a la app de Create y podrás programarlo en cualquier momento desde donde quieras. También puedes controlarlo desde su pantalla LCD o con su mando a distancia. Cuenta con un temporizador de 9h y es programable diaria y semanalmente.
 - 🏡​|ESTANCIAS DE HASTA 20m²| Gracias a su amplia cobertura de calefacción, podrás disfrutar de un ambiente cálido y acogedor en espacios grandes.
 - 🦺|SEGURO| El calefactor está equipado con un sistema de protección contra el sobrecalentamiento, interruptor antivuelco y un grado de protección IP24 que lo protege de salpicaduras de agua. Tiene dos potencias: 1000W y 2000W. Su calefacción de aire caliente es regulable hasta los 35ºC.
 - 🛠️​|FÁCIL MONTAJE| Este calefactor incluye tornillos para su montaje en pared y tacos de plástico por si prefieres dejarlo en el suelo.
+- 📱​|CONTROL DESDE LA APP| Solo tienes que conectar el calefactor a la app de Create y podrás programarlo en cualquier momento desde donde quieras. También puedes controlarlo desde su pantalla LCD o con su mando a distancia. Cuenta con un temporizador de 9h y es programable diaria y semanalmente.
+- ✨​|DETECCIÓN VENTANAS ABIERTAS| Cuenta con una función que detecta un descenso repentino de la temperatura en la habitación que se interpreta como una ""ventana abierta"". En este caso, el termostato desconecta automáticamente la calefacción. Además, cuenta con otros tres modos: modo ECO, CONFORT y protección antiheladas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DJP9YCGT{{</world>}}

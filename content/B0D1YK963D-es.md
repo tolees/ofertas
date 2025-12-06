@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste regular a ancho
 - Diseño de tachuelas novedoso
+- Ajuste regular a ancho
 - Líneas de malla elevadas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

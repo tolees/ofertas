@@ -28,16 +28,16 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajusta la luz y el color, añade ajustes preestablecidos y efectos, recorta imágenes y más. Aplica cambios a toda la imagen o en puntos específicos.
-- Crea un efecto retrato con Desenfoque de lente, basado en IA.
 - Edita fotografías en Lightroom y borra elementos con la herramienta de eliminación basada en IA generativa. Transfórmalas en Photoshop con las herramientas de IA generativa de Adobe Firefly.
-- Usa la IA generativa con versiones completas de Lightroom (sobremesa y móvil), Photoshop (sobremesa, iPhone y iPad) y Lightroom Classic (sobremesa).
-- Le plan Creative Cloud Photography de 1 To est un abonnement différent du plan Creative Cloud Photography de 20 Go. Lachat de celui-ci NE prolongera NI ne renouvellera labonnement Adobe Creative Cloud Photography de 20 Go.
-- Utiliza las funciones de Relleno y Ampliación de IA generativa para añadir, eliminar o ampliar contenido de cualquier imagen.
-- Da vida a tus ideas con indicaciones de texto sencillas. Se incluyen 25 créditos de IA generativa mensuales con tu suscripción.
 - Diseña gráficos impresionantes y mucho más. Utiliza las herramientas únicas de Photoshop para personalizar texto, color e imágenes.
 - Consigue las últimas funcionalidades con actualizaciones frecuentes.
+- Le plan Creative Cloud Photography de 1 To est un abonnement différent du plan Creative Cloud Photography de 20 Go. Lachat de celui-ci NE prolongera NI ne renouvellera labonnement Adobe Creative Cloud Photography de 20 Go.
+- Crea un efecto retrato con Desenfoque de lente, basado en IA.
+- Usa la IA generativa con versiones completas de Lightroom (sobremesa y móvil), Photoshop (sobremesa, iPhone y iPad) y Lightroom Classic (sobremesa).
+- Da vida a tus ideas con indicaciones de texto sencillas. Se incluyen 25 créditos de IA generativa mensuales con tu suscripción.
 - 1 TB de almacenamiento en la nube y sincronización entre dispositivos.
+- Utiliza las funciones de Relleno y Ampliación de IA generativa para añadir, eliminar o ampliar contenido de cualquier imagen.
+- Ajusta la luz y el color, añade ajustes preestablecidos y efectos, recorta imágenes y más. Aplica cambios a toda la imagen o en puntos específicos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07NLL3TH1{{</world>}}

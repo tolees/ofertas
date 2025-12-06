@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Panel de control táctil multifunción para controlar el funcionamiento. Freidora dietética que permite cocinar con una sola cucharada de aceite, consiguiendo unos resultados más sanos.
-- Permite controlar el progreso de tus elaboraciones sin necesidad de abrir la cubeta a través de su ventana de visualización. Permite la sincronización entre los compartimentos, asegurando que múltiples porciones de alimentos finalicen su cocción simultáneamente
 - La función de precalentamiento asegura que la freidora de aire alcance la temperatura deseada antes de comenzar la cocción. Esto contribuye a una mejor distribución del calor y resultados de cocción más consistentes. 2700 W de potencia para cocinar de manera rápida todos los platos.
 - Cubeta de 9 L de capacidad para poder cocinar grandes cantidades de alimentos. Pared divisoria móvil que permite optar por cocinar gran cantidad de alimentos con una cubeta de 9 L o 2 cubetas de 4,5 L.
+- Permite controlar el progreso de tus elaboraciones sin necesidad de abrir la cubeta a través de su ventana de visualización. Permite la sincronización entre los compartimentos, asegurando que múltiples porciones de alimentos finalicen su cocción simultáneamente
+- Panel de control táctil multifunción para controlar el funcionamiento. Freidora dietética que permite cocinar con una sola cucharada de aceite, consiguiendo unos resultados más sanos.
 - La capacidad de regular la temperatura desde 80 ºC hasta 200 ºC brinda a los usuarios un control preciso sobre el proceso de cocción. 8 modos preconfigurados que establecen el tiempo y la temperatura necesarios para cocinar distintos tipos de alimentos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

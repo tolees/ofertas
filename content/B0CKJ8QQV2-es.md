@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Horma estándar
-- Cierre de cordones
 - Forro de malla
+- Cierre de cordones
 - Empeine de ante
 - Suela de goma
+- Horma estándar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CKJ8QQV2{{</world>}}

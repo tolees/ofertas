@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Calcetines elásticos
 - Logotipo de adidas
 - Paquete de dos pares
-- Calcetines elásticos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BP7W8NR4{{</world>}}

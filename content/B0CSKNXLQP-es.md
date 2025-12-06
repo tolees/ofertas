@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ergonómico
 - Detalles buscados
+- Ergonómico
 - Máximo confort
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

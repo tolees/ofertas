@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cierre: encaje
 - Altura del tacón: 10 milímetros
-- Material exterior: sintético
 - Forro: sintético
 - Material de la suela: caucho
-- Cierre: encaje
+- Material exterior: sintético
 - Composición del material: sintético
 
 [🛒 Visítala!!!]({{< param buyurl >}})

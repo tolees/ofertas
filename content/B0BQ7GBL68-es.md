@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - ⭐【PROYECTOR DE ESTRALLAS】Un original proyector LED de estrellas para que los más pequeños se vayan a dormir cada noche acompañados por un hermoso cielo estrellado. Crea un mundo brillante que activa la imaginación de los niños.
 - 🌈【MODOS DE ILUMINACION】También es ideal como quitamiedos nocturno y como decoración para habitaciones infantiles. Dispone de 2 modos de iluminación (luz cálida fija y luz multicolor intermitente) que pueden activarse simultáneamente o por separado. Luz nocturna Infantil es lo suficientemente brillante y clara como para mostrarse en el techo. ¡A los niños les encantará!
-- 🧸【QUITAMIEDOS INFANTIL】Esta lámpara LED infantil convierte el dormitorio de los niños en un mágico universo con su proyección envolvente en techos y paredes. Además, ayuda a relajar a los peques y a conciliar el sueño. las pesadillas desaparecerán con la luz brillante.
 - 🚀【FACIL DE USAR】 Funciona con pilas o con adaptador de corriente (no incluidos), según se prefiera. Ocupa muy poco espacio, es ligera, portátil y muy fácil de usar.
+- 🧸【QUITAMIEDOS INFANTIL】Esta lámpara LED infantil convierte el dormitorio de los niños en un mágico universo con su proyección envolvente en techos y paredes. Además, ayuda a relajar a los peques y a conciliar el sueño. las pesadillas desaparecerán con la luz brillante.
 - 🎁【REGALO IDEAL】 Regalo bebe el proyector estrellas brilla en la oscuridad, Deje que el niño se duerma mirando las estrellas. Si está buscando regalos originales para bebes recién nacidos, niños, niñas, nuestro proyector estrellas es una idea de regalo genial!
 
 [🛒 Aquí!!!]({{< param buyurl >}})

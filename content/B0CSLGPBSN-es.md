@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Approx 4" tall
 - Perfect for keeping your earbuds, phone, and other small gadgets organized
+- Approx 4" tall
 - Teenage Mutant Ninja Turtles mini holder
 - Officially licensed by Paramount, styled on Raphael from the TMNT franchise
 

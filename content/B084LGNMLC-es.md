@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Liquido
 - PERFUME PARA LA ROPA en formato spray con aroma fresco Flor Azul
+- Liquido
 - Eliminaolor y perfumador
 
 [🛒 Comprar!!!]({{< param buyurl >}})

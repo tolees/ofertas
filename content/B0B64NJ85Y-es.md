@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Minivestido
 - SUSHI VOILE
+- Minivestido
 - Minivestido estampado de gasa suave. Ajuste transpirable de verano. Mini volantes románticos en la falda. Correas de espagueti.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

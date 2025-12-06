@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El producto incluye: limpiafondos jet ventury, analizador de cloro y pH, cepillo, recogehojas, mango telecópico en 3 secciones 40cm (1,20 m), termómetro tubular y dosificador de cloro flotante de pastillas. NOTA: Recomendado para piscinas que no disponen de depuradora.
+- Gre es una marca reconocida y líder en accesorios de piscina, ofrece todo tipo de productos para el cuidado y mantenimiento de cualquier tipo y tamaño de piscinas. Con una amplia gama de accesorios, tratamientos y suministros para piscinas nos enfocamos en tener todo para conseguir su piscina perfecta.
 - Para limpieza manual de la piscina absorbe mugre y partículas que se encuentren en la piscina. El limpiafondos manual de Gre recogerá residuos grandes para mantener limpia la pisicna.
 - Este limpiador de fondos para piscinas retiene las partículas mas grandes y evita que entren en el filtro de la piscina alargando así a la vida útil de otros componentes y manteniendo el agua limpia y sana. Ideal para una limpieza del fondo de la piscina eficaz, de fácil instalación y uso.
-- Gre es una marca reconocida y líder en accesorios de piscina, ofrece todo tipo de productos para el cuidado y mantenimiento de cualquier tipo y tamaño de piscinas. Con una amplia gama de accesorios, tratamientos y suministros para piscinas nos enfocamos en tener todo para conseguir su piscina perfecta.
+- El producto incluye: limpiafondos jet ventury, analizador de cloro y pH, cepillo, recogehojas, mango telecópico en 3 secciones 40cm (1,20 m), termómetro tubular y dosificador de cloro flotante de pastillas. NOTA: Recomendado para piscinas que no disponen de depuradora.
 - Kit de limpiafondos creado para tener un equipamiento completo para el cuidado de la piscina. Cepillo que ayuda a eliminar las incrustraciones y algas de la piscina. Recogehojas que permite limpiar la suciedad acumulada. Limpia y recoge perfectamente la suciedad de todos los rincones de la piscina.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

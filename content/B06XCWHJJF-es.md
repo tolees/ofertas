@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logos serigrafiados en laterales
 - Cintura elástica ajustable con cordón
+- Logos serigrafiados en laterales
 - Pantalón pitillo con bolsillos y aberturas laterales en el bajo con cremalleras
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

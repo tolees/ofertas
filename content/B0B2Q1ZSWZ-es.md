@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dimensiones (cm): 9.3 x 9.3 x 9.4
+- Vasos de agua de cristal de diseño original
 - Fabricado en Arques, en el norte de Francia
 - Se vende en caja de 6 piezas
-- Vasos de agua de cristal de diseño original
+- Dimensiones (cm): 9.3 x 9.3 x 9.4
 - Vidrio de calidad profesional
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DISEÑADO CON PREBIÓTICOS: ayuda a mantener el balance de la flora vaginal
-- LUBRICANTE ÍNTIMO 100% NATURAL QUE ALIVIA LA SEQUEDAD VAGINAL: alivia las molestias durante el sexo y lo hace más suave de forma natural
 - DE BASE ACUOSA, LIBRE DE FRAGANCIAS Y COLORANTES: abre el tapón, extrae unas gotas y aplícalas donde tú quieras; luego disfruta
+- LUBRICANTE ÍNTIMO 100% NATURAL QUE ALIVIA LA SEQUEDAD VAGINAL: alivia las molestias durante el sexo y lo hace más suave de forma natural
+- DISEÑADO CON PREBIÓTICOS: ayuda a mantener el balance de la flora vaginal
 - APTO PARA EL SEXO VAGINAL, ANAL Y ORAL: adecuado para el uso con preservativos de látex y preservativos de poliisopropeno
 - ENTREGA DE FORMA DISCRETA: caja exterior DE ENTREGA con un diseño discreto sin ninguna indicación del contenido del interior
 

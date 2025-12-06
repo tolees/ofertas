@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aplicar el producto antes de la exposición al sol. Reaplicar después de nadar para una protección óptima.
 - Bruma con fórmula ultraligera, gracias a la tecnología Netlock multipatentada, que forma una película protectora avanzada contra los rayos UV con un acabado uniforme, resistente al agua y sudor.
+- Aplicar el producto antes de la exposición al sol. Reaplicar después de nadar para una protección óptima.
 - Protege del daño solar. Textura fluida ultraligera, no pegajosa, con acabado invisible, sin marcas blancas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

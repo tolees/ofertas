@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- TRIPLE ACCIÓN: Este innovador serum NIVEA antimanchas facial reduce visiblemente las marcas post-acné, suaviza la piel y la matifica para un efecto control de brillos
+- CON ÁCIDO SALICÍLICO: Este serum iluminador facial incorpora también ácido salicílico, un potente agente exfoliante que controla el exceso de grasa y mantiene los poros limpios
+- INGREDIENTE EXCLUSIVO: La fórmula de este sérum contiene Luminous 630, un ingrediente antimanchas patentado que estimula la producción de ácido hialurónico y colágeno
 - PERFECCIONADOR DE LA PIEL: Con resultados visibles en sólo 2 semanas*, este antimanchas facial despigmentante es ideal para lograr una piel uniforme, más suave y luminosa
 - CONTENIDO DEL ENVÍO: NIVEA Cellular Luminous 630 antimanchas serum marcas post-acné perfeccionador de la piel, dermatológicamente comprobado, apto para todo tipo de pieles, 1 x 30 ml
-- INGREDIENTE EXCLUSIVO: La fórmula de este sérum contiene Luminous 630, un ingrediente antimanchas patentado que estimula la producción de ácido hialurónico y colágeno
-- CON ÁCIDO SALICÍLICO: Este serum iluminador facial incorpora también ácido salicílico, un potente agente exfoliante que controla el exceso de grasa y mantiene los poros limpios
+- TRIPLE ACCIÓN: Este innovador serum NIVEA antimanchas facial reduce visiblemente las marcas post-acné, suaviza la piel y la matifica para un efecto control de brillos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C8PJTSG2{{</world>}}

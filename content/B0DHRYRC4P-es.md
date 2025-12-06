@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- SIN ACEITE DE PALMA – DISFRUTE CONSCIENTE: Libre de aceite de palma y con todo el sabor. Para quienes valoran la sostenibilidad y la calidad
-- DELICIOSAS BARRITAS DE PROTEÍNA CON CARAMELO Y CHOCOLATE: Cobertura de suave chocolate con leche con una capa extra de cremoso caramelo. Perfectas como snack entre horas: para deporte, trabajo o tiempo libre
-- MENOS HIDRATOS – MÁS SABOR: En comparación con las barritas de chocolate tradicionales, estas barritas contienen aproximadamente un 30% menos de hidratos de carbono
 - VARIEDAD EN UNA PRÁCTICA CAJA MIXTA DE 15: Descubre varios sabores deliciosos en una caja multiflavour con 15 barritas proteicas. Ideal para probar, compartir o como surtido variado para cada día
+- DELICIOSAS BARRITAS DE PROTEÍNA CON CARAMELO Y CHOCOLATE: Cobertura de suave chocolate con leche con una capa extra de cremoso caramelo. Perfectas como snack entre horas: para deporte, trabajo o tiempo libre
+- SIN ACEITE DE PALMA – DISFRUTE CONSCIENTE: Libre de aceite de palma y con todo el sabor. Para quienes valoran la sostenibilidad y la calidad
+- MENOS HIDRATOS – MÁS SABOR: En comparación con las barritas de chocolate tradicionales, estas barritas contienen aproximadamente un 30% menos de hidratos de carbono
 - VALORES NUTRICIONALES TOP – 20 G DE PROTEÍNA POR BARRITA: Cada barrita de 50 g aporta 20 g de proteína de alta calidad (40% de contenido proteico) con un máximo de 1,6 g de azúcar. Haz de cada día tu día con ejercicio y una dieta equilibrada
 
 [🛒 Comprar!!!]({{< param buyurl >}})

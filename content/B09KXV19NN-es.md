@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Redondo sin preocupación: 90 x 200 cm para un peso máximo de 113 kg, todos los otros tamaños son adecuados para un peso de hasta 227 kg
-- Certificación Oeko-Tex: la espuma de alta calidad está certificada por Oeko-Tex en las categorías de durabilidad, rendimiento e ingredientes
 - Empaquetado de forma sencilla: con nuestra tecnología, el colchón se comprime de manera eficiente en una caja que se puede enviar y transportar al dormitorio. Fácil de desenrollar y desenrollar: el colchón se recupera el resto y se estira automáticamente en 72 horas
+- Certificación Oeko-Tex: la espuma de alta calidad está certificada por Oeko-Tex en las categorías de durabilidad, rendimiento e ingredientes
 - Espuma de apoyo y muelles de bolsillo: espuma suave de alta densidad duradera y muelles ensacados iCoil con cubierta de fibra acolchada, ideal para personas que duermen de espalda y personas de peso medio a alto
+- Redondo sin preocupación: 90 x 200 cm para un peso máximo de 113 kg, todos los otros tamaños son adecuados para un peso de hasta 227 kg
 - Perfeccionamiento en capas: una combinación segura de muelles interiores iCoil envueltos individualmente y espuma de apoyo, que están cubiertas con una funda de ensueño acolchada de fibra contribuye a un sueño reparador y sin molestias en el que disfrutarás durante todo el día
 
 [🛒 Comprar!!!]({{< param buyurl >}})

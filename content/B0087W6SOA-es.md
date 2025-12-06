@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material exterior: Lona
+- Revestimiento: Tela
+- Anchura del zapato: Normal
+- Composición: Lona
 - Material de la suela: Goma
 - Cierre: Cordones
-- Anchura del zapato: Normal
 - Tipo de tacón: Plano
-- Revestimiento: Tela
-- Composición: Lona
+- Material exterior: Lona
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0087W6SOA{{</world>}}

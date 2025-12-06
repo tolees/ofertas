@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Este es un original Levis producto
 - Con el contenido elástico óptimo para una comodidad diaria
 - Este es un original Levis producto
-- La elección perfecta para una figura normal a deportiva
 - Vaqueros clásicos de corte recto
 - Estamos trabajando con la iniciativa Better Cotton para mejorar el cultivo de algodón a nivel mundial
+- Este es un original Levis producto
+- La elección perfecta para una figura normal a deportiva
 - Fabricado con la tecnología WaterUnltless: utiliza un 96% menos de agua que las técnicas de acabado tradicionales
 
 [🛒 Visítala!!!]({{< param buyurl >}})

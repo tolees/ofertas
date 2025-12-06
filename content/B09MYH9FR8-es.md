@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mujeres
 - 3024889-002-8
+- Mujeres
 - Zapatillas de correr para mujer UA Charged Pursuit 3
 
 [🛒 Aquí!!!]({{< param buyurl >}})

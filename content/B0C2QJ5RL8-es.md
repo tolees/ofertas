@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Suela sintética
-- Empeine sintético moldeado de una sola pieza
-- Horma clásica
 - Forro sintético
+- Horma clásica
+- Empeine sintético moldeado de una sola pieza
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C2QJ5RL8{{</world>}}

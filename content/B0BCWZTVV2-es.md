@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tranfórmate el hombre lagarto, el hombre ratón, el hombre piraña, el hombre león, el hombre halcón
 - Disfruta de 3 niveles de dificultad apropiados para jugadores ocasionales y expertos, amigos y familias.
+- Cambia entre gráficos y sonido modernos y de 8 bits cuando quieras, ¡incluso en plena partida!
 - Juega con el clásico personaje humano ¡o la esperada coprotagonista humana!
 - ¡Usa todas sus habilidades para explorar los secretos de Monster Land!
-- Cambia entre gráficos y sonido modernos y de 8 bits cuando quieras, ¡incluso en plena partida!
-- Tranfórmate el hombre lagarto, el hombre ratón, el hombre piraña, el hombre león, el hombre halcón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BCWZTVV2{{</world>}}

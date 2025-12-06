@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sin gluten y sin grasa — aptas para celiacos y consumidores preocupados por ingredientes.
 - Bolsa de 1 kg (~645 mini moritas brillo) con sabor intenso a mora silvestre.
-- Formato ideal para compartir, decorar candy bars, eventos o para venta al por mayor.
+- Sin gluten y sin grasa — aptas para celiacos y consumidores preocupados por ingredientes.
 - Textura “blandita y brillante” que ofrece un contraste visual y sensorial que enamora.
+- Formato ideal para compartir, decorar candy bars, eventos o para venta al por mayor.
 - Marca Vidal Golosinas: tradición, calidad superior y diseño atractivo que destaca en estanterías.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

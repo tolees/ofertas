@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Tamaño horno | Tamaño hueco integración (Alto x Ancho x Fondo): 59,5 x 59,5 x 56,8 CM| 59 x 56 x 56 CM.
 - Limpieza diaria rápida: El sistema Aquactiva, con acción de vapor, permite eliminar fácilmente los depósitos de grasa del horno. Vierte 300 ml de agua destilada en la parte inferior de la cavidad y caliéntala durante 30 minutos a 90°. Una vez que el horno se haya enfriado, puedes limpiar cualquier resto con un paño húmedo.
-- Configura sus funciones de forma simple y rápida: Gracias a los mandos intuitivos mecánicos y escoge entre sus 4 funciones de cocción, selecciona la temperatura deseada y elabora todas tus recetas fácilmente.
 - Ofrece total seguridad en la preparación de tus recetas: Con una puerta de doble cristal con ventilación radial de enfriamiento, evitando que el exterior se caliente durante su uso.
+- Configura sus funciones de forma simple y rápida: Gracias a los mandos intuitivos mecánicos y escoge entre sus 4 funciones de cocción, selecciona la temperatura deseada y elabora todas tus recetas fácilmente.
 - Uso sencillo: Horno eléctrico que encaja de manera óptima con cualquier tipo de cocina. Cuenta con una puerta de doble cristal, 2 mandos y un tirador de acero inoxidable, además de tener una capacidad 70L.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

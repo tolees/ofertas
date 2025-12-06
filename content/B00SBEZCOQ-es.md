@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiempo de Funcionamiento de hasta 17 horas
-- Bombilla LED de color blanco con brillo de 200 lúmenes.
 - Robusto foco con imán y cinta para la cabeza extraíble
+- Bombilla LED de color blanco con brillo de 200 lúmenes.
 - Emite un haz de 65 m m
+- Tiempo de Funcionamiento de hasta 17 horas
 - Impermeable y resistente a los impactos de hasta 7 m
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

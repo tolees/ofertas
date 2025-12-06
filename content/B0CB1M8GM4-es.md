@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cuidados: lavar en agua fría; no usar lejía; no planchar; no meter en la secadora; no lavar en seco
 - El mensaje se divide entre ambos calcetines
 - Disponibles en dos tallas: 35-38 y 39-41
-- Cuidados: lavar en agua fría; no usar lejía; no planchar; no meter en la secadora; no lavar en seco
 - Calcetines con mensaje
 
 [🛒 Comprar!!!]({{< param buyurl >}})

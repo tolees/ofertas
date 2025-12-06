@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tela suave
 - Tejido transpirable
 - Ofrecen comodidad y libertad de movimiento
-- Tela suave
 - Tienen detalles distintivos de la marca
 
 [🛒 Aquí!!!]({{< param buyurl >}})

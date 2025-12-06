@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 20 unidades
-- Servilletas decoradas de Navidad
 - Impresas con tintas al agua, no tóxicas
+- Servilletas decoradas de Navidad
 - Tamaño estándar, 33x33cm
+- 20 unidades
 - Triple Capa
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

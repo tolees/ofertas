@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material transpirable para mantener los pies frescos
-- Disponible en varios colores y acabados
 - Diseño elegante y versátil para uso diario
+- Disponible en varios colores y acabados
+- Material transpirable para mantener los pies frescos
 - Suela cosida para mayor durabilidad
 - Cómodo para una comodidad duradera
 

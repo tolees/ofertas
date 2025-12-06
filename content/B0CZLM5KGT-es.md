@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Capacidad: 11,5 l
-- Correas ajustables y acolchadas para los hombros
 - Dimensiones: 11 cm x 25 cm x 34 cm
+- Correas ajustables y acolchadas para los hombros
 - 100% poliéster (reciclado)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

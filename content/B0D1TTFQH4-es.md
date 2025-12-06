@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dispone de capucha
 - Parche con el logo en la manga
+- Dispone de capucha
 - Diseño acolchado aislante
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto producido con madera responsable con el medio ambiente
 - Al tirar de la cuerda, el perrito avanza graciosamente moviendo la cabeza y la cola, estimulando al bebé a seguir tirando
-- Habilidades que desarrolla: la percepción visual y auditiva y la motricidad fina
+- Producto producido con madera responsable con el medio ambiente
 - Las ruedas llevan unos aros de goma para facilitar el arrastre
+- Habilidades que desarrolla: la percepción visual y auditiva y la motricidad fina
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07BZ5QP96{{</world>}}

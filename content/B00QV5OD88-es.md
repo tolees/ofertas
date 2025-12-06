@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Chándal completo, chaqueta y pantalón
-- Hecho 100% de poliéster
 - Adecuado para el deporte y el tiempo libre
+- Chándal completo, chaqueta y pantalón
 - Camiseta cerrado con cremallera
+- Hecho 100% de poliéster
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00QV5OD88{{</world>}}
