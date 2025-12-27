@@ -1,0 +1,36 @@
+---
+layout: post
+title: 'Vans Ward Zapatillas Unisex niños Black and White 36 EU'
+date: 2025-12-02 20:09:09
+image: 'https://m.media-amazon.com/images/I/31D6p32OnrL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B01N42HVS6-es Vans Ward Zapatillas Unisex niños Black and White 36 EU'
+sku: 'B01N42HVS6-es'
+tags: [ 'Arborist Merchandising Root','CML New Selection Temp','Moda','Moda Niño','Ropa','Self Service','Shoes | Co-gender | Fashion & Athletic Trainers','Softlines | Shoes | Co-gender','Special Features Stores','Tienda Vans','Top Brands Shoes Selection','Vans','Zapatillas casual para niño','Zapatillas deportivas y de moda para niños','Zapatos de niño','c8538d25-3af9-48d3-aeff-5f3ce5572a36_0','c8538d25-3af9-48d3-aeff-5f3ce5572a36_1001','c8538d25-3af9-48d3-aeff-5f3ce5572a36_1601','c8538d25-3af9-48d3-aeff-5f3ce5572a36_2601','c8538d25-3af9-48d3-aeff-5f3ce5572a36_2701','c8538d25-3af9-48d3-aeff-5f3ce5572a36_2801','c8538d25-3af9-48d3-aeff-5f3ce5572a36_3901','c8538d25-3af9-48d3-aeff-5f3ce5572a36_62602','vans','🇪🇸', ]
+actualPrice: 29.95 EUR
+currency: EUR
+price: 29.95
+comparePrice: 50.0 EUR
+prodname: 'Vans Ward Zapatillas Unisex niños Black and White 36 EU'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Vans'
+buyurl: 'https://www.amazon.es/dp/B01N42HVS6/?tag=tolees-21'
+descuento: '40.10'
+average: '33.7863636363636'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Material exterior: Lona
+- Material de la suela: Caucho
+- Cierre: Cordones
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B01N42HVS6{{</world>}}
