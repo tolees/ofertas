@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PUMA Logotipo en la lengüeta
 - PUMA Tira en los laterales
+- PUMA Logotipo en la lengüeta
 - Plantilla cómoda diseñada para proporcionar una amortiguación suave gracias a su talón extragrueso
 
 [🛒 Comprar!!!]({{< param buyurl >}})

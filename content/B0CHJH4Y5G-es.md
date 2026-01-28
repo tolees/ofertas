@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- FRAGANCIA DELICADA: Un aroma envolvente para el cabello que te transporta a las dunas de arena blanca de Oriente.
 - CUIDADO CAPILAR: Transforma el cabello seco y apagado en un cabello brillante y radiante. El regalo perfecto para el cuidado del cabello.
 - HASTA 3 VECES MÁS SUAVE* con luminosidad y brillo instantáneo. *Champú, mascarilla y aceite vs. champú sin acondicionador.
 - CHAMPÚ:Champú que aporta al cabello brillo y suavidad
-- FRAGANCIA DELICADA: Un aroma envolvente para el cabello que te transporta a las dunas de arena blanca de Oriente.
 - FÓRMULA HIDRATANTE: Con pantenol para equilibrar la hidratación y dejar el cabello suave y nutrido.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

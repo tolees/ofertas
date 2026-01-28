@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Entresuela FuelFoam Suela con toda la superficie en goma
 - Cuello del tobillo en textil acolchado
-- Trabilla con logotipo en el talón y la lengüeta
 - Parte superior en malla panelada con superposiciones
+- Trabilla con logotipo en el talón y la lengüeta
 - Elegante parte superior y entresuela ligera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

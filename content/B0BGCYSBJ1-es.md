@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte de piel
 - La suela de goma altamente resistente a la abrasión
+- Parte de piel
 - Sensación ligera y transpirable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

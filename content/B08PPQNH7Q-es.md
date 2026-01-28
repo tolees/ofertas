@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bolsillos tipo canguro
-- Corte clásico
-- Puños y dobladillo de canalé
 - Capucha con cordón ajustable
+- Corte clásico
 - Punto doble 100% poliéster reciclado
+- Puños y dobladillo de canalé
+- Bolsillos tipo canguro
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08PPQNH7Q{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Té helado de mango maracuyá
+- Mantener en lugar fresco, oscuro y seco
 - Pack de 24 latas de 330 ml
 - Bebida refrescante de té
-- Mantener en lugar fresco, oscuro y seco
-- Té helado de mango maracuyá
 - Bajo en calorías
 
 [🛒 Visítala!!!]({{< param buyurl >}})

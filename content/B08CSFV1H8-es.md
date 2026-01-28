@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cera en gel para el cabello que te permite crear un tupé con volumen, flexible y resistente de larga duración en melenas medias y largas que se mantiene todo el día
-- Nuestro consejo profesional; para conseguir un acabado más natural, seca el cabello con el secador
 - La Tecnología Mineral, mezcla de minerales texturizantes y polímeros fijadores, que permiten crear difeferentes looks y movimiento
 - Está dermatológicamente testado. Una vez acabado, recíclalo en el contenedor amarillo
+- Nuestro consejo profesional; para conseguir un acabado más natural, seca el cabello con el secador
+- Cera en gel para el cabello que te permite crear un tupé con volumen, flexible y resistente de larga duración en melenas medias y largas que se mantiene todo el día
 - Luce el tupé con volumen que siempre habías querido conseguir, de manera fácil y rápida gracias a sus polímeros fundentes y sin necesidad de retoques , se elimina fácilmente
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste holgado
 - Cordón en la cintura para ajustar el tamaño
 - Cintura regular
+- Ajuste holgado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CSP9NHGG{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cinturilla elástica con cordón interior para un confort personalizado
-- BCI: Al comprar productos de algodón de PUMA, apoyas una producción más sostenible de algodón mediante la Iniciativa del Mejor Algodón (Better Cotton Initiative). Más información en: bettercotton.org/massbalance
 - Contiene material reciclado: Producto hecho con fibras recicladas. Una de las soluciones de PUMA para reducir el impacto ambiental
+- Cinturilla elástica con cordón interior para un confort personalizado
 - Bolsillos laterales
+- BCI: Al comprar productos de algodón de PUMA, apoyas una producción más sostenible de algodón mediante la Iniciativa del Mejor Algodón (Better Cotton Initiative). Más información en: bettercotton.org/massbalance
 - Corte normal
 
 [🛒 Comprar!!!]({{< param buyurl >}})

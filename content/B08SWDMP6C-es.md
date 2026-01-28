@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100 % algodón
 - El enterizo Nike es tu pieza de 1 pieza que está hecho con tela de punto suave y tiene cierres fáciles de cerrar en el hombro y la entrepierna para hacer cambiar y vestirse fácilmente.
+- 100 % algodón
 - Ajuste estándar para una sensación relajada y fácil.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

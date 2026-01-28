@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compatible con Stihl Ms200, Ms220, Mse220, Ms290, Ms291, Ms310, Ms311, Ms340, Ms341, Ms360, Ms361, Ms362, Ms361, Ms390, Ms391, Ms391, Ms391, Ms391, Ms391, Ms391, Ms391, Ms391, Ms391, Ms391, Ms391, Ms391, MS440, M s441, Ms460, Ms640, Ms650, Ms660, Ms880
-- Soporte del motor: D025, paso: 0,3/8", calibre: 0,063"/1,6mm, longitud: 20"/50cm, 11 dientes, utiliza cadena de eslabones de 72
 - Más ligero: fácil manejo con menos esfuerzo gracias al núcleo de aleación de aluminio avanzado
-- Más fuerte: rigidez y control excepcionales gracias a la nueva tecnología de unión aeroespacial
 - Más duración: mayor durabilidad de la nariz rediseñada y barras de guía más duras y nariz rediseñada para resistir la propagación y el desgaste
+- Más fuerte: rigidez y control excepcionales gracias a la nueva tecnología de unión aeroespacial
+- Soporte del motor: D025, paso: 0,3/8", calibre: 0,063"/1,6mm, longitud: 20"/50cm, 11 dientes, utiliza cadena de eslabones de 72
+- Compatible con Stihl Ms200, Ms220, Mse220, Ms290, Ms291, Ms310, Ms311, Ms340, Ms341, Ms360, Ms361, Ms362, Ms361, Ms390, Ms391, Ms391, Ms391, Ms391, Ms391, Ms391, Ms391, Ms391, Ms391, Ms391, Ms391, Ms391, MS440, M s441, Ms460, Ms640, Ms650, Ms660, Ms880
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B071FCBBJR{{</world>}}

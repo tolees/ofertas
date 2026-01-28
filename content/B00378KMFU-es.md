@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Altavoces intemperie 2 vías
-- Driver 5” polipropileno mineral
 - Tweeter 1” cúpula de aluminio
-- Potencía admisible 10-100 watts rms
 - Respuesta: 60-25 khz
+- Potencía admisible 10-100 watts rms
+- Driver 5” polipropileno mineral
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00378KMFU{{</world>}}

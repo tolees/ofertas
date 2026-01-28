@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Detalles distintivos de la marca
 - Con una suave amortiguación
+- Detalles distintivos de la marca
 - De perfil bajo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

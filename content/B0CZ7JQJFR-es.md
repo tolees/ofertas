@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bolsillos frontales con cremallera
-- Corte clásico
 - 70 % algodón, 30 % poliéster (reciclado)
+- Bolsillos frontales con cremallera
 - Contiene al menos un 70 % de material reciclado y renovable.
 - Ajustado
+- Corte clásico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CZ7JQJFR{{</world>}}

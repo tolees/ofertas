@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Horma clásica
-- Plantilla ligera de EVA Adibouncy
 - Parte superior de piel lisa
+- Plantilla ligera de EVA Adibouncy
+- Horma clásica
 - Suela de goma; forro textil
 
 [🛒 Comprar!!!]({{< param buyurl >}})

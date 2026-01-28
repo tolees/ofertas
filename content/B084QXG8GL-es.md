@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Avanzada tecnología acústica para un rendimiento más silencioso
-- Potencia variable y control de temperatura. Incluye botón de aire frío.
-- ghd helios azul incorpora un motor profesional de larga duración y sin escobillas que proporciona un caudal de aire a 120km/h para un secado profesional en tiempo récord.
 - Diseño ergonómico y equilibrado. Cable de longitud profesional.
+- ghd helios azul incorpora un motor profesional de larga duración y sin escobillas que proporciona un caudal de aire a 120km/h para un secado profesional en tiempo récord.
+- Potencia variable y control de temperatura. Incluye botón de aire frío.
 - Secador profesional con revolucionaria tecnología Aeroprecis para un uso más intuitivo y un secado más preciso. Incluye boquilla contorneada de precisión.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

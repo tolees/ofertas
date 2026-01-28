@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- [ NOTA ] El adaptador es aplicable sólo a dispositivos de doble voltaje 100-250V, NO sirve como convertidor de voltaje. Por favor, asegúrese de que el dispositivo funciona con doble voltaje 100-250V y cumplir con las normas locales de voltaje antes de usar este producto, especialmente para secadores de pelo, maquinillas de afeitar eléctricas, planchas de pelo y otros dispositivos de alta potencia.
-- [ Diseño Compacto ] LENCENT Adaptador de viaje es de 7,02 * 4,07 * 5,23 cm, muy compacto y portátil. Sólo enchufe el adaptador entre el tomacorriente y su dispositivo. Este adaptador de viaje es muy compacto y no se cae fácilmente de la pared.
-- [ 4 EN 1 Adaptador de Viaje de Carga Rápida ] 1 Tomas de CA + Carga Rápida de 2 puertos QC3.0 + 1 puerto PD20W. Puede cargar 4 dispositivos al mismo tiempo. Con la tecnología PD 20W y QC3.0, la velocidad de carga puede ser hasta 4 veces más rápida que la de los cargadores tradicionales. Nota: la potencia total de 20W solo está disponible cuando se carga un dispositivo.
 - [ Ideal para Viajar ] Tamaño pequeño, versátil y fácil de llevar. Con él, hagamos un viaje sin miedo. Nota: Este es un adaptador de enchufe, no un convertidor de voltaje. Antes de utilizar el toma AC, asegúrese de que su dispositivo soporta el voltaje local.
-- [ Seguridad Superior ] LENCENT Adaptador de enchufe hecho de material a prueba de fuego de 750°C. Proveerá protección total de 360° para su familia, usted y sus dispositivos.
+- [ NOTA ] El adaptador es aplicable sólo a dispositivos de doble voltaje 100-250V, NO sirve como convertidor de voltaje. Por favor, asegúrese de que el dispositivo funciona con doble voltaje 100-250V y cumplir con las normas locales de voltaje antes de usar este producto, especialmente para secadores de pelo, maquinillas de afeitar eléctricas, planchas de pelo y otros dispositivos de alta potencia.
 - [ 2 Paquetes Adaptador de Enchufe Tipo-B ] Compatible con Estados Unidos, Canadá, México, Colombia, Tailandia, Antigua y Barbuda, Samoa, Aruba, Bahamas, Barbados, Belice, Bermudas, Islas Caimán, Costa Rica, Cuba, Ecuador, El Salvador, Guam, Guatemala, Guyana, Haití, Honduras, Jamaica, Jordania, Laos, Líbano, Liberia, República Dominicana, Montserrat, Filipinas, Nicaragua, Níger, Palau, Panamá, Perú y otros países.(no aplicable en Japón)
+- [ Diseño Compacto ] LENCENT Adaptador de viaje es de 7,02 * 4,07 * 5,23 cm, muy compacto y portátil. Sólo enchufe el adaptador entre el tomacorriente y su dispositivo. Este adaptador de viaje es muy compacto y no se cae fácilmente de la pared.
+- [ Seguridad Superior ] LENCENT Adaptador de enchufe hecho de material a prueba de fuego de 750°C. Proveerá protección total de 360° para su familia, usted y sus dispositivos.
+- [ 4 EN 1 Adaptador de Viaje de Carga Rápida ] 1 Tomas de CA + Carga Rápida de 2 puertos QC3.0 + 1 puerto PD20W. Puede cargar 4 dispositivos al mismo tiempo. Con la tecnología PD 20W y QC3.0, la velocidad de carga puede ser hasta 4 veces más rápida que la de los cargadores tradicionales. Nota: la potencia total de 20W solo está disponible cuando se carga un dispositivo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CFFQG6FD{{</world>}}

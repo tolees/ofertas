@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela SoftLight
 - Bota para mujer
-- Cierre de cremallera
 - Tacón de bloque
+- Cierre de cremallera
+- Suela SoftLight
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CTHRKKZV{{</world>}}

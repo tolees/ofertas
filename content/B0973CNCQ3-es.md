@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sin recubrimiento
 - Conservar en lugar fresco y seco
 - Mix de tus piezas favoritas de regaliz rojo: Ladrillos, Balla-Balla, Discos, Mega torcidas
 - Geles dulces
+- Sin recubrimiento
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0973CNCQ3{{</world>}}

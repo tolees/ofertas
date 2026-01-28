@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 100% poliéster
 - Cierre: Pull on
 - Lavar a máquina
 - Ropa deportiva fabricada con materiales que se adaptan a cualquier actividad deportiva
-- Manga corta
 - La tecnología del material elimina el sudor de la piel
+- Manga corta
+- 100% poliéster
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07WC7RJBB{{</world>}}

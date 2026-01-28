@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre de cremallera y cuello alzado
 - AEROREADY
+- Bolsillos con cremallera
 - 100% poliéster (reciclado)
 - Corte clásico
-- Bolsillos con cremallera
+- Cierre de cremallera y cuello alzado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZ7H89NQ{{</world>}}

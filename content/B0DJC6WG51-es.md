@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Estilo clásico y limpio inspirado en el tenis
-- Zapato bajo
 - Cierre con cordones
+- Zapato bajo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJC6WG51{{</world>}}

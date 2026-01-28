@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Este Spray ligero fija el maquillaje hasta 36H* sin transferir, ayudándote a mantener un look pulido todo el día.
 - Su bruma microfina se seca rápidamente sin dejar sensación pegajosa ni marcas de agua.
-- Descubre un maquillaje a prueba de todo con Infaillible.
 - Consigue un look impecable todo el día con Infaillible Spray fijador 3 segundos de LOreal Paris.
+- Descubre un maquillaje a prueba de todo con Infaillible.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FGJ9P8L9{{</world>}}

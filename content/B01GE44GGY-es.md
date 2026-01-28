@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Disque: 1
 - Fifa 17
+- Disque: 1
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01GE44GGY{{</world>}}

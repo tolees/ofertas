@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Chaqueta forrada
-- Ajuste: corte regular
-- Composición: 100% algodón
 - Instrucciones de cuidado: lavable a máquina
 - Chaqueta Sherpa
+- Ajuste: corte regular
+- Chaqueta forrada
+- Composición: 100% algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CRFBJ49R{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 100 % libre de BPA, PVC y ftalatos. Certificación EN1400+A2.
 - Una historia de más de 40 años, con productos para bebés de fabricación danesa. Nos centramos en productos de alta calidad con un diseño estético e inspirador para llenar de color los primeros momentos del bebé
 - Recomendado por las matronas para favorecer la lactancia materna
-- Diseñado y fabricado en Dinamarca/UE.
 - BIBS Colour es el chupete de siempre con un escudo redondeado y una tetina también redonda. La tetina redondeada y su ligero escudo de color mate están diseñados para imitar la forma del pecho de la madre.
+- 100 % libre de BPA, PVC y ftalatos. Certificación EN1400+A2.
+- Diseñado y fabricado en Dinamarca/UE.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BZLLT42Z{{</world>}}

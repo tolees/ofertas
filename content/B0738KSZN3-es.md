@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mecha crepitante de madera con Pluswick Innovation para crear un ambiente acogedor
 - Esta conocida colección ofrece combinaciones de fragancias que crean su propia experiencia única a medida que las capas se funden
 - Esta vela Trilogy combina tres fragancias populares: spa de lavanda, sal marina y algodón, y té blanco con jazmín
-- Duración de la combustión: hasta 130 horas
 - La mezcla de parafina de alta calidad y ceras de soja produce un bonito efecto al consumirse
+- Mecha crepitante de madera con Pluswick Innovation para crear un ambiente acogedor
+- Duración de la combustión: hasta 130 horas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0738KSZN3{{</world>}}

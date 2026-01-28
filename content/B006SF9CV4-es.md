@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Calidad Alemana
 - Tapón ventilado
 - Zona de sujeción triangular ergonómica
-- Calidad Alemana
 - Punta de 0,7mm
 - Tinta lavable
 

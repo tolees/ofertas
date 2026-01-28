@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela original de gofre
-- Vans Marca Sidestripe
 - Parte superior de doble costura para mayor durabilidad
 - Construcción vulcanizada
+- Suela original de gofre
+- Vans Marca Sidestripe
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B082QNM9VL{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Esta hecha de algodón
 - 100% cotton 9forty featuring an mlb team logo with raised embroidery
 - El producto es ajustable
+- Esta hecha de algodón
 - New York Yankees
 
 [🛒 Comprar!!!]({{< param buyurl >}})

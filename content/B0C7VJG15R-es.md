@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Recomendado a partir de 6 años.
 - Conecta varias capsulas para crear una estación espacial óptimo y compleja
 - Contenido: cápsula lunar, astronauta.
-- Construye, juega y explora
 - Une entre si las capsulas para hacer Grande tu estación espacial.
-- Recomendado a partir de 6 años.
+- Construye, juega y explora
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C7VJG15R{{</world>}}

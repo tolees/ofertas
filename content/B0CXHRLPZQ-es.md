@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto llega en su caja sellada
-- Producto Importado Legalmente y con licencia Banpresto, el producto llega en su caja; soporte base incluido
-- Basado en el Anime Japonés Yu Yu Hakusho es una figura hecha en PVC diseñada y moldeada mano
-- Siéntete parte del mundo de la colección y los Animes con esta figura que viene empaquetada en un embalaje ecológico
 - Una figura de acción coleccionable para adultos y niños
+- Siéntete parte del mundo de la colección y los Animes con esta figura que viene empaquetada en un embalaje ecológico
+- Producto llega en su caja sellada
+- Basado en el Anime Japonés Yu Yu Hakusho es una figura hecha en PVC diseñada y moldeada mano
+- Producto Importado Legalmente y con licencia Banpresto, el producto llega en su caja; soporte base incluido
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CXHRLPZQ{{</world>}}

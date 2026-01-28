@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye: GWS 7-125, empuñadura auxiliar, brida, cubierta protectora, tuerca de apriete, llave de dos agujeros
 - Miniamoladora profesional con una zona de agarre mínima de solo 176 mm para una ergonomía óptima y menor cansancio.
-- El motor compacto de 720 vatios ofrece la mejor relación entre potencia y manejabilidad para trabajos continuos
 - Empuñadura más pequeña de la categoría de 720 vatios
+- Incluye: GWS 7-125, empuñadura auxiliar, brida, cubierta protectora, tuerca de apriete, llave de dos agujeros
+- El motor compacto de 720 vatios ofrece la mejor relación entre potencia y manejabilidad para trabajos continuos
 - El cabezal plano agiliza el trabajo incluso en lugares estrechos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

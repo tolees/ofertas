@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Signature Khaki Slim
 - Pantalones chinos refinados con tecnología antiarrugas
-- Slim fit
+- Bragueta con cremallera
+- Signature Khaki Slim
 - Tejido de mezcla de algodón elástico sin arrugas
 - Cuenta con un bolsillo de seguridad con cremallera oculto y un compartimento para monedas
-- Bragueta con cremallera
+- Slim fit
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07XFVPPFB{{</world>}}

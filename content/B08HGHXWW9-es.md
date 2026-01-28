@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Amplio interior para hardware de alto rendimiento. Compatible con placas ATX/Micro-ATX/ITX, GPU de hasta 320 mm y coolers de 160 mm.
-- Flujo de aire extremo con diseño mallado. Frontal híbrido con ventilación optimizada y botón de control LED integrado para dominar hasta 15 modos de iluminación.
-- Refrigeración personalizada con 3 ventiladores RGB. Incluye 2 frontales y 1 trasero preinstalados. Espacio para hasta 6 ventiladores o refrigeración líquida de 240 mm.
 - Conectividad avanzada al alcance. USB 3.0, USB-C y jacks de audio frontales para conectar todos tus periféricos sin esfuerzo.
+- Refrigeración personalizada con 3 ventiladores RGB. Incluye 2 frontales y 1 trasero preinstalados. Espacio para hasta 6 ventiladores o refrigeración líquida de 240 mm.
+- Flujo de aire extremo con diseño mallado. Frontal híbrido con ventilación optimizada y botón de control LED integrado para dominar hasta 15 modos de iluminación.
 - Construcción robusta con estilo gamer. Panel lateral de cristal templado, acero SPCC de 0,5 mm y filtros antipolvo superior e inferior incluidos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Botella de plástico 100% reciclado.
-- Enriquecido con extracto de caléndula emoliente y glicerina vegetal que respeta el equilibrio hidrolipídico de la delicada piel del bebé. Dermatológicamente y oftalmológicamente probado.
 - Fórmula con un 93% de origen natural.
+- Enriquecido con extracto de caléndula emoliente y glicerina vegetal que respeta el equilibrio hidrolipídico de la delicada piel del bebé. Dermatológicamente y oftalmológicamente probado.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09F38WLWT{{</world>}}

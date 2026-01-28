@@ -29,17 +29,17 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Este es un marcador de posición para el punto 3 (reemplácelo cuando el contenido esté disponible)
-- Este es un marcador de posición para el punto 4 (reemplácelo cuando el contenido esté disponible)
-- Estilo: Ajustado
-- Este es un marcador de posición para el punto 4 (reemplácelo cuando el contenido esté disponible)
+- Este es un marcador de posición para el punto 5 (reemplácelo cuando el contenido esté disponible)
 - Este es un marcador de posición para el punto 5 (reemplácelo cuando el contenido esté disponible)
 - Este es un marcador de posición para el punto 3 (reemplácelo cuando el contenido esté disponible)
-- Este es un marcador de posición para el punto 5 (reemplácelo cuando el contenido esté disponible)
-- Este es un marcador de posición para el punto 2 (reemplácelo cuando el contenido esté disponible)
-- Este es un marcador de posición para el punto 2 (reemplácelo cuando el contenido esté disponible)
+- Este es un marcador de posición para el punto 1 (reemplácelo cuando el contenido esté disponible)
 - Rango de edad: Kid
+- Estilo: Ajustado
+- Este es un marcador de posición para el punto 4 (reemplácelo cuando el contenido esté disponible)
+- Este es un marcador de posición para el punto 2 (reemplácelo cuando el contenido esté disponible)
+- Este es un marcador de posición para el punto 4 (reemplácelo cuando el contenido esté disponible)
 - Este es un marcador de posición para el punto 1 (reemplácelo cuando el contenido esté disponible)
-- Este es un marcador de posición para el punto 1 (reemplácelo cuando el contenido esté disponible)
+- Este es un marcador de posición para el punto 2 (reemplácelo cuando el contenido esté disponible)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09L3VBK9Z{{</world>}}

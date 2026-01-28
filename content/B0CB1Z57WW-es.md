@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Manga larga
+- Aberturas laterales
 - Cuello redondo acanalado
 - Bajo recto
-- Aberturas laterales
+- Manga larga
 - Estampado de rayas en el pecho y en la espalda
 
 [🛒 Visítala!!!]({{< param buyurl >}})

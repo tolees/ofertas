@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Promueve la síntesis de ácido hialurónico, colágeno y elastina
 - Mejora la tonicidad, hidratación y elasticidad de la piel
 - Disminuye las arrugas de expresión
+- Promueve la síntesis de ácido hialurónico, colágeno y elastina
 - Protege la piel de los radical libres
 - Atenúa las arrugas profundas
 

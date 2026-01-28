@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Exfoliante corporal: esta fórmula de acción rápida con exfoliantes químicos y físicos mejora la textura de la piel + suaviza los golpes después de un solo uso, ahora en un dulce aroma a fresa que sigue siendo seguro para la piel sensible
 - Elimina la piel muerta: los ácidos glicólico y láctico (AHA) a un nivel combinado del 10% ayudan a aflojar la capa superior de la piel y descongestionar los poros, mientras que las cuentas pulidas de piedra pómez (no son microplásticos). Bátelo todo; simplemente masajea sobre la piel húmeda y enjuaga para lavar
-- Probado por dermatólogos: nuestro exfoliante corporal vegano y libre de crueldad animal también es libre de gluten, sin nueces, sin aceite, sin soja, sin silicona, seguro para pieles sensibles y sin nano
+- Exfoliante corporal: esta fórmula de acción rápida con exfoliantes químicos y físicos mejora la textura de la piel + suaviza los golpes después de un solo uso, ahora en un dulce aroma a fresa que sigue siendo seguro para la piel sensible
 - Libre de: alcoholes de secado, colorantes artificiales, fragancias artificiales, lanolina, aceite mineral, parabenos, vaselina, ftalatos, propilenglicol, sulfatos, talco, formaldehídos, oxibenzona, alquitrán de hulla, triclocarbono, etanol
 - Reduce los golpes de la piel rápidamente: este exfoliante corporal KP suavizante para piernas, brazos, glúteos y cuerpo elimina los golpes secos y ásperos asociados con la piel de fresa y KP para revelar una piel visiblemente más suave, saludable y radiante
+- Probado por dermatólogos: nuestro exfoliante corporal vegano y libre de crueldad animal también es libre de gluten, sin nueces, sin aceite, sin soja, sin silicona, seguro para pieles sensibles y sin nano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZ9QTQ6Q{{</world>}}

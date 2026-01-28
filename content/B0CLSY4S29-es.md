@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Conectividad ajustada a las necesidades del juego: dos puertos HDMI 2.1 TMDS, un puerto DP 1.4 te permiten crear un setup ideal para tus partidas. Sumérgete en una experiencia multimedia con sus dos altavoces duales de 3W y sonido estéreo envolvente
-- Con una frecuencia de actualización de 240 Hz (sobreaceleración a 280 Hz), tiempo de respuesta de 0,5 ms (MPRT) soporte de color de 16,7 millones, relación de aspecto de 16:9, relación de contraste de 3000:1 y ángulo de visión de 178° / 178, el monitor Legión R25f-30 sacará todo tu potencial gamer
 - Disfruta del juego sin interrupciones ni desenfoques de movimiento gracias a las tecnologías AMD FreeSync Premium y la certificación ClearMR 7000. Protege tus ojos de la fatiga con la tecnología Natural Low Blue Light que reduce la luz azul dañina sin distorsión de color
-- El monitor Legión R25f-30 de Lenovo cuenta con un ancho de bisel lateral de 2 milímetros y su soporte inclinable, giratorio, pivotante y ajustable en altura, te permite disfrutar de largas horas de juego con total comodidad y confort
+- Con una frecuencia de actualización de 240 Hz (sobreaceleración a 280 Hz), tiempo de respuesta de 0,5 ms (MPRT) soporte de color de 16,7 millones, relación de aspecto de 16:9, relación de contraste de 3000:1 y ángulo de visión de 178° / 178, el monitor Legión R25f-30 sacará todo tu potencial gamer
 - El monitor Lenovo Legión R25f-30 cuenta con una pantalla VA de 24.5" FHD, resolución (1920 x 1080 pixeles), superficie antirreflejos y luz de fondo WLED. Con una gama de colores de 99% sRGB, 90% DCI-P3, su diseño se ajusta a una visualización precisa de cada detalle de juego
+- El monitor Legión R25f-30 de Lenovo cuenta con un ancho de bisel lateral de 2 milímetros y su soporte inclinable, giratorio, pivotante y ajustable en altura, te permite disfrutar de largas horas de juego con total comodidad y confort
+- Conectividad ajustada a las necesidades del juego: dos puertos HDMI 2.1 TMDS, un puerto DP 1.4 te permiten crear un setup ideal para tus partidas. Sumérgete en una experiencia multimedia con sus dos altavoces duales de 3W y sonido estéreo envolvente
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CLSY4S29{{</world>}}

@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte clásico con talle medio
-- Chaqueta y pantalón: Bolsillos frontales
 - 100% poliéster (reciclado)
+- Cierre de cremallera y cuello alzado
+- Corte clásico con talle medio
 - Pantalón: Cintura elástica con cordón
 - Chaqueta y pantalón: Puños y dobladillo de canalé
-- Cierre de cremallera y cuello alzado
+- Chaqueta y pantalón: Bolsillos frontales
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CZPQR32F{{</world>}}

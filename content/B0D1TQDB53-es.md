@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Logo de Tommy Hilfiger bordado en el pecho
-- Puños con 2 botones
 - Tejido ligero y cómodo
+- Puños con 2 botones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D1TQDB53{{</world>}}

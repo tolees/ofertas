@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Embalaje: caja
-- Totalmente forrado
 - Cordones
+- Totalmente forrado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C548VVNG{{</world>}}

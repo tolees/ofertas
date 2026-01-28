@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Para uso diario
 - Pantalón largo
 - Tiene detalles distintivos de la marca "Puma"
-- Para uso diario
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D2R7LFFL{{</world>}}

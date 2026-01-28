@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte clásico
-- Puños parcialmente elásticos
-- Cierre de cremallera y capucha con gorro impermeable interior
-- 100% poliéster (reciclado)
 - Bolsillos laterales con cremallera
 - Tecnología RAIN.RDY de doble capa
+- Corte clásico
+- Cierre de cremallera y capucha con gorro impermeable interior
+- 100% poliéster (reciclado)
+- Puños parcialmente elásticos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CYXGQRVY{{</world>}}

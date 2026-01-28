@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Colaboración James Goldcrown
 - Plantilla de espuma viscoelástica refrigerada por aire
 - Goldcrown - Tenis de moda con estampado de entresuela
-- Colaboración James Goldcrown
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D4NK5B73{{</world>}}

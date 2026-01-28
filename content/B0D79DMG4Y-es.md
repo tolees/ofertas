@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela: 100% caucho vulcanizado
 - Color: gris medio
-- Material superior: 100% tela (100% algodón reciclado)
 - Forro: 60% textil (45% PET reciclado - 35% algodón reciclado - 20% viscosa), 40% PET reciclado
+- Suela: 100% caucho vulcanizado
+- Material superior: 100% tela (100% algodón reciclado)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D79DMG4Y{{</world>}}

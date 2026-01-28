@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalón corto
 - Tiene detalles distintivos de la marca, la misma es Puma
+- Pantalón corto
 - Para uso diario
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

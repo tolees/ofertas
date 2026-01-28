@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido técnico 100% poliéster reciclado
 - Cierre ajustable en la nuca
+- Tejido técnico 100% poliéster reciclado
 - Visera curvada
-- Estructura de seis paneles
 - Talla única
+- Estructura de seis paneles
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BTJ1Q4VD{{</world>}}

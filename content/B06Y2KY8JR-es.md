@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto para tu hogar
 - Material de calidad
+- Producto para tu hogar
 - Mejora la calidad de tu hogar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

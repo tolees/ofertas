@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Composición del material: 50 % poliéster reciclado, 50 % algodón
-- Corte regular
 - Manga larga
 - Cierre alto
+- Corte regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CL7SGM1W{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Zapato cómodo
-- Vegano
 - Espuma viscoelástica
 - Skech Air
+- Vegano
+- Zapato cómodo
 - Lavable a máquina
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

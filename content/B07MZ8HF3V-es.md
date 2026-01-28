@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La gorra PROMOTION CAP de algodón es perfecta para cualquier ocasión.
 - 100% polyester
+- La gorra PROMOTION CAP de algodón es perfecta para cualquier ocasión.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07MZ8HF3V{{</world>}}

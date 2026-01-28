@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Base revestida muy resistente al desgaste
-- Compartimento para las botas con cierre de cremallera
 - Tejido técnico 100% poliéster reciclado
 - Dimensiones: 50 cm x 30 cm x 19 cm
+- Compartimento para las botas con cierre de cremallera
 - Correas acolchadas y ajustables para los hombros
 - Bolsillos laterales de malla
 

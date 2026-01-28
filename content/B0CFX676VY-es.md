@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La siguiente información se aplica a cada unidad del paquete
-- Irresistible mix de sabores
 - Surtido de golosinas
+- Irresistible mix de sabores
 - Delicioso mix de diferentes piezas
+- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CFX676VY{{</world>}}

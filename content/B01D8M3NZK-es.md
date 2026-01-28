@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Viene con envoltorio protector. Formato caja de 125g, incluye 8 galletas.
-- Sin conservantes, sin colorantes, sin saborizantes artificiales, sin aceite de palma y sin GMO. Apto para vegetarianos.
-- Galletas tipo palets de mantequilla pura y limón, gruesas y crujientes.
 - Diseño del empaque inspirado en el pintor checo y artista decorativo, Alfons Mucha.
+- Sin conservantes, sin colorantes, sin saborizantes artificiales, sin aceite de palma y sin GMO. Apto para vegetarianos.
 - Receta original y sin alterar desde 1888. Fabricadas con ingredientes 100% franceses de alta calidad.
+- Galletas tipo palets de mantequilla pura y limón, gruesas y crujientes.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01D8M3NZK{{</world>}}

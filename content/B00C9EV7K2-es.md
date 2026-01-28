@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tipo de producto - Crema de afeitado
 - Género - Hombre
+- Tipo de producto - Crema de afeitado
 - Marca - Novaengel
 
 [🛒 Visítala!!!]({{< param buyurl >}})

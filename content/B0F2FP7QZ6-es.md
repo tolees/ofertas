@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Felpa perchada suave, cómoda y cálida
 - Bolsillos tipo canguro con vivos en las aberturas y costuras de refuerzo
+- Felpa perchada suave, cómoda y cálida
 - Cubrecosturas reforzado con cinta Jersey en el interior del cuello y Regular fit
 - Cremallera de nylon
 - Puños y cinturilla indeformables en punto canalé 2x1 con elastano

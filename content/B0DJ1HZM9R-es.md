@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Cierre de velcro doble
 - Lengüeta en el talón para poner fácilmente
-- Construcción vulcanizada
-- Brooklyn LS V está inspirado en los clásicos de Vans con una influencia de estilo de zapato de cancha. Cuenta con una puntera deportiva y una forma más cómoda para la fila de ojos.
 - Suela original de gofre
+- Brooklyn LS V está inspirado en los clásicos de Vans con una influencia de estilo de zapato de cancha. Cuenta con una puntera deportiva y una forma más cómoda para la fila de ojos.
+- Construcción vulcanizada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DJ1HZM9R{{</world>}}

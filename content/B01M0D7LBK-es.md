@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela de tracción flexible
 - Plantilla acolchada de espuma viscoelástica
 - Forro de tela suave para zapatos
+- Suela de tracción flexible
 - Suela flexible ligera que absorbe los golpes
 
 [🛒 Visítala!!!]({{< param buyurl >}})

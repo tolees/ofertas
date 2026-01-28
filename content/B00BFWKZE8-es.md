@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fácil de usar
-- Anticongelante 5l 10% rosa
 - Modo de empleo: uso directo
+- Fácil de usar
 - Composición: contiene, entre otros componentes, entre el 5-15% de Etilenglicol
+- Anticongelante 5l 10% rosa
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00BFWKZE8{{</world>}}

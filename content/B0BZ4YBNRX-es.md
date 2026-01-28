@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Capacidad: 1,5 litros
-- Fabricado en Portugal y con recursos naturales
-- 100 % impermeable
-- Uso en interiores o exteriores
 - Maceta de cerámica especialmente diseñada para orquídeas.
+- Uso en interiores o exteriores
+- Capacidad: 1,5 litros
+- 100 % impermeable
+- Fabricado en Portugal y con recursos naturales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BZ4YBNRX{{</world>}}

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- NUTRICIÓN EQUILIBRADA: Rico en ácidos grasos saludables y antioxidantes, ideal para una dieta equilibrada.
-- SABOR: Aceite de oliva virgen extra
-- ORIGEN: Elaborado solo con aceitunas de origen español.
-- La siguiente información se aplica a cada unidad del paquete
 - ENVASADO PRÁCTICO: Presentado en monodosis de fácil uso, garantizando frescura y control de porciones.
+- SABOR: Aceite de oliva virgen extra
+- La siguiente información se aplica a cada unidad del paquete
+- NUTRICIÓN EQUILIBRADA: Rico en ácidos grasos saludables y antioxidantes, ideal para una dieta equilibrada.
 - VERSATILIDAD EN LA COCINA: Perfecto para aderezos, cocinar, o rociar sobre platos frescos como ensaladas y tapas.
+- ORIGEN: Elaborado solo con aceitunas de origen español.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F5HVFX5H{{</world>}}

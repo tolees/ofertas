@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bandolera con cadena
 - Bolsa de hombro
 - Cierre de clip
+- Bandolera con cadena
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BJQST87W{{</world>}}

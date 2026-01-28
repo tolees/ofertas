@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Indicaciones: apta para microondas. Se recomienda lavarla a mano para que su diseño se mantenga intacto durante más tiempo.
 - Capacidad: xxx cl
+- Indicaciones: apta para microondas. Se recomienda lavarla a mano para que su diseño se mantenga intacto durante más tiempo.
 - Taza de cerámica con mensaje divertido, ideal para regalar o autorregalarse.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

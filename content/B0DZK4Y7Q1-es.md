@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Detalles de costura
 - Parte superior sintética con textura de cuero suave y limpio
 - Diseño de tenis de moda con cordones
-- Detalles de costura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DZK4Y7Q1{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Parte superior de malla técnica
 - Entresuela AMPLIFOAM
 - Superposiciones de cuero sintético
-- Parte superior de malla técnica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D798HSQL{{</world>}}

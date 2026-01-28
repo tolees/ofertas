@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste ancho
 - Espuma viscoelástica
+- Ajuste ancho
 - Vegano
 - Lavable a máquina
 

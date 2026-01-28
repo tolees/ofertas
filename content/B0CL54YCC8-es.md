@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Plain
-- materialFabricComposition: Main fabric: 60% Cotton, 40% Polyester
 - Sweatpants
+- materialFabricComposition: Main fabric: 60% Cotton, 40% Polyester
 - Regular Fit
 
 [🛒 Aquí!!!]({{< param buyurl >}})

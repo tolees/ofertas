@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- El transmisor funciona como estación de carga
+- Fácil de usar
 - Apto para principiantes
 - Chasis resistente y grandes neumáticos de goma
-- El transmisor funciona como estación de carga
 - Mini vehículos de construcción
-- Fácil de usar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07JRCBN6Y{{</world>}}

@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Sobrevive a la oscuridad: Para sobrevivir a las traicioneras Minas de Moria, los jugadores deben conservar sus recursos, cazar y recolectar alimentos y controlar sus niveles de sueño, temperatura y ruido. Utiliza sistemas de luz dinámicos para mayor seguridad y para abrirte camino en la oscuridad. Enfréntate a males indescriptibles y sobrevive a hordas de monstruosos orcos en combates viscerales, mientras descubres el secreto de la Sombra que se cierne sobre la montaña.
 - Reconstruye y remodela Moria: Restaura el antiguo reino perdido de Khazad-dûm a su antigua gloria, recuperando puntos de referencia enanos a medida que avanza la historia. Resucita viejas minas y vuelve a encender sus forjas para obtener sus recursos intactos.
-- Construcción de la base: Encuentra consuelo en la oscuridad. Revela y despeja nuevas ubicaciones para crear arquitectura a gran escala. Sé creativo y construye bases desde cero o construye sobre el entorno existente. Ten cuidado con los males que buscan destruir el progreso enano.
 - Siente la Comunidad: Experimenta la Comunidad de los Enanos como nunca antes, con la rica tradición del icónico mundo de fantasía de J.R.R. Tolkien entretejida en el tejido mismo de Lords of the Rings: Return to Moria.
+- Construcción de la base: Encuentra consuelo en la oscuridad. Revela y despeja nuevas ubicaciones para crear arquitectura a gran escala. Sé creativo y construye bases desde cero o construye sobre el entorno existente. Ten cuidado con los males que buscan destruir el progreso enano.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CJVC6J2H{{</world>}}

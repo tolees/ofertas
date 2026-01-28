@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Dimensiones de la piedra de cocción: 37 x 23 cm perfecta para poder transportarla a donde quieras
 - Temperatura ajustable, termostato con luz indicadora y temperatura ajustable
+- Raclette para 8 personas y plancha de piedra natural ideal para la preparación de carne, pescado y verduras sin añadir grasas
 - Acero inoxidable
 - Accesorios: 8 sartenes antiadherentes y manual de uso
-- Dimensiones de la piedra de cocción: 37 x 23 cm perfecta para poder transportarla a donde quieras
-- Potencia: 1400 w y seguridad anti-sobrecalentamiento para cocinar de manera rápida y segura
 - Mangos de madera natural, recubrimiento antiadherente, pies antideslizantes y placa extraíble fácil de limpiar
-- Raclette para 8 personas y plancha de piedra natural ideal para la preparación de carne, pescado y verduras sin añadir grasas
+- Potencia: 1400 w y seguridad anti-sobrecalentamiento para cocinar de manera rápida y segura
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07HJD9RC5{{</world>}}

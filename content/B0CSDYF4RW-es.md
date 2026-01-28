@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tom Tailor - Jersey de manga larga para mujer
 - Ajuste óptimo y gran comodidad
+- Tom Tailor - Jersey de manga larga para mujer
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CSDYF4RW{{</world>}}

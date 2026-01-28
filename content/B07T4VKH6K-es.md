@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Coated leather leggings
 - Tight leggings
+- Coated leather leggings
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07T4VKH6K{{</world>}}

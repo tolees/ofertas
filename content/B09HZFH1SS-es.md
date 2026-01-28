@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compra una talla más grande
 - Forro GORE-TEX para un rendimiento impermeable y transpirable
+- Compra una talla más grande
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09HZFH1SS{{</world>}}

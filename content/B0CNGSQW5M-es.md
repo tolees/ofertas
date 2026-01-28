@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dimensiones: 10 x 22,5 x 7 cm
-- 2 compartimentos y cierre con cremallera
 - Forro interior
 - Portatodo escolar
+- Dimensiones: 10 x 22,5 x 7 cm
+- 2 compartimentos y cierre con cremallera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CNGSQW5M{{</world>}}

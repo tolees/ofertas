@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sobretecho desmontable, ventana trasera, abertura para aire fresco, bolsillo de malla en el interior
-- Resistente al agua 600 mm, técnica de soldadura y poliéster revestido, toldo impermeable para mayor protección contra la lluvia
-- Varillas de la tienda unidas con cinta elástica para mantenerlas unidas sin enredarse, bolsa para guardar la tienda, las varillas y las estacas
 - Tienda iglú para 4 personas, adecuada para tres estaciones
+- Resistente al agua 600 mm, técnica de soldadura y poliéster revestido, toldo impermeable para mayor protección contra la lluvia
+- Sobretecho desmontable, ventana trasera, abertura para aire fresco, bolsillo de malla en el interior
+- Varillas de la tienda unidas con cinta elástica para mantenerlas unidas sin enredarse, bolsa para guardar la tienda, las varillas y las estacas
 - Tamaño (largo x ancho): 2,7 x 2,1 m, la altura interior de 1,22 m permite espacio suficiente para moverse fácilmente
 
 [🛒 Aquí!!!]({{< param buyurl >}})

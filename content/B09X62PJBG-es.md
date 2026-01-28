@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Botones configurables y marcos
-- Compatible con PC, SWITCH, ANDROID y IOS Soporte smartphone incluido
-- Iluminación LED RGB
 - Mando élite diseñado para la competición
+- Iluminación LED RGB
+- Compatible con PC, SWITCH, ANDROID y IOS Soporte smartphone incluido
+- Botones configurables y marcos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09X62PJBG{{</world>}}

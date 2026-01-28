@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Los turrones Lacasa combinan tradición y calidad en cada tableta, siendo un referente en el arte de los dulces navideños.
-- Son turrones especialmente diseñados para compartir momentos inolvidables con tus seres queridos.
-- Disfruta de la perfecta combinación de sabores en este turrón.
 - Apasionados por la elaboración de deliciosos chocolates y turrones, creados siempre con las mejores recetas e ingredientes cuidadosamente seleccionados entre las mejores denominaciones del mundo.
+- Disfruta de la perfecta combinación de sabores en este turrón.
+- Son turrones especialmente diseñados para compartir momentos inolvidables con tus seres queridos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DQ1V3HXZ{{</world>}}

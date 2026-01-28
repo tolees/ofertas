@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela de goma flexible
 - Cierre: Cordones
 - Material de la suela: Caucho
+- Suela de goma flexible
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B016R0KIGM{{</world>}}

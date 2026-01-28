@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Modelo Chuck Taylor All Star Hi
 - La parte superior de cuero
-- De la marca Converse
 - La tapa de goma del dedo del pie
+- Modelo Chuck Taylor All Star Hi
+- De la marca Converse
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B002VSFLYE{{</world>}}

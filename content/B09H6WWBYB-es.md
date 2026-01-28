@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detalles distintivos de la marca
 - Ajuste regular
+- Detalles distintivos de la marca
 - Ortega liberdad de movimentos
 - Tiene detalles distintivos de la marca
 

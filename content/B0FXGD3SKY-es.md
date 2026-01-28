@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Simboliza pureza y elegancia, y es un símbolo de tranquilidad y belleza en el jardín, transmitiendo la belleza de la armonía natural.
 - Esta variedad pura florece temprano.
 - La diversidad de formas de sus hojas es agradable, y sus elegantes flores blancas florecen en verano y otoño, lo que la hace ideal para balcones y jardines.
 - Cualquier pregunta puede ser devuelta o cambiada, y siempre estamos disponibles para responder en línea.
+- Simboliza pureza y elegancia, y es un símbolo de tranquilidad y belleza en el jardín, transmitiendo la belleza de la armonía natural.
 - Tolera la sombra y el frío, y prefiere un suelo húmedo y suelto, lo que facilita y ahorra trabajo su cuidado diario.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Bolígrafo con una pequeña luz
-- Color de la tinta: azul
 - Incorpora un conejo Mr. Wonderful en su extremo
+- Color de la tinta: azul
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CW3M341Z{{</world>}}

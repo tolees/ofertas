@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Respirable
 - Corte normal
+- Respirable
 - Tecnología Dri-Fit
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

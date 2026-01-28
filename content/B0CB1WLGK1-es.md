@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Skechers Detalles del logotipo de Arch Fit
 - Parte superior de malla diseñada con cordones frontales
-- Suela de tracción flexible
 - Lavable a máquina
+- Skechers Detalles del logotipo de Arch Fit
+- Suela de tracción flexible
 - Tacón de 1 3/4 pulgadas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - PREVENCIÓN: Este fotoprotector está diseñado para minimizar el riesgo de escozor en los ojos y prevenir el fotoenvejecimiento cutáneo, protegiendo la piel de quemaduras, manchas y eritemas solares
 - FORMULACIÓN: Está formulado con azeloglicina, niacinamida, vitamina E y glicirricinato dipotásico, que calman, reduciendo la irritación, regulan el exceso de sebo y limpian la piel en profundidad
-- ALTA PROTECCIÓN: También ofrece una protección óptima contra los rayos UVA, UVB y la luz azul, siendo resistente al agua, sin colorantes, alcohol y derivados del trigo; además, es hipoalergénico y no comedogénico
-- ACNESTIL SUN SYSTEM SPF50+: Es un protector solar para pieles con tendencia acneica, mixtas y grasas, tiene acción matificante, calmante y protege la piel de los rayos UV; además es respetuoso con el medioambiente
 - MODO DE EMPLEO: Aplicar sobre la piel del rostro de manera uniforme al menos 30 minutos antes de la exposición solar. Aplicar con frecuencia en caso de transpiración intensa y después de bañarse o secarse
+- ACNESTIL SUN SYSTEM SPF50+: Es un protector solar para pieles con tendencia acneica, mixtas y grasas, tiene acción matificante, calmante y protege la piel de los rayos UV; además es respetuoso con el medioambiente
+- ALTA PROTECCIÓN: También ofrece una protección óptima contra los rayos UVA, UVB y la luz azul, siendo resistente al agua, sin colorantes, alcohol y derivados del trigo; además, es hipoalergénico y no comedogénico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09W68DCBF{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Óptimos para cualquier ocasión: regalar, compartir en eventos o para celebrar el día a día y darse un capricho
 - Formas hermosas con varios rellenos creados con ingredientes de calidad, presentados en cajas de regalo
 - La siguiente información se aplica a cada unidad del paquete
+- Óptimos para cualquier ocasión: regalar, compartir en eventos o para celebrar el día a día y darse un capricho
 - Nuestras cajas de bombones llevan una película protectora y un relleno debajo de la tapa para poder mostrar qué hace especial a cada una de las piezas
 - Los bombones surtidos encarnan la calidad de la artesanía y el detalle de los productos Lindt
 

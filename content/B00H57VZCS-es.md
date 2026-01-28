@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- USO: Sellado de duchas, bañeras, lavabos, pilas, inodoros, bidé, fregaderos, vitrocerámicas, encimeras.
 - MODO DE EMPLEO: RETIRAR bien la silicona anterior. LIMPIAR la superficie. Cortar la cánula. ALISAR el cordón y una vez aplicada la silicona, retirar la cinta de pintor.
+- USO: Sellado de duchas, bañeras, lavabos, pilas, inodoros, bidé, fregaderos, vitrocerámicas, encimeras.
+- SUPERFICIES APTAS: Zonas húmedas y cualquier elemento de carpintería metálica.
 - FORMATO: 125 ML
 - CARACTERÍSTICAS: Resistencia máxima al moho. Antimoho extremo nivel 5. Seca en 30min. Alta adherencia. 100% impermeable. No pintable.
-- SUPERFICIES APTAS: Zonas húmedas y cualquier elemento de carpintería metálica.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00H57VZCS{{</world>}}

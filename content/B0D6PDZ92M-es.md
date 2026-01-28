@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Amortiguación ultraligera
-- Mstrike
 - Nuestro planeta importa: reciclado
+- Mstrike
 - Plantilla Goga Mat refrigerada por aire
+- Amortiguación ultraligera
 - Tecnología Goga Mat
 
 [🛒 Visítala!!!]({{< param buyurl >}})

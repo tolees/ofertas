@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Con tacos más pequeños y más cortos
 - Diseño de la banda de rodadura de la versión trail del Rekon
 - Neumático semi-slick
-- Con tacos más pequeños y más cortos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07G5M8CK4{{</world>}}

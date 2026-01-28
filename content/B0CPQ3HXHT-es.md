@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La piel se nutre y repara en profundidad, más firme y tersa, y con un resplandor rosado instantáneo.
 - Aplicar cada mañana sobre el rostro, cuello y escote limpios. Extender suavemente sobre mejillas, frente y mentón.
+- La piel se nutre y repara en profundidad, más firme y tersa, y con un resplandor rosado instantáneo.
 - Esta crema de día antiedad está enriquecida con colágeno y Life Plankton para proporcionar una dosis intensa de nutrientes durante el día y estimular la producción de colágeno.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

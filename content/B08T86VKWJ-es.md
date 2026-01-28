@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 1 cabeza brillante con pelo enraizado, 1 cepillo para el pelo, 2 clips para el pelo, 10 bandas para el pelo
-- Ideal para pequeños peluqueros en entrenamiento
-- Accesorios compartidos y portátiles
 - Los colores y estilos pueden variar
+- 1 cabeza brillante con pelo enraizado, 1 cepillo para el pelo, 2 clips para el pelo, 10 bandas para el pelo
+- Accesorios compartidos y portátiles
+- Ideal para pequeños peluqueros en entrenamiento
 - Pelo suave para peinar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

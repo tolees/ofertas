@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Includes exclusive Leonardo self-stabilizing switch kick skater
-- Appropriate for ages 3+
 - Incorporate additional TMNT toy vehicles and the Turtle Madness Skate Park to create the ultimate skate park play space!
 - Skate and play with this awesome TMNT set that looks like a real skate park!
+- Appropriate for ages 3+
 - Use stairs and rails to grind and shred and perform tricks!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

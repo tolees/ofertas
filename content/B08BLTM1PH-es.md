@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Levis
 - Ajuste regular
 - calzado
+- Levis
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08BLTM1PH{{</world>}}

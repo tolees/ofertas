@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con SALMÓN O PAVO de alta calidad como fuente de proteína y gran sabor
 - Ayudar a mantener un metabolismo saludable después de la esterilización / castración
 - Sin colorantes, conservantes ni aromatizantes artificiales añadidos
 - Ayuda a mantener un sistema urinario saludable ayudando a reducir la concentración de minerales que pueden derivar en la aparición de cálculos renales
+- Con SALMÓN O PAVO de alta calidad como fuente de proteína y gran sabor
 - Ayuda a mantener unas defensas naturales fuertes gracias a los antioxidantes, como la vitamina E
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

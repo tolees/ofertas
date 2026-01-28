@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela de goma con puntera reforzada
-- Empeine de malla
 - Horma clásica
+- Empeine de malla
 - Tejido de secado rápido
+- Suela de goma con puntera reforzada
 - Mediasuela de EVA
 - Forro textil
 

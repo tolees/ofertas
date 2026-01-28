@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ¿CÓMO USARLO?: aplícalo en el clítoris y las zonas íntimas masajeando suavemente.
 - 20 USOS: No es un lubricante, es un gel estimulante, así que solo necesitarás 2-3 gotas (aproximadamente 20 experiencias intensas en un frasco).
 - CALOR, FRESCOR U HORMIGUEO: Su fórmula especial te brindará sensaciones de calor, frescor u hormigueo, aumentando la sensibilidad en tus zonas íntimas.
+- ¿CÓMO USARLO?: aplícalo en el clítoris y las zonas íntimas masajeando suavemente.
 - LOS ORGASMOS SON PARA TODOS: aplica unas pocas gotas en el clítoris durante los preliminares
 - PARA INTENSIFICAR EL ORGASMO: Durex Intense Orgasmic Gel está diseñado para lograr orgasmos más intensos.
 

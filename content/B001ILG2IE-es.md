@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Extra corta
-- Cromado mate
-- Hecho de acero al cromo vanadio
-- Forjado en frío
-- Salida del anillo: 12 caras
-- Llave combinadas 10 - 11 - 12 - 13 - 14 - 15 - 16 - 17 - 18 - 19 mm
 - En bolsa enrollable de vinilo
+- Llave combinadas 10 - 11 - 12 - 13 - 14 - 15 - 16 - 17 - 18 - 19 mm
+- Salida del anillo: 12 caras
+- Forjado en frío
 - Extremo del anillo en ángulo de 15°
+- Extra corta
+- Hecho de acero al cromo vanadio
+- Cromado mate
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B001ILG2IE{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Calzoncillos para hombre, 3 unidades
 - Camisa de alta calidad para uso diario
 - Marca: BOSS
+- Calzoncillos para hombre, 3 unidades
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CTD9K68C{{</world>}}

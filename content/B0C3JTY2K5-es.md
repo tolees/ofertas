@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Mediasuela Cloudfoam
-- Horma clásica
 - Parte de malla
+- Horma clásica
 - Forro textil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

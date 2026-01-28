@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Willen II siempre está listo para la aventura: ni la lluvia ni la suciedad interrumpirán tus sesiones.
 - Willen II ofrece más de 17 horas de reproducción portátil con una única carga, para que no te quedes sin batería.
 - Willen II es el altavoz polivalente definitivo. Ponlo de pie, túmbalo, fíjalo a un objeto o cuélgalo gracias a su correa de sujeción de goma.
+- Willen II siempre está listo para la aventura: ni la lluvia ni la suciedad interrumpirán tus sesiones.
 - Willen II es compatible con Bluetooth LE Audio. Esta tecnología preparada para el futuro te abrirá un nuevo mundo de posibilidades a la hora compartir audio con la función Auracast.
 - Con el equilibrado sonido característico de Marshall y unos graves más contundentes, Willen II destaca en más de un sentido.
 

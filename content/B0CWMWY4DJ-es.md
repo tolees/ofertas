@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Tamaño ideal para llevarlo en la mochila.
-- Estuche de 22 cm x 12 cm x 5 cm fabricado en Poliéster.
 - Triple compartimento para mejorar la organización.
 - Con asa lateral.
+- Estuche de 22 cm x 12 cm x 5 cm fabricado en Poliéster.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CWMWY4DJ{{</world>}}

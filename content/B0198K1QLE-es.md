@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Breiter Schirm
-- Bordado en la parte frontal
 - Tirante ajustable en tejido idéntico
+- Bordado en la parte frontal
 - Tejido: tejido en sarga de algodón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

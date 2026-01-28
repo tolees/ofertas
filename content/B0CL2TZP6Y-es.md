@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 85% poliéster (reciclado) / 15% elastán
-- AEROREADY
-- Corte ajustado
 - Bolsillo para las llaves en el interior de la cintura
+- 85% poliéster (reciclado) / 15% elastán
 - Mínima cantidad de costuras
 - Cintura elástica de talle alto
+- AEROREADY
+- Corte ajustado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CL2TZP6Y{{</world>}}

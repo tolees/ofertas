@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Escuchar y reproducir: escuche hasta 12 horas / 250 canciones, y alimente dispositivos externos con un puerto USB que empaque la tecnología de batería registrada de Anker.
-- Lo que recibe: Altavoz Bluetooth Anker Soundcore Boost, cable de carga Micro USB, guía de bienvenida, nuestra garantía de 18 meses sin preocupaciones y un servicio al cliente amigable.
 - En casa, en cualquier lugar: un diseño clásico y minimalista complementa virtualmente cualquier interior. La construcción portátil y la resistencia al agua IPX5 te permitirán mejorar tu música sin esfuerzo.
+- Lo que recibe: Altavoz Bluetooth Anker Soundcore Boost, cable de carga Micro USB, guía de bienvenida, nuestra garantía de 18 meses sin preocupaciones y un servicio al cliente amigable.
 - Aumente sus bajos: mejora su audio con solo tocar un botón con la tecnología patentada Anker BassUp. Hace que su música cante, con bajos sólidos a cualquier volumen.
 - Sonido superior: los controladores duales y los subwoofers gemelos proporcionan 20W de audio potente y de alta fidelidad. Con sonido de relleno de la sala, ideal para podcasts, hasta fiestas.
 

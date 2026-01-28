@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 90% algodón / 10% elastano
-- Corte ajustado
 - Talle alto
+- Corte ajustado
 - Cintura elástica
+- 90% algodón / 10% elastano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CZPKF923{{</world>}}

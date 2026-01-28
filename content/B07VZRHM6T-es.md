@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Consumo de 120 V y 28 W
+- Ventilador de pie oscilante con 5 palas y motor de corriente continua silencioso
 - 12 velocidades y 3 modos (naturaleza, sueño, normal)
 - Altura ajustable y ángulo vertical
-- Consumo de 120 V y 28 W
 - Mando a distancia con temporizador de apagado automático
 - Temporizador de 18 horas para configurarlo y olvidarse
-- Ventilador de pie oscilante con 5 palas y motor de corriente continua silencioso
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07VZRHM6T{{</world>}}

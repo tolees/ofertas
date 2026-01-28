@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre de joyería: hebilla
 - Color de la joyería de plata
+- Cierre de joyería: hebilla
 - Material de joyería: acero inoxidable
 - Plataforma Logo
 - Tipo de joyería - Pulsera

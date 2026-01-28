@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Forma del tacón: sin tacón
+- Parte superior: cuero
 - Suela: poliuretano termoplástico
 - Cierre: cremallera
 - Material interior: N/A
-- Forma del tacón: sin tacón
-- Parte superior: cuero
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BM4Z83JN{{</world>}}

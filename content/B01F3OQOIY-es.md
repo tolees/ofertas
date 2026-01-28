@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Limpia y elimina las impurezas y restos de maquillaje
 - Especialmente indicado para cara, cuello y escote
-- Protege y equilibra la piel preparándola para la aplicación de otros productos de nuestro ritual de belleza
+- Limpia y elimina las impurezas y restos de maquillaje
 - Refresca e hidrata la piel
+- Protege y equilibra la piel preparándola para la aplicación de otros productos de nuestro ritual de belleza
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01F3OQOIY{{</world>}}

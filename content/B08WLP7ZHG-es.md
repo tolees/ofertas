@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cintura elástica suave para un ajuste cómodo
 - Diseño tradicional de 5 bolsillos
+- Cintura elástica suave para un ajuste cómodo
 - Cintura con cordón no funcional en tallas 2A-3A
 
 [🛒 Visítala!!!]({{< param buyurl >}})

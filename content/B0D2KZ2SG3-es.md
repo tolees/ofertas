@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño contemporáneo con una sensación de 90s.
 - Base extraíble con soporte para suela.
+- Diseño contemporáneo con una sensación de 90s.
 - Bold PU overlays, mesh underlays. Suela exterior detallada con mango.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

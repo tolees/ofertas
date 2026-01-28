@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- FlyEase es ahora EasyOn
-- A medida que hacemos que los productos Nike sean más fáciles de llevar y usar para todo el cuerpo, hemos cambiado el nombre para que sea más fácil de entender. Correa de cierre por contacto con malla flexible para regular el ajuste. Braille en el talón de ambas botas para poder distinguir entre la bota izquierda y derecha.
 - Para uso en superficies naturales y sintéticas
+- A medida que hacemos que los productos Nike sean más fáciles de llevar y usar para todo el cuerpo, hemos cambiado el nombre para que sea más fácil de entender. Correa de cierre por contacto con malla flexible para regular el ajuste. Braille en el talón de ambas botas para poder distinguir entre la bota izquierda y derecha.
+- FlyEase es ahora EasyOn
 - Suela interior acolchada
 - Toque mejorado
 

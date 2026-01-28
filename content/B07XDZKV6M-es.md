@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello redondo
 - Al comprar productos de algodón de PUMA, apoyas un cultivo de algodón más sostenible. Más información en PUMA.COM/FOREVERBETTER
+- Cuello redondo
 - Manga corta
-- Algodón 100 %
 - Logotipo PUMA Cat en la parte derecha del pecho
+- Algodón 100 %
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07XDZKV6M{{</world>}}

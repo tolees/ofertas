@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillos laterales funcionales
 - Cierre de botón frontal
+- Bolsillos laterales funcionales
 - Bolsillos en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})

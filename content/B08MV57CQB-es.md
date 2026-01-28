@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Trunks
-- Detail
-- Cotton
-- Care Label:
 - materialFabricComposition: 95% Cotton, 5% Elastane
+- Detail
+- Care Label:
+- Cotton
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08MV57CQB{{</world>}}

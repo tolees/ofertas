@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Only The Brave Eau de Parfum, con su frasco en forma de puño cerrado, es la nueva intensidad, la expresión olfativa más seductora
-- Aplicar a una distancia mínima de 15-20 cm de la zona de aplicación y en los puntos de pulso para un efecto más seductor
 - Only the Brave Eau de Parfum de Diesel es una colonia para hombre que redefine el coraje con un giro audaz, intenso y moderno; una fragancia masculina que combina jugosa mandarina fresca de Italia, vibrante salvia francesa y sensual acorde de cuero de ante para una valentía confiada y seductora
+- Aplicar a una distancia mínima de 15-20 cm de la zona de aplicación y en los puntos de pulso para un efecto más seductor
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DTZQN2Q9{{</world>}}

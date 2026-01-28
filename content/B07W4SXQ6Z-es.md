@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- High quality
-- Regular fit
 - Maximum comfort
+- Regular fit
+- High quality
 - Nike dry fabric
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

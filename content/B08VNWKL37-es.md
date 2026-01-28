@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Capucha con cordón ajustable
 - Felpa 70% algodón / 30% poliéster reciclado
+- Capucha con cordón ajustable
 - Corte clásico
 - Bolsillo canguro
 - Puños y dobladillo de canalé

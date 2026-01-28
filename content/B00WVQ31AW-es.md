@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto de la marca Hugo Boss-Boss
 - Bottled Infinite Edp Vapo, 200 ml
 - De alta calidad
+- Producto de la marca Hugo Boss-Boss
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00WVQ31AW{{</world>}}

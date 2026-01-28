@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela: goma
 - Material superior: cuero
+- Suela: goma
 - Forma del tacón: plano
 - Cierre: cordones
 - Material interior: sintético

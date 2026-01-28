@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Plantilla SOFTFOAM+
-- Suela de goma
 - Punta redonda
+- Suela de goma
 - Utilizado como casual
 
 [🛒 Aquí!!!]({{< param buyurl >}})

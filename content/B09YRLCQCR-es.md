@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - 🧽FÁCIL DE LIMPIAR: Práctica tapa abatible para facilitar el llenado, apta para lavavajillas (excepto la tapa), fabricada en plástico alimentario sin BPA.
 - 🏺AQUAPHOR Jarra Filtradora Compact para Frigorífico: 2,4L de capacidad Tapa abatible de fácil llenado que se adapta a la mayoría de las puertas de frigoríficos. Ideal para hogares pequeños, estudiantes y espacios reducidos (el envase puede variar).
-- 🍃 RESPETO POR EL MEDIO AMBIENTE: el uso de las jarras filtrantes Aquaphor ayuda a reducir los residuos de plástico al eliminar la necesidad de utilizar unas 1600 botellas de plástico de un solo uso de 1,5 litros al año. Además, al reducir la cal, la jarra filtrante contribuye a prolongar la vida útil de los electrodomésticos, ¡pero sobre todo ahorrarás mucho tiempo y dinero!
 - ⌛MAYOR VIDA ÚTIL DEL FILTRO: Maxfor+ permite un mayor tiempo de contacto, lo que prolonga la vida útil del filtro. Reduce eficazmente diversos contaminantes. Dura hasta 200 litros o 60 días de uso normal, hasta el doble que las marcas líderes. Nota: la fecha impresa en el filtro es la fecha de fabricación, no la fecha de caducidad. El filtro tiene una vida útil de 5 años en su envase.
+- 🍃 RESPETO POR EL MEDIO AMBIENTE: el uso de las jarras filtrantes Aquaphor ayuda a reducir los residuos de plástico al eliminar la necesidad de utilizar unas 1600 botellas de plástico de un solo uso de 1,5 litros al año. Además, al reducir la cal, la jarra filtrante contribuye a prolongar la vida útil de los electrodomésticos, ¡pero sobre todo ahorrarás mucho tiempo y dinero!
 - 🚰 AGUA CON MEJOR SABOR : Disfrute de bebidas calientes y frías con mejor sabor, como té, café y otras bebidas, gracias a la reducción de cloro y cal de este filtro para jarras. Importante: No hay indicador de cambio de filtro en la jarra. Recomendamos cambiar el filtro una vez al mes.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

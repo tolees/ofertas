@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para el funcionamiento de 12 V
-- Fuente de alimentación adecuado para viajes
 - Utilizar con Kärcher Outdoor Cleaner OC 3
+- Fuente de alimentación adecuado para viajes
 - Con conector para mechero de coche estándar
+- Para el funcionamiento de 12 V
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B079DT2QX4{{</world>}}

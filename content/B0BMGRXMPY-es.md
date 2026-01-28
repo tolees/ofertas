@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mostaza Dulce Prima con un toque de miel Mil Flores y elaborada con semillas de mostaza en frano recién molido a la piedra. Sin gluten.
 - Ideal para aportar el toque justo a mostaza dulce a tus platos
-- Misma receta ahora envasada en botella 25% reciclada
+- Mostaza Dulce Prima con un toque de miel Mil Flores y elaborada con semillas de mostaza en frano recién molido a la piedra. Sin gluten.
 - Todo el sabor de la Mostaza Original Prima con un toque a miel Mil Flores
+- Misma receta ahora envasada en botella 25% reciclada
 - Dale chispa a tus platos y saborea la vida disfrutando con los tuyos. Prima, Salseo del bueno.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

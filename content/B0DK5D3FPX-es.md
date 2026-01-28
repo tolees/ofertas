@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Etiqueta G-STAR tejida en la parte inferior de la costura lateral
 - Proporciona comodidad
 - Mangas con dobladillo, fijo
 - Cuello acanalado
-- Etiqueta G-STAR tejida en la parte inferior de la costura lateral
 - G-STAR Estampado en el pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material sostenible
 - Fabricado con al menos un 70 % de algodón sostenible
 - Corte entallado
+- Material sostenible
 - Logotipo impreso en posición en la parte delantera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

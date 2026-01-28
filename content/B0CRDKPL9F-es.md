@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - A juego:Un top perfecto para todas las combinaciones y que siempre añade un toque de estilo al look.
 - Botones:Tres botones en el pecho y el cuello para mantenerte fresco y transpirable cuando sudas,y un bolsillo real en el pecho.
-- Ocasión:ropa formal,ropa informal diaria,negocios,golf,tenis,correr,trabajo,estudio,fiesta,carrera deportiva,jogging,fitness,senderismo,ciclismo,etc.Adecuado para las estaciones de primavera,verano,otoño e invierno.
-- Tejido:100% algodón,tejido de algodón ligero,tejido liso,suave y transpirable,agradable a la piel y cómodo.
 - Diseño:polo de solapa con cuello abotonado y polos de colores combinados,el corte clásico y el suave tejido de algodón hacen de este polo un básico para la oficina o el fin de semana.
+- Tejido:100% algodón,tejido de algodón ligero,tejido liso,suave y transpirable,agradable a la piel y cómodo.
+- Ocasión:ropa formal,ropa informal diaria,negocios,golf,tenis,correr,trabajo,estudio,fiesta,carrera deportiva,jogging,fitness,senderismo,ciclismo,etc.Adecuado para las estaciones de primavera,verano,otoño e invierno.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CRDKPL9F{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Kit de manualidades para una linterna con diseño de sol, luna y estrellas, para hacer una linterna individual
-- Farol listo para hacer con un tamaño de aprox. 14 x 20 cm proporciona un atractivo y colorido punto de atracción
 - Para hacer manualidades con niños para un tiempo inolvidable
+- Kit de manualidades para una linterna con diseño de sol, luna y estrellas, para hacer una linterna individual
 - Incluye farolillo en blanco, tapa y fondo de cartón fotográfico negro (no sugerencias), papel transparente de 42 g/m² en diferentes colores, incluye instrucciones para manualidades
 - Adecuado para trenes de San Martín, fiestas infantiles, fiestas de Halloween, refugios de linternas o para una caminata nocturna
+- Farol listo para hacer con un tamaño de aprox. 14 x 20 cm proporciona un atractivo y colorido punto de atracción
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B085J6LR6D{{</world>}}

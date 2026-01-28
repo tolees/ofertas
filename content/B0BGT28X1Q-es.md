@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Canon: Innovación constante en el mundo de la imagen
 - Impresora: Zoemini 2 es una impresora de bolsillo sin tinta que te ofrece la capacidad de imprimir fotografías de gran calidad y color directamente desde tu Smartphone o Tablet. Sin cables. Carga mediante USB-C
 - Fotografías: Personaliza tus fotografías con Canon Mini Print. Realizando mosaicos de impresiones, adaptando el formato de las imágenes e incluyendo diversos mensajes, bordes y filtros
+- Canon: Innovación constante en el mundo de la imagen
 - Papel: Descubre los diferentes packs de papel fotográfico ZINK de Canon (50 x 76 mm) de 20, 50 o 100 unidades. Despega la parte posterior del papel para transformar tus fotos en pegatinas y poder pegarlas en cualquier sitio
 - Zero Ink: Esta tecnología de impresión sin tinta sobre papel reciclable reduce el consumo de residuos, es cómodo y limpio uso y mucho más económico al no necesitar de cartuchos
 

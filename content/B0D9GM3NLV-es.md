@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - [Excelente Disipación del Calor] Fabricado en aleación de aluminio, asociado a una cubierta de silicona, las cajas SSD NVMe son capaces de disipar el calor de manera efectiva, lo que acelera el enfriamiento y garantiza un rendimiento estable de la unidad. NOTA: Durante el funcionamiento, una temperatura de 0°C a 45°C es normal y no dañará el dispositivo ni el disco duro.
-- [Alta Velocità di 10Gbps] Con la interfaz USB C 3.2 Gen 2 y UASP listos, incluye también un cable USB-C a USB-C de 0.3m, UGREEN carcasa externa de disco duro M.2 alcanza una velocidad de 10 Gbps, lo suficientemente rápida para transferir archivos de 10GB en 10 segundos.
 - [ Amplia Compatibilidad ] No se requiere driver en Windows, Linux y Mac OS. Además de los portátiles, puede utilizar carcasas externas M.2 en consolas de juegos como Xbox, PS4 y PS3 para ampliar la memoria y crear más espacio para los juegos.
+- [Alta Velocità di 10Gbps] Con la interfaz USB C 3.2 Gen 2 y UASP listos, incluye también un cable USB-C a USB-C de 0.3m, UGREEN carcasa externa de disco duro M.2 alcanza una velocidad de 10 Gbps, lo suficientemente rápida para transferir archivos de 10GB en 10 segundos.
 - [NVMe y NGFF] La carcasa externa UGREEN M.2 SSD es compatible con M-Key y M&B-Key para NVME PCIe y SATA, cubriendo tamaños como 2230/2242/2260/2280, con capacidades de hasta 2TB. Nota: este producto no admite la interfaz B-Key.
 - [Funciones potentes] La funda externa de disco duro M.2 de UGREEN es compatible con la función S.M.A.R.T y TRIM, además de permitir el modo de espera automática, entrando en modo de suspensión después de 10 minutos de inactividad, con el objetivo de minimizar el desgaste del disco, reducir el desgaste del disco, prolongar la vida útil del disco y también tener un efecto de ahorro de energía.
 

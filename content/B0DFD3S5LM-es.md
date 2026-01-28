@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Crea Sims irresistibles y personaliza los mundos a su alrededor; Desbloquea prendas y opciones de construcción a medida que completas diferentes tareas; ¡hay un montón de opciones por descubrir y dos mundos únicos por desarrollar
-- Totalmente compatible con Switch 2
 - Recordatorio: El hardware de la consola Nintendo Switch 2 es diferente al de Nintendo Switch, y es posible que algunos juegos de Nintendo Switch no se admitan en Nintendo Switch 2 o no sean totalmente compatibles con ella
 - Juega y crea en el relanzamiento retro de dos juegos adorables con MySims: Colección Sofá y Mantita
+- Totalmente compatible con Switch 2
 - Relájate con encantadoras historias rebosantes de creatividad y descubrimiento; Explora dos mundos llenos de rompecabezas que resolver, ubicaciones por desbloquear y peculiares habitantes que necesitan ayuda
 - Algunos personajes te acompañarán desde el principio y a otros los irás conociendo a medida que juegues; No estás solo construyendo casas, sino comunidades de habitantes adorables y memorables
 

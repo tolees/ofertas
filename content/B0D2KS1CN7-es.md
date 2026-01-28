@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Parte superior de malla y sintética
-- PUMA No. 1 logotipo en la lengüeta
 - Bota baja
+- PUMA No. 1 logotipo en la lengüeta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D2KS1CN7{{</world>}}

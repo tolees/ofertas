@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Acompaña cualquier plato como hamburguesas, tortillas, albóndigas o patatas fritas
-- Dale chispa a tus platos y saborea la vida disfrutando con los tuyos. Prima, Salseo del bueno.
-- Kechup elaborado con tomates 100% españoles, madurados al sol de la Vegas del Guadiana y/o del Guadalquivir. No contiene gluten ni lactosa y es apto para veganos.
 - Para elaborar este ketchup, Prima utiliza más de 12 tomates 100% Origen España
 - Misma receta ahora envasada en botella 100% reciclada
+- Dale chispa a tus platos y saborea la vida disfrutando con los tuyos. Prima, Salseo del bueno.
+- Acompaña cualquier plato como hamburguesas, tortillas, albóndigas o patatas fritas
+- Kechup elaborado con tomates 100% españoles, madurados al sol de la Vegas del Guadiana y/o del Guadalquivir. No contiene gluten ni lactosa y es apto para veganos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BMGQ5W9B{{</world>}}

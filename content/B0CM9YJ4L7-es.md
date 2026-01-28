@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Una capa intermedia para mujer súper suave, ligera y con media cremallera con propiedades de absorción
 - botas
+- Una capa intermedia para mujer súper suave, ligera y con media cremallera con propiedades de absorción
 - zapatos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

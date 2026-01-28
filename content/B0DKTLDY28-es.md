@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - ¡ÚNTALO!, ¡DIPEALO!, ¡MÉZCLALO!, ¡CÓMELO CON CUCHARA! La crema Biscoff se puede disfrutar de diferentes formas - en una rebanada de pan, en una tostada, en pancakes, como dipeo con trozos de manzana u otras frutas, en un sandwich, en recetas o directamente desde el frasco
-- IRRESISTIBLE SABOR con una textura cremosa y fácil de untar. Usado como una alternativa deliciosa y única a las cremas de frutos secos (p.e. crema de cacahuetes, crema de almendra, etc) y cremas de chocolate (p.e. crema de avellanas)
 - HECHO CON GALLETA LOTUS BISCOFF ORIGINAL - La crema de untar Lotus Biscoff es una crema de untar dulce hecha con nuestras galletas Lotus Biscoff
-- La siguiente información se aplica a cada unidad del paquete
 - SIN AROMAS, COLORANTES NI CONSERVANTES ARTIFICIALES. Sin transgénicos con aceite de palma certificado RSPO. Vegano. No contiene frutos secos. Hecho en Bélgica en un ambiente libre de frutos secos
+- La siguiente información se aplica a cada unidad del paquete
+- IRRESISTIBLE SABOR con una textura cremosa y fácil de untar. Usado como una alternativa deliciosa y única a las cremas de frutos secos (p.e. crema de cacahuetes, crema de almendra, etc) y cremas de chocolate (p.e. crema de avellanas)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DKTLDY28{{</world>}}

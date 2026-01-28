@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Logotipo de Polaroid en la lente izquierda y píxel icónico de Polaroid en la punta de la patilla
 - Lentes polarizadas de triacetato
-- Gafas negras con lentes polarizadas para hombre y mujer
+- Logotipo de Polaroid en la lente izquierda y píxel icónico de Polaroid en la punta de la patilla
 - Frente en policarbonato negro
+- Gafas negras con lentes polarizadas para hombre y mujer
 - Patillas de policarbonato negro con decoración metálica dorada con patrón grabado con láser
 
 [🛒 Visítala!!!]({{< param buyurl >}})

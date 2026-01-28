@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Elastic Waistband with lanyard
 - Nike Dry fabric
 - Regular fit
 - Tipo de fábrica: 100% Poliéster
-- Elastic Waistband with lanyard
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07W4SXBNW{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- BMW M4 Racing 2016
-- Duradera y resistente
-- Producto en color Multicolor
 - Marca: SIKU
+- Duradera y resistente
+- BMW M4 Racing 2016
+- Producto en color Multicolor
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B085HH2SY5{{</world>}}

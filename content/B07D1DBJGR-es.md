@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Gusto: En el paladar es limpio, con un claro sabor afrutado y un final tostado, adquirido gracias al contacto con la madera de la barrica
-- Consumo: Recomendamos servir Senorio de los Llanos Crianza entre 14 y 16 C
-- Maridaje: Señorío de los Llanos Crianza es un vino muy versátil. Perfecto con carnes rojas o blancas, como filetes o pollo
-- Tipo de uva: Estas características del terreno junto a un clima seco y soleado contribuyen de forma decisiva al buen desarrollo y madurez de la uva
 - Apariencia: Brillante color rubí con ribete ligeramente más claro
 - Aroma: En nariz es varietal, con aromas a frutos rojos que destacan sobre notas especiadas y a vainilla
+- Maridaje: Señorío de los Llanos Crianza es un vino muy versátil. Perfecto con carnes rojas o blancas, como filetes o pollo
+- Consumo: Recomendamos servir Senorio de los Llanos Crianza entre 14 y 16 C
+- Tipo de uva: Estas características del terreno junto a un clima seco y soleado contribuyen de forma decisiva al buen desarrollo y madurez de la uva
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07D1DBJGR{{</world>}}

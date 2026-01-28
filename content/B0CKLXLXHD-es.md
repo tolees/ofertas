@@ -32,8 +32,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Contiene al menos un 20% de material reciclado
 - Parte superior de ante
 - Suela de goma vulcanizada
-- Mediasuela con amortiguación
 - Forro textil
+- Mediasuela con amortiguación
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKLXLXHD{{</world>}}

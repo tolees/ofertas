@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Horma clásica
 - Empeine de piel y material sintético
 - Forro textil
+- Horma clásica
 - Suela de goma
-- Empeine perforado
 - Cierre de cordones
+- Empeine perforado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D5J51QRD{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Botines
+- Cuero
+- Cierre de cremallera
 - Aspecto de cordones
 - Tacón pequeño
-- Cierre de cremallera
-- Cuero
+- Botines
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07QXZQ3SS{{</world>}}

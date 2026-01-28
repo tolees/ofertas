@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- SoftFoam: cómoda plantilla PUMA para una pisada instantánea y una comodidad duradera que proporciona una amortiguación suave a cada paso
 - CMEVA: material de EVA moldeado por compresión de PUMA para ofrecer un rendimiento máximo y ligero
+- SoftFoam: cómoda plantilla PUMA para una pisada instantánea y una comodidad duradera que proporciona una amortiguación suave a cada paso
 - Exterior de piel
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - parte superior delgada hecha de una mezcla de cueros
-- Banda de rodadura adherente y resistente a la abrasión
 - punta perforada
+- Banda de rodadura adherente y resistente a la abrasión
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D2BPPQ3X{{</world>}}

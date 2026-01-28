@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Indicaciones: aptas para microondas y lavavajillas, aunque se recomienda lavarlas a mano para que el diseño permanezca intacto durante más tiempo.
-- Set de 2 tacitas de café espresso realizadas en cerámica.
-- Capacidad de las tacitas: 90 ml
 - Cada una de ellas cuenta con un mensaje de amor y ambos mensajes se complementan entre sí.
 - El set incluye los dos platitos para las tazas, también realizados en cerámica.
+- Set de 2 tacitas de café espresso realizadas en cerámica.
+- Indicaciones: aptas para microondas y lavavajillas, aunque se recomienda lavarlas a mano para que el diseño permanezca intacto durante más tiempo.
+- Capacidad de las tacitas: 90 ml
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQ5D8YZ6{{</world>}}

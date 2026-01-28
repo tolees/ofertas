@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aromas afrutados a naranja de naranja dulce y melocotón
 - Se puede usar para preparar cócteles
+- Aromas afrutados a naranja de naranja dulce y melocotón
 - De color dorado
 - Toques de rico y suave chocolate con naranja
 - Notas de mazapán y nueces

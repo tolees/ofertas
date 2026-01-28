@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Disponible en 6 tonos
+- Es resistente al agua y no crea manchas, por lo que es ideal para usar durante todo el día
+- Delineador de ojos que deja un color vivo en una sola pasada
 - La fórmula cremosa se puede aplicar tanto en el párpado como en la línea de agua
 - El afilador mantiene la punta ultra precisa todo el tiempo
-- Delineador de ojos que deja un color vivo en una sola pasada
-- Es resistente al agua y no crea manchas, por lo que es ideal para usar durante todo el día
-- Disponible en 6 tonos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08P393PSV{{</world>}}

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Puños con cremallera
+- Tecnología transpirable AEROREADY
+- Corte ajustado con cintura de talle medio
 - Bolsillos en las costuras laterales
 - Puños con cremallera
 - 100% poliéster (reciclado)
-- Puños con cremallera
-- Corte ajustado con cintura de talle medio
-- Tecnología transpirable AEROREADY
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09T3M1VYN{{</world>}}

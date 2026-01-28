@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- AEROREADY
-- 100% poliéster (reciclado)
-- Corte clásico
-- Perneras ajustadas
 - Bolsillos laterales con cremallera
+- Perneras ajustadas
+- Corte clásico
+- 100% poliéster (reciclado)
+- AEROREADY
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BNM2B3BP{{</world>}}

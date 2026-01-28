@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Genuine Product
 - Authorised Stockist
+- Genuine Product
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07F6D4JYX{{</world>}}

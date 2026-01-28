@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 🌍 Apto para Todo Tipo de Piel: Su fórmula suave es adecuada para todo tipo de piel, incluyendo pieles sensibles. Utilízalo como parte de tu rutina diaria para obtener los mejores resultados y una piel visiblemente más clara y saludable.
 - 🍊 Ingrediente Natural y Seguro: El ácido kójico es un derivado natural del arroz utilizado en la fermentación del sake japonés. Es conocido por sus propiedades aclaradoras y su capacidad para inhibir la producción de melanina sin efectos secundarios nocivos.
 - 💧 Hidratación y Suavidad: Enriquecido con aceites naturales y extractos botánicos, este jabón hidrata y suaviza la piel, evitando la sequedad y dejándola con una sensación fresca y revitalizada.
 - 🌟 Aclara e Ilumina la Piel: Formulado con ácido kójico, este jabón ayuda a aclarar y unificar el tono de la piel, reduciendo manchas oscuras, hiperpigmentación y cicatrices de acné para un cutis más radiante.
 - 🧼 Limpieza Profunda: Este jabón no solo aclara la piel, sino que también la limpia profundamente, eliminando impurezas, exceso de grasa y residuos de maquillaje. Ideal para el uso diario en el rostro y el cuerpo.
+- 🌍 Apto para Todo Tipo de Piel: Su fórmula suave es adecuada para todo tipo de piel, incluyendo pieles sensibles. Utilízalo como parte de tu rutina diaria para obtener los mejores resultados y una piel visiblemente más clara y saludable.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00EMC17ZE{{</world>}}

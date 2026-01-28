@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Peso: 390 g (talla 42 2/3)
+- Cierre de cordones
+- Drop: 10 mm (talón: 27 mm / antepié: 17 mm)
 - Forro textil
+- Suela Traxion
+- Contiene al menos un 20% de material reciclado y renovable
 - Empeine textil con puntera reforzada
 - Mediasuela de EVA
-- Suela Traxion
-- Drop: 10 mm (talón: 27 mm / antepié: 17 mm)
-- Contiene al menos un 20% de material reciclado y renovable
-- Cierre de cordones
 - Horma clásica
+- Peso: 390 g (talla 42 2/3)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CKXRK313{{</world>}}

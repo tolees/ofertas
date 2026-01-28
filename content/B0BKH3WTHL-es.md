@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hecho de la mejor sarga
 - Pantalón casual
+- Hecho de la mejor sarga
 - 5 bolsillos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Agenda con organización semanal, va de septiembre de 2025 a agosto de 2026 y tiene un tamaño mayor que el resto de las agendas de la colección, por lo que resulta ideal como agenda de escritorio.
 - Playlist exclusiva , Páginas para anotar contactos , Tablas de ahorro , Cierre con goma elástica , Planificador mensual al inicio de cada mes , Blocs de notas adhesivas con formas , Frases mensuales supermotivadoras
 - Dimensiones: 21.6 x 24.6 x 2.6 cm.
 - 160 páginas de papel de 100 gr con la certificación FSC , Frases diarias motivacionales , Separadores con pestaña por cada mes , Bolsillo interior de cartón , Regla de plástico interior , 8 hojas de pegatinas , Horarios y calendarios (del último trimestre de 2025 y de 2026 y 2027 completos) ,
+- Agenda con organización semanal, va de septiembre de 2025 a agosto de 2026 y tiene un tamaño mayor que el resto de las agendas de la colección, por lo que resulta ideal como agenda de escritorio.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DWG343P5{{</world>}}

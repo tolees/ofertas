@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - CONFORT Y SEGURIDAD: Los preservativos Natural de Durex son transparentes y de látex de caucho natural
 - TALLA REGULAR: Anchura nominal de 56 mm, todos somos diferentes, pero la talla correcta debe hacerte sentir cómodo y seguro siempre
-- GROSOR MEDIO: Preservativos de grosor medio
 - PRESERVATIVOS EXTRA LUBRICADOS: Lubricación de silicona
+- GROSOR MEDIO: Preservativos de grosor medio
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CLD57BZF{{</world>}}

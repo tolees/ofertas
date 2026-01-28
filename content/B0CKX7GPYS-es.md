@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fórmula ligera, de rápida absorción y que no mancha.
 - PHYTO VITAMIN COMPLEX - sinergia de CURCUMA, REGALIZ y NIACINAMIDA para maximizar el efecto iluminador de la piel
-- CÚRCUMA PRENSADA EN FRÍO, DE ORIGEN ORGÁNICO; 97% de ingredientes de origen natural; 100% reciclable; clínicamente testado.
 - TODOS LOS TIPOS DE MANCHAS OSCURAS: manchas solares, manchas de envejecimiento, manchas postacné
 - PIEL MÁS CLARA DESPUÉS DEL 1ER USO; EXFOLIA; MEJORA LA TEXTURA DE LA PIEL
+- CÚRCUMA PRENSADA EN FRÍO, DE ORIGEN ORGÁNICO; 97% de ingredientes de origen natural; 100% reciclable; clínicamente testado.
+- Fórmula ligera, de rápida absorción y que no mancha.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CKX7GPYS{{</world>}}

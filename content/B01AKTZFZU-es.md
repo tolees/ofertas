@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Esta máscara de pestañas aporta volumen, longitud y definición con una sola pasada gracias a su fórmula mejorada con tecnología Elastic Stretch. Además, su aplicador Lash-Changing Power Brush cuenta con cerdas de diferentes longitudes para una aplicación precisa y uniforme.
-- Modo de empleo: Comenzar aplicando la máscara de pestañas desde la raíz y deslizar hacia las puntas con movimientos curvos hacia afuera para lograr una curvatura perfecta. Añadir más capas si deseas un resultado más denso e intenso.
 - Formulado con Colágeno Hidrolizado, Biotina y Péptidos, para fortalecer y acondicionar las pestañas; Tecnología Patentada, que alarga y aporta volumen, pestañas flexibles y elásticas.
+- Modo de empleo: Comenzar aplicando la máscara de pestañas desde la raíz y deslizar hacia las puntas con movimientos curvos hacia afuera para lograr una curvatura perfecta. Añadir más capas si deseas un resultado más denso e intenso.
+- Esta máscara de pestañas aporta volumen, longitud y definición con una sola pasada gracias a su fórmula mejorada con tecnología Elastic Stretch. Además, su aplicador Lash-Changing Power Brush cuenta con cerdas de diferentes longitudes para una aplicación precisa y uniforme.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01AKTZFZU{{</world>}}

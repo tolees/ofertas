@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Entresuela ligera y flexible que absorbe los golpes
 - Parte superior de punto de malla plana suave con cordones elásticos en la parte delantera
 - Suela de tracción de goma flexible
+- Entresuela ligera y flexible que absorbe los golpes
 - Diseño deportivo sin cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})

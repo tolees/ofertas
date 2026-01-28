@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Google TV: todo tu contenido favorito en un lugar; accede a más de 10.000 aplicaciones, como Disney+, YouTube o Netflix, disponibles en Google Store; además, a través de Chromecast, podrás transmitir el contenido desde tu teléfono móvil a la televisión con facilidad
 - Diseño elegante y peana central: la televisión Haier está diseñada con una pantalla sin marcos y una peana central, cuidando el estilo hasta el mínimo detalle, para ofrecerte una experiencia de cine en casa
 - QLED 4K HDR con tecnología Quantum dot: disfruta de la imagen con 1.000 millones colores, incluso al óptimo nivel de brillo; colores puros en cualquier nivel de brillo gracias a la tecnología Quantum Dot
-- Tamaño del producto sin peana (ancho x fondo x alto): 144,56 x 8,35 x 83,04 cm; con peana (ancho x fondo x alto): 144,56 x 34,5 x 87,73 cm
 - Tecnología Dolby Audio: sonido envolvente, disfrutarás de una experiencia cinematográfica en casa; además, el televisor incluye el certificado dbx-tv con más de 40 años de experiencia calibrando el sonido de tu televisor
+- Tamaño del producto sin peana (ancho x fondo x alto): 144,56 x 8,35 x 83,04 cm; con peana (ancho x fondo x alto): 144,56 x 34,5 x 87,73 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FSL4STZ4{{</world>}}

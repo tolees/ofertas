@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- De color rojo cereza
 - En boca es suave, equilibrado, pleno y elegante
+- De color rojo cereza
 - Nariz complejo y aromas frutales
-- Ideal con platos con jamón serrano, pato, chorizo ​​o ensalada de espinacas
 - Envejecimiento 18 meses en barricas de roble francés americano
+- Ideal con platos con jamón serrano, pato, chorizo ​​o ensalada de espinacas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01B8F4XV2{{</world>}}

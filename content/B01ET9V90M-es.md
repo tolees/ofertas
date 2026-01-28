@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Aroma: En nariz es espléndida e intensa, claramente varietal, con notas de frutas rojas y negras del bosque, también balsámicas características de la variedad, mentolados, y elegantes tonos especiados
+- Gusto: En boca se manifiesta como un vino complejo, largo y persistente, es equilibrado, pulido y con taninos “redondos”, tiene una alta percepción de fruta y una retronasal persistente y compleja
+- Maridaje: Es un vino adecuado para acompañar barbacoas, carnes rojas, comida mexicana e italiana
 - Tipo de uva: Elaborado a partir de una cuidada selección de uvas Tinta de Toro, la variedad de Tempranillo adaptada a la D.O.Toro en barricas seleccionadas de roble que durante 4 meses
 - Consumo: Para disfrutar de sus cualidades óptimas recomendamos servirlo a 16ºC de temperatura y guardarlo en lugar fresco y seco
-- Gusto: En boca se manifiesta como un vino complejo, largo y persistente, es equilibrado, pulido y con taninos “redondos”, tiene una alta percepción de fruta y una retronasal persistente y compleja
 - Apariencia: Vino tinto de color rojo picota profundo, cubierto, con ribete púrpura y sin evolución
-- Maridaje: Es un vino adecuado para acompañar barbacoas, carnes rojas, comida mexicana e italiana
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01ET9V90M{{</world>}}

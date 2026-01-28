@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Posee un aroma fresco, donde predominan las notas cítricas y frutales de la naranja y el limón
 - Se recomienda degustar A Miña en un Gin&Tonic tradicional: 50ml de A Miña Orixe; 200ml de tónica; Twist de Limón; Copa con mucho hielo
-- A Miña ofrece una sensación fresca y explosiva en boca, potenciada por las notas cítricas y frutales de la naranja y el limón; además, denota un marcado carácter herbal procedente de su botánico principal, el pimiento de Padrón
 - A Miña es una ginebra con color blanco platino
+- Posee un aroma fresco, donde predominan las notas cítricas y frutales de la naranja y el limón
 - A Miña Orixe es una ginebra con esencia gallega; su significado es "Mi origen", y está destilada con auténticos pimientos de Padrón
+- A Miña ofrece una sensación fresca y explosiva en boca, potenciada por las notas cítricas y frutales de la naranja y el limón; además, denota un marcado carácter herbal procedente de su botánico principal, el pimiento de Padrón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CTHHBH8S{{</world>}}

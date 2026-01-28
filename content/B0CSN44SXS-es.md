@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Manga larga
 - Cuello en V
+- Manga larga
 - PEPE JEANS KENDALL LEAF GREEN Ladies M
 
 [🛒 Comprar!!!]({{< param buyurl >}})

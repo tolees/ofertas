@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un lienzo en blanco para la expresión propia
 - Nos hemos unido a la Better Cotton Initiative para mejorar el cultivo de algodón en todo el mundo
+- Un lienzo en blanco para la expresión propia
 - Este producto es original Levis
 - Nos hemos unido a la Better Cotton Initiative para mejorar el cultivo de algodón en todo el mundo
 - Un básico versátil para completar cualquier conjunto

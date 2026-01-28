@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Infusionado con Aceites Esenciales Naturales.
 - Hasta 70 días de frescor.
 - Spray Automático Active Fresh: nuestra nueva y mejor teconologia sin aerosol.
+- Infusionado con Aceites Esenciales Naturales.
 - Libre de ftalatos, propulsores y colorantes.
 - El packaging puede variar
 

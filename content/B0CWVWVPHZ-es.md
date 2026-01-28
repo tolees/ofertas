@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ultra Go
-- Almohada para el talón
 - MF refrigerado por aire
+- Almohada para el talón
 - Slip-Ins
 - Flex
 

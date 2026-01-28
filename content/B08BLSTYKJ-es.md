@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Está completamente elaborada en piel granulada, el cuero de calidad que con el paso del tiempo
-- Lleva nuestro logotipo de los dos caballos, que representa la resistencia y calidad de los artículos de Levis
 - Cartera con un estilo clásico que no pasa de moda, adecuado para organizar y proteger tus cosas
+- Lleva nuestro logotipo de los dos caballos, que representa la resistencia y calidad de los artículos de Levis
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08BLSTYKJ{{</world>}}

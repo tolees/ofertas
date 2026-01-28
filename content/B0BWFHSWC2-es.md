@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- PROTECCIÓN DE LUBRICANTES ADICIONALES*: lubricación extra de polímeros para un afeitado sin esfuerzo, *comparados con el gel Gillette Classic
 - PROTECCIÓN COMPLETA CONTRA LA IRRITACIÓN: La gama Gillette Series protege la piel sensible de cortes, ardor, escozor, enrojecimiento y tirantez
+- PROTECCIÓN DE LUBRICANTES ADICIONALES*: lubricación extra de polímeros para un afeitado sin esfuerzo, *comparados con el gel Gillette Classic
 - UNA FRAGANCIA FRESCA: Descubre una fragancia limpia, fresca e invernal que dejará tu piel fresca y lista para afrontar el día
 - LOS ALIADOS PERFECTOS: Saca el máximo partido a tu afeitado con la gama Gillette Series, que ayuda a reducir la irritación tras el afeitado
 - REFRESCA PARA CALMAR: El gel de afeitar refrescante Gillette Series tiene un efecto refrescante para calmar tu piel mientras te afeitas

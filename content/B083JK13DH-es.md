@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bain Nutri-Fortifiant de la gama Genesis es un champú fortificante anti-caída que limpia delicadamente y previene la caída del cabello normal o seco por rotura del cepillado. Enriquecido con células nativas de edelweiss y raíz de jengibre para conservar el colágeno
 - Aplicar sobre cabello húmedo. Distribuir en forma de estrella en el cuero cabelludo, masajeando para generar espuma y liberar las notas aromáticas, mientras se distribuye al resto del cabello. Emulsionar y aclarar
+- Bain Nutri-Fortifiant de la gama Genesis es un champú fortificante anti-caída que limpia delicadamente y previene la caída del cabello normal o seco por rotura del cepillado. Enriquecido con células nativas de edelweiss y raíz de jengibre para conservar el colágeno
 - Limpia eficazmente y purifica el cuero cabelludo desde la raíz para eliminar las partículas de contaminación del cuero cabelludo y el pelo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

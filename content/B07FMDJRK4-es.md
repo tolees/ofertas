@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Hecho de material duradero
-- Cuenta con un diseño ligero
 - Bufanda de punto
+- Cuenta con un diseño ligero
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07FMDJRK4{{</world>}}

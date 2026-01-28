@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fórmula lavable de manos y de la mayor parte de tejidos y superficies no porosas
-- 12 tonalidades
 - Lavables de tejidos y superficies no porosas
+- 12 tonalidades
+- Fórmula lavable de manos y de la mayor parte de tejidos y superficies no porosas
 - Ceras redondas y envueltas individualmente con papel protector
 - Colores vivos y cubrientes
 

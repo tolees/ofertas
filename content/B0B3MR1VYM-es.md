@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ideal para cualquier ocasión: antes de una cita o reunión, después de una comida, en el coche o en su escritorio
-- Si hay algo que caracteriza a Smint es la forma triangular de sus pequeños y potentes caramelos comprimidos con golpe de frescor instantáneo
-- Peso: 35.0 grams
-- Smint Tin sin azúcar con sabor bubblefresh; el producto contiene 12x35g de caramelos comprimidos
-- Disfruta de su delicioso sabor, proveniente de ingredientes naturales; este producto es sin azúcar y sin gluten
 - El envase práctico cabe en cualquier bolso o bolsillo del pantalón; fácil de usar y listo para darte ese golpe de frescor y sabor que necesitas
+- Ideal para cualquier ocasión: antes de una cita o reunión, después de una comida, en el coche o en su escritorio
+- Disfruta de su delicioso sabor, proveniente de ingredientes naturales; este producto es sin azúcar y sin gluten
+- Si hay algo que caracteriza a Smint es la forma triangular de sus pequeños y potentes caramelos comprimidos con golpe de frescor instantáneo
+- Smint Tin sin azúcar con sabor bubblefresh; el producto contiene 12x35g de caramelos comprimidos
+- Peso: 35.0 grams
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B3MR1VYM{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- SEGURO Y ECOLÓGICO: este cargador ha sido sometido a riguroso proceso de control de calidad que garantiza la seguridad de tus dispositivos. Incluye una garantía de producto de 2 años y está fabricado de forma sostenible con material PCR.
 - COMPACTO Y PERFECTO PARA VIAJAR: este resistente cargador de pared cuenta con un diseño compacto que queda fijo y plano en la pared. Pequeño y ligero, es el cargador perfecto para usar en casa o sobre la marcha en cualquier parte.
-- 67 W USANDO UN SOLO PUERTO: llena la batería de tu MacBook o cualquier otro portátil con USB-C PD y obtén 67 W de salida si cargas un solo dispositvo a la vez. Esta versátil solución te permite cargar cualquier dispositivo con la máxima eficacia.
+- SEGURO Y ECOLÓGICO: este cargador ha sido sometido a riguroso proceso de control de calidad que garantiza la seguridad de tus dispositivos. Incluye una garantía de producto de 2 años y está fabricado de forma sostenible con material PCR.
 - CARGA RÁPIDA: USB-C Power Delivery 3.0 carga a gran velocidad un iPhone 14 Pro y un Samsung Galaxy S23 Ultra (de 0 al 50 % en 25 minutos y en 23 minutos respectivamente). PPS regula de forma dinámica el voltaje de salida para una carga óptima.
 - CARGA MÚLTIPLE SIMULTÁNEA: comparado con otros modelos provistos de un puerto único, este cargador está provisto de 3 puertos USB-C (25 W, 20 W y 20 W respectivamente) para que puedas llenar por carga rápida tu iPhone, Galaxy y tableta entre otros.
+- 67 W USANDO UN SOLO PUERTO: llena la batería de tu MacBook o cualquier otro portátil con USB-C PD y obtén 67 W de salida si cargas un solo dispositvo a la vez. Esta versátil solución te permite cargar cualquier dispositivo con la máxima eficacia.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CWH4ND6V{{</world>}}

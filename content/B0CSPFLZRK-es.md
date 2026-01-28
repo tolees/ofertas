@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Corte recto
 - Fabricado con un mínimo de 20% de materiales reciclados y otros tejidos sostenibles
 - Estilo de tiro regular
-- Corte recto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CSPFLZRK{{</world>}}

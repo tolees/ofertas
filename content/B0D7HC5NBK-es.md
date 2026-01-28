@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ojales de ventilación
 - Cierre de en la parte trasera
+- Ojales de ventilación
 - Costuras texturizadas en la visera
 - Botón en la corona
 

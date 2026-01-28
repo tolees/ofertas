@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Empeine de malla
 - Forro textil
-- Suela y mediasuela de EVA
-- Horma clásica
 - Contiene al menos un 20% de material reciclado
+- Horma clásica
+- Suela y mediasuela de EVA
 - Forro textil
 
 [🛒 Comprar!!!]({{< param buyurl >}})

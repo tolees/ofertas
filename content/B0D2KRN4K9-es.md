@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material exterior de cuero y ante
 - Zapatillas con diseño urbano deportivo de la marca PUMA
 - Suela de goma
 - Cierre con cordones para ajuste cómodo
+- Material exterior de cuero y ante
 - Con el logotipo de PUMA visible
 
 [🛒 Comprar!!!]({{< param buyurl >}})

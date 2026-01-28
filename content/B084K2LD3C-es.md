@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mascarilla matizadora intensiva anti-efecto anaranjado para pelo con mechas, rubio, decolorado o gris
-- Fórmula con pigmentos violeta que neutralizan al instante tonos anaranjados y amarillentos, En caso de contacto con los ojos lavar inmediatamente con abundante agua
-- Contenido: 1 x LOreal Paris Elvive Color Vive Mascarilla Intensiva Violeta Matizadora, Cantidad: 250 ml
 - Neutraliza al instante el tono anaranjado y amarillento no deseado, Cuida y nutre intensamente cabellos teñidos y decolorados
+- Fórmula con pigmentos violeta que neutralizan al instante tonos anaranjados y amarillentos, En caso de contacto con los ojos lavar inmediatamente con abundante agua
+- Mascarilla matizadora intensiva anti-efecto anaranjado para pelo con mechas, rubio, decolorado o gris
+- Contenido: 1 x LOreal Paris Elvive Color Vive Mascarilla Intensiva Violeta Matizadora, Cantidad: 250 ml
 - Utiliza la mascarilla una vez por semana después del Champú violeta, Aplícala en el pelo mojado dejando actuar por 5 minutos y después aclarar con abundante agua
 
 [🛒 Aquí!!!]({{< param buyurl >}})

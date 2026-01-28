@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estructura de aluminio para una durabilidad óptima
 - Diseño compacto 60% para una experiencia de juego portátil y sencilla
+- Estructura de aluminio para una durabilidad óptima
 - Memoria integrada y preajustes de iluminación
 - Teclas de PBT de doble inyección con funciones secundarias impresas en el lateral
 

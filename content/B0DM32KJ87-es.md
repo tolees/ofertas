@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Parte superior de ante y sintético
-- Suela exterior de goma con tacos
 - Logotipo N sobredimensionado
+- Suela exterior de goma con tacos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DM32KJ87{{</world>}}

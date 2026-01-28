@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Carrera RC
-- Para grandes y pequeños
-- Para los niños
 - RC
 - Diversión única en las carreras en casa
+- Para grandes y pequeños
+- Carrera RC
+- Para los niños
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CVRQ8Y85{{</world>}}

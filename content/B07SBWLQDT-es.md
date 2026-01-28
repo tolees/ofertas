@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bota baja
 - Marca PUMA en la lengüeta
-- Parte superior textil con base de malla
 - Entresuela de EVA para mayor comodidad
+- Parte superior textil con base de malla
+- Bota baja
 - Suela exterior de goma que no deja marcas para mayor agarre.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

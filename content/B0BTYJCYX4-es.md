@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela Traxion
 - El empeine contiene al menos un 50% de material reciclado
-- Compra 1 talla más grande
 - Plantilla OrthoLite
+- Suela Traxion
+- Compra 1 talla más grande
 - Plantilla Adifit que mide la longitud del pie para asegurar un ajuste perfecto
 - Mediasuela de EVA
 

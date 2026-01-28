@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Bolsillos laterales
 - 100% nylon
-- Capucha oculta
 - Cremallera completa
 - Logos bordados
-- Bolsillos laterales
+- Capucha oculta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00UN9A8W8{{</world>}}

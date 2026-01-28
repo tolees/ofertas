@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- MÁS TIEMPO PARA LO IMPORTANTE: la barbacoa para acampadas se entrega totalmente montada; limpieza rápida y sencilla después del uso gracias a una bandeja antigrasa desmontable y apta para lavavajillas
-- PARRILLA AMPLIA SIN LLAMARADAS: a pesar de su compacidad, la pequeña parrilla de gas de 48 x 26 cm ofrece una parrilla de buen tamaño de hierro fundido esmaltado; cubrellamas integrado en la parrilla
 - EQUIPAMIENTO DE PRIMERA: piezoencendido, tapa con termómetro, parrilla de hierro fundido esmaltado, peso 13 kg, med. cerrada 59x39x36 cm, abierta 59x46x61 cm, opcional con manguera y regulador de gas
-- COMPACTA Y POTENTE: el potente quemador de acero inoxidable de 2,4 kW proporciona un calor uniforme a cada rincón de la parrilla; barbacoa portátil compacta para balcón, pícnic y acampadas
+- PARRILLA AMPLIA SIN LLAMARADAS: a pesar de su compacidad, la pequeña parrilla de gas de 48 x 26 cm ofrece una parrilla de buen tamaño de hierro fundido esmaltado; cubrellamas integrado en la parrilla
 - USO CON LA BOMBONA R907 DE CAMPINGAZ: la barbacoa de gas se utiliza con la bombona R907 y puede usarse en todos lados gracias a los distribuidores europeos; busca al tuyo en campingaz.com/gasfinder
+- MÁS TIEMPO PARA LO IMPORTANTE: la barbacoa para acampadas se entrega totalmente montada; limpieza rápida y sencilla después del uso gracias a una bandeja antigrasa desmontable y apta para lavavajillas
+- COMPACTA Y POTENTE: el potente quemador de acero inoxidable de 2,4 kW proporciona un calor uniforme a cada rincón de la parrilla; barbacoa portátil compacta para balcón, pícnic y acampadas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08N1HZ99Y{{</world>}}

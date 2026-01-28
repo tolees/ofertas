@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Costuras anatómicas en la puntera
 - Puños de canalé
 - Tejido fino y ligero
 - Refuerzo en el arco plantar
 - Tres pares por paquete
 - 47% algodón / 43% poliéster reciclado / 8% nailon reciclado / 2% elastán
+- Costuras anatómicas en la puntera
 - Calcetines tobilleros que apenas asoman por encima de las zapatillas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

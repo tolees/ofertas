@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mayor control y comodidad: gracias al bajo nivel de vibraciones y el inicio del corte suave
-- Cortar sin esfuerzo: la sierra de jardín Keo corta ramas de hasta 80 mm con la cuchilla de precisión suiza
-- Trabajo fácil con una sola mano: gracias a la empuñadura «A Grip» desmontable que sujeta la rama
-- Incluye: Keo, 1 batería de 2,0 Ah, cargador AL 18V 20, 1 cuchilla de precisión suiza de madera, en caja
 - Amplia gama de tareas en el hogar y el jardín: una perfecta herramienta multiusos gracias a las hojas de sierra intercambiables
+- Mayor control y comodidad: gracias al bajo nivel de vibraciones y el inicio del corte suave
+- Incluye: Keo, 1 batería de 2,0 Ah, cargador AL 18V 20, 1 cuchilla de precisión suiza de madera, en caja
+- Trabajo fácil con una sola mano: gracias a la empuñadura «A Grip» desmontable que sujeta la rama
+- Cortar sin esfuerzo: la sierra de jardín Keo corta ramas de hasta 80 mm con la cuchilla de precisión suiza
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B097C5RJG9{{</world>}}

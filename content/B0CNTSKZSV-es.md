@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Borrador Corrector multiusos: borra ojeras y bolsas, corrige imperfecciones, ilumina la mirada, y define el rostro al instante
 - Borrador Corrector Multiusos: Gracias a su fórmula con Bayas de Goji y Haloxyl, hidrata hasta 12h el contorno de ojos, trata y reafirma ojeras y bolsas; Su aplicador en esponja con miles de microfibras cubre fácilmente con precisión y consigue una cobertura modulable que no reseca ni cuartea
+- Borrador Corrector multiusos: borra ojeras y bolsas, corrige imperfecciones, ilumina la mirada, y define el rostro al instante
 - Beneficios:​ La Máscara de pestañas High Sky Lash Sensational, gracias a su fórmula infusionada con extracto de bambú y su Cepillo Cónico flexible te permite alcanzar todas tus pestañas, hasta las más cortas, para lograr una longitud sin límites + volumen redefinido. ​
-- Aplicación: ​ Primero aplica el borrador corrector multiusos para cubrir ojeras, imperfecciones, iluminar y definir el rostro;​ Después, aplica la máscara de pestañas desde la raíz hasta las puntas con movimientos ascendentes en zig-zag para repartir la fórmula en todas las pestañas
 - Máscara de pestañas Lash Sensational Sky High: para unas Pestañas con Altura desde cada ángulo​ ​
+- Aplicación: ​ Primero aplica el borrador corrector multiusos para cubrir ojeras, imperfecciones, iluminar y definir el rostro;​ Después, aplica la máscara de pestañas desde la raíz hasta las puntas con movimientos ascendentes en zig-zag para repartir la fórmula en todas las pestañas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CNTSKZSV{{</world>}}

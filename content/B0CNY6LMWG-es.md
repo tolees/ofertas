@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño liviano
 - Color: negro
 - Tipo de producto: ZAPATOS
+- Diseño liviano
 - Talla: 31 EU
 - Marca: Skechers
 

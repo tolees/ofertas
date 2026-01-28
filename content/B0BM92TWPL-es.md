@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Espalda con botón
 - Top Curvy Print
+- Espalda con botón
 - Tejido elástico
 
 [🛒 Visítala!!!]({{< param buyurl >}})

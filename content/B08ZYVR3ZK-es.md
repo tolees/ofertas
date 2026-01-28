@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Chaqueta Softshell
 - Capucha con cordón de ajuste
 - Puños acanalados
+- Chaqueta Softshell
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08ZYVR3ZK{{</world>}}

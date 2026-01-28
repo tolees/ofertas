@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Camiseta básica monocromática
 - Material de calidad cómodo
+- Camiseta básica monocromática
 - Cuello en V, manga corta
 
 [🛒 Aquí!!!]({{< param buyurl >}})

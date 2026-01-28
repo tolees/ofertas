@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Chaqueta con capucha
-- Chaqueta ligera
 - Cremallera completa
+- Chaqueta ligera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09SM35R3Q{{</world>}}

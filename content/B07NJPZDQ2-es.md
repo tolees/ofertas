@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tipo de tacón: Plano
-- Material exterior: Lona
-- Material de la suela: Goma
-- Cierre: Cordones
 - Revestimiento: Tela
+- Tipo de tacón: Plano
+- Material de la suela: Goma
+- Material exterior: Lona
+- Cierre: Cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07NJPZDQ2{{</world>}}

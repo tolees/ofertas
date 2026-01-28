@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Escapadas de infarto
-- Gallinas, reuníos
 - Sigilo con un toque divertivo
+- Gallinas, reuníos
 - Modo cooperativo caótico
+- Escapadas de infarto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FFHBDDVC{{</world>}}

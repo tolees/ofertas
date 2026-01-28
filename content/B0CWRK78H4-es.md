@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PROTECCIÓN | El Allantoin y el Beeswax de nuestra fórmula proporcionan una suavidad e hidratación intensa en la piel ya que son ingredientes super protectores que además ayudan a la cicatrización de heridas
-- IDEAL PARA TI | Todo tipo de pieles, y su uso está indicado para cualquier edad
 - CALMANTE | Gracias a las propiedades antiinflamatorias y calmantes del Bisabolol, nuestros bálsamos son ideales para aquellos momentos en los que necesitamos un cuidado extra para nuestros labios
+- PROTECCIÓN | El Allantoin y el Beeswax de nuestra fórmula proporcionan una suavidad e hidratación intensa en la piel ya que son ingredientes super protectores que además ayudan a la cicatrización de heridas
 - USO DIARIO | Puedes usarlo tantas veces como desees una hidratación adicional con un toque de color y un ligero sabor a cotton candy. También prepara tus labios como si de un canvas se tratase para que a continuación puedas aplicar tu pintalabios favorito
 - FÓRMULA ORIGINAL | La fórmula de nuestros bálsamos está enriquecida con principios activos que proporcionan una hidratación profunda. De manera inmediata obtienes el aspecto soñado con unos labios suaves y sanos, y un perfecto “no-makeup look”
+- IDEAL PARA TI | Todo tipo de pieles, y su uso está indicado para cualquier edad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CWRK78H4{{</world>}}

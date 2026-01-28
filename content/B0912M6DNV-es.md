@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Kilburn II está clasificado como protección contra salpicaduras según IPX2. Especialmente robusto y resistente
 - Kilburn II se carga en un abrir y cerrar de ojos. con 20 minutos de tiempo de carga tendrás 3 horas de tiempo de juego portátil
+- Este aventurero utiliza True estereofónico, una forma única de sonidos multidireccionales de Marshall. Experimenta un sonido absoluto de 360°, que es óptimo desde cualquier posición
 - Kilburn II dispone de una función multihost que te permite cambiar fácilmente entre dos dispositivos Bluetooth
 - Kilburn II pesa solo 2,5 kg y ofrece más de 20 horas de reproducción con una sola carga. Gracias a su tamaño compacto y a su correa inspirada en la guitarra eléctrica, es el acompañante perfecto
 - Potencia (W): 8.0 watts; Fuente de alimentación: Batería
-- Kilburn II está clasificado como protección contra salpicaduras según IPX2. Especialmente robusto y resistente
-- Este aventurero utiliza True estereofónico, una forma única de sonidos multidireccionales de Marshall. Experimenta un sonido absoluto de 360°, que es óptimo desde cualquier posición
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0912M6DNV{{</world>}}

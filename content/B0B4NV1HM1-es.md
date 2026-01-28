@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material interior: sintético
-- Ancho del zapato: medio
-- Cierre: goma
-- Material exterior: poliéster
 - Forma del tacón: sin tacón
+- Ancho del zapato: medio
+- Material exterior: poliéster
+- Material interior: sintético
+- Cierre: goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B4NV1HM1{{</world>}}

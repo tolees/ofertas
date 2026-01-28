@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Múltiples funciones divertidas a través de la aplicación para smartphone INSTAX PAL. Disparo remoto y a intervalos
-- Memória interna de 50 fotos.
 - Graba tus propios sonidos personalizados previos al disparo. Transfiere imágenes mediante Bluetooth a cualquier smartphone
+- Memória interna de 50 fotos.
+- Múltiples funciones divertidas a través de la aplicación para smartphone INSTAX PAL. Disparo remoto y a intervalos
 - Compatible con las impresoras instax Link y las cámaras híbridas, la aplicación instax Pal puede conectarse fácilmente con la serie instax Link (mini, SQUARE, WIDE) y las cámaras híbridas para imprimir fotos instax instantáneas.
 - Cámara digital súper compacta instax Pal
 

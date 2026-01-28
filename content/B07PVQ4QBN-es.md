@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 200 ml
-- Cactor de protección solar (SPF) de 50
 - Un producto de calidad Piz Buin
+- Cactor de protección solar (SPF) de 50
+- 200 ml
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07PVQ4QBN{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Un modelo distintivo
-- Reebok Zapatillas de tenis unisex REEBOK COURT RETRO NEGRO/BLANCO/UNLEASHEDGREEN
+- Trabilla en el talón
 - Logotipo en el talón deportivo inspirado en los archivos
 - Rayas laterales
-- Trabilla en el talón
+- Reebok Zapatillas de tenis unisex REEBOK COURT RETRO NEGRO/BLANCO/UNLEASHEDGREEN
+- Un modelo distintivo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CQRRC118{{</world>}}

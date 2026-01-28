@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Plantilla: Ortholite para mayor amortiguación
 - Color: negro
+- Plantilla: Ortholite para mayor amortiguación
 - Costura a lo largo de todo el borde para mayor durabilidad
 - Empeine: Piel vacuna
 - Suela/Características: EVA para mayor ligereza

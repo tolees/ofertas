@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PRETRATA LAS MANCHAS: 1. Aplica una pequeña cantidad de detergente líquido Ariel sobre las manchas 2. Frota suavemente 3. Empieza el lavado
+- INSTRUCCIONES PARA MEJORES RESULTADOS: llena el tapón verde con detergente líquido Ariel según el nivel de llenado del tambor y colócalo en el tambor, encima de la ropa
 - LIMPIEZA IMPECABLE + TOQUE DE FRESCOR DE LENOR: el detergente líquido Ariel proporciona una limpieza impecable, enriquecida con un toque de frescor de Lenor para una colada limpia y fragante
 - EDICIÓN LIMITADA COSTA MEDITERRÁNEA: descubre el detergente líquido Ariel Mediterránea, impregnado con los refrescantes aromas de Brisa Marina y Jazmín
 - La siguiente información se aplica a cada unidad del paquete
-- INSTRUCCIONES PARA MEJORES RESULTADOS: llena el tapón verde con detergente líquido Ariel según el nivel de llenado del tambor y colócalo en el tambor, encima de la ropa
 - PARA DISFRUTAR AL MÁXIMO, PRUEBA LA COMBINACIÓN PERFECTA: úsalo junto con las perlas de perfume Lenor para un frescor aún mayor
+- PRETRATA LAS MANCHAS: 1. Aplica una pequeña cantidad de detergente líquido Ariel sobre las manchas 2. Frota suavemente 3. Empieza el lavado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FC2DWLY5{{</world>}}

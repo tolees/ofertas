@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cubierta de cartón rígido con dos acabados distintos, brillante y mate. Espiral de plástico flexible y resistente, no se deforma.
 - 80 hojas de papel cuadriculado (5 x 5 mm).
 - Color rosa. Colección MILAN nata 624 since 1918, inspirada en los colores y diseño originales de las gomas de borrar MILAN, fabricadas en España desde 1918.
-- Cubierta de cartón rígido con dos acabados distintos, brillante y mate. Espiral de plástico flexible y resistente, no se deforma.
 - Cuaderno A5 con tapa dura y espiral.
 - Papel de 95 gr/m² de alta calidad, microperforado y con 2 taladros. Iniciador de corte para facilitar la separación de cada hoja.
 

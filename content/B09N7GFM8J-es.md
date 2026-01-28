@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Partes aptos para lavavajillas y cuerpo y la tapa en acero inoxidable
-- Potencia: 2000 Watts - 220-240V~ 50/60Hz
 - Capacidad de cubeta interna en esmalte: 3 Litros
 - Control de temperatura variable hasta 190 °C
 - Sistema de seguridad con botón de reinicio «RESTART»
+- Potencia: 2000 Watts - 220-240V~ 50/60Hz
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09N7GFM8J{{</world>}}

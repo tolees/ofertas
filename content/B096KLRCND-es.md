@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vegano
 - Plantilla de espuma viscoelástica
+- Vegano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B096KLRCND{{</world>}}

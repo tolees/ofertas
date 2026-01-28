@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Protección hasta 3 veces más efectiva ante la erosión del esmalte, en comparación con un dentífrico normal
 - La exclusiva tecnología antibacteriana de Oral-B con complejo de Flúor Stannous forma un escudo protector que protege ante la erosión del esmalte, elimina suavemente las manchas superficiales y refresca el aliento, incluso entre cepillados
-- Elimina suavemente las manchas superficiales
 - Pasta dentífrica de uso diario
+- Elimina suavemente las manchas superficiales
 - Sabor menta pura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

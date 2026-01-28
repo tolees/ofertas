@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Estuche de 23 cm x 9 cm x 7 cm fabricado en Poliéster.
-- Tamaño perfecto para llevarlo en la mochila o el carterón.
 - Dos compartimentos de cremallera para mejorar la organización.
+- Tamaño perfecto para llevarlo en la mochila o el carterón.
 - Asa lateral para colgarlo del pupitre.
 - De Joumma Bags.
 

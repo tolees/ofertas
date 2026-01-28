@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Upf 30
-- Peso 165 gr/mq
 - 4-way stretch
 - Con cintura
+- Peso 165 gr/mq
+- Upf 30
 - Dry Function
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- incluye un cojín para la comodidad del bebé cuando esté acostado y para apoyar la espalda del bebé en una posición sentada.
 - producto de alta calidad
 - cómoda colchoneta de actividades que crece con el bebé para estimular todos los sentidos
+- incluye un cojín para la comodidad del bebé cuando esté acostado y para apoyar la espalda del bebé en una posición sentada.
 - 3 posiciones de juego
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

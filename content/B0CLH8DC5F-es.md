@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Chicas
-- Nike
 - Silhouette: Other
+- Nike
+- Chicas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CLH8DC5F{{</world>}}

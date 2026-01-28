@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Philips AVENT Breast Milk Storage Cups, 6 Ounce
 - 6 Ounce
+- Philips AVENT Breast Milk Storage Cups, 6 Ounce
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00PF841GQ{{</world>}}

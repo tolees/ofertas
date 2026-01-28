@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tinte permanente
-- Cubre de manera fiable hasta el 100 % de las canas
 - Adecuado para todo tipo de cabello
+- Cubre de manera fiable hasta el 100 % de las canas
 - Color intenso y duradero
 
 [🛒 Visítala!!!]({{< param buyurl >}})

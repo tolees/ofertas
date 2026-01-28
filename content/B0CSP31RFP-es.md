@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Zapatillas deportivas/zapatillas de correr
-- Estilo retro
 - Micro perforaciones en la puntera
+- Estilo retro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CSP31RFP{{</world>}}

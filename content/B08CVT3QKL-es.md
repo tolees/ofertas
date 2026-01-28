@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Power for ALL 12V: La batería incluida es compatible con todos los productos de la gama verde Bosch Home & Garden con sistema de 12 V
 - Uso versátil en distintos materiales: El taladro/atornillador a batería se puede utilizar en proyectos que requieren atornillar o taladrar en madera, metal y plástico
 - Trabajar en lugares oscuros o poco iluminados: buena visibilidad incluso en cantos oscuros y lugares con iluminación deficiente gracias a la luz LED integrada en el taladro
 - Potencia y velocidad óptimas: Atornillado potente y taladrado rápido gracias a la caja de cambios de velocidades con 20 niveles de par
-- Power for ALL 12V: La batería incluida es compatible con todos los productos de la gama verde Bosch Home & Garden con sistema de 12 V
 - Las herramientas Easy de Bosch – una gran ayuda para pequeños proyectos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

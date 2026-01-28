@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - CALIDAD DEMOSTRADA: Desde 1985, esta marca de diseñador lleva demostrando por todo el mundo la calidad y la ligereza mediante una variedad de diseños en los míticos colores azul oscuro, blanco y rojo
 - DISEÑO : El estilo atemporal de este top es la base de conjunto smart-casual Esta camiseta también es adecuado como regalo
-- AJUSTE ADECUADO: Este polo minimalista de piqué elástico de algodón tiene un diseño depurado y un corte entallado
 - SENCILLO Y ELEGANTE: Esta camiseta destaca por su clásico cuello tipo polo y su material sostenible Los botones y el logotipo en el pecho completan el look
+- AJUSTE ADECUADO: Este polo minimalista de piqué elástico de algodón tiene un diseño depurado y un corte entallado
 - MATERIAL DE CALIDAD: Versátil polo confeccionado en 96 % algodón orgánico y 4 % elastano
 
 [🛒 Aquí!!!]({{< param buyurl >}})

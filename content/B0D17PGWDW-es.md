@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre de cremallera, cuello alto y capucha
-- Bolsillos para las manos con cremallera
 - CLIMAPROOF
 - Corte clásico
 - Dobladillo con cordón elástico ajustable
+- Bolsillos para las manos con cremallera
 - Exterior: 100% poliéster (reciclado); Interior: 100% poliéster (reciclado)
+- Cierre de cremallera, cuello alto y capucha
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D17PGWDW{{</world>}}

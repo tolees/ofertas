@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- 100% algodón
 - Logotipo en el cuarto, talón de contraste y suela bicolor de perfil bajo
 - Brady Chambray - Tenis clásicos icónicos de Pepe Jeans para hombre, fabricados en sarga de algodón fino
-- 100% algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B098FDGMYZ{{</world>}}

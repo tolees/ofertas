@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Construcción para relajar la vendimia
 - Embroidered Levi Branding
+- Construcción para relajar la vendimia
 - 100% algodón
 - LEATHER STRAP WITH BUCKLE CLOSURE
 

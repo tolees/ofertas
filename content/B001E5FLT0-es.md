@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mechero básico Zippo Original
 - Made in USA
+- Mechero básico Zippo Original
 - Se recomienda el usa de los consumibles Zippo para garantizar el funcionamiento óptimo del mechero
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

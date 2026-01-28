@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Medias de fútbol
+- Refuerzo en el arco plantar
+- Diseño acolchado
 - 56% poliéster (reciclado) / 40% algodón / 3% elastano / 1% poliamida (reciclada)
 - Tres pares por paquete
-- Refuerzo en el arco plantar
-- Medias de fútbol
-- Diseño acolchado
 - CLIMACOOL
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

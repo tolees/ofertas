@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Rodillo Wet Jalisco: acaba hasta con la suciedad más incrustada sin esfuerzo y ayuda a secar el suelo gracias a su material absorbente. Spray delantero de pulverización de agua en el cabezal para poder dosificar fácilmente el caudal de agua y adecuar la cantidad de agua al tipo de superficie.
-- Motor Digital Brushless: cuenta con una gran potencia de succión de 12 kPa que te ayudarán a eliminar la suciedad más difícil. 2 modos de limpieza: un modo TURBO con máxima succión constante y un modo ECO capaz de adaptarse a la suciedad que recoge.
 - Dos depósitos: un depósito de agua limpia de hasta 700 ml y un depósito de agua sucia de hasta 750 ml. Base de autolimpieza: ayuda a limpiar los cepillos de forma automática. Olvídate de la fregona y el cubo, pásate a FreeGo.
 - Friega y aspira de forma simultánea y acaba con toda la suciedad sin esfuerzo gracias a sus 60 W.
+- Motor Digital Brushless: cuenta con una gran potencia de succión de 12 kPa que te ayudarán a eliminar la suciedad más difícil. 2 modos de limpieza: un modo TURBO con máxima succión constante y un modo ECO capaz de adaptarse a la suciedad que recoge.
+- Rodillo Wet Jalisco: acaba hasta con la suciedad más incrustada sin esfuerzo y ayuda a secar el suelo gracias a su material absorbente. Spray delantero de pulverización de agua en el cabezal para poder dosificar fácilmente el caudal de agua y adecuar la cantidad de agua al tipo de superficie.
 - Gracias a su potente batería de 29,6 V consigue una autonomía de hasta 35 minutos, para que puedas limpiar todo tu hogar sin necesidad de volver a recargarlo. Cuenta con un tiempo de carga de hasta 4.5 horas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

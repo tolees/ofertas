@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Material exterior: parte superior con varios paneles
-- Forro de malla para mayor comodidad
-- Cuello y lengüeta acolchados con espuma para mayor comodidad y apoyo
 - __Material exterior: parte superior de cuero, nobuck o malla [dependiendo del color]
+- Cuello y lengüeta acolchados con espuma para mayor comodidad y apoyo
+- Forro de malla para mayor comodidad
 - Logotipo de TPR Quartier moldeado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Vaqueros de cinco bolsillos con detalles icónicos
 - Gracias al porcentaje elástico, este tejido vaquero es perfecto para vaqueros ajustados
+- Vaqueros de cinco bolsillos con detalles icónicos
 - Vaqueros ajustados para una silueta delgada
 
 [🛒 Aquí!!!]({{< param buyurl >}})

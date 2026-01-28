@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sistema «Semi-Auto Feed»: afloja el hilo del cortabordes automáticamente al conectar la herramienta y proporciona siempre una longitud
-- Incluye: Cortabordes ART 23 SL y bobina de hilo
-- Buena calidad de corte: 280 W y 12.500 r.p.m. permiten un corte rápido y limpio del césped
-- Eje metálico que contribuye a una mejor vida útil
-- Práctico, gracias a su sistema de doble empuñadura para facilitar el trabajo
 - Cortabordes ART 23 SL - Potente cortabordes de fácil manejo
+- Incluye: Cortabordes ART 23 SL y bobina de hilo
+- Práctico, gracias a su sistema de doble empuñadura para facilitar el trabajo
+- Eje metálico que contribuye a una mejor vida útil
+- Sistema «Semi-Auto Feed»: afloja el hilo del cortabordes automáticamente al conectar la herramienta y proporciona siempre una longitud
+- Buena calidad de corte: 280 W y 12.500 r.p.m. permiten un corte rápido y limpio del césped
 - Fácil manejo: motor de fácil montaje y un buen equilibro de las herramientas permiten un buen manejo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

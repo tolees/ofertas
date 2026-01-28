@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 62% algodón / 34% poliéster reciclado / 3% elastán / 1% nailon reciclado
-- Refuerzo en el arco plantar
-- Amortiguación en la planta, el talón y la puntera
 - Costuras anatómicas en la puntera
+- Amortiguación en la planta, el talón y la puntera
+- Refuerzo en el arco plantar
+- 62% algodón / 34% poliéster reciclado / 3% elastán / 1% nailon reciclado
 - Seis pares por paquete
 - Largo hasta el tobillo
 

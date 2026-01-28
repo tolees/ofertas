@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lavar en frío, no usar secadora
-- Lima
-- Cordones
 - Futbol Sala
+- Lima
+- Lavar en frío, no usar secadora
+- Cordones
 - 65% Piel sintética + 35% Textil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

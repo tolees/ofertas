@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuenta con vivo elástico en puños
-- Chubasquero de cuello alto con cremallera frontal
 - Bolsillos delanteros sin cremallera
+- Chubasquero de cuello alto con cremallera frontal
+- Cuenta con vivo elástico en puños
 - Ofrece comodidad y libertad de movimiento
 
 [🛒 Aquí!!!]({{< param buyurl >}})

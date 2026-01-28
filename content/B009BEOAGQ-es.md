@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Caja redonda de acero con esfera Champagne
 - Correa de acero inoxidable dorada
 - Caja de 38 mm, pulsera de 18 mm de ancho, cristal mineral, movimiento de cuarzo multifunción, importado
+- Caja redonda de acero con esfera Champagne
 - Resistente al agua hasta 100 m: puede llevarse bañándose, nadando o practicando snorkel y buceo poco profundo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

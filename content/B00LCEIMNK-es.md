@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Acción anticaspa: La innovadora fórmula de este champú anticaspa contiene eficaces ingredientes como Ácido Salicílico y Piroctona Olamina para ayudar a combatir la caspa
-- Uso diario: Desarrollado por dermatólogos, el uso regular de este champú Neutrogena ayuda a mantener el pelo libre de caspa, dejándolo limpio y fresco durante más tiempo
-- Eficaz desde el primer lavado: Al aplicarse en el pelo mojado, crea una intensa espuma, lo cual reduce la formación de escamas y el exceso de grasa en el cuero cabelludo
 - Para cabello graso: Clínicamente probado, el champú para pelo graso de Neutrogena elimina el exceso de grasa y alivia el picor y la descamación del cuero cabelludo
+- Eficaz desde el primer lavado: Al aplicarse en el pelo mojado, crea una intensa espuma, lo cual reduce la formación de escamas y el exceso de grasa en el cuero cabelludo
+- Uso diario: Desarrollado por dermatólogos, el uso regular de este champú Neutrogena ayuda a mantener el pelo libre de caspa, dejándolo limpio y fresco durante más tiempo
+- Acción anticaspa: La innovadora fórmula de este champú anticaspa contiene eficaces ingredientes como Ácido Salicílico y Piroctona Olamina para ayudar a combatir la caspa
 - Detalles del envío: Neutrogena Champú T/Gel Anticaspa, especialmente formulado para el cabello graso, elimina el exceso de grasa y combate la caspa, 2 x 250 ml
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

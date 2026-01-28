@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre adaptable
 - Tenis Gore And Strap con malla mono, pintura en la entresuela y cisne S
 - Lavable a máquina
+- Cierre adaptable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DNV3W8TG{{</world>}}

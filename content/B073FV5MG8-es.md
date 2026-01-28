@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - objetivo equipado con el motor regulador de torsión HLD – potencia y estabilidad
-- Compatible con la TAMRON TAP-in ConsoleTM
-- VC - estabilización de imagen con función shift
 - Di - óptica digital para formato completo
+- VC - estabilización de imagen con función shift
+- Compatible con la TAMRON TAP-in ConsoleTM
 - Nueva construcción óptica que incluye lentes LD (Low Dispersion) y dos elementos XLD (eXtra Low Dispersion). Revestimiento BBAR (Broad-Band Anti-Reflection)
 - Óptica digital con distancia focal variable ultra-gran-angular para cámaras DSLR con sensor Full Frame 24x36
 

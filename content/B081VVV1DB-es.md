@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello, dobladillo y puños plegables
 - Puños acanalados
+- Cuello, dobladillo y puños plegables
 - Cuello redondo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

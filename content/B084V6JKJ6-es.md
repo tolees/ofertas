@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【 COMODIDAD 】Ideal para utilizarlo tanto en oficinas y despachos como en hogares, campings, escuelas…etc. El adaptador de la bomba se adapta a la mayoría de jarras de agua estándar y se puede cambiar a una jarra diferente con facilidad.
-- 【 FUNCIONALIDAD 】Dosificador para garrafas agua permite llenar vaso, cazo, hervidor de forma rápida sin levantar pesadas botellas, sin quitar el tapón de la botella gracias al sifón instalado de forma permanente en nuestro bidón
-- 【 DISPENSADOR DE AGUA 】Un dispensador de agua manual perfecto para servir el agua embotellada con total comodidad y facilidad. Este práctico tapón dispensador se enrosca en la boca de la garrafa y se presiona para extraer el agua del envase hasta el vaso, ya que dispone de un eficaz sistema de bombeo.
 - 【 COMPATIBILIDAD 】Cuenta con adaptadores para garrafas con boca de diámetro de 48mm y 38mm. (3,8cm y 4,8 cm)
+- 【 COMODIDAD 】Ideal para utilizarlo tanto en oficinas y despachos como en hogares, campings, escuelas…etc. El adaptador de la bomba se adapta a la mayoría de jarras de agua estándar y se puede cambiar a una jarra diferente con facilidad.
+- 【 DISPENSADOR DE AGUA 】Un dispensador de agua manual perfecto para servir el agua embotellada con total comodidad y facilidad. Este práctico tapón dispensador se enrosca en la boca de la garrafa y se presiona para extraer el agua del envase hasta el vaso, ya que dispone de un eficaz sistema de bombeo.
+- 【 FUNCIONALIDAD 】Dosificador para garrafas agua permite llenar vaso, cazo, hervidor de forma rápida sin levantar pesadas botellas, sin quitar el tapón de la botella gracias al sifón instalado de forma permanente en nuestro bidón
 - 【 FÁCIL USO 】Para llenar su vaso, accione el cabezal de la bomba tantas veces como sea necesario, permitiendo así el flujo de agua a través del dispensador. Asegúrese de que el dispensador esté firmemente acoplado y apretado al recipiente (garrafa, barril, etc.).
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

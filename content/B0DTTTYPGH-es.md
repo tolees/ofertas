@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Base duradera, ligera y resistente al sudor y transferencia; piel radiante, sin brillos, con efecto mate que dura todo el día
+- Su fórmula de cobertura modulable y enriquecida con bayas de goji y haloxyl para ralentizar el envejecimiento, permite un acabado uniforme e hidratado durante 12h sin cuartearse
+- Contenido: 1x Maybelline New York, Corrector borrador multiusos, con cobertura modulable, en tono 01 Light, 6 ml
+- Base mate luminosa con duración de hasta 30 horas*, cobertura modulable y sensación ligera en la piel; *Autoevaluación 120 sujetos
+- Aplicación: Al utilizar el producto por primera vez, gira el cuello del aplicador 8 veces hasta que la fórmula aparezca en la esponja, y aplica la fórmula sobre el contorno de los ojos, las imperfecciones o pómulos para definir e iluminar el rostro
 - El Corrector Borrador multiusos difumina las ojeras y bolsas, corrige las imperfecciones y define e ilumina el rostro al instante
 - Duración hasta 30h; tecnología ligera como el aire
-- Su fórmula de cobertura modulable y enriquecida con bayas de goji y haloxyl para ralentizar el envejecimiento, permite un acabado uniforme e hidratado durante 12h sin cuartearse
 - Contenido: 1x Maybelline New York Base de Maquillaje Lumi Matte Tono 115
+- Base duradera, ligera y resistente al sudor y transferencia; piel radiante, sin brillos, con efecto mate que dura todo el día
 - Aplicador en esponja, recubierto por miles de microfibras suaves para modular la cobertura y conseguir un rostro unificado
 - Aplícala en el rostro y difumínala con las yemas de los dedos o con una esponja
-- Aplicación: Al utilizar el producto por primera vez, gira el cuello del aplicador 8 veces hasta que la fórmula aparezca en la esponja, y aplica la fórmula sobre el contorno de los ojos, las imperfecciones o pómulos para definir e iluminar el rostro
-- Base mate luminosa con duración de hasta 30 horas*, cobertura modulable y sensación ligera en la piel; *Autoevaluación 120 sujetos
-- Contenido: 1x Maybelline New York, Corrector borrador multiusos, con cobertura modulable, en tono 01 Light, 6 ml
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DTTTYPGH{{</world>}}

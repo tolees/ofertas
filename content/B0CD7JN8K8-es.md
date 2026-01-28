@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Esfera negra
+- Grosor de la caja de 12,5 mm / Diámetro de la caja: 46 mm
 - Correa de piel negra
 - Movimiento multifunción de cuarzo
 - 5 ATM de resistencia al agua Se puede utilizar en la ducha o para nadar, pero no para bucear en aguas profundas
-- Grosor de la caja de 12,5 mm / Diámetro de la caja: 46 mm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CD7JN8K8{{</world>}}

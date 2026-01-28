@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Estos 4 personajes están representados en figuras de metal fundido a presión de 7 centímetros con alto nivel de detalle tanto en el diseño como en la pintura.
-- Licencia 100% oficial
 - Figuras coleccionables, con caja expositora con diorama perfecto para exponer, decorar, para coleccionistas o jugadores.
 - Adecuado a partir de 3 años
 - Sumérgete en el mundo de Bob Esponja con este set con 4 de los principales personajes de la serie de televisión.
+- Licencia 100% oficial
 - En el set encontrarás algunos personajes icónicos de la serie de televisión de Nickelodeon: Bob Esponja, Patricio Estrella, Calamardo Tentáculos, Eugene H. Cangrejo (Don Cangrejo).
 
 [🛒 Aquí!!!]({{< param buyurl >}})

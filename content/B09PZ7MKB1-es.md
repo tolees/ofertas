@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Parte superior de malla atlética suave
+- Suela de tracción de goma súper flexible
 - Entresuela Flex Lite que absorbe los golpes
 - Skechers Plantilla acolchada de espuma viscoelástica refrigerada por aire
-- Suela de tracción de goma súper flexible
 - Diseño deportivo con cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

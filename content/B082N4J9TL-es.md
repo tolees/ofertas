@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Espuma viscoelástica refrigerada por aire
-- Goga Mat Arch
 - Ajuste clásico
 - Ropa de calle
+- Espuma viscoelástica refrigerada por aire
+- Goga Mat Arch
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B082N4J9TL{{</world>}}

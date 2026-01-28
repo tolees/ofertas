@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte entallado
-- Logotipo de las 3 bandas en el pecho
 - Cuello redondo
+- Logotipo de las 3 bandas en el pecho
+- Corte entallado
 - 93% algodón / 7% elastano
 
 [🛒 Comprar!!!]({{< param buyurl >}})

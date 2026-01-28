@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forro textil
-- Suela versátil
 - Empeine sintético con textura Strikeprint
+- Suela versátil
+- Forro textil
 - Horma clásica
 - Cierre de cordones
 

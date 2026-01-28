@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Conservar en lugar fresco y seco
 - Merienda dulce, sana y rápida
-- Hecho con cacao real y avellana
 - Rico en vitaminas B6 y B12
+- Hecho con cacao real y avellana
 - Genial para el desayuno o en cualquier momento
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cómodas todo el día — Zapatillas transpirables de niño.
 - Ligero calzado de deporte — Zapatos para correr transpirables.
-- Muy duraderas — Deportivas para niños.
 - Material de calidad Zapatillas deportivas de 50% piel, 46% textil y 4% sintético.
+- Cómodas todo el día — Zapatillas transpirables de niño.
+- Muy duraderas — Deportivas para niños.
 - Con gran amortiguación Calzado infantil de deporte.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

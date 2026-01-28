@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela de goma
 - Cierre de cordones
+- Suela de goma
 - Superposiciones de gamuza
 
 [🛒 Comprar!!!]({{< param buyurl >}})

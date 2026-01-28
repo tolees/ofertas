@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Varios modos creativos, control de movimiento, efectos 3D con Realidad Aumentada en la aplicación y luces indicadoras de función LED, cable de carga tipo C
 - Una impresora portátil que te permite crear impresiones Instax Mini desde cualquier smartphone, también imprimir desde cuentas de Instagram y Facebook. Compatibilidad a través de la aplicación Instax LINK
-- INSTAX Modo de cámara; coloca tu smartphone, configura tu foto, toma la foto de forma remota a través del botón de encendido
 - Batería recargable integrada, crea la mejor experiencia de fotobooth en la aplicación. Haz clic en el modo collage para capturar 6 imágenes en intervalos de 3 segundos, luego elige 2, 4 o 6 broches divertidos para imprimir collage
+- Varios modos creativos, control de movimiento, efectos 3D con Realidad Aumentada en la aplicación y luces indicadoras de función LED, cable de carga tipo C
 - Utiliza todas las películas Instax Mini: 54 (ancho) x 86 (alto) mm, tamaño de imagen 46 (ancho) x 62 (alto) mm, la película se vende por separado, imagen compatible de 800 x 600 píxeles, 320 ppp con tecnología Fujifilm Rela Film
+- INSTAX Modo de cámara; coloca tu smartphone, configura tu foto, toma la foto de forma remota a través del botón de encendido
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DB8SKHM2{{</world>}}

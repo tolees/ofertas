@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Combínala con la parte de arriba que más te guste para lucir el conjunto (o des- conjunto) completo
 - Braga ancha brasileña confeccionada en microfibra brillante, con detalle de fruncido trasero
+- Combínala con la parte de arriba que más te guste para lucir el conjunto (o des- conjunto) completo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQYQYRLC{{</world>}}

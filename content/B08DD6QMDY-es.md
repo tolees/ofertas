@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Brand: Nuxe
-- Muy bien valorado
 - No se arrepentirá
+- Muy bien valorado
+- Brand: Nuxe
 - Máxima calidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

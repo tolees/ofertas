@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sabor natural y suave especialmente desarrollado para niños
-- Libre de ingredientes artificiales
-- Colgate, el mejor comienzo para una vida llena de sonrisas saludables
 - Protección anticaries para niños mayores de 3 años
+- Libre de ingredientes artificiales
+- Sabor natural y suave especialmente desarrollado para niños
+- Colgate, el mejor comienzo para una vida llena de sonrisas saludables
 - Pack de 12 unidades de 50 mililitros cada una
 
 [🛒 Aquí!!!]({{< param buyurl >}})

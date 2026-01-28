@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Desmonta para facilitar la limpieza
 - Ranura para cuchillo adecuada para cuchillas de hasta 11 cm (4 1/4 pulgadas)
+- Desmonta para facilitar la limpieza
 - La ranura de drenaje del cuchillo protege las cuchillas y los dedos
 - Base drenante integrada con caño de vertido
 

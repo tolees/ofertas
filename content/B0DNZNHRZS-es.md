@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sérum TRESemmé sin aclarado para un cabello suave
-- Cabello hasta 3 veces más fuerte y con un 98% menos de rotura vs champú sin acondicionador
-- Diseñado para penetrar en las fibras capilares.
 - Formulado con Biotina y Pro-Bond Plex que repara tu cabello seco o dañado.
 - Después del champú, acondicionador y mascarilla, retira el exceso de agua con una toalla y aplica de 2 a 4 dosis de medios a puntas sobre el cabello húmedo y distribuye uniformemente. No aclarar
+- Diseñado para penetrar en las fibras capilares.
+- Cabello hasta 3 veces más fuerte y con un 98% menos de rotura vs champú sin acondicionador
 - Descubre la rutina de la gama Fortalece & Repara
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

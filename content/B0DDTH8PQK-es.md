@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Malla diseñada
-- Ajuste de arco
-- Refrigerado por aire
 - Vegano
 - Lavable a máquina
+- Ajuste de arco
+- Refrigerado por aire
+- Malla diseñada
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DDTH8PQK{{</world>}}

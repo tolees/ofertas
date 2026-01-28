@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Forro: Textil
 - Skechers Squad Sr
 - Fijación: Cordones
-- Superior: Textil
 - Color: Negro
-- Forro: Textil
+- Superior: Textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07NGQ32PC{{</world>}}

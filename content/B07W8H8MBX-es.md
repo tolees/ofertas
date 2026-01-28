@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Piel hidratada, suave, exfoliada, con textura mejorada. Textura no pegajosa. No comedogénico, sin perfume.
 - Crema suavizante para rostro y cuerpo que mejora la textura cutánea e hidrata y exfolia suavemente sin irritar la piel. Con urea, ceramidas, ácido salicílico y Tecnología MVE. Para pieles secas y propensas a la queratosis pilar.
 - Aplicar crema solo en área afectada. Contiene AHA que puede aumentar la sensibilidad al sol. Usar protector solar.
-- Piel hidratada, suave, exfoliada, con textura mejorada. Textura no pegajosa. No comedogénico, sin perfume.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07W8H8MBX{{</world>}}

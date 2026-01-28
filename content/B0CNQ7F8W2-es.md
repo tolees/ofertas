@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Logotipo de la marca
 - Compartimento principal delantero
+- Logotipo de la marca
 - Tirantes ajustables
 
 [🛒 Visítala!!!]({{< param buyurl >}})

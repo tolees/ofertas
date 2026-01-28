@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Parte superior de malla y sintética con cordones elásticos en la parte delantera
-- Entresuela ligera y flexible que absorbe los golpes, suela de tracción de goma flexible
 - Skechers Plantilla acolchada de espuma viscoelástica
+- Entresuela ligera y flexible que absorbe los golpes, suela de tracción de goma flexible
 - Skechers Detalle del logotipo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

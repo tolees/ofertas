@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para hombres
 - Manga larga
+- Para hombres
 - 100% Compuesto
 - Lavar a mano
 

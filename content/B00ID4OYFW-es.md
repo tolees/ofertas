@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Siembra directa de abril a junio
 - Mezcla de flores variadas
+- Siembra directa de abril a junio
 - Floración escalonada durante finales de primavera y verano
 - Para ramos macizos bajos, jardineras y balcones
 

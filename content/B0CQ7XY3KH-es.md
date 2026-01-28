@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cepillo de máscara de pestañas 2 en 1 para unas pestañas más tupidas y un extra de volumen
-- Se retira fácilmente con el desmaquillante habitual sin que se caigan las pestañas
 - Apto para usuarias de lentes de contacto y ojos sensibles
+- Cepillo de máscara de pestañas 2 en 1 para unas pestañas más tupidas y un extra de volumen
 - Hasta 24 horas de duración modulable y resistente al agua que no se emborrona, no se descama ni deja grumos
 - Tono azul clásico
+- Se retira fácilmente con el desmaquillante habitual sin que se caigan las pestañas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CQ7XY3KH{{</world>}}

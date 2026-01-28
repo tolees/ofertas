@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Medidas: 9,97 x 9,97 x 9,97 centímetros
 - Referencia: S7273055
 - Color: multicolor
-- Medidas: 9,97 x 9,97 x 9,97 centímetros
 - ¡Si buscas calidad al mejor precio no sigas buscando!
 - Anillo Mujer de la marca Pandora
 

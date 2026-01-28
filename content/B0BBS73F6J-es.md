@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fácil de Usar: La aplicación Carista funciona con Android e iOS.
 - Diagnóstico y Activación de Extras: Lee y borra fallos con la Herramienta de Diagnóstico OBDII de Carista; Personaliza iluminación interior, parámetros del motor y más con Carista App (no incluída).
-- Multimarca: Compatible con ciertos modelos Toyota, Nissan, Lexus, Infiniti, VW, Audi, SEAT, Skoda, BMW, Mini.
-- Mantenimiento y Datos en Vivo: ¡Olvida las visitas innecesarias al taller! Con el lector OBD-II, haz el mantenimiento tú mismo y accede a parámetros y lecturas de sensores y -motor en tiempo real
 - SUSCRIPCIÓN NECESARIA para las Opciones Avanzadas: El Lector trae funciones OBD básicas con su compra. Para acceder a las funciones avanzadas de diagnóstico, herramientas de servicio, datos en vivo y activación de extras, una suscripción a Carista App es necesaria. Elige entre 1 mes, y 12 meses de acceso.
+- Mantenimiento y Datos en Vivo: ¡Olvida las visitas innecesarias al taller! Con el lector OBD-II, haz el mantenimiento tú mismo y accede a parámetros y lecturas de sensores y -motor en tiempo real
+- Fácil de Usar: La aplicación Carista funciona con Android e iOS.
+- Multimarca: Compatible con ciertos modelos Toyota, Nissan, Lexus, Infiniti, VW, Audi, SEAT, Skoda, BMW, Mini.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BBS73F6J{{</world>}}

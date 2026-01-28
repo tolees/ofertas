@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño ligero
 - zapatos de skate
+- Diseño ligero
 - Estilo retro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Reserva la Edición Estándar de NBA 2K26 y recibe 10.000 monedas virtuales.
-- FORMA TU EQUIPO EN LA CIUDAD - Crea un Mi JUGADOR trascendental y asciende en la clasificación competitiva para alcanzar la cima del estrellato de la NBA en una nueva aventura de Mi CARRERA. Forma equipo con tus amigos en una Ciudad impresionante y optimizada, gana reconocimiento y aumenta tu REPUTACIÓN, y lucha contra equipos rivales por la supremacía del Parque.
 - TU EQUIPO, TU HISTORIA - Dirige una franquicia de la NBA como general manager en Mi NBA. Elige entre los 30 equipos, vive 30 historias únicas de Mi GM inspiradas en el mundo real y persigue el objetivo final: ganar un campeonato. Influye en el futuro del deporte y deja una huella indeleble en la liga.
 - CON LA TECNOLOGÍA ProPLAY - Domina cada posesión con una tecnología inmersiva que traduce las imágenes de la NBA en un juego realista. Siéntete más conectado con cada drible y cambio de dirección gracias a las renovadas evaluaciones y experimenta movimientos dinámicos con las nuevas funciones de ProPLAY.
+- Reserva la Edición Estándar de NBA 2K26 y recibe 10.000 monedas virtuales.
+- FORMA TU EQUIPO EN LA CIUDAD - Crea un Mi JUGADOR trascendental y asciende en la clasificación competitiva para alcanzar la cima del estrellato de la NBA en una nueva aventura de Mi CARRERA. Forma equipo con tus amigos en una Ciudad impresionante y optimizada, gana reconocimiento y aumenta tu REPUTACIÓN, y lucha contra equipos rivales por la supremacía del Parque.
 - REÚNE ESTRELLAS EN MyTEAM - Colecciona y compite con leyendas pasadas y presentes del juego en MyTEAM. Reúne una plantilla repleta de estrellas, pon a prueba tu equipo ideal en los nuevos modos para un jugador y multijugador, y consigue nuevas cartas para hacer realidad tu fantasía MyTEAM.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

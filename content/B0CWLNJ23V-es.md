@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello redondo
+- Logotipo TNF en el pecho.
 - Agradable al tacto prendas de punto de algodón
+- Cuello redondo
 - Camiseta raglán de manga corta
 - Pequeño logotipo de TNF en la parte delantera
-- Logotipo TNF en el pecho.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CWLNJ23V{{</world>}}

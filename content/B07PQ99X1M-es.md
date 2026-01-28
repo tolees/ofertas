@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Se recomienda tomar 1 vial de 10 ml al día en ayunas, preferiblemente diluido en agua, leche o zumo de frutas. No superar esta dosis. Agitar bien antes de tomar
 - Contiene además, un extracto concentrado de Guaraná, Taurina y 5 vitaminas del grupo B que ayudan a reducir el cansancio y la fatiga
-- Conserva el producto en un lugar fresco y seco, y mantén fuera del alcance de los niños, debido a su contenido de cafeína, no se recomienda su uso en niños, mujeres embarazadas o en período de lactancia. Es importante recordar que los complementos alimenticios no deben sustituir una dieta equilibrada y un estilo de vida saludable
 - Con Maca que contribuye al rendimiento físico y mental y ayuda a mantener la resistencia, los sentimientos y la vitalidad óptimos. Además contribuye al aporte de energía
 - Black Bee Jalea Real Energía, es un complemento alimenticio que combina la jalea real con extractos de plantas como la guaraná y la maca, junto con vitaminas y taurina
+- Conserva el producto en un lugar fresco y seco, y mantén fuera del alcance de los niños, debido a su contenido de cafeína, no se recomienda su uso en niños, mujeres embarazadas o en período de lactancia. Es importante recordar que los complementos alimenticios no deben sustituir una dieta equilibrada y un estilo de vida saludable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07PQ99X1M{{</world>}}

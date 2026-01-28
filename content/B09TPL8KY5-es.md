@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Características: cremallera, pierna doblada con costuras decorativas, costuras en los bolsillos oblicuos, bolsillos para el glúteo, logotipo de piel
+- Pantalones chinos de corte estándar
 - JACK & JONES apoya la iniciativa Better Cotton usando algodón orgánico o reciclado
 - Durabilidad con material sostenible
-- Características: cremallera, pierna doblada con costuras decorativas, costuras en los bolsillos oblicuos, bolsillos para el glúteo, logotipo de piel
 - Bragueta de botones
-- Pantalones chinos de corte estándar
 - Composición del material: 98 % algodón, 2 % elastano
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

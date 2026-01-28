@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- UN POCO O NADA DE ACEITE: Fríe con aire para cocinar rápidamente platos principales, guarniciones y tentempiés con hasta un 75% menos de grasa* (*Probado con patatas cortadas a mano y fritas en abundante aceite)
+- DIMENSIONES: 30,5 cm x 28 cm x 36 cm.
 - 6 FUNCIONES DE COCCIÓN: Max Crisp, Freír con aire, Asar, Hornear, Recalentar y Deshidratar. Cocina y dora alimentos congelados en minutos con el modo Max Crisp y temperaturas de 240 °C. Rejilla ajustable, 2 posiciones de cocción
 - MAYOR CAPACIDAD (comparación con Ninja AF160). Cesta tamaño familiar (6,2 litros), capacidad para 4 pechugas de pollo. Ideal para 1-4 personas. Cocina hasta un 50% más rápido que los hornos eléctricos* (*Probado con palitos de pescado y salchichas)
-- DIMENSIONES: 30,5 cm x 28 cm x 36 cm.
 - INCLUYE: Ninja Freidora de aire (enchufe UE), cesta de 6,2 l y base de rejilla antiadherentes y aptas para lavavajillas, y guía de recetas creadas por chefs. Color: Gris.
-- UN POCO O NADA DE ACEITE: Fríe con aire para cocinar rápidamente platos principales, guarniciones y tentempiés con hasta un 75% menos de grasa* (*Probado con patatas cortadas a mano y fritas en abundante aceite)
 - AHORRA HASTA UN 60 % en la factura de la luz* (* Pruebas y cálculos basados en el tiempo de cocción recomendado para salchichas, utilizando la función de freír con aire en comparación con hornos tradicionales)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

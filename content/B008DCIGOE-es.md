@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Papel A4
 - 100 hojas
 - 80 g
+- Papel A4
 - Producto que combina tradición e innovación
 
 [🛒 Aquí!!!]({{< param buyurl >}})

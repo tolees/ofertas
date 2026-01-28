@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte clásico
-- 100% algodón
 - Puños y dobladillo de canalé
+- 100% algodón
+- Corte clásico
 - Bolsillo canguro
 - Capucha con cordón ajustable
 

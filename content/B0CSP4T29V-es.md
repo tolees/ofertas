@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cintura regular
 - Fabricado con al menos un 70% de algodón sostenible
+- Cintura regular
 - Ajuste holgado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

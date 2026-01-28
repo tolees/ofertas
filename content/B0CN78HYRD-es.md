@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre autoadherente
 - Horma clásica
-- Forro textil
+- Cierre autoadherente
 - Suela de goma que no deja marcas
+- Forro textil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CN78HYRD{{</world>}}

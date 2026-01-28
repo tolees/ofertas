@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta con cuello redondo y largo clásico
-- Lavable en la lavadora
 - Impresión a base de agua en la parte delantera y trasera.
+- Lavable en la lavadora
+- Camiseta con cuello redondo y largo clásico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CTCTPDTL{{</world>}}

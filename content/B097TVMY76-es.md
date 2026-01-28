@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de producto: HANDBAG
-- Color: negro
 - Samsonite Double Zip Pouch Medium Tablet Holder 7.9 Openroad 2.0 Negro
+- Color: negro
+- Tipo de producto: HANDBAG
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B097TVMY76{{</world>}}

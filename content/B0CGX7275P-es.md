@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - 🧾 [Años de experiencia en el sector = ALTA CALIDAD. Productos certificados] El producto se caracteriza por su alta calidad. Surge de la amplia experiencia de la marca, presente en el mercado desde 2006. Nuestros esmaltes están certificados, lo que garantiza su eficacia.
 - 💅 [ALTA PIGMENTACIÓN] El esmalte semipermanente está muy pigmentado. Con cada aplicación proporciona una cobertura máxima después aplicar 2 capas.
-- 💅 [Endurecer LED o UV] El esmalte semipermanente se endurece fácilmente en una lámpara LED/UV, de acuerdo con el tiempo de secado indicado en la tabla. Esto asegura la durabilidad tanto de la manicura como de la pedicura.
-- 💪 [Manicura duradera hasta 21 días] El producto muestra una durabilidad excepcional, hasta 21 días. Permite crear una manicura perfecta sin descascarillarse.
 - 🎨 Autumn Aesthetic es un pintauñas semipermanente beige NEONAIL que puedes usar de muchas maneras. Es un color universal que combinará con varios estilos. Puedes aplicarlo solo o combinarlo con otros esmaltes para crear bonitas decoraciones.
+- 💪 [Manicura duradera hasta 21 días] El producto muestra una durabilidad excepcional, hasta 21 días. Permite crear una manicura perfecta sin descascarillarse.
+- 💅 [Endurecer LED o UV] El esmalte semipermanente se endurece fácilmente en una lámpara LED/UV, de acuerdo con el tiempo de secado indicado en la tabla. Esto asegura la durabilidad tanto de la manicura como de la pedicura.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CGX7275P{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Horma clásica
-- Panel acolchado en el tobillo
 - Parte superior de piel sintética
+- Panel acolchado en el tobillo
+- Horma clásica
 - Cierre de cordones
 - Forro textil
 

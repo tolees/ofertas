@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- con el bajo asimñétrico y con estampado
-- con cuello camisero
 - con escote en uve con detalle de pliegue
+- con cuello camisero
+- con el bajo asimñétrico y con estampado
 - Blusa de manga corta caída
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

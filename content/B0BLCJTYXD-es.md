@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Suela de plataforma ligeramente elevada y texturizada
-- Empeine de piel
 - Cierre de cordones
+- Empeine de piel
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BLCJTYXD{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sobrecamisa Vest
 - Tornillo De Cremallera
+- Sobrecamisa Vest
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FCN2NJF6{{</world>}}

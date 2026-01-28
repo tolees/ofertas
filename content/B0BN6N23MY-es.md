@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Piel: charol
-- Cierre: goma
 - 14.1338582533 Pulgadas
 - Ligero
+- Piel: charol
+- Cierre: goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BN6N23MY{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CARTÓN 100% RECICLABLE: Organiza tu hogar y tu oficina con este separador, separadores de 160 g/m² de cartón, 100% reciclables
-- MULTICOLOR Y MULTITALADRO: 12 pestañas de diferentes colores, rojo, púrpura, azul, verde, amarillo y naranja, para una clasificación clara de documentos; perforado multitaladro universal para un archivado más fácil en todo tipo de carpetas y archivadores
 - CONTENIDO: 1 x 12 separadores para archivadores tamaño A4 de Esselte, cartón, 100201, dimensiones An x Al x P 22.5 x 29.7 x 0.3 cm; color multicolor
+- CARTÓN 100% RECICLABLE: Organiza tu hogar y tu oficina con este separador, separadores de 160 g/m² de cartón, 100% reciclables
 - 12 SEPARADORES: Separadores para archivadores de 12 pestañas para organizar documentos A4 de forma clara, útil para llevar un control de notas importantes o trabajos de clase; para el hogar, el aula y la oficina
 - PESTAÑAS EDITABLES: Pestañas de colores editables para etiquetarlas en función de tus necesidades
+- MULTICOLOR Y MULTITALADRO: 12 pestañas de diferentes colores, rojo, púrpura, azul, verde, amarillo y naranja, para una clasificación clara de documentos; perforado multitaladro universal para un archivado más fácil en todo tipo de carpetas y archivadores
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0015QFS5A{{</world>}}

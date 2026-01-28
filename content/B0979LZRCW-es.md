@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aplicador de doble punta
-- 4 acabados y infinitos looks
 - Paleta de ojos, con 8 tonos
+- 4 acabados y infinitos looks
+- Aplicador de doble punta
 - Nueva fórmula suave y cremosa
 - Gama de tonos: desde los neutros a los brillantes y desde los claros a los profundos
 

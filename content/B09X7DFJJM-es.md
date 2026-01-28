@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Velocidades de disparo de hasta 60 MB/s, velocidades de transferencia de hasta 100 MB/s
-- La tarjeta de memoria SanDisk Extreme SD UHS-I ofrece un rendimiento que te permite tomar el control de tu creatividad
-- Con velocidades de disparo de hasta 60 MB/s y grabación de velocidad UHS Clase 3 (U3), estás listo para capturar impresionantes video 4K UHD de alta resolución y sin tartamudeo
-- Perfecto para grabar video 4K UHD y fotografía secuencial en modo ráfaga
-- La tarjeta de memoria SanDisk Extreme SD UHS-I ofrece velocidades de transferencia de hasta 100 MB/s para que puedas mover rápidamente tus fotos donde quieras
 - Captura video ininterrumpido con UHS Speed Class 3 (U3) y Video Speed Class 30 (V30)
+- La tarjeta de memoria SanDisk Extreme SD UHS-I ofrece un rendimiento que te permite tomar el control de tu creatividad
+- La tarjeta de memoria SanDisk Extreme SD UHS-I ofrece velocidades de transferencia de hasta 100 MB/s para que puedas mover rápidamente tus fotos donde quieras
+- Velocidades de disparo de hasta 60 MB/s, velocidades de transferencia de hasta 100 MB/s
+- Perfecto para grabar video 4K UHD y fotografía secuencial en modo ráfaga
+- Con velocidades de disparo de hasta 60 MB/s y grabación de velocidad UHS Clase 3 (U3), estás listo para capturar impresionantes video 4K UHD de alta resolución y sin tartamudeo
 - Construido y probado en condiciones adversas: a prueba de temperatura, impermeable, a prueba de golpes y a prueba de rayos X
 
 [🛒 Visítala!!!]({{< param buyurl >}})

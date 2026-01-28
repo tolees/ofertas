@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Semelle : caoutchouc
-- Pointe ronde
 - Fermeture en dentelle
+- Pointe ronde
+- Semelle : caoutchouc
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C9J4ZCB7{{</world>}}

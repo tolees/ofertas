@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Deliciosas barritas de crujiente galleta recubiertas de delicioso chocolate negro
-- El sabor más intenso para tomarte un break
-- 100% cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan; certificado Rainforest Alliance
-- Barrita recubierta de chocolate negro
 - Apto para vegetarianos
+- 100% cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan; certificado Rainforest Alliance
+- Deliciosas barritas de crujiente galleta recubiertas de delicioso chocolate negro
+- Barrita recubierta de chocolate negro
+- El sabor más intenso para tomarte un break
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C1CRZMSB{{</world>}}

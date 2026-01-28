@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre: Cremallera Y Botón
 - Jeans Pantalones Largos
-- Composición: 78 por ciento de algodón 20 por ciento de poliéster y 2 por ciento de elastano
 - Ajuste: recto
+- Cierre: Cremallera Y Botón
+- Composición: 78 por ciento de algodón 20 por ciento de poliéster y 2 por ciento de elastano
 - Instrucciones de cuidado: apto para lavadora
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

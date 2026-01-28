@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Regleta enchufe con 4 tomas
 - Potencia Máxima: 3.500W
-- Regleta enchufe con interruptor
 - Longitud del cable: 1,5 metros
 - Corriente Máxima: 16A // Tensión: 230V
+- Regleta enchufe con 4 tomas
+- Regleta enchufe con interruptor
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00AQXH3FQ{{</world>}}

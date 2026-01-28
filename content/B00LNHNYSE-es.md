@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Correa de cuero negro
-- Caja redonda de acero con esfera negra
 - Resistente al agua de hasta 30 m: resistirá las salpicaduras en agua
+- Caja redonda de acero con esfera negra
+- Correa de cuero negro
 - Caja de 46 mm, pulsera de 22 mm de ancho, cristal mineral, movimiento de tres agujas, importado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

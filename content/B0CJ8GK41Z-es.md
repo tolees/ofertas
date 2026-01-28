@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Narciso Rodriguez All Of Me
-- Empaque de 90 ml
 - Fragancia personal
+- Empaque de 90 ml
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CJ8GK41Z{{</world>}}

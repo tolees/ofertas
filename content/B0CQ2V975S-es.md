@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Brillo óptimo con una sola pasada
-- Su fórmula está enrriquecida con un complejo nutritivo de ácido hilaurónico, aguacate nutritivo y aceites de jojoba
-- Consigue unos labios brillantes con la fórmula ligera y no pegajosa y vegana de la gama 2000 Calorie de Max Factor
 - Acabado de larga duración
+- Su fórmula está enrriquecida con un complejo nutritivo de ácido hilaurónico, aguacate nutritivo y aceites de jojoba
+- Brillo óptimo con una sola pasada
+- Consigue unos labios brillantes con la fórmula ligera y no pegajosa y vegana de la gama 2000 Calorie de Max Factor
 - Disfruta de su aplicación fácil y cómoda
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

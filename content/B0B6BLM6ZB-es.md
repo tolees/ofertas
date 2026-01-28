@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ropa interior para hombre
 - Camiseta individual
+- Ropa interior para hombre
 - Ajuste regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

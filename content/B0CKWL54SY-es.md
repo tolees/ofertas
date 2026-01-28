@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte superior de gamuza y malla sin estructura
 - Logotipo N grande
 - entresuela de EVA
+- Parte superior de gamuza y malla sin estructura
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CKWL54SY{{</world>}}

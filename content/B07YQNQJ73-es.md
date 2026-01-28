@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Estera Goga refrigerada por aire
 - Zapato cómodo
-- Ortholite
 - Lavable a máquina
+- Ortholite
 - Tecnología de 5 generaciones
 
 [🛒 Aquí!!!]({{< param buyurl >}})

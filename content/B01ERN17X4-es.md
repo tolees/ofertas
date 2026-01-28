@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillos laterales sin cremallera
-- Ideal para la practica de cualquier modalidad bajo la lluvia
 - Adecuado para la práctica de deporte a nivel profesional
+- Ideal para la practica de cualquier modalidad bajo la lluvia
+- Bolsillos laterales sin cremallera
 - Chubasquero con capucha integrada, protección para la cremallera en el cuello
 
 [🛒 Comprar!!!]({{< param buyurl >}})

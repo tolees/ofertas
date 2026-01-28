@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Skechers Plantilla acolchada de espuma viscoelástica
-- Skechers Detalle del logotipo
 - Parte superior de malla geométrica con cordones elásticos
+- Skechers Detalle del logotipo
+- Skechers Plantilla acolchada de espuma viscoelástica
 - Entresuela ligera y flexible que absorbe los golpes
 
 [🛒 Comprar!!!]({{< param buyurl >}})

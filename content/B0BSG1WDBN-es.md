@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre superior: sin cordones
 - Embalaje: bolsa protectora
+- Cierre superior: sin cordones
 - Sin forro interior
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

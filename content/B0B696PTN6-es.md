@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Belt
+- Plain
 - materialFabricComposition: 100% Cow Leather
 - Leather
-- Plain
+- Belt
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B696PTN6{{</world>}}

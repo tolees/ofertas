@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte clásico
-- CLIMAWARM
 - 100 % poliéster (reciclado)
+- CLIMAWARM
+- Corte clásico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DJLZ5P4W{{</world>}}

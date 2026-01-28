@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una zapatilla inspirada en nuestros archivos con toques de color
 - Forro de tela con cierre de cordones
+- Una zapatilla inspirada en nuestros archivos con toques de color
 - Parte de tela con revestimientos sintéticos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

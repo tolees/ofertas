@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela: caucho
 - Práctica plantilla extraíble
 - Material exterior: Sintético
+- Suela: caucho
 - Sin cierre
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Transpirable
 - Comodidad
 - Libertad
-- Transpirable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CKVXT3K8{{</world>}}

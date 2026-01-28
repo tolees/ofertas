@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Vaqueros de cintura alta
 - Cierre frontal
-- Forma de pierna ancha
 - Composición: 100% algodón
+- Vaqueros de cintura alta
+- Forma de pierna ancha
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0964PNNJ2{{</world>}}

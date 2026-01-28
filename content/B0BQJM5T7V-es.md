@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cintura elástica de talle medio con cordón ajustable
-- Tejido principal: tejido técnico 100% poliéster reciclado
-- Forro: malla 100% poliéster reciclado
-- Bolsillos laterales
 - Corte clásico
+- Forro: malla 100% poliéster reciclado
+- Tejido principal: tejido técnico 100% poliéster reciclado
 - AEROREADY
+- Bolsillos laterales
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BQJM5T7V{{</world>}}

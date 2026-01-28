@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Grosor de la caja de 9,7 mm / Diámetro de la caja: 46 mm
-- Movimiento multifunción de cuarzo
-- Esfera gris
 - 5 ATM de resistencia al agua Se puede utilizar en la ducha o para nadar, pero no para bucear en aguas profundas.
+- Grosor de la caja de 9,7 mm / Diámetro de la caja: 46 mm
+- Esfera gris
+- Movimiento multifunción de cuarzo
 - Pulsera de acero inoxidable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

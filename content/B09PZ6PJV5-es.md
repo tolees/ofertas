@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Entresuela Flex Lite que absorbe los golpes
 - Suela de tracción de goma súper flexible
+- Entresuela Flex Lite que absorbe los golpes
 - Parte superior de malla atlética suave
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

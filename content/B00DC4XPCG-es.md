@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Material de la suela: goma
 - Forro: tela
 - Material exterior: lona
-- Material de la suela: goma
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00DC4XPCG{{</world>}}

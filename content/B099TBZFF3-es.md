@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logotipo N de gran tamaño
-- Entresuela de EVA
-- Suela ondulada a gran escala con texto de la marca
-- Punta de goma asimétrica
 - Parte superior de gamuza y malla sin respaldo
+- Logotipo N de gran tamaño
+- Punta de goma asimétrica
+- Suela ondulada a gran escala con texto de la marca
+- Entresuela de EVA
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B099TBZFF3{{</world>}}

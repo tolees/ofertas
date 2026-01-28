@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Proceso de secado delicado para preservar las vitaminas y asegurar una calidad y un sabor óptimos
-- Anchoas son ricas en proteínas para un crecimiento óptimo
-- Gammarus contienen porcentaje de minerales y fibras naturales para una digestión óptima
 - Debe administrarse como suplemento a Tetra ReptoMin
+- Anchoas son ricas en proteínas para un crecimiento óptimo
+- Proceso de secado delicado para preservar las vitaminas y asegurar una calidad y un sabor óptimos
+- Gammarus contienen porcentaje de minerales y fibras naturales para una digestión óptima
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00EOOF9S6{{</world>}}

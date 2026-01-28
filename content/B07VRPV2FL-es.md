@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dimensiones: 51 cm x 34 cm x 27 cm (20" de alto x 13,5" de ancho x 10,5" de fondo)
-- Dispone de varios bolsillos frontales y laterales, bolsillos de malla extensibles para separar los objetos húmedos de los secos, ganchos de muelle para trajes de neopreno, un bolsillo de malla para botellas de agua, correas ajustables y un espacio de almacenamiento protector para aparatos electrónicos de gran tamaño.
 - La mochila TYR Alliance está diseñada con tecnología de tejido para garantizar una sensación de ligereza y una construcción duradera y resistente al agua
+- Dispone de varios bolsillos frontales y laterales, bolsillos de malla extensibles para separar los objetos húmedos de los secos, ganchos de muelle para trajes de neopreno, un bolsillo de malla para botellas de agua, correas ajustables y un espacio de almacenamiento protector para aparatos electrónicos de gran tamaño.
+- Dimensiones: 51 cm x 34 cm x 27 cm (20" de alto x 13,5" de ancho x 10,5" de fondo)
 - Peso: 0,84 kg / 1,85 lbs
 - Acolchado en forma de contorno para una ergonomía y comodidad lumbar ideales
 

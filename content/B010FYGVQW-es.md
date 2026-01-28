@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura elástica para un ajuste óptimo
 - Composición de 100% poliéster
+- Cintura elástica para un ajuste óptimo
 - Cuenta con unos bolsillos con cremalleras
 - Pantalón largo con diseño pitillo y abertura lateral con cremalleras y fuelle para poner y quitar la prenda con facilidad
 

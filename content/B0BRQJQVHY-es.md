@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Materiales: papel + poliéster + algodón + metal
-- Medidas libreta: 14 x 0,5 x 15 cm
 - Medidas boli: 14 x 0,9 x 0,9 cm
-- Medidas estuche: 15 x 19 x 0,5 cm
 - Estuche de rejilla realizado en rPET, un material reciclable obtenido a partir del reciclaje de botellas de plástico. Cuenta con un mensaje en inglés y cierre con cremallera. Dentro del estuche encontramos una libreta pequeña con 48 hojas, realizada en papel con certificado FSC, lo que garantiza que ha sido obtenido de bosques gestionados de forma responsable. También encontramos un bolígrafo metálico, con clip y con la tinta de color azul.
+- Materiales: papel + poliéster + algodón + metal
+- Medidas estuche: 15 x 19 x 0,5 cm
+- Medidas libreta: 14 x 0,5 x 15 cm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BRQJQVHY{{</world>}}

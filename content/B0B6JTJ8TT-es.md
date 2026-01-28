@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Como el nombre ya verrät significa que esta camiseta tiene un corte algo más largo
 - La camiseta para hombre es de 100% algodón para la comodidad excepción: carcoal: 60% algodón, 40% poliéster y gris: 90% algodón, 10% poliéster
 - Cómoda y transpirable: por su material 100% algodón, es óptima para el día a día por su alta transpirabilidad
+- Como el nombre ya verrät significa que esta camiseta tiene un corte algo más largo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B6JTJ8TT{{</world>}}

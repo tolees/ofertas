@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material transpirable para un ajuste cómodo
 - La tecnología Dri-FIT absorbe el sudor y te mantiene seco.
+- Material transpirable para un ajuste cómodo
 - Mangas raglán para una libertad de movimiento sin restricciones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

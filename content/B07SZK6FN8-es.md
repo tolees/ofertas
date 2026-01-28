@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Full-length front zip and side pockets
 - Regular fit
+- Full-length front zip and side pockets
 - Hood with lanyard
 
 [🛒 Aquí!!!]({{< param buyurl >}})

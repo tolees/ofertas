@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Officially licensed Tetris title
+- Includes Pixel Pocket, keychain and user guide
 - Powered by 3 AAA batteries (not included)
 - 1.8” full color screen
-- Includes Pixel Pocket, keychain and user guide
 - 10 bonus games
 
 [🛒 Visítala!!!]({{< param buyurl >}})

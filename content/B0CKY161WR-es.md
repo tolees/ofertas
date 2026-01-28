@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mediasuela Cloudfoam
-- Forro textil
-- Horma clásica
-- Contiene al menos un 20% de material reciclado
 - Empeine textil
-- Forro textil
+- Horma clásica
+- Mediasuela Cloudfoam
 - Suela sintética
+- Forro textil
+- Contiene al menos un 20% de material reciclado
+- Forro textil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKY161WR{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello alto con cierre a presión
-- Corte cuadrado
-- Ajuste regular
 - Cómoda capucha para proteger de la lluvia y el viento
+- Cuello alto con cierre a presión
+- Ajuste regular
+- Corte cuadrado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07K757CDK{{</world>}}

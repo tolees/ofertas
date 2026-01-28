@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela para césped natural seco / multisuperficie
 - Empeine de Fiberskin con estampado Sprintgridcarcasa
 - Horma clásica
+- Suela para césped natural seco / multisuperficie
 - Forro textil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

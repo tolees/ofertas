@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte de cuero con empeine perforado
 - Suela y suela de goma
+- Parte de cuero con empeine perforado
 - Líneas verticales anchas en el talón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

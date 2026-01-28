@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto de calidad óptima
 - Gafas de sol
+- Producto de calidad óptima
 - Diseño atractivo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

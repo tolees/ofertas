@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Con un estilo casual
-- Logotipo de la marca en el pecho
 - Tejido ligero y suave
+- Logotipo de la marca en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DPHWB9SY{{</world>}}

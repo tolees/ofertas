@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- [Medidas] Jabonera 15 x 8,2 x 2,1 cm, Vaso ,6 x 7,6 x 11 cm. Y Dosificador 7,6 x 7,6 x 16 cm.
 - [Diseño Minimalista] El diseño de lineas finas y delgadas caracasteristicas de la serie se adaptan a todo tipo de baños
-- [Fabricado en España] Por la reconocida marca Tatay
 - [Libre de BPA] fabricado con plásicos de gran calidad
+- [Fabricado en España] Por la reconocida marca Tatay
+- [Medidas] Jabonera 15 x 8,2 x 2,1 cm, Vaso ,6 x 7,6 x 11 cm. Y Dosificador 7,6 x 7,6 x 16 cm.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B096B5RFY8{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Leche protectora SPF 30 en spray
-- Difusión en spray que permite una aplicación cómoda
-- Apta para la piel de toda la familia
 - Evita las quemaduras solares y fortalece las defensas antioxidantes de la piel
+- Leche protectora SPF 30 en spray
+- Apta para la piel de toda la familia
+- Difusión en spray que permite una aplicación cómoda
 - Agitar antes de usar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

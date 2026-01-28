@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cuello redondo
+- Contiene material reciclado: una de las soluciones de Puma para reducir el impacto ambiental
 - Tipo de fábrica: 100% Polyester; Tipo de deporte: Fútbol
 - DryCELL: la denominación de Puma para las propiedades repelentes de la humedad que ayudan a que la piel permanezca seca y cómoda
-- Cuello redondo
 - Material transpirable
-- Contiene material reciclado: una de las soluciones de Puma para reducir el impacto ambiental
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09169KKDG{{</world>}}

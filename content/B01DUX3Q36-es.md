@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apto para ropa blanca y de color
 - Eficaz en agua fría y ciclos cortos
-- Elena, la eficacia que sorprende
+- Apto para ropa blanca y de color
 - Detergente para la lavadora en formato gel líquido
 - Poder antimanchas testado en 101 manchas
+- Elena, la eficacia que sorprende
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01DUX3Q36{{</world>}}

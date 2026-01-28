@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logotipo del equipo Mercedes - AMG Petronas Formula One Team
-- Talla única
 - Ala flexible tipo pescador
+- Talla única
+- Logotipo del equipo Mercedes - AMG Petronas Formula One Team
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DB2FP7R3{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con Keratina en formato 650 ml+100ml
 - Para cabellos frágiles
+- Con Keratina en formato 650 ml+100ml
 - Para cabellos frágiles
 
 [🛒 Aquí!!!]({{< param buyurl >}})

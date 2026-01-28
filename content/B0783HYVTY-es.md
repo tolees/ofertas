@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 3 fotos- 13x18 cm
-- 2 fotos- 10x 10 cm
 - 2 fotos- 10x15 cm
+- 2 fotos- 10x 10 cm
 - 1 foto- 15x 20 cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})

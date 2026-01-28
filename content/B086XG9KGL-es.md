@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Composición : 100% Algodón
-- Confort óptimo
 - Suavidad: Tacto suave
 - Extensible: se adapta a tus movimientos
+- Confort óptimo
 - Cinturón elástico: para un ajuste perfecto
 
 [🛒 Comprar!!!]({{< param buyurl >}})

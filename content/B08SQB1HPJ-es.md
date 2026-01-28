@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tirantes ajustables en la parte delantera
 - Tela transpirable
+- Tirantes ajustables en la parte delantera
 - Soporte medio
 - Comodidad de uso agradable
 

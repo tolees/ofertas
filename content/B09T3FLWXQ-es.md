@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Lavar a mano
 - 100% Poliéster
 - Cierre: Cremallera
+- Lavar a mano
 - Chaqueta deportiva
 
 [🛒 Aquí!!!]({{< param buyurl >}})

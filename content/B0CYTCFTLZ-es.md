@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Horma clásica
 - Parte superior de piel
 - Forro textil
 - Suela de goma vulcanizada
-- Horma clásica
 - Mediasuela con amortiguación
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

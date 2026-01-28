@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Panel alrededor del tobillo y forro de malla
-- Cierre de cordones
 - Empeine de piel sintética
+- Cierre de cordones
 - Horma clásica
+- Panel alrededor del tobillo y forro de malla
 - Puntera de ante
 
 [🛒 Comprar!!!]({{< param buyurl >}})

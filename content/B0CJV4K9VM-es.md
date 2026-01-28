@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Horma clásica
 - Forro textil
 - Banda superior sintética
-- Horma clásica
 - Plataforma de EVA
 - Suela de EVA
 - Plantilla moldeada de PU

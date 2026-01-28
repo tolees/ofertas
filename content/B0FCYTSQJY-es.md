@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Enriquecido con un acorde de segunda piel de almizcle, cachemira y notas de ámbar gris.
-- Musgo de roble
 - Almizcle sensual
+- Musgo de roble
 - Hidratante ; Mejora el ánimo. ; Sin género. ; Ligera ; Fácil de aplicar, no pegajoso ni graso. ;
 - Flores solares blancas
 

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte entallado
-- Cintura elástica a la vista
 - 93% algodón / 7% elastán
+- Cintura elástica a la vista
+- Corte entallado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKTPCSWS{{</world>}}

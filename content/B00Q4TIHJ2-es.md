@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Incluye 2 toallas de baño.
-- Colores resistentes al uso, toallas ligeras y absorbentes.
-- Tamaño: 140 x 70 cm.
 - Fabricada en 100% algodón.
+- Tamaño: 140 x 70 cm.
 - Lavables en lavadora a 60 °C; se puede secar en secadora a baja temperatura.
+- Colores resistentes al uso, toallas ligeras y absorbentes.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00Q4TIHJ2{{</world>}}

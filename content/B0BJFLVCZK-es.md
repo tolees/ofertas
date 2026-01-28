@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cicaplast Baume B5+ alivia, nutre y calma las pieles fragilizadas, reduciendo cicatrices e irritaciones. Enriquecido con complejo prebiótico, Manteca de Karité y madecassoside para una piel confortable y radiante.
+- Cicaplast Baume B5+ Bálsamo Calmante Ultra Reparador
 - Aplicar 2 veces al día sobre piel limpia y seca. Usar en cuerpo, rostro y labios, evitando contorno de ojos.
 - Nutre, protege y calma la piel para una recuperación óptima y protección completa de la barrera cutánea.
-- Cicaplast Baume B5+ Bálsamo Calmante Ultra Reparador
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BJFLVCZK{{</world>}}

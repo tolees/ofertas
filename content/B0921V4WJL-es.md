@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Altura del tacón: 1 pulgada
-- Suela de tracción flexible
 - Capa de malla sintética y parte superior de tela degradada
 - Parte delantera de encaje elástico con correa de velcro en el empeine
+- Suela de tracción flexible
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0921V4WJL{{</world>}}

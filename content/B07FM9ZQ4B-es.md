@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 2 tamaños de taza seleccionables
-- Contenedor de cápsulas usadas con capacidad para 6
-- Muy delgada: sólo 11 mm
+- Apagado automático después de 9 min (programable)
 - Presión de 19 bares
 - Incluye 14 cápsulas y 20 de crédito en café
-- Apagado automático después de 9 min (programable)
+- Contenedor de cápsulas usadas con capacidad para 6
+- 2 tamaños de taza seleccionables
+- Muy delgada: sólo 11 mm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07FM9ZQ4B{{</world>}}

@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre: Cordones
-- Tipo de talla: Grande
-- Material exterior: Cuero sintético
-- Tipo de tacón: Plano
-- Composición: Malla
-- Material de la suela: Sintético
-- Revestimiento: Tela
 - Anchura del zapato: Medio
+- Tipo de talla: Grande
+- Material de la suela: Sintético
+- Composición: Malla
+- Tipo de tacón: Plano
+- Cierre: Cordones
+- Revestimiento: Tela
+- Material exterior: Cuero sintético
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07N142FCP{{</world>}}

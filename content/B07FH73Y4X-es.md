@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Perforación hasta 100 mm
 - La punta de centrado facilita la colocación y previene que la broca se deslice
 - Las cuatro puntas impiden que la broca se quede bloqueada en el refuerzo del hormigón
 - Broca para hormigón
-- Perforación hasta 100 mm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07FH73Y4X{{</world>}}

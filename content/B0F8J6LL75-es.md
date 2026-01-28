@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior de cuero, tela y material sintético para mayor comodidad y sujeción.
 - Entresuela de espuma para una amortiguación ligera.
+- Parte superior de cuero, tela y material sintético para mayor comodidad y sujeción.
 - Diseño que recuerda al Pegasus 25 y al Pegasus 2006.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

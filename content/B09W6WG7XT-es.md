@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Forma del tacón: plano
 - Material exterior: poliéster
 - Cierre: cordones
-- Forma del tacón: plano
 - No es resistente al agua
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ¿Es invierno y el sol juega al escondite? También puedes recargarlo mediante el cable USB incluido (de 3 a 4 horas de carga para 22 horas de autonomía)
 - Disfrute de una iluminación versátil, ideal para interiores y exteriores gracias a su grado de protección IP44 con la lámpara de mesa Smartwares OSL-50012
-- Esta lámpara emite una cálida luz blanca de 50 lm, por lo que es perfecta para crear un ambiente cálido y acogedor en el jardín, en el salón o simplemente para leer por la noche antes de acostarse
+- ¿Es invierno y el sol juega al escondite? También puedes recargarlo mediante el cable USB incluido (de 3 a 4 horas de carga para 22 horas de autonomía)
 - Puedes regular la intensidad de la lámpara solar pulsando el botón de encendido/modo/apagado situado debajo de la pantalla
+- Esta lámpara emite una cálida luz blanca de 50 lm, por lo que es perfecta para crear un ambiente cálido y acogedor en el jardín, en el salón o simplemente para leer por la noche antes de acostarse
 - Esta lámpara solar puede cargarse en 6 a 8 horas de exposición para una duración de la batería de 8 horas. Pulse durante unos segundos el botón de encendido/apagado situado debajo de la pantalla para encender la lámpara
 
 [🛒 Visítala!!!]({{< param buyurl >}})

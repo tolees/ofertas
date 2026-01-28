@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CEPILLO RELOJ DE ARENA: nuestra máscara llevará a tus pestañas al siguiente nivel, curvándolas y creando volumen extra. Su cepillo permite llegar a las pestañas más pequeñas de una manera uniforme.
-- 24H: la mascara de pestañas tiene un acabado negro intenso. Aporta ultradefinición y efecto panorámico, sin grumos, a tu mirada. Elige la formula perfecta para ti mascara normla o mascara waterproof.
+- TUBO METÁLICO: nuestra máscara de pestañas viene en un tubo metálico con cierre de clic para mantener fresco el producyo. Combinalo con The 24H Pen Eyeliner y crea el perfecto cat eye.
 - EFECTO PANORÁMICO: sácale el mayor partido a tu mirada con está máscara de pestañas. ¡Conseguirás una longitud, definición y curvatura extremos! Úsala todos los días pues es apta para ojos sensibles.
 - VEGANO Y CRUELTY FREE: 3INA es una marca de maquillaje española que fabrica en Europa. Todos nuestros productos son veganos, libres de parabenos y sin crueldad animal.
-- TUBO METÁLICO: nuestra máscara de pestañas viene en un tubo metálico con cierre de clic para mantener fresco el producyo. Combinalo con The 24H Pen Eyeliner y crea el perfecto cat eye.
+- 24H: la mascara de pestañas tiene un acabado negro intenso. Aporta ultradefinición y efecto panorámico, sin grumos, a tu mirada. Elige la formula perfecta para ti mascara normla o mascara waterproof.
+- CEPILLO RELOJ DE ARENA: nuestra máscara llevará a tus pestañas al siguiente nivel, curvándolas y creando volumen extra. Su cepillo permite llegar a las pestañas más pequeñas de una manera uniforme.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B099FFFMKJ{{</world>}}

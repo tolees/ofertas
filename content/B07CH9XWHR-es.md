@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Crema para rostro y cuerpo que hidrata intensamente y restaura la barrera natural de la piel. Con ceramidas esenciales, Ácido Hialurónico y Tecnología MVE. Para piel seca a muy seca, irritada, con picor o con tendencia atópica.
 - Piel suave e hidratada durante 24h. Textura aterciopelada de rápida absorción. No comedogénica, sin perfume.
 - Aplicar al menos 2 veces/día. Movimientos circulares en piel limpia y seca. Complementa con otros productos CeraVe.
+- Crema para rostro y cuerpo que hidrata intensamente y restaura la barrera natural de la piel. Con ceramidas esenciales, Ácido Hialurónico y Tecnología MVE. Para piel seca a muy seca, irritada, con picor o con tendencia atópica.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07CH9XWHR{{</world>}}

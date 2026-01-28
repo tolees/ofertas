@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material exterior: Cuero
 - Material de la suela: Material Sintético
+- Material exterior: Cuero
 - Cierre: Cremallera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

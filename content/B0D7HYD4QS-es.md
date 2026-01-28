@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Refresco sabor naranja
 - Pack de 24 latas de 330 ml
+- Refresco sabor naranja
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D7HYD4QS{{</world>}}

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Dispositivos compatibles: TA3252CI
-- 15.000 lados
-- Número de páginas impresas: 15
 - Color magenta
+- 15.000 lados
 - Producto de alta calidad marca Kyocera
+- Número de páginas impresas: 15
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01M8HZXSX{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con triple acción despigmentante, aclara y uniﬁca el tono de la piel, ayuda a reducir las manchas solares gracias al dp3-unify complex
 - Previene la formación de nuevas manchas gracias a su protección UVA, contiene alantoína, que promueve la regeneración de la piel
-- Para tratar las manchas debidas al sol de la zona de la frente, las mejillas y el labio superior y pieles que actualmente tienen manchas solares
 - Testado dermatológicamente, resistente al agua
+- Con triple acción despigmentante, aclara y uniﬁca el tono de la piel, ayuda a reducir las manchas solares gracias al dp3-unify complex
+- Para tratar las manchas debidas al sol de la zona de la frente, las mejillas y el labio superior y pieles que actualmente tienen manchas solares
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00GY2IF78{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Suela muy ligera, antideslizante y flexible
 - Forro y plantilla transpirables, absorbentes y de secado rápido
 - Forro transpirable, piso flexible y plantilla de piel muy acolchada y transpirable
-- Suela muy ligera, antideslizante y flexible
 - Botines colegiales negros de piel curtida de forma sostenible
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

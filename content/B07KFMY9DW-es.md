@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Hecho de material de jersey cálido, transpirable y cómodo
-- Con el logotipo de la marca HH bordado en el pecho
 - Versátil como una capa intermedia en la primavera y en verano o con algunas capas de base Helly Hansen en invierno
 - Tiene cierre de cremallera 1/2 YKK frontal con costuras planas para reducir volumen
+- Con el logotipo de la marca HH bordado en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07KFMY9DW{{</world>}}

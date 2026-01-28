@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro textil
-- Suela de goma vulcanizada
 - Fiel a la talla
 - Cierre de cordones
+- Suela de goma vulcanizada
+- Forro textil
 - Parte superior de piel revestida
 - Mediasuela con amortiguación
 

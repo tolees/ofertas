@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Largo clásico
-- Puños de canalé
 - 75% algodón / 22% poliéster reciclado / 2% elastán / 1% nailon reciclado
 - Amortiguación en la puntera y el talón
+- Largo clásico
+- Puños de canalé
 - Tres pares por paquete
 
 [🛒 Aquí!!!]({{< param buyurl >}})
