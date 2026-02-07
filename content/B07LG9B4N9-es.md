@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'Skechers Summits Lite Zapatillas Mujer Rose Mesh White Trim 39 EU'
+date: 2025-12-30 07:04:31
+image: 'https://m.media-amazon.com/images/I/41lUJocRKgL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B07LG9B4N9-es Skechers Summits Lite Zapatillas Mujer Rose Mesh White...'
+sku: 'B07LG9B4N9-es'
+tags: [ 'Arborist Merchandising Root','Compra 2, y obtén un 10% de descuento','Compra 2, y obtén un 10% de descuento_Shoes','Compre 2 y obtenga un 10 % de descuento','Compre 2 y obtenga un 10 % de descuento_Shoes1','ES Skechers PD','ES WTBB Group 2','ES WTBB Group 3','Fashion Women','Fashion Womens Footwear','Hand-picked ladies summer outfits','Influencer Favourites','MFN 4','Moda','Moda Mujer','Ofertas moda','Self Service','Skechers','Special Features Stores','Tienda Skechers','Top Brands Fashion Selection','Top Brands Fashion Womens Footwear','Top brands','Trainers','Wardrobe Essentials','Wardrobe Essentials - Shoes','Women','Women Top Brands Bestsellers','Zapatillas casual para mujer','Zapatillas deportivas y de moda para mujer','Zapatos para mujer','c8538d25-3af9-48d3-aeff-5f3ce5572a36_0','c8538d25-3af9-48d3-aeff-5f3ce5572a36_1','c8538d25-3af9-48d3-aeff-5f3ce5572a36_1001','c8538d25-3af9-48d3-aeff-5f3ce5572a36_1201','c8538d25-3af9-48d3-aeff-5f3ce5572a36_1901','c8538d25-3af9-48d3-aeff-5f3ce5572a36_2101','c8538d25-3af9-48d3-aeff-5f3ce5572a36_3301','c8538d25-3af9-48d3-aeff-5f3ce5572a36_3901','c8538d25-3af9-48d3-aeff-5f3ce5572a36_4101','c8538d25-3af9-48d3-aeff-5f3ce5572a36_5001','c8538d25-3af9-48d3-aeff-5f3ce5572a36_601','c8538d25-3af9-48d3-aeff-5f3ce5572a36_6301','c8538d25-3af9-48d3-aeff-5f3ce5572a36_8401','c8538d25-3af9-48d3-aeff-5f3ce5572a36_9001','skechers','top brands_shoes','🇪🇸', ]
+actualPrice: 32.49 EUR
+currency: EUR
+price: 32.49
+comparePrice: 69.95 EUR
+prodname: 'Skechers Summits Lite Zapatillas Mujer Rose Mesh White Trim 39 EU'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Skechers'
+buyurl: 'https://www.amazon.es/dp/B07LG9B4N9/?tag=tolees-21'
+descuento: '53.55'
+average: '40.3723684210526'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Suela de tracción de goma flexible
+- Entresuela ligera y flexible que absorbe los golpes
+- Diseño deportivo sin cordones
+- Parte superior de punto de malla plana suave con cordones elásticos en la parte delantera
+
+[🛒 Comprar!!!]({{< param buyurl >}})
+{{<world>}}B07LG9B4N9{{</world>}}

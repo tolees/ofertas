@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Calvin Klein Polo manga corta Hombre Monogram Pique de algodón Marrón Beluga XL'
+date: 2025-12-14 21:40:18
+image: 'https://m.media-amazon.com/images/I/31BW3DKov+L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0DSXZXCXN-es Calvin Klein Polo manga corta Hombre Monogram Pique de...'
+sku: 'B0DSXZXCXN-es'
+tags: [ '20% de ahorro en moda','20% de ahorro en ropa','Arborist Merchandising Root','Calvin Klein Hombre','Calvin Klein Store','Camisetas, polos y camisas para hombre','Denim','Moda','Moda Hombre','Polos para hombre','Prime Student -10% adicional en una selección de Moda','Ropa de hombre','Ropa: -10% adicional en una selección de Moda','Self Service','Special Features Stores','c8538d25-3af9-48d3-aeff-5f3ce5572a36_0','c8538d25-3af9-48d3-aeff-5f3ce5572a36_4601','c8538d25-3af9-48d3-aeff-5f3ce5572a36_4801','c8538d25-3af9-48d3-aeff-5f3ce5572a36_7601','c8538d25-3af9-48d3-aeff-5f3ce5572a36_8301','c8538d25-3af9-48d3-aeff-5f3ce5572a36_8901','calvin klein','🇪🇸', ]
+actualPrice: 39.91 EUR
+currency: EUR
+price: 39.91
+comparePrice: 69.9 EUR
+prodname: 'Calvin Klein Polo manga corta Hombre Monogram Pique de algodón Marrón Beluga XL'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Calvin Klein'
+buyurl: 'https://www.amazon.es/dp/B0DSXZXCXN/?tag=tolees-21'
+descuento: '42.90'
+average: '39.91'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- AJUSTE PERFECTO: Este top minimalista de corte norma es cómodo y agradable al tacto. Gracias a su tejido de excelente calidad, ofrece una óptima libertad de movimientos y es supercómodo de llevar.
+- ICÓNICO Y ATEMPORAL: El polo original de Calvin Klein tiene un diseño depurado y convence por su look deportivo. El logotipo de Calvin Klein en el pecho completa el look de la camiseta.
+- EMOCIONANTE Y CLARO: La marca de moda Calvin Klein, fundada en 1968, es conocida por su singular look y lleva conquistando el mundo de la moda desde entonces. La marca americana apuesta por una estética minimalista.
+- MATERIAL Y CUIDADO: Polo de algodón 100 %. Se puede lavar a máquina.
+- PARA CUALQUIER OCASIÓN: La camiseta convence por su agradable algodón de piqué y es ideal para usar a diario o para la oficina. La puedes llevar sola o debajo de un jersey, es la elección ideal para cualquier ocasión.
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B0DSXZXCXN{{</world>}}
