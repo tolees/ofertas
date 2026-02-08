@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Óptima durabilidad y antiadherencia; diámetro base inducción: 21 cm
 - Antiadherente cerámico libre de PFOA y PTFE lo que la hace ecológica y sostenible
+- Óptima durabilidad y antiadherencia; diámetro base inducción: 21 cm
 - Su mango ergonómico para un agarre óptimo dotan a esta sartén de un diseño con matices naturales, suaves y contemporáneos
 - Fabricada en aluminio forjado 100% reciclado (certificado) de 4 mm espesor con recubrimiento cerámico que nos permite cocinar de una manera sana con menos energía en los fogones dado que se aprovecha mejor el calor residual; estos materiales, al final de su vida útil, son totalmente reciclables
 

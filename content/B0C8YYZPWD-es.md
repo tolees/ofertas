@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Coating: PFC free hydrophobic treatment
-- __Collection:__ Everyday collection
-- Water repellent
 - __Fit:__ Straight leg fit
+- Coating: PFC free hydrophobic treatment
+- Water repellent
+- __Collection:__ Everyday collection
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C8YYZPWD{{</world>}}

@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Felpa francesa en color índigo
-- Corte regular
+- Sudadera con capucha y cremallera completa
 - Dos bolsillos
 - Ajuste regular
+- Corte regular
+- Felpa francesa en color índigo
 - 26% poliéster
-- Sudadera con capucha y cremallera completa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B083SSH57S{{</world>}}

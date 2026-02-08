@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Los animalitos que aparecen són: tucán, chimpancé, tigre, león, zebra, elefante y jirafa
 - Puzle de cartón de 16 piezas gigantes decreciente de animales de la selva
-- El puzle lleva ilustrados distintos animalitos de la selva ordenados por su tamaño de menor a mayor
 - Habilidades que desarrolla: coordinación ojo-mano, motricidad, visión espacial y el pensamiento lógico
+- El puzle lleva ilustrados distintos animalitos de la selva ordenados por su tamaño de menor a mayor
+- Los animalitos que aparecen són: tucán, chimpancé, tigre, león, zebra, elefante y jirafa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01N6ZI9ZO{{</world>}}

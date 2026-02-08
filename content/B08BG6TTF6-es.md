@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 250 uds aprox por bolsa.
 - Frambuesa, fresa, cola, manzana y sandía
+- 250 uds aprox por bolsa.
 - Sin gluten
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

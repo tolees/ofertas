@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Punta redondeada
 - Logotipo de la marca
+- Punta redondeada
 - Slip On
 
 [🛒 Aquí!!!]({{< param buyurl >}})

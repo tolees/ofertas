@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricado íntegramente en España. Cuenta con la garantía de calidad de Todocama.
 - Está fabricado con materiales de primerísima calidad. La composición del rizo es 100% micro poliéster y la base es de PU (poliuretano).
 - Ajustable para colchones de 190 y 200 centímetros con una altura máxima de 30 cm.
-- Este cubre colchón protege el colchón y prolonga la vida útil del mismo. Funciona como barrera anti-ácaros y anti-bacterias.
+- Fabricado íntegramente en España. Cuenta con la garantía de calidad de Todocama.
 - 100% impermeable y 100% transpirable.
+- Este cubre colchón protege el colchón y prolonga la vida útil del mismo. Funciona como barrera anti-ácaros y anti-bacterias.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08PL6WB1V{{</world>}}

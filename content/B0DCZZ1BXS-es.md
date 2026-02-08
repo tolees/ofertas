@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Taza take away térmica de 370 ml de capacidad, realizada con acero inoxidable de doble pared. Mantiene el calor y el frío durante 10 horas. ​
 - Indicaciones: es apta para lavavajillas, aunque se recomienda lavarla a mano. No meter en el microondas. Lavar antes del primer uso. Cuando no esté en uso, se recomienda guardarla abierta para evitar la formación de malos olores.
 - Totalmente libre de BPA y con cierre hermético.​
+- Taza take away térmica de 370 ml de capacidad, realizada con acero inoxidable de doble pared. Mantiene el calor y el frío durante 10 horas. ​
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DCZZ1BXS{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El rodillo de guía al ras incluido: permite realizar trabajos de corte al ras con una fresa de canal recto estándar, evitando el riesgo de estropear chapas delicadas al entrar en contacto con ellas
-- Recorte rápido y limpio: gracias al motor 550 W girando a 33 000 rpm y un sistema de profundidad de cremallera y piñón permite cambiar fácilmente la profundidad de corte
 - Incluye: GLF 55-6, base fijada, tope paralelo, rodillo de guía al ras, adaptador de aspiración, pinza de sujeción 6 mm, llave de una broca 10 mm, llave de una broca 17 mm
-- Diseño ultracompacto: esta fresadora apta para laminados con una zona de agarre delgada para controlar la herramienta sin esfuerzo con una sola mano
 - Visión máxima: el tope paralelo incluido proporciona mayor versatilidad para el fresado de canal ligero, y la base de policarbonato transparente permite la entrada de luz adicional en la zona de corte
+- El rodillo de guía al ras incluido: permite realizar trabajos de corte al ras con una fresa de canal recto estándar, evitando el riesgo de estropear chapas delicadas al entrar en contacto con ellas
+- Diseño ultracompacto: esta fresadora apta para laminados con una zona de agarre delgada para controlar la herramienta sin esfuerzo con una sola mano
+- Recorte rápido y limpio: gracias al motor 550 W girando a 33 000 rpm y un sistema de profundidad de cremallera y piñón permite cambiar fácilmente la profundidad de corte
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CPQ72WB2{{</world>}}

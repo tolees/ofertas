@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mediasuela con amortiguación
+- Forro textil
+- Suela de goma vulcanizada
 - Cierre de cordones
 - Parte superior de ante
-- Suela de goma vulcanizada
-- Forro textil
 - Horma clásica
+- Mediasuela con amortiguación
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C541QGMT{{</world>}}

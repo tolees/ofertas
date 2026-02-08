@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Número de piezas: 8000🧩. Medida aproximada una vez montado: 192 x 136 cm.
-- Creando puzzles desde 1967. Educa es sinónimo de calidad y experiencia.
 - Nuestros puzzles adultos desde 500 piezas se recomiendan a partir de 14 años.
-- Incluye servicio de pieza perdida hasta agotar existencias
+- Creando puzzles desde 1967. Educa es sinónimo de calidad y experiencia.
 - 🌱 Producto respetuoso con el medio ambiente gracias a su producción con tintas vegetales, éstas se basan en materiales renovables y orgánicos con una liberación casi nula de CoV (compuestos orgánicos volátiles). Materiales de alta calidad y óptimo encaje. Creando puzles desde 1967, Educa es sinónimo de calidad y experiencia.
+- Incluye servicio de pieza perdida hasta agotar existencias
+- Número de piezas: 8000🧩. Medida aproximada una vez montado: 192 x 136 cm.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07L3SNFPF{{</world>}}

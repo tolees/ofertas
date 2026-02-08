@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Horma clásica
-- Refuerzo y estabilizador del talón de TPU
-- Logotipo del equipo de Fórmula 1 Mercedes - AMG Petronas
-- Suela de goma
 - Empeine de malla
+- Refuerzo y estabilizador del talón de TPU
 - Mediasuela Cloudfoam
+- Suela de goma
+- Logotipo del equipo de Fórmula 1 Mercedes - AMG Petronas
 - Contiene al menos un 20% de material reciclado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

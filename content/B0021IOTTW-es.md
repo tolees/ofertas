@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - PARA LOS MEJORES RESULTADOS DE CAFÉ: El uso regular extiende la vida de su máquina, preserva la eficiencia energética y mantiene el sabor del café.
-- INGREDIENTES NATURALES: Contiene solo ingredientes naturales de alta calidad de origen vegetal, diseñados para no contaminar el medio ambiente.
-- Diluir 100ml de solución en 1L de agua. Para el proceso de descalcificación, siga siempre las instrucciones del manual de su cafetera DeLonghi.
-- DESCALCIFICADOR MULTIUSO: este paquete de descalcificador líquido para cafeteras contiene 2 botellas de 100 ml, adecuado para 2 usos
-- CUIDADO EFECTIVO DE MÁQUINAS: EcoDecalk con ácido láctico de origen vegetal es más rápido y efectivo que los removedores de cal a base de ácido cítrico convencionales.
 - SOLUCIÓN SUAVE DE DESCALCIFICACIÓN: Esta solución de descalcificación universal ecológica es suave con tu cafetera y con el medio ambiente.
+- CUIDADO EFECTIVO DE MÁQUINAS: EcoDecalk con ácido láctico de origen vegetal es más rápido y efectivo que los removedores de cal a base de ácido cítrico convencionales.
+- DESCALCIFICADOR MULTIUSO: este paquete de descalcificador líquido para cafeteras contiene 2 botellas de 100 ml, adecuado para 2 usos
+- Diluir 100ml de solución en 1L de agua. Para el proceso de descalcificación, siga siempre las instrucciones del manual de su cafetera DeLonghi.
+- INGREDIENTES NATURALES: Contiene solo ingredientes naturales de alta calidad de origen vegetal, diseñados para no contaminar el medio ambiente.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0021IOTTW{{</world>}}

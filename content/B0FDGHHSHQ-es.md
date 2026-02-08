@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lavado a máquina
-- Material: 100% poliéster
 - Colección multilicense cottage
+- Material: 100% poliéster
+- Lavado a máquina
 - Pijama de manga larga pantalón largo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

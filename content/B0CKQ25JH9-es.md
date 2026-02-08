@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La parte superior contiene al menos un 50% de material reciclado
-- Suela de goma que no deja marcas
-- Forro textil
-- Parte superior de piel sintética
 - Horma clásica
+- Suela de goma que no deja marcas
+- La parte superior contiene al menos un 50% de material reciclado
+- Parte superior de piel sintética
+- Forro textil
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CKQ25JH9{{</world>}}

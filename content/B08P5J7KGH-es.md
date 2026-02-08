@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Resistente al agua hasta 50 metros
-- Puedes practicar hasta 17 deportes distintos y más de 100 ejercicios
-- 16 días de batería con una carga en uso normal y 22 días en modo long-battery. 50+ horas de duración de la batería en modo Deportes
 - Pantalla Amoled HD 1,39
 - Es capaz de leer todas las variables de salud: monitorización del nivel de estrés, entrenamiento de la respiración, nivel de oxígeno en sangre, monitorización de la energía corporal, monitorización de la frecuencia cardíaca en tiempo real, monitorización del ciclo del sueño (seguimiento REM, sueño profundo y ligero).
+- 16 días de batería con una carga en uso normal y 22 días en modo long-battery. 50+ horas de duración de la batería en modo Deportes
+- Puedes practicar hasta 17 deportes distintos y más de 100 ejercicios
+- Resistente al agua hasta 50 metros
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08P5J7KGH{{</world>}}

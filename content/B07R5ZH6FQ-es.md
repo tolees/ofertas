@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- FÁCIL DE APRENDER Y MUY DIVERTIDO: Los Castillos de Borgoña es un juego mesa ideal tanto para jugar en solitario como para compartir noches inolvidables con amigos o familia. Un juego de cartas y tablero perfecto para los amantes de los juegos de mesa adultos y juveniles.
-- LOS CASTILLOS DE BORGOÑA: UNA AVENTURA MEDIEVAL: Conviértete en un duque de la Borgoña del siglo XV y compite por el prestigio a través del comercio, la agricultura, la construcción y la investigación científica en este emocionante juego de mesa adulto.
 - DESCUBRE LA LÍNEA ALEA DE RAVENSBURGER: Completa tu colección con otros grandes juegos mesa como Las Vegas Royale, Puerto Rico o Castles of Tuscany, y disfruta de experiencias únicas con juegos de mesa adultos y juegos de mesa niños de máxima calidad.
-- CARACTERÍSTICAS DEL JUEGO: Diseñado para 1 a 4 jugadores, recomendado a partir de 12 años y con una duración de 70 a 120 minutos por partida. Edición en castellano con todos los componentes necesarios para una experiencia completa y envolvente.
 - CONSTRUYE TU PRESTIGIO CON ESTRATEGIA: A lo largo de 5 rondas, los jugadores tiran los dados para realizar acciones como tomar fichas, colocar construcciones, comerciar con mercancías y contratar trabajadores. El objetivo: ganar más puntos que todos los rivales y proclamarse vencedor.
+- LOS CASTILLOS DE BORGOÑA: UNA AVENTURA MEDIEVAL: Conviértete en un duque de la Borgoña del siglo XV y compite por el prestigio a través del comercio, la agricultura, la construcción y la investigación científica en este emocionante juego de mesa adulto.
+- FÁCIL DE APRENDER Y MUY DIVERTIDO: Los Castillos de Borgoña es un juego mesa ideal tanto para jugar en solitario como para compartir noches inolvidables con amigos o familia. Un juego de cartas y tablero perfecto para los amantes de los juegos de mesa adultos y juveniles.
+- CARACTERÍSTICAS DEL JUEGO: Diseñado para 1 a 4 jugadores, recomendado a partir de 12 años y con una duración de 70 a 120 minutos por partida. Edición en castellano con todos los componentes necesarios para una experiencia completa y envolvente.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07R5ZH6FQ{{</world>}}

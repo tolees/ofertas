@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Indicaciones: lavar el estuche a mano en agua fría. No planchar. No usar lejía. No meter en la secadora. No lavar en seco.
 - El tirador de la cremallera es idéntico al de otro producto de esta misma colección, un monedero de pequeño tamaño, lo que fomentará la venta cruzada de ambos productos.
+- El mensaje en español se presenta en un parche de tela cosido sobre el estuche.
 - Estuche realizado en poliéster, con acabado de rejilla transparente y cierre de cremallera. El tirador de la cremallera es sumamente original, ya que se trata de un cordón de poliéster grueso y estampado que cuenta con un colgante en forma de flor en su extremo.
 - En el interior del estuche encontramos tres bolígrafos metálicos, dos con tinta azul y uno con tinta negra. Cada uno de ellos con un mensaje en español: · Voy a darlo todo · Modo inspiración ON · Escribiendo, escribiendo…
-- Indicaciones: lavar el estuche a mano en agua fría. No planchar. No usar lejía. No meter en la secadora. No lavar en seco.
-- El mensaje en español se presenta en un parche de tela cosido sobre el estuche.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CQMTWX4C{{</world>}}

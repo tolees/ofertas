@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Aireado. Transpirable. Ligero. Esta prenda está confeccionada con una mezcla de lino y algodón que queda genial y resulta siempre cómoda.
 - Con tapeta de dos botones
-- Fit estándar
-- Un polo supersuave
 - El rey de los polos se actualiza. Nuestro polo Sweater Knit cuenta con una tapeta clásica de dos botones, cuello de polo y bordes ribeteados.
+- Aireado. Transpirable. Ligero. Esta prenda está confeccionada con una mezcla de lino y algodón que queda genial y resulta siempre cómoda.
+- Un polo supersuave
+- Fit estándar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DPNG77WV{{</world>}}

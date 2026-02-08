@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Barra de labios de larga duración que proporciona un color intenso hasta ocho horas
-- Fórmula vegana respetuosa con los animales con ingredientes que cuidan la piel. Libre de parabenos y aceites minerales.
 - Se desliza suavemente para una hidratación instantánea y una aplicación a prueba de errores.
+- Fórmula vegana respetuosa con los animales con ingredientes que cuidan la piel. Libre de parabenos y aceites minerales.
 - Se siente suave y cremoso en los labios y es cómodo de llevar.
 - Fórmula que no se corre, no se mancha y no se desvanece.
 

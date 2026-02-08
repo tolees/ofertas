@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mediasuela Bounce
-- Parte sintética suave
 - Forro textil
+- Parte sintética suave
 - Horma clásica
 - Cierre de cordones
+- Mediasuela Bounce
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C2QMCRWV{{</world>}}

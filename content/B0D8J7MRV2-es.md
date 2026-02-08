@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- ❤️ ERIK - Especializados en papelería, merchandising y póster con las licencias más actuales del mercado. Calidad y diseño es lo que nos caracteriza
 - 🖤 Conoce la colección de papelería Mickey ¡Te encantará!
 - ❤️ ¡Diferentes tamaños! En el interior del bloc podrás encontrar 2 librillos adhesivos de 2,3 x 7 cm, perfecto para usarlo como marcadores; 3 librillos adhesivos de 4,8 x 7 cm, perfecto para anotar recordatorios y un cuadernillo no adhesivo de 14 x 10 cm. Cada uno de ellos posee una personalización en cada una de sus hojas
-- ❤️ ERIK - Especializados en papelería, merchandising y póster con las licencias más actuales del mercado. Calidad y diseño es lo que nos caracteriza
 - ❤️ Las notas adhesivas son elementos esenciales para que puedas escribir recordatorios o marcadores rápidos y con este cuaderno notas podrás llevarlo contigo cómodamente y elegir el tamaño que más se adapte
 - 🖤 No te preocupes por las notas adhesivas esparcidas por todas partes, con este bloc notas las mantendrás todas en el mismo lugar ¡Aumenta tu productividad y mantenlo todo organizado!
 

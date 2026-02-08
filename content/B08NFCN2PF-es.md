@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Cierre: cordón
 - Forro: sintético
-- Tipo de tacón: plano
 - Ancho del zapato: medio
+- Tipo de tacón: plano
 - Parte superior: sintético
 
 [🛒 Visítala!!!]({{< param buyurl >}})

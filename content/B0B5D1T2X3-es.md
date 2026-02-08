@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Chaqueta deportiva de fútbol
+- Fabricada en material de poliéster
 - Con cierre de cremallera y bolsillos delanteros
 - Tela transpirable con tecnología Dri-FIT
-- Fabricada en material de poliéster
-- Chaqueta deportiva de fútbol
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B5D1T2X3{{</world>}}

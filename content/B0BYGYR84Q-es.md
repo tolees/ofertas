@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - COLORES CREMOSOS: elige tu color favorito desde rosas hasta rojos y naranjas. Su cremosa y ligera fórmula se funde y difumina en la piel fácilmente. Para un look más intenso, da varias pasadas.
 - 3 EN 1: nuestros coloretes funcionan como sombra de ojos, labial y rubor para dar color, contornear e iluminar tus mejillas, ojos y labios. Consigue un look sedoso, natural, luminoso y monocormático!
-- ÁCIDO HIALURÓNICO: coloretes en barra enriquecidos con esferas de ácido hialurónico aportando hidratación a la piel. Esta formulado con ingredientes naturales para una aplicación extrasuave.
-- VEGANO Y CRUELTY FREE: 3INA es una marca de maquillaje española que fabrica en Europa. Todos nuestros productos son veganos, libres de parabenos y sin crueldad animal.
 - ENVASE DE TACTO SUAVE: estos coloretes en crema tienen un diseño impecable que incluye un espacio en la base para guardar tu 3INA Mini Blender. Perfecto para retocar el maquillaje y viajar con él.
+- VEGANO Y CRUELTY FREE: 3INA es una marca de maquillaje española que fabrica en Europa. Todos nuestros productos son veganos, libres de parabenos y sin crueldad animal.
+- ÁCIDO HIALURÓNICO: coloretes en barra enriquecidos con esferas de ácido hialurónico aportando hidratación a la piel. Esta formulado con ingredientes naturales para una aplicación extrasuave.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BYGYR84Q{{</world>}}

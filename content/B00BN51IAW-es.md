@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- La bonita cara puede maquillarse con los colores del set de cosméticos del estuche en forma de corazón y también se puede lavar fácil
 - El lustro de labios, la sombra de ojos y el colorete están testados dermatológica, y las pinzas para el pelo, los pasadores y los mechones de pelo son elegantes y contemporáneos
+- Medidas: 23.5 cm x 13 cm x 27 cm; Apto para niños a partir de tres años
 - Con el corazón de maquillaje, el peine, el cepillo, las pinzas para el pelo, las horquillas, los abalorios para el pelo y la aguja para el pelo se pueden ejercitar las habilidades motoras y la creatividad
 - Esta cabeza es optima para los pequeños peluqueros y maquilladores: el pelo largo se puede cepillar, peinar y lavar como se desee
-- La bonita cara puede maquillarse con los colores del set de cosméticos del estuche en forma de corazón y también se puede lavar fácil
-- Medidas: 23.5 cm x 13 cm x 27 cm; Apto para niños a partir de tres años
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00BN51IAW{{</world>}}

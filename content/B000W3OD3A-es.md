@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cobertura alta, acabado luminoso y natural
-- Fórmula a prueba de roces, no mancha ni se transfiere
 - No comedogénico; no obstruye los poros
 - Cobertura líquida de larga duración
+- Fórmula a prueba de roces, no mancha ni se transfiere
 - Libre de aceites, adecuado para todo tipo de pieles
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ¡Un poco de astucia, un poco de concentración, un poco de memoria y ya estás preparado!
-- De 4 a 12 jugadores; A partir de 8 años de edad
-- ¿O piensas que eres un fan imbatible?
-- ¿No sabes nada del universo de Harry Potter?
 - Tienes 40 segundos y 3 rondas para conseguir que tu equipo adivine todas las cartas posibles
+- ¿No sabes nada del universo de Harry Potter?
+- De 4 a 12 jugadores; A partir de 8 años de edad
+- ¡Un poco de astucia, un poco de concentración, un poco de memoria y ya estás preparado!
+- ¿O piensas que eres un fan imbatible?
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B098NW54QD{{</world>}}

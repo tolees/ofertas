@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Protección frente al agua IP68: el smartphone se ha diseñado para resistir al polvo, la suciedad y la arena, además de para sumergirse a 1,5 metros de agua dulce durante un máximo de 30 minutos
-- Diseño de vanguardia y colores PANTONE: fino, ligero, curvo y disponible en cuero vegano y en colores especialmente seleccionados por expertos
 - Carga TurboPower rápida de 68 W: disfruta de autonomía para todo el día en tan solo 15 minutos de carga
 - Cámara Ultra Pixel de 50 MP y OIS: captura fotos definidas y vivas con cualquier luz, así como imágenes luminosas de noche 16 veces más rápido
+- Protección frente al agua IP68: el smartphone se ha diseñado para resistir al polvo, la suciedad y la arena, además de para sumergirse a 1,5 metros de agua dulce durante un máximo de 30 minutos
+- Diseño de vanguardia y colores PANTONE: fino, ligero, curvo y disponible en cuero vegano y en colores especialmente seleccionados por expertos
 - Pantalla envolvente pOLED de 6,55” a 144 Hz: disfruta de tus películas, programas y juegos favoritos con contrastes infinitos y una velocidad de actualización rápida
 
 [🛒 Visítala!!!]({{< param buyurl >}})

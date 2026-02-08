@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Suela de tracción de goma flexible
-- Diseño de tenis de entrenamiento atlético con cordones
 - Skechers Plantilla acolchada de espuma viscoelástica
+- Diseño de tenis de entrenamiento atlético con cordones
 - Parte superior de cuero liso, sintético y malla
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

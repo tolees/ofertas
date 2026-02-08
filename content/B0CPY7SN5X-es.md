@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Es necesario inflarlo
 - Cubierta 100% poliuretano reciclado
+- Es necesario inflarlo
 - Cámara de butilo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

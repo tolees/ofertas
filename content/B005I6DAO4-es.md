@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- POMADA CUIDADO INTENSIVO PARA TATUAJES: Contiene emolientes, que forman una barrera protectora que evita la deshidratación y aísla de sustancias irritantes, y Pantenol (provitamina B5) para una rápida recuperación de la piel tatuada.
-- APLICA 4 VECES AL DÍA una fina capa de pomada en cada tatuaje, que formará una capa transparente que no necesita ser retirada.
 - CREMA TATUAJES: Bepanthol Tattoo es la fórmula experta para el cuidado específico de la piel tatuada, tanto para tatuajes recientes como antiguos; hidrata y repara la piel, preservando la belleza del tatuaje.
 - PROTECCIÓN SUAVE Y PURA SIN CONSERVANTES Y SIN PERFUME: Fórmula dermatológicamente testada en pieles tatuadas.
 - BEPANTHOL TATTOO: Mantiene la piel hidratada, imprescindible para un tatuaje pulido; ayuda a regenerar la piel tras el tatuaje; protege la piel con una capa transparente que permite que la piel respire.
+- POMADA CUIDADO INTENSIVO PARA TATUAJES: Contiene emolientes, que forman una barrera protectora que evita la deshidratación y aísla de sustancias irritantes, y Pantenol (provitamina B5) para una rápida recuperación de la piel tatuada.
+- APLICA 4 VECES AL DÍA una fina capa de pomada en cada tatuaje, que formará una capa transparente que no necesita ser retirada.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B005I6DAO4{{</world>}}

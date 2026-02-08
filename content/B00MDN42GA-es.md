@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La llamada "La vitamina del sol" para mantener los huesos y los dientes sanos; ayuda a la función muscular y refuerza el sistema inmunitario; cómoda formulación masticable. La vitamina D es necesaria para el normal crecimiento y desarrollo de los huesos en los niños y contribuye a mantener unos dientes y huesos normales en adultos; también ayuda a reforzar el sistema inmunitario del organismo; la vitamina D3 de este producto es una vitamina liposoluble, igual a la producida por el organismo al exponer la piel a la luz solar
-- Sin gluten; no contiene almidón, levadura, trigo, soja ni derivados lácteos; está formulado sin conservadores, edulcorantes, aromatizantes ni colorantes artificiales
-- Apto para Vegetarianos y Kosher
 - DOSIS DIARIA RECOMENDADA para adultos y niños a partir de 4 años, masticar un (1) comprimido al día, preferiblemente con las comidas, no debe superarse la dosis diaria expresamente recomendada para este producto
+- La llamada "La vitamina del sol" para mantener los huesos y los dientes sanos; ayuda a la función muscular y refuerza el sistema inmunitario; cómoda formulación masticable. La vitamina D es necesaria para el normal crecimiento y desarrollo de los huesos en los niños y contribuye a mantener unos dientes y huesos normales en adultos; también ayuda a reforzar el sistema inmunitario del organismo; la vitamina D3 de este producto es una vitamina liposoluble, igual a la producida por el organismo al exponer la piel a la luz solar
+- Apto para Vegetarianos y Kosher
+- Sin gluten; no contiene almidón, levadura, trigo, soja ni derivados lácteos; está formulado sin conservadores, edulcorantes, aromatizantes ni colorantes artificiales
 - INGREDIENTES por comprimido: Vitamina D3 (1000 UI, colecalciferol) 25 μg
 
 [🛒 Visítala!!!]({{< param buyurl >}})

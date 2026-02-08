@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ¡Hazte con la aclamada experiencia de TMNT con este Deluxe Bundle y COMBATE, ADÁPTATE y REPITE para restaurar la paz en la ciudad!
-- ¡Desata el Poder de las Tortugas! Reúne a tus amigos, elige tu Tortuga favorita y lánzate a una aventura roguelike para salvar al Maestro Splinter del Clan del Pie.
 - UNA HISTORIA EMOCIONANTE: Cuando Shredder secuestra a Splinter, misteriosos portales aparecen simultáneamente por toda Nueva York
 - CONSTRUYE TU PODER: Domina los poderes del agua y el fuego, los utrom y el fango, la luz y la oscuridad, y - lo más importante - el Ninja para crear combinaciones únicas y fantásticas para tus Tortugas
+- ¡Hazte con la aclamada experiencia de TMNT con este Deluxe Bundle y COMBATE, ADÁPTATE y REPITE para restaurar la paz en la ciudad!
+- ¡Desata el Poder de las Tortugas! Reúne a tus amigos, elige tu Tortuga favorita y lánzate a una aventura roguelike para salvar al Maestro Splinter del Clan del Pie.
 - CASEY JONES, A LA CARGA! Las Tortugas necesitan toda la ayuda posible para enfrentarse a Shredder y tratar de recuperar a su padre
 
 [🛒 Aquí!!!]({{< param buyurl >}})

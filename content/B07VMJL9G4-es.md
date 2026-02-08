@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- VEGANO: este producto no contiene ingredientes de origen animal.
-- CRUELTY FREE (SIN CRUELDAD ANIMAL): los productos de Revolution Beauty son cruelty free y siempre lo han sido. Contamos con la certificación de PETA y nunca hemos permitido que se realicen pruebas en animales en ninguna etapa del desarrollo, tanto de los ingredientes como de los productos finales.
-- PARA LLEVAR TODO EL DÍA: estos polvos finamente molidos proporcionan una capa de color fuerte y adaptable en las mejillas con la que se puede conseguir un aspecto natural y sonrojado, o un aspecto más llamativo.
 - ALTA PIGMENTACIÓN: ¡regálese un refrescante respiro con los ligeros tonos rosas y lilas de Sweet Pea!
+- VEGANO: este producto no contiene ingredientes de origen animal.
 - CÓMO SE USA: utilice su brocha de colorete favorita para aplicarse el producto en las mejillas.
+- PARA LLEVAR TODO EL DÍA: estos polvos finamente molidos proporcionan una capa de color fuerte y adaptable en las mejillas con la que se puede conseguir un aspecto natural y sonrojado, o un aspecto más llamativo.
+- CRUELTY FREE (SIN CRUELDAD ANIMAL): los productos de Revolution Beauty son cruelty free y siempre lo han sido. Contamos con la certificación de PETA y nunca hemos permitido que se realicen pruebas en animales en ninguna etapa del desarrollo, tanto de los ingredientes como de los productos finales.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07VMJL9G4{{</world>}}

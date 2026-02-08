@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Slim STRAIGHT
 - Spade Pocket
 - Denim Stretch
+- Slim STRAIGHT
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08DV81QN3{{</world>}}

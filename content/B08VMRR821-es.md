@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Incluye: UniversalBrush, 1 cable micro USB, 1 cepillo de cerdas, 1 cepillo fino, 1 portaalmohadillas con fijación mediante cierre por contacto, 1 almohadilla de microfibras antiarañazos, 1 almohadilla abrasiva de alta resistencia, en caja de cartón
-- Su protección frente al agua (IP X5) permite su uso en entornos húmedos
 - Gran capacidad de limpieza, incluso aplicando presión, gracias a su potente motor
+- Su protección frente al agua (IP X5) permite su uso en entornos húmedos
 - Gracias a los accesorios intercambiables, el cepillo es versátil para su uso en diferentes tareas de limpieza y superficies, p. ej. azulejos de baño, hornillos de cocina, ollas y sartenes y muebles de jardín
 - Herramientas Universal de Bosch: versátiles y potentes para una amplia variedad de tareas de limpieza
 

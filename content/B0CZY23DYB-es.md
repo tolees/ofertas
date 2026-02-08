@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- 6 FUNCIONES DE COCCIÓN: Max Crisp, Freír con aire, Asar, Hornear, Recalentar y Deshidratar. Hasta un 75% menos de grasa* utilizando la función Freír con aire (*Probado con patatas fritas cortadas a mano). Funciones SYNC y MATCH para los 2 cajones
 - EXCLUSIVO DE AMAZON: freidora de aire con pinzas de silicona. 30% más delgada (vs el modelo AF400). Capacidad de 9,5 l para alimentar hasta 8 personas. Hasta un 55% más rápida que los hornos eléctricos (probado con palitos de pescado y salchichas)
 - INCLUYE: Freidora de aire Ninja Double Stack XL de 9,5 L (enchufe UE), 2 cestas de 4,75 l, 2 rejillas base antiadherentes, 2 rejillas y pinzas de silicona. Piezas aptas para lavavajillas. Dimensiones: 28 x 38,5 x 47 cm. Peso: 10,3 kg
 - COCINA EN 4 NIVELES AL MISMO TIEMPO: incluye 2 cajones y 2 rejillas para comidas, brindándote 4 niveles para cocinar el doble de alimentos. Los ventiladores traseros aseguran que la comida se cocine de manera uniforme y quede crujiente
 - EFICIENCIA ENERGÉTICA: Cocina con menos energía que un horno* (*Pruebas y cálculos basados en tiempo de cocción recomendado para salchichas, usando la función de freír con aire vs. un horno de 68 L con clasificación “A” y 71 L con clasificación “A+)
-- 6 FUNCIONES DE COCCIÓN: Max Crisp, Freír con aire, Asar, Hornear, Recalentar y Deshidratar. Hasta un 75% menos de grasa* utilizando la función Freír con aire (*Probado con patatas fritas cortadas a mano). Funciones SYNC y MATCH para los 2 cajones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CZY23DYB{{</world>}}

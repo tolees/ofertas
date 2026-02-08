@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Icono reinventado: a partir del legado del diseño más popular de Logitech, G502 X PLUS se reinventa y rediseña con las ultimas innovaciones para gaming; disponible en blanco y negro
 - Interruptores LIGHTFORCE: la tecnología de interruptores híbridos óptico-mecánicos ofrece una velocidad y fiabilidad de calidad, así como un accionamiento preciso con una respuesta nítida
+- Icono reinventado: a partir del legado del diseño más popular de Logitech, G502 X PLUS se reinventa y rediseña con las ultimas innovaciones para gaming; disponible en blanco y negro
+- LIGHTSYNC RGB: ratón RGB con iluminación de 8 LED personalizable y adaptable al gaming, con efectos de encendido y apagado y optimización de la batería mediante la detección activa del juego
 - Inalámbrico LIGHTSPEED: el ratón inalámbrico presenta una conectividad de nivel profesional con una respuesta un 68%, más rápida que la generación anterior y con una mayor fiabilidad
 - Sensor HERO 25K para gaming: preciso hasta la submicra para una exactitud de precisión con cero suavizado/filtrado/aceleración para un alto rendimiento de gaming siempre en el ordenador
-- LIGHTSYNC RGB: ratón RGB con iluminación de 8 LED personalizable y adaptable al gaming, con efectos de encendido y apagado y optimización de la batería mediante la detección activa del juego
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07W7MJ46M{{</world>}}

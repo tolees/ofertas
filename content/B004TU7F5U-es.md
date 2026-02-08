@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - disponible en nueve colores
-- páginas de cartón libre de ácido
-- con el corte en el frente para un foto
 - álbum de caracol de fotos de gran valor
+- páginas de cartón libre de ácido
 - con 40 páginas negras
 - con cubierta de estructura de alta calidad
+- con el corte en el frente para un foto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B004TU7F5U{{</world>}}

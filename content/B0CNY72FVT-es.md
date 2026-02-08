@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Color: negro
-- Marca: Skechers
 - Talla: 30 EU
 - Tipo de producto: ZAPATOS
+- Marca: Skechers
 - Skechers UNO LITE-METALLIC MO Negro 30
 
 [🛒 Visítala!!!]({{< param buyurl >}})

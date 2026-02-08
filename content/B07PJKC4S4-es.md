@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- H: 110mm, W: 148.9mm, D: 96.7mm, Weight: 1017g. Todos los valores son aproximados. Peso con tarjeta SD y batería (el peso con tarjeta XQD y batería es de 1021 g). No se incluye el objetivo. Las dimensiones excluyen las protrusiones.
 - Enfoque automático (AF) de alta precisión y velocidad gracias a una comunicación superrápida entre el objetivo y el sensor de 480 fps y a la tecnología DFD de Panasonic
 - Grabación interna 4:2:2 a 10 bits y más de 14 stops de V Log/V-Gamut (opcional)
-- Vídeo 4K a 30p/25p/24p sin límite de tiempo de grabación y vídeo 4K a 60p/50p
+- H: 110mm, W: 148.9mm, D: 96.7mm, Weight: 1017g. Todos los valores son aproximados. Peso con tarjeta SD y batería (el peso con tarjeta XQD y batería es de 1021 g). No se incluye el objetivo. Las dimensiones excluyen las protrusiones.
 - Sensor CMOS de fotograma completo de 24,2 megapíxeles
+- Vídeo 4K a 30p/25p/24p sin límite de tiempo de grabación y vídeo 4K a 60p/50p
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07PJKC4S4{{</world>}}

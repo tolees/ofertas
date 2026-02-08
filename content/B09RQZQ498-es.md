@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - TECNOLOGÍA FREEGLIDE 3D Su suela de curvatura ascendente garantiza un desplazamiento de 360°. Se desliza hacia atrás por encima de cualquier objeto, como los botones y bolsillos
 - FUNCIÓN VERTICAL que permite planchar sin problemas cualquier pieza que cuelgue, desde camisas hasta cortinas
-- MODO TURBO para los tejidos más resistentes y el máximo rendimiento del vapor frente a las arrugas más resistentes
 - MODO ECO Para los tejidos delicados. Menor consumo de energía sin perjudicar el resultado. El sistema antigoteo evita la fuga de agua por la suela, incluso cuando el planchado es a baja temperatura
+- MODO TURBO para los tejidos más resistentes y el máximo rendimiento del vapor frente a las arrugas más resistentes
 - DISEÑO COMPACTO para ahorrar espacio y facilitar su manejo. Depósito de 1,5 litros que permite planchar hasta 1 hora sin necesidad de rellenarlo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

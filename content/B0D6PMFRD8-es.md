@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Skechers Detalle del logotipo
 - Entresuela de cuña oculta
 - Suela de tracción flexible
-- Skechers Detalle del logotipo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D6PMFRD8{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 0.5 litro de capacidad, lleva varios sistemas de medida: pintas, litros, cups
-- Apta para frigorífico, congelador, microondas y lavavajillas
 - Jarra medidora de vidrio templado, con asa y pico vertedero
+- Apta para frigorífico, congelador, microondas y lavavajillas
 - Tu complemento especial para repostería
+- 0.5 litro de capacidad, lleva varios sistemas de medida: pintas, litros, cups
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000KGALJE{{</world>}}

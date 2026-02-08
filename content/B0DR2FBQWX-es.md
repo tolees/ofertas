@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Libreta de tamaño A5 con portada de plástico translúcido y encuadernación en espiral.
 - En su interior cuenta con 4 separadores, también de plástico, para dividir el contenido. Con 160 páginas de papel con certificación FSC, que garantiza que proviene de bosques gestionados de forma responsable.
+- Libreta de tamaño A5 con portada de plástico translúcido y encuadernación en espiral.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DR2FBQWX{{</world>}}

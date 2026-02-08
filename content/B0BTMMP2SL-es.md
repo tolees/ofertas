@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fertilizante para asegurar un buen desarrollo de las plantas, Con hierro, magnesio y azufre para unas hojas verdes, fuertes y sanas, Refuerza la resistencia a enfermedades, Enriquece el substrato
 - Modo de empleo: Agitar antes de usar, Dosificar la cantidad deseada en el tapón, Regar en la base de la planta evitando las hojas, Leer atentamente las instrucciones en el envase
-- Apto para uso en jardinería doméstica: plantas de hoja verde de interior, balcón y terraza
 - Con ingredientes orgánicos y minerales, Producto apto para su uso en agricultura ecológica según el Reglamento (UE) 2018/848 y Reglamento de Ejecución (UE) 2021/1165
 - Contenido: 1x COMPO BIO Fertilizante Plantas verdes, Crecimiento sano, Para plantas verdes de interior y terraza, Líquido, 500 ml
+- Fertilizante para asegurar un buen desarrollo de las plantas, Con hierro, magnesio y azufre para unas hojas verdes, fuertes y sanas, Refuerza la resistencia a enfermedades, Enriquece el substrato
+- Apto para uso en jardinería doméstica: plantas de hoja verde de interior, balcón y terraza
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BTMMP2SL{{</world>}}

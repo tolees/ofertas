@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Resistente al agua
-- Crea una película elástica
-- Delineador deslizante para un look de duración
 - Para definir y exaltar los ojos
 - Proporciona un alto impacto de color
+- Delineador deslizante para un look de duración
+- Crea una película elástica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08PDP2GFN{{</world>}}

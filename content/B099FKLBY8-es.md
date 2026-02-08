@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- LOCK SYSTEM: sistema patentado por Solac de transporte y bloqueo. Puedes fijar la plancha al calderín y transportar cómodamente el centro de planchado. Cuenta con espacio para guardar el cable.
 - SMART TECHNOLOGY Y SUELA CERÁMICA: una única temperatura que se adapta a todos los tejidos para un planchado perfecto y sin complicaciones. Olvídate de ajustar la temperatura según cada prenda de ropa y disfruta del planchado más fácil, cómodo y rápido con la tecnología smart. Tecnología que cuenta con dos posiciones para regular el caudal de vapor: ECO y MAX. Apta para todos los tejidos. Centro de planchado con suela de cerámica ultra deslizante y con punta de precisión. Con sistema anti goteo.
+- QUICK START Y AUTO-OFF: 2400W de potencia que garantizan un planchado rápido y eficaz, sin esperas. Lista para usar en tal solo 30 segundos. Desconexión automática a los 7 minutos sin uso para un ahorro energético y un extra de seguridad.
 - SUPER VAPOR PRESURIZADO CON CARGA INFINITY: centro de planchado equivalente a 6.5 bares de vapor presurizado. Máxima fuerza e intensidad asegurada con el potente golpe de vapor electrónico de 400g/min y el eficaz caudal de vapor constante de 130g/min. Hasta 3.65m de radio de acción. Depósito de 1.5l con sistema de carga infinity, rellenable sin desconectar el centro de planchado. Vapor antibacteriano que elimina el 99% de las bacterias. Ropa totalmente higienizada y sin olores.
 - ÓPTIMO MANTENIMIENTO: sistema electrónico de auto limpieza Calc&Clean. Elimina toda la cal garantizando un perfecto rendimiento día tras día. Producto con 2 años de garantía.
-- QUICK START Y AUTO-OFF: 2400W de potencia que garantizan un planchado rápido y eficaz, sin esperas. Lista para usar en tal solo 30 segundos. Desconexión automática a los 7 minutos sin uso para un ahorro energético y un extra de seguridad.
+- LOCK SYSTEM: sistema patentado por Solac de transporte y bloqueo. Puedes fijar la plancha al calderín y transportar cómodamente el centro de planchado. Cuenta con espacio para guardar el cable.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B099FKLBY8{{</world>}}

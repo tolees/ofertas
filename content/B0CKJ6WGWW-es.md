@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Salta por la rampa y lánzate con suficiente fuerza como para lograr la mejor puntuación.
-- Lanza a toda velocidad el vehículo a escala 1:64 incluido a través de los loopings en forma de bumerán y vuelve a la zona de salida para lanzarlo de nuevo y continuar la carrera.
 - El conjunto permite un almacenamiento sencillo: Solo tienes que darle la vuelta a los tramos de pista y plegarlos. Cuenta incluso con un asa de transporte.
-- Compite y realiza acrobacias en el conjunto de pista Desafío vueltas de ciclón de Hot Wheels, que ofrece dos formas de jugar.
 - Es un regalo ideal para niños y niñas a partir de 4 años.
+- Lanza a toda velocidad el vehículo a escala 1:64 incluido a través de los loopings en forma de bumerán y vuelve a la zona de salida para lanzarlo de nuevo y continuar la carrera.
+- Salta por la rampa y lánzate con suficiente fuerza como para lograr la mejor puntuación.
+- Compite y realiza acrobacias en el conjunto de pista Desafío vueltas de ciclón de Hot Wheels, que ofrece dos formas de jugar.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKJ6WGWW{{</world>}}

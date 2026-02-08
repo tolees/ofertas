@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- BENEFICIOS: Estos ácidos grasos proporcionan brillo al pelaje, apoyan el sistema inmunológico y fortalecen las articulaciones y los huesos. Además, su delicioso sabor incrementa el apetito y la palatabilidad del pienso habitual.
 - MODO DE EMPLEO: Administrar diariamente en la comida, durante al menos 15 días para notar sus efectos 3ml de aceite por cada 10kg de peso corporal del perro.
-- CON OMEGA-3 Y 6: Enriquece la dieta diaria gracias a su alto contenido en ácidos grasos Omega-3 y Omega-6
-- MÁXIMA CALIDAD: El aceite de salmón es un alimento de primera calidad para perros y gatos.
 - MENFORSAN: En Menforsan nos preocupamos por la salud de los animales y el cuidado del planeta, por lo que creamos productos naturales vegan friendly de la mejor calidad.
+- MÁXIMA CALIDAD: El aceite de salmón es un alimento de primera calidad para perros y gatos.
+- CON OMEGA-3 Y 6: Enriquece la dieta diaria gracias a su alto contenido en ácidos grasos Omega-3 y Omega-6
+- BENEFICIOS: Estos ácidos grasos proporcionan brillo al pelaje, apoyan el sistema inmunológico y fortalecen las articulaciones y los huesos. Además, su delicioso sabor incrementa el apetito y la palatabilidad del pienso habitual.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09SGJV2ZX{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Horma clásica
-- Mediasuela Cloudfoam
-- Empeine textil
-- Suela de goma
 - Forro textil
+- Horma clásica
+- Suela de goma
+- Empeine textil
+- Mediasuela Cloudfoam
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CKXRTS8G{{</world>}}

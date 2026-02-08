@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Materiales transpirables
 - Ajuste de rendimiento, bota baja, nivel de amortiguación: medio, cierre de cordones, detalles de la marca PUMA
+- Materiales transpirables
 - Ligeros y acolchados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

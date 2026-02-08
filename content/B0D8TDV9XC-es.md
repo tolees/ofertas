@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- __Dimensiones: 60 x 33 x 18 cm
-- Compartimento húmedo y seco
 - Bolsillo delantero para Essentials
+- Compartimento húmedo y seco
 - Soporte lateral para botellas con anillo en D
+- __Dimensiones: 60 x 33 x 18 cm
 - Cierre enrollable
 
 [🛒 Comprar!!!]({{< param buyurl >}})

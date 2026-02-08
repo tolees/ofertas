@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tacos perlados de fácil apertura con presión
-- Mantente abrigado con el forro acolchado
 - Dos bolsillos en el pecho y dos bolsillos en la cadera para guardar objetos pequeños
+- Mantente abrigado con el forro acolchado
+- Tacos perlados de fácil apertura con presión
 - Forro polar suave y acogedor
 
 [🛒 Aquí!!!]({{< param buyurl >}})

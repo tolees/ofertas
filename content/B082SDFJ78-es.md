@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Solapa del talón de ante
-- Cierre de encaje
-- Silueta de bota baja
 - Parte superior sintética
+- Silueta de bota baja
+- Cierre de encaje
 - Perforación en la puntera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

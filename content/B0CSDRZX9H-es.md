@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Resistente al agua: 10 bares. Peso: 154 g
-- Diámetro de la caja: 43 mm, grosor de la caja: 11 mm, color de la carcasa: plateado y color de la esfera: naranja
-- Este reloj Eco-Drive se recarga con cualquier tipo de luz, para funcionar para siempre. Este reloj Eco-Drive no requiere ningún reemplazo de batería, carga o bobinado para mantener un funcionamiento constante. Este reloj cronógrafo tiene una función de calendario: fecha, funciona con energía solar, cronómetro, pantalla de 24 horas, manecillas luminosas y números luminosos
 - Correa de acero inoxidable plateado de alta calidad de 21 cm de largo y 21 mm de ancho con un cierre de botón plegable
+- Este reloj Eco-Drive se recarga con cualquier tipo de luz, para funcionar para siempre. Este reloj Eco-Drive no requiere ningún reemplazo de batería, carga o bobinado para mantener un funcionamiento constante. Este reloj cronógrafo tiene una función de calendario: fecha, funciona con energía solar, cronómetro, pantalla de 24 horas, manecillas luminosas y números luminosos
+- Diámetro de la caja: 43 mm, grosor de la caja: 11 mm, color de la carcasa: plateado y color de la esfera: naranja
 - El reloj se entrega en una caja de regalo original y tiene una garantía de 2 años
 
 [🛒 Comprar!!!]({{< param buyurl >}})

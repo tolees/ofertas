@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste ancho
 - Vegano
 - Espuma viscoelástica
+- Ajuste ancho
 - Lavable a máquina
 
 [🛒 Visítala!!!]({{< param buyurl >}})

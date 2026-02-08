@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estilo informal
 - Manga corta
 - Cuello tipo polo
+- Estilo informal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4NVTHZP{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Perfecta para crear looks sofisticados, naturales para el día o intensos para la noche
-- Oftalmológicamente testado
 - Su fórmula ecológica, con el 93% de ingredientes procedentes de materias primas de origen natural, está enriquecida con aceite de argán orgánico, aceite de semillas de algodón y aceite de aguacate; es un producto vegano
-- Packaging realizado con bioplástico derivado de la fermentación del maíz y pinturas naturales a base de agua
 - Paleta con 9 sombras de ojos en polvos compactos con múltiples acabados: mate, perlado y metálico
+- Oftalmológicamente testado
+- Perfecta para crear looks sofisticados, naturales para el día o intensos para la noche
+- Packaging realizado con bioplástico derivado de la fermentación del maíz y pinturas naturales a base de agua
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D6YZMD47{{</world>}}

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Maquetas de exposición: después de pilotar las maquetas de construcción por el circuito, los niños pueden exponerlos con orgullo como decoración en del dormitorio o accesorio de escritorio
 - Un regalo óptimo: además de proporcionar una divertida experiencia de construcción y juego, el vehículo de este kit de construcción es un gran regalo para niños y niñas a partir de 9 años o coleccionistas de maquetas de coches adultos
-- Amplía las aventuras automovilísticas: descubre más coches LEGO Speed Champions (sets a la venta por separado)
-- maquetas de coches emblemáticos para construir y jugar: los juguetes LEGO Speed Champions permiten a los peques y los fans del motor adultos construir fascinantes réplicas de algunos de los vehículos más icónicos
 - 2 minifiguras LEGO: cada coche BMW de construcción del set viene con una minifigura de un piloto con casco, peluca y llave inglesa que los peques pueden colocar al volante para competir en circuitos imaginarios
+- Maquetas de exposición: después de pilotar las maquetas de construcción por el circuito, los niños pueden exponerlos con orgullo como decoración en del dormitorio o accesorio de escritorio
+- Amplía las aventuras automovilísticas: descubre más coches LEGO Speed Champions (sets a la venta por separado)
 - Detalles de diseño originales de BMW M Motorsport: ambos coches BMW LEGO de juguete cuentan con características de las versiones de la vida real, como tubos de escape, difusores, alerones traseros, los colores distintivos de BMW M Motorsport y más
+- maquetas de coches emblemáticos para construir y jugar: los juguetes LEGO Speed Champions permiten a los peques y los fans del motor adultos construir fascinantes réplicas de algunos de los vehículos más icónicos
 - 2 coches BMW de juguete: descubre el set LEGO Speed Champions Coches de Carreras BMW M4 GT3 y BMW M Hybrid V8, un pack doble para niños y niñas a partir de 9 años y coleccionistas de maquetas de coches adultos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

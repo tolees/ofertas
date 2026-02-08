@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- MUCHA ENERGÍA en cada paquete: cada caja contiene 600 g o 1.320 g
-- ACONSEJAMOS beber, como parte de una dieta variada y equilibrada y un estilo de vida saludable, antes del ejercicio según las necesidades y durante el deporte cada 15 minutos aproximadamente 150-200 ml de la bebida isotónica
-- DISFRUTAR CON SEGURIDAD es nuestro lema: todos nuestros productos están incluidos en la Lista de Colonia alemana, es decir, han dado negativo en análisis de sustancias prohibidas
 - LA BEBIDA VEGETARIANA DE ELECTROLITOS aporta la combinación óptima de líquido, hidratos de carbono y los 5 electrolitos que más se pierden con el sudor
 - PROPORCIONA ENERGÍA PARA EL CUERPO EN SESIONES INTENSAS DE EJERCICIO con la mezcla de carbohidratos C2MAX, de una proporción 2:1 de fuentes de glucosa y fructosa
+- DISFRUTAR CON SEGURIDAD es nuestro lema: todos nuestros productos están incluidos en la Lista de Colonia alemana, es decir, han dado negativo en análisis de sustancias prohibidas
+- ACONSEJAMOS beber, como parte de una dieta variada y equilibrada y un estilo de vida saludable, antes del ejercicio según las necesidades y durante el deporte cada 15 minutos aproximadamente 150-200 ml de la bebida isotónica
+- MUCHA ENERGÍA en cada paquete: cada caja contiene 600 g o 1.320 g
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B078K1VM3M{{</world>}}

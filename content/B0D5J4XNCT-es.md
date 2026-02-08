@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela de goma
-- Horma clásica
 - Empeine de piel y material sintético
+- Horma clásica
 - Cierre de cordones
+- Suela de goma
 - Empeine perforado
 - Forro textil
 

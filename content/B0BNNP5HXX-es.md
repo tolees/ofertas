@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Detalles exteriores: bolsillo trasero con botón a presión
+- Cierre con botón a presión
 - Detalles interiores: 3 ranuras para tarjetas, bolsillo delantero
 - Apliques plateados
-- Cierre con botón a presión
-- Detalles exteriores: bolsillo trasero con botón a presión
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BNNP5HXX{{</world>}}

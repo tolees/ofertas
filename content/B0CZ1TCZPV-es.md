@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- COMBÍNALO CON RING CHIME: escucha las notificaciones por toda la casa cada vez que alguien pulse tu Videotimbre con batería o se detecte movimiento.
-- UN CONTESTADOR PARA TU PUERTA PRINCIPAL: La funcionalidad Respuestas rápidas te permite seleccionar entre una serie de mensajes pregrabados que se reproducirán cuando alguien llame al videotimbre.
-- VÍDEO HD CON VISIÓN NOCTURNA EN COLOR: El vídeo HD 1440 x 1440 con visión nocturna en color te permite saber qué pasa en la puerta principal, incluso de noche. Además, con el vídeo de cuerpo entero, tienes una imagen más completa de las visitas y los paquetes.
-- TODO EN LA APP: La app de Ring te permite conectar todos los dispositivos, ajustar su configuración y utilizar modos para armar o desarmar los dispositivos según estés en casa o fuera de casa.
-- PROTEGE LO QUE MÁS TE IMPORTA: Siempre que alguien llame al videotimbre con batería o se detecte movimiento, sabrás quién hay en tu propiedad.
-- INSTALACIÓN EN UN INSTANTE: cárgalo, colócalo en su sitio y mantén la conexión desde tu teléfono. Videotimbre con batería funciona con una batería integrada que no se puede extraer para recargarla.
-- MODO MANOS LIBRES: si no puedes responder al timbre, utiliza tu voz para saludar a las visitas directamente desde tu dispositivo compatible con Alexa y recibe notificaciones cuando haya alguien en tu puerta.
-- ZONAS DE PRIVACIDAD: Bloquea áreas de visualización del videotimbre. Si estableces zonas de privacidad, el dispositivo Ring no mostrará ni grabará nada de lo que suceda en ellas.
 - MÁS VISIÓN, MÁS INFORMACIÓN Y MÁS PROTECCIÓN: guarda las grabaciones de tus vídeos hasta 180 días para volver a verlas en cualquier momento y recibe alertas de personas y paquetes, entre otras muchas funcionalidades, con una suscripción a Ring Home (a la venta por separado)*.
+- INSTALACIÓN EN UN INSTANTE: cárgalo, colócalo en su sitio y mantén la conexión desde tu teléfono. Videotimbre con batería funciona con una batería integrada que no se puede extraer para recargarla.
+- VÍDEO HD CON VISIÓN NOCTURNA EN COLOR: El vídeo HD 1440 x 1440 con visión nocturna en color te permite saber qué pasa en la puerta principal, incluso de noche. Además, con el vídeo de cuerpo entero, tienes una imagen más completa de las visitas y los paquetes.
+- PROTEGE LO QUE MÁS TE IMPORTA: Siempre que alguien llame al videotimbre con batería o se detecte movimiento, sabrás quién hay en tu propiedad.
+- UN CONTESTADOR PARA TU PUERTA PRINCIPAL: La funcionalidad Respuestas rápidas te permite seleccionar entre una serie de mensajes pregrabados que se reproducirán cuando alguien llame al videotimbre.
+- MODO MANOS LIBRES: si no puedes responder al timbre, utiliza tu voz para saludar a las visitas directamente desde tu dispositivo compatible con Alexa y recibe notificaciones cuando haya alguien en tu puerta.
+- COMBÍNALO CON RING CHIME: escucha las notificaciones por toda la casa cada vez que alguien pulse tu Videotimbre con batería o se detecte movimiento.
+- TODO EN LA APP: La app de Ring te permite conectar todos los dispositivos, ajustar su configuración y utilizar modos para armar o desarmar los dispositivos según estés en casa o fuera de casa.
+- ZONAS DE PRIVACIDAD: Bloquea áreas de visualización del videotimbre. Si estableces zonas de privacidad, el dispositivo Ring no mostrará ni grabará nada de lo que suceda en ellas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZ1TCZPV{{</world>}}

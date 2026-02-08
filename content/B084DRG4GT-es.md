@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Una alternativa a los envases de plástico desechables para almacenar y conservar alimentos; evita usar envoltorios de plástico desechables, bandejas o papel film
-- Contienen una marca que indica la cantidad máxima a la que se debe llenar y un área especial para escribir
 - Estas bolsas se pueden almacenar en posición vertical u horizontal; de esta manera conseguimos una nevera ordenada e higiénica; también ahorramos espacio
+- Contienen una marca que indica la cantidad máxima a la que se debe llenar y un área especial para escribir
+- Una alternativa a los envases de plástico desechables para almacenar y conservar alimentos; evita usar envoltorios de plástico desechables, bandejas o papel film
 - Son 100% herméticas; reemplazan ecológicamente los envases de plástico tradicionales que una vez abiertos pierden su hermeticidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

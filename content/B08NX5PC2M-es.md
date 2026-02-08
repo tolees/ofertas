@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tejido elástico
-- Ofrece comodidad y libertad de movimiento
 - Ajuste delgado
+- Ofrece comodidad y libertad de movimiento
+- Tejido elástico
 - Tela suave
 
 [🛒 Visítala!!!]({{< param buyurl >}})

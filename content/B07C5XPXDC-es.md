@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Gel limpiador para rostro y cuerpo que limpia suavemente e hidrata la piel sin alterar su barrera natural. Con Ácido Hialurónico, 3 ceramidas esenciales y Tecnología MVE. Para piel normal a seca. Desarrollado con dermatólogos.
 - Piel limpia, fresca e hidratada durante 24h, sin sensación de tirantez ni sequedad. No comedogénico, sin perfume.
 - Masajear el gel sobre la piel húmeda. Dejar reposar 30 segundos y aclarar. Complementar con otros productos CeraVe.
-- Gel limpiador para rostro y cuerpo que limpia suavemente e hidrata la piel sin alterar su barrera natural. Con Ácido Hialurónico, 3 ceramidas esenciales y Tecnología MVE. Para piel normal a seca. Desarrollado con dermatólogos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07C5XPXDC{{</world>}}

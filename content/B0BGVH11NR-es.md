@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Eso significa que si uno establece un objetivo, ayudaremos a aplastarlo
 - Under Armour La misión es simple: hacer una mejor
+- Eso significa que si uno establece un objetivo, ayudaremos a aplastarlo
 - Productos de excelente calidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

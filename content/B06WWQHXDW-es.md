@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido: 1 x Nattou Doudou del Conejo Bibou, Colección: Alex y Bibou, Material: 100% poliéster, Dimensiones: 27 x 27 x 5 cm (largo x ancho x alto), Color: Azul
-- Fácil de limpiar: lavable a máquina a 30°
 - Ideal para fomentar el desarrollo de la motricidad gruesa y fina gracias a las innumerables posibilidades de agarre: Cabezas con orejas, nudos y etiquetas
 - Versátil: abertura en la cabeza para transformar el doudou en una marioneta para jugar, Posibilidad de colocar un chupete
+- Fácil de limpiar: lavable a máquina a 30°
+- Contenido: 1 x Nattou Doudou del Conejo Bibou, Colección: Alex y Bibou, Material: 100% poliéster, Dimensiones: 27 x 27 x 5 cm (largo x ancho x alto), Color: Azul
 - Conejo Bibou como un suave doudou, Adorable compañero de juegos y amigo al que abrazar en los momentos difíciles
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

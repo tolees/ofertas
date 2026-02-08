@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Modelo Unisex. Medidas: Frontal 141 mm; Patillas 140 mm; Puente 17 mm; Diámetro de lente 55,7 mm
-- ONE es nuestro diseño más icónico de todos los tiempos. Este modelo, de la colección Made in Spain, tiene una montura transparente brillante con logos plateados en las patillas y lentes POLARIZADAS espejadas de color oro rosa.
-- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lente categoría 3 fabricadas con material bio tac polarizado y protección uv400.
 - Producto original Hawkers. La caja incluye funda en microfibra y caja
 - Gafas de sol fabricadas en TR90 con el sello de EMS🇨🇭, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Diseño más ancho del terminal de la patilla para mejorar la ergonomía y confort y bisagra de doble acción para proporcionar una mejor sujeción en todo momento
+- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lente categoría 3 fabricadas con material bio tac polarizado y protección uv400.
+- ONE es nuestro diseño más icónico de todos los tiempos. Este modelo, de la colección Made in Spain, tiene una montura transparente brillante con logos plateados en las patillas y lentes POLARIZADAS espejadas de color oro rosa.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09XBNKXPX{{</world>}}

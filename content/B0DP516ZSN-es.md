@@ -30,10 +30,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - La siguiente información se aplica a cada unidad del paquete
 - Dermatológicamente testado
-- Botella 100% reciclada
-- Aroma especiado y refrescante que aporta energia
 - Gel de ducha con fórmula 3 en 1: para cuerpo, cabello y rostro
 - Fórmula mejorada, ahora más clean y vegana
+- Botella 100% reciclada
+- Aroma especiado y refrescante que aporta energia
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DP516ZSN{{</world>}}

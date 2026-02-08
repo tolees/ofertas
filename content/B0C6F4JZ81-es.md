@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elementos sociales ligeros - Compite contra rivales de todo el mundo para llegar a lo más alto de la torre y encabezar la clasificación diaria. Los jugadores de Steam y Nintendo Switch comparten la misma clasificación, así que si consigues afianzarte en el primer puesto, significa que eres el rey indiscutible ese día.
 - Se han implementado en el juego funciones sociales que utilizan la red, en las que se colocará una lápida en el lugar donde un jugador encuentre su final, que aparecerá en las partidas de otros jugadores junto con sus “reliquias” y “últimas palabras”. Aprovecha las diferentes habilidades especiales de cada personaje y compite con otros jugadores mientras luchas por superar los incontables cadáveres de tus rivales menos afortunados y te abres paso a través de la inexpugnable mazmorra.
-- Una mazmorra autogenerada que cambia a diario - Este juego de acción en 2D está ambientado en Tokoyo, la Torre de la Perpetuidad, una mazmorra autogenerada, en constante cambio y diabólicamente engañosa, repleta de monstruos diabólicos y trampas brutales.
+- Elementos sociales ligeros - Compite contra rivales de todo el mundo para llegar a lo más alto de la torre y encabezar la clasificación diaria. Los jugadores de Steam y Nintendo Switch comparten la misma clasificación, así que si consigues afianzarte en el primer puesto, significa que eres el rey indiscutible ese día.
 - Personajes personalizados oficiales - Además de los cinco personajes jugables originales, el juego también cuenta con personajes diseñados por artistas, VTubers y desarrolladores de juegos de todo el mundo. Entre ellos están Diane, la Cosplayer de Mighty Goose (del desarrollador de Mighty Goose Richard Lems), Sedeto (del popular VTuber francés Sedeto) y Noz (del popular artista Paroro).
 - El servidor del juego regenera automáticamente la Torre de la Perpetuidad cada 24 horas (en tiempo real), lo que permite a los jugadores de Steam y Nintendo Switch de todo el mundo enfrentarse a la misma mazmorra cada día, y solo durante un día. Cada día te esperan diferentes trampas y trucos, y deberás competir contra otros jugadores mientras te abres camino. La mazmorra contiene varias ramas diferentes, que ofrecen un cierto grado de libertad de elección y aleatoriedad.
+- Una mazmorra autogenerada que cambia a diario - Este juego de acción en 2D está ambientado en Tokoyo, la Torre de la Perpetuidad, una mazmorra autogenerada, en constante cambio y diabólicamente engañosa, repleta de monstruos diabólicos y trampas brutales.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C6F4JZ81{{</world>}}

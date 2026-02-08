@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ¡La temática 2 en 1 duplica la diversión! La cocina se convierte en un espacio de artesanía, que incluye una mesa de creación artística, y el baño se convierte en un vestidor, que incluye un tocador.
 - El carruaje se transforma en un castillo con 6 zonas de juego: un dormitorio con una cama y una manta, un baño con un lavabo, una cocina con un horno, un salón de baile y 2 pistas de baile giratorias. ¡Las escaleras y los toboganes extraíbles añaden diversión!
-- El conjunto de juego tiene toques característicos de Disney e incluye 4 figuras de amigos de películas populares de Disney: ¡Sebastián, Pascal, Lumiere y uno de los azulejos de Blancanieves!
-- Los fans pueden hacerse con otras muñecas de Disney Princesas y sus conjuntos de juego para pasarlo en grande. Se venden por separado y están sujetas a disponibilidad.
-- ¡Comienza en el modo del carruaje, con un carruaje real que realmente rueda y donde pueden entrar la muñeca de Aurora de Disney y 3 amigos más de Disney Princesas! (Incluye una muñeca. Las otras muñecas se venden por separado).
+- ¡La temática 2 en 1 duplica la diversión! La cocina se convierte en un espacio de artesanía, que incluye una mesa de creación artística, y el baño se convierte en un vestidor, que incluye un tocador.
 - Con el Conjunto de juego De carruaje a castillo, los niños y las niñas pueden llevar sus muñecas pequeñas de Disney Princesas a la próxima aventura y bailar toda la noche en el castillo, ¡con un conjunto de juego increíble!
+- Los fans pueden hacerse con otras muñecas de Disney Princesas y sus conjuntos de juego para pasarlo en grande. Se venden por separado y están sujetas a disponibilidad.
+- El conjunto de juego tiene toques característicos de Disney e incluye 4 figuras de amigos de películas populares de Disney: ¡Sebastián, Pascal, Lumiere y uno de los azulejos de Blancanieves!
+- ¡Comienza en el modo del carruaje, con un carruaje real que realmente rueda y donde pueden entrar la muñeca de Aurora de Disney y 3 amigos más de Disney Princesas! (Incluye una muñeca. Las otras muñecas se venden por separado).
 - La transformación entre los dos conjuntos de juego es rápida y fácil, y a los niños y las niñas les encantará recrear momentos de la película e imaginar nuevas historias en ambos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

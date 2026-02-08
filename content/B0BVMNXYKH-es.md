@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mata a los monstruos; roba el tesoro; apuñala a tus amigos
+- Baja al Dungeon; ,ata todo lo que encuentres; apuñala a tus amigos y quédate con sus cosas; toma el tesoro y corre; admítelo; te encanta
 - Diseñado por Steve Jackson; ilustrado por John Kovalic
 - De 3 a 6 jugadores; a partir de 10 años de edad
-- Baja al Dungeon; ,ata todo lo que encuentres; apuñala a tus amigos y quédate con sus cosas; toma el tesoro y corre; admítelo; te encanta
+- Mata a los monstruos; roba el tesoro; apuñala a tus amigos
 - Munchkin es rápido de jugar y ridículo, y puede llevar a cualquier grupo de jugadores de rol a la risa histérica; y mientras se ríen, puedes robarles lo que lleven
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

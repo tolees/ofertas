@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- MONTARLO ES MUY DIVERTIDO Construye las criaturas electrónicas de 9cm con las 20 piezas incluidas
-- Apunta y golpea el corazón de tu enemigo para que pierda la cabeza y destruirlo,
-- Une las figuras a su base y listo para unas batallas épicas, Golpes por la izquierda, derecha y por sorpresa
-- Fantástico Estadio arena para una pelea de hasta 4 jugadores; compatible con todas las criaturas Biosaurus Kombat; la arena puede sujetarse firmemente sobre una superficie plana con la ventosa suministrada; el marcador situado en el lateral de la base de cada estadio arena permite grabar hasta 5 rondas de combate
 - Con efectos de luz y sonido
+- Apunta y golpea el corazón de tu enemigo para que pierda la cabeza y destruirlo,
+- Fantástico Estadio arena para una pelea de hasta 4 jugadores; compatible con todas las criaturas Biosaurus Kombat; la arena puede sujetarse firmemente sobre una superficie plana con la ventosa suministrada; el marcador situado en el lateral de la base de cada estadio arena permite grabar hasta 5 rondas de combate
+- Une las figuras a su base y listo para unas batallas épicas, Golpes por la izquierda, derecha y por sorpresa
+- MONTARLO ES MUY DIVERTIDO Construye las criaturas electrónicas de 9cm con las 20 piezas incluidas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C5RNT42H{{</world>}}

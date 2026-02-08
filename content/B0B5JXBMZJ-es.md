@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Smilestones: Los hitos y la diversión van de la mano. Los juguetes reposicionables fomentan jugar boca abajo, ya que el bebé empuja hacia arriba para participar en todas las actividades, lo que le ayuda a fortalecer los músculos del tronco y el cuello.
 - El piano de juguete extraíble premia cada patadita de tu bebé con sonidos divertidos. Música con control de volumen y 2 ajustes de duración, corta o larga (máximo de 15 minutos)
 - 5 juguetes para bebés que cambian de posición para jugar bocabajo: Mordedor sin BPA, juguete que hace clic-clac, bolita que gira, juguete que cruje y espejo de descubrimiento personal
-- Alfombra de juegos lavable a máquina con un arco de juguete extraíble y un soporte para el piano
-- Smilestones: Los hitos y la diversión van de la mano. Los juguetes reposicionables fomentan jugar boca abajo, ya que el bebé empuja hacia arriba para participar en todas las actividades, lo que le ayuda a fortalecer los músculos del tronco y el cuello.
 - Gimnasio de actividades para bebés con 4 formas de jugar que se adapta al bebé a medida que va creciendo, con un diseño en azul y beis exclusivo de Amazon
+- Alfombra de juegos lavable a máquina con un arco de juguete extraíble y un soporte para el piano
 - Ayuda a fortalecer la motricidad gruesa y a fomentar el desarrollo de los sentidos de la vista, el oído y el tacto de los bebés desde la etapa más temprana
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

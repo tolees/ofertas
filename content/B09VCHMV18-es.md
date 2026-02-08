@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- SIÉNTETE BIEN – Apoya una hidratación potenciada (1) para ayudar a sentirte lo mejor posible; Un sobre contiene el 15 % de la ingesta diaria de referencia de magnesio y el 30% de la ingesta diaria de referencia de potasio
-- CIENCIA – Pedialyte Sport hidrata con ciencia avanzada.
-- PARA LLEVAR – Disponible en formato fácil de transportar, para que te hidrates donde quieras y cuando quieras; Recomendado durante el entrenamiento
-- Sin gluten y sin lactosa
 - HIDRATACIÓN – Potencia la hidratación porque mejora la absorción del agua (1); Adecuado para consumir en entrenamientos y actividades que requieren una resistencia prolongada (1)
 - MÚSCULO - Apoya la función muscular (2) gracias a su contenido de 5 electrolitos clave como potasio y magnesio
+- SIÉNTETE BIEN – Apoya una hidratación potenciada (1) para ayudar a sentirte lo mejor posible; Un sobre contiene el 15 % de la ingesta diaria de referencia de magnesio y el 30% de la ingesta diaria de referencia de potasio
+- PARA LLEVAR – Disponible en formato fácil de transportar, para que te hidrates donde quieras y cuando quieras; Recomendado durante el entrenamiento
+- Sin gluten y sin lactosa
+- CIENCIA – Pedialyte Sport hidrata con ciencia avanzada.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09VCHMV18{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Indicador LED: hay dos indicadores LED en la parte delantera de la base Duo-Charge para mostrar el estado de carga de tus controladores. Estas luces están diseñadas para que coincidan con las de tu controlador. La luz naranja indica que tu controlador está cargando, y la luz se volverá azul cuando esté completamente cargado/ en espera.
+- 【DISEÑO DE DUALSENSE】Diseño para PlayStation 5, este cargador de controlador es compatible con el controlador PS5 DualSense. Con el cable de carga USB proporcionado, puedes cargar tu controlador desde varias fuentes fácilmente. Estos incluyen la consola, PC, banco de energía o fuente de alimentación de pared. (Adaptador de pared no incluido).
 - 【PROTECCIÓN INTELIGENTE】Los protocolos de carga inteligente integrados aseguran que tu controlador nunca se sobrecargue, protegiendo la vida útil de la batería.
 - Carga eficiente: el cargador Duo-Charger proporciona una manera rápida y fácil de cargar y almacenar tu controlador PlayStation 5. Tardará aprox. 2,5 horas para cargar un controlador, y dos controladores se pueden cargar completamente simultáneamente en 3 horas. (El tiempo de carga variará dependiendo de la fuente de alimentación)
-- 【DISEÑO DE DUALSENSE】Diseño para PlayStation 5, este cargador de controlador es compatible con el controlador PS5 DualSense. Con el cable de carga USB proporcionado, puedes cargar tu controlador desde varias fuentes fácilmente. Estos incluyen la consola, PC, banco de energía o fuente de alimentación de pared. (Adaptador de pared no incluido).
-- Indicador LED: hay dos indicadores LED en la parte delantera de la base Duo-Charge para mostrar el estado de carga de tus controladores. Estas luces están diseñadas para que coincidan con las de tu controlador. La luz naranja indica que tu controlador está cargando, y la luz se volverá azul cuando esté completamente cargado/ en espera.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08MCJ5YQY{{</world>}}

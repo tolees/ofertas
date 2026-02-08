@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Un gran compartimento principal
 - Los icónicos tirantes acolchados de corte recto con estatus de culto
 - Fabricado en parte con materiales reciclados
+- Un gran compartimento principal
 - 2/3 de panel trasero acolchado
 - Bolsillo frontal con organizador
 

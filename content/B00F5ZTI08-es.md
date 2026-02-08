@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- VIAJA CON TU MASCOTA CON COMODIDAD Y SEGURIDAD: transportín para perros y gatos ideal para viajar en los medios de transporte más habituales. Acogedor y espacioso para el máximo confort, grandes ranuras de ventilación para un ambiente bien ventilado, ganchos resistentes para la máxima tranquilidad.
 - DISEÑO ITALIANO - El mayor fabricante europeo de productos para mascotas con más de 50 años de experiencia. Desde un diseño innovador hasta un servicio al cliente dedicado, Ferplast está comprometido con la sostenibilidad, la innovación y el máximo confort para sus mascotas.
-- FUNCIONAL Y PRÁCTICO: caja de transporte rígido fabricado con resistente plástico reciclado. Cómoda manija de techo, puerta de hierro macizo revestida de plástico con 4 puntos de fijación. El transportín perro pequeño y gato mide 32,5 x 48 x h 29 cm, carga máxima 5 kg, también disponible en otros colores y tamaños.
 - FÁCIL MANTENIMIENTO: transportín sólido y ligero al mismo tiempo, se puede montar y desmontar rápidamente. Separe el fondo y el techo actuando sobre los mosquetones laterales, de esta forma también podrá alcanzar y limpiar a fondo las esquinas.
+- FUNCIONAL Y PRÁCTICO: caja de transporte rígido fabricado con resistente plástico reciclado. Cómoda manija de techo, puerta de hierro macizo revestida de plástico con 4 puntos de fijación. El transportín perro pequeño y gato mide 32,5 x 48 x h 29 cm, carga máxima 5 kg, también disponible en otros colores y tamaños.
+- VIAJA CON TU MASCOTA CON COMODIDAD Y SEGURIDAD: transportín para perros y gatos ideal para viajar en los medios de transporte más habituales. Acogedor y espacioso para el máximo confort, grandes ranuras de ventilación para un ambiente bien ventilado, ganchos resistentes para la máxima tranquilidad.
 - COMPROMISO CON LA SOSTENIBILIDAD: Fabricado con materiales reciclados, el transportín para mascotas Atlas refleja el compromiso de Ferplast con la protección del medio ambiente y el bienestar de nuestros animales.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

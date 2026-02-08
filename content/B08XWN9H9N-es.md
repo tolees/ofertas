@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El martillo percutor compacto combina un rendimiento propio de la gama Bosch Professional con un peso bajo de tan solo 2,3 kg
-- Para aplicaciones muy diversas: tres modos operativos para perforar con percusión, taladrar y cincelar para obtener unos resultados impresionantes
 - Incluye: GBH 2-21, empuñadura auxiliar, paño para la máquina, profundidad retráctil, maletín
+- Para aplicaciones muy diversas: tres modos operativos para perforar con percusión, taladrar y cincelar para obtener unos resultados impresionantes
+- El martillo percutor compacto combina un rendimiento propio de la gama Bosch Professional con un peso bajo de tan solo 2,3 kg
 - Compatibilidad: El GBH 2-21 es compatible con los siguientes sistemas de aspiración: GDE 16 plus, GDE 68 y GDE 162
 - Potente motor de 720 W y energía de impacto de 2,0 J para perforar con percusión con eficacia en hormigón (diámetro hasta 21 mm)
 

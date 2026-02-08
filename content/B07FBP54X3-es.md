@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Revestimiento: Tela
-- Cierre: Cordones
-- Material exterior: Malla
-- Material de la suela: Goma
-- Anchura del zapato: Mediano
 - Tipo de tacón: Plano
+- Material de la suela: Goma
+- Revestimiento: Tela
+- Material exterior: Malla
+- Anchura del zapato: Mediano
+- Cierre: Cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07FBP54X3{{</world>}}

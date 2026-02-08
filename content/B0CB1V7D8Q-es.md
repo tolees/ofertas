@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Parte superior de malla geométrica con cordones elásticos
 - Entresuela ligera y flexible que absorbe los golpes
+- Parte superior de malla geométrica con cordones elásticos
 - Skechers Detalle del logotipo
 - Skechers Plantilla acolchada de espuma viscoelástica
 

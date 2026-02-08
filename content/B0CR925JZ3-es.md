@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Gran compartimento principal
 - Fácil de transportar
+- Gran compartimento principal
 - Logotipo de la marca
 
 [🛒 Aquí!!!]({{< param buyurl >}})

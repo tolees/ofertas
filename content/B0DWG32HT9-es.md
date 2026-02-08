@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Kit de decoración Make it magic para personalizar tu agenda
-- Dimensiones: 11.5 x 8 x 2.5 cm.
 - Incluye clips de papel, mini subrayadores, una mini libreta, un charm para decorar la espiral de la agenda, minimarcapáginas magnéticos y pegatinas con relieve
+- Dimensiones: 11.5 x 8 x 2.5 cm.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DWG32HT9{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- fácil de usar
 - Dimensiones del producto: 10 x 11 x 12 cm
 - Número de modelo del producto: 1472-35587
+- fácil de usar
 - 10 Ampollas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

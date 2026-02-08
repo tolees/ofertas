@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Seguimiento Preciso: control del cursor y respuesta para un seguimiento óptico preciso (1000 DPI) y una fácil selección de texto en Windows, macOS y Linux, y funciona con Chromebook certificado (2)
-- Fabricado por Logitech: Diseñado por expertos en ratones para ordenadores y portátiles, el ratón con cable M100 ofrece la calidad que hemos incorporado a más de mil millones de ratones para PC
-- Diseño Inteligente: la forma ambidiestra de este ratón está diseñada para que la mano izquierda o la derecha estén cómodas, por lo que te sentirás a gusto incluso después de horas de uso
 - Sube de categoría con el ratón con cable Logitech M500: Consigue mayor productividad con desplazamiento superrápido y horizontal, mejor precisión y seis botones personalizables
-- Fácil de configurar y usar: no hay que instalar ningún software con Logitech M100 y, como es con cable, basta con conectar el cable a un puerto USB y usarlo de inmediato
+- Seguimiento Preciso: control del cursor y respuesta para un seguimiento óptico preciso (1000 DPI) y una fácil selección de texto en Windows, macOS y Linux, y funciona con Chromebook certificado (2)
+- Diseño Inteligente: la forma ambidiestra de este ratón está diseñada para que la mano izquierda o la derecha estén cómodas, por lo que te sentirás a gusto incluso después de horas de uso
 - Huella de carbono del producto: 1,73 kg de CO2e
 - Sube de categoría con el ratón inalámbrico silencioso Logitech M330: Para disfrutar de libertad inalámbrica y mayor comodidad, usa el ratón M330, con forma contorneada, recubrimiento de goma suave y clics silenciosos
 - Las piezas de plástico de M100 incluyen plástico reciclado posconsumo con certificación (72% para negro y gris y 56% para blanco crudo)*
+- Fácil de configurar y usar: no hay que instalar ningún software con Logitech M100 y, como es con cable, basta con conectar el cable a un puerto USB y usarlo de inmediato
+- Fabricado por Logitech: Diseñado por expertos en ratones para ordenadores y portátiles, el ratón con cable M100 ofrece la calidad que hemos incorporado a más de mil millones de ratones para PC
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07W7L6HHN{{</world>}}

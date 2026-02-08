@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Papel de 8.82 oz.
-- Adecuado para ayudar a la creatividad
-- Adecuado para pintar, fieltro y lápices
-- Acabado: con espiral
 - Cuaderno de 28 páginas
+- Adecuado para pintar, fieltro y lápices
+- Adecuado para ayudar a la creatividad
+- Acabado: con espiral
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07HJHCHCS{{</world>}}

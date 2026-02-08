@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - UNIVERSAL – Carga hasta 2 dispositivos a la vez con este cargador USB-C de 2 puertos y 65 W. Compatible con cualquier toma eléctrica de pared (90-240 V CA 60/50 Hz), ¡funciona en todas partes!
 - PROTECCIÓN ASEGURADA – No se preocupe por este cargador. Ofrece mucha tranquilidad, puesto que cuenta con protección contra sobrecargas, cortocircuitos y sobrecalentamiento
-- LISTO PARA VIAJAR – Su diseño elegante y compacto hace que sea fácil de guardar en un maletín para portátiles, mochila o maleta. Es perfecto para viajar o trabajar en cualquier lugar
 - SOSTENIBLE – La tecnología moderna no tiene por qué perjudicar al planeta, por lo que Maxo se ha diseñado de manera sostenible con un 75 % de materiales reciclados
+- LISTO PARA VIAJAR – Su diseño elegante y compacto hace que sea fácil de guardar en un maletín para portátiles, mochila o maleta. Es perfecto para viajar o trabajar en cualquier lugar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D4Y1FCFN{{</world>}}

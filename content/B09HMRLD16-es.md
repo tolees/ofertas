@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DISEÑO Y ARTICULACIÓN PREMIUM: Con su cabeza, piernas y brazos articulados, la figura de Obi-Wan Kenobi de Star Wars es perfecta para ser exhibida en colecciones de figuras de acción y vehículos
-- EMPAQUE CON DISEÑO CLÁSICO: Las figuras y vehículos clásicos a escala de 9,5 cm de la colección Vintage de Star Wars vienen en empaques identificados con el logo original de Kenner (Se venden por separado. Sujeto a disponibilidad)
-- FIGURA CLÁSICA DE STAR WARS CON DISEÑO DE ROSTRO FOTORREALISTA: Esta figura de Obi-Wan Kenobi está inspirada en el personaje de Star Wars: El ataque de los clones. Esta versión de la figura clásica VC31 tiene un diseño de rostro fotorrealista
-- OBI-WAN KENOBI: Legendario Maestro Jedi, Obi-Wan Kenobi fue un hombre noble conocido por su habilidad con la Fuerza. Entrenó a Anakin Skywalker y fue general del Ejército de la República durante la Guerra de los Clones
 - ACCESORIOS INSPIRADOS EN EL PERSONAJE DE LA PELÍCULA: Esta figura de acción de la colección Vintage de Star Wars viene con 2 accesorios inspirados en las películas que hacen de la figura una gran adición a toda colección Star Wars
+- EMPAQUE CON DISEÑO CLÁSICO: Las figuras y vehículos clásicos a escala de 9,5 cm de la colección Vintage de Star Wars vienen en empaques identificados con el logo original de Kenner (Se venden por separado. Sujeto a disponibilidad)
+- DISEÑO Y ARTICULACIÓN PREMIUM: Con su cabeza, piernas y brazos articulados, la figura de Obi-Wan Kenobi de Star Wars es perfecta para ser exhibida en colecciones de figuras de acción y vehículos
+- OBI-WAN KENOBI: Legendario Maestro Jedi, Obi-Wan Kenobi fue un hombre noble conocido por su habilidad con la Fuerza. Entrenó a Anakin Skywalker y fue general del Ejército de la República durante la Guerra de los Clones
+- FIGURA CLÁSICA DE STAR WARS CON DISEÑO DE ROSTRO FOTORREALISTA: Esta figura de Obi-Wan Kenobi está inspirada en el personaje de Star Wars: El ataque de los clones. Esta versión de la figura clásica VC31 tiene un diseño de rostro fotorrealista
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09HMRLD16{{</world>}}

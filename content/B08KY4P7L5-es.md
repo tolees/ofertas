@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aumente el rendimiento de su PC Cuando su disco duro interno alcance sus límites de capacidad, el PC se vuelve cada vez más lento. Mueva los archivos al almacenamiento de escritorio externo de WD Elements y haga que su ordenador vuelva a funcionar.
 - Compatible con USB 3.0 y USB 2.0 Esta unidad es compatible con los dispositivos USB 3.0 más recientes, pero también es retrocompatible con USB 2.0.
 - Calidad WD por dentro y por fuera Nuestros discos duros cumplen con los requisitos más exigentes en términos de durabilidad, resistencia a los golpes y fiabilidad a largo plazo. El disco duro está protegido con una funda robusta, que ofrece la combinación perfecta de estilo y protección.
 - Contenido del envío: WD Elements de 16 TB, disco duro externo negro, cable USB, fuente de alimentación, guía de instalación rápida
+- Aumente el rendimiento de su PC Cuando su disco duro interno alcance sus límites de capacidad, el PC se vuelve cada vez más lento. Mueva los archivos al almacenamiento de escritorio externo de WD Elements y haga que su ordenador vuelva a funcionar.
 - Gran capacidad en un diseño compacto El compacto WD Elements, con hasta 16 TB de espacio de almacenamiento, es el almacenamiento adicional ideal para fotos, música, vídeos y todos los demás archivos.
 - Nota: Conecte el dispositivo directamente a una toma de corriente y no a un protector contra sobretensiones
 

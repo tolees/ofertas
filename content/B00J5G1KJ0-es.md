@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Reduce la colonización de bacterias, inhibe la formación de biofilm y produce una triple acción antiplaca consiguiendo así una profunda limpieza bucal
-- El colutorio logra una acción prolongada gracias a su excipiente bioadhesivo
-- Enjuage bucal que logra una Higiene bucodental diaria en situaciones de riesgo de gingivitis (inflamación y sangrado de encías) o encías delicadas
-- Enjuague bucal sin alcohol sin gluten
 - Tecnología PerioPlus Treatment Tech: reduce el sangrado y reduce el riesgo de enfermedades de las encías
+- Reduce la colonización de bacterias, inhibe la formación de biofilm y produce una triple acción antiplaca consiguiendo así una profunda limpieza bucal
+- Enjuague bucal sin alcohol sin gluten
+- Enjuage bucal que logra una Higiene bucodental diaria en situaciones de riesgo de gingivitis (inflamación y sangrado de encías) o encías delicadas
+- El colutorio logra una acción prolongada gracias a su excipiente bioadhesivo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00J5G1KJ0{{</world>}}

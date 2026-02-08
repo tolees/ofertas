@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Más de 300 preguntas de 3 niveles diferentes
-- Contiene: 1 tablero de juego, 96 cartas, 4 peones, 4 fichas "verdadero o falso"
 - Un mini juego de mesa con más de 300 preguntas sobre el cuerpo humano, basado en la famosa serie Érase una vez; la Vida
-- De 2 a 4 jugadores. +6 años
+- Contiene: 1 tablero de juego, 96 cartas, 4 peones, 4 fichas "verdadero o falso"
 - Responde las preguntas del Maestro sobre anatomía y biología para poder avanzar en el tablero de juego; el primero que termine el recorrido gana la partida
+- De 2 a 4 jugadores. +6 años
+- Más de 300 preguntas de 3 niveles diferentes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08BCSMKRX{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Proporciona comodidad
 - Una mirada original
 - Cuello y puños acanalados
 - Cuello de polo
+- Proporciona comodidad
 - Proporciona comodidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

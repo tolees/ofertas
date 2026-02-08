@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El objetivo del juego es ser el primer jugador en quedarse sin cartas en la mano
-- Ahora los fans de Minecraft pueden disfrutar de una versión especial de UNO
-- Cuando te quede una sola carta en la mano, no olvides gritar UNO
 - Se juega como el UNO clásico, pero incluye personajes de Minecraft y una carta especial de Creeper, Roba esta carta y el resto de jugadores tendrán que robar tres cartas más
 - El primer jugador o equipo en llegar a 500 puntos es el ganador de la partida
+- Ahora los fans de Minecraft pueden disfrutar de una versión especial de UNO
+- El objetivo del juego es ser el primer jugador en quedarse sin cartas en la mano
+- Cuando te quede una sola carta en la mano, no olvides gritar UNO
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B074RCV4HQ{{</world>}}

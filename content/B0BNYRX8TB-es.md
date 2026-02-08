@@ -29,14 +29,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - PERSONALIZACIÓN QUE DESTACA: Exhibe tu imagen preferida, controla los parámetros de rendimiento del PC en tiempo real, integra contenido web y muchas cosas más con el software NZXT CAM.
+- PANTALLA LCD: Pantalla LCD cuadrada de 1,54” con resolución de 240 נ240, frecuencia de refresco de 30 Hz y retroiluminación brillante de 300 cd/m² que da vida al contenido en pantalla
 - BOMBA DE ALTO RENDIMIENTO: La potente bomba de Asetek cuenta con un motor trifásico que funciona a hasta 2800 r. p. m. para garantizar una circulación del refrigerante eficiente y silenciosa.
-- PANTALLA LCD: Pantalla LCD cuadrada de 1,54” con resolución de 240 נ240, frecuencia de refresco de 30 Hz y retroiluminación brillante de 300 cd/m² que da vida al contenido en pantalla
-- FÁCIL DE INSTALAR: Un único cable breakout conecta la bomba a la placa base para simplificar la instalación.
-- PANTALLA LCD: Pantalla LCD cuadrada de 1,54” con resolución de 240 נ240, frecuencia de refresco de 30 Hz y retroiluminación brillante de 300 cd/m² que da vida al contenido en pantalla
 - REFRIGERACIÓN COLORIDA: Los ventiladores Core RGB con rodamientos dinámicos fluidos proporcionan un equilibrio óptimo entre la presión estática y el flujo de aire para una refrigeración potente y una iluminación RGB intensa.
-- BOMBA DE ALTO RENDIMIENTO: La potente bomba de Asetek cuenta con un motor trifásico que funciona a hasta 2800 r. p. m. para garantizar una circulación del refrigerante eficiente y silenciosa.
+- PANTALLA LCD: Pantalla LCD cuadrada de 1,54” con resolución de 240 נ240, frecuencia de refresco de 30 Hz y retroiluminación brillante de 300 cd/m² que da vida al contenido en pantalla
 - Personalización que destaca: Exhibe tu imagen estática o GIF animado preferidos, controla los parámetros de rendimiento del PC en tiempo real, ve la música que se está reproduciendo, integra contenido web y muchas cosas más con el software NZXT CAM.
 - FÁCIL DE INSTALAR: Un único cable breakout conecta la bomba a la placa base para simplificar la instalación.
+- FÁCIL DE INSTALAR: Un único cable breakout conecta la bomba a la placa base para simplificar la instalación.
+- BOMBA DE ALTO RENDIMIENTO: La potente bomba de Asetek cuenta con un motor trifásico que funciona a hasta 2800 r. p. m. para garantizar una circulación del refrigerante eficiente y silenciosa.
 - REFRIGERACIÓN COLORIDA: Los ventiladores Core RGB con rodamientos dinámicos fluidos proporcionan un equilibrio óptimo entre la presión estática y el flujo de aire para una refrigeración potente y una iluminación RGB intensa.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

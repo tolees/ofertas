@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - INNOVATIVE DESIGN: Equipped with Cobra Neck-Technology, the lid can be opened more than 180°. It comes with a self-locking lid and write-on-strip. The separator inside ensures that the deck stays in place, even when the token box is not used.
-- A MUST-HAVE FOR ALL STAR WARS FANS: The Soft Crate holds a complete deck of 60 cards - even double-sleeved, and includes an additional box for accessories.
-- THE ALL-IN-ONE SOLUTION FOR STAR WARS: UNLIMITED TRADING CARD GAME PLAYERS: This full color printed and officially licensed deck box is packed with ingenious features. It protects a full double-sleeved deck of cards and includes an innovative token box!
 - UNIQUE TOKEN BOX: The token box has a smart click-lock mechanism to keep all tokens safely stored – even while pulling it out. Once opened, the lid of the box stays upright for convenient access during gameplay.
+- THE ALL-IN-ONE SOLUTION FOR STAR WARS: UNLIMITED TRADING CARD GAME PLAYERS: This full color printed and officially licensed deck box is packed with ingenious features. It protects a full double-sleeved deck of cards and includes an innovative token box!
+- A MUST-HAVE FOR ALL STAR WARS FANS: The Soft Crate holds a complete deck of 60 cards - even double-sleeved, and includes an additional box for accessories.
 - USE WITH OTHER GAMEGENIC PRODUCTS: The Star Wars Unlimited Soft Crates come in several amazing designs and are perfect for use with the Star Wars Unlimited Premium Tokens, Art Sleeves, Deck Pods, Game Mats and other game accessories.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

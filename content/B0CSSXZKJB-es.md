@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alta presión estática: Con 4,38 mm-H2O de presión estática, la serie RX es ideal para impulsar el aire cuando hay obstáculos como radiadores de alta densidad.
-- Velocidades con control PWM mediante iCUE LINK: Ajuste con precisión la velocidad del ventilador hasta 2.100 rpm mientras proporciona un caudal de aire de hasta 74,2 CFM a su sistema.
 - Iluminación RGB intensa: Ocho LED RGB despliegan intensos efectos de iluminación; además, en el bastidor se integra una ventana que permite ver su iluminación desde el lateral.
+- Velocidades con control PWM mediante iCUE LINK: Ajuste con precisión la velocidad del ventilador hasta 2.100 rpm mientras proporciona un caudal de aire de hasta 74,2 CFM a su sistema.
+- Alta presión estática: Con 4,38 mm-H2O de presión estática, la serie RX es ideal para impulsar el aire cuando hay obstáculos como radiadores de alta densidad.
 - Tecnología CORSAIR AirGuide: Las aspas antivórtices dirigen el flujo de aire a los componentes que más se calientan para concentrar la refrigeración, empujando el aire en la dirección que necesita cuando se monta en un radiador.
 - LINK para conectar sus ventiladores: Los conectores puente de iCUE LINK incluidos permiten conectar sus ventiladores directamente entre sí, creando un conjunto de ventiladores que funciona a la perfección; todos se conectan al concentrador del sistema iCUE LINK System Hub mediante un solo cable.
 

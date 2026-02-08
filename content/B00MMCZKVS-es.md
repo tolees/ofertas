@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuidarse y sentirse bien nunca había sido tan fácil.
 - CLARIFYING LOTION 1.0 alcohol free 200 ml
 - Los mejores productos de higiene para tu día a día.
+- Cuidarse y sentirse bien nunca había sido tan fácil.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00MMCZKVS{{</world>}}

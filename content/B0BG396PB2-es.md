@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con detalles de contraste en la tira de botones, cuello y puños
-- Un logotipo de Gant bordado en el pecho completa el diseño de este versátil clásico
 - Nuestro piqué Rugger de manga larga Gant para hombre está hecho de algodón con un toque elástico
+- Un logotipo de Gant bordado en el pecho completa el diseño de este versátil clásico
+- Con detalles de contraste en la tira de botones, cuello y puños
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BG396PB2{{</world>}}

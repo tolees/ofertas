@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Ideal como regalo o autorregalo irresistible
+- Materiales de calidad y toque Mr. Wonderful
 - Tamaño práctico para llevar siempre contigo
 - Diseñado para alegrarte el día.
-- Materiales de calidad y toque Mr. Wonderful
-- Ideal como regalo o autorregalo irresistible
 - Libreta A5 con peluche elfo con diseño único y lleno de personalidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ancho estándar
 - Con cordones
+- Ancho estándar
 - Detalles perforados en el empeine
 - Empeine de material sintético con aplicaciones de cuero suave en ojetera y puntera
 - Entresuela apilada combinada con una textura pronunciada

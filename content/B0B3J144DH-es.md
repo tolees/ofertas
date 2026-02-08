@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cierre: Sin cordones
-- Tipo de tacón: Plano
 - Revestimiento: Sintético
+- Tipo de tacón: Plano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B3J144DH{{</world>}}

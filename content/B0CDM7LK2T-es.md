@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Labios hidratados, realzados por un efecto volumen inmediato y una textura que reaviva su color natural.
+- Dermatológicamente testado
 - Contiene una fórmula enriquecida con péptidos biomiméticos efecto volumen y mentol y mentona de efecto refrescante
 - Su textura suave y sensorial regala a los labios un aspecto más voluminoso, liso y terso, y los prepara para el maquillaje
-- Dermatológicamente testado
+- Labios hidratados, realzados por un efecto volumen inmediato y una textura que reaviva su color natural.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CDM7LK2T{{</world>}}

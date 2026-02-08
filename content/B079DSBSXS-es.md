@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- VEGANO: Este corrector no contiene ingredientes de origen animal
-- DURA TODO EL DÍA: Su pigmento intenso, a prueba de imperfecciones y de larga duración, dura 16 horas y puede usarse para contornear y añadir definición. Para tonos de piel claros o claros con un subtono neutro
-- CORRECTOR DE COBERTURA COMPLETA: Este corrector ligero pero de cobertura total y acabado mate cubre las manchas, unifica el tono de la piel y contrarresta las ojeras. Además, ahora es no comedogénico, lo que significa que no obstruye los poros y no provoca brotes.
-- MODO DE EMPLEO: Aplicar puntos debajo de los ojos, difuminar con un pincel o una esponja húmeda. Aplicar 1 punto en las manchas o puntos oscuros, difuminar con una brocha o esponja. Para el contorno, aplicar un punto de 2 a 3 tonos más oscuros que la piel en el perímetro del rostro y en los huecos de las mejillas.
 - SIN CRUELDAD: Los productos de Revolution Beauty son libres de crueldad y siempre lo han sido. Contamos con la certificación de PETA y nunca permitimos que se realicen pruebas en animales en ninguna etapa del desarrollo, tanto de los ingredientes como de los productos finales.
+- VEGANO: Este corrector no contiene ingredientes de origen animal
+- CORRECTOR DE COBERTURA COMPLETA: Este corrector ligero pero de cobertura total y acabado mate cubre las manchas, unifica el tono de la piel y contrarresta las ojeras. Además, ahora es no comedogénico, lo que significa que no obstruye los poros y no provoca brotes.
+- DURA TODO EL DÍA: Su pigmento intenso, a prueba de imperfecciones y de larga duración, dura 16 horas y puede usarse para contornear y añadir definición. Para tonos de piel claros o claros con un subtono neutro
+- MODO DE EMPLEO: Aplicar puntos debajo de los ojos, difuminar con un pincel o una esponja húmeda. Aplicar 1 punto en las manchas o puntos oscuros, difuminar con una brocha o esponja. Para el contorno, aplicar un punto de 2 a 3 tonos más oscuros que la piel en el perímetro del rostro y en los huecos de las mejillas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B079DSBSXS{{</world>}}

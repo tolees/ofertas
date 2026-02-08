@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Comodidad
 - Logotipo de la marca
+- Comodidad
 - Puntera cerrada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

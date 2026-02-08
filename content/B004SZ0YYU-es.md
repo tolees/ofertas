@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Su punta fina los hace adecuados para escribir, pintar, dibujar y subrayar con precisión sobre papel.
-- Marcadores borrables con borrador integrado en la punta para borrar con precisión sobre superficies lisas.
-- Estuche Staedtler Box transparente con 4 rotuladores corregibles de colores: rojo, azul, verde y negro.
-- Rotuladores con tinta fácil de borrar, idóneos para escribir sobre pizarras blancas, diapositivas y transparencias para proyectores.
 - Rotuladores de punta fina F, de 0,6 mm aproximadamente, y recargables con el depósito de carga Staedtler 487-05.
+- Rotuladores con tinta fácil de borrar, idóneos para escribir sobre pizarras blancas, diapositivas y transparencias para proyectores.
+- Estuche Staedtler Box transparente con 4 rotuladores corregibles de colores: rojo, azul, verde y negro.
+- Marcadores borrables con borrador integrado en la punta para borrar con precisión sobre superficies lisas.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B004SZ0YYU{{</world>}}

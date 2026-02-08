@@ -31,8 +31,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - AJUSTE PERFECTO: Este top minimalista de corte entallado es cómodo y agradable al tacto. Gracias a su tejido elástico, ofrece una óptima libertad de movimientos y es supercómodo de llevar.
 - EMOCIONANTE Y CLARO: La marca de moda Calvin Klein, fundada en 1968, es conocida por su singular look y lleva conquistando el mundo de la moda desde entonces. La marca americana apuesta por una estética minimalista.
 - ICÓNICO Y ATEMPORAL: El polo original de Calvin Klein tiene un diseño depurado y convence por su look deportivo. El logotipo de Calvin Klein en el pecho completa el look de la camiseta.
-- MATERIAL Y CUIDADO: Esta camiseta está confeccionada en 94 % algodón y 6 % elastano. Se puede lavar a máquina y secar en secadora.
 - PARA CUALQUIER OCASIÓN: La camiseta de piqué de algodón elástico supercómoda es ideal para el día a día o la oficina. La puedes llevar sola o debajo de un jersey, es la elección ideal para cualquier ocasión.
+- MATERIAL Y CUIDADO: Esta camiseta está confeccionada en 94 % algodón y 6 % elastano. Se puede lavar a máquina y secar en secadora.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07ZGDHSLY{{</world>}}

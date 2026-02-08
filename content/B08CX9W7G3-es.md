@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 4. Usar de Fácil: Elige la función que desea probar (asegúrese de que el interruptor giratorio esté ubicado en el rango de prueba correcto) y conecte los cables de prueba. La función de retención de datos para una lectura rápida, luz de retroiluminacion para probar claramente en un lugar oscuro.
 - 1. No Para Amperios en Alterna: KAIWEETS KM100 multimetro digital tiene la capacidad de medir voltaje en CA y en CC, amperios en continua, resistencia, continuidad, medición de diodos.
+- 4. Usar de Fácil: Elige la función que desea probar (asegúrese de que el interruptor giratorio esté ubicado en el rango de prueba correcto) y conecte los cables de prueba. La función de retención de datos para una lectura rápida, luz de retroiluminacion para probar claramente en un lugar oscuro.
 - 3. Uso amplio: El polimetro está diseñado seguro y preciso, muy adecuado para pruebas de electricistas, uso doméstico, automoción, problemas eléctricos industriales.
-- 5. En la Caja: 1X KM100 Multímetro, 2X Cable de pruba, 1X Manual del usuarios. Combinado con el excelente entrega de Amazon, proporcionamos un soporte posventa de 36 meses y soporte técnico. No dude en informarnos si tiene alguna duda.
 - 2. Seguridad: El voltimetro está certificado por IEC CAT III 600V, CE y RoHS. Tiene dobles fusibles que anti-quemaduras. Este multímetro tiene protección contra sobrecargas en todos los rangos.
+- 5. En la Caja: 1X KM100 Multímetro, 2X Cable de pruba, 1X Manual del usuarios. Combinado con el excelente entrega de Amazon, proporcionamos un soporte posventa de 36 meses y soporte técnico. No dude en informarnos si tiene alguna duda.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08CX9W7G3{{</world>}}

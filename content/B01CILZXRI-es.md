@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Herramienta de mano
 - Material resistente
 - Adecuado para uso doméstico o profesional
-- Herramienta de mano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01CILZXRI{{</world>}}

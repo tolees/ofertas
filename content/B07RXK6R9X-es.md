@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para pieles sensibles – Este gel de baño suave está formulado para la piel sensible de los recién nacidos, y la nutre para dejarla suave y con un aspecto saludable
-- Testado por pediatras – La calidad de los productos para bebés, recién nacidos y niños de Johnsons Baby está rigurosamente avalada por pediatras y dermatólogos
 - Sin ingredientes nocivos – La fórmula hipoalergénica* sin parabenos ni colorantes de este jabón de ducha hidrata y limpia la delicada piel de tu bebé sin secarla
+- Testado por pediatras – La calidad de los productos para bebés, recién nacidos y niños de Johnsons Baby está rigurosamente avalada por pediatras y dermatólogos
 - Limpieza micelar – Este jabón neutro, enriquecido con un hidratante natural, forma una espuma abundante y cremosa que deja la piel del bebé hidratada y sana
 - No Llores Más – Este jabón para bebé es ideal para bañar a tu recién nacido gracias a su fórmula No Llores Más, que es tan suave en los ojos como el agua pura
+- Para pieles sensibles – Este gel de baño suave está formulado para la piel sensible de los recién nacidos, y la nutre para dejarla suave y con un aspecto saludable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07RXK6R9X{{</world>}}

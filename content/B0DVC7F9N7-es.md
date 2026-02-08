@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Té helado de mango maracuyá
+- Bajo en calorías
 - Bebida refrescante de té
 - Pack de 24 latas de 330 ml
-- Bajo en calorías
 - Mantener en lugar fresco, oscuro y seco
-- Té helado de mango maracuyá
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DVC7F9N7{{</world>}}

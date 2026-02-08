@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La mascarilla 2 en 1 Ultimate Color de Gliss es adecuada para cabello teñido o con mechas
 - La siguiente información se aplica a cada unidad del paquete
+- La mascarilla 2 en 1 Ultimate Color de Gliss es adecuada para cabello teñido o con mechas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DTQ3G9M3{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- El paquete 2 blísteres con 3 mini rodillos de bolsillo para ratón Tipp-Ex de 6 m x 5 mm. Nota: El embalaje puede variar
 - La capa Tippex no necesita secarse y se puede escribir de inmediato. Alta eficiencia sin largas esperas. Adhesión fiable y base adecuada para diferentes bolígrafos
 - Cinta de poliéster resistente al desgarro. El rodillo corrector compacto es ideal para estuches escolares. Adecuado para diestros y zurdos
-- El paquete 2 blísteres con 3 mini rodillos de bolsillo para ratón Tipp-Ex de 6 m x 5 mm. Nota: El embalaje puede variar
 - El mouse corrector garantiza una corrección precisa. La capa correctora cubre opaco y sin desmoronarse. Práctico rodillo corrector en formato mini
 - El dispensador Tipp Ex en el característico diseño del ratón ofrece la máxima funcionalidad para su uso en la oficina, en la escuela o en casa
 

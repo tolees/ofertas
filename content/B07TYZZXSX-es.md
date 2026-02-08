@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- carcasa de estilo bambú
-- báscula equ ipad a con una pantalla lcd de fácil lectura
 - puede ser utilizada tanto para la cocina como para pesar cartas
-- capacidad máxima de 5 kg
+- báscula equ ipad a con una pantalla lcd de fácil lectura
 - Componentes incluidos: BALANZA PRINCESS DE COCINA 5 KGS BAMBU CAPACIDAD: 5 KG ALTA PRECISIÓN: SÍ, 1 G PANTALLA DE FÁCIL LECTURA: SÍ FUNCIÓN TARA CONMUTADOR DE CAMBIO KG/LB AVISO DE SOBRECARGA: SÍ INDICADOR DE NIVEL BAJO DE BATERÍA: SÍ APAGADO AUTOMÁTICO:SIJP20
+- capacidad máxima de 5 kg
+- carcasa de estilo bambú
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07TYZZXSX{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - La postal inicia el mensaje y el llavero lo remata, de manera que, de forma independiente, el mensaje del llavero funciona también por sí solo
-- Conjunto de postal + llavero de metal, cuyos textos combinados entre sí forman un bonito mensaje dirigido a mamá
 - Incluye sobre
+- Conjunto de postal + llavero de metal, cuyos textos combinados entre sí forman un bonito mensaje dirigido a mamá
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DZVXT9BQ{{</world>}}

@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Suela: 80% caucho - 20% caucho reciclado
 - exterior: 95% piel de vacuno, 5% textil (71% PET reciclado - 29% hilo metalizado)
-- Color: rojo
 - Better Leather
+- Color: rojo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C8K2G2HW{{</world>}}

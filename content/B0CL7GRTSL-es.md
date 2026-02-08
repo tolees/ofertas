@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- materialFabricComposition: 100% Polyester
-- Long Sleeves
 - Regular Fit
+- Long Sleeves
+- materialFabricComposition: 100% Polyester
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CL7GRTSL{{</world>}}

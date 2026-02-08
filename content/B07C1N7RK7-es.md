@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Rayado 4x4 continuo con margen, 80 Hojas
-- Una página de guarda para resaltar el diseño y para que los apuntes permanezcan confidenciales.
-- Rayado nítido en azul ténue que facilita la escritura
 - Icono del rayado en la tapa para una fácil identificación
+- Una página de guarda para resaltar el diseño y para que los apuntes permanezcan confidenciales.
 - Formato Folio
+- Rayado nítido en azul ténue que facilita la escritura
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07C1N7RK7{{</world>}}

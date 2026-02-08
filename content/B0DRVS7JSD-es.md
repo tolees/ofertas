@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Portátil & 12 Muestras: El microscopio mini portátil es de 13 x 13 x 5 cm; Con 12 Muestras prefabricados, los niños pueden comenzar a experimentar y observar directamente, explorando diferentes tipos de microestructura
-- Experiencia de Amplificación de Alta Definición: El microscopio niños funsland está equipado con una función de amplificación de múltiples marchas de 80x a 200x, lo que permite a los niños observar fácilmente objetos pequeños y tener un gran interés en la ciencia. Perfecto para experimentos escolares, observación familiar y exploración natural
-- Luces LED Incorporadas: Equipadas con 2 luces LED para garantizar una observación clara de los especímenes incluso en entornos con poca luz, ayudando a los niños a comprender mejor el microcosmos; Las lámparas LED requieren 4 baterías AAA (excluidas las baterías)
 - Regalos Educativos para Niños 6+ Años: Este microscopio es adecuado como regalo de recompensa para los cumpleaños, festivales o estudios de niños de 6 a 12 años; Equipado con instrucciones, es una herramienta ideal para que los niños entiendan las ciencias naturales
 - Diseño de Mano Desmontable: Diseño flexible, se puede desmontar como un microscopio de mano, lo que facilita la observación de los niños en diferentes entornos, sin restricciones de escritorio fijo, y la operación es más conveniente
+- Luces LED Incorporadas: Equipadas con 2 luces LED para garantizar una observación clara de los especímenes incluso en entornos con poca luz, ayudando a los niños a comprender mejor el microcosmos; Las lámparas LED requieren 4 baterías AAA (excluidas las baterías)
+- Experiencia de Amplificación de Alta Definición: El microscopio niños funsland está equipado con una función de amplificación de múltiples marchas de 80x a 200x, lo que permite a los niños observar fácilmente objetos pequeños y tener un gran interés en la ciencia. Perfecto para experimentos escolares, observación familiar y exploración natural
+- Portátil & 12 Muestras: El microscopio mini portátil es de 13 x 13 x 5 cm; Con 12 Muestras prefabricados, los niños pueden comenzar a experimentar y observar directamente, explorando diferentes tipos de microestructura
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DRVS7JSD{{</world>}}

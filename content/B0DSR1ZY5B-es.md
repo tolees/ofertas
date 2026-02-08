@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ajuste: corte regular, longitud de espalda en talla L aprox. 74 cm
-- Hecho de suave tejido de punto simple
 - Manga corta con cuello redondo, ideal para primavera, otoño y verano
 - Camiseta con gran logotipo impreso en la parte delantera. Hecho de una tela de algodón de punto simple.
+- Hecho de suave tejido de punto simple
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DSR1ZY5B{{</world>}}

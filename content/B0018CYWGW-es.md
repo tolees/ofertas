@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Siga siempre las recomendaciones de uso y reemplazo proporcionadas por su profesional de la visión
-- Material: Hilafilcon B con contenido de agua del 59%
 - Estas lentes están diseñadas para uso diario y deben desecharse después de cada utilización
+- Siga siempre las recomendaciones de uso y reemplazo proporcionadas por su profesional de la visión
 - Una vez extraída la lente debe desecharse
+- Material: Hilafilcon B con contenido de agua del 59%
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0018CYWGW{{</world>}}

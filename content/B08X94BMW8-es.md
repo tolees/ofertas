@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Guess Modelo Reloj Momentum GW0263G2
 - Analógico para Hombre
+- Guess Modelo Reloj Momentum GW0263G2
 - 10 milimetros calendario Día Hebilla
 
 [🛒 Aquí!!!]({{< param buyurl >}})

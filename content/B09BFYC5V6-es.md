@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Recomendado para usuarios de todos los niveles de fitness.
 - Resistente durante el uso, resistente al olor, ecológico. Perfecto para estudios, entrenamientos en casa o gimnasio.
 - Material: EVA
-- Dimensiones: juego de 23 x 15 x 7,5 cm por ladrillo.
 - Exerz Los bloques de yoga de 2 unidades están diseñados para apoyar a los yoguis para realizar posturas más profundas y mejor equilibradas. Su superficie antideslizante protege a los profesionales de resbalones o deslizamientos
+- Dimensiones: juego de 23 x 15 x 7,5 cm por ladrillo.
+- Recomendado para usuarios de todos los niveles de fitness.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09BFYC5V6{{</world>}}

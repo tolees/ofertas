@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tiene tacón plano
 - Cierre con cordones
+- Tiene tacón plano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09K31LCZ4{{</world>}}

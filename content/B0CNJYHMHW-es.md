@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Confección en pana suave
 - Lleva una bolsillo oculto con cremallera en el bolsillo derecho
-- Una versión del chino clásico
 - Un fit versátil que se entalla hasta el tobillo
+- Confección en pana suave
+- Una versión del chino clásico
 - Tejido con un toque de elástico para ofrecer comodidad durante todo el día y facilidad de movimiento
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

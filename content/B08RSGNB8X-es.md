@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Llevan la misma ropita, gafas, peinado y pequeño accesorio
+- Set de 2 figuras Pinypon con sus 2 cachorros
 - Con pelos intercambiables también
 - Juguete para niños y niñas a partir de 4 años
-- Set de 2 figuras Pinypon con sus 2 cachorros
 - Los cachorros se parecen mucho a sus dueñas, las Pinypon
 
 [🛒 Aquí!!!]({{< param buyurl >}})

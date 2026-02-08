@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela: goma
 - Parte superior: nailon impermeable. Construcción impermeable con costuras selladas. Los cordones no son impermeables
+- Suela: goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08TMMP41W{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Enriquecido con un 4% de AHA (un ácido soluble en agua) y Ácido Carbónico.
-- Control de la grasa con un volumen en la raíz duradero.
-- Una fórmula fresca con una fragancia refrescante que proporciona una sensación de limpieza y con una base para el cuidado.
-- Ayuda a purificar la superficie del cuero cabelludo para un aspecto sano y limpio.
 - Absorbe al instante el 89% del exceso de sebo para un control de la grasa y un lifting de raíces por hasta 72H.*. *Resultados inmediatos. Test clínico, 60 sujetos.
+- Control de la grasa con un volumen en la raíz duradero.
+- Enriquecido con un 4% de AHA (un ácido soluble en agua) y Ácido Carbónico.
+- Ayuda a purificar la superficie del cuero cabelludo para un aspecto sano y limpio.
+- Una fórmula fresca con una fragancia refrescante que proporciona una sensación de limpieza y con una base para el cuidado.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BPYG6L49{{</world>}}

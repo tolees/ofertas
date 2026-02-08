@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fresco y atemporal, tiene una cintura media y una cremallera
 - Corte ajustado en el muslo y para correr
+- Fresco y atemporal, tiene una cintura media y una cremallera
 - Ajuste absolutamente ideal, combina un corte entallado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

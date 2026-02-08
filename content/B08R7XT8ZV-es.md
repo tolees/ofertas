@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Ligero
 - Flexibilidad
 - Durabilidad
-- Ligero
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08R7XT8ZV{{</world>}}

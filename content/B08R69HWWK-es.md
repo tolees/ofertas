@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 93% algodón / 7% elastán
 - Cintura elástica de talle alto
+- 93% algodón / 7% elastán
 - Corte ajustado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

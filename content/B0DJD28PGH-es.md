@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Modelo Femenino; Medidas: Frontal 139;3 mm, Varillas 140 mm, Puente 19 mm, Alto 48;8 mm
-- Estas gafas de sol vintage redondas son una reinterpretación de las clásicas monturas cat eye; una silueta que aporta un toque nostálgico elegante y realza las líneas femeninas; disponibles en varios colores de monturas y lentes
 - Producto original Hawkers; la caja incluye funda en microfibra y caja
-- Material de la montura: TR90; Color de la montura: Negro; Color de la varilla: Blanco
+- Modelo Femenino; Medidas: Frontal 139;3 mm, Varillas 140 mm, Puente 19 mm, Alto 48;8 mm
 - Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Marrón; Apariencia de la lente: Gradiente
+- Material de la montura: TR90; Color de la montura: Negro; Color de la varilla: Blanco
+- Estas gafas de sol vintage redondas son una reinterpretación de las clásicas monturas cat eye; una silueta que aporta un toque nostálgico elegante y realza las líneas femeninas; disponibles en varios colores de monturas y lentes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DJD28PGH{{</world>}}

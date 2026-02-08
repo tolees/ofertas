@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tiene cuello redondo
 - Tiene detalles distintivos de la marca
+- Tiene cuello redondo
 - Ofrece comodidad y libertad de movimiento
 
 [🛒 Aquí!!!]({{< param buyurl >}})

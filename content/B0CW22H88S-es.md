@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - HDMI 2.1 con eARC, ALLM
-- Imagen HDR Dolby Vision IQ y experiencia de sonido Dolby Atmos. Sistemas de altavoces Hybrid HARMAN/KARDON
-- Diseño compacto sin marco completamente de aluminio en color grís antracita
-- Televisor 4K Ultra HD Google TV con tecnologia QLED Q-Colour y refresco 144Hz
 - Medidas para soporte de pared VESA: 200 x 200, Medidas con peana (An x al x P en mm): 1228 x 805 x 262, Medidas sin peana (An x al x P en mm): 1228 x 736 x 61, Distancia entre peanas (en mm): 560 x 262, Peso neto (kg): 13,5
+- Imagen HDR Dolby Vision IQ y experiencia de sonido Dolby Atmos. Sistemas de altavoces Hybrid HARMAN/KARDON
+- Televisor 4K Ultra HD Google TV con tecnologia QLED Q-Colour y refresco 144Hz
+- Diseño compacto sin marco completamente de aluminio en color grís antracita
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CW22H88S{{</world>}}

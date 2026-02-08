@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Los productos internacionales tienen términos separados, se venden desde el extranjero y pueden diferir de los productos locales, incluyendo ajuste, calificaciones de edad e idioma del producto, etiquetado o instrucciones.
 - Sudadera en talla grande
-- Composición del material: 85% algodón, 15% poliéster
 - Hecho de algodón cómodo
+- Composición del material: 85% algodón, 15% poliéster
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09PKDYLVF{{</world>}}

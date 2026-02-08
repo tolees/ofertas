@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Cinturilla cómoda
 - Tejido suave al tacto
-- Explora nuestra gama de productos
 - Logotipo icónico PUMA No1 en estampado completo
+- Explora nuestra gama de productos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B089QNS2HD{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Colecciónalos todos: Dos dinosaurios en la colección.
-- Furia escupefuegos: ¡Prepárate para encender la llama de la diversión! ¡Este dinosaurio escupe fuego! ¡Añade agua y verás cómo empieza a salir vapor de su boca!
 - Arena y baba: Excava las piezas entre la arena y las babas para construir tu dinosaurio.
+- Colecciónalos todos: Dos dinosaurios en la colección.
 - Más de 35 sorpresas: Este huevo de dinosaurio está repleto de dino-sorpresas, como pegatinas, mini huevos para cascar, babas y mucho más.
 - Luces y sonidos: ¡Haz que tu dinosaurio cobre vida! Coloca el ojo en el estómago de tu dinosaurio para que se enciendan las luces y se activen sus feroces rugidos en tu aventura Jurassic.
+- Furia escupefuegos: ¡Prepárate para encender la llama de la diversión! ¡Este dinosaurio escupe fuego! ¡Añade agua y verás cómo empieza a salir vapor de su boca!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DBN6D79Z{{</world>}}

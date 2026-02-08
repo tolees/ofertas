@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ancho normal
 - Parte superior textil
+- Ancho normal
 - Cierre de cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

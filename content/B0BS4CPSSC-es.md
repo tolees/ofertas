@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Almacenamiento de dardos: carga el Manic con 46 dardos adicionales con las 2 unidades modulares de almacenamiento de dardos. El producto no incluye todos los dardos en la imagen. Se recomienda comprar el paquete de recambio Insanity.
-- Dardos con tecnología Air Pocket: incluye 48 dardos con tecnología Air Pocket para una explosión más, más rápida y precisa.
 - Insane Blaster: haz que tu mente se vuele con el X-Shot Insanity Manic Blaster. Combina el Manic con otros Blasters Insanity para crear el lanzador más épico que hayas visto.
+- Dardos con tecnología Air Pocket: incluye 48 dardos con tecnología Air Pocket para una explosión más, más rápida y precisa.
 - El paquete incluye: 2 x X-Shot Insanity Manic Blaster, 48 dardos con tecnología de bolsillo de aire, 2 unidades de almacenamiento de dardos modulares laterales, 1 conector
+- Almacenamiento de dardos: carga el Manic con 46 dardos adicionales con las 2 unidades modulares de almacenamiento de dardos. El producto no incluye todos los dardos en la imagen. Se recomienda comprar el paquete de recambio Insanity.
 - Potencia de disparo: ten una batalla loca y destruye a oponentes de hasta 27 m de distancia con este potente lanzador.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

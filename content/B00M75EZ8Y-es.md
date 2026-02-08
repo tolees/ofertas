@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Nombre de la fragancia: fresh
+- Renueva las capas más externas de la piel
+- Tipo de piel: Normal
 - Ingredientes: Desde el primer uso empezarás a notar los efectos beneficiosos de emplear este exfoliante facial:
 - Para el cabello: Normal
-- Elimina las impurezas
-- Nombre de la fragancia: fresh
-- Tipo de piel: Normal
 - Ingredientes: desde el primer uso empezarás a notar los efectos beneficiosos de emplear este exfoliante facial:
+- Elimina las impurezas
 - Deja la piel lisa y rejuvenecida
-- Renueva las capas más externas de la piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00M75EZ8Y{{</world>}}

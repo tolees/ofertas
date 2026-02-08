@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello alto con cierre a presión
 - Ajuste regular
 - Cómoda capucha para proteger de la lluvia y el viento
+- Cuello alto con cierre a presión
 - Corte regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Bolsillos en la cintura cubiertos con cinta y cierre de botón a presión
 - Bajo y puños elásticos
-- Cuello alzado acanalado por dentro
 - Bolsillo y trabilla en el interior
+- Cuello alzado acanalado por dentro
 - Cierre de cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

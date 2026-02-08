@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello redondo
-- Corte clásico
-- CLIMACOOL
 - 100% poliéster (reciclado)
+- Corte clásico
+- Cuello redondo
+- CLIMACOOL
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CZS3W238{{</world>}}

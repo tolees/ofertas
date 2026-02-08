@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Forro textil
-- Horma clásica
 - Suela para césped natural seco / multisuperficie
+- Forro textil
 - Empeine de material sintético
+- Horma clásica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DHW957JF{{</world>}}

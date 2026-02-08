@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- INDICADOR DE TEMPERATURA: Cacerola antiadherente de 24 cm de diámetro y 12 cm de altura que cuenta con un indicador de temperatura que cambia de color en función de lo caliente que esté el producto, lo cual facilita el cocinado de los productos. Cuanto más oscuro es el color del indicador, más caliente.
 - MANGO ANTIQUEMADURAS CON TECNOLOGÍA STAY COOL: Esta gama incluye asas recubiertas con tecnología Stay Cool. De esta manera conseguimos proporcionarte un agarre de efecto frío para que puedas remover el interior de la cazuela con total seguridad y sin quemarte.
 - APTA PARA TODO TIPO DE COCINAS: Nuestra cazuela antiadherente convertirá cada momento en la cocina en una oportunidad para desatar tu creatividad culinaria. Además, es compatible con cocinas de inducción, gas, halógenas, vitrocerámicas y eléctricas.
+- INDICADOR DE TEMPERATURA: Cacerola antiadherente de 24 cm de diámetro y 12 cm de altura que cuenta con un indicador de temperatura que cambia de color en función de lo caliente que esté el producto, lo cual facilita el cocinado de los productos. Cuanto más oscuro es el color del indicador, más caliente.
 - REVESTIMIENTO ANTIADHERENTE: Hemos incorporado en nuestra gama Indigo un recubrimiento con alta resistencia al desgaste y a la corrosión, que repele a la perfección la grasa y el agua, evitando que los ingredientes se adhieran.
 - FABRICADA CON ALUMINIO FUNDIDO RECICLADO: El diseño de la base permite que el calor se reparta por igual en toda la superficie, logrando que todos los alimentos se cocinen por completo. Su gran ligereza te permitirá saltear y remover sin esfuerzos.
 

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- UNO Junior es para 2-4 jugadores; Aunque es para los fans de UNO más jóvenes, las adorables imágenes de animales del zoo harán que todos quieran jugar
-- Cuando te queda una sola carta en la mano, tienes que gritar UNO
-- El nivel uno consiste en hacer coincidencias sencillas, el nivel dos introduce cartas de acción y el nivel tres incorpora también cartas de penalización
-- Es el juego de UNO que todo el mundo adora, pero simplificado para que puedan jugar los más pequeños, a partir de 3 años
 - Cada una de las cartas tiene una imagen de animal a juego para que puedan jugar los niños que todavía no conocen los números
+- El nivel uno consiste en hacer coincidencias sencillas, el nivel dos introduce cartas de acción y el nivel tres incorpora también cartas de penalización
+- UNO Junior es para 2-4 jugadores; Aunque es para los fans de UNO más jóvenes, las adorables imágenes de animales del zoo harán que todos quieran jugar
+- Es el juego de UNO que todo el mundo adora, pero simplificado para que puedan jugar los más pequeños, a partir de 3 años
+- Cuando te queda una sola carta en la mano, tienes que gritar UNO
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07Y94Y3JL{{</world>}}

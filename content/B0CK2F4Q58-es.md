@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuenta con una tapa protectora para que la suciedad no entre en el interior del producto
-- Es un exprimidor desmontable por lo que su limpieza es muy sencilla. El cuerpo principal nunca deberás de sumergirlo en agua y para limpiarlo simplemente tendrás que pasarle un paño ligeramente humedecido. El resto de componente extraíbles pueden ser lavados con agua y jabón. La limpieza se recomienda realizarla inmediatamente después de su uso ya que la pulpa seca suele ser muy difícil de quitar.
 - Este exprimidor de naranjas eléctrico te permitirá extraer el zumo de cualquier fruta de forma rápida y sencilla. Cuenta con 2 CONOS para que puedes utilizarlo tanto con frutas grandes (naranjas, pomelos, …) como con frutas pequeñas (limones, mandarinas, ...)
+- Cuenta con una tapa protectora para que la suciedad no entre en el interior del producto
 - Su jarra es extraíble, lleva un asa para poder servir de forma sencilla y tiene una capacidad de 700 ml.
 - Únicamente tendrás que partir la fruta en dos mitades y colocarla sobre el cono. El exprimidor comenzará a funcionar de forma automática y el cono podrá girar en ambas direcciones, para conseguir extraer todo el jugo de la fruta.
+- Es un exprimidor desmontable por lo que su limpieza es muy sencilla. El cuerpo principal nunca deberás de sumergirlo en agua y para limpiarlo simplemente tendrás que pasarle un paño ligeramente humedecido. El resto de componente extraíbles pueden ser lavados con agua y jabón. La limpieza se recomienda realizarla inmediatamente después de su uso ya que la pulpa seca suele ser muy difícil de quitar.
 - Su base es antideslizante para evitar que el exprimidor se pueda mover mientras se está utilizando y así no tener que lamentar posibles derrames.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

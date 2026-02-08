@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- FOLIE ESPECIFICACIONES -2 x 125 micrones
-- SIN STREJAS DE LÍNEA: con un punto de fusión fijo y una viscosidad constante, prácticamente no se exprime pegamento de las cubiertas en los rodillos cuando se lamina. Sin rayas de pegamento mate en las cubiertas laminadas y mucho menos mantenimiento de los rodillos.
 - GLASHELDER - La capa de plástico de las cubiertas de laminación Albyco se produce a partir de PET. Este plástico es cristalino.
-- CONECCIÓN COMPLETA - Las cubiertas laminadas de Albyco, o hojas de laminación, son alrededor de 3 mm más grandes que el tamaño DIN A indicado. Debido a esto, las hojas están completamente encerradas, incapsuladas. Con él, las hojas laminadas permanecen completamente impermeables.
 - 100 UNIDS - Fundas laminadoras Albyco / fundas plastificantes (Glans) están empaquetadas por 100 piezas.
+- FOLIE ESPECIFICACIONES -2 x 125 micrones
+- CONECCIÓN COMPLETA - Las cubiertas laminadas de Albyco, o hojas de laminación, son alrededor de 3 mm más grandes que el tamaño DIN A indicado. Debido a esto, las hojas están completamente encerradas, incapsuladas. Con él, las hojas laminadas permanecen completamente impermeables.
+- SIN STREJAS DE LÍNEA: con un punto de fusión fijo y una viscosidad constante, prácticamente no se exprime pegamento de las cubiertas en los rodillos cuando se lamina. Sin rayas de pegamento mate en las cubiertas laminadas y mucho menos mantenimiento de los rodillos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09PNGV3P2{{</world>}}

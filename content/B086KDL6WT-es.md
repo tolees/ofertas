@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Bocas sanas, planeta sano – Listerine apuesta firmemente por la sostenibilidad, por lo que sus botellas son 100% reciclables* y contienen un 50% de plástico reciclado
 - Clínicamente probado – Recomendado por dentistas, LISTERINE proporciona una protección y limpieza dental clínicamente probadas para una salud bucal completa
+- Para una boca más sana – Olvídate de caries y encías inflamadas y evita la formación de sarro con este enjuague bucal 5 veces más eficaz que el cepillo y el hilo dental
 - Triple acción – Este enjuague protege los dientes frente a las caries, reduce la placa actuando incluso por debajo de la línea de las encías y previene la gingivitis
 - Detalles del envío: Listerine Protección Dientes y Encías, enjuague bucal antibacteriano, botella fabricada con un 50% de plástico reciclado, sabor menta fresca, formato ahorro: 2 x 1 L
-- Para una boca más sana – Olvídate de caries y encías inflamadas y evita la formación de sarro con este enjuague bucal 5 veces más eficaz que el cepillo y el hilo dental
-- Bocas sanas, planeta sano – Listerine apuesta firmemente por la sostenibilidad, por lo que sus botellas son 100% reciclables* y contienen un 50% de plástico reciclado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B086KDL6WT{{</world>}}

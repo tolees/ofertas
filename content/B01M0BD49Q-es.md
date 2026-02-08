@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contenido de alcohol de 4.3%
 - Aportó calórico de 32 Kcal/100 ml
 - Contiene dióxido de azufre y sulfitos
+- Contenido de alcohol de 4.3%
 - Mantener en lugar fresco y seco
 
 [🛒 Comprar!!!]({{< param buyurl >}})

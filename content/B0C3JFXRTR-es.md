@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forro textil
-- Puntera reforzada
 - Cierre de cordones
 - Horma clásica
+- Forro textil
+- Puntera reforzada
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C3JFXRTR{{</world>}}

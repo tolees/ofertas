@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- CONTENIDO - Bote de pintura acrílica multiusos de 400 ml, BOSTIK SUPER COLOR, color rojo tráfico, nº artículo: 30613955
+- ALTO PODER DE CUBRICIÓN - Super Color tiene una elevada capacidad de cubrición y es resistente a la exposición solar. Además, admite repintado y no contiene pigmentos de plomo ni CFC.
 - USO PROFESIONAL Y DOMÉSTICO - Se puede usar fácilmente por cualquier persona, incluso sin experiencia en pintar, lo que permite obtener excelentes resultados. Tiene un tapón de seguridad y todos los envases están equipados con válvulas autolavables, permitiendo la reutilización del envase sin que se obstruya la válvula.
 - PINTURA ACRÍLICA MULTIUSOS - La pintura acrílica multiusos Super Color de BOSTIK es un spray de esmalte acrílico de secado rápido. Tiene un efecto duradero y no amarillea.
-- CONTENIDO - Bote de pintura acrílica multiusos de 400 ml, BOSTIK SUPER COLOR, color rojo tráfico, nº artículo: 30613955
 - BUENA ADHERENCIA A LA MAYORÍA DE SUPERFICIES - Esta pintura acrílica está disponible en varios colores RAL y tiene buena adherencia a la mayoría de superficies metálicas, como hierro, latón, bronce o aluminio, y también a plásticos, máquinas, marcos y perfiles...
-- ALTO PODER DE CUBRICIÓN - Super Color tiene una elevada capacidad de cubrición y es resistente a la exposición solar. Además, admite repintado y no contiene pigmentos de plomo ni CFC.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08LL1H6HG{{</world>}}

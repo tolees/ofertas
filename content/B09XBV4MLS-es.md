@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - UA Charged Assert 10
-- Hombre
 - 3026175-400-8
+- Hombre
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09XBV4MLS{{</world>}}

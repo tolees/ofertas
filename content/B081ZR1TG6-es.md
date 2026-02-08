@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cierre: cordones
 - Material exterior: Piel sintética
 - Material de la suela: Caucho
-- Cierre: cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B081ZR1TG6{{</world>}}

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - MODA URBANA REINTERPRETADA: Para acercar las populares prendas de los 90 a las nuevas generaciones, Tommy Jeans se inspira en los iconos del hip-hop de aquella época. Apostando por prendas de alta calidad y diseños modernos con mucho denim.
-- MATERIAL Y CUIDADO: Sudadera de algodón 100 %. Se puede lavar a máquina y secar en secadora.
 - PARA CUALQUIER OCASIÓN: La sudadera con capucha casual destaca por su gran comodidad. Es perfecto para hacer deporte y ponérselo en el día a día. Destacan los detalles distintivos de Tommy Jeans en el pecho.
-- ICÓNICO Y ATEMPORAL: El hoodie original de Tommy Jeans destaca por su diseño desenfadado. Este jersey es especialmente popular gracias a su material suave y su corte clásico.
+- MATERIAL Y CUIDADO: Sudadera de algodón 100 %. Se puede lavar a máquina y secar en secadora.
 - AJUSTE PERFECTO: El diseño atemporal de la sudadera con capucha y cordón de ajuste se adapta a tu silueta. Además, esta sudadera deportiva también es perfecta como regalo para jóvenes y mayores.
+- ICÓNICO Y ATEMPORAL: El hoodie original de Tommy Jeans destaca por su diseño desenfadado. Este jersey es especialmente popular gracias a su material suave y su corte clásico.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D1RJ49WB{{</world>}}

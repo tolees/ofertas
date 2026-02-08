@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Equipamiento Integral: El set incluye un caballo, cascos, obstáculos y herramientas de cuidado. La plataforma de lunging permite un entrenamiento real con el caballo en la riel transparente, perfecta para fortalecer el vínculo entre jinete y caballo
-- Contenido: 67 piezas con instrucciones: 2 figuras, 2 animales, 63 accesorios adicionales; materiales de plástico; LxAxA: 28,4 x 18,7 x 9,3 cm, peso: 417 g, 71637
 - Juego de figuras para niños y niñas a partir de 5 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
+- Contenido: 67 piezas con instrucciones: 2 figuras, 2 animales, 63 accesorios adicionales; materiales de plástico; LxAxA: 28,4 x 18,7 x 9,3 cm, peso: 417 g, 71637
+- Equipamiento Integral: El set incluye un caballo, cascos, obstáculos y herramientas de cuidado. La plataforma de lunging permite un entrenamiento real con el caballo en la riel transparente, perfecta para fortalecer el vínculo entre jinete y caballo
 - Para jugar a diario: incluye instrucciones para montarlo con ayuda de un adulto, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 - Diversión en la Escuela de Equitación: Únete al instructor de equitación Owen y a la estudiante Zoe para vivir emocionantes aventuras en la escuela de equitación de Waterfall Ranch. ¡Ayuda al caballo a aprender trucos y disfruta de horas creativas!
 

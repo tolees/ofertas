@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Variedad 53% Tempranillo 47% Shiraz
 - Buen acompañante de mariscos, pastas, arroces, pescado y aperitivos. Temperatura de servicio: 7 a 10ºC.
+- En nariz destacan los aromas frutales de la fresa ácida con notas a flor blanca, tiene notas golosas y un fondo refrescante. En boca es agradable, goloso con una acidez bien equilibrada que le aporta alegría y frescura.
+- Color rosado pálido con cierto matiz frambuesa, muy sutil y brillante.
 - Alcohol: 12%
 - Añada 2019
-- Color rosado pálido con cierto matiz frambuesa, muy sutil y brillante.
-- En nariz destacan los aromas frutales de la fresa ácida con notas a flor blanca, tiene notas golosas y un fondo refrescante. En boca es agradable, goloso con una acidez bien equilibrada que le aporta alegría y frescura.
-- Variedad 53% Tempranillo 47% Shiraz
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B005SAZ3YU{{</world>}}

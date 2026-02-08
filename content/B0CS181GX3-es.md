@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre de cremallera con cortavientos debajo
 - Capucha ampliada con parte delantera alzada y cordones ajustables
+- Cierre de cremallera con cortavientos debajo
 - Puño con acabado interior elástico
 - Bolsillos con cremallera detrás de los bolsillos de la cintura con botones a presión
 - Ancho ajustable, cordón elástico en el interior

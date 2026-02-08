@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Parte superior textil con refuerzos sintéticos sin costuras
+- Cierre de cordones
+- Lengüeta reforzada
 - Placa protectora de TPU
 - Compra una talla más grande
-- Parte superior textil con refuerzos sintéticos sin costuras
-- Lengüeta reforzada
-- Cierre de cordones
 - Amortiguación Lightstrike
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Las esponjas jabonosas funcionan como esponja exfoliante, perfectas para renovar la piel durante la ducha diaria o después del ejercicio. El jabon natural en formato sólido funciona como jabon cuerpo, respetando el equilibrio cutáneo y proporcionando una sensación fresca tras cada uso.
 - Incluye jabon cara de origen vegetal diseñado como esponja jabonosa desechable, ideal para rutinas diarias de higiene y cuidado suave tanto en rostro como en cuerpo.
-- Elaborado como parte de una línea de jabones artesanales, este set combina tradición y calidad en auténticos jabones naturales pensados para quienes valoran ingredientes simples y eficaces.
 - Cosmetica natural elaborada a mano en España, sin tóxicos y respetuosa con el medio ambiente - Esponjas jabonosas veganas, biodegradables y libres de plásticos. No contienen tensioactivos, parabenos ni sulfatos. esponjas sin aceite de palma, y no testados en animales.
+- Elaborado como parte de una línea de jabones artesanales, este set combina tradición y calidad en auténticos jabones naturales pensados para quienes valoran ingredientes simples y eficaces.
 - Incluye jabon manos y jabon facial limpiador listos para usar, ideales como jabones naturales artesanos para baños, visitas, hoteles o situaciones donde se requiere máxima higiene.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

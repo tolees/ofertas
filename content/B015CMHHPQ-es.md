@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Indicado para piel seca o mixta
 - Cobertura media para un acabado natural
-- Piel perfecta, cobertura media
 - Hidrata y oculta las imperciones, poros y ojeras
+- Indicado para piel seca o mixta
+- Piel perfecta, cobertura media
 - Aplica la base de maquillaje con los dedos o una brocha des del centro hasta el exterior para mezclarla con el tono de tu piel
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- deportes casuales
-- logotipo de Nike
 - Camiseta deportiva
+- logotipo de Nike
+- deportes casuales
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BQ6FWV8R{{</world>}}

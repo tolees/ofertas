@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Limpia hasta 120 m2* sin parones. Batería desmontable de 25,2 V Max y 2200 mAh. Hasta 50 minutos de autonomía en modo Eco y aspirador de mano, 30 en modo Medio y 17 en modo Turbo. Con el tubo y el pie motorizado en modo Eco, alcanza hasta 45 minutos, 25 en modo Medio y 15 en modo Turbo. *Basado en pruebas internas. **La autonomía varía en función del modo que el usuario seleccione. Se recomienda utilizar el modo Eco, y aumentarlo en caso de haber una suciedad mayor.
+- Aspira en profundidad. Potencia de succión de 80 AW y 20000 Pa para limpiar hasta la suciedad que no ves.
+- Limpia más y vacía con menos frecuencia. Depósito de 1200 ml: gran capacidad que evita que se tenga que estar vaciando constantemente.
 - Aspira todo y elimina enredos. Cepillo mixto con HairOut: atrapa todo tipo de suciedad, eliminando los enredos de pelos gracias al diseño dentado del pie de aspiración, que reduce al mínimo la necesidad de limpieza manual.
 - Potencia constante, limpieza sin esfuerzo. Motor BDLC con 265 W que ofrece un mejor rendimiento de la batería y aumenta la vida útil del aspirador gracias a su diseño sin escobillas.
-- Limpia más y vacía con menos frecuencia. Depósito de 1200 ml: gran capacidad que evita que se tenga que estar vaciando constantemente.
-- Aspira en profundidad. Potencia de succión de 80 AW y 20000 Pa para limpiar hasta la suciedad que no ves.
-- Limpia hasta 120 m2* sin parones. Batería desmontable de 25,2 V Max y 2200 mAh. Hasta 50 minutos de autonomía en modo Eco y aspirador de mano, 30 en modo Medio y 17 en modo Turbo. Con el tubo y el pie motorizado en modo Eco, alcanza hasta 45 minutos, 25 en modo Medio y 15 en modo Turbo. *Basado en pruebas internas. **La autonomía varía en función del modo que el usuario seleccione. Se recomienda utilizar el modo Eco, y aumentarlo en caso de haber una suciedad mayor.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FK9X33JT{{</world>}}

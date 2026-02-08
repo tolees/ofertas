@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte clásico
-- Tejido técnico 100% poliéster reciclado
 - Bolsillos frontales con cremallera
+- Tejido técnico 100% poliéster reciclado
+- Corte clásico
 - Puños elásticos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

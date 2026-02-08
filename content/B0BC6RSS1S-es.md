@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 🍃 Co-Wash revolucionario: Incorpora a tu rutina nuestro método Co-Wash para limpiar y acondicionar tu cabello sin necesidad de champú. Ideal para mantener la hidratación natural y evitar el quiebre del cabello
-- 🌿 Transforma tu rutina de cuidado capilar con nuestra crema acondicionadora y de peinado con maracuyá y aceite de patauá. Ideal para cabello seco y débil, descubre un cabello más suave y manejable desde el primer uso
 - 🌱 Compromiso verde: Nuestra fórmula es 100% vegana y amigable con los animales. Cuida de tu cabello mientras proteges el planeta con ingredientes de origen natural y responsable
 - 💧 Triple acción en un solo producto: úsalo como acondicionador para desenredar, como mascarilla para una hidratación profunda, o como crema de peinado para definir y controlar el frizz. Flexibilidad y eficacia para tu cabello
+- 🌿 Transforma tu rutina de cuidado capilar con nuestra crema acondicionadora y de peinado con maracuyá y aceite de patauá. Ideal para cabello seco y débil, descubre un cabello más suave y manejable desde el primer uso
 - 🌟 Enriquecido con maracuyá y aceite de patauá, esta crema no solo nutre y fortalece tu cabello, sino que también lo deja con un aroma fresco y exótico. Disfruta de un cabello visiblemente saludable y lleno de vida
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

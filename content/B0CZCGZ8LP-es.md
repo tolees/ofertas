@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Visera curvada de tamaño medio
 - Talla única
+- Visera curvada de tamaño medio
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CZCGZ8LP{{</world>}}

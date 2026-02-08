@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - En aproximadamente 20 minutos notarás la piel más hidratada y con luminosidad. Sebo sin efecto rebote
-- Aporta a la piel una acción hidratante, antirrojeces y hidrolipídica. También ayuda a controlar los niveles de sebo
 - Ingredientes: Aqua (Water); Cocamidopropyl Betaine; Sodium Cocoamphoacetate; Sodium Lauroyl Sarcosinate; Glycerin; Ceteareth-60 Myristyl Glycol; Sodium Chloride; Sodium Hyaluronate; Barosma; Betulina Leaf Extract; Linum Usitatissimum (Linseed) Seed Extract; Zinc PCA; Panthenol; Lactic Acid; Hydroxyacetophenone; Glyceryl Oleate; Butylene Glycol; Coco-Glucoside; 1,2-Hexanediol; Tetrasodium Glutamate Diacetate; Sodium Hydroxide; Citric Acid;; Tipo de piel: Sensible
 - Producto formulado con ácido hialurónico, zinc, betulina, extracto de lino y vitamina B5
+- Aporta a la piel una acción hidratante, antirrojeces y hidrolipídica. También ayuda a controlar los niveles de sebo
 - Gel limpiador purificante con zinc para pieles mixtas y grasas. También está indicado para minimizar la apariencia de poros y normalizar la secreción sebácea
 - Toma un poco de producto y realiza espuma con las manos. Colócalo sobre el rostro y cuello humedecido. Realiza pequeños masajes de forma circular, evitando el contorno de los ojos. Retirar el producto
 

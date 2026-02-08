@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - TALLA REGULAR: Anchura nominal de 56 mm, todos somos diferentes, pero la talla correcta debe hacerte
-- GROSOR FINO: Preservativos finos para mayor sensibilidad
 - SENSITIVO SUAVE: Los preservativos Sensitivo Suave de Durex son transparentes y de látex de caucho natural
+- GROSOR FINO: Preservativos finos para mayor sensibilidad
 - PRESERVATIVOS EXTRA LUBRICADOS: Lubricación de silicona
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

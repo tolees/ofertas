@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- El set de acuarela Cotman con pincel rellenable de agua, está diseñado específicamente para usar cuando estás fuera del estudio; en el interior, encontrarás 12 colores Cotman vibrantes de alta calidad y un pincel con su propio depósito de agua.Colores incluidos: Gris de Payne, Negro de humo, Blanco de china, Tono amarillo limón, Rosa permanente, Ultramar, Tierra de Siena tostada, Ocre amarillo, Verde vejiga, Tono viridiano, Tono azul cerúelo, Violeta dioxazina
+- Las acuarelas Cotman utilizan pigmentos de bellas artes con una carga de pigmento menor que la gama Professional, lo que los convierte en una opción accesible sin comprometer la calidad
 - Formuladas para crear una consistencia uniforme, la calidad transparente de las acuarelas Cotman es óptima para introducirse en la técnica de la acuarela
 - Con calificación AA y A por su resistencia a la luz excelente y buena, la acuarela Cotman de Winsor & Newton brinda al artista la tranquilidad que se espera de una gama de acuarelas de calidad
-- Las acuarelas Cotman utilizan pigmentos de bellas artes con una carga de pigmento menor que la gama Professional, lo que los convierte en una opción accesible sin comprometer la calidad
 - Las acuarelas Cotman se pueden mezclar entre sí sin límites para crear nuevos colores; fácil de diluir y lavar con agua; todos los materiales de arte deben almacenarse lejos del calor y la luz directos, con la tapa colocada de forma segura después de su uso; nunca almacenar por debajo de 10 ° C
-- El set de acuarela Cotman con pincel rellenable de agua, está diseñado específicamente para usar cuando estás fuera del estudio; en el interior, encontrarás 12 colores Cotman vibrantes de alta calidad y un pincel con su propio depósito de agua.Colores incluidos: Gris de Payne, Negro de humo, Blanco de china, Tono amarillo limón, Rosa permanente, Ultramar, Tierra de Siena tostada, Ocre amarillo, Verde vejiga, Tono viridiano, Tono azul cerúelo, Violeta dioxazina
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01GG286OM{{</world>}}

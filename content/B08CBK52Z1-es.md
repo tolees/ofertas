@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con detalles distintivos de la marca
-- Suela de caucho para adecuada durabilidad y agarre
-- Calzado deportivo diseñado para el pie infantil y juvenil
 - Mediasuela de EVA para una amortiguación ligera
+- Calzado deportivo diseñado para el pie infantil y juvenil
+- Suela de caucho para adecuada durabilidad y agarre
+- Con detalles distintivos de la marca
 - Ligeras y cómodas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

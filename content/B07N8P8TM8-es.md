@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Solo se requiere la instalación de la barra de extensión; manual de instrucciones ilustrado incluido; motor con garantía limitada de 10 años; certificación CE/ RoHs/GS
+- Ventilador en acabado de bronce envejecido, con aspas reversibles en acabados de madera de deriva y madera de nogal recuperada
 - Con control remoto y adaptable a control de pared
 - Motor de alta calidad para una ventilación potente y, al mismo tiempo, silenciosa; función de inversión para modo verano/invierno
-- Ventilador en acabado de bronce envejecido, con aspas reversibles en acabados de madera de deriva y madera de nogal recuperada
 - Este ventilador de techo para interior, estilo vintage, de 137 cm, es ideal para habitaciones de hasta 36 metros cuadrados con techos estándar o inclinados.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

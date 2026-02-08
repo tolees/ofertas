@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Helicóptero 2 en 1 que puede flotar en el agua y volar en el aire.
 - Hover Blast dispara cohetes en modo de disparo único o rápido. Contiene hasta 16 cohetes para lanzar desde el aire y disparar al objetivo
-- Recarga a través de USB; Requisitos de la batería: Aqua Blaze: 1 batería recargable Li-PO (incluida) + Transmisor: 2 pilas "AAA" (no incluidas)
 - Tiene una función de levitación automática y puede despegar y aterrizar solo. Se puede usar en interiores o exteriores de corta distancia
 - Se maneja con el mando Radio Control que cuenta con los mandos de dirección con el que tendrás un control preciso de la velocidad y excelente estabilidad de vuelo
+- Recarga a través de USB; Requisitos de la batería: Aqua Blaze: 1 batería recargable Li-PO (incluida) + Transmisor: 2 pilas "AAA" (no incluidas)
+- Helicóptero 2 en 1 que puede flotar en el agua y volar en el aire.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D5DLLHGT{{</world>}}

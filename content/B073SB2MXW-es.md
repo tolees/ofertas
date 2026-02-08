@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Certificación del F.I.T. Lab de WD para su compatibilidad con una amplia gama de ordenadores
-- Velocidades de lectura secuencial de hasta 560 MB/s y velocidades de escritura secuencial de hasta 530 MB/s
 - Líder en la industria con un tiempo medio antes de fallos (MTTF) de 1,75 millones de horas y una resistencia de hasta 500 terabytes escritos (TBW) con una fiabilidad mejorada
 - Consumo eléctrico activo hasta un 25 % inferior al de anteriores generaciones de WD Blue SSD
+- Certificación del F.I.T. Lab de WD para su compatibilidad con una amplia gama de ordenadores
+- Velocidades de lectura secuencial de hasta 560 MB/s y velocidades de escritura secuencial de hasta 530 MB/s
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B073SB2MXW{{</world>}}

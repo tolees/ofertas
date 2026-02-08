@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Las galletas Oreo están compuestas por dos galletas de cacao y un rico relleno de crema sabor vainilla
-- A lo largo de los últimos 100 años, las emblemáticas galletas de chocolate en forma de sándwich Oreo han sido una de las meriendas preferidas por jóvenes y adultos en todo el mundo
-- El sabor único de las galletas Oreo comienza con el cacao auténtico que define con fuerza el color de la base de la galleta
 - Son el tentempié imprescindible para cualquier momento del día y para compartir con la familia y los amigos una merienda rica o el acompañante para un café o un rico vaso de leche y galletas
 - Disponibles en un práctico paquete de galletas de 154 g que puedes llevar contigo donde quiera que vayas
+- Las galletas Oreo están compuestas por dos galletas de cacao y un rico relleno de crema sabor vainilla
+- El sabor único de las galletas Oreo comienza con el cacao auténtico que define con fuerza el color de la base de la galleta
+- A lo largo de los últimos 100 años, las emblemáticas galletas de chocolate en forma de sándwich Oreo han sido una de las meriendas preferidas por jóvenes y adultos en todo el mundo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00FN5FTCG{{</world>}}

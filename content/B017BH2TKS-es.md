@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- conectable vía wifi: (opcional) el modelo wi incluye un módulo de control wireless integrado que, con la smartbox haverland (no incluida), permite controlar y programar el (o los) emisor(es) vía la app gratuita para smartphone o tablet, fácil e individualmente para cada uno de sus emisores haverland compatibles, y eso, en cualquier momento. compatible con amazon alexa.
-- autoprogramable: gracias a su sensor de presencia, haverland wi se auto-programa, aprendiendo su rutina diaria según su presencia, y así ayuda a ahorrar sin necesidad de programación complicada. podrá seleccionar entre 3 modos de funcionamiento: "autoaprendizaje", "sensor de presencia" y modo manual; así como seleccionar entre 3 funciones de temperatura: confort, economía y antihielo.
-- moderno y eficiente: la gama haverland wi ofrece no solo un diseño moderno sino ante todo una solución económica y eficiente de calefacción gracias a sus elementos de alta inercia térmica en fundición de aluminio, y su resistencia de alta calidad. dotado además de un termostato digital pid de alta precisión (+/- 0,2 °c), el emisor wi es un potente conductor térmico que le permitirá mantener su casa a una temperatura agradable, homogénea y constante, ahorrando energía.
 - seguro y fácil: haverland wi incluye un sistema de bloqueo automático del teclado, así como un limitador térmico para su uso en total seguridad. fácil a instalar y a utilizar, todos los emisores vienen con su kit completo de instalación y accesorios.
+- autoprogramable: gracias a su sensor de presencia, haverland wi se auto-programa, aprendiendo su rutina diaria según su presencia, y así ayuda a ahorrar sin necesidad de programación complicada. podrá seleccionar entre 3 modos de funcionamiento: "autoaprendizaje", "sensor de presencia" y modo manual; así como seleccionar entre 3 funciones de temperatura: confort, economía y antihielo.
 - haverland wi3: el modelo wi3 (450 w) tiene 3 elementos calefactores y es ideal para un uso prolongado de más de 6 horas al día para estancias hasta +/- 8 m².
+- conectable vía wifi: (opcional) el modelo wi incluye un módulo de control wireless integrado que, con la smartbox haverland (no incluida), permite controlar y programar el (o los) emisor(es) vía la app gratuita para smartphone o tablet, fácil e individualmente para cada uno de sus emisores haverland compatibles, y eso, en cualquier momento. compatible con amazon alexa.
 - Componentes incluidos: Radiador
+- moderno y eficiente: la gama haverland wi ofrece no solo un diseño moderno sino ante todo una solución económica y eficiente de calefacción gracias a sus elementos de alta inercia térmica en fundición de aluminio, y su resistencia de alta calidad. dotado además de un termostato digital pid de alta precisión (+/- 0,2 °c), el emisor wi es un potente conductor térmico que le permitirá mantener su casa a una temperatura agradable, homogénea y constante, ahorrando energía.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B017BH2TKS{{</world>}}

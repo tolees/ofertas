@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- FÓRMULAS DE ALTA PIGMENTACIÓN: The 24H Eye Stick y The 24H Level Up Mascara duran todo el día, mientras que The Color Lip Glow mantiene tus labios suaves e hidratados con un acabado gloss y un color intenso.
-- CAJA DE MAKEUP RECICLABLE: Presentado en una caja reciclable, es perfecto para guardar tus productos esenciales. El regalo ideal para cualquier amante del makeup que aprecie la funcionalidad y un toque top de glamour.
-- 3 BEST-SELLERS: Este kit incluye tres productos estrella: The 24H Eye Stick 532 en marrón dorado, The Color Lip Glow 254 en rosa vintage, y The 24H Level Up Mascara para un look totalmente radiante.
 - VEGANO Y CRUELTY FREE: 3INA es una marca de maquillaje española que fabrica en Europa. Todos nuestros productos son veganos, libres de parabenos y sin crueldad animal.
+- CAJA DE MAKEUP RECICLABLE: Presentado en una caja reciclable, es perfecto para guardar tus productos esenciales. El regalo ideal para cualquier amante del makeup que aprecie la funcionalidad y un toque top de glamour.
 - UN GLOW TOTAL: Consigue ese acabado glow con facilidad. Productos de alta calidad diseñados para proporcionarte un brillo impecable: glow total sin herramientas ni retoques adicionales.
+- 3 BEST-SELLERS: Este kit incluye tres productos estrella: The 24H Eye Stick 532 en marrón dorado, The Color Lip Glow 254 en rosa vintage, y The 24H Level Up Mascara para un look totalmente radiante.
+- FÓRMULAS DE ALTA PIGMENTACIÓN: The 24H Eye Stick y The 24H Level Up Mascara duran todo el día, mientras que The Color Lip Glow mantiene tus labios suaves e hidratados con un acabado gloss y un color intenso.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BYH6ZKGV{{</world>}}

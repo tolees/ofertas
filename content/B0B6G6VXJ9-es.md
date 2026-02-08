@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Marca: Nike
 - Cierre: cuerda
+- Marca: Nike
 - Código: DQ5601
 
 [🛒 Comprar!!!]({{< param buyurl >}})

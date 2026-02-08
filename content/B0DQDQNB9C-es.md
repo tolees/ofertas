@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- COLECCIÓN ENCRUCIJADAS DEL MUNDO - Explora nuevas posibilidades personalizando tu imperio con el contenido adicional posterior al lanzamiento, que incluye 2 nuevos líderes, 4 nuevas civilizaciones, 4 maravillas adicionales, una bonificación de estilo especial, ¡y mucho más! Los detalles completos de la Colección Encrucijadas del mundo se revelarán más adelante.
-- Colección Encrucijadas del mundo, con contenido posterior al lanzamiento que incluye 2 nuevos líderes, 4 nuevas civilizaciones, 4 nuevas maravillas, una bonificación de estilo especial ¡y mucho más! Pack de contenido Deluxe, que incluye: 2 personalidades de líder / 4 personalizaciones de perfil / 1 aspecto de batidor alternativo
-- ACCESO AVANZADO - Juega a Civilization VII el 6 de febrero de 2025, hasta 5 días antes de la fecha oficial de lanzamiento.
 - PACK DE CONTENIDO DELUXE - 2 personalidades de líder / 4 personalizaciones de perfil / 1 aspecto de batidor alternativo ¡Dale a tu unidad de reconocimiento un aspecto totalmente distinto con este nuevo atuendo!
+- Colección Encrucijadas del mundo, con contenido posterior al lanzamiento que incluye 2 nuevos líderes, 4 nuevas civilizaciones, 4 nuevas maravillas, una bonificación de estilo especial ¡y mucho más! Pack de contenido Deluxe, que incluye: 2 personalidades de líder / 4 personalizaciones de perfil / 1 aspecto de batidor alternativo
 - La Edición Deluxe incluye: Juego base completo / Acceso anticipado: accede al juego con antelación el 6 de febrero de 2025 / Pack de Tecumseh y los shawnees
+- ACCESO AVANZADO - Juega a Civilization VII el 6 de febrero de 2025, hasta 5 días antes de la fecha oficial de lanzamiento.
+- COLECCIÓN ENCRUCIJADAS DEL MUNDO - Explora nuevas posibilidades personalizando tu imperio con el contenido adicional posterior al lanzamiento, que incluye 2 nuevos líderes, 4 nuevas civilizaciones, 4 maravillas adicionales, una bonificación de estilo especial, ¡y mucho más! Los detalles completos de la Colección Encrucijadas del mundo se revelarán más adelante.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DQDQNB9C{{</world>}}

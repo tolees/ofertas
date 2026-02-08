@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Consumir bien frío, a temperatura entre 6-8º
-- Nota de cata (boca): En boca, Podemos encontrar un final a lima limón, y un buen balance entre acidez y burbuja fina
 - Espumoso bajo en alcohol
-- Nota de cata (nariz): Aromas a melocotón blanco, manzana verde, melon, con notas tropicales
 - Varietales: Airén, Chardonnay, Macabeo, Parellada, Xarel·lo
+- Nota de cata (boca): En boca, Podemos encontrar un final a lima limón, y un buen balance entre acidez y burbuja fina
+- Nota de cata (nariz): Aromas a melocotón blanco, manzana verde, melon, con notas tropicales
+- Consumir bien frío, a temperatura entre 6-8º
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C1HDC4PS{{</world>}}

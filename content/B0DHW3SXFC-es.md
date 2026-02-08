@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Suela TRAXION
+- Peso: 145 g
+- Plantilla Adifit para medir el pie
 - Impermeable
 - Cierre con correa autoadherente
-- Peso: 145 g
-- Suela TRAXION
 - Drop de la mediasuela: 6 mm (talón: 21 mm, antepié: 15 mm)
-- Horma clásica
-- Plantilla Adifit para medir el pie
 - Empeine ripstop y textil con refuerzos sintéticos
+- Horma clásica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DHW3SXFC{{</world>}}

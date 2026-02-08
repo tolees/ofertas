@@ -29,12 +29,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - LECTURA. Lee sobre 27 momentos distintos de la Patrulla Canina de la A a la Z. MÚSICA: Escucha distintos temas de Patrulla Canina junto con efectos de sonido. BUSCA Y ENCUENTRA: Juega a busca y encuentra para poner a prueba tu conocimiento de las letras y los personajes de Patrulla Canina.
-- ¡CUIDEMOS DEL PLANETA! En VTech trabajamos para reducir nuestro impacto medioambiental, como parte de un enfoque eco-responsable.
-- ✅ VERSIÓN ESPAÑOLA. Libro interactivo para niños +3 años.
-- PREPÁRATE PARA LA ACCIÓN con los cachorros de Bahía Aventura mientras aprendes letras y palabras con el gran libro interactivo de la Patrulla Canina. Pulsa los botones luminosos para participar en las misiones de rescate y para activar divertidos efectos de sonido en la música como DJ Rubble. ¡Chase te presentará a los demás miembros del equipo y te animará durante tu aventura!
-- Botones educativos: APRENDE EL ALFABETO usando los botones luminosos con la Patrulla Canina. Botones de personajes: Escucha a Chase hablar sobre sus esPATAculares amigos Marshall, Rubble y Skye.
-- BOTÓN DE CHASE: ¡Escucha a Chase decir sus populares frases mientras le ayudas en sus misiones de rescate! LETRAS Y PALABRAS: Aprende las letras de la A-Z y palabras relacionadas.
 - ASPECTOS EDUCATIVOS: Desarrollo del lenguaje, Comprensión lectora, Letras y palabras y Descubrimiento y exploración.
+- PREPÁRATE PARA LA ACCIÓN con los cachorros de Bahía Aventura mientras aprendes letras y palabras con el gran libro interactivo de la Patrulla Canina. Pulsa los botones luminosos para participar en las misiones de rescate y para activar divertidos efectos de sonido en la música como DJ Rubble. ¡Chase te presentará a los demás miembros del equipo y te animará durante tu aventura!
+- ¡CUIDEMOS DEL PLANETA! En VTech trabajamos para reducir nuestro impacto medioambiental, como parte de un enfoque eco-responsable.
+- BOTÓN DE CHASE: ¡Escucha a Chase decir sus populares frases mientras le ayudas en sus misiones de rescate! LETRAS Y PALABRAS: Aprende las letras de la A-Z y palabras relacionadas.
+- ✅ VERSIÓN ESPAÑOLA. Libro interactivo para niños +3 años.
+- Botones educativos: APRENDE EL ALFABETO usando los botones luminosos con la Patrulla Canina. Botones de personajes: Escucha a Chase hablar sobre sus esPATAculares amigos Marshall, Rubble y Skye.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQYL5FSZ{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Artículo de marca JACK & JONES
 - Los zapatos pueden combinar con multitud de conjuntos
 - Presentan detalles distintivos de la marca
-- Artículo de marca JACK & JONES
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CHR2QXCL{{</world>}}

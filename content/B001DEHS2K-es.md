@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- DIMENSIONS: Dimensions crea hermosos kits de punto de cruz. Kits de punto de aguja. Kits de ganchos de pestillo. ¡y más! La colección Dimensions contiene todo lo que necesitas y consta de una variedad de estilos para todos los niveles de habilidad.
-- Kitty: ¿Buscas un nuevo pasatiempo? ¿Qué pasa con el punto de cruz? Con este kit de punto de cruz puedes crear tu propia obra de arte. Este bonito diseño se llama arena para gatos.
-- Tamaño terminado: el tamaño final de tu creación es de 18 x 9 pulgadas.
-- Incluye: el kit contiene hilo preseleccionado. Aida marfil de 18 unidades. agujas. e instrucciones.
 - AIDA: el kit viene con tela Aida de 18 hilos de alta calidad que es perfecta para punto de cruz.
+- Incluye: el kit contiene hilo preseleccionado. Aida marfil de 18 unidades. agujas. e instrucciones.
+- DIMENSIONS: Dimensions crea hermosos kits de punto de cruz. Kits de punto de aguja. Kits de ganchos de pestillo. ¡y más! La colección Dimensions contiene todo lo que necesitas y consta de una variedad de estilos para todos los niveles de habilidad.
+- Tamaño terminado: el tamaño final de tu creación es de 18 x 9 pulgadas.
+- Kitty: ¿Buscas un nuevo pasatiempo? ¿Qué pasa con el punto de cruz? Con este kit de punto de cruz puedes crear tu propia obra de arte. Este bonito diseño se llama arena para gatos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B001DEHS2K{{</world>}}

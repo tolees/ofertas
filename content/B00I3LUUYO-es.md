@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Unidad de diafragma de neodimio de 9 mm
 - Interfaz jack 3.5 mm
-- Con micrófono inluido
 - Cable sin enredos de 1.2 m
+- Con micrófono inluido
+- Unidad de diafragma de neodimio de 9 mm
 - Micrófono con mando integrado de smartphones para los EX110AP
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mochilas
 - Atlas Green
+- Mochilas
 - Mochilas para hombre, mujer y niño The Indian Face Atlas Green
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

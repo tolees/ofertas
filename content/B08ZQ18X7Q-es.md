@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mesa con soporte de hasta 50kg. Estante con soporte de hasta 8kg.
-- Instrucciones de montaje detalladas paso a paso para un montaje fácil. Permite un montaje reversible de la pata/estantería a derecha o izquierda.
-- Tacos ABS quitarruidos y antirrayaduras en las piezas con contacto directo con el suelo.
 - Cajón con guías metálicas de suave deslizamiento. Interior cajón en acabado blanco.
 - Estructura muy sólida y consistente que da garantía de un mueble duradero y resistente.
+- Mesa con soporte de hasta 50kg. Estante con soporte de hasta 8kg.
+- Tacos ABS quitarruidos y antirrayaduras en las piezas con contacto directo con el suelo.
+- Instrucciones de montaje detalladas paso a paso para un montaje fácil. Permite un montaje reversible de la pata/estantería a derecha o izquierda.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08ZQ18X7Q{{</world>}}

@@ -29,12 +29,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Desplazamiento: 10 mm
-- Peso: 9.5 onzas.
-- La plantilla de EVA proporciona una comodidad suave al pisar
 - Advertencia: este producto puede exponerte a productos químicos, incluyendo cromo (compuestos hexavalentes), que se sabe en el estado de California por causar cáncer y defectos de nacimiento u otros daños reproductivos.
-- NEUTRAL: para corredores que necesitan flexibilidad, amortiguación y versatilidad
-- Suela de goma sólida que cubre zonas de alto impacto para una mayor durabilidad con menos peso
+- La plantilla de EVA proporciona una comodidad suave al pisar
 - Tipo de encaje: corbata estándar
+- NEUTRAL: para corredores que necesitan flexibilidad, amortiguación y versatilidad
+- Peso: 9.5 onzas.
+- Suela de goma sólida que cubre zonas de alto impacto para una mayor durabilidad con menos peso
 - La entresuela Charged Cushioning utiliza espuma moldeada por compresión para una máxima capacidad de respuesta y durabilidad
 - Parte superior de malla ligera y transpirable con superposiciones sintéticas para mayor durabilidad y apoyo
 

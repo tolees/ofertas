@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Consigue el look NEXT
 - Básicos atemporales
 - La marca inglesa para toda la familia
+- Consigue el look NEXT
 - Looks a la última
 
 [🛒 Aquí!!!]({{< param buyurl >}})

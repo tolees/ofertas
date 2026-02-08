@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fabricado en Francia, Listo al uso y fácil de limpiar con agua tibia, Aplicar en temperaturas entre 10ºC a 25ºC
-- Aplicar sobre soportes sanos, secos, sólidos y limpios de carácter absorbente, con un rodillo (para pared) o con una brocha (sobre el papel), Aplicar previamente una imprimación para empapelar y pintar para un resultado óptimo
-- Contenido: 1x Bostik, Adhesivo para empapelar, Todo tipo de papeles pintados, Cola Papeles Pintados, Rosa, Bote de 3 kg, Código: 30608317
 - Adhesivo resistente a la humedad, transparente cuando se seca, de color rosa durante la aplicación, Apto para muebles, puertas y para ambientes húmedos (cocina, baños…)
 - Cola Papeles Pintados de Bostik con indicador de color especialmente indicada para encolar todo tipo de papeles pintados (ligero, pesado, papel vinílico, tejido, dúplex, etc.)
+- Aplicar sobre soportes sanos, secos, sólidos y limpios de carácter absorbente, con un rodillo (para pared) o con una brocha (sobre el papel), Aplicar previamente una imprimación para empapelar y pintar para un resultado óptimo
+- Fabricado en Francia, Listo al uso y fácil de limpiar con agua tibia, Aplicar en temperaturas entre 10ºC a 25ºC
+- Contenido: 1x Bostik, Adhesivo para empapelar, Todo tipo de papeles pintados, Cola Papeles Pintados, Rosa, Bote de 3 kg, Código: 30608317
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B071NMM67M{{</world>}}

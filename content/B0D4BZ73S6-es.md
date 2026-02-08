@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte normal para una mayor libertad de movimiento, Longitud de la espalda: 255, Exterior: 100% poliéster
 - Capucha y dobladillo ajustables con cordón para un ajuste personalizado, puños elásticos para mayor comodidad& bolsillos para las manos con cremallera para un almacenamiento seguro sobre la marcha
-- Flash Forward II Windbreaker es una chaqueta ligera y plegable fabricada en tejido resistente al agua, con un diseño elegante que la hace ideal para actividades al aire libre y condiciones meteorológicas impredecibles.
+- Corte normal para una mayor libertad de movimiento, Longitud de la espalda: 255, Exterior: 100% poliéster
 - Contenido: 1x Columbia Cortavientos Flash Forward II para Mujer, Color: Spray, River Blue (Verde), Talla: S
+- Flash Forward II Windbreaker es una chaqueta ligera y plegable fabricada en tejido resistente al agua, con un diseño elegante que la hace ideal para actividades al aire libre y condiciones meteorológicas impredecibles.
 - Fabricado con Omni-Shade: combinaciones diseñadas de fibras, hilos y estructuras de tejido que bloquean una gama más amplia de dañinos rayos UVA y UVB.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

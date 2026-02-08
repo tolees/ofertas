@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Indicaciones: no mojar el llavero.
-- Conjunto de postal + llavero de metal, cuyos textos combinados entre sí forman un bonito mensaje dirigido a papá: la postal inicia el mensaje y el llavero lo remata, de manera que, de forma independiente, el mensaje del llavero funciona también por sí solo.
-- La postal cuenta con certificación FSC, que garantiza que ha sido fabricada con papel proveniente de bosques gestionados de manera responsable.
 - Incluye sobre.
+- Indicaciones: no mojar el llavero.
+- La postal cuenta con certificación FSC, que garantiza que ha sido fabricada con papel proveniente de bosques gestionados de manera responsable.
+- Conjunto de postal + llavero de metal, cuyos textos combinados entre sí forman un bonito mensaje dirigido a papá: la postal inicia el mensaje y el llavero lo remata, de manera que, de forma independiente, el mensaje del llavero funciona también por sí solo.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DR2HH5YM{{</world>}}

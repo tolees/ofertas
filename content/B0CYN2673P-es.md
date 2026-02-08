@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Horma clásica
-- Amortiguación LIGHTMOTION
 - Suela de goma
 - Empeine de malla acolchada
+- Amortiguación LIGHTMOTION
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CYN2673P{{</world>}}

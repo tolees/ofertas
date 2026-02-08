@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mantener una distancia mínima de 10 cm entre dos velas encendidas. Mantener alejada de elementos inflamables.​
-- Características del aroma brisa marina:​ Fragancia vigorizante, con una nota distintiva de sal marina.​ Con notas acuáticas y oceánicas, que recuerdan al mar y al aire libre.​ Se complementa con notas cítricas de limón, lima y bergamota.​
 - Vela realizada en cera vegetal y presentada en envase de vidrio. Aroma: brisa marina.​
-- Con toques de hierbas frescas y flores ligeras, que aportan complejidad.
 - Indicaciones: encender un mínimo de 10 minutos para asegurar una correcta dispersión del aroma y un máximo de 2 horas por temas de seguridad. Mantener fuera del alcance de niños y mascotas. No dejar la vela encendida sin supervisión.
+- Con toques de hierbas frescas y flores ligeras, que aportan complejidad.
+- Características del aroma brisa marina:​ Fragancia vigorizante, con una nota distintiva de sal marina.​ Con notas acuáticas y oceánicas, que recuerdan al mar y al aire libre.​ Se complementa con notas cítricas de limón, lima y bergamota.​
+- Mantener una distancia mínima de 10 cm entre dos velas encendidas. Mantener alejada de elementos inflamables.​
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DH4YBT9K{{</world>}}

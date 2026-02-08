@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo Hilfiger monotipo en relieve en el lateral
 - Tommy hilfiger Bandera grabada en el talón
+- Logotipo Hilfiger monotipo en relieve en el lateral
 - Tommy hilfiger Marca:
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

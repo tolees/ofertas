@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Crema-Gel: Esta crema hidratante con acción nutritiva intensa y de larga duración calma la piel al instante y la mantiene hidratada durante todo el día. Para pieles secas.
+- Hidratación intensa: La crema hidratante facial y el contorno de ojos antifatiga ofrecen hidratación intensa para una piel revitalizada, elástica y suave durante todo el día
+- Rutina facial: Combina la aplicación del gel hidratante por la mañana y por la noche con la crema de contorno de ojos rodeando el ojo, para minimizar las líneas de expresión
 - Detalles del envío: Neutrogena Hydro Boost Crema-Gel + Contorno de ojos de regalo, cuidado facial de textura ligera con ácido hialurónico puro, clínicamente probado, 50 ml + 15 ml
 - Contorno de Ojos: Empieza el día con la crema para el contorno de los ojos, que aporta 6 veces más hidratación* al instante y durante 72h para reducir bolsas y ojeras
-- Rutina facial: Combina la aplicación del gel hidratante por la mañana y por la noche con la crema de contorno de ojos rodeando el ojo, para minimizar las líneas de expresión
-- Hidratación intensa: La crema hidratante facial y el contorno de ojos antifatiga ofrecen hidratación intensa para una piel revitalizada, elástica y suave durante todo el día
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B077N81LVF{{</world>}}

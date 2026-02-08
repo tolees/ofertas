@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - 2 en 1: forma el puzzle y colorea la parte de atrás
 - Tamaño del rompecabezas: 50 x 35 cm
-- De cartón resistente acoplado
 - Fabricado en Italia
+- De cartón resistente acoplado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07NSJ9YM9{{</world>}}

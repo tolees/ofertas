@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Resistencia de los interruptores de larga duración: 100 millones de clics | Deslizamientos de PTFE puro con tratamiento de calor para dar movimientos suaves
+- Iluminación RGB AIMO programable de tres zonas | Cable trenzado USB-A PhantomFlex sin arrastres
 - Botones pretensados para hacer clic suaves y rápidos | Interruptores ópticos TITAN para darte una sensación táctil con velocidad óptica
 - Rueda de desplazamiento multifunción 4D con inclinación | Precisión dinámica con sensor óptico con 26 000 ppp/650 pps (16,5 m/s)
 - Forma ergonómica para manos medianas y grandes y para todo tipo de agarres. | Diseño de múltiples botones con 23 funciones programables
-- Resistencia de los interruptores de larga duración: 100 millones de clics | Deslizamientos de PTFE puro con tratamiento de calor para dar movimientos suaves
-- Iluminación RGB AIMO programable de tres zonas | Cable trenzado USB-A PhantomFlex sin arrastres
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D9MBY2J3{{</world>}}

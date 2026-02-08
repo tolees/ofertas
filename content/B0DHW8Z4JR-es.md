@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela de goma vulcanizada
 - Empeine de ante
 - Forro textil
 - Fiel a la talla
+- Suela de goma vulcanizada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DHW8Z4JR{{</world>}}

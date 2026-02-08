@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- PCF = Pro Comfort Foam Insock.
 - Media suela de EVA retro con inserto de color.
 - Refined material-mixed upper.
-- PCF = Pro Comfort Foam Insock.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DLBVTTK2{{</world>}}

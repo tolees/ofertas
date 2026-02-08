@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Detalles de los vaqueros PEPE F1: las líneas planas de goma del panel de impresión mejoran aún más el atractivo deportivo de esta camiseta, por lo que es una opción perfecta tanto para uso casual como deportivo. El aspecto auténtico se ve mejorado por un cuello de rugby de sarga pesada de dos piezas en color marfil
 - Aspectos destacados del equipo: destaca con el gráfico de pecho reflejado de temporada en impresión de goma elevada, mostrando el logotipo de Red Bull Racing con orgullo
+- Detalles de los vaqueros PEPE F1: las líneas planas de goma del panel de impresión mejoran aún más el atractivo deportivo de esta camiseta, por lo que es una opción perfecta tanto para uso casual como deportivo. El aspecto auténtico se ve mejorado por un cuello de rugby de sarga pesada de dos piezas en color marfil
 - Camiseta de rugby Red Bull Racing: experimenta la máxima comodidad y estilo con nuestra camiseta de rugby con logo Reflect Panel, meticulosamente elaborada con jersey 100% algodón para una sensación limpia y deportiva
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Forro: malla 100% poliéster reciclado
-- Cintura elástica de talle medio con cordón ajustable
-- AEROREADY
 - Corte clásico
+- Cintura elástica de talle medio con cordón ajustable
 - Tejido principal: tejido técnico 100% poliéster reciclado
+- AEROREADY
 - Bolsillos laterales
 
 [🛒 Visítala!!!]({{< param buyurl >}})

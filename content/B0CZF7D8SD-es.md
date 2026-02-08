@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cosméticos de maquillaje profesionales, adecuados para el uso diario
-- La fórmula se compone de aloe vera y ácido hialurónico
-- Adaptado a diferentes preferencias y tendencias
 - La siguiente información se aplica a cada unidad del paquete
+- Adaptado a diferentes preferencias y tendencias
+- La fórmula se compone de aloe vera y ácido hialurónico
+- Cosméticos de maquillaje profesionales, adecuados para el uso diario
 - Productos innovadores para el cuidado de la piel que ofrecen soluciones efectivas para diferentes tipos de piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})

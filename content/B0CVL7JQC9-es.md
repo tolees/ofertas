@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Refuerzos en los talones y rodilleras
 - Bolsillos traseros
-- Etiqueta de G-STAR Originals tejida en la parte trasera
 - Bolsillos reforzados con remaches insertados y bolsillo para monedas en el interior
 - Bragueta de botones
+- Etiqueta de G-STAR Originals tejida en la parte trasera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CVL7JQC9{{</world>}}

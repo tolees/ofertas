@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantilla estándar
 - Calzado para hombre
 - Zapatillas deportivas
+- Plantilla estándar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D69TBGS1{{</world>}}

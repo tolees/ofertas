@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre de cordones
-- Mediasuela con amortiguación
 - Forro textil
 - Parte superior de piel
+- Mediasuela con amortiguación
 - Horma clásica
+- Cierre de cordones
 - Suela de goma vulcanizada
 
 [🛒 Aquí!!!]({{< param buyurl >}})

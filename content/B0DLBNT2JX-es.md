@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Refined material-mixed upper.
 - Media suela de EVA retro con inserto de color.
 - PCF = Pro Comfort Foam Insock.
+- Refined material-mixed upper.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DLBNT2JX{{</world>}}

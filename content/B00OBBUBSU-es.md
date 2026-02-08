@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- COMPATIBLE CON: Niveles y láseres con rosca de 1/4", GLL 2-10, GLL 2-15 G, GCL 2-15, GCL 2-15 G, GCL 2-50, GCL 2-50 G, GCL 2-50 C, GCL 2-50 CG, GLL 3-80, GLL 3-80 G, GLL 3-80 C, GLL 3-80 CG
-- NIVEL ESFÉRICO DE BURBUJA: Funcionalidad y precisión gracias al nivel esférico
 - ALTURA DE TRABAJO: Ajuste flexible de altura desde 55 cm hasta 157 cm.
-- GRAN ESTABILIDAD: Apoyo totalmente estable sobre cualquier suelo gracias a su robusto diseño de aluminio.
+- NIVEL ESFÉRICO DE BURBUJA: Funcionalidad y precisión gracias al nivel esférico
 - INCLUYE: Trípode BT 150
+- GRAN ESTABILIDAD: Apoyo totalmente estable sobre cualquier suelo gracias a su robusto diseño de aluminio.
+- COMPATIBLE CON: Niveles y láseres con rosca de 1/4", GLL 2-10, GLL 2-15 G, GCL 2-15, GCL 2-15 G, GCL 2-50, GCL 2-50 G, GCL 2-50 C, GCL 2-50 CG, GLL 3-80, GLL 3-80 G, GLL 3-80 C, GLL 3-80 CG
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00OBBUBSU{{</world>}}

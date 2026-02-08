@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Futbol Sala
-- 65% Piel sintética + 35% Textil
-- Lima
 - Cordones
+- Lima
+- Futbol Sala
 - Lavar en frío, no usar secadora
+- 65% Piel sintética + 35% Textil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B096SPZBLJ{{</world>}}

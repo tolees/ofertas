@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Parte superior: cuero (piel de vacuno)
 - Costuras alrededor para mayor durabilidad
 - Color: negro
+- Parte superior: cuero (piel de vacuno)
 - Correa elástica para un ajuste cómodo
 - Suela/características: suela de TPU con tecnología Contact Earth para una alta resistencia a la abrasión
 

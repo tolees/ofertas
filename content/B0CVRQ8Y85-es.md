@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- RC
-- Para los niños
-- Diversión única en las carreras en casa
 - Para grandes y pequeños
+- Diversión única en las carreras en casa
+- Para los niños
+- RC
 - Carrera RC
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Contenido: 1 tablero de juego, 1 dado, 32 piezas castillo con personajes de Disney (16 azules y 16 rojas), 6 piezas torre con personajes de Disney (3 azules y 3 rojas) y reglas del juego
-- Existen dos modalidades de juego. Stratego Quest recomendado para mayores de 4 años y Stratego Triumph para mayores de 6 años.
-- Número de jugadores: se juega individualmente. Tienen que ser obligatoriamente 2 jugadores
 - Habilidades que desarrolla: pensamiento estratégico, lógica y juego dinámicas sencillas de juego
+- Número de jugadores: se juega individualmente. Tienen que ser obligatoriamente 2 jugadores
 - Juega al juego Stratego con los personajes populares de Disney. Los héroes de Disney luchan contra los villanos. Haz una formación secreta con Peter Pan, Ariel y Simba. ¿Son lo suficientemente fuertes como para detener al Capitán Garfio, Jafar y Scar? ¿Puedes contar con su ayuda para conquistar el cofre del tesoro? El primero que lo haga ¡ganará la partida!
+- Existen dos modalidades de juego. Stratego Quest recomendado para mayores de 4 años y Stratego Triumph para mayores de 6 años.
+- Contenido: 1 tablero de juego, 1 dado, 32 piezas castillo con personajes de Disney (16 azules y 16 rojas), 6 piezas torre con personajes de Disney (3 azules y 3 rojas) y reglas del juego
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08C5MY8R7{{</world>}}

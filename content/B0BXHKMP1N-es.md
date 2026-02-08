@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Kaiku Caffè Latte Cappuccino, es un café frío ya preparado y listo para ser consumido en envases individuales, la elección perfecta para conseguir un impulso de energía y mejorar tus mañana
-- Con café arábica de producción sostenible, certificado por Rainforest Alliance, que no solo ofrece un sabor excepcional, sino que también respalda prácticas agrícolas éticas y respetuosas con el medio ambiente. Además, su cacao también es sostenible
 - 100% ingredientes naturales. Combina café arábica de Nicaragua y Honduras con un toque de chocolate y la mejor leche fresca semidesnatada UHT
 - Este café no requiere preparación, simplemente agítalo y ya está listo para disfrutar. Es perfecto para los días calurosos, ya que está diseñado para ser degustado frío, aunque también puedes calentarlo si lo prefieres. Una vez abierto, conservar en lugar fresco a menos de 10°C
+- Con café arábica de producción sostenible, certificado por Rainforest Alliance, que no solo ofrece un sabor excepcional, sino que también respalda prácticas agrícolas éticas y respetuosas con el medio ambiente. Además, su cacao también es sostenible
 - Disfruta de una experiencia suave y cremosa con cada sorbo. La cuidadosa combinación de café, leche y un toque de cacao, crea una textura aterciopelada que realza su sabor
+- Kaiku Caffè Latte Cappuccino, es un café frío ya preparado y listo para ser consumido en envases individuales, la elección perfecta para conseguir un impulso de energía y mejorar tus mañana
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BXHKMP1N{{</world>}}

@@ -29,13 +29,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Asimismo, este transmisor de piscina se puede utilizar en su estanque
-- Rango de medición de temperatura del transmisor de piscina TX36-IT: -39,9 °C hasta 69,9 °C
-- Se trata de una correa para fijar el transmisor en el borde de la pelvis para mantenerlo cerca de los bordes
-- En total puedes recibir hasta 3 sensores (sensores de piscina)
 - ¿Cómo funciona? Muy simple. El moderno termómetro para piscina (en forma de cono) flota en la superficie del agua y mide la temperatura del agua a 11 cm de profundidad. Los datos de medición se transmiten por radio a la estación y, por lo tanto, se pueden leer en la estación base o en el propio transmisor.
-- Los siguientes datos se pueden leer fácilmente desde el sofá en la estación base: hora (cuarzo), temperatura interior y agua, humedad, valores mín./ máximos, indicador de confort e indicador final de la batería
-- Rango de medición de humedad de la estación base: 20% RH a 95%RH
+- En total puedes recibir hasta 3 sensores (sensores de piscina)
 - Rango de medición de temperatura de la estación base WS9059: -9,9 °C a 49,9 °C
+- Rango de medición de humedad de la estación base: 20% RH a 95%RH
+- Rango de medición de temperatura del transmisor de piscina TX36-IT: -39,9 °C hasta 69,9 °C
+- Los siguientes datos se pueden leer fácilmente desde el sofá en la estación base: hora (cuarzo), temperatura interior y agua, humedad, valores mín./ máximos, indicador de confort e indicador final de la batería
+- Se trata de una correa para fijar el transmisor en el borde de la pelvis para mantenerlo cerca de los bordes
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09VTBJHJC{{</world>}}

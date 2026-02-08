@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 100% algodón
 - Puños y dobladillo de canalé
-- Capucha con cordón ajustable
 - Bolsillo canguro
 - Corte clásico
-- 100% algodón
+- Capucha con cordón ajustable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQWFL51M{{</world>}}

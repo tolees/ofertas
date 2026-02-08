@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tecnología Comemory Foamort Pillar
 - Ajuste de arco
+- Tecnología Comemory Foamort Pillar
 - Plantilla Goga Mat refrigerada por aire
 
 [🛒 Comprar!!!]({{< param buyurl >}})

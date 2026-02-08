@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Mangas: manga corta
 - Corte regular
 - Hombros caídos
-- Mangas: manga corta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B1VQTNN1{{</world>}}

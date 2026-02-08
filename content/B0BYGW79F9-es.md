@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ALISADO INSTANTÁNEO: nuestro contorno de ojos contiene ácido hialurónico que hidrata, nutre y mejora la elasticidad de la piel, para dar un aspecto juvenil y revitalizado al contorno de los ojos.
-- LUMINOSIDAD INSTANTÁNEA: Contorno de ojos ligero con pigmentos iluminadores para revitalizar, iluminar y ofrecer un aspecto liso, fresco y naturalmente radiante. ¡Combínalo con The Sorbet Cream!
-- APLICADOR RESFRESCANTE: El aplicador metálico ayuda a mejorar la microcirculación para descongestionar la delicada zona del contorno de los ojos, y facilita que el producto penetre en la piel.
 - ESTUDIO CLÍNICO INSTRUMENTAL: Realizado en voluntarios con resultados reales después de 8 semanas. 80% de ellos mostraron reucción de las bolsas de los ojos y el 90% mejoro la luminosidad de la piel.
 - 5% CAFEÍNA: Contorno de ojos en crema refrescante con 5 % de cafeína que reduce bolsas y ojeras, aumenta la circulación cutánea y suaviza el aspecto de ojos cansados y combate los signos de fatiga.
+- LUMINOSIDAD INSTANTÁNEA: Contorno de ojos ligero con pigmentos iluminadores para revitalizar, iluminar y ofrecer un aspecto liso, fresco y naturalmente radiante. ¡Combínalo con The Sorbet Cream!
+- APLICADOR RESFRESCANTE: El aplicador metálico ayuda a mejorar la microcirculación para descongestionar la delicada zona del contorno de los ojos, y facilita que el producto penetre en la piel.
+- ALISADO INSTANTÁNEO: nuestro contorno de ojos contiene ácido hialurónico que hidrata, nutre y mejora la elasticidad de la piel, para dar un aspecto juvenil y revitalizado al contorno de los ojos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BYGW79F9{{</world>}}

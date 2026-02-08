@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Logos bordados
+- 100% nylon
 - Cremallera completa
 - Bolsillos laterales
-- 100% nylon
-- Logos bordados
 - Capucha oculta
 
 [🛒 Aquí!!!]({{< param buyurl >}})

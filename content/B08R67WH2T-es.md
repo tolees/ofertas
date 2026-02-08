@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Bolsillo canguro
-- Ajuste regular
 - Capucha con cordón
 - Tejido suave y cálido
+- Ajuste regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08R67WH2T{{</world>}}

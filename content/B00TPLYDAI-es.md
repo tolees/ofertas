@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 20 UNIDADES - Esparadrapos flexibles, pueden adaptarse a diferentes partes del cuerpo y pueden resistir situaciones exigentes
 - FLEXIBLE - Tiene buena adherencia y es flexible
-- RESISTENTES AL AGUA - Salvequick Aqua Resist Spot es una tirita resistente al agua
-- IMPORTANTE - Limpie la herida, asegúrese de que no esté infectada y cambie el apósito diariamente
 - TRANSPIRABLE - También es resistente a la suciedad y transpirable
+- 20 UNIDADES - Esparadrapos flexibles, pueden adaptarse a diferentes partes del cuerpo y pueden resistir situaciones exigentes
+- IMPORTANTE - Limpie la herida, asegúrese de que no esté infectada y cambie el apósito diariamente
+- RESISTENTES AL AGUA - Salvequick Aqua Resist Spot es una tirita resistente al agua
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00TPLYDAI{{</world>}}

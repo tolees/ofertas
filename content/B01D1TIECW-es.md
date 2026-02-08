@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hecho en acero. Recubrimiento cincado blanco
 - Recomendado para usar en: carpintería aluminio, ensamblaje chapa, chapa perfil pesado
+- Hecho en acero. Recubrimiento cincado blanco
 - Instalación con atornillador. Huella Phillips. Cabeza plana
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

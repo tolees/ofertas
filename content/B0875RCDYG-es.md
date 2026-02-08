@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sacapuntas de 2 agujeros.
-- Tamaño: 20 x 35 x 65 mm.
 - Fabricado en PVC de alta calidad.
+- Tamaño: 20 x 35 x 65 mm.
+- Sacapuntas de 2 agujeros.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0875RCDYG{{</world>}}

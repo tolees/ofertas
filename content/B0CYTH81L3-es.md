@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- SOBRE NOSOTROS: Las fórmulas infantiles Novalac, creadas por un equipo de expertos multidisciplinar, están diseñadas para adaptarse a las características del bebé, tratando de evitar los trastornos digestivos más frecuentes.
 - 0-6 MESES: Novalac Premium 1 es una leche infantil adaptada a los lactantes hasta el 6º mes cuando no se realiza lactancia materna. Forma parte de una gama completa de productos desarrollados para responder a sus necesidades nutricionales.
-- INGREDIENTES PRINCIPALES: Leche descremada, proteínas de leche, aceites vegetales (palma, coco, soja, Brassica napus), lactosa, galactooligosacáridos (leche), aceite de pescado (DHA), emulsionante (lecitina de soja), citrato de potasio.
-- AVISO IMPORTANTE: La leche materna es el alimento ideal para el lactante, por lo que es esencial conseguir una adecuada nutrición de la madre. Si no fuera posible, consulte con el pediatra el uso de leches infantiles adaptadas a sus necesidades.
 - CONTIENE DHA: La ingesta de acido docosahexaenoico (DHA) contribuye al desarrollo visual normal de los niños hasta los 12 meses de edad. El efecto beneficioso se obtiene con una ingesta diaria de 100 mg. Fórmula elaborada con pediatras.
+- SOBRE NOSOTROS: Las fórmulas infantiles Novalac, creadas por un equipo de expertos multidisciplinar, están diseñadas para adaptarse a las características del bebé, tratando de evitar los trastornos digestivos más frecuentes.
+- AVISO IMPORTANTE: La leche materna es el alimento ideal para el lactante, por lo que es esencial conseguir una adecuada nutrición de la madre. Si no fuera posible, consulte con el pediatra el uso de leches infantiles adaptadas a sus necesidades.
+- INGREDIENTES PRINCIPALES: Leche descremada, proteínas de leche, aceites vegetales (palma, coco, soja, Brassica napus), lactosa, galactooligosacáridos (leche), aceite de pescado (DHA), emulsionante (lecitina de soja), citrato de potasio.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CYTH81L3{{</world>}}

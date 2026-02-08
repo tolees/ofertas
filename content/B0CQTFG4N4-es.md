@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- FIGURAS Y ACCESORIOS EXCLUSIVOS – Incluye 1 Piratix exclusivo: el capitán dorado Wings, junto son su tesoro exclusivo que activa poderes
 - VIVE NUEVAS AVENTURAS CON PIRATIX – Cuenta la leyenda que existió un Piratix legendario que habría conseguido todos los doblones Piratix, pero un día desapareció llevándose todo el tesoro y el poder pirata que éste otorgaba a su dueño. ¿Será capaz la nueva generación Piratix de encontrar todo el tesoro y convertirse en los Piratix más Piratix de todos los tiempos? ¡Tú decides, grumete!
 - JUEGA Y DESCUBRE– Barco pirata de gran jugabilidad con múltiples acciones para desarrollar la imaginación y la resolución de problemas de cada niño o niña. Amplía la aventura Piratix con el nuevo barco pirata Sky Hunter
 - ¡ACTIVA SUS PODERES! – El capitán Lobster encontró el Tesoro del Cangrejo en el arrecife más peligroso de Shark Island. El capitán Wings encontró el Tesoro de las Alas en el Pico del Águila, el más alto de Shark Island. Ésta le otorgó un poder a su embarcación: utiliza la moneda para activarlo ¡y sus alas batirán fuertemente para alcanzar una velocidad de doscientos nudos! También puedes disparar el cañón con su proyectil exclusivo y hundir cualquier embarcación. ¡Al abordaje!
 - ¡SURCA LOS MARES CON LOS PIRATIX! – ¡Por las barbas de Neptuno! ¿Qué es este barco? ¡Es Sky Hunter y tiene el poder del loro! Surca los mares y usa el tesoro para activar sus poderes… ¡Al abordaje!
-- FIGURAS Y ACCESORIOS EXCLUSIVOS – Incluye 1 Piratix exclusivo: el capitán dorado Wings, junto son su tesoro exclusivo que activa poderes
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CQTFG4N4{{</world>}}

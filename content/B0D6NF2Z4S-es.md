@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Fácil aplicación
-- Cubre las rojeces
 - Con aloe vera
+- Cubre las rojeces
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D6NF2Z4S{{</world>}}

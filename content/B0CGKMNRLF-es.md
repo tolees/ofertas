@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puños anchos
 - Bolsillos laterales
+- Puños anchos
 - Casual: la sudadera con capucha para hombre de Urban Classics es un clásico reeditado hábilmente de la frescura para hombre
 - Hombros superpuestos
 

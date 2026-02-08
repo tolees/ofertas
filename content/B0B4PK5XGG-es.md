@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Reposabrazos 4D Ajustables y Personalizables: Altura, ángulo, profundidad y giro que protegen brazos y muñecas, adaptándose a cualquier postura para máximo confort.
 - Inclinación y Bloqueo de 135º: Permite reclinarse y descansar sin perder postura, perfecto para pausas, streaming o relajación durante horas de uso.
 - Ruedas Silenciosas de Nylon y PU: Movimiento suave sobre cualquier tipo de suelo, sin ruidos ni daños, para setups gamers o escritorios de oficina.
+- Reposabrazos 4D Ajustables y Personalizables: Altura, ángulo, profundidad y giro que protegen brazos y muñecas, adaptándose a cualquier postura para máximo confort.
 - Silla Gaming Ergonómica para Gamers y Oficina: Respaldo alto con cojines lumbar y cervical incluidos, soporte total para espalda y cuello, ideal para largas sesiones de juego o trabajo frente al ordenador.
 - Construcción Robusta, Peso y Dimensiones: Estructura metálica con pistón de gas clase 4, soporta hasta 150 kg, dimensiones 70 x 130-139 x 66 cm (An x Al x Pr), peso 22 kg, máxima estabilidad y seguridad.
 

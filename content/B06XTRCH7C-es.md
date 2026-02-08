@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Potencia de 600 W
+- Cabezal pulverizador desmontable para limpiar todos los elementos
 - Adaptado para lacas, esmaltes y pinturas de paredes interiores
 - Capacidad del recipiente de pintura de 800 ml
-- Cabezal pulverizador desmontable para limpiar todos los elementos
 - Sistema semi-estacionario para espacios de trabajo medianos a grandes
 
 [🛒 Visítala!!!]({{< param buyurl >}})

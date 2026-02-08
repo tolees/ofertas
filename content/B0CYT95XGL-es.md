@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Horma clásica
 - 3 bandas perforadas
-- Empeine de piel sintética
 - Cierre de cordones
 - Suela de goma
-- Horma clásica
+- Empeine de piel sintética
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CYT95XGL{{</world>}}

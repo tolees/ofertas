@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tecnología GaN avanzada – Gallium Nitride garantiza eficiencia energética, tamaño compacto y menor generación de calor con total seguridad.
-- Carga hasta 3 dispositivos – 2 puertos USB-C + 1 USB-A con distribución inteligente de energía para múltiples dispositivos simultáneos.
-- Perfecto para viajar – Incluye enchufes intercambiables (UK, EU, US, AU), ideal para viajes de trabajo o vacaciones.
 - Protección completa – Protección integrada contra sobretensión, sobrecorriente, sobrecalentamiento, sobrecarga y cortocircuitos.
+- Carga hasta 3 dispositivos – 2 puertos USB-C + 1 USB-A con distribución inteligente de energía para múltiples dispositivos simultáneos.
+- Tecnología GaN avanzada – Gallium Nitride garantiza eficiencia energética, tamaño compacto y menor generación de calor con total seguridad.
+- Perfecto para viajar – Incluye enchufes intercambiables (UK, EU, US, AU), ideal para viajes de trabajo o vacaciones.
 - Carga rápida de 65W – Carga portátiles, tablets y móviles rápidamente con tecnología USB-C Power Delivery 3.0 y Quick Charge 4.0.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

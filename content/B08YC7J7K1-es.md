@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Refina la textura y minimiza visiblemente la apariencia de las líneas de expresión para lograr una piel suave y uniforme. Además, ayuda a hidratar y suavizar la piel.
 - El sérum concentrado de It Cosmetics reduce visiblemente las líneas en solo una semana. Con un 1,5 % de ácido hialurónico, hidrata, rellena y suaviza las líneas finas. Además, combina péptidos y vitamina B5 para aportar una mayor elasticidad. Apto para todo tipo de pieles.
 - Modo de empleo: Aplicar 2-3 gotas sobre la cara y el cuello una vez al día después de limpiar la piel, evitando los ojos. En caso de contacto, aclarar con agua. Aplicar después del sérum y antes de la crema hidratante. Por la mañana, combinar con un buen protector solar. Evitar la piel irritada.
+- Refina la textura y minimiza visiblemente la apariencia de las líneas de expresión para lograr una piel suave y uniforme. Además, ayuda a hidratar y suavizar la piel.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08YC7J7K1{{</world>}}

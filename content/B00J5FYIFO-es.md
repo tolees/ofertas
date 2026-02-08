@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ayuda al crecimiento y desarrollo intelectual y físico, contribuye al metabolismo energético normal y al buen funcionamiento del sistema inmunitario
 - Supradyn Junior Gummies es una nueva y deliciosa forma de tomar vitaminas para niños a partir de 4 años, que complementa una dieta equilibrada ayudando al crecimiento y desarrollo de los niños
-- Sin gluten
-- Este complejo vitamínico para niños contiene vitaminas (C, B6, B12, Nicotinamida) y 2 ingredientes naturales DHA (Omega-3) y Colina
 - Niños 2 caramelos de goma al día y adultos 4 caramelos de goma al día; se pueden tomar los 2 caramelos a la vez o en 2 momentos diferentes del día
+- Sin gluten
+- Ayuda al crecimiento y desarrollo intelectual y físico, contribuye al metabolismo energético normal y al buen funcionamiento del sistema inmunitario
+- Este complejo vitamínico para niños contiene vitaminas (C, B6, B12, Nicotinamida) y 2 ingredientes naturales DHA (Omega-3) y Colina
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00J5FYIFO{{</world>}}

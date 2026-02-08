@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Liso: 100% algodón. Blanco / jaspeado: 52% algodón, 48% poliéster.
-- Tejido jersey de peso medio de 150 g/m².
+- Obra de arte personalizada del cuello trasero.
 - Construcción de costura lateral.
 - Serigrafía suave a mano.
-- Obra de arte personalizada del cuello trasero.
+- Tejido jersey de peso medio de 150 g/m².
+- Liso: 100% algodón. Blanco / jaspeado: 52% algodón, 48% poliéster.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CV7NPPCH{{</world>}}

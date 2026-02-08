@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mezcla típica de la tradición culinaria napolitana utilizada en la preparación de muchos postres tradicionales de Campania.
 - Paquete de 30 gramos.
-- Mezcla de especias indispensables para postres tradicionales en un paquete comparable de 30 gramos.
+- Mezcla típica de la tradición culinaria napolitana utilizada en la preparación de muchos postres tradicionales de Campania.
 - El aroma es intenso y el sabor es muy decisivo.
+- Mezcla de especias indispensables para postres tradicionales en un paquete comparable de 30 gramos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08JNKRCR9{{</world>}}

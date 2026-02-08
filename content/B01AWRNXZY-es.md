@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Más que un tónico, esta loción fresca es un exfoliante suave que libera la piel de impurezas y células muertas. La luminosidad natural del cutis se revela y la piel se siente maravillosamente confortable.
 - Utilizar a diario después de limpiar el rostro. Impregnar un algodón con tónico y pasarlo por todo el rostro, desde el centro hacia el exterior. Repetir la operación hasta que el algodón quede limpio.
 - El tónico hidratante y calmante Biosource penetra en profundidad para eliminar las impurezas y proteger la piel de las agresiones medioambientales. Mantiene el equilibrio de la piel seca gracias al extracto de Life Plankton rico en nutrientes.
-- Más que un tónico, esta loción fresca es un exfoliante suave que libera la piel de impurezas y células muertas. La luminosidad natural del cutis se revela y la piel se siente maravillosamente confortable.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01AWRNXZY{{</world>}}

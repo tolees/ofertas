@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Texto decorativo
-- Rayas cortadas y cosidas
 - Polo de rugby de manga larga y corte cuadrado
 - Tejido piqué 100% algodón
+- Rayas cortadas y cosidas
+- Texto decorativo
 - Tapeta oculta
 
 [🛒 Aquí!!!]({{< param buyurl >}})

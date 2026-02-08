@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Material y forma: Pantalón corto Under Armour UA Tech Graphic Short, cómodos shorts de hombre, material: 100% de poliéster
-- Corte suelto: El corte ancho de los shorts deportivos de hombre ofrece libertad de movimiento en cualquier dirección y comodidad
-- Bolsillos de malla: Estos elegantes pantalones shorts para hombre disponen de bolsillos laterales de malla y cintura elástica recubierta con cordón
 - Tejido transpirable: El pantalón ancho es bueno para el deporte debido a su tejido, que recuerda al algodón, es transpirable y se seca óptimo
+- Bolsillos de malla: Estos elegantes pantalones shorts para hombre disponen de bolsillos laterales de malla y cintura elástica recubierta con cordón
+- Corte suelto: El corte ancho de los shorts deportivos de hombre ofrece libertad de movimiento en cualquier dirección y comodidad
 - Ligera prenda deportiva: Este pantalón de deporte para hombre está fabricado con un tejido ligero y es cómodo de llevar por su corte suelto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

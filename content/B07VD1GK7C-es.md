@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Esta lámpara de piso para esquina puede encenderse y apagarse cómodamente mediante un interruptor de pedal situado en el cable
-- Con su atractivo diseño, la lámpara de pie decorativa proporciona una iluminación especial en cualquier habitación, ya sea en el dormitorio, la sala o el comedor
-- No se incluye la bombilla; La bombilla LED de filamento que se muestra está disponible por separado en EGLO 110001; Adecuada para cualquier bombilla con enchufe E27, máximo 60 vatios por enchufe
 - Dimensiones: Altura: 150,5 cm, Longitud: 26 cm, Anchura: 20,5 cm
 - La lámpara para sala compuesta por una base de acero negro con filigranas y una pantalla semicircular de cristal ahumado en negro-transparente se integra óptimamente en los interiores modernos y minimalistas
+- Con su atractivo diseño, la lámpara de pie decorativa proporciona una iluminación especial en cualquier habitación, ya sea en el dormitorio, la sala o el comedor
+- No se incluye la bombilla; La bombilla LED de filamento que se muestra está disponible por separado en EGLO 110001; Adecuada para cualquier bombilla con enchufe E27, máximo 60 vatios por enchufe
+- Esta lámpara de piso para esquina puede encenderse y apagarse cómodamente mediante un interruptor de pedal situado en el cable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07VD1GK7C{{</world>}}

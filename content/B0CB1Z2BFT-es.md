@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Un ajuste cómodo
 - Cuello acanalado
+- Un ajuste cómodo
 - Bordado de G-STAR en el pecho
 - Una mirada original
 - Proporciona comodidad

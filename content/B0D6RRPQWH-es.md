@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 💪🥄 NUTRICIÓN: Fuente de calcio. ¡Ideal para frutas, yogures, gofres y crepes!.
 - 🍫 NOCILLA ORIGINAL FLUIDA: La versión fluida de la clásica crema de cacao con avellanas, perfecta para toppings, adornos y recetas.
-- 🚫🌿 SIN ACEITE DE PALMA Y SIN GLUTEN: Elaborada sin aceite de palma y sin gluten, con ingredientes naturales como cacao desgrasado, avellanas y aceite de girasol.
-- ⚠️🌰🥛 ALÉRGENOS Y CONSERVACIÓN: Contiene leche, avellanas y soja. Puede contener frutos de cáscara. Mantén en lugar fresco y seco, sin refrigerar. ¡Dale un toque mágico a tus platos!
 - 🥄✨ FORMATO ANTIGOTEO 750g: Envase práctico y antigoteo, perfecto para añadir un toque de sabor a tus postres y recetas de repostería. ¡Nocillea y crea momentos de felicidad!
+- 💪🥄 NUTRICIÓN: Fuente de calcio. ¡Ideal para frutas, yogures, gofres y crepes!.
+- ⚠️🌰🥛 ALÉRGENOS Y CONSERVACIÓN: Contiene leche, avellanas y soja. Puede contener frutos de cáscara. Mantén en lugar fresco y seco, sin refrigerar. ¡Dale un toque mágico a tus platos!
+- 🚫🌿 SIN ACEITE DE PALMA Y SIN GLUTEN: Elaborada sin aceite de palma y sin gluten, con ingredientes naturales como cacao desgrasado, avellanas y aceite de girasol.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6RRPQWH{{</world>}}

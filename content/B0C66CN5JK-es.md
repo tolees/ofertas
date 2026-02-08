@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Solo tendrán que cerrar la tapa de la máquina y apretar el botón superior y saldrá la pegatina por la boca.
-- Ahora podrán crear sus propias pegatinas y pegarlas donde quieran.
-- Contiene blisters de diferentes formas, divertidos fondos para las pegatinas, 1 paquete de sprinkles, 2 de purpurina y 250 gemas de colores para decorar el interior y adhesivos de doble cara para pegarlo donde quieran.
 - ¡máquina divertida con forma de smiley para crear sticker personalizados y poder pegarlos donde quieras!
-- Después juagaran a añadir la purpurina, las gemas, lo que quieran, seleccionan el fondo que más les divierta y listo!
-- Es muy sencillo, solo tienen que elegir la forma de la pegatina que quieran hacer: estrella, corazón, circulo… abrir la máquina y colocarla en la base siguiendo las instrucciones
+- Solo tendrán que cerrar la tapa de la máquina y apretar el botón superior y saldrá la pegatina por la boca.
 - Incluye 1 máquina para hacer pegatinas, 30 blisters de pegatinas, 30 fondos, 30 bases, 1 bolsa de virutas, 2 bolsas purpurina y 250 gemas.
+- Contiene blisters de diferentes formas, divertidos fondos para las pegatinas, 1 paquete de sprinkles, 2 de purpurina y 250 gemas de colores para decorar el interior y adhesivos de doble cara para pegarlo donde quieran.
+- Es muy sencillo, solo tienen que elegir la forma de la pegatina que quieran hacer: estrella, corazón, circulo… abrir la máquina y colocarla en la base siguiendo las instrucciones
+- Después juagaran a añadir la purpurina, las gemas, lo que quieran, seleccionan el fondo que más les divierta y listo!
+- Ahora podrán crear sus propias pegatinas y pegarlas donde quieran.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C66CN5JK{{</world>}}

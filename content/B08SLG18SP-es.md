@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Plegable y ligera: diseño compacto todo en uno que se pliega y almacena fácilmente en 3 sencillos pasos
-- Estabilidad: diseño antideslizante en la parte inferior de las patas de apoyo estable y bloqueo de seguridad
 - Características: almacenamiento plegable, solo 9 cm, material seguro, no tóxico; fácil de instalar y almacenar; sin olor, cero formaldehído
 - El material de la bañera para bebé es de polipropileno nativo, TPE y un material TPR suave y respetuoso con el medio ambiente, no tóxico e inodoro
+- Plegable y ligera: diseño compacto todo en uno que se pliega y almacena fácilmente en 3 sencillos pasos
+- Estabilidad: diseño antideslizante en la parte inferior de las patas de apoyo estable y bloqueo de seguridad
 - Ventajas de la bañera Babify: cómodo, fácil de limpiar, ligero, fácil de mover, respetuoso con el medio ambiente
 
 [🛒 Aquí!!!]({{< param buyurl >}})

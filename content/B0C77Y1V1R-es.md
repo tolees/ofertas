@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ventilación en el mediopié
 - Artículo de marca Reebok
-- Espuma Floatride Energy
 - Suela exterior de goma
+- Ventilación en el mediopié
+- Espuma Floatride Energy
 - Parte superior FLEXWEAVE y clip para el talón en TPU
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

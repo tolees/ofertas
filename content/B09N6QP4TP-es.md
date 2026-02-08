@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- DISEÑO DE PELÍCULA: Esta figura de Shuri de 15 centímetros cuenta con detalles y diseño inspirados en su aparición en Black Panther, de Marvel Studios
-- WAKANDA PARA SIEMPRE: La articulación y los accesorios de primera calidad permiten que esta figura de Shuri adopte una gran cantidad de poses de acción. Utiliza el accesorio incluido para recrear tus momentos favoritos del Universo Marvel
-- EL UNIVERSO MARVEL A ESCALA DE 15 CENTÍMETROS: Colecciona otras figuras de acción de la línea Marvel Legends Series inspiradas en el Universo Cinematográfico de Marvel, como Pantera Negra, Killmonger y Nakia. (Las figuras adicionales se venden por separado. Sujeto a disponibilidad)
 - CARACTERÍSTICAS Y ACCESORIOS PREMIUM: Esta figura de Shuri de la serie Legends de 15 centímetros cuenta con una decoración y unos detalles muy precisos de la película, así como su distintivo guante de vibranio
+- EL UNIVERSO MARVEL A ESCALA DE 15 CENTÍMETROS: Colecciona otras figuras de acción de la línea Marvel Legends Series inspiradas en el Universo Cinematográfico de Marvel, como Pantera Negra, Killmonger y Nakia. (Las figuras adicionales se venden por separado. Sujeto a disponibilidad)
+- WAKANDA PARA SIEMPRE: La articulación y los accesorios de primera calidad permiten que esta figura de Shuri adopte una gran cantidad de poses de acción. Utiliza el accesorio incluido para recrear tus momentos favoritos del Universo Marvel
+- DISEÑO DE PELÍCULA: Esta figura de Shuri de 15 centímetros cuenta con detalles y diseño inspirados en su aparición en Black Panther, de Marvel Studios
 - FIGURA COLECCIONABLE DE 15 CM: Los fans, coleccionistas y niños pueden disfrutar esta figura de 15 cm, inspirada en un personaje del Universo Marvel
 
 [🛒 Comprar!!!]({{< param buyurl >}})

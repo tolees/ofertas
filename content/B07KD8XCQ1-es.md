@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Capucha con cordón
 - Ajuste regular
-- Cremallera frontal completa
 - Bolsillos laterales
+- Cremallera frontal completa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07KD8XCQ1{{</world>}}

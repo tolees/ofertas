@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Pack con 100 hojas (2.100 etiquetas). Fabricado en España
 - Perfectas para identificar envíos de correspondencia, objetos, paquetería o para clasificar
-- Etiquetas blancas cantos romos tamaño 63,5 x 38,1 mm con adhesivo permanente para múltiples usos
 - Excelente calidad de impresión en impresoras inkjet, láser o fotocopiadoras
 - Descarga el software gratuito para diseñar e imprimir todo tipo de etiquetas en la web de APLI
+- Etiquetas blancas cantos romos tamaño 63,5 x 38,1 mm con adhesivo permanente para múltiples usos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00565AFPO{{</world>}}

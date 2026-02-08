@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para uso diario
-- Tiene detalles distintivos de la marca, la misma es Puma
 - Ropa deportiva
+- Tiene detalles distintivos de la marca, la misma es Puma
+- Para uso diario
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D31NYDLB{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- VEGANO Y LIBRE DE CRUELDAD: No contiene ningún ingrediente derivado de animales. Aprobado por PETA como Animal Test Free
 - AROMA DE COCO: Infundido con aceite y extracto de coco amante de la piel, ¡huele a coco dulce!
 - ACABADO NO PEGAJOSO: Formulado para ser no pegajoso en los labios y darles un color semi-puro
-- VEGANO Y LIBRE DE CRUELDAD: No contiene ningún ingrediente derivado de animales. Aprobado por PETA como Animal Test Free
-- ACABADO SEMI-SHEER: Azúcar de coco es un sutil rosa caramelo, perfecto para looks de maquillaje minimalistas
 - FÓRMULA HIDRATANTE: Nuestros sabrosos brillos labiales de coco son súper hidratantes, perfectos para recargar los labios deshidratados
+- ACABADO SEMI-SHEER: Azúcar de coco es un sutil rosa caramelo, perfecto para looks de maquillaje minimalistas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09XFC11SN{{</world>}}

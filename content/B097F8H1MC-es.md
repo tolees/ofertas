@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Rueda de ratón Razer Hyperscroll inclinable: Con una rueda de ratón que se mueve libremente hasta que se detiene, puedes desplazarte a la velocidad del rayo o simplemente cambiar al modo táctil cuando necesites más precisión y una respuesta más rica, como al cambiar de arma o habilidad
-- 11 zonas de iluminación Razer Chroma Rgb: Disfruta del Razer Basilisk V3 en todo su esplendor y personaliza cada zona de iluminación con 16,8 millones de colores e innumerables efectos de iluminación; Además, el ratón responde dinámicamente a más de 150 juegos compatibles con Razer Chroma
-- Diseño ergonómico legendario Con apoyo para el pulgar: La inconfundible forma del ratón, que ya inspira a millones de fans en todo el mundo, proporciona a la mano un agarre y los botones están colocados de forma óptima para un acceso rápido y sencillo
 - 10+1 Botones Programables: Todas las macros y funciones secundarias se pueden asignar a 11 botones programables, incluido nuestro famoso botón multifunción para realizar acciones esenciales como pulsar para hablar, hacer ping, etc
 - Conmutadores de ratón óptico Razer de 2ª generación: Sin errores de clic, siempre puedes confiar en que estos interruptores responderán de forma precisa e instantánea con una velocidad de disparo de 0,2 ms y hasta 70 millones de clics
+- 11 zonas de iluminación Razer Chroma Rgb: Disfruta del Razer Basilisk V3 en todo su esplendor y personaliza cada zona de iluminación con 16,8 millones de colores e innumerables efectos de iluminación; Además, el ratón responde dinámicamente a más de 150 juegos compatibles con Razer Chroma
+- Rueda de ratón Razer Hyperscroll inclinable: Con una rueda de ratón que se mueve libremente hasta que se detiene, puedes desplazarte a la velocidad del rayo o simplemente cambiar al modo táctil cuando necesites más precisión y una respuesta más rica, como al cambiar de arma o habilidad
+- Diseño ergonómico legendario Con apoyo para el pulgar: La inconfundible forma del ratón, que ya inspira a millones de fans en todo el mundo, proporciona a la mano un agarre y los botones están colocados de forma óptima para un acceso rápido y sencillo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B097F8H1MC{{</world>}}

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Responde siempre a la puerta estés donde estés desde tu móvil, con vídeo HD 1080p durante el día, vídeo por infrarrojos por la noche y audio bidireccional.
 - CON 2 AÑOS DE AUTONOMÍA: Configúrala en cuestión de minutos y disfruta de hasta 2 años de autonomía con las pilas de litio AA incluidas. También puedes comprar el pack de extensión de batería (vendido por separado) para aumentar la autonomía de cada cámara hasta 4 años.
-- Este lote incluye 1 de Nueva Blink Outdoor 4 (sistema de 1 cámara con Sync Module Core incluido), y 1 de Blink Videotimbre (negro)
 - NUESTRO MODELO MÁS RECIENTE: La Blink Outdoor 4 es nuestra 4.ª generación de cámara de seguridad inalámbrica inteligente, con la que protegerás el interior y el exterior de tu hogar desde la app de Blink de tu móvil.
 - Gran autonomía de la batería, notificaciones personalizadas, ajustes de privacidad y más.
 - VE, ESCUCHA Y HABLA DESDE LA APP DE BLINK: Disfruta del HD 1080p, con vídeo en directo, visión nocturna por infrarrojos y audio bidireccional nitidísimo.
+- Responde siempre a la puerta estés donde estés desde tu móvil, con vídeo HD 1080p durante el día, vídeo por infrarrojos por la noche y audio bidireccional.
+- Este lote incluye 1 de Nueva Blink Outdoor 4 (sistema de 1 cámara con Sync Module Core incluido), y 1 de Blink Videotimbre (negro)
 - Recibe notificaciones cuando se detecte movimiento o cuando alguien llame al Blink Video Doorbell. Conéctalo al cableado de tu timbre existente o vincúlalo a un Sync Module (vendido por separado) para disfrutar del vídeo en directo y del audio bidireccional siempre que quieras.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

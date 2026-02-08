@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Con todas las propiedades nutricionales de la leche y el mejor sabor
+- Leche originaria de ecogranjas certificadas que garantizan su procedencia ecológica
 - Comprometidos con la leche ecológica desde 15 años
 - Para que cuides de ti y de tu entorno
 - Respetamos el medioambiente y el bienestar de las vacas
-- Con todas las propiedades nutricionales de la leche y el mejor sabor
-- Leche originaria de ecogranjas certificadas que garantizan su procedencia ecológica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01HTBC6OK{{</world>}}

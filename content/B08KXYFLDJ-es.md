@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- materialFabricComposition: Outer: 100% Polyester; Lining: 100% Polyester; Sleeve: 100% Polyester; Rib: 100% Polyester
-- Regular Fit
 - Bomber jacket
 - Long Sleeves
+- materialFabricComposition: Outer: 100% Polyester; Lining: 100% Polyester; Sleeve: 100% Polyester; Rib: 100% Polyester
+- Regular Fit
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08KXYFLDJ{{</world>}}

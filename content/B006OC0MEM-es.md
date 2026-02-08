@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de producto: Protector solar
 - Marca: Clinique
+- Tipo de producto: Protector solar
 - Productos de belleza y el cuidado personal
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Jeans Pantalones Largos
-- Ajuste: recto regular
-- Composición: 100% algodón
-- Instrucciones de cuidado: apto para lavadora
 - Tipo de estiramiento: no elástico
+- Ajuste: recto regular
+- Instrucciones de cuidado: apto para lavadora
+- Jeans Pantalones Largos
+- Composición: 100% algodón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6NKBPR5{{</world>}}

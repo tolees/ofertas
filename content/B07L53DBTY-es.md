@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuenta con detalles reflectantes para mejorar la visibilidad
 - Mantiene a los más pequeños secos y cómodos desde el parque hasta los senderos en la naturaleza
-- Contenido: 1x Columbia Niña Chaqueta Switchback II, Material: 100% poliéster; 100% nailon, Talla: L, Color: Morado (Grape Gum), Art.: 1867041
 - Chaqueta impermeable para niña, Protege de la lluvia ligera y la llovizna
+- Cuenta con detalles reflectantes para mejorar la visibilidad
+- Contenido: 1x Columbia Niña Chaqueta Switchback II, Material: 100% poliéster; 100% nailon, Talla: L, Color: Morado (Grape Gum), Art.: 1867041
 - Puños elásticos para evitar la entrada de los elementos, Tejido ligero
 
 [🛒 Aquí!!!]({{< param buyurl >}})

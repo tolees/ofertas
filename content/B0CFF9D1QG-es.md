@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene tubo vertical con una tapa práctica
-- Aliento más fresco entre los cepillados con sabor a menta suave
 - Pack de 12 unidades de 50 mililitros cada una
+- Aliento más fresco entre los cepillados con sabor a menta suave
+- Contiene tubo vertical con una tapa práctica
 - Dentífrico mágico que cambia de color cuando te cepillas
 - Proporciona protección contra las carias de los dientes
 

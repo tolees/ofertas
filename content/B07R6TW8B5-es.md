@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Chaqueta ligera con capucha para hombre, Una prenda imprescindible en cualquier armario
-- Contenido: 1x Columbia Lake 22 Chaqueta de plumas con capucha para hombre, Exterior: 100% poliéster; Forro: 100% poliéster; Aislamiento: aislamiento de plumón de capacidad de relleno de 650, Certificado RDS , Color: Negro, Talla: M, Art.No 1864562
-- La tecnología de construcción de sellado térmico y el aislamiento de plumón con capacidad de relleno de 650 brindan calidez y comodidad incluso en los días más fríos
 - Siéntase protegido de los elementos gracias a la capucha tipo buzo y la mentonera, Bolsillos con cremallera para las manos
+- Contenido: 1x Columbia Lake 22 Chaqueta de plumas con capucha para hombre, Exterior: 100% poliéster; Forro: 100% poliéster; Aislamiento: aislamiento de plumón de capacidad de relleno de 650, Certificado RDS , Color: Negro, Talla: M, Art.No 1864562
+- Chaqueta ligera con capucha para hombre, Una prenda imprescindible en cualquier armario
+- La tecnología de construcción de sellado térmico y el aislamiento de plumón con capacidad de relleno de 650 brindan calidez y comodidad incluso en los días más fríos
 - Tejido resistente al agua que te protege de los chubascos y la niebla
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

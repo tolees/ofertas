@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Al complementar tratamientos médicos, se eliminan residuos y alivia el picor, recuperando la suavidad del cabello.
 - Aplicar el champú en cuero cabelludo y cabello húmedo. Masajear, dejar 2 minutos y aclarar.
 - Champú de tratamiento querato-reductor, enriquecido con Urea y Ácido Salicílico, especialmente desarrollado para cueros cabelludos con tendencia escamosa y psoriásica.
+- Al complementar tratamientos médicos, se eliminan residuos y alivia el picor, recuperando la suavidad del cabello.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09GRM5X73{{</world>}}

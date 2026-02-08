@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Rodamiento de levitación magnética: Reduce drásticamente la fricción, lo que genera menos ruido y aumenta el rendimiento y la durabilidad.
-- Configuración bajo su control: Utilice el iCUE Lighting Node CORE compacto incluido para controlar fácilmente la iluminación de hasta seis ventiladores CORSAIR RGB mediante el software CORSAIR iCUE.
 - Ruido reducido y alto rendimiento: El aspa translúcida de 120 mm del ventilador gira silenciosamente incluso a la velocidad máxima y proporciona un elevado flujo de aire.
-- Mantenga su sistema refrigerado: Ventilador controlado por PWM entre 450 y 2.000 RPM con compatibilidad con el modo Zero RPM, lo que ofrece un flujo de aire de hasta 58,1 CFM.
-- Tecnología CORSAIR AirGuide: Utiliza aspas antirremolinos para dirigir el flujo de aire concentrado y mejorar la refrigeración, ya sea de entrada.
 - Ocho LED RGB direccionables individualmente: Cree una espectacular iluminación RGB con ocho LED alrededor de cada uno de los concentrador de ventiladores.
+- Tecnología CORSAIR AirGuide: Utiliza aspas antirremolinos para dirigir el flujo de aire concentrado y mejorar la refrigeración, ya sea de entrada.
+- Configuración bajo su control: Utilice el iCUE Lighting Node CORE compacto incluido para controlar fácilmente la iluminación de hasta seis ventiladores CORSAIR RGB mediante el software CORSAIR iCUE.
+- Rodamiento de levitación magnética: Reduce drásticamente la fricción, lo que genera menos ruido y aumenta el rendimiento y la durabilidad.
+- Mantenga su sistema refrigerado: Ventilador controlado por PWM entre 450 y 2.000 RPM con compatibilidad con el modo Zero RPM, lo que ofrece un flujo de aire de hasta 58,1 CFM.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09HDQV1TG{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cordones en la parte delantera
 - Diseño de tenis de moda con cordones
+- Cordones en la parte delantera
 - Detalles de costura
 
 [🛒 Aquí!!!]({{< param buyurl >}})

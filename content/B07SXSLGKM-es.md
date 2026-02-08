@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ancho del paquete del artículo: 195 mm
 - Longitud del paquete del artículo: 340 mm
-- Peso del paquete del artículo: 0.26 kg
 - Altura del paquete del artículo: 130 mm
+- Ancho del paquete del artículo: 195 mm
+- Peso del paquete del artículo: 0.26 kg
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07SXSLGKM{{</world>}}

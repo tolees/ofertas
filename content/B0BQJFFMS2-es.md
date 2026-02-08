@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- TEMA BOSQUE: Con este juego Janod compuesto por 3 setas de colores, 1 petirrojo y 1 búho que enroscar y desenroscar hasta el infinito, el niño descubrirá el bosque y a sus pobladores y se divertirá jugando con ellos en casa.
 - EL PODER DEL JUEGO: Con unas colecciones atrevidas e innovadoras, Janod acompaña a los niños en una gran aventura: ¡crecer! Unos bonitos juguetes estudiados hasta el más mínimo detalle para aprender divirtiéndose, explorar el mundo, soñar y compartir.
-- COLABORACIÓN WWF: Janod apoya el trabajo de WWF para preservar el entorno y la biodiversidad con una gama de juguetes hechos con materiales responsables para inspirar y concienciar a las nuevas generaciones de la importancia de la fauna y la naturaleza.
 - ACTIVIDAD EDUCATIVA: Las cinco piezas de madera para enroscar, especialmente pensadas para sus manitas, ayudan al niño a desarrollar la motricidad. Además, para enroscar las partes correspondientes, ejercitará la capacidad de observación y la lógica.
 - CARACTERÍSTICAS: Este juguete de madera de haya maciza con certificado FSC se ha coloreado con pintura al agua. Es un juguete responsable perfecto para crecer divirtiéndose, recomendado para niños de 18 meses a 3 años. Ideal como regalo infantil.
-- TEMA BOSQUE: Con este juego Janod compuesto por 3 setas de colores, 1 petirrojo y 1 búho que enroscar y desenroscar hasta el infinito, el niño descubrirá el bosque y a sus pobladores y se divertirá jugando con ellos en casa.
+- COLABORACIÓN WWF: Janod apoya el trabajo de WWF para preservar el entorno y la biodiversidad con una gama de juguetes hechos con materiales responsables para inspirar y concienciar a las nuevas generaciones de la importancia de la fauna y la naturaleza.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BQJFFMS2{{</world>}}

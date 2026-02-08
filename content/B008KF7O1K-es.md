@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de consumible: frasco de tinta para recarga
 - Hasta 6.500 páginas
-- Incorpora inyector antigoteo y tapón enroscable
 - Tecnología de impresión: chorro de tinta
+- Incorpora inyector antigoteo y tapón enroscable
+- Tipo de consumible: frasco de tinta para recarga
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B008KF7O1K{{</world>}}

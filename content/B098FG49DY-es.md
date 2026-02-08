@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Zapatillas deportivas
 - Ropa informal
+- Zapatillas deportivas
 - Punta redonda
 
 [🛒 Comprar!!!]({{< param buyurl >}})

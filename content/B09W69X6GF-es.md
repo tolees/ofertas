@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Marca: FILA
-- Fabricante: FILA
 - Fila
+- Fabricante: FILA
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09W69X6GF{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Polo lo suficientemente bien diseñado para diversas aventuras, Desde el golf hasta el senderismo o una noche en el pub con amigos.
 - Cómodo para viajar gracias a la mezcla de tejido ligero de poliéster y modal, Con un corte adecuado para las capas.
+- Polo lo suficientemente bien diseñado para diversas aventuras, Desde el golf hasta el senderismo o una noche en el pub con amigos.
 - Ajuste activo, Pensado para la movilidad, Diseñado para un look elegante
 - Una solapa con tres botones complementa al cuello, que puede ser abierto en caso de que el sol apriete
 - Contenido: 1x Columbia Hombre Polo, Nelson Point, Color: Azul (Dark Mountain), Talla: M, Art.: 1772721

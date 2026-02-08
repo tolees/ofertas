@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estilo de tiro regular
 - Fabricado con un mínimo de 20% de materiales reciclados y otros tejidos sostenibles
 - Corte entallado
+- Estilo de tiro regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CSPFJ6B8{{</world>}}

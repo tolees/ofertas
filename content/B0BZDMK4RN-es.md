@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Compás de gas abatible en la puerta. Patas ABS 12 cm acabadas en color Grafito.
+- Medidas: 45 cm (alto) x 133 cm (ancho) x 39 cm (prof.)
 - La entrega del producto se realizará a pie de calle previa concertación por llamada del transportista. El servicio de transporte y entrega de muebles no incluye el montaje de los mismos.
 - Color: Grafito y Nordic.
 - Instrucciones de montaje detalladas paso a paso para un montaje fácil.
 - Montaje reversible, es decir el hueco puede montarse a derecha o izquierda.
-- Compás de gas abatible en la puerta. Patas ABS 12 cm acabadas en color Grafito.
-- Medidas: 45 cm (alto) x 133 cm (ancho) x 39 cm (prof.)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BZDMK4RN{{</world>}}

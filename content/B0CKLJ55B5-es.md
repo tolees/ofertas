@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Confeccionado con tecnología transpirable que ofrece comodidad y mantiene tu piel siempre seca.
 - El largo hasta la rodilla ofrece una cobertura ideal.
+- Confeccionado con tecnología transpirable que ofrece comodidad y mantiene tu piel siempre seca.
 - Detalles del producto La tecnología Nike Dri-FIT absorbe el sudor para una rápida evaporación.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

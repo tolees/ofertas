@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Todo un mundo hecho de objetos para colocar en los ambientes a los que pertenecen, para divertirse y descubrir muchas palabras
-- Hecho en Italia
-- Grandes carteles que indican los distintos ambientes, y muchas tarjetas con las palabras a colocar
 - Juguete en español
+- Grandes carteles que indican los distintos ambientes, y muchas tarjetas con las palabras a colocar
+- Hecho en Italia
 - Un divertido juego con muchas historias por descubrir e inventar, para aprender de manera fácil y divertida encima de 70 palabras en inglés
 
 [🛒 Comprar!!!]({{< param buyurl >}})

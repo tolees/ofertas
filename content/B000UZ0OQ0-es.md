@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Esta pasta dentífrica, además de limpiar, mantiene las encías sanas, fortaleciendo el tejido gingival y evitando su retroceso. Su sabor mentolado, gracias a los aceites de menta y hierbabuena, proporciona un aliento fresco de larga duración
 - Está formulada con ratania, que desde la antigüedad ha sido utilizada para el cuidado bucal, tiene propiedades astringentes y antiinflamatorias naturales, además contiene agentes limpiadores como el calcio
-- Consejos de uso: realizar un suave cepillado durante 2 o 3 minutos después de cada comida, siempre desde la encía hacia el diente
+- Esta pasta dentífrica, además de limpiar, mantiene las encías sanas, fortaleciendo el tejido gingival y evitando su retroceso. Su sabor mentolado, gracias a los aceites de menta y hierbabuena, proporciona un aliento fresco de larga duración
 - También contiene extracto de mirra, un componente natural que actúa como antiséptico, combatiendo las bacterias que causan la placa dental y las enfermedades de las encías
+- Consejos de uso: realizar un suave cepillado durante 2 o 3 minutos después de cada comida, siempre desde la encía hacia el diente
 - Su fórmula es vegana y natural, con alta tolerancia y dermatológicamente testada hasta en las pieles más sensibles, garantiza un cuidado respetuoso y efectivo, contigo y con el medio ambiente
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

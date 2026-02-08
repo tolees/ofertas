@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Contiene al menos un 20 % de material reciclado
-- Estructura clásica de puntera en T
-- Suela de goma cosida
 - Forro textil
+- Estructura clásica de puntera en T
+- Contiene al menos un 20 % de material reciclado
+- Suela de goma cosida
 - Cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})

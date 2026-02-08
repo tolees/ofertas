@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Esta prenda presenta un material acanalado ligero en la parte posterior del cuello, los hombros y a lo largo de los brazos.
 - Esta camiseta está confeccionada con material 100% reciclado.
 - Camiseta de fútbol de manga larga.
+- Esta prenda presenta un material acanalado ligero en la parte posterior del cuello, los hombros y a lo largo de los brazos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D2RRWF2D{{</world>}}

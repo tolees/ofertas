@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Hecho de vinilo
-- Pop! Vinyl
 - Figura coleccionable
 - Producto con licencia oficial
+- Pop! Vinyl
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08XC1V4K4{{</world>}}

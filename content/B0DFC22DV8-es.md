@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Camiseta con cuello redondo
-- ajuste normal
 - Logotipo en el frente
+- ajuste normal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DFC22DV8{{</world>}}

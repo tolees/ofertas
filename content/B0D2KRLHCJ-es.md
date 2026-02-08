@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- PUMA Tira en los laterales
 - PUMA Logotipo en la lengüeta
+- PUMA Tira en los laterales
 - Ancho normal
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de fábrica: Jersey 100% algodón
 - Talla: M
-- Columbia CSC basic camiseta estampada de manga corta
 - Color: Columbia Grey Heather
+- Tipo de fábrica: Jersey 100% algodón
+- Columbia CSC basic camiseta estampada de manga corta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B081B6MWW1{{</world>}}

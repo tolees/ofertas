@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Aplicar la crema mañana y noche sobre el rostro limpio, realizando suaves masajes.
 - La piel permanece hidratada durante 72H y proporciona el confort que la piel seca necesita.
+- Aplicar la crema mañana y noche sobre el rostro limpio, realizando suaves masajes.
 - Crema enriquecida con efecto hidratante durante 72 horas. La piel se rellena, nutre y fortifica. Idónea para pieles secas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

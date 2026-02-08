@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Long Sleeves
 - Regular Fit
 - materialFabricComposition: 100% Polyester
-- Long Sleeves
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CLDTNWLZ{{</world>}}

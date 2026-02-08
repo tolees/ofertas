@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🧩 Puzzle de 1000 piezas para adultos. Medidas: 48 x 68 cm.
 - Incluye un sobre de pegamento especial Fix Puzzle para poder colgar el puzzle una vez finalizado el montaje.
-- 🌱 Producto respetuoso con el medio ambiente gracias a su producción con tintas vegetales éstas se basan en materiales renovables y orgánicos con una liberación casi nula de CoV (compuestos orgánicos volátiles).
+- 🧩 Puzzle de 1000 piezas para adultos. Medidas: 48 x 68 cm.
 - 🧠 Estimula tu mente y creatividad: Los puzzles de Educa son una actividad perfecta para desarrollar motricidad fina memoria visual y psicomotricidad además de Estimular curiosidad y imaginación de niños y adultos.
+- 🌱 Producto respetuoso con el medio ambiente gracias a su producción con tintas vegetales éstas se basan en materiales renovables y orgánicos con una liberación casi nula de CoV (compuestos orgánicos volátiles).
 - Materiales de alta calidad y óptimo encaje. Creando puzles desde 1967 Educa es sinónimo de calidad y experiencia. Nuestros puzzles adultos desde 1000 piezas se recomiendan a partir de 14 años.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

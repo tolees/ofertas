@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Adornado con un cristal
-- Material: Acero inoxidable
-- Detalle "Hilfiger" grabado en ambos pendientes
-- Cierre: mariposa
 - Pendientes de pasador de Tommy Hilfiger
+- Cierre: mariposa
+- Adornado con un cristal
+- Detalle "Hilfiger" grabado en ambos pendientes
+- Material: Acero inoxidable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0091HXK7I{{</world>}}

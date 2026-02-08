@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Solapa del talón de ante
-- Perforación en la puntera
-- Silueta de bota baja
 - Cierre de encaje
 - Parte superior sintética
+- Solapa del talón de ante
+- Silueta de bota baja
+- Perforación en la puntera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B082SDG8PN{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Puños acanalados
 - Capucha con cordón de ajuste
 - Chaqueta Softshell
+- Puños acanalados
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08ZYVR3ZK{{</world>}}

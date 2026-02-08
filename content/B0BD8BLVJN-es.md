@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 69 TECLAS Y TAMAÑO COMPACTO: Teclado gaming de 69 teclas con un diseño compacto y ligero. Ahorra espacio en tu escritorio sin perder ninguna funcionalidad, y llévalo contigo donde quieras de forma cómoda.
-- WINLOCK KEY: Con la función Winlock evitarás salirte del juego y acabar en el escritorio del PC en medio de una partida, aunque pulses por error la tecla Windows. ¡Que nada frene tu victoria!
 - CABLE USB C: Teclado gamer con cable extraíble USB Tipo C, más fácil de transportar. Si se daña, solo tienes que un concectar un cable nuevo, sin necesidad de cambiar el teclado al completo.
+- WINLOCK KEY: Con la función Winlock evitarás salirte del juego y acabar en el escritorio del PC en medio de una partida, aunque pulses por error la tecla Windows. ¡Que nada frene tu victoria!
+- 69 TECLAS Y TAMAÑO COMPACTO: Teclado gaming de 69 teclas con un diseño compacto y ligero. Ahorra espacio en tu escritorio sin perder ninguna funcionalidad, y llévalo contigo donde quieras de forma cómoda.
 - 36 MESES DE GARANTÍA: Disfruta del producto con una garantía especial de 36 meses dentro de la Unión Europea. Y realiza cualquier tipo de consulta de forma gratuita e ilimitada a lo largo del tiempo.
 - 11 LUCES LED RBG: Sumérgete en tus partidas gracias a los 11 modos diferentes de iluminación LED RGB de este teclado gaming, y ajusta el brillo y la velocidad a tu gusto. ¡Una ambientación gamer única!
 

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre de cordones
 - Corte regular
-- Forro textil
-- Parte superior de cuero y textil
 - Suela de goma
+- Parte superior de cuero y textil
+- Cierre de cordones
+- Forro textil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHVY1NVC{{</world>}}

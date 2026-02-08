@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - En paladar es dulce y frutal, con un sabor suntuoso donde apreciamos notas de vainilla, toques cítricos, toffee y madera de roble
-- Ron Premium doblemente añejado, de color ámbar dorado y reluciente
-- Doblemente envejecido, madura por primera vez en barricas de roble americano exemplo-Bourbon y posteriormente en barricas de roble europeo de Jerez
 - Si bien es un destilado para tomar solo, ofrece muchas y muy interesantes posibilidades para la elaboración de cócteles
+- Ron Premium doblemente añejado, de color ámbar dorado y reluciente
 - En nariz se presenta complejo y equilibrado, con notas ligeras a melocotón, dátiles, toques de chocolate y pasas
+- Doblemente envejecido, madura por primera vez en barricas de roble americano exemplo-Bourbon y posteriormente en barricas de roble europeo de Jerez
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B006K6OIVU{{</world>}}

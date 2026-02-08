@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - La base adecuado para look
 - Otros detalles de estilo
-- El corte cómodo permite una comodidad y un movimiento natural
 - Tela ligera
 - Cordones interiores para ajustar adecuado la prenda
+- El corte cómodo permite una comodidad y un movimiento natural
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08L94LVRX{{</world>}}

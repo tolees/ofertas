@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color intenso y duradero
-- Fácil de aplicar
-- Para todo tipo de cabello
 - Marca: Delia Cosmetics Delia Cosmetics
+- Para todo tipo de cabello
+- Fácil de aplicar
+- Color intenso y duradero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08HCHD36P{{</world>}}

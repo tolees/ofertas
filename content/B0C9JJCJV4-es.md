@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Escoge entre enfrentarte a las criaturas o esconderte de ellas, del mismo modo en que te enfrentas a tus miedos o huyes de ellos.
 - Voces In-Game: Español, Inglés, Francés, Italiano, Alemán
 - Explora el mundo a tu alrededor y descubre el misterio detrás de la desaparición de Emily.
-- Vive la historia de Sally, una niña de Bethelwood. Su vida no es sencilla, y se ha vuelto aún más difícil desde la desaparición de su prima Emily. Tras ser perseguida por un grupo de abusones, Sally se ve arrastrada hacia una versión retorcida de su ciudad donde sus miedos y sus más oscuros recuerdos se le presentan de un modo retorcido y muy real.
 - GYLT Edición Coleccionista incluye una Hoja de Pegatinas Exclusiva, Cuadernillo de Verano, Pin de Sally, Tarjetero de Bethelwood, Tique del teleférico, Tarjeta de Visita del salón Arcade, Carné de Estudiante de Sally, Poster doble cara A3 "Se Busca y Arte Principal", Linterna (Pilas AAA no incluídas) y Caja de Coleccionista con diseño de mochila además del juego completo.
+- Vive la historia de Sally, una niña de Bethelwood. Su vida no es sencilla, y se ha vuelto aún más difícil desde la desaparición de su prima Emily. Tras ser perseguida por un grupo de abusones, Sally se ve arrastrada hacia una versión retorcida de su ciudad donde sus miedos y sus más oscuros recuerdos se le presentan de un modo retorcido y muy real.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C9JJCJV4{{</world>}}

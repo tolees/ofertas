@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Horma clásica
-- Panel alrededor del tobillo y forro de malla
-- Puntera de ante
 - Empeine de piel sintética
+- Puntera de ante
+- Panel alrededor del tobillo y forro de malla
 - Suela de goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Recomendado para mayores de 3 años (piezas pequeñas)
+- Incluye el icónico accesorio del bloque de preguntas
 - Presentación en formato de diorama, ideal para exponer y jugar
 - Incluye figuras de Mario, Toad, Bill Bala y Goomba de 6 centímetros
-- Recomendado para mayores de 3 años (piezas pequeñas)
 - Super Mario - Diorama Multipack Dehesa Bellotera con diferentes figuras de 6 cm de Super Mario y accesorio para jugar
-- Incluye el icónico accesorio del bloque de preguntas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07GXZ6LQK{{</world>}}

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Revestimiento: Tela
-- Cierre: Cordones
 - Material exterior: Lona
 - Material de la suela: Goma
 - Tipo de tacón: Plano
+- Cierre: Cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07NJNKLF3{{</world>}}

@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Logotipo del PUMA estampado por transferencia de calor en el centro del pecho
 - Corte normal
 - Ribetes de las mangas de malla en un color de contraste
-- Cuello redondo
 - dryCELL: La denominación de PUMA para las propiedades repelentes de la humedad que ayudan a que la piel permanezca seca y cómoda
+- Cuello redondo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0916DYNNX{{</world>}}

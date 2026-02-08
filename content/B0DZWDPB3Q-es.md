@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Indicaciones: lavar a mano en agua fría
-- Zapatillas de andar por casa para mujer, con mensaje
 - No planchar. No usar lejía. No meter en la secadora. No lavar en seco.
 - Disponibles en dos tallas: 36-38 y 39-41
+- Indicaciones: lavar a mano en agua fría
+- Zapatillas de andar por casa para mujer, con mensaje
 - Con suela antideslizante
 
 [🛒 Aquí!!!]({{< param buyurl >}})

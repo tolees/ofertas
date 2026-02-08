@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- NEOVIDERM: Es una emulsión MD cutánea protectora y calmante para el tratamiento de quemaduras y úlceras superficiales, ayudando también en el tratamiento de radioterapia
-- APTO PARA: Adultos, niños y recién nacidos en caso de quemaduras solares, de 1er grado y de 2º grado, úlceras superficiales, protección pre y post tratamiento radioterápico, eritema, tatuajes, peelings químicos, entre otros
 - PROTEGE E HIDRATA: Por su acción protectora e hidratante, esta emulsión cutánea suaviza y aporta alivio a la piel, favoreciendo su proceso fisiológico de normalización. El producto no contiene filtros solares
 - MODO DE EMPLEO: Aplica una capa abundante sobre la zona afectada y deja que se absorba por completo. En caso de quemaduras, enfriar primero la zona con agua. Continuar el uso hasta la completa normalización de la piel
+- NEOVIDERM: Es una emulsión MD cutánea protectora y calmante para el tratamiento de quemaduras y úlceras superficiales, ayudando también en el tratamiento de radioterapia
 - REGENERA Y CALMA: Está formulado con alginatos, beta-glucanos y ácido hialurónico, que hidratan, protegen, calman y mejoran la elasticidad de la piel y estimulan la regeneración celular favoreciendo su recuperación
+- APTO PARA: Adultos, niños y recién nacidos en caso de quemaduras solares, de 1er grado y de 2º grado, úlceras superficiales, protección pre y post tratamiento radioterápico, eritema, tatuajes, peelings químicos, entre otros
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00TTWZINE{{</world>}}

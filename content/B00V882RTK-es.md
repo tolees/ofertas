@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - PARA USAR COMO ASIENTO: puede usarse en exteriores o en interior. Es cómodo y práctico para camping, pesca, jardinería, etc. así como para profesionales con tareas que requieran estar agachados o de rodillas (electricistas, fontaneros, etc.).
-- 32 CM DE ALTURA: las medidas del taburete desplegado son 32 x 36,5 x 30 cm (alto x ancho x fondo). Las medidas del taburete plegado son 45 x 36,5 x 4 cm (alto x ancho x fondo). Fabricado en plástico polipropileno de alta resistencia.
-- FÁCIL DE PLEGAR, GUARDAR Y TRANSPORTAR: se pliega y despliega con un solo movimiento. Plegado queda plano, ocupando poco espacio en un armario o en el maletero. Plegado dispone de asa, para poder transportarlo con facilidad o colgarlo. Muy ligero.
 - ESTABLE Y ANTIDESLIZANTE: taburete plegable que soporta hasta 150 kg de peso. Con puntos antideslizantes de goma en el asiento para poder subirse con seguridad. Tiene además tacos de goma en la base de cada pata para un buen agarre al suelo.
+- FÁCIL DE PLEGAR, GUARDAR Y TRANSPORTAR: se pliega y despliega con un solo movimiento. Plegado queda plano, ocupando poco espacio en un armario o en el maletero. Plegado dispone de asa, para poder transportarlo con facilidad o colgarlo. Muy ligero.
+- 32 CM DE ALTURA: las medidas del taburete desplegado son 32 x 36,5 x 30 cm (alto x ancho x fondo). Las medidas del taburete plegado son 45 x 36,5 x 4 cm (alto x ancho x fondo). Fabricado en plástico polipropileno de alta resistencia.
 - PARA USAR COMO ESCALÓN: puede ser usado tanto por adultos como por niños. Es útil para subirse y llegar a cualquier altura de la cocina, de armarios, de estanterías, para que los niños lleguen al lavabo, vayan solos al baño, etc.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

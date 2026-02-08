@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Recupera los colores: Este jabón líquido para lavadora con poder quitamanchas alisa las fibras de las prendas de ropa para que los colores vuelvan a brillar.
-- Elimina la suciedad: El detergente para ropa de color Micolor Adiós al Separar elimina la suciedad de tus prendas cuidando los colores como ningún otro.
-- Coladas mixtas: Gracias a la tecnología antitransferencia de colores, el detergente en líquido te permitirá lavar la ropa en una misma colada, evitando los accidentes de decoloración.
-- Envío: Micolor Gel Adiós Al Separar, detergente para ropa de color con sistema antitransferencia de colores, máxima fragancia y sin colorantes añadidos, detergente para lavadora, pack de 4, 120 lavados en total.
 - Limpia y protege: Gracias a sus fórmulas específicas, estos detergentes para lavadoras protegen y recuperan los colores apagados, devolviendo el brillo de tus prendas favoritas.
+- Elimina la suciedad: El detergente para ropa de color Micolor Adiós al Separar elimina la suciedad de tus prendas cuidando los colores como ningún otro.
+- Envío: Micolor Gel Adiós Al Separar, detergente para ropa de color con sistema antitransferencia de colores, máxima fragancia y sin colorantes añadidos, detergente para lavadora, pack de 4, 120 lavados en total.
+- Recupera los colores: Este jabón líquido para lavadora con poder quitamanchas alisa las fibras de las prendas de ropa para que los colores vuelvan a brillar.
+- Coladas mixtas: Gracias a la tecnología antitransferencia de colores, el detergente en líquido te permitirá lavar la ropa en una misma colada, evitando los accidentes de decoloración.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BV7GT57B{{</world>}}

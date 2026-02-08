@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 2 Policías y 1 perro policía con ropa de seguridad, Herramientas como radar, barrera, armas y más, Jaula para perros apta para el Coche de Policía con Luces y Sonido (6920)
 - Contenido: 1 PLAYMOBIL City Action Control de Policía, Juego de 48 piezas con instrucciones: 1 barricada, 2 Figuras, 45 accesorios, Material: plástico sin BPA, LxPxA: 7,5x3x4,5 cm, 6924
-- Juego de figuras para niños a partir de 5 años: Ideal para el tamaño de sus manos y bordes redondeados agradables al tacto
+- 2 Policías y 1 perro policía con ropa de seguridad, Herramientas como radar, barrera, armas y más, Jaula para perros apta para el Coche de Policía con Luces y Sonido (6920)
 - Diversión para los pequeños aficionados de la policía: PLAYMOBIL Control de Policía con figuras y accesorios para jugar
+- Juego de figuras para niños a partir de 5 años: Ideal para el tamaño de sus manos y bordes redondeados agradables al tacto
 - Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, Alta calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

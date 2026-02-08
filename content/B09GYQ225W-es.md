@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Esta figura Imperial Death Trooper de Star Wars la colección Retro incluye un accesorio inspirado en la serie que hace de la figura una adición fantástica a toda colección Star Wars
 - Las figuras a escala de 9.5 cm de la colección Retro de Star Wars vienen en embalajes Kenner clásicos con apariencia de uso prolongado (se venden por separado; sujeto a disponibilidad)
-- Tanto los fans como los coleccionistas de Star Wars pueden exhibir esta figura con cinco puntos de articulación en su colección de vehículos y figuras
 - Los fans pueden imaginar escenas de la galaxia de Star Wars con este juguete premium Imperial Death Trooper basado en la serie Star Wars: The Mandalorian de Disney Plus
 - Star Wars la colección RetroLas figuras de la colección Retro de Star Wars cuentan con diseño y detalles de las figuras originales de los años 70
+- Esta figura Imperial Death Trooper de Star Wars la colección Retro incluye un accesorio inspirado en la serie que hace de la figura una adición fantástica a toda colección Star Wars
+- Tanto los fans como los coleccionistas de Star Wars pueden exhibir esta figura con cinco puntos de articulación en su colección de vehículos y figuras
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09GYQ225W{{</world>}}

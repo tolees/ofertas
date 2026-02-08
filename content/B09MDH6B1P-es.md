@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Procesador Intel Core i5-12400 de 12ᵃ generación para equipos de sobremesa.
 - Con compatibilidad con PCIe Gen 5.0 y 4.0 y memoria RAM DDR5 y DDR4, los procesadores Intel Core i5 de 12ᵃ generación para equipos de sobremesa están optimizados para jugadores y productividad y ayudan a ofrecer un alto rendimiento.
 - Intel Laminar RM1 incluido en la caja. Compatible con placas base con chipset Intel serie 600. Energía base del procesador: 65 W.
+- Procesador Intel Core i5-12400 de 12ᵃ generación para equipos de sobremesa.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09MDH6B1P{{</world>}}

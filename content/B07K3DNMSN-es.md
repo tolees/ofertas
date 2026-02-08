@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Material: porcelana, apto para microondas y lavavajillas
 - Capacidad: aprox. 200 ml
-- Diseño: Paw Patrol
 - Diseño colorido
+- Diseño: Paw Patrol
 - Taza para niños
 
 [🛒 Aquí!!!]({{< param buyurl >}})

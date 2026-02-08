@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Este suero no ha sido testado en animales y es apto para veganos, lo que permite una rutina de belleza ética.
 - Fortalece y alarga las pestañas y las cejas para un aspecto completo y saludable.
-- Los péptidos combinados con vitaminas fortalecen el cabello contra la rotura para una apariencia más definida.
 - Formulado con potentes péptidos, aminoácidos, vitaminas, ácido hialurónico, D-pantenol, barra ancha y extracto de trébol rojo para cuidar y rejuvenecer tus pestañas y cejas.
+- Los péptidos combinados con vitaminas fortalecen el cabello contra la rotura para una apariencia más definida.
 - El ácido hialurónico hidrata mientras que el D-pantenol nutre los folículos pilosos y contribuye a un crecimiento más saludable de pestañas y cejas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

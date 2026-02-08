@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Talla Calzado 44
 - Marca Skechers
+- Talla Calzado 44
 - Zapatillas deportivas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

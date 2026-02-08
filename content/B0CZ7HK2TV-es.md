@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Corte clásico
 - Puños y dobladillo de canalé
+- AEROREADY
 - Bolsillos tipo canguro
 - 100% poliéster (reciclado)
 - Cierre de cremallera y capucha de doble capa
-- Corte clásico
-- AEROREADY
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CZ7HK2TV{{</world>}}

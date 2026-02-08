@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Aplicaciones: para rótulos, luminaria exterior, buzones, detectores de movimiento, bajantes, parrayos, guías de persiana
 - Contenido: Bolsa con 2 conjuntos completos compuestos por: 1 taco de nylon UX 8, 1 taco de nylon SX 5 y 1 varilla especial THERMAX para fijación con un espesor máximo de 100 mm; además de 1 guía explicativa en papel
 - Tecnología: Thermax es la solución óptima para fijaciones sobre aislante sin romper el puente térmico
 - Principales ventajas: El montaje a distancia permite la ubicación exacta del objeto a fijar sin dañar el aislante térmico; el cono de nylon reforzado con fibra de vidrio evita el puente térmico
 - Modo de empleo: Realizar agujero con broca; introducir y sacar espárrago metálico para marcar el recorrido; limpiar espárrago metálico y volver a introducir con el taco semi-enroscado; sellar en caso de desbaste del agujero; introducir tornillo que atraviese el objetivo a fijar y entre dentro del taco que queda en la parte final del espárrago; el paquete incluye un manual de instrucciones con imágenes
-- Aplicaciones: para rótulos, luminaria exterior, buzones, detectores de movimiento, bajantes, parrayos, guías de persiana
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B001BB2KFU{{</world>}}

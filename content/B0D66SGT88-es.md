@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Textura ligera y funcional, muy cómoda para la piel, enriquecida con ácido hialurónico y polvo de coco exfoliante
-- Dermatológicamente testado
 - Deja la piel lisa, suave y libre de impurezas después del aclarado
+- Dermatológicamente testado
 - Un mimo corporal que prepara la piel para la exposición al sol y la aplicación del autobronceado, permite mantenerla radiante y le da un aspecto terso. Un tratamiento de belleza que se convierte en un ritual extremadamente relajante
+- Textura ligera y funcional, muy cómoda para la piel, enriquecida con ácido hialurónico y polvo de coco exfoliante
 - Un imprescindible con un aroma que embriaga para lucir una piel radiante, incluso después del primer uso. Purifica suavemente la piel y la deja suave y sedosa al tacto.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

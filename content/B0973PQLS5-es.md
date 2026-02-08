@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color: un precioso rojo intenso.
 - Variedades de uva: 70 % Merlot, 30 % Cabernet Sauvignon
-- Boca: potente y bien estructurado. Final prolongado.
 - Región: vino tinto de Burdeos, finca familiar de Castel certificación Terra Vitis desde 2012
+- Color: un precioso rojo intenso.
 - Nariz: muy fresco, aromas de cereza negra y matices tostados
+- Boca: potente y bien estructurado. Final prolongado.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0973PQLS5{{</world>}}

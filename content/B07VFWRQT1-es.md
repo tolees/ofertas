@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Zapatillas abotinadas de lona 100% algodón con doble plataforma (4 cm) y suela de goma con refuerzo en la puntera, para una mayor resistencia y durabilidad. La altura de la caña es de 9,5 cm.
 - No lavar: uno o varios de los materiales que componen estas zapatillas no son lavables, por lo que recomendamos no lavar este modelo.
+- Zapatillas abotinadas de lona 100% algodón con doble plataforma (4 cm) y suela de goma con refuerzo en la puntera, para una mayor resistencia y durabilidad. La altura de la caña es de 9,5 cm.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07VFWRQT1{{</world>}}

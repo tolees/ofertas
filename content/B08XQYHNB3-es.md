@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cada jugador levanta la hoja y coge tantos huevos como le haya indicado el dado. Pero cuidado porque en cualquier momento Dino se puede despertar y saltar. Y si te pilla, ¡perderás!
 - Este es Dino Crunch el más terrorífico y divertido dinosaurio. Intenta quitarle los huevos a este dinosaurio sin que se dé cuenta.
 - Contenido: 20 huevos (5 rojos, 5 azules, 5 verdes y 5 amarillos), T-Rex, 1 nido-base, pinzas e instrucciones.
 - A partir de 4 años. Juego divertido y educativo
+- Cada jugador levanta la hoja y coge tantos huevos como le haya indicado el dado. Pero cuidado porque en cualquier momento Dino se puede despertar y saltar. Y si te pilla, ¡perderás!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08XQYHNB3{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bandolera ajustable y extraíble de 85 cm
-- Bolso bandolera pequeño con un compartimento con cremallera
 - Forro interior
 - Dimensiones: 19 x 23 x 9 cm
 - Dos bolsillos delanteros y una solapa con imanes
+- Bandolera ajustable y extraíble de 85 cm
+- Bolso bandolera pequeño con un compartimento con cremallera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BJZMYC5L{{</world>}}

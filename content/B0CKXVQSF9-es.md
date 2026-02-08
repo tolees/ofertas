@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cinta interior para el sudor: punto doble 100% poliéster reciclado
+- Corona y visera con curvatura media
 - Forro: capa intermedia 100% poliéster reciclado
 - Exterior: sarga 100% algodón
-- Corona y visera con curvatura media
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CKXVQSF9{{</world>}}

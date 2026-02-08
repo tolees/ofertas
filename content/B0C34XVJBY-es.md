@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto de belleza
 - Sencillo de aplicar
 - Material de calidad
+- Producto de belleza
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C34XVJBY{{</world>}}

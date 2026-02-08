@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Paneles acolchados en la puntera y el talón
 - Largo clásico
+- Paneles acolchados en la puntera y el talón
 - Tres pares por paquete
 - Costuras anatómicas en la puntera
 - Refuerzo en el arco plantar

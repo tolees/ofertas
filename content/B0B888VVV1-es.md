@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Montura en acetato de celulosa de alta calidad que aporta una máxima resistencia y durabilidad
+- Blue Block Technology. Gafa con filtro azul. Máxima protección frente a la sobreexposición de pantallas. Elimina la transmisión de luz azul, previniendo la fatiga y el estrés visual. Sin graduación.
+- HAWKERS X THEGREFG. Te presentamos el diseño más elegante y casual de la colección de The Grefg 2022. Una silueta vintage especialmente diseñada para proteger la vista frente a la sobreexposición de las pantallas. Combina patillas en acero inoxidable color plata, frontal y terminales en carey con pinceladas azules y lentes Blue Light.
 - Producto original Hawkers. La caja incluye funda en microfibra y caja
 - Modelo Unisex. Medidas: Frontal 140 mm; Patillas 140 mm ; Puente 19 mm ; Alto 46 mm
-- Montura en acetato de celulosa de alta calidad que aporta una máxima resistencia y durabilidad
-- HAWKERS X THEGREFG. Te presentamos el diseño más elegante y casual de la colección de The Grefg 2022. Una silueta vintage especialmente diseñada para proteger la vista frente a la sobreexposición de las pantallas. Combina patillas en acero inoxidable color plata, frontal y terminales en carey con pinceladas azules y lentes Blue Light.
-- Blue Block Technology. Gafa con filtro azul. Máxima protección frente a la sobreexposición de pantallas. Elimina la transmisión de luz azul, previniendo la fatiga y el estrés visual. Sin graduación.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B888VVV1{{</world>}}

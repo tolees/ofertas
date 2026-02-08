@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Care Label:
-- Regular Fit
 - Sleeveless
+- Regular Fit
+- Care Label:
 - materialFabricComposition: 100% Nylon
 
 [🛒 Comprar!!!]({{< param buyurl >}})

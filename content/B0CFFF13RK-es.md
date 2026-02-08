@@ -31,9 +31,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Memoria RAM de 16GB DDR5 SDRAM
 - Sin sistema operativo
 - Almacenamiento de 512 GB SSD PCIe NVMe
+- Procesador Intel Core i5-13420H (8C/OctaCore), 2,10 GHz
 - Pantalla de 15,6", FullHD IPS 1920 x 1080 pixeles, 144Hz
 - Tarjeta Gráfica NVIDIA GeForce RTX 4050-6GB GDDR6
-- Procesador Intel Core i5-13420H (8C/OctaCore), 2,10 GHz
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CFFF13RK{{</world>}}

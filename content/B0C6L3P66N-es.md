@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Características: decoración recombinable con los otros bolígrafos Lovely Friends.
-- Materiales y dimensiones: de plástico. Tamaño: 2 cm de largo x 14 cm de alto. Diámetro de la punta: 0,5 mm.
 - Tinta: verde.
-- Hay amigos con los que puedes contar... y otros con los que puedes escribir! Con el bolígrafo de gel con koala decorativo de la familia Lovely Friends de Legami, siempre estás en excelente compañía: no solo hace que cada día sea súper bonito, sino que cuida de tu bolígrafo cuando lo apoyas, evitando que se enrolle.
+- Materiales y dimensiones: de plástico. Tamaño: 2 cm de largo x 14 cm de alto. Diámetro de la punta: 0,5 mm.
 - ¡Tenemos un universo de mundos a tu disposición! Creamos artículos de calidad siempre diferentes, coloridos, positivos y divertidos, perfectos para cada persona y para cada estado de ánimo. En Legami siempre puedes encontrar tu mundo ideal para descubrir y explorar día a día: un mundo de felicidad para cuando estás algo deprimido, mundo de sorpresas para cuando te aburres, un mundo de inspiraciones para cuando te faltan ideas, un mundo de emociones diferentes en constante evolución.
+- Características: decoración recombinable con los otros bolígrafos Lovely Friends.
+- Hay amigos con los que puedes contar... y otros con los que puedes escribir! Con el bolígrafo de gel con koala decorativo de la familia Lovely Friends de Legami, siempre estás en excelente compañía: no solo hace que cada día sea súper bonito, sino que cuida de tu bolígrafo cuando lo apoyas, evitando que se enrolle.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C6L3P66N{{</world>}}

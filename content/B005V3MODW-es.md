@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Incluye accesorio colador
 - Con tapa de vidrio de 4 mm
 - Fabricado en acero inoxidable
 - Set de pasta y vapor
-- Incluye accesorio colador
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B005V3MODW{{</world>}}

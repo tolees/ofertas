@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- RESISTENTE A SALPICADURAS Y SUDOR, PROTECCIÓN IPX4: No se preocupe por el tiempo: IPX4 significa que resisten a las salpicaduras, por lo que puede llover un poco. ¿Quiere usarlos entrenando o en un día muy caluroso? Tampoco importa un poco de sudor
 - LLAMADAS NÍTIDAS: su voz se escuchará con total claridad durante sus llamadas. Un micrófono específico recoge el sonido de su voz, mientras que un algoritmo de reducción del ruido silencia parte del ruido de fondo procedente del mundo que le rodea
+- ESTUCHE DE CARGA DE TAMAÑO BOLSILLO: el fino estuche de carga cabe perfectamente en un bolsillo, lo que le permitirá proteger sus auriculares y cargarlos mientras no los use. El modo Mono le permitirá usar uno de los auriculares mientras el otro se carga
 - 14 HORAS DE REPRODUCCIÓN CON EL ESTUCHE: 6 horas con carga completa, y 8 horas adicionales con el estuche. Recárguelos en el estuche completamente en 2 horas. ¿Necesita una carga rápida? En 15 minutos tendrá una hora extra. El estuche se carga por USB
 - AJUSTE CÓMODO Y CONTROLES TÁCTILES: ajuste perfecto gracias a las almohadillas de silicona reemplazables; ajuste suave y seguro en el canal auditivo. Manejo sencillo gracias a los controles táctiles. Función de refuerzo dinámico de graves. Control de reproducción o respuesta de llamadas
-- RESISTENTE A SALPICADURAS Y SUDOR, PROTECCIÓN IPX4: No se preocupe por el tiempo: IPX4 significa que resisten a las salpicaduras, por lo que puede llover un poco. ¿Quiere usarlos entrenando o en un día muy caluroso? Tampoco importa un poco de sudor
-- ESTUCHE DE CARGA DE TAMAÑO BOLSILLO: el fino estuche de carga cabe perfectamente en un bolsillo, lo que le permitirá proteger sus auriculares y cargarlos mientras no los use. El modo Mono le permitirá usar uno de los auriculares mientras el otro se carga
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DK9JF18S{{</world>}}

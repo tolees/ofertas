@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Revitalizante, hidrata instantánamente, fija durante 8 h y aumenta la durabilidad del maquillaje evitando que se transfiera el maquillaje, para un look perfecto durante todo el día
-- Aplícalo las veces que lo necesites durante el día para un look fresco y cómodo en la piel.
 - Espray fijador del maquillaje.
 - Con pepino refresca la piel, la hidrata y despeja instantáneamente.
+- Revitalizante, hidrata instantánamente, fija durante 8 h y aumenta la durabilidad del maquillaje evitando que se transfiera el maquillaje, para un look perfecto durante todo el día
+- Aplícalo las veces que lo necesites durante el día para un look fresco y cómodo en la piel.
 - Spray acondicionador Lasting performance, para fijar tu maquillaje durante todo el día.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

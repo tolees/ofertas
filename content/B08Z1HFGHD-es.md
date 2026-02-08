@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ropa deportiva que se adapta a cualquier actividad deportiva
-- Producto hecho con un material de óptima calidad y resistente
 - Diseño ligero que ofrece comodidad
 - Tiene detalles distintivos de la marca
+- Ropa deportiva que se adapta a cualquier actividad deportiva
+- Producto hecho con un material de óptima calidad y resistente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08Z1HFGHD{{</world>}}

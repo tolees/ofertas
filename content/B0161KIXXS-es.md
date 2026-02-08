@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- CONTENIDO: 1x LOréal Paris Accord Parfait Base de Maquillaje - Tono 8.D
+- ACABADO LUMINOSO Y NATURAL: Resultados impecables que se ajustan al tono y a a la textura de tu piel
 - 27 TONOS DISPONIBLES: El 99.5% de las personas encuentran su tono ideal (*test de consumidor en 211 mujeres)
 - HIDRATACIÓN INTENSA: 80% de crema hidratante y ácido hialurónico para una piel hidratada
-- ACABADO LUMINOSO Y NATURAL: Resultados impecables que se ajustan al tono y a a la textura de tu piel
-- CONTENIDO: 1x LOréal Paris Accord Parfait Base de Maquillaje - Tono 8.D
 - BASE LÍQUIDA Y COBERTURA MODULABLE: Cobertura media modulable para un resultado personalizado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

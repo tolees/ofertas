@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Las notas de salida son limón (lima ácida), naranja tangerina, menta, abrótano y salvia
-- Fragancia de la familia olfativa Cítrica
 - Las notas de fondo son jazmín, pachulí, musgo de roble y almizcle
 - Las notas de corazón son gálbano, romero y vetiver
+- Las notas de salida son limón (lima ácida), naranja tangerina, menta, abrótano y salvia
+- Fragancia de la familia olfativa Cítrica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B000GIJ1XS{{</world>}}

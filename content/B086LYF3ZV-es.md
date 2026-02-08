@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Hay 35 GIFs para coleccionar, cada uno representa uno de los clásicos GIF, algunos con acabados metálicos, acabados en neón o incluso la Edición Limitada del gato con ojos laser
-- Los gif han cobrado vida como gifbits
-- Es muy sencillo; escanea y desbloquea y guárdalo en la galería para usarlo en cualquier plataforma social que quieras
 - Descarga la aplicación para descubrir los GIFbits
+- Es muy sencillo; escanea y desbloquea y guárdalo en la galería para usarlo en cualquier plataforma social que quieras
+- Los gif han cobrado vida como gifbits
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B086LYF3ZV{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- RESPETUOSO CON EL MEDIO AMBIENTE - Comprometidos con la sostenibilidad y la accesibilidad global, el nuevo pack Mine envasado en cartón 100% reciclado es un producto eco-amigable presentado en 6 idiomas. Además, durante su fabricación se implementan diferentes medidas para reducir la huella de CO2, y al ser un sello de calidad, su durabilidad puede ser mucho más longeva.
 - PERSONALIZACIÓN FÁCIL Y VERSÁTIL - Olvídate de la tarea de escribir nombres en todas las pertenencias de tus niños. Su diseño intuitivo y fácil de usar convierte el marcar en un juego de manualidades. Compón el sello con el nombre, apellidos, número de teléfono o clase escolar de tu hijo/a, y si tienes más de un peque puedes cambiar el diseño las veces que quieras.
 - SEGURIDAD Y CALIDAD - La seguridad de tus hijos es nuestra prioridad. Con nuestro Sello de Calidad Excelente de Dermatest Alemania, te ofrecemos un producto no solo innovador sino también seguro. La tinta del sello Mine ha sido cuidadosamente desarrollada para ser segura en la piel y en todos los materiales, brindando tranquilidad a padres y diversión a los niños.
 - CARACTERÍSTICAS - La tinta y la cinta termoadhesiva aplicadas en la ropa son aptas para lavadora (90º) y secadora (60º); la tinta y las etiquetas aplicadas a fiambreras, cantimploras…, son aptas para microondas y lavavajillas. Los límites del sello dan pie a poner hasta 14 carácteres por línea con 3 líneas disponibles (los iconos miden 3 carácteres de ancho por 2 de alto). Nuestra imprentilla incluye 256 caracteres (letras, números y signos de puntuación) y 8 iconos.
-- RESPETUOSO CON EL MEDIO AMBIENTE - Comprometidos con la sostenibilidad y la accesibilidad global, el nuevo pack Mine envasado en cartón 100% reciclado es un producto eco-amigable presentado en 6 idiomas. Además, durante su fabricación se implementan diferentes medidas para reducir la huella de CO2, y al ser un sello de calidad, su durabilidad puede ser mucho más longeva.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00G6DB97S{{</world>}}

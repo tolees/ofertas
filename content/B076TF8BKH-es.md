@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Preparado sin azúcar y sin cereales, colorantes artificiales y conservantes
-- Ingredientes de calidad y naturales
-- Comida húmeda de salsa con jugosa pechuga de pavo
 - Para gatos adultos
+- Comida húmeda de salsa con jugosa pechuga de pavo
+- Ingredientes de calidad y naturales
+- Preparado sin azúcar y sin cereales, colorantes artificiales y conservantes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B076TF8BKH{{</world>}}

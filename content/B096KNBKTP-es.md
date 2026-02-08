@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lavable a máquina
-- Vegano
-- Zapato cómodo
 - Espuma viscoelástica
+- Lavable a máquina
+- Zapato cómodo
+- Vegano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B096KNBKTP{{</world>}}

@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - SISTEMA DE PISTAS MIX N RACE: Gracias al Mix’N Race Track System puedes conectarlo a otros circuitos T-Racers. ¡A por la victoria!
-- LANZA TU T-RACER A MÁXIMA velocidad: Su diseño aerodinámico y poderoso hará que tu vehículo alcance una velocidad inimaginable. ¡Pon el coche y lánzalo!
-- DESCUBRE EL SQUAD LAUNCHER SHARK DE T-RACERS: Camión inspirado en el temible tiburón, que se transforma en lanzador y que hará temblar de miedo a tus rivales
 - VEHÍCULOS EXCLUSIVOS: Incluye 2 vehículos exclusivos, uno de la escudería Beast y otro de la GT Racers, y puedes transportar los dos con él. Recuerda que sus piezas se podrán combinar con las de los otros coches T-Racers Mix ´N Race que tengas
 - ¿LISTO PARA LA CARRERA? – También puedes desafiar al otro camión lanzador Squad Launcher Dragon y hacer carreras entre los dos. ¿Quién ganará?
+- LANZA TU T-RACER A MÁXIMA velocidad: Su diseño aerodinámico y poderoso hará que tu vehículo alcance una velocidad inimaginable. ¡Pon el coche y lánzalo!
+- DESCUBRE EL SQUAD LAUNCHER SHARK DE T-RACERS: Camión inspirado en el temible tiburón, que se transforma en lanzador y que hará temblar de miedo a tus rivales
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DTJ8KK2W{{</world>}}

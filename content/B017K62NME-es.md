@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Para el cabello: Rizado
 - Tipo de producto: Tratamiento capilar
-- Género: Mujer
 - Marca: GHD
+- Para el cabello: Rizado
+- Género: Mujer
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B017K62NME{{</world>}}

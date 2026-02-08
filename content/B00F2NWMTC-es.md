@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Mango de haya certificado PEFC que garantiza la cadena de custodia de la madera que utilizamos para fabricar los mangos
 - Mango de madera de primera calidad, ligeros y agradables al tacto
 - Diseño ergonómico adaptado a la geometría de la herramienta
-- Mango de haya certificado PEFC que garantiza la cadena de custodia de la madera que utilizamos para fabricar los mangos
 - Perfecto acabado barnizado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

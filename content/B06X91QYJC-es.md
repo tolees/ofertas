@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte estrecho
-- Bolsillos laterales sin cierre con cremallera"
 - Bajo de pierna con ajuste estrecho en la pantorrilla y cremallera
+- Bolsillos laterales sin cierre con cremallera"
+- Corte estrecho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B06X91QYJC{{</world>}}

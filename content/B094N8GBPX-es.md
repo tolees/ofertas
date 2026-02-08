@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - La serie Geomag, ganadora de numerosos premios, ayuda a los niños de todas las edades a desarrollar la imaginación y la curiosidad a través de la ciencia de las construcciones magnéticas
-- Adecuado para niños a partir de 8 años. Consta de 130 piezas fácilmente combinables entre sí
-- El cañón magnético utiliza la fuerza de atracción para acelerar y empujar las esferas. El movimiento se genera sin necesidad de motores eléctricos ni baterías
 - Aprende los fundamentos del magnetismo y utilízalos para crear reacciones magnéticas controladas. Estimula la creatividad, la imaginación y el intelecto
+- El cañón magnético utiliza la fuerza de atracción para acelerar y empujar las esferas. El movimiento se genera sin necesidad de motores eléctricos ni baterías
 - Construye un circuito impulsado por las fuerzas invisibles del magnetismo y la gravedad
+- Adecuado para niños a partir de 8 años. Consta de 130 piezas fácilmente combinables entre sí
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B094N8GBPX{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela de goma cosida
-- Forro textil
 - Horma clásica
+- Suela de goma cosida
 - Cierre de cordones
+- Forro textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B1QY7JRZ{{</world>}}

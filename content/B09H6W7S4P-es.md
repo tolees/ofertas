@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Puños y dobladillo de canalé
 - Apoya a Better Cotton Initiative
 - Corte clásico
-- Apoya a Better Cotton Initiative
-- Puños y dobladillo de canalé
 - 70% algodón / 30% poliéster (reciclado)
+- Apoya a Better Cotton Initiative
 - Bolsillo canguro
 
 [🛒 Comprar!!!]({{< param buyurl >}})

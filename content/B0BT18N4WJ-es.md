@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Este muñeco articulado viene en un embalaje coleccionable de la película de Barbie. ¡Echa un vistazo a la colección entera para descubrir más ideas de regalo fantásticas! Se venden por separado y están sujetas a disponibilidad.
 - ¡Llévate a casa un trocito de la película de Barbie con este muñeco Ken para coleccionistas! Lleva un conjunto deportivo de color neón que recrea el estilo icónico de patinador del personaje en la película.
-- Su chaqueta sin mangas, los pantalones de deporte y la visera a juego tienen un estampado llamativo de inspiración retro.
 - Con los patines en línea de Impala, ¡es imparable! Las muñequeras, las rodilleras y la riñonera a juego de color verde neón ponen el broche final a su conjunto de patinador.
 - Con su conjunto llamativo, parece que este muñeco Ken haya salido patinando directamente de la pantalla. Lleva una camiseta rosa chillón, ya que le queda genial el estilo icónico de Barbie.
+- Este muñeco articulado viene en un embalaje coleccionable de la película de Barbie. ¡Echa un vistazo a la colección entera para descubrir más ideas de regalo fantásticas! Se venden por separado y están sujetas a disponibilidad.
+- Su chaqueta sin mangas, los pantalones de deporte y la visera a juego tienen un estampado llamativo de inspiración retro.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BT18N4WJ{{</world>}}

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Lápices fabricados con madera ecológica, con certificación PEFC, procedente de bosques de gestión sostenible
-- Diseño ergonómico y cómodo que permite una experiencia única de escritura, apta para uso profesional y uso escolar
-- Lápices resistentes a la rotura gracias a la especial formulación de la mina y a su doble encoladura de 2 mm
 - Lapiceros triangulares de dureza media, HB 2, con los que se obtiene una escritura suave y equilibrada
+- Diseño ergonómico y cómodo que permite una experiencia única de escritura, apta para uso profesional y uso escolar
 - Lápiz de alta calidad, de diseño triangular, óptimo para escribir, dibujar y esbozar
+- Lápices resistentes a la rotura gracias a la especial formulación de la mina y a su doble encoladura de 2 mm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B084PTRXZM{{</world>}}

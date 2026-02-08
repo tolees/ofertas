@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fit: Regular
 - Bolsillos delanteros
+- Fit: Regular
 - Desigual
-- Manga: Larga
-- Capucha extraíble
 - Color: Liso
+- Capucha extraíble
+- Manga: Larga
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DW9GNWZ9{{</world>}}

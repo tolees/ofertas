@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- VALOR ADICIONAL: Este libro les enseña múltiples medios de transporte en diferentes escenarios e incluye datos curiosos y un completo modo en inglés que añade un valor adicional.
-- BOTÓN DE IDIOMA para cambiar de idioma. BOTÓN MUSICAL para escuchar canciones divertidas.
-- 3 MODOS DE JUEGO: Vocabulario, Datos curiosos y Música. 12 PÁGINAS INTERACTIVAS que enseñan palabras en diferentes escenarikos que les resultarán conocidos.
-- VTECH CUIDA DE NUESTRO PLANETA: El embalaje de este juguete está compuesto en un 90% de cartón reciclable.
-- ✅ VERSIÓN ESPAÑOLA. Libro educativo bilingüe ESPAÑOL-INGLÉS para niños +1,5 años.
 - AUMENTO DE VOCABULARIO les permitirá expresarse con claridad y comprender lo que escuchan y leen.
 - ASPECTOS EDUCATIVOS: Enriquecimiento del vocabulario, Aprendizaje autónomo y Exploración y descubrimiento.
+- ✅ VERSIÓN ESPAÑOLA. Libro educativo bilingüe ESPAÑOL-INGLÉS para niños +1,5 años.
+- VTECH CUIDA DE NUESTRO PLANETA: El embalaje de este juguete está compuesto en un 90% de cartón reciclable.
+- BOTÓN DE IDIOMA para cambiar de idioma. BOTÓN MUSICAL para escuchar canciones divertidas.
+- 3 MODOS DE JUEGO: Vocabulario, Datos curiosos y Música. 12 PÁGINAS INTERACTIVAS que enseñan palabras en diferentes escenarikos que les resultarán conocidos.
+- VALOR ADICIONAL: Este libro les enseña múltiples medios de transporte en diferentes escenarios e incluye datos curiosos y un completo modo en inglés que añade un valor adicional.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BQYLTWN3{{</world>}}

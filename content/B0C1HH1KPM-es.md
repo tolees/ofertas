@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Deliciosas piezas en forma de cola recubiertas de pica
 - Irresistible sabor a cola
 - Caramelos de goma
+- Deliciosas piezas en forma de cola recubiertas de pica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C1HH1KPM{{</world>}}

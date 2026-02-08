@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con asa inoxidable
 - Fabricadas en vidrio
 - Aptas café e infusiones
+- Con asa inoxidable
 - Set de tazas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

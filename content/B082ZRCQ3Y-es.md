@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 20 litros de capacidad
-- 700w de potencia
-- Función de descongelación según peso
-- Alimentación 230V ~50Hz
 - Temporizador hasta 60 minutos
+- Alimentación 230V ~50Hz
+- Función de descongelación según peso
+- 700w de potencia
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B082ZRCQ3Y{{</world>}}

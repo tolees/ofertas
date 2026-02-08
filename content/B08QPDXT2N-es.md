@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Acompaña quesos curados como el Manchego, Ideazábal o Parmesano; también es ideal junto a guisos de carne, caza o incluso el atún a la parrilla; fantástico por sí mismo como aperitivo
 - Muy elegante y complejo, muestra notas de vainilla dulce, café tostado y madera de cedro; seco y persistente
 - Grado alcohólico: 20% Vol
 - Intensos aromas de vainilla y avellanas propios de su envejecimiento
-- Acompaña quesos curados como el Manchego, Ideazábal o Parmesano; también es ideal junto a guisos de carne, caza o incluso el atún a la parrilla; fantástico por sí mismo como aperitivo
 - El. Osborne Bailén. tiene un bonito color ámbar brillante. con reflejos verdes
 
 [🛒 Visítala!!!]({{< param buyurl >}})

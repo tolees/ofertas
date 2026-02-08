@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Destornillador con 2 dos mangos del componente
 - Puntas y brocas de acero CV
-- Incluye 1 mango destornillador con portabrocas magnético
+- Destornillador con 2 dos mangos del componente
 - Destornillador con mango de 2 componentes
+- Incluye 1 mango destornillador con portabrocas magnético
 - Hojas y puntas de acero al CV
 
 [🛒 Visítala!!!]({{< param buyurl >}})

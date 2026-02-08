@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Transpirable - Los orificios de ventilación en la parte superior y alrededor de la boca permiten que el aire circule y te mantenga fresco mientras conduces. También puede cerrarse en cualquier momento para reducir la resistencia al viento y el ruido de la carretera.
-- Robusto y Duradero - El material EPS de una sola pieza es muy fuerte, lo que le confiere una excelente absorción de impactos y resistencia a las caídas, reduciendo eficazmente la fuerza del impacto y proporcionándole la seguridad más fiable.
 - Ligero y Cómodo - El casco es muy ligero y puede ajustarse fácilmente para adaptarse a su cabeza. Es fácil de llevar y no tensa el cuello ni la cabeza.
 - Seguro y Fiable - Gracias a su material y mano de obra de calidad, este casco de moto cumple con las estrictas normas de seguridad europeas: ECE 22.06. La marca de prueba ECE garantiza que el motorista puede llevar este casco integral en toda Europa.
+- Robusto y Duradero - El material EPS de una sola pieza es muy fuerte, lo que le confiere una excelente absorción de impactos y resistencia a las caídas, reduciendo eficazmente la fuerza del impacto y proporcionándole la seguridad más fiable.
 - Forro Lavable - El acolchado interior es extraíble y lavable para que pueda limpiar el forro regularmente y mantenerlo limpio e higiénico.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

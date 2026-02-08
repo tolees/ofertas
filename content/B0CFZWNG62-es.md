@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Recibe notificaciones cuando se detecte movimiento ajustando la configuración de detección de movimiento.
-- Configura la Stick Up Cam fácilmente en tan solo unos minutos.
-- MÁS VISIÓN,MÁS INFORMACIÓNY MÁS PROTECCIÓN: guarda las grabaciones de tus vídeos hasta 180 días para volver a verlas en cualquier momento, recibe alertas cuando se detecte a una persona y mucho más con una suscripción a Ring Home (a la venta por separado)*.
-- Coloca la cámara en cualquier lugar, tanto fuera como dentro de casa, en superficies horizontales o en la pared.
-- Con el vídeo en directo, puedes ver tu casa en cualquier momento a través de la app Ring.
 - Vigila toda tu casa conectando una o varias Stick Up Cam a todos tus dispositivos Ring en la app Ring.
+- MÁS VISIÓN,MÁS INFORMACIÓNY MÁS PROTECCIÓN: guarda las grabaciones de tus vídeos hasta 180 días para volver a verlas en cualquier momento, recibe alertas cuando se detecte a una persona y mucho más con una suscripción a Ring Home (a la venta por separado)*.
+- Configura la Stick Up Cam fácilmente en tan solo unos minutos.
+- Coloca la cámara en cualquier lugar, tanto fuera como dentro de casa, en superficies horizontales o en la pared.
+- Recibe notificaciones cuando se detecte movimiento ajustando la configuración de detección de movimiento.
+- Con el vídeo en directo, puedes ver tu casa en cualquier momento a través de la app Ring.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CFZWNG62{{</world>}}

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Entresuela de goma
-- Plantilla Softfoam Plus
-- Botas medias
 - Parte superior sintética
+- Botas medias
+- Plantilla Softfoam Plus
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BK9B63RC{{</world>}}

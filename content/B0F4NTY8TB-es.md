@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ☕ Calidad Suprema: Disfruta de un café en grano 100% natural, robusta y arabica, criba grande y limpio cuidadosamente seleccionado para ofrecerte un perfil de sabor único y equilibrado.
-- 🔹 Versatilidad y Frescura: Ideal para espresso, prensa francesa, cafetera italiana o filtrado. Envasado en una bolsa de alta protección para preservar toda su frescura y aroma.
 - 💎 Gran Selección: Solo los mejores granos son elegidos para esta selección premium, asegurando una experiencia sensorial excepcional en cada sorbo.
-- 🔥 Tueste Perfecto: Nuestros granos son tostados con precisión y de forma separada para resaltar sus aromas naturales, garantizando una taza llena de carácter y profundidad.
 - 🌍 Origen Vietnam y Brasil: Cultivado en las fértiles tierras de Vietnam, este café destaca por su cuerpo intenso, notas achocolatadas y un toque especiado , que junto con el cafe Arábica brasileño destaca por su dulzura y sabor ,facil de tomar por su baja acidez e irresistible para los amantes del buen café.
+- 🔹 Versatilidad y Frescura: Ideal para espresso, prensa francesa, cafetera italiana o filtrado. Envasado en una bolsa de alta protección para preservar toda su frescura y aroma.
+- 🔥 Tueste Perfecto: Nuestros granos son tostados con precisión y de forma separada para resaltar sus aromas naturales, garantizando una taza llena de carácter y profundidad.
+- ☕ Calidad Suprema: Disfruta de un café en grano 100% natural, robusta y arabica, criba grande y limpio cuidadosamente seleccionado para ofrecerte un perfil de sabor único y equilibrado.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F4NTY8TB{{</world>}}

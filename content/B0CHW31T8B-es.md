@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hasta 100 horas de batería inalámbrica con carga rápida: Siga ganando durante 100 horas por Bluetooth, ronda tras ronda, con una sola carga, y cargue de nuevo por completo en tan sólo 75 minutos o menos.
-- Sensor óptico ultrapreciso de 26.000 PPP: Con sus 26.000 PPP nativos, un seguimiento de 650 IPS y una aceleración de hasta 50G, el sensor óptico CORSAIR MARKSMAN captura con precisión los reflejos vertiginosos del ratón, los barridos veloces y los recentrados rápidos.
+- Conexión inalámbrica rápida y de baja latencia: SLIPSTREAM WIRELESS ofrece una conexión sin retardo inferior a 1ms. También puede conectarlo mediante Bluetooth o USB para cargarlo mientras juega.
 - 60 g de ligereza absoluta para un juego FPS rápido y preciso: No sólo ligero. Ultraligero. Libre de adornos innecesarios para lograr la mayor ligereza posible, de 60 g, el M75 AIR proporciona sólo lo que necesita para ganar.
 - BOTONES CORSAIR QUICKSTRIKE: CORSAIR QUICKSTRIKE ofrece un retardo cero entre los botones de clic izquierdo y derecho y sus interruptores, para que sus disparos se registren al instante.
-- Conexión inalámbrica rápida y de baja latencia: SLIPSTREAM WIRELESS ofrece una conexión sin retardo inferior a 1ms. También puede conectarlo mediante Bluetooth o USB para cargarlo mientras juega.
+- Hasta 100 horas de batería inalámbrica con carga rápida: Siga ganando durante 100 horas por Bluetooth, ronda tras ronda, con una sola carga, y cargue de nuevo por completo en tan sólo 75 minutos o menos.
+- Sensor óptico ultrapreciso de 26.000 PPP: Con sus 26.000 PPP nativos, un seguimiento de 650 IPS y una aceleración de hasta 50G, el sensor óptico CORSAIR MARKSMAN captura con precisión los reflejos vertiginosos del ratón, los barridos veloces y los recentrados rápidos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CHW31T8B{{</world>}}

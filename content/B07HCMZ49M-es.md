@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para conseguir mejores resultados y una intensidad tattoo deja secar 30 segundos, no transfiere ni se corre
 - Disfruta de una mirada intensa, llena de pigmentos de color y muy fácil de desmaquillar con agua tibia o micelar
-- Su innovadora fórmula está elaborada a base de pigmentos de color intensos y una textura cremosa que logran una mayor precisión
 - Verifique el símbolo PAO (Período después de la apertura) que indica el tiempo de caducidad del producto, después de abrir el paquete
-- Aplica dibujando el trazo sobre la línea de las pestañas desde el interior del ojo al exterior y aumentando el grosor
+- Para conseguir mejores resultados y una intensidad tattoo deja secar 30 segundos, no transfiere ni se corre
+- Su innovadora fórmula está elaborada a base de pigmentos de color intensos y una textura cremosa que logran una mayor precisión
 - El lápiz de ojos semi-permanente y de larga duración que resiste el agua, los roces y el sudor durante todo el día
+- Aplica dibujando el trazo sobre la línea de las pestañas desde el interior del ojo al exterior y aumentando el grosor
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07HCMZ49M{{</world>}}

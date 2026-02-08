@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Una rueda de enfoque grande y suave proporciona ajustes de enfoque rápidos y precisos
 - Las lentes son multi-revestidas para soportar la transmisión óptima de la luz
 - Cuenta con un ocular cubierto de goma, ofreciendo impresionante ojo de alivio, incluso en los ajustes de zoom más alto
-- Una rueda de enfoque grande y suave proporciona ajustes de enfoque rápidos y precisos
 - Un parasol incorporado se proporciona para eliminar el deslumbramiento en la luz solar directa
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

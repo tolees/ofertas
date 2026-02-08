@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Incluye 20 chocolatinas formato napolitana de chocolate con leche.
-- Indicaciones: consumir preferentemente antes de la fecha indicada en el packaging del producto. Mantener a temperatura ambiente, al abrigo de la luz solar. No contiene gluten. Puede contener trazas de leche, productos lácteos y frutos secos de cáscara dura (almendras y avellanas).
 - Caja de chocolatinas en formato librito, el formato habitual, con portada, que llevamos ya varias temporadas lanzando. En la portada encontramos un mensaje dirigido a las madres.
-- En el reverso de la ""portada"", encontramos un espacio para poder escribir una dedicatoria, lo que incrementa la experiencia regalo.
+- Incluye 20 chocolatinas formato napolitana de chocolate con leche.
 - Cada una de las chocolatinas viene envuelta individualmente y, en su envoltorio, encontramos impreso un mensaje bonito para dedicarle a mamá y recordarle todos los motivos por lo que es tan querida.
+- Indicaciones: consumir preferentemente antes de la fecha indicada en el packaging del producto. Mantener a temperatura ambiente, al abrigo de la luz solar. No contiene gluten. Puede contener trazas de leche, productos lácteos y frutos secos de cáscara dura (almendras y avellanas).
+- En el reverso de la ""portada"", encontramos un espacio para poder escribir una dedicatoria, lo que incrementa la experiencia regalo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CY2VFJTW{{</world>}}

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gorro con vuelta
-- 5% nailon
-- 1% elastano
 - Pompón de colores
-- Logotipo Levis de punto
+- Gorro con vuelta
+- 1% elastano
 - Guantes a juego
+- 5% nailon
+- Logotipo Levis de punto
 - Ajuste regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tela:
 - Zapatos
 - Skechers
+- Tela:
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B075GYZ9WJ{{</world>}}

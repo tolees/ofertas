@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta polo para hombre, con botones, detalles bordados, corte entallado
 - Pack de 2 Polo, Cuello de Manga Corta
+- Camiseta polo para hombre, con botones, detalles bordados, corte entallado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CQCBX8M4{{</world>}}

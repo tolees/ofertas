@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Resistente a los rayos UV y al agua
 - 14 días de limpieza después de la aplicación
+- Resistente a los rayos UV y al agua
 - Versátil: se puede utilizar en múltiples superficies
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

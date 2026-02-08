@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CALIDAD DEMOSTRADA: Desde 1985, esta marca de diseñador lleva demostrando por todo el mundo la calidad y la ligereza mediante una gran variedad de diseños en los míticos colores azul oscuro, blanco y rojo.
 - MATERIAL DE ALTA CALIDAD: Versátil polo confeccionado en 96 % algodón orgánico y 4 % elastano.
+- CALIDAD DEMOSTRADA: Desde 1985, esta marca de diseñador lleva demostrando por todo el mundo la calidad y la ligereza mediante una gran variedad de diseños en los míticos colores azul oscuro, blanco y rojo.
 - SENCILLO Y ELEGANTE: Esta moderna camiseta destaca por su cuello clásico y su material sostenible. Los 3 botones y la discreta bandera en el pecho completan el look de la prenda.
 - DISEÑO PREMIUM: El estilo atemporal de este top es la base de cualquier conjunto smart-casual. Esta moderna camiseta también es perfecta como regalo.
 - AJUSTE PERFECTO: Este polo minimalista de piqué elástico de algodón tiene un diseño depurado y un corte entallado.

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🌈【 LED MULTICOLOR 】La iluminación LED es ideal para crear ambientes de relajación, bienestar y además hacer los espacios más acogedores, esta lampara unicornio cuenta con una secuencia LED multicolor, lo que permite elegir diferentes tonalidades entre: azules, rosa, lila, verde, naranja, etc. ¡El color favorito de tu peque!
 - 🥰【 QUITAMIEDOS 】 La luz nocturna infantil proporciona seguridad a los más pequeños en su habitación, creando un ambiente de bienestar. Además, gracias a su material es completamente segura ya que no se rompe si se cae al suelo y no se calienta ni quema al tocarla. Por ello, los niños también podrán usarla como un divertido juguete.
-- 🦄【 DISEÑO INNOVADOR 】 Su diseño innovador y compacto, es ideal para transportar fácilmente y guardar ocupando poco espacio. Color: Blanco, Material: Caucho.
 - ➕【 EDAD RECOMENDAD 】Nuestra lámpara de unicornio es recomendada para niños y niñas de + 3 años. Medidas aprox.: 9 x 11 x 10 cm, funciona con pilas AAA.
 - 🧒【 IDEAL PARA LOS MÁS PEQUEÑOS 】 Una iluminación perfecta para colocar en la mesilla de noche de las habitaciones infantiles. Puede utilizarse como quitamiedos brindando una luz suave y agradable que no molesta durante el sueño.
+- 🌈【 LED MULTICOLOR 】La iluminación LED es ideal para crear ambientes de relajación, bienestar y además hacer los espacios más acogedores, esta lampara unicornio cuenta con una secuencia LED multicolor, lo que permite elegir diferentes tonalidades entre: azules, rosa, lila, verde, naranja, etc. ¡El color favorito de tu peque!
+- 🦄【 DISEÑO INNOVADOR 】 Su diseño innovador y compacto, es ideal para transportar fácilmente y guardar ocupando poco espacio. Color: Blanco, Material: Caucho.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07GGT1LGC{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mrs Crimble’s - Galletas de Coco y FresaSin Gluten - Pack 12 Uds x 180g – Macaroons Ideales para el Desayuno o la Merienda - Galletas Esponjosas - Ingredientes Naturales
-- SIN GLUTEN: Estas deliciosas galletas son una excelente opción para quienes buscan un dulce que se adapte a su dieta sin gluten, permitiendo disfrutar sin preocupaciones.
 - INGREDIENTES NATURALES: Hechas con un 30% de coco y claras de huevo, garantizando un sabor natural y auténtico, sin aditivos innecesarios.
+- Mrs Crimble’s - Galletas de Coco y FresaSin Gluten - Pack 12 Uds x 180g – Macaroons Ideales para el Desayuno o la Merienda - Galletas Esponjosas - Ingredientes Naturales
 - FORMATO: Pack de 12 unidades, formada cada una por 6 galletas (240g), ideal para compartir o disfrutar a lo largo de varios días. Perfecto para tener siempre un dulce a mano
+- SIN GLUTEN: Estas deliciosas galletas son una excelente opción para quienes buscan un dulce que se adapte a su dieta sin gluten, permitiendo disfrutar sin preocupaciones.
 - IDEALES PARA CUALQUIER MOMENTO DEL DÍA: Perfectas para acompañar el café, como merienda o simplemente para disfrutar en cualquier momento del día.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

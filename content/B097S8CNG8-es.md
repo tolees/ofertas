@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - En botella 100% reciclada
 - Bebida refrescante sin azúcar
 - Proteger de la luz solar y de olores agresivos
-- No contiene cafeína
 - Apto para veganos y vegetarianos
+- No contiene cafeína
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B097S8CNG8{{</world>}}

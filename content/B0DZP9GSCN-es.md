@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuando termina la cuarta ronda, quien tenga más puntos se hará con la victoria. ¡La creatividad al poder!
-- Juego de dibujo y deducción de 3 a 6 jugadores, a partir de 10 años y partidas de 30 minutos aproximadamente
-- En Icon es más fácil dibujar que adivinar, no pasa nada porque tengas un talento artístico nulo
 - Obtendrás puntos por las palabras correctas y también por cada participante que acierte la tuya
+- En Icon es más fácil dibujar que adivinar, no pasa nada porque tengas un talento artístico nulo
 - Usa plantillas de iconos para representar tu palabra secreta, añade palabras trampa para despistar y luego intenta descubrir quién ha dibujado cada cosa
+- Juego de dibujo y deducción de 3 a 6 jugadores, a partir de 10 años y partidas de 30 minutos aproximadamente
+- Cuando termina la cuarta ronda, quien tenga más puntos se hará con la victoria. ¡La creatividad al poder!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DZP9GSCN{{</world>}}

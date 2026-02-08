@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Skechers Detalle del logotipo
 - Ligeras
+- Skechers Detalle del logotipo
 - Cómodos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

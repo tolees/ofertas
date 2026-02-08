@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Compatibilidad: el soporte para pared es compatible con todos los modelos SILENO y SILENO+
-- El paquete incluye: 1 soporte para pared GARDENA
 - Un sistema que ahorra espacio: posibilidad de almacenamiento en un espacio extraordinariamente pequeño para el garaje o el sótano. Así, el robot cortacésped permanecerá fuera del alcance de las influencias imprevistas
+- El paquete incluye: 1 soporte para pared GARDENA
 - Espacio suficiente: el soporte ofrece espacio para el dispositivo en sí y para la estación de carga
 - Estabilidad: el robusto soporte de metal garantiza un apoyo estable, con lo que su dispositivo colgará seguro de la pared
 

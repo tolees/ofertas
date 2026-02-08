@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Modo de uso: ideal para apretar y aflojar tornillos.
-- Peso: 61,7 gramos.
-- Material del mango: PVC.
 - El producto está formado por un destornillador para tornillos con huella de cruz Phillips cromados y punta negra.
 - Tamaño: cruz 1 mm, diámetro 4,5 mm, longitud 120 mm, longitud total 229 mm.
+- Modo de uso: ideal para apretar y aflojar tornillos.
+- Material del mango: PVC.
+- Peso: 61,7 gramos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00S5JAOZ4{{</world>}}

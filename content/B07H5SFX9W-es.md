@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye 1 diseño
 - Plantilla del móvil: 16,5 cm; tamaño de los planetas: 2,5-11,5 cm; incluye 2 x 5m de cordel plateado
-- Cada kit incluye plantilla de madera para montar el móvil, 8 planetas y cordel plateado para colgar
 - Hechos de madera
+- Incluye 1 diseño
+- Cada kit incluye plantilla de madera para montar el móvil, 8 planetas y cordel plateado para colgar
 - Incluye instrucciones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

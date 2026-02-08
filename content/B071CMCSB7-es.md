@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Roll On ANTIMOSQUITOS PRANABB DE PRANARÔM ORGÁNICO CERTIFICADO: Repelente 100% natural contra los mosquitos europeos y tropicales; aroma agradable; nO SECAR LA PIEL; no fotosensibilizante
-- DOSIS: Niños de 6 a 30 meses: aplicar el producto únicamente en brazos y piernas, 1 a 2 veces al día; no aplicar en manos y rostro; repita después de nadar
-- UNA SOLUCIÓN EFECTIVA ANTIMOSQUITOS: Este Roll On antimosquitos ha sido probado en un laboratorio independiente y ofrece 7 horas de protección contra mosquitos portadores de enfermedades como dengue, zika, chikungunya, mosquitos tigre, mosquitos portadores de malaria y mosquitos
-- COMPOSICIÓN NATURAL CON ACEITES ESENCIALES ORGÁNICOS: Lavanda Verdadera, Eucalipto Limón, Palmarosa, Limoncillo, Árbol del Té, Limoncillo de Madagascar, Rosa Geranio, Clavo, Jengibre + Citriodiol; citriodiol es el único ingrediente natural que puede utilizarse como repelente de insectos
 - PRANAROM, LA CIENCIA DE LOS ACEITES ESENCIALES: Pranarôm combina su experiencia científica con su amor por las plantas para ofrecer soluciones específicas para mantener a toda la familia con buena salud cada día
+- DOSIS: Niños de 6 a 30 meses: aplicar el producto únicamente en brazos y piernas, 1 a 2 veces al día; no aplicar en manos y rostro; repita después de nadar
+- COMPOSICIÓN NATURAL CON ACEITES ESENCIALES ORGÁNICOS: Lavanda Verdadera, Eucalipto Limón, Palmarosa, Limoncillo, Árbol del Té, Limoncillo de Madagascar, Rosa Geranio, Clavo, Jengibre + Citriodiol; citriodiol es el único ingrediente natural que puede utilizarse como repelente de insectos
+- Roll On ANTIMOSQUITOS PRANABB DE PRANARÔM ORGÁNICO CERTIFICADO: Repelente 100% natural contra los mosquitos europeos y tropicales; aroma agradable; nO SECAR LA PIEL; no fotosensibilizante
+- UNA SOLUCIÓN EFECTIVA ANTIMOSQUITOS: Este Roll On antimosquitos ha sido probado en un laboratorio independiente y ofrece 7 horas de protección contra mosquitos portadores de enfermedades como dengue, zika, chikungunya, mosquitos tigre, mosquitos portadores de malaria y mosquitos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B071CMCSB7{{</world>}}

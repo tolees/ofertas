@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Ajuste : Regular
+- Cardigan chica || Mangas Normales || Color intenso || Material duradero
 - Cárdigan con las siguientes características:
 - Básicos, Ropa casual, Ropa de Calle
-- Ajuste : Regular
 - Descubre todas las marcas de EMP!
-- Cardigan chica || Mangas Normales || Color intenso || Material duradero
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07W6TZR4D{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material exterior: Textil
-- Cierre: Cordones
 - Material de la suela: EVA
+- Cierre: Cordones
+- Material exterior: Textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BGQM37RH{{</world>}}

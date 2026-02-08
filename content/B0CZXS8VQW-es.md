@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 55% algodón / 36% poliéster (reciclado) / 9% viscosa
-- Corte clásico
-- Cierre de cordón
-- Perneras ajustadas
-- Puños de canalé
 - Contiene al menos un 70% de material reciclado y renovable
+- Puños de canalé
+- 55% algodón / 36% poliéster (reciclado) / 9% viscosa
+- Cierre de cordón
+- Corte clásico
+- Perneras ajustadas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CZXS8VQW{{</world>}}

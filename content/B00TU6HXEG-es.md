@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- NORMAS: CTC; EN ISO 21420: 2020 Dexterity 5; EN 388: 2016 + A1: 2018 - (31X1X); EN ISO 374-1:2016 Type B (JKL); EN ISO 374-5 Micro Organisms.
 - MATERIALES, TAMAÑO Y GAMA: Nitrilo; Algodón; Tamaños Disponible: L, M, S, XL, XXL; Colores Disponibles: Verde.
 - DISEÑO Y FUNCIONALIDAD: Flocado interior para mayor comodidad; Superficie texturada para mejor agarre; Guante resistente a sustancias químicas; Etiqueta expositora que ayuda a la presentación para la venta en tienda; Espesor 0,40mm ; Longitud 320mm; Certificado CE; Resistente a productos químicos; CE-CAT III; Marcado UKCA.
+- NORMAS: CTC; EN ISO 21420: 2020 Dexterity 5; EN 388: 2016 + A1: 2018 - (31X1X); EN ISO 374-1:2016 Type B (JKL); EN ISO 374-5 Micro Organisms.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00TU6HXEG{{</world>}}

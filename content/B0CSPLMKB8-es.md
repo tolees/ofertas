@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Zapatillas deportivas
 - Estilo básico vulcanizado de corte bajo
+- Zapatillas deportivas
 - Cuello y talón de color de contraste
 
 [🛒 Aquí!!!]({{< param buyurl >}})

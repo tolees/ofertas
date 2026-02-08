@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Borde precurvado
 - Cierre ajustable
+- Borde precurvado
 - 92 % poliéster (reciclado), 8 % elastano
 
 [🛒 Comprar!!!]({{< param buyurl >}})

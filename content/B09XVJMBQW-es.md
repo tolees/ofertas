@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Compartimento individual con cremallera
-- Confección de 100% nailon
 - Altura: 19 cm, ancho: 12 cm, profundidad: 5 cm
+- Confección de 100% nailon
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09XVJMBQW{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Estilo de cinco bolsillos
 - Detalles distintivos de Tommy Jeans
 - Parche con el logo de Tommy Jeans en el bolsillo trasero
-- Estilo de cinco bolsillos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08FC5RY2V{{</world>}}

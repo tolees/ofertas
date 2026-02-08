@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Utiliza los paquetes de baterías de 1100 mAh y las cubiertas incluidos para cargar dos controladores simultáneamente
 - Ocho zonas de iluminación RGB y un botón Perfil para guardar hasta cinco perfiles de luz diferentes
-- Carga 2 controladores al mismo tiempo en menos de 3 horas para obtener hasta 40 horas de juego con una sola carga
 - Con licencia oficial de Xbox
+- Carga 2 controladores al mismo tiempo en menos de 3 horas para obtener hasta 40 horas de juego con una sola carga
+- Utiliza los paquetes de baterías de 1100 mAh y las cubiertas incluidos para cargar dos controladores simultáneamente
 - Personaliza los efectos de iluminación, supervisa el estado de carga y mucho más en la aplicación móvil PDP Control Hub
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

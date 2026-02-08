@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillos abiertos para las manos
 - Buena calidad y rendimiento
 - Puños y dobladillo inferior acanalados
+- Bolsillos abiertos para las manos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BGVP41BJ{{</world>}}

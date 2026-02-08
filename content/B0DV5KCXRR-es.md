@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ajuste regular
-- Corte holgado y cómodo
 - Logotipo bordado en el pecho y en la parte trasera del hombro derecho.
+- Corte holgado y cómodo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DV5KCXRR{{</world>}}

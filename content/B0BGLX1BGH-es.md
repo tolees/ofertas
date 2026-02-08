@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Modelo Unisex; Medidas: Frontal 142 mm, Varillas 139;5 mm, Puente 18;5 mm, Alto 50;4 mm
 - En el ONE DREAM, nuestra montura más vendida de todos los tiempos se combina con una lente de máscara de una sola pieza sin aros; este modelo transparente de color oro miel tiene una lente dorada con efecto espejo
+- Modelo Unisex; Medidas: Frontal 142 mm, Varillas 139;5 mm, Puente 18;5 mm, Alto 50;4 mm
 - Gafas de sol polarizadas: Reduce los reflejos superficiales y la fatiga ocular proporcionando nitidez y contrastes superiores; Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lente de policarbonato polarizado que proporcionan gran resistencia, para uso deportivo y niños; protección 100 % UV; Color de la lente: Dorado; Apariencia de la lente: Espejo
-- Producto original Hawkers; la caja incluye funda en microfibra y caja
 - Material de la montura: TR90; Color de la montura: Dorado; Color de la varilla: Dorado
+- Producto original Hawkers; la caja incluye funda en microfibra y caja
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BGLX1BGH{{</world>}}

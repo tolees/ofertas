@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Número de paquetes: 1
 - País de origen: Alemania
 - Peso de Paquete: 1,64 kg
 - Dimensiones del paquete (largo x ancho x alto): 4,2 x 11 x 27,4 cm
-- Número de paquetes: 1
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07N1M2PWW{{</world>}}

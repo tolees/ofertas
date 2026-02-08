@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vaporizador de 125ml
-- Aplica la fragancia manteniendo el frasco a una distancia aproximada de 10cm con la piel. Para que perdure durante todo el día, aplícalo sobre la nuca, detrás de las orejas y la parte interna de codos y muñecas
 - Perfume Scalpers con fragancia aromática amaderada para hombres
-- Las notas de salida son pomelo, salvia y cacao; las de corazón lavanda, acorde de tabaco y jengibre; las de fondo ámbar gris, vetiver, pachulí y maderas clandestinas
+- Aplica la fragancia manteniendo el frasco a una distancia aproximada de 10cm con la piel. Para que perdure durante todo el día, aplícalo sobre la nuca, detrás de las orejas y la parte interna de codos y muñecas
 - Para un hombre masculino, atractivo y envolvente
+- Las notas de salida son pomelo, salvia y cacao; las de corazón lavanda, acorde de tabaco y jengibre; las de fondo ámbar gris, vetiver, pachulí y maderas clandestinas
+- Vaporizador de 125ml
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B091SWJ1RG{{</world>}}

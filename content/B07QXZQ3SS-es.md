@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Aspecto de cordones
-- Botines
 - Cierre de cremallera
 - Cuero
+- Botines
 - Tacón pequeño
 
 [🛒 Aquí!!!]({{< param buyurl >}})

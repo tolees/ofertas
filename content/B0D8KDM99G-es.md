@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- EK30Y|30 años
 - Tela repelente al agua
+- EK30Y|30 años
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D8KDM99G{{</world>}}

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - El Major IV se puede cargar de forma inalámbrica, por lo que ahora es más fácil que nunca cargarlo y llevarlo consigo.
-- Rediseñadas: nuevas almohadillas para los oídos, bisagras 3D, diadema de ajuste recto y alambre con amortiguadores de goma reforzados.
 - El mando de control multidireccional te permite controlar la música y la funcionalidad del teléfono con facilidad.
+- Rediseñadas: nuevas almohadillas para los oídos, bisagras 3D, diadema de ajuste recto y alambre con amortiguadores de goma reforzados.
 - El nuevo diseño ergonómico mejorado de Major IV significa que cuando te sumerges profundamente en tu música, la décima hora es tan cómoda como la primera.
 - El Major IV ofrece más de 80 horas continuas de reproducción inalámbrica.
 

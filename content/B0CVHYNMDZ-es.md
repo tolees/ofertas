@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CUIDADO DE LA PIEL: El sérum con color Illuminance de Revlon unifica el tono y mejora la apariencia de la piel al instante.
+- INGREDIENTES: Con extracto de raíz de jengibre + Vitamina C, que actúan para igualar el tono. Con Vitamina E + Ácido hialurónico para hidratar.
 - COBERTURA: Cobertura ligera para un acabado natural
 - ENCUENTRA TU TONO: 6 tonos disponibles
-- INGREDIENTES: Con extracto de raíz de jengibre + Vitamina C, que actúan para igualar el tono. Con Vitamina E + Ácido hialurónico para hidratar.
+- CUIDADO DE LA PIEL: El sérum con color Illuminance de Revlon unifica el tono y mejora la apariencia de la piel al instante.
 - BENEFICIOS: Aumenta la luminosidad de la piel, reduce visiblemente las manchas con el tiempo, con resultados visibles en 4-8 semanas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

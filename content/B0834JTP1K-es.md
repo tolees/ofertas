@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 【PETG Filamento】Excelente Claridad, Transmisión de Luz y Alto Brillo. Alta Tenacidad. Buena Resistencia al Impacto. Buena Resistencia Mecánica. Resistente al Agua. Resistencia a la Intemperie. Resistencia Química. Buena Estabilidad. Combina las Ventajas de PLA y ABS.
-- 【Envase Sellado al Vacío】Peso Neto del Filamento: 1KG. eSUN Filamento viene en una bolsa de vacío sellada con una bolsa desecante, mantener fácilmente los filamentos de su impresora 3D en condiciones óptimas de almacenamiento y sin polvo ni suciedad, evite atascos.
 - 【Sin Obstruccion】Longitud Total: 350-355m. Carrete completo de filamento de impresora 3D de 1KG, redondez perfecta y tolerancia de diámetro muy ajustada, no se superpone ni se enreda. Fundir bien, alimentar suavemente y constantemente sin obstruir la boquilla o el extrusor.
+- 【Envase Sellado al Vacío】Peso Neto del Filamento: 1KG. eSUN Filamento viene en una bolsa de vacío sellada con una bolsa desecante, mantener fácilmente los filamentos de su impresora 3D en condiciones óptimas de almacenamiento y sin polvo ni suciedad, evite atascos.
 - 【Alta Compatibilidad】PETG tiene las ventajas de una alta tenacidad y buenas propiedades mecánicas (como el ABS), también tiene las características de facilidad de impresión y mínimo deformación(como el PLA). Ampliamente utilizado en juguetes, artículos de papelería, accesorios electrónicos, contenedor de cosméticos, etc.
 - 【Tolerancia Dimensional Estable】Tolerancia mínima y baja deformación para asegurar una alimentación consistente e impresiones estables, buena unión de capas, menos trefilado, sin burbujas, sin grietas, lo que resulta en un acabado superficial excepcional y son altamente precisos.
 - Noticia:La serie PETG cambiará a bobina de cartón, por lo que estas dos versiones se enviarán recientemente de forma aleatoria. Lamentamos no poder aceptar la designación.

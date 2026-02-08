@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Empeine de gamuza
-- Suela de goma que no deja marcas
 - Cierre de cordones
 - PUMA Logotipo de gato en el talón
+- Suela de goma que no deja marcas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BLCHGSS2{{</world>}}

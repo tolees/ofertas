@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una opción más sostenible - Este contenedor de residuos alimentarios es 100% reciclable después de su uso
-- Estándar de gran calidad - Si ocurre algo inesperado con este producto de Brabantia, ofrecemos 10 años de garantí­a y servicio
 - Reciclaje eficiente - Colocarlo el cubo de reciclaje Sort & Go de 16 litros en cualquier esquina, en la pared o en su soporte de pared incluido
 - Ajuste óptimo - Para que las bolsas de basura encajen a la perfección y queden ocultas puede utilizar las bolsas PerfectFit de Brabantia (código D)
+- Estándar de gran calidad - Si ocurre algo inesperado con este producto de Brabantia, ofrecemos 10 años de garantí­a y servicio
+- Una opción más sostenible - Este contenedor de residuos alimentarios es 100% reciclable después de su uso
 - Fácil de vaciar - Tiene una práctica asa para transportarlo y muévala con facilidad para vaciarla en su contenedor de residuos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

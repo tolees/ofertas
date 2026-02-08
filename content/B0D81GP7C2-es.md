@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - FUNCIÓN SECADO /HUMEDAD. Gas refrigerante eco-friendly R290 y función de secado de ropa. Dispone de sensor de humedad integrado que permite configurar el nivel de humedad que desea en la estancia 30% - 90%
 - PRÁCTICO Y SEGURO. El temporizador es de hasta 24h y es ideal para estancias de hasta 40m2. Con tubo de drenaje continuo así como función anti congelante, alarma y apagado automático en caso de depósito lleno. Lleva incorporada tambien una función de seguridad para niños
-- POTENCIA Y CAPACIDAD DE DESHUMIFICACIÓN. Deshumidificador de 280W de potencia con capacidad de deshumidificación de 20L/24h
 - ACCESORIOS. Lleva incorporadas ruedas para facilitar el transporte y alojamiento para poder guardar el cable
+- POTENCIA Y CAPACIDAD DE DESHUMIFICACIÓN. Deshumidificador de 280W de potencia con capacidad de deshumidificación de 20L/24h
 - FUNCIONES Y CARACTERÍSTICAS PRINCIPALES. Silencioso con apenas 46dB con panel intuitivo, depósito de 6L y 2 velocidades de ventilación. Tiene una circulación de aire de 260m3/h y una temperatura de funcionamiento de 5 a 35ºC, auto oscilante con ángulo ajustable para adaptarse a la estancia
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - TAMAÑO DE LA PANTALLA 60 cm (24”)
-- 3 ENTRADAS HDMI
 - SINTONIZADOR HD DVB-T/T2/C/S/S2 (MPEG4 + HEVC/H.265 (10 bits))
-- 2 USB PARA LA REPRODUCCIÓN MULTIMEDIA
 - TV CON CAPACIDAD HD
+- 3 ENTRADAS HDMI
+- 2 USB PARA LA REPRODUCCIÓN MULTIMEDIA
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F7LWS41B{{</world>}}

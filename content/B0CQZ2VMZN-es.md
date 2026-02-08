@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre de cremallera
 - Corte cónico
 - Cintura media
+- Cierre de cremallera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CQZ2VMZN{{</world>}}

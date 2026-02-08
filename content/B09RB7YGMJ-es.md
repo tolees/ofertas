@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mezclas y capas sin esfuerzo para una infinita gama de colores y tonos personalizados
 - Colores brillantes e intensos que darán vida a tus ideas artísticas
 - El paquete incluye: 48 lápices en colores variados
 - Cobertura supersuave que se desliza por la página
+- Mezclas y capas sin esfuerzo para una infinita gama de colores y tonos personalizados
 - La caja de almacenamiento metálica mantiene tus lápices recogidos y organizados, ya sea en tu escritorio o en una bolsa
 
 [🛒 Visítala!!!]({{< param buyurl >}})

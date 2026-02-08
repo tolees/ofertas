@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Hexagonal de 1/4 pulgadas
+- Philips Bits PH1, PH2, PH3, Pozidrive Bits PZ1, PZ2, PZ3, Torx Bits T15, T20, T25, T30
+- Revestimiento negro anticorrosión para proporcionar una vida útil más larga
+- Longitud: 50 mm
 - Se envía en un soporte de plástico duradero
 - Juego de puntas de destornillador de impacto
-- Philips Bits PH1, PH2, PH3, Pozidrive Bits PZ1, PZ2, PZ3, Torx Bits T15, T20, T25, T30
-- Longitud: 50 mm
-- Hexagonal de 1/4 pulgadas
-- Revestimiento negro anticorrosión para proporcionar una vida útil más larga
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09X712TRS{{</world>}}

@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- producto 2: Control remoto: enciende y apaga instantáneamente los dispositivos conectados donde sea que estés a través de la aplicación tapo
-- producto 1: Roaming continuo: Deco creará una red unificada con un solo SSID, cuando se mueva por la casa, siempre se conectará la mejor unidad sin pérdida de señal; Deco E4 también es compatible con otros Deco
 - producto 2: Programación: preestablezca una programación para administrar dispositivos automáticamente
-- producto 2: Temporizador: crea listas de temporizadores de cuenta regresiva para los dispositivos electrónicos conectados
 - producto 2: Control de voz: administre su socket inteligente con comandos de voz a través de alexa o el asistente de google
-- producto 1: Configuración fácil: Instale la aplicación Deco y siga las sencillas instrucciones en pantalla para configurar la red; Deco se encargará de todo, ofreciéndole el mejor rendimiento con total seguridad
+- producto 1: Roaming continuo: Deco creará una red unificada con un solo SSID, cuando se mueva por la casa, siempre se conectará la mejor unidad sin pérdida de señal; Deco E4 también es compatible con otros Deco
 - producto 1: Cobertura escalable: Deco E4 proporciona un área de cobertura de hasta 260 m² (2-pack), para obtener más cobertura simplemente agregue una nueva unidad a su kit
+- producto 2: Temporizador: crea listas de temporizadores de cuenta regresiva para los dispositivos electrónicos conectados
+- producto 2: Control remoto: enciende y apaga instantáneamente los dispositivos conectados donde sea que estés a través de la aplicación tapo
+- producto 1: Configuración fácil: Instale la aplicación Deco y siga las sencillas instrucciones en pantalla para configurar la red; Deco se encargará de todo, ofreciéndole el mejor rendimiento con total seguridad
 - producto 1: Mesh Wifi: Innovadora solución inalámbrica con niveles máximos de confiabilidad: distribuye una conexión wi-fi rápida, estable e ininterrumpida de hasta 1167 mbps
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

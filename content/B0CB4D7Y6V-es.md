@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Corte regular
 - Triple costura superior en las costuras laterales
 - Bolsillos laterales y bolsillos traseros ribeteados
-- Corte regular
 - Cintura de doble capa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

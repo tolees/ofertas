@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La libreta cuenta con 240 páginas a rayas con el sello FSC, que garantiza que ha sido fabricada con papel proveniente de bosques gestionados de forma responsable.
 - Libreta de tamaño A5, con un divertido mensaje dirigido a madres. Incluye goma elástica para el cierre, cinta marcapáginas y un bolsillo en su portada para guardar papeles sueltos.
 - Incluye un boli con tinta de color negro.
+- La libreta cuenta con 240 páginas a rayas con el sello FSC, que garantiza que ha sido fabricada con papel proveniente de bosques gestionados de forma responsable.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CY2SQ6KP{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Artículo de marca Under Armour
 - Presentan detalles distintivos de la marca
 - Los zapatos pueden combinar con multitud de conjuntos
+- Artículo de marca Under Armour
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BGQNLN1G{{</world>}}

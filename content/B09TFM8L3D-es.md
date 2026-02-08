@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- FÓRMULA CREMOSA: ayuda a que tu barra de labios dure más tiempo con nuestros perfiladores de labios. Pigmentación intensa en una sola pasada con textura suave. ¡Perfecto para dar volumen a tus labios!
-- LARGA DURACIÓN: fórmula diseñada para mantenerse intacta durante todo el día. The Lip Pencil es perfecto para las personas con vidas ajetreadas. ¡Combínalo con The Lipstick para completar tu look!
-- VEGANO Y CRUELTY FREE: 3INA es una marca de maquillaje española que fabrica en Europa. Todos nuestros productos son veganos, libres de parabenos y sin crueldad animal.
 - FINO Y PRECISO: este lápiz de labios viene con una mina precisa para ayudarte a perfilar tus labios. Además es de fácil aplicación gracias a que su textura cremosa se dezliza perfectamente.
+- LARGA DURACIÓN: fórmula diseñada para mantenerse intacta durante todo el día. The Lip Pencil es perfecto para las personas con vidas ajetreadas. ¡Combínalo con The Lipstick para completar tu look!
+- FÓRMULA CREMOSA: ayuda a que tu barra de labios dure más tiempo con nuestros perfiladores de labios. Pigmentación intensa en una sola pasada con textura suave. ¡Perfecto para dar volumen a tus labios!
+- VEGANO Y CRUELTY FREE: 3INA es una marca de maquillaje española que fabrica en Europa. Todos nuestros productos son veganos, libres de parabenos y sin crueldad animal.
 - MANTÉN TUS LABIOS HIDRATADOS: el aceite de jojoba permite que este delineador de labios sea de suave aplicación y que los labios queden tersos. Puede usarse solo o como base de un labial ¡Tu eliges!
 
 [🛒 Aquí!!!]({{< param buyurl >}})

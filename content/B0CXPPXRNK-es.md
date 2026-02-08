@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 【Analizador de aliento digital de alta precisión】 Este analizador de aliento tiene un sensor de alcohol semiconductor de alta precisión. Proporciona rápidamente resultados sobre si puede conducir. El ganador de la prueba es 99,1 %, el rango es 0,00 % ~ 1,9 % BAC / 0,0 ~ 1,9 g/l. Muy adecuado para conductores.
-- 【Ligero y portátil】El probador de aliento se puede llevar en el bolsillo o bolso en cualquier momento y en cualquier lugar. Ideal para eventos sociales como bodas, fiestas, celebraciones, etc., para ayudarte a determinar si es apto para conducir.
 - 【Fácil de usar】Simplemente inserte 2 pilas AAA (pilas no incluidas) y encienda el analizador de aliento. Espere 10 segundos para que se caliente, luego sople durante 3-6 segundos, el resultado se mostrará en la pantalla LCD más tarde. Los resultados se mostrarán durante 10 segundos y luego se apagarán automáticamente.
-- 【Probador de aliento profesional】 El analizador de aliento tiene alta sensibilidad y precisión. Esto le permitirá obtener una respuesta precisa y determinar si puede conducir a máxima velocidad. Hay 3 unidades de medida para elegir, % BAC, ‰ BAC, mg/l. Si la medición excede el 0,05% BAC (o 0,50 ‰ BAC o 0,25 mg/L), el dispositivo respiratorio emitirá una alarma audible.
 - [Recordatorio amistoso] Puede medir varias veces y el valor promedio es el resultado exacto. Después de beber alcohol, se recomienda esperar 20 minutos antes de realizar la prueba. Porque el alcohol tarda unos 20 minutos en llegar al torrente sanguíneo desde los órganos digestivos. Espere al menos 3 minutos antes de realizar la siguiente prueba.
+- 【Ligero y portátil】El probador de aliento se puede llevar en el bolsillo o bolso en cualquier momento y en cualquier lugar. Ideal para eventos sociales como bodas, fiestas, celebraciones, etc., para ayudarte a determinar si es apto para conducir.
+- 【Probador de aliento profesional】 El analizador de aliento tiene alta sensibilidad y precisión. Esto le permitirá obtener una respuesta precisa y determinar si puede conducir a máxima velocidad. Hay 3 unidades de medida para elegir, % BAC, ‰ BAC, mg/l. Si la medición excede el 0,05% BAC (o 0,50 ‰ BAC o 0,25 mg/L), el dispositivo respiratorio emitirá una alarma audible.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CXPPXRNK{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para hombres urbanos en busca de nuevas sensaciones, nuevos aromas y nuevas experiencias. Este cóctel adictivo te empuja a explorar tus propios límites, y a descubrir nuevas sensaciones
-- Vaporizador de 75ml
 - Las notas de salida son cardamomo, lavandino y limón; las de corazón black jack, corteza de canela y acorde mineral; y las de fondo acorde de tonka, ámbar moderno y humo de incienso
-- Aplica la fragancia manteniendo el frasco a una distancia aproximada de 10cm con la piel. Para que perdure durante todo el día, aplícalo sobre la nuca, detrás de las orejas y la parte interna de codos y muñecas
 - Colonia Halloween con fragancia oriental fougère para hombres
+- Para hombres urbanos en busca de nuevas sensaciones, nuevos aromas y nuevas experiencias. Este cóctel adictivo te empuja a explorar tus propios límites, y a descubrir nuevas sensaciones
+- Aplica la fragancia manteniendo el frasco a una distancia aproximada de 10cm con la piel. Para que perdure durante todo el día, aplícalo sobre la nuca, detrás de las orejas y la parte interna de codos y muñecas
+- Vaporizador de 75ml
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07NPQMY15{{</world>}}

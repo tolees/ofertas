@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye también 2 hojas de pegatinas, 1 bloc de notas adhesivas y 7 blocs de marcapáginas adhesivos.
-- Ideal como regalo o autorregalo irresistible
-- Calendario de sobremesa, con un reto para cada uno de los meses del año.
-- Tamaño práctico para llevar siempre contigo
 - Certificado FSC, lo que garantiza que ha sido fabricado con papel proveniente de bosques gestionados de forma responsable.
+- Ideal como regalo o autorregalo irresistible
+- Tamaño práctico para llevar siempre contigo
+- Calendario de sobremesa, con un reto para cada uno de los meses del año.
+- Incluye también 2 hojas de pegatinas, 1 bloc de notas adhesivas y 7 blocs de marcapáginas adhesivos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FPMNM486{{</world>}}

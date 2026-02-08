@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Martiderm cover dsp stick
 - SPF 50+
+- Martiderm cover dsp stick
 - Corrector para la cara
 
 [🛒 Visítala!!!]({{< param buyurl >}})

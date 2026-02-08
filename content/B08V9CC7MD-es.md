@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Juego de habilidad de mesa del personaje de Doraemon. El jugador tiene que intentar disparar tantos Dorayakis como le sea posible en la boca de Doraemon, que gira con un movimiento de apertura y cierre.
-- Edad recomendada: +3 años.
-- ¡5 modalidades de juego! Combina velocidad, número de jugadores o intercambia el tablero para más diversión.
-- Número de jugadores: 1-4.
 - Requiere 2 pilas AA(LR6). No incluidas.
+- ¡5 modalidades de juego! Combina velocidad, número de jugadores o intercambia el tablero para más diversión.
+- Edad recomendada: +3 años.
+- Número de jugadores: 1-4.
+- Juego de habilidad de mesa del personaje de Doraemon. El jugador tiene que intentar disparar tantos Dorayakis como le sea posible en la boca de Doraemon, que gira con un movimiento de apertura y cierre.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08V9CC7MD{{</world>}}

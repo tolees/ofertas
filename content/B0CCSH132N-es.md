@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- EDAD: Perfecto para niños de 6+ años.
-- ¡Todo lo que necesitas para jugar al futbol igual que en la Kings League! ¡Incluye el balón oficial de la Kings League!
 - ¿CÓMO JUGAR? ¡Formad dos equipos, elegid a vuestro presidente y a jugar! Incluye el balón, el pulsador que activa las armas secretas y las cartas de presidente, que te darán una ventaja estratégica. Tira el dado inflable para que decidacon cuántos jugadores os quedaréis. Para facilitar el transporte, el juego incluye una bolsa para que te lo puedas llevar y jugar la Kings League en cualquier lugar.
+- ¡Todo lo que necesitas para jugar al futbol igual que en la Kings League! ¡Incluye el balón oficial de la Kings League!
+- NÚMERO DE JUGADORES: +2 jugadores
 - Diviertete recreando la Eurocopa con este Kit Oficial, crea diferentes equipos, intenta llegar hasta la gran final y ser el campeón
 - CONTENIDO: 1 x Buzzer 1 x Balón Kings League Cartas de juego Dado inflable Reglamento Bolsa
-- NÚMERO DE JUGADORES: +2 jugadores
+- EDAD: Perfecto para niños de 6+ años.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CCSH132N{{</world>}}

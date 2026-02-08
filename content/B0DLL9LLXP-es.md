@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 100% poliéster (reciclado)
-- Capacidad: 30,5 l
 - Dimensiones: 23 cm x 54 cm x 27 cm
-- Sistema de cordones para sujetar la esterilla de yoga
+- Capacidad: 30,5 l
 - Primegreen
 - Bolsillo frontal con cremallera
+- 100% poliéster (reciclado)
+- Sistema de cordones para sujetar la esterilla de yoga
 - Sistema de cordones para sujetar la esterilla de yoga
 
 [🛒 Comprar!!!]({{< param buyurl >}})

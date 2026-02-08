@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- PH NEUTRO para perros: Este champú está diseñado por veterinarios y farmacéuticos para garantizar el cuidado y la protección del animal durante y después del lavado.
 - APTO PARA USO FRECUENTE: Debido a que es un producto con el pH adaptado a la piel de los perros se puede utilizar frecuentemente en el animal sin dañar su pelaje y su piel.
-- REPELENTE NATURAL: Champú antipulgas e insectos para perros con citronela, repelente natural muy efectivo que proviene de la planta de citronela conocida por su acción repelente.
 - RANGO DE EDAD: todas las etapas de la vida
+- PH NEUTRO para perros: Este champú está diseñado por veterinarios y farmacéuticos para garantizar el cuidado y la protección del animal durante y después del lavado.
+- REPELENTE NATURAL: Champú antipulgas e insectos para perros con citronela, repelente natural muy efectivo que proviene de la planta de citronela conocida por su acción repelente.
 - ELIMINA Y PROTEGE: El champú repelente de Menforsan, elimina cualquier tipo de insectos, pulgas, garrapatas, ácaros y piojos durante el proceso de lavado.
 - OLOR CÍTRICO: deja un olor rico y agradable en el pelaje del perro.
 

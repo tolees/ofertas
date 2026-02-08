@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Freshrite Polygiene que evita el mal olor
-- Tecnología transpirable
 - Contiene al menos un 70 % de material reciclado y renovable
-- 100 % poliéster (71 % reciclado)
-- Refuerzos en la sisa
-- Corte clásico
 - Factor de protección solar (FPS)
+- Tecnología transpirable
+- Corte clásico
+- Refuerzos en la sisa
+- Freshrite Polygiene que evita el mal olor
+- 100 % poliéster (71 % reciclado)
 - Tejido Twistknit
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

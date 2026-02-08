@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Incluye sobre.
 - Postal con mensaje dirigido a madres, perfecta para regalar.
 - Cuenta con el certificado FSC, lo que garantiza que ha sido fabricada con papel proveniente de bosques gestionados de manera responsable.
+- Incluye sobre.
 - Como elemento novedoso, cuenta con un adhesivo que en su parte superior está cubierto de tinta para rascar. La idea es que la persona que hace el regalo escribe un mensaje en la postal, encima de este mensaje engancha la pegatina con tinta para rascar y, de esta manera, el mensaje queda oculto, descubriéndose tan solo cuando la madre rasque la pegatina.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

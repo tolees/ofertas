@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Lavar a mano con agua y jabón antes del primer uso. Apta para lavavajillas. No meter en el microondas. No congelar. Cuando no esté en uso, se recomienda guardarla siempre con el tapón abierto para evitar malos olores.
 - Capacidad: 470 ml.
 - Botella de cristal con tapón de plástico libre de BPA y faja de silicona alrededor, con mensaje divertido en español. La faja de silicona evita que la botella resbale y facilita su agarre.
+- Lavar a mano con agua y jabón antes del primer uso. Apta para lavavajillas. No meter en el microondas. No congelar. Cuando no esté en uso, se recomienda guardarla siempre con el tapón abierto para evitar malos olores.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D1RDHV49{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Colores: 12 colores vivos y brillantes para crear diseños divertidos y únicos. Perfectos para decorar y hacer manualidades ¡Dale un toque de brillo a tus regalos, tarjetas de felicitación y mucho más!
 - Punta: Los Glitter Marker Color Experience tienen una punta resistente de 3,3 mm que te permite escribir, dibujar y pintar sobre lo que más te guste. La tinta fluye de manera uniforme, de modo que obtendrás un trazo fino y cubriente
 - Gama Alpino Color Experience: La gama de productos premium de Alpino ideada para sentir los colores, evadirse y disfrutar coloreando. Una gama llena de color, caligrafía, arte, mandalas... En ella encontrarás lápices de colores, rotuladores para hand lettering, packs de caligrafía, bullet journal, etc.
-- Colores: 12 colores vivos y brillantes para crear diseños divertidos y únicos. Perfectos para decorar y hacer manualidades ¡Dale un toque de brillo a tus regalos, tarjetas de felicitación y mucho más!
 - Seguridad: Los Glitter Markers Color Experience tienen una fórmula que cumple con estándares de calidad, no tóxica y de secado rápido. Cuenta con un capuchón ventilado y seguro, que los hace adecuados para el uso de niños de 3 años en adelante
 
 [🛒 Comprar!!!]({{< param buyurl >}})

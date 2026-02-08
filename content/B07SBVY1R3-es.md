@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Denim with super low waist
 - Skinny ankle Jeans
+- Denim with super low waist
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07SBVY1R3{{</world>}}

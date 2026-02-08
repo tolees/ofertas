@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Gran compatibilidad: Compatible con la última arquitectura PCIe 5.0 de las plataformas Intel Z790 y AMD X670 y posteriores.
+- Microsoft DirectStorage*: Permite que el modelo MP700 PRO se comunique directamente con su tarjeta gráfica cuando juega a juegos compatibles, a fin de conseguir unos tiempos de carga increíblemente breves. * DirectStorage requiere una GPU DirectX12 compatible con Shader Model 6.0.
+- Rendimiento de Gen5 con tecnología NVMe 2.0: PCIe Gen5 x4 se combina con la interfaz NVMe 2.0 de gran ancho de banda para posibilitar transferencias de datos a mayor velocidad y con un rendimiento sin igual de las unidades SSD M.2 nunca visto.* Se requiere refrigeración para SSD.
 - 3D TLC NAND de alta densidad: Ofrece la combinación perfecta de rendimiento y durabilidad para obtener el máximo de su unidad durante mucho tiempo.
 - Su PC a velocidad de vértigo: Cargue juegos, arranque Windows y gestione archivos de gran tamaño con velocidades sin precedentes que alcanzan los 10.000 MB/s y 9.500 MB/s de lectura y escritura secuencial, respectivamente. * El rendimiento y la resistencia pueden variar según la capacidad.
-- Rendimiento de Gen5 con tecnología NVMe 2.0: PCIe Gen5 x4 se combina con la interfaz NVMe 2.0 de gran ancho de banda para posibilitar transferencias de datos a mayor velocidad y con un rendimiento sin igual de las unidades SSD M.2 nunca visto.* Se requiere refrigeración para SSD.
-- Microsoft DirectStorage*: Permite que el modelo MP700 PRO se comunique directamente con su tarjeta gráfica cuando juega a juegos compatibles, a fin de conseguir unos tiempos de carga increíblemente breves. * DirectStorage requiere una GPU DirectX12 compatible con Shader Model 6.0.
+- Gran compatibilidad: Compatible con la última arquitectura PCIe 5.0 de las plataformas Intel Z790 y AMD X670 y posteriores.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CM42DVBR{{</world>}}

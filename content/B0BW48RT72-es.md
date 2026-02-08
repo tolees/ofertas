@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La red hexagonal está recubierta de PVC, resistente al óxido y la corrosión y extremadamente duradera.
-- La malla de alambre de la cerca se puede cortar según sea necesario y fácil de manejar.
-- La malla de alambre es una estructura hexagonal, dimensiones por rollo: 100 cm (H) x 50 m (L).
 - Diámetro del alambre: 0.71 mm, Tamaño de malla: 13 mm.
+- La malla de alambre de la cerca se puede cortar según sea necesario y fácil de manejar.
+- La red hexagonal está recubierta de PVC, resistente al óxido y la corrosión y extremadamente duradera.
+- La malla de alambre es una estructura hexagonal, dimensiones por rollo: 100 cm (H) x 50 m (L).
 - La malla de alambre es adecuada para construir gallineros, jaulas de conejos y valla. Puede proteger ganadera, pequeños animales y plantas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

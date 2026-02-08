@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tipo de fábrica: 100% poliester
 - Rib en puños, cuello, cintura y bajo para un ajuste más óptimo
-- Brand: Joma
 - Diseno funcional
+- Brand: Joma
+- Tipo de fábrica: 100% poliester
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08YZ9DZFP{{</world>}}

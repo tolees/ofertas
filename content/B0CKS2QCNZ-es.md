@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Empeine de piel sintética reciclada
-- Forro textil
-- Horma clásica
 - Cordones elásticos y correa autoadherente
+- Empeine de piel sintética reciclada
+- Horma clásica
+- Forro textil
 - Suela de goma
 
 [🛒 Visítala!!!]({{< param buyurl >}})

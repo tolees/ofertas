@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La Edición Deluxe incluye exclusivos objetos de colección con temática de las Tortugas Ninja que rinden homenaje a los héroes en una media concha, incluyendo un increíble Steelbook y un radical artbook que cuenta la historia detrás de Teenage Mutant Ninja Turtles: Mutants Unleashed.
 - Además del juego físico, Teenage Mutant Ninja Turtles: Mutants Unleashed – Deluxe Edition incluye los siguientes artículos exclusivos:
+- La Edición Deluxe incluye exclusivos objetos de colección con temática de las Tortugas Ninja que rinden homenaje a los héroes en una media concha, incluyendo un increíble Steelbook y un radical artbook que cuenta la historia detrás de Teenage Mutant Ninja Turtles: Mutants Unleashed.
 - Steelbook, 4 pines que se asemejan a las hebillas de cinturón de cada una de las 4 Tortugas, 4 llaveros con las armas de cada una de las 4 Tortugas, Artbook de cubierta blanda, Todos los contenidos empaquetados dentro de una caja para coleccionistas.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

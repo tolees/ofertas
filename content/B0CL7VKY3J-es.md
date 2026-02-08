@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aberturas estrechas de rodillas y piernas
 - Bolsillos traseros, bolsillo para monedas, bolsillos delanteros
+- Aberturas estrechas de rodillas y piernas
 - Con cintura baja
 
 [🛒 Aquí!!!]({{< param buyurl >}})

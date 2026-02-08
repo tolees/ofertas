@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Bata midi, de manga larga, confeccionada con tejido de satén y detalles de encaje floral en hombros y puños
-- De tipo cruzada, con cinturón para un mayor y mejor ajuste
 - Colección "Bridal"
+- De tipo cruzada, con cinturón para un mayor y mejor ajuste
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQVM3LK1{{</world>}}

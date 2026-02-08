@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Repelente de mosquitos en un cómodo formato spray y tamaño viaje, para que puedas llevarlo a donde quieras. Mantiene la piel corporal y facial protegida de las picaduras hasta un máximo de 6 horas, eficacia clínica probada
-- Eficacia inmediata, para que puedas despreocuparte y disfrutar al máximo en el campo, la piscina o la playa. Elige repelentes autorizados por la AEMPS o la Dirección General de Salud Pública que cumplan con la normativa de etiquetado. Sigue las recomendaciones sanitarias de las zonas de riesgo de transmisión de enfermedades
-- Eficaz contra la mosca negra, las garrapatas y los mosquitos, incluso el mosquito tigre | Aplica primero el fotoprotector, deja que se absorba y después aplica el repelente
-- Modo de empleo: Aplica el producto en la mano y extiéndelo sobre áreas no cubiertas por la ropa. Lávate las manos tras aplicarlo y también el resto de cuerpo donde se ha usado, una vez concluido el tiempo de protección. Evita el contacto con los ojos, labios, mucosas, heridas y zonas sensibles o enfermas de la piel.
 - Aplicación rápida y sencilla gracias a su cómodo formato en spray. El producto debe ser aplicado por un adulto
+- Eficacia inmediata, para que puedas despreocuparte y disfrutar al máximo en el campo, la piscina o la playa. Elige repelentes autorizados por la AEMPS o la Dirección General de Salud Pública que cumplan con la normativa de etiquetado. Sigue las recomendaciones sanitarias de las zonas de riesgo de transmisión de enfermedades
+- Repelente de mosquitos en un cómodo formato spray y tamaño viaje, para que puedas llevarlo a donde quieras. Mantiene la piel corporal y facial protegida de las picaduras hasta un máximo de 6 horas, eficacia clínica probada
+- Modo de empleo: Aplica el producto en la mano y extiéndelo sobre áreas no cubiertas por la ropa. Lávate las manos tras aplicarlo y también el resto de cuerpo donde se ha usado, una vez concluido el tiempo de protección. Evita el contacto con los ojos, labios, mucosas, heridas y zonas sensibles o enfermas de la piel.
+- Eficaz contra la mosca negra, las garrapatas y los mosquitos, incluso el mosquito tigre | Aplica primero el fotoprotector, deja que se absorba y después aplica el repelente
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B008D2TH0Q{{</world>}}

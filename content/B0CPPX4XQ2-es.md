@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Con un tacón bajo
 - Transpirables y cómodas
 - Adecuadas para llevar durante todo el día
-- Con un tacón bajo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CPPX4XQ2{{</world>}}

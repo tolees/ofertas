@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte clásico
-- 87% poliéster (reciclado) / 13% elastano
 - Bolsillos laterales con cremallera compatibles con mochila
-- Cierre de cremallera, cuello alto y capucha
 - Puños semielásticos
+- Cierre de cremallera, cuello alto y capucha
+- 87% poliéster (reciclado) / 13% elastano
+- Corte clásico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZD5QMJW{{</world>}}

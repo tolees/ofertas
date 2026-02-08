@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cinta de rayas en el interior del cuello
 - Camisa manga corta en tejido pinpoint 100% algodón
+- Cinta de rayas en el interior del cuello
 - Camisa de manga corta regular fit, tejido pinpoint 100% algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})

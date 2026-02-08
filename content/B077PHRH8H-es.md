@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuenta con un bolsillo de seguridad con cremallera oculto y un compartimento para monedas
-- Slim fit
-- Pantalones chinos refinados con tecnología antiarrugas
 - Signature Khaki Slim
+- Slim fit
+- Cuenta con un bolsillo de seguridad con cremallera oculto y un compartimento para monedas
+- Pantalones chinos refinados con tecnología antiarrugas
 - Bragueta con cremallera
 - Tejido de mezcla de algodón elástico sin arrugas
 

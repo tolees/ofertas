@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Idóneo para darle un toque picante y chilled a cada ocasión, ya sea en un brunch con amigos o en una fiesta a punto de convertirse en una celebración inolvidable
-- Espontáneo y siempre sorprendente; su carácter místico atrae a quienes conocen el arte de crear tendencias, y su estilo y perfil de sabor evocan inequívocamente el espíritu de México
 - Sabor dulce y picante a la vez; una combinación atrevida de tamarindo ácido con notas de lima fresca y chile que nos transporta a las calles de México
 - Audaz, picante, vigorizante; una fusión salvaje de sabores inesperados, Smirnoff Spicy Tamarindo es una propuesta diferente, vibrante y excitante dentro de la categoría de los vodkas
 - Como mejor se disfruta es en un Smirnoff Spicy Tama-rita, inspirado en el cóctel margarita tradicional, o en un Smirnoff Spicy Tamarindo shot
+- Espontáneo y siempre sorprendente; su carácter místico atrae a quienes conocen el arte de crear tendencias, y su estilo y perfil de sabor evocan inequívocamente el espíritu de México
+- Idóneo para darle un toque picante y chilled a cada ocasión, ya sea en un brunch con amigos o en una fiesta a punto de convertirse en una celebración inolvidable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CS3FFSFT{{</world>}}

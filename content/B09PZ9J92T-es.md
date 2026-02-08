@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Parte superior de punto y ribete de jersey
-- Espuma viscoelástica refrigerada por aire
 - Suela de tracción flexible
+- Espuma viscoelástica refrigerada por aire
+- Parte superior de punto y ribete de jersey
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09PZ9J92T{{</world>}}

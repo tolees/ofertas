@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Exterior: 100% poliéster (reciclado); Interior: 100% elastómero termoplástico
 - Dimensiones: 15 cm x 37 cm x 20 cm
 - Capacidad: 12,5 l
-- Exterior: 100% poliéster (reciclado); Interior: 100% elastómero termoplástico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CZS3K762{{</world>}}

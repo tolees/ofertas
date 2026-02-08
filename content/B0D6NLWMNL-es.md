@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño ligero y cómodo
 - Ofrecen amortiguación y transpirabilidad
+- Diseño ligero y cómodo
 - Cuentan con un estilo informal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

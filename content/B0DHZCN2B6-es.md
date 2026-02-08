@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cada muñeca viene con un certificado de autenticidad, resaltando su exclusividad. Ideal para coleccionistas que buscan una pieza única y para seguidores de Aitana que desean tener un producto oficial de la artista.
 - La Nancy Aitana Alphahouse es una muñeca exclusiva inspirada en la famosa cantante Aitana, con un diseño creado por el reconocido diseñador JC Pajares, lo que la convierte en una pieza única para los fanáticos y coleccionistas.
 - La muñeca incluye botas negras, pendientes de aro plateados y una hoja de tatuajes idénticos a los de Aitana. Estos accesorios permiten a los niños y coleccionistas recrear su estilo de manera precisa.
-- Nancy tiene el mismo peinado que Aitana, con melena oscura, corte a capas y su icónico flequillo, además de su característico maquillaje. Estos detalles realzan la semejanza con la cantante, creando una auténtica réplica.
-- Cada muñeca viene con un certificado de autenticidad, resaltando su exclusividad. Ideal para coleccionistas que buscan una pieza única y para seguidores de Aitana que desean tener un producto oficial de la artista.
 - La muñeca viste un impresionante mono denim con brillantes y cut-outs, acompañado de un pantalón acampanado y una cazadora a juego. El conjunto está inspirado en los estilismos característicos de Aitana, añadiendo autenticidad.
+- Nancy tiene el mismo peinado que Aitana, con melena oscura, corte a capas y su icónico flequillo, además de su característico maquillaje. Estos detalles realzan la semejanza con la cantante, creando una auténtica réplica.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHZCN2B6{{</world>}}

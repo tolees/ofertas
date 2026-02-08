@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello redondo
+- Malla 86% poliéster reciclado / 14% elastán
 - AEROREADY
 - Corte clásico
-- Malla 86% poliéster reciclado / 14% elastán
+- Cuello redondo
 - Logotipo de las 3 bandas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

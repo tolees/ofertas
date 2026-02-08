@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Expansión para árboles de gatos montados en la pared
-- Montaje en pared
 - Cojín tejido con correa de velcro, extraíble.
+- Montaje en pared
+- Expansión para árboles de gatos montados en la pared
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0733ZTXRK{{</world>}}

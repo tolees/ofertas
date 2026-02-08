@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Modo de foto y video: lo especial de este microscopio para niños es la capacidad de tomar fotos en tiempo real y sin demora. Puede tomar alrededor de 100 imágenes y guardarlas localmente. Pulse el botón de la cámara para grabar videos. Para grabar vídeo, necesita una tarjeta MicroTF (máximo 32 GB) o un puerto de ordenador.
+- Perfecto para despertar la curiosidad: el microscopio infantil es un excelente regalo o una herramienta educativa para cualquier niño interesado en la ciencia. Ya se trate de examinar insectos, plantas u objetos cotidianos, este microscopio anima a los niños a explorar el mundo que los rodea de una manera nueva y emocionante.
+- Microscopio digital portátil: este minimicroscopio portátil es una herramienta de enseñanza práctica y portátil para niños que aman la ciencia y la exploración del mundo microscópico. Con un peso de solo 60 g, es fácil de agarrar gracias al exterior esmerilado y no se puede deslizar de las manos pequeñas. Equipado con un cordón, perfecto para los pequeños exploradores que viajan.
 - Zoom 4x, aumento 500x: el microscopio de mano con un aumento de hasta 500x y ofrece un zoom de 4x. Microscopio para niños a observaciones detalladas sobre cosas como hojas de plantas, alas de insectos, suciedad y arena, y se puede ver fibras y todas esas cosas geniales del micromundo.
 - Visión de alta calidad: el microscopio con pantalla IPS a color de 2 pulgadas y lente macro de 2 MP ofrece una pantalla clara de 1080pHD, con la que los niños pueden ver objetos sin esfuerzo sin tener que mirar a través de una pequeña lente. 8 luces LED que rodean el microscopio proporcionan una imagen clara y nítida cuando el microscopio se coloca plano sobre un objeto.
-- Modo de foto y video: lo especial de este microscopio para niños es la capacidad de tomar fotos en tiempo real y sin demora. Puede tomar alrededor de 100 imágenes y guardarlas localmente. Pulse el botón de la cámara para grabar videos. Para grabar vídeo, necesita una tarjeta MicroTF (máximo 32 GB) o un puerto de ordenador.
-- Microscopio digital portátil: este minimicroscopio portátil es una herramienta de enseñanza práctica y portátil para niños que aman la ciencia y la exploración del mundo microscópico. Con un peso de solo 60 g, es fácil de agarrar gracias al exterior esmerilado y no se puede deslizar de las manos pequeñas. Equipado con un cordón, perfecto para los pequeños exploradores que viajan.
-- Perfecto para despertar la curiosidad: el microscopio infantil es un excelente regalo o una herramienta educativa para cualquier niño interesado en la ciencia. Ya se trate de examinar insectos, plantas u objetos cotidianos, este microscopio anima a los niños a explorar el mundo que los rodea de una manera nueva y emocionante.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DQKQTKP9{{</world>}}

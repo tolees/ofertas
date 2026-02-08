@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Este delicado collar se convertirá en el nuevo elemento básico de tu armario, la opción elegante para el día a día
 - Presenta deslumbrantes motivos de mariposa en pavé suspendidos de una cadena bañada en tono oro
+- Este delicado collar se convertirá en el nuevo elemento básico de tu armario, la opción elegante para el día a día
 - El accesorio perfecto para camisetas blancas, jerséis de cachemira, vaqueros o trajes de noche
 - ¡Todo vale!
 

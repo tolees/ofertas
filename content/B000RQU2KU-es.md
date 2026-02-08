@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Regleta eléctrica Eco-Line con 10 enchufes colocados en un ángulo de 45° - la disposición de las tomas le permite conectar enchufes angulares
-- Regleta de enchufes en color negro para el uso discreto en la casa y el uso seguro en interiores, con protección contra el contacto accidental
 - Regleta de enchufes con protección contra el contacto accidental incorporada: Unas pequeñas placas de plástico cierran los contactos de la toma de corriente
-- Regleta enchufe múltiple para el uso en interiores con un interruptor de seguridad iluminado (indicador LED) para encendido y apagado todas las tomas de corriente (bipolar)
 - Base de enchufe múltiple con 10 tomas de corriente con protección contra el contacto accidental y 3m cable (H05VV-F 3G1,5)
+- Regleta eléctrica Eco-Line con 10 enchufes colocados en un ángulo de 45° - la disposición de las tomas le permite conectar enchufes angulares
+- Regleta enchufe múltiple para el uso en interiores con un interruptor de seguridad iluminado (indicador LED) para encendido y apagado todas las tomas de corriente (bipolar)
+- Regleta de enchufes en color negro para el uso discreto en la casa y el uso seguro en interiores, con protección contra el contacto accidental
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B000RQU2KU{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre de cordones
 - Empeine de piel
+- Cierre de cordones
 - Suela de plataforma ligeramente elevada y texturizada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

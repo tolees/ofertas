@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Artículos entregados: 1x Helly Hansen Hombre Polo HH Lifa Active Solen,S,Blanco
 - Exterior: 60% poliéster (reciclado), 40% polipropileno
+- Artículos entregados: 1x Helly Hansen Hombre Polo HH Lifa Active Solen,S,Blanco
 - Aventúrate bajo el sol con nuestro polo Solen con protección solar UPF 50+ y tecnología LIFA ACTIVE ligera y transpirable
 - Hemos diseñado este polo de sol para hombre para ofrecerte protección solar y comodidad en los días calurosos; es óptimo para cualquier aventura con larga exposición al sol, como la navegación, el esquí de primavera, el senderismo y mucho más; como parte de nuestra colección Solen, combina dos tecnologías; el proceso S.Café impregna el tejido de la camiseta con posos de café usados, proporcionándole una protección solar UPF 50+ sin utilizar productos químicos; S.Café también es de secado rápido, resistente a los olores y duradero; nuestra tecnología de fibra LIFA ACTIVE es buena para la evacuación de la humedad, alejándola de la piel para que te mantengas seco
 

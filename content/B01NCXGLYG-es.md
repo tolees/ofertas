@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con extracto seco de inflorescencias y hojas de Alcachofa, que contribuyen a las funciones de depuración del organismo y facilitan las funciones digestivas e intestinales
-- Se recomienda tomar 1 vial al día, al menos durante 14 días
-- También contiene extracto seco de hojas de Desmodium, con propiedades coleréticas, colagogas y hepatoprotectoras, así como digestivas y depurativas. El extracto seco de raíz de Rábano negro ejercen una actividad aperitiva, eupéptica, colagoga y hepatoprotectora
-- No se debe superar la dosis diaria recomendada. Los complementos alimenticios no deben utilizarse como sustitutos de una dieta equilibrada. Es importante seguir una dieta variada y equilibrada y un estilo de vida saludable. Mantener fuera del alcance de los niños más pequeños. Se recomienda beber 2 L de agua al día
 - Complemento alimenticio a base de extractos concentrados de plantas para una Triple Acción, depurativa, eliminación y digestiva
+- No se debe superar la dosis diaria recomendada. Los complementos alimenticios no deben utilizarse como sustitutos de una dieta equilibrada. Es importante seguir una dieta variada y equilibrada y un estilo de vida saludable. Mantener fuera del alcance de los niños más pequeños. Se recomienda beber 2 L de agua al día
+- Con extracto seco de inflorescencias y hojas de Alcachofa, que contribuyen a las funciones de depuración del organismo y facilitan las funciones digestivas e intestinales
+- También contiene extracto seco de hojas de Desmodium, con propiedades coleréticas, colagogas y hepatoprotectoras, así como digestivas y depurativas. El extracto seco de raíz de Rábano negro ejercen una actividad aperitiva, eupéptica, colagoga y hepatoprotectora
+- Se recomienda tomar 1 vial al día, al menos durante 14 días
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01NCXGLYG{{</world>}}

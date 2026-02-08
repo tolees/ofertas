@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Amplia gama de colores: el G2422C admite hasta 16,7 millones de colores al 108% de sRGB para ofrecer imágenes y detalles más envolventes; incorpora filtros de hardware Less Blue Light PRO
+- Juego inmersivo y sin marcos: los monitores curvos de MSI ofrecen una experiencia de juego más inmersiva con una curvatura 1500R (radio de 1500 mm) y un diseño "sin marco", que reduce las líneas de bisel entre pantallas
 - Contraste dinamico y vision nocturna: el panel VA viene con un optimo contraste nativo 1:3000, y soporta contraste dinámico (1:100M); MSI Night Vision
 - 23,6" FHD, 180HZ RAPID BOOST: un panel VA de optima definición de 1920 x 1080 (relación de aspecto 16:9) con una alta tasa de refresco de 180 Hz (Adaptive Sync) para un seguimiento fluido de la puntería/movimiento
-- Juego inmersivo y sin marcos: los monitores curvos de MSI ofrecen una experiencia de juego más inmersiva con una curvatura 1500R (radio de 1500 mm) y un diseño "sin marco", que reduce las líneas de bisel entre pantallas
 - Conectividad HDMI CEC: las opciones de interfaz para PC, Mac, consolas y portátiles incluyen puertos DisplayPort 1.2a (FHD/180 Hz) y HDMI 2.0b CEC (FHD/180 Hz); la parte posterior del monitor incorpora un navegador con joystick de 5
+- Amplia gama de colores: el G2422C admite hasta 16,7 millones de colores al 108% de sRGB para ofrecer imágenes y detalles más envolventes; incorpora filtros de hardware Less Blue Light PRO
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CGQ4LXBV{{</world>}}

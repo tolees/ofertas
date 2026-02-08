@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Puños de canalé
 - Dos bolsillos de parche con cremallera
 - Cierre central con cremallera
-- Puños de canalé
 - Cinturilla elástica lateral
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 40 años de experiencia en leches infantiles
-- Fórmula con Omega 3 DHA + Hierro, nutrientes esenciales para el desarrollo cognitivo del bebé
-- Un vaso de 250 ml de Puleva Peques 3 le aporta el 65% de la cantidad diaria recomendada de Omega 3 DHA y el 38% de la cantidad diaria recomendada de Hierro (13 veces más que en la leche de vaca)
-- Con Calcio que contribuye a su crecimiento físico
 - Aporta 13 vitaminas, entre ellas A, C y D, que ayudan al correcto funcionamiento del sistema inmunitario
+- Con Calcio que contribuye a su crecimiento físico
+- 40 años de experiencia en leches infantiles
+- Un vaso de 250 ml de Puleva Peques 3 le aporta el 65% de la cantidad diaria recomendada de Omega 3 DHA y el 38% de la cantidad diaria recomendada de Hierro (13 veces más que en la leche de vaca)
+- Fórmula con Omega 3 DHA + Hierro, nutrientes esenciales para el desarrollo cognitivo del bebé
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B088PJLV96{{</world>}}

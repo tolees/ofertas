@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Para mechas o cabellos rubios fortalecidos e iluminados. Enfatiza el brillo natural del cabello rubio.
 - Champú Iluminador y Restaurador para todo tipo de cabello rubio. Su fórmula profesional limpia cuidadosamente la fibra capilar al mismo tiempo que enfatiza el brillo natural del pelo rubio. Proporciona nutrición y ayuda a suavizar el pelo dañado.
 - Aplicar sobre el cabello húmedo, repartiendo de forma uniforme. Emulsionar y aclarar. Repetir el mismo paso.
+- Para mechas o cabellos rubios fortalecidos e iluminados. Enfatiza el brillo natural del cabello rubio.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0918DXG2B{{</world>}}

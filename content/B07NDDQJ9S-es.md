@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El sistema de zoom Barlow permite un zoom continuo y el adaptador de smartphone incluido te permite tomar tus propias imágenes de los objetos examinados. El accesorio contiene además de los cubiertos de preparación también las primeras muestras para empezar directamente
-- Contenido del envío: microscopio, 2 oculares de amplio campo: 10x y 20x, 3 lentes: 4x, 10x y 40x, lente Barlow con hasta 2 aumentos, utensilios para microscopiar, levadura, sal marina, huevos de camarón, incubadora de camarones, medios de inclusión (Gum Media), microtomo de microcorte, portaobjetos vacíos y cubiertas. ser, preparaciones permanentes, Adaptador para smartphone
+- En la mesa de objetos de altura ajustable, los objetos de investigación se iluminan de forma óptima con la iluminación de luz y luz diurna regulables y con los oculares incluidos se pueden lograr hasta 1600 aumentos
 - Contenido del envío: microscopio; 2 oculares de amplio campo: 10x y 20x; 3 lentes: 4x, 10x y 40x; lente Barlow con hasta 2 aumentos; herramientas para microscopiar; levadura, sal marina, huevos de camarones, incubadora de camarones, microtomo de microcuto; portaobjetos vacíos y cubiertas; preparaciones permanentes; Adaptador para smartphone
 - El microscopio de alta calidad con iluminación LED, un gran aumento y sus amplios accesorios son ideales para iniciarse en el mundo de la microscopía. Gracias a la iluminación alimentada por pilas, es adecuado para uso móvil.
-- En la mesa de objetos de altura ajustable, los objetos de investigación se iluminan de forma óptima con la iluminación de luz y luz diurna regulables y con los oculares incluidos se pueden lograr hasta 1600 aumentos
+- El sistema de zoom Barlow permite un zoom continuo y el adaptador de smartphone incluido te permite tomar tus propias imágenes de los objetos examinados. El accesorio contiene además de los cubiertos de preparación también las primeras muestras para empezar directamente
+- Contenido del envío: microscopio, 2 oculares de amplio campo: 10x y 20x, 3 lentes: 4x, 10x y 40x, lente Barlow con hasta 2 aumentos, utensilios para microscopiar, levadura, sal marina, huevos de camarón, incubadora de camarones, medios de inclusión (Gum Media), microtomo de microcorte, portaobjetos vacíos y cubiertas. ser, preparaciones permanentes, Adaptador para smartphone
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07NDDQJ9S{{</world>}}

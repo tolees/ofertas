@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Si se te ha olvidado fuera de la secadora Balay una toalla o un calcetín, no te preocupes, el programa Pausa + Carga te permitirá parar el ciclo, introducir la prenda y ponerlo en marcha de nuevo
 - Dedica tu tiempo a lo que de verdad importa con el display LED de la secadora, que te indicará cuánto tiempo falta para que el programa seleccionado finalice
 - Podrás poner la secadora de condensación a cualquier hora del día gracias a sus paneles laterales antivibración, que reducen el ruido para que nada pueda molestarte
+- Si se te ha olvidado fuera de la secadora Balay una toalla o un calcetín, no te preocupes, el programa Pausa + Carga te permitirá parar el ciclo, introducir la prenda y ponerlo en marcha de nuevo
 - La secadora Balay tiene unas dimensiones de 84.2 x 59.8 x 61.3 cm (alto x ancho x fondo)
 - La secadora tiene Sensor de Humedad; esto quiere decir que no ejecuta un programa en un tiempo definido, sino que detecta cuándo la ropa está seca y para de forma automática
 

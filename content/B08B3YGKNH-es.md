@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuanto más aciertes, más rápido llegarás a la casilla final; si fallas, la ficha del verdugo se acercará a ti, y si te pilla..¡estás muerto
-- El plan optimo para pasar un rato muy divertido
-- Juego que combina humor e intuición, donde los casos más estúpidos de muertes tendrán que ser votados. ¿Mito o realidad?
-- 2 - 4 jugadores; +12 años
 - ¡Juego para morirse de risa! Ideal para familia y amigos
+- Juego que combina humor e intuición, donde los casos más estúpidos de muertes tendrán que ser votados. ¿Mito o realidad?
+- El plan optimo para pasar un rato muy divertido
+- 2 - 4 jugadores; +12 años
+- Cuanto más aciertes, más rápido llegarás a la casilla final; si fallas, la ficha del verdugo se acercará a ti, y si te pilla..¡estás muerto
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08B3YGKNH{{</world>}}

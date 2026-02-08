@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aplicar el protector solar justo antes de exponerse al sol y renovar varias veces al día.
 - Protege contra rayos UVB, UVA +UVA ultra largos. No deja marcas blancas,
+- Aplicar el protector solar justo antes de exponerse al sol y renovar varias veces al día.
 - Protector solar corporal y facial de muy alta protección UV para la piel sensible de los niños. Protege de los rayos UVB y UVA +UVA ultra largos. Fórmula resistente al agua, arena y sudor. Apta para pieles con tendencia atópica.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

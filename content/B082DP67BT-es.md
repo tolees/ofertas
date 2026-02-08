@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cafetera automática para espresso y cappucino EX 6000 de Orbegozo con bomba italiana de alta presión y 20 bar de presión con la que preparar tus cafés favoritos de la forma más fácil y cómoda posible
 - Panel de control táctil con luces indicadoras de funcionamiento que facilita su uso, depósito de agua transparente de 1,5 L con el que estar al tanto de la cantidad de agua que contiene el aparato, sistema de seguridad contra sobrecalentamiento y bandeja superior calientatazas para tenerlas siempre a punto
 - Posee vaporizador orientable INOX para calentar café, agua y espumar leche y válvula de seguridad que libera la presión del aparato automáticamente
 - Permite utilizar café molido o monodosis para que puedas seleccionar el que más te guste en cada momento
-- Cafetera automática para espresso y cappucino EX 6000 de Orbegozo con bomba italiana de alta presión y 20 bar de presión con la que preparar tus cafés favoritos de la forma más fácil y cómoda posible
 - Incorpora accesorios: cucharilla dosificadora, prensa y 3 cacillos de café de distinta medida
 
 [🛒 Visítala!!!]({{< param buyurl >}})

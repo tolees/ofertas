@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro textil
-- Cierre de cordones
-- Peso: 278 g (talla 38 2/3)
-- Drop: 6 mm (talón: 34 mm / antepié: 28 mm)
-- Suela de TPU
 - Empeine textil
+- Cierre de cordones
 - Horma clásica
+- Forro textil
 - Mediasuela Cloudfoam
+- Peso: 278 g (talla 38 2/3)
+- Suela de TPU
+- Drop: 6 mm (talón: 34 mm / antepié: 28 mm)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKXSGTL6{{</world>}}

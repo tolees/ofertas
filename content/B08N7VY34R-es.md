@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aplica el sérum mañana y noche, empezando por las líneas de expresión de los ojos y el pliegue nasolabial.
-- Liftactiv H.A. con efecto rellenador es un sérum antiarrugas para rostro y contorno de ojos. Con un 1,5 % de ácido hialurónico, hidrata, combate los signos de la edad y revitaliza la piel. Permite una aplicación precisa y cómoda.
 - Repone el 100 % de ácido hialurónico perdido en la piel, reduciendo notablemente arrugas y líneas de expresión.
+- Liftactiv H.A. con efecto rellenador es un sérum antiarrugas para rostro y contorno de ojos. Con un 1,5 % de ácido hialurónico, hidrata, combate los signos de la edad y revitaliza la piel. Permite una aplicación precisa y cómoda.
+- Aplica el sérum mañana y noche, empezando por las líneas de expresión de los ojos y el pliegue nasolabial.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08N7VY34R{{</world>}}

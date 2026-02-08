@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Includes 300 bonus games
-- On/off LED switch for illuminated buttons
 - Officially licensed title
-- Full color 2.5" screen
 - Powered by either 3 AAA batteries (not included) or by a USB-C cable (not included)
+- On/off LED switch for illuminated buttons
+- Includes 300 bonus games
+- Full color 2.5" screen
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BT49MXRT{{</world>}}

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Echa un vistazo a toda la colección LEGO Star Wars, donde niños, niñas y adultos podrán recrear escenas clásicas, representar sus propias historias de acción o exponer con orgullo las maquetas que han construido
-- Esta maqueta de nave estelar para construir cuenta con una cabina que se abre para las minifiguras LEGO, un tren de aterrizaje que se retrae fácilmente para el modo de vuelo, 2 cañones y 2 compartimentos de almacenamiento para herramientas y armas
-- Los fans de Star Wars: Ahsoka pueden crear sus propias historias y aventuras con el set LEGO Star Wars Lanzadera Jedi T-6 de Ahsoka Tano, que incluye 4 minifiguras LEGO Star Wars, una nave estelar de juguete para construir, espadas láser y blásteres
 - Los niños pueden retraer el tren de aterrizaje para ajustar las alas al modo de vuelo, apuntar a los cazas estelares enemigos con los cañones, aterrizar la lanzadera, coger las espadas láser de Ahsoka y luchar con Sabine Wren contra Marrok
-- Incluye 4 personajes LEGO Star Wars: Ahsoka Tano con 2 espadas láser, Sabine Wren con 2 blásters, el Profesor Huyang con una llave inglesa como accesorio y Marrok con una espada láser de doble hoja
 - Regala este set de 599 piezas de LEGO Star Wars para construir como regalo de cumpleaños o un detalle especial para los fans de Star Wars: Ahsoka
+- Echa un vistazo a toda la colección LEGO Star Wars, donde niños, niñas y adultos podrán recrear escenas clásicas, representar sus propias historias de acción o exponer con orgullo las maquetas que han construido
+- Los fans de Star Wars: Ahsoka pueden crear sus propias historias y aventuras con el set LEGO Star Wars Lanzadera Jedi T-6 de Ahsoka Tano, que incluye 4 minifiguras LEGO Star Wars, una nave estelar de juguete para construir, espadas láser y blásteres
+- Esta maqueta de nave estelar para construir cuenta con una cabina que se abre para las minifiguras LEGO, un tren de aterrizaje que se retrae fácilmente para el modo de vuelo, 2 cañones y 2 compartimentos de almacenamiento para herramientas y armas
+- Incluye 4 personajes LEGO Star Wars: Ahsoka Tano con 2 espadas láser, Sabine Wren con 2 blásters, el Profesor Huyang con una llave inglesa como accesorio y Marrok con una espada láser de doble hoja
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BV7HND4Q{{</world>}}

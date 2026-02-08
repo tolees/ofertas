@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Plantilla de espuma viscoelástica
 - Suela flexible
+- Plantilla de espuma viscoelástica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07CD1J17Y{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Potente succión constante: Con 200 W de potencia y hasta 20 kPa de succión, limpia en profundidad todo tipo de superficies.
 - Motor digital Brushless: Tecnología avanzada sin escobillas que ofrece mayor velocidad, menos ruido y mayor durabilidad del aspirador.
 - Autonomía prolongada: Batería de Ion-Litio de 2200 mAh que permite hasta 40 minutos de limpieza continua con carga completa en 4,5 horas. Filtrado eficiente y vaciado higiénico: Filtro de alta eficiencia que retiene ácaros y polvo, y depósito de 500 ml fácil de vaciar sin contacto con la suciedad.
+- Potente succión constante: Con 200 W de potencia y hasta 20 kPa de succión, limpia en profundidad todo tipo de superficies.
 - Diseño ligero, sin cables y sin bolsa: Facilita una limpieza cómoda y ágil, ideal para espacios pequeños y para moverse sin limitaciones.
 - Versatilidad Wet&Dry: Permite aspirar tanto sólidos como líquido, aumentando su funcionalidad en distintas situaciones.
 

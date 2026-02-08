@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aplicar sobre el cabello mojado. Emulsionar hasta obtener una espuma. Aclarar. Para unos resultados óptimos, aplicar a continuación Absolut Repair Molecular sérum con aclarado y mascarilla sin aclarado. *Test instrumental sobre la estructura macromolecular de la fibra tras la aplicación de champú + sérum con aclarado + mascarilla sin aclarado. **Test del consumidor tras 2 semanas de aplicación de champú + sérum con aclarado + mascarilla sin aclarado. ***Test instrumental. **** Sin tensioactivos sulfatados.
 - Este champú patentado, sin sulfatos, formulado con un Reparador de enlaces + 5 Aminoácidos, repara 2 años de daños, en un solo uso*. El cabello queda más fuerte y nutrido.
 - El cabello queda más fuerte y nutrido, con mayor elasticidad y movimiento natural** y +86% de hidratación***. Sin sulfatos****, la lujosa textura de la fórmula se convierte en una rica espuma, limpia, desenreda el cabello y proporciona un alto nivel de cuidado.
+- Aplicar sobre el cabello mojado. Emulsionar hasta obtener una espuma. Aclarar. Para unos resultados óptimos, aplicar a continuación Absolut Repair Molecular sérum con aclarado y mascarilla sin aclarado. *Test instrumental sobre la estructura macromolecular de la fibra tras la aplicación de champú + sérum con aclarado + mascarilla sin aclarado. **Test del consumidor tras 2 semanas de aplicación de champú + sérum con aclarado + mascarilla sin aclarado. ***Test instrumental. **** Sin tensioactivos sulfatados.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CBV5QR1C{{</world>}}

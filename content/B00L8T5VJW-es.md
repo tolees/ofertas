@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Batería de Li-on XR 18V de 5Ah con sistema de carril que proporciona una sujeción más segura a la herramienta
-- Protección contra sobrecalentamiento, sobrecarga y descarga total que aumenta la vida útil de la batería
 - Las baterías con tecnología XR ofrecen un 66% más de autonomía que las baterías standard para realizar los trabajos más exigentes con la rapidez requerida
-- Indicador LED de carga nos proporciona el nivel de carga de la batería
+- Batería de Li-on XR 18V de 5Ah con sistema de carril que proporciona una sujeción más segura a la herramienta
 - Sin efecto memoria y sin auto-descarga proporcionando la máxima productividad y el menor tiempo de inactividad
+- Indicador LED de carga nos proporciona el nivel de carga de la batería
+- Protección contra sobrecalentamiento, sobrecarga y descarga total que aumenta la vida útil de la batería
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00L8T5VJW{{</world>}}

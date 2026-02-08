@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- A lo largo de las décadas, GUESS ha cautivado al mundo entero con sus campañas publicitarias icónicas y ha forjado un auténtico imperio internacional de perfumes emblemáticos.
-- El Eau de Toilette para hombre GUESS Seductive Noir es una colonia enigmática que captura el magnetismo único y el estilo atrevido y cautivador distintivo de la marca GUESS.
-- Infundido con notas especiadas y amaderadas, este perfume masculino captura la esencia de GUESS, evocando sofisticación, audacia y magnetismo en cada nota.
 - La fragancia se abre con notas vibrantes de pimienta negra, pomelo y nuez moscada, seguidas de un corazón de lavanda, flor de azahar y manzana. Su fondo amaderado aporta una profundidad sofisticada.
+- El Eau de Toilette para hombre GUESS Seductive Noir es una colonia enigmática que captura el magnetismo único y el estilo atrevido y cautivador distintivo de la marca GUESS.
+- A lo largo de las décadas, GUESS ha cautivado al mundo entero con sus campañas publicitarias icónicas y ha forjado un auténtico imperio internacional de perfumes emblemáticos.
+- Infundido con notas especiadas y amaderadas, este perfume masculino captura la esencia de GUESS, evocando sofisticación, audacia y magnetismo en cada nota.
 - El perfume GUESS Seductive Noir para hombre se presenta en un frasco elegante y oscuro, que transmite un aura de misterio y modernidad.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

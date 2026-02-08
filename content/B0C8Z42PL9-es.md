@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- AJUSTE PERFECTO: Este polo minimalista de algodón orgánico tiene un diseño depurado y favorece tu figura.
-- MATERIAL DE ALTA CALIDAD: Versátil polo confeccionado en 96 % algodón orgánico y 4 % elastano.
 - SENCILLO Y ELEGANTE: Esta moderna camiseta destaca por su clásico cuello tipo polo y su material sostenible. Los tres botones y el logotipo en el pecho completan el look de la prenda.
 - CALIDAD DEMOSTRADA: Desde 1985, esta marca de diseñador lleva demostrando por todo el mundo la calidad y la ligereza mediante una gran variedad de diseños en los míticos colores azul oscuro, blanco y rojo.
 - DISEÑO PREMIUM: El estilo atemporal de este top es la base de cualquier conjunto smart-casual. Esta moderna camiseta también es perfecta como regalo.
+- MATERIAL DE ALTA CALIDAD: Versátil polo confeccionado en 96 % algodón orgánico y 4 % elastano.
+- AJUSTE PERFECTO: Este polo minimalista de algodón orgánico tiene un diseño depurado y favorece tu figura.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C8Z42PL9{{</world>}}

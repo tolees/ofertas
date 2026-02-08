@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- punta perforada
 - Banda de rodadura adherente y resistente a la abrasión
 - parte superior delgada hecha de una mezcla de cueros
+- punta perforada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D2BR7CTD{{</world>}}

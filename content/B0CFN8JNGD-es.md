@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Pilares flexibles
 - Lavable a máquina
 - Zancada suave
 - Ultra Go
-- Pilares flexibles
 - Plantilla Goga Mat refrigerada por aire
 
 [🛒 Aquí!!!]({{< param buyurl >}})

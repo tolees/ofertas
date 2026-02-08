@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Funciona a través de la aplicación: controla tu cafetera desde cualquier lugar con la aplicación Home Connect, disfruta de hasta 32 especialidades internacionales de café usando la aplicación o incluso usa el mantenimiento remoto
 - Incluido: aplicación Home Connect, molinillo cerámico, Modo Barista (ajustes para 6 parámetros), Modo Confort, autoMilk Clean, Display TouchandSlide de 6,8
+- Configuraciones individuales: prepara café como un barista gracias al Modo Barista: configura la intensidad, el tamaño, el grado de molienda, el tiempo de contacto, la temperatura de preparación, etc., o disfruta de una preparación rápida y fácil con Modo Confort
 - Display TouchandSlide de 6,8: la intuitiva pantalla facilita el desplazamiento por el menú y la personalización del café a su gusto
 - El mejor aroma: con el molinillo cerámico puedes elegir el grado de molienda adecuado para cada bebida
-- Configuraciones individuales: prepara café como un barista gracias al Modo Barista: configura la intensidad, el tamaño, el grado de molienda, el tiempo de contacto, la temperatura de preparación, etc., o disfruta de una preparación rápida y fácil con Modo Confort
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07VMSSJRH{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Espiral de color blanco con cierre coilock para no dañar al usuario y para evitar que se enganche con otra espiral
+- Cantos romos para evitar que las tapas se deterioren y sean seguras
+- Papel 90gr extra blanco con margen y cuadrícula 4x4 de rayado nítido para una escritura cómoda
 - Producto certificado PEFC conforme proviene de bosques gestionados de forma sostenible.
 - Tapas de plástico ultraresistentes y ligeras garantizando una mayor durabilidad. Además, con una tapa de cada color para diferenciar las asignaturas
-- Papel 90gr extra blanco con margen y cuadrícula 4x4 de rayado nítido para una escritura cómoda
-- Cantos romos para evitar que las tapas se deterioren y sean seguras
+- Espiral de color blanco con cierre coilock para no dañar al usuario y para evitar que se enganche con otra espiral
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CLTDPKVP{{</world>}}

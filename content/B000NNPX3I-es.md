@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Electroestimulador de Beurer 3 en 1: estimulación nerviosa eléctrica transcutánea (TENS), electroestimulación muscular (EMS), masaje relajante
-- Pantalla LCD grande retroiluminada de fácil uso
-- 30 aplicaciones pre-programadas (TENS/EMS/masaje) y 20 programas individuales ajustables (TENS/EMS)
 - Con la "Función del doctor" puede preparar los programas de electroestimulacion en función de sus necesidades
+- 30 aplicaciones pre-programadas (TENS/EMS/masaje) y 20 programas individuales ajustables (TENS/EMS)
+- Electroestimulador de Beurer 3 en 1: estimulación nerviosa eléctrica transcutánea (TENS), electroestimulación muscular (EMS), masaje relajante
 - 4 canales separados y ajustables con 8 electrodos autoadhesivos; existen recambios de los electrodos
+- Pantalla LCD grande retroiluminada de fácil uso
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B000NNPX3I{{</world>}}

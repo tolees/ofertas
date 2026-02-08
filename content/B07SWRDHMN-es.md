@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- DISEÑO QUE SE AJUSTA A TI: además de funcional y de sus cuidados diseños, todos los productos de Teka quedan perfectamente integrados con el resto de muebles y electrodomésticos de tu cocina, ayudándote a encontrar el equilibrio acorde a tu estilo de vida.
+- GRAN CAPACIDAD: fregadero bajo encimera de granito con una cubeta cuadrada de gran tamaño. Cuenta con una cubeta con una profundidad de 200 mm con un acabado no poroso que lo hace fácil de limpiar e higiénico.
 - ALTA RESISTENCIA: está realizado en Quartz combinado con resinas acrílicas para obtener un material más duro y resistente. El resultado es un fregadero con una alta resistencia a la decoloración, a los impactos y a los cambios bruscos de temperatura.
 - FÁCIL INSTALACIÓN: al ser un fregadero bajo encimera es fácil de instalar desde abajo usando los clips especiales proporcionados. Perfecto para muebles de 50 cm haciendo que la encimera quede totalmente lisa, proporcionando un toque elegante y práctico.
-- GRAN CAPACIDAD: fregadero bajo encimera de granito con una cubeta cuadrada de gran tamaño. Cuenta con una cubeta con una profundidad de 200 mm con un acabado no poroso que lo hace fácil de limpiar e higiénico.
+- DISEÑO QUE SE AJUSTA A TI: además de funcional y de sus cuidados diseños, todos los productos de Teka quedan perfectamente integrados con el resto de muebles y electrodomésticos de tu cocina, ayudándote a encontrar el equilibrio acorde a tu estilo de vida.
 - MATERIALES DE LA MÁS ALTA CALIDAD: Todos los productos de Teka están elaborados con materiales de la más alta calidad que aseguran su correcto funcionamiento y su durabilidad para que tu hogar esté siempre equipado con los mejores productos de cocina.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

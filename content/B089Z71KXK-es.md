@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Con bolsillos canguro, para guardar tus pertenencias con seguridad
-- Dobladillo y puños acanalados
-- Contiene material reciclado: Producto elaborado con fibras recicladas. Una de las soluciones de PUMA para reducir el impacto ambiental
-- Capucha forrada en un tejido de punto con cordón regulable, para un ajuste personalizado
 - BCI: Al comprar productos de algodón de PUMA, apoyas una producción más sostenible de algodón mediante la Iniciativa del Mejor Algodón (Better Cotton Initiative). Más información en: bettercotton.org/massbalance
+- Contiene material reciclado: Producto elaborado con fibras recicladas. Una de las soluciones de PUMA para reducir el impacto ambiental
+- Dobladillo y puños acanalados
+- Capucha forrada en un tejido de punto con cordón regulable, para un ajuste personalizado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B089Z71KXK{{</world>}}

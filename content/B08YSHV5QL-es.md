@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aplicar aproximadamente 10ml/15ml sobre las palmas y repartir sobre el cabello húmedo por todas las diferentes áreas y longitud del cabello realizando movimientos circulares favoreciendo la aparición de espuma. Después, aclarar con agua abundante. Para mayores resultados usar a diario.
-- Champú Extreme fortificante para el pelo estropeado o castigado, ayuda a fortalecer y purificar los mechones débiles y a vigorizar el cabello.
 - Reparación para cabello dañado: aporta brillo, protege y reconstruge. Su fórmula con ph equilibrado y con proteína y strenght complex ofrecen resultados profesionales
+- Champú Extreme fortificante para el pelo estropeado o castigado, ayuda a fortalecer y purificar los mechones débiles y a vigorizar el cabello.
+- Aplicar aproximadamente 10ml/15ml sobre las palmas y repartir sobre el cabello húmedo por todas las diferentes áreas y longitud del cabello realizando movimientos circulares favoreciendo la aparición de espuma. Después, aclarar con agua abundante. Para mayores resultados usar a diario.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08YSHV5QL{{</world>}}

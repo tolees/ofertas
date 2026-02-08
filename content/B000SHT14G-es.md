@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Punta de fibra de aproximadamente 0,6 mm de ancho resistente a la presión. Marcador universal recargable, apto para escribir en casi todas las superficies
+- Colores brillantes e intensos. Ideal para presentaciones y retroproyecciones y para usuarios zurdos
 - Tecnología Dry Safe. Puede permanecer abierto durante días sin secarse (según la norma ISO 554, excepto colores de neón), lo que proporciona una alta durabilidad y es seguro para viajar en avión
 - Paquete de 4 colores surtidos presentados en un estuche de plástico transparente Staedtler Box, ideal para un almacenamiento eficiente
-- Colores brillantes e intensos. Ideal para presentaciones y retroproyecciones y para usuarios zurdos
-- Punta de fibra de aproximadamente 0,6 mm de ancho resistente a la presión. Marcador universal recargable, apto para escribir en casi todas las superficies
 - Tinta resistente al agua sobre casi todas las superficies, permanente y de secado rápido. Cuerpo y capuchón en polipropileno para garantizar una larga vida útil
 
 [🛒 Comprar!!!]({{< param buyurl >}})

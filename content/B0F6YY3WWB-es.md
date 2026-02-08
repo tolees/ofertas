@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La siguiente información se aplica a cada unidad del paquete
-- Para unos labios suaves
 - Fragancia de té verde matcha
+- La siguiente información se aplica a cada unidad del paquete
 - Exfoliante nutritivo para labios
+- Para unos labios suaves
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F6YY3WWB{{</world>}}

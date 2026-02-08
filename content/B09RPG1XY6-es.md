@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - 100% poliéster interlock
 - Confeccionada en tejido ligero y transpirable
-- Detalle en relieve en la parte superior frontal
 - Ayuda a mantener el cuerpo del deportista seco
+- Detalle en relieve en la parte superior frontal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09RPG1XY6{{</world>}}

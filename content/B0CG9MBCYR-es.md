@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Almacenamiento seguro: almacena localmente hasta 512 GB en una tarjeta microSD
 - Audio bidireccional: permite la comunicación a través de un micrófono y un altavoz integrados
-- Alarma de luz y sonido: activa efectos de luz y sonido para ahuyentar a los visitantes no deseados.
-- Control por voz: libere sus manos con el control por voz: funciona con el Asistente de Google y Amazon Alexa. (El Asistente de Google y Amazon Alexa no están disponibles en todos los idiomas y países)
-- Panorámica e inclinación: rango horizontal de 360º y vertical de 114º
-- Detección de movimiento y notificaciones: le notifica cuando la cámara detecta movimiento
 - Visión nocturna avanzada: proporciona una distancia visual de hasta 30 pies
+- Detección de movimiento y notificaciones: le notifica cuando la cámara detecta movimiento
+- Control por voz: libere sus manos con el control por voz: funciona con el Asistente de Google y Amazon Alexa. (El Asistente de Google y Amazon Alexa no están disponibles en todos los idiomas y países)
+- Alarma de luz y sonido: activa efectos de luz y sonido para ahuyentar a los visitantes no deseados.
+- Almacenamiento seguro: almacena localmente hasta 512 GB en una tarjeta microSD
+- Panorámica e inclinación: rango horizontal de 360º y vertical de 114º
 - Vídeo de alta definición: graba cada imagen con una visión nítida
 
 [🛒 Comprar!!!]({{< param buyurl >}})

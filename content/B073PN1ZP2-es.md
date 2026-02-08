@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- GOURMET OAT FLOUR de Weider, compañía global pionera en nutrición deportiva y especializada con más de 83 años ofreciendo calidad e innovación.
 - ¡A CUALQUIER HORA!: Se puede utilizar para preparar batidos de carbohidratos en cualquier momento del día en el que necesites un extra de energía, así como para elaborar recetas saludables llenas de sabor y muy nutritivas.
+- GOURMET OAT FLOUR de Weider, compañía global pionera en nutrición deportiva y especializada con más de 83 años ofreciendo calidad e innovación.
 - CARBOHIDRATOS COMPLEJOS : La harina avena proporciona de forma natural carbohidratos complejos y un contenido realmente bajo de azúcares.
 - CUIDA TU SALUD Y TU CORAZÓN: Proporciona proteínas de origen vegetal y solo 7,1 % de grasas, con un bajo contenido de grasas saturadas y mayoritariamente mono y poliinsaturadas.
 - ALTO CONTENIDO EN FIBRA: Su alto contenido en fibra retrasa la digestión de sus almidones y la absorción de la glucosa en sangre.

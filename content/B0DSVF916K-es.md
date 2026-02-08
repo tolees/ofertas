@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Decoración interior y exterior: las tres velas grandes de citronela son un consejo de rendimiento absoluto. La vela de camping al aire libre huele bien y dura mucho tiempo. Diseño de embalaje elegante y muy bonito. Puede utilizar la lata como caja de almacenamiento para guardar cosas después de quemar la vela. También es ideal para regalar.
 - Aceite de citronela natural: vela citronela para exteriores hecha de cera de soja 100% pura, aceite de citronela y núcleo de algodón sin plomo. Las velas de jardín de citronela arden tranquilamente y emanan un agradable aroma a citronela. Incluso a los hombres o mujeres que no les gustan las velas perfumadas les gustará este agradable aroma cítrico.
 - Protección reforzada: las velas de citronela son muy grandes para exteriores, tienen una duración de combustión muy larga. Cuando te sientas afuera en verano, el aroma de la hierba de limón te permite disfrutar de la tranquilidad. Nuestras vela citronela de jardín de citronela son las mejores para fiestas al aire libre, camping, picnic, barbacoa, etc.
+- Decoración interior y exterior: las tres velas grandes de citronela son un consejo de rendimiento absoluto. La vela de camping al aire libre huele bien y dura mucho tiempo. Diseño de embalaje elegante y muy bonito. Puede utilizar la lata como caja de almacenamiento para guardar cosas después de quemar la vela. También es ideal para regalar.
 - Dale un buen tiempo: en el paquete se incluyen un total de 2 vela citronela exterior grande. Cumplen plenamente su propósito. Puedes llevarlos a todas partes, escuchar jazz, relajarte junto a la piscina, celebrar en la azotea, etc. Un par de ellos se ponen sobre la mesa y se encienden y ya tienen un poco más de descanso al aire libre.
 - Larga duración de combustión: 20 oz / 100-140 horas. Las mechas de velas de exterior deben acortarse ligeramente antes de cada encendido, si deben ser demasiado largas (se recomienda 8 mm). La práctica tapa sirve para borrar directamente y al mismo tiempo se ahorra el molesto humo.
 

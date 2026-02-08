@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - ENTENDER EL TIEMPO: Gira el sol para cambiar de fecha, marca el día con el cursor, gira las agujas para poner la hora, une el mes con la estación, pasa de año con la rueda con engranaje y señala el tiempo que hace con la esfera meteorológica.
+- DESARROLLA LA AUTONOMÍA: El niño se divertirá girando las ruedas y las agujas para aprender jugando. Este juguete de Janod le ayuda a desarrollar la motricidad fina y adquirir autonomía para saber qué hora es y vestirse en función del tiempo.
+- PRÁCTICO Y RESPONSABLE: Este calendario perpetuo de madera (contrachapado álamo, haya y cerezo) se puede colgar de la pared. La ruleta de los años, de dos caras, permite usarlo durante 10 años y se cambia fácilmente. Dimensiones 37,6 x 41,7 x 2,7 cm.
 - EL PODER DEL JUEGO: Con unas colecciones atrevidas e innovadoras Janod acompaña a los niños en una gran aventura: ¡crecer! Unos bonitos juguetes estudiados hasta el más mínimo detalle para aprender divirtiéndose, explorar el mundo, soñar y compartir.
 - JUGUETE MULTIFUNCIONES: Este colorido calendario pedagógico ayuda a los niños a partir de 3 años a comprender las nociones del tiempo. El gato, el sol y otros amiguitos acompañarán al pequeño en su aprendizaje.
-- PRÁCTICO Y RESPONSABLE: Este calendario perpetuo de madera (contrachapado álamo, haya y cerezo) se puede colgar de la pared. La ruleta de los años, de dos caras, permite usarlo durante 10 años y se cambia fácilmente. Dimensiones 37,6 x 41,7 x 2,7 cm.
-- DESARROLLA LA AUTONOMÍA: El niño se divertirá girando las ruedas y las agujas para aprender jugando. Este juguete de Janod le ayuda a desarrollar la motricidad fina y adquirir autonomía para saber qué hora es y vestirse en función del tiempo.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQCLJVZL{{</world>}}

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Color: negro
-- Material exterior: 100% tela (100% PET reciclado)
-- Forro: 63% piel de cerdo - 37% tela (100% poliéster reciclado)
-- Suela: 40% caucho natural - 37% caucho vulcanizado - 23% caucho vulcanizado reciclado
 - Sintéticos reciclados
+- Suela: 40% caucho natural - 37% caucho vulcanizado - 23% caucho vulcanizado reciclado
+- Forro: 63% piel de cerdo - 37% tela (100% poliéster reciclado)
+- Material exterior: 100% tela (100% PET reciclado)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B3JXXYPY{{</world>}}

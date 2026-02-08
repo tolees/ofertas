@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- COMPROBAR SU TALLA - Para un mejor ajuste, por favor, compruebe la tabla de tallas en la galería, si mide entre dos tallas le sugerimos que pida una talla mayor.
-- COMODIDAD - la chaqueta con protectores pesa solo 1400 g, no sentirá que lleva una
 - FUNCIONALIDAD - la chaqueta tiene un bolsillo interior impermeable, otro interior y 2 bolsillos exteriores.
+- COMODIDAD - la chaqueta con protectores pesa solo 1400 g, no sentirá que lleva una
+- COMPROBAR SU TALLA - Para un mejor ajuste, por favor, compruebe la tabla de tallas en la galería, si mide entre dos tallas le sugerimos que pida una talla mayor.
 - VENTILACIÓN - más de la mitad de la chaqueta está hecha de tejido de malla extra transpirable que hace que esta chaqueta sea perfecta para los días más calurosos del verano.
 - PROTECCIÓN - Los protectores de espalda, hombros y codos con estructura ligera de nido de abeja con certificación CE garantizan la protección y la libre circulación del aire
 

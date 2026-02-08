@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tamaño: 38 EU
-- Tipo de producto: SHOES
 - Marca: LYBANG
+- Tipo de producto: SHOES
 - LYBANG Niños Skateboarding Zapatos Doble Rueda Calzado Deportes de Exterior Gimnástico Sneakers Moda Zapatillas Regalo de cumpleaños para niños
 
 [🛒 Aquí!!!]({{< param buyurl >}})

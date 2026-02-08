@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuchillas de Acero - Cuenta con cuchillas de acero avanzado
 - Funciona con Pilas - Funciona con pilas 1 x AA (no incluidas)
+- Cuchillas de Acero - Cuenta con cuchillas de acero avanzado
 - Lavable - El recortador es lavable para facilitar su limpieza
 - Cortapelos de Vello, Nariz y Orejas - Recortador facial con cortador lineal para cejas, nariz y orejas
 

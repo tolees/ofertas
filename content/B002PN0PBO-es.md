@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Apto para veganos y vegetarianos
-- Semilla de uva Vitis vinifera con polifenoles
 - Los complementos alimenticios no sustituyen a una dieta variada y equilibrada y a un estilo de vida saludable
+- Semilla de uva Vitis vinifera con polifenoles
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B002PN0PBO{{</world>}}

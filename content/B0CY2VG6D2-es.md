@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - El kit incluye un álbum de fotos de 64 páginas, 2 rollos de washi tape, 4 plantillas para dibujar y 10 hojas de pegatinas
-- Kit para realizar y decorar el álbum de fotos de la Primera Comunión
 - Producto de calidad óptima
+- Kit para realizar y decorar el álbum de fotos de la Primera Comunión
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CY2VG6D2{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Acabado sin brillos y natural, cobertura media
 - Complejo hidratante con SPF 20
 - Hidrata y oculta las imperfecciones, poros y ojeras
-- Acabado sin brillos y natural, cobertura media
-- Indicado para piel seca o mixta
 - Aplica la base de maquillaje con los dedos o una brocha des del centro hasta el exterior para mezclarla con el tono de tu piel
+- Indicado para piel seca o mixta
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B015CMHBOS{{</world>}}

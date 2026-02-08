@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Asa integrada en la parte superior de la bomba que facilita su transporte
 - Bomba sumergible para aguas sucias con interruptor flotante integrado
 - Nivel de agua residual (mm) 45; Tamaño de partícula (Ø mm) 35; Longitud cable de alimentación (m) 10
 - Bomba de diseño compacto y cuerpo en acero inoxidable resistente a la corrosión
-- Asa integrada en la parte superior de la bomba que facilita su transporte
 - Potencia absorbida (W) 1.100; Caudal (l/h) max. 16.500; Prevalencia (m) max. 10,5; Presión de funcionamiento (bar) 1,05; Temperatura agua (°C) max. 35; Profundidad de inmersión (m) max. 7;
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

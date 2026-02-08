@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ofrece una comodidad óptima
 - Adecuada para días fríos
 - Presenta bolsillos
 - Este producto es original Levis
+- Ofrece una comodidad óptima
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B084BHKYQZ{{</world>}}

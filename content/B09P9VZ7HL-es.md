@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- SELENA Selena Stargazer se inspira en la luna con lunas y estrellas en sus ojos, en su camiseta, en sus biberones y en su chupete. Cada muñequita tiene una personalidad única que se expresa a través de su estilo
-- 3 CAMBIOS DE COLOR (1) El color de su pelo cambia cuando le bañas (la bañera se vende por separado); (2) La botella de champú cambia de color con agua muy fría; (3) El biberón cambia de color al añadirle agua muy fría
-- CONSEJO Al igual que un bebé de verdad, el pañal de Glitter Babyz a veces estará cargado si come demasiado. Envuelve a tu muñequita en una toalla, para protegerte de cualquier mancha indeseada a la hora de darle la comida.
-- QUIÉRELES A TODAS Muéstrale todo tu cariño a tu muñeca para mantener su magia viva y brillante. Dale el biberón, cámbiale el pañal, báñale (la bañera se vende por separado) y acuéstale para que se duerma.
-- COLECCIÓNALAS TODAS Adopta ahora a las 4 muñequitas: Dreamia Stardust, Melody Highnote, Marina Finley y Selena Stargazer están listas para que te las lleves a casa.
 - SIGUE EL BRILLO Sigue el brillo hacia el atardecer y gira a la izquierda hacia la luna para descubrir el mundo mágico de las Glitter Babyz. Son muñecas brillantes, con ojos grandes, brillos en las pestañas y purpurina en el pelo.
+- CONSEJO Al igual que un bebé de verdad, el pañal de Glitter Babyz a veces estará cargado si come demasiado. Envuelve a tu muñequita en una toalla, para protegerte de cualquier mancha indeseada a la hora de darle la comida.
+- SELENA Selena Stargazer se inspira en la luna con lunas y estrellas en sus ojos, en su camiseta, en sus biberones y en su chupete. Cada muñequita tiene una personalidad única que se expresa a través de su estilo
+- COLECCIÓNALAS TODAS Adopta ahora a las 4 muñequitas: Dreamia Stardust, Melody Highnote, Marina Finley y Selena Stargazer están listas para que te las lleves a casa.
+- QUIÉRELES A TODAS Muéstrale todo tu cariño a tu muñeca para mantener su magia viva y brillante. Dale el biberón, cámbiale el pañal, báñale (la bañera se vende por separado) y acuéstale para que se duerma.
+- 3 CAMBIOS DE COLOR (1) El color de su pelo cambia cuando le bañas (la bañera se vende por separado); (2) La botella de champú cambia de color con agua muy fría; (3) El biberón cambia de color al añadirle agua muy fría
 - DIVERSIÓN Cada muñeca viene con una camiseta, un pañal reutilizable, un chupete, un biberón que cambia de color, una botella de champú que cambia de color y pelo que cambia de color. Todo lo que viene con tu mágica Glitter Babyz puede ser reutilizado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

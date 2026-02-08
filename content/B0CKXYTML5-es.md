@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Parte superior de nobuk sintético
 - Horma clásica
+- Suela de goma de aspecto vulcanizado
 - La parte superior contiene al menos un 50% de material reciclado
 - Tirador de tela en el talón
-- Parte superior de nobuk sintético
-- Suela de goma de aspecto vulcanizado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKXYTML5{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con un estilo informal
 - Detalles distintivos de la marca
+- Con un estilo informal
 - Proporcionan una suave amortiguación
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

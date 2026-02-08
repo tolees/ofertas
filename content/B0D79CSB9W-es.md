@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Color: gris pastel
 - Forro: 63% piel de cerdo - 37% tela (100% poliéster reciclado)
 - Material exterior: 75% poliéster reciclado - 25% sintético (80% TPU - 20% PU)
 - Suela: 100% caucho vulcanizado
-- Color: gris pastel
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D79CSB9W{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dimensiones: 46 cm x 28 cm x 18 cm
-- Reducida a lo esencial pero sin renunciar a la comodidad, la ligera tiene una muy buena relación peso/comodidad gracias al sistema de espalda Lite y a un uso bien pensado de los materiales, y consume menos energía cuando se transporta.
-- Un silbato de señalización y las instrucciones de seguridad en el interior de la mochila contribuyen a tu seguridad en la montaña.
 - Los tirantes ergonómicos y muy ventilados, el cinturón de cadera desmontable y ajustable y la correa de pecho regulable sin escalonamientos garantizan que la carga se asiente cerca del cuerpo y de forma estable y que el peso se distribuya sobre las caderas y los hombros. Esto reduce la presión sobre los hombros y alivia la tensión en la espalda.
+- Reducida a lo esencial pero sin renunciar a la comodidad, la ligera tiene una muy buena relación peso/comodidad gracias al sistema de espalda Lite y a un uso bien pensado de los materiales, y consume menos energía cuando se transporta.
+- Dimensiones: 46 cm x 28 cm x 18 cm
+- Un silbato de señalización y las instrucciones de seguridad en el interior de la mochila contribuyen a tu seguridad en la montaña.
 - El equipo, la bolsa de hidratación (hasta 2 litros) y las provisiones pueden guardarse en el compartimento interior y en los dos bolsillos laterales. Un clip para llaves y un portagafas mantienen los objetos de valor a buen recaudo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

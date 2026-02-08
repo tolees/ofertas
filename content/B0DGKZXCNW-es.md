@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- BRAZO DE EXTRACCIÓN Y CONO DOBLE. Su brazo de extracción está diseñado para facilitar la obtención del jugo sin esfuerzo, y el doble cono te permite exprimir cítricos de cualquier tamaño, desde limones pequeños hasta pomelos grandes.
 - 100% DESMONTABLE.Todas sus piezas son completamente desmontables, lo que facilita una limpieza rápida y sin complicaciones. Además, cuenta con un recoge cables en la base para un almacenamiento más ordenado y práctico.
 - VERTIDO CONTINUO Y ANTIGOTEO. Permite que el zumo caiga directamente al vaso, junto a todas las vitaminas que la fruta ofrece. Posee un increíble sistema antigoteo el cual evitará que al momento de quitar o cambiar de vaso, caiga alguna gota de zumo en tu encimera.
+- BRAZO DE EXTRACCIÓN Y CONO DOBLE. Su brazo de extracción está diseñado para facilitar la obtención del jugo sin esfuerzo, y el doble cono te permite exprimir cítricos de cualquier tamaño, desde limones pequeños hasta pomelos grandes.
 - FILTRO EN ACERO INOXIDABLE. Olvídate de la pulpa que no quieras gracias a su resistente filtro de acero inoxidable. Retiene toda la pulpa y permite sólo pasar el zumo para unos resultados perfectos
 - POTENCIA Y DISEÑO. Motor de 120W, que te permite preparar jugos de forma rápida y sin esfuerzo. Su cuerpo de acero inoxidable garantiza durabilidad y un diseño moderno que complementa cualquier cocina. Disfruta de tus cítricos favoritos de manera natural y sin añadidos innecesarios.
 

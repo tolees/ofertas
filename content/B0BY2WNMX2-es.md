@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tejido técnico 100% poliéster reciclado
-- Cierre de cremallera y cuello alzado
-- Chaqueta: puños y dobladillo elásticos
 - Chaqueta: bolsillos frontales
-- Corte clásico
+- Chaqueta: puños y dobladillo elásticos
+- Cierre de cremallera y cuello alzado
 - Forro de malla
+- Corte clásico
+- Tejido técnico 100% poliéster reciclado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BY2WNMX2{{</world>}}

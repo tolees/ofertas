@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- FILTRO LAVABLE CON AGUA: limpia de una forma sencilla el filtro, para un mantenimiento rápido y sencillo
-- TUBO ERGONÓMICO DE 2 piezas: tubo desmontable en 2 piezas que facilita el almacenamiento de la aspiradora
-- INDICADOR DE LLENADO: 3,5 Litros de capacidad e indicador de llenado. Incluye una bolsa.
 - LIMPIEZA FÁCIL CON RUEDAS DE DESLIZAMIENTO FÁCIL: ruedas recubiertas de goma que proporcionan un movimiento suave con un radio de acción de hasta 12 metros para facilitar la limpieza
 - POTENCIA 850W: poder de supción e intensidad regulable manualmente
+- INDICADOR DE LLENADO: 3,5 Litros de capacidad e indicador de llenado. Incluye una bolsa.
+- FILTRO LAVABLE CON AGUA: limpia de una forma sencilla el filtro, para un mantenimiento rápido y sencillo
+- TUBO ERGONÓMICO DE 2 piezas: tubo desmontable en 2 piezas que facilita el almacenamiento de la aspiradora
 - 10 AÑOS DE GARANTÍA EN EL MOTOR: confiamos en la calidad de nuestras aspiradoras AEG
 
 [🛒 Aquí!!!]({{< param buyurl >}})

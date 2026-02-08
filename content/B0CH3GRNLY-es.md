@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 🪙 FUNCIONAMIENTO - En la zona superior se encuentra una tapadera por donde podrás rellenar su contenido del recipiente transparente, introducirás una moneda en el panel frontal y al girar el pomo los artículos caerán y la moneda quedará dentro del surtidor (podrás retirar la tapa para obtener las monedas almacenadas)
-- 🍬 INNOVADOR DISEÑO - ¡Úsala como quieras! Si eres amante del dulce como maquina de chicles y máquina de golosilas y chucherias será ideal. Si eres fan de es las películas de Charlie y la Fábrica de Chocolate esta Willy Wonka figura tiene que ser tuya. Además, la podrás usar como hucha original niños ¡Un regalo original niños inspirado en la película con el que sorprenderás!
-- 💙 ERIK - Calidad y diseño es lo que nos caracteriza. Especializados en papelería, merchandising y póster con las licencias más actuales del mercado
 - 🍫 CARACTERÍSTICAS - Nuestra hucha maquina caramelos posee unas medias de 24,45x12,6x12,6 cm y está fabricada en un material púrpura de calidad. No necesita pilas para su funcionamiento y viene empaquetada en una caja protectora para que el producto llegue a su destino en óptimas condiciones
+- 🍬 INNOVADOR DISEÑO - ¡Úsala como quieras! Si eres amante del dulce como maquina de chicles y máquina de golosilas y chucherias será ideal. Si eres fan de es las películas de Charlie y la Fábrica de Chocolate esta Willy Wonka figura tiene que ser tuya. Además, la podrás usar como hucha original niños ¡Un regalo original niños inspirado en la película con el que sorprenderás!
+- 🪙 FUNCIONAMIENTO - En la zona superior se encuentra una tapadera por donde podrás rellenar su contenido del recipiente transparente, introducirás una moneda en el panel frontal y al girar el pomo los artículos caerán y la moneda quedará dentro del surtidor (podrás retirar la tapa para obtener las monedas almacenadas)
+- 💙 ERIK - Calidad y diseño es lo que nos caracteriza. Especializados en papelería, merchandising y póster con las licencias más actuales del mercado
 - 🏭 Willy Wonka, el famoso fabricante de dulces ofrece suministrar dulces de por vida a los cinco ganadores que encuentren el tesoro ¿Estará en esta dispensadora de caramelos?
 
 [🛒 Aquí!!!]({{< param buyurl >}})

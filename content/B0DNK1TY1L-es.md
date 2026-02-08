@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Clínicamente comprobado para proporcionar hasta un 85% más de hidratación en los labios*.
-- Hidrata, trata y da brillo
 - Disfruta del aplicador curvado de silicona para un deslizamiento perfecto y una sensación acolchonada
+- Hidrata, trata y da brillo
 - Formulado con aceite de jojoba y tripeptidos para un tratamiento que mejora la apariencia de los labios, dejando los labios al natural rejuvenecidos después de solo 2 semanas
+- Clínicamente comprobado para proporcionar hasta un 85% más de hidratación en los labios*.
 - Elige entre siete tonos luminosos, incluyendo un tono transparente universal que también se puede usar como una mascarilla nutritiva para los labios durante la noche
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

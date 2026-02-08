@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tejido de punto suave y ligero que no se adhiere a la piel.
+- Tecnología DRI-FIT para la piel seca y la comodidad.
 - Mira inspirado por la velocidad y la ropa de entrenamiento usada por jugadores profesionales.
 - Ajuste estándar para un estilo confortable.
-- Tecnología DRI-FIT para la piel seca y la comodidad.
 - Malla en la espalda y en las mangas para la frescura correcta.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Skechers Espuma viscoelástica refrigerada por aire
 - Skechers Detalle del logotipo
+- Skechers Espuma viscoelástica refrigerada por aire
 - Suela de tracción flexible
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Diseño compacto 60% para una experiencia de juego portátil y sencilla
-- Teclas de PBT de doble inyección con funciones secundarias impresas en el lateral
-- Estructura de aluminio para una durabilidad óptima
 - Memoria integrada y preajustes de iluminación
+- Estructura de aluminio para una durabilidad óptima
+- Teclas de PBT de doble inyección con funciones secundarias impresas en el lateral
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08BZDLVNN{{</world>}}

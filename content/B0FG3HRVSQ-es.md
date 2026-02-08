@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ¿Todo listo para irte de aventuras con Dora?
 - Let’s go! ¡Vámonos!
+- ¿Todo listo para irte de aventuras con Dora?
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FG3HRVSQ{{</world>}}

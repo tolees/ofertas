@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Para diferenciarlo de su tocayo, el boli BIC Cristal Original, el cuerpo hexagonal de esta versión tiene un color ligeramente ahumado
-- El cuidado diseño de la bola ofrece la uniformidad y fluidez del flujo de tinta, para que escribir sea un auténtico placer
-- El capuchón y el tapón son del mismo color que la tinta, para que localices a la primera el boli que buscas
 - El mítico boli BIC Cristal, ahora también disponible con una amplia punta de 1,6 mm que facilita la legibilidad
+- El capuchón y el tapón son del mismo color que la tinta, para que localices a la primera el boli que buscas
+- El cuidado diseño de la bola ofrece la uniformidad y fluidez del flujo de tinta, para que escribir sea un auténtico placer
+- Para diferenciarlo de su tocayo, el boli BIC Cristal Original, el cuerpo hexagonal de esta versión tiene un color ligeramente ahumado
 - Esta caja contiene 50 bolígrafos con tinta azul: color imprescindible para tomar notas limpias y legibles
 
 [🛒 Aquí!!!]({{< param buyurl >}})

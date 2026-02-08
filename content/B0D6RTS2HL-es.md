@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Everyday Essentials
 - En color rosa con detalle de etiqueta.
-- ¡Diseñadas para que tus pies descansen!
-- Zapatillas
+- Everyday Essentials
 - Zapatillas de estar por casa, con diseño cerrado en tejido de chenilla y platilla extraíble. ¡Diseñadas para que tus pies descansen!
+- Zapatillas
+- ¡Diseñadas para que tus pies descansen!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D6RTS2HL{{</world>}}

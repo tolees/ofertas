@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material exterior: tejido textil.
+- Tacón: ---
+- Suela: poliuretano.
 - Tipo de cierre: con cordones.
 - Material interior: tejido textil.
-- Suela: poliuretano.
-- Tacón: ---
+- Material exterior: tejido textil.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07MSP52JK{{</world>}}

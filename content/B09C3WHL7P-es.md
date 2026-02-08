@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Conectividad inteligente con dos dispositivos. El mismo conjunto de auriculares se puede conectar a la vez a dos dispositivos de distintas plataformas, como Android, iOS y Windows, lo que permite cambiar fácilmente entre entretenimiento y trabajo. Se emparejan por Bluetooth al abrir el estuche de los auriculares cerca del teléfono o al tocar rápidamente sobre la ventana emergente, lo que te permite disfrutar del nuevo método de conexión rápida
 - Carga rápida. Carga inalámbrica. Con la carga rápida, puedes cargar los auriculares en tan solo 10 minutos para escuchar música hasta durante 3 horas. Si la batería se está agotando, haz una pausa y deja que se cargue. El estuche de carga también es compatible con la carga inalámbrica Qi, por lo que carga es muy cómoda
 - Duración de la batería ultra larga de 28 horas. Gracias a un chip de bajo consumo integrado, los auriculares pueden funcionar hasta 6 horas con una sola carga. Con la ayuda del estuche de carga, los auriculares pueden funcionar durante 28 horas. Por tanto, podrás disfrutar de la música durante horas sin parar
 - Cancelación de ruido profundo de 35 dB. Los auriculares aplican la tecnología de cancelación activa doble de ruido con micrófonos de retroalimentación y pre alimentación. Anulan de forma efectiva el ruido ambiental y reducen el exceso de ruido en el canal auditivo. La cancelación de ruido puede llegar hasta 35 dB. Solo los móviles Xiaomi o Redmi están diseñados para incorporar la función de anulación de ruido adaptable por IA
-- Conectividad inteligente con dos dispositivos. El mismo conjunto de auriculares se puede conectar a la vez a dos dispositivos de distintas plataformas, como Android, iOS y Windows, lo que permite cambiar fácilmente entre entretenimiento y trabajo. Se emparejan por Bluetooth al abrir el estuche de los auriculares cerca del teléfono o al tocar rápidamente sobre la ventana emergente, lo que te permite disfrutar del nuevo método de conexión rápida
 - Toca dos veces para contestar una llamada. Toca la parte posterior de los auriculares para acceder a los controles, como el cambio de modo, la pausa y reproducción de música, etc. También es compatible con la función de control de activación por voz
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello bajo
 - Parte construida con materiales reciclados
+- Cuello bajo
 - Suela y suela de goma
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

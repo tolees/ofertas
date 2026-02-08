@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Matching Riser
-- Light-Up Marquee
-- 1-4 Players
 - WiFi Multiplayer
+- 1-4 Players
+- Matching Riser
 - 3 games in 1
+- Light-Up Marquee
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BGHZSX61{{</world>}}

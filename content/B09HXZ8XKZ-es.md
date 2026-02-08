@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Cobertura total de color intenso mate
 - Resistente al agua, a prueba de roces y besos
-- Aplicador preciso con sacapuntas incorporado
 - Formulado sin parabenos. Infusionado con aceite de Mango
+- Aplicador preciso con sacapuntas incorporado
 - Lápiz labial ligero acabado mate que no reseca
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Calidad ecológica 100% natural: obtenida por destilación al vapor de los pétalos frescos de Rosa damascena, esta agua floral está particularmente concentrada en principios activos naturales, garantizando una eficacia óptima.
-- Elige un agua floral adaptada a tus necesidades y a tu tipo de piel: Piel grasa: Para regular la producción de sebo y cerrar los poros, elige aguas florales astringentes como la lavanda - Piel seca: Opta por un agua floral de azahar calmante e hidratante - Piel mixta: Agua floral de geranio para reequilibrar tu epidermis.
-- Respetuosa con el medio ambiente: La botella está fabricada con plástico 100% reciclado y 100% reciclable, lo que refleja el compromiso de Melvita con la sostenibilidad y la protección del medio ambiente.
 - Cantidad de pétalos: Para obtener cada botella de agua floral de rosas ecológicas se necesitan casi 2000 pétalos de rosas frescas, lo que garantiza una rica concentración de principios activos beneficiosos.
 - Las aguas florales, también conocidas como hidrolatos, son productos líquidos obtenidos a partir de plantas: Se crean mediante un proceso de destilación al vapor: el agua floral se extrae durante el proceso de destilación al vapor del aceite esencial de una planta.
+- Calidad ecológica 100% natural: obtenida por destilación al vapor de los pétalos frescos de Rosa damascena, esta agua floral está particularmente concentrada en principios activos naturales, garantizando una eficacia óptima.
+- Respetuosa con el medio ambiente: La botella está fabricada con plástico 100% reciclado y 100% reciclable, lo que refleja el compromiso de Melvita con la sostenibilidad y la protección del medio ambiente.
+- Elige un agua floral adaptada a tus necesidades y a tu tipo de piel: Piel grasa: Para regular la producción de sebo y cerrar los poros, elige aguas florales astringentes como la lavanda - Piel seca: Opta por un agua floral de azahar calmante e hidratante - Piel mixta: Agua floral de geranio para reequilibrar tu epidermis.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D794XR3Z{{</world>}}

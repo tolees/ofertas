@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ACONDICIONADOR: Acondicionador de nutrición profunda que actúa al instante para nutrir y suavizar el cabello seco, dañado y estresado
 - PRODUCTO ANTI ENCRESPAMIENTO: Enriquecido con Bayas de Goji, con vitaminas, minerales y péptidos, controla el encrespamiento de la fibras capilares del cabello y mejora la manejabilidad.
 - SUAVIDAD: Con Vitamina E para proteger el cabello del estrés y mantener la suavidad y el brillo
+- ACONDICIONADOR: Acondicionador de nutrición profunda que actúa al instante para nutrir y suavizar el cabello seco, dañado y estresado
 - NUTRICIÓN PROFUNDA: Formulado con Ácido Oleico y Pantenol para nutrir e hidratar el cabello en profundidad y devolverle toda su vitalidad.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

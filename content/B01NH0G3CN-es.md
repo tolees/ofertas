@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Brillo superior
-- Doble protección, capa protectora y anti rayadas
-- Desincrusta y desengrasa para eliminar las manchas de tu placa
 - Limpiador para placas de vitrocerámica e inducción en formato crema, aroma limón
+- Brillo superior
+- Desincrusta y desengrasa para eliminar las manchas de tu placa
+- Doble protección, capa protectora y anti rayadas
 - Vitroclen es la marca recomendada por los principales fabricantes de vitrocerámica
 
 [🛒 Aquí!!!]({{< param buyurl >}})

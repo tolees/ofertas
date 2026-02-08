@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- EXTRACTOS CALMANTES NATURALES: Aloe vera, avena, camomila y mimosa que regeneran y alivian la piel
-- LIMPIEZA PROFUNDA SIN JABÓN: Elimina el exceso de sebo y purifica los poros sin resecar la piel
 - ÁCIDO SALICÍLICO LIBRE Y LIPOSOMAL (2 %): Acción queratolítica y seborreguladora para prevenir brotes
+- EXTRACTOS CALMANTES NATURALES: Aloe vera, avena, camomila y mimosa que regeneran y alivian la piel
 - TEXTURA SUAVE Y SENSORIAL: Emulsiona en crema espumosa, refrescando la piel desde el primer uso
+- LIMPIEZA PROFUNDA SIN JABÓN: Elimina el exceso de sebo y purifica los poros sin resecar la piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C9JWCDW3{{</world>}}

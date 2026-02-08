@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【Servicio al cliente excepcional】 Lefant ofrece un servicio profesional 24/7 (de lunes a viernes) y 2 años de garantía. Si tiene alguna pregunta o error, póngase en contacto con nosotros a través de Amazon.
-- Navegación dToF y limpieza eficiente: el robot aspirador Lefant utiliza navegación avanzada dToF con un alcance de escaneo de 15 metros y crea mapas precisos de tu casa para: ✓ Planificación inteligente de rutas que evitan repeticiones y garantizan una cobertura completa ✓ 150 minutos de tiempo de ejecución – ideal para apartamentos españoles de hasta 150 m² ✓ Carga y reinicio automáticos sin intervalo Para Una limpieza profunda
 - Mapa inteligente: planificación sistemática de limpieza para rutas eficientes; limpieza de destino a través de la aplicación: toque el mapa para limpiar lugares individuales; limpieza de zonas para bloquear o priorizar áreas específicas; selección de área para limpiar espacios seleccionados de forma selectiva.
+- Navegación dToF y limpieza eficiente: el robot aspirador Lefant utiliza navegación avanzada dToF con un alcance de escaneo de 15 metros y crea mapas precisos de tu casa para: ✓ Planificación inteligente de rutas que evitan repeticiones y garantizan una cobertura completa ✓ 150 minutos de tiempo de ejecución – ideal para apartamentos españoles de hasta 150 m² ✓ Carga y reinicio automáticos sin intervalo Para Una limpieza profunda
+- Control de aplicación y comandos de voz: establece zonas prohibidas, horarios y modos de limpieza a través de la aplicación. Compatible con Google Assistant y Alexa para control de voz. La detección automática de alfombras mejora la succión. WiFi dual (2,4 GHz y 5 GHz). Limpieza con un solo toque, en cualquier lugar
 - 【 No se enreda el cabello】 La entrada de succión sin escobillas elimina el enredo del pelo, ideal para los dueños de mascotas. Ideal para pelo de animales, alfombras, suelos duros. Los cepillos de doble cara pueden limpiar más basura y mejorar la eficiencia y la limpieza en la limpieza de residuos
 - 【190° de prevención de obstáculos y diseño ultrafino de 95 mm】 La detección de PSD de 190° evita muebles, cables y objetos pequeños con precisión milimétrica. La carcasa ultradelgada de 95 mm alcanza espacios reducidos para una cobertura adicional. Con función de detección de alfombras para evitar la suciedad de la alfombra.
-- Control de aplicación y comandos de voz: establece zonas prohibidas, horarios y modos de limpieza a través de la aplicación. Compatible con Google Assistant y Alexa para control de voz. La detección automática de alfombras mejora la succión. WiFi dual (2,4 GHz y 5 GHz). Limpieza con un solo toque, en cualquier lugar
+- 【Servicio al cliente excepcional】 Lefant ofrece un servicio profesional 24/7 (de lunes a viernes) y 2 años de garantía. Si tiene alguna pregunta o error, póngase en contacto con nosotros a través de Amazon.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DZBH5QJK{{</world>}}

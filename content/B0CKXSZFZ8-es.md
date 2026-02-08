@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Número de modelo: 084214
 - Color: manzana efervescente, morado y gris
+- Número de modelo: 084214
 - 12 paneles; cosido a máquina; TPU brillante; calcomanía PUMA Cat; multicolor
 
 [🛒 Aquí!!!]({{< param buyurl >}})

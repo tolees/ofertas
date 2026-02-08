@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ancho de punta: 6 mm. Cantidad por paquete: 6 pieza(s)
-- Carioca Bravo. Tipo de punta: Extra Bold
 - Tipo de punta: Punta redonda
 - Carioca Bravo. Tipo de punta: Extra Bold
 - Tipo de embalaje: Caja de cartón. Ancho de la caja principal: 23,2 cm
+- Carioca Bravo. Tipo de punta: Extra Bold
+- Ancho de punta: 6 mm. Cantidad por paquete: 6 pieza(s)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MPVMKZB{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El vehículo de 8 centimetros presenta detalles increíbles y proporciones a escala autentica con el resto de naves de la colección
-- Producto distribuido en España por BIZAK. Servicio atención al cliente disponible todo el año (sat@bizak.es)
-- Contiene un accesorio de microfigura articulada de Asajj Ventress de 1 pulgada
 - Dirige la flota Separatista con el caza estelar Ginivex de Asajj Ventress. Producto de Star Wars con licencia oficial de Jazwares
+- Contiene un accesorio de microfigura articulada de Asajj Ventress de 1 pulgada
 - Incluye vela solar retráctil con aspas en abanico, cañones posicionables y más
+- Producto distribuido en España por BIZAK. Servicio atención al cliente disponible todo el año (sat@bizak.es)
+- El vehículo de 8 centimetros presenta detalles increíbles y proporciones a escala autentica con el resto de naves de la colección
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BSGZNRBG{{</world>}}

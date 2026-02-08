@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Horma clásica
 - Suela de goma que no deja marcas
+- Horma clásica
 - Forro textil
-- Parte de piel sintética
 - Cierre autoadherente
+- Parte de piel sintética
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B31LP3VN{{</world>}}

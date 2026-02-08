@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Apto para dietas vegetarianas y veganas.
 - Alto contenido de fibra
+- Apto para dietas vegetarianas y veganas.
 - Envasado en atmósfera protectora.
 - Puede contener ocasionalmente trozos de cáscara.
 

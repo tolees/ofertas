@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Contenido del envío: microscopio; 2 oculares de amplio campo: 10x y 20x; 3 lentes: 4x, 10x y 40x; lente Barlow con hasta 2 aumentos; herramientas para microscopiar; levadura, sal marina, huevos de camarones, incubadora de camarones, microtomo de microcuto; portaobjetos vacíos y cubiertas; preparaciones permanentes; Pilas (3 unidades) AA); adaptador para smartphone
-- El microscopio de alta calidad con iluminación LED, un gran aumento y sus amplios accesorios son ideales para iniciarse en el mundo de la microscopía. Gracias a la iluminación alimentada por pilas, es adecuado para uso móvil.
 - El sistema de zoom Barlow permite un zoom continuo y el adaptador de smartphone incluido te permite tomar tus propias imágenes de los objetos examinados. El accesorio contiene además de la herramienta de preparación también las primeras muestras para empezar directamente.
-- En la mesa de objetos de altura ajustable, los objetos de estudio se iluminan de forma óptima con la iluminación de luz diurna y de luz trasera y con los oculares incluidos se pueden lograr hasta 1600 aumentos.
+- El microscopio de alta calidad con iluminación LED, un gran aumento y sus amplios accesorios son ideales para iniciarse en el mundo de la microscopía. Gracias a la iluminación alimentada por pilas, es adecuado para uso móvil.
 - Dimensiones: 145 x 100 x 290 mm. Peso: 1,4 kg. Funciona con 3 pilas AA (incluidas)
+- En la mesa de objetos de altura ajustable, los objetos de estudio se iluminan de forma óptima con la iluminación de luz diurna y de luz trasera y con los oculares incluidos se pueden lograr hasta 1600 aumentos.
+- Contenido del envío: microscopio; 2 oculares de amplio campo: 10x y 20x; 3 lentes: 4x, 10x y 40x; lente Barlow con hasta 2 aumentos; herramientas para microscopiar; levadura, sal marina, huevos de camarones, incubadora de camarones, microtomo de microcuto; portaobjetos vacíos y cubiertas; preparaciones permanentes; Pilas (3 unidades) AA); adaptador para smartphone
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07NDDBYFT{{</world>}}

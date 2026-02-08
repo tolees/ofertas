@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Formulado con L-Triptófano, ácido gamma-aminobutírico, magnesio y vitamina B6, que contribuyen al funcionamiento normal del sistema nervioso y ayudan a reducir la fatiga y el cansancio
-- Mecanismo de acción serotoninérgico. No hormonal, no fitoestrogénico. Sin gluten.
 - Complemento alimenticio oral para la rápida disminución de los sofocos durante la menopausia
 - Para sofocos diurnos intensos, tomar dos cápsulas al día por la mañana. Para sofocos y dificultades para conciliar el sueño, tomar 1 cápsula por la mañana y otra por la noche
+- Formulado con L-Triptófano, ácido gamma-aminobutírico, magnesio y vitamina B6, que contribuyen al funcionamiento normal del sistema nervioso y ayudan a reducir la fatiga y el cansancio
+- Mecanismo de acción serotoninérgico. No hormonal, no fitoestrogénico. Sin gluten.
 - Producen una rápida disminución de los sofocos y los síntomas asociados a la menopausia, como la sudoración, palpitaciones, ansiedad y alteración del estado de ánimo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100% algodón
 - Cuello redondo
 - Corte clásico
+- 100% algodón
 - Diseño con bloques de color
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

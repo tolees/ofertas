@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Delicioso aroma – Disfruta de toda una experiencia sensorial bajo la ducha gracias al aroma irresistible de este champú reparador para pelo muy dañado o quebradizo
-- Detalles del envío– OGX Strength & Length + Keratin Oil Shampoo, champú fortificante para cabello dañado, con proteínas de keratina y aceite de argán, para un pelo más fuerte y brillante
 - Fórmula fortificante – Enriquecido con proteína de queratina y aceite de argán, este champú hidratante fortalece el pelo y reduce la rotura y las puntas abiertas en un 80%*
+- Detalles del envío– OGX Strength & Length + Keratin Oil Shampoo, champú fortificante para cabello dañado, con proteínas de keratina y aceite de argán, para un pelo más fuerte y brillante
 - Fórmula mejorada – La fórmula de este champú OGX con tecnología Lipi Pro Shield hidrata y limpia en profundidad y respeta la barrera de lípidos y proteínas del pelo
+- Delicioso aroma – Disfruta de toda una experiencia sensorial bajo la ducha gracias al aroma irresistible de este champú reparador para pelo muy dañado o quebradizo
 - Sin ingredientes nocivos – Formulado con tensioactivos sin sulfatos, este champú reparador con lípidos nutritivos consigue que tu pelo sea más resistente con cada lavado**
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

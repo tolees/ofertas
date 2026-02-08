@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye bolsa con asa: fácil de plegar, almacenar y transportar cómodamente
-- Diseño funcional: incluye dos portavasos y un bolsillo de malla para guardar accesorios
-- Estructura resistente: patas cruzadas reforzadas que garantizan firmeza y seguridad
 - Capacidad de carga: soporta hasta 100 kg para mayor estabilidad en cualquier superficie
+- Incluye bolsa con asa: fácil de plegar, almacenar y transportar cómodamente
+- Estructura resistente: patas cruzadas reforzadas que garantizan firmeza y seguridad
+- Diseño funcional: incluye dos portavasos y un bolsillo de malla para guardar accesorios
 - Mesa de camping plegable: diseño compacto y ligero, ideal para exteriores
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

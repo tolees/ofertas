@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- USO: Seca rápidamente. Acabado brillante y duradero. No envejece. Tiempo de secado: 10 minutos
-- MODO DE EMPLEO: LIMPIAR y secar bien las superficies a unir. APLICAR una capa fina y uniforme de Restaurador Cerámico CEYS, con la ayuda del pincel, sobre las superficies a restaurar. Para aplicaciones verticales, aplicar el producto de arriba abajo. Para reparaciones profundas es aconsejable dar una segunda capa (dejando secar la primera aplicación un mínimo de 4 horas). Eliminar el exceso de producto con un trapo con disolvente.
-- CARACTERÍSTICAS: Repara desconchados , golpes o rayadas de lavabos, bañeras, duchas, sanitarios, porcelanas, cerámicas, electrodomésticos, armarios esmaltados, vajillas. Porcelana, loza, todo tipo de cerámicas y superficies esmaltadas. Soporta calor y frío, temperaturas de hasta 100ºC. Soporta agua caliente y agentes limpiadores.
 - SUPERFICIES APTAS: Repara desconchados , golpes o rayadas de lavabos, bañeras, duchas, sanitarios, porcelanas, cerámicas, electrodomésticos, armarios esmaltados, vajillas.
 - FORMATO: Tubo 15 ML
+- USO: Seca rápidamente. Acabado brillante y duradero. No envejece. Tiempo de secado: 10 minutos
+- CARACTERÍSTICAS: Repara desconchados , golpes o rayadas de lavabos, bañeras, duchas, sanitarios, porcelanas, cerámicas, electrodomésticos, armarios esmaltados, vajillas. Porcelana, loza, todo tipo de cerámicas y superficies esmaltadas. Soporta calor y frío, temperaturas de hasta 100ºC. Soporta agua caliente y agentes limpiadores.
+- MODO DE EMPLEO: LIMPIAR y secar bien las superficies a unir. APLICAR una capa fina y uniforme de Restaurador Cerámico CEYS, con la ayuda del pincel, sobre las superficies a restaurar. Para aplicaciones verticales, aplicar el producto de arriba abajo. Para reparaciones profundas es aconsejable dar una segunda capa (dejando secar la primera aplicación un mínimo de 4 horas). Eliminar el exceso de producto con un trapo con disolvente.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B008OEFOBY{{</world>}}

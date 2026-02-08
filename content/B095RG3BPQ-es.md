@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- REGALO NIÑO 8 AÑOS +: El juguete Perplexus GO es el regalo perfecto e ideal para cualquier ocasión (cumpleaños, Navidad, Reyes...). Regalo niño 10 años ¡Lleva la emoción de Perplexus a casa
-- PERPLEXUS GO ORIGINAL: Juego de habilidad y destreza que cuenta con una estructura tridimensional que incluye una serie de pistas y obstáculos en espiral, por los que debes guiar una pequeña bola de metal. El objetivo es mover la bola a lo largo del laberinto espiral desde el punto de inicio hasta el final. ¡Supera los desafíos y obstáculos que se presenten en tu camino
-- INCLUYE: 1 Perplexus GO,1 guía de instrucciones
 - 35 NUEVOS OBSTÁCULOS: Perplexus GO te desafía co una emocionante colección de 35 obstáculos. Cada uno de ellos está diseñado para poner a prueba tus habilidades de destreza mientras guías la bola a través de giros, vueltas y desafíos que garantizan horas de diversión con el bola laberinto 3D
+- PERPLEXUS GO ORIGINAL: Juego de habilidad y destreza que cuenta con una estructura tridimensional que incluye una serie de pistas y obstáculos en espiral, por los que debes guiar una pequeña bola de metal. El objetivo es mover la bola a lo largo del laberinto espiral desde el punto de inicio hasta el final. ¡Supera los desafíos y obstáculos que se presenten en tu camino
+- REGALO NIÑO 8 AÑOS +: El juguete Perplexus GO es el regalo perfecto e ideal para cualquier ocasión (cumpleaños, Navidad, Reyes...). Regalo niño 10 años ¡Lleva la emoción de Perplexus a casa
 - TAMAÑO PORTÁTIL: Diseñado para ser compacto y fácil de llevar, Perplexus Go es perfecto para disfrutar del desafío del laberinto en cualquier momento y lugar
+- INCLUYE: 1 Perplexus GO,1 guía de instrucciones
 - MODELO ALEATORIO: Bakugan Deka forma parte de un surtido, por lo que es posible que lo recibas en un color o modelo diferente al que aparece en las fotos.
 - JUEGOS PARA NIÑOS 8 AÑOS +: Perplexus GO es el rompecabezas perfecto para los niños y niñas a partir de 8 años. Los juegos de mesa Spin Master Games son tan fáciles de manejar que proporcionarán horas de diversión a toda la familia
 

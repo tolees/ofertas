@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cafetera superautomática compacta que prepara espressos y americanos de café en grano recién molido pulsando un botón gracias al sistema Plug&Play.
 - Bomba de presión de 19 bares para conseguir la mejor crema y el máximo aroma en cada café.
 - Se adapta a todos los gustos, puedes personalizar y memorizar fácilmente la cantidad y la intensidad del café.
 - Sistema de calentamiento rápido por Thermoblock, que garantiza un café perfecto en tan solo unos segundos.
+- Cafetera superautomática compacta que prepara espressos y americanos de café en grano recién molido pulsando un botón gracias al sistema Plug&Play.
 - Depósito de 150 gr de café con molinillo cónico integrado con 5 niveles de molienda. Depósito extraíble de agua con 1,1 litros de capacidad. Limpieza automática para mantenerla siempre a punto.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Jeans Pantalones Largos
 - Ajuste: recto
 - Instrucciones de cuidado: apto para lavadora
 - Composición: 78 por ciento de algodón 20 por ciento de poliéster y 2 por ciento de elastano
-- Jeans Pantalones Largos
 - Cierre: Cremallera Y Botón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

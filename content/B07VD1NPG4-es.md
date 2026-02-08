@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material exterior: Cuero
 - Material de la suela: EVA
+- Material exterior: Cuero
 - Cierre: Cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

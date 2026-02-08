@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DOBLE VENTANA CRISTAL TEMPLADO: Dotada de dos ventanas completas circulares de cristal templado con separadores para maximizar la refrigeración, la caja circular MCORB permite mostrar tu PC en todo su esplendor
+- REFRIGERACIÓN EXTREMA: La caja gaming MCORB proporciona aperturas de 360º sin restricción de flujo y ofrece espacio para instalar hasta 9 ventiladores de 120mm, refrigeraciones líquidas de 120mm y CPU coolers enromes de hasta 180mm
+- REFRIGERACIÓN EXTREMA: La caja gaming MCORB proporciona aperturas de 360º sin restricción de flujo y ofrece espacio para instalar hasta 9 ventiladores de 120mm, refrigeraciones líquidas de 120mm y CPU coolers enromes de hasta 180mm
 - MICRO-ATX CON INTERIOR XL: La torre MCORB está diseñada para placas de tamaño hasta Micro-ATX con un espacio ampliado capaz de albergar tarjetas gráficas extralargas de hasta 340mm y 4 discos duros y todo ello con una gestión de cableado interno totalmente eficiente
 - EDICIÓN CUSTOM: La torre gaming MCORB es una caja de concepto custom para que dispongas de la base perfecta y construyas el PC de tus sueños sin ninguna limitación de serie; Es por ello, por lo que no incluye (ni pagas por ello) extras personalizables como los ventiladores
-- REFRIGERACIÓN EXTREMA: La caja gaming MCORB proporciona aperturas de 360º sin restricción de flujo y ofrece espacio para instalar hasta 9 ventiladores de 120mm, refrigeraciones líquidas de 120mm y CPU coolers enromes de hasta 180mm
-- REFRIGERACIÓN EXTREMA: La caja gaming MCORB proporciona aperturas de 360º sin restricción de flujo y ofrece espacio para instalar hasta 9 ventiladores de 120mm, refrigeraciones líquidas de 120mm y CPU coolers enromes de hasta 180mm
+- DOBLE VENTANA CRISTAL TEMPLADO: Dotada de dos ventanas completas circulares de cristal templado con separadores para maximizar la refrigeración, la caja circular MCORB permite mostrar tu PC en todo su esplendor
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B76XQQBM{{</world>}}

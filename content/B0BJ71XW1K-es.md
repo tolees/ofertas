@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- TEXTURA: Ligera y fresca con acabado mate en tono verde salvia. Fragancia floral de peonia, rosa y jazmín con un toque avainillado
-- PARA PIEL MIXTA - GRASA: Es un cuidado diario antiedad y antimanchas que ofrece una combinación de activos de última tecnología y extractos naturales, para dar a la piel la energía necesaria para afrontar el día a día y mantenerse radiante y luminosa con el paso de las horas
 - ACTIVOS ANTIOXIDANTES: Estimulan las defensas naturales de la piel y la protegen de las agresiones medioambientales y del envejecimiento prematuro. Complejo multi-vitamínico que ofrece una potente acción antiarrugas
-- ANTI-MANCHAS - Unifica el tono, eliminando manchas e imperfecciones y reduciendo los poros. Ilumina el cutis apagado. Hidratación profunda e inmediata. Revitaliza y reduce la sensación de cansancio en el rostro
+- PARA PIEL MIXTA - GRASA: Es un cuidado diario antiedad y antimanchas que ofrece una combinación de activos de última tecnología y extractos naturales, para dar a la piel la energía necesaria para afrontar el día a día y mantenerse radiante y luminosa con el paso de las horas
 - MODO DE USO: Aplicar una pequeña cantidad sobre rostro, cuello y escote con la piel limpia o después del sérum, realizando un suave masaje hasta su completa absorción
+- TEXTURA: Ligera y fresca con acabado mate en tono verde salvia. Fragancia floral de peonia, rosa y jazmín con un toque avainillado
+- ANTI-MANCHAS - Unifica el tono, eliminando manchas e imperfecciones y reduciendo los poros. Ilumina el cutis apagado. Hidratación profunda e inmediata. Revitaliza y reduce la sensación de cansancio en el rostro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BJ71XW1K{{</world>}}

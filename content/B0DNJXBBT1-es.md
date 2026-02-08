@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Crochet
 - De tirantes
+- Crochet
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DNJXBBT1{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Probado en turbocompresores y catalizadores
 - Aceite de motor antifricción semisintético
-- Para motores de gasolina y motores diésel
+- Probado en turbocompresores y catalizadores
 - Modelo adecuado para vehículos sin filtro de partículas de hollín
+- Para motores de gasolina y motores diésel
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01BNOMBP8{{</world>}}

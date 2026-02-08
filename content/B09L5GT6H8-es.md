@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Entresuela de goma de perfil bajo
 - Perfil bajo
 - Exterior de piel flexible con capas de ante superpuestas
-- Entresuela de goma de perfil bajo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09L5GT6H8{{</world>}}

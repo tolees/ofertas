@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- POLO DEPORTIVO de ALGODÓN con POLIÉSTER - Manga corta para hombre o niño, ideal para deportes como el golf o para un look casual con estilo en el día a día
 - CUELLO CLÁSICO CON BOTONES PERSONALIZADOS - Cuello tipo polo y tapeta con tres botones que aportan un toque elegante y deportivo
+- POLO DEPORTIVO de ALGODÓN con POLIÉSTER - Manga corta para hombre o niño, ideal para deportes como el golf o para un look casual con estilo en el día a día
 - LIBERTAD DE MOVIMIENTO - Ajuste cómodo permite total movilidad durante la actividad física, favorece el rendimiento sin restricciones
 - SECADO RÁPIDO - Hecha para durar - Resiste el uso intensivo y los lavados sin perder forma o color
 - TEJIDO CÓMODO Y TRANSPIRABLE - Textura suave, ligera y que mantiene la piel seca expulsando el sudor, incluso en climas cálidos

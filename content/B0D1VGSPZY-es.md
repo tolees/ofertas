@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantilla extraíble
 - Diseño de corte bajo
 - Detalles distintivos de Tommy Hilfiger
+- Plantilla extraíble
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D1VGSPZY{{</world>}}

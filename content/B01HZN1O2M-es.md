@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Mejora la hidratación de la piel
 - Piel más suave y lisa
-- Cuidado de la piel y el cabello
 - Dermatológicamete testado
+- Cuidado de la piel y el cabello
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01HZN1O2M{{</world>}}

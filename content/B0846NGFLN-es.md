@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Materiales y dimensiones: el bloc de notas es de papel certificado FSC (FSC-C154586): proviene de fuentes forestales certificadas. Gramaje del papel: 80 g/m². Tamaño: 11 cm de largo x 19 cm de alto
 - LEGAMI es una marca italiana consciente de la innovación, la estética, los materiales y los procesos productivos. Siempre en busca de nuevas tendencias para sorprender a las personas con propuestas originales, en su universo hay infinitos mundos por descubrir, gracias a productos de calidad diseñados para traer alegría a la vida de las personas. Legami explora los mundos Stationery, Agendas y Calendarios, Lifestyle, Beauty, Hi-Tech, Bolsos, Accesorios y mucho más y hace de cada producto una experiencia única. La pasión, la ética, la integridad y el respeto son la base de la filosofía empresarial.
+- Materiales y dimensiones: el bloc de notas es de papel certificado FSC (FSC-C154586): proviene de fuentes forestales certificadas. Gramaje del papel: 80 g/m². Tamaño: 11 cm de largo x 19 cm de alto
 - DESCRIPCIÓN: ¿Quieres llamar la atención? Con un bloqueo así es imposible que alguien no te que... ¡notas! Legami Paper Thoughts es el bloc de notas que da la bienvenida a tus notas con estilo.
 - Características: 100% fabricado en Italia. Compuesto por 70 hojas desmontables.
 

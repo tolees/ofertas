@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Espuma viscoelástica refrigerada por aire
-- Skech-Air
 - Ajuste de cuña
+- Skech-Air
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DW9CLCL9{{</world>}}

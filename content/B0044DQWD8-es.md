@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material exterior: 100% piel de vaca
 - Color: negro
 - Suela: 100% EVA
+- Material exterior: 100% piel de vaca
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0044DQWD8{{</world>}}

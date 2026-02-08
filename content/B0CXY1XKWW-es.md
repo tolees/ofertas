@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DIMENSIONES: 28,5 x 7,5 x 28,5 cm de ancho.
 - UN REGALO PERFECTO: Todos los aficionados a los pasatiempos creativos (pero especialmente a Gabby y la Casa Mágica) estarán encantados de recibir este producto como regalo. Ofrece un gran número de combinaciones posibles para hacer bonitas creaciones en papel y ¡decorar habitaciones!
-- PRÁCTICO Y REUTILIZABLE: El estuche es perfecto para guardar todos tus accesorios y creaciones, ¡y podrás llevarlos contigo a todas partes gracias a su asa! La tapa está diseñada como un escritorio, con espacio para tus papeles, rotuladores y plantillas.
 - CONTENIDO: 1 estuche, 1 spray electrónico, 8 rotuladores, 10 hojas de plantillas originales, 1 hoja de pegatinas con los colores de Gabby, 10 hojas de dibujo en blanco y 1 folleto de instrucciones. El spray funciona con 2 pilas AA/LR6 (no incluidas).
 - UN KIT DE ACTIVIDADES COMPLETO: Un kit completo de Gabby y la Casa Mágica para hacer tus propias creaciones de forma fácil y divertida. Sólo tienes que introducir el rotulador en el pulverizador electrónico y pulsar el botón para crear preciosas creaciones con aerógrafo, utilizando los patrones de las diferentes plantillas y creando bonitos efectos de degradado.
+- DIMENSIONES: 28,5 x 7,5 x 28,5 cm de ancho.
+- PRÁCTICO Y REUTILIZABLE: El estuche es perfecto para guardar todos tus accesorios y creaciones, ¡y podrás llevarlos contigo a todas partes gracias a su asa! La tapa está diseñada como un escritorio, con espacio para tus papeles, rotuladores y plantillas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CXY1XKWW{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Logotipo en el lateral, suela y lengüeta
-- Suela con líneas de colores en el lateral
 - Cierre de cordones
+- Suela con líneas de colores en el lateral
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B698Q4NN{{</world>}}

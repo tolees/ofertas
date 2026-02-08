@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Haz repostería, cocina y crea los regalos perfectos para forjar grandes amistades.
-- Entabla amistad con personajes emblemáticos como la alegre Hello Kitty, la traviesa Kuromi y el dulce Cinnamoroll.
 - Renueva cabañas y decóralas para atraer a personajes aún más maravillosos.
+- Haz repostería, cocina y crea los regalos perfectos para forjar grandes amistades.
 - Más de 80 horas de misiones conmovedoras.
+- Entabla amistad con personajes emblemáticos como la alegre Hello Kitty, la traviesa Kuromi y el dulce Cinnamoroll.
 - Paquete de evento de lujo - ¡Más de 330 recompensas y objetos únicos!
 
 [🛒 Comprar!!!]({{< param buyurl >}})

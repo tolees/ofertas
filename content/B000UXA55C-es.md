@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- OSRAM Lámpara, faro de carretera
 - Bombilla Para Luz De Carretera, Lámpara Para Luz De Carretera, Bombilla Para Faros De Largo Alcance, Bombilla De Largo Alcance: compatible con IVECO DAILY II Caja/Chasis, compatible con IVECO DAILY I Furgón/ranchera familiar, compatible con IVECO DAILY I Caja/Chasis, compatible con IVECO DAILY II Furgón/ranchera familiar, compatible con MERCEDES-BENZ Citaro (O 530), compatible con IVECO DAILY II Autobús, compatible con IVECO DAILY II Volquete, compatible con SCANIA P I
-- Número OE: 21149
 - Elija su vehículo en el selector para comprobar su compatibilidad con el producto.
+- Número OE: 21149
+- OSRAM Lámpara, faro de carretera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000UXA55C{{</world>}}

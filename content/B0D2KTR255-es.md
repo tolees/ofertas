@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con un estilo casual
 - Detalles distintivos de la marca
 - Disponen de una plantilla cómoda
+- Con un estilo casual
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D2KTR255{{</world>}}

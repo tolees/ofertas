@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- COMPATIBILIDAD - Estas cápsulas, llamadas T DISCs han sido diseñadas especialmente para el sistema Tassimo.
-- JACOBS DOUWE EGBERTS JACOBS Oosterdoksstraat 80 1011 DK Amsterdam The Netherlands DE 08002
+- TECNOLOGÍA INTELLIBREW - Las cápsulas cuentan con un código de barras en la parte superior que es leído por la cafetera Tassimo para obtener la información necesaria para preparar la bebida con la temperatura idónea, la cantidad de agua necesaria y el tiempo de preparación justo.
 - 5 PAQUETES DE 8 CÁPSULAS - 40 Cápsulas de Café Exclusivamente Compatibles con Cafeteras TASSIMO. Introduce la cápsula, presiona el botón y disfruta de un delicioso café intenso y cremoso.
 - CÁPSULA CAFÉ LARGO - Disfruta de un café con leche largo con una cremosa espuma y todo el sabor y aroma del café recién hecho.
-- TECNOLOGÍA INTELLIBREW - Las cápsulas cuentan con un código de barras en la parte superior que es leído por la cafetera Tassimo para obtener la información necesaria para preparar la bebida con la temperatura idónea, la cantidad de agua necesaria y el tiempo de preparación justo.
+- JACOBS DOUWE EGBERTS JACOBS Oosterdoksstraat 80 1011 DK Amsterdam The Netherlands DE 08002
+- COMPATIBILIDAD - Estas cápsulas, llamadas T DISCs han sido diseñadas especialmente para el sistema Tassimo.
 - INTENSO Y CREMOSO - LOR Latte Macchiato es un café de tueste natural que se caracteriza por su sabor intenso, muy aromático y con una cremosa espuma aterciopelada.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

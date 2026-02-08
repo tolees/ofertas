@@ -29,14 +29,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Vincula el Videotimbre cableado Pro 2 Ring (Video Doorbell Pro 2) con Ring Chime o un dispositivo compatible con Alexa ‌para escuchar las notificaciones en toda la casa. Ten en cuenta que la campanilla del timbre existente dejará de sonar una vez que hayas instalado el videotimbre.
-- MÁS VISIÓN,MÁS INFORMACIÓNY MÁS PROTECCIÓN: guarda las grabaciones de tus vídeos hasta 180 días para volver a verlas en cualquier momento, recibe alertas cuando se detecte a una persona y mucho más con una suscripción a Ring Home (a la venta por separado)*.
-- Gracias a la funcionalidad de visión nocturna en color que se activa al ponerse el sol, no te perderás nada de lo que ocurre en el exterior de tu casa, incluso cuando no hay luz.
-- AÑADE UN CHIME: Añade un Chime (3.ª gen.) más alto y claro para escuchar el sonido de timbre característico de Ring desde cualquier rincón de tu casa. Conéctalo al instante mediante wifi o Bluetooth y recibe notificaciones cuando haya alguien en la puerta o se detecte movimiento.
-- Sabrás si hay alguien en el exterior frente a la puerta de casa gracias a la configuración de detección de movimiento avanzada y recibirás notificaciones en tiempo real de la app de Ring más precisas.
-- Conecta el Videotimbre cableado Pro 2 Ring (Video Doorbell Pro 2) al cableado del timbre de tu casa con el transformador incluido para una alimentación constante (se recomienda una instalación profesional).
 - La detección de movimiento 3D y la vista panorámica te permiten señalar cuándo y dónde un evento de movimiento empieza con una vista de mapa aéreo del exterior de tu casa.
 - Videotimbre cableado de alta calidad con vídeo HD 1536p de cuerpo entero, comunicación bidireccional, detección de movimiento 3D, diseño impermeable, wifi optimizado de doble banda y configuración de privacidad personalizable.
 - Gracias a la perspectiva ampliada del vídeo HD 1536p de cuerpo entero, podrás ver más de quien pase por tu casa y comprobar si te han dejado algún paquete en el exterior frente a la puerta.
+- Sabrás si hay alguien en el exterior frente a la puerta de casa gracias a la configuración de detección de movimiento avanzada y recibirás notificaciones en tiempo real de la app de Ring más precisas.
+- Gracias a la funcionalidad de visión nocturna en color que se activa al ponerse el sol, no te perderás nada de lo que ocurre en el exterior de tu casa, incluso cuando no hay luz.
+- AÑADE UN CHIME: Añade un Chime (3.ª gen.) más alto y claro para escuchar el sonido de timbre característico de Ring desde cualquier rincón de tu casa. Conéctalo al instante mediante wifi o Bluetooth y recibe notificaciones cuando haya alguien en la puerta o se detecte movimiento.
+- Conecta el Videotimbre cableado Pro 2 Ring (Video Doorbell Pro 2) al cableado del timbre de tu casa con el transformador incluido para una alimentación constante (se recomienda una instalación profesional).
+- MÁS VISIÓN,MÁS INFORMACIÓNY MÁS PROTECCIÓN: guarda las grabaciones de tus vídeos hasta 180 días para volver a verlas en cualquier momento, recibe alertas cuando se detecte a una persona y mucho más con una suscripción a Ring Home (a la venta por separado)*.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FQCKT1XT{{</world>}}

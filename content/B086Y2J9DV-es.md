@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello alto con cierre a presión
-- Chaqueta de forro polar
-- Ajuste regular
-- Corte Color-Block
 - Corte cuadrado
+- Ajuste regular
+- Cuello alto con cierre a presión
+- Corte Color-Block
+- Chaqueta de forro polar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B086Y2J9DV{{</world>}}

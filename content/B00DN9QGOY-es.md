@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 100% vegetal
 - Ecológico
-- Sin gluten
-- Elaborado en un establecimiento que también utiliza frutos de cáscara, soja.
 - 100% cereal
+- 100% vegetal
+- Elaborado en un establecimiento que también utiliza frutos de cáscara, soja.
+- Sin gluten
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00DN9QGOY{{</world>}}

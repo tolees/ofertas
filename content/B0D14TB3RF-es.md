@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Neceser de viaje con la parte frontal transparente, realizado en EVA + PU y cierre de cremallera.
-- Importante: los frascos no contienen producto, el artículo está pensado para rellenarlo y poder pasar sin problema por la cinta de seguridad del aeropuerto.
 - No lavar (las manchas pueden eliminarse frotando suavemente con un paño húmedo).
+- Importante: los frascos no contienen producto, el artículo está pensado para rellenarlo y poder pasar sin problema por la cinta de seguridad del aeropuerto.
 - Cuenta con 5 envases vacíos en el interior, cada uno de ellos con mensaje en inglés, para poner en su interior productos de higiene tales como champú, spray corporal, gel de baño, acondicionador para el cabello y mascarilla capilar.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

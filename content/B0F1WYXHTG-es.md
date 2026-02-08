@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cordones
-- Suela de goma
-- Corte clásico
 - Suela de goma cosida
+- Cordones
 - Empeine de material sintético
 - Plantilla textil
+- Suela de goma
+- Corte clásico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F1WYXHTG{{</world>}}

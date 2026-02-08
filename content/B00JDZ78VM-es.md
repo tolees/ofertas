@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Placa eléctrica de 180 mm de diámetro y 1500 W
-- Indicador luminoso
 - Termostato de regulación continua
+- Indicador luminoso
 - Practicas asas para transporte
 - Componentes incluidos: 1 Hornillo Eléctrico
+- Placa eléctrica de 180 mm de diámetro y 1500 W
 - Acabado resistente al calor
 
 [🛒 Aquí!!!]({{< param buyurl >}})

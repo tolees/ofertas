@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Perfumitos son las nuevas muñecas sorpresa de Bizak que vienen ocultas en un recipiente en forma de frasco de perfume
+- Un juguete para que los niños y niñas a partir de 3 años de edad puedan coleccionar y jugar una y otra vez
 - Las muñecas son 8 princesas preciosas diferentes para descubrir y coleccionar
 - En el interior hay varios accesorios incluidos, como un bolso, un lazo y un peine con el que peinar su larga melena; Cuando mojas el lazo podrás descubrir su color
-- Un juguete para que los niños y niñas a partir de 3 años de edad puedan coleccionar y jugar una y otra vez
-- Perfumitos son las nuevas muñecas sorpresa de Bizak que vienen ocultas en un recipiente en forma de frasco de perfume
 - Cuando le das la vuelta el recipiente se convierte por un lado en el vestido de la muñeca y por otro lado en un frasco real de perfume
 
 [🛒 Aquí!!!]({{< param buyurl >}})

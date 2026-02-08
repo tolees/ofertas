@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony MDR-EX15LP - Auriculares In-Ear Blanco'
-date: 2026-02-06 16:54:42
+date: 2026-02-07 19:22:40
 image: 'https://m.media-amazon.com/images/I/21EuC6xLJmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00I3LUR42/?tag=tolees-21'
 descuento: '37.10'
-average: '6.19059701492534'
+average: '6.19347826086953'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Disponible en diversos colores
-- Parte posterior de goma autoadhesiva después de la humidificación
 - Rango de frecuencia 8 Hz-22 kHz
+- Parte posterior de goma autoadhesiva después de la humidificación
 - Auriculares internos ligeros con diafragma de 9 mm, 8 Hz-22 kHz, tapones de silicona, diversos colores
 - Diafragmas de neodimio (9 mm)
 

@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para acero inoxidable: tres discos de corte X-LOCK Standard for Inox, diseñados especialmente para conseguir un rendimiento fiable en acero inoxidable
-- Cabezal plano para que el trabajo resulte cómodo incluso en zonas estrechas
-- Protección contra rearranque: evita la puesta en marcha automática de la herramienta tras una interrupción de corriente
-- Corte de madera con clavos: el disco de corte Carbide MultiiWheel X-LOCK permite un corte seguro y fácil de materiales blandos como madera, madera con clavos o plástico
-- Motor de 720 W de potencia con un peso de sólo 1.9 kg, para trabajar durante periodos prolongados
-- Compatibilidad: los discos X-LOCK son compatibles con las amoladoras con sistema X-LOCK y las amoladoras convencionales de cualquier marca
 - Larga vida útil en metal: contiene un disco de láminas X-LOCK X571 Best for Metal con una excepcional vida útil en un amplio rango de trabajos en metal
 - Perímetro de empuñadura reducido (176 mm), comparado con otras amoladoras angulares de la misma categoría de potencia, que proporciona una gran comodidad en el trabajo
+- Motor de 720 W de potencia con un peso de sólo 1.9 kg, para trabajar durante periodos prolongados
+- Para acero inoxidable: tres discos de corte X-LOCK Standard for Inox, diseñados especialmente para conseguir un rendimiento fiable en acero inoxidable
+- Compatibilidad: los discos X-LOCK son compatibles con las amoladoras con sistema X-LOCK y las amoladoras convencionales de cualquier marca
+- Cabezal plano para que el trabajo resulte cómodo incluso en zonas estrechas
+- Corte de madera con clavos: el disco de corte Carbide MultiiWheel X-LOCK permite un corte seguro y fácil de materiales blandos como madera, madera con clavos o plástico
+- Protección contra rearranque: evita la puesta en marcha automática de la herramienta tras una interrupción de corriente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CBC41GRS{{</world>}}

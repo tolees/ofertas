@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre: Cordones
-- Material de la suela: Caucho
 - Composición: Parte superior 100% algodón, Suela de caucho
-- Tipo de tacón: Plano
-- Anchura del zapato: Normal
 - Material exterior: Tela
+- Tipo de tacón: Plano
+- Cierre: Cordones
 - Revestimiento: Tela
+- Anchura del zapato: Normal
+- Material de la suela: Caucho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00K5OWXRO{{</world>}}

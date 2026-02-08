@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fotograma completo
 - 14 FPS
+- Fotograma completo
 - Dual expeed
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

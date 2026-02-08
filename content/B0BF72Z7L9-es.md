@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Includes 8 classic games
-- WiFi LIVE online play
 - Headphone jack
 - Light-Up Marquee
+- WiFi LIVE online play
 - Matching Riser
+- Includes 8 classic games
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BF72Z7L9{{</world>}}

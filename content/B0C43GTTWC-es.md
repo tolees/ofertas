@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte clásico
-- Compra una talla más pequeña
 - Cuello redondo de canalé
 - 100% algodón
+- Corte clásico
+- Compra una talla más pequeña
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C43GTTWC{{</world>}}

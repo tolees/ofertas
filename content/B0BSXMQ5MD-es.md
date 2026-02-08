@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- INCLUYE: 1 figura de Unidad de Rescate, 1 coche de Unidad de Rescate Disney
-- COCHE CON MOVIMIENTO OCULAR: Cuando haya que participar en un emocionante rescate, coloca a Bo sobre la escalera de Flash y pulsa hacia abajo para activar el movimiento ocular del camión de bomberos. Observa cómo Flash levanta la vista para saludar a su compañero de la famosa serie de TV de Disney Unidad de Rescate.
-- JUGUETES NIÑOS 3 AÑOS +: La figura de acción Bo y el camión de bomberos Flash de Disney Junior son adecuados para los niños a partir de los 3 años. La Unidad de rescate es fácil de manejar y proporcionará horas de diversión
 - INCLUYE TECNOLOGÍA VROOMLINK: Cada figura activa determinados vehículos y conjuntos de juego de Unidad de rescate de Disney, lo que te permitirá vivir un sinfín de aventuras
+- COCHE CON MOVIMIENTO OCULAR: Cuando haya que participar en un emocionante rescate, coloca a Bo sobre la escalera de Flash y pulsa hacia abajo para activar el movimiento ocular del camión de bomberos. Observa cómo Flash levanta la vista para saludar a su compañero de la famosa serie de TV de Disney Unidad de Rescate.
+- INCLUYE: 1 figura de Unidad de Rescate, 1 coche de Unidad de Rescate Disney
 - FIGURA DE ACCIÓN: Bo está listo para la acción. Vestido con su uniforme de bombero, tiene el mismo aspecto que en la serie, ¡y está deseando ayudar a proteger Motópolis Nunca dejarás de vivir aventuras de rescate con Firebuds Disney
+- JUGUETES NIÑOS 3 AÑOS +: La figura de acción Bo y el camión de bomberos Flash de Disney Junior son adecuados para los niños a partir de los 3 años. La Unidad de rescate es fácil de manejar y proporcionará horas de diversión
 - JUEGO IMAGINATIVO: Los juguetes de Unidad de rescate de Disney para niños y niñas son un bonito regalo con el que podrán recrear las escenas que más les gustan de la serie e imaginar sus propias misiones llenas de emoción.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

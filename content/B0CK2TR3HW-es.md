@@ -31,9 +31,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Contenido: 49 piezas con instrucciones: 1 figuras, 2 animales, 46 accesorios adicionales; materiales de plástico; LxAxA: Tronco de árbol: 11 x 7,5 x 7,5 cm; Placa base con accesorios: 13 x 9 x 5,5 cm, peso: 137 g, 71525
 - Experiencia auténtica de dinosaurios: Además de un investigador de dinosaurios y un Dimorphodon, el set incluye una estación de observación, un microscopio, un dron con cámara y otros accesorios para emocionantes aventuras de investigación
 - Gran Aniversario: ¡PLAYMOBIL celebra su cumpleaños! Desde hace 50 años, PLAYMOBIL ha cautivado a niños y adultos alrededor del mundo con diversos reinos de juego. Únete a nosotros y celebra cinco décadas llenas de aventuras inolvidables
-- Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 - Juego de figuras para niños a partir de 4 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
 - Observación emocionante: Escondido dentro de un tronco hueco, el valiente investigador de dinosaurios observa al Dimorphodon mientras busca comida. Con su dron y cámara, puede tomar imágenes desde muy cerca sin molestar al gran pterosaurio
+- Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CK2TR3HW{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ¡Conviértete en un artista con la mesa de luz Encanto!
-- Con mesa de luz, 6 marcadores, con carpeta para guardar sus dibujos
-- Contenido: mesa de luz, 6 rotuladores, carpeta, plantillas, pegatinas, rotuladores, tijeras, hojas de actividades, hojas de patrones, manual de instrucciones
-- Aprende a dibujar junto a Mirabel y la familia Madrigal! Gracias a la mesa de luz, podrás trazar las imágenes de tus pardones favoritos y decorarlos con el material incluido en el pack! Un divertido kit para desarrollar las habilidades manuales, la creatividad y la imaginación
 - Creatividad, Expresividad, Imaginación, Destreza manual, Afectividad, Autonomía
+- Con mesa de luz, 6 marcadores, con carpeta para guardar sus dibujos
+- ¡Conviértete en un artista con la mesa de luz Encanto!
+- Aprende a dibujar junto a Mirabel y la familia Madrigal! Gracias a la mesa de luz, podrás trazar las imágenes de tus pardones favoritos y decorarlos con el material incluido en el pack! Un divertido kit para desarrollar las habilidades manuales, la creatividad y la imaginación
+- Contenido: mesa de luz, 6 rotuladores, carpeta, plantillas, pegatinas, rotuladores, tijeras, hojas de actividades, hojas de patrones, manual de instrucciones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B5GN29HR{{</world>}}

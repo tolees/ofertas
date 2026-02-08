@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - PEPE JEANS IZABEL TURTLENECK LT GREY Ladies S
-- Ribete ancho por todas partes
 - Manga larga
+- Ribete ancho por todas partes
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CSNHYTNL{{</world>}}

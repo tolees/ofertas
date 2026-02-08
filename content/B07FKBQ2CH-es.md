@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Muy conveniente
 - Ropa deportiva Nike
-- Comodidad clásica
 - Camiseta Tiempo libre y sportwear Hombre
+- Muy conveniente
+- Comodidad clásica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07FKBQ2CH{{</world>}}

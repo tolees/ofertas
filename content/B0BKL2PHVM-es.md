@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ¡Estrategias infinitas y una gran rejugabilidad!
-- Adáptate a un entorno cambiante y planifica tus acciones con eficacia
-- De 1 a 4 jugadores
-- A partir de 14 años
 - Reúne emocionantes escenas y crea potentes sinergias para mejorar tu puntuación
+- ¡Estrategias infinitas y una gran rejugabilidad!
+- A partir de 14 años
+- De 1 a 4 jugadores
+- Adáptate a un entorno cambiante y planifica tus acciones con eficacia
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BKL2PHVM{{</world>}}

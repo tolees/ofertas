@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Lavable a máquina
 - Espuma viscoelástica refrigerada por aire
-- Ajuste relajado
 - Espuma viscoelástica
 - Vegano
+- Lavable a máquina
+- Ajuste relajado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CHGR2MV9{{</world>}}

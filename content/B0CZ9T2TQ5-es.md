@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cintura elástica con cordón
+- 100% poliéster (reciclado)
 - Corte clásico
 - AEROREADY
-- 100% poliéster (reciclado)
-- Cintura elástica con cordón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZ9T2TQ5{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alta calidad
 - Gris
+- Alta calidad
 - Este producto fue creado con atención al detalle
 - BATIDORA INOX VASO DE CRISTAL
 

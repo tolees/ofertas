@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Maridaje y Servicio: Acompaña óptimamente ensaladas, arroces mediterráneos, pescados azules y mariscos; servir a una temperatura de 6º
-- Familia: Un Vino Espumoso Sin Alcohol, elaborado con cariño por la familia García-Carrión en su bodega Jaume Serra; bueno para celebraciones y comidas familiares, siendo la mejor opción a los vinos espumosos y cavas con Alcohol
 - Bodega: Procedente de la bodega Jaume Serra; situada en Vilanova i la Geltrú y sobre el mar Mediterráneo, sus murallas originarias protegen la elaboración de un vino com más de 125 años de antigüedad
 - Uva y elaboración: Vino Blanco Espumoso y Semi Seco, Desalcoholizado y elaborado a partir de uvas de la variante Macabeo; si nivel de alcohol es de aproximadamente 0,9% Vol
+- Familia: Un Vino Espumoso Sin Alcohol, elaborado con cariño por la familia García-Carrión en su bodega Jaume Serra; bueno para celebraciones y comidas familiares, siendo la mejor opción a los vinos espumosos y cavas con Alcohol
 - Cata: Color brillante, limpio, amarillo con algún reflejo dorado y multitud de burbujas pequeñas y persistentes; buena intensidad en nariz con recuerdos de mazanas, peras y toques de piel de cítricos; en boca es amable, fresco y amplio
+- Maridaje y Servicio: Acompaña óptimamente ensaladas, arroces mediterráneos, pescados azules y mariscos; servir a una temperatura de 6º
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BP7Z8FDS{{</world>}}

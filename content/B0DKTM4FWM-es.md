@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Condiciones de germinación: 6-8 Días Tempura suelo: 12ºC
+- Forma de cultivo: Sembrar directamente al sitio definitivo y trasplantar cuando las plantas tengan unos 15 cm
+- La siguiente información se aplica a cada unidad del paquete
 - Largo, hojas dentadas, rojo con nervios blancos
 - Siembra: en Junio-Julio
-- Forma de cultivo: Sembrar directamente al sitio definitivo y trasplantar cuando las plantas tengan unos 15 cm
 - Cosecha: a partir de 150 Días
-- La siguiente información se aplica a cada unidad del paquete
-- Condiciones de germinación: 6-8 Días Tempura suelo: 12ºC
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DKTM4FWM{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte normal
-- BCI: Al comprar productos de algodón de PUMA, apoyas una producción más sostenible de algodón mediante la Iniciativa del Mejor Algodón (Better Cotton Initiative). Más información en: bettercotton.org/massbalance
-- Contiene material reciclado: Producto hecho con fibras recicladas. Una de las soluciones de PUMA para reducir el impacto ambiental
 - Bolsillos laterales
+- Corte normal
 - Cinturilla elástica con cordón interior para un confort personalizado
+- Contiene material reciclado: Producto hecho con fibras recicladas. Una de las soluciones de PUMA para reducir el impacto ambiental
+- BCI: Al comprar productos de algodón de PUMA, apoyas una producción más sostenible de algodón mediante la Iniciativa del Mejor Algodón (Better Cotton Initiative). Más información en: bettercotton.org/massbalance
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08NPW4ZT9{{</world>}}

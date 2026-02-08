@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PRO-ARTE - El juego de cuerdas de nylon DAddario Pro-Arte para guitarra clásica combina materiales de alta calidad con un equilibrio de volumen y resistencia cómodo con un tono cálido, pleno y consistente.
 - AGUDAS SELECCIONADAS POR LÁSER - Cada aguda de nylon dentro de un juego Pro-Arte se mide con láser para calcular el diámetro y los niveles de tensión para ofrecer siempre una entonación y tonalidad puras
-- GRAVES DE NÚCLEO DE NAILON - Las cuerdas Pro-Arte utilizan un entorchado de cobre plateado en un núcleo de nailon multifilamento patentado para crear las graves que combinan perfectamente la calidez y la proyección en un juego
 - CALIBRES DE CUERDAS - Los calibres de este juego de cuerdas de clásica son: Agudas .0280, .0322, .0403 Graves .029, .035, .043
+- GRAVES DE NÚCLEO DE NAILON - Las cuerdas Pro-Arte utilizan un entorchado de cobre plateado en un núcleo de nailon multifilamento patentado para crear las graves que combinan perfectamente la calidez y la proyección en un juego
+- PRO-ARTE - El juego de cuerdas de nylon DAddario Pro-Arte para guitarra clásica combina materiales de alta calidad con un equilibrio de volumen y resistencia cómodo con un tono cálido, pleno y consistente.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B000EEL6J6{{</world>}}

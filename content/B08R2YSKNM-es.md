@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- TEXTURAS SORPRENDENTES: Nuestras texturas Lullage enamoran por ser muy fresquitas, super ligeras y divertidas. Porque la emoción y la eficacia son nuestro must para seguir sorprendiendo a nuestros LullageLovers y apasionados de Lullage desde hace más de 15 años.
 - MODO DE USO: Aplica el gel en las palmas de tus manos. Humedécelo con agua y frótalo con suavidad en tus palmas. El gel se transforma en espuma limpiadora. Extiéndelo por la cara, cuello y escote. Retira con agua y evita el contacto directo con los ojos
 - GEL LIMPIADOR: Foaming Jelly Cleanser es un gel limpiador espumoso, para pieles mixtas-grasas, e incluso para aquella con tendencia acneica. También actúa como escudo ante las agresiones externas como polución y contaminación
-- INGREDIENTES: Con extracto de lavanda que tiene propiedades antiinflamatoria y antisépticas, alga rofa que combate las agresiones externas, el mirto limón que disminuye la producción de sebo y ayuda a matificar la piel. Producto vegano y respetuoso con la piel y la naturaleza
 - EFICACIA LULLAGE: marca 100% especializada en las pieles mixtas y grasas e incluso con tendencia acneica. Todos nuestros productos Lullage se han testado dermatológica y oftalmológicamente y han demostrado su eficacia bajo estudio multi-étnico
+- TEXTURAS SORPRENDENTES: Nuestras texturas Lullage enamoran por ser muy fresquitas, super ligeras y divertidas. Porque la emoción y la eficacia son nuestro must para seguir sorprendiendo a nuestros LullageLovers y apasionados de Lullage desde hace más de 15 años.
+- INGREDIENTES: Con extracto de lavanda que tiene propiedades antiinflamatoria y antisépticas, alga rofa que combate las agresiones externas, el mirto limón que disminuye la producción de sebo y ayuda a matificar la piel. Producto vegano y respetuoso con la piel y la naturaleza
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08R2YSKNM{{</world>}}

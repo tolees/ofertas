@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- "¡Gran experiencia de laberinto inclinable en 3D diseñado e inspirado en el mundo de Super Mario! ¡Crea tus propias combinaciones de laberintos pasando por las 5 fases y las 10 desafiantes trampas! ¡Lleva la bola con cuidado hasta la cima para alcanzar la meta! "
-- Sujeta los mandos para inclinar y girar el tablero a través del castillo.
 - Muchos trucos y movimientos sin pilas.
+- Sujeta los mandos para inclinar y girar el tablero a través del castillo.
 - Perfecciona tus habilidades para competir con amigos y familiares.
+- "¡Gran experiencia de laberinto inclinable en 3D diseñado e inspirado en el mundo de Super Mario! ¡Crea tus propias combinaciones de laberintos pasando por las 5 fases y las 10 desafiantes trampas! ¡Lleva la bola con cuidado hasta la cima para alcanzar la meta! "
 - Ideal para regalos de cumpleaños y fiestas. Edad: +5 años. No apto para niños menores de 3 años. Peligro de asfixia: piezas y bolas pequeñas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

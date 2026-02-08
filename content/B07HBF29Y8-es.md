@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- APTO PARA TODO TIPO DE COCINAS: Puede usarse en todo tipo de fuegos incluido inducción y su sistema Full Induction sin agujeros, permite una perfecta distribución y aprovechamiento máximo de la energía a la hora de cocinar.
 - MANGO EN ACERO: mango remachado fabricado en acero inoxidable que asegura ausencia total de movimientos indeseados para una seguridad total. Mango que favorece el agarre, asegurando comodidad y evitando quemaduras.
-- DIÁMETRO BASE: 20 cm= 15,4 cm / 24 cm= 18,5 cm / 28 cm= 21,6 cm.
 - ANTIADHERENTE: contiene antiadherente tricapa Quantanium con partículas de titanio de gran resistencia.
+- APTO PARA TODO TIPO DE COCINAS: Puede usarse en todo tipo de fuegos incluido inducción y su sistema Full Induction sin agujeros, permite una perfecta distribución y aprovechamiento máximo de la energía a la hora de cocinar.
+- DIÁMETRO BASE: 20 cm= 15,4 cm / 24 cm= 18,5 cm / 28 cm= 21,6 cm.
 - ALUMINIO FORJADO: fabricadas en aluminio forjado de la mejor calidad de 4 mm de espesor. Este lote de sartenes con efecto exterior en estilo cobre metalizado distribuye el calor de forma más regular.
 - LAVAR A MANO: para una mayor vida útil del antiadherente del producto se recomienda lavar a mano.
 

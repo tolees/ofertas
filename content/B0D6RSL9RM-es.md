@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Composición: 81 por ciento de algodón y 19 por ciento de lino
+- Ajuste: recto regular
 - Instrucciones de cuidado: lavable a máquina
 - Tipo de estiramiento: no elástico
+- Composición: 81 por ciento de algodón y 19 por ciento de lino
 - Pantalón largo
-- Ajuste: recto regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D6RSL9RM{{</world>}}

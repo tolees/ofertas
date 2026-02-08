@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Material de forro polar aislante para calidez ligera.
+- Tela elástica para comodidad adicional y flexibilidad.
 - Fácil de usar en capas o por sí solo.
 - Cuello alto para mayor protección contra el frío.
-- Tela elástica para comodidad adicional y flexibilidad.
-- Material de forro polar aislante para calidez ligera.
 - Costuras planas para evitar rozaduras al moverse.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

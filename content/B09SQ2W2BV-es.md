@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- NormativaS: RoHS. Test de Funcionamiento: 100% testado.
 - Apto para carga y datos
-- Longitud: N/A
 - Se utiliza para adaptar un cable con conexión Micro Usb a un puerto con conexión USB-C
 - Color: Gris
+- Longitud: N/A
+- NormativaS: RoHS. Test de Funcionamiento: 100% testado.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09SQ2W2BV{{</world>}}

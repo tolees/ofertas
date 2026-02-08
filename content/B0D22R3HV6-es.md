@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dibuja y escribe de forma natural en la pantalla con el Surface Slim Pen, siempre listo y cargado en la ranura de almacenamiento del teclado.
-- El Lápiz Surface Slim Pen tiene una batería que dura todo el día. Hasta 15 horas con un uso normal.
+- Un conjunto de teclas mecánicas retroiluminadas y un gran panel táctil para una navegación y un control precisos.
 - Desbloquea nuevas posibilidades con la tecla Copilot dedicada que te da acceso instantáneo a experiencias que mejorarán tu productividad
-- El teclado Surface Pro se pliega para proteger la pantalla de tu Surface Pro (se vende por separado) y ahorrar batería. Se pliega completamente para cambiar al modo tableta.
 - Elige el color de tu teclado: Negro, Platino, Zafiro y Duna.
 - Mejora tu experiencia con las nueva teclas de silenciamiento de micrófono y captura de imágenes
+- El Lápiz Surface Slim Pen tiene una batería que dura todo el día. Hasta 15 horas con un uso normal.
+- El teclado Surface Pro se pliega para proteger la pantalla de tu Surface Pro (se vende por separado) y ahorrar batería. Se pliega completamente para cambiar al modo tableta.
 - Compatible con Surface Pro (11ª edición), Surface Pro 9 y Surface Pro 8. (Se venden por separado)
-- Un conjunto de teclas mecánicas retroiluminadas y un gran panel táctil para una navegación y un control precisos.
+- Dibuja y escribe de forma natural en la pantalla con el Surface Slim Pen, siempre listo y cargado en la ranura de almacenamiento del teclado.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D22R3HV6{{</world>}}

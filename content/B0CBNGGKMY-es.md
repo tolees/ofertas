@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🤓 La regla es simple: en cada turno, vota por la persona que mejor se adapte a la pregunta y señálate si crees que ganarás la mayoría de los votos. ¡Luego comparte las anécdotas que justificaron tu elección!
-- 📄 ¡400 preguntas! Lo que significa más de 27 horas de juego (y risas).
-- ♻️ Además, estás haciendo una buena acción local: las cartas se producen en Europa con papel ecorresponsable y el juego ha sido desarrollado por una empresa emergente.
-- ⌚ Partida de 15 a 60 minutos de 3 a 10 jugadores. Divertido y rápido: temas y preguntas variadas. ¡Aprende el juego en minutos y juega durante horas!
-- 🎁 Perfecto como regalo de Navidad o cumpleaños, o para llevar a despedidas de soltero o soltera, fines de semana de hacer equipo...
 - 😄 DESEMBUCHA es EL juego de cartas definitivo para una quedada con amigos, colegas o familia ¡Juego de sobremesa ideal para romper el hielo!
+- ⌚ Partida de 15 a 60 minutos de 3 a 10 jugadores. Divertido y rápido: temas y preguntas variadas. ¡Aprende el juego en minutos y juega durante horas!
+- 🤓 La regla es simple: en cada turno, vota por la persona que mejor se adapte a la pregunta y señálate si crees que ganarás la mayoría de los votos. ¡Luego comparte las anécdotas que justificaron tu elección!
+- ♻️ Además, estás haciendo una buena acción local: las cartas se producen en Europa con papel ecorresponsable y el juego ha sido desarrollado por una empresa emergente.
+- 🎁 Perfecto como regalo de Navidad o cumpleaños, o para llevar a despedidas de soltero o soltera, fines de semana de hacer equipo...
+- 📄 ¡400 preguntas! Lo que significa más de 27 horas de juego (y risas).
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CBNGGKMY{{</world>}}

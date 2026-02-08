@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Aporta a tu cuerpo los electrolitos —sodio, cloruro, potasio, calcio y magnesio— que más se pierden al sudar
-- Las soluciones electrolíticas a base de hidratos de carbono mejoran la absorción de agua durante el ejercicio físico y contribuyen a mantener el nivel de resistencia en ejercicios que requieren una resistencia prolongada
-- Apto para vegetarianos y veganos
 - Hidratos de carbono en una proporción de 2:1 de fuentes de glucosa y fructosa
 - Sin aromas artificiales ni conservantes (según normativa vigente)
+- Apto para vegetarianos y veganos
+- Las soluciones electrolíticas a base de hidratos de carbono mejoran la absorción de agua durante el ejercicio físico y contribuyen a mantener el nivel de resistencia en ejercicios que requieren una resistencia prolongada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B078JZPXS7{{</world>}}

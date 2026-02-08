@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Abrelatas pequeñas
-- Material: acero carbono
 - Fácil almacenaje por su reducido tamaño
 - Muy útil para excursiones
+- Abrelatas pequeñas
+- Material: acero carbono
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00B2N8IFS{{</world>}}

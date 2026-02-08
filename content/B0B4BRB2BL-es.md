@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Folleto ilustrado de colores. Edad recomendada: 8 años +
-- ¡Un kit de manualidades para crear pulseras de la amistad!
 - Incluye todos los accesorios para realizar10 pulseras: hilo de algodón, cuerda encerada, abalorios, dijes o incluso pulsera de polipiel
+- ¡Un kit de manualidades para crear pulseras de la amistad!
 - ¡Descubre diferentes técnicas de tejedura para crear pulseras de moda que podrás regalar a tus amigos!
 - Usa la rueda de espuma o la ventosa para sujetar la pulsera, ¡y tejer fácilmente!
 

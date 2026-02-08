@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diámetro de bola: 0,7 mm
-- Agarre de caucho ergonómico y clip metálico
-- Ancho de trazo: 0,35 mm.
 - Tinta de gel fluida que proporciona una gran suavidad y rapidez en la escritura
+- Ancho de trazo: 0,35 mm.
+- Agarre de caucho ergonómico y clip metálico
+- Diámetro de bola: 0,7 mm
 - Secado rápido
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

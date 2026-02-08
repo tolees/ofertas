@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 4 personajes principales, cada uno de ellos con habilidades especiales.
 - 4 mundos con 3 fases cada uno. Cooperativo local de 1 a 4 jugadores.
-- Run n Slash n Gun y sorprendentes gráficos de 16 bits.
+- 4 personajes principales, cada uno de ellos con habilidades especiales.
 - Armas y poderes desbloqueables y ¡mucha diversión y acción!
 - La Edición Coleccionista de Kemono Heroes incluye juego físico completo, llavero, banda sonora original, libro de arte y caja de coleccionista.
+- Run n Slash n Gun y sorprendentes gráficos de 16 bits.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DQ5FBJJ2{{</world>}}

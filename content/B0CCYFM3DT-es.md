@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Disfruta de un sonido potente y claro vayas donde vayas: este altavoz compacto produce un gran sonido con graves profundos; El procesador de difusión de sonido propaga el sonido en todas direcciones
 - Compacto y portátil: el XB100 es ligero y compacto; incluye una correa adaptable que puedes usar para transportar o sujetar el altavoz
 - Larga duración de la batería: el XB100 dura hasta 16 horas de bateria y cuenta con un práctico indicador del estado de la batería en tu smartphone; la carga se realiza a través de USB-C
 - Optima durabilidad: con clasificación IP67, es resistente al agua y al polvo; y tiene un nuevo recubrimiento uv para resistir incluso a la luz solar intensa, por lo que puedes llevar este altavoz a cualquier lugar
+- Disfruta de un sonido potente y claro vayas donde vayas: este altavoz compacto produce un gran sonido con graves profundos; El procesador de difusión de sonido propaga el sonido en todas direcciones
 - Llamadas manos libres: disfruta de una mejor calidad de llamada con la tecnología echo cancelling; dos personas pueden hablar al mismo tiempo sin cortes ni interrupciones
 
 [🛒 Aquí!!!]({{< param buyurl >}})

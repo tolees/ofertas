@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Rib en puños y bajo
+- Pantalón con cordones
 - Chaqueta con cremallera
 - Chándal de dos piezas formado por chaqueta con cuello alto y pantalón largo con bolsillos y cintura elástica ajustable. Logotipo estampado.
-- Pantalón con cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08Y3NHMW9{{</world>}}

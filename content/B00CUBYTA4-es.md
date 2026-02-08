@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cabeza hexagonal de ¼" (vástago ISO 1173 – E 6,3), acero S2
 - 2 puntas con cabeza especial para un buen agarre en cabezas de tornillo con perfil defectuoso, para soltar tornillos con la cabeza defectuosa, diferentes tipos y tamaños
 - Puntas de gran precisión
+- Cabeza hexagonal de ¼" (vástago ISO 1173 – E 6,3), acero S2
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00CUBYTA4{{</world>}}

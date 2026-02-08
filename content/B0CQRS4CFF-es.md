@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Rápida y eficiente: el cabezal oscilante ancho sigue sin dificultad los contornos de tu cuerpo para lograr una depilación eficiente. La depiladora atrapa el vello corto (0,5 mm) que la cera no puede atrapar
-- Lleva el spa a casa para disfrutar de una suavidad de pies a cabeza: rutina sencilla de 3 pasos para lucir una piel radiante. Incluye minirrasuradora facial, almohadilla de masaje, cepillo de exfoliación, cabezal de rasuradora femenina
 - Hasta un mes de piel suave dónde y cuándo quieras, desde la comodidad de tu casa
 - Control máximo: mango de precisión que permite un agarre controlado incluso cuando se usa en mojado
+- Lleva el spa a casa para disfrutar de una suavidad de pies a cabeza: rutina sencilla de 3 pasos para lucir una piel radiante. Incluye minirrasuradora facial, almohadilla de masaje, cepillo de exfoliación, cabezal de rasuradora femenina
 - Menos dolor y más confort: uso en mojado y en seco. Depílate suavemente en la bañera o bajo la ducha
 
 [🛒 Comprar!!!]({{< param buyurl >}})

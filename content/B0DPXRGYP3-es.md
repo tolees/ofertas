@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Los Redmi Buds 6 Pro pueden identificar y seguir dinámicamente la posición de la cabeza a través de un sensor de movimiento integrado para disfrutar de una experiencia de sonido 3D envolvente; con los modos Estándar, Música, Vídeo, Ebook y Juego, disfrutarás de una experiencia de sonido cautivadora en todo momento
 - Compatible con Google Fast pair y Xiaomi earbuds App
 - Diseño coaxial de triple controlador, que cuenta con un controlador de bajos de 11 mm con diafragma de titanio y dos tweeters piezoeléctricos cerámicos de 6.7 mm, para optimizar los agudos y ofrecer una reproducción de sonido precisa en todas las frecuencias; certificado por Hi-Res Audio Wireless y compatible con el códec de audio LDAC
-- Sonido de alta resolución certificado con transductores triples coaxiales y LDAC, cancelación activa del ruido híbrida de 55 dB/4 kHz, un 14.16% más que la generación anterior; sonido inmersivo integrado con 5 modos para más realismo; compatible con Google Fast pair y Xiaomi Earbuds App
 - Cancelación activa del ruido de 55 dB con 20 modos de nivel; la reducción total del ruido ANC es de 490.9 un 14.16% más que la generación anterior
+- Sonido de alta resolución certificado con transductores triples coaxiales y LDAC, cancelación activa del ruido híbrida de 55 dB/4 kHz, un 14.16% más que la generación anterior; sonido inmersivo integrado con 5 modos para más realismo; compatible con Google Fast pair y Xiaomi Earbuds App
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DPXRGYP3{{</world>}}

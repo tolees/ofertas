@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Horma clásica
 - Empeine de piel
 - Forro textil
 - Cordones elásticos y cierre autoadherente
 - Forro textil
+- Horma clásica
 - Puntera de ante
 
 [🛒 Comprar!!!]({{< param buyurl >}})

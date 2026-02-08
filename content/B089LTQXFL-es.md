@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Batería recargable de polímero de litio / corriente de entrada (input) 5v - 2, 1a / corriente de salida (output) 5v - 2, 1a para carga rápida / carga hasta 2 dispositivos al mismo tiempo
 - El paquete incluye: batería externa de 5000 mah, cable de carga usb-a a usb-c, 1 manual de instrucciones
+- Protección de seguridad integra protección contra sobrecargas / protección contra descargas / protección contra sobretensiones / fusible de cortocircuito / indicador de energía led azul
 - Diseño compacto y práctico cabe en cualquier chaqueta, bolsillo o bolso
 - Amplia compatibilidad batería externa compatible con prácticamente todos los dispositivos usbrecargables iPhone, Huawei, Samsung Galaxy, iPad y otros smartphones
-- Protección de seguridad integra protección contra sobrecargas / protección contra descargas / protección contra sobretensiones / fusible de cortocircuito / indicador de energía led azul
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B089LTQXFL{{</world>}}

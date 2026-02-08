@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Acondicionador sin aclarado, de textura ligera, hidratante y nutritiva, que repara y desenreda todo tipo de cabello y textura. Un escudo protector contra los daños causados por el calor, hasta 230°C. Prepara el cabello para un acabado sin encrespamiento.
-- Un acondicionador sin aclarado con 25 beneficios que hidrata los rizos, bucles y ondas. ¡Con aceite de coco para aportar más brillo y suavidad!
 - Aplicar según sea necesario sobre el cabello limpio y húmedo y peinar. Utilizar antes del peinado para desenredar fácilmente y definir la forma del cabello.
+- Un acondicionador sin aclarado con 25 beneficios que hidrata los rizos, bucles y ondas. ¡Con aceite de coco para aportar más brillo y suavidad!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00XXO2K4O{{</world>}}

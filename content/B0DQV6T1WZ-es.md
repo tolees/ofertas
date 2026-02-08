@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Diseño compacto y ligero que permite cortes rápidos y suaves en varias posiciones con alta movilidad
+- Incluye: GST 18V-95 B
 - Configuración orbital de 4 niveles para cortes controlados y flexibles
 - AMPShare: Las baterías y cargadores son totalmente compatibles con el sistema Bosch Professional 18V y con muchas otras herramientas de la alianza de baterías de múltiples marcas AMPShare
-- Diseño compacto y ligero que permite cortes rápidos y suaves en varias posiciones con alta movilidad
 - Rueda de selección y gatillo de velocidad variable que facilitan el ajuste de la velocidad de carrera para diferentes materiales
-- Incluye: GST 18V-95 B
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQV6T1WZ{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tecnología transpirable AEROREADY
 - 100% poliéster (reciclado)
+- Tecnología transpirable AEROREADY
 - Corte clásico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Instantáneas a Velocidad Ultraalta: Captura la inspiración en tu entorno en un abrir y cerrar de ojos, gracias a una Cámara con Ultrailuminación y al XD Motion Engine de HUAWEI, ya se trate de la emoción de las olas, de un momento de vigor atlético o de una escena asombrosa.
 - EMUI 14.2: Prepárate para divertirte con los temas interactivos llenos de elementos interesantes que cambian con tu mirada. Sincroniza tu pantalla de inicio con tu estado de ánimo y personalidad añadiendo stickers modernos y divertidos emojis.
 - Diseño de Símbolo de Avance: Presentamos el Diseño de Símbolo de Avance, una obra maestra que cambia tendencias y redefine la estética de forma innovadora.
-- Instantáneas a Velocidad Ultraalta: Captura la inspiración en tu entorno en un abrir y cerrar de ojos, gracias a una Cámara con Ultrailuminación y al XD Motion Engine de HUAWEI, ya se trate de la emoción de las olas, de un momento de vigor atlético o de una escena asombrosa.
-- Cristal Kunlun Superduradero: El Cristal Kunlun Superduradero aumenta la resistencia a caídas en un 100 %, por lo que no tendrás que preocuparte en absoluto por los inevitables percances.
 - Doble SuperCharge: La función de Doble SuperCharge hace que tu teléfono esté más que listo para funcionar en cuestión de minutos y la batería de 4900 mAh lo mantendrá funcionando durante horas y horas. Incluso puedes alimentar tus otros dispositivos en caso de apuro, con o sin cable.
+- Cristal Kunlun Superduradero: El Cristal Kunlun Superduradero aumenta la resistencia a caídas en un 100 %, por lo que no tendrás que preocuparte en absoluto por los inevitables percances.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CZ7W8PXL{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- LOOKS METÁLICOS Y FRÍOS: Gracias a la mascarilla temporal de color, tu cabello obtendrá reflejos metálicos y fríos. El filtro METAL-ICE 1002 Platino Claro es ideal para un rubio plateado claro y frío con un ligero irisado, o para neutralizar tonos amarillos o naranjas no deseados
 - VISIBILIDAD INMEDIATA: Nuestros filtros intensificadores de color son más que un tinte directo para el cabello, ya que la tecnología 3-IN-1-INSTA-PIC proporciona color, cuidado y brillo intensos de inmediato, abriendo un mundo de posibilidades multicolores
 - FÁCIL APLICACIÓN: Después de lavar el cabello, aplicar en el cabello secado con toalla y masajear uniformemente. Dejar actuar de 3 a 15 minutos según la intensidad deseada y enjuagar bien. Duración de hasta 8 lavados
 - NUTRI COLOR FILTERS: Descubre toda la gama de coloración semipermanente para el cabello, incluyendo los filtros FASHION y los 3 filtros de mezcla MIXING
 - CUIDADO Y BRILLO: El filtro de color cuida el cabello, lo nutre durante la coloración con pantenol hidratante, reduce la rotura del cabello, desenreda y doma el cabello, y al mismo tiempo le proporciona un brillo radiante
+- LOOKS METÁLICOS Y FRÍOS: Gracias a la mascarilla temporal de color, tu cabello obtendrá reflejos metálicos y fríos. El filtro METAL-ICE 1002 Platino Claro es ideal para un rubio plateado claro y frío con un ligero irisado, o para neutralizar tonos amarillos o naranjas no deseados
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08JHTR5JK{{</world>}}

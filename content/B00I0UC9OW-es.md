@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Coated leggings
 - Slim fit leggings
+- Coated leggings
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00I0UC9OW{{</world>}}

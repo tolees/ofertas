@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- De 2 a 4 jugadores. A partir de 6 años
-- Un mini juego de mesa con más de 300 preguntas sobre la geografía mundial, basado en la famosa serie érase una vez los exploradores.
-- Más de 300 preguntas de 3 niveles diferentes.
 - Responde las preguntas del maestro sobre geografía mundial para poder avanzar en el tablero de juego. El primero que termine el recorrido gana la partida.
+- Un mini juego de mesa con más de 300 preguntas sobre la geografía mundial, basado en la famosa serie érase una vez los exploradores.
 - Contiene: 1 tablero de juego, 96 cartas, 4 peones, 4 fichas “norte o sur"
+- De 2 a 4 jugadores. A partir de 6 años
+- Más de 300 preguntas de 3 niveles diferentes.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08BCSLLL3{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Empeine de piel sintética
-- Horma clásica
 - Puntera de ante
 - Suela de goma
 - Panel alrededor del tobillo y forro de malla
+- Horma clásica
+- Empeine de piel sintética
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CYNMRCJS{{</world>}}

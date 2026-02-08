@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - DE LARGA DURACIÓN: Es una fragancia cuya esencia se mantiene en la piel con el paso de las horas. Para que disfrutes de su olor durante todo el día, sin preocuparte por nada más
 - PIRÁMIDE OLFATIVA: Notas de salida: bergamota, citronela y jengibre; Notas de corazón: flor de naranja, pimienta rosa e Ylan Ylan; Notas de fondo: almizcle y madera de cedro
-- TENDENCIA OLFATIVA: Este perfume de hombre tiene una tendencia afrutada (cítrica). Es ideal para aquellos hombres que buscan un olor maduro, limpio y fresco
 - MODERNO Y MASCULINO: un agua de colonia para hombres que te transporta a los frescos y coloridos bosques de bambú del lejano oriente. ¡Disfruta de las sensaciones más agradables de la naturaleza!
 - FRAGANCIA ÚNICA: Nike Turquoise es un perfume para hombres actuales y vivaces que captura a la perfección la esencia de la masculinidad actual. Frasco con vaporizador.
+- TENDENCIA OLFATIVA: Este perfume de hombre tiene una tendencia afrutada (cítrica). Es ideal para aquellos hombres que buscan un olor maduro, limpio y fresco
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BTTJ674F{{</world>}}

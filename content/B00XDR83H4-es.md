@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aroma: Perfil aromático afrutado donde predominan los frutos silvestres, rojos y negros, combinados con las notas dulces de la madera de roble y un fondo tostado de vainilla e incienso.
-- Gusto: En boca es un vino fino, con cuerpo, equilibrado y elegante; su persistencia larga y taninos maduros proporcionan un sabor intenso lleno de matices.
-- Apariencia: Vino tinto color cereza intenso de capa media-alta y aspecto fluido y brillante.
 - Maridaje: Combina perfectamente con Carnes nobles, quesos y productos de caza menor.
-- Consumo: Para disfrutar de sus cualidades óptimas, recomendamos su consumo entre 16 y 18 ºC y conservarlo en un lugar fresco y seco.
+- Apariencia: Vino tinto color cereza intenso de capa media-alta y aspecto fluido y brillante.
 - Tipo de uva: Elaborado a partir de una selección de uvas de la variedad tempranillo, siguiendo un cuidadoso proceso de envejecimiento de 12 meses en barrica de roble francés y afinamiento en botellero.
+- Aroma: Perfil aromático afrutado donde predominan los frutos silvestres, rojos y negros, combinados con las notas dulces de la madera de roble y un fondo tostado de vainilla e incienso.
+- Consumo: Para disfrutar de sus cualidades óptimas, recomendamos su consumo entre 16 y 18 ºC y conservarlo en un lugar fresco y seco.
+- Gusto: En boca es un vino fino, con cuerpo, equilibrado y elegante; su persistencia larga y taninos maduros proporcionan un sabor intenso lleno de matices.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00XDR83H4{{</world>}}

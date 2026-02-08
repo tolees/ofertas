@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Vida al aire libre
 - Bolsa de lona
 - Tiene detalles distintivos de la marca "Puma"
-- Vida al aire libre
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJDHRGW1{{</world>}}

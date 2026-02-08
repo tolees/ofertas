@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 100% cotton 9forty featuring an mlb team logo with raised embroidery
-- New York Yankees
 - El producto es ajustable
+- 100% cotton 9forty featuring an mlb team logo with raised embroidery
 - Esta hecha de algodón
+- New York Yankees
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01K9Y4UFC{{</world>}}

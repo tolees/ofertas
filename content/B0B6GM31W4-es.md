@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- HAZ SONAR LA ALARMA: la sirena de seguridad integrada te permite activar la alarma cuando lo necesites.
-- VINCULACIÓN CON OTROS DISPOSITIVOS: emparéjala con Ring Chime para escuchar las notificaciones de audio por toda la casa y añade comandos de voz con un dispositivo compatible con Alexa.
-- DETECCIÓN DE MOVIMIENTO: averigua con precisión cuándo y dónde comienza un evento de movimiento en el exterior gracias al mapa aéreo de la detección de movimiento 3D y la vista panorámica.
-- MÁS VISIÓN, MÁS INFORMACIÓN Y MÁS PROTECCIÓN: guarda tus vídeos grabados hasta 180 días para volver a verlos en cualquier momento, recibe alertas cuando se detecte a una persona y mucho más con una suscripción a Ring Home (a la venta por separado)*.
-- SEGURIDAD DE NIVEL PROFESIONAL: la cámara Pro con luces te proporciona una protección inalámbrica mejorada para tu hogar gracias a sus funcionalidades avanzadas, como el vídeo 2K, la detección de movimiento 3D, la vista panorámica y la conexión wifi de doble banda.
 - ILUMINA CUALQUIER RINCÓN: las luces ajustables te ayudan a proteger tu casa y a mantener bien iluminados los caminos y rincones oscuros.
-- INSTALACIÓN SENCILLA: conecta la cámara Pro con luces al cableado de tu hogar para un rendimiento y protección continuos.
 - ALTERNATIVA AL CCTV: obtén una alternativa asequible a los CCTV tradicionales conectando tu cámara Pro con luces a otras cámaras de seguridad Ring. Podrás grabar, guardar y compartir tus vídeos con una suscripción a Ring Home (a la venta por separado).
+- DETECCIÓN DE MOVIMIENTO: averigua con precisión cuándo y dónde comienza un evento de movimiento en el exterior gracias al mapa aéreo de la detección de movimiento 3D y la vista panorámica.
+- SEGURIDAD DE NIVEL PROFESIONAL: la cámara Pro con luces te proporciona una protección inalámbrica mejorada para tu hogar gracias a sus funcionalidades avanzadas, como el vídeo 2K, la detección de movimiento 3D, la vista panorámica y la conexión wifi de doble banda.
+- HAZ SONAR LA ALARMA: la sirena de seguridad integrada te permite activar la alarma cuando lo necesites.
+- MÁS VISIÓN, MÁS INFORMACIÓN Y MÁS PROTECCIÓN: guarda tus vídeos grabados hasta 180 días para volver a verlos en cualquier momento, recibe alertas cuando se detecte a una persona y mucho más con una suscripción a Ring Home (a la venta por separado)*.
+- VINCULACIÓN CON OTROS DISPOSITIVOS: emparéjala con Ring Chime para escuchar las notificaciones de audio por toda la casa y añade comandos de voz con un dispositivo compatible con Alexa.
+- INSTALACIÓN SENCILLA: conecta la cámara Pro con luces al cableado de tu hogar para un rendimiento y protección continuos.
 - CLARIDAD CRISTALINA: observa cada detalle en 2K con una nitidez excepcional gracias a la mejor calidad de imagen de Ring hasta ahora[**]. El campo de visión de 140° y la visión nocturna en color te permiten ver lo que ocurre en casa, sea la hora que sea.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

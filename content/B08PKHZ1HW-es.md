@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre: Velcro
 - Tipo de tacón: Plano
 - Material de la suela: Caucho
+- Cierre: Velcro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08PKHZ1HW{{</world>}}

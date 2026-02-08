@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- COMO UN DOBLE ESPRESSO: ¡Este suero despierta los ojos cansados!
-- REDUCE LAS OJERAS: Revolution Skincare Targeted Under Eye Serum ayuda a reducir el aspecto de las ojeras y mejora la apariencia de la hinchazón debajo de los ojos
 - VEGANO Y SIN CRUELDAD: No contiene fragancias, aceites, parabenos, alcohol ni gluten, y también es vegano y sin crueldad
-- REDUCE LA APARICIÓN DE LÍNEAS DE EXPRESIÓN: Contiene cafeína para desinflamar e iluminar, y Ácido Hialurónico para rellenar las líneas finas
+- REDUCE LAS OJERAS: Revolution Skincare Targeted Under Eye Serum ayuda a reducir el aspecto de las ojeras y mejora la apariencia de la hinchazón debajo de los ojos
 - CÓMO SE USA: Aplicar sobre la piel limpia antes del maquillaje y aplica suavemente 1-2 gotas alrededor del hueso orbital con el dedo anular
+- COMO UN DOBLE ESPRESSO: ¡Este suero despierta los ojos cansados!
+- REDUCE LA APARICIÓN DE LÍNEAS DE EXPRESIÓN: Contiene cafeína para desinflamar e iluminar, y Ácido Hialurónico para rellenar las líneas finas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BY933PPF{{</world>}}

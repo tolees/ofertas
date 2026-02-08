@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- AEROREADY
 - Diseño que favorece la libertad de movimiento
 - Tejido calado 100% poliéster reciclado
-- AEROREADY
 - Corte clásico
 
 [🛒 Aquí!!!]({{< param buyurl >}})

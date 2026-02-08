@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Vegana certificada después de pruebas meticulosas realizadas por la etiqueta V italiana, la confiable fórmula vegana también es hipoalergénica, suave para pieles sensibles y sellada de manera segura con la aprobación de Dermatest.
-- Agentes exfoliantes que no irritan la piel: complejo de fitoenzimas y PHA (gluconolactona) para preparar suavemente la piel para una tez limpia e iluminada.
-- Las trufas blancas premium cuidadosamente extraídas del Piamonte, Italia, infundidas con tocoferol (vitamina E) constituyen el ingrediente característico de dAlba, Trufferol, que es rico en antioxidantes.
 - Sin tensioactivos, la fórmula doble de suero y agua hidrata y retiene eficazmente la humedad para preparar la piel para el primer paso del cuidado de la piel. Agite bien la capa de SERUM & WATER antes de usar.
+- Vegana certificada después de pruebas meticulosas realizadas por la etiqueta V italiana, la confiable fórmula vegana también es hipoalergénica, suave para pieles sensibles y sellada de manera segura con la aprobación de Dermatest.
+- Las trufas blancas premium cuidadosamente extraídas del Piamonte, Italia, infundidas con tocoferol (vitamina E) constituyen el ingrediente característico de dAlba, Trufferol, que es rico en antioxidantes.
+- Agentes exfoliantes que no irritan la piel: complejo de fitoenzimas y PHA (gluconolactona) para preparar suavemente la piel para una tez limpia e iluminada.
 - Débilmente ácido con un nivel de pH de 4,0 a 6,0 (el estado neutro de la piel), ilumina y suaviza sellando la humedad y creando una barrera para prevenir las bacterias mientras ayuda suavemente a la renovación celular.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

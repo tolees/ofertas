@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tela Suave: Fabricada con una mezcla optimizada de 60% algodón peinado ring-spun y 40% poliéster para garantizar la comodidad transpirable del algodón con la resistencia y estabilidad del poliéster, para una durabilidad y comodidad superiores.
-- Durabilidad superior: Construcción Cut and Sew con costuras laterales, cuello reforzado para prevenir estiramientos y deformaciones, manteniendo la forma de la camiseta uso tras uso.
 - Práctica y cómoda: Diseñada para ofrecer la máxima comodidad, transpirabilidad y frescura, esta camiseta Alpinestars con ajuste regular combina funcionalidad deportiva con una estética moderna.
 - Diseñada en California: Aspecto icónico, diseño deportivo y contemporáneo. Singularidad y prestigio de la marca Alpinestars.
 - Producto Oficial de Alpinestars: Desarrollado y fabricado gracias a la experiencia en competiciones de carreras, probado por los mejores atletas del mundo.
+- Tela Suave: Fabricada con una mezcla optimizada de 60% algodón peinado ring-spun y 40% poliéster para garantizar la comodidad transpirable del algodón con la resistencia y estabilidad del poliéster, para una durabilidad y comodidad superiores.
+- Durabilidad superior: Construcción Cut and Sew con costuras laterales, cuello reforzado para prevenir estiramientos y deformaciones, manteniendo la forma de la camiseta uso tras uso.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CY66PZJ5{{</world>}}

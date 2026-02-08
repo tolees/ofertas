@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- A base de rhodiola y vitamina c, tradicionalmente utilizados para calmar momentos de ansiedad y estrés
-- Modo de empleo: 1 cápsula al día, preferentemente antes del desayuno no deberá sobrepasar la dosis diaria recomendada
 - Ayuda al sistema nervioso y mantiene el estado anímico en casos depresivos
 - Producto de alta calidad
+- Modo de empleo: 1 cápsula al día, preferentemente antes del desayuno no deberá sobrepasar la dosis diaria recomendada
+- A base de rhodiola y vitamina c, tradicionalmente utilizados para calmar momentos de ansiedad y estrés
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01CR3TEF4{{</world>}}

@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - COOSOL, EXPERTOS EN ACEITES VEGETALES. Somos una marca referente en la elaboración de aceite de girasol y otros aceites de origen vegetal extraídos del prensado de las semillas. Nuestros aceites son reconocidos por su alto contenido en ácidos grasos poliinsaturados y antioxidantes como la vitamina E, y por su buen comportamiento en la cocina.
 - EL ACEITE DE GIRASOL ESPECIAL PARA FREÍR. En Coosol, nuestro Aceite de Girasol Especial Freír es un aceite refinado de color amarillo intenso que se obtiene a partir de una selección de pipas de girasol alto oleico.
-- FRITURAS MÁS LIGERAS Y CRUJIENTES. Coosol Especial Freír forma una capa fina alrededor de los alimentos que impide la entrada de más aceite y evita un exceso de grasa en la comida. Lograr texturas ligeras, crujientes, doradas y fáciles de digerir.
-- TU ALIADO PARA TODO TIPO DE FRITOS. Haz de Coosol Especial Freír tu aliado en la cocina: un aceite para freír idóneo en tus fritos, rebozados, empanados o enharinados, tanto en freidora como en sartén.
 - RICO EN ANTIOXIDANTES Y RESISTENTE A LA OXIDACIÓN. Coosol Especial Freír es rico en antioxidantes naturales como la vitamina E y, gracias a su alta estabilidad a la temperatura, se oxida mucho menos. Podrás usarlo el doble de tiempo que otros aceites.
+- TU ALIADO PARA TODO TIPO DE FRITOS. Haz de Coosol Especial Freír tu aliado en la cocina: un aceite para freír idóneo en tus fritos, rebozados, empanados o enharinados, tanto en freidora como en sartén.
+- FRITURAS MÁS LIGERAS Y CRUJIENTES. Coosol Especial Freír forma una capa fina alrededor de los alimentos que impide la entrada de más aceite y evita un exceso de grasa en la comida. Lograr texturas ligeras, crujientes, doradas y fáciles de digerir.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BPCPRWS2{{</world>}}

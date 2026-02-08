@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- MÚLTIPLES BENEFICIOS: La raíz de jengibre tiene un uso extendido en la medicina tradicional china y ayurvédica para aliviar molestias estomacales y flatulencias. También contribuye a prevenir y tratar las náuseas y los vómitos.
+- SOBRE NOSOTROS: Desde 1982, el Granero Integral apuesta por una alimentación saludable y ecológica al alcance de todos. Somos empresa BCorp certificada y cumplimos con los estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
 - APTO PARA VEGANOS: Nuestras cápsulas de jengibre bio son aptas para el consumo vegano y no contienen gluten, ni leche ni lactosa.
 - INGREDIENTES NATURALES: 1-4 cápsulas aportan: 400-1600 mg de polvo de rizoma de jengibre ecológico, que contienen 4-16 mg de gingeroles.
 - MODO DE EMPLEO: Se recomienda tomar entre 1 y 4 cápsulas al día. Los complementos alimenticios no deben utilizarse como sustituto de una dieta variada y equilibrada y un estilo de vida saludable. Mantener fuera del alcance de los niños.
-- SOBRE NOSOTROS: Desde 1982, el Granero Integral apuesta por una alimentación saludable y ecológica al alcance de todos. Somos empresa BCorp certificada y cumplimos con los estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
+- MÚLTIPLES BENEFICIOS: La raíz de jengibre tiene un uso extendido en la medicina tradicional china y ayurvédica para aliviar molestias estomacales y flatulencias. También contribuye a prevenir y tratar las náuseas y los vómitos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B017EOED3E{{</world>}}

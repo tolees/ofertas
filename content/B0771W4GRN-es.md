@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El polo para tus aventuras inesperadas, desde golf y pesca a una noche en la ciudad con tus amigos
-- Polo de manga corta de hombre para excursionismo y otras actividades al aire libre, comodidad durante todo el año, ajuste activo
-- Contenido: 1x Columbia Hombre Polo de manga corta, SUN RIDGE POLO, Tejido: 70% Modal/30% Poliéster, Talla y peso de referencia: M: 140 g, Color: Azul (Collegiate Navy), Talla: S, EO0035
 - Combina con otros productos Columbia para conseguir el nivel perfecto de calidez y resistencia al agua
+- Contenido: 1x Columbia Hombre Polo de manga corta, SUN RIDGE POLO, Tejido: 70% Modal/30% Poliéster, Talla y peso de referencia: M: 140 g, Color: Azul (Collegiate Navy), Talla: S, EO0035
+- Polo de manga corta de hombre para excursionismo y otras actividades al aire libre, comodidad durante todo el año, ajuste activo
+- El polo para tus aventuras inesperadas, desde golf y pesca a una noche en la ciudad con tus amigos
 - Mezcla de modal y poliéster de alta calidad para la máxima durabilidad y confort
 
 [🛒 Comprar!!!]({{< param buyurl >}})

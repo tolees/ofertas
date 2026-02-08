@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura elástica
 - 90% algodón / 10% elastano
-- Talle alto
 - Corte ajustado
+- Cintura elástica
+- Talle alto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZPLXSLS{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ofrecen comodidad durante todo el día
 - Detalles distintivos de la marca
+- Ofrecen comodidad durante todo el día
 - Con una amortiguación suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

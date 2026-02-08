@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre de cordones
-- Suela original de gofre
-- Construcción vulcanizada
-- Puntera deportiva
 - Brooklyn LS está inspirado en los clásicos de Vans con una influencia de estilo de zapatos de cancha. Cuenta con una puntera deportiva y una forma más cómoda para la fila de ojos.
+- Puntera deportiva
+- Cierre de cordones
+- Construcción vulcanizada
+- Suela original de gofre
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJ1HC6VS{{</world>}}

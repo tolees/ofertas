@@ -28,16 +28,16 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Público: Unisex
-- Deporte: Running
-- Composición: 60% Textil + 40% Piel sintética
-- Instrucciones de lavado: Humedecer con un paño, limpiar con un cepillo suave con jabón neutro y aclarar de nuevo con un paño. Dejar secar al sol.
-- Tallaje correcto, elige tu talla habitual
-- Color: Negro Negro
-- Tecnologías: Estrobel, K-Flex, Phylon Tech, Pro Lace, Textile Upper, Thermo-Tech, Ultragrip
-- Tipo de cierre: Cordones
 - Material de la suela: Goma
+- Tecnologías: Estrobel, K-Flex, Phylon Tech, Pro Lace, Textile Upper, Thermo-Tech, Ultragrip
+- Deporte: Running
+- Tallaje correcto, elige tu talla habitual
+- Tipo de cierre: Cordones
 - Suela:
+- Público: Unisex
+- Color: Negro Negro
+- Instrucciones de lavado: Humedecer con un paño, limpiar con un cepillo suave con jabón neutro y aclarar de nuevo con un paño. Dejar secar al sol.
+- Composición: 60% Textil + 40% Piel sintética
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BYDH17X8{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La característica especial de nuestro café es el prolongado tostado en tambor
 - Se prepara con perfección y dedicación a partir de ese pequeño grano negro que para muchos de nosotros encarna el ejemplo perfecto de excelencia y placer.
 - tostado en las inmediaciones de Viena, en uno de los tostadores de café tradicionales más conocidos y hoy en día los últimos de Austria, con experiencia y pasión desde 1929
 - paquete de mezclas de café con sabor natural
+- La característica especial de nuestro café es el prolongado tostado en tambor
 - Solo los mejores granos de Arábica, seleccionados a mano, así como granos Robusta
 
 [🛒 Comprar!!!]({{< param buyurl >}})

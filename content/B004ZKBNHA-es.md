@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Es un producto testado dermatologicamente
-- Leche hidratante reparadora
 - Hidrata y mantiene el bronceado
-- Tiene una rápida absorción
+- Leche hidratante reparadora
 - No contiene parabenos
+- Es un producto testado dermatologicamente
+- Tiene una rápida absorción
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B004ZKBNHA{{</world>}}

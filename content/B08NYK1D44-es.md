@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Elastic waistband with lanyard
 - Breathable fabric
 - Regular fit
+- Elastic waistband with lanyard
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08NYK1D44{{</world>}}

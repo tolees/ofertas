@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con capucha
-- Cierre: de Cremallera
 - Desigual
-- Fit: Regular
+- Cierre: de Cremallera
 - Manga: Larga
+- Con capucha
+- Fit: Regular
 - Largo: Corta
 
 [🛒 Comprar!!!]({{< param buyurl >}})

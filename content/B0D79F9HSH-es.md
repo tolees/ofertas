@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Forro: 63% piel de cerdo - 37% tela (100% poliéster reciclado)
-- Suela: 100% EVA
 - Color: blanco natural
 - Material superior: 58% tejido (100% poliéster reciclado) - 42% piel de vaca
+- Suela: 100% EVA
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D79F9HSH{{</world>}}

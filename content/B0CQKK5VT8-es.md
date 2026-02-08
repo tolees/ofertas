@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Adéntrate en Mini BarbieLand y disfruta imaginando a lo grande y soñando en miniatura con este conjunto de juego, que incluye una casa DreamHouse a pequeña escala, 3 vehículos, 4 muñecas y mucho más.
 - Las muñecas se doblan por la cintura para poder sentarse en los vehículos y cuentan con una base en forma de corazón que encaja en distintas zonas de la casa para jugar con ellas y exponerlas fácilmente.
 - Al abrir la caja misteriosa, descubrirás una minimuñeca Barbie de 3,81cm, además de una mascota aleatoria con un accesorio que podrás utilizar para divertirte contando historias.
 - Vive un sinfín de aventuras en miniatura con la DreamCamper, el DreamBoat o el Avión de ensueño; cada una de estas recreaciones de los vehículos emblemáticos viene con una minimuñeca única de 3,81cm, tiene partes que se mueven y cuenta con una transformación de cambio de color
-- Adéntrate en Mini BarbieLand y disfruta imaginando a lo grande y soñando en miniatura con este conjunto de juego, que incluye una casa DreamHouse a pequeña escala, 3 vehículos, 4 muñecas y mucho más.
 - Esta casa de muñecas emblemática cuenta con pequeños detalles de lujo, como un ascensor que funciona de verdad, un tobogán y una piscina, ¡igual que en la casa Dreamhouse de tamaño normal!
 
 [🛒 Aquí!!!]({{< param buyurl >}})

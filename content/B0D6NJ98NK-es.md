@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste: normal
-- Composición: 55% algodón, 30% lyocell, 13% poliéster, 2% elastano
-- Tipo elástico: alta elasticidad
-- Pantalones vaqueros, pantalones largos
 - Instrucciones de cuidado: lavable a máquina
+- Composición: 55% algodón, 30% lyocell, 13% poliéster, 2% elastano
+- Pantalones vaqueros, pantalones largos
+- Tipo elástico: alta elasticidad
+- Ajuste: normal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D6NJ98NK{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Brújula y alarma SOS fuerte con luz intermitente: una brújula adicional es muy útil para mostrar la orientación cuando se ha perdido afuera. Si estás en peligro o en la oscuridad, mantén presionado el botón SOS durante 3 segundos para activar una sirena fuerte y una luz de carretera intermitente.
 - Con batería recargable de 10 000 mAh: nuestra radio de emergencia tiene una batería de iones de litio de 10 000 mA de gran capacidad y ofrece una protección completa para tu fuente de alimentación. Incluso puedes cargar completamente tu móvil varias veces y mantenerte siempre en contacto con el mundo exterior para que no temas a las emergencias al aire libre.
 - 3 métodos de carga seleccionables: batería recargable de 10 000 mAh, manivela y energía solar. La batería recargable incorporada de 10 000 mAh se puede cargar mediante la manivela, el panel solar o el puerto USB tipo C. El panel solar puede recargar la radio en un día soleado al aire libre, y la manivela puede suministrarle energía manualmente. 3 robustos adaptadores de corriente para acompañarte en tus aventuras al aire libre.
 - Lámpara de lectura y linterna superbrillantes: la radio de emergencia cuenta con 2 lámparas, 1 linterna y 1 lámpara de lectura. Simplemente pulsa el botón de encendido/apagado de la linterna para activar un haz puntual, una luz difusa o una combinación de ambas. La luz de lectura se controla mediante otro botón.
 - Varias funciones en 1, perfecta para emergencias al aire libre: la batería incorporada de 10 000 mAh puede cargar el móvil en caso de emergencia. Si la batería está descargada, se puede recargar mediante la manivela manual o el panel solar. Además, incluye una radio solar portátil AM/FM, linterna de 3 modos muy brillante, lámpara de lectura y brújula.
+- Brújula y alarma SOS fuerte con luz intermitente: una brújula adicional es muy útil para mostrar la orientación cuando se ha perdido afuera. Si estás en peligro o en la oscuridad, mantén presionado el botón SOS durante 3 segundos para activar una sirena fuerte y una luz de carretera intermitente.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B7NHB4QG{{</world>}}

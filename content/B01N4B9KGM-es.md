@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - ⚙️ [Fabricación] FAR apliques pared exterior fabricado en poliamida, la lampara pared exterior incorpora un cristal prismático que recubre su cuerpo dándole forma redonda a la estructura.
 - 💡 [Iluminación] El plafon exterior pared está diseñado para iluminar espacios al aire libre, candeeiro exterior ideal para terrazas, balcones, pasillos y/o entradas, apto para instalar al lado del mar.
-- 🏡 [Aplicaciones] el aplique exterior pared FAR tiene un índice de protección IP44 que garantiza la protección contra la entrada de partículas de polvo y humedad, esto lo hace clave para instalaciones en zonas salinas y en cualquier zona exterior.
 - ⭐ [Datos técnicos] La luz exterior pared FAR cuenta con una fuente en su interior con casquillo E27 compatible con bombillas de LED con una potencia de 12W máximo. Proyecta una iluminación suave y segura para evitar deslumbramientos.
+- 🏡 [Aplicaciones] el aplique exterior pared FAR tiene un índice de protección IP44 que garantiza la protección contra la entrada de partículas de polvo y humedad, esto lo hace clave para instalaciones en zonas salinas y en cualquier zona exterior.
 - ⭐ [Estilo clásico y tradicional] apliques pared exterior FAR, una solución lumínica que combina versatilidad y funcionalidad transforma su apariencia en elegancia en tu espacio exterior.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

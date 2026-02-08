@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Planchar a baja temperatura
-- No usar lejía. No meter en la secadora. No lavar en seco.
 - Indicaciones: lavar en agua fría
+- Planchar a baja temperatura
 - Su divertido mensaje hace que resulte ideal para regalar a mujeres que son madre, pero también a muchos otros tipos de personas
+- No usar lejía. No meter en la secadora. No lavar en seco.
 - Bolsa portatodo con cierre de cremallera y asa para llevarla de forma más cómoda alrededor de la muñeca
 
 [🛒 Aquí!!!]({{< param buyurl >}})

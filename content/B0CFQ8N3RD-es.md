@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Colchón hinchable de camping TruAire Camping Matress, optimo para entusiastas del campismo, este colchón combina la comodidad del hogar con la practicidad al aire libre; ligero y muy cómodo, es optimo para llevar en todas tus aventuras
+- Medidas: mide 99x191 cm con una altura sobre el suelo de 22 cm; tiene capacidad para 1 persona y soporta un máximo de 136 kg
 - Fácil inflado y transporte: incluye un hinchador eléctrico USB ligero y compacto y una bolsa de transporte para facilitar su movilidad y almacenamiento
 - Material eco-friendly y resistente: fabricado con TPU reciclable y con fondo laminado de 2 capas, para una resistencia y durabilidad en superficies exteriores
 - Estabilidad y firmeza mejorada: equipado con una construcción interior Fiber-Tech, este colchón proporciona una estabilidad y firmeza, asegurando un descanso óptimo fuera de casa
-- Medidas: mide 99x191 cm con una altura sobre el suelo de 22 cm; tiene capacidad para 1 persona y soporta un máximo de 136 kg
+- Colchón hinchable de camping TruAire Camping Matress, optimo para entusiastas del campismo, este colchón combina la comodidad del hogar con la practicidad al aire libre; ligero y muy cómodo, es optimo para llevar en todas tus aventuras
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CFQ8N3RD{{</world>}}

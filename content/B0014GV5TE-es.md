@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- En una cómoda caja de herramientas para facilitar el almacenamiento
 - Adecuado para su uso en metales como el cobre, la plata, el oro, el acero inoxidable, el acero templado, el aluminio, el latón, la chapa, el hierro fundido
 - Kit multiuso con accesorios de limpieza y pulido y dos mandriles para utilizar con la herramienta rotativa
+- En una cómoda caja de herramientas para facilitar el almacenamiento
 - También puede utilizarse en plásticos y plásticos reforzados con fibra de vidrio
 - Se adapta a todas las herramientas Dremel multiusos/rotativas u otras herramientas multiusos/rotativas con mandril de 3,2 mm
 

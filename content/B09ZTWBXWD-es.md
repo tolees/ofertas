@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño de rayas de carreras la parte posterior del GT NEO 3 está tallada en una pieza de vidrio AG mate con un bonito contorno. la superficie suave y refinada reduce los reflejos y minimiza las huellas dactilares, por lo que el teléfono cuenta con una construcción suave y cómoda.
-- 3 años de garantía
-- 【Carga rápida SuperDart de 80 W】Con la carga SuperDart de 80 W incluido, puedes cargar del 0 al 50 % en tan solo 12 minutos.
-- 【Procesador de pantalla dedicado】Experiencia de juego más fluida en cada fotograma & Eficiente de forma eficaz
-- 3 años de garantía
-- 【procesador Dimensity 8100 con 5G】CPU：proceso de 5 nm, ocho núcleos, 4 x Cortex-A78 a 2,85 Ghz GPU：Mali-G610 MC6 IA：APU 5.0
-- Carga rápida SuperDart de 80.W con la carga SuperDart de 80.W incluido, puedes cargar del 0 al 50.% en tan solo 12.minutos.
-- 【Diseño de rayas de carreras】La parte posterior del GT NEO 3 está tallada en una pieza de vidrio AG mate con un bonito contorno. La superficie suave y refinada reduce los reflejos y minimiza las huellas dactilares, por lo que el teléfono cuenta con una construcción suave y cómoda.
 - procesador Dimensity 8100 con 5G CPU：proceso de 5 nm, ocho núcleos, 4 x Cortex-A78 a 2,85 Ghz GPU：Mali-G610 MC6 IA：APU 5.0
+- 3 años de garantía
+- Carga rápida SuperDart de 80.W con la carga SuperDart de 80.W incluido, puedes cargar del 0 al 50.% en tan solo 12.minutos.
+- 【procesador Dimensity 8100 con 5G】CPU：proceso de 5 nm, ocho núcleos, 4 x Cortex-A78 a 2,85 Ghz GPU：Mali-G610 MC6 IA：APU 5.0
+- Diseño de rayas de carreras la parte posterior del GT NEO 3 está tallada en una pieza de vidrio AG mate con un bonito contorno. la superficie suave y refinada reduce los reflejos y minimiza las huellas dactilares, por lo que el teléfono cuenta con una construcción suave y cómoda.
+- 【Diseño de rayas de carreras】La parte posterior del GT NEO 3 está tallada en una pieza de vidrio AG mate con un bonito contorno. La superficie suave y refinada reduce los reflejos y minimiza las huellas dactilares, por lo que el teléfono cuenta con una construcción suave y cómoda.
+- 3 años de garantía
+- 【Procesador de pantalla dedicado】Experiencia de juego más fluida en cada fotograma & Eficiente de forma eficaz
+- 【Carga rápida SuperDart de 80 W】Con la carga SuperDart de 80 W incluido, puedes cargar del 0 al 50 % en tan solo 12 minutos.
 - Procesador de pantalla dedicado Experiencia de juego más fluida en cada fotograma & Eficiente de forma eficaz
 - Descripción de la cámara: Frontal
 

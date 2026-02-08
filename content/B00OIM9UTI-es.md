@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El gouache o témpera es una mezcla de pigmentos y goma arábiga del árbol de acacia diluida con agua; puede usarse puro o diluido
-- Se puede utilizar en cualquier soporte: papel grueso, cartón, yeso, madera, masa de sal, cáscara de huevo, tela liviana, vegetales secos y más; uso recomendado a partir de 3 años; para niños más pequeños de 3 años consultar nuestros gouache para dedos
-- Se puede usar sin agua para un efecto intenso de color en bloque o diluida en agua para obtener un acabado transparente similar a la acuarela
 - La gama de gouache líquido redimix de lefranc bourgeois es una gama de témperas para niños fabricadas en francia y es un producto con garantia de no toxicidad que cumple la normativa para pintura de juguetes en71
+- Se puede utilizar en cualquier soporte: papel grueso, cartón, yeso, madera, masa de sal, cáscara de huevo, tela liviana, vegetales secos y más; uso recomendado a partir de 3 años; para niños más pequeños de 3 años consultar nuestros gouache para dedos
 - Pinturas para niños fáciles de usar gracias a su consistencia, es inodora y no ensucia ya que es lavable con agua tibia en la piel y la ropa y permite a los niños expresar toda su creatividad sin limitaciones, además es de secado rápido; se puede volver a mezclar una vez seco añadiendo agua; un poco de pintura rinde mucho los pinceles y herramientas también se limpian con agua
+- Se puede usar sin agua para un efecto intenso de color en bloque o diluida en agua para obtener un acabado transparente similar a la acuarela
+- El gouache o témpera es una mezcla de pigmentos y goma arábiga del árbol de acacia diluida con agua; puede usarse puro o diluido
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00OIM9UTI{{</world>}}

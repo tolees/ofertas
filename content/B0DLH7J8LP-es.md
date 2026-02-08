@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- EN ISO 20347:2022, O1 FO SRC + ESD
 - Zapatos deportivos sin cordones con parte inferior antideslizante
+- EN ISO 20347:2022, O1 FO SRC + ESD
 - Parte superior de tela tratada repelente al agua y a las manchas con suela de tracción antideslizante SKECHERS
 - Plantilla acolchada de espuma viscoelástica con una entresuela ligera y flexible que absorbe los golpes
 - Diseño de ajuste relajado para un ajuste cómodo y espacioso

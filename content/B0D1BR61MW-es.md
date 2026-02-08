@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ofrece una potencia de carga de hasta 120 W con un diseño plegable para facilitar su almacenamiento y transporte. Con índice de entrada IP65: resistente al polvo y al agua.
-- Compatibilidad: Módulo adaptador de panel solar (MPPT) DJI Power, Cable de alimentación (12 V/24 V) DJI Power de toma de corriente de coche a SDC.
-- Especificaciones: Potencia nominal: 120 W. Voltaje de circuito abierto: Máx. 26 V. Corriente de cortocircuito: Máx. 7 A. Peso: Aprox. 5.6 kg.
 - Servicio posventa: Periodo de devolución: 30 días (desde la fecha de recepción del paquete). Periodo de cambio: 30 días (desde la fecha de recepción del paquete). Período de garantía: 2 años. * DJI proporciona los servicios posventa.
+- Compatibilidad: Módulo adaptador de panel solar (MPPT) DJI Power, Cable de alimentación (12 V/24 V) DJI Power de toma de corriente de coche a SDC.
 - Consejos: ‌El panel solar Zignes de 120 W requiere usar un módulo adaptador de panel solar (MPPT) DJI Power o un cable de alimentación (12 V/24 V) DJI Power de toma de corriente de coche a SDC para conectarlo a las estaciones de energía DJI Power. Compra los accesorios si es necesario. Cada módulo adaptador de panel solar (MPPT) DJI Power puede así conectarse a de uno a tres paneles solares, mientras que el cable de alimentación (12 V/24 V) DJI Power de toma de corriente de coche a SDC‌ solo puede conectarse a un panel solar.
+- Ofrece una potencia de carga de hasta 120 W con un diseño plegable para facilitar su almacenamiento y transporte. Con índice de entrada IP65: resistente al polvo y al agua.
+- Especificaciones: Potencia nominal: 120 W. Voltaje de circuito abierto: Máx. 26 V. Corriente de cortocircuito: Máx. 7 A. Peso: Aprox. 5.6 kg.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D1BR61MW{{</world>}}

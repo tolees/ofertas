@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Vitaminas y minerales que contribuyen en una vida saludable, la vitalidad y la felicidad de tu gato
 - Gourmet Mon Petit es una gama de exquisitas recetas de Gourmet especialmente desarrolladas para que tu gato disfrute de una amplia variedad de sabores en su justa medida
 - Gourmet Mon Petit está presentado en un pequeño sobre de 50g, por lo que cada una de las comidas de tu gato pueden ser servidas de manera fresca para que se lo coma todo de una vez, lo que significa más disfrute y variedad para él, y sin dejarte sobras
+- Vitaminas y minerales que contribuyen en una vida saludable, la vitalidad y la felicidad de tu gato
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07143RLQJ{{</world>}}

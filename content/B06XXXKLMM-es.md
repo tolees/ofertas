@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gran capacidad 95 ml
 - Llenado fácil en posición horizontal
 - Incluye recetas fáciles; también recetas sin lactosa ni gluten
+- Gran capacidad 95 ml
 - Apilables entre ellos, ocupan el mínimo espacio en tu cocina o congelador
 - Bpa free
 

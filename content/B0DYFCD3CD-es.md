@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CÁPSULA ESPRESSO - La cápsula tiene el tamaño indicado para poder preparar un café Espresso para disfrutar solo o con base de leche como el cappuccino o el latte.
 - 200 CÁPSULAS - 20 Packs de 10 Cápsulas de Aluminio compatibles con las cafeteras L’OR Barista y con máquinas Nespresso* (*Marca de una compañía no relacionada con Jacobs Douwe Egberts).
-- Elaboradas con café sostenible bajo el programa de Sostenibilidad Common Grounds que garantiza un Origen Responsable.
 - TOSTADO, INTENSO Y ESPECIADO - La mezcla da como resultado un café con notas a regaliz y almendras tostadas.
 - INTENSIDAD 8 - Café molido de tueste natural con notas de almendras tostadas.
+- CÁPSULA ESPRESSO - La cápsula tiene el tamaño indicado para poder preparar un café Espresso para disfrutar solo o con base de leche como el cappuccino o el latte.
+- Elaboradas con café sostenible bajo el programa de Sostenibilidad Common Grounds que garantiza un Origen Responsable.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DYFCD3CD{{</world>}}

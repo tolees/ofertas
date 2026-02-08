@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Habilidades que desarrolla: fomenta el juego en equipo y la sociabilidad
 - Contenido: 55 tarjetas (330 preguntas) y 60 fichas, un tablero de recorrido y 2 tableros con las letras del abecedario, un peón, un dado y 2 relojes de arena (15 y 30 seg)
-- Número de jugadores: 2 equipos de 2 a 4 jugadores cada uno
 - Se tira el dado y el equipo adversario lee el reto; Por cada palabra nombrada con la letra aparecida en el dado dentro del tiempo indicado se tapará con una ficha la correspondiente letra del tablero; Los ganadores serán los que primero lo completen
+- Número de jugadores: 2 equipos de 2 a 4 jugadores cada uno
+- Habilidades que desarrolla: fomenta el juego en equipo y la sociabilidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08V329MJD{{</world>}}

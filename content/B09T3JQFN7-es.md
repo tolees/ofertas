@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Short con cintura elástica ajustable mediante cordón
-- Camiseta de manga corta con contraste de color en hombros y cuello
 - 100% poliéster interlock
+- Camiseta de manga corta con contraste de color en hombros y cuello
 - Set de dos piezas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

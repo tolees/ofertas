@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Compatible con llamadas Bluetooth, cancelación del ruido de las llamadas con doble micrófono
-- Gran pantalla AMOLED de 2.07", relación pantalla/cuerpo del 82%,tasa de refresco de 60 Hz, marcos equiláteros
-- Elegante marco de aleación de aluminio; corona giratoria; correa de cierre rápido; monitorización de sueño, saturación de oxígeno el entrenamiento
 - Motor lineal para una vibración precisa; compatible con grabadora; reproduce musical local
+- Gran pantalla AMOLED de 2.07", relación pantalla/cuerpo del 82%,tasa de refresco de 60 Hz, marcos equiláteros
+- Compatible con llamadas Bluetooth, cancelación del ruido de las llamadas con doble micrófono
+- Elegante marco de aleación de aluminio; corona giratoria; correa de cierre rápido; monitorización de sueño, saturación de oxígeno el entrenamiento
 - Batería de gran autonomía hasta 24 días
 
 [🛒 Aquí!!!]({{< param buyurl >}})

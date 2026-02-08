@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto de calidad óptima
-- Controlador para videojuego
 - Diseño ergonómico
+- Controlador para videojuego
+- Producto de calidad óptima
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CQ3PJKRV{{</world>}}

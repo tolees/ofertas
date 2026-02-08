@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- SPORTLIVE NUTRITION: Drasanvi, selecciona para su línea Deportiva Creatina de alta calidad libre de impurezas , alergenos y contaminantes
-- FUNCIÓN COGNITIVA: La Creatina Monohidrata ayuda a mejorar la capacidad de atención y colabora en el equilibrio del estado de ánimo
 - SEGURA PARA COMPETICIONES DEPORTIVAS: No Doping. Nuestro lema es un deporte de calidad y un modo de entender la vida sana. Para ello cumplimos de manera exhaustiva la Ley de etiquetado
-- FORMA MONOHIDRATO: Creatina monohidratada con mayor concentración = Mejor rendimiento físico
+- FUNCIÓN COGNITIVA: La Creatina Monohidrata ayuda a mejorar la capacidad de atención y colabora en el equilibrio del estado de ánimo
 - BENEFICIOS MUSCULARES: Activa el metabolismo y nos permite ganar masa muscular y fuerza facilitando el uso de ATP que ayuda a la salud de nuestras mitocondrias
-- SALUD CARDIOVASCULAR: Contribuye a mejorar la vasodilatación y ayuda a mejorar el perfil lipídico
+- SPORTLIVE NUTRITION: Drasanvi, selecciona para su línea Deportiva Creatina de alta calidad libre de impurezas , alergenos y contaminantes
 - ¿QUÉ ES LA CREATINA? La creatina es un Péptido formado por tres aminoácidos, Glicina, Metionina y Arginina que se encuentra de manera natural en los músculos y en las células nerviosas
+- FORMA MONOHIDRATO: Creatina monohidratada con mayor concentración = Mejor rendimiento físico
 - CREATINA FORMATO POLVO Y SABOR NEUTRO: Puedes ajustar tu dosis de Creatina diaria según cada situación. Te recomendamos entre 3 y 5 gr diarios despues del ejercicio. Añade la Creatina a tu batido de proteinas o recuperador
+- SALUD CARDIOVASCULAR: Contribuye a mejorar la vasodilatación y ayuda a mejorar el perfil lipídico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BKQH27W9{{</world>}}

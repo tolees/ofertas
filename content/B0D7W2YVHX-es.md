@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sabor Cola: contiene 100 mg adicionales de cafeína por bolsa (Mojito y Cherry: contiene 51 mg); Cafeína puede mejorar la capacidad de resistencia en ejercicios físicos.
-- Proporción de hidratos de carbono 2:1 de fuentes de glucosa y fructosa
-- Con aromas naturales; Vegano
 - Las soluciones de hidratos de carbono contribuyen a la mejora del rendimento físico durante el ejercicios físicos de alta intensidad y de larga duración en adultos entrenados
+- Con aromas naturales; Vegano
+- Sabor Cola: contiene 100 mg adicionales de cafeína por bolsa (Mojito y Cherry: contiene 51 mg); Cafeína puede mejorar la capacidad de resistencia en ejercicios físicos.
 - Envasado innovador: fácil de abrir, menos residuos gracias al sistema de apertura “Trash Chain”
+- Proporción de hidratos de carbono 2:1 de fuentes de glucosa y fructosa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D7W2YVHX{{</world>}}

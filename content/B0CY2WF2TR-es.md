@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hecha de jersey suave
 - Acabado con un gráfico atrevido
 - Un clásico atemporal que se puede llevar con cualquier cosa
+- Hecha de jersey suave
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CY2WF2TR{{</world>}}

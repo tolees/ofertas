@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Capucha opcional en el cuello
 - Cierre de cremallera
+- Capucha opcional en el cuello
 - Acabado impermeable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

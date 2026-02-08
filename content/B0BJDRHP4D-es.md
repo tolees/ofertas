@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Agujero perforador exacto - el tope de profundidad macizo de metal puede ajustarse de forma continua. Así se evitan agujeros perforados demasiado profundos y son posibles orificios exactos.
+- Portabrocas de sujeción rápida - el portabrocas de 13 mm de una capa con bloqueo de husillo automático recibe el accesorio de herramienta deseado en un tris.
+- Potencia de perforación - con el potente taladro percutor no son un problema los agujeros perforados con un diámetro hasta 32 mm en madera, 16 mm en hormigón y 13 mm en metal.
+- Inclusive accesorios - el taladro percutor TC-ID 1000 E se envía en el set con un práctico maletín de conservación y un set de accesorios de 64 piezas.
 - Comodidad - el diseño ergonómico con superficies de agarre suave y agarre adicional se ocupan de que el taladro perforador también esté en la mano de forma segura también en usos intensivos en tiempo.
 - Potencia - el fuerte talador percutor de 1010 W permite una potente perforación, perforación con impacto y atornillado hasta 48000 impactos y 3000 r.p.m.
-- Agujero perforador exacto - el tope de profundidad macizo de metal puede ajustarse de forma continua. Así se evitan agujeros perforados demasiado profundos y son posibles orificios exactos.
-- Potencia de perforación - con el potente taladro percutor no son un problema los agujeros perforados con un diámetro hasta 32 mm en madera, 16 mm en hormigón y 13 mm en metal.
-- Portabrocas de sujeción rápida - el portabrocas de 13 mm de una capa con bloqueo de husillo automático recibe el accesorio de herramienta deseado en un tris.
-- Inclusive accesorios - el taladro percutor TC-ID 1000 E se envía en el set con un práctico maletín de conservación y un set de accesorios de 64 piezas.
 - Trabajo de acuerdo con el material - la electrónica de velocidad de giro permite la adaptación óptima a cada material y cada aplicación y aporta resultados exactos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

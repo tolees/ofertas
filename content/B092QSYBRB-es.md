@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Bandeja de PVC de diseño ergonómico con acabado en carbono (110 cms x 60 cms) para acomodar fácilmente 2 pantallas y un lugar en la parte posterior para pasar los cables.
-- Accesorios de almacenamiento incluidos: soporte para auriculares de juego y portavasos.
 - Armazón metálico en forma de Z de alta resistencia (puede soportar hasta 80 kg). Altura 75 cms (ajustable).
+- Accesorios de almacenamiento incluidos: soporte para auriculares de juego y portavasos.
 - Escritorio gaming curvo de Harry Potter con bordes biselados para una máxima comodidad de juego.
 - Alfombra perlada antideslizante (no absorbe el agua) que cubre todo el tablero.
 

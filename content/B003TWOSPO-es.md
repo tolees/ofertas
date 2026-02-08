@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Diámetro mm: 3,0; 4,0; 5,0; 6,0; 7,0; 8,0; 10,0
 - Longitud de trabajo mm: 30; 40; 45; 50; 60; 65; 75
 - Longitud total mm: 60; 70; 85; 90; 105; 110; 120
-- Diámetro mm: 3,0; 4,0; 5,0; 6,0; 7,0; 8,0; 10,0
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B003TWOSPO{{</world>}}

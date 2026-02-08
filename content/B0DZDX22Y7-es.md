@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Los jugadores tendrán que eliminar las cartas de las columnas haciendo coincidir el color o el número para reducir el número total de puntos.
-- El juego combina las cartas y acciones de UNO con las reglas del juego de cartas “Golf” en el que el objetivo es conseguir la puntuación más baja.
-- UNO Zero con lata de almacenamiento ofrece a los amantes de los juegos de cartas un divertido giro: ¡juega con una cuadrícula de 2x3 de cartas colocadas boca abajo y puntúa bajo para ganar a lo grande!
-- La colorida lata permite guardar cómodamente las cartas, llevarlas de viaje y jugar estés donde estés.
-- Cuando a un jugador solo le quede una carta en su cuadrícula, tendrá que gritar “¡UNO!”, igual que siempre.
-- La carta Doble roba 2 hará que 2 jugadores roben 2 cartas o que un jugador robe 4 cartas.
 - El juego incluye una tarjeta de puntuaciones para llevar la cuenta de los puntos de cada jugador de una ronda a otra.
+- UNO Zero con lata de almacenamiento ofrece a los amantes de los juegos de cartas un divertido giro: ¡juega con una cuadrícula de 2x3 de cartas colocadas boca abajo y puntúa bajo para ganar a lo grande!
+- Cuando a un jugador solo le quede una carta en su cuadrícula, tendrá que gritar “¡UNO!”, igual que siempre.
+- Los jugadores tendrán que eliminar las cartas de las columnas haciendo coincidir el color o el número para reducir el número total de puntos.
+- La carta Doble roba 2 hará que 2 jugadores roben 2 cartas o que un jugador robe 4 cartas.
+- La colorida lata permite guardar cómodamente las cartas, llevarlas de viaje y jugar estés donde estés.
+- El juego combina las cartas y acciones de UNO con las reglas del juego de cartas “Golf” en el que el objetivo es conseguir la puntuación más baja.
 - Diseñado para grupos de 2 a 8 jugadores a partir de 7 años, UNO Zero tendrá mucho éxito entre los amantes de las cartas y los juegos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

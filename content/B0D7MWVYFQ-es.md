@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - EMOCIONANTE Y CLARO: La marca de moda Calvin Klein, fundada en 1968, es conocida por su singular look y lleva conquistando el mundo de la moda desde entonces. La marca americana apuesta por una estética minimalista.
-- AJUSTE PERFECTO: La sudadera con capucha combina un diseño atemporal, es muy agradable y ofrece una óptima libertad de movimientos. Tiene los puños y la cintura de canalé para que sea más cómodo y favorecedor.
-- PARA CUALQUIER OCASIÓN: Esta sudadera informal con capucha tiene un tacto especialmente agradable. Es ideal para llevar a diario, pero también para hacer deporte y se puede combinar de muchas maneras.
 - MATERIAL Y CUIDADO: Sudadera confeccionada en algodón regenerativo 100 %. Se puede lavar a máquina y secar en secadora.
+- PARA CUALQUIER OCASIÓN: Esta sudadera informal con capucha tiene un tacto especialmente agradable. Es ideal para llevar a diario, pero también para hacer deporte y se puede combinar de muchas maneras.
+- AJUSTE PERFECTO: La sudadera con capucha combina un diseño atemporal, es muy agradable y ofrece una óptima libertad de movimientos. Tiene los puños y la cintura de canalé para que sea más cómodo y favorecedor.
 - ICÓNICO Y ATEMPORAL: El hoodie original de Calvin Klein tiene un diseño desenfadado y convence por su material suave. Los detalles distintivos de Calvin Klein en las mangas completan el look.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

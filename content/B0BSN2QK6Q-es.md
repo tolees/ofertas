@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- USB-C admite carga PD y DP
 - El exclusivo motor MSI AI Engine detecta los escenarios del usuario y se ajusta al mejor modo de rendimiento
 - 15.6" FHD (1920x1080), 60Hz 45%NTSC IPS-Level
+- USB-C admite carga PD y DP
 - Procesador Intel Core Ultra 7 155H
 - Intel Arc Graphics
 

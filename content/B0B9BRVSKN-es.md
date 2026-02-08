@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Se recomineda consumir muy frío: 10ºC
 - Nota de cata (vista): Tiene un tono verde claro
 - Nota de cata (boca): Sabor efervescente e intenso a lima-limón y un ligero toque final a jengibre que aporta mucho frescor
-- Se recomineda consumir muy frío: 10ºC
 - Vino espumoso con aroma natural de lima limón y jengibre
 - Nota de cata (nariz): Aromas cítricos de lima, limón recién exprimidos y un toque especiado que le aporta el jengibre
 

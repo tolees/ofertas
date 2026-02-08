@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Plantilla SOFTFOAM+
 - Suela de goma
-- Utilizado como casual
 - Punta redonda
+- Plantilla SOFTFOAM+
+- Utilizado como casual
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DJC8JHJT{{</world>}}

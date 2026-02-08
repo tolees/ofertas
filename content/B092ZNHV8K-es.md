@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Control electrónico de velocidad de Bosch para regular la velocidad al taladrar con tan solo accionar un gatillo
+- Compacto, ligero y ergonómico para un manejo cómodo y para taladrar sin esfuerzo en mampostería de hasta 12 mm y madera de hasta 25 mm
 - Portabrocas de sujeción rápida de dos piezas para cambiar la herramienta de manera rápida y sencilla
 - Incluye: EasyImpact 600, maletín de transporte
 - Las herramientas Easy de Bosch – una gran ayuda para pequeños proyectos
-- Compacto, ligero y ergonómico para un manejo cómodo y para taladrar sin esfuerzo en mampostería de hasta 12 mm y madera de hasta 25 mm
-- Control electrónico de velocidad de Bosch para regular la velocidad al taladrar con tan solo accionar un gatillo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B092ZNHV8K{{</world>}}

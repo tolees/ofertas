@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 2000W. Elevada potencia con 2 intensidades de calor y 2 velocidades de ventilación. Calienta o enfría la estancia rápidamente. Recomendado para superficies de hasta 25/30 m2.
-- 2 EN 1. Ventilador y calefactor. Uso durante todo el año. Doble sistema de circulación del aire Hot&Cool. Calienta o enfría la estancia de forma uniforme.
-- TECNOLOGIA VÓRTEX: Cuenta con 5 aspas de diseño aerodinamico que generan una mayor cobertura del calor y de la ventilación más uniforme.
 - TEMPERATURA AJUSTABLE. Panel de control LED Soft Touch, temperatura ajustable de 18ºC a 30ºC. Se desconecta automáticamente al alcanzar la temperatura seleccionada, se vuelve a conectar cuando ésta baja. Mantiene una temperatura estable en la estancia.
+- TECNOLOGIA VÓRTEX: Cuenta con 5 aspas de diseño aerodinamico que generan una mayor cobertura del calor y de la ventilación más uniforme.
+- 2 EN 1. Ventilador y calefactor. Uso durante todo el año. Doble sistema de circulación del aire Hot&Cool. Calienta o enfría la estancia de forma uniforme.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08GPGBPBP{{</world>}}

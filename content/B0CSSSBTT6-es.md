@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Interruptores ópticos para tiempos de respuesta fulminantes, precisión constante y vida de 100 millones de clics
 - La tasa de sondeo de 8000 Hz comunica clics y movimientos cada 0,125 milisegundos para una respuesta incomparable.
 - Sensor óptico de 26 000 ppp para una detección del movimiento 1:1 impecable a cualquier sensibilidad y velocidad
 - El diseño de 61 g mejora la maniobrabilidad y el control a altas velocidades, minimizando la fatiga.
+- Interruptores ópticos para tiempos de respuesta fulminantes, precisión constante y vida de 100 millones de clics
 - Forma ergonómica para diestros con laterales texturizados para el confort máximo y un manejo seguro. Ideal para agarre de palma.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

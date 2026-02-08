@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- TODO TIPO DE PIEL - El jabón es ideal para todo tipo de piel, pero especialmente para pieles grasas y con tendencia acnéica. Apto para uso diario en todo el cuerpo
-- EN ARMONÍA CON LA NATURALEZA - Nuestros jabones en pastilla veganos y biodegradables están envasados en papel y no contienen grasas animales, conservantes, SLS ni SLES
-- LIMPIO Y FRESCO – Este jabón en barra natural limpia en profundidad y refresca la piel, por lo que también se puede utilizar como jabón antiacné para todo el cuerpo. Tiene un aroma fresco
-- INGREDIENTES A BASE DE PLANTAS - Nuestro jabón está hecha de ingredientes naturales sin aceite de palma agregado. Contiene aceite de oliva, manteca de karité, aceite de coco, aceite de ricino y carbón activado
 - JABÓN NEGRO - Un jabón de carbón hecho a mano mediante el proceso en frío. Una alternativa natural y sin residuos a los geles de baño en botellas de plástico. Fabricado en Polonia
+- TODO TIPO DE PIEL - El jabón es ideal para todo tipo de piel, pero especialmente para pieles grasas y con tendencia acnéica. Apto para uso diario en todo el cuerpo
+- LIMPIO Y FRESCO – Este jabón en barra natural limpia en profundidad y refresca la piel, por lo que también se puede utilizar como jabón antiacné para todo el cuerpo. Tiene un aroma fresco
+- EN ARMONÍA CON LA NATURALEZA - Nuestros jabones en pastilla veganos y biodegradables están envasados en papel y no contienen grasas animales, conservantes, SLS ni SLES
+- INGREDIENTES A BASE DE PLANTAS - Nuestro jabón está hecha de ingredientes naturales sin aceite de palma agregado. Contiene aceite de oliva, manteca de karité, aceite de coco, aceite de ricino y carbón activado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C9TXNYL8{{</world>}}

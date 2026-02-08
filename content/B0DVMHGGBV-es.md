@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este envase contiene aproximadamente 33 porciones
-- Ácido y fuerte
-- Conservar en un lugar fresco y seco
 - Apto para dietas vegetarianas y veganas
+- Conservar en un lugar fresco y seco
+- Ácido y fuerte
 - Acidez 5%
+- Este envase contiene aproximadamente 33 porciones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DVMHGGBV{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Se adapta a cualquier actividad deportiva
 - Sujetador bajo sin costuras
+- Se adapta a cualquier actividad deportiva
 - Ofrece comodidad y libertad de movimientos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

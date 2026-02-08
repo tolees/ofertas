@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🍎 SNACK PRÁCTICO Y SABROSO: los pouches de Smileat ofrecen una combinación de frutas ecológicas, en un formato de 10 Unidades, fácil de llevar o tener en casa, ideal para que los peques disfruten en cualquier momento.
-- 🤱 CONFIANZA EN CADA ELECCIÓN: en Smileat, nos comprometemos con la sostenibilidad y la transparencia, utilizando ingredientes ecológicos y promoviendo prácticas responsables que cuidan del planeta y del futuro de nuestros hijos.
+- 💚 SMILEAT: nacimos para revolucionar la alimentación infantil y lo seguimos haciendo con cada producto. Como la primera marca B-Corp en alimentación infantil ecológica de España, en Smileat trabajamos para crear un impacto positivo en el mundo, ofreciendo productos ricos y responsables que cuidan de los más pequeños, del planeta y de su futuro.
 - 🌿 INGREDIENTES ECOLÓGICOS Y SELECCIONADOS: elaborados con Fresa y Plátano , sin azúcar añadido ni producido, sin sal añadida, sin gluten, sin huevos y sin aditivos, preservando el sabor original de las frutas.
 - 👶 APTO PARA PEQUES DESDE 6 MESES: elaborado para introducir nuevas texturas y sabores en la alimentación de los peques, facilitando su consumo gracias a su envase práctico y seguro.
-- 💚 SMILEAT: nacimos para revolucionar la alimentación infantil y lo seguimos haciendo con cada producto. Como la primera marca B-Corp en alimentación infantil ecológica de España, en Smileat trabajamos para crear un impacto positivo en el mundo, ofreciendo productos ricos y responsables que cuidan de los más pequeños, del planeta y de su futuro.
+- 🤱 CONFIANZA EN CADA ELECCIÓN: en Smileat, nos comprometemos con la sostenibilidad y la transparencia, utilizando ingredientes ecológicos y promoviendo prácticas responsables que cuidan del planeta y del futuro de nuestros hijos.
+- 🍎 SNACK PRÁCTICO Y SABROSO: los pouches de Smileat ofrecen una combinación de frutas ecológicas, en un formato de 10 Unidades, fácil de llevar o tener en casa, ideal para que los peques disfruten en cualquier momento.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B071H34GSS{{</world>}}

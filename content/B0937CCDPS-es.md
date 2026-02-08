@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- PARA CUALQUIER OCASIÓN: El top minimalista es agradable a la piel y destaca por su gran comodidad. Con pantalones vaqueros, cortos o elegantes: combina con cualquier look de todos los días o de oficina.
-- SENCILLO Y DESENFADADO: La camiseta básica destaca por su agradable tejido de algodón orgánico y es perfecta como atuendo de andar por casa, como pijama o como camisón. La bandera Tommy Jeans en el pecho completa el look.
 - AJUSTE PERFECTO: La camiseta atemporal de manga corta y corte holgado está hecha de suave algodón orgánico en un diseño desenfadado y se adapta bien al cuerpo.
 - EL STREETWEAR REINTERPRETADO: Tommy Jeans se inspira en los iconos del hiphop de los años 90 para acercar las prendas clásicas de esa época a la generación actual. La marca se centra en diseños frescos de calidad con mucho tejido vaquero.
+- SENCILLO Y DESENFADADO: La camiseta básica destaca por su agradable tejido de algodón orgánico y es perfecta como atuendo de andar por casa, como pijama o como camisón. La bandera Tommy Jeans en el pecho completa el look.
+- PARA CUALQUIER OCASIÓN: El top minimalista es agradable a la piel y destaca por su gran comodidad. Con pantalones vaqueros, cortos o elegantes: combina con cualquier look de todos los días o de oficina.
 - MATERIAL DE CALIDAD: Este artículo se compone de un 100% de algodón.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

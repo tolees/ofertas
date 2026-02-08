@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Medidas: 34 x 28 x 13 cm; consumo de gas 160 g/h; tiempo de funcionamiento 1 h 15 min; peso 1.5 kg; apto para sartenes de 12 a 26 cm; no apto para uso en interiores, incluye maletín de transporte
-- Disponible en toda Europa: campingaz cuenta con una amplia red de distribución de cartuchos de gas en muchos países de Europa
-- Diseño práctico: funciona con el cartucho de gas campingaz cp 250 que desaparece en el compartimento integrado durante el funcionamiento y puede retirarse incluso si aún no está vacío
 - Compacto y potente: hornillo de camping con cartucho de gas (2200 w); fácil uso; encendido piezoeléctrico; llama regulable de forma continua; soporte para sartenes y ollas hasta 26 cm de diámetro
+- Diseño práctico: funciona con el cartucho de gas campingaz cp 250 que desaparece en el compartimento integrado durante el funcionamiento y puede retirarse incluso si aún no está vacío
+- Disponible en toda Europa: campingaz cuenta con una amplia red de distribución de cartuchos de gas en muchos países de Europa
 - Buena seguridad: la doble válvula de seguridad del regulador de gas integrado evita eventuales fugas de gas; la palanca de seguridad del cartucho proporciona un ajuste seguro del cartucho al hornillo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

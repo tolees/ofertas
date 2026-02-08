@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Etiqueta de G-Star Originals tejida en la parte inferior delantera
-- Marca de G-Star RAW en el cuello
-- Cuello falso
-- Panel en la parte de la manga
 - Costura vertical en la parte trasera
+- Cuello falso
+- Marca de G-Star RAW en el cuello
+- Panel en la parte de la manga
+- Etiqueta de G-Star Originals tejida en la parte inferior delantera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CS13VLL2{{</world>}}

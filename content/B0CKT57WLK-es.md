@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Banda elástica suave en la parte inferior con detalle de marca para un ajuste cómodo
-- Marca UA HG Mid - Negro/Blanco - SM
 - Estilo de jersey clásico con diseño de espalda cruzada y escote en forma de cerradura para mayor ventilación y fácil de poner y quitar.
+- Marca UA HG Mid - Negro/Blanco - SM
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CKT57WLK{{</world>}}

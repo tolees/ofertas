@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Duración de la combustión: hasta 130 horas
-- La mezcla de parafina de alta calidad y ceras de soja produce un bonito efecto al consumirse
 - Mecha crepitante de madera con Pluswick Innovation para crear un ambiente acogedor
 - Esta conocida colección ofrece combinaciones de fragancias que crean su propia experiencia única a medida que las capas se funden
+- La mezcla de parafina de alta calidad y ceras de soja produce un bonito efecto al consumirse
 - Esta vela Trilogy combina tres fragancias populares: spa de lavanda, sal marina y algodón, y té blanco con jazmín
 
 [🛒 Aquí!!!]({{< param buyurl >}})

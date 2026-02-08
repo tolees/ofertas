@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El juego incluye textos en inglés, francés, español, catalán, alemán, ruso, sueco y portugués.
-- Ponte en la piel de Mark, un adolescente al cargo de su hermano pequeño, porque acaba de sufrir la pérdida de su madre y tiene a su padre en prisión por ello. Desvela las visiones y los miedos que atormentan a Mark. Aunque sólo él era conocedor de ellos. ¿o alguien más?
-- El objetivo es reunir los fragmentos de la mesa espiritual, que se encuentran por la casa, para poder contactar con Rose, su madre, y descubrir la verdad.
-- Todo el argumento de Evil Inside sucede en una misteriosa casa. o casi todo. Explora la casa de Mark que se encuentra en constante cambio. Lentamente la atmósfera irá cambiando. Nada es lo que parece.
 - Vence a tus miedos. Enfréntate al terror y a la verdad. Pero sobretodo. disfruta de una auténtica experiencia de terror.
+- Ponte en la piel de Mark, un adolescente al cargo de su hermano pequeño, porque acaba de sufrir la pérdida de su madre y tiene a su padre en prisión por ello. Desvela las visiones y los miedos que atormentan a Mark. Aunque sólo él era conocedor de ellos. ¿o alguien más?
+- El juego incluye textos en inglés, francés, español, catalán, alemán, ruso, sueco y portugués.
+- Todo el argumento de Evil Inside sucede en una misteriosa casa. o casi todo. Explora la casa de Mark que se encuentra en constante cambio. Lentamente la atmósfera irá cambiando. Nada es lo que parece.
+- El objetivo es reunir los fragmentos de la mesa espiritual, que se encuentran por la casa, para poder contactar con Rose, su madre, y descubrir la verdad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B091ZMMSJ6{{</world>}}

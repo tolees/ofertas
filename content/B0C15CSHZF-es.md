@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Descongela y cocina de forma rápida tus alimentos: gracias al programa de descongelación, solo tendrás que indicar el peso de la comida y el microondas se encargará del resto. También se puede utilizar el programa de descongelación por tiempo.
-- Tamaño Microondas (alto x ancho x fondo): 25,8 x 43,9 x 35,7 cm
+- Un nuevo asistente en tu cocina, que te ofrecerá una mayor comodidad: gracias a Automenús, un modo de cocción que no es necesario programar tiempo, solo hay que indicar el tipo de alimentos, el peso o las porciones.
 - Bloqueo de Seguridad Infantil: Candy siempre ha prestado una atención especial a la seguridad de la familia. Cuando está encendido, sólo puede ser apagado por un adulto, garantizando una seguridad absoluta para toda la familia.
 - Microondas de libre instalación: con capacidad de 31 litros, Automenús y una potencia que varía entre 1000W (en función grill) y 1500W.
-- Un nuevo asistente en tu cocina, que te ofrecerá una mayor comodidad: gracias a Automenús, un modo de cocción que no es necesario programar tiempo, solo hay que indicar el tipo de alimentos, el peso o las porciones.
+- Tamaño Microondas (alto x ancho x fondo): 25,8 x 43,9 x 35,7 cm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C15CSHZF{{</world>}}

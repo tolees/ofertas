@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Seguridad garantizada y mantenimiento sencillo: Con protección contra sobrecalentamiento y ebullición en seco, base antideslizante y 500 W de potencia. Limpia siempre el interior tras cada uso para un rendimiento óptimo
 - Cocina sin supervisión mientras haces otras tareas: La olla arrocera Tristar RK-6127 cocina el arroz automáticamente: solo añade arroz y agua, pulsa el botón y sigue con tu día. Su capacidad de 1,5 litros
-- Mantiene el arroz caliente hasta la hora de comer: Al terminar la cocción, activa automáticamente la función de mantener caliente (70-75 °C) para servirlo siempre en su punto
+- Seguridad garantizada y mantenimiento sencillo: Con protección contra sobrecalentamiento y ebullición en seco, base antideslizante y 500 W de potencia. Limpia siempre el interior tras cada uso para un rendimiento óptimo
 - Fácil de usar y perfecta para porciones grandes o pequeñas: Incluye vaso medidor para calcular raciones exactas (hasta 10 por preparación); adapta la cantidad según el número de personas o tu apetito
+- Mantiene el arroz caliente hasta la hora de comer: Al terminar la cocción, activa automáticamente la función de mantener caliente (70-75 °C) para servirlo siempre en su punto
 - Fácil limpieza y sin BPA: El recipiente interior con revestimiento antiadherente se limpia con facilidad. Incluye cuchara para servir y diseño de acero inoxidable sin BPA
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

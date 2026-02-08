@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Expansión sencilla y eficiente: Incorpora 4 puertos USB para conectar múltiples dispositivos sin esfuerzo: 1 puerto USB 3.2 Gen1 con una velocidad de transferencia de hasta 5 Gbps y 3 puertos USB 2.0 para mayor versatilidad
 - Alta velocidad de transferencia: Ideal para mover archivos de forma rápida y eficiente, optimizando tu productividad
 - Diseño compacto y portátil: Su tamaño reducido y ligereza extraordinaria lo hacen perfecto para llevarlo a cualquier lugar. Además, cuenta con un cable de 100 mm para mayor comodidad
+- Expansión sencilla y eficiente: Incorpora 4 puertos USB para conectar múltiples dispositivos sin esfuerzo: 1 puerto USB 3.2 Gen1 con una velocidad de transferencia de hasta 5 Gbps y 3 puertos USB 2.0 para mayor versatilidad
 - Amplía la conectividad de tu ordenador con el Hub USB de 4 puertos NGS IHUB4 MICRO, un accesorio compacto, elegante y ligero, perfecto para tu escritorio
 - Compatibilidad universal: Compatible con USB 1.1, USB 2.0 y USB 3.2 Gen1, además de ser totalmente funcional con PC y Mac sin necesidad de instalación gracias a su sistema Plug & Play
 

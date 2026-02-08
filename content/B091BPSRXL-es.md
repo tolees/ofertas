@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Isla Hop con amigos! Únete a hasta otros tres jugadores para un juego competitivo o cooperativo amistoso con una sola consola y una copia del juego
 - ¡reclama la Corona! Descubre trofeos y sube a las tablas de clasificación para ser coronado gobernante de la isla
-- Explora y colecciona. Gana estrellas jugando juegos para desbloquear nuevas islas e incluso más juegos
+- Isla Hop con amigos! Únete a hasta otros tres jugadores para un juego competitivo o cooperativo amistoso con una sola consola y una copia del juego
 - ¡Toneladas de juegos! Escala, corre, salta, explota, cohete e incluso baila a través de 30 juegos repartidos en seis islas llenas de diversión
 - El modo multijugador requiere un controlador compatible por jugador. Es posible que se requieran controladores adicionales (se venden por separado).
+- Explora y colecciona. Gana estrellas jugando juegos para desbloquear nuevas islas e incluso más juegos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B091BPSRXL{{</world>}}

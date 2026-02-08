@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca: Skechers
-- Tipo de producto: ZAPATOS
-- Color: blanco
 - Skechers Kid UNO LITE - blanco talla 37
+- Color: blanco
+- Marca: Skechers
 - Talla: 37 UE
+- Tipo de producto: ZAPATOS
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CNY6D6S6{{</world>}}

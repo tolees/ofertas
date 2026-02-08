@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte ajustado
-- Pernera de corte medio
+- Tejido Infinitex Fitness Eco resistente al cloro
 - 78% nailon (reciclado) / 22% elastán
 - Forro de punto
 - Espalda en forma de U
-- Tejido Infinitex Fitness Eco resistente al cloro
+- Pernera de corte medio
+- Corte ajustado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CZK143CQ{{</world>}}

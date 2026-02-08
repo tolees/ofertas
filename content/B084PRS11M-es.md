@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - EL TROPICAL HIGH POLISH TEAL - Con el mechero amarillo y azul turquesa siempre tendrás las vacaciones en el bolsillo. La superficie brillante y resplandeciente mostrará de vez en cuando un vistazo al Mar Caribe
 - DISEÑO DEL LOGO ZIPPO ATEMPORAL - Su nuevo Zippo está decorado con el mundialmente famoso logotipo de Zippo. Forme parte de una cultura de encendedores única con su encendedor Zippo original.
-- FUNCIONA O LO REPARAMOS GRATIS - Garantía de 30 años en su mechero Zippo hecho en Estados Unidos. Todos los mecheros Zippo se pueden usar y rellenar de por vida. Nuestra recomendación: Combustible genuino para mecheros Zippo Premium (vendido por separado).
 - RESISTE CUALQUIER VIENTO - El mechero Zippo se caracteriza por su llama a prueba de viento. Tu Zippo te acompaña con cualquier viento o clima. Tu Zippo viene en una caja de regalo de alta calidad.
 - EL "CLIC" ÚNICO DE ZIPPO - Reconocerá su mechero para tormentas por el inconfundible "CLIC". En sus manos sostiene más de 85 años de tradición y perfección constante.
+- FUNCIONA O LO REPARAMOS GRATIS - Garantía de 30 años en su mechero Zippo hecho en Estados Unidos. Todos los mecheros Zippo se pueden usar y rellenar de por vida. Nuestra recomendación: Combustible genuino para mecheros Zippo Premium (vendido por separado).
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B084PRS11M{{</world>}}

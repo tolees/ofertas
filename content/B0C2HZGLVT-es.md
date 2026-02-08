@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Los trilobites son artrópodos de entorno marino exclusivos de la era paleozoica, que constituyen la clase Trilobita. Este grupo está documentado por el Cámbrico Inferior Avanzado (a partir de aproximadamente 521 Ma), hasta el Pérmico tardío (aproximadamente 250 Ma). Su nombre significa "tres lóbulos", por su característica morfológica
 - 1 unidad
+- Los trilobites son artrópodos de entorno marino exclusivos de la era paleozoica, que constituyen la clase Trilobita. Este grupo está documentado por el Cámbrico Inferior Avanzado (a partir de aproximadamente 521 Ma), hasta el Pérmico tardío (aproximadamente 250 Ma). Su nombre significa "tres lóbulos", por su característica morfológica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C2HZGLVT{{</world>}}

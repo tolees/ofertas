@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Indicado para la prevención de estrías durante el embarazo
-- No lleva conservantes, parabenos ni ftalatos. Ninguno de sus ingredientes ha sido testado en animales.
-- Tratamiento de prevención de estrías, regeneradora de la piel, antimanchas, antiedad.
-- Para pieles con problemas, piel sensible, piel seca, piel normal, piel mixta, piel grasa. Uso en rostro y cuerpo.
 - Enriquecido con vitaminas A y E y aceites esenciales de Lavanda, Romero, Camomila y Caléndula.
+- Para pieles con problemas, piel sensible, piel seca, piel normal, piel mixta, piel grasa. Uso en rostro y cuerpo.
+- No lleva conservantes, parabenos ni ftalatos. Ninguno de sus ingredientes ha sido testado en animales.
+- Indicado para la prevención de estrías durante el embarazo
+- Tratamiento de prevención de estrías, regeneradora de la piel, antimanchas, antiedad.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00J9G2TTG{{</world>}}

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 100% poliéster (reciclado)
-- Dimensiones: 15 cm x 31 cm x 44 cm
 - Bolsillos laterales sin cierre
-- Bolsillo frontal con cremallera
-- Correas acolchadas y ajustables para los hombros
 - Capacidad: 27,5 l
+- Dimensiones: 15 cm x 31 cm x 44 cm
+- 100% poliéster (reciclado)
+- Correas acolchadas y ajustables para los hombros
+- Bolsillo frontal con cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CZLMYN8M{{</world>}}

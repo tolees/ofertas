@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ✔️ Superficie de almacenamiento 65x24,3 cm
-- ✔️ Accesorios exclusivos para el GR500 Racing Cockpit & GF500 Flight Simulator Cockpit
 - ✔️ Dispone de un portavasos, un organizador de cables integrado y una alfombrilla de ratón de tamaño completo
+- ✔️ Accesorios exclusivos para el GR500 Racing Cockpit & GF500 Flight Simulator Cockpit
+- ✔️ Superficie de almacenamiento 65x24,3 cm
 - ✔️ Ajustable individualmente de -45° a +90° de inclinación y más de 2x 180
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

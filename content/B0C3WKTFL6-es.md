@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela para césped natural seco
 - Compra una talla más grande
+- Suela para césped natural seco
 - Parte de suave piel sintética con antepié de piel
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

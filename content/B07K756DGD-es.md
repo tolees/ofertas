@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Un básico versátil para completar cualquier conjunto
 - Un lienzo en blanco para la expresión propia
-- Nos hemos unido a la Better Cotton Initiative para mejorar el cultivo de algodón en todo el mundo
-- Nos hemos unido a la Better Cotton Initiative para mejorar el cultivo de algodón en todo el mundo
 - Este producto es original Levis
+- Nos hemos unido a la Better Cotton Initiative para mejorar el cultivo de algodón en todo el mundo
+- Nos hemos unido a la Better Cotton Initiative para mejorar el cultivo de algodón en todo el mundo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07K756DGD{{</world>}}

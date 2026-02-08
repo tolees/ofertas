@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 1 Oficina, 1 Utiliitario + 1 Santoku + 1 Carnicero.
-- En caja.
 - 4 cuchillos.
+- En caja.
+- 1 Oficina, 1 Utiliitario + 1 Santoku + 1 Carnicero.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B083GXNMGR{{</world>}}
