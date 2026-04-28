@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Diseño contemporáneo con una sensación nostálgica.
-- Bold PU overlays, mesh underlays. Suela exterior detallada con caña
 - Base extraíble con soporte para suela.
+- Bold PU overlays, mesh underlays. Suela exterior detallada con caña
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D2KWB6X1{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Funciones de la App: Explora opciones, personalizaciones y funciones de la comunidad con tu Govee Tira LED en la app Govee Home. Comparte y guarda efectos DIY creados por otros usuarios y prueba nuestros diseños generados por IA.
-- RGBIC Multicolor y Control de Segmentos: El circuito integrado (CI) de la Tira LED RGBIC Govee permite mostrar múltiples colores en la Tira. Puedes colorear segmentos individuales de la Tira.
 - Nota: Esta Govee Tira LED no es compatible con Alexa y Google Assistant.
+- RGBIC Multicolor y Control de Segmentos: El circuito integrado (CI) de la Tira LED RGBIC Govee permite mostrar múltiples colores en la Tira. Puedes colorear segmentos individuales de la Tira.
+- Funciones de la App: Explora opciones, personalizaciones y funciones de la comunidad con tu Govee Tira LED en la app Govee Home. Comparte y guarda efectos DIY creados por otros usuarios y prueba nuestros diseños generados por IA.
 - Modo Música: Con el micrófono podrás sincronizar la Govee tira LED 5m con tu música favorita, y elegir entre un modo dinámico para ritmos fuertes para fiestas animadas o un modo silencioso para reuniones más relajadas.
 - Múltiples Opciones de Escena: La Tira de Luces LED Govee de 5 m cuenta con 16 millones de colores y 64 modos de escena, lo que proporciona una iluminación vibrante. Dale un toque de color a tu vida.
 

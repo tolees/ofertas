@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ángulos de Disparo Versátiles: El trípode de viaje tiene una palanca de ajuste de ángulo rápido, que ofrece tres opciones de ángulo (23°/50°/80°) para satisfacer diferentes demandas de ángulos de disparo. La columna central se puede desmontar e instalar al revés, lo que proporciona más perspectivas de disparo.
-- Ampliabilidad y el Paquete Incluye: El trípode para cámara de mesa tiene un orificio roscado de 1/4"-20 que es compatible con accesorios como brazos mágicos, lo que permite conectar micrófonos, monitores y otros dispositivos de transmisión. El paquete incluye un trípode* 1, llave allen*1, soporte para teléfono inteligente*1, gancho*1 y manual de usuario*1.
+- Ajustes sin Esfuerzo: Utilizando un diseño de patas de 5 secciones y un mecanismo de ajuste rápido, este mini trípode permite ajustes de altura rápidos y fáciles, con un rango de altura de trabajo de 17 cm/6,7 pulgadas a 52cm/20pulgadas.
 - Compacto y Conveniente: El mini trípode de aluminio SmallRig VT-20 4289 es el mini trípode perfecto para DSLR compactas, cámaras sin espejo, teléfonos inteligentes, cámaras de acción y otros dispositivos. Sus patas plegables de aleación de aluminio y su diseño de columna central permiten un almacenamiento compacto, por lo que solo mide 18 cm/7 pulgadas de largo y pesa menos de 700 g/1,5 libras.
 - Cabezal de Bola de 360 grados: El cabezal de bola para Arca-swiss proporciona movimientos panorámicos de 360° y una muesca de 90° para escenarios de disparo vertical, lo que te permite tomar fotos en cualquier ángulo horizontal y vertical. Y puede soportar una carga máxima de 6kg/13,2libras.
-- Ajustes sin Esfuerzo: Utilizando un diseño de patas de 5 secciones y un mecanismo de ajuste rápido, este mini trípode permite ajustes de altura rápidos y fáciles, con un rango de altura de trabajo de 17 cm/6,7 pulgadas a 52cm/20pulgadas.
+- Ampliabilidad y el Paquete Incluye: El trípode para cámara de mesa tiene un orificio roscado de 1/4"-20 que es compatible con accesorios como brazos mágicos, lo que permite conectar micrófonos, monitores y otros dispositivos de transmisión. El paquete incluye un trípode* 1, llave allen*1, soporte para teléfono inteligente*1, gancho*1 y manual de usuario*1.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CP41Z4FC{{</world>}}

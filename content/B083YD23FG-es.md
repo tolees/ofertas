@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 0.15 kg
 - 100% Poliamida
-- Bolsito bandolera con correa ajustable para el hombro
-- 20.5 Alto x 14 Ancho x 2.5 Fondo cm
 - Hidrófugo
+- Bolsito bandolera con correa ajustable para el hombro
+- 0.15 kg
+- 20.5 Alto x 14 Ancho x 2.5 Fondo cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B083YD23FG{{</world>}}

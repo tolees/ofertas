@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- La sierra circular inalámbrica R165CCS cuenta con un canal de extracción de polvo e incluye un adaptador compatible con aspiradores.
+- El avanzado motor de CC con escobillas de 850 W, combinado con la batería externa de iones de litio (se vende por separado), ofrece un rendimiento y una versatilidad altos durante el uso de la sierra circular
 - Con nuestra garantía limitada de 3 años y compatible con el sistema de baterías Erbauer EXT
 - La inclinación del bisel ajustable en 0-50° y el pivote virtual mantienen la hoja en la misma línea de corte en cualquier ángulo
-- El avanzado motor de CC con escobillas de 850 W, combinado con la batería externa de iones de litio (se vende por separado), ofrece un rendimiento y una versatilidad altos durante el uso de la sierra circular
-- Cuenta con una hoja de sierra circular japonesa multimaterial con punta de carburo de tungsteno (TCT), que corta madera, metal, compuestos de plástico y más
-- La sierra circular inalámbrica R165CCS cuenta con un canal de extracción de polvo e incluye un adaptador compatible con aspiradores.
 - La profundidad de corte ajustable de 55 mm, la mejor en su categoría, garantiza un corte fiable, liso y en ángulo recto siempre
 - Realiza con facilidad cortes largos y rectos incluso sin utilizar guías de sierra circular, gracias a la luz de trabajo LED, que proyecta una sombra precisa de la hoja sobre la superficie de corte
+- Cuenta con una hoja de sierra circular japonesa multimaterial con punta de carburo de tungsteno (TCT), que corta madera, metal, compuestos de plástico y más
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09VHTTZMC{{</world>}}

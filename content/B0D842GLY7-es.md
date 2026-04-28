@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Silueta de perfil bajo
-- Construcción ligera de gamuza/malla
 - Top minimalista
+- Construcción ligera de gamuza/malla
+- Silueta de perfil bajo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D842GLY7{{</world>}}

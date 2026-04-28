@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CONECTIVIDAD: La mini nevera se puede conectar tanto a la corriente eléctrica a 220V como a la toma de electricidad de un coche a 12V. Incluye cable para conectarlo a la corriente, no necesita pilas.
+- CAPACIDAD: La mini nevera tiene una capacidad de hasta 6,5L. La nevera permite almacenar pequeños productos de distintos tamaños, ya sea de cosmética, alimentos o bebidas.
 - DISEÑO: La mini nevera tiene un diseño retro y compacto. Es portátil y fácil de llevar gracias al asa superior. También dispone de un espejo con luz led en la puerta y una balda extraíble.
+- CONECTIVIDAD: La mini nevera se puede conectar tanto a la corriente eléctrica a 220V como a la toma de electricidad de un coche a 12V. Incluye cable para conectarlo a la corriente, no necesita pilas.
 - FUNCIONES: Este mini frigo retro tiene las funciones de enfriar y también de calentar. Alcanza una temperatura interior que puede variar entre -25ºC/20ºC en frío por debajo de la temperatura ambiente y 65ºC en caliente.
 - DIMENSIONES: Las medidas son 30 x 27 x 19 cm. La mini nevera portátil tiene un peso de tan solo 2,25kg.
-- CAPACIDAD: La mini nevera tiene una capacidad de hasta 6,5L. La nevera permite almacenar pequeños productos de distintos tamaños, ya sea de cosmética, alimentos o bebidas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DQVG3DFD{{</world>}}

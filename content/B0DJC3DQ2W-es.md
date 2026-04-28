@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Ancho regular
 - Puma Formstrip en los laterales
 - Parte superior de piel y materiales mixtos
 - Suela de goma
-- Ancho regular
 - Detalles de la marca PUMA
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste de cuña
-- Skech-Air
 - Goldcrown
 - Espuma viscoelástica refrigerada por aire
+- Skech-Air
 - Collab
+- Ajuste de cuña
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DW9HR3ZN{{</world>}}

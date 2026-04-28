@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Marca: Rubies
-- Presentación en bolsa con percha
 - Disfraz infantil para Halloween
 - Para disfrazarte de tu personaje favorito
+- Presentación en bolsa con percha
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0813RSKYF{{</world>}}

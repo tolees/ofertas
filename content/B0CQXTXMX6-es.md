@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tipo de cierre: cierre de mosquetón
+- Material: acero inoxidable
 - Color: dos tonos
 - Acabado: pulido
-- Material: acero inoxidable
-- Tipo de cierre: cierre de mosquetón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CQXTXMX6{{</world>}}

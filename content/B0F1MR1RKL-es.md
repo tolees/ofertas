@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 【Impresionante potencia de salida】Salida máxima de 145 W cuando se utilizan dos puertos tipo C simultáneamente, lo que permite cargar dos ordenadores portátiles al mismo tiempo. Y una salida combinada máxima de 115 W con tres puertos utilizados juntos.
-- 【Varios modos de carga rápida】Admite energía solar de hasta 100 W, carga rápida PD100W y carga rápida PD60W a través del cargador del coche. Varias opciones para satisfacer sus necesidades. Nota: los paneles solares no están incluidos.
 - 【Cable retráctil práctico】Equipado con un cable USB-C PD100W bidireccional (carga/descarga) retráctil de 0,8 m. No necesita un cable adicional para sus salidas y cargas. Nota: los paneles solares no están incluidos.
 - 【Alta capacidad y apto para viajar en avión】Con una capacidad de 99,2 Wh (31 000 mAh), está autorizado a bordo de aviones, lo que le permite llevarlo a cualquier lugar con total seguridad.
 - 【Diseño compacto y ligero】Dimensiones mínimas, cabe en una mano y pesa solo 1,1 kg, perfecto para llevarlo a cualquier parte.
+- 【Varios modos de carga rápida】Admite energía solar de hasta 100 W, carga rápida PD100W y carga rápida PD60W a través del cargador del coche. Varias opciones para satisfacer sus necesidades. Nota: los paneles solares no están incluidos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F1MR1RKL{{</world>}}

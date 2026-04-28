@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Parte superior de piel revestida
 - Mediasuela con amortiguación
+- Suela de goma vulcanizada
 - Cierre de cordones
 - Forro textil
-- Suela de goma vulcanizada
-- Parte superior de piel revestida
 - Horma clásica
 
 [🛒 Aquí!!!]({{< param buyurl >}})

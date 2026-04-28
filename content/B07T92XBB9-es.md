@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Algodón
-- Cintura Elástica
 - Leggings básicos para estilos cómodos y cotidianos
+- Cintura Elástica
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07T92XBB9{{</world>}}

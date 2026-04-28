@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Empeine textil
 - Mediasuela Cloudfoam
-- Suela de goma
 - Forro textil
 - Contiene al menos un 20% de material reciclado
 - Cordones elásticos con correa superior autoadherente
+- Empeine textil
 - Forro textil
-- Horma clásica
 - Suela de goma
+- Suela de goma
+- Horma clásica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CKXTN3TF{{</world>}}

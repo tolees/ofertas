@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compatibilidad multiplataforma con Windows, macOS, Android e iOS, permitiendo su uso en distintos dispositivos.
 - Diseño compacto 60% que optimiza el espacio de tu escritorio sin sacrificar funcionalidad.
-- Switches mecánicos Outemu Rojos que ofrecen pulsación suave y silenciosa, ideal para juegos rápidos y escritura cómoda.
+- Compatibilidad multiplataforma con Windows, macOS, Android e iOS, permitiendo su uso en distintos dispositivos.
 - Retroiluminación RGB personalizable con 17 efectos ajustables en velocidad e intensidad para adaptarlos a tu estilo.
+- Switches mecánicos Outemu Rojos que ofrecen pulsación suave y silenciosa, ideal para juegos rápidos y escritura cómoda.
 - Conexión versátil mediante Bluetooth 5.0 para modo inalámbrico o cable USB Tipo C para conexión estable.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

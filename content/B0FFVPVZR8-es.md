@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- TEXTURA LIGERA – Gracias a su textura ligera, no grasa y no pegajosa, este protector solar 50 se absorbe rápidamente y deja una agradable sensación de suavidad.
-- PIEL SENSIBLE – Esta crema con protección solar 50 facial sin perfume contiene antioxidantes para aliviar inmediatamente la sensación de tirantez en la piel del rostro.
-- CUIDADO FACIAL – Esta crema solar facial 50 ha sido desarrollada para cuidar la piel sensible del rostro frente a los daños inducidos por la radiación solar.
-- La siguiente información se aplica a cada unidad del paquete
 - CONTENIDO DEL ENVÍO – NIVEA SUN Sensitive Protección Facial FP 50, crema facial con protección solar 50 con 0% sensación pegajosa, 1 x 50 ml, tubo.
+- PIEL SENSIBLE – Esta crema con protección solar 50 facial sin perfume contiene antioxidantes para aliviar inmediatamente la sensación de tirantez en la piel del rostro.
+- TEXTURA LIGERA – Gracias a su textura ligera, no grasa y no pegajosa, este protector solar 50 se absorbe rápidamente y deja una agradable sensación de suavidad.
+- CUIDADO FACIAL – Esta crema solar facial 50 ha sido desarrollada para cuidar la piel sensible del rostro frente a los daños inducidos por la radiación solar.
 - PROTECCIÓN INMEDIATA – Para aliviar y prevenir las irritaciones provocadas por los rayos de sol, esta crema con protección solar facial tiene protección UVA/UVB.
+- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FFVPVZR8{{</world>}}

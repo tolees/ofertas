@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Altura: 79 cm, Ancho: 40 cm, Fondo: 33 cm
-- Altura: 79 cm, Ancho: 40 cm, Fondo: 33 cm
-- Maleta tipo trolley con asas acolchadas en la parte superior y lateral
 - Compartimentos dobles para viajes de larga distancia, con cerradura TSA integrada y bolsillo con cremallera
+- Maleta tipo trolley con asas acolchadas en la parte superior y lateral
+- Altura: 79 cm, Ancho: 40 cm, Fondo: 33 cm
 - Fabricada 100% en poliéster y con un auténtico tacto vaquero
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Proporciona comodidad
 - Una mirada original
-- Proporciona comodidad
 - Cuello de camisa con trabilla en el interior
+- Proporciona comodidad
+- Proporciona comodidad
 - Puños con cierre de botón sin ojales
 
 [🛒 Comprar!!!]({{< param buyurl >}})

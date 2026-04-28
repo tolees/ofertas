@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- RIB - dobladillo inferior/puños
 - Tejido mezcla de algodón y poliéster
 - Cuello redondo
+- RIB - dobladillo inferior/puños
 - Artículos entregados: 1x Sudadera Helly Hansen Womens W Nord Graphic - Sudadera con capucha Ocean XS
 - Gráfico de Helly Hansen Nord en el pecho
 

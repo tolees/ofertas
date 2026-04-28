@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Logo serigrafiado en la pierna izquierda
 - Tejido Repreve elástico en 4 direcciones, fabricado a base de botellas de plástico
 - Corte: Corte de longitud media
 - Cintura: cintura totalmente elástica con cordón de ajuste
-- Logo serigrafiado en la pierna izquierda
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B083TL1TJN{{</world>}}

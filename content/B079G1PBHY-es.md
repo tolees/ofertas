@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido suave
 - Material transpirable y resistente
+- Tejido suave
 - Tiene detalles distintivos de la marca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

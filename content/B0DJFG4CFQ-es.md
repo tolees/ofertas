@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Corte clásico
-- 95 % poliéster (reciclado), 5 % elastano
-- Cierre con cremallera
 - Chaqueta y pantalón: Bolsillos laterales
 - Pantalón: Cintura elástica ajustable con cordón
+- Cierre con cremallera
+- 95 % poliéster (reciclado), 5 % elastano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DJFG4CFQ{{</world>}}

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Hoja de acero inoxidable Nitrum
+- Tamaño hoja: 105 mm
 - Remaches machihembrados de acero inoxidable
 - Mango de Madera comprimida
-- Tamaño hoja: 105 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00U2QWO1K{{</world>}}

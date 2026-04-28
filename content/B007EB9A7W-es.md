@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Se pueden lavar en el lavavajillas. Reutilizables
 - Acumuladores diseñados para mantener fresca la comida, bebidas o medicinas
+- Se pueden lavar en el lavavajillas. Reutilizables
 - Apto para el uso alimenticio. No tóxico
 
 [🛒 Visítala!!!]({{< param buyurl >}})

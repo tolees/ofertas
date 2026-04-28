@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- PREVENCIÓN DE FUGAS: El cierre superior ayuda a evitar cualquier tipo de fuga en nuestras pilas de 9 V
 - EMBALAJE SOSTENIBLE: El embalaje de las pilas con 0 % de plástico es 100 % reciclable
-- FIABLES: En 1969, Duracell formó parte de la misión Apolo 11, convirtiéndose así en la primera pila en la luna
-- * Garantía comercial vs. duración media mínima de las pruebas de pilas de 9 V de la IEC de 2021. Los resultados pueden variar según el dispositivo o el tipo de uso (web de la IEC) **a temperatura ambiente
 - DURABILIDAD: Nuestras tecnologías permiten mantener las pilas no utilizadas en condiciones óptimas hasta 5 años en su embalaje**
+- FIABLES: En 1969, Duracell formó parte de la misión Apolo 11, convirtiéndose así en la primera pila en la luna
 - RENDIMIENTO IDÓNEO: Esta pila 9V de Duracell es ideal para suministrar energía a tus dispositivos cotidianos con hasta un 100 % de duración garantizada*
+- PREVENCIÓN DE FUGAS: El cierre superior ayuda a evitar cualquier tipo de fuga en nuestras pilas de 9 V
+- * Garantía comercial vs. duración media mínima de las pruebas de pilas de 9 V de la IEC de 2021. Los resultados pueden variar según el dispositivo o el tipo de uso (web de la IEC) **a temperatura ambiente
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B093LQHR2Y{{</world>}}

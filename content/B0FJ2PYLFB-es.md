@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Panel de cristal curvo de una sola pieza: El panel frontal y lateral están fabricados en una única pieza de cristal, ofreciendo una vista envolvente y sin obstáculos del impresionante hardware del PC
-- Sistema de chasis modular FRAME: El revolucionario sistema FRAME da un nuevo significado a la palabra personalización. Puede actualizar la bandeja de la placa base, reemplazar los ventiladores laterales por una cubierta para cables, o cambiar la cubierta de la PSU por un diseño ajustado que incluye puntos de montaje verticales para la GPU
 - Diseño industrial en cascada: Líneas limpias que fluyen como una cascada sobre el exterior del chasis, ofreciendo amplias aperturas para una ventilación óptima y un estilo único que lo diferencia del resto
+- Sistema de chasis modular FRAME: El revolucionario sistema FRAME da un nuevo significado a la palabra personalización. Puede actualizar la bandeja de la placa base, reemplazar los ventiladores laterales por una cubierta para cables, o cambiar la cubierta de la PSU por un diseño ajustado que incluye puntos de montaje verticales para la GPU
 - Ventiladores RGB de rotor de flujo inverso: Los ventiladores de 120 mm montados lateralmente incluidos utilizan un diseño de rotor inverso para dirigir aire frío al interior del chasis mientras muestra sin obstáculos sus espectaculares efectos RGB
 - Sistema de montaje de ventiladores CORSAIR InfiniRail: Este sistema de montaje multipunto de acero ofrece una flexibilidad inigualable en la configuración de ventiladores en la parte superior. Basta con deslizar el raíl para montar ventiladores de 120 mm o 140 mm donde desee, garantizando un flujo de aire específico sin las limitaciones del montaje fijo
 

@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Fácil de Usar: Esta linterna está diseñada para ser simple y eficiente, con un único botón de encendido/apagado. No tiene funciones complicadas como estroboscópico o flash, lo que la hace perfecta para personas mayores y aquellos que prefieren una operación sin complicaciones
 - Brillante y Eficaz: Con un potente LED que ofrece 140 lúmenes, esta linterna ilumina hasta 150 metros (500 ft), suficiente para mantener una visión clara durante cortes de energía, paseos nocturnos o emergencias
-- Función de Zoom Ajustable: Al girar el cabezal de la linterna, puedes ajustar el brillo desde un punto focal pequeño hasta una amplia área. La luz concentrada es ideal para iluminar objetos específicos, mientras que el haz de gran angular ofrece una visión panorámica en la oscuridad
 - Compacta y Fácil de Transportar: Con un tamaño aproximado de 3.4 cm de diámetro y 10.9 cm de largo, esta linterna LED es liviana, pesando solo 128 g, un 25% más ligera que muchas otras linternas. Su diseño incluye un mango antideslizante y cordón, lo que la hace cómoda y segura de llevar, incluso para niños
+- Función de Zoom Ajustable: Al girar el cabezal de la linterna, puedes ajustar el brillo desde un punto focal pequeño hasta una amplia área. La luz concentrada es ideal para iluminar objetos específicos, mientras que el haz de gran angular ofrece una visión panorámica en la oscuridad
 - Resistente y Duradera: Fabricada con aleación de aluminio de grado militar, esta linterna resiste el desgaste, la corrosión y el óxido. Su clasificación IPX4 la protege contra salpicaduras de agua, lluvia ligera y nieve, lo que la convierte en la compañera ideal para acampar, pasear al perro, cazar, o usar en emergencias tanto en interiores como exteriores
 
 [🛒 Aquí!!!]({{< param buyurl >}})

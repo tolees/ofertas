@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Antideslizante
 - O1 FO SRC +ESD
-- ESD
+- Antideslizante
 - EN ISO 20347:2012
+- ESD
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08P29F4QJ{{</world>}}

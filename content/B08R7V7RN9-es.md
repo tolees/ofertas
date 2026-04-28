@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Mejor producto: Nuestro objetivo de mejorar continuamente nuestro producto y reducir nuestro impacto. Para ser considerado un mejor producto, un zapato debe tener al menos el 50% de su composición utilizando mejores materiales mientras mantenga los mismos estándares de calidad, durabilidad y comodidad que siempre esperamos. Nuestro objetivo es que todos los zapatos se ajusten a este criterio para 2025.
+- Material superior: cuero
 - Leather Working Group: Utiliza cuero de las curtiembres calificadas por el grupo de trabajo de cuero (LWG). El LWG evalúa y promueve prácticas ambientales sostenibles en toda la industria de cuero. Estamos comprometidos a usar solo cuero aprobado por LWG para 2022.
 - Suela de EVA para ligero
-- Material superior: cuero
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08R7V7RN9{{</world>}}

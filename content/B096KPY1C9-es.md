@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Vegano
-- Zapato cómodo
 - Lavable a máquina
+- Zapato cómodo
+- Vegano
 - Espuma viscoelástica
 - Skech Air
 

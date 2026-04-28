@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El distribuidor de corriente para exteriores IP54 (a prueba de polvo y salpicaduras) es ideal como cable alargador de 5 m para exteriores
-- Cable de obra IP54 con gancho metálico articulado y giratorio para colgar: perfecto para un trabajo flexible
-- Cable alargador para obras de alta calidad, resistente a golpes y roturas, ideal para un uso duro en exteriores
 - Toma de distribución para exterior con 4 tomas a prueba de polvo y salpicaduras en disposición de 45° con tapas abatibles de cierre automático para proteger contra la suciedad
+- Cable alargador para obras de alta calidad, resistente a golpes y roturas, ideal para un uso duro en exteriores
+- Cable de obra IP54 con gancho metálico articulado y giratorio para colgar: perfecto para un trabajo flexible
+- El distribuidor de corriente para exteriores IP54 (a prueba de polvo y salpicaduras) es ideal como cable alargador de 5 m para exteriores
 - Toma de distribución de 4 vías (dos tomas dispuestas en paralelo)
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Drop: 9 mm (talón: 31 mm / antepié: 22 mm)
-- Compra 1 talla más grande
-- Mediasuela Cloudfoam
-- Empeine de malla
-- Suela Adiwear
-- Forro textil
 - Peso: 245 g (talla 38 2/3)
 - Plantilla OrthoLite
+- Forro textil
+- Suela Adiwear
+- Mediasuela Cloudfoam
+- Empeine de malla
+- Drop: 9 mm (talón: 31 mm / antepié: 22 mm)
+- Compra 1 talla más grande
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHXBGXBM{{</world>}}

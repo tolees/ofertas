@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Favorece la desinhibición
-- Ejercita el ritmo y la imaginación
 - Familiarización con la música
+- Ejercita el ritmo y la imaginación
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00C77H2EG{{</world>}}

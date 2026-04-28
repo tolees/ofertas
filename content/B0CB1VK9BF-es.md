@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Artículo de marca Skechers
 - Ofrece comodidad y libertad de movimiento
+- Artículo de marca Skechers
 - Tiene detalles distintivos de la marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})

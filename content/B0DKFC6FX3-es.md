@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ¡Tenemos un universo de mundos a tu disposición! Creamos artículos de calidad siempre diferentes, coloridos, positivos y divertidos, perfectos para cada persona y para cada estado de ánimo. En Legami siempre puedes encontrar tu mundo ideal para descubrir y explorar día a día: un mundo de felicidad para cuando estás algo deprimido, mundo de sorpresas para cuando te aburres, un mundo de inspiraciones para cuando te faltan ideas, un mundo de emociones diferentes en constante evolución.
 - Dimensiones: 18 x 19 x 2,5 cm.
-- Características: funda extraíble con cierre de velcro. Relleno: 97% de semillas de lino, 3% de flores de lavanda secas.
 - Material de la funda: 100% poliéster; material de la funda del cojín interior: 100% algodón
+- ¡Tenemos un universo de mundos a tu disposición! Creamos artículos de calidad siempre diferentes, coloridos, positivos y divertidos, perfectos para cada persona y para cada estado de ánimo. En Legami siempre puedes encontrar tu mundo ideal para descubrir y explorar día a día: un mundo de felicidad para cuando estás algo deprimido, mundo de sorpresas para cuando te aburres, un mundo de inspiraciones para cuando te faltan ideas, un mundo de emociones diferentes en constante evolución.
+- Características: funda extraíble con cierre de velcro. Relleno: 97% de semillas de lino, 3% de flores de lavanda secas.
 - El deseo de afecto es tanto, pero el espacio es poco? El mini cojín térmico con semillas de lino - Warm Cuddles - Unicorn de Legami es la medida perfecta para llevar el alivio caliente y frío siempre contigo. Se puede calentar en el microondas y enfriar en el congelador, te dará un calor relajante en los fríos meses de invierno y un alivio fresco durante los veranos calurosos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

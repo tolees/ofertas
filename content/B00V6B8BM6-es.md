@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Confeccionada en suave algodón lavado, tiene un estampado de cachemir inspirado en el lejano Oeste
 - Este cómodo gorro te aportará confort y suavidad durante todas las estaciones. Este modelo estilo caído añade un toque moderno a tus conjuntos y lo puedes llevar con o sin vuelta, según prefieras.
+- Confeccionada en suave algodón lavado, tiene un estampado de cachemir inspirado en el lejano Oeste
 - LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
 - Llévala alrededor del cuello, la cabeza o la muñeca o úsala como pañuelo de bolsillo
 

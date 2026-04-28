@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logotipo frontal
 - Diseño de un solo compartimento
+- Logotipo frontal
 - Cremallera principal
 
 [🛒 Aquí!!!]({{< param buyurl >}})

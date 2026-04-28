@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Tamaño: A4.
 - Perfectas para organizar tus documentos de oficina, estudios o domésticos.
+- Esta bolsa contiene 10 fundas taladradas.
 - Acabado en piel naranja: mate, rugoso.
 - Fabricadas en polipropileno estándar.
-- Esta bolsa contiene 10 fundas taladradas.
 - Lomo reforzado con 11 taladros.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Temático
 - Colección Magical
-- Cierre adaptable
 - Se ilumina con botón de encendido/apagado
 - Unicornio iluminado con correa y parte superior con estampado de corazón múltiple
+- Temático
+- Cierre adaptable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DP18WNVW{{</world>}}

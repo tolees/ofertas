@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Forro textil
+- Horma clásica
 - Suela de goma vulcanizada
 - Parte superior de piel revestida
-- Horma clásica
 - Cierre de cordones
 - Mediasuela con amortiguación
 

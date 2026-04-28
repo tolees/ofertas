@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 100 % algodón
 - Sudadera con capucha de manga larga con cuello acanalado, puños y dobladillo
+- 100 % algodón
 - Logotipo artístico en el pecho y doble costura en las sisas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

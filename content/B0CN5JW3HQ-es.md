@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Sin pérdida de succión: la tecnología Dyson Radial Root Cyclone, con 15 ciclones alineados, atrapa polvo y residuos del flujo de aire sin perder potencia, manteniendo así una succión constante y efectiva; Manteniendo así la máxima potencia de succión
-- El motor digital Dyson V8 gira a un máximo de 110 000 rpm para generar 115 AW de potente succión²
 - Hasta 40 minutos de potencia constante sin pérdida de rendimiento¹ gracias a la batería de ion de litio de seis células de alta densidad energética de Dyson
 - Dos modos de potencia El modo Eco ofrece la potencia óptima y la autonomía necesaria para las tareas diarias, optimizando la vida útil de la batería; O el modo Máxima potencia para una limpieza focalizada a fondo
 - Ligera para una limpieza rápida y versátil sin cable; Potente y silenciosa
+- El motor digital Dyson V8 gira a un máximo de 110 000 rpm para generar 115 AW de potente succión²
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CN5JW3HQ{{</world>}}

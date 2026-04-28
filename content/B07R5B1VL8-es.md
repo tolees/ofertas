@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- 🌿 SURTIDO SELECTO: Semillas de tomillo, menta, salvia, orégano, cilantro, albahaca roja, mejorana, melisa, albahaca, romero, eneldo, perejil liso– ¡el regalo perfecto!
 - 🌿 KIT DE 12 HIERBAS AROMÁTICAS PARA REGALAR: Kit de semillas de hierbas aromáticas de primera calidad para cultivar en la ventana, en el balcón, en el jardín o en huerto
+- 🌿 SEMILLAS ORGÁNICAS: Excelente mezcla de semillas de las variedades más apreciadas, plantas anuales o plurianuales no modificadas genéticamente. Ideal para hacer un regalo ecológico y para cultivo en casa
 - 🌿 FÁCIL CULTIVO: Ya sea en una maceta, en un bancal, en un arriate, en un invernadero, en el jardín o en el huerto. Cada bolsa de semillas incluye amplia información sobre la siembra y la recolección
 - 🌿 NOS GUSTA CULTIVAR PLANTAS Y OFRECEMOS: Semillas biológicas, kit de iniciación para cultivar bonsáis, ideas para regalar semillas de flores, regalos para aficionados a la jardinería, semillas de okra, verduras, hortalizas, y mucho más
-- 🌿 SURTIDO SELECTO: Semillas de tomillo, menta, salvia, orégano, cilantro, albahaca roja, mejorana, melisa, albahaca, romero, eneldo, perejil liso– ¡el regalo perfecto!
-- 🌿 SEMILLAS ORGÁNICAS: Excelente mezcla de semillas de las variedades más apreciadas, plantas anuales o plurianuales no modificadas genéticamente. Ideal para hacer un regalo ecológico y para cultivo en casa
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07R5B1VL8{{</world>}}

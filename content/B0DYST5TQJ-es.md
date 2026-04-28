@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manejo cómodo con una sola mano: Con solo 0,9 kg (2 lb), esta sierra de sable ligera está diseñada para un uso prolongado sin fatiga. Perfecta tanto para hombres como mujeres, es la opción ideal para quienes buscan precisión y facilidad de uso.
-- Batería de larga duración para proyectos extensos: Con 2 baterías de 4,0 Ah, disfrutarás de un uso prolongado. La carga rápida te permite seguir trabajando sin demoras, minimizando tiempos muertos. Esta sierra de sable inalámbrica te ayuda a completar tus proyectos sin interrupciones.
 - Cambio de hoja rápido y sin herramientas: ¿Cansado de perder tiempo? El sistema de cambio de hoja sin herramientas te permite intercambiarlas en segundos, manteniendo tu ritmo de trabajo. Ideal para quienes valoran eficiencia y comodidad.
+- Batería de larga duración para proyectos extensos: Con 2 baterías de 4,0 Ah, disfrutarás de un uso prolongado. La carga rápida te permite seguir trabajando sin demoras, minimizando tiempos muertos. Esta sierra de sable inalámbrica te ayuda a completar tus proyectos sin interrupciones.
+- Manejo cómodo con una sola mano: Con solo 0,9 kg (2 lb), esta sierra de sable ligera está diseñada para un uso prolongado sin fatiga. Perfecta tanto para hombres como mujeres, es la opción ideal para quienes buscan precisión y facilidad de uso.
 - Alto rendimiento para cualquier tarea: Imagina cortar madera, tuberías y metales con facilidad gracias a su motor sin escobillas de 200 W y velocidad ajustable (0-3.500 RPM). Ya sea para bricolaje o trabajos profesionales, esta sierra de vaivén sin escobillas ofrece la potencia necesaria. Es la herramienta definitiva para todo tipo de cortes.
 - Versátil para todo tipo de materiales: Incluye 8 hojas de alta calidad para cortar diversos materiales. Su carrera de 15 mm garantiza cortes precisos, convirtiéndola en una herramienta eléctrica versátil, desde podar ramas hasta cortar tubos metálicos.
 

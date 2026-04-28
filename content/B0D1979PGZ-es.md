@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hombros con la costura caída
-- 55% algodón / 36% poliéster (reciclado) / 9% viscosa
 - Puños y dobladillo de canalé
-- Cuello redondo de canalé
-- Contiene al menos un 70% de material reciclado y renovable
+- 55% algodón / 36% poliéster (reciclado) / 9% viscosa
+- Hombros con la costura caída
 - Corte clásico
+- Cuello redondo de canalé
 - Dobladillo trasero ligeramente más corto
+- Contiene al menos un 70% de material reciclado y renovable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D1979PGZ{{</world>}}

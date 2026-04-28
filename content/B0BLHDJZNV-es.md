@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 6.76 onzas líquidas (paquete de 1)
 - PURITO
+- 6.76 onzas líquidas (paquete de 1)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BLHDJZNV{{</world>}}

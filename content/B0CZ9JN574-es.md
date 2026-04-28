@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 100% poliéster (71% reciclado)
-- Corte clásico
-- Costuras de los hombros desplazadas hacia atrás
 - Tejido Twistknit elástico
 - CLIMACOOL
-- Contiene al menos un 70% de material reciclado y renovable
+- Costuras de los hombros desplazadas hacia atrás
 - Refuerzos bajo las sisas
-- Protección contra los rayos UV
-- Cuello redondo
 - Tecnología de control de olores Polygiene (ingrediente activo: cloruro de plata)
+- 100% poliéster (71% reciclado)
+- Cuello redondo
+- Corte clásico
+- Protección contra los rayos UV
+- Contiene al menos un 70% de material reciclado y renovable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZ9JN574{{</world>}}

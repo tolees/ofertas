@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 🍸 GIN TONIC MÁS AROMÁTICO Y REFRESCANTE: Martin Millers Summerful Gin realza su base cítrica con un perfil floral y herbal, gracias al romero inglés y el tomillo ártico.
-- 🏆 GINEBRA AUTÉNTICA Y DE CALIDAD: Mantiene el espíritu clásico de la ginebra con un giro fresco y moderno, ofreciendo una experiencia sofisticada y llena de matices.
+- 🍹 VERSÁTIL Y ELEGANTE: Perfecta para disfrutar sola o combinada con una tónica; simplemente añade abundante hielo, mezcla suavemente y decora para un cóctel excepcional.
 - 🌸 EQUILIBRIO ENTRE SUAVIDAD Y FRESCURA: Destaca por su equilibrio entre el enebro clásico y una frescura cítrica, con notas florales, lavanda, salvia y un sutil toque de menta.
 - 🌿 DESTILACIÓN ADICIONAL PARA MAYOR FRESCURA: Incorpora una destilación extra con botánicos de primavera y verano, aportando un carácter más vibrante y refrescante, ideal para gin tonics y Dry Martinis al aire libre.
-- 🍹 VERSÁTIL Y ELEGANTE: Perfecta para disfrutar sola o combinada con una tónica; simplemente añade abundante hielo, mezcla suavemente y decora para un cóctel excepcional.
+- 🏆 GINEBRA AUTÉNTICA Y DE CALIDAD: Mantiene el espíritu clásico de la ginebra con un giro fresco y moderno, ofreciendo una experiencia sofisticada y llena de matices.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08YNTWWLY{{</world>}}

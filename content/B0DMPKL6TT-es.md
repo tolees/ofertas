@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Empeine de piel
 - Logotipo de archivo y caja de ventana
 - Suela de goma duradera
+- Empeine de piel
 - Perfil de corte bajo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

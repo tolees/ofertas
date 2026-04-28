@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gattung: Handschuh
-- Mannschaft: default
-- Extras: default
-- Ausschnitt: default
 - Futter: default
+- Gattung: Handschuh
+- Extras: default
+- Mannschaft: default
+- Ausschnitt: default
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKXWCL56{{</world>}}

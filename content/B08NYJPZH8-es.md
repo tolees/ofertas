@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIKE G Np 3in Shorts Niñas Black/ white 10 Años'
-date: 2026-04-25 09:07:28
+date: 2026-04-27 22:52:12
 image: 'https://m.media-amazon.com/images/I/41NGTIP7cGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08NYJPZH8/?tag=tolees-21'
 descuento: '58.46'
-average: '13.2759999999999'
+average: '13.0127272727271'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

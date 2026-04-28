@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cómodo
 - Tejido: tejido ligero con caída mezcla de viscosa poliéster
-- Corte normal
-- Cuello con escote redondo abierto y serigrafía en parte delantera
 - Clásico
+- Cuello con escote redondo abierto y serigrafía en parte delantera
+- Corte normal
+- Cómodo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0825Q4BTY{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- PUMA Logotipo de gato en el pecho derecho
-- Bloqueo de color en las mangas
 - Corte regular
 - Cuello redondo
+- PUMA Logotipo de gato en el pecho derecho
+- Bloqueo de color en las mangas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BNLN8CVT{{</world>}}

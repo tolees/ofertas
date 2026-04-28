@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- MODERNO Y RESISTENTE: De estilo minimalista y vanguardista, con un acabado en aluminio, cuenta con garras metálicas para asegurar una mayor sujeción y acople a la superficie de la pared
 - CONMUTADOR SIMON: La solución perfecta para contorlar un punto de luz desde dos lugares distintos. También se puede utilizar como interruptor. Incluye marco, tapa y mecanismo. Apto para interiores (IP20)
 - INTEGRACIÓN: La serie Simon 10 tiene una profundidad muy reducida. Con ello se dispone de una estética muy elegante y poco intrusiva con la estancia, por lo que tiene una fluida integración con el ambiente.
 - FÁCIL DE INSTALAR: El bastidor, fabricado en material de polipropileno, permite una mayor comodidad y manejo durante su instalación por su flexibilidad
-- MODERNO Y RESISTENTE: De estilo minimalista y vanguardista, con un acabado en aluminio, cuenta con garras metálicas para asegurar una mayor sujeción y acople a la superficie de la pared
 - FUNCIONAMIENTO: Mientras que los interruptores se encargan de la desconexión de un circuito eléctrico, los conmutadores hacen que la corriente pase a otro conductor para conectar un circuito diferente
 
 [🛒 Visítala!!!]({{< param buyurl >}})

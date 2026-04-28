@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La entrega del producto se realizará a pie de calle previa concertación por llamada del transportista. El servicio de transporte y entrega de muebles no incluye el montaje de los mismos.
-- Compás de gas abatible en la puerta. Patas ABS 12 cm acabadas en color Grafito.
 - Instrucciones de montaje detalladas paso a paso para un montaje fácil.
 - Color: Grafito y Nordic.
+- La entrega del producto se realizará a pie de calle previa concertación por llamada del transportista. El servicio de transporte y entrega de muebles no incluye el montaje de los mismos.
 - Medidas: 45 cm (alto) x 133 cm (ancho) x 39 cm (prof.)
 - Montaje reversible, es decir el hueco puede montarse a derecha o izquierda.
+- Compás de gas abatible en la puerta. Patas ABS 12 cm acabadas en color Grafito.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BZDMK4RN{{</world>}}

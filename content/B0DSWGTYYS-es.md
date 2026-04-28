@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MATERIAL Y CUIDADO: Cazadora de algodón regenerativo 100 %. Se puede lavar a máquina y secar en secadora.
 - PARA CUALQUIER OCASIÓN: Esta ligera cazadora destaca por su look informal y su gran comodidad. Los discretos detalles distintivos de Tommy Jeans proporcionan un estilo muy elegante a esta cazadora.
-- ICÓNICO Y ATEMPORAL: La sobrecamisa original de Tommy Jeans con botones y cuello francés tiene un diseño depurado. Los detalles distintivos de Tommy Jeans en el pecho completan el look de esta prenda.
-- AJUSTE PERFECTO: El estilo atemporal de esta sobrecamisa minimalista no es muy voluminosa. Se adapta perfectamente a la figura y garantiza una comodidad especial y una máxima libertad de movimiento.
 - MODA URBANA REINTERPRETADA: Para acercar las populares prendas de los 90 a las nuevas generaciones, Tommy Jeans se inspira en los iconos del hip-hop de aquella época. Apostando por prendas de alta calidad y diseños modernos con mucho denim.
+- AJUSTE PERFECTO: El estilo atemporal de esta sobrecamisa minimalista no es muy voluminosa. Se adapta perfectamente a la figura y garantiza una comodidad especial y una máxima libertad de movimiento.
+- MATERIAL Y CUIDADO: Cazadora de algodón regenerativo 100 %. Se puede lavar a máquina y secar en secadora.
+- ICÓNICO Y ATEMPORAL: La sobrecamisa original de Tommy Jeans con botones y cuello francés tiene un diseño depurado. Los detalles distintivos de Tommy Jeans en el pecho completan el look de esta prenda.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DSWGTYYS{{</world>}}

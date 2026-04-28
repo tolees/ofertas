@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Cintura elástica con cordón
 - Bolsillos laterales
-- Pantalones largos deportivos
 - Fabricados en material cómodo
+- Pantalones largos deportivos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BNM26ZBN{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Low rise
 - materialFabricComposition: 68% Polyester, 29% Viscose, 3% Elastane
-- Chino trousers
 - Slim Fit
 - Care Label:
-- Low rise
+- Chino trousers
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BC186X7X{{</world>}}

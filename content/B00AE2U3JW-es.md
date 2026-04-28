@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- [FABRICADO] en España por la prestigiosa Marca TATAY
 - [A PRESIÓN] Tapa de cierre de presión, garantizando una mejor conservación de alimentos
-- [CUMPLE] con la normativa de Seguridad en Plásticos
-- [MEDIDAS] 28,5 x 18,5 x 12,2 cm
 - [LIBRE DE BPA] Fabricado con plásticos de alta calidad libre de BPA y tóxicos
+- [FABRICADO] en España por la prestigiosa Marca TATAY
+- [MEDIDAS] 28,5 x 18,5 x 12,2 cm
 - [APTO] Para lavavajillas, nevera, congelador y microondas, desde -40ºC a 100º
+- [CUMPLE] con la normativa de Seguridad en Plásticos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00AE2U3JW{{</world>}}

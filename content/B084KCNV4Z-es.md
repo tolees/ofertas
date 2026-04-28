@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kärcher Cortabordes LTR 18-25 Battery 9.500 rpm 300 m2 sin batería 1.444-300.0 Amarillo'
-date: 2026-04-17 04:36:51
+date: 2026-04-27 08:10:31
 image: 'https://m.media-amazon.com/images/I/31rM3e4BlhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B084KCNV4Z/?tag=tolees-21'
 descuento: '51.20'
-average: '38.7905'
+average: '39.255'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cabezal de corte regulable: gracias al cabezal de corte regulable, el cortabordes inalámbrico puede llegar incluso a los bordes de césped de terrazas y caminos con más difícil acceso
-- Trabajo ergonómico: con el mango telescópico y la sujeción para dos manos se favorece una postura de trabajo ergonómica; El cabezal ajustable llega por sí solo a las áreas con acceso más difícil
-- Prolongación automática del hilo: el hilo de corte del carrete intercambiable se ajusta de forma automática para que su longitud sea óptima a la hora de cortar el césped
-- Incluye: Kärcher 18 V cortabordes y carrete de hilo; La batería de 18 V Kärcher y el cargador rápido se venden por separado
-- Solo el cuerpo, la batería y el cargador se venden por separado
 - Corte preciso: el cortabordes Kärcher LTR 18-25 cuenta con un sistema de corte preciso con un diámetro de círculo de corte de 25 cm
+- Prolongación automática del hilo: el hilo de corte del carrete intercambiable se ajusta de forma automática para que su longitud sea óptima a la hora de cortar el césped
+- Trabajo ergonómico: con el mango telescópico y la sujeción para dos manos se favorece una postura de trabajo ergonómica; El cabezal ajustable llega por sí solo a las áreas con acceso más difícil
+- Solo el cuerpo, la batería y el cargador se venden por separado
+- Cabezal de corte regulable: gracias al cabezal de corte regulable, el cortabordes inalámbrico puede llegar incluso a los bordes de césped de terrazas y caminos con más difícil acceso
+- Incluye: Kärcher 18 V cortabordes y carrete de hilo; La batería de 18 V Kärcher y el cargador rápido se venden por separado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B084KCNV4Z{{</world>}}

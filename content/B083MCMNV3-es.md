@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Urban Classics Logotipo de la marca
-- La cintura elástica
 - Los leggings son un poco más cortos y terminan claramente por encima del tobillo
+- La cintura elástica
+- Urban Classics Logotipo de la marca
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B083MCMNV3{{</world>}}

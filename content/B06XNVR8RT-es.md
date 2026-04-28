@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Wrinkle-free stretch cotton blend fabric
 - Refined chino pants with no wrinkle technology
 - Welt pockets
 - Built with our All Motion Comfort Waistband
-- Easy Khaki Classic fit
 - Dockers Herren Easy Khaki Classic fit PANTS
-- Wrinkle-free stretch cotton blend fabric
 - Zip fly
 - Classic fit
+- Easy Khaki Classic fit
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B06XNVR8RT{{</world>}}

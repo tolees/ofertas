@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Velocidad de lectura de hasta 10 MB/s
 - El mecanismo retráctil protege el conector USB cuando no se está utilizando
+- Velocidad de lectura de hasta 10 MB/s
 - Memoria USB 3.0 de 16 GB
 - Velocidad de escritura de hasta 4 MB/s
 

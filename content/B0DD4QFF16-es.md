@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Indicaciones: apta para microondas. Se recomienda lavarla a mano para que su diseño se mantenga intacto durante más tiempo.
 - Taza de cerámica con mensaje de agradecimiento.
+- Indicaciones: apta para microondas. Se recomienda lavarla a mano para que su diseño se mantenga intacto durante más tiempo.
 - Capacidad: 370 Ml
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

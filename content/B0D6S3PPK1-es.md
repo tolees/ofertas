@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material de la montura: TR90; Color de la montura: Gris; Color de la varilla: Gris, Negro
-- Modelo Unisex
 - Un diseño envolvente ultraligero concebido al detalle para ser un híbrido casual y deportivo; esta silueta con forma de libélula combina lente de máscara semi al aire con visión panorámica, terminales y almohadillas nasales engomadas para mejorar el agarre durante la práctica de cualquier actividad deportiva; disponible en varios colores de lentes y monturas en acabados brillo y mate
+- Material de la montura: TR90; Color de la montura: Gris; Color de la varilla: Gris, Negro
 - Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Azul; Apariencia de la lente: Sólida
+- Modelo Unisex
 - Producto original Hawkers; la caja incluye funda en microfibra y caja
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

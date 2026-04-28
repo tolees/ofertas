@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material Principal: 100% Poliéster/Puños: Poliéster, Elastano
-- Cierre: Botón
-- Cuello de polo con dos botones
-- Estilo del cuello: Polo
 - Mangas raglán cortas
+- Material Principal: 100% Poliéster/Puños: Poliéster, Elastano
+- Estilo del cuello: Polo
+- Cuello de polo con dos botones
+- Cierre: Botón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B083XYRHG4{{</world>}}

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tacón: Plataforma 6 cm
-- Parte superior: cuero
 - Interior: Tela
+- Parte superior: cuero
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DHQ7813B{{</world>}}

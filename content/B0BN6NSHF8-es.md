@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La talla M es adecuada para niños de 9 a 10 años
-- Logotipo impreso
 - Ajuste regular: ajuste sencillo y cómodo con espacio para moverse
+- Logotipo impreso
 - Tejido ultraligero Powerblend Fleece afelpado (240 g)
+- La talla M es adecuada para niños de 9 a 10 años
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BN6NSHF8{{</world>}}

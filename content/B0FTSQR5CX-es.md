@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - CON 2 AÑOS DE AUTONOMÍA: Configúrala en cuestión de minutos y disfruta de hasta 2 años de autonomía con las pilas de litio AA incluidas. También puedes comprar el pack de extensión de batería (vendido por separado) para aumentar la autonomía de cada cámara hasta 4 años.
-- NUEVA CÁMARA MINI 2K+: descubre nuestra cámara compacta de 3.ª generación con enchufe que te ofrece vídeos más nítidos y una claridad de audio mejorada para una protección continua.
-- CLARIDAD DE VÍDEO EN 2K: captura imágenes con gran nivel de detalle gracias a la resolución de vídeo 2K, la cobertura ampliada, el zoom de hasta 4 aumentos y la visión nocturna en color con foco direccional LED integrado.
 - VE, ESCUCHA Y HABLA DESDE LA APP DE BLINK: Disfruta del HD 1080p, con vídeo en directo, visión nocturna por infrarrojos y audio bidireccional nitidísimo.
 - NUESTRO MODELO MÁS RECIENTE: La Blink Outdoor 4 es nuestra 4.ª generación de cámara de seguridad inalámbrica inteligente, con la que protegerás el interior y el exterior de tu hogar desde la app de Blink de tu móvil.
+- NUEVA CÁMARA MINI 2K+: descubre nuestra cámara compacta de 3.ª generación con enchufe que te ofrece vídeos más nítidos y una claridad de audio mejorada para una protección continua.
+- CLARIDAD DE VÍDEO EN 2K: captura imágenes con gran nivel de detalle gracias a la resolución de vídeo 2K, la cobertura ampliada, el zoom de hasta 4 aumentos y la visión nocturna en color con foco direccional LED integrado.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FTSQR5CX{{</world>}}

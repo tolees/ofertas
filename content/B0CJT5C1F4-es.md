@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Los zapatos pueden combinar con multitud de conjuntos
 - Presentan detalles distintivos de la marca
+- Los zapatos pueden combinar con multitud de conjuntos
 - Artículo de marca Under Armour
 
 [🛒 Comprar!!!]({{< param buyurl >}})

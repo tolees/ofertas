@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- NEGRO-NEGRO
-- I-25
 - HOMBRE
 - Sneakers Skechers Agoura Hombre Negro-negro
 - SNEAKERS
+- NEGRO-NEGRO
+- I-25
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01MUH04HJ{{</world>}}

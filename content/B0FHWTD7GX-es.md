@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Directamente de la galaxia Star Wars, Clementoni presenta su nuevo robot R2-D2 inspirado en uno de los personajes más populares de la saga Skywalker
-- Funciones de la aplicación: en tiempo real para respuestas instantáneas de comandos, codificación para aprender los conceptos básicos de programación y una galería interactiva donde puedes ver cómo R2-D2 responde a otros personajes
+- Un gran conjunto que enseña a los niños los principios de la robótica con un enfoque STEM divertido e integrado
 - R2-D2 puede girar la cabeza 180°, exactamente como en la saga original
 - R2-D2 consta de más de 50 piezas que se pueden montar, tiene luces LED rojas y azules y reproduce los sonidos originales de la saga
-- Un gran conjunto que enseña a los niños los principios de la robótica con un enfoque STEM divertido e integrado
+- Funciones de la aplicación: en tiempo real para respuestas instantáneas de comandos, codificación para aprender los conceptos básicos de programación y una galería interactiva donde puedes ver cómo R2-D2 responde a otros personajes
+- Directamente de la galaxia Star Wars, Clementoni presenta su nuevo robot R2-D2 inspirado en uno de los personajes más populares de la saga Skywalker
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FHWTD7GX{{</world>}}

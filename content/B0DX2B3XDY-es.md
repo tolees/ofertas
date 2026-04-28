@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Combates por turnos estratégicos
-- Una historia épica de vínculos
 - Una aventura entre mundos y a través del tiempo
+- Una historia épica de vínculos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DX2B3XDY{{</world>}}

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Por favor, descarga la aplicación Xiaomi Earbuds para disfrutar de esta función
-- Un driver dinámico de 11 mm (doble imán y revestimiento de polímero negro) para sentir los graves profundos, tweeter planar y PTZ que revelan más detalles en los agudos con mínima distorsión
 - Qualcomm aptX Lossless audio: transmisión de hasta 2.1 Mbps/4.2 Mbps de bitrate con la versión BT/versión Wi-Fi (para Xiaomi 15 Ultra y Xiaomi 15, más modelos por confirmar)
-- Dos amplificadores (uno para el driver de 11 mm, otro para el tweeter PZT y planar) que funcionan por separado para el woofer y el tweeter, ofreciendo sonido HiFi en un amplio espectro de frecuencias
+- Un driver dinámico de 11 mm (doble imán y revestimiento de polímero negro) para sentir los graves profundos, tweeter planar y PTZ que revelan más detalles en los agudos con mínima distorsión
 - Grabadora de voz cara a cara: presiona el botón del estuche tres veces para activar la grabación; Harman AudioEFX: ajuste delicado por los maestros de afinación Harman Golden Ears
+- Dos amplificadores (uno para el driver de 11 mm, otro para el tweeter PZT y planar) que funcionan por separado para el woofer y el tweeter, ofreciendo sonido HiFi en un amplio espectro de frecuencias
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DSLSFKTW{{</world>}}

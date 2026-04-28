@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bajos elásticos
 - 40% poliéster
-- Dos bolsillos
-- Pantalón de chandal
 - Cintura elástico con cordones de ajuste
+- Pantalón de chandal
+- Bajos elásticos
+- Dos bolsillos
 - 60% algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})

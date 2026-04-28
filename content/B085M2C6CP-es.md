@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dimensiones del paquete: 9.14 L x 26.92 H x 18.03 W (centimeters)
 - Embalaje de cartón
 - Caja de cartón
 - Peso del paquete: 1.42 kilograms
+- Dimensiones del paquete: 9.14 L x 26.92 H x 18.03 W (centimeters)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B085M2C6CP{{</world>}}

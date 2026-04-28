@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con cremallera
 - Bolsillos para manos con cremallera
 - Dobladillo ajustable con ceñidor
+- Con cremallera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B008CDT6FC{{</world>}}

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - forro transpirable
-- plantilla acolchada
-- Altura plataforma: 2 cm.
 - Material : piel
+- Altura plataforma: 2 cm.
+- plantilla acolchada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DTYZJQZG{{</world>}}

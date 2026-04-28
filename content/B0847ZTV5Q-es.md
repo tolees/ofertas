@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CONTROL TOTAL gracias a sus 6 ajustes de velocidad y temperatura para personalizar el secado
 - GENERADOR IÓNICO que reduce el encrespamiento y la electricidad estática para un cabello suave y brillante
+- CONTROL TOTAL gracias a sus 6 ajustes de velocidad y temperatura para personalizar el secado
 - LIMPIEZA FÁCIL gracias a su rejilla trasera removible que garantiza un rendimiento duradero
 - SECADO POTENTE con 2300 W para resultados rápidos y menor consumo energético equivalente a 2100 W
 - PRECISIÓN PROFESIONAL con concentrador de 14 mm, golpe de aire frío y difusor para máximo volumen

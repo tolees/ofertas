@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela de goma
+- Parte superior de cuero y textil
 - Forro textil
 - Cierre de cordones
-- Parte superior de cuero y textil
 - Corte regular
+- Suela de goma
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DHVWN884{{</world>}}

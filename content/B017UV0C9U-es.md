@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Componentes incluidos: Juguete
 - Embarcación neumática Explorer 50 para silla infantil.
+- Componentes incluidos: Juguete
 - Número de modelo: 58354NP
 - Presión máxima del aire de trabajo: 0,03 bar
 - Número máximo de personas permitidas: 1 niño.

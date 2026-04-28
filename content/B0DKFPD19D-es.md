@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello y dobladillo con logotipo de Pepe Jeans London en la parte delantera y pequeña obra de arte trasera debajo del cuello
 - 70 % algodón, 30 % poliéster
 - Sudadera de manga larga con cuello redondeado y acanalado en los puños
+- Cuello y dobladillo con logotipo de Pepe Jeans London en la parte delantera y pequeña obra de arte trasera debajo del cuello
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DKFPD19D{{</world>}}

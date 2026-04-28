@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Compartimento principal grande.
 - Múltiples asas de transporte y puntos de pestañas.
 - Se guarda en el bolsillo exterior para accesorios.
-- Compartimento principal grande.
 - Sistema de correa de hombro guardable.
 - Bolsillo externo con cremallera.
 

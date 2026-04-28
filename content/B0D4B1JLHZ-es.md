@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DIVERSIÓN: Vierte las decoraciones y el colorante, añade agua y personalízala con las pegatinas incluidas para dar vida a tu unicornio. Una divertida actividad de bricolaje, y perfecta para decorar el dormitorio de un niño.
-- CONTIENE: 1 lámpara de lava Unicornio para crear, 1 bolsa de cuentas, 1 bolsa de piedras, 1 bolsa de decoraciones, 1 frasco de colorante, 1 hoja de pegatinas, 1 set de instrucciones.
-- Crea tu propia lámpara de lava de unicornio con este completo kit.
-- Adecuado para niños a partir de 6 años. Producto fabricado en Francia. DIMENSIONES de la lámpara de lava: D7,5 x H25 cm. Dimensiones de la caja: 25 x 8 x 31 cm.
 - BRILLANTE: ¡Gira la base y tu lámpara de lava de unicornio se iluminará! Los colores cambian y los adornos cobran vida en el agua. Funciona con 3 pilas AAA / LR03 (1,5 V) (no incluidas).
+- CONTIENE: 1 lámpara de lava Unicornio para crear, 1 bolsa de cuentas, 1 bolsa de piedras, 1 bolsa de decoraciones, 1 frasco de colorante, 1 hoja de pegatinas, 1 set de instrucciones.
+- Adecuado para niños a partir de 6 años. Producto fabricado en Francia. DIMENSIONES de la lámpara de lava: D7,5 x H25 cm. Dimensiones de la caja: 25 x 8 x 31 cm.
+- Crea tu propia lámpara de lava de unicornio con este completo kit.
+- DIVERSIÓN: Vierte las decoraciones y el colorante, añade agua y personalízala con las pegatinas incluidas para dar vida a tu unicornio. Una divertida actividad de bricolaje, y perfecta para decorar el dormitorio de un niño.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D4B1JLHZ{{</world>}}

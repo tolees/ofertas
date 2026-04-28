@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Después de 30 minutos de inactividad, ghd mini se apaga automáticamente
 - Placas cerámicas para 50% más brillo
 - Diseño redondeado con bordes curvados
 - Tecnología Dual-zone
-- Después de 30 minutos de inactividad, ghd mini se apaga automáticamente
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D2Y19CRC{{</world>}}

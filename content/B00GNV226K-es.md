@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forma de reflector: Ovalado
-- Reflexión de la luz favorable, trae finos efecto de luz para tu foto de shooting en el estudio
 - Contenido del paquete: Contenido del paquete: 1 x 5 en 1 reflector set 1 x bolsa de transporte
+- Reflexión de la luz favorable, trae finos efecto de luz para tu foto de shooting en el estudio
+- Forma de reflector: Ovalado
 - Colores de la final: luz permeable, plata, Negro, Oro, Blanco
 - Reflector Tamaño (cm): 120 x 180
 

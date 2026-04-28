@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ribbed crew neck
 - Regular fit
 - Dri-Fit Technology
+- Ribbed crew neck
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07DYW5ZVF{{</world>}}

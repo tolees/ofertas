@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Suela acolchada inspirada en las zapatillas de trail running 355.
-- Gran marca N
 - Marca lineal ubicada en el centro con el texto "New Balance"
+- Gran marca N
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BJ7TWZH7{{</world>}}

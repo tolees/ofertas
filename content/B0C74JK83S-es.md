@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillo canguro y manga larga
 - Material muy cómodo, ligero, de secado rápido y duradero
+- Bolsillo canguro y manga larga
 - Ajuste regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})

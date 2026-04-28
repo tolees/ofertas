@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PANTALONES CORTOS DE DIARIO: Estos pantalones cortos elásticos de tejido oxford son perfectos para el calor y puedes combinarlos con una camisa de cuello o con una camiseta informal.
-- OXFORD DE VERANO: Este tejido de algodón ligero con elasticidad añadida te mantendrá supercómodo en días calurosos.
-- DETALLES: Cintura fija con botón central delantero y cremallera oculta, bolsillos delanteros oblicuos y dos bolsillos traseros de ojal con cierre de botón.
-- AJUSTE CEÑIDO: Ceñido en la cadera y el muslo, con pierna ajustada. Queda por la cintura.
 - TIRO DEL PANTALÓN: La talla 42 mide 17,8 cm.
+- OXFORD DE VERANO: Este tejido de algodón ligero con elasticidad añadida te mantendrá supercómodo en días calurosos.
+- AJUSTE CEÑIDO: Ceñido en la cadera y el muslo, con pierna ajustada. Queda por la cintura.
+- DETALLES: Cintura fija con botón central delantero y cremallera oculta, bolsillos delanteros oblicuos y dos bolsillos traseros de ojal con cierre de botón.
+- PANTALONES CORTOS DE DIARIO: Estos pantalones cortos elásticos de tejido oxford son perfectos para el calor y puedes combinarlos con una camisa de cuello o con una camiseta informal.
 - Este producto se vendía antes como Goodthreads y ahora como Amazon Essentials.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

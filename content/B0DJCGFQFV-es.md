@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre con cordones
-- Ofrece comodidad
 - Zapatilla deportiva
+- Ofrece comodidad
+- Cierre con cordones
 - PUMA Catch Teenager Sneaker para Niño, 37.5, All Time Red x Black
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

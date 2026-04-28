@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sabor fresco y suave
-- Caja de 24 botellas de 33cl
 - Filtrada en frío en cuatro tiempos
-- De color dorado y cristalino
+- Sabor fresco y suave
 - Cerveza estilo Lager Norteamericana. Alc. 4,7% vol.
+- De color dorado y cristalino
+- Caja de 24 botellas de 33cl
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09HSP2R4C{{</world>}}

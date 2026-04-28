@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suavidad e hidratación excepcionales: Formulado para todo tipo de pieles, incluso las más sensibles, este limpiador combina una textura ligera y envolvente con el poder calmante de la Centella Asiática
-- Este limpiador ofrece una doble acción purificante e hidratante. Elimina las impurezas y el maquillaje, incluso el resistente al agua, respetando el equilibrio natural de la piel
-- Tolerancia óptima: Probado bajo control dermatológico y oftalmológico, este limpiador garantiza una alta seguridad, incluso para las pieles más sensibles y delicadas
 - Modo de uso: Aplicar sobre el rostro húmedo, incluidos los ojos, y masajear con movimientos circulares. Enjuagar abundantemente. Para una limpieza doble perfecta, combinar con el aceite desmaquillante Centella Cleansing Oil
+- Este limpiador ofrece una doble acción purificante e hidratante. Elimina las impurezas y el maquillaje, incluso el resistente al agua, respetando el equilibrio natural de la piel
 - Hidratación y confort duradero: Su fórmula con Centella Asiática limpia sin resecar, preservando los aceites naturales de la piel para mantenerla flexible, hidratada y luminosa. Ideal para conseguir un cutis saludable y radiante día tras día
+- Suavidad e hidratación excepcionales: Formulado para todo tipo de pieles, incluso las más sensibles, este limpiador combina una textura ligera y envolvente con el poder calmante de la Centella Asiática
+- Tolerancia óptima: Probado bajo control dermatológico y oftalmológico, este limpiador garantiza una alta seguridad, incluso para las pieles más sensibles y delicadas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BMM9XZKJ{{</world>}}

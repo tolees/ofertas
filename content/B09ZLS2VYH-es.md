@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Se utilizan barricas de whisky seleccionadas a mano con un color, sabor y aroma profundos para crear un whisky más oscuro, rico y con más sabor a roble
-- Jack Daniels Bonded Tennessee Whiskey está diseñado para cócteles americanos clásicos, con hielo o solo; boulevardier es un cóctel clásico que funciona bien con el perfil del whisky Jack Daniels Bonded: Bonded Boulevardier, 3/4 oz Jack Daniels Bonded, 3/4 oz Vermut Dulce, 3/4 oz Campari, Cáscara de naranja para adornar
-- El whisky Bottled-in-Bond se destila durante una sola temporada, se madura en un depósito oficial durante al menos 4 años y se embotella a 100 grados
 - Una edición del whisky Jack Daniels con sabores a caramelo, roble, especias y un toque de humo
+- El whisky Bottled-in-Bond se destila durante una sola temporada, se madura en un depósito oficial durante al menos 4 años y se embotella a 100 grados
+- Jack Daniels Bonded Tennessee Whiskey está diseñado para cócteles americanos clásicos, con hielo o solo; boulevardier es un cóctel clásico que funciona bien con el perfil del whisky Jack Daniels Bonded: Bonded Boulevardier, 3/4 oz Jack Daniels Bonded, 3/4 oz Vermut Dulce, 3/4 oz Campari, Cáscara de naranja para adornar
 - Jack Daniels Bonded Tennessee Whiskey es un whisky embotellado en barrica, envejecido en barricas seleccionadas y embotellado a 50 grados
 
 [🛒 Visítala!!!]({{< param buyurl >}})

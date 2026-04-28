@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Color de las chanclas: blanco
+- Nota Considera la talla BR = talla de la UE, independientemente de lo que muestre la suela del producto, la talla BR se ajusta adecuado y corresponde a la talla de la UE + prueba siempre el producto primero
 - TIPO DE SUELA: Cómodo, duradero, ligero, resistente al calor, antideslizante y resistente al agua
 - Tamaño: al comprar sandalias Havaianas en Amazon, debes considerar el tamaño BR/proveedor como equivalente al tamaño de la UE, independientemente de lo que se muestre en la suela del producto
-- Nota Considera la talla BR = talla de la UE, independientemente de lo que muestre la suela del producto, la talla BR se ajusta adecuado y corresponde a la talla de la UE + prueba siempre el producto primero
-- GÉNERO: Alpargatas Unisex
+- Color de las chanclas: blanco
 - 100% algodón (41% algodón reciclado). Material de la suela: goma
+- GÉNERO: Alpargatas Unisex
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B6CL2QCT{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Acabado cromado.
+- Anchura telescópica 600-830mm adaptable a las dimensiones del hueco interno del armario.
 - Para montaje sobre los tableros laterales del mueble/armario.
 - En caso de instalación sobre un armario de puertas abisagradas se recomienda el montaje junto con el suplemento lateral (no incluido).
-- Anchura telescópica 600-830mm adaptable a las dimensiones del hueco interno del armario.
-- Acabado cromado.
 - Carga máxima: 12kg.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

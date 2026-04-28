@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Superposiciones de gamuza y sintéticas
 - Cierre de cordones
+- Superposiciones de gamuza y sintéticas
 - Ancho normal
 
 [🛒 Visítala!!!]({{< param buyurl >}})

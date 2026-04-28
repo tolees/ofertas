@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillos insertados, bolsillo para monedas
-- Bolsillos cargo con cierre de velcro en el muslo, bolsillo con cremallera y un cordón detrás
-- Bragueta de cremallera
 - Bajo ajustable con cinta integrada
+- Bragueta de cremallera
+- Bolsillos cargo con cierre de velcro en el muslo, bolsillo con cremallera y un cordón detrás
+- Bolsillos insertados, bolsillo para monedas
 - Bolsillos con solapa en la parte inferior de la pernera, parche de velcro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

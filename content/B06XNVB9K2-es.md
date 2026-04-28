@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Polo para hombre
+- Presenta el logo de la marca en el pecho
 - Tiene botones personalizados en el cuello
 - Con aberturas laterales en la cintura
-- Presenta el logo de la marca en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B06XNVB9K2{{</world>}}

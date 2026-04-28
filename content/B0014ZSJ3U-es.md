@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cumple ASTM D4269
 - Un color al óleo de secado rápido ideal para sesiones de corta duración ya que seca en menos de 24 horas
-- Permanencia: A / Opacidad: Transparente
 - Contiene un tubo de 1.25 oz / 37 ml de Óleo de secado rápido Winsor & Newton Griffin Alkyd
 - Serie: 1 / Código de Color: 480 / Índice de Color: PR209
+- Cumple ASTM D4269
+- Permanencia: A / Opacidad: Transparente
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0014ZSJ3U{{</world>}}

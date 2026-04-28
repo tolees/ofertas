@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillos traseros
 - Bolsillos insertados, incluido un bolsillo para monedas
+- Bolsillos traseros
 - Cierre de botones y cremallera
 
 [🛒 Comprar!!!]({{< param buyurl >}})

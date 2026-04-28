@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Under Armour La misión de la camiseta es simple: hacer que una sea mejor
 - Eso significa que si uno establece un objetivo, ayudaremos a aplastarlo
 - Lo hacemos con innovación de rendimiento y zapatos, camisas y herramientas digitales que cambian el juego, que empujan los límites de lo que uno pensaba posible
+- Under Armour La misión de la camiseta es simple: hacer que una sea mejor
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CN2B873N{{</world>}}

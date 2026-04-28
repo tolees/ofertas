@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tomb Raider IV-VI Remastered Starring Lara Croft -Switch'
-date: 2026-04-26 10:05:38
+date: 2026-04-27 21:33:30
 image: 'https://m.media-amazon.com/images/I/41O8RM0DloL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F9B1FZBM/?tag=tolees-21'
 descuento: '45.98'
-average: '21.4399999999999'
+average: '21.2446153846153'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Voyagez aux quatre coins du monde : accompagnez Lara Croft dans des lieux iconiques comme Le Caire, Rome, Paris et bien plus encore
-- Tomb Raider : The Last Revelation – Lara Croft découvre le tombeau perdu du dieu égyptien Seth et le libère involontairement, accomplissant ainsi une ancienne prophétie qui plonge lhumanité dans les ténèbres
-- Tomb Raider : Chronicles – Suite aux événements de The Last Revelation, Lara Croft est enterrée dans un tombeau égyptien et présumée morte. À ses obsèques, ses proches se remémorent les secrets de son passé
 - Profitez des graphismes classiques et remastérisés : jouez avec les modèles polygonaux originaux ou passez aux graphismes remastérisés à nimporte quel moment
+- Tomb Raider : Chronicles – Suite aux événements de The Last Revelation, Lara Croft est enterrée dans un tombeau égyptien et présumée morte. À ses obsèques, ses proches se remémorent les secrets de son passé
+- Voyagez aux quatre coins du monde : accompagnez Lara Croft dans des lieux iconiques comme Le Caire, Rome, Paris et bien plus encore
 - Tomb Raider : The Angel of Darkness – Accusée de meurtre, Lara devient une fugitive en cavale et découvre un complot sinistre impliquant des expériences alchimiques et la recherche dartéfacts anciens
+- Tomb Raider : The Last Revelation – Lara Croft découvre le tombeau perdu du dieu égyptien Seth et le libère involontairement, accomplissant ainsi une ancienne prophétie qui plonge lhumanité dans les ténèbres
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F9B1FZBM{{</world>}}

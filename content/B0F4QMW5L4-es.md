@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Diseño sencillo
 - Cuello redondo
 - Ofrece comodidad
-- Diseño sencillo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4QMW5L4{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bragueta de botones
-- Etiqueta trasera de G-Star RAW hecha de un tejido de papel que imita a la piel
-- Proporciona comodidad
 - Una mirada original
+- Bragueta de botones
+- Proporciona comodidad
+- Etiqueta trasera de G-Star RAW hecha de un tejido de papel que imita a la piel
 - Cinco bolsillos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

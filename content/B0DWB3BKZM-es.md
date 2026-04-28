@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Color: Liso
-- Tejido con textura
 - Cuello: Redondo
+- Tejido con textura
 - Fit: Regular
 - Manga: Larga
 

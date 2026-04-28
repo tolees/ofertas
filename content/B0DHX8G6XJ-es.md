@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Horma clásica
-- Forro textil y sintético
-- Peso: 247 g (talla 38 2/3)
 - Amortiguación LIGHTMOTION
+- Horma clásica
 - Suela Adiwear
 - Drop: 8 mm (talón: 31 mm / antepié: 23 mm)
 - Empeine textil y de malla sintética
+- Peso: 247 g (talla 38 2/3)
+- Forro textil y sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHX8G6XJ{{</world>}}

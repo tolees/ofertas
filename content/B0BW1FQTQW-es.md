@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Traje de baño para mujer
 - Tejido reciclado
+- Traje de baño para mujer
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BW1FQTQW{{</world>}}

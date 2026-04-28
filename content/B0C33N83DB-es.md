@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - La olla a presión es apta para todo tipo de cocinas, incluida la de inducción. Su base TransTherm ahorra energía durante la cocción gracias a su óptima retención del calor. Incluye una escala de medición para facilitar el uso.
+- Material: Acero inoxidable Cromargan 18/10, resistente a la corrosión para una durabilidad e higiene excepcionales, apto para lavavajillas. Plástico. El anillo de sellado y el asa extraíble de la tapa NO son aptos para lavavajillas.
 - Contenido: 1x olla a presión (capacidad 6,5 l, Ø 22 cm, altura 18,5 cm) con tapa, asa de tapa extraíble y anillo de sellado - Número de artículo: 0791839990
 - Máxima seguridad: sistema de seguridad de 5 etapas con certificación TÜV y liberación automática de vapor. El pequeño indicador de presión residual es visible y solo permite abrir la olla cuando esta ha desaparecido por completo.
 - Fácil manejo gracias a su indicador de cocción extragrande, regulador de cocción de 2 etapas (ajuste suave de 110 °C para verduras y pescado; ajuste intensivo de 119 °C para carne, patatas y guisos) y liberación de vapor suave integrada.
-- Material: Acero inoxidable Cromargan 18/10, resistente a la corrosión para una durabilidad e higiene excepcionales, apto para lavavajillas. Plástico. El anillo de sellado y el asa extraíble de la tapa NO son aptos para lavavajillas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C33N83DB{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cintura elástica de talle alto
 - Corte ajustado
 - 93% algodón / 7% elastán
-- Cintura elástica de talle alto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08L83JT1L{{</world>}}

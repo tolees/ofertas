@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Corte normal
-- Composición: 100% poliéster
 - Pantalón
+- Composición: 100% poliéster
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D8D16DP9{{</world>}}

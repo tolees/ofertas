@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El producto se envía en una caja ilustrada con ventana
 - Figura de colección de la marca Funko
-- El artículo es adecuado para todos los fanáticos de The Purge
 - Recomendado para niños a partir de 3 años
+- El artículo es adecuado para todos los fanáticos de The Purge
+- El producto se envía en una caja ilustrada con ventana
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07QGWY855{{</world>}}

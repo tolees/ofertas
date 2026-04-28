@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'Tommy Jeans Tjm Original Stretch Shirt Dm0dm04405 Camisa Azul Black Iris M Hombre'
-date: 2026-04-12 19:37:33
-image: 'https://m.media-amazon.com/images/I/41NYASWvzlL._SL500_._SL400_.jpg'
+date: 2026-04-27 09:06:38
+image: 'https://m.media-amazon.com/images/I/31S+3swNd4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07773RVJG-es Tommy Jeans Tjm Original Stretch Shirt Dm0dm04405 Camisa...'
 sku: 'B07773RVJG-es'
 tags: [ '🇪🇸', ]
-actualPrice: 34.49 EUR
+actualPrice: 34.33 EUR
 currency: EUR
-price: 34.49
+price: 34.33
 comparePrice: 69.9 EUR
 prodname: 'Tommy Jeans Tjm Original Stretch Shirt Dm0dm04405 Camisa Azul Black Iris M Hombre'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07773RVJG/?tag=tolees-21'
-descuento: '50.66'
-average: '39.5567647058823'
+descuento: '50.89'
+average: '39.2663888888888'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

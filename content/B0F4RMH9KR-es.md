@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte entallado
 - Cuello redondo
 - 100% algodón
+- Corte entallado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4RMH9KR{{</world>}}

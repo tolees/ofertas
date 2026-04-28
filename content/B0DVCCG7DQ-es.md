@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Confeccionado con materiales sostenibles
 - Estampado Arty
-- Combinación de colores
-- Desigual
 - Maga: Corta
 - Cuello: Redondo
+- Confeccionado con materiales sostenibles
+- Desigual
+- Combinación de colores
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DVCCG7DQ{{</world>}}

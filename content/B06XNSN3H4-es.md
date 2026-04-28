@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cremallera
-- Mochila
 - Detalles dorados
+- Mochila
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B06XNSN3H4{{</world>}}

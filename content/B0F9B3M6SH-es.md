@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🧼 Fácil limpieza y diseño moderno: Cada freidora está diseñada para un uso diario cómodo: incluye rejilla, componentes extraíbles y materiales fáciles de limpiar. Su diseño elegante y compacto encaja perfectamente en cualquier estilo de cocina.
-- ⚡ Alta potencia para cocción rápida y uniforme: Con potencias que van desde los 1700W hasta los 2850W, estas freidoras garantizan una cocción eficiente, uniforme y rápida, ahorrando tiempo y energía. El aire caliente circula de forma homogénea para un resultado perfecto en cada receta.
-- 🍽️ Capacidad adaptada a cada necesidad: Ofrecemos versiones compactas de 5,5 L hasta modelos familiares de 7,6 L o dobles de 11 L. Perfectas para preparar comidas completas, cocinar para invitados o preparar diferentes platos al mismo tiempo sin mezclar sabores.
 - 📲 Panel digital y pantalla táctil : Todos los modelos incluyen una moderna pantalla táctil de fácil uso, con acceso rápido de hasta 8 - 10 programas según el modelo. Ajusta temperatura (80–200 °C) y tiempo (hasta 60 minutos) con precisión para cocinar todo tipo de alimentos.
+- 🧼 Fácil limpieza y diseño moderno: Cada freidora está diseñada para un uso diario cómodo: incluye rejilla, componentes extraíbles y materiales fáciles de limpiar. Su diseño elegante y compacto encaja perfectamente en cualquier estilo de cocina.
+- 🍽️ Capacidad adaptada a cada necesidad: Ofrecemos versiones compactas de 5,5 L hasta modelos familiares de 7,6 L o dobles de 11 L. Perfectas para preparar comidas completas, cocinar para invitados o preparar diferentes platos al mismo tiempo sin mezclar sabores.
+- ⚡ Alta potencia para cocción rápida y uniforme: Con potencias que van desde los 1700W hasta los 2850W, estas freidoras garantizan una cocción eficiente, uniforme y rápida, ahorrando tiempo y energía. El aire caliente circula de forma homogénea para un resultado perfecto en cada receta.
 - 🔥 Cocina sin aceite, más saludable: Reduce hasta un 90% el uso de grasa. Las Air Fryers M mimotec logran resultados crujientes y sabrosos sin necesidad de mucho aceite, ideal para quienes buscan una alimentación más saludable sin renunciar al sabor.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Tiene cinturilla elástica con cordón interior para un confort personalizado
 - El logotipo del Puma es en la pierna izquierda
 - Tiene bolsillos laterales
-- Tiene cinturilla elástica con cordón interior para un confort personalizado
 - Cuenta con dryCELL: la denominación de Puma para las propiedades repelentes de la humedad que ayudan a que la piel permanezca seca y cómoda
 
 [🛒 Comprar!!!]({{< param buyurl >}})

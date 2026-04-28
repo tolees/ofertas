@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - materialFabricComposition: Outer: 100% Polyester; Lining: 100% Polyester
-- Jacket
 - Hood
+- Jacket
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJV76F5J{{</world>}}

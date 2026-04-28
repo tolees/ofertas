@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con tacos
-- La Mundial 2.0 es el rediseño del icónico modelo Mundial fabricado en la historica fábrica de Munich en Capellades (Igualada) con piel de canguro
-- Limpieza y cuidados: A las zapatillas Munich no les gusta ni la lavadora ni la secadora porque las estropean
 - Material de la suela: 100% TPU
-- Con la X de Munich visible
-- Calzado unisex adulto deportivo con cordones
+- Limpieza y cuidados: A las zapatillas Munich no les gusta ni la lavadora ni la secadora porque las estropean
+- La Mundial 2.0 es el rediseño del icónico modelo Mundial fabricado en la historica fábrica de Munich en Capellades (Igualada) con piel de canguro
 - Forrada con nylon hidrofugado de alta densidad
+- Con la X de Munich visible
+- Con tacos
+- Calzado unisex adulto deportivo con cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CPPPJJ86{{</world>}}

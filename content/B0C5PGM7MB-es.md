@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Officially licensed House of the Dragon product
+- Officially Licensed: As an officially licensed House of the Dragon product, this glass goblet is a must-have for fans of the HOTD series or those who continue to cherish the original Game of Thrones. Whether its intended as a personal keepsake or a gift for a fellow enthusiast, this merchandise presents an opportunity to relive the captivating tales of Westeros with every sip.
 - 350ml (11 fl oz) goblet shaped drinking glass
 - Paladone-made: This HOTD color changing goblet was designed responsibly in the UK by Paladone, the award-winning, global consumer products company. Paladone is a renowned creator of pop culture themed gifts, home decor, and novelty merchandise such as this uniquely designed goblet.
-- Officially Licensed: As an officially licensed House of the Dragon product, this glass goblet is a must-have for fans of the HOTD series or those who continue to cherish the original Game of Thrones. Whether its intended as a personal keepsake or a gift for a fellow enthusiast, this merchandise presents an opportunity to relive the captivating tales of Westeros with every sip.
 - Not suitable for dishwasher or microwave use
-- Officially licensed House of the Dragon product
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C5PGM7MB{{</world>}}

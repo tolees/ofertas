@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fijación de larga duración, incluso en climas calurosos. Todos los colores se pueden mezclar entre sí.
 - Contiene 4.5 g.
 - Artdeco Camouflage Cream, corrector en crema para todo tipo de piel.
+- Fijación de larga duración, incluso en climas calurosos. Todos los colores se pueden mezclar entre sí.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00I8KRZZC{{</world>}}

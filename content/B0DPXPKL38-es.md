@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- TWS: ¿Quieres más potencia? Quieres duplicar el volumen? Con la función TWS, puedes conectar fácilmente y sin cables 2 altavoces COLUMBA600 entre sí. Disfruta de un auténtico espectáculo de luz y sonido.
-- PACK: 1 x COLUMBA600 (26x27x64cm) - 1 x Mando a distancia - 1 x Fuente de alimentación con transformador de red - 1 x Manual de usuario.
 - CONEXIONES: Conecta fácilmente todos tus dispositivos: Bluetooth, USB, Micro-SD y AUX de 3,5 mm. ¿Te apetece un poco de karaoke y un discurso? Conecta hasta 2 micrófonos con la entrada 2 MIC IN de 6,35 mm.
-- COLUMBA600: Potente altavoz de 2x6"/6,5 cm con batería recargable (7,4 V - 3600 mAh). Potente LED en forma de infinito en la parte frontal y dos barras LED laterales con varios modos de iluminación. Anima tus veladas con tu nuevo COLUMBA600.
+- PACK: 1 x COLUMBA600 (26x27x64cm) - 1 x Mando a distancia - 1 x Fuente de alimentación con transformador de red - 1 x Manual de usuario.
 - CARACTERÍSTICAS: Control de volumen principal - Control de volumen del micrófono - Control de eco del micrófono - Función de grabación REC - Control de graves y agudos - 5 modos de ecualización de audio predefinidos - Asa de transporte.
+- TWS: ¿Quieres más potencia? Quieres duplicar el volumen? Con la función TWS, puedes conectar fácilmente y sin cables 2 altavoces COLUMBA600 entre sí. Disfruta de un auténtico espectáculo de luz y sonido.
+- COLUMBA600: Potente altavoz de 2x6"/6,5 cm con batería recargable (7,4 V - 3600 mAh). Potente LED en forma de infinito en la parte frontal y dos barras LED laterales con varios modos de iluminación. Anima tus veladas con tu nuevo COLUMBA600.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DPXPKL38{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Detalles distintivos de la marca
-- Tejido ligero y transpirable
 - Presenta un estilo casual
+- Tejido ligero y transpirable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C5Y6SS5Z{{</world>}}

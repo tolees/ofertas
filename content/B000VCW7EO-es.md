@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El aroma de mil flores
-- Botella de 75 ml»
 - Fragancia del diseñador House of Estee Lauder
+- El aroma de mil flores
 - Un perfume para mujeres
 - Las notas superiores son rosa, mandarín, lirio, nardo y caléndula
+- Botella de 75 ml»
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B000VCW7EO{{</world>}}

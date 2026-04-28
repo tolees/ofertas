@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Detalles de la marca PUMA
 - Con cordones
+- Detalles de la marca PUMA
 - Ancho estándar
 - Recomendado para: pisada neutra
 - Empeine textil

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Número de modelo: SR72861
-- Estuche de PVC sin relleno de Harry Potter (20 x 8 cm)
-- Con impresión en color y cremallera
 - Producto oficial
+- Con impresión en color y cremallera
+- Estuche de PVC sin relleno de Harry Potter (20 x 8 cm)
 - Pyramid International, Estuche Emblemas casas de Harry Potter
 
 [🛒 Aquí!!!]({{< param buyurl >}})

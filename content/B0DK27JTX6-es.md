@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - AJUSTE PERFECTO: El look minimalista de este versátil cortavientos combina con cualquier look y es una prenda muy cálida. Esta chaqueta atemporal tiene cuello alto y protege del viento.
-- ICÓNICO Y ATEMPORAL: La cazadora original de Tommy Jeans con dos bolsillos a la altura de la cintura tiene un diseño depurado. Gracias a su material cálido es ideal para los meses de entretiempo.
 - PARA CUALQUIER OCASIÓN: Esta moderna cazadora para hombre es una prenda muy versátil. Es superfuncional y cómoda, perfecta para ponérsela todos los días o en ocasiones especiales.
-- MATERIAL Y CUIDADO: La cazadora está confeccionada en poliéster reciclado 100 %. Se puede lavar a máquina y secar en secadora.
+- ICÓNICO Y ATEMPORAL: La cazadora original de Tommy Jeans con dos bolsillos a la altura de la cintura tiene un diseño depurado. Gracias a su material cálido es ideal para los meses de entretiempo.
 - MODA URBANA REINTERPRETADA: Para acercar las populares prendas de los 90 a las nuevas generaciones, Tommy Jeans se inspira en los iconos del hip-hop de aquella época. Apostando por prendas de alta calidad y diseños modernos con mucho denim.
+- MATERIAL Y CUIDADO: La cazadora está confeccionada en poliéster reciclado 100 %. Se puede lavar a máquina y secar en secadora.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DK27JTX6{{</world>}}

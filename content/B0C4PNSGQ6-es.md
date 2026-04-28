@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ajuste cómodo para actividades atléticas
-- PUMA logotipo para reconocimiento de marca
 - Diseño de cuello en V para un aspecto clásico
 - Jersey adecuado para uso en días de partido
+- PUMA logotipo para reconocimiento de marca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C4PNSGQ6{{</world>}}

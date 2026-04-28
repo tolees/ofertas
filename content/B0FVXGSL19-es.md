@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 【Driver Must】The screen must install the driver, otherwise the screen will only be displayed white. Please view the installation video.
-- 【Supported OS】It supports Raspbian, Ubuntu, Kali, RetroPie System.
 - 【Main Parameters】3.5 inch monitor for Raspberry Pi 5, resistive touch control, 320 x 480 pixels, 50 FPS, SPI directly connected screen, 125 MHz SPI signal input.
-- 【Cooling Fan】The fan is located at the rear of the screen and is powered directly from the SPI port. It effectively reduces the temperature when the Raspberry Pi 5 is running.
 - 【Metal Case】Sturdy and reliable metal case with a matte black finish. The vents and the metal itself help to dissipate heat.
+- 【Supported OS】It supports Raspbian, Ubuntu, Kali, RetroPie System.
+- 【Cooling Fan】The fan is located at the rear of the screen and is powered directly from the SPI port. It effectively reduces the temperature when the Raspberry Pi 5 is running.
+- 【Driver Must】The screen must install the driver, otherwise the screen will only be displayed white. Please view the installation video.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FVXGSL19{{</world>}}

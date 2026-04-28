@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mediasuela REPETITOR
-- Suela de goma
+- Horma clásica
 - Forro textil
 - Empeine textil
-- Horma clásica
+- Suela de goma
+- Mediasuela REPETITOR
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DHXDJJD2{{</world>}}

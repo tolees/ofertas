@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Refuerzo en el arco plantar
 - Tres pares por paquete
-- Costuras anatómicas en la puntera
 - Puños de canalé
+- Costuras anatómicas en la puntera
 - Calcetines tobilleros
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

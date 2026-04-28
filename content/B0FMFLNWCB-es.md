@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño moderno
 - Tiene detalles distintivos de la marca
+- Diseño moderno
 - Adecuado para regalar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

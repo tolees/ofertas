@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Suela de goma que no deja marcas
 - Parte de piel sintética
 - Cierre autoadherente
-- Horma clásica
 - Forro textil
+- Horma clásica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B31NGT1C{{</world>}}

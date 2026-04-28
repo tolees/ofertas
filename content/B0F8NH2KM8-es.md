@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- DAIMA: Aventura en el Reino Demoníaco Parte 1 (17 de julio de 2025)
 - Juego base DB Kakarot
+- DAIMA: Aventura en el Reino Demoníaco Parte 1 (17 de julio de 2025)
 - DAIMA: Aventura en el Reino Demoníaco Parte 2 (enero-marzo 2026)
 
 [🛒 Aquí!!!]({{< param buyurl >}})

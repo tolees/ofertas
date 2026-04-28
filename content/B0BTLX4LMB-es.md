@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para grandes y pequeños
 - FIRST
+- Para grandes y pequeños
+- Diversión única en las carreras en casa
 - Para los niños
 - Carrera First
-- Diversión única en las carreras en casa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BTLX4LMB{{</world>}}

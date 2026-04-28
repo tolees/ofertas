@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- INTERNET ULTRARRÁPIDA: nuestra base habilita una transmisión de datos mucho más veloz de hasta 1000 Mbps mediante el estándar GbE (Gigabit Ethernet). Esto supone una velocidad 100 veces superior que la de las redes estándar que operan a 10 Mbps.
-- SEGURIDAD DE 6 NIVELES: dock station diseñada con una estructura de protección de seis factores por la que ha sido sometida a pruebas de calidad frente a sobretensiones, sobrecorrientes, sobrecalentamientos, cortocircuitos, sobrecargas y fuego.
 - EXPANSIÓN DE PUERTOS 6 EN 1: esta docking station multifuncional te ofrece acceso a los puertos que los nuevos modelos de portátil ya no incluyen. También integra puertos USB-C, USB-A, HDMI y GbE adicionales mediante una sola conexión central.
-- ALIMENTACIÓN Y CARGA RÁPIDA GAN: lo último en GaN habilita una salida de 130 W para tu dispositivo anfitrión y de 96 W para los periféricos. Esta tecnología permite reducir el tamaño y el peso del cargador para aumentar la seguridad y eficiencia.
+- SEGURIDAD DE 6 NIVELES: dock station diseñada con una estructura de protección de seis factores por la que ha sido sometida a pruebas de calidad frente a sobretensiones, sobrecorrientes, sobrecalentamientos, cortocircuitos, sobrecargas y fuego.
 - USB DE ALTA VELOCIDAD + VÍDEO POR HDMI: disfruta de unas transferencias de datos veloces y continuas de hasta 5 Gbps en los puertos USB-C o USB-A y pasa menos tiempo esperando y más trabajando. Su puerto HDMI facilita la conexión de un monitor 4K a 60 Hz.
+- INTERNET ULTRARRÁPIDA: nuestra base habilita una transmisión de datos mucho más veloz de hasta 1000 Mbps mediante el estándar GbE (Gigabit Ethernet). Esto supone una velocidad 100 veces superior que la de las redes estándar que operan a 10 Mbps.
+- ALIMENTACIÓN Y CARGA RÁPIDA GAN: lo último en GaN habilita una salida de 130 W para tu dispositivo anfitrión y de 96 W para los periféricos. Esta tecnología permite reducir el tamaño y el peso del cargador para aumentar la seguridad y eficiencia.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CSPKWQHZ{{</world>}}

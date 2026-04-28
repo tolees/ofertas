@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Ajuste: normal
 - Regular
 - Longitud: hasta el tobillo
-- Ajuste: normal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B082VWMR34{{</world>}}

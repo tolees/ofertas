@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 🦸‍♂️ CALIDAD Y DISEÑO - Nuestro lapicero para escritorio posee unas medidas de 18x16x16 cm y está fabricado en resina. En Grupo Erik hemos cuidado cada detalle para que quedes enamorado de este accesorio Marvel, enviado en una caja para que esté totalmente protegido en su envío
+- 🦸‍♂️ LAPICERO DECORATIVO FUNCIONAL - Nuestro lapicero escritorio Marvel será perfecto para tener todos tus bolígrafos y lápices ordenados. Un lapicero 3D para niños que es un perfecto organizador de escritorio ya que posee 3 compartimentos diferentes para colocar tu material escolar y papelería
 - ⚔️ REGALO MARVEL ORIGINAL - Si tu persona especial le encanta todo lo relacionado con el mundo de ficción de los comics de Marvel, este porta lapices de escritorio Marvel Legends Deadpool no le puede faltar. Ideal para una decoración Marvel ¡No te lo pienses más y dale ese toque divertido en tu vuelta al cole!
 - ⚔️ ERIK - Calidad y diseño es lo que nos caracteriza. Especializados en papelería, merchandising y pósters que te sorprenderán ¡Conoce nuestros lapiceros para escritorio de las licencias más demandas por nuestro público!
-- 🦸‍♂️ LAPICERO DECORATIVO FUNCIONAL - Nuestro lapicero escritorio Marvel será perfecto para tener todos tus bolígrafos y lápices ordenados. Un lapicero 3D para niños que es un perfecto organizador de escritorio ya que posee 3 compartimentos diferentes para colocar tu material escolar y papelería
+- 🦸‍♂️ CALIDAD Y DISEÑO - Nuestro lapicero para escritorio posee unas medidas de 18x16x16 cm y está fabricado en resina. En Grupo Erik hemos cuidado cada detalle para que quedes enamorado de este accesorio Marvel, enviado en una caja para que esté totalmente protegido en su envío
 - ⚔️ Lobezno se recupera de sus heridas cuando se cruza con el bocazas, Deadpool y ahora este personaje ficticio de los Comics Marvel quiere formar parte de la decoración de tu escritorio con su lapicero Marvel ¡Le dará el toque de personalidad que tanto te identifica!
 
 [🛒 Visítala!!!]({{< param buyurl >}})

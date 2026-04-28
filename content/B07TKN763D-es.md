@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Efecto Frío Testado, después de la aplicación reduce la temperatura 14%. El 90% sigue percibiendo frío después de 20 minutos.
-- Modo de empleo: Aplicar sobre la piel intacta a una distancia de 20cm entre 2 y 5 segundos. Pulverizar con movimentos circulares. Aplicar las veces que convenga tras finalizar el efecto de la aplicación.
 - Recomendado para adultos y niños mayores de 12 años.
 - Spray indicado para aliviar el dolor muscular y articular, de fácil aplicación incluso en zonas difíciles.
+- Modo de empleo: Aplicar sobre la piel intacta a una distancia de 20cm entre 2 y 5 segundos. Pulverizar con movimentos circulares. Aplicar las veces que convenga tras finalizar el efecto de la aplicación.
 - Producto indicado para Contusiones, Tirones, Dislocaciones, Torceduras, Moratones, Traumatismos, Calambres, Tortícolis y Dolor de Espalda o Cervicales.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

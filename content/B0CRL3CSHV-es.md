@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Acabado resistente al agua
 - Ofrece comodidad y calidez
+- Acabado resistente al agua
 - Bolsillos laterales oblicuos con cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

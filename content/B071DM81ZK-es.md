@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 3. Temperatura de impresión recomendada: 180-210 ℃
-- 5. Respetuoso con el medio ambiente, hecho de materias primas de almidón derivadas de recursos vegetales renovables
 - 1. 1 kg de bobina de 1.75 mm de filamento PLA en un empaque al vacío
 - 4. Tolerancia de diámetro +/- 0.02 mm
+- 3. Temperatura de impresión recomendada: 180-210 ℃
+- 5. Respetuoso con el medio ambiente, hecho de materias primas de almidón derivadas de recursos vegetales renovables
 - 2. Sin impurezas, sin atasco y irrompible de pla filamento
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

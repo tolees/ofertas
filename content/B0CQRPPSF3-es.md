@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste regular
 - Entresuela de EVA
 - Forro textil
+- Ajuste regular
 - Parte superior de nailon con superposiciones en ante sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})

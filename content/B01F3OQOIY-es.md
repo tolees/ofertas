@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Especialmente indicado para cara, cuello y escote
-- Refresca e hidrata la piel
 - Protege y equilibra la piel preparándola para la aplicación de otros productos de nuestro ritual de belleza
+- Refresca e hidrata la piel
+- Especialmente indicado para cara, cuello y escote
 - Limpia y elimina las impurezas y restos de maquillaje
 
 [🛒 Aquí!!!]({{< param buyurl >}})

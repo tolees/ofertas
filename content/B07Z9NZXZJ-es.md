@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- MODO DE EMPLEO. Aplicar sobre el rostro húmedo, masajeando suavemente con movimientos circulares hasta formar espuma. Aclarar con abundante agua tibia y secar suavemente el rostro. Utilizar el gel por la mañana y por la noche como parte de la rutina diaria de cuidado facial
 - ACNESTIL GEL: Es un gel limpiador facial indicado para pieles grasas y con tendencia acneica. Su fórmula ligera y refrescante se aplica fácilmente sobre la piel, ayudando a limpiar profundamente los poros y eliminando las impurezas acumuladas, sin resecar ni irritar el rostro
 - SEGURIDAD DERMATOLÓGICA: Es hipoalergénico, no comedogénico y clínicamente testado. Su fórmula sin parabenos ni jabón, garantiza una alta tolerancia en pieles propensas al acné, minimizando el riesgo de irritaciones y asegurando su eficacia en el cuidado diario de la piel
 - FORMULACIÓN: Formulado con pantenol, que hidrata, calma y repara la piel reduciendo la irritación. Las ceramidas refuerzan la barrera cutánea, protegiendo la piel y evitando la pérdida de humedad. El ácido hialurónico hidrata y retiene el agua en la piel para mantenerla suave y elástica
-- MODO DE EMPLEO. Aplicar sobre el rostro húmedo, masajeando suavemente con movimientos circulares hasta formar espuma. Aclarar con abundante agua tibia y secar suavemente el rostro. Utilizar el gel por la mañana y por la noche como parte de la rutina diaria de cuidado facial
 - LIMPIEZA PROFUNDA: Este gel deja la piel más limpia y fresca, gracias a su acción seborreguladora, antibacteriana, hidratante y calmante. Reduce y previene las imperfecciones de las pieles con impurezas, además de favorecer el control del crecimiento de los microorganismos cutáneos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

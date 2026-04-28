@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño ultraligero de 55 g: manejo perfecto, máximo control: Diseñado en colaboración con profesionales de esports de talla mundial, el diseño ultraligero y perfectamente equilibrado del Viper V3 Pro te permite realizar gestos rápidos y precisos que se ajustan a todas tus intenciones.
 - Optimiza la precisión del ratón - Mejora la precisión desactivando la opción "Mejorar la precisión del puntero" en la configuración del ratón de Windows y optimiza aún más el rendimiento con la aplicación Razer Synapse.
-- Tecnología Razer 8K Hz HyperPolling - Respuesta de latencia ultrabaja: Al combinar Razer HyperPolling con la conexión ultrasuave de Razer HyperSpeed, experimenta un rendimiento inalámbrico impecable con una velocidad de sondeo real de hasta 8000 Hz.
-- Razer HyperSpeed Wireless: conexión ultrasuave: Con un diseño de dongle optimizado que no hace concesiones en la conexión, disfruta de un rendimiento inalámbrico de primer nivel que se mantiene fluido y fiable incluso en entornos de torneo ruidosos.
-- Sensor óptico Razer Focus Pro 35K DPI Gen-2 - La mejor precisión de su clase: Experimenta un rendimiento de seguimiento de nivel profesional en una mayor variedad de superficies, incluido el cristal, con el apoyo de funciones inteligentes y ajustes por pasos de 1 PPP para una puntería y un control más granulares.
 - Ratón óptico Razer Gen-3 - Durabilidad y velocidad inigualables: Desde un ciclo de vida mejorado de 90 millones de clics con cero problemas de doble clic, hasta una actuación fulminante de 0,2 ms sin retardo de rebote, disfruta de una fiabilidad y velocidad que eclipsa a todas las demás.
+- Tecnología Razer 8K Hz HyperPolling - Respuesta de latencia ultrabaja: Al combinar Razer HyperPolling con la conexión ultrasuave de Razer HyperSpeed, experimenta un rendimiento inalámbrico impecable con una velocidad de sondeo real de hasta 8000 Hz.
+- Sensor óptico Razer Focus Pro 35K DPI Gen-2 - La mejor precisión de su clase: Experimenta un rendimiento de seguimiento de nivel profesional en una mayor variedad de superficies, incluido el cristal, con el apoyo de funciones inteligentes y ajustes por pasos de 1 PPP para una puntería y un control más granulares.
+- Diseño ultraligero de 55 g: manejo perfecto, máximo control: Diseñado en colaboración con profesionales de esports de talla mundial, el diseño ultraligero y perfectamente equilibrado del Viper V3 Pro te permite realizar gestos rápidos y precisos que se ajustan a todas tus intenciones.
+- Razer HyperSpeed Wireless: conexión ultrasuave: Con un diseño de dongle optimizado que no hace concesiones en la conexión, disfruta de un rendimiento inalámbrico de primer nivel que se mantiene fluido y fiable incluso en entornos de torneo ruidosos.
 - Hasta 95 horas de duración de la batería: sin interrupciones en los juegos: Disfruta de hasta 95 horas de juego competitivo de alto rendimiento en tus torneos y partidas más intensas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

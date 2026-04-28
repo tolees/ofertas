@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Champú crema limpiadora Curl Expression diseñado para limpiar rizos y ondas, de la manera pro. Suavemente limpia el cabello mientras hidrata de forma intensa y duradera. Los rizos y ondas se ven más saludables y son fáciles de desenredar, el cabello queda listo para aplicar la mascarilla
 - Cada lavado, limpia tu cabello con esta crema limpiadora para hidratar sin aportar peso dejando el cabello listo para tratamientos. Usar si no tienes residuos o impurezas en el cabello. Es el champú perfecto para ondas abiertas y cabello fino.
+- Champú crema limpiadora Curl Expression diseñado para limpiar rizos y ondas, de la manera pro. Suavemente limpia el cabello mientras hidrata de forma intensa y duradera. Los rizos y ondas se ven más saludables y son fáciles de desenredar, el cabello queda listo para aplicar la mascarilla
 - Fórmula libre de sulfatos y siliconas, generosa y ultra cremosa, penetra fácilmente hasta legar al cuero cabelludo y rápidamente se transforma en una espuma rica y envolvente cuando se pone en contacto con el agua
 
 [🛒 Comprar!!!]({{< param buyurl >}})

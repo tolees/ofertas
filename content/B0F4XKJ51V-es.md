@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estampado gráfico en la parte delantera
 - Puños y bajo acanalados
+- Estampado gráfico en la parte delantera
 - Diseño con capucha y cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Una mirada original
-- Proporciona comodidad
-- Puños y cintura acanalados
-- Cuello acanalado
 - Estampado gráfico de G-STAR en la parte delantera
+- Cuello acanalado
+- Proporciona comodidad
+- Una mirada original
+- Puños y cintura acanalados
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D8WNLNJF{{</world>}}

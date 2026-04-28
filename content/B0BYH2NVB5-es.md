@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- VEGANO Y CRUELTY FREE: 3INA es una marca de maquillaje española que fabrica en Europa. Todos nuestros productos son veganos, libres de parabenos y sin crueldad animal.
 - EXTRACTO DE HOJA DE ALOE + ÁCIDO AZELAICO: Calma la piel con suavidad, a la vez que mejora el equilibrio de la hidratación y la inflamación de la piel, aportando una protección antioxidante.
-- 2 % DE BETAÍNA NATURAL: Un monohidrato que se extrae de la remolacha azucarera y equilibra el agua de la piel para prevenir la deshidratación, a la vez que la protege de los daños del ambiente.
 - PURIFICA + REFRESCA + SUAVIZA: Este tónico facial para la piel previene la deshidratación, a la vez que la tonifica, refresca y purifica, para una piel sana y equilibrada.
 - 2 % DE ÁCIDO SUCCÍNICO: Una alternativa natural al Ácido Salicílico, este activo reduce el exceso de sebo disminuyendo los poros, el acné y las imperfecciones, para una piel suave y uniforme.
+- 2 % DE BETAÍNA NATURAL: Un monohidrato que se extrae de la remolacha azucarera y equilibra el agua de la piel para prevenir la deshidratación, a la vez que la protege de los daños del ambiente.
+- VEGANO Y CRUELTY FREE: 3INA es una marca de maquillaje española que fabrica en Europa. Todos nuestros productos son veganos, libres de parabenos y sin crueldad animal.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BYH2NVB5{{</world>}}

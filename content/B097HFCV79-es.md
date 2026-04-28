@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Busto de muñeca de la Princesa María de CB Toys
+- Incluye: 2 peines de puas, 1 cepillo, 1 espejo, 3 lápices de colores (verde, azul y rojo), coleteros, rulos y accesorios para adornar su cabello
 - Peina y practica todos los peinados en su larga melena rubia
 - Edad: se recomienda para niños a partir de 3 años
 - Valores: desarrollan la afectividad, la autoestima, la habilidad manual y la imaginación
-- Incluye: 2 peines de puas, 1 cepillo, 1 espejo, 3 lápices de colores (verde, azul y rojo), coleteros, rulos y accesorios para adornar su cabello
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B097HFCV79{{</world>}}

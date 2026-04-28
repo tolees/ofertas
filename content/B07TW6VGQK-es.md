@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- De alta calidad
 - Color: RED
-- Jean Paul Gaultier nos sorprende en 2019 con un lanzamiento doble: La BEAU y LA BELLE; lA BELLE, perfume delicioso, único que te transportará a los lugares mas lujosos con su magnífico aroma oriental-vainilla; su frasco, deliciosamente tallado, es una obra de arte, por su exquisitez y diseño; si prefieres los perfumes intensos, pero diferentes y distinguidos, este es tu perfume; notas de salida: pera jugosa; notas medias: Vetiver suave; notas de fondo: Vainilla dulce
 - Producto de la marca JEAN PAUL GAULTIER
+- De alta calidad
+- Jean Paul Gaultier nos sorprende en 2019 con un lanzamiento doble: La BEAU y LA BELLE; lA BELLE, perfume delicioso, único que te transportará a los lugares mas lujosos con su magnífico aroma oriental-vainilla; su frasco, deliciosamente tallado, es una obra de arte, por su exquisitez y diseño; si prefieres los perfumes intensos, pero diferentes y distinguidos, este es tu perfume; notas de salida: pera jugosa; notas medias: Vetiver suave; notas de fondo: Vainilla dulce
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07TW6VGQK{{</world>}}

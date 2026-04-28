@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tacón: Plano
 - Material exterior: Sintético
 - Tipo de cierre: Velcro
-- Tacón: Plano
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01AEOX2ME{{</world>}}

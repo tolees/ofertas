@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello de polo
 - Aberturas laterales
-- Diseño acanalado en cuello y dobladillos
 - G-Star Insignia RAW en el pecho
+- Cuello de polo
 - Cierre de botón
+- Diseño acanalado en cuello y dobladillos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DK5D7CZC{{</world>}}

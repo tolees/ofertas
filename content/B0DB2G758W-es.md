@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 92% poliéster (reciclado) / 8% elastano
 - Visera curvada
+- 92% poliéster (reciclado) / 8% elastano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DB2G758W{{</world>}}

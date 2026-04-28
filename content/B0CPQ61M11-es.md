@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este camión teledirigido a escala 1:15 tiene tres modos diferentes para disfrutar de varias formas de jugar.
 - En el Modo impacto, el Mega-Wrex domina con neumáticos gigantes y efectos de sonido feroces, aplastando todo lo que encuentra en su camino. Colócalo sobre las dos ruedas traseras para realizar acrobacias con el control remoto.
-- El Mega-Wrex se recarga en el Modo vigilancia con una iluminación ambiental que muestra que está listo para entrar en acción cuando se le llama.
-- El Mega-Wrex Alive a escala 1:15 ofrece una experiencia única de Monster Truck con control remoto para niños y niñas a partir de 5 años.
+- Este camión teledirigido a escala 1:15 tiene tres modos diferentes para disfrutar de varias formas de jugar.
 - Despierta al Mega-Wrex tocando el sensor de impacto. Inmediatamente se enciende y entra en el Modo caza, en el que gruñe con una intensidad cada vez mayor cuanto más se le desafía.
+- El Mega-Wrex se recarga en el Modo vigilancia con una iluminación ambiental que muestra que está listo para entrar en acción cuando se le llama.
 - El feroz Mega-Wrex de Monster Trucks de Hot Wheels cobra vida en un vehículo teledirigido de gran tamaño con luces y sonidos interactivos.
+- El Mega-Wrex Alive a escala 1:15 ofrece una experiencia única de Monster Truck con control remoto para niños y niñas a partir de 5 años.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CPQ61M11{{</world>}}

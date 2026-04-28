@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100% algodón
-- Cierre ajustable en la nuca
 - Talla única
+- Cierre ajustable en la nuca
+- 100% algodón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJSL6FGF{{</world>}}

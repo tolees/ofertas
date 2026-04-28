@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto para el cuidado personal
-- Sistema de cuidado que protege el pelo
-- Cantidad por paquete: 1 pieza
 - Para todo tipo de cabellos
+- Cantidad por paquete: 1 pieza
 - Producto de la colección Revlon Flex
+- Sistema de cuidado que protege el pelo
+- Producto para el cuidado personal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00XDNV29E{{</world>}}

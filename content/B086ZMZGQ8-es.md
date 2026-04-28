@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Secar en secadora a bajas temperaturas
-- Ofrece comodidad y libertad de movimiento
 - Use solo lejía sin cloro si es necesario
+- Ofrece comodidad y libertad de movimiento
 - Lavar a máquina fría con colores similares
 
 [🛒 Aquí!!!]({{< param buyurl >}})

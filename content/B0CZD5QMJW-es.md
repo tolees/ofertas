@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre de cremallera, cuello alto y capucha
 - Corte clásico
+- Cierre de cremallera, cuello alto y capucha
 - Bolsillos laterales con cremallera compatibles con mochila
 - 87% poliéster (reciclado) / 13% elastano
 - Puños semielásticos

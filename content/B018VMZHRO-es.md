@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Refresco sabor limón
 - Pack de 24 latas de 330 ml
+- Refresco sabor limón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B018VMZHRO{{</world>}}

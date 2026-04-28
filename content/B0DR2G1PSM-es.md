@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Para tomar notas
-- Para anotaciones y planificación diaria
 - Cuaderno en blanco
+- Para anotaciones y planificación diaria
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DR2G1PSM{{</world>}}

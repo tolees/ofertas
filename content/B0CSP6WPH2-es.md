@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Logotipo clásico en el cuarto
 - Zapatos deportivos/zapatillas de moda
 - Combinaciones de materiales y colores
+- Logotipo clásico en el cuarto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CSP6WPH2{{</world>}}

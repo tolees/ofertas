@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Idoneo acompañamiento para cualquier aperitivo o cena ligera
-- La bebida chispeante de moda
-- Servirse frio
 - Vino blanco espumoso
+- La bebida chispeante de moda
+- Idoneo acompañamiento para cualquier aperitivo o cena ligera
+- Servirse frio
 - Se trata de bebida aromática, dulce y ligera gracias a sus divertidas y refrescantes burbujas y su baja graduación alcohólica
 
 [🛒 Visítala!!!]({{< param buyurl >}})

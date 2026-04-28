@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre: cordones
 - Material de la suela: Caucho
+- Cierre: cordones
 - Material exterior: Piel sintética
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tipo de construcción: sin cámara
 - Material duro vittoria
 - Tiene detalles distintivos de la marca
-- Tipo de construcción: sin cámara
 - Cubiertas ciclismo unisex adulto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

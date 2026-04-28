@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estampado gráfico en la parte delantera
 - Etiqueta de G-STAR Originals tejida en la costura lateral inferior
 - Proporciona comodidad
 - Cuello acanalado
+- Estampado gráfico en la parte delantera
 - Una mirada original
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

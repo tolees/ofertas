@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Revestimiento: Sintético
-- Cierre: Cordones
-- Material de la suela: Caucho
 - Material exterior: Cuero
+- Cierre: Cordones
+- Revestimiento: Sintético
+- Material de la suela: Caucho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01HDPPTLY{{</world>}}

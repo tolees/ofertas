@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Color: Negro (Black 52631/Bkrd)
 - Brand: Skechers
 - Talla/Tamaño: 42 EU
-- Color: Negro (Black 52631/Bkrd)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07C9FJKRK{{</world>}}

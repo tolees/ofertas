@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Resistente al agua hasta 30 m: soporta salpicaduras de agua
 - Correa de acero inoxidable de color rojo
 - Caja redonda de acero inoxidable con esfera gris
-- Resistente al agua hasta 30 m: soporta salpicaduras de agua
 - Caja de 57 mm, pulsera de 28 mm de ancho, cristal mineral, movimiento cronógrafo, importado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

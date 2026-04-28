@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MY ARCADE Micro Jugador Street Fighter II Champion Edition Mini Cabina Retro'
-date: 2026-04-26 20:09:00
+date: 2026-04-28 00:31:25
 image: 'https://m.media-amazon.com/images/I/51FFDPGTN0S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GN32PBV/?tag=tolees-21'
 descuento: '38.91'
-average: '63.035'
+average: '62.3833333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

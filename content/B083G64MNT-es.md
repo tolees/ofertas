@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre: cordones
 - Material exterior: Piel sintética
 - Material de la suela: Caucho
+- Cierre: cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B083G64MNT{{</world>}}

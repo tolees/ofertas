@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Base de nailon de alta calidad (350mm)
-- Las almohadillas son extraíbles
 - Reposabrazos fijos
-- Producto de alta calidad con peso recomendado hasta 130kg
-- Giro de 360 grados con base sólida sobre 5 ruedas
+- Base de nailon de alta calidad (350mm)
 - Elevación de gas nivel 4
 - Altura e inclinación ajustables
+- Giro de 360 grados con base sólida sobre 5 ruedas
+- Las almohadillas son extraíbles
+- Producto de alta calidad con peso recomendado hasta 130kg
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CKRY5NM8{{</world>}}

@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este producto es un producto continente. Los productos continentes son luminarias que pueden desmontarse para permitir la verificación independiente de las fuentes luminosas que contienen. Este producto contiene una fuente luminosa de rating E
-- Protección ip44 contra salpicaduras de agua para uso en exteriores
-- Peso ligero y diseño compacto para un montaje fácil y rápido
-- Bombilla exclusiva. Bombilla recomendada 1 x e27 máx. 28 w
 - La lámpara dispone de un sensor crepuscular que enciende y apaga la lámpara automáticamente. A través de un interruptor directamente en la lámpara se puede ajustar también en funcionamiento continuo
+- Este producto es un producto continente. Los productos continentes son luminarias que pueden desmontarse para permitir la verificación independiente de las fuentes luminosas que contienen. Este producto contiene una fuente luminosa de rating E
+- Peso ligero y diseño compacto para un montaje fácil y rápido
 - Lámpara de pared para exterior sambesi, aluminio fundido robusto y de alta calidad inoxidable fundido a presión, acrílico transparente
+- Protección ip44 contra salpicaduras de agua para uso en exteriores
 - Sin bombilla
+- Bombilla exclusiva. Bombilla recomendada 1 x e27 máx. 28 w
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07QY3M1HF{{</world>}}

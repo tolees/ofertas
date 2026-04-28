@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- BRILLO NATURAL SIN PEGAR: Acabado brillante con textura ligera y cómoda, sin sensación pegajosa
-- COLOR MODULABLE: Pigmentos ultraligeros que permiten personalizar la intensidad del color
-- HIDRATACIÓN 12H: Fórmula vegana que mantiene los labios hidratados, suaves y protegidos todo el día
 - FORMATO EN STICK CON “CLICK”: Libera la cantidad justa de producto para una aplicación limpia y sin desperdicio
+- BRILLO NATURAL SIN PEGAR: Acabado brillante con textura ligera y cómoda, sin sensación pegajosa
 - FÓRMULA NUTRITIVA: Enriquecido con aceites de aguacate, frambuesa y zarzamora nórdica
+- HIDRATACIÓN 12H: Fórmula vegana que mantiene los labios hidratados, suaves y protegidos todo el día
+- COLOR MODULABLE: Pigmentos ultraligeros que permiten personalizar la intensidad del color
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQ88HLG1{{</world>}}

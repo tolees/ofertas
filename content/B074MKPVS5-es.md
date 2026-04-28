@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estilo Deportivo
 - Color Negro - Azul
+- Estilo Deportivo
 - Silla Gaming
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 💅 Fortalece tus uñas con nuestro Aceite de Ricino. Su alto contenido en vitamina E ayuda a evitar que se quiebren, manteniéndolas fuertes y saludables
+- 👀 Reduce las ojeras con nuestro Aceite de Ricino. Aplica el aceite sobre el contorno de los ojos para la reducción de ojeras y el relleno de arrugas y líneas de expresión. Descubre el poder de la belleza natural con bleu & marine Bretania
 - 💁‍♀️ Descubre la belleza natural con nuestro Aceite de Ricino. Este producto hidrata profundamente la piel, combate el envejecimiento y ayuda a eliminar imperfecciones. Ideal para conseguir una piel suave, flexible y de aspecto juvenil
 - 💇‍♀️ Estimula el crecimiento de tu cabello con nuestro Aceite de Ricino. Nutre los folículos capilares, aporta fuerza y resistencia, y reduce la rotura para un cabello más grueso, voluminoso y brillante
-- 👀 Reduce las ojeras con nuestro Aceite de Ricino. Aplica el aceite sobre el contorno de los ojos para la reducción de ojeras y el relleno de arrugas y líneas de expresión. Descubre el poder de la belleza natural con bleu & marine Bretania
 - 🧔 Para los hombres, nuestro Aceite de Ricino es el secreto para una barba impecable. Suaviza, acondiciona y promueve el crecimiento de una barba más densa. Domina el vello rebelde y consigue una barba bien cuidada y suave al tacto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

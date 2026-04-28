@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Desigual
-- Manga: Larga
 - Color: Liso
 - Abotonadura frontal
+- Manga: Larga
+- Desigual
 - Cuello: en V
 - Fit: Balloon
 

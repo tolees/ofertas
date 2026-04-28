@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Zip & button closure
 - Provides comfort
-- Back welt pockets
 - An original look
 - Side pockets
+- Zip & button closure
+- Back welt pockets
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D8WMDM9F{{</world>}}

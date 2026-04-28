@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color negro moderno
 - Diseño delicado
+- Color negro moderno
 - Videoportero comunicación bidireccional
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

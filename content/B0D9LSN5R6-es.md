@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Larga duración gracias a componentes reemplazables: la batería y la placa de circuito reemplazables, así como un interruptor de encendido/apagado mecánico, garantizan una mayor vida útil y protegen contra descargas profundas
-- Versátil y resistente a la intemperie: con un grado de protección IP44, la luz LED es apta tanto para interiores como para exteriores y resiste las salpicaduras de agua
 - Recarga rápida y sencilla: gracias a la conexión USB-C y al cable USB-C de 0,5 m suministrado, la luz de la batería vuelve a estar lista para su uso en muy poco tiempo
 - Iluminación compacta y elegante: la minilámpara táctil de alta calidad en blanco se integra perfectamente en cualquier entorno y, con una discreta altura de 20 cm, es ideal para una amplia gama de aplicaciones
 - Brillo cálido y ajustable - Equipada con un módulo LED de 2,5 W, la lámpara de escritorio proporciona una luz blanca cálida de 150 lm y 2700 K. El regulador táctil continuo permite ajustar la intensidad de la luz para adaptarla a cualquier estado de ánimo
+- Versátil y resistente a la intemperie: con un grado de protección IP44, la luz LED es apta tanto para interiores como para exteriores y resiste las salpicaduras de agua
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D9LSN5R6{{</world>}}

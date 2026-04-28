@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 𝐑𝐄𝐍𝐃𝐈𝐌𝐈𝐄𝐍𝐓𝐎 𝐏𝐎𝐓𝐄𝐍𝐓𝐄 – Esta linterna led recargable cuenta con cinco LED que proporcionan hasta 1500 lúmenes de brillo y un alcance de hasta 226 metros.
 - 𝐃𝐈𝐒𝐄Ñ𝐎 𝐂𝐈𝐁𝐄𝐑𝐍É𝐓𝐈𝐂𝐎 – El Sofirn ST1 utiliza líneas únicas para delinear una apariencia elegante de tecnología futurista, perfecta para los desplazamientos, el uso doméstico, los paseos y sacar al perro.
-- 𝐂𝐀𝐑𝐆𝐀 𝐂Ó𝐌𝐎𝐃𝐀 – Está equipada con un indicador de carga y un puerto de carga Type-C, proporcionándole información oportuna sobre la batería y una forma cómoda y rápida de recargarla.
-- 𝐃𝐔𝐑𝐀𝐃𝐄𝐑𝐀 𝐘 𝐑𝐄𝐒𝐈𝐒𝐓𝐄𝐍𝐓𝐄 – Esta linterna pilas supervivencia está fabricada con una aleación de aluminio AL6061-T6 y ofrece protección impermeable IPX7 y resistencia a caídas de aproximadamente un metro.
 - 𝐅Á𝐂𝐈𝐋 𝐃𝐄 𝐓𝐑𝐀𝐍𝐒𝐏𝐎𝐑𝐓𝐀𝐑 – La Sofirn ST1 mide solo 28 × 16 × 120 mm y pesa únicamente 120 g. También incluye una correa de muñeca adicional, lo que la hace muy práctica para llevarla a cualquier parte.
+- 𝐃𝐔𝐑𝐀𝐃𝐄𝐑𝐀 𝐘 𝐑𝐄𝐒𝐈𝐒𝐓𝐄𝐍𝐓𝐄 – Esta linterna pilas supervivencia está fabricada con una aleación de aluminio AL6061-T6 y ofrece protección impermeable IPX7 y resistencia a caídas de aproximadamente un metro.
+- 𝐑𝐄𝐍𝐃𝐈𝐌𝐈𝐄𝐍𝐓𝐎 𝐏𝐎𝐓𝐄𝐍𝐓𝐄 – Esta linterna led recargable cuenta con cinco LED que proporcionan hasta 1500 lúmenes de brillo y un alcance de hasta 226 metros.
+- 𝐂𝐀𝐑𝐆𝐀 𝐂Ó𝐌𝐎𝐃𝐀 – Está equipada con un indicador de carga y un puerto de carga Type-C, proporcionándole información oportuna sobre la batería y una forma cómoda y rápida de recargarla.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FRRZCPS3{{</world>}}

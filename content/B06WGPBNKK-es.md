@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Indicado para un niño o adulto con unas medidas de 107 cm
 - Fabricado con material robusto y vinilo resistente probado para asegurar su durabilidad
 - Este producto tiene diseños SURTIDOS por lo que no se puede seleccionar el modelo/color concreto.
-- Indicado para un niño o adulto con unas medidas de 107 cm
 - Diseño divertido de donut para disfrutar con amigos en un día de playa o piscina
 - Este producto tiene diseños SURTIDOS por lo que no se puede seleccionar el modelo/color concreto.
 

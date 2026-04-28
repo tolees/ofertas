@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CONSUMO: 1 cartoucha 300ml permite de realizar ~15 m de cordón; la tecnología PURFORM cumple con las futuras normativas de salud y seguridad
-- La reinvención de la multiherramienta definitiva para sellar y pegar; producto 2 en 1: Masilla y pegamento, listo para su uso, óptima para tus trabajos de bricolaje
-- SOPORTES: Se adhiere hormigón, ladrillo, cerámica, madera, metal y vidrio
-- Óptima resistencia a los cambios medioambientales, a la humedad, a la intemperie y son resistentes a los rayos ultravioletas
 - Sellados elásticos y pegados multiusos tanto en interior como en exterior con una retención inmediata y una capacidad de movimiento de ± 25 %; fácil aplicación con una pistola de masilla estándar
+- SOPORTES: Se adhiere hormigón, ladrillo, cerámica, madera, metal y vidrio
+- La reinvención de la multiherramienta definitiva para sellar y pegar; producto 2 en 1: Masilla y pegamento, listo para su uso, óptima para tus trabajos de bricolaje
+- Óptima resistencia a los cambios medioambientales, a la humedad, a la intemperie y son resistentes a los rayos ultravioletas
+- CONSUMO: 1 cartoucha 300ml permite de realizar ~15 m de cordón; la tecnología PURFORM cumple con las futuras normativas de salud y seguridad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B077GTFZFY{{</world>}}

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - VOLUME UP AND DOWN BUTTON: Audio Glasses is with Volume Up and Down Feature as Well as Forwarder and Backware, Battery Playing Lead Time is up to 10 Hours
+- OPEN EAR BLUETOOTH SPEAKER: Bluetooth Glasses with Open Ear Speaker System Allows You to Listen to Your Favorite Music and Everything around you. HD Microphone Offers High Quality Sound While on Calls
+- ULTRA SLIM UNISEX DESIGN: Mobile Phone Thickness Design, Flexible Material Frame and Very Light Like a Normal Glasses Weight. Exclusive US Style Design,Neat,Unisex and Very Comfortable to Wear while Relaxing and Exercising
 - SAFETY GLASSES: Blue Light Blocking Technology Lens for Computer Reading, Gaming.Impact Resistant for Eye and Face Protection Devices. Anti Eyestrain, Anti Scratch, Anti Smudgy
 - VOICE CONTROL SMART GLASSES: Glasses Speaker with Smart Assistant Technology Like Hand Free Phone Calling and Answering, Easily Speak Siri,Cortana and Google Now to Connect to Your Favorite Music Stations (Pandora,iTunes,Spotify and more),Easily Speak for Directions, Weather and Traffic Updates
-- ULTRA SLIM UNISEX DESIGN: Mobile Phone Thickness Design, Flexible Material Frame and Very Light Like a Normal Glasses Weight. Exclusive US Style Design,Neat,Unisex and Very Comfortable to Wear while Relaxing and Exercising
-- OPEN EAR BLUETOOTH SPEAKER: Bluetooth Glasses with Open Ear Speaker System Allows You to Listen to Your Favorite Music and Everything around you. HD Microphone Offers High Quality Sound While on Calls
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08Y1LVZF3{{</world>}}

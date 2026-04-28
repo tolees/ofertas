@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela de tracción flexible
 - Entresuela que absorbe los golpes
 - Estilo de meter con cordones elásticos
+- Suela de tracción flexible
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BQ3537SP{{</world>}}

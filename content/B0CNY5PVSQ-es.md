@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Parte superior de malla y sintética con cordones elásticos
-- Skechers Detalle del logotipo
 - Suela de tracción flexible
+- Skechers Detalle del logotipo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CNY5PVSQ{{</world>}}

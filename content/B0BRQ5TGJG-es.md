@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Ajuste regular
 - Puños y dobladillo acanalados
-- Cuello redondo
 - Ajuste holgado y cuadrado
+- Cuello redondo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BRQ5TGJG{{</world>}}

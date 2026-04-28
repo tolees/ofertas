@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste relajado para un ajuste cómodo y espacioso en los dedos y el antepié
 - Parte de malla de diseño atlético
+- Ajuste relajado para un ajuste cómodo y espacioso en los dedos y el antepié
 - Diseño deportivo cómodo y sin cordones
 - Entresuela altamente flexible y suela de tracción de goma
 

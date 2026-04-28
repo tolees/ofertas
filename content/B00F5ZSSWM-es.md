@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- DIMENSIONES: 82 x 51 x 61 cm. Capacidad máxima: 20 kg.
 - IDEAL PARA VIAJES EN COCHE: por medio de las amplias superficies de rejilla, el perropodrà disfrutar ademas de una mejor luz y visibilidad. Alfombrilla de drenaje incluida para asegurar un ambiente siempre seco
 - DISEÑO ITALIANO: El mayor fabricante europeo de productos para mascotas con más de 50 años de experiencia. Desde un diseño innovador hasta un servicio al cliente dedicado, Ferplast está comprometido con la sostenibilidad, la innovación y el máximo confort para sus mascotas.
-- COMPROMISO CON LA SOSTENIBILIDAD: fabricado con materiales reciclados, el transportín para perros Atlas Car refleja el compromiso de Ferplast con la protección del medio ambiente y el bienestar de nuestros animales.
-- DIMENSIONES: 82 x 51 x 61 cm. Capacidad máxima: 20 kg.
 - SEGURO Y PRÁCTICO: Sistema de bloqueo de seguridad que garantiza la máxima tranquilidad durante la conducción. Después de su uso, el transportador se puede desmontar completamente.
+- COMPROMISO CON LA SOSTENIBILIDAD: fabricado con materiales reciclados, el transportín para perros Atlas Car refleja el compromiso de Ferplast con la protección del medio ambiente y el bienestar de nuestros animales.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00F5ZSSWM{{</world>}}

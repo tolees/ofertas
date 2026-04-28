@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dosificador con proporción óptima del producto
-- Nuevo tono Space Diamond con GLITTER
 - Cepillo cónico y flexible que alcanza todas tus pestañas
-- Fórmula infusionada con extracto de bambú
+- Nuevo tono Space Diamond con GLITTER
+- Dosificador con proporción óptima del producto
 - Pestañas con altura: longitud sin límites y volumen redefinido
+- Fórmula infusionada con extracto de bambú
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHCYMVQJ{{</world>}}

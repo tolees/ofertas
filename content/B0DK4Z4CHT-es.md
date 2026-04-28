@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Empeine de malla técnica con refuerzos de ante
-- Cierre de cordones
 - Suela de goma
-- Horma clásica
 - Amortiguación LIGHTMOTION
+- Horma clásica
+- Cierre de cordones
+- Empeine de malla técnica con refuerzos de ante
 - Forro textil
 
 [🛒 Comprar!!!]({{< param buyurl >}})

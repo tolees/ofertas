@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Peso: 430,1 g (talla 38 2/3)
-- Desnivel de la mediasuela: 12 mm (talón: 32 mm, antepié: 20 mm)
-- Suela con compuesto de caucho Continental
-- Cierre de cordones
-- Plantilla OrthoLite y membrana de GORE-TEX
-- Corte clásico
 - Mediasuela de EVA LIGHTMOTION
+- Desnivel de la mediasuela: 12 mm (talón: 32 mm, antepié: 20 mm)
+- Cierre de cordones
+- Peso: 430,1 g (talla 38 2/3)
+- Corte clásico
 - Empeine de tejido ripstop con refuerzos
+- Suela con compuesto de caucho Continental
+- Plantilla OrthoLite y membrana de GORE-TEX
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DHVW7L9M{{</world>}}

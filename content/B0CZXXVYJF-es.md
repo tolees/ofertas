@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100% algodón
 - Cuello de polo con dos botones
+- Contiene al menos un 70% de material reciclado y renovable
+- 100% algodón
+- Corte clásico
 - Dobladillo trasero ligeramente más largo
 - Costuras laterales abiertas
-- Corte clásico
-- Contiene al menos un 70% de material reciclado y renovable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZXXVYJF{{</world>}}

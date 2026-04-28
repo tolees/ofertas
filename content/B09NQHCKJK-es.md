@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- VOLUMEN MODULABLE Y FÁCIL DE DESMAQUILLAR: Su textura ligera permite aplicar varias capas para intensificar el drama sin apelmazar. Al ser una máscara lavable, se retira fácilmente con tu limpiador habitual, cuidando la integridad de tus pestañas naturales día tras día.
 - LONGITUD SIN LÍMITES Y VOLUMEN REFINADO: Consigue unas pestañas con una altura espectacular. Su fórmula de alta intensidad extiende cada pestaña desde la raíz hasta las puntas, proporcionando una longitud infinita y un volumen que redefine tu mirada al instante.
 - CEPILLO FLEX TOWER EXCLUSIVO: Cuenta con un innovador cepillo cónico y flexible que se dobla para adaptarse a la forma de tu ojo. Su diseño permite alcanzar y separar hasta las pestañas más cortas y rebeldes, asegurando una cobertura total y un despliegue panorámico.
-- FÓRMULA INFUSIONADA CON EXTRACTO DE BAMBÚ: Enriquecida con extracto de bambú y fibras extensoras, esta máscara aporta fuerza y resistencia a tus pestañas sin añadir peso. El resultado son unas pestañas largas, firmes y flexibles que mantienen su curvatura durante todo el día.
 - APLICACIÓN SIN GRUMOS NI MANCHAS: Gracias a su dosificador de precisión, el cepillo atrapa la cantidad exacta de producto. Olvídate de los pegotes o la sensación de pesadez; la fórmula se desliza suavemente para un acabado limpio, definido y profesional.
+- VOLUMEN MODULABLE Y FÁCIL DE DESMAQUILLAR: Su textura ligera permite aplicar varias capas para intensificar el drama sin apelmazar. Al ser una máscara lavable, se retira fácilmente con tu limpiador habitual, cuidando la integridad de tus pestañas naturales día tras día.
+- FÓRMULA INFUSIONADA CON EXTRACTO DE BAMBÚ: Enriquecida con extracto de bambú y fibras extensoras, esta máscara aporta fuerza y resistencia a tus pestañas sin añadir peso. El resultado son unas pestañas largas, firmes y flexibles que mantienen su curvatura durante todo el día.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09NQHCKJK{{</world>}}

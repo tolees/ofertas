@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- El diseño de aluminio de la rueda de desplazamiento proporciona una textura sólida y un estilo extra.
 - Cuenta con un sensor óptico PIXART PMW-3389 de alto rendimiento con hasta 16.000 DPI que ofrece un seguimiento y una respuesta superiores, ¡tenga el control total!
 - Iluminación de 16,8 M de colores reales RGB en 3 zonas, con efectos de iluminación dinámicos personalizables para las partidas más personalizadas.
-- Personaliza las macros y los perfiles de juego; ajusta el brillo, la velocidad y la dirección de los efectos de iluminación RGB; y sincroniza los colores RGB de todos tus periféricos Thermaltake Gaming a través de la aplicación TT SYNC, creando un ecosistema completo.
 - Fabricado de forma ambidiestra para adaptarse a todos los tamaños de mano y estilos de agarre, con un acabado mate para mejorar la comodidad y la durabilidad.
-- El diseño de aluminio de la rueda de desplazamiento proporciona una textura sólida y un estilo extra.
+- Personaliza las macros y los perfiles de juego; ajusta el brillo, la velocidad y la dirección de los efectos de iluminación RGB; y sincroniza los colores RGB de todos tus periféricos Thermaltake Gaming a través de la aplicación TT SYNC, creando un ecosistema completo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08V99XY2Y{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuero
 - Espuma viscoelástica refrigerada por aire
+- Cuero
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CPJT5BZL{{</world>}}

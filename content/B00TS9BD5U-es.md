@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Recubrimiento de alta calidad anti-reflexión NCS de nanocristales
-- Enfoque manual
-- Montura para Micro Cuatro Tercios
 - Incluye parasol extraíble
+- Recubrimiento de alta calidad anti-reflexión NCS de nanocristales
 - Campo de visión en diagonal de 180 grados en sensores de formato completo (formato 24 x 36mm)
+- Montura para Micro Cuatro Tercios
 - Ultra gran angular para cámaras con sensor Full Frame, Ojo de pez
+- Enfoque manual
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00TS9BD5U{{</world>}}

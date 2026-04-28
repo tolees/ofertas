@@ -30,11 +30,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Diseño ergonómico: ajustes de altura, inclinación, giro y pivote
 - Admite 4K/240 Hz a través de DP 2.1 (UHBR20)
-- VESA DisplayHDR True Black 400, AMD FreeSync Premium Pro, ClearMR 13000
-- Panel OLED de 32 pulgadas con resolución UHD de 3840x2160
 - Pantalla de 10 bits con gama de colores DCI-P3 del 99 %
-- Control multiplataforma KVM
 - Frecuencia de actualización de 240 Hz, tiempo de respuesta de 0,03 ms
+- Panel OLED de 32 pulgadas con resolución UHD de 3840x2160
+- Control multiplataforma KVM
+- VESA DisplayHDR True Black 400, AMD FreeSync Premium Pro, ClearMR 13000
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CYQG1LZX{{</world>}}

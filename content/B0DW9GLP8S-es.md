@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello: de Camisa
-- Cierre: de Botón
 - Manga: Larga
+- Cuello: de Camisa
 - Bolsillos delanteros
+- Cierre: de Botón
 - Desigual
 - Fit: Regular
 

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 🚨【ADVERTENCIA】 Asegúrese de usarlo en una superficie o mesa plana y estable resistente al calor. Es importante tener en cuenta que nuestra barbacoa no es apta para madera ni otros combustibles. No incluye carbón.
-- 🥩【BARBACOA PORTATIL】 Si anhelas el sabor a la parrilla, la única manera de lograrlo es utilizar nuestra barbacoa de sobremesa para carbón muy práctica y manejable para llevar cómodamente a cualquier parte por su diseño moderno, plegable y portátil. Dispone de orificios de ventilación y asa de transporte para facilitar su traslado.
 - 🔝【DISEÑO APROPIADO】 Incluye una rejilla inferior protectora que se coloca en el interior, en la base de la barbacoa, para poner encima el carbón (1,5 kg máx.).
+- 🚨【ADVERTENCIA】 Asegúrese de usarlo en una superficie o mesa plana y estable resistente al calor. Es importante tener en cuenta que nuestra barbacoa no es apta para madera ni otros combustibles. No incluye carbón.
 - 🛠️【FACIL INSTALACION 】Esta barbacoa de hierro es resistente, ocupa poco espacio y se monta y desmonta con facilidad, simplemente hay que desplegar sus patas y apoyarlas en el suelo o en una mesa.
 - 🙌🏻【FACIL DE USAR】Para el encendido, deben emplearse pastillas, gel de encendido u otros iniciadores de fuego apropiados para barbacoa (no incluidos), aunque para una mejor conservación de la barbacoa durante más tiempo, es recomendable encender las brasas utilizando un dispositivo encendedor de carbón (no incluido).
+- 🥩【BARBACOA PORTATIL】 Si anhelas el sabor a la parrilla, la única manera de lograrlo es utilizar nuestra barbacoa de sobremesa para carbón muy práctica y manejable para llevar cómodamente a cualquier parte por su diseño moderno, plegable y portátil. Dispone de orificios de ventilación y asa de transporte para facilitar su traslado.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09R7SXBSL{{</world>}}

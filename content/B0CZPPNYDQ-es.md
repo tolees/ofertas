@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cintura elástica con cordón
+- Corte clásico con talle medio
 - 100% poliéster (reciclado)
 - Bolsillos frontales en la chaqueta y el pantalón
-- Corte clásico con talle medio
-- Puños y dobladillo de canalé
 - Cierre de cremallera y cuello alzado
-- Cintura elástica con cordón
+- Puños y dobladillo de canalé
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZPPNYDQ{{</world>}}

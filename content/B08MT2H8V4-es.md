@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cierre: Cordones
 - Material exterior: Cuero
 - Material de la suela: Caucho
-- Cierre: Cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08MT2H8V4{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Extremos de las mangas con vuelta fija
 - Bajo curvado
-- Etiqueta de G-Star RAW tejida en la costura lateral inferior
+- Extremos de las mangas con vuelta fija
 - Bordado de G-Star RAW en el pecho
 - Cuello acanalado
+- Etiqueta de G-Star RAW tejida en la costura lateral inferior
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07VNMZBH5{{</world>}}

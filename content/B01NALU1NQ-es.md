@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Teclado estándar de 105 teclas de tamaño completo, con 11 combinaciones de teclas multimedia especialmente diseñadas.Tamaño: 44 x 14 x 2,5 cm.
-- Entra automáticamente en modo reposo si permanece 10 minutos sin funcionamiento. La retroiluminación se apaga también. Cualquier tecla pulsada despierta el teclado y la retroiluminación se enciende.
 - retroiluminación LED. Teclado para juegos y oficina.
+- Entra automáticamente en modo reposo si permanece 10 minutos sin funcionamiento. La retroiluminación se apaga también. Cualquier tecla pulsada despierta el teclado y la retroiluminación se enciende.
 - Compatible con Windows 8, Windows 7, Windows Vista, Windows XP. PC, portátil, Google Android TV Box, HTPC IPTV, Smart TV, Mac, IOS, Raspberry Pi todas las versiones
+- Teclado estándar de 105 teclas de tamaño completo, con 11 combinaciones de teclas multimedia especialmente diseñadas.Tamaño: 44 x 14 x 2,5 cm.
 - Retroiluminación arcoiris con luz pulsante. FN+Luz (a la derecha de FN) para entrar en el modo de luz pulsante. Presione el botón de luz por tres veces, la retroiluminación se apagará
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

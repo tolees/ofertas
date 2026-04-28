@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material exterior: Cuero
 - Revestimiento: Sintético
-- Cierre: Cordones
-- Tipo de tacón: Plano
 - Material de la suela: Sintético
+- Cierre: Cordones
+- Material exterior: Cuero
+- Tipo de tacón: Plano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00CIPM23S{{</world>}}

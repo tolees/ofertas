@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Color: Liso
-- Ligeramente largo
 - Cuello: Redondo
+- Ligeramente largo
 - Fit: Regular
 - Manga: Larga
 

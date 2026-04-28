@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto de cálida óptima
 - Bolso de mano
+- Producto de cálida óptima
 - Diseño moderno
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

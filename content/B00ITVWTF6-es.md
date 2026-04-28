@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Excelente resistencia a los cambios medioambientales, a la humedad, a la intemperie y son resistentes a los rayos ultravioletas
 - CONSUMO: 1 cartucho 300ml permite de realizar 15 m de cordón. La nueva tecnología PURFORM cumple con las futuras normativas de salud y seguridad
-- SOPORTES: Se adhiere hormigón, ladrillo, cerámica, madera, metal y vidrio
 - Sellados elásticos y pegados multiusos tanto en interior como en exterior con una retención inmediata y una capacidad de movimiento de ± 25 %. Fácil aplicación con una pistola de masilla de tubo cerrado
+- Excelente resistencia a los cambios medioambientales, a la humedad, a la intemperie y son resistentes a los rayos ultravioletas
 - La reinvención de la multiherramienta definitiva para sellar y pegar. Producto 2 en 1: Masilla y pegamento, listo para su uso, optima para tus trabajos de bricolaje
+- SOPORTES: Se adhiere hormigón, ladrillo, cerámica, madera, metal y vidrio
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00ITVWTF6{{</world>}}

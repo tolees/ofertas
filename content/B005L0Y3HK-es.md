@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Juego De Bujías, Bujías De Encendido, Bujía De Motor, Bujías, Bujía:
 - Elija su vehículo en el selector para comprobar su compatibilidad con el producto.
-- Número OE: 9470000436
 - NGK Bujía de encendido
+- Juego De Bujías, Bujías De Encendido, Bujía De Motor, Bujías, Bujía:
+- Número OE: 9470000436
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B005L0Y3HK{{</world>}}

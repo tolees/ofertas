@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cintura elástica con cordón
 - Corte ajustado
+- Cintura elástica con cordón
 - Tejido Infinitex
 - 78% poliamida (reciclada) / 22% elastano
 

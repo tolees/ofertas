@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- materialFabricComposition: 92% Cotton, 6% Elastomultiester, 2% Elastane
 - Mid waist
+- materialFabricComposition: 92% Cotton, 6% Elastomultiester, 2% Elastane
 - Skinny Fit
-- Skinny fit jeans
 - Care Label:
+- Skinny fit jeans
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07S4GL3RN{{</world>}}

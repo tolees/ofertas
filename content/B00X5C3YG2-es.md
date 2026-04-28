@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- DETALLES Y FUNCIONES: El kit incluye todas las partes visibles de la jaula en la foto y las instrucciones de montaje; Los accesorios para incluyen: Comedero, bebedero, henera para conejos y jaula con separador de peldaños
-- DESIGN ITALIANO - El mayor fabricante europeo de productos para mascotas con más de 50 años de experiencia; Desde el diseño innovador hasta la orientación al cliente, Ferplast apuesta por la sostenibilidad, la innovación de vanguardia y el máximo confort para sus mascotas
-- SOSTENIBILIDAD: Los productos Krolik son respetuosos con el medio ambiente porque se fabrican a partir de materiales industriales y de consumo reciclados; Una muestra del compromiso de Ferplast con el medio ambiente
 - FÁCIL MONTAJE Y LIMPIEZA: La jaula para conejos es rápida de montar y fácil de limpiar; La gran puerta de entrada y la jaula con bisagras facilitan la limpieza del interior; La jaula XXL para cobayas mide 142 x 60 x h 50 CM
+- DESIGN ITALIANO - El mayor fabricante europeo de productos para mascotas con más de 50 años de experiencia; Desde el diseño innovador hasta la orientación al cliente, Ferplast apuesta por la sostenibilidad, la innovación de vanguardia y el máximo confort para sus mascotas
+- DETALLES Y FUNCIONES: El kit incluye todas las partes visibles de la jaula en la foto y las instrucciones de montaje; Los accesorios para incluyen: Comedero, bebedero, henera para conejos y jaula con separador de peldaños
+- SOSTENIBILIDAD: Los productos Krolik son respetuosos con el medio ambiente porque se fabrican a partir de materiales industriales y de consumo reciclados; Una muestra del compromiso de Ferplast con el medio ambiente
 - HABITAT ESPACIOSO PARA CONEJOS - Krolik ofrece un espacio generoso, ideal para conejos y como jaula para animales pequeños; Su fácil ampliación garantiza el máximo confort para los animales
 
 [🛒 Visítala!!!]({{< param buyurl >}})

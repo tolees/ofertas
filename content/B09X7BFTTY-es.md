@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dermatológicamente Comprobado
-- Hecho en Australia
 - Sin crueldad
+- Hecho en Australia
+- Dermatológicamente Comprobado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09X7BFTTY{{</world>}}

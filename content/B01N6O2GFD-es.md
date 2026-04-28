@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Marca: Philips
 - Función especial: Atenuable
-- ‎Montaje en pared
 - Material: ‎Aluminio
+- ‎Montaje en pared
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01N6O2GFD{{</world>}}

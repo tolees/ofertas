@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tejido super élastico sin PFC
-- Cortaviento y respirable MVP 5000
-- Relleno en guata CMP Feel Warm Flat
-- Impermeables WP 10000
 - Costuras encintadas
+- Relleno en guata CMP Feel Warm Flat
+- Cortaviento y respirable MVP 5000
+- Tejido super élastico sin PFC
+- Impermeables WP 10000
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0795B7HTG{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color: Mitiandi-15315
 - Marca: Vaselina
+- Color: Mitiandi-15315
 - Vaselina Intensive Care Crema corporal iluminadora con cacao 600 ml
 - Tipo de producto: SALUD CUIDADO PERSONAL
 

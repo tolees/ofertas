@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cuello alzado
-- Bolsillo estilo canguro incorporado con entradas ribeteadas
 - Cintura acanalada
 - Medio puño, acanalado
+- Bolsillo estilo canguro incorporado con entradas ribeteadas
 - Cremallera corta
 
 [🛒 Aquí!!!]({{< param buyurl >}})

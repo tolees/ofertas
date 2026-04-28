@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CAPACIDAD DE PESO: Los estantes superior y medio soportan hasta 9,1 kg cada uno, mientras que el estante inferior soporta hasta 18 kg, lo que garantiza que esta estantería brinde una resistencia confiable para el almacenamiento diario de libros, artículos de exhibición y elementos esenciales.
-- DISEÑO ELEGANTE Y FUNCIONAL: Esta estantería de 3 niveles presenta una silueta rectangular SIMPLE con una parte posterior cerrada, que se integra perfectamente en salas de estar, dormitorios u oficinas en el hogar al tiempo que ofrece una presencia moderna y que ahorra espacio.
 - DIMENSIONES DEL PRODUCTO: 24,1 (Pr) x 62,2 (An) x 102,4 (Al) cm
 - CONSTRUCCIÓN RESISTENTE: Fabricado con madera compuesta duradera y de alta calidad, el panel posterior destacado agrega estabilidad adicional y evita que los artículos se caigan.
 - ALMACENAMIENTO AJUSTABLE DE 3 NIVELES: Esta estantería incluye tres estantes abiertos con un estante central ajustable que alcanza hasta 16.8 pulgadas, lo que la hace perfecta para almacenar libros y decoración y al mismo tiempo acomodar artículos más altos para mantener organizados los dormitorios, estudios o habitaciones familiares.
+- DISEÑO ELEGANTE Y FUNCIONAL: Esta estantería de 3 niveles presenta una silueta rectangular SIMPLE con una parte posterior cerrada, que se integra perfectamente en salas de estar, dormitorios u oficinas en el hogar al tiempo que ofrece una presencia moderna y que ahorra espacio.
+- CAPACIDAD DE PESO: Los estantes superior y medio soportan hasta 9,1 kg cada uno, mientras que el estante inferior soporta hasta 18 kg, lo que garantiza que esta estantería brinde una resistencia confiable para el almacenamiento diario de libros, artículos de exhibición y elementos esenciales.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01BWZWDZG{{</world>}}

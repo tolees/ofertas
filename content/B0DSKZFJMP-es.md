@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela ligera que no deja marcas
 - La correa del talón ofrece un ajuste seguro
+- Suela ligera que no deja marcas
 - Fáciles de limpiar y de secado rápido
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

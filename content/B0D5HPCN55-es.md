@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material de alta calidad: Hechos con una mezcla de algodón, lino y elastano, estos jeans ofrecen una combinación perfecta de comodidad y durabilidad
-- Ajuste atlético: Diseñado para un ajuste ajustado y cómodo, estos jeans son ideales para aquellos que buscan un look deportivo
 - Estilo de pierna: Cónico: Este par de jeans presenta un estilo de pierna cónico que le da un aspecto moderno y actual
 - Temporada: Primavera/verano: Estos jeans están diseñados para ser usados en la temporada de primavera y verano, para que puedas disfrutar del buen tiempo con estilo
+- Material de alta calidad: Hechos con una mezcla de algodón, lino y elastano, estos jeans ofrecen una combinación perfecta de comodidad y durabilidad
+- Ajuste atlético: Diseñado para un ajuste ajustado y cómodo, estos jeans son ideales para aquellos que buscan un look deportivo
 - Color especial y tejido elástico: Hechos con un tejido elástico y un color especial, estos jeans ofrecen comodidad y estilo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

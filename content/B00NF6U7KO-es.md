@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Bote de 30 ceras semiblandas, suaves y que no manchan; 8 colores diferentes (amarillo, naranja, rojo, marrón, verde, azul, rosa y negro)
 - Ceras en forma de oso que se adaptan a la forma de la mano de los niños y niñas
-- Ceras ergonómicas adecuadas para empezar a desarrollar las habilidades de escritura y dibujo
 - Producto de buena calidad, fabricado en España. Recomendado por los educadores escolares.
+- Ceras ergonómicas adecuadas para empezar a desarrollar las habilidades de escritura y dibujo
 - Ceras de colores para niños y niñas a partir de 2 años
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Se suministran instrucciones de montaje detalladas paso a paso. Se incluye los dispositivos de fijación del mueble a la pared. Utilizar los herrajes más adecuados según de qué tipo sea ésta.
 - BLANCO/NATURAL
-- Mueble de salón con ahorro de espacio.
 - Tacos ABS quitarruidos y antirrayaduras en las piezas con contacto directo con el suelo.
+- Mueble de salón con ahorro de espacio.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D6N79DKK{{</world>}}

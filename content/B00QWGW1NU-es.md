@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 8 ojales
-- cuero duradero
 - Estructura cómoda y duradera
+- cuero duradero
+- 8 ojales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00QWGW1NU{{</world>}}

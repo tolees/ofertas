@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Funcionalidad: impermeabilidad 3000 mm
 - Bolsillos delanteros con cierre de botón a presión
+- Funcionalidad: impermeabilidad 3000 mm
 - Cordón en la cintura
 
 [🛒 Aquí!!!]({{< param buyurl >}})

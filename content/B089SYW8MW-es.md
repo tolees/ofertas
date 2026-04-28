@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ✅ [MATERIAL] Maillot cómodo con elementos mejorados, ligeros y duraderos.
 - ✅ [COMODIDAD] Construcción de mangas cortas y paneles múltiples con inserciones de malla bajo los brazos para mayor ventilación y comodidad.
 - ✅ [CARACTERÍSTICAS] Dobladillo elástico para un ajuste óptimo.
 - ✅ [CALIDAD] Producto de alta calidad de la marca ONEAL | 50 años de experiencia en el sector de la moto, la bicicleta de montaña y el motocross.
+- ✅ [MATERIAL] Maillot cómodo con elementos mejorados, ligeros y duraderos.
 - ✅ [MATERIAL] Tejido de rendimiento, de secado rápido y ligero de 4 vías.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

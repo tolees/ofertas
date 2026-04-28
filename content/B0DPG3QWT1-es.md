@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Collar de autofabric
-- Material: algodón
 - Placket frontal de botón
+- Material: algodón
+- Collar de autofabric
 - Quiksilver embroidery
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

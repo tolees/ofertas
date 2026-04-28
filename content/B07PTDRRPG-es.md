@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Las vitaminas C, D y B6 contribuyen al funcionamiento normal del sistema inmunitario y la riboflavina ayuda a la protección antioxidante
-- Conserva el producto en un lugar fresco y seco, y mantén fuera del alcance de los niños. Es importante recordar que los complementos alimenticios no deben sustituir una dieta equilibrada y un estilo de vida saludable
-- Se recomienda tomar 1 vial de 10 ml al día en ayunas, preferiblemente diluido en agua, leche o zumo de frutas. No superar esta dosis. Agitar bien antes de tomar
-- Contiene Equinácea que ayuda a las defensas naturales del organismo
 - Black Bee Jalea Real Inmuno Plus, es un complemento alimenticio que combina jalea real con Reishi, equinácea, própolis y vitaminas
+- Se recomienda tomar 1 vial de 10 ml al día en ayunas, preferiblemente diluido en agua, leche o zumo de frutas. No superar esta dosis. Agitar bien antes de tomar
+- Conserva el producto en un lugar fresco y seco, y mantén fuera del alcance de los niños. Es importante recordar que los complementos alimenticios no deben sustituir una dieta equilibrada y un estilo de vida saludable
+- Las vitaminas C, D y B6 contribuyen al funcionamiento normal del sistema inmunitario y la riboflavina ayuda a la protección antioxidante
+- Contiene Equinácea que ayuda a las defensas naturales del organismo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07PTDRRPG{{</world>}}

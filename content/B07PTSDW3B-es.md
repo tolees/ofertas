@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Aplicación fácil y rápida, gracias a su formato de spray en seco
+- Puede utilizarse en niños a partir de 2 años
 - Previene las picaduras: Gracias a su fórmula exclusiva que forma una barrera protectora sobre la piel y ahuyenta a los insectos
 - Formato aerosol: Aplica el producto directamente sobre la piel
-- Aplicación fácil y rápida, gracias a su formato de spray en seco
 - Resistente aún en condiciones de transpiración.
-- Puede utilizarse en niños a partir de 2 años
 - Protección duradera: Hasta 4 horas contra los mosquitos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

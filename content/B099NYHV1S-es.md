@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Hombre Polo Nelson Point'
-date: 2026-04-26 05:58:39
+date: 2026-04-27 18:09:41
 image: 'https://m.media-amazon.com/images/I/41OXoVrxj1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B099NYHV1S/?tag=tolees-21'
 descuento: '39.02'
-average: '28.8275'
+average: '29.16'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido: 1x Columbia Hombre Polo, Nelson Point, Color: Azul (Dark Mountain), Talla: XL, Art.: 1772721
+- Cómodo para viajar gracias a la mezcla de tejido ligero de poliéster y modal, Con un corte adecuado para las capas.
 - Polo lo suficientemente bien diseñado para diversas aventuras, Desde el golf hasta el senderismo o una noche en el pub con amigos.
 - Ajuste activo, Pensado para la movilidad, Diseñado para un look elegante
-- Cómodo para viajar gracias a la mezcla de tejido ligero de poliéster y modal, Con un corte adecuado para las capas.
+- Contenido: 1x Columbia Hombre Polo, Nelson Point, Color: Azul (Dark Mountain), Talla: XL, Art.: 1772721
 - Una solapa con tres botones complementa al cuello, que puede ser abierto en caso de que el sol apriete
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

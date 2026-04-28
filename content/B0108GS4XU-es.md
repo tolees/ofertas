@@ -30,12 +30,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Cable HO5VV - F 3G 1.5 mm de 50 metros de largo
 - Enrollacables Brico de 4 tomas Schuko con asa para transporte
-- Color negro-rojo
 - Apto para uso en bricolaje y jardinería
+- Sistema de protección infantil
 - Protección de sobrecarga de rearme
 - Potencia máxima: 3000 W
 - Amperios/Voltaje: 13A / 230V
-- Sistema de protección infantil
+- Color negro-rojo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0108GS4XU{{</world>}}

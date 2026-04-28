@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Bolsillos en las costuras laterales
+- Bolsillos traseros con ribete doble y un botón
+- Costuras con forma en la parte posterior
 - Talle superalto
 - Prenda ajustada de arriba abajo
-- Bolsillos traseros con ribete doble y un botón
-- Bolsillos en las costuras laterales
-- Costuras con forma en la parte posterior
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BHTM3378{{</world>}}

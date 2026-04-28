@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Horma clásica
-- Logotipo del equipo de Fórmula 1 Mercedes - AMG Petronas
-- Plantilla moldeada
 - Banda superior de goma
+- Horma clásica
+- Plantilla moldeada
+- Logotipo del equipo de Fórmula 1 Mercedes - AMG Petronas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DB3D2KM3{{</world>}}

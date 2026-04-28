@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Material principal: punto plano
 - Talle: media
 - Corte: normal
-- Material principal: punto plano
 - Largo: normal
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

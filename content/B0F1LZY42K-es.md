@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Capacidad: 43 cl
-- Jarra de cerveza de diseño clásico, realizada en vidrio
 - Cuenta con un mensaje impreso que resulta ser una "definición" de mamá en tono divertido, lo que la convierte en un artículo ideal para regalar
+- Jarra de cerveza de diseño clásico, realizada en vidrio
 - Indicaciones: apta para lavavajillas, aunque se recomienda lavarla a mano para que su diseño permanezca intacto durante más tiempo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

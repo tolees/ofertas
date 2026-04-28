@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 100% algodón
-- Corte clásico
 - Compra una talla más pequeña
-- Cuello redondo
 - Estampado de adidas Sportswear serigrafiado
+- Cuello redondo
+- Corte clásico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C543RFBT{{</world>}}

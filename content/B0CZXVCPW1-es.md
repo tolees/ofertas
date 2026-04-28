@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte holgado
-- Contiene al menos un 70% de material reciclado y renovable
 - Cierre de cordones
+- Corte holgado
 - Bolsillos laterales
 - 55% algodón / 36% poliéster (reciclado) / 9% viscosa
+- Contiene al menos un 70% de material reciclado y renovable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZXVCPW1{{</world>}}

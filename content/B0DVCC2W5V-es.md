@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estampado Arty
-- Largo: Corto
 - Desigual
-- Manga: Larga
-- Cuello: Redondo
 - Fit: Skater
+- Manga: Larga
+- Largo: Corto
+- Cuello: Redondo
+- Estampado Arty
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DVCC2W5V{{</world>}}

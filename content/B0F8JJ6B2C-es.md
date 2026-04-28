@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- En Civilization VII, tus decisiones estratégicas harán que tu imperio en evolución tenga un bagaje cultural único. Gobierna como uno de los líderes legendarios de la historia y dirige el curso de los acontecimientos eligiendo una nueva civilización que represente a tu imperio en cada Era del progreso humano.
-- Descargar código únicamente. No contiene tarjeta de juego.
-- Tanto si eliges ser fiel a la historia como si trazas tu propio camino, en Civilization VII puedes construir algo en lo que creas y dejar un legado que se perpetúe.
 - La galardonada franquicia de juegos de estrategia regresa con un nuevo y revolucionario capítulo. ¡Con Sid Meiers Civilization VII construirás el mayor imperio que haya existido!
+- En Civilization VII, tus decisiones estratégicas harán que tu imperio en evolución tenga un bagaje cultural único. Gobierna como uno de los líderes legendarios de la historia y dirige el curso de los acontecimientos eligiendo una nueva civilización que represente a tu imperio en cada Era del progreso humano.
+- Tanto si eliges ser fiel a la historia como si trazas tu propio camino, en Civilization VII puedes construir algo en lo que creas y dejar un legado que se perpetúe.
+- Descargar código únicamente. No contiene tarjeta de juego.
 - Disfruta de funciones añadidas* en Nintendo Switch 2: Nuevos controles de ratón Joy-Con 2 - Soporte de GameChat - Juego con resolución de hasta 4K a 30 fps / 1080 p a 60 fps con el Dock de Nintendo Switch 2 conectado a un televisor compatible.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

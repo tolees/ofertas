@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - La piel queda hidratada, fortalecida y tonificada, tersa y firme. Recupera la luminosidad y las alisa arrugas.
-- Aplicar sobre el rostro todas las noches.
 - Crema nocturna antiedad fortificante y revitalizante para mujeres mayores de 65 años. Con agua volcánica Vichy, calcio fortalecedor y azúcares vegetales. Apta para todo tipo de piel.
+- Aplicar sobre el rostro todas las noches.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07XRGN4PJ{{</world>}}

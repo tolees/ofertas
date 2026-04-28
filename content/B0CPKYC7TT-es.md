@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Luces y sonidos: ¡Pon el ojo dentro de la cabeza de tu monstruo para ver luces y sonidos espeluznantes!
 - Excava y disecciona: Toma tu pala y muestra tu valor; ¡es hora de desenterrar y diseccionar a tus monstruos para darles vida!
 - ¡Colecciónalos todos! Hay 3 Smashers Monster para excavar y diseccionar.
-- Sorpresas en el interior: La Smashers Mega Horror House tiene más de 35 sorpresas en su interior; ¿te atreves a encontrarlas todas?
 - Arena y slime: ¡Descubre las piezas de Smashers Monster en la arena y la baba para divertirte con el juego táctil!
+- Sorpresas en el interior: La Smashers Mega Horror House tiene más de 35 sorpresas en su interior; ¿te atreves a encontrarlas todas?
+- Luces y sonidos: ¡Pon el ojo dentro de la cabeza de tu monstruo para ver luces y sonidos espeluznantes!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CPKYC7TT{{</world>}}

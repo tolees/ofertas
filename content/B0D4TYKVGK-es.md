@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Zapato de fútbol
 - Sensibilidad amplificada
+- Zapato de fútbol
 - Ajuste natural y adaptable.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

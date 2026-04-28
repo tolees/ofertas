@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lavable a máquina
 - Moda asequible
-- Elástico
+- Lavable a máquina
 - Manga larga
+- Elástico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B096QPVQRX{{</world>}}

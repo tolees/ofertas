@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricado en inox
-- Capacidad 150 ml
-- Fácil de usar
 - Instrucciones de cuidado: fabricante
+- Fácil de usar
+- Capacidad 150 ml
+- Fabricado en inox
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01AXRN5LU{{</world>}}

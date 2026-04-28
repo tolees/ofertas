@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fácil configuración Plug&Play pulsando el botón WPS del router y del DAP-1610 para que se sincronicen automáticamente
-- Puede configurarse desde un Smartphone con la app gratuita QRS Mobile
 - Incorpora el estándar WiFi AC con una velocidad máxima de hasta 1200 Mbps
 - Las antenas externas abatibles permiten obtener mayor cobertura, potencia de señal y mayor velocidad de datos
+- Fácil configuración Plug&Play pulsando el botón WPS del router y del DAP-1610 para que se sincronicen automáticamente
+- Puede configurarse desde un Smartphone con la app gratuita QRS Mobile
 - Puerto de red 10/100 Mbps RJ45 integrado, para conectar dispositivos por cable o configurarlo como punto de acceso inalámbrico
 
 [🛒 Comprar!!!]({{< param buyurl >}})

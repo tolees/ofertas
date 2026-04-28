@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Batidora de inmersión
 - Con indicadores LED
-- Potencia: 600 W
 - Material de la cuchilla: acero inoxidable
+- Potencia: 600 W
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B077P91WWM{{</world>}}

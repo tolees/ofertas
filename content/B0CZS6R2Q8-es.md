@@ -29,14 +29,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Horma clásica
-- Banda de refuerzo
-- Cierre de cordones
-- Empeine de malla con acabado que repele el agua y detalles reflectantes
-- Peso: 301 g (talla 42 2/3)
 - Forro textil
-- Suela Adiwear
-- Mediasuela Cloudfoam
 - Drop: 10 mm (talón: 34 mm / antepié: 24 mm)
+- Suela Adiwear
+- Banda de refuerzo
+- Peso: 301 g (talla 42 2/3)
+- Empeine de malla con acabado que repele el agua y detalles reflectantes
+- Mediasuela Cloudfoam
+- Cierre de cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CZS6R2Q8{{</world>}}

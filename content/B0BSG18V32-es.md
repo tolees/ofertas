@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La edición incluye:
 - 3 postales
-- Una carta del mono Wu
 - Una funda especial
+- Una carta del mono Wu
+- La edición incluye:
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BSG18V32{{</world>}}

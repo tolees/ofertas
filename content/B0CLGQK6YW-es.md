@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PANTALLA OLED, CONTROL SIN CONDUCTOR: supervise fácilmente los niveles de batería y ajuste las configuraciones clave, como LOD, tiempo de rebote, sincronización de movimiento, tasa de sondeo y DPI, utilizando botones de mouse dedicados, todo sin la necesidad de controladores externos.
 - EL SENSOR MÁS EFICIENTE Y POTENTE: el vanguardista sensor PAW3395 de PixArt, el último buque insignia en tecnología de sensores, Nordic MCU, que garantiza una eficiencia energética excepcional y un procesamiento rápido y preciso.
 - DISEÑADO PARA TORNEO DE DEPORTES COMPETITIVOS
+- PANTALLA OLED, CONTROL SIN CONDUCTOR: supervise fácilmente los niveles de batería y ajuste las configuraciones clave, como LOD, tiempo de rebote, sincronización de movimiento, tasa de sondeo y DPI, utilizando botones de mouse dedicados, todo sin la necesidad de controladores externos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CLGQK6YW{{</world>}}

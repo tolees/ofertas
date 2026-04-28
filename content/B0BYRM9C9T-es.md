@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- logotipo de Nike
 - Corte normal
 - Tecnología de ajuste en seco
+- logotipo de Nike
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BYRM9C9T{{</world>}}

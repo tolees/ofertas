@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro confeccionado en tejido ReBOTL con al menos un 50 % de plástico
 - Plantilla antifatiga extraíble
 - Goma Gripstick
+- Forro confeccionado en tejido ReBOTL con al menos un 50 % de plástico
 - El cuello acolchado se ajusta cómodamente al tobillo
 - Cuero Better Leather, procedente de una curtiduría con certificación de plata del Leather Working Group por sus buenas prácticas de gestión del agua, la energía y los residuos
 

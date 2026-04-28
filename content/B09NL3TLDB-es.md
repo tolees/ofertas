@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Forro textil
 - Parte superior de piel sintética
+- Plantilla de EVA
 - Diseño acolchado
 - Horma clásica
-- Plantilla de EVA
 - Suela de goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Superior de cuero
 - Cuello acolchado y cosido
 - Diseño de ojal actualizado
+- Superior de cuero
 - Logotipo de PUMA N° 1 en la lengüeta
 - Cierre de cordones para un ajuste cómodo
 

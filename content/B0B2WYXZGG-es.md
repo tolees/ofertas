@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre autoadherente
-- Forro textil
-- Parte de piel sintética
 - Horma clásica
+- Cierre autoadherente
+- Parte de piel sintética
+- Forro textil
 - Suela de goma que no deja marcas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

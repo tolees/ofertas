@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela de goma de aspecto vulcanizado
-- Tirador de tela en el talón
-- La parte superior contiene al menos un 50% de material reciclado
-- Horma clásica
 - Cierre de cordones
+- Tirador de tela en el talón
 - Empeine de nobuk sintético
+- Horma clásica
+- Suela de goma de aspecto vulcanizado
+- La parte superior contiene al menos un 50% de material reciclado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F3358GYG{{</world>}}

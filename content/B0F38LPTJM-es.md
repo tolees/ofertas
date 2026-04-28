@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Forro de malla
 - Cierre de cordones
+- Suela de goma
 - Horma clásica
 - Empeine de piel sintética con refuerzos de ante
-- Suela de goma
-- Forro de malla
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F38LPTJM{{</world>}}

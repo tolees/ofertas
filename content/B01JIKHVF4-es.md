@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Adaptador de toma de corriente con interruptor de pedal grande e iluminado para encender y apagar con cable de 1,5 m: buena para evitar gastos innecesarios de energía en modo de espera
 - Cable alargador con interruptor de pedal
-- Toma de corriente conmutable con interruptor de pedal y práctica indicación del estado de conmutación gracias a la iluminación del interruptor externo, buena también para rincones oscuros
+- Adaptador de toma de corriente con interruptor de pedal grande e iluminado para encender y apagar con cable de 1,5 m: buena para evitar gastos innecesarios de energía en modo de espera
 - El interruptor de pedal iluminado permite cambiar cómodamente los dispositivos conectados
+- Toma de corriente conmutable con interruptor de pedal y práctica indicación del estado de conmutación gracias a la iluminación del interruptor externo, buena también para rincones oscuros
 - Toma de corriente conmutable con protección táctil mejorada, máx. 3500 W
 
 [🛒 Comprar!!!]({{< param buyurl >}})

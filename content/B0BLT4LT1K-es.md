@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Material de calidad
-- Kit de brochas de maquillaje para base facial, para corrector, base y contorno
 - Producto para el cuidado y la higiene personal
+- Kit de brochas de maquillaje para base facial, para corrector, base y contorno
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BLT4LT1K{{</world>}}

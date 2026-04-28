@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Paqueteage Weight: 1.701 kilograms
-- Todo lujo de detalles
 - Figura Articulada
+- Todo lujo de detalles
 - 50 cm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

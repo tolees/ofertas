@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Plain
-- Leather
 - Boots
 - materialFabricComposition: Upper: 100% Polyester; Sole: 100% Rubber; Inner: 100% Polyester; Insole: 100% Polyester
+- Leather
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CLCC2BLJ{{</world>}}

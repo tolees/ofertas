@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Logotipo de Futura impreso en el muslo izquierdo.
 - Bolsillos para las manos y bolsillo trasero.
+- Logotipo de Futura impreso en el muslo izquierdo.
 - El ajuste cómodo en las caderas y los muslos garantiza una apariencia y un estilo relajados.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Talla única, fabricada con nailon 100%.
-- Cierre trasero ajustable, logotipo de Columbia, ventilación para mayor transpirabilidad y un diseño ligero para mayor comodidad y estilo.
-- Omni-Sombra: UPF 50: protege contra los daños cutáneos gracias a la construcción ajustada del tejido y a las fibras modificadas para bloquear los rayos UVA/UVB, para que permanezcas protegido bajo el sol.
 - La gorra Tech Shade II es una gorra ligera y transpirable para exteriores diseñada para ofrecer protección solar y comodidad
 - Contenido: 1x Columbia Gorra Unisex Tech Shade II, Color: City Grey (Gris), Talla: Talla única
+- Omni-Sombra: UPF 50: protege contra los daños cutáneos gracias a la construcción ajustada del tejido y a las fibras modificadas para bloquear los rayos UVA/UVB, para que permanezcas protegido bajo el sol.
+- Cierre trasero ajustable, logotipo de Columbia, ventilación para mayor transpirabilidad y un diseño ligero para mayor comodidad y estilo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D4F9QWHR{{</world>}}

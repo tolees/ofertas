@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puños y dobladillo elásticos.
 - Impermeable
+- Puños y dobladillo elásticos.
 - Dos bolsillos delanteros con cremallera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

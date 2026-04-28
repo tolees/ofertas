@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Detalles distintivos de la marca
 - Adecuados para el verano
 - Con trabillas para el cinturón
+- Detalles distintivos de la marca
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C5YNH2DK{{</world>}}

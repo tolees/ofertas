@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- 100% poliamida (reciclada)
 - Perneras anchas
 - Bolsillo trasero con solapa
 - Corte holgado
-- 100% poliamida (reciclada)
 - Cintura elástica con cierre de cordón elástico
 
 [🛒 Aquí!!!]({{< param buyurl >}})

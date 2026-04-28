@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Accesorio o complemento para tu vehículo
 - Sencillo de usar
+- Accesorio o complemento para tu vehículo
 - Material de calidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

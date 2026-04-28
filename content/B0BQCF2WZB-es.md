@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- __Outseam:__ 21" outseam, long length
 - __Eco-Conscious Fabric:__ 4-way stretch recycled polyester organic cotton elastane polyamide quad blend fabric
-- __Fit:__ Core fit
 - Crossfire internal jacquard waistband
+- __Outseam:__ 21" outseam, long length
+- __Fit:__ Core fit
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BQCF2WZB{{</world>}}

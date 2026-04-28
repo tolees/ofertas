@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Manga corta
-- Cuello redondo
-- Lavar a mano
 - 100% Compuesto
+- Lavar a mano
+- Cuello redondo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B59RZFFN{{</world>}}

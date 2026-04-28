@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Número de modelo: PMA 1641400
 - Cartulina de colores surtidos
+- Número de modelo: PMA 1641400
 - Disponible en paquete de 75 unidades
 - Adecuado para hacer tarjetas, álbumes de recortes, proyectos de manualidades y muchos más
 

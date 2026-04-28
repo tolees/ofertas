@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Color: marrón medio
 - Material exterior: 95 % piel de vacuno, 5 % poliéster reciclado
+- Color: marrón medio
 - Mejor cuero, mejores forros, mejores suelas
-- Suela: 80 % goma vulcanizada y 20 % goma reciclada
 - Forro: 100 % poliéster reciclado
+- Suela: 80 % goma vulcanizada y 20 % goma reciclada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CRBLD1H4{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Plataforma de proyectiles liviana que aumenta la altura
 - Zapatilla alta de lona con plataforma
+- Plataforma de proyectiles liviana que aumenta la altura
 - Plantilla SmartFOAM para comodidad y soporte duraderos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

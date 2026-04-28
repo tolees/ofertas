@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Se monta automáticamente: se requieren 2 personas. Montaje muy sencillo
-- dimensiones 56x110x74 cm
-- Sencillo y práctico
-- Tablas en 16 mm
 - Antes éramos Movian, ahora somos Amazon Basics
+- Sencillo y práctico
+- dimensiones 56x110x74 cm
+- Tablas en 16 mm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07GFRCZWY{{</world>}}

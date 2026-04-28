@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compartimento principal con cremallera
 - Bolsillo externo con cremallera
-- Capacidad: 1,5 l
 - Dimensiones: 12 cm (alt.) x 62 cm (an.) x 6,5 cm (prof.)
+- Capacidad: 1,5 l
+- Compartimento principal con cremallera
 - Correa ajustable para el hombro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

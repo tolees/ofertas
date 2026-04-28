@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 0.5 litro de capacidad, lleva varios sistemas de medida: pintas, litros, cups
 - Tu complemento especial para repostería
+- 0.5 litro de capacidad, lleva varios sistemas de medida: pintas, litros, cups
 - Jarra medidora de vidrio templado, con asa y pico vertedero
 - Apta para frigorífico, congelador, microondas y lavavajillas
 

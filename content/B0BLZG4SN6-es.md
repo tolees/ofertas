@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- TEJIDOS RECICLADOS: Fabricada con un 82% de tejidos reciclados (incluidos todos los tejidos, cinchas, cintas, cremalleras, cordones y mallas) para reducir el impacto negativo en el medio ambiente
-- ¿TU EQUIPO? ¡CONTIGO!: Transforma tu funda en un medio de transporte idóneo para tu cámara. Esta funda versátil guarda tu cámara y accesorios, protegidos y listos para la acción
-- APTA PARA VIAJES: Las fundas de GearUp son idóneas para llevar tu cámara, enseres personales o dispositivos electrónicos de forma cómoda y fiable durante tu viaje
 - ACCESO RÁPIDO: Sistema que facilita el acceso al equipo. Fija tu equipo con la correa de bloqueo. Dimnesiones internas (L16.5cm x W9.5 x H24cm)
+- APTA PARA VIAJES: Las fundas de GearUp son idóneas para llevar tu cámara, enseres personales o dispositivos electrónicos de forma cómoda y fiable durante tu viaje
 - PARA TU CÁMARA: Los separadores se ajustan a una cámara mirrorless de formato completo con un objetivo de zoom estándar incorporado y 2 objetivos adicionales. 2 bolsillos adicionales
+- ¿TU EQUIPO? ¡CONTIGO!: Transforma tu funda en un medio de transporte idóneo para tu cámara. Esta funda versátil guarda tu cámara y accesorios, protegidos y listos para la acción
+- TEJIDOS RECICLADOS: Fabricada con un 82% de tejidos reciclados (incluidos todos los tejidos, cinchas, cintas, cremalleras, cordones y mallas) para reducir el impacto negativo en el medio ambiente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BLZG4SN6{{</world>}}

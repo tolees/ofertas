@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estampado Arty
-- Desigual
 - Cuello: Redondo
-- Fit: Slim
 - Manga: Corta
 - Largo; Midi
+- Desigual
+- Fit: Slim
+- Estampado Arty
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DW9G4FVJ{{</world>}}

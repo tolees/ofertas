@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 100 % algodón
-- Logotipo bordado en el lado izquierdo del pecho
 - Suéter de cuello redondo de alta calidad
+- Logotipo bordado en el lado izquierdo del pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DTJBJM2L{{</world>}}

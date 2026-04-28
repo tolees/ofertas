@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Aspecto elegante
+- Ancho del zapato: Medium
 - País de fabricación: Vietnam
 - Cordones, zapatillas bajas
-- Ancho del zapato: Medium
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07PWXXGW6{{</world>}}

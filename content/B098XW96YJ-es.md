@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca francesa – ScrapCooking es una marca francesa que diseña desde 2005 productos divertidos y al alcance de todos para realizar y embellecer sus pasteles y dulces caseros. Todos nuestros productos están diseñados en Francia, en nuestros talleres de Fondettes (37).
-- Realiza bonitos biscuitos de jabón: un kit que incluye un cortador de árbol y un repujador de árbol para crear galletas, arenados o decoraciones para cualquier ocasión. Recrea la magia de los pasteles hechos a mano con dulces para preparar en familia.
-- Empujador de madera natural – Pasta natural con un maravilloso repujado de madera apto para el contacto con alimentos. Una idea de regalo original y ecológica para hacer bonitas galletas impresas en relieve. Medidas: 8 x 6,9 x 0,2 cm. Lavable y reutilizable.
 - Cortador de acero inoxidable. El kit incluye un cortador de árbol de acero inoxidable para cortar galletas con una forma icónica de galleta. Sorprende y deleita a tus seres queridos con galletas para masticar, tan bonitas como golosas. Medidas: 8,2 x 7,2 x 2,5 cm. Lavable e inoxidable.
 - Una bonita idea de regalo: una idea de regalo original y ecológica para hacer bonitas galletas impresas en relieve.
+- Realiza bonitos biscuitos de jabón: un kit que incluye un cortador de árbol y un repujador de árbol para crear galletas, arenados o decoraciones para cualquier ocasión. Recrea la magia de los pasteles hechos a mano con dulces para preparar en familia.
+- Empujador de madera natural – Pasta natural con un maravilloso repujado de madera apto para el contacto con alimentos. Una idea de regalo original y ecológica para hacer bonitas galletas impresas en relieve. Medidas: 8 x 6,9 x 0,2 cm. Lavable y reutilizable.
+- Marca francesa – ScrapCooking es una marca francesa que diseña desde 2005 productos divertidos y al alcance de todos para realizar y embellecer sus pasteles y dulces caseros. Todos nuestros productos están diseñados en Francia, en nuestros talleres de Fondettes (37).
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B098XW96YJ{{</world>}}

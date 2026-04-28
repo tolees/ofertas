@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste : Ancho
-- Descubre todas las marcas de EMP!
 - Pantalones || Longitud: Normal || altura de la cintura: Talla Mediana
-- Pantalones Cargo con las siguientes características:
 - Festival, Ropa casual
+- Descubre todas las marcas de EMP!
+- Ajuste : Ancho
+- Pantalones Cargo con las siguientes características:
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B006OKMLCK{{</world>}}

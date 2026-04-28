@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Contrafuerte del talón reforzado.
-- Suela acanalada.
 - Punta suave y redondeada.
+- Suela acanalada.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G26QZPYC{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Botella de agua
 - Tapa abatible transparente abierta con solo presionar un botón
 - Boca con tapón a rosca
 - A prueba de derrames
+- Botella de agua
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07MF9H4WP{{</world>}}

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cordones regulables para un ajuste adecuado.
+- Disponible en muchos colores diferentes.
 - El zapato de cordones de corte bajo permite la rotación y la flexibilidad.
 - Si estás entre dos tallas, te recomendamos que elijas la más grande.
-- Disponible en muchos colores diferentes.
 - Se recomienda no lavar el zapato.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

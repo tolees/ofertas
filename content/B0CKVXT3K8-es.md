@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Transpirable
 - Libertad
+- Transpirable
 - Comodidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cremallera en el cuello
 - Lana Polar Symmetry 170g/m²
+- Cremallera en el cuello
 - 1 Lado Cepillado, 1 Lado Anti-Pelusa
 
 [🛒 Comprar!!!]({{< param buyurl >}})

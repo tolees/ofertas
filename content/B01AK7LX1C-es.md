@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este producto es un producto continente. Los productos continentes son luminarias que pueden desmontarse para permitir la verificación independiente de las fuentes luminosas que contienen.
 - Iluminación exterior
-- Tipo de bombilla: LED
-- Este producto es un producto continente. Los productos continentes son luminarias que pueden desmontarse para permitir la verificación independiente de las fuentes luminosas que contienen.
-- Clase de eficiencia energética A+
 - Flujo luminoso: 600 lm
+- Este producto es un producto continente. Los productos continentes son luminarias que pueden desmontarse para permitir la verificación independiente de las fuentes luminosas que contienen.
+- Este producto es un producto continente. Los productos continentes son luminarias que pueden desmontarse para permitir la verificación independiente de las fuentes luminosas que contienen.
+- Tipo de bombilla: LED
+- Clase de eficiencia energética A+
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01AK7LX1C{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Punta de goma asimétrica
-- Suela ondulada a gran escala con texto de la marca
 - Entresuela de EVA
 - Parte superior de gamuza y malla sin respaldo
 - Logotipo N de gran tamaño
+- Suela ondulada a gran escala con texto de la marca
+- Punta de goma asimétrica
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B099TKYWVW{{</world>}}

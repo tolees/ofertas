@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sonido personalizado: usa la aplicación JBL Headphones para seleccionar una ecualización a tu medida, elige el idioma de los mensajes de voz o relájate escuchando uno de los 5 sonidos del modo Relax
-- Tus compañeros de sonido: disfruta de 10 hrs de autonomía con cancelación de ruido desactivada, además ́de otras 3 cargas completas (30 hrs) en el estuche, obtén 3 hrs más con una recarga de 10 min
-- Conexión multipunto: conecta tus Wave Beam 2 de JBL con dos dispositivos Bluetooth y pasa de uno a otro con un simple gesto; equipados con Fast Pair de Google y Swift Pair de Microsoft
-- Cancelación de ruido activa: filtra las distracciones y escucha lo que te rodea con la tecnología Smart Ambient; benefíciate de drivers dinámicos de 8 mm y del emocionante sonido JBL Pure Bass
 - Llamadas nítidas y claras: cada auricular está dotado de 2 micrófonos que captan y transmiten tu voz mientras cancelan el ruido a tu alrededor; resistentes al agua y al polvo, con índice de protección IP54
+- Sonido personalizado: usa la aplicación JBL Headphones para seleccionar una ecualización a tu medida, elige el idioma de los mensajes de voz o relájate escuchando uno de los 5 sonidos del modo Relax
+- Cancelación de ruido activa: filtra las distracciones y escucha lo que te rodea con la tecnología Smart Ambient; benefíciate de drivers dinámicos de 8 mm y del emocionante sonido JBL Pure Bass
+- Conexión multipunto: conecta tus Wave Beam 2 de JBL con dos dispositivos Bluetooth y pasa de uno a otro con un simple gesto; equipados con Fast Pair de Google y Swift Pair de Microsoft
+- Tus compañeros de sonido: disfruta de 10 hrs de autonomía con cancelación de ruido desactivada, además ́de otras 3 cargas completas (30 hrs) en el estuche, obtén 3 hrs más con una recarga de 10 min
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHL911FJ{{</world>}}

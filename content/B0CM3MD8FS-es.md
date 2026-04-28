@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- FABRICACIÓN 100 % A PRUEBA DE FUGAS: Estas bolsas para excremento de perro son extralargas, extrarresistentes y 100 % a prueba de fugas, lo que garantiza que tus manos se mantengan limpias mientras te ocupas de tu mascota; estas bolsas extra anchas miden 34 cm x 17 cm
-- RECOGE CUALQUIER COSA: Nuestras bolsas para excremento con asas de fácil amarre son perfectas para una recogida rápida y evitar los olores; también son útiles para recoger desechos de gato y pañales de bebé
-- UNA BOLSA MEJOR: Hacemos nuestras bolsas para excrementos de perro con 65 % de plástico reciclado certificado post-consumo, dando una segunda vida a más de 2500 toneladas de plástico por añ0 que llegarian a los vertederos
-- EARTH RATED: Nuestra misión es hacer que los momentos cotidianos para las personas y sus perros sean más sencillos y mejores; para esto, diseñamos productos innovadores que te sorprenderán con sus detalles; también estamos orgullosos de ser certificados como una Corporación B (B Corp)
 - BOLSAS PARA EXCREMENTO CON ASAS: Nuestras resistentes bolsas para excremento son esenciales para el paseo con tu mascota; saca una bolsa con asas de la caja y hazte cargo de los desechos de forma rápida y sencilla
+- EARTH RATED: Nuestra misión es hacer que los momentos cotidianos para las personas y sus perros sean más sencillos y mejores; para esto, diseñamos productos innovadores que te sorprenderán con sus detalles; también estamos orgullosos de ser certificados como una Corporación B (B Corp)
+- FABRICACIÓN 100 % A PRUEBA DE FUGAS: Estas bolsas para excremento de perro son extralargas, extrarresistentes y 100 % a prueba de fugas, lo que garantiza que tus manos se mantengan limpias mientras te ocupas de tu mascota; estas bolsas extra anchas miden 34 cm x 17 cm
 - La siguiente información se aplica a cada unidad del paquete
+- UNA BOLSA MEJOR: Hacemos nuestras bolsas para excrementos de perro con 65 % de plástico reciclado certificado post-consumo, dando una segunda vida a más de 2500 toneladas de plástico por añ0 que llegarian a los vertederos
+- RECOGE CUALQUIER COSA: Nuestras bolsas para excremento con asas de fácil amarre son perfectas para una recogida rápida y evitar los olores; también son útiles para recoger desechos de gato y pañales de bebé
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CM3MD8FS{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nuestro perezoso Heywood de GLUBSCHIS tiene un entrañable pelaje marrón y ojos dorados de purpurina. Su toque informal y las pezuñitas en fieltro blanco le dan un aspecto incomparable y lo convierten en uno de los perezosos más geniales de la historia. ¿Quién necesita un tierno amigo? (c) 2020 Carletto, con licenciado por NICI GmbH
 - Nuestros adorables Glubschis esperando a conquistar las habitaciones de los niños. Como siempre, solo los originales Glubschis llevan la estrella de NICI.
+- Nuestro perezoso Heywood de GLUBSCHIS tiene un entrañable pelaje marrón y ojos dorados de purpurina. Su toque informal y las pezuñitas en fieltro blanco le dan un aspecto incomparable y lo convierten en uno de los perezosos más geniales de la historia. ¿Quién necesita un tierno amigo? (c) 2020 Carletto, con licenciado por NICI GmbH
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08C2H1FVJ{{</world>}}

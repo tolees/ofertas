@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cierre de cordón ajustable para el compartimento principal
-- 0
 - Doble cuerda para los hombros
 - 100 % poliéster
+- 0
 - Logotipo del felino de PUMA en la parte inferior derecha
 
 [🛒 Aquí!!!]({{< param buyurl >}})

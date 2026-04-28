@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Composición: 100 % algodón
+- Botones
 - Detalles bordados
 - Ojetes bordados
-- Botones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DKXYYDC7{{</world>}}

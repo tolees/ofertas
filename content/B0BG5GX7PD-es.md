@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cremallera completa
-- Rayas de contraste dentro del cuello acanalado
 - Puños y dobladillo acanalados
 - Corte regular
+- Rayas de contraste dentro del cuello acanalado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BG5GX7PD{{</world>}}

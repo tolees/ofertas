@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Piel sintética
 - Negro/dorado
 - 2/22 Otoño Invierno 2022/23
-- POCHETTE 1R4-DIVINA VALENTINO ÚNICA PARA MUJER ROSA ANTICO MUJER
 - Bandoleras
+- Piel sintética
+- POCHETTE 1R4-DIVINA VALENTINO ÚNICA PARA MUJER ROSA ANTICO MUJER
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B1J59RK8{{</world>}}

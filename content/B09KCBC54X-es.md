@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- MADE IN SPAIN. Producto creado y fabricado en España bajo formulación propia de Valquer. Laboratorio y fabricante certificado según las normas: ISO 9001, ISO 14001, ISO 22716, AENOR I+D+I y certificación HALAL.
 - PACK TRATAMIENTO FACIAL COMPLETO. Incluye: LIFTING FLASH 5 unidades de 2 ml , VITAMINA C 5 unidades de 2 ml y PEELING QUIMICO 5 unidades de 2 ml. Reúne los tres productos esenciales para tratamiento facial, diseñados para ofrecer una rutina completa de cuidado facial para la reconstrucción, protección y revitalización de la piel.
 - VITAMINA C. Con efecto antioxidante y revitalizante, combina de forma óptima la vitamina C, E y ácido hialurónico que ayuda a preservar el aspecto natural de la piel protegiendola de los radicales libres. Además cuenta con activo antiacné que reduce la producción de sebo, el enrojecimiento e inflamación de la piel.
-- PEELING QUÍMICO. Con ácido glicólico y alfahidroxiácidos AHA´S. Actúa como exfoliante y reparador de noche, estimulando la renovación celular de las capas superficiales de la piel aportando suavidad y luminosidad.
+- MADE IN SPAIN. Producto creado y fabricado en España bajo formulación propia de Valquer. Laboratorio y fabricante certificado según las normas: ISO 9001, ISO 14001, ISO 22716, AENOR I+D+I y certificación HALAL.
 - LIFTING FLASH. Efecto lifting inmediato y prolongado, ayuda a atenuar las arrugas y líneas de expresión. Con ácido hialurónico que reduce las arrugas y mejora la elasticidad y la función barrera de la piel.
+- PEELING QUÍMICO. Con ácido glicólico y alfahidroxiácidos AHA´S. Actúa como exfoliante y reparador de noche, estimulando la renovación celular de las capas superficiales de la piel aportando suavidad y luminosidad.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09KCBC54X{{</world>}}

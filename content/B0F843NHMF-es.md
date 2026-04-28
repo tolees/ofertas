@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Material principal: Tricot
 - Cuello: cuello alto
 - Manga larga
-- Material principal: Tricot
-- Cierre: Con cremallera
 - Corte: estándar
+- Cierre: Con cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F843NHMF{{</world>}}

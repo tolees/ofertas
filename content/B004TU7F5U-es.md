@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- con cubierta de estructura de alta calidad
-- con el corte en el frente para un foto
-- páginas de cartón libre de ácido
-- con 40 páginas negras
-- álbum de caracol de fotos de gran valor
 - disponible en nueve colores
+- con el corte en el frente para un foto
+- con cubierta de estructura de alta calidad
+- álbum de caracol de fotos de gran valor
+- con 40 páginas negras
+- páginas de cartón libre de ácido
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B004TU7F5U{{</world>}}

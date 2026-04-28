@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Zapatillas bajas
 - Máxima transpirabilidad del pie.
+- Zapatillas bajas
 - punta redondeada
 
 [🛒 Visítala!!!]({{< param buyurl >}})

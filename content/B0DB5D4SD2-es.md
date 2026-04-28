@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - SEGURIDAD DURADERA Y FIABLE: diseño resistente con protección contra sobrecalentamiento, cortocircuito, sobretensión y sobrecorriente; cumple con las normas de seguridad UL 2089, CE, FCC y RoHS, etc.
 - Cargador de coche, doble puerto: adaptador de cargador de coche de dos puertos USB-A y USB-C de 32W de carga rápida. El puerto USB-C ofrece una carga máxima de 20W, mientras que el puerto USB-A ofrece hasta 12W, por lo que puedes cargar 2 dispositivos simultáneamente.
-- COMPATIBILIDAD: teléfonos, tablets, incluidos iPhone, Samsung, iPad/iPad Pro, MacBook Air y más
 - DIMENSIONES: 2,8cm x 2,8cm x 7,5cm (largo x ancho x alto) NOTA: Úsalo con un cable (CABLE NO INCLUIDO)
+- COMPATIBILIDAD: teléfonos, tablets, incluidos iPhone, Samsung, iPad/iPad Pro, MacBook Air y más
 - TAMAÑO COMPACTO: pequeño y ligero con indicador led blanco
 
 [🛒 Visítala!!!]({{< param buyurl >}})

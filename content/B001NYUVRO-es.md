@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ✨ CUIDADO DE LA PIEL: El aceite esencial de lavanda verdadera puede utilizarse en cuidado de la piel para ayudar a reparar y calmar la piel sensible.
+- 🌱 PRANARÔM, LA CIENCIA DE LOS ACEITES ESENCIALES: Pranarôm combina su experiencia científica y su conocimiento de las plantas para ofrecer soluciones naturales basadas en aceites esenciales quimiotipados.
 - 🌿 LA LAVANDA VERDADERA BIO: El aceite esencial de Lavanda verdadera es un imprescindible de la aromaterapia, conocido por su aroma floral y sus propiedades relajantes.
 - 😌 ACEITE ESENCIAL RELAJANTE: Tradicionalmente utilizado para favorecer la relajación antes de dormir o en periodos de estrés pasajero, ayudando a crear una sensación de calma.
-- 🌱 PRANARÔM, LA CIENCIA DE LOS ACEITES ESENCIALES: Pranarôm combina su experiencia científica y su conocimiento de las plantas para ofrecer soluciones naturales basadas en aceites esenciales quimiotipados.
+- ✨ CUIDADO DE LA PIEL: El aceite esencial de lavanda verdadera puede utilizarse en cuidado de la piel para ayudar a reparar y calmar la piel sensible.
 - 🔬 ACEITE ESENCIAL HECT: El sello HECT garantiza una selección rigurosa de plantas botánicamente certificadas y un aceite esencial 100% puro e integral.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

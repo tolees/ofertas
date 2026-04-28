@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con certificación FSC, que garantiza que ha sido fabricado con papel proveniente de bosques gestionados de forma responsable
-- Planificador semanal apaisado, con encuadernación en espiral
 - En la portada, encontramos un diseño y un mensaje de Quino, con Mafalda como protagonista
+- Con certificación FSC, que garantiza que ha sido fabricado con papel proveniente de bosques gestionados de forma responsable
 - Consta de 192 páginas con 8 diseños distintos y, además, incluye 4 hojas de pegatinas con toda la pandilla
+- Planificador semanal apaisado, con encuadernación en espiral
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DW6JPQQD{{</world>}}

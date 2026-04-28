@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- logotipo de Nike
 - Pantalones deportivos
 - Amplia libertad de movimiento
+- logotipo de Nike
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C5X6B7CN{{</world>}}

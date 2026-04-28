@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta deportiva
 - Manga corta
+- Camiseta deportiva
 - camiseta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

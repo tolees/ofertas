@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estilo básico de tenis vulcanizado de corte bajo
-- Cuello y talón de color de contraste
 - Zapatos/zapatillas deportivas
+- Cuello y talón de color de contraste
+- Estilo básico de tenis vulcanizado de corte bajo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CSPGN9Y8{{</world>}}

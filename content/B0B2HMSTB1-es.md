@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene una capacidad de 2,5 litros y su diseño es apto para adaptarse a las puertas de los frigoríficos. Además, su asa es ergonómica para servir fácilmente el agua.
 - La jarra filtradora de agua HJAR1001 te permite disfrutar de un agua de mejor calidad y con más sabor y pureza ya que logra reducir el cloro hasta un 80%, la cal hasta un 95% y los residuos de cobre hasta un 50%.
-- La jarra de agua viene con 6 cartuchos iónicos exclusivos que te permiten ahorrar dinero y, además, proteges el medio ambiente ya que estás evitando el deshecho de 720 botellas de plástico.
 - En su tapa lleva un indicador manual para que sepas cuándo es aconsejable cambiar el filtro, ya que cada cartucho tiene una duración aproximada de 30-46 díaws ó de 150-180 litros de filtrado
+- La jarra de agua viene con 6 cartuchos iónicos exclusivos que te permiten ahorrar dinero y, además, proteges el medio ambiente ya que estás evitando el deshecho de 720 botellas de plástico.
+- Tiene una capacidad de 2,5 litros y su diseño es apto para adaptarse a las puertas de los frigoríficos. Además, su asa es ergonómica para servir fácilmente el agua.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B2HMSTB1{{</world>}}

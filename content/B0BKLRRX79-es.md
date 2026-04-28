@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- LIFA ACTIVO
-- construcción de 2 capas
-- producto bluesign
-- Materiales reciclados en el océano
 - Excelentes propiedades de gestión de la humedad.
+- LIFA ACTIVO
+- Materiales reciclados en el océano
+- producto bluesign
+- construcción de 2 capas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BKLRRX79{{</world>}}

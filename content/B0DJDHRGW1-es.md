@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene detalles distintivos de la marca "Puma"
 - Vida al aire libre
+- Tiene detalles distintivos de la marca "Puma"
 - Bolsa de lona
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

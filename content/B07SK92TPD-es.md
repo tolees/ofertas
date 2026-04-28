@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Vuela por el tiempo y protege la historia de Dragon Ball!
 - Te esperan batallas frenéticas, 60 FPS y unos alucinantes gráficos en alta definición
+- Vuela por el tiempo y protege la historia de Dragon Ball!
 - Revive momentos emblemáticos de Dragon Ball
 
 [🛒 Visítala!!!]({{< param buyurl >}})

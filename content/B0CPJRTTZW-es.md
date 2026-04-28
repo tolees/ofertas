@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nuestro planeta importa: reciclado
-- Ajuste relajado
 - Lavable a máquina
 - Espuma viscoelástica refrigerada por aire
+- Nuestro planeta importa: reciclado
+- Ajuste relajado
 - Vegano
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

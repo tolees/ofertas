@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- G-Star Etiqueta RAW trasera, fabricada con material de papel similar a la piel
 - Diseño de 5 bolsillos
+- G-Star Etiqueta RAW trasera, fabricada con material de papel similar a la piel
 - Un ajuste cómodo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

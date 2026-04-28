@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Especial para vitrocerámica e inducción y apto para todo tipo de cocinas
 - Diametro: 14 cms
 - Fabricado en Aluminio y mango de baquelita
 - Diámetro inducción max. recomendado : 14,5 cm
-- Especial para vitrocerámica e inducción y apto para todo tipo de cocinas
 - Libre de PFOA y baja en emisiones de Co2
 - 2 capas de antiadherente de calidad
 

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Protector de viento ligero y resistente al agua
 - Bolsillos laterales con cremallera, bolsillo interior
+- Protector de viento ligero y resistente al agua
 - Chaqueta Shell, con superficie mate y cremallera completa
 
 [🛒 Visítala!!!]({{< param buyurl >}})

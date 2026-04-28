@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Plantilla moldeada
 - Puntera reforzada
 - Tobillo y lengüeta acolchados
+- Plantilla moldeada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CQRQ4F2V{{</world>}}

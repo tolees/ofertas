@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- SISTEMA MIX ´N RACE: Descubre los únicos vehículos coleccionables que ofrecen una jugabilidad única: el sistema Mix ‘N Race; elige las partes del coche y cambia las ruedas para crear el vehículo más increíble, y hacerlo correr a toda velocidad; no compatibles con T-Racers Turbo Tuning Teams
 - MILES DE COMBINACIONES POSIBLES: Personaliza tu vehículo como quieras: del diseño más urbano y cool al más fantasioso y atrevido, los T-Races pueden ser como tú quieras; Estás listo para el Mix ‘N Race
-- DESCUBRE T-RACERS MIX´N RACE: Los T-Racers Mix ´N Race han llegado; mix: intercambia las partes y las ruedas de los T-Racers para crear tus propios diseños; race: hechos para la velocidad, listos para correr
 - CORRE A TODA velocidad: Horas de diversión para niños montando su propio vehículo, combinando piezas y haciendo carreras; qué T-Racer será el más rápido, el más potente o el más atrevido
+- DESCUBRE T-RACERS MIX´N RACE: Los T-Racers Mix ´N Race han llegado; mix: intercambia las partes y las ruedas de los T-Racers para crear tus propios diseños; race: hechos para la velocidad, listos para correr
+- SISTEMA MIX ´N RACE: Descubre los únicos vehículos coleccionables que ofrecen una jugabilidad única: el sistema Mix ‘N Race; elige las partes del coche y cambia las ruedas para crear el vehículo más increíble, y hacerlo correr a toda velocidad; no compatibles con T-Racers Turbo Tuning Teams
 - MUCHOS COCHES PARA COLECCIONAR: Amplía o empieza tu colección con este pack de 3 T-Racers Mix ´N Race; opción de escoger el pack de 3 específico que se desees; este pack incluye Los T-Racers Nitrocab, Titan Flash y Rallygator
 
 [🛒 Aquí!!!]({{< param buyurl >}})

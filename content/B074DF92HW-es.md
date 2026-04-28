@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Apto para horno hasta 260 ºC; apto para todas las superficies de cocción; solo lavar a mano (no apto para lavavajillas)
-- 6,62 l (capacidad L) Horno holandés de hierro fundido pretratado para cocinar, hervir, hornear, estofar, asar y más
 - Fabricado en hierro fundido resistente para una óptima retención y reparto del calor
+- Apto para horno hasta 260 ºC; apto para todas las superficies de cocción; solo lavar a mano (no apto para lavavajillas)
 - 2 asas laterales de bucle para una sujeción firme y segura al levantar o transportar, incluso cuando se usan manoplas para horno
+- 6,62 l (capacidad L) Horno holandés de hierro fundido pretratado para cocinar, hervir, hornear, estofar, asar y más
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B074DF92HW{{</world>}}

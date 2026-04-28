@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Marca: Skechers
-- Tipo de producto: ZAPATOS
 - Parte superior de Durabuck con acabado metálico. Zapatillas de moda con cordones elásticos. Entresuela de cuña amortiguadora. La suela flexible ofrece tracción Altura del tacón: 1,5 Logo Skechers Plantilla cómoda de espuma viscoelástica refrigerada por aire Skechers Cierre adaptativo Skechers para un ajuste cómodo y personalizado
+- Tipo de producto: ZAPATOS
+- Marca: Skechers
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CNY6XKW4{{</world>}}

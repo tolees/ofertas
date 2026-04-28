@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Forma de memoria
 - Lavable a
 - Suela de goma flexible
+- Forma de memoria
 - Plantilla de espuma viscoelástica refrigerada por aire
 
 [🛒 Visítala!!!]({{< param buyurl >}})

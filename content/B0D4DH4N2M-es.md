@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre adaptable
 - Tenis iluminados con correa y suela técnica
+- Cierre adaptable
 - Luces con botón de encendido/apagado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

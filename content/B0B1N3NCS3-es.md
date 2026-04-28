@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Parte superior de ante
 - REEBOK REEBOK GLIDE RIPPLE VECNAV/FTWWHT/VECNAV 44 MENS
 - Sensación suave
-- Parte superior de ante
 - Sensación suave
 
 [🛒 Aquí!!!]({{< param buyurl >}})

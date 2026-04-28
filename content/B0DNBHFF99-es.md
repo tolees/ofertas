@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estampado de adidas engomado multicolor en el pecho
-- Primegreen
 - Corte clásico
-- Cuello redondo
+- Primegreen
 - 100% algodón
+- Cuello redondo
+- Estampado de adidas engomado multicolor en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DNBHFF99{{</world>}}

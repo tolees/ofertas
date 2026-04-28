@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hecho de napa y gamuza
 - Parte superior gris pardo claro
+- Hecho de napa y gamuza
 - Cierre de cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})

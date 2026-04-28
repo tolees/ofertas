@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Push up
 - Helankas Light Green
+- Push up
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D6RXD5X7{{</world>}}

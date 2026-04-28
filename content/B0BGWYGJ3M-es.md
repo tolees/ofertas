@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Camisetas de running para hombre
 - Fabricada en material cómodo
 - Ofrece libertad de movimiento
-- Camisetas de running para hombre
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BGWYGJ3M{{</world>}}

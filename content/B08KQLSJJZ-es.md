@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Brazalete con dije de aro
-- Adorno con textura brillante
 - Longitud: 19 cm de extensión máxima y 17,5 cm de extensión mínima
+- Brazalete con dije de aro
 - Cierre: mosquetón
 - Material: Acero inoxidable pulido
+- Adorno con textura brillante
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08KQLSJJZ{{</world>}}

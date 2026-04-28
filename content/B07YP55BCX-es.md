@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Impermeabilidad IPX7
 - Pantalla LCD MONOCROMO de 2. 3
-- Gps electrónica de alta sensibilidad
+- Impermeabilidad IPX7
 - Conectividad sí
+- Gps electrónica de alta sensibilidad
 - Duración batería 35 horas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Coloca a mamá en la cama de hospital y cierra las cortinas. ¡Ábrelas y descubre un bebé! Hay tres cachorros de retriever para descubrir.
-- ¡Lava a todos los bebés en la bañera y descubre sus bonitas marcas de nacimiento!
 - Empieza una familia y amplíala con el pack Adopción de las Familias sorpresa de mamá para completar la camada de cachorros de retriever.
 - Hay más de 80 mamás y cachorros para coleccionar en la serie 1. ¡Descubre un mundo nuevo con los packs Adopción y La casa de mamá de las Familias sorpresa de mamá de Little Live Pets!
-- Cuida de mamá limpiándole las mejillas con agua y, cuando se le pongan sonrosadas, estará lista para tener a sus bebés.
+- Coloca a mamá en la cama de hospital y cierra las cortinas. ¡Ábrelas y descubre un bebé! Hay tres cachorros de retriever para descubrir.
+- ¡Lava a todos los bebés en la bañera y descubre sus bonitas marcas de nacimiento!
 - La Clínica para bebés de doble cara incluye cinco accesorios y diferentes zonas para bañarse, jugar y comer, así como un ascensor que sube y baja.
+- Cuida de mamá limpiándole las mejillas con agua y, cuando se le pongan sonrosadas, estará lista para tener a sus bebés.
 - ¡Mamá tiene tres bebés como por arte de magia! Ayuda a mamá a prepararse haciéndole una radiografía con la máquina (¡escanea de verdad!).
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Hebilla
 - Instrucciones de cuidado: no lavable
-- Ancho de la correa: 40 mm
-- Cierre: hebilla
 - 100% cuero bovino
+- Cierre: hebilla
+- Ancho de la correa: 40 mm
 - Fabricado en Italia
 
 [🛒 Visítala!!!]({{< param buyurl >}})

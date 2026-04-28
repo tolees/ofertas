@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Almacenamiento de 256GB SSD M.2 2242 PCIe 4.0x4 NVMe Opal 2.0
-- W11 Pro
-- Pantalla de 16" WUXGA (1920x1200) IPS 300nits Anti-glare, 45% NTSC
-- Procesador Intel i5-1335U, 10C (2P + 8E) / 12T, P-core 1.3 / 4.6GHz, E-core 0.9 / 3.4GHz, 12MB
 - Memoria RAM 8GB Soldered DDR4-3200
+- Procesador Intel i5-1335U, 10C (2P + 8E) / 12T, P-core 1.3 / 4.6GHz, E-core 0.9 / 3.4GHz, 12MB
+- Almacenamiento de 256GB SSD M.2 2242 PCIe 4.0x4 NVMe Opal 2.0
+- Pantalla de 16" WUXGA (1920x1200) IPS 300nits Anti-glare, 45% NTSC
 - Tarjeta gráfica Integrated Intel Iris Xe Graphics Functions as UHD Graphics
+- W11 Pro
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CM68CYZ3{{</world>}}

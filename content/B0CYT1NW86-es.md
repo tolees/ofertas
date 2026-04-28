@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño sin cordones para transiciones rápidas en la carrera
-- Ideal para triatlón y entrenamiento en carretera
 - Parte superior de malla técnica actualizada para mayor comodidad y transpirabilidad.
 - Suela duradera con excelente tracción.
+- Diseño sin cordones para transiciones rápidas en la carrera
+- Ideal para triatlón y entrenamiento en carretera
 - Amortiguación FF BLAST+ Eco más ligera y reactiva
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

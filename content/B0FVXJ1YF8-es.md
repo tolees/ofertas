@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Los jugadores pueden cambiar entre dos modos de juego
-- Sumérgete en la ciudad de Midgar como nunca antes, con texturas, iluminación y entornos de fondo mejorados
 - Los jugadores pueden disfrutar de batallas inmersivas utilizando el mando DualSense de PlayStation 5 con su retroalimentación háptica
+- Sumérgete en la ciudad de Midgar como nunca antes, con texturas, iluminación y entornos de fondo mejorados
+- Los jugadores pueden cambiar entre dos modos de juego
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FVXJ1YF8{{</world>}}

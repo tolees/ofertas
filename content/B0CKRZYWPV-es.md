@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela Adiwear
-- Drop: 10 mm (talón: 34 mm / antepié: 24 mm)
-- Plantilla OrthoLite
-- Empeine de malla
+- Corte clásico
 - Mediasuela con amortiguación Bounce 2.0 y Cloudfoam
 - Cierre de cordones
-- Drop de la mediasuela: 10 mm (talón: 34 mm, antepié: 24 mm)
-- Peso: 275 g (talla 38 1/2)
 - Forro textil
-- Corte clásico
+- Suela Adiwear
+- Empeine de malla
+- Drop: 10 mm (talón: 34 mm / antepié: 24 mm)
+- Drop de la mediasuela: 10 mm (talón: 34 mm, antepié: 24 mm)
+- Plantilla OrthoLite
+- Peso: 275 g (talla 38 1/2)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKRZYWPV{{</world>}}

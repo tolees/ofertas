@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - AJUSTE PERFECTO: Los tops de tirantes atemporales con escote redondo tienen un diseño moderno y un corte que acentúa tu figura.
 - MODA URBANA REINTERPRETADA: Para acercar las populares prendas de los 90 a las nuevas generaciones, Tommy Jeans se inspira en los iconos del hip-hop de aquella época. Apostando por prendas de alta calidad y diseños modernos con mucho denim.
 - MATERIAL DE ALTA CALIDAD: Top clásico confeccionado con 51 % algodón orgánico, 44 % algodón sostenible y 5 % elastano.
-- SENCILLO E INFORMAL: Las camisetas básicas con tirantes ajustables son perfectas para tus looks informales. La bandera de Tommy Jeans en la parte delantera completa el estilo de la prenda.
 - PARA CUALQUIER OCASIÓN: Estas prendas minimalistas sientan superbién y son muy cómodas. Ya sea con vaqueros, shorts o pantalones elegantes, combinan a la perfección con cualquier look todos los días.
+- SENCILLO E INFORMAL: Las camisetas básicas con tirantes ajustables son perfectas para tus looks informales. La bandera de Tommy Jeans en la parte delantera completa el estilo de la prenda.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D7HSB3RH{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material exterior: Textil
 - Material de la suela: Poliuretano
+- Material exterior: Textil
 - Revestimiento: Sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})

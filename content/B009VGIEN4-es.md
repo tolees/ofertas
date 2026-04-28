@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Resistencia a la temperatura: hasta +70º
 - Tiempo de manipulación: 10-15 minutos
 - Resistencia a los golpes
-- Tiempo de manipulación: 10-15 minutos
-- Color: transparente
 - Resistencia a la temperatura: hasta +70º C
 - Resistencia a los golpes
-- Transparente
 - Resistencia al agua
+- Tiempo de manipulación: 10-15 minutos
+- Transparente
+- Color: transparente
+- Resistencia a la temperatura: hasta +70º
 - Resistencia al agua
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Detalles distintivos de la marca
 - Logotipo de Nike en la parte delantera
 - Tela suave
+- Detalles distintivos de la marca
 - Ajuste regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})

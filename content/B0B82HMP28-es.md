@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material principal Textil
-- Tipo de cierre Cordones
-- Tipo de tacón Plano
-- Material de la suela EVA
 - Altura Tacón Bajo (de 1 A 3 cm)
+- Tipo de tacón Plano
+- Tipo de cierre Cordones
+- Material principal Textil
+- Material de la suela EVA
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B82HMP28{{</world>}}

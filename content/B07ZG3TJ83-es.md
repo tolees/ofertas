@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 🔬 ACEITE ESENCIAL HECT Y BIO: El sello HECT garantiza una selección rigurosa de plantas botánicamente certificadas y un aceite esencial 100% puro e integral.
-- ✨ CUIDADO DE LA PIEL: El aceite esencial de lavanda verdadera puede utilizarse para ayudar a reparar y calmar la piel sensible.
-- 🌱 PRANARÔM, LA CIENCIA DE LOS ACEITES ESENCIALES: Pranarôm combina su experiencia científica y su conocimiento de las plantas para ofrecer soluciones naturales basadas en aceites esenciales quimiotipados.
 - 🌿 LAVANDA VERDADERA BIO: El aceite esencial de Lavanda verdadera BIO es un imprescindible de la aromaterapia, conocido por su aroma floral y sus propiedades relajantes.
+- 🔬 ACEITE ESENCIAL HECT Y BIO: El sello HECT garantiza una selección rigurosa de plantas botánicamente certificadas y un aceite esencial 100% puro e integral.
+- 🌱 PRANARÔM, LA CIENCIA DE LOS ACEITES ESENCIALES: Pranarôm combina su experiencia científica y su conocimiento de las plantas para ofrecer soluciones naturales basadas en aceites esenciales quimiotipados.
+- ✨ CUIDADO DE LA PIEL: El aceite esencial de lavanda verdadera puede utilizarse para ayudar a reparar y calmar la piel sensible.
 - 😌 ACEITE ESENCIAL RELAJANTE: Tradicionalmente utilizado para favorecer la relajación antes de dormir o durante periodos de estrés pasajero.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

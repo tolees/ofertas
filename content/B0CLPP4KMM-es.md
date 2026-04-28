@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sombrero de secado rápido, Cobertura tanto para la cabeza como para el cuello
-- Cordón ajustable en la parte posterior para lograr un ajuste óptimo
 - Una cobertura de cuello única y extensa para los días largos bajo el sol
 - Confección de nailon con banda de sudoración transpirable Omni-Wick
+- Cordón ajustable en la parte posterior para lograr un ajuste óptimo
+- Sombrero de secado rápido, Cobertura tanto para la cabeza como para el cuello
 - Contenido: 1x Columbia Sombrero Unisex, Bora Bora Booney, Color: Gris (Grill), Talla: T/U, Art.: 1447091
 
 [🛒 Comprar!!!]({{< param buyurl >}})

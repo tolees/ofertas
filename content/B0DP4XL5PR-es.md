@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Disfrútalas ahora o más tarde, gracias a la práctica lata que se puede volver a cerrar
-- El aperitivo optimo para disfrutar solo o acompañado
-- La siguiente información se aplica a cada unidad del paquete
 - Pringles Spicy BBQ, el siguiente nivel de picante de la nuevas Pringles Flame, no te dejará indiferente
+- La siguiente información se aplica a cada unidad del paquete
+- El aperitivo optimo para disfrutar solo o acompañado
+- Disfrútalas ahora o más tarde, gracias a la práctica lata que se puede volver a cerrar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DP4XL5PR{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PRÁCTICO: Su formato de libro permite guardar dentro todos los imanes y ponerlo fácilmente en un mueble del cuarto infantil o en la biblioteca. Es fácil de transportar y se puede utilizar para jugar en cualquier sitio en solitario o en compañía.
-- LIBRO MAGNÉTICO: Con este juego de Janod en forma de libro, el niño puede recomponer las 16 figuras de deportistas posicionando las piezas magnéticas según las tarjetas de modelo o imaginarse mezclas locas y divertidas.
-- EL PODER DEL JUEGO: Con unas colecciones atrevidas e innovadoras, Janod acompaña a los niños en una gran aventura: ¡crecer! Unos bonitos juguetes estudiados al detalle para aprender divirtiéndose, explorar el mundo, soñar y compartir.
-- CARACTERÍSTICAS: Estuche con 16 cartas de deportes y 48 imanes. Juego inclusivo con deporte adaptado para discapacitados. Caja de cartón rígido grueso con certificado FSC. Dimensiones: 19 x 4 x 26 cm (L x P x A). Recomendado para niños de 3 a 8 años.
 - JUGUETE EDUCATIVO A PARTIR DE 3 AÑOS: El Magnétibook estimula la capacidad de observación, la destreza y la precisión del niño mientras descubre los 16 deportes que puede reproducir. Amplía su vocabulario con palabras nuevas del mundo del deporte.
+- PRÁCTICO: Su formato de libro permite guardar dentro todos los imanes y ponerlo fácilmente en un mueble del cuarto infantil o en la biblioteca. Es fácil de transportar y se puede utilizar para jugar en cualquier sitio en solitario o en compañía.
+- EL PODER DEL JUEGO: Con unas colecciones atrevidas e innovadoras, Janod acompaña a los niños en una gran aventura: ¡crecer! Unos bonitos juguetes estudiados al detalle para aprender divirtiéndose, explorar el mundo, soñar y compartir.
+- LIBRO MAGNÉTICO: Con este juego de Janod en forma de libro, el niño puede recomponer las 16 figuras de deportistas posicionando las piezas magnéticas según las tarjetas de modelo o imaginarse mezclas locas y divertidas.
+- CARACTERÍSTICAS: Estuche con 16 cartas de deportes y 48 imanes. Juego inclusivo con deporte adaptado para discapacitados. Caja de cartón rígido grueso con certificado FSC. Dimensiones: 19 x 4 x 26 cm (L x P x A). Recomendado para niños de 3 a 8 años.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQCN46Z5{{</world>}}

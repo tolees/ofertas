@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Plantilla textil
+- Horma clásica
 - Suela de goma
 - Empeine de ante y material sintético
-- Horma clásica
+- Plantilla textil
 - Cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})

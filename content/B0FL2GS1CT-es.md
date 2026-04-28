@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nuevos horizontes - Survival Kids, exclusivo para Nintendo Switch 2, aprovecha al máximo las destacadas funciones de comunicación y juego compartido de la consola para mejorar la experiencia y aumentar la diversión multijugador
 - ¡Supervivencia simplificada! - Gracias a un sistema de fabricación intuitivo y sin gestión de inventario, no hacen falta complicados menús para gestionar cientos de objetos. Tú hazte con los materiales necesarios y empieza a fabricar. ¡Así de sencillo
 - Una isla paradisíaca - Los paisajes de la isla cobran vida mediante gráficos al estilo de los dibujos animados, una divertida banda sonora y efectos de sonido inmersivos. Gracias a una mecánica de juego sencilla y a una interfaz de usuario intuitiva, esta es una experiencia que cautivará a jugadores de todas las edades
 - ¡Juntos es mejor! - La fabricación, la exploración y las herramientas están diseñadas para funcionar mejor jugando con otros. Puede que optes por talar un árbol sin ayuda, pero te costará la mitad de esfuerzo si lo haces junto a un amigo. Ya juegues con amigos o familiares en el sofá de casa o en línea, como más se disfruta Survival Kids es en compañía
+- Nuevos horizontes - Survival Kids, exclusivo para Nintendo Switch 2, aprovecha al máximo las destacadas funciones de comunicación y juego compartido de la consola para mejorar la experiencia y aumentar la diversión multijugador
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FL2GS1CT{{</world>}}

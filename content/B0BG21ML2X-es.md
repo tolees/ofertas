@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- serum
 - Serum con colágeno para devolver a la piel su suavidad e hidratación natural.
+- serum
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BG21ML2X{{</world>}}

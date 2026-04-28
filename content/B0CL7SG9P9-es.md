@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Regular Fit
 - Long Sleeves
 - materialFabricComposition: Outer: 100% Polyester; Padding: 100% Polyester; Lining: 100% Polyester
-- Regular Fit
 - Care Label:
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Desigual
-- Fit: Regular
-- Estampado Arty
-- Largo: Largo
 - Manga: Larga
+- Fit: Regular
+- Largo: Largo
 - Capucha extraíble
+- Desigual
+- Estampado Arty
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DWB9QVPP{{</world>}}

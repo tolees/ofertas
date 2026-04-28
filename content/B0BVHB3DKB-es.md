@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Color: Rutenio negro y oscuro
 - Forma: NAVEGADOR
 - Material: Metal
-- Color de lente: Gris
 - Talla: 63
-- Color: Rutenio negro y oscuro
+- Color de lente: Gris
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BVHB3DKB{{</world>}}

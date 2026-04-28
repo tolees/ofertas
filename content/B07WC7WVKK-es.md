@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Nike Dry fabric
-- Regular fit
 - Tipo de fábrica: 100% Poliéster
+- Regular fit
 - Elastic Waistband with lanyard
 
 [🛒 Visítala!!!]({{< param buyurl >}})

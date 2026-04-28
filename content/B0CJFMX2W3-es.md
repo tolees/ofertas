@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - RESTRICCIONES Y USOS NO RECOMENDADOS – No apto para inmersión prolongada, acuarios, vidrios estructurales ni contacto con alimentos. No utilizar en espacios sin ventilación, ya que requiere humedad para su curado.
-- COMPATIBILIDAD CON DIVERSOS MATERIALES – Adhiere sobre hormigón, ladrillo, yeso, cartón-yeso, metales y mampostería sin necesidad de imprimación en la mayoría de los casos. Resistente a la radiación UV y libre de disolventes.
 - SELLADOR ADHESIVO DE ALTA ELASTICIDAD – Adhesivo-sellador monocomponente a base de polímero MS, que cura con la humedad y ofrece una unión flexible y duradera. Ideal para sellar y pegar en construcción y automoción. Alternativa a la silicona antimoho. Fácil de usar y flexible.
 - APLICACIONES VERSÁTILES Y RESISTENTES – Ideal para pegar rodapiés, paneles, terracota, metales y madera. Sella juntas de dilatación en terrazas, techos y balcones, garantizando una alta resistencia en interiores y exteriores.
+- COMPATIBILIDAD CON DIVERSOS MATERIALES – Adhiere sobre hormigón, ladrillo, yeso, cartón-yeso, metales y mampostería sin necesidad de imprimación en la mayoría de los casos. Resistente a la radiación UV y libre de disolventes.
 - PINTABLE Y FÁCIL DE APLICAR – Se aplica con pistola de extrusión y se alisa con espátula para un acabado profesional. Pintable tras curado, excepto con pinturas alquídicas. Disponible en cartuchos de 290ml en color blanco.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

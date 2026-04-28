@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Suela de goma cosida
 - Forro textil
 - Cierre de cordones
 - Horma clásica
-- Suela de goma cosida
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09VT1HM18{{</world>}}

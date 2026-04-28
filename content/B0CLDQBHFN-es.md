@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Composición: 61% poliéster, 39% algodón
 - Manga larga
+- Composición: 61% poliéster, 39% algodón
 - Chaqueta con capucha
 - Corte holgado
 

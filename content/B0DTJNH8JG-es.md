@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cómoda entresuela de EVA bicolor, suela de goma personalizada, estabilizador y ojal personalizados, isotipo lateral icónico con purpurina impresa, pieza de talón con estampado animal de piel de hary, pieza de talón con purpurina y logotipo clásico lateral
 - 55 % poliamida, 40 % piel de ante de vaca, 5 % pelo de pony
+- Cómoda entresuela de EVA bicolor, suela de goma personalizada, estabilizador y ojal personalizados, isotipo lateral icónico con purpurina impresa, pieza de talón con estampado animal de piel de hary, pieza de talón con purpurina y logotipo clásico lateral
 - Brit Glitter W - Tenis retro para correr con combinaciones de materiales y colores, plantilla extraíble y termoformada
 
 [🛒 Aquí!!!]({{< param buyurl >}})

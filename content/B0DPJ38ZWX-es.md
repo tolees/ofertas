@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Dar volumen, brillante
 - Péptidos nutritivos e hidratantes
-- Textura brillante con una ligera pigmentación
 - Acabado ultrabrillante
+- Textura brillante con una ligera pigmentación
 - Nos oponemos a los experimentos con animales; cosnova aparece internacionalmente con essence y CATRICE tanto en PETA Alemania como en PETA
 
 [🛒 Aquí!!!]({{< param buyurl >}})

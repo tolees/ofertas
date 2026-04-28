@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Horma ancha
 - Compra una talla más grande
 - Parte superior textil
-- Refuerzo de TPU en el mediopié
-- Cierre de cordones
 - Mediasuela de EVA de doble densidad
+- Horma ancha
+- Cierre de cordones
+- Refuerzo de TPU en el mediopié
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKXSDNRL{{</world>}}

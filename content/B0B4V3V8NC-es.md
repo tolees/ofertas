@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello acanalado
-- Dobladillo/borde acolchado
-- Dobladillo recto
 - Cinta para el cuello
 - Mango suave
+- Cuello acanalado
+- Dobladillo recto
+- Dobladillo/borde acolchado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B4V3V8NC{{</world>}}

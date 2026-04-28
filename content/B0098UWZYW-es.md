@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material: plástico
-- Con múltiples salidas de vapor
-- Color: transparente
 - Medidas Ø 26 x 6.5 cm
+- Con múltiples salidas de vapor
+- Material: plástico
+- Color: transparente
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0098UWZYW{{</world>}}

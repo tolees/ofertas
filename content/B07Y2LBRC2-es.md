@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Medidas Cartera: 8x11 cm. Medidas Caja: 9x12x3 cm. Material: Cuero Piel Genuina.
 - Cartera Tarjetero Hombre. Cartera Hombre con Monedero. Cartera para Hombre Joven con equilibrio entre tamaño y funcionalidad. Cartera Hombre Pequeña de la firma Lois de piel genuina. Carteras de Hombre Actual. Cartera Piel Hombre
 - Cartera Hombre con Monedero - Carteras Hombre equipadas con Tecnología de Bloqueo RFID, que protege las tarjetas de escaneos involuntarios.
 - Monedero Hombre Piel. Cartera de Hombre. Cartera Delgada de Piel de calidad superior. Monedero Hombre Pequeño. Billeteras para Hombre.
-- Medidas Cartera: 8x11 cm. Medidas Caja: 9x12x3 cm. Material: Cuero Piel Genuina.
 - Cartera de moda. Cartera Lois Hombre. Carteras para Hombre Pequeñas - Billetera Hombre de la colección KEEL Ideal para uso diario.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

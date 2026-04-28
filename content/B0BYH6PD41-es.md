@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- VEGANO Y CRUELTY FREE: 3INA es una marca de maquillaje española que fabrica en Europa. Todos nuestros productos son veganos, sin parabenos y sin crueldad animal.
 - COLOR Y CUIDADO: labiales con un color súper intenso modulable con efecto hidratante de un bálsamo. Tonos de alta pigmentación de color intenso en una sola pasada con un acabado glow y súper suave.
-- DISEÑO ON-THE-GO: innovador packaging formato lápiz, con acabado de color brillante ideal para aplicar en cualquier parte. Combínalo con The Automatic Lip Pencil a juego para mayor definición.
 - FÓRMULA BÁLSAMO: fórmula súper ligera y con efecto bálsamo que se funde al instante en los labios. Su textura rica, aunque súper ligera, aporta la suavidad de un bálsamo con el color de un labial.
 - MAYOR HIDRATACIÓN: consigue unos labios jugosos y nutridos gracias a la manteca de karité, que mejora su textura, para unos labios suaves e hidratados. ¡Labios carnosos al instante!
+- DISEÑO ON-THE-GO: innovador packaging formato lápiz, con acabado de color brillante ideal para aplicar en cualquier parte. Combínalo con The Automatic Lip Pencil a juego para mayor definición.
+- VEGANO Y CRUELTY FREE: 3INA es una marca de maquillaje española que fabrica en Europa. Todos nuestros productos son veganos, sin parabenos y sin crueldad animal.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BYH6PD41{{</world>}}

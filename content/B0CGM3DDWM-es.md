@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Manillar con espuma antideslizante
 - Capacidad de 46 litros, peso máximo 25 kg
+- Manillar con espuma antideslizante
 - Bolsa desmontable y lavable
 
 [🛒 Aquí!!!]({{< param buyurl >}})

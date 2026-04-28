@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido ligero para una comodidad y durabilidad superiores
+- Material que capilariza el sudor y se seca rápidamente
 - Bajo con abertura lateral
 - Bolsillos laterales abiertos
-- Material que capilariza el sudor y se seca rápidamente
 - Cintura elástica con revestimiento y cordón interior
+- Tejido ligero para una comodidad y durabilidad superiores
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C12PZ1BH{{</world>}}

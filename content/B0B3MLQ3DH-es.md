@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cierre: Sin cordones
-- Tipo de tacón: Plano
 - Revestimiento: Sintético
+- Tipo de tacón: Plano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B3MLQ3DH{{</world>}}

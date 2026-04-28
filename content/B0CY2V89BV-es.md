@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Capacidad: 600 ml.
 - Con cierre hermético, inodora y ligera. Libre de BPA.
-- Su tapón es de madera e incluye un asa para sea más fácil de transportar.
+- Capacidad: 600 ml.
 - Botella térmica realizada en acero inoxidable 304 de doble capa. Aguanta las bebidas frías hasta un máximo de 24 horas y calientes hasta 12 horas.
+- Su tapón es de madera e incluye un asa para sea más fácil de transportar.
 - Lavar a mano con agua y jabón antes del primer uso. No meter en el lavavajillas. No meter en el microondas. No congelar. Cuando no esté en uso, se recomienda guardarla siempre con el tapón abierto para evitar malos olores.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apto lavavajillas
 - Facil de limpiar
-- 6 vasos 25 cl
-- Apto Frigorífico
+- Apto lavavajillas
 - La siguiente información se aplica a cada unidad del paquete
+- 6 vasos 25 cl
 - Reciclable , Ecológico , Material 100% saludable , 100% higiénico , No poroso , Larga duración
+- Apto Frigorífico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DZHQLLY1{{</world>}}

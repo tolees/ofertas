@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Género - Mujer
-- Marca - INDASEC
 - Tipo de producto - Compresas tocológicas algodón 12 uds
+- Marca - INDASEC
+- Género - Mujer
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00J9G2V2Q{{</world>}}

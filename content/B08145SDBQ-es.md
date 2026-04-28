@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tamaño (abierto/cerrado): 49 x 45 x 33/ 49 x 35 x 10 cm, consumo: 291 g/h; peso: 3, 5 kg; no son adecuadas para uso en interiores; la manguera y el regulador se venden por separado
-- Compacta y esbelta: cocina de gas de uso fácil de encendido manual; se pliega: los paneles laterales vienen con asas de transporte integradas y la tapa tiene un cierre seguro de acero
-- Diseño mejorado: la tapa cubre la parte superior de cocción para protegerla y funciona para desviar el viento cuando está abierta
-- Disponible en todo el mundo: funciona con bombonas campingaz r907/r904 (duración: 9 h 30 min/6 h 10 min), en más de 50 países; vista general de distribuidores en camping.com/gasfinder
 - Potente: 2 quemadores ajust; de 2 kw de gran rendimiento de acero inoxidable; mandos de control total del fuego; batea de quita y p apta para lavavajillas para 2 sartenes de hasta 24 cm
+- Tamaño (abierto/cerrado): 49 x 45 x 33/ 49 x 35 x 10 cm, consumo: 291 g/h; peso: 3, 5 kg; no son adecuadas para uso en interiores; la manguera y el regulador se venden por separado
+- Diseño mejorado: la tapa cubre la parte superior de cocción para protegerla y funciona para desviar el viento cuando está abierta
+- Compacta y esbelta: cocina de gas de uso fácil de encendido manual; se pliega: los paneles laterales vienen con asas de transporte integradas y la tapa tiene un cierre seguro de acero
+- Disponible en todo el mundo: funciona con bombonas campingaz r907/r904 (duración: 9 h 30 min/6 h 10 min), en más de 50 países; vista general de distribuidores en camping.com/gasfinder
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08145SDBQ{{</world>}}

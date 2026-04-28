@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 100 % algodón
 - Marca bordada en el pecho en contraste
+- 100 % algodón
 - Polo de manga larga con doble botón en piqué con tinte de prenda; cuello y puños en tejido de concha
 
 [🛒 Comprar!!!]({{< param buyurl >}})

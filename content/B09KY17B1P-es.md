@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 【Ligero, retráctil y portátil】Este palo selfie pesa solo 130 g y tiene una longitud mínima de 20,8 cm. Cabe fácilmente en una mochila o bolsillo para facilitar su transporte.
+- 【Alta compatibilidad】Compatible con GoPro Max, GoPro Hero 10/9 Hero 8, Hero (2018), Hero 7, Hero/6/5/4/3+/3/2/1/Session Fusion Action camera, Mi Sphere 360 , Insta 360 ONE X, Insta 360 One R Twin Edtion, DJI OSMO ACTION la mayoría de las cámaras deportivas y cámaras de acción compactas.
 - 【Uso multiocasión】WOLFANG Selfie stick (27.7in) para sesiones de fotos grupales en actividades de reuniones, fiestas, viajes familiares, viajes, campamentos, pinic, deportes, juegos y también permite tomar fotos selfie de rango completo.
 - 【Alta estabilidad】Adaptado con material de fibra de carbono mejorado, el palo selfie GB2100 es más estable que la primera generación, no se dobla ni se mueve, para evitar que el palo selfie y la cámara de acción se caigan y proporciona una gran estabilidad.
-- 【Alta compatibilidad】Compatible con GoPro Max, GoPro Hero 10/9 Hero 8, Hero (2018), Hero 7, Hero/6/5/4/3+/3/2/1/Session Fusion Action camera, Mi Sphere 360 , Insta 360 ONE X, Insta 360 One R Twin Edtion, DJI OSMO ACTION la mayoría de las cámaras deportivas y cámaras de acción compactas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09KY17B1P{{</world>}}

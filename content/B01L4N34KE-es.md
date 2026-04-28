@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Tipo de tacón: Plano
 - Material exterior: Cuero
 - Cierre: Cordones
-- Tipo de tacón: Plano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01L4N34KE{{</world>}}

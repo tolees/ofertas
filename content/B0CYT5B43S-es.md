@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- GEL en el talón para una comodidad que dura todo el día
 - Parte superior de malla transpirable
 - AMPLIFOAM para una amortiguación estable
+- GEL en el talón para una comodidad que dura todo el día
 - Ideal para principiantes y para correr.
 - Suela duradera con buena tracción
 

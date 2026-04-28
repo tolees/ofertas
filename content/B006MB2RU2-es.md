@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Decoración en inox en el panel de control
-- Resistencia sumergida
-- Piloto luminoso y regulador de temperatura
+- Capacidad: 4 l para 2 kg patatas
 - Totalmente desmontable
 - Posición de escurrido del aceite
-- Capacidad: 4 l para 2 kg patatas
+- Piloto luminoso y regulador de temperatura
+- Decoración en inox en el panel de control
+- Resistencia sumergida
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B006MB2RU2{{</world>}}

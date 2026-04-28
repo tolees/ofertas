@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cada caja contiene una figura seleccionada al azar, no se puede predecir el modelo que te tocará. Si compras el juego completo, te las enviaremos sin repetir.
-- Buena fabricación: Los materiales utilizados en el producto son PVC/ABS/papel, que no son tóxicos, son inofensivos e inodoros. En particular, las figuras no cambian fácilmente de color.
-- Tamaño de colección: Con una altura de unos 8,6-10,3 cm, las figuras no ocupan espacio y se pueden colocar en cualquier escena, como en la oficina; en el coche, etc.
-- Diseño único: Nuestras figuritas no sólo son bonitas, sino que también están llenas de significado. Cada figurita tiene su propia historia.
 - Bonito aspecto: Con un buen trabajo de pintura, las figuras están todas vivas y bonitas. Todos los detalles están muy bien hechos.
+- Tamaño de colección: Con una altura de unos 8,6-10,3 cm, las figuras no ocupan espacio y se pueden colocar en cualquier escena, como en la oficina; en el coche, etc.
+- Buena fabricación: Los materiales utilizados en el producto son PVC/ABS/papel, que no son tóxicos, son inofensivos e inodoros. En particular, las figuras no cambian fácilmente de color.
+- Cada caja contiene una figura seleccionada al azar, no se puede predecir el modelo que te tocará. Si compras el juego completo, te las enviaremos sin repetir.
+- Diseño único: Nuestras figuritas no sólo son bonitas, sino que también están llenas de significado. Cada figurita tiene su propia historia.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F138KG9R{{</world>}}

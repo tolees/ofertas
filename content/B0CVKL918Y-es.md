@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Paquete de dos
-- Proporciona comodidad
-- Cuello y sisas rematados con un ribete
 - Bordado de G-Star RAW en el pecho
+- Cuello y sisas rematados con un ribete
+- Proporciona comodidad
+- Paquete de dos
 - Una mirada original
 
 [🛒 Aquí!!!]({{< param buyurl >}})

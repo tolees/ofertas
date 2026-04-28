@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Colección: primavera/verano 19
-- Modelo: Smart stretch satin
 - Colección: Primavera/Verano 19
+- Modelo: Smart stretch satin
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07H9L5WBX{{</world>}}

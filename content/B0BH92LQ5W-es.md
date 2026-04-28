@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cada paquete contiene 50 Fundas de Cartas diseñadas especialmente para cumplir con los estándares de las reglas de los torneos de Yu-Gi-Oh! JCC. ¿Buscas la nueva versión de Chica Maga Oscura que aparece en estas fundas de cartas? ¡Estate pendiente cuando abras tu 2022 Lata de los Dioses del Faraón!
-- Hechiza a tus rivales con las nuevas Dark Magicial Girl Card Sleeves, que forman parte de una nueva línea de accesorios con nuevas imágenes de la aprendiz de Mago Oscuro, Chica Maga Oscura! ¡Estas Fundas para Cartas son perfectas para proteger tus cartas sin perder el estilo!
 - Las Fundas de Cartas oficiales de Yu-Gi-Oh! JUEGO DE CARTAS COLECCIONABLES (JCC) ayudan a los Duelistas a proteger sus cartas durante los Duelos.
+- Hechiza a tus rivales con las nuevas Dark Magicial Girl Card Sleeves, que forman parte de una nueva línea de accesorios con nuevas imágenes de la aprendiz de Mago Oscuro, Chica Maga Oscura! ¡Estas Fundas para Cartas son perfectas para proteger tus cartas sin perder el estilo!
+- Cada paquete contiene 50 Fundas de Cartas diseñadas especialmente para cumplir con los estándares de las reglas de los torneos de Yu-Gi-Oh! JCC. ¿Buscas la nueva versión de Chica Maga Oscura que aparece en estas fundas de cartas? ¡Estate pendiente cuando abras tu 2022 Lata de los Dioses del Faraón!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BH92LQ5W{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- LA BEBIDA ELECTROLÍTICA VEGETARIANA contiene los 5 electrolitos, como sodio y magnesio, que se pierden con mayor frecuencia a través del sudor durante el ejercicio
 - REFRESCO COMPLETO SIN AZÚCAR – esta deliciosa bebida deportiva es ideal para los entrenamientos en los que se desea prescindir de carbohidratos
 - PLENO SABOR EN CADA ENVASE – cada paquete contiene 10 tabletas electrolíticas
-- RECOMENDAMOS, como parte de una dieta variada y equilibrada, disolver un máximo de 2 tabletas al día en 250 ml de agua cada una y disfrutar
+- LA BEBIDA ELECTROLÍTICA VEGETARIANA contiene los 5 electrolitos, como sodio y magnesio, que se pierden con mayor frecuencia a través del sudor durante el ejercicio
 - DISFRUTA CON SEGURIDAD es nuestra promesa: todos nuestros productos están incluidos en la Cologne List y han sido analizados para detectar sustancias prohibidas
+- RECOMENDAMOS, como parte de una dieta variada y equilibrada, disolver un máximo de 2 tabletas al día en 250 ml de agua cada una y disfrutar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00W1KX3WY{{</world>}}

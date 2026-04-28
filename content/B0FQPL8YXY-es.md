@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - El interior lo encontraremos en todos los idiomas (inglés, español, francés, italiano y portugués). Con cierre de goma elástica.
-- Una agenda de organización semanal sencilla y básica.
-- Ideal como regalo o autorregalo irresistible
-- Agenda anual estilo Basic, con organización semanal. De enero a diciembre de 2026.
 - Contiene: · 160 páginas de papel de 100gsm con certificación FSC · 4 hojas de pegatinas · Calendarios de 2026 y 2027 · Planificador mensual al inicio de cada mes · Playlist exclusiva, con una canción para cada día del año · Frases mensuales superdivertidas en inglés
+- Agenda anual estilo Basic, con organización semanal. De enero a diciembre de 2026.
+- Ideal como regalo o autorregalo irresistible
+- Una agenda de organización semanal sencilla y básica.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FQPL8YXY{{</world>}}

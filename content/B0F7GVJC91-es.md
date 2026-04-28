@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Con 160 páginas cuadriculadas de 90gsm, con certificación FSC, que garantiza que el papel proviene de bosques gestionados de forma responsable.
 - Libreta de tamaño A4 con encuadernación en espiral y tapa dura.
 - Incluye una hoja de pegatinas.
-- Con 160 páginas cuadriculadas de 90gsm, con certificación FSC, que garantiza que el papel proviene de bosques gestionados de forma responsable.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F7GVJC91{{</world>}}

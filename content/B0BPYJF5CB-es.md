@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aplicar uniformemente sobre el cuero cabelludo y el cabello mojados. Emulsionar suavemente con las yemas de los dedos hasta que se forme una espuma ligera. Aclarar bien. En caso de contacto con los ojos, lávense inmediata y abundantemente con agua.
 - El champú anticaspa Scalp Advanced ha sido formulado específicamente para el cuero cabelludo con caspa. Esta crema ligera limpia con suavidad y elimina eficazmente la caspa seca y grasa, al tiempo que proporciona una sensación calmante al cuero cabelludo.
+- Aplicar uniformemente sobre el cuero cabelludo y el cabello mojados. Emulsionar suavemente con las yemas de los dedos hasta que se forme una espuma ligera. Aclarar bien. En caso de contacto con los ojos, lávense inmediata y abundantemente con agua.
 - Enriquecido con Piroctone Olamine, activo dermatológico, elimina la caspa.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

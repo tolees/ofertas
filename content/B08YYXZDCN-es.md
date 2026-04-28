@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Etiqueta Have a nice World
 - Poliéster reciclado
-- Fabricado con prácticas sostenibles
 - Realizado con fibras naturales
+- Etiqueta Have a nice World
+- Fabricado con prácticas sostenibles
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08YYXZDCN{{</world>}}

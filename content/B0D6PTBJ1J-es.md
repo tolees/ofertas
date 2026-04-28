@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Espuma viscoelástica refrigerada por aire
-- Ultra Go
 - Almohada para el talón
 - Slip-Ins
+- Espuma viscoelástica refrigerada por aire
+- Ultra Go
 - Lavable a máquina
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

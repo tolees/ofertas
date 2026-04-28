@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Works on all hair types to repair all types of damage, including damage from heat, chemical treatments, and environmental stressors.
 - Fast, 3-minute pre-shampoo treatment delivers an immediate hair transformation. Experience softer, stronger, and more conditioned hair after just one use for a healthy, revitalized look and feel.
-- Patented OLAPLEX Bond Building Technology and Damage Defense Complex immediately repair hair damage by rebuilding broken bonds for hair that is 3X stronger and 3X softer in just 3 minutes.
 - Reduces future breakage to promote length retention over time. Use consistently as part of your hair care routine to maintain healthy-looking, resilient hair that is less prone to damage.
+- Patented OLAPLEX Bond Building Technology and Damage Defense Complex immediately repair hair damage by rebuilding broken bonds for hair that is 3X stronger and 3X softer in just 3 minutes.
+- Works on all hair types to repair all types of damage, including damage from heat, chemical treatments, and environmental stressors.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0GJTX3TGJ{{</world>}}

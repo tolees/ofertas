@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bain de Masse Épaississant de Genesis Homme es un champú para aumentar la densidad del cabello, ideal para el pelo con tendencia al afinamiento y a la pérdida de densidad. Este champú está enriquecido con raíz de jengibre y creatina para proteger, reconstruir y fortalecer el cabello
 - Aporta volumen y textura al cabello con una acción espesante de forma instantánea, a la vez que lo hidrata y lo limpia suavemente
 - Aplicar sobre pelo húmedo. Distribuir en forma de estrella en el cuero cabelludo, masajeando para generar espuma y liberar las notas aromáticas, mientras se distribuye al resto del cabello. Emulsionar y aclarar. Para un mejor resultado combinar con el resto de la gama Genesis Homme
+- Bain de Masse Épaississant de Genesis Homme es un champú para aumentar la densidad del cabello, ideal para el pelo con tendencia al afinamiento y a la pérdida de densidad. Este champú está enriquecido con raíz de jengibre y creatina para proteger, reconstruir y fortalecer el cabello
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B1J9SPQM{{</world>}}

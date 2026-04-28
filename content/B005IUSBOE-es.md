@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Acero inoxidable
 - 10 cm
 - 25 años de garantía
+- Acero inoxidable
 - Cortador de titanio de máxima calidad
 - 3 veces más resistente que el acero convencional
 

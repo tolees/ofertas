@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Parte de nobuk sintético
-- Horma clásica
 - Tirador de tela en el talón
 - Suela de goma de aspecto vulcanizado
+- Horma clásica
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BJL4D2H4{{</world>}}

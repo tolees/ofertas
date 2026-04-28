@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para género femenino
 - Perfume Narciso Rodriguez Narciso Cristal
 - Fragancia personal
+- Para género femenino
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09YNNRVWT{{</world>}}

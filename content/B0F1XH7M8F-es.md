@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cordones
-- Plantilla textil
-- Horma clásica
-- Suela de goma
 - Empeine de piel y textil
+- Suela de goma
+- Plantilla textil
+- Cordones
+- Horma clásica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F1XH7M8F{{</world>}}

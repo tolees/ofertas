@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuenta con un ancho de 19 mm y una longitud de 20 m
-- Resistente a rayos UV
-- Cumple con la norma DIN EN 60454-3-1 y VDE 0340 parte 3-1
 - Retardante de llama y autoextinguible, seguro para su uso en cableado eléctrico
+- Resistente a rayos UV
 - Cinta aislante de alambre eléctrico de PVC
+- Cuenta con un ancho de 19 mm y una longitud de 20 m
+- Cumple con la norma DIN EN 60454-3-1 y VDE 0340 parte 3-1
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00TGRMZP6{{</world>}}

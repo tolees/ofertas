@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Marca PUMA impresa
-- PUMA Tira en los laterales
 - PUMA Logotipo en la lengüeta
+- PUMA Tira en los laterales
+- Marca PUMA impresa
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D2KW79K3{{</world>}}

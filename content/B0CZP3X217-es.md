@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Logo de 3 bandas en pecho
 - 100 % algodón
 - Corte clásico
+- Logo de 3 bandas en pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CZP3X217{{</world>}}

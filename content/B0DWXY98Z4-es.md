@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Enfréntate a la noche
 - Conviértete en héroe
 - Alzaos juntos
+- Enfréntate a la noche
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DWXY98Z4{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro de tela con cierre de cordones
 - Parte de tela con revestimientos sintéticos
 - Una zapatilla inspirada en nuestros archivos con toques de color
+- Forro de tela con cierre de cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08S54VT6B{{</world>}}

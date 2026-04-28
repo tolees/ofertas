@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con etiqueta de identificación para escribir el nombre en la parte trasera.
 - Mochila de 21 cm x 25 cm x 10 cm fabricada en Poliéster.
+- Con etiqueta de identificación para escribir el nombre en la parte trasera.
 - Dos bolsillos laterales de red para guardar una botellita de agua, el paraguas, o cualquier otro pequeño accesorio.
 - Asa superior para colgarla de la percha cuando llegue a clase.
 - Tirantes anchos, ergonómicos y acolchados que se adaptan perfectamente a la espalda.

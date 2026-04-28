@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Logotipo de las 3 bandas
 - Cuello redondo
 - Corte clásico
-- AEROREADY
-- Logotipo de las 3 bandas
 - Malla 86% poliéster reciclado / 14% elastán
+- AEROREADY
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C544R5FC{{</world>}}

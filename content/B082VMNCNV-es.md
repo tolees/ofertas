@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Neutrogena Limpiador y mascarilla antiespinillas
 - El limpiador facial clarificante con ácido salicílico elimina suavemente las espinillas e impurezas, mejora la textura de la piel y mantiene su barrera protectora. Con envase reciclable.
 - Neutrogena Limpiador y mascarilla antiespinillas 2 en 1 con ácido salicílico
+- Neutrogena Limpiador y mascarilla antiespinillas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B082VMNCNV{{</world>}}

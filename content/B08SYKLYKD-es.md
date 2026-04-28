@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Peso de 0,81 kg y volumen de 18,5 l
-- Bolsa para portátil
 - Repelente al agua
-- 29 cm de altura x 41 cm de ancho x 16 cm de profundidad
 - 100% poliamida
+- 29 cm de altura x 41 cm de ancho x 16 cm de profundidad
+- Bolsa para portátil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08SYKLYKD{{</world>}}

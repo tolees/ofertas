@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🌿 CON VITAMINAS: Con 3 vitaminas esenciales añadidas, ¡es un refresco que te sienta bien! Si buscas algo más, prueba nuestra nueva receta con un aporte vitamínico extra. Ideal como saborizante para agua en tus momentos de relax.
-- 🎆 MÁS CUBOS, MENOS PLÁSTICO: Un mundo sin bebidas preenvasadas, donde hidratarse a diario sea más sostenible, saludable y sencillo para todos. Ese es el mundo en el que queremos vivir.
-- 😎UN AUTÉNTICO CLÁSICO: Uno de nuestros sabores que desde el principio que inspiró muchas otras alternativas de refrescos en waterdrop. Si esta ha sido tu bebida de confianza, ahora es el momento ideal para hacerte con ella.
 - 🤩 UN SABOR EMBLEMÁTICO: Nuestra COLA waterdrop original. Disfruta de nuestra primera interpretación de este sabor icónico con notas de caramelo tostado y una profundidad distintiva.
+- 🌿 CON VITAMINAS: Con 3 vitaminas esenciales añadidas, ¡es un refresco que te sienta bien! Si buscas algo más, prueba nuestra nueva receta con un aporte vitamínico extra. Ideal como saborizante para agua en tus momentos de relax.
+- 😎UN AUTÉNTICO CLÁSICO: Uno de nuestros sabores que desde el principio que inspiró muchas otras alternativas de refrescos en waterdrop. Si esta ha sido tu bebida de confianza, ahora es el momento ideal para hacerte con ella.
 - 😲 EDICIÓN LIMITADA: Lo bueno se acaba. Lamentablemente, esta receta original no volverá. Hazte con tus sabores waterdrop favoritos hoy mismo mientras puedas; disponible solo en Amazon.
+- 🎆 MÁS CUBOS, MENOS PLÁSTICO: Un mundo sin bebidas preenvasadas, donde hidratarse a diario sea más sostenible, saludable y sencillo para todos. Ese es el mundo en el que queremos vivir.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DGQB4KH4{{</world>}}

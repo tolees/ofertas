@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Transpirable
 - Zapato cómodo que aporta ligereza y bienestar
-- Zapatos fáciles de poner
 - Plantilla extraíble
+- Zapatos fáciles de poner
+- Transpirable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CPMDXG79{{</world>}}

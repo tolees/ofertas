@@ -28,18 +28,18 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ancho [mm]: 210
-- Lado de montaje: izquierda
-- El piloto trasero tiene 5 funciones lumínicas: luz trasera / luz de freno / indicador / Piloto antiniebla trasero / reflector, luz trasera, luz de freno, Piloto antiniebla trasero y reflector rojos, indicador amarillo
-- Homologación: E13 9385, E13 9531
-- Tipo de lámpara: P21W/R10W, sin bombillas, Con junta, placa base negra, 4 agujeros Diámetro 6 mm para tornillos de fijación, admisible para remolques si se dispone de una homologación parcial CE para la iluminación
-- Altura [mm]: 108
-- Piloto trasero reflector función indicador freno-niebla para montaje vertical en vehículos de arrastre y remolques (izquierda) - Con homologación CEE
 - Longitud: 210mm - Ancho: 108mm - Altura: 66mm - Tipo de lámpara: R10W/P21W - sin lámparas
-- Color de carcasa: negro
-- Funciones iluminación: 5 - Con luces reflectoras/Con luz trasera/Con luz antiniebla trasera/Con luz intermitente/Con luz de freno
-- Verificación ECE
+- Altura [mm]: 108
+- Ancho [mm]: 210
 - Cantidad funciones iluminación: 5
+- Funciones iluminación: 5 - Con luces reflectoras/Con luz trasera/Con luz antiniebla trasera/Con luz intermitente/Con luz de freno
+- Color de carcasa: negro
+- Homologación: E13 9385, E13 9531
+- Lado de montaje: izquierda
+- Verificación ECE
+- Tipo de lámpara: P21W/R10W, sin bombillas, Con junta, placa base negra, 4 agujeros Diámetro 6 mm para tornillos de fijación, admisible para remolques si se dispone de una homologación parcial CE para la iluminación
+- Piloto trasero reflector función indicador freno-niebla para montaje vertical en vehículos de arrastre y remolques (izquierda) - Con homologación CEE
+- El piloto trasero tiene 5 funciones lumínicas: luz trasera / luz de freno / indicador / Piloto antiniebla trasero / reflector, luz trasera, luz de freno, Piloto antiniebla trasero y reflector rojos, indicador amarillo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00FSL2WCA{{</world>}}

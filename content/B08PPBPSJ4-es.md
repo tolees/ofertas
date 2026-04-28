@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Puños elásticos
-- Cuello alzado y cremallera hasta el pecho
 - Corte entallado
 - Bolsillos frontales con cremallera
+- Cuello alzado y cremallera hasta el pecho
+- Puños elásticos
 - Punto doble 100% poliéster reciclado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

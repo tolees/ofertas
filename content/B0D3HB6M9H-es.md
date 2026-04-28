@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Precisión máxima: El sensor HERO 25K de este ratón inalámbrico para gaming hace seguimientos con precisión submicrométrica y sin suavizado para ofrecer un gaming inalámbrico preciso.
-- Control máximo: Hasta 6 botones programables para personalizar el juego y los accesos directos
-- Velocidad máxima: Interruptores óptico-mecánicos LIGHTFORCE con velocidad óptica, tacto mecánico y rendimiento optimizado para gaming
-- Juego máximo: Cambia entre la tecnología inalámbrica LIGHTSPEED, sólida pero de baja latencia, y Bluetooth con este ratón inalámbrico para gaming, y disfruta una flexibilidad inalámbrica total
 - Contenido de la caja Ratón para gaming G309 LIGHTSPEED, receptor LIGHTSPEED, cable de extensión del receptor, batería AA, cinta de recubrimiento, documentación del usuario.
 - Peso mínimo: Logitech G309 LIGHTSPEED es un ratón para gaming ligero que solo pesa 86 g con la batería AA incluida o 68 g (sin la batería) mediante el uso del sistema de carga inalámbrico POWERPLAY
+- Control máximo: Hasta 6 botones programables para personalizar el juego y los accesos directos
+- Precisión máxima: El sensor HERO 25K de este ratón inalámbrico para gaming hace seguimientos con precisión submicrométrica y sin suavizado para ofrecer un gaming inalámbrico preciso.
+- Juego máximo: Cambia entre la tecnología inalámbrica LIGHTSPEED, sólida pero de baja latencia, y Bluetooth con este ratón inalámbrico para gaming, y disfruta una flexibilidad inalámbrica total
 - Carga mínima: Más de 300 horas con una batería AA o duración ilimitada con POWERPLAY, para que te concentres en el juego, no en la duración de la batería
+- Velocidad máxima: Interruptores óptico-mecánicos LIGHTFORCE con velocidad óptica, tacto mecánico y rendimiento optimizado para gaming
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D3HB6M9H{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Empeine de malla acolchado
-- Horma clásica
 - Amortiguación LIGHTMOTION
 - Suela de EVA de una sola pieza
+- Empeine de malla acolchado
+- Horma clásica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CYQ7KMBS{{</world>}}

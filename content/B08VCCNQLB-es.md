@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- PENSAMOS EN TI: La forma ergonómica de nuestro champu solido te permitirá un mejor agarre y su cordón integrado permitirá un secado rápido ¡no más jabones que se desvanezcan en la jabonera!
+- APLICACIÓN: Frote el champú con agua para crear espuma. Aplicar la espuma sobre el pelo, o frote el champú sólido directamente, de raíz a puntas. Aclarar.
 - FOAMIE: ¡En Foamie, le hemos declarado la guerra al plástico! Como tú, nos preocupamos por el medio ambiente. Por eso queremos contribuir a un mundo sin plástico, más ecológico y sostenible.
 - POR UNA MELENA RADIANTE: Nuestro champu solido sin sulfatos ni siliconas te ayudará a obtener una cabellera fuerte y flexible con un brillo natural. Valor de pH optimizado.
 - SOLIDOS Y EFICACES: Gracias a la formula optimizada y prensada en frío de nuestro champu sólido Foamie, los ingredientes mantienen toda su eficacia y tu pelo tendrá aroma a coco todo el día
-- APLICACIÓN: Frote el champú con agua para crear espuma. Aplicar la espuma sobre el pelo, o frote el champú sólido directamente, de raíz a puntas. Aclarar.
+- PENSAMOS EN TI: La forma ergonómica de nuestro champu solido te permitirá un mejor agarre y su cordón integrado permitirá un secado rápido ¡no más jabones que se desvanezcan en la jabonera!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08VCCNQLB{{</world>}}

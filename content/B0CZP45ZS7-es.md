@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 100% algodón
-- Corte entallado
 - Cuello redondo
+- Corte entallado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CZP45ZS7{{</world>}}

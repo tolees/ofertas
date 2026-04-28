@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juego de Estrategia de 2 a 5 jugadores y de 30 a 60 minutos por partida
-- Quienes consigan cumplir con sus Billetes de Destino conectando dos ciudades lejanas, y quien consiga construir la ruta ferroviaria continua más larga, ganarán puntos adicionales.
 - ¡Aventureros al Tren! es un juego de aventuras en tren. Los jugadores acumulan cartas de ciertos tipos de vagones que les permiten conectar diferentes ciudades a lo largo y ancho de Norteamérica.
 - El juego de mesa más famoso del mundo, ideal tanto para nuevos jugadores como para veteranos.
 - Mientras más largos son los recorridos, más puntos se ganan.
+- Quienes consigan cumplir con sus Billetes de Destino conectando dos ciudades lejanas, y quien consiga construir la ruta ferroviaria continua más larga, ganarán puntos adicionales.
+- Juego de Estrategia de 2 a 5 jugadores y de 30 a 60 minutos por partida
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B008EK6NHM{{</world>}}

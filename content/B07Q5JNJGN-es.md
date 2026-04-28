@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vino Tinto Gran Reserva DO Ribera del Duero
-- Vino complejo que armoniza a la perfección con todo tipo de carnes rojas, de caza, guisos o quesos
 - 24 meses de crianza en barricas y posteriormente 3 en botella
-- Elaborado a partir de uvas tintas Tempranillo, procedentes de viñas viejas
+- Vino complejo que armoniza a la perfección con todo tipo de carnes rojas, de caza, guisos o quesos
+- Vino Tinto Gran Reserva DO Ribera del Duero
 - Servir entre 17 y 18ºC. Es aconsejable decantar este vino o servir media hora después de abrir la botella
+- Elaborado a partir de uvas tintas Tempranillo, procedentes de viñas viejas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07Q5JNJGN{{</world>}}

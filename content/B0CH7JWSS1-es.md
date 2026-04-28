@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Zapato bajo con parte superior de lona duradera.
 - El cuello acolchado proporciona comodidad.
+- Zapato bajo con parte superior de lona duradera.
 - Las dos correas te permiten llevar el zapato fácilmente.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Detalles buscados
-- Máximo confort
 - Ergonómico
+- Máximo confort
+- Detalles buscados
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DP2PKZJC{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gorilla Wear, la marca de culturismo, fitness, estilo de vida y artes marciales
+- Color: lila
 - Sudadera con capucha para un espacio de movimiento óptimo.
 - Instrucciones de cuidado: lavar a 30 °C, programa normal, no usar lejía, no secar en secadora, no planchar, no limpiar en seco
 - Ajuste (corte): Regular Fit
-- Color: lila
+- Gorilla Wear, la marca de culturismo, fitness, estilo de vida y artes marciales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B096VV85TQ{{</world>}}

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Agitar antes de usar. Aplicar antes del sol. Reaplicar después de nadar para protección óptima.
-- Bruma para niños con protección solar de muy alto espectro frente a los rayos UVB/UVA que permite eliminar fácilmente la arena del cuerpo, gracias a la tecnología antiarena. Resistente al agua y sudor. Apta para piel sensible.
 - Piel protegida e hidratada, sin picores ni irritaciones por el roce de la arena. Textura hidratante.
+- Bruma para niños con protección solar de muy alto espectro frente a los rayos UVB/UVA que permite eliminar fácilmente la arena del cuerpo, gracias a la tecnología antiarena. Resistente al agua y sudor. Apta para piel sensible.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B06WLGR51V{{</world>}}

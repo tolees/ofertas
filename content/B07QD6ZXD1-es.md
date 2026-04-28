@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Horma Fisiológica
-- Puntera+protectores
-- Cierre adherente
 - Planta inTech antibacterias
+- Puntera+protectores
+- Horma Fisiológica
+- Cierre adherente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07QD6ZXD1{{</world>}}

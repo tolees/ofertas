@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- VTECH SE PREOCUPA POR NUESTRO PLANETA: El embalaje de este juguete está compuesto en un 90% de cartón reciclado, el cual es 100% reciclable.
 - COMPATIBILIDAD: Esta pista es compatible con otros juegos de la gama, para construir tus propias pistas infinitas
 - LANZADOR: Proyectar las canicas verticalmente y permitir alcanzar el objetivo, una zona de lanzamiento para proyectar las MarbleBilles a toda velocidad y numerosos pasajes secretos.
-- EDAD: Gama Marble Rush especialmente diseñada para niños a partir de 4 años de edad.
 - VERSIÓN: Española
-- VTECH SE PREOCUPA POR NUESTRO PLANETA: El embalaje de este juguete está compuesto en un 90% de cartón reciclado, el cual es 100% reciclable.
+- EDAD: Gama Marble Rush especialmente diseñada para niños a partir de 4 años de edad.
 - CONTENIDO: 61 piezas y 5 canicas Marble incluidas para crear una superpista.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

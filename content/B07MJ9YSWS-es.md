@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Lavable a máquina
 - Malla atlética y parte superior sintética
+- Tacón de 1 1/4 pulgadas
 - Skechers Plantilla acolchada de espuma viscoelástica
 - Suela de tracción de goma flexible
-- Tacón de 1 1/4 pulgadas
 - Diseño de tenis de entrenamiento atlético con cordones
-- Lavable a máquina
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07MJ9YSWS{{</world>}}

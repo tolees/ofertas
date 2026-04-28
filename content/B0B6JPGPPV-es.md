@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Materiales suaves y elásticos para mayor libertad de movimiento
-- Ideal para yoga, entrenamiento o ropa relajada
 - Combinable con camisas largas y sudaderas con capucha
+- Materiales suaves y elásticos para mayor libertad de movimiento
 - Leggings cómodos para ocio y deporte
 - Varios colores y patrones para elegir
+- Ideal para yoga, entrenamiento o ropa relajada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B6JPGPPV{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Zapatillas New Balance modelo 411
-- Tipo de cierre: CORDONES
 - Punta: REDONDEADA
+- Tipo de cierre: CORDONES
+- Zapatillas New Balance modelo 411
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DSTDNFB8{{</world>}}

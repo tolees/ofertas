@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fácil de usar
-- Repara y mantiene los enlaces capilares
 - Es un regalo adecuado en cualquier momento
+- Repara y mantiene los enlaces capilares
+- Fácil de usar
 - Olaplex Bond Maintenance Champú Nº-4 250 ml
 
 [🛒 Visítala!!!]({{< param buyurl >}})

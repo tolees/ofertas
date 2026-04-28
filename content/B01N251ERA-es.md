@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se puede montar fácilmente
-- Sordina para violín
 - Amortigua el sonido
+- Se puede montar fácilmente
 - Metálico con apagador de plástico
+- Sordina para violín
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01N251ERA{{</world>}}

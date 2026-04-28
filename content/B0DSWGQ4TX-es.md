@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PARA CUALQUIER OCASIÓN: Esta prenda clásica y elegante se puede combinar de muchas maneras, los detalles distintivos de Tommy Jeans proporcionan un toque especial. La chaqueta moderna la puedes usar en el trabajo, para salir de noche o a diario.
-- MATERIAL Y CUIDADO: Hoodie confeccionado con 80 % algodón regenerativo y 20 % poliéster reciclado. Se puede lavar a máquina y secar en secadora.
 - ICÓNICO Y ATEMPORAL: La chaqueta con capucha original de Tommy Jeans con cremallera destaca por su diseño desenfadado. Esta prenda informal es especialmente popular gracias a su material suave y su corte clásico.
 - AJUSTE PERFECTO: El diseño atemporal de la sudadera con capucha, cordón de ajuste y bolsillos delanteros queda siempre bien. Además, esta sudadera deportiva también es perfecta como regalo para personas de todas las edades.
 - MODA URBANA REINTERPRETADA: Para acercar las populares prendas de los 90 a las nuevas generaciones, Tommy Jeans se inspira en los iconos del hip-hop de aquella época. Apostando por prendas de alta calidad y diseños modernos con mucho denim.
+- MATERIAL Y CUIDADO: Hoodie confeccionado con 80 % algodón regenerativo y 20 % poliéster reciclado. Se puede lavar a máquina y secar en secadora.
+- PARA CUALQUIER OCASIÓN: Esta prenda clásica y elegante se puede combinar de muchas maneras, los detalles distintivos de Tommy Jeans proporcionan un toque especial. La chaqueta moderna la puedes usar en el trabajo, para salir de noche o a diario.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DSWGQ4TX{{</world>}}

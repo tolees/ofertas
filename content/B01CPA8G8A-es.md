@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Disfruta en casa de la alegría y diversión en cualquier momento
-- FUNKY MIX es el surtido de caramelos de goma y regaliz , con distintas texturas y sabores. Prueba el mejor surtido de haribo funky mix con nuestros ositos de oro, huevos fritos, balla-balla fresa, fresones y balla-balla dúo.Hasta el crujido de la bolsa es música para tus oídos. ¡Que empiece la fiesta!
 - Variedad multicolor para grandes y pequeños
+- FUNKY MIX es el surtido de caramelos de goma y regaliz , con distintas texturas y sabores. Prueba el mejor surtido de haribo funky mix con nuestros ositos de oro, huevos fritos, balla-balla fresa, fresones y balla-balla dúo.Hasta el crujido de la bolsa es música para tus oídos. ¡Que empiece la fiesta!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01CPA8G8A{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Corte regular para mayor comodidad
-- Algodón suave
 - Mangas largas
+- Algodón suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4QLWHRV{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Horma clásica
+- Suela de goma
 - Contiene al menos un 20% de material reciclado
 - Amortiguación LIGHTMOTION
-- Suela de goma
 - Empeine de malla acolchada
-- Horma clásica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CYM98GVX{{</world>}}

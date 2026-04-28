@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- VERSÁTIL: gracias a la columna de 90° el trípode puede cambiarse de una orientación vertical a horizontal sin necesidad de quitar la cámara
 - ADECUADA PRECISIÓN: el selector del ángulo de las patas permite ajustarlas con precisión y el nivel de burbuja incorporado sirve para hacer tomas adecuadas
+- VERSÁTIL: gracias a la columna de 90° el trípode puede cambiarse de una orientación vertical a horizontal sin necesidad de quitar la cámara
 - COMPACTO Y DURABLE: debido a que es ligero y compacto, es la elección adecuada para los viajeros. El cuerpo de magnesio también asegura una extrema robustez y durabilidad
 - COMPATIBLE: la parte superior está equipada con un conector Easy Link compatible con varios accesorios de la cámara, como luces LED, flashes, reflectores o con un brazo extensible
 - SEGURO: gracias al sistema de bloqueo Quick Lock, que abre las patas del trípode con un solo movimiento y controla cada sección, el kit asegura una estabilidad extrema para tu cámara

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Revestimiento: Sintético
-- Material exterior: Cuero
-- Cierre: Cordones
-- Tipo de tacón: Plano
 - Material de la suela: Goma
+- Tipo de tacón: Plano
+- Material exterior: Cuero
+- Revestimiento: Sintético
+- Cierre: Cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01MA3LYV8{{</world>}}

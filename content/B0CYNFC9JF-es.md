@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Empeine Fiberskin con estampado Sprintgrid
-- Suela para césped artificial
-- Horma clásica
-- Lengüeta elástica
 - Cierre de cordones
+- Suela para césped artificial
+- Empeine Fiberskin con estampado Sprintgrid
+- Lengüeta elástica
+- Horma clásica
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CYNFC9JF{{</world>}}

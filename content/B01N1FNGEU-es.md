@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Exterior: 69% Poliamida 29% Poliuretano 2% Elastano
+- 0
 - Duraderos guantes de piel de dedos cortos para navegar en condiciones en las que se necesita una buena protección
 - Artículos entregados: 1x Helly Hansen Unisex Guantes De Vela Cortos,M,Negro
-- 0
+- Exterior: 69% Poliamida 29% Poliuretano 2% Elastano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01N1FNGEU{{</world>}}

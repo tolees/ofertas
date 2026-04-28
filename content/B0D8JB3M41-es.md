@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Alimentación: mediante luz solar o USB
-- Modos de cambio de color: control con el toque del dedo
-- Diseñada para funcionar en todas las condiciones meteorológicas: probada para resistir la corrosión y el óxido en condiciones de lluvia intensa, clima húmedo, alta exposición al sol y a los rayos UV, y temperaturas extremas con clasificación IP44
-- Lámpara LED solar portátil de larga duración
 - Durabilidad: fabricada con aluminio fundido a presión de alta calidad y materiales sintéticos superiores
+- Lámpara LED solar portátil de larga duración
+- Diseñada para funcionar en todas las condiciones meteorológicas: probada para resistir la corrosión y el óxido en condiciones de lluvia intensa, clima húmedo, alta exposición al sol y a los rayos UV, y temperaturas extremas con clasificación IP44
+- Modos de cambio de color: control con el toque del dedo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D8JB3M41{{</world>}}

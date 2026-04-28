@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Regleta de enchufes exterior deleyCON de 4 tomas // 4 enchufes con conexión a tierra
 - Carcasa de plástico resistente y duradera // Mayor protección de contacto // Interruptor de encendido/apagado iluminado
-- Tensión nominal: 230 voltios (V) // Corriente nominal: 16 amperios (A) // Consumo máximo de energía: 3500 vatios (W)
 - Para uso en interiores y exteriores // Resistente a salpicaduras IP44
+- Regleta de enchufes exterior deleyCON de 4 tomas // 4 enchufes con conexión a tierra
+- Tensión nominal: 230 voltios (V) // Corriente nominal: 16 amperios (A) // Consumo máximo de energía: 3500 vatios (W)
 - Ideal para jardín, terraza, balcón, sótano, lavadero, garaje, etc.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

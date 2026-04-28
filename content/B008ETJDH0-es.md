@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Caja de 60 accesorios mixtos para taladrar y atornillar
-- 25 accesorios de perforación + 35 accesorios de atornillado
-- Este set es ideal para tener todos los accesorios que necesitarás
 - 6 brocas madera + 6 brocas hormigón + 9 brocas metal + 3 topes de profundidad + 4 llaves de vaso + 21 puntas 25 mm PH / PZ / SL / HEX / SQ + 9 puntas 50 mm PH / PZ / T + 1 adaptador de puntas magnético
+- Este set es ideal para tener todos los accesorios que necesitarás
+- 25 accesorios de perforación + 35 accesorios de atornillado
+- Caja de 60 accesorios mixtos para taladrar y atornillar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B008ETJDH0{{</world>}}

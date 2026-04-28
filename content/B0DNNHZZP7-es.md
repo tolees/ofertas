@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- CHAQUETAS
+- Este es un producto original de Levis
 - Logotipo en el pecho
 - Dos bolsillos laterales
-- Este es un producto original de Levis
 - Cómodo de llevar
-- CHAQUETAS
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DNNHZZP7{{</world>}}

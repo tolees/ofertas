@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sonido personalizado: usa la aplicación JBL Headphones para seleccionar una EQ a tu medida, el idioma de los mensajes de voz y recibe avisos cuando la batería esté baja
-- Llamadas nítidas y claras: cada auricular está dotado de 2 micrófonos que captan y transmiten tu voz mientras cancelan el ruido a tu alrededor; ofreciendo un sonido nítido incluso al aire libre
-- Conexión multipunto: conecta tus Tune Beam 2 de JBL con varios dispositivos Bluetooth y pasa de tu ordenador a tu teléfono con un simple gesto; equipados con Fast Pair para dispositivos Android y Microsoft
 - Tus compañeros de sonido: ofrecen 10 horas de batería, más 30 horas adicionales con el estuche de carga cuando la ANC está activada, o hasta 12 horas más 36 horas con la ANC desactivada
 - Cancelación de ruido adaptativa: filtra las distracciones y escucha lo que te rodea con la tecnología Smart Ambient; benefíciate de controladores dinámicos de 10 mm y del emocionante sonido JBL Pure Bass
+- Conexión multipunto: conecta tus Tune Beam 2 de JBL con varios dispositivos Bluetooth y pasa de tu ordenador a tu teléfono con un simple gesto; equipados con Fast Pair para dispositivos Android y Microsoft
+- Llamadas nítidas y claras: cada auricular está dotado de 2 micrófonos que captan y transmiten tu voz mientras cancelan el ruido a tu alrededor; ofreciendo un sonido nítido incluso al aire libre
+- Sonido personalizado: usa la aplicación JBL Headphones para seleccionar una EQ a tu medida, el idioma de los mensajes de voz y recibe avisos cuando la batería esté baja
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DK3V1WJW{{</world>}}

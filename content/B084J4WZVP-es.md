@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseñado en Italia
 - A partir de 10 meses.
+- Diseñado en Italia
 - Incluye muchas melodías y sonidos que atraen la atención del niño y estimulan su percepción visual.
 - Una divertida y tierna regadera con gran cantidad de actividades y sonidos para jugar en compañía de Baby Minnie.
 

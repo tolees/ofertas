@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura elástica ajustable con cordón
 - Ofrece comodidad y libertad de movimiento
-- Pantalones largos deportivos
 - Tiene detalles distintivos de la marca
+- Cintura elástica ajustable con cordón
+- Pantalones largos deportivos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00LQUU706{{</world>}}

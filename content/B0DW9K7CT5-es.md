@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello: de Camisa
-- Manga: Larga
+- Desigual
 - Abotonadura frontal
 - Fit: Regular
-- Desigual
+- Manga: Larga
+- Cuello: de Camisa
 - Estampado a cuadros
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

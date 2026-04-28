@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PUMA Tira en los laterales
-- PUMA Logotipo en la lengüeta
 - Plantilla cómoda diseñada para proporcionar una amortiguación suave gracias a su talón extragrueso
+- PUMA Logotipo en la lengüeta
+- PUMA Tira en los laterales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DJ9QSYSS{{</world>}}

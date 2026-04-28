@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Adecuada para múltiples ocasiones
 - Estilo informal
+- Adecuada para múltiples ocasiones
 - Camiseta de manga corta
 
 [🛒 Visítala!!!]({{< param buyurl >}})

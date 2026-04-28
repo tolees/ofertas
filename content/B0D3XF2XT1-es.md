@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene al menos un 20% de material reciclado
 - Empeine de ante
-- Suela de goma cosida
 - Horma clásica
+- Suela de goma cosida
+- Contiene al menos un 20% de material reciclado
 - Cierre de cordones
 - Forro textil
 

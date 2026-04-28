@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Zapatillas deportivas/zapatillas de correr
-- Talón de color de contraste con logotipo de 1973
 - Material y combinación de colores en la parte superior con cuero
+- Talón de color de contraste con logotipo de 1973
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CSP8D3R7{{</world>}}

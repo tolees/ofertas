@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Plano
 - Caucho
 - Medio
 - Adjuntar
-- Plano
 - Sintético
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 99 % algodón, 1 % elastano
-- Jeans ajustados de tiro medio con una silueta aerodinámica que desnatan tu cuerpo sin ser ajustados
 - Auténtica mezclilla negra cómoda con un aspecto desteñido
+- Jeans ajustados de tiro medio con una silueta aerodinámica que desnatan tu cuerpo sin ser ajustados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DTJB46KR{{</world>}}

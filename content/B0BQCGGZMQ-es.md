@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- EL PODER DEL JUEGO: Con unas colecciones atrevidas e innovadoras Janod acompaña a los niños en una gran aventura: ¡crecer! Unos bonitos juguetes estudiados hasta el más mínimo detalle para aprender divirtiéndose, explorar el mundo, soñar y compartir.
-- JUEGO DE MEMORIZACIÓN INFANTIL: El objetivo de este juego es encontrar las 10 parejas de bebés de dinosaurio ejercitando la capacidad de observación y la memoria. Además, este juego ayuda al niño a trabajar la reflexión, la lógica y la destreza.
-- DISEÑO BONITO Y COLORIDO: Este juego educativo tiene unas adorables ilustraciones de distintos dinosaurios de colores saliendo del cascarón para aprender pasándoselo bien, en solitario o en compañía, y desarrollar la expresión verbal divirtiéndose.
 - CARACTERÍSTICAS: Este juego de Janod contiene 20 piezas de madera FSC (MDF) de tamaño adaptado a sus manitas y fáciles de manejar. Viene en una caja de 18 x 5,5 x 18 cm. Juguete de estímulo recomendado para niños de 2 a 5 años.
 - JUEGO EVOLUTIVO: Los más pequeños pueden jugar con las piezas vueltas para aprender a distinguir las formas y los colores de los dinosaurios. Los mayores deben voltear los huevos de uno en uno y acordarse para juntar las piezas idénticas.
+- EL PODER DEL JUEGO: Con unas colecciones atrevidas e innovadoras Janod acompaña a los niños en una gran aventura: ¡crecer! Unos bonitos juguetes estudiados hasta el más mínimo detalle para aprender divirtiéndose, explorar el mundo, soñar y compartir.
+- DISEÑO BONITO Y COLORIDO: Este juego educativo tiene unas adorables ilustraciones de distintos dinosaurios de colores saliendo del cascarón para aprender pasándoselo bien, en solitario o en compañía, y desarrollar la expresión verbal divirtiéndose.
+- JUEGO DE MEMORIZACIÓN INFANTIL: El objetivo de este juego es encontrar las 10 parejas de bebés de dinosaurio ejercitando la capacidad de observación y la memoria. Además, este juego ayuda al niño a trabajar la reflexión, la lógica y la destreza.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQCGGZMQ{{</world>}}

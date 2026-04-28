@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - ALTURA AJUSTABLE DE 47 A 108 CM: El trípode se adapta al crecimiento del niño. Con una sencilla mecanismo de ajuste, puedes cambiar la altura del micrófono según la edad, asegurando una postura cómoda tanto para niños pequeños como para los más mayores.
+- LUCES LED DE COLORES Y DISEÑO PORTÁTIL: La base del altavoz cuenta con luces LED de colores que crean un ambiente festivo. Además, incorpora un asa oculta que lo hace súper ligero y fácil de transportar para llevar la diversión a cualquier lugar: parque, jardín o casa de los abuelos.
 - REGALO PERFECTO PARA NIÑOS: Este micrófono azul de Dislocati es el regalo soñado para cumpleaños o fiestas. Diseñado para niños a partir de 3 años, fabricado con materiales seguros y no tóxicos que garantizan la tranquilidad de los padres mientras los pequeños cantan y juegan sin parar.
 - MÚLTIPLES MODOS DE CONEXIÓN: Además de Bluetooth, admite tarjetas TF y USB (hasta 32GB) y entrada AUX. Esto permite reproducir canciones favoritas sin necesidad de un móvil, ofreciendo versatilidad y diversión sin límites en cualquier momento.
-- LUCES LED DE COLORES Y DISEÑO PORTÁTIL: La base del altavoz cuenta con luces LED de colores que crean un ambiente festivo. Además, incorpora un asa oculta que lo hace súper ligero y fácil de transportar para llevar la diversión a cualquier lugar: parque, jardín o casa de los abuelos.
 - DOBLE MICRÓFONO Y SONIDO DIVERTIDO: Incluye dos micrófonos para cantar a dúo con amigos o familiares. El altavoz incorporado ofrece un sonido claro y dinámico, transformando cualquier habitación en una auténtica sala de conciertos para los pequeños artistas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- ACEITE ESENCIAL AEQT (QUIMOTIPADO): El sello AEQT es muestra de calidad seleccionando plantas botánicamente certificadas garantizando un aceite esencial 100% puro y natural para tu bienestar
+- Perlas Orégano Aceite Esencial 100% Natural y Bio
+- CUIDARSE DE OTRA MANERA CON Perlas Orégano Aceite Esencial 100% Natural y Bio
 - ACEITE ESENCIAL 100% orgánico
 - PRANAROM, experto en la ciencia de los Aceites Esenciales, ofrece desde hace más de 30 años soluciones específicas, óptimas y naturales para mantener a toda la familia con buena salud a diario
-- Perlas Orégano Aceite Esencial 100% Natural y Bio
-- ACEITE ESENCIAL AEQT (QUIMOTIPADO): El sello AEQT es muestra de calidad seleccionando plantas botánicamente certificadas garantizando un aceite esencial 100% puro y natural para tu bienestar
-- CUIDARSE DE OTRA MANERA CON Perlas Orégano Aceite Esencial 100% Natural y Bio
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CNTGRFJX{{</world>}}

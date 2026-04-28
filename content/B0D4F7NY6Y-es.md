@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Cremallera completa, Bolsillos con cremallera para mantener las manos calentitas y protegidas, Puños ajustables
 - Mayor seguridad en la oscuridad gracias a los detalles reflectantes, Capucha para tormenta ajustable integrada
-- A prueba de viento y agua, transpirable gracias a las costuras termoselladas y la tecnología Omni-Tech
 - Chaqueta impermeable para niñas, Adecuada para pasear por la ciudad, hacer senderismo y otras actividades al aire libre
+- A prueba de viento y agua, transpirable gracias a las costuras termoselladas y la tecnología Omni-Tech
 - Contenido: 1x Columbia Chubasquero para Niña, Arcadia II, Color: Azul (Collegiate Navy), Talla: XS, Art.: 2089931
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

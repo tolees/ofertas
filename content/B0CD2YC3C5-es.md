@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DESPEGA Y DESCUBRE: Despega el corazón de tu Rainbocorn para descubrir lo que ama.
 - ADHEY ACCESORIOS PERFUM: Cada puppycorn viene con un accesorio con olor dulce y papel de patrón. ¿Qué aroma super dulce descubrirá?
 - COLECCIÓNALOS TODOS: ¡Hay siete cachorros perfectos para coleccionar, cada uno con sus propios accesorios perfumados!
+- DESPEGA Y DESCUBRE: Despega el corazón de tu Rainbocorn para descubrir lo que ama.
 - DIEZ SORPRESAS POR DESCUBRIR: ¡Rainbocorns Puppycorn Surprise contiene más de diez sorpresas superdulces!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

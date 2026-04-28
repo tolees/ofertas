@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con complejo de aceite de cuidado
-- Protege contra la sequedad
-- Tubo con un 30% de papel
-- Fórmula sin microplástico
-- Vegano
-- Cuidado rico
 - Magnolia y manteca de karité
+- Fórmula sin microplástico
+- Protege contra la sequedad
+- Cuidado rico
+- Vegano
 - Efecto a largo plazo: protección y humedad duradera
+- Con complejo de aceite de cuidado
+- Tubo con un 30% de papel
 - Para pieles muy secas y dañadas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

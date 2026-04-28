@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Amortiguación ultraligera
-- Mstrike
 - Zancada suave
+- Amortiguación ultraligera
 - Plantilla Goga Mat refrigerada por aire
+- Mstrike
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DL4P6PLN{{</world>}}

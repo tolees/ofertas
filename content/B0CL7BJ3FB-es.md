@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Longitud corta
 - Goma elástica en la muñeca
+- Longitud corta
 - Bolsillos delanteros
 
 [🛒 Aquí!!!]({{< param buyurl >}})

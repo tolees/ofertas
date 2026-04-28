@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Corte ajustado
 - 83% poliéster (reciclado) / 17% elastano
+- Tejido elástico
 - Compresión baja/media
-- Cuello redondo
-- Protección contra los rayos UV
 - Diseño optimizado para una total libertad de movimiento
 - AEROREADY
-- Tejido elástico
-- Corte ajustado
+- Protección contra los rayos UV
+- Cuello redondo
 - TECHFIT concentra la energía de tus músculos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

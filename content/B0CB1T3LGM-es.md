@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Slip On
 - Punta redondeada
 - Logotipo de la marca
+- Slip On
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CB1T3LGM{{</world>}}

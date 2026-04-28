@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Muy rápido: no es necesario hervir agua primero. Hasta 4 raciones en 10 minutos.
-- Recetas de pasta en un solo paso. Añade todos los ingredientes en el recipiente y cocínalos en el microondas.
-- ¡De la cocina a la mesa! Su diseño permite servir directamente a la mesa de la cena.
 - Incluye Recetas: Farfalle con tomates secos, pesto, fettuccini arrabiata, spaghetti limone parmegiano …
 - Guía de porciones para spaghetti en la base. Para 1-2 personas o 3-4 personas.
+- ¡De la cocina a la mesa! Su diseño permite servir directamente a la mesa de la cena.
+- Muy rápido: no es necesario hervir agua primero. Hasta 4 raciones en 10 minutos.
+- Recetas de pasta en un solo paso. Añade todos los ingredientes en el recipiente y cocínalos en el microondas.
 - Fabricado en Polipropileno y Silicona de alta calidad, absolutamente apto para su uso en microondas con capacidad mínima de 25 litros y plato giratorio de 315 mm diam.
 - Incluye: Tabla de cocción con pastas modernas y saludables: pasta larga y seca, pasta larga y fresca, pasta rellena seca, ñoquis frescos …
 - Limpio: la espuma no sale y el microondas permanece limpio.

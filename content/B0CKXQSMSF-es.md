@@ -29,12 +29,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Forro textil
-- Drop: 6 mm (talón: 35 mm / antepié: 29 mm)
-- Cierre de cordones
-- Horma clásica
-- Suela de TPU
 - Empeine textil
 - Peso: 319 g (talla 42 2/3)
+- Suela de TPU
+- Drop: 6 mm (talón: 35 mm / antepié: 29 mm)
+- Horma clásica
+- Cierre de cordones
 - Mediasuela Cloudfoam
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

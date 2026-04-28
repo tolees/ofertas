@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Más manejables
 - Duraderos
+- Más manejables
 - Metálicos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

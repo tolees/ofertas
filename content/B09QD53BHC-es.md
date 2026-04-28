@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- NEUTRALIZA TONOS AMARILLENTOS Y ANARANJADOS: Contiene pigmentos altamente concentrados que actúan inmediatamente sobre la fibra para neutralizar los tonos amarillentos e iluminar el cabello
+- ESPECÍFICAMENTE PARA CABELLOS CLAROS: Fórmula multiactiva sin parabenos, siliconas, sulfatos SLS, SLES, alcohol denat, ceras, ftalatos, mineral oil, ni paraffin liquidum; 95% de ingredientes naturales; CRUELTY FREE; Apto para veganos; Apto para el Método Curly; Testado dermatológicamente
 - NUTRE Y REPARA EN PROFUNDIDAD: Gracias a las proteínas de Baobab y el arroz violeta, que protegen frente a los daños producidos por tratamientos químicos y ejercen un efecto antioxidante y calmante
 - El CC CREAM MATIZADORA VIOLETA de NATURTINT elimina los tonos amarillentos y cobrizos no deseados y acondiciona profundamente; su uso regular multiplica y prolonga la belleza de cabellos claros durante más tiempo
-- ESPECÍFICAMENTE PARA CABELLOS CLAROS: Fórmula multiactiva sin parabenos, siliconas, sulfatos SLS, SLES, alcohol denat, ceras, ftalatos, mineral oil, ni paraffin liquidum; 95% de ingredientes naturales; CRUELTY FREE; Apto para veganos; Apto para el Método Curly; Testado dermatológicamente
+- NEUTRALIZA TONOS AMARILLENTOS Y ANARANJADOS: Contiene pigmentos altamente concentrados que actúan inmediatamente sobre la fibra para neutralizar los tonos amarillentos e iluminar el cabello
 - MODO DE EMPLEO: Lavar el cabello y secar con una toalla; aplicar una pequeña cantidad distribuyendo bien el producto desde la raíz hasta las puntas; no aclarar; apto para cabellos rubios, blancos y teñidos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

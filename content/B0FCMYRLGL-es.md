@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - camisa bordada
-- Tejido oxford 100% algodón
 - Ribete a rayas en la parte interior del cuello
+- Camisa oxford
 - Botón nacarado
 - Camisa de manga larga con cuello y plumón
-- Camisa oxford
+- Tejido oxford 100% algodón
 - Árbol bordado en contraste
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

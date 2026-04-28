@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ESTUCHE CON SET DE CONDIMENTOS, SALSAS Y ALIÑOS. Iris Barcelona te trae un juego de aliño portátil para que lleves aderezos y salsas en tu bolsa porta alimentos a cualquier parte de forma segura y sin derrames. En el estuche transparente encontrarás 2 botellas pequeñas con difusor y dos botes de cristal pequeños con tapa.
+- FÁCIL LIMPIEZA EN LAVAVAJILLAS. Además de ser unos recipientes de vidrio totalmente inocuos en los que poder llevar tu aliño, este material también es apto para lavavajillas, por lo que podrás limpiarlos sin esfuerzo.
 - 2 BOTES CON TAPA PARA ESPECIAS, SAL Y PIMIENTA. También incluye 2 botes pequeños de cristal para llevar salsas, sal, pimienta u otras especias. Tienen tapa de rosca y capacidad para 10 ml cada uno.
 - 2 BOTELLAS CON DIFUSOR ESTILO ACEITERA Y VINAGRERA. El set incluye 2 mini botellas de cristal con capacidad para 50 ml cada una. Su tapón con difusor facilitará que puedas aliñar con aceite o vinagre de manera más fácil y limpia.
+- ESTUCHE CON SET DE CONDIMENTOS, SALSAS Y ALIÑOS. Iris Barcelona te trae un juego de aliño portátil para que lleves aderezos y salsas en tu bolsa porta alimentos a cualquier parte de forma segura y sin derrames. En el estuche transparente encontrarás 2 botellas pequeñas con difusor y dos botes de cristal pequeños con tapa.
 - IRIS BARCELONA, DISEÑO E INNOVACIÓN SOSTENIBLE. Innovamos en la creación de productos reutilizables para llevar tu comida fuera de casa. Además de un diseño diferente y funcional, apostamos por la reutilización y el uso de materiales más naturales, sostenibles y respetuosos con el medio ambiente.
-- FÁCIL LIMPIEZA EN LAVAVAJILLAS. Además de ser unos recipientes de vidrio totalmente inocuos en los que poder llevar tu aliño, este material también es apto para lavavajillas, por lo que podrás limpiarlos sin esfuerzo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07M73B8GY{{</world>}}

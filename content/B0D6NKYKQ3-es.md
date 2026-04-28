@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste: regular
-- Tipo de estiramiento: alta elasticidad
-- Jeans Pantalones Largos
-- Composición: 55 por ciento algodón 30 por ciento lyocell 13 por ciento poliéster 2 por ciento elastano
 - Instrucciones de cuidado: apto para lavadora
+- Composición: 55 por ciento algodón 30 por ciento lyocell 13 por ciento poliéster 2 por ciento elastano
+- Tipo de estiramiento: alta elasticidad
+- Ajuste: regular
+- Jeans Pantalones Largos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D6NKYKQ3{{</world>}}

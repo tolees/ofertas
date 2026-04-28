@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Logo de la marca en el talón
-- Con una plantilla cómoda
 - Perforaciones en la puntera
+- Con una plantilla cómoda
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D2KR8M6X{{</world>}}

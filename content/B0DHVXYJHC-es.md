@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mediasuela Cloudfoam
-- Forro textil
-- Contiene al menos un 20% de material reciclado
-- Empeine sintético
-- Compra 1 talla más grande
 - Suela sintética
+- Mediasuela Cloudfoam
+- Contiene al menos un 20% de material reciclado
+- Forro textil
+- Compra 1 talla más grande
+- Empeine sintético
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHVXYJHC{{</world>}}

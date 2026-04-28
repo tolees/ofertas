@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- DIMENSIONES: Largo 25 cm, Alto 21,5 cm, Ancho 8 cm. Longitud del cable: 1,8 m. MATERIALES: Plástico, plexiglás.
+- Si tú y el Letrero Luminoso LED con Efecto Neón, Its a Sign, All You Need is Love de Legami se han encontrado, es claramente una señal; sí, es la señal de que estás listo para el amor; colócalo en tu mesa para dar un mensaje o regálalo a quien amas y quieras que lo cuelgue en la pared; dónalo en San Valentín o úsalo para decir “te amo” durante el resto del año; tú eliges qué momento y qué habitación iluminar; lo importante es ponerle el corazón.
 - CARACTERÍSTICAS: Base de apoyo removible y orificios de fijación para colgar el letrero en la pared. Alimentación mediante cable Tipo-C (incluido), Interruptor ON/OFF.
 - Tenemos un universo de mundos a tu disposición; creamos artículos de calidad siempre diferentes, coloridos, positivos y divertidos, óptimos para cada persona y para cada estado de ánimo; en Legami siempre puedes encontrar tu mundo óptimo para descubrir y explorar día a día: un mundo de felicidad para cuando estás algo deprimido, mundo de sorpresas para cuando te aburres, un mundo de inspiraciones para cuando te faltan ideas, un mundo de emociones diferentes en constante evolución
-- Si tú y el Letrero Luminoso LED con Efecto Neón, Its a Sign, All You Need is Love de Legami se han encontrado, es claramente una señal; sí, es la señal de que estás listo para el amor; colócalo en tu mesa para dar un mensaje o regálalo a quien amas y quieras que lo cuelgue en la pared; dónalo en San Valentín o úsalo para decir “te amo” durante el resto del año; tú eliges qué momento y qué habitación iluminar; lo importante es ponerle el corazón.
-- DIMENSIONES: Largo 25 cm, Alto 21,5 cm, Ancho 8 cm. Longitud del cable: 1,8 m. MATERIALES: Plástico, plexiglás.
 - ADVERTENCIAS: No apto para la iluminación de ambientes domésticos. Solo con fines decorativos. Este producto no es un juguete. Instrucciones incluidas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

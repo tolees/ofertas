@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Empeine de Fiberskin con estampado Sprintgrid
 - Horma clásica
-- Forro textil
 - Suela Sprintplate Fusion para césped natural seco y césped artificial
+- Forro textil
+- Empeine de Fiberskin con estampado Sprintgrid
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHVZ16CN{{</world>}}

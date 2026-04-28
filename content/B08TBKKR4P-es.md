@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Manga corta
 - 100% algodón
+- Manga corta
 - Para hombre
 
 [🛒 Comprar!!!]({{< param buyurl >}})

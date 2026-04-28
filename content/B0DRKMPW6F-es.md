@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- AYUDA AL SISTEMA INMUNITARIO y PROBIÓTICOS: Complemento alimenticio multivitamínico para adultos, con Probióticos, Zinc y Vitaminas para ayudar al intestino y a las defensas naturales
-- CONTENIDO: 1x Gummies Defense de Bion3 para Ayudar al Intestino y al Sistema Inmunitario, 60 Gummies, para 1-2 meses de uso
-- MODO DE USO: Para adultos (18+), tomar 1-2 gummies masticables al día. No se necesita agua. No exceder la dosis diaria recomendada. Los complementos alimenticios no pretenden sustituir una dieta variada y equilibrada ni un estilo de vida saludable
 - FÓRMULA ÚNICA 3 EN 1: con Probióticos, Zinc y Vitaminas. La Vitamina B3 ayuda al intestino, la Vitamina C y el Zinc ayudan a la función normal del Sistema Inmunitario y la Vitamina C contribuye a la reducción del cansancio y la fatiga
+- AYUDA AL SISTEMA INMUNITARIO y PROBIÓTICOS: Complemento alimenticio multivitamínico para adultos, con Probióticos, Zinc y Vitaminas para ayudar al intestino y a las defensas naturales
 - SIN: Sin gluten ni lactosa. Sin gelatina animal, saborizantes, colorantes ni edulcorantes artificiales. Fórmula vegana. Con sabor a frutos rojos
+- MODO DE USO: Para adultos (18+), tomar 1-2 gummies masticables al día. No se necesita agua. No exceder la dosis diaria recomendada. Los complementos alimenticios no pretenden sustituir una dieta variada y equilibrada ni un estilo de vida saludable
 - CON PROBIÓTICOS: Cada gummy contiene 150 millones de probióticos (B. coagulans) seleccionados para llegar vivos al intestino
+- CONTENIDO: 1x Gummies Defense de Bion3 para Ayudar al Intestino y al Sistema Inmunitario, 60 Gummies, para 1-2 meses de uso
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DRKMPW6F{{</world>}}

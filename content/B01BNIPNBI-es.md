@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Batería intercambiable de carga óptima que es compatible con una gama amplia de herramientas de jardín
-- Voltaje: 36 Voltios
 - Dimensiones del producto: 10 x 8 x 13 cm; 680 gramos
-- Adecuado para GLC3630L, GTC3655L, GWC3600L, CLM3820L1, CLM3820L2, CLMA4820L, STB3620L, GTC36552PC, GKC3630L20
 - BL20362-XJ - Batería Litio 36V 2Ah compatible con todas las herramientas de jardín y limpieza 36V
+- Adecuado para GLC3630L, GTC3655L, GWC3600L, CLM3820L1, CLM3820L2, CLMA4820L, STB3620L, GTC36552PC, GKC3630L20
+- Voltaje: 36 Voltios
+- Batería intercambiable de carga óptima que es compatible con una gama amplia de herramientas de jardín
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01BNIPNBI{{</world>}}

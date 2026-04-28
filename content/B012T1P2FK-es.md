@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Agua de colonia narciso rodriguez
 - Agua de colonia perfumería hombre
 - Narciso rodriguez for him bleu noir edt m100; referencia 3423478806054
-- Agua de colonia narciso rodriguez
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B012T1P2FK{{</world>}}

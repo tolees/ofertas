@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Nota: los cordones y cremalleras incorporados en el calzado Columbia Sportswear Company no son impermeables.
+- Entresuela ligera Techlite para una amortiguación superior de larga duración y alto retorno de energía
 - Goma de tracción Omni-Grip que no deja marcas
 - Combinación superior de malla impermeable/cuero. Membrana impermeable y transpirable Omni-Tech
-- Entresuela ligera Techlite para una amortiguación superior de larga duración y alto retorno de energía
-- Nota: los cordones y cremalleras incorporados en el calzado Columbia Sportswear Company no son impermeables.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CN3V1LSZ{{</world>}}

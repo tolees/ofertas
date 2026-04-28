@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material de calidad
 - Detalles distintivos de la marca
+- Material de calidad
 - Diseño ligero
 - Ajuste cómodo que ofrece flexibilidad
 

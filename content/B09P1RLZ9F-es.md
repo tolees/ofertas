@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- COLECCIONA OTROS MINIMUNDOS: Interconecta los sets de juego Mini World Magic para construir el mundo de Equestria. (Se venden por separado. Sujeto a disponibilidad.)
 - LLEVA LA DIVERSIÓN ADONDE QUIERAS: Guarda las figuras y los accesorios en el estuche, que tiene la forma de la Marca de belleza de Sunny, y llévalo contigo. Este juguete es un gran regalo para las niñas y los niños que adoran crear y personalizar sus juegos
+- CONSTRUYE MINIESCENAS: Encaja los accesorios inspirados en Bahía Yeguamar en el estuche de creación para crear una escena única, basada en la serie My Little Pony: Cuenta tu historia
 - MINIMUNDO MÁGICO: ¡Crea un mundo de mágicos miniamigos de toda Equestria! El set de juego viene con las figuras de Sunny Starscout y Choco Cozy en un adorable tamaño, a escala de 2,5 cm
 - MÁS DE 40 PIEZAS: Incluye estuche, 2 miniponis, accesorios para personalizar escenas, accesorios inspirados en el carrito de smooothies y algunos accesorios que cambian de color al contacto con el agua fría
-- COLECCIONA OTROS MINIMUNDOS: Interconecta los sets de juego Mini World Magic para construir el mundo de Equestria. (Se venden por separado. Sujeto a disponibilidad.)
-- CONSTRUYE MINIESCENAS: Encaja los accesorios inspirados en Bahía Yeguamar en el estuche de creación para crear una escena única, basada en la serie My Little Pony: Cuenta tu historia
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09P1RLZ9F{{</world>}}

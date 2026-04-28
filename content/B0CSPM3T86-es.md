@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Combinaciones de materiales y colores
 - Zapatos deportivos/zapatillas de moda
+- Combinaciones de materiales y colores
 - Logotipo clásico en el cuarto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

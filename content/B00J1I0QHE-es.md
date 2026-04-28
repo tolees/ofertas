@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una vez endurecido, el producto puede ser lijado, limado, pulido, taladrado, mecanizado y pintado
-- Resistencia a la temperatura: desde -30ºC hasta +150ºC
-- Resistencia a líquidos: resistente al agua, al aceite y a los disolventes usuales. También resiste a los ácidos y álcalis diluidos
-- No contiene disolventes y no altera su volumen al endurecer
 - Resistencia a tracción por cizalla (según norma EN 1465): 50 kg/cm2 (24 horas, 23ºC, acero)
+- Resistencia a líquidos: resistente al agua, al aceite y a los disolventes usuales. También resiste a los ácidos y álcalis diluidos
+- Resistencia a la temperatura: desde -30ºC hasta +150ºC
+- No contiene disolventes y no altera su volumen al endurecer
+- Una vez endurecido, el producto puede ser lijado, limado, pulido, taladrado, mecanizado y pintado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00J1I0QHE{{</world>}}

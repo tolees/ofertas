@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Para cartuchos de 2 cámaras de hasta 390 ml de contenido
-- Para cartuchos de tamaño estándar y variedad de morteros de inyección fischer
 - Herramienta esencial para decoradores, labradores, instaladores de ventanas y muchos otros oficios
 - Pistola aplicadora de resina fischer fis am 58000
+- Para cartuchos de tamaño estándar y variedad de morteros de inyección fischer
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0070MCFLS{{</world>}}

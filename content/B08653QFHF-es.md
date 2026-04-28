@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela flexible.
-- Empeine de malla.
 - Para hombre.
 - Plantilla de espuma viscoelástica.
+- Suela flexible.
+- Empeine de malla.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08653QFHF{{</world>}}

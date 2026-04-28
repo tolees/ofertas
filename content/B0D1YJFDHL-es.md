@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Parte superior de malla ligera
-- Construcción sin cordones de corte bajo
 - Ajuste regular a estrecho
+- Construcción sin cordones de corte bajo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D1YJFDHL{{</world>}}

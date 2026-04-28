@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto adecuado para regalar
 - Figura coleccionable
+- Producto adecuado para regalar
 - Con múltiples detalles
 
 [🛒 Aquí!!!]({{< param buyurl >}})

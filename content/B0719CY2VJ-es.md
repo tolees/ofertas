@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Lavable a máquina, secar al aire
-- Suela de goma flexible
 - Plantilla acolchada Goga Max
+- Suela de goma flexible
+- Lavable a máquina, secar al aire
 - Parte superior de malla de aire atlética transpirable casi sin costuras
 - Entresuela y suela ligera y sensible con amortiguación 5GEN
 

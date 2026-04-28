@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Madera
 - Debido a los diferentes ajustes de pantalla, los colores pueden variar.
+- Madera
 - Diámetro: 6 cm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Miniaturas para D&D que dan vida a la creatividad de tus juegos, figuras versátiles para D&D, utilizadas como monstruos, personajes de jugador o NPC. Gran regalo para pintar miniaturas de mazmorras y dragones.
-- Gran juego de iniciación de Dungeons and Dragons: diseñado pensando en la diversión. Hobby - Accesorio de pintura en miniatura para mazmorras y dragones. Miniaturas de 28 mm, figuras en miniatura sin pintar, miniaturas RPG de fantasía de mesa
 - Construcción de historias que ahorra tiempo: incluye guía de monstruos y configuración de campaña lista para el juego (PDF digital) – misiones para tus minis dnd, configuración de campaña de más de 200 pgs, mapas para este juego de iniciación dnd para d&d 5e
-- Impresionantes regalos de Dungeons and Dragons: si algún minis está defectuoso, con mucho gusto los reemplazamos. Enviar figuras en miniatura RPG a granel es difícil. Esperamos que disfrutes de estas miniaturas de juegos de mesa D&D monstruos.
 - Deep Cast of Fantasy Miniatures para DND, Pathfinder y Fantasy TTRPG: Minis pintables para miniaturas DND Monster - plástico sin imprimar, 16 minis pequeños de 28 mm (1-1.5 pulgadas). Escala de 28-32 mm.
+- Impresionantes regalos de Dungeons and Dragons: si algún minis está defectuoso, con mucho gusto los reemplazamos. Enviar figuras en miniatura RPG a granel es difícil. Esperamos que disfrutes de estas miniaturas de juegos de mesa D&D monstruos.
+- Gran juego de iniciación de Dungeons and Dragons: diseñado pensando en la diversión. Hobby - Accesorio de pintura en miniatura para mazmorras y dragones. Miniaturas de 28 mm, figuras en miniatura sin pintar, miniaturas RPG de fantasía de mesa
+- Miniaturas para D&D que dan vida a la creatividad de tus juegos, figuras versátiles para D&D, utilizadas como monstruos, personajes de jugador o NPC. Gran regalo para pintar miniaturas de mazmorras y dragones.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B9KVVX88{{</world>}}

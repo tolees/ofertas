@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseno funcional
-- De la marca Vans
 - Alta calidad
+- De la marca Vans
+- Diseno funcional
 - Materiales resistentes
 
 [🛒 Aquí!!!]({{< param buyurl >}})

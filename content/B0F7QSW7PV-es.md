@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Detrás de cada creación de chocolate Lindt hay un Maestro Chocolatero; desde 1845, el chocolate Lindt encarna la pasión de sus Maestros Chocolateros siguiendo las mejores recetas tradicionales suizas y utilizando ingredientes de calidad
-- Un chocolate más comprometido: con LUCKY MONKEY, Lindt apoya la preservación del mono Titi de San Martín y su hábitat en Perú, participando en el financiamiento de los proyectos llevados a cabo por la asociación Proyecto Mono Tocón
-- Una tableta de 100g con porciones adaptadas, con 8 barritas partidas: optimo para la merienda (1 porción = 2 barritas)
 - Lindt LUCKY MONKEY Leche Fundente Pasta de Avellanas: la combinación de un delicioso chocolate con leche con pasta de avellanas ultra-fundente para un momento puro de indulgencia; con sus barritas partidas, esta receta es optimo para la merienda de grandes y pequeños (1 porción = 2 barritas)
+- Detrás de cada creación de chocolate Lindt hay un Maestro Chocolatero; desde 1845, el chocolate Lindt encarna la pasión de sus Maestros Chocolateros siguiendo las mejores recetas tradicionales suizas y utilizando ingredientes de calidad
 - Un chocolate con leche de calidad: elaborado con granos de cacao 100% de origen Perú
+- Una tableta de 100g con porciones adaptadas, con 8 barritas partidas: optimo para la merienda (1 porción = 2 barritas)
+- Un chocolate más comprometido: con LUCKY MONKEY, Lindt apoya la preservación del mono Titi de San Martín y su hábitat en Perú, participando en el financiamiento de los proyectos llevados a cabo por la asociación Proyecto Mono Tocón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F7QSW7PV{{</world>}}

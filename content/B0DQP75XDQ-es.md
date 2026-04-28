@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cierre de joyería: hebilla
+- Color de la joyería de plata
 - Material de joyería: acero inoxidable
 - Tipo de joyería - Pulsera
-- Color de la joyería de plata
-- Cierre de joyería: hebilla
 - Plataforma Logo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

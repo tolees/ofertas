@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Empeine sintético y de piel
-- Horma clásica
-- Forro textil
 - Mediasuela Cloudfoam
+- Forro textil
 - Suela de goma
+- Horma clásica
+- Empeine sintético y de piel
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DHXC4C84{{</world>}}

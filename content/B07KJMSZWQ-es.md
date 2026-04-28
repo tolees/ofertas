@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Descubre todas las marcas de EMP!
-- Jersey de punto con las siguientes características:
 - Jersey de Punto || Ajuste normal || Color intenso || Material duradero
+- Jersey de punto con las siguientes características:
 - Básicos
 - Ajuste : Regular
 

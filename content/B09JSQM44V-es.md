@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- materialFabricComposition: Outer: 100% Polyester; Lining: 100% Polyester; Padding: 100% Polyester; Sleeve: 100% Polyester
 - Care Label:
-- Hybrid jacket
 - Long Sleeves
+- Hybrid jacket
 - Regular Fit
+- materialFabricComposition: Outer: 100% Polyester; Lining: 100% Polyester; Padding: 100% Polyester; Sleeve: 100% Polyester
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09JSQM44V{{</world>}}

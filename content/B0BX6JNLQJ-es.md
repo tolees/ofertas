@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con el aroma único de King C. Gillette con notas de sándalo, cedro, bergamota, semillas de cardamomo y mandarina
-- Crema de afeitar King C. Gillette Original para un afeitado de calidad profesional
 - Crea una superficie suave para proteger la piel de la irritación provocada por el afeitado
+- Con el aroma único de King C. Gillette con notas de sándalo, cedro, bergamota, semillas de cardamomo y mandarina
 - Crea una espuma abundante y cremosa para una comodidad máxima
+- Crema de afeitar King C. Gillette Original para un afeitado de calidad profesional
 - Se puede utilizar con las manos o con una brocha de afeitar original King C. Gillette para obtener mejores resultados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

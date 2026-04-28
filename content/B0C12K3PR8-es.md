@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Under Armour Ua Gl Foundation Update Ss Camiseta Mod Gray Medium Heather S Hombre'
-date: 2026-04-19 23:30:50
+date: 2026-04-27 20:57:54
 image: 'https://m.media-amazon.com/images/I/31rzpMvEAbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0C12K3PR8-es Under Armour Ua Gl Foundation Update Ss Camiseta Mod Gray...'
 sku: 'B0C12K3PR8-es'
 tags: [ '🇪🇸', ]
-actualPrice: 11.8 EUR
+actualPrice: 15.12 EUR
 currency: EUR
-price: 11.8
+price: 15.12
 comparePrice: 28.0 EUR
 prodname: 'Under Armour Ua Gl Foundation Update Ss Camiseta Mod Gray Medium Heather S Hombre'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0C12K3PR8/?tag=tolees-21'
-descuento: '57.86'
-average: '13.3'
+descuento: '46.00'
+average: '13.9066666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

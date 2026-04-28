@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Movimiento de cuarzo de dos manecillas
 - Grosor de la caja de 6,85 mm / Diámetro de la caja: 40 mm
 - Esfera plateada con el logo distintivo de CK
+- Movimiento de cuarzo de dos manecillas
 - 3 ATM de resistencia al agua El agua del grifo o la lluvia no daña nuestros relojes siempre y cuando la caja, la corona y el cristal permanezcan intactos.
 - Pulsera de malla de acero inoxidable
 

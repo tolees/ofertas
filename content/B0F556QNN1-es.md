@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillo canguro
 - Mínima cantidad de costuras
 - Diseño con capucha
+- Bolsillo canguro
 - 55% algodón / 36% poliéster (reciclado) / 9% viscosa
 - Corte clásico
 

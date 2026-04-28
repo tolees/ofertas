@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dimensiones: longitud total: 20 cm, ancho: 10,5 cm, altura total: 25 cm, peso: 110 g aprox
-- Ideal para el cuidado de plantas de interior de tamaño pequeño como bonsái, suculentas, tillandsie, etc.
-- Contenedor de polietileno resistente de 1,2 litros con aspersor de ducha y pulverizador con chorro modificable mediante el anillo correspondiente
 - Fabricado en China
+- Dimensiones: longitud total: 20 cm, ancho: 10,5 cm, altura total: 25 cm, peso: 110 g aprox
+- Contenedor de polietileno resistente de 1,2 litros con aspersor de ducha y pulverizador con chorro modificable mediante el anillo correspondiente
+- Ideal para el cuidado de plantas de interior de tamaño pequeño como bonsái, suculentas, tillandsie, etc.
 - Regadera de tamaño pequeño con pulverizador integrado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

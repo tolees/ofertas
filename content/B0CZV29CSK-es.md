@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 70% algodón / 30% poliéster (reciclado)
-- Puños y dobladillo de canalé
 - Contiene al menos un 70% de material reciclado y renovable
+- 70% algodón / 30% poliéster (reciclado)
 - Corte clásico
-- Hombros con la costura caída
+- Puños y dobladillo de canalé
 - Cuello redondo
+- Hombros con la costura caída
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZV29CSK{{</world>}}

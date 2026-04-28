@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre con cordones
 - Zapato bajo
+- Cierre con cordones
 - Estilo clásico y limpio inspirado en el tenis
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

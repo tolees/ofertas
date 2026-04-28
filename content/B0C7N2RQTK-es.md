@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suave aplicador
 - Fórmula de alta cobertua, modulable
 - Larga duración
-- Resistente al agua y no transfiere
+- Suave aplicador
 - Rimmel London Multitasker, el corrector que corrige, esculpe e inlumina
+- Resistente al agua y no transfiere
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C7N2RQTK{{</world>}}

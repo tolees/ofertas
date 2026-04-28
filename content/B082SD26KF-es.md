@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Perforación en la puntera
-- Silueta de bota baja
 - Solapa del talón de ante
-- Parte superior sintética
 - Cierre de encaje
+- Parte superior sintética
+- Silueta de bota baja
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B082SD26KF{{</world>}}

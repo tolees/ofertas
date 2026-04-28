@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cinta firmada en el interior del cuello
-- Cuello, puños y dobladillo acanalados
 - Algodón puro
 - Cuello redondo
+- Cuello, puños y dobladillo acanalados
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F4QKRWZ8{{</world>}}

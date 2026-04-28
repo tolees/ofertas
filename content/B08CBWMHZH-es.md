@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalón corto con corte en laterales a contraste
-- El diseño otorga libertad a los movimientos
 - Logo J serigrafiado
+- El diseño otorga libertad a los movimientos
 - Cuenta con cintura ajustable elástica y cordón
+- Pantalón corto con corte en laterales a contraste
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08CBWMHZH{{</world>}}

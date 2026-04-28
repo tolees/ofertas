@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Life Is Strange 2 - Code In A Box'
-date: 2026-04-24 13:19:57
+date: 2026-04-27 21:33:53
 image: 'https://m.media-amazon.com/images/I/41fMud0EtgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FHQ5Q7GX/?tag=tolees-21'
 descuento: '53.84'
-average: '11.795'
+average: '11.0933333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

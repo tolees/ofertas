@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Crafted Khaki Slim Tapered
-- Slim Tapered fit
 - Pantalones chinos refinados con tecnología Smart 360 Flex
+- Slim Tapered fit
 - Cuenta con un bolsillo de seguridad con cremallera oculto y un compartimento para monedas
 - Cintura elástica Flex Comfort Waistband para una mayor elasticidad
 - Tejido de algodón ultraelástico para una máxima flexibilidad y comodidad

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- FÓRMULA CREMOSA: ayuda a que tu barra de labios dure más tiempo con nuestros perfiladores de labios. Pigmentación intensa en una sola pasada con textura suave. ¡Perfecto para dar volumen a tus labios!
+- VEGANO Y CRUELTY FREE: 3INA es una marca de maquillaje española que fabrica en Europa. Todos nuestros productos son veganos, libres de parabenos y sin crueldad animal.
 - CONTIENE SACAPUNTAS: The Automatic Lip Pencil viene con un sacapuntas incorporado para mantener siempre su punta precisa y conseguir el delineado perfecto.
 - WATERPROOF: delineadores de labios de larga duración resistentes al agua para lucir un maquillaje de labios perfecto a lo largo del día. ¡Combínalos con el labial The Lipstick para completar tu look!
+- FÓRMULA CREMOSA: ayuda a que tu barra de labios dure más tiempo con nuestros perfiladores de labios. Pigmentación intensa en una sola pasada con textura suave. ¡Perfecto para dar volumen a tus labios!
 - FINO Y PRECISO: este lápiz de labios retráctil viene con una mina precisa para ayudarte a delinear tus labios. Además es de fácil aplicación gracias a que su textura cremosa se desliza perfectamente.
-- VEGANO Y CRUELTY FREE: 3INA es una marca de maquillaje española que fabrica en Europa. Todos nuestros productos son veganos, libres de parabenos y sin crueldad animal.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BYGZDDBG{{</world>}}

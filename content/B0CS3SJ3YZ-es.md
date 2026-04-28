@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño CAPSULE, serie especial Roller. El sacapuntas dispone de una cuchilla de acero afilada y resistente, ideal para todo tipo de lápices.
+- Combinación de goma de borrar y sacapuntas con depósito.
 - Las gomas de borrar MILAN están fabricadas en España desde 1918.
 - Diseño original creado por el departamento de I+D de MILAN. Colores surtidos aleatorios: azul, amarillo y rosa. Incluye 2 gomas de borrar de recambio.
+- Diseño CAPSULE, serie especial Roller. El sacapuntas dispone de una cuchilla de acero afilada y resistente, ideal para todo tipo de lápices.
 - Sacapuntas con cuchilla de seguridad: este sistema evita que se pueda separar la hoja del cuerpo del sacapuntas.
-- Combinación de goma de borrar y sacapuntas con depósito.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CS3SJ3YZ{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- COMPITE EN CADA CATEGORÍA, un total de 9 diferentes.
 - REGLAS SENCILLAS: consigue que tu equipo adivine la mayor cantidad de palabras posibles en 1 minuto usando mímica, describiendo, haciendo ruidos, bailando o terminanado letras de canciones. Sin embargo, cada tema tiene su propio reta para hacerlo más divertido
+- COMPITE EN CADA CATEGORÍA, un total de 9 diferentes.
 - JUGABILIDAD ILIMITADA: varias temáticas: Celebridades, deportes, marcas, cultura general, canciones...hay algo para cada persona.
-- BUNNY HOPS!: !El juego perfecto para animar el ambiente antes de una noche de fiesta, o para una noche de juegos familiares o con amigos!
 - De 4 a 16 jugadores | 20 minutos por partida | A partir de 14 años de edad.
+- BUNNY HOPS!: !El juego perfecto para animar el ambiente antes de una noche de fiesta, o para una noche de juegos familiares o con amigos!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BKL56F39{{</world>}}

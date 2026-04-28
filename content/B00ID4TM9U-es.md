@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Siembra de asiento en plena tierra de febrero a mayo en líneas espaciadas de 20 cm
 - Empleo para ensaladas, tortillas y revueltos
-- Planta comestible, tipo de cebolla sin bulbo y hojas de color verde de unos 25-30 cm de altura
 - Recolección a los 3 meses de su siembra
+- Planta comestible, tipo de cebolla sin bulbo y hojas de color verde de unos 25-30 cm de altura
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00ID4TM9U{{</world>}}

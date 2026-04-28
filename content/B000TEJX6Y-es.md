@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Contiene 4 electrodos negros de 5x5 cm con tecnología EasySnap para electroestimuladores Compex
-- CONSERVACIÓN: Para conservar los electrodos en buen estado, pégalos de nuevo en el plástico y vuelve a guardarlos en la bolsa con cierre. Guárdalos en un lugar fresco.
 - COMPEX, LÍDER MUNDIAL EN ELECTROESTIMULACIÓN: Desde 1986, Compex, marca de origen suizo, es utilizada por los mejores atletas del mundo y por destacados profesionales en entrenamiento, estética, rehabilitación, tratamiento del dolor y masajes.
 - ALARGAR LA VIDA ÚTIL: Para alargar la vida útil de los electrodos, recomendamos utilizar el gel Compex para rehidratarlos.
 - LARGA DURACIÓN: Los electrodos Compex están diseñados para durar hasta más de 30 usos. Su durabilidad depende del estado de la piel y de la conservación de los electrodos.
 - COMPATIBILIDAD: diseñado para optimizar el rendimiento de todos los electroestimuladores Compex con cable e inalámbricos (RUNNER, SPORT, FITNESS, SPORT ELITE, FIT, FIT 1.0, Fit 3.0, Fit 5.0, SP2.0, SP4.0, SP6.0, SP8.0)
+- CONSERVACIÓN: Para conservar los electrodos en buen estado, pégalos de nuevo en el plástico y vuelve a guardarlos en la bolsa con cierre. Guárdalos en un lugar fresco.
 - CERTIFICADOS POR LA MARCA COMPEX: Los electrodos COMPEX son los únicos recomendados y garantizados por la marca para una transmisión óptima del impulso eléctrico.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

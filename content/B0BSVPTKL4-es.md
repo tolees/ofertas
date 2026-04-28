@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aplicar 1 o 2 gotas con la pipeta y usar el aplicador exclusivo para masajear el contorno. Usar mañana y noche.
 - Sérum de ojos corrige ojeras y arrugas. Con Ácido Hialurónico, vitaminas B5, B3, Cg, y Hepes para combatir signos de fatiga, mejorar apariencia e hidratar la piel. Apto para pieles sensibles y usuarios con lentillas.
 - El contorno de ojos se revitaliza, queda más firme y se reducen arrugas, líneas de expresión y ojeras.
+- Aplicar 1 o 2 gotas con la pipeta y usar el aplicador exclusivo para masajear el contorno. Usar mañana y noche.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BSVPTKL4{{</world>}}

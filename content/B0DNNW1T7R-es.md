@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Nuestro característico fit recto
-- Los jeans azules originales
-- LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
 - Un lienzo en blanco para personalizarlo y expresar tu estilo
+- Nuestro característico fit recto
+- LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
+- Los jeans azules originales
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DNNW1T7R{{</world>}}

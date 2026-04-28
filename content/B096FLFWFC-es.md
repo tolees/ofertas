@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- La Capilano es una sandalia de senderismo diurno de alto rendimiento La entresuela y la suela exterior con sistema de doble compuesto son cómodas para las largas caminatas Es extremadamente ligera y está bien amortiguada, mientras que las correas ajustables proporcionan un ajuste y sujeción Los tacos de goma de la suela añaden tracción adicional en zonas críticas
 - Exterior: 50% Poliéster (Reciclado) 40% Caucho 10% Poliuretano - Exterior 2: 100% Poliéster (Reciclado) - Forro: 70% Algodón 30% Poliuretano - Plantilla: 100% EVA - Suela: 100% Caucho
 - Una sandalia ligera pero resistente para excursiones de un día de nuestro concepto Fjord-to-Fjell
-- La Capilano es una sandalia de senderismo diurno de alto rendimiento La entresuela y la suela exterior con sistema de doble compuesto son cómodas para las largas caminatas Es extremadamente ligera y está bien amortiguada, mientras que las correas ajustables proporcionan un ajuste y sujeción Los tacos de goma de la suela añaden tracción adicional en zonas críticas
 - Cierre ajustable, Plantilla antideslizante texturizada, Tratamiento antimicrobiano para evitar el olor, del 60% de la parte superior está fabricada con materiales reciclados
 - HH Quick Dry, HH Max-Comfort Insole, HH Max-Grip, HH Tough-Wear
 

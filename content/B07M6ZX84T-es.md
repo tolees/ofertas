@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Características incluyen: tejido en sarga de algodón
-- Gorro de pescador para hombre
 - Tirante ajustable en tejido idéntico y bordado plano directo en la parte frontal central
+- Gorro de pescador para hombre
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07M6ZX84T{{</world>}}

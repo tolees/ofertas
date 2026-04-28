@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- FIGURA ROBOT DE 10 CM: En el modo robot, la figura de Bumblebee mide 10 cm de alto
 - PERSONAJES INSPIRADOS EN TRANSFORMERS: LA CHISPA DE LA TIERRA: Inspirado en Bumblebee, leal explorador Autobot, de la serie animada Transformers: La chispa de la tierra
 - JUGUETE TRANSFORMERS CONVERTIBLE 2 EN 1: En el modo robot, los más pequeños pueden plegar la figura para convertirla en coche y, a continuación, podrán presionarla para convertirla nuevamente en robot. ¡Quienes adoran los juguetes tipo fidget, podrán divertirse una y otra vez con esta figura!
+- FIGURA ROBOT DE 10 CM: En el modo robot, la figura de Bumblebee mide 10 cm de alto
 - SE CONVIERTE DE ROBOT EN COCHE: La figura de Bumblebee se convierte de robot en coche y viceversa. Tan fácil que los más pequeños podrán hacerlo sin ayuda
 - PRESIONA PARA CAMBIAR EL MODO EN 1 PASO: Esta figura Transformers se convierte de coche en robot en 1 fácil y divertido paso. Presiona ligeramente el juguete en el modo coche sobre una superficie plana para convertirlo al modo robot
 

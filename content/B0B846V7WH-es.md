@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Largo: Corto
 - Escote pico
 - Estampado digital con flores desenfocadas
-- Largo: Corto
 - Fit: Regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte regular
 - Calzoncillos de ajuste regular – Cintura suave de 38 mm, cosida en el lateral – Información de cuidado impresa en el interior de la espalda para evitar etiquetas rayadas – Punto de cruz plano en la entrepierna – Puntada de doble aguja fuerte en los laterales
 - Camiseta individual
+- Corte regular
 - Ropa interior para hombre
 
 [🛒 Visítala!!!]({{< param buyurl >}})

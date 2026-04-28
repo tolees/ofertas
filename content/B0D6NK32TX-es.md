@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Ajuste: Slim Tapered
 - Jeans Pantalones Largos
 - Instrucciones de cuidado: apto para lavadora
-- Composición: 92 por ciento de algodón 6 por ciento elastomultiéster 2 por ciento de elastano
-- Ajuste: Slim Tapered
 - Tipo de estiramiento: baja elasticidad
+- Composición: 92 por ciento de algodón 6 por ciento elastomultiéster 2 por ciento de elastano
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D6NK32TX{{</world>}}

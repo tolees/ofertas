@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 🧺 Sin bolsa + depósito 0,4L: vaciado rápido y limpieza más práctica, incluye filtro y cargador.
 - 🔋 Batería Li-Ion 11,1V con autonomía hasta 45 min para limpiar sin cables con total comodidad.
 - 🔇 Bajo nivel de ruido (<79 dB) + protección IP20, ideal para uso doméstico sin molestias.
-- 🧺 Sin bolsa + depósito 0,4L: vaciado rápido y limpieza más práctica, incluye filtro y cargador.
 - 💡 Luz LED frontal para ver mejor la suciedad en zonas oscuras (debajo del sofá, camas, esquinas).
 - 💨 Succión eficaz 14 kPa + motor 120W para polvo, migas y suciedad diaria en suelos y alfombras.
 

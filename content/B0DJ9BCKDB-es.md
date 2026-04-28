@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Goma de longitud completa
-- Puntera redondeada
 - Talón y ojal moldeados
+- Puntera redondeada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DJ9BCKDB{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro textil
-- Plantilla de EVA
-- Parte superior de piel sintética
 - Diseño acolchado
+- Forro textil
+- Parte superior de piel sintética
+- Plantilla de EVA
 - Suela de goma
 - Horma clásica
 

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- FILAMENTOS ABIERTOS: los cabezales de recambio Oral-B cuentan con filamentos que se abren para indicar cuándo cambiar el cabezal del cepillo y maximizar la limpieza
-- AVALADO POR DENTISTAS: Oral-B es la marca n.º 1 de cepillos de dientes recomendada por dentistas en todo el mundo
-- EXCLUSIVO PARA MANGOS ORAL-B iO: consigue un poder de limpieza superior con el único cabezal diseñado exclusivamente para que se adapte perfectamente a tu cepillo de dientes eléctrico Oral-B iO
 - EFECTO BLANQUEANTE: el cabezal Radiant White de Oral-B combina de forma única los filamentos perfectamente inclinados con los pétalos pulidores para llegar y pulir todas las zonas y eliminar las manchas superficiales para una sonrisa deslumbrante
+- FILAMENTOS ABIERTOS: los cabezales de recambio Oral-B cuentan con filamentos que se abren para indicar cuándo cambiar el cabezal del cepillo y maximizar la limpieza
+- EXCLUSIVO PARA MANGOS ORAL-B iO: consigue un poder de limpieza superior con el único cabezal diseñado exclusivamente para que se adapte perfectamente a tu cepillo de dientes eléctrico Oral-B iO
+- AVALADO POR DENTISTAS: Oral-B es la marca n.º 1 de cepillos de dientes recomendada por dentistas en todo el mundo
 - SUSTITUIR CADA 3 MESES: un cabezal desgastado dificulta la limpieza y no actúa sobre toda la placa bacteriana. Para una limpieza superior, cambia el cabezal del cepillo cuando los filamentos se difuminen a blanco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

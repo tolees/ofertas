@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- FÁCIL DE USAR: Aplica con el pincel integrado o con el dedo para mayor intensidad. Se puede difuminar en todo el párpado o concentrar en la línea de las pestañas
-- RESULTADOS PROFESIONALES: Pigmentos vivos que se mantienen intactos. Superpón tonos y acabados para lograr degradados únicos y un maquillaje de ojos impactante
-- LARGA DURACIÓN HASTA 24H: Con fórmula waterproof que resiste todo el día sin correrse ni perder intensidad. Ideal para un maquillaje vibrante y duradero
 - ALTA PIGMENTACIÓN: Tonos intensos con acabados mate o irisado. Crea looks únicos y expresivos con pigmentos concentrados que realzan tu estilo
 - SOMBRA DE OJOS EN CREMA: Realza tu mirada con nuestra Revlon ColorStay Crème Eyeshadow. Su textura cremosa se aplica fácilmente, sin marcas ni manchas, y se difumina fácilmente para un look glamuroso
+- RESULTADOS PROFESIONALES: Pigmentos vivos que se mantienen intactos. Superpón tonos y acabados para lograr degradados únicos y un maquillaje de ojos impactante
+- FÁCIL DE USAR: Aplica con el pincel integrado o con el dedo para mayor intensidad. Se puede difuminar en todo el párpado o concentrar en la línea de las pestañas
+- LARGA DURACIÓN HASTA 24H: Con fórmula waterproof que resiste todo el día sin correrse ni perder intensidad. Ideal para un maquillaje vibrante y duradero
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01KHSV4UY{{</world>}}

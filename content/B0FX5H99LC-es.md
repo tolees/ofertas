@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cargador ultrafino de 65W con tecnología GaN: Carga rápida, eficiente y con menor generación de calor gracias al uso de nitruro de galio (GaN), ideal para llevar a todas partes.
+- Carga rápida inteligente: Puerto USB-C (PD y PPS) de hasta 65W y USB-A (QC) de hasta 27W, con salida combinada de hasta 57W.
+- Compatibilidad global: Enchufe tipo A retráctil integrado para tomas americanas/asiáticas y adaptador deslizante para enchufes europeos (EU, KR, UK).
 - Diseño seguro y resistente: Carcasa de policarbonato ignífugo V0, certificaciones EMC, LVD, RoHS, ERP6 y CE que garantizan máxima seguridad.
 - Ligero y compacto: Peso de solo 99 gramos y medidas de 45.5 x 14.6 x 84 mm, perfecto para viajar sin ocupar espacio.
-- Compatibilidad global: Enchufe tipo A retráctil integrado para tomas americanas/asiáticas y adaptador deslizante para enchufes europeos (EU, KR, UK).
-- Carga rápida inteligente: Puerto USB-C (PD y PPS) de hasta 65W y USB-A (QC) de hasta 27W, con salida combinada de hasta 57W.
+- Cargador ultrafino de 65W con tecnología GaN: Carga rápida, eficiente y con menor generación de calor gracias al uso de nitruro de galio (GaN), ideal para llevar a todas partes.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FX5H99LC{{</world>}}

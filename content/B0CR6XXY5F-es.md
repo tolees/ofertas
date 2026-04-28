@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - RESISTENCIA Y DURABILIDAD: Este producto está especialmente diseñado pensando en su durabilidad, elaborado con materiales de alta resistencia para asegurar que se pueda utilizar en todo tipo de actividades, garantizando su funcionalidad
-- FORMATO: Hojas tamaño A4. Tapas duras forradas. Folio tapas duras forradas 120 hojas con cuadrículas de 5x5 mm con margen a la izquierda. Gramaje de las hojas (60 grs/m2). Separadores de hojas por colores (hasta 5 colores diferentes), con espiral metálico de 46 agujeros
-- DISEÑO ÚNICO: Confeccionado con un material de tapas extraduras glasofonadas, con espiral metálico
 - GARANTÍA Y CALIDAD: EL GANSO CLASSIC Oficial cuaderno con tapas extra duras y espiral. 2 años de garantía
 - TODOS LOS PÚBLICOS: Ideal para niños que cursan la etapa escolar tanto guardería como primaria y secundaria
+- FORMATO: Hojas tamaño A4. Tapas duras forradas. Folio tapas duras forradas 120 hojas con cuadrículas de 5x5 mm con margen a la izquierda. Gramaje de las hojas (60 grs/m2). Separadores de hojas por colores (hasta 5 colores diferentes), con espiral metálico de 46 agujeros
+- DISEÑO ÚNICO: Confeccionado con un material de tapas extraduras glasofonadas, con espiral metálico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CR6XXY5F{{</world>}}

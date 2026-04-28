@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lacoste Gafas de Sol L915S 214 HAVANA 53/19/145 Hombre'
-date: 2026-04-04 11:04:16
+date: 2026-04-27 11:33:36
 image: 'https://m.media-amazon.com/images/I/315Lbx7rttL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Compra con confianza; distribuidor autorizado; autenticidad garantizada; paquete completo con todos los accesorios
-- Color: marrón
 - Tamaño: 5319
+- Compra con confianza; distribuidor autorizado; autenticidad garantizada; paquete completo con todos los accesorios
 - Gafas de sol para hombre
+- Color: marrón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07WV58MPL{{</world>}}

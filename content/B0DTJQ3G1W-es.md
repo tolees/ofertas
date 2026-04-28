@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Rusper Combi W - Tenis de moda con combinaciones de materiales y colores con piezas superiores de cuero
-- 50 % poliéster, 40 % gamuza de vaca, 10 % poliuretano
 - Estabilizador de TPU de color y personalizado, entresuela de EVA con plataforma de color con línea de contraste de color y suela de goma, logotipo clásico en el cuarto
+- 50 % poliéster, 40 % gamuza de vaca, 10 % poliuretano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DTJQ3G1W{{</world>}}

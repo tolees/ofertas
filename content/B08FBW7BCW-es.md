@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Formato: Pack de 12 unidades de 75 mililitros cada una
 - Aliento fresco: Esta pasta de dientes para el cuidado del esmalte también revitaliza tus encías, reduce el sarro, protege los dientes sensibles, blanquea y refresca tu aliento para que sonrías con confianza
 - Protege el esmalte: Cuida de tu esmalte y mantén tu sonrisa brillante y protegida con la pasta de dientes Colgate Total Advanced Esmalte Sano
-- Formato: Pack de 12 unidades de 75 mililitros cada una
 - 24h de protección antibacteriana: Con su fórmula que contiene duo zinc y arginina, este dentífrico con flúor proporciona 24 horas de protección antibacteriana (Reducción superior de bacterias en dientes, lengua, mejillas y encías vs; otros dentífricos con flúor no antibacterianos, con un uso continuado 2 veces al día durante 4 semanas)
 - Cuidado adecuado: Además, este dentífrico antibacteriano protege contra la caries, elimina la placa, revitaliza las encías y fortalece y repara el esmalte (test in-vitro sobre esmalte debilitado debido a los ácidos de los alimentos)
 

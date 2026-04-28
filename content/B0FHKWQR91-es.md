@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Prepara hasta 4 recetas a la vez. Incluye 2 racks elevadas que permiten cocinar uniformemente hasta 4 capas de alimentos. Cocción sincronizada entre cubetas. Función Sync: permite que ambas cubetas terminen de cocinar al mismo tiempo, aunque con configuraciones diferentes.
 - Cocina a tu gusto. Temperatura regulable de 35 a 210 ºC para cocinar cada ingrediente a la temperatura ideal. Recetas perfectas con un clic.
 - 10 L de capacidad. Cocina recetas para toda la familia en una sola tanda, ahorrando tiempo y energía. Cocina más, ocupa menos espacio. 2 cubetas superpuestas de 5 L que permiten cocinar dos platos a la vez de diferentes maneras, ocupando menos espacio en la encimera gracias a su diseño vertical.
 - 10 menús: elige el más adecuado para cada momento y olvídate de las preocupaciones, la Cecofry ajustará automáticamente el tiempo y la temperatura para obtener el punto ideal.
+- Prepara hasta 4 recetas a la vez. Incluye 2 racks elevadas que permiten cocinar uniformemente hasta 4 capas de alimentos. Cocción sincronizada entre cubetas. Función Sync: permite que ambas cubetas terminen de cocinar al mismo tiempo, aunque con configuraciones diferentes.
 - Cocción rápida y eficiente. 2400 W de potencia: asegura una cocción rápida y eficiente con todo tipo de recetas. Panel táctil multifunción a color. Cocina de manera cómoda e intuitiva.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

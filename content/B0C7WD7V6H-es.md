@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- V-neck
+- Deep V-Neck Tee
 - Short sleeves
 - Regular fit
-- Deep V-Neck Tee
+- V-neck
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C7WD7V6H{{</world>}}

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 🌿 Pre-fertilizado y versátil: Contiene macro y micronutrientes para las primeras semanas sin necesidad de fertilización adicional; ideal para cultivo en interior o exterior, en macetas grandes o pequeñas, tanto para principiantes como para expertos.
-- 🌱 Sustrato profesional listo para usar: Mezcla equilibrada de fibra de coco, turba y compost vegetal que favorece raíces fuertes y sanas, con pH equilibrado y conductividad estable desde el primer riego.
 - 💧 Excelente aireación y drenaje: Mantiene la humedad sin encharcar, asegurando un desarrollo radicular óptimo y una correcta disponibilidad de nutrientes.
+- 🌱 Sustrato profesional listo para usar: Mezcla equilibrada de fibra de coco, turba y compost vegetal que favorece raíces fuertes y sanas, con pH equilibrado y conductividad estable desde el primer riego.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0G49CD7VM{{</world>}}

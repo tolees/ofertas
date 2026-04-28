@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Diseño de tenis de moda con cordones
 - Cordones en la parte delantera
 - Detalles de costura
-- Diseño de tenis de moda con cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DV1DXGD8{{</world>}}

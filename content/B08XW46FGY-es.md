@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - INGREDIENTES: Con niacinamida (vitamina B3) que contribuye a normalizar la producción de sebo, el mirto limón que disminuye la producción de sebo y ayuda a matificar la piel, lima caviar y sauce blanco entre otros. Producto vegano y respetuoso con la piel y la naturaleza
 - TEXTURAS SORPRENDENTES: Nuestras texturas Lullage enamoran por ser muy fresquitas, super ligeras y divertidas. Porque la emoción y la eficacia son nuestro must para seguir sorprendiendo a nuestros LullageLovers y apasionados de Lullage desde hace más de 15 años.
+- SERUM RENOVADOR: Blue Moon Peeling exfolia, tonifica, rejuvenece e ilumina tu piel. PAra un rostro suave, radiante y uniforme. Ten las imperfecciones bajo control
 - EFICACIA LULLAGE: marca 100% especializada en las pieles mixtas y grasas e incluso con tendencia acneica. Todos nuestros productos Lullage se han testado dermatológica y oftalmológicamente y han demostrado su eficacia bajo estudio multi-étnico
 - MODO DE USO: Utilizar como mínimo una noche a la semana. Aplicar de 4 a 6 gotas en toda la cara limpia y masajear hasta su absorción. No es necesario aclararlo con agua
-- SERUM RENOVADOR: Blue Moon Peeling exfolia, tonifica, rejuvenece e ilumina tu piel. PAra un rostro suave, radiante y uniforme. Ten las imperfecciones bajo control
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08XW46FGY{{</world>}}

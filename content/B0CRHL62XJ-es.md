@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- DERMATOLÓGICAMENTE TESTADO Champú ideal para el día a día, para hombres y mujeres, para todo tipo de pelo y cuero cabelludo
 - ENVASE RECICLADO. Botella completamente reciclable, hecha con un 100% de plástico reciclado (excepto tapón, colorantes y aditivos)
 - FÓRMULA MICROBIOME BALANCE que actúa sobre la causa principal de la caspa, respetando el pH y equilibrando el microbioma del cuero cabelludo
-- DERMATOLÓGICAMENTE TESTADO Champú ideal para el día a día, para hombres y mujeres, para todo tipo de pelo y cuero cabelludo
 - ÚSALO A DIARIO PARA MEJORES RESULTADOS Lavado tras lavado, mejora la hidratación y reduce los problemas del cuero cabelludo, eliminando la caspa
 - BOTELLA CON DISPENSADOR Disfruta de tu champú preferido durante más tiempo y contribuye a reducir residuos con nuestras botellas de 1 litro. Girar el dispensador para abrirlo
 - EFICAZ PROTECCIÓN Y PREVENCIÓN ANTICASPA. Hasta 100% de protección anticaspa*, clínicamente probado. *caspa visible, con uso regular

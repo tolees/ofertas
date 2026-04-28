@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pack de 24 botellas de 330 mililitros cada uno, la cerveza Corona 0% alcohol está elaborada con 100% de ingredientes naturales, con un sabor refrescante 100% y solo 56 calorías por botella
-- Apariencia: Cerveza Corona de color claro, amarillo brillante, que junto con su espuma blanca forman la combinación óptima convirtiendo a la cerveza Coronita en una cerveza cremosa y consistente
 - Aroma: La combinación de sus aromas ligeramente afrutados y con ligeras notas de levadura, invitan a disfrutar de la cerveza Corona una vez destapada
+- Pack de 24 botellas de 330 mililitros cada uno, la cerveza Corona 0% alcohol está elaborada con 100% de ingredientes naturales, con un sabor refrescante 100% y solo 56 calorías por botella
 - Cerveza Corona comenzó a elaborarse en México y casi un siglo después sigue produciéndose allí; presente en más de 180 países y mundialmente conocida por su ritual de la lima
+- Apariencia: Cerveza Corona de color claro, amarillo brillante, que junto con su espuma blanca forman la combinación óptima convirtiendo a la cerveza Coronita en una cerveza cremosa y consistente
 - Sabor: cerveza Corona 0.0% alcohol Vol. tiene el mismo sabor refrescante y agradable que siempre junto con unas ligeras notas cítricas y un cuerpo y final equilibrados
 
 [🛒 Visítala!!!]({{< param buyurl >}})

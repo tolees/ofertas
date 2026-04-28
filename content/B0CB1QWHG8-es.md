@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Entresuela ligera y flexible que absorbe los golpes
 - Skechers Detalle del logotipo
 - Parte superior de malla geométrica con cordones elásticos
+- Entresuela ligera y flexible que absorbe los golpes
 - Skechers Plantilla acolchada de espuma viscoelástica
 
 [🛒 Aquí!!!]({{< param buyurl >}})

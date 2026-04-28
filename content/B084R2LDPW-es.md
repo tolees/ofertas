@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Entrega: incluye la batería de 18 V/2,5 Ah Battery Power Kärcher y el cargador rápido compatible. Para usar con dispositivos de la plataforma de baterías de 18 V Kärcher Battery Power
-- Potente cargador rápido: con el cargador rápido de 18 V se puede cargar el 80 % de la batería en 44 minutos. En menos de 1,5 h se carga la batería al completo
 - Kärcher 18 V Battery Power: kit de inicio con batería de 18 V/2,5 Ah y cargador rápido de 18 V. La batería se puede usar con todos los equipos de la plataforma de baterías de 18 V Kärcher
+- Potente cargador rápido: con el cargador rápido de 18 V se puede cargar el 80 % de la batería en 44 minutos. En menos de 1,5 h se carga la batería al completo
+- Entrega: incluye la batería de 18 V/2,5 Ah Battery Power Kärcher y el cargador rápido compatible. Para usar con dispositivos de la plataforma de baterías de 18 V Kärcher Battery Power
 - Real Time Technology: la batería dispone de una pantalla LCD que muestra el tiempo de funcionamiento restante, el tiempo de carga restante y el estado de carga de la batería
 - Batería de ionos de litio: la batería cuenta con celdas de iones de litio que aseguran un rendimiento constante. Se evita el efecto memoria y la autodescarga de la batería
 

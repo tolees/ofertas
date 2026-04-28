@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bandolera ajustable para mayor comodidad.
 - Bolsillo frontal y trasero para mejorar la accesibilidad a los accesorios y efectos personales.
+- Bandolera ajustable para mayor comodidad.
 - Hecho con materiales resistentes al agua
 - Bolsillos interiores, uno de ellos con cremallera, para guardar los accesorios y efectos personales.
 - Bandolera de 17 cm x 22 cm x 6 cm fabricada en poliéster y detalles de piel sintética.

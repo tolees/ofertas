@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Con un aspecto elegante
 - Cómodo de llevar y suave al tacto
 - Corte regular
-- Con un aspecto elegante
 - Lavado a máquina, temperatura máxima 60 °C, proceso normal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

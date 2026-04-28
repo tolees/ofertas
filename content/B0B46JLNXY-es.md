@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - MULTIFUNCIONAL - Set de accesorios de cocina idóneo para cualquier cocina. Con diseño actual y fresco. Incluye una cuchara de metal de 13 cm para coger el azucar. El salero es lo suficientemente grande para que entre la mano sin problemas
-- ESTILO MEDITERRÁNEO - Diseñado en España por nuestro equipo de diseñadores, con inspiración clara portuguesa.
-- LIMPIEZA - Recomendamos no meterlo en el lavavajillas ya que puede dañar la madera
-- PACKAGING - Aunque el producto está hecho de cerámica, hemos preparado un embalaje especial para que las piezas no sufran con los golpes en el transporte. Le llegará en perfectas condiciones. La caja tiene unas medidas de 26,5 x 16,5 x 16,5 cm
 - CARACTERÍSTICAS - Set de azucarero y salero para la cocina a juego. Ambos tienen el tamaño perfecto para una cocina pequeña. El salero tiene una altura de 11,2 cm, con un largo (fondo) de 11,7 cm, y un ancho (de lado a lado) de 11,8 cm. El peso es de 0,9 kg y está hecho de Cerámica y Madera. Color: Negro y blanco. Tapa de bambú y cuchara de metal incluida
+- PACKAGING - Aunque el producto está hecho de cerámica, hemos preparado un embalaje especial para que las piezas no sufran con los golpes en el transporte. Le llegará en perfectas condiciones. La caja tiene unas medidas de 26,5 x 16,5 x 16,5 cm
+- LIMPIEZA - Recomendamos no meterlo en el lavavajillas ya que puede dañar la madera
+- ESTILO MEDITERRÁNEO - Diseñado en España por nuestro equipo de diseñadores, con inspiración clara portuguesa.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B46JLNXY{{</world>}}

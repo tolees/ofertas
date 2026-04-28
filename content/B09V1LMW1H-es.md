@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- UN REEMPLAZO PERFECTO: las bombillas LED G120 consumen solo un 15% de energía, son tan brillantes como una bombilla halógena de 155W, pero brindan una salida de luz de 2600 lúmenes y un color blanco cálido preciso de 3000 K. Con un ángulo de haz de 200 grados, estas bombillas pueden emitir una luz uniforme para iluminación general. No regulable.
-- APLICACIÓN AMPLIA: base E27 estándar, fácil de instalar en todas las lámparas de base E27. Adecuado para iluminación interior, como candelabros, lámparas colgantes, ventiladores de techo, iluminación de ventanas, apliques de pared, lámparas de escritorio, etc. Excelente blanco cálido para sala, comedor, oficina y restaurante.
-- AHORRO DE ENERGÍA: Las bombillas LED de 22W reemplazan las bombillas incandescentes y halógenas de 155W, ahorrando hasta un 85 % en su factura de luz eléctrica. El ciclo de vida de 20.000 horas, lo que reduce los costos al reducir la frecuencia de reemplazo. CRI (Índice de reproducción cromática) >80 garantiza un disfrute visual vívido con colores originales.
-- ILUMINACIÓN INSTANTÁNEA: ¡No hay que esperar para alcanzar el brillo total una vez encendido! La luz sin parpadeo y el brillo intenso cero evitan la fatiga visual y brindan una atmósfera cómoda y libre de estrés. Las bombillas LED V-TAC tienen certificación CE, ROHS, seguras para su familia y el medio ambiente.
 - 3000K Blanc Cálido
+- ILUMINACIÓN INSTANTÁNEA: ¡No hay que esperar para alcanzar el brillo total una vez encendido! La luz sin parpadeo y el brillo intenso cero evitan la fatiga visual y brindan una atmósfera cómoda y libre de estrés. Las bombillas LED V-TAC tienen certificación CE, ROHS, seguras para su familia y el medio ambiente.
+- APLICACIÓN AMPLIA: base E27 estándar, fácil de instalar en todas las lámparas de base E27. Adecuado para iluminación interior, como candelabros, lámparas colgantes, ventiladores de techo, iluminación de ventanas, apliques de pared, lámparas de escritorio, etc. Excelente blanco cálido para sala, comedor, oficina y restaurante.
+- UN REEMPLAZO PERFECTO: las bombillas LED G120 consumen solo un 15% de energía, son tan brillantes como una bombilla halógena de 155W, pero brindan una salida de luz de 2600 lúmenes y un color blanco cálido preciso de 3000 K. Con un ángulo de haz de 200 grados, estas bombillas pueden emitir una luz uniforme para iluminación general. No regulable.
+- AHORRO DE ENERGÍA: Las bombillas LED de 22W reemplazan las bombillas incandescentes y halógenas de 155W, ahorrando hasta un 85 % en su factura de luz eléctrica. El ciclo de vida de 20.000 horas, lo que reduce los costos al reducir la frecuencia de reemplazo. CRI (Índice de reproducción cromática) >80 garantiza un disfrute visual vívido con colores originales.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09V1LMW1H{{</world>}}

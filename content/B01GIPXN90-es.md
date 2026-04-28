@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Repele el agua y las manchas gracias a la tecnología Omni-Shield
 - Pantalón hasta la rodilla de mujer para excursionismo, running o trail running, Ajuste activo
-- Contenido: 1x Columbia Mujer Shorts de senderismo largos, Saturday Trail, Color: Marrón (BRITISH TAN), Talla: W14/L10, Art.: 1579881
 - Adecuado para el uso diario y disponible en una variedad de colores
+- Repele el agua y las manchas gracias a la tecnología Omni-Shield
+- Contenido: 1x Columbia Mujer Shorts de senderismo largos, Saturday Trail, Color: Marrón (BRITISH TAN), Talla: W14/L10, Art.: 1579881
 - 4 bolsillos para acceso rápido a pertenencias importantes, 1 bolsillo de seguridad con cremallera para pertenencias importantes
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

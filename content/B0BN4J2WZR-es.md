@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- - Generador de código de tiempo de alta precisión, entrada y salida 2 mini-jack 3,5 mm - Graba en tarjeta SD de hasta 1 TB - Pantalla LCD a color que muestra las formas de onda de grabación en tiempo real - Modo mono para entrevistas, voz en off, voces – Rejilla tipo nido de abeja ligera y resistente
-- Grabadora de audio de 4 canales - Resolución de punto flotante de 32 bits, hasta 192 kHz - Nueva cápsula XY con montaje antichoque que reduce el ruido de manipulación - 2 entradas combinadas XLR/TRS con bloqueo, con preamplificadores de alto rendimiento (EIN: 127 dBu o menos)
 - - Se suministra con un antiviento de alto rendimiento - Dimensiones (mm): 206,2 x 70,2 x 47 - Peso: 325g (peso neto con pilas)
+- - Generador de código de tiempo de alta precisión, entrada y salida 2 mini-jack 3,5 mm - Graba en tarjeta SD de hasta 1 TB - Pantalla LCD a color que muestra las formas de onda de grabación en tiempo real - Modo mono para entrevistas, voz en off, voces – Rejilla tipo nido de abeja ligera y resistente
 - - Acabado brillante que ofrece un gran aislamiento del ruido de manipulación - Ajuste automático del volumen de escucha - Modo micrófono USB para Windows/Mac/iOs/ Android hasta 32 Bit/96 kHz, con función MUTE y grabación simultánea en el dispositivo
 - - Admite normalización de archivos y exportación en WAV 16/24 bit - Autonomía de hasta 9 horas con 4 pilas AA
+- Grabadora de audio de 4 canales - Resolución de punto flotante de 32 bits, hasta 192 kHz - Nueva cápsula XY con montaje antichoque que reduce el ruido de manipulación - 2 entradas combinadas XLR/TRS con bloqueo, con preamplificadores de alto rendimiento (EIN: 127 dBu o menos)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BN4J2WZR{{</world>}}

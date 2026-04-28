@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Suela de goma vulcanizada
 - Mediasuela con amortiguación
-- Parte superior de piel
 - Compra 1 talla más grande
+- Parte superior de piel
 - Forro textil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ir debajo
+- Mi Inmortal
 - Todo el mundo es tonto
 - Tráeme a la vida
-- Mi Inmortal
+- Ir debajo
 - Con Paul McCoy
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aspecto compacto y elegante
 - Proporciona una conexión WiFi estable y potente
+- Aspecto compacto y elegante
 - Siteme WiFi 6 malla AX3000
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Su pantalla LCD y sus números de gran tamaño te permitirán ver con facilidad los resultados de las pesadas.
 - SÓLIDOS: La báscula incluye 4 unidades de medida (g / kg / lb / oz), de forma que podrás obtener el resultado en diferentes medidas de peso.
 - 5 KILOS: La capacidad total de la báscula es de 5 kilos con una división de 1 gramo para que conozcas con precisión cuánto pesa cada alimento.
-- Su pantalla LCD y sus números de gran tamaño te permitirán ver con facilidad los resultados de las pesadas.
 - TARA: Incluye función de tara para que puedas utilizar cualquier tipo de recipiente (tazas, platos, tazones, ...) para realizar las pesadas. Además, también lleva indicador para avisar cuando se sobrepase la capacidad total de la báscula y también alertará cuando la batería esté baja.
 - Báscula de cocina de alta precisión con la que podrás preparar todo tipo de recetas, consiguiendo los resultados exactos que necesitas para cada una de ellas (harina, azúcar, fruta, pasta, …) Controlarás de forma precisa las porciones resultantes y obtendrás una cocción perfecta.
 

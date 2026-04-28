@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- SE INCLUYE: x1 paquete de 4 pilas recargables Duracell, tamaño: AAA, capacidad: 900 mAh, voltaje: 1,2 V, tipo: NiMH, longitud: 44,5 mm, diámetro: 10,5 mm
 - DISFRUTA DE HORAS DE USO EN DISPOSITIVOS DE ALTO RENDIMIENTO: Con cientos de ciclos de recarga, consigue horas y horas de potencia para tus mandos de videojuegos inalámbricos, juguetes y cámaras digitales. Aptas para dispositivos que funcionan con pilas AAA según recomendación del fabricante.
 - EMBALAJE SOSTENIBLE: El embalaje de las pilas con 0 % de plástico es 100 % reciclable
+- 10 AÑOS DE VIDA ÚTIL GARANTIZADA EN SU EMBALAJE**
+- SE INCLUYE: x1 paquete de 4 pilas recargables Duracell, tamaño: AAA, capacidad: 900 mAh, voltaje: 1,2 V, tipo: NiMH, longitud: 44,5 mm, diámetro: 10,5 mm
 - * Para pilas recargables de tamaño AAA, por carga en el mismo dispositivo, hasta las primeras 200 cargas. ** Las pilas no utilizadas son recargables tras 10 años de almacenamiento. Garantía comercial. *** Retienen hasta el 80 % de la carga tras 12 meses, cuando no están en uso*
 - MANTIENEN LA CARGA HASTA 12 MESES, cuando no están en uso***. Vienen precargadas y listas para su uso
-- 10 AÑOS DE VIDA ÚTIL GARANTIZADA EN SU EMBALAJE**
 - NUESTRAS PILAS AAA N.º 1 EN DURACIÓN*: Aumenta la vida útil de los dispositivos de alto consumo con estas potentes pilas de 900 mAh AAA NiMH de Duracell.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Correa al hombro ajustable de 130 cm
 - Bolso bandolera infantil pequeño
 - Dimensiones: 16,5 x 16,5 x 6 cm
-- Forro interior
-- Correa al hombro ajustable de 130 cm
 - Compartimento único y cierre con imán
+- Forro interior
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CNDFDMLV{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Revestimiento: Sintético
 - Tipo de tacón: Plano
+- Revestimiento: Sintético
 - Cierre: Sin cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

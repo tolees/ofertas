@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- London Berg B - Tenis para correr con combinaciones de materiales y colores, talón de contraste de color
 - 50 % poliamida, 50 % poliuretano
 - Cómoda entresuela de EVA bicolor, suela de goma personalizada, estabilizador de color, rayas laterales icónicas de marca, plantilla termoformada y extraíble y logotipo clásico en el lateral
-- London Berg B - Tenis para correr con combinaciones de materiales y colores, talón de contraste de color
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DTJMXSBG{{</world>}}

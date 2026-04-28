@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detalle del logotipo
 - Espuma viscoelástica
+- Detalle del logotipo
 - Peso ligero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

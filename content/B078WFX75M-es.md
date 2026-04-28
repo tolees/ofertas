@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalones cortos de fútbol
 - Cinturilla elástica con cordón ajustable
-- Ropa deportiva
 - dryCELL: propiedades de absorción de la humedad que te ayudan a mantenerte seco y cómodo
+- Pantalones cortos de fútbol
+- Ropa deportiva
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B078WFX75M{{</world>}}

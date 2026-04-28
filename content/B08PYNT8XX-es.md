@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Parte superior: HH Quick Dry
 - Suela: agarre envolvente HH
 - Bueno para: estilo de vida marino, vida urbana y urbana, clima cálido
 - Suela intermedia: HH Hover-Stride
-- Parte superior: HH Quick Dry
 - Sandalias para hombre fáciles de poner y quitar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

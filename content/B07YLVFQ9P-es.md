@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - AJUSTE NORMAL: Ajuste ceñido pero cómodo en pecho, cintura, cadera y muslo
-- DETALLES: Con diseño sin mangas, escote en v redondeado, bolsillos laterales funcionales y cintura con cordón ajustable.
-- TIRO DEL PANTALÓN: La talla S mide 8,9 cm.
-- FORRO POLAR LIGERO STUDIO: Tejido ligero y transpirable con un acabado ultrasuave. Este forro polar de rizo tiene un tejido que absorbe la humedad muy cómodo y es ligeramente elástico en 4 direcciones para disfrutar de más flexibilidad durante el entrenamiento.
 - MONO CORTO STUDIO: Relájate y descansa con este versátil y cómodo mono corto. Llega a la mitad del muslo. Tanto para salir a correr como para hacer recados con los niños, nuestra ropa está pensada para hacer ejercicio, vivir y descansar.
+- TIRO DEL PANTALÓN: La talla S mide 8,9 cm.
+- DETALLES: Con diseño sin mangas, escote en v redondeado, bolsillos laterales funcionales y cintura con cordón ajustable.
+- FORRO POLAR LIGERO STUDIO: Tejido ligero y transpirable con un acabado ultrasuave. Este forro polar de rizo tiene un tejido que absorbe la humedad muy cómodo y es ligeramente elástico en 4 direcciones para disfrutar de más flexibilidad durante el entrenamiento.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07YLVFQ9P{{</world>}}

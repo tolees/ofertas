@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Suero concentrado de PHA ideal tanto para la hidratación profunda como para la exfoliación, que mejora la textura de la piel
-- Ideal para todo tipo de pieles
 - Textura superligera que se absorbe al instante y deja un acabado sin brillo y sin pegajosidad
+- Ideal para todo tipo de pieles
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D4213THR{{</world>}}

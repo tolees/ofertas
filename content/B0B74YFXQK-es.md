@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tela Suave
 - Solo hazlo gráficos
+- Tela Suave
 - Ajuste regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})

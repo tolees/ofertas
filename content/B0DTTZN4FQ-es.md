@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Plantilla acolchada
-- Material : piel
-- punta redonda
 - cierre cremallera
+- punta redonda
+- Material : piel
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DTTZN4FQ{{</world>}}

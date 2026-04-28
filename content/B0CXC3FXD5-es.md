@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corta más de 300 materiales, desde el tejido y el papel más delicados hasta el cartón y el cuero
-- Carga y corta tus propios diseños o elige uno de la biblioteca de Cricut Design Space
 - El paquete incluye: Cricut Maker 3, Herramienta de depilado, Vinilo termorreactivo que cambia de color (0,6 m), Vinilo reactivo al frío que cambia de color (0,6 m), Smart Iron-On Purpurina Plateada (0,9 m), Muestrario de vinilos termoadhesivos (10 hojas), Papel de etiquetas inteligentes (0,6 m), Cinta de transferencia (3 m)
-- Compatible con 13 herramientas para cortar, escribir, marcar, aplicar foil y decorar. Las herramientas adicionales se venden por separado
+- Carga y corta tus propios diseños o elige uno de la biblioteca de Cricut Design Space
 - Corte profesional hasta el doble de rápido con una fuerza de corte 10 veces superior en comparación con las máquinas Cricut Explore de la generación anterior
+- Corta más de 300 materiales, desde el tejido y el papel más delicados hasta el cartón y el cuero
+- Compatible con 13 herramientas para cortar, escribir, marcar, aplicar foil y decorar. Las herramientas adicionales se venden por separado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CXC3FXD5{{</world>}}

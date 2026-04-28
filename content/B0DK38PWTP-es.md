@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CLIMACOOL
 - 84 % poliéster (reciclado), 16 % elastano
 - Corte entallado
+- CLIMACOOL
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DK38PWTP{{</world>}}

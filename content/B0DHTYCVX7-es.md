@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Horma clásica
-- Empeine de Fiberskin con estampado Sprintgrid
 - Suela de goma para campos de moqueta
+- Empeine de Fiberskin con estampado Sprintgrid
+- Horma clásica
 - Forro textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})

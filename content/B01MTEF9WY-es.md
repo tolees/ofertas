@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Se alimenta a través del puerto USB, sin necesidad de alimentación externa.
 - Conexión USB 2.0 (compatible USB 1.1).
 - Lector de tarjetas multimedia para leer y escribir hasta 43 formatos diferentes de tarjetas de memoria.
-- Soporta DNIe 3.0 y 4.0 y tarjetas inteligentes “Smart Cards”. Incluye todos los protocolos demandados por la Administración.
 - Plug & Play y Hot Swappable.
-- Se alimenta a través del puerto USB, sin necesidad de alimentación externa.
+- Soporta DNIe 3.0 y 4.0 y tarjetas inteligentes “Smart Cards”. Incluye todos los protocolos demandados por la Administración.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01MTEF9WY{{</world>}}

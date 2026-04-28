@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Lightweight
 - PUMA Cat branding
 - Upper made with at least 30% recycled materials
+- Lightweight
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DJ9BND3G{{</world>}}

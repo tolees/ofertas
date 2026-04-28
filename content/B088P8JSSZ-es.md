@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Limpieza sencilla y segura: Los accesorios son aptos para lavavajillas en programas de baja temperatura. Para mantener el recubrimiento antiadherente, se recomienda lavado manual con esponja suave y detergente neutro.
 - Ahorro de energía y cocción rápida: Reduce hasta un 60 % el consumo energético en comparación con un horno de 3300 W y cocina en menos tiempo. El consumo real puede variar según el uso y condiciones del hogar.
-- Versátil y fácil de usar: Asa, tuesta, hornea y deshidrata frutas y verduras con 10 programas preconfigurados o ajustes manuales. Su pantalla táctil digital permite regular la temperatura entre 80 y 200 °C.
 - Gran capacidad con accesorios incluidos: Con 11 L de volumen, acomoda pizzas de hasta 23 cm o un pollo de 1.2 kg. Incluye cesta giratoria con asa, 3 rejillas de cocción y pincho para asar. Medidas sujetas a ligeras variaciones.
 - Cocina saludable con menos grasa: La tecnología de aire caliente de circulación rápida permite una cocción uniforme, reduciendo hasta un 80 % de las grasas. Los resultados dependen del tipo de alimento y cantidad de aceite.
+- Versátil y fácil de usar: Asa, tuesta, hornea y deshidrata frutas y verduras con 10 programas preconfigurados o ajustes manuales. Su pantalla táctil digital permite regular la temperatura entre 80 y 200 °C.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B088P8JSSZ{{</world>}}

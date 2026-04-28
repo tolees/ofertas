@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alfombrilla de tela con base de goma y superficie suave
-- Pack teclado, ratón y alfombrilla edición Hot Wheels
 - Teclado de membrana retroiluminado RGB con 19 teclas anti-ghosting y 10 teclas multimedia
+- Pack teclado, ratón y alfombrilla edición Hot Wheels
 - Ratón optico de diseño ergonómico con 6 niveles de DPI ajustables On-The-Fly e iluminación LED RGB
+- Alfombrilla de tela con base de goma y superficie suave
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09XBD5YLQ{{</world>}}

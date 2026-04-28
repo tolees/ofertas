@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro textil
 - Suela de goma
+- Forro textil
 - Empeine textil y sintético
 - Compra 1 talla más grande
 

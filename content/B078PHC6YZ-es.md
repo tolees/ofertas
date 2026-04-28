@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Precio mínimo ofrecido por este vendedor en los 30 días anteriores a la oferta: 53.9€
+- Material de la suela: Goma
+- Material exterior: Cuero
 - Revestimiento: Tela
 - Cierre: Cordones
 - Tipo de tacón: Plano
-- Material exterior: Cuero
-- Precio mínimo ofrecido por este vendedor en los 30 días anteriores a la oferta: 53.9€
-- Material de la suela: Goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B078PHC6YZ{{</world>}}

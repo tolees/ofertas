@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Parte superior: sintética
 - Cierre: cordones
 - Suela: goma
+- Parte superior: sintética
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FBX8P23J{{</world>}}

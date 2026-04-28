@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Tejido Cordura, construcción transpirable impermeable Omni-Tech, aislamiento de 200 g
-- Nota: los cordones y cremalleras incorporados en el calzado Columbia no son impermeables
-- Goma de tracción Omni-Grip que no deja marcas
 - Entresuela ligera Techlite para una comodidad duradera, amortiguación superior y alto retorno de energía
+- Goma de tracción Omni-Grip que no deja marcas
+- Nota: los cordones y cremalleras incorporados en el calzado Columbia no son impermeables
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CLWDLYR9{{</world>}}

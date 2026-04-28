@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adecuado para uso doméstico o profesional
 - Herramienta de mano
+- Adecuado para uso doméstico o profesional
 - Material resistente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

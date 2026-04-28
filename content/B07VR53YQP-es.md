@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Montadas a mano por expertos artesanos, nuestras tarjetas de felicitación desplegables se ven encantadoras, pueden sorprender a cualquier persona con su nivel de detalles y vienen con impresión ecológica.
 - Estamos seguros de que estarás muy satisfecho con nuestra tarjeta emergente 3D de alta calidad. Si por cualquier razón no estás satisfecho con este producto, simplemente ponte en contacto con nosotros ya que haremos un reembolso por tu compra.
-- Incluye: una (1) tarjeta y una (1) nota separada
 - Perfecto para crear notas conmovedoras para cualquier ocasión. Una tarjeta emergente sorpresa es una de las maneras perfectas de expresar tus sentimientos a un ser querido
+- Incluye: una (1) tarjeta y una (1) nota separada
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07VR53YQP{{</world>}}

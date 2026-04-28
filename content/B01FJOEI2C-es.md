@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Guata: 100% poliéster,
+- Nylon Forro: 100% nylon,
 - Chaqueta de Alpha Industries Ma 1 VF 59
+- Guata: 100% poliéster,
 - Bomber Chaqueta
 - Tejido exterior: 100% nailon,
-- Nylon Forro: 100% nylon,
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01FJOEI2C{{</world>}}

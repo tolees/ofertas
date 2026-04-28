@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- [Asistencia profesional]: Si tienes algún problema, ¡solo tienes que decírnoslo! No te preocupes, ofrecemos asistencia integral y nos aseguramos de que recibas reparaciones o sustituciones oportunas si es necesario
-- [Diseño translúcido ultrafino]: La superficie mate ofrece un tacto suave y sedoso con un mejor agarre y reduce significativamente las huellas dactilares visibles. El perfil ultrafino, de solo 1,27 mm de grosor, conserva el elegante diseño del teléfono
 - [Máxima protección contra caídas]: Esta funda para Galaxy S26 Ultra está fabricada en TPU amortiguador con un sistema de 4 capas y airbag de 360°, lo que reduce eficazmente los daños causados por las caídas
+- [Diseño translúcido ultrafino]: La superficie mate ofrece un tacto suave y sedoso con un mejor agarre y reduce significativamente las huellas dactilares visibles. El perfil ultrafino, de solo 1,27 mm de grosor, conserva el elegante diseño del teléfono
+- [Asistencia profesional]: Si tienes algún problema, ¡solo tienes que decírnoslo! No te preocupes, ofrecemos asistencia integral y nos aseguramos de que recibas reparaciones o sustituciones oportunas si es necesario
 - [Compatibilidad]: Esta TOCOL Funda solo es compatible con el Samsung Galaxy S26 Ultra de 6,9 pulgadas
 - [Anillo magnético integrado]: Funda magnética para Galaxy S26 Ultra con anillo magnético integrado, nunca se suelta. Fuerza de sujeción de 20 N para todos los accesorios magnéticos. Se mantiene estable en el soporte para coche incluso en terrenos irregulares
 

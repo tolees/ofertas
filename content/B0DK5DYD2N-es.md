@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cuello polo
-- Cierre de botón
 - Diseño acanalado en el cuello y los dobladillos de las mangas
-- Aberturas laterales
 - G-Star Insignia cruda en el pecho
+- Aberturas laterales
+- Cierre de botón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DK5DYD2N{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pastillas estándar de 25 gramos pre divididas en 8 porciones para facilitar el corte.
 - Endurece en el horno un máximo de 30 minutos a una temperatura de 110°C y no se seca al aire ni se endurece en el microondas.
+- Arcilla polimérica ideal para elementos decorativos, accesorios y joyas; compatible con FIMO soft, FIMO effect, FIMO professional y FIMO kids.
 - Masa suave y ligera de colores para moldear y endurecer en el horno; versátil, perfecta para principiantes y expertos.
 - FIMO está disponible en multitud de colores intensos y variados, lista para usar desde el primer momento y es muy fácil de manipular y mezclar.
-- Arcilla polimérica ideal para elementos decorativos, accesorios y joyas; compatible con FIMO soft, FIMO effect, FIMO professional y FIMO kids.
+- Pastillas estándar de 25 gramos pre divididas en 8 porciones para facilitar el corte.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07N7H7PG1{{</world>}}

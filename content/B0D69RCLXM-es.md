@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte superior de piel
 - Suela de goma muy resistente a la abrasión Forro textil
-- Cierre con cordón
 - Entresuela de EVA
+- Cierre con cordón
+- Parte superior de piel
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D69RCLXM{{</world>}}

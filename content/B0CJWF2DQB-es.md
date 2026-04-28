@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El jersey es un tejido ligero y elástico que es cómodo de llevar
 - Una elección óptima para un look casual y completo
+- El jersey es un tejido ligero y elástico que es cómodo de llevar
 - Fácil y versátil de combinar para un look casual y completo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

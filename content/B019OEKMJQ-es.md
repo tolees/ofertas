@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre central con botones
 - Cuello y bajo de la manga de canalé
+- Cierre central con botones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B019OEKMJQ{{</world>}}

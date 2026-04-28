@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Accesorios de belleza: Brochas, esponjas y herramientas para la aplicación de maquillaje.
 - Maquillaje: Bases, sombras, labiales y delineadores para realzar la belleza.
-- Cuidado de la piel: Hidratantes, limpiadores, exfoliantes y sérums para una piel saludable.
 - Fragancias: Perfumes y colonias que ofrecen aromas únicos y atractivos.
+- Accesorios de belleza: Brochas, esponjas y herramientas para la aplicación de maquillaje.
+- Cuidado de la piel: Hidratantes, limpiadores, exfoliantes y sérums para una piel saludable.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00J4JNG22{{</world>}}

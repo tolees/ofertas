@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 【Ahorro de energía】la lámpara de pared con sensor solar funciona con energía ecológica y te ayuda a ahorrar libras de electricidad. Muy fácil de instalar con los tornillos incluidos. Las luces solares para exteriores pueden proporcionar 12 horas de tiempo de iluminación por la noche, solo necesitas cargarlas durante 6-8 horas de sol
-- 【4 modos inteligentes】① Modo de detección infrarroja, ② Modo de detección y atenuación de infrarrojos, ③Modo de atenuación, ④ Modo de emergencia. Las luces solares de pared mejoradas son más sensibles y tienen un rango más amplio de sensor eficaz
 - 【Luces solares】luz solar de seguridad diseñada con 108 cuentas LED de alta potencia, que es mucho más brillante que otras lámparas similares. Este panel solar giratorio inalámbrico puede girar y girar 180 grados hacia arriba y hacia abajo, y ajustar el ángulo adecuado
+- 【4 modos inteligentes】① Modo de detección infrarroja, ② Modo de detección y atenuación de infrarrojos, ③Modo de atenuación, ④ Modo de emergencia. Las luces solares de pared mejoradas son más sensibles y tienen un rango más amplio de sensor eficaz
 - 【Fácil instalación】luz solar con sensor de movimiento incluye tornillos y otros accesorios, se puede utilizar en áreas donde no hay suministro eléctrico, perfecta para exteriores, pared, jardín, patio, garaje, entrada, porche, valla, caravana, etc
+- 【Ahorro de energía】la lámpara de pared con sensor solar funciona con energía ecológica y te ayuda a ahorrar libras de electricidad. Muy fácil de instalar con los tornillos incluidos. Las luces solares para exteriores pueden proporcionar 12 horas de tiempo de iluminación por la noche, solo necesitas cargarlas durante 6-8 horas de sol
 - 【Servicio de garantía】JESLED ofrece una política de reembolso completo de 60 días y una garantía de 2 años (1 año en la batería) para este sensor de movimiento de luces de seguridad para exteriores. Proporciona servicio al cliente posventa las 24 horas. Si tienes alguna confusión, ponte en contacto con nosotros
 
 [🛒 Comprar!!!]({{< param buyurl >}})

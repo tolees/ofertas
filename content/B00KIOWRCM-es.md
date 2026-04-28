@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Memoria usb2. 0
-- Dimensiones del producto 58 x 20 x 10 mm i peso del producto 16 g
 - Embalaje incluye intenso business line memoria flash 32 gb
+- Dimensiones del producto 58 x 20 x 10 mm i peso del producto 16 g
+- Memoria usb2. 0
 - Modo cómodo y rápido de realizar copias de seguridad y transportar su información por ejemplo música y fotos
 - Máxima velocidad de lectura 28 mb/s (173x) i máxima velocidad de escritura 6. 50 mb/s (37x)
 

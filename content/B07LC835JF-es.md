@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sebastian Man The Multi-Tasker Champú 3 in 1 1000 ml
-- Alta calidad
-- Para el cabello: Normal
 - Tipo de piel: Normal
+- Para el cabello: Normal
+- Alta calidad
+- Sebastian Man The Multi-Tasker Champú 3 in 1 1000 ml
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07LC835JF{{</world>}}

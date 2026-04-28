@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Protege, cuida, rejuvenece
-- Protege, cuida, rejuvenece
 - Siga las instrucciones de uso del envase
+- Protege, cuida, rejuvenece
+- Protege, cuida, rejuvenece
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01DUC2S40{{</world>}}

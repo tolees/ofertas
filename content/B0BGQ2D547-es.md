@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Confortable
-- estilo surfista y cotidiano
-- 100% algodón
-- Camiseta de manga corta y cuello redondo
 - Pecho delantero de Art Roxy
+- Camiseta de manga corta y cuello redondo
+- 100% algodón
+- estilo surfista y cotidiano
+- Confortable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BGQ2D547{{</world>}}

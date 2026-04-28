@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 😺【Fibra de sisal natural】 Este poste rascador para gatos está hecho de materiales seguros y ecológicos. La superficie está envuelta con una fibra de sisal natural para proporcionar un espacio de rascado seguro para usted y su minino.
-- 😺【Diseño】Base cuadrada estable con tela de felpa suave para la comodidad de su gatito.
 - 😺【Fácil de montar】 Diseño práctico. Sencillez a la hora de montar y desmontar. Puede ubicarlo en cualquier sitio.
-- 😺【Dimensiones del producto】 (25 * 25 * 35) cm / (9.8 * 9.5 * 13.8)  (L * W * H).
+- 😺【Diseño】Base cuadrada estable con tela de felpa suave para la comodidad de su gatito.
 - 😺【Entretenimiento】Además de proporcionar un espacio seguro de rascado, su gato podrá aprovechar la superficie plana como lugar de descanso y el juguete incorporado como elemento de juego.
+- 😺【Dimensiones del producto】 (25 * 25 * 35) cm / (9.8 * 9.5 * 13.8)  (L * W * H).
+- 😺【Fibra de sisal natural】 Este poste rascador para gatos está hecho de materiales seguros y ecológicos. La superficie está envuelta con una fibra de sisal natural para proporcionar un espacio de rascado seguro para usted y su minino.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07HC916JV{{</world>}}

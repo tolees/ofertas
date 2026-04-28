@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- CUIDADO CAPILAR: Un champú que elimina impurezas y deja un cabello espectacular. El regalo perfecto para el cuidado del cabello.
 - NUTRICIÓN: Fórmula sin sulfatos enriquecida con aceite de jojoba y pantenol hidratante para ayudar a equilibrar la hidratación.
 - CHAMPÚ: Nutre y define tus ondas y rizos, dejándolos elásticos, definidos y con un acabado duradero.
-- ANTIENCRESPAMIENTO: Diseñado con nuestro Complejo Nourish-In para nutrir y revitalizar el cabello de forma ligera.
-- CUIDADO CAPILAR: Un champú que elimina impurezas y deja un cabello espectacular. El regalo perfecto para el cuidado del cabello.
 - ONDAS SUAVES: Vitaminas, minerales y ácidos grasos esenciales cuidan delicadamente el cabello y mejoran su manejabilidad.
+- ANTIENCRESPAMIENTO: Diseñado con nuestro Complejo Nourish-In para nutrir y revitalizar el cabello de forma ligera.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CN1SHSF5{{</world>}}

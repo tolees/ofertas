@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Marca bordada en el pecho
 - 100 % algodón
+- Marca bordada en el pecho
 - Suéter básico de algodón con cuello redondo en hilo teñido pigmentado con costuras lisas con acanalado en cuello, puños y dobladillo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

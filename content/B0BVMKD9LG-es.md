@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CERTIFICADO OEKO-TEX: nuestras sábanas ajustables están certificadas según los requisitos de seguridad globales y ofrecen calidad y comodidad.
-- RESISTENTE AL ENCOGIMIENTO Y A LA DECOLORACIÓN - El material de microfibra se procesa para hacerlo resistente al encogimiento y a la decoloración, lo que aumenta la longevidad de la lámina manteniéndola en buenas condiciones
-- ELÁSTICO EN LOS BORDES: El elástico utilizado en la sábana bajera en los bordes hace que se adapte fácilmente al colchón a la vez que da un bonito acabado a la cama.
-- SÁBANA AJUSTABLE DE CALIDAD PREMIUM - Incluye 2 sábana ajustable de 135x190 cm por Utopia Bedding con bolsillos de 35 cm de profundidad.
 - INSTRUCCIONES DE CUIDADO - Lavar a máquina, secar en secadora o planchar a baja temperatura; no usar lejía.
+- CERTIFICADO OEKO-TEX: nuestras sábanas ajustables están certificadas según los requisitos de seguridad globales y ofrecen calidad y comodidad.
+- SÁBANA AJUSTABLE DE CALIDAD PREMIUM - Incluye 2 sábana ajustable de 135x190 cm por Utopia Bedding con bolsillos de 35 cm de profundidad.
+- RESISTENTE AL ENCOGIMIENTO Y A LA DECOLORACIÓN - El material de microfibra se procesa para hacerlo resistente al encogimiento y a la decoloración, lo que aumenta la longevidad de la lámina manteniéndola en buenas condiciones
 - SÁBANA BAJERA DE MICROFIBRA CEPILLADA - Esta sábana bajera de lujo de 135 x 190 cm está fabricada con un tejido de microfibra cepillada que hace que la sábana bajera sea e x cepcionalmente suave, fle x ible y cómoda, manteniéndole caliente en invierno y fresco en verano.
+- ELÁSTICO EN LOS BORDES: El elástico utilizado en la sábana bajera en los bordes hace que se adapte fácilmente al colchón a la vez que da un bonito acabado a la cama.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BVMKD9LG{{</world>}}

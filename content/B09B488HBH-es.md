@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- PS5
 - Pegi
 - Martha is Dead (Playstation 5)
-- PS5
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09B488HBH{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Caramelos de goma
 - Conservar en lugar fresco y seco
 - Deliciosas piezas en forma de moras y frambuesa
+- Caramelos de goma
 - Con intenso sabor a frutos rojos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

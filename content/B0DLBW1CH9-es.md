@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bold PU overlays, mesh underlays.
 - Detailed outsole with TPU shank.
 - Diseño contemporáneo con una sensación de 00s.
+- Bold PU overlays, mesh underlays.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DLBW1CH9{{</world>}}

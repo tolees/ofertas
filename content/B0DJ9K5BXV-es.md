@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- FUTURE 8 PLAY FG/AG
 - Ligeros y acolchados
 - Materiales transpirables
+- FUTURE 8 PLAY FG/AG
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJ9K5BXV{{</world>}}

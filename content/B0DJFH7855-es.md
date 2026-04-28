@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte entallado
 - 95% poliéster (reciclado), 5% elastano
+- Corte entallado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJFH7855{{</world>}}

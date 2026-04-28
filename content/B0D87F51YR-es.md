@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Fabricado con materiales sostenibles
 - Construcción duradera
 - Estilo clásico
-- Fabricado con materiales sostenibles
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D87F51YR{{</world>}}

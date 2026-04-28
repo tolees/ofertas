@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- MATERIAL Y CUIDADO: La cazadora está confeccionada en poliéster reciclado 100 %. Se puede lavar a máquina y secar en secadora.
-- PARA CUALQUIER OCASIÓN: La cazadora acolchada destaca por su gran versatilidad y protege del frío y las inclemencias del tiempo. Es la prenda perfecta para los fríos días de invierno y otoño, y resulta adecuada para llevarla a diario o de viaje.
-- ICÓNICO Y ATEMPORAL: La cazadora original de Tommy Jeans con dos bolsillos a la altura de la cintura tiene un diseño depurado. Gracias a su material cálido es ideal para los meses de entretiempo.
 - AJUSTE PERFECTO: Esta cazadora acolchada de estilo atemporal y minimalista es ligera a la vez que abrigada.
+- PARA CUALQUIER OCASIÓN: La cazadora acolchada destaca por su gran versatilidad y protege del frío y las inclemencias del tiempo. Es la prenda perfecta para los fríos días de invierno y otoño, y resulta adecuada para llevarla a diario o de viaje.
+- MATERIAL Y CUIDADO: La cazadora está confeccionada en poliéster reciclado 100 %. Se puede lavar a máquina y secar en secadora.
+- ICÓNICO Y ATEMPORAL: La cazadora original de Tommy Jeans con dos bolsillos a la altura de la cintura tiene un diseño depurado. Gracias a su material cálido es ideal para los meses de entretiempo.
 - MODA URBANA REINTERPRETADA: Para acercar las populares prendas de los 90 a las nuevas generaciones, Tommy Jeans se inspira en los iconos del hip-hop de aquella época. Apostando por prendas de alta calidad y diseños modernos con mucho denim.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

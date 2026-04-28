@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diferentes aplicaciones: cortar, serrar, lijar, rascar, pulir, despegar y mucho más
 - Plataforma Powershare. Batería extraíble e intercambiable con todas las herramientas eléctricas y de jardín de la gama 20V de Worx. No incluye batería ni cargador
-- Sistema de enganche universal del accesorio compatible con los accesorios de otras marcas
 - Control de velocidad variable y ajuste multi-ángulo
+- Diferentes aplicaciones: cortar, serrar, lijar, rascar, pulir, despegar y mucho más
+- Sistema de enganche universal del accesorio compatible con los accesorios de otras marcas
 - Llave incluida para el cambio de accesorios
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

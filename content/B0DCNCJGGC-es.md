@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【Compatible con clonación sin conexión】La estación de acoplamiento SSD FIDECO puede admitir clonación sin conexión y es muy fácil de operar. Simplemente inserte 2 SSD en las ranuras respectivas y mantenga presionado el botón de clonación durante 5 segundos para iniciar la clonación sin conexión.
-- Nota: Para la transferencia de datos o la clonación sin conexión, el SSD NVMe M.2 y el SSD SATA no se pueden insertar simultáneamente; de ​​lo contrario, solo se puede reconocer el SSD A y no se puede reconocer el SSD B.
 - 【Uno para todos】La estación de acoplamiento FIDECO NVMe está equipada con un cable USB C a USB C/A para usted, por lo que ya sea que esté usando computadoras de escritorio o portátiles con puerto USB A o USB C, puede satisfacer sus necesidades con solo un cable USB. .
+- Nota: Para la transferencia de datos o la clonación sin conexión, el SSD NVMe M.2 y el SSD SATA no se pueden insertar simultáneamente; de ​​lo contrario, solo se puede reconocer el SSD A y no se puede reconocer el SSD B.
+- 【Compatible con clonación sin conexión】La estación de acoplamiento SSD FIDECO puede admitir clonación sin conexión y es muy fácil de operar. Simplemente inserte 2 SSD en las ranuras respectivas y mantenga presionado el botón de clonación durante 5 segundos para iniciar la clonación sin conexión.
 - 【Velocidad de transferencia de 20 Gbps】 El lector FIDECO NVMe SATA adopta el estándar USB 3.2 Gen 2 y puede admitir UASP, y la velocidad máxima puede alcanzar los 20 Gbps en teoría. No necesita esperar más por la transferencia de datos y definitivamente puede ahorrarle mucho tiempo.
 - 【SSD compatible】La estación de acoplamiento FIDECO NVMe SATA SSD puede admitir SSD M.2 PCIe NVMe con clave M-Key o M+B y SSD M.2 SATA con clave M+B. Los tamaños de SSD M.2 admitidos son 2230/2242/2260/2280. Solo una base dual NVMe SATA SSD puede satisfacer sus necesidades de uso de diferentes tamaños de SSD.
 

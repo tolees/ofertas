@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Skechers Detalle del logotipo
 - Peso ligero
 - Parte superior de malla transpirable
+- Skechers Detalle del logotipo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C9M3V6ND{{</world>}}

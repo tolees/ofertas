@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre de cremallera y cuello alzado
 - Corte clásico
 - Tejido polar 100% poliéster reciclado
+- Cierre de cremallera y cuello alzado
 - Bolsillos laterales
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material: textil
 - Skechers Nombre del estilo: SPORTS
 - Ligero, cómodo y moderno
+- Material: textil
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CC4QSTFN{{</world>}}

@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - ASUS Antibacterial Guard: Inhibe el crecimiento de bacterias para mantener la superficie y los botones del ratón sanitarios
-- Sensor óptico de 8000 dpi: Ofrece un seguimiento preciso de píxeles, con un botón DPI para cambiar entre cuatro niveles de sensibilidad sobre la marcha
 - Resistencia al polvo y agua IP56: El recubrimiento protector optimiza una durabilidad duradera
 - Diseño ligero y ergonómico: Pesa solo 59 gramos, con una carcasa especialmente diseñada para jugadores diestros
 - Control completo: Los patines de ratón de PTFE optimizan desplazamientos rápidos y suaves; configuraciones personalizables: total flexibilidad con seis botones táctiles y programables, además de tres perfiles de memoria integrados
+- Sensor óptico de 8000 dpi: Ofrece un seguimiento preciso de píxeles, con un botón DPI para cambiar entre cuatro niveles de sensibilidad sobre la marcha
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CH3RJWH2{{</world>}}

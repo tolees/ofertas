@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Videojuego para Switch de la marca Bandai
 - Color: Multicolor
-- Medidas: 16,51 x 10,41 x 1,02 centímetros
-- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
 - Referencia: S7177675
+- Videojuego para Switch de la marca Bandai
+- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
+- Medidas: 16,51 x 10,41 x 1,02 centímetros
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09XVH7WKB{{</world>}}

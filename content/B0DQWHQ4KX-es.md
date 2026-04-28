@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - SÉRUM ALISADOR DE ARRUGAS CON RETINOL DE ALTA EFICACIA que reduce visiblemente las arrugas en una semana,minimiza el aspecto de los poros, mejora la firmeza, unifica el tono y potencia la luminosidad de la piel
-- CERAMIDE RETINOL CONTORNO PARA LOS OJOS Tratamiento de noche para el contorno de ojos que combina retinol encapsulado, péptidos y ceramidas restauradoras para alisar, iluminar y descongestionar la piel, proporcionando una mirada de aspecto más joven
 - CONSEJOS DE USO Se recomienda utilizar una cápsula por la noche y/o por la mañana sobre la piel limpia y seca; para abrir la cápsula, girar la lengüeta; presionar la cápsula para liberar el sérum; extender con delicadeza sobre la piel de rostro, cuello y escote, evitando el contorno de los ojos, y realizar un suave masaje hasta su completa absorción
+- CERAMIDE RETINOL CONTORNO PARA LOS OJOS Tratamiento de noche para el contorno de ojos que combina retinol encapsulado, péptidos y ceramidas restauradoras para alisar, iluminar y descongestionar la piel, proporcionando una mirada de aspecto más joven
 - INGREDIENTES SELECCIONADOS Retinol+HPR Complex: complejo de retinoides de alta eficacia; combinación de péptidos que ayudan a alisar visiblemente las líneas de expresión, arrugas y contribuyen a refozar el colágeno de la piel; fitoceramidas, que fortalecen la barrera cutánea y aumentan los niveles de hidratación; y, Bisabolol + Avena que calman, suavizan y acondicionan la piel
 - DESCUBRE LAS CÁPSULAS DE SÉRUM DE CERAMIDAS CON RETINOL + HPR un retinol de nueva generación con alta eficacia pero suficientemente suave para uso diurno y nocturno y para quienes usan retinol por primera vez
 

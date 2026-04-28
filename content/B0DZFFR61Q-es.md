@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pre-encogido
 - Refuerzos en puntos estratégicos de la chaqueta y los pantalones
-- Aberturas en la cintura de la chaqueta para libertad de movimiento
+- Pre-encogido
 - Lavar en frío, nunca secar en secadora.
+- Aberturas en la cintura de la chaqueta para libertad de movimiento
 - Chaqueta: Algodón Pearl Weave de 450 gsm, Pantalones: Algodón ripstop de 10 oz
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

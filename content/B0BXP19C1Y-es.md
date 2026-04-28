@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ③【Excelentes resultados impresos】SUNLU filamento TPU 1,75mm tiene una excelente adherencia de capa, muy fácil de imprimir, resistente al desgaste, resistente al aceite, buena elasticidad, antienvejecimiento, sin bobble.
-- ①【TPU para Impresión Rápida】SUNLU Filamento TPU de Alta Velocidad puede imprimir 3 veces más rápido que los filamentos TPU ordinarios, logra el equilibrio ideal entre suavidad y resiliencia.
-- ④【TPU Recommend Settings】Recomendamos imprimir a una temperatura de boquilla de 210-230°C, temperatura de cama de 50-60°C, velocidad de impresión de 80-120mm/s, más rápido y mejor.
 - ⑤【TPU 1.75mm Diameter】Dimensional Accuracy +/- 0.03mm. SUNLU filamento tiene una amplia compatibilidad debido al pequeño error de diámetro, es adecuado para casi todas las impresoras 3D FDM de 1,75mm.
 - ②【TPU 3D Printing Filament】TPU filamento está hecho de poliuretano termoplástico flexible, con dureza Shore de 95A, adecuado para llaveros de impresión, plantillas, fundas de teléfonos móviles, etc.
+- ③【Excelentes resultados impresos】SUNLU filamento TPU 1,75mm tiene una excelente adherencia de capa, muy fácil de imprimir, resistente al desgaste, resistente al aceite, buena elasticidad, antienvejecimiento, sin bobble.
+- ④【TPU Recommend Settings】Recomendamos imprimir a una temperatura de boquilla de 210-230°C, temperatura de cama de 50-60°C, velocidad de impresión de 80-120mm/s, más rápido y mejor.
+- ①【TPU para Impresión Rápida】SUNLU Filamento TPU de Alta Velocidad puede imprimir 3 veces más rápido que los filamentos TPU ordinarios, logra el equilibrio ideal entre suavidad y resiliencia.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BXP19C1Y{{</world>}}

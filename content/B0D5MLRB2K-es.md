@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estilo corto
 - Suela de TPR
+- Estilo corto
 - Corte bajo
 - PU Upper
 

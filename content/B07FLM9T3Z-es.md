@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tejido que evacua la humedad
-- Hecho con 95% de contenido reciclado
 - Óptima elasticidad y comodidad sin costuras para acompañarte
+- Hecho con 95% de contenido reciclado
+- Tejido que evacua la humedad
 - Protección solar certificada UPF 50; máxima protección para actividad al aire libre en tiempo soleado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

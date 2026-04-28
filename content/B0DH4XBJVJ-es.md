@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuando no esté en uso, se recomienda guardarla abierta para evitar la formación de mohos y malos olores.
 - Bolsa de agua caliente realizada en algodón, con un divertido mensaje. El interior de la bolsa está realizado en PVC y su sistema de cierre es totalmente hermético.​
 - Indicaciones: la parte externa puede lavarse a mano con agua fría, sin utilizar lejía, sin meterla en la secadora, sin lavarla en seco y sin plancharla.​
 - Capacidad: 1 litro.​
+- Cuando no esté en uso, se recomienda guardarla abierta para evitar la formación de mohos y malos olores.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DH4XBJVJ{{</world>}}

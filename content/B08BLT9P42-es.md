@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseñados con un corte vintage y cómodo
 - Ajuste regular
+- Diseñados con un corte vintage y cómodo
 - Lo Cómodos posible sin perder ni una pizca de estilo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

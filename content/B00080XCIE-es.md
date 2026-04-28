@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Material : Acero inoxidable Cromargan 18/10, pulido. Apto para todos los tipos de cocinas habituales: inducción, gas, eléctricas, vitrocerámica. Resistente al calor y resistente al horno hasta 250°C. Apta para lavavajillas, pero se recomienda la lavar a mano
+- Contenido: 1x olla para verduras con tapa de 28 cm (volumen 14 l, altura 24 cm) - ideal para placas de cocina con Ø 22 cm - número de artículo: 0795386030
 - La construcción inferior (TransTherm) garantiza un almacenamiento de calor uniforme y prolongado. La tapa con la apertura de vapor mantiene el calor en la olla y se puede empujar rápidamente hacia un lado
 - Cuenta con escala interna que facilita la dosificación y borde de vertido, lo que la hace ideal para todo tipo de sopas, pastas y cocciones
-- Contenido: 1x olla para verduras con tapa de 28 cm (volumen 14 l, altura 24 cm) - ideal para placas de cocina con Ø 22 cm - número de artículo: 0795386030
-- Material : Acero inoxidable Cromargan 18/10, pulido. Apto para todos los tipos de cocinas habituales: inducción, gas, eléctricas, vitrocerámica. Resistente al calor y resistente al horno hasta 250°C. Apta para lavavajillas, pero se recomienda la lavar a mano
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00080XCIE{{</world>}}

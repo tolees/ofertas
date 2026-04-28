@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Género: Alpargatas unisex
-- Color de las chanclas: azul marino
-- Nota Considera la talla BR = talla de la UE, independientemente de lo que muestre la suela del producto, la talla BR se ajusta adecuado y corresponde a la talla de la UE + prueba siempre el producto primero
-- 100 % algodón (41 % algodón reciclado). Material de la suela: goma
 - Tipo de suela: cómoda, duradera, ligera, resistente al calor, antideslizante y resistente al agua
 - Tamaño: al comprar las sandalias Havaianas en Amazon, debes considerar la talla BR/proveedor como equivalente a la talla de la UE, independientemente de lo que se muestre en la suela del producto
+- Color de las chanclas: azul marino
+- 100 % algodón (41 % algodón reciclado). Material de la suela: goma
+- Nota Considera la talla BR = talla de la UE, independientemente de lo que muestre la suela del producto, la talla BR se ajusta adecuado y corresponde a la talla de la UE + prueba siempre el producto primero
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B6CG75CW{{</world>}}

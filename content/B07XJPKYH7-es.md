@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Abertura del compartimento principal con cremallera bidireccional
-- Bolsillo grande con cremallera en la parte delantera
 - Asa de transporte de cincha en la parte superior
 - Correas para el hombro ajustables y acolchadas
+- Bolsillo grande con cremallera en la parte delantera
+- Abertura del compartimento principal con cremallera bidireccional
 - Bolsillo de malla para el agua en la parte derecha
 
 [🛒 Visítala!!!]({{< param buyurl >}})

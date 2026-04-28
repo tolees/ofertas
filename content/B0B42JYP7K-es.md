@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Ribete en color de contraste
-- Entresuela de EVA troquelada
-- Parte superior de poliuretano
 - Suela TPR
+- Parte superior de poliuretano
+- Entresuela de EVA troquelada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B42JYP7K{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Caja Regalo
 - Botella Deportiva
 - Sin BPA
+- Caja Regalo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FCNSRK4B{{</world>}}

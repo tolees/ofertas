@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela Adiwear
 - Empeine de malla
+- Suela Adiwear
 - Horma clásica
 - Refuerzo de goma en el talón
 - Amortiguación LIGHTMOTION

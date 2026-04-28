@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CLIMACOOL
-- Refuerzos en la sisa
-- Contiene al menos un 70 % de material reciclado y renovable
 - Tecnología transpirable
-- Corte clásico
-- 100 % poliéster (71 % reciclado)
 - Factor de protección solar (FPS)
-- Freshrite Polygiene que evita el mal olor
+- Refuerzos en la sisa
 - Media cremallera y cuello corto
+- Freshrite Polygiene que evita el mal olor
+- 100 % poliéster (71 % reciclado)
+- Contiene al menos un 70 % de material reciclado y renovable
+- CLIMACOOL
+- Corte clásico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZ9H56WG{{</world>}}

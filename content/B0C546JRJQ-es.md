@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Material plano y suave
+- Punto 78% nailon reciclado / 22% elastán
 - Tejido Infinitex Fitness Eco resistente al cloro
 - Espalda con escote medio
 - Tirantes cruzados en la espalda
-- Punto 78% nailon reciclado / 22% elastán
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C546JRJQ{{</world>}}

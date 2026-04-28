@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Horquillas de tierra para mayor estabilidad
+- Prefiltro integrado
 - Cobertura máxima de área: 320 m2
 - Protector único contra salpicaduras para un posicionamiento cómodo sin mojarse
-- Prefiltro integrado
+- Horquillas de tierra para mayor estabilidad
 - Ancho de pulverización ajustable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

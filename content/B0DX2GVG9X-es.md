@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🧬 CON PIMIENTA NEGRA: Fórmula complementada con extracto de pimienta negra (Piper nigrum L.) 25:1, equivalente a 5 mg de planta.
 - 🌱 SIN GLUTEN Y SIN LACTOSA: Apto para dietas veganas. Fabricado en España.
-- ⚖️ DOSIS CONCENTRADA: cada cápsula contiene 625mg de Ashwagandha y 5mg de pimienta negra.
 - 🌿ASHWAGANDHA KSM-66 CON PIMIENTA NEGRA: Complemento alimenticio de alta calidad con extracto seco de Ashwagandha (Withania somnifera L.) y extracto de pimienta negra (Piper nigrum L.), para mejorar la absorción y eficacia.
 - 📦 FORMATO 6 MESES: Envase con 180 cápsulas. Dosis diaria recomendada de 1 cápsula al día, ideal para un uso prolongado.
+- 🧬 CON PIMIENTA NEGRA: Fórmula complementada con extracto de pimienta negra (Piper nigrum L.) 25:1, equivalente a 5 mg de planta.
+- ⚖️ DOSIS CONCENTRADA: cada cápsula contiene 625mg de Ashwagandha y 5mg de pimienta negra.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DX2GVG9X{{</world>}}

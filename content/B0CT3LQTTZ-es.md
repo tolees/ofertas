@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dimensiones mínimas del interior del mueble requeridas para el montaje: profundidad 500mm y una altura libre de 162mm y es apta para módulos de ancho desde 40cm.
-- La instalación es muy sencilla sin realizar mecanizados sobre el mueble, solo es necesario atornillarla en la base de la balda o módulo.
 - La tabla se extrae del mueble con un deslizamiento suave mediante un sistema de perfiles telescópicos. Dispone de un asa para facilitar la extracción de esta y posee de un sistema de clipado para fijar la tabla en posición desplegada. Además, cuenta con un soporte de acero para apoyar la plancha.
 - Tabla de planchar plegable y extraíble para instalar en el interior de un mueble, tiene una superficie de planchado desplegada de 920mm de longitud y 330mm de ancho.
+- La instalación es muy sencilla sin realizar mecanizados sobre el mueble, solo es necesario atornillarla en la base de la balda o módulo.
 - Bastidor fabricado en aluminio en acabado pintado gris antracita. Se suministra una funda en acabado negro y es desenfundable para facilitar la limpieza y mantenimiento.
+- Dimensiones mínimas del interior del mueble requeridas para el montaje: profundidad 500mm y una altura libre de 162mm y es apta para módulos de ancho desde 40cm.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CT3LQTTZ{{</world>}}

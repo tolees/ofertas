@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Product 1: Mango: predominio de las líneas rectas, está pensado para el uso diario sin renunciar al diseño. Sus cachas de polioximetileno (pom), lo hacen resistente a productos químicos y temperaturas extremas
-- Product 1: Hoja: el acero exclusivo nitrum de su hoja le confiere una durabilidad fuera de serie
-- Product 1: Dispone de remaches machihembrados de acero inoxidable anti-corrosión
-- Product 2: 1 Tijeras de Cocina en un blistes de plástico
 - Product 2: Mango de Polipropileno y Elastómero, higiénico y resistente en dos colores (Negro y Rojo)
+- Product 1: Mango: predominio de las líneas rectas, está pensado para el uso diario sin renunciar al diseño. Sus cachas de polioximetileno (pom), lo hacen resistente a productos químicos y temperaturas extremas
+- Product 2: 1 Tijeras de Cocina en un blistes de plástico
+- Product 1: Dispone de remaches machihembrados de acero inoxidable anti-corrosión
+- Product 1: Hoja: el acero exclusivo nitrum de su hoja le confiere una durabilidad fuera de serie
 - Product 2: Tamaño tijeras: 215 mm
 - Product 2: Hoja de acero inoxidable que lo hace resistente a la oxidación y aumenta su vida útil
 

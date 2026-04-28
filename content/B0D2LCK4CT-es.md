@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - ADHESIVO Y SELLANTE DE ALTA RESISTENCIA – Adhesivo monocomponente de polímero MS con agarre extremo de hasta 600 kg/m², ideal para pegados y sellados duraderos en múltiples aplicaciones. Incluye cánula.
 - AGARRE INMEDIATO Y FÓRMULA SEGURA – Sin siliconas ni disolventes, permite reposicionamiento y secado rápido. Soporta temperaturas de -40°C a +90°C y hasta 200°C en pintura al horno.
-- USO VERSÁTIL EN CONSTRUCCIÓN E INDUSTRIA – Perfecto para carpintería, automoción, ventilación y pegado de espejos. Alta flexibilidad y resistencia a impactos y vibraciones.
 - LIMITACIONES Y RECOMENDACIONES DE USO – No apto para ácidos concentrados ni hidrocarburos clorados. Se recomienda realizar pruebas previas y verificar compatibilidad con pinturas.
+- USO VERSÁTIL EN CONSTRUCCIÓN E INDUSTRIA – Perfecto para carpintería, automoción, ventilación y pegado de espejos. Alta flexibilidad y resistencia a impactos y vibraciones.
 - COMPATIBILIDAD CON VARIOS MATERIALES – Adhiere sobre piedra, hormigón, madera, cerámica, metales, plásticos y superficies pintadas, barnizadas o galvanizadas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Torrance Off White
-- piel, textil, tpr
 - Quiksilver Zapatos
+- piel, textil, tpr
 - Quiksilver Zapatillas de piel sintética, textil, tpr
+- Torrance Off White
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D97XWX14{{</world>}}

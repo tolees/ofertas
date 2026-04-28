@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El set contiene N.1 Scented Hand Soap - Jabón de manos con irresistibles notas afrutadas y cítricas. Una textura cremosa y perfumada que limpia y mima la piel, proporcionando una deliciosa sensación de confort
-- Kit de regalo de cuidado de la piel compuesto por un jabón de manos, una crema de manos hidratante y una lima de uñas de cristal, dentro de un precioso neceser de regalo
-- Jabón: Dermatológicamente testado
-- El set contiene N.1 Nail File 106 cristal - Lima de cristal para uñas, delicada y precisa, también apta para uñas artificiales. La superficie permanece siempre afilada, se puede lavar y no es porosa
 - El set contiene N.1 Intensive Hand Cream - Una crema hidratante protectora para las manos y las cutículas que ayuda a mantener un estado óptimo de hidratación y nutrición. La fórmula se absorbe rápidamente y brinda a las manos una hidratación prolongada, incluso después de lavarlas
+- El set contiene N.1 Nail File 106 cristal - Lima de cristal para uñas, delicada y precisa, también apta para uñas artificiales. La superficie permanece siempre afilada, se puede lavar y no es porosa
+- El set contiene N.1 Scented Hand Soap - Jabón de manos con irresistibles notas afrutadas y cítricas. Una textura cremosa y perfumada que limpia y mima la piel, proporcionando una deliciosa sensación de confort
+- Jabón: Dermatológicamente testado
+- Kit de regalo de cuidado de la piel compuesto por un jabón de manos, una crema de manos hidratante y una lima de uñas de cristal, dentro de un precioso neceser de regalo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJM6YDYM{{</world>}}

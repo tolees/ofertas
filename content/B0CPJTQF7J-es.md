@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Punta redonda
-- Logotipo de la marca
 - Cierre de cordones
+- Logotipo de la marca
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CPJTQF7J{{</world>}}

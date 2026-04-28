@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Medidas: 6,74 x 13,67 x 7,75 centímetros
-- Color: Multicolor
+- Perfume Unisex de la marca Lattafa
 - Referencia: S8306542
 - ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
-- Perfume Unisex de la marca Lattafa
+- Medidas: 6,74 x 13,67 x 7,75 centímetros
+- Color: Multicolor
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08HVXDLXK{{</world>}}

@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Con logo en Saumende.
 - Logotipo impreso en el pecho con serigrafía de alta calidad.
-- Agradable comodidad gracias al algodón suave.
 - Alpha Industries Sweater Basic en los colores de moda.
+- Agradable comodidad gracias al algodón suave.
 - Cuello redondo y elástico acanalado, dobladillo y puños
 
 [🛒 Comprar!!!]({{< param buyurl >}})

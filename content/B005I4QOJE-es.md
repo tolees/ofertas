@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 135 vatios
 - con 50 piezas de accesorios
+- 135 vatios
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B005I4QOJE{{</world>}}

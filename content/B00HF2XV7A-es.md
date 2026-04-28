@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kärcher - Caja con bomba de aspersión y accesorios'
-date: 2026-04-15 20:36:13
+date: 2026-04-27 09:48:17
 image: 'https://m.media-amazon.com/images/I/41Cc9jmH7ML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

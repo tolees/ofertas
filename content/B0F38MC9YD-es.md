@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Forro de malla
-- Cierre de cordones
 - Empeine de piel sintética con refuerzos de ante
+- Forro de malla
 - Horma clásica
 - Suela de goma
+- Cierre de cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F38MC9YD{{</world>}}

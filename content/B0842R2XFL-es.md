@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bolso Bandolera
 - 26 Alto x 29 Ancho x 4 Fondo cm
 - 0.31 kg
+- Bolso Bandolera
 - Hidrófugo
 - 100% Polimiada
 

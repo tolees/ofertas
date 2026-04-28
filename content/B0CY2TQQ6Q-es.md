@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Incluye 64 páginas para coleccionar los mejores instantes, así como 8 hojas de pegatinas temáticas.
-- Álbum de fotos para llenar de recuerdos de los buenos.
 - Cuenta con la certificación FSC, que garantiza que ha sido fabricado con papel obtenido de bosques gestionados de forma responsable.
+- Álbum de fotos para llenar de recuerdos de los buenos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CY2TQQ6Q{{</world>}}

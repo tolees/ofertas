@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - DISEÑO COMPACTO Y VERSÁTIL: Estructura compacta que ocupa menos espacio que una hoja A4 y peso de 3,13 kg. Incluye vapor vertical para prendas delicadas, trajes, prendas colgadas o cortinas.
 - GRAN AUTONOMÍA: Depósito de agua de 1,4 L fácil de rellenar que permite sesiones de planchado largas sin interrupciones, ideal para grandes coladas y un uso continuo con total comodidad.
-- PLANCHADO RÁPIDO Y EFICAZ: Centro de planchado diseñado para ofrecer un rendimiento excepcional día tras día, reduciendo el tiempo dedicado al planchado y facilitando el cuidado de todo tipo de prendas con resultados rápidos y eficientes.
 - SEGURIDAD Y AHORRO DE ENERGÍA: Sistema de bloqueo para transporte seguro, apagado automático y sistema antical para mayor durabilidad. Modo Eco que permite ahorrar hasta un 25 % de energía manteniendo resultados rápidos.
+- PLANCHADO RÁPIDO Y EFICAZ: Centro de planchado diseñado para ofrecer un rendimiento excepcional día tras día, reduciendo el tiempo dedicado al planchado y facilitando el cuidado de todo tipo de prendas con resultados rápidos y eficientes.
 - ALTO RENDIMIENTO DE VAPOR: Salida continua de vapor de 110 g/min y golpe de vapor de 270 g/min con bomba de 6 bares de presión. Calentamiento rápido en solo 2 minutos y cómoda asa para un uso práctico y cómodo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

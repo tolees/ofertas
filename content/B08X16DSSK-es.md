@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - VAQUERO RECTO: Estos clásicos vaqueros de cinco bolsillos y gran elasticidad son perfectos para el día a día. Este producto es siempre un caballo de batalla en cualquier armario y está pensados para llevarlo a diario o para conseguir un outfit informal para ir a trabajar.
-- ABERTURA DE LA PIERNA: La talla 42 mide 19,7 cm.
 - AJUSTE RECTO: Entallado en la cadera y el muslo, con pierna recta. Queda por la cintura.
 - DETALLES: Presenta bragueta con cremallera y cierre de cremallera con botón sin ojal metálico, refuerzos traseros y remaches en los bolsillos delanteros para las manos.
+- ABERTURA DE LA PIERNA: La talla 42 mide 19,7 cm.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08X16DSSK{{</world>}}

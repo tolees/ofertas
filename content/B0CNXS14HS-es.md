@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ¡LANZA TU T-RACER A MÁXIMA VELOCIDAD! – ¡deja a tus oponentes congelados de sorpresa! Cuando tu coche esté listo para competir, colócalo en el lanzador, y ¡dispara! ¿Ganarás la carrera?
 - ¿LISTO PARA LA CARRERA? – Junta los dos Launcher Trucks Fire y Ice y podrás competir en modo carrera: ¿Quién será el más rápido y llegará más lejos?
-- ¡DESCUBRE EL ICE LAUNCHER TRUCK! - ¡El poder del hielo está en tus manos con el Ice Launcher Truck! Carga el camión con tu T-Racer Mix ´N Race favorito… ¡y lánzalo a máxima velocidad!
 - EMOCIÓN Y DIVERSIÓN – Horas de diversión para niños montando su propio vehículo, combinando piezas y haciendo carreras con el Ice Launcher Truck. ¿Estás listo para el Mix ‘N Race?
+- ¡DESCUBRE EL ICE LAUNCHER TRUCK! - ¡El poder del hielo está en tus manos con el Ice Launcher Truck! Carga el camión con tu T-Racer Mix ´N Race favorito… ¡y lánzalo a máxima velocidad!
+- ¡LANZA TU T-RACER A MÁXIMA VELOCIDAD! – ¡deja a tus oponentes congelados de sorpresa! Cuando tu coche esté listo para competir, colócalo en el lanzador, y ¡dispara! ¿Ganarás la carrera?
 - VEHÍCULO EXCLUSIVO – Sólo podrás encontrar este T-Racer Exclusivo, Ice Breaker, con este camión. Recuerda que sus piezas se podrán combinar con las de los otros coches T-Racers Mix ´N Race que tengas. No compatibles con T-Racers anteriores (de la serie 1 a la 6)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

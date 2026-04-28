@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Este blister consta de 5 fundas de 8 cartas (40 cartas) y 2 cartas de edición limitada aleatoria entre las cartas 4, 5 y 6
-- 9 cartas Edición Limitada también están por descubrir en tu colección
-- Una colección inédita de 180 cartas, incluidas 120 cartas básicas y 60 cartas especiales (brillantes y lenticulares con efecto Fresnel)
 - Por primera vez, los fanáticos del juego pueden coleccionar sus 84 brawlers favoritos, acompañados de escenas de culto para una inmersión total en el explosivo universo de Brawl Stars
+- Una colección inédita de 180 cartas, incluidas 120 cartas básicas y 60 cartas especiales (brillantes y lenticulares con efecto Fresnel)
+- 9 cartas Edición Limitada también están por descubrir en tu colección
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FJ8QXQNB{{</world>}}

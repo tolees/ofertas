@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- JUEGO DE ESTÍMULO A PARTIR DE 18 MESES: Este juego Janod ayuda a aprender las formas y colores a los niños de 18 a 36 meses y les acompaña en sus primeros pasos. Carrito de actividades de madera FSC y pintura al agua. Dimensiones: 23,5 x 15,5 x 12 cm.
+- EL PODER DEL JUEGO: Con unas colecciones atrevidas e innovadoras, Janod acompaña a los niños en su mejor aventura: ¡crecer! Unos bonitos juguetes para aprender sin darse cuenta, explorar el mundo, soñar y compartir... ¡Eso es jugar bien!
 - SWEET COCOON: La colección Sweet Cocoon, inspirada en las tendencias actuales, es una gama de juguetes de primera infancia de delicados colores pastel combinados con madera natural que acompaña a los más pequeños en sus primeros aprendizajes.
 - JUGUETE 2 EN 1: Este juego de arrastre incluye además 16 bloques de construcción de distintas formas y un ábaco con 5 abalorios de madera. El pequeño puede jugar a apilarlos y trabajar su destreza y su imaginación mientras se divierte con este carrito.
-- EL PODER DEL JUEGO: Con unas colecciones atrevidas e innovadoras, Janod acompaña a los niños en su mejor aventura: ¡crecer! Unos bonitos juguetes para aprender sin darse cuenta, explorar el mundo, soñar y compartir... ¡Eso es jugar bien!
-- JUEGO DE ESTÍMULO A PARTIR DE 18 MESES: Este juego Janod ayuda a aprender las formas y colores a los niños de 18 a 36 meses y les acompaña en sus primeros pasos. Carrito de actividades de madera FSC y pintura al agua. Dimensiones: 23,5 x 15,5 x 12 cm.
 - CARACOL DE ARRASTRE: ¡El caparazón gira cuando se mueve el caracol! Gracias al cordón de algodón y a las ruedas silenciosas que no dejan marcas, el niño desarrolla su motricidad general paseando a este caracol que no estropea el suelo ni hace ruido.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

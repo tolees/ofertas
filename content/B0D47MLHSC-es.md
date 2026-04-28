@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cámara de butilo
 - 100% poliuretano termoplástico
+- Cámara de butilo
 - Cosido a máquina
 
 [🛒 Visítala!!!]({{< param buyurl >}})

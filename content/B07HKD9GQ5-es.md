@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Ayudar a mantener un metabolismo saludable después de la esterilización / castración
+- Ayuda a mantener unas defensas naturales fuertes gracias a los antioxidantes, como la vitamina E
 - Sin colorantes, conservantes ni aromatizantes artificiales añadidos
 - Ayuda a mantener un sistema urinario saludable ayudando a reducir la concentración de minerales que pueden derivar en la aparición de cálculos renales
-- Ayuda a mantener unas defensas naturales fuertes gracias a los antioxidantes, como la vitamina E
-- Ayudar a mantener un metabolismo saludable después de la esterilización / castración
 - Con SALMÓN O PAVO de alta calidad como fuente de proteína y gran sabor
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

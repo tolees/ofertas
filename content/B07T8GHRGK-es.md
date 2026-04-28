@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - FABRICADAS EN ALUMINIO PRENSADO: Este material hace que nuestros productos sean extremadamente duraderos y muy resistentes. Además, su original diseño permite una distribución equitativa del calor por toda la superficie de la sartén.
 - VÁLIDOS PARA TODO TIPO DE COCINAS: Sabemos que la versatilidad y la practicidad son imprescindibles para ti mientras cocinas, por eso nuestras sartenes son aptas para todo tipo de cocinas de inducción, de gas, halógenas, vitrocerámicas y eléctricas.
 - ERGNER: Nacimos en 1999 con la idea de ofrecer un menaje resistente, duradero y de calidad para todos. Combinamos la innovación con los mejores materiales y diseños para mejorar tu experiencia en casa.
-- JUEGO DE 3 SARTENES: El juego incluye 2 sartenes de 24 y 28 cm que podrás apilar fácilmente para guardarlas sin que ocupen demasiado espacio. Gracias a nuestras sartenes, ¡no habrá plato que se resista!
 - MANGO ERGONÓMICO EXTRAIBLE: Diseñamos nuestras sartenes con un mango ergonómico para ofrecerte una experiencia de uso fácil y llena de comodidades. ¡Podrás usarlas en el horno, retirando el mango con tan solo un click!
+- JUEGO DE 3 SARTENES: El juego incluye 2 sartenes de 24 y 28 cm que podrás apilar fácilmente para guardarlas sin que ocupen demasiado espacio. Gracias a nuestras sartenes, ¡no habrá plato que se resista!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07T8GHRGK{{</world>}}

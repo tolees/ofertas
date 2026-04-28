@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El ángulo del haz permite iluminar habitaciones enteras y acentos
 - Mismas dimensiones que la lámpara halógena, se adapta a todas las aplicaciones
-- Tecnología LED de última generación, con una larga vida útil de 15.000 horas
 - Las lámparas LED de Philips tienen un bajo consumo de energía y una alta reproducción cromática para conseguir tonos blancos intensos.
 - Fabricada en silicona, luz blanca cálida inmediata (2700 K), como las lámparas incandescentes / halógenas convencionales
+- El ángulo del haz permite iluminar habitaciones enteras y acentos
+- Tecnología LED de última generación, con una larga vida útil de 15.000 horas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DFMJ5NDQ{{</world>}}

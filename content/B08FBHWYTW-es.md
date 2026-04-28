@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cierre: Cordones
-- Material de la suela: Caucho
 - Suela de goma flexible
+- Material de la suela: Caucho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08FBHWYTW{{</world>}}

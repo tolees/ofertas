@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- PureGEL para un impacto suave
+- Parte superior de malla transpirable diseñada
 - Diseño vibrante y colorido
 - Amortiguación FF BLAST+ Eco para una comodidad reactiva
-- Parte superior de malla transpirable diseñada
-- PureGEL para un impacto suave
 - Ideal para niños deportistas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

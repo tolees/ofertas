@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Piel sintética impermeable y parte superior textil. Forro reflectante Omni-Heat. Aislamiento de 400 g. Construcción transpirable impermeable Omni-Tech. Sistema de cierre elástico
-- Nota: los cordones y cremalleras incorporados en el calzado Columbia no son impermeables.
 - Suela exterior de goma moldeada por inyección
+- Nota: los cordones y cremalleras incorporados en el calzado Columbia no son impermeables.
+- Piel sintética impermeable y parte superior textil. Forro reflectante Omni-Heat. Aislamiento de 400 g. Construcción transpirable impermeable Omni-Tech. Sistema de cierre elástico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CLWK8VBZ{{</world>}}

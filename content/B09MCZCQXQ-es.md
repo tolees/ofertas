@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ZONA DE JUEGOS ELEVADA: Este árbol para gatos puede mantener a tu amigo peludo alejado de otras mascotas y darles su propio lugar de descanso y juego privado
-- MEDIDAS TOTALES: 129x40x31,5 cm (LxANxAL). Recomendado para mascotas con un peso inferior a 4,5 kg. Se requiere montaje
-- MONTADO EN LA PARED: Árbol para gatos con original diseño montado a la pared para ahorrar espacio. Compuesto por 2 bases diferenciadas con doble plataforma y un poste de rascado y, unidas por una pasarela a modo de escalera de tela de poliéster con listones de madera
-- PROTEGE TUS MUEBLES: Los postes de rascado de sisal son ideales para que los gatos satisfagan su instinto natural de afilar sus garras, protegiendo tus muebles de arañazos
 - ESTRUCTURA RESISTENTE: Estantes flotantes para gatos hechos de melamina de madera con gran capacidad de carga y postes de aglomerado y envueltos de cuerda de sisal. Un espacio estable, resistente y pet-friendly
+- MEDIDAS TOTALES: 129x40x31,5 cm (LxANxAL). Recomendado para mascotas con un peso inferior a 4,5 kg. Se requiere montaje
+- PROTEGE TUS MUEBLES: Los postes de rascado de sisal son ideales para que los gatos satisfagan su instinto natural de afilar sus garras, protegiendo tus muebles de arañazos
+- MONTADO EN LA PARED: Árbol para gatos con original diseño montado a la pared para ahorrar espacio. Compuesto por 2 bases diferenciadas con doble plataforma y un poste de rascado y, unidas por una pasarela a modo de escalera de tela de poliéster con listones de madera
+- ZONA DE JUEGOS ELEVADA: Este árbol para gatos puede mantener a tu amigo peludo alejado de otras mascotas y darles su propio lugar de descanso y juego privado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09MCZCQXQ{{</world>}}

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Forro textil
+- Empeine de malla
 - Horma clásica
+- Forro textil
 - Forro textil
 - Suela y mediasuela de EVA
 - Contiene al menos un 20% de material reciclado
-- Empeine de malla
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CKXSNX29{{</world>}}

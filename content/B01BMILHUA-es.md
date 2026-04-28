@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La fórmula 3 en 1 para rostro, cuerpo y cabello es suave, su aroma cítrico masculino y vigorizante refresca la piel para un despertar inmediato.
-- Para hombres que desean despertarse rápidamente en la ducha y un cuidado óptimo de la piel
 - La piel y el cabello están protegidos y revitalizados.
+- Para hombres que desean despertarse rápidamente en la ducha y un cuidado óptimo de la piel
+- La fórmula 3 en 1 para rostro, cuerpo y cabello es suave, su aroma cítrico masculino y vigorizante refresca la piel para un despertar inmediato.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01BMILHUA{{</world>}}

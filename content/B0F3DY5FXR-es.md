@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Asume el papel de danzaterra y usa el poder del baile, tesoros sagrados y armas increíbles como arcos y talismanes para purificar la tierra y tus granjas y reparar los daños que ha causado la plaga.
-- Toda la estética y los diseños del juego están inspirados en la cultura japonesa, los personajes, festivales, eventos y monstruos.
-- La granja no es lo único que debes cuidar, ¡restaura aldeas enteras! Construye y coloca edificios para convencer a la gente para que vuelva a las aldeas y contribuya.
 - Elige a uno de los dos protagonistas y, luego, entabla amistad o un vínculo romántico con cualquiera de los posibles candidatos en escenarios completamente locutados.
 - Revive a los dioses para llenar las tierras que la plaga ha invadido de vitalidad y recursos valiosos.
+- La granja no es lo único que debes cuidar, ¡restaura aldeas enteras! Construye y coloca edificios para convencer a la gente para que vuelva a las aldeas y contribuya.
+- Asume el papel de danzaterra y usa el poder del baile, tesoros sagrados y armas increíbles como arcos y talismanes para purificar la tierra y tus granjas y reparar los daños que ha causado la plaga.
+- Toda la estética y los diseños del juego están inspirados en la cultura japonesa, los personajes, festivales, eventos y monstruos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F3DY5FXR{{</world>}}

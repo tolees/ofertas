@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Empeine perforado
+- Cierre de cordones
 - Suela de goma
+- Empeine perforado
 - Forro textil
 - Horma clásica
-- Cierre de cordones
 - Empeine de piel y material sintético
 
 [🛒 Visítala!!!]({{< param buyurl >}})

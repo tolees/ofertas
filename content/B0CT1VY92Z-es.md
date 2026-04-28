@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- MINI JUEGOS: ¡Hay muchas maneras de jugar con tu Corgi! Disfruta de juegos como el fútbol, capturas, etc. Más juegos se desbloquearán cuanto más juegues
-- CUIDA A TU CORGI: ¡Tu Pixel Petz está listo para que alguien como tú lo cuide! Ya sea para alimentarlo, entretenerlo, hacerle mimos o acicalarlo, esta adorable mascota digital siempre está lista para recibir amor y atención
-- INTERACTIVO: Pueden sentir tu tacto, así que hazle mimos en la cabeza para demostrarles tu cariño. Incluso se comunican con otros Pixel Petz. Con tantas funciones interactivas, tu Corgi se convierte en todo un compañero
 - ÚNICO EN SU ESPECIE: Con más de cien reacciones distintas y varias personalidades que cambian en función de la forma en que juegues, tu mascota será única en su especie. Con tantas funciones interactivas, tu Corgi se convierte en todo un compañero
 - EXPRESIVO: Esta mascota digital escucha tu voz y hace todo lo posible por comunicarse contigo mediante guaus. Cuanto más juegues, más desarrollará tu mascota una personalidad única. Si no la cuidas lo suficiente, puede volverse muy gruñona
+- CUIDA A TU CORGI: ¡Tu Pixel Petz está listo para que alguien como tú lo cuide! Ya sea para alimentarlo, entretenerlo, hacerle mimos o acicalarlo, esta adorable mascota digital siempre está lista para recibir amor y atención
+- MINI JUEGOS: ¡Hay muchas maneras de jugar con tu Corgi! Disfruta de juegos como el fútbol, capturas, etc. Más juegos se desbloquearán cuanto más juegues
+- INTERACTIVO: Pueden sentir tu tacto, así que hazle mimos en la cabeza para demostrarles tu cariño. Incluso se comunican con otros Pixel Petz. Con tantas funciones interactivas, tu Corgi se convierte en todo un compañero
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CT1VY92Z{{</world>}}

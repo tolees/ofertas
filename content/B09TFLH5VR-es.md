@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- VEGANO Y CRUELTY FREE: 3INA es una marca de maquillaje española que fabrica en Europa. Todos nuestros productos son veganos, libres de parabenos y sin crueldad animal.
-- LARGA DURACIÓN: Nuestro delineador de alta pigmentación es larga duración, perfecto para mantenerse intacto durante todo el día. Con variedad de colores, incluyendo el negro y el blanco.
 - MAQUILLA TUS OJOS EN UNA SOLA PASADA: The Eye Pencil con aplicador de 3INA hace que sea súper fácil crear un maquillaje de ojos sensual y atrevido sin necesidad de utilizar brochas.
+- LARGA DURACIÓN: Nuestro delineador de alta pigmentación es larga duración, perfecto para mantenerse intacto durante todo el día. Con variedad de colores, incluyendo el negro y el blanco.
+- VEGANO Y CRUELTY FREE: 3INA es una marca de maquillaje española que fabrica en Europa. Todos nuestros productos son veganos, libres de parabenos y sin crueldad animal.
 - SUPER FÁCIL DE APLICAR: Gira la punta y desliza por encima de la línea de las pestañas y dentro de la línea de agua desde el borde exterior del ojo hasta el lagrimal, rellenando los espacios vacíos.
 - OJOS ATREVIDOS: Este lápiz aterciopelado con difuminador es la herramienta ideal para conseguir unos ojos sensuales. Aplícalo en la línea superior de las pestañas y difumínalo con tu dedo.
 

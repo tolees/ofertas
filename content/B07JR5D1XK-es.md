@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Instrucciones de cuidado: lavar en programa para prendas delicadas a 40 °C, no secar en la secadora, no usar lejía, planchar a baja temperatura.
 - Partes de origen animal: no.
+- Instrucciones de cuidado: lavar en programa para prendas delicadas a 40 °C, no secar en la secadora, no usar lejía, planchar a baja temperatura.
 - Material: 85 % algodón, 13 % poliéster, 2 % elastano.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

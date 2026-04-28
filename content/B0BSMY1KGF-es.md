@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Adecuado para regalar
-- Brillo suave
 - Simples y fáciles de usar
+- Brillo suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BSMY1KGF{{</world>}}

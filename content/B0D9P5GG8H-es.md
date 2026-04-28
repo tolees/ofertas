@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pintalabios rico y nutritivo
 - La textura cremosa viste los labios con una suavidad extrema, garantizando una sensación de confort única y un maquillaje de los labios de larga duración
+- Dermatológicamente testado
 - Liberación inmediata del color, cobertura de media a alta
 - Muy fácil de aplicar
-- Dermatológicamente testado
+- Pintalabios rico y nutritivo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D9P5GG8H{{</world>}}

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Corte regular
-- Cuello redondo acanalado
 - Impresión de goma de la marca PUMA
+- Cuello redondo acanalado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C4PQJWH3{{</world>}}

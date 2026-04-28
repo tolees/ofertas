@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 💎 Sin Frizz: Alisa el 100% de su cabello, no solamente le hidrata, aporta brillo y mejora toda la estructura capilar, sino que conseguirá el liso total de toda su cabellera.
-- 💎 Liso: Con este excelente tratamiento logrará un liso permanente de 4 a 7 meses, luego se recomienda aplicarlo nuevamente en la zona de cabello que ha crecido (raíz).
 - 💎 Suave y Manejable: Aun en el cabello más grueso y complicado, podrá notar lo manejable y suave que es su experiencia al tratarlo.
-- 💎 Full Brillo: Notará desde el primer instante como su cabello tiene más brillo y proyecta mejor su color.
+- 💎 Liso: Con este excelente tratamiento logrará un liso permanente de 4 a 7 meses, luego se recomienda aplicarlo nuevamente en la zona de cabello que ha crecido (raíz).
+- 💎 Sin Frizz: Alisa el 100% de su cabello, no solamente le hidrata, aporta brillo y mejora toda la estructura capilar, sino que conseguirá el liso total de toda su cabellera.
 - 💎 Alcance y Durabilidad: Alcanza para varias aplicaciones, podrás compartirlo o reutilizarlo de 10 a 12 veces. Es decir, 3 - 4 años de producto garantizado. Si eres profesional, esta presentación es la correcta para ti.
+- 💎 Full Brillo: Notará desde el primer instante como su cabello tiene más brillo y proyecta mejor su color.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08KPTBD3B{{</world>}}

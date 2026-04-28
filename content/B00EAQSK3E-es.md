@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- La caja esta hecha de plástico
 - Fácil de usar
 - Varios tamaños
-- La caja esta hecha de plástico
 - Material de calidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

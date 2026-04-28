@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela de goma para tracción
 - Unidad Dynamic Air de doble cámara para una transición suave
+- Suela de goma para tracción
 - Parte superior de malla multicapa para mayor ligereza y transpirabilidad.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

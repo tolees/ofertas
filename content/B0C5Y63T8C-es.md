@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Regular o resistente
 - Este producto es original Levis
+- Regular o resistente
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C5Y63T8C{{</world>}}

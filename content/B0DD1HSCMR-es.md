@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- HOMBRE
-- V-25
 - Sneakers Skechers Arch Fit Orvan-kincade Hombre Teja
-- SNEAKERS
+- HOMBRE
 - TEJA
+- V-25
+- SNEAKERS
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DD1HSCMR{{</world>}}

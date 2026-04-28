@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Vegano
-- Tejido de punto de ingeniería
-- Refrigerado por aire
-- Lavable a
 - Arch Fit
+- Tejido de punto de ingeniería
+- Vegano
+- Lavable a
+- Refrigerado por aire
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CW4QN43D{{</world>}}

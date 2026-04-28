@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuidarse nunca fue tan fácil gracias a nuestros productos.
-- Urgo aftas spray 15ml.
 - Cuida tu salud de la mano de nuestros productos.
+- Urgo aftas spray 15ml.
+- Cuidarse nunca fue tan fácil gracias a nuestros productos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09SVG25YC{{</world>}}

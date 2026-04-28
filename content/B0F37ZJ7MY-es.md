@@ -28,15 +28,15 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Refuerzos bajo las sisas
 - Contiene al menos un 70% de material reciclado y renovable
+- Protección contra los rayos UV
 - 100% poliéster (71% reciclado)
 - Cuello redondo
-- Refuerzos bajo las sisas
 - Tecnología de control de olores Polygiene (ingrediente activo: cloruro de plata)
-- Protección contra los rayos UV
 - Costuras de los hombros desplazadas hacia atrás
-- CLIMACOOL
 - Tejido Twistknit elástico
+- CLIMACOOL
 - Corte clásico
 
 [🛒 Visítala!!!]({{< param buyurl >}})

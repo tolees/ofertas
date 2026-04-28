@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuenta con una sudadera con cremallera y pantalones deportivos clásicos
-- El chándal está hecho de un tejido ultraligero
 - Dos bolsillos delanteros
+- El chándal está hecho de un tejido ultraligero
+- Cuenta con una sudadera con cremallera y pantalones deportivos clásicos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D5D8KXHJ{{</world>}}

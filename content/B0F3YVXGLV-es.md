@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material: Aleacion de metal●Acabado: Oro amarillo de 18k●Piedra: Circonita multicolor● Ancho: 4,5mm
 - Anillo con Circonita Multicolor acabado oro 18k - Tazel
+- Material: Aleacion de metal●Acabado: Oro amarillo de 18k●Piedra: Circonita multicolor● Ancho: 4,5mm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F3YVXGLV{{</world>}}

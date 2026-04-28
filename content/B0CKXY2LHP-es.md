@@ -30,12 +30,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Horma clásica
 - Cierre de cordones
-- Forro textil
-- Empeine de piel
 - Puntera reforzada
-- Forro textil
 - Suela de goma
+- Forro textil
+- Forro textil
 - Contiene al menos un 20% de material reciclado
+- Empeine de piel
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CKXY2LHP{{</world>}}

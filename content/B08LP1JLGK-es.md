@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Mantenimiento: Este producto pueden lavarse en lavadora hasta 40ᴼC.
+- Uso: Abrir la almohada envasada al vacio, luego dejar que hinche al tomar aire y despues palmear y mullir hasta que recupere su forma.
 - Medidas: Disponemos de diferentes medidas, para que ustedes pueda elegir a su medida y gusto.
 - Caracteristica: Higiene garantizada, indeformable, lavable, antialergico, fibra hueca de alta recuperacion.
-- Uso: Abrir la almohada envasada al vacio, luego dejar que hinche al tomar aire y despues palmear y mullir hasta que recupere su forma.
-- Mantenimiento: Este producto pueden lavarse en lavadora hasta 40ᴼC.
 - Composicion: El tejido exterior está fabricado en microfibra de última generación y el interior está formado por fibra hueca siliconada, para permitir la circulación del aire y liberar la humedad, evitando el calor mientras descansas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

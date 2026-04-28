@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tejido transpirable AEROREADY
-- Corte clásico
 - Interlock 100% poliéster reciclado
+- Corte clásico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09HMY8BD1{{</world>}}

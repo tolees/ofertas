@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 1376700-390-S/M
 - Mens UA Blitzing
+- 1376700-390-S/M
 - Hombre
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

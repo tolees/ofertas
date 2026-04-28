@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Bajo recto
 - Aberturas laterales
 - Manga larga
-- Estampado de rayas en el pecho y en la espalda
-- Bajo recto
 - Cuello redondo acanalado
+- Estampado de rayas en el pecho y en la espalda
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CB1Z57WW{{</world>}}

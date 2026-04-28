@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - DISEÑO ERGONÓMICO Y SEGURO: El mango es ligero y tiene formas suaves y líneas redondeadas para un agarre cómodo. Ha sido fabricado en polioximetileno (POM) por lo que es altamente resistente a los detergentes y a las temperaturas extremas. Puede ser limpiado con productos químicos y es apto para el lavavajillas.
-- DIMENSIONES: El cuchillo para salami de la serie Arcos 1900 pesa 294 gramos. El tamaño de su hoja es de 300 mm | 12" pulgadas, lo que lo convierte en una gran herramienta para todas sus necesidades de corte en la cocina.
-- ARCOS: Un negocio familiar con una herencia de artesanía que se remonta a 1734. Casi tres siglos de investigación y mejora continua de nuestros productos hacen de Arcos un referente internacional en el sector de la cubertería. Desde Albacete, España, producimos 11,000,000 cuchillos cada año que combinan conocimiento, diseño e innovación para lograr los más altos estándares de calidad. Distribuimos nuestras piezas únicas en más de 70 países de todo el mundo.
 - PRECISIÓN Y DURABILIDAD: Este cuchillo para salami está hecho utilizando una técnica patentada de acero inoxidable por Arcos llamada Nitrum, que proporciona una mayor durabilidad, dureza y corte de alta precisión. Proporciona un control higiénico-sanitario enfocado en las regulaciones europeas. La unión entre la hoja y el mango es permanente, debido al proceso de inyección.
 - Cuchillo para salami de la serie 2900 de 300 mm, que te permite cortar y servir las lonchas más finas de cualquier tipo de carne fría. Fabricado por las manos expertas de Arcos. Una empresa con valor y tradición desde 1734.
+- DIMENSIONES: El cuchillo para salami de la serie Arcos 1900 pesa 294 gramos. El tamaño de su hoja es de 300 mm | 12" pulgadas, lo que lo convierte en una gran herramienta para todas sus necesidades de corte en la cocina.
+- ARCOS: Un negocio familiar con una herencia de artesanía que se remonta a 1734. Casi tres siglos de investigación y mejora continua de nuestros productos hacen de Arcos un referente internacional en el sector de la cubertería. Desde Albacete, España, producimos 11,000,000 cuchillos cada año que combinan conocimiento, diseño e innovación para lograr los más altos estándares de calidad. Distribuimos nuestras piezas únicas en más de 70 países de todo el mundo.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B007TS6DM0{{</world>}}

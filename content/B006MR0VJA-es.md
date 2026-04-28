@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Edad recomendada a partir de 3 meses y mayores
-- Ungüento de Oliva para la piel seca, muy seca y propensa a la atopia
 - Recomendado para labios, manos, codos, rodillas y talones
+- Ungüento de Oliva para la piel seca, muy seca y propensa a la atopia
 - Ingredientes: triglicéridos, aceite de oliva, aceite de canola y lanolina
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

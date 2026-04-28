@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Altura tacón 1,5 cm
 - Forro de piel y piso flexible
 - Plantilla de piel curtida de forma sostenible y muy acolchada
 - Bailarinas con glitter y tiras
-- Altura tacón 1,5 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CV495M9J{{</world>}}

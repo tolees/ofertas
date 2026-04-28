@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Textura estriada elegante y moderna en color negro
 - Con agujero de drenado y tapones de goma para un mantenimiento superior
 - Ideales para plantar suculentas, especias, flores, plantas domésticas y más
 - Maceta de cerámica con 20.3 cm de diámetro
+- Textura estriada elegante y moderna en color negro
 - Ideal para interior y exterior
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

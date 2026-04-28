@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Etiqueta Have a nice World
 - Fabricado con prácticas sostenibles
 - Poliéster reciclado
 - Realizado con fibras naturales
-- Etiqueta Have a nice World
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08YYYZC77{{</world>}}

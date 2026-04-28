@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela Adiwear
+- Horma clásica
 - Cierre de cordones
 - Mediasuela híbrida con tecnologías BOOST y Bounce
 - Parte superior de malla
-- Horma clásica
+- Suela Adiwear
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BPDXM3H5{{</world>}}

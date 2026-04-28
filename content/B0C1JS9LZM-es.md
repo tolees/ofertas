@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Revestimiento: Tela
 - Material de la suela: Material Sintético
+- Revestimiento: Tela
 - Material exterior: Sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})

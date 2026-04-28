@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color: Gris
 - Talla: 54
 - Color de lente: Verde polarizado
 - Material: policarbonato
+- Color: Gris
 - Forma: CUADRADO
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

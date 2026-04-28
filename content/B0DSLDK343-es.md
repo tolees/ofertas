@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Aplicar una cantidad de champú del tamaño de un tapón de botella. Masajear y aclarar abundantemente.
-- Champú azul neutralizador para cabello coloreado que elimina tonos cálidos no deseados en cabello castaño claro.
 - Prolonga la duración del color. Potencia el brillo y la luminosidad. Nutrición y suavidad inmediata.
+- Champú azul neutralizador para cabello coloreado que elimina tonos cálidos no deseados en cabello castaño claro.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DSLDK343{{</world>}}

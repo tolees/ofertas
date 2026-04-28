@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte superior de punto de malla plana suave con cordones elásticos en la parte delantera
 - Entresuela ligera y flexible que absorbe los golpes
+- Parte superior de punto de malla plana suave con cordones elásticos en la parte delantera
 - Diseño deportivo sin cordones
 - Suela de tracción de goma flexible
 

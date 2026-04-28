@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tapón de fieltro adherido de 2,5 mm
-- Parte superior de nailon impermeable. Construcción impermeable con costuras selladas. Los cordones no son impermeables.
 - Carcasa de goma vulcanizada impermeable hecha Sorel mano con una suela aerodinámica que no se carga
+- Parte superior de nailon impermeable. Construcción impermeable con costuras selladas. Los cordones no son impermeables.
 - Bota interior extraíble de fieltro reciclado lavable de 9 mm con puño de nieve de pelo sherpa
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

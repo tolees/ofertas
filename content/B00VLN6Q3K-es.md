@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Dos lados reversibles con diferentes estampados
-- Ajuste regular
 - Cuello alto
 - Capucha acogedora para cubrirte de la lluvia y el viento
+- Ajuste regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00VLN6Q3K{{</world>}}

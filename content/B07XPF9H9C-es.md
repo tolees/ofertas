@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Blanco
-- Tenis bianche
-- Tela, sintética, goma, 178, tenis bajos
 - Cestas blancas
+- Tela, sintética, goma, 178, tenis bajos
+- Tenis bianche
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07XPF9H9C{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- 2 anchos de trazo
 - Producto de la marca STABILO
 - Tinta con base al agua
-- 2 anchos de trazo
 - Color azul
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Moda deportiva con cordones
-- Suela de tracción flexible
 - Parte superior de malla cerrada con detalles de superposición termofusible
 - Altura del tacón: 1 3/4 pulgadas
+- Suela de tracción flexible
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B9BM6SBW{{</world>}}

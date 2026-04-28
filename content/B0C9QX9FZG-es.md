@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalones cortos para hombre
 - Cómodos de llevar
+- Pantalones cortos para hombre
 - Material de calidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

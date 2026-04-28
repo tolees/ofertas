@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Interior térmico para mantener la comida durante más tiempo y resguardarlas de la luz exterior.
 - Con asa en la parte superior.
+- Interior térmico para mantener la comida durante más tiempo y resguardarlas de la luz exterior.
 - Bolsa porta alimentos de 20 cm x 23 cm x 14 cm fabricada en Poliéster.
 - Dispone de un bolsillo interior para llevar los cubiertos.
 

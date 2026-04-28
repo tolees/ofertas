@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Potencia de 2000-2400 W - Hierve una taza de agua en 50 segundos y ahorra hasta un 70 Percentage de electricidad. 220-240 V 50/60Hz |
-- Filtro Extraíble - El filtro del hervidor es extraíble y lavable
 - Capacidad de 1,7 Litros - Hervidor en plástico negro de alto brillo con capacidad para 1,7 litros, interruptor luminoso de encendido y apagado
-- Zona de Ebullición Rápida - Con indicador de 1/2/3 tazas
+- Filtro Extraíble - El filtro del hervidor es extraíble y lavable
 - Doble Visor del Nivel de Agua - El hervidor cuenta con un doble visor del nivel de agua iluminado, tapa de apertura por presión, boquilla de precisión y base de 360° con recogecable
+- Zona de Ebullición Rápida - Con indicador de 1/2/3 tazas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01B0YT0E6{{</world>}}

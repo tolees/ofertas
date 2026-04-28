@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Sudadera de manga larga
 - Detalles distintivos de la marca
-- Ajuste regular
 - Tela suave
+- Ajuste regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09H6VPG27{{</world>}}

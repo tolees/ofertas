@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dimensiones: 26 x 28 x 3.6 cm.
 - 160 páginas de septiembre 2025 a agosto 2026, pegatinas, separadores, bolsillo y playlist exclusiva
+- Dimensiones: 26 x 28 x 3.6 cm.
 - ¡Todo lo que necesitas en un solo set! Agenda semanal extragrande más un bolígrafo premium, todo presentado en una caja espectacular
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantilla de espuma suave
 - Plantilla Step-in
+- Plantilla de espuma suave
 - Botas medias
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

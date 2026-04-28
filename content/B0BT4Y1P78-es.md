@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CREA TU LOOK: aplica las sombras de colores más claros desde la esquina interior hasta el centro del párpado. Delinea la línea de pestañas con el color más oscuro y aplícalo en la esquina exterior.
 - EFECTO DURADERO: paleta de sombras de ojos con fórmula de larga duración diseñada para mantenerse durante todo el día. Llévatela a todas partes gracias a su formato compacto y su espejo incorporado.
-- VEGANO Y CRUELTY FREE: 3INA es una marca de maquillaje española que fabrica en Europa. Todos nuestros productos son veganos, libres de parabenos y sin crueldad animal.
-- EXPRESIÓN INFINITA: elige un tono diferente cada día con nuestra paleta de sombras. Los colores tierra de estas sombras te dan una gran versatilidad para crear make-ups originales y diferentes.
 - ALTA PIGMENTACIÓN: sombras altamente pigmentadas para crear looks atrevidos. ¡No tengas miedo! Prueba y mezcla los tonos que más te gusten. Combinalos con nuestro The Color Pen Eyeliner.
+- VEGANO Y CRUELTY FREE: 3INA es una marca de maquillaje española que fabrica en Europa. Todos nuestros productos son veganos, libres de parabenos y sin crueldad animal.
+- CREA TU LOOK: aplica las sombras de colores más claros desde la esquina interior hasta el centro del párpado. Delinea la línea de pestañas con el color más oscuro y aplícalo en la esquina exterior.
+- EXPRESIÓN INFINITA: elige un tono diferente cada día con nuestra paleta de sombras. Los colores tierra de estas sombras te dan una gran versatilidad para crear make-ups originales y diferentes.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BT4Y1P78{{</world>}}

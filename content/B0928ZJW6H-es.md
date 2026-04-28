@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Disfruta con los nuevos REDI. Una manera de disfrutar de tus cócteles de manera sencilla y refrescante
-- Perfecto para el verano y la playa
 - Enfriar en la nevera. Consumir muy frío
-- Bebida alcohólica preparada con Absolut Vodka y sabor a frambuesa y limón.
+- Disfruta con los nuevos REDI. Una manera de disfrutar de tus cócteles de manera sencilla y refrescante
 - El sabor de frambuesas maduradas al sol y los refrescantes limones se mezclan a la perfección con el clásico Absolut Vodka
+- Perfecto para el verano y la playa
+- Bebida alcohólica preparada con Absolut Vodka y sabor a frambuesa y limón.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0928ZJW6H{{</world>}}

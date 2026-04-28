@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Altura regulable con dos motores eléctricos: Ajuste sencillo mediante pulsador con un controlador de lectura LCD y preajustes de memoria para utilizarlo sentado o de pie a la altura que prefiera, y lo suficientemente silencioso como para que pueda ajustarlo en medio de una conferencia sin que nadie se entere
-- Bandeja de organización de cables CORSAIR RapidRoute: Mantenga los cables ocultos en una bandeja lo suficientemente grande como para dar cabida a todas las regletas con multitud de puntos para bridas
-- Brazo de monitor incluido: Compatible con monitores de montaje VESA de 75×75 mm o 100×100 mm de hasta 12,5 kg de peso
-- Superficie de abedul macizo: Disfrute de una sensación natural y agradable al tacto. En un elegante blanco pino, la superficie de abedul macizo, respetuosa con el medio ambiente, es tan resistente como atractiva
 - Sistema modular de raíles en T: Despeje su espacio con un sistema modular que utiliza un travesaño de canal en T de aluminio 3060 estándar universal, raíles laterales y un raíl de montaje superior, que admite la compatibilidad con cientos de fijaciones y accesorios existentes. Con un diseño pensado para futuras ampliaciones, CORSAIR Platform:4 es una mesa que crece con el usuario
+- Altura regulable con dos motores eléctricos: Ajuste sencillo mediante pulsador con un controlador de lectura LCD y preajustes de memoria para utilizarlo sentado o de pie a la altura que prefiera, y lo suficientemente silencioso como para que pueda ajustarlo en medio de una conferencia sin que nadie se entere
+- Superficie de abedul macizo: Disfrute de una sensación natural y agradable al tacto. En un elegante blanco pino, la superficie de abedul macizo, respetuosa con el medio ambiente, es tan resistente como atractiva
+- Brazo de monitor incluido: Compatible con monitores de montaje VESA de 75×75 mm o 100×100 mm de hasta 12,5 kg de peso
+- Bandeja de organización de cables CORSAIR RapidRoute: Mantenga los cables ocultos en una bandeja lo suficientemente grande como para dar cabida a todas las regletas con multitud de puntos para bridas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DN2QSQKS{{</world>}}

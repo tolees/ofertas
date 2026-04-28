@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello: Mao
-- Desigual
-- Manga: Larga
-- Bolsillos delanteros
 - Fit: Regular
+- Manga: Larga
 - Color: Liso
+- Bolsillos delanteros
+- Desigual
+- Cuello: Mao
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DW9GC9MG{{</world>}}

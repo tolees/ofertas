@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Las patillas están realzadas con colores sombreados y pintados que dejan ver el alambre metálico del núcleo.
-- La estructura cuadrada está fabricada con resina vegetal.
 - Algunas referencias se caracterizan por sus colores sombreados.
 - La montura RXable permite la aplicación de lentes oftálmicas.
 - Este modelo es una L.
+- La estructura cuadrada está fabricada con resina vegetal.
+- Las patillas están realzadas con colores sombreados y pintados que dejan ver el alambre metálico del núcleo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FQK313JX{{</world>}}

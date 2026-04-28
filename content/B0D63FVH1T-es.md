@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Slim fit
+- Welt pockets
 - Refined chino pant with water- repellent, stain-proof, no-iron technology
+- Flexible waistband for added stretch and extra comfort
 - Wrinkle-free stretch cotton fabric with water- and stain-repellent protection
 - Dockers Herren SIGNATURE STAIN DEFENDER SLIM PANTS
-- Welt pockets
-- Slim fit
-- Flexible waistband for added stretch and extra comfort
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D63FVH1T{{</world>}}

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Diseñado para durar: la atención al detalle de Columbia es lo que distingue a nuestro calzado. Especifica solo materiales de la más alta calidad, costuras expertas y artesanía. Este es un calzado de larga duración que disfrutarás durante las próximas temporadas.
-- Soporte de la entresuela: una entresuela cómoda de EVA ofrece amortiguación y estabilidad de felpa con cada paso.
 - Sandalias coloridas: diseñadas para llevarte de ciudad a sendero sin perder un paso, las sandalias Via Desert Nights se inspiran en los cielos nocturnos del desierto y la naturaleza.
-- Tracción de la suela: una suela que no deja marcas ofrece un agarre funcional en todas las superficies.
+- Soporte de la entresuela: una entresuela cómoda de EVA ofrece amortiguación y estabilidad de felpa con cada paso.
 - Ajuste de 2 correas: con estampado floral en la correa y parche en el talón, esta sandalia ajustable de 2 correas añade acolchado en el talón y el tobillo para comodidad durante todo el día.
+- Tracción de la suela: una suela que no deja marcas ofrece un agarre funcional en todas las superficies.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C5BHXNX8{{</world>}}

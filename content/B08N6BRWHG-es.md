@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Material exterior: nubuck
 - Material interior: sintético
 - Suela: Caucho
-- Material exterior: nubuck
 - Cierre: cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Piel: textil
-- 12,1653543183 pulgadas
 - Transpirable y transpirable
+- Piel: textil
 - Cierre: etilvinilacetato
+- 12,1653543183 pulgadas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09ZVM1T9P{{</world>}}

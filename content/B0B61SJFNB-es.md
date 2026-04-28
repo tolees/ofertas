@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plain
 - Trainers
-- Polyurethane
 - materialFabricComposition: Upper: 100% Polyurethane; Sole: 100% Rubber; Inner: 100% Polyurethane; Insole: 100% Polyurethane
+- Plain
+- Polyurethane
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B61SJFNB{{</world>}}

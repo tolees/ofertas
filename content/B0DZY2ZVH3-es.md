@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Chaqueta funcional de mujer con capucha con cremallera
-- dos bolsillos con cremallera
-- Cremallera frontal con protector de barbilla
-- 10.000 mm de columna de agua, costuras selladas, impermeable
 - Impregnación sin PFAS y material parcialmente reciclado
+- 10.000 mm de columna de agua, costuras selladas, impermeable
+- Cremallera frontal con protector de barbilla
+- dos bolsillos con cremallera
+- Chaqueta funcional de mujer con capucha con cremallera
 - Transpirable (3.000 g/m²/24 h) y cortaviento
 
 [🛒 Aquí!!!]({{< param buyurl >}})

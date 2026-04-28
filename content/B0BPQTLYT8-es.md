@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aplicar con un disco de algodón sobre la piel limpia, por la mañana y por la noche, antes del tratamiento Attivi Puri en gotas.
-- Minimiza las imperfecciones
-- Para uso en todo el rostro o en zonas específicas: ideal para la zona T y para las impurezas localizadas.
 - Favorece la penetración de los principios activos complementarios
+- Para uso en todo el rostro o en zonas específicas: ideal para la zona T y para las impurezas localizadas.
+- Minimiza las imperfecciones
 - Ilumina y unifica el tono de la piel
+- Aplicar con un disco de algodón sobre la piel limpia, por la mañana y por la noche, antes del tratamiento Attivi Puri en gotas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BPQTLYT8{{</world>}}

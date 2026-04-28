@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 3. Plano
 - Textil
 - Cordón
+- 3. Plano
 - Suecia
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- REPOSACABEZAS AJUSTABLE: Kore Pro i-Size se ajusta fácilmente tanto en altura como en anchura tirando del asa de fácil acceso del reposacabezas, proporcionando un confort óptimo a tu pequeño.
 - FUNDA LAVABLE A MÁQUINA: los accidentes ocurren, pero no hay de qué preocuparse: la funda de la silla de coche se puede quitar fácil y rápidamente y lavar a máquina.
 - LUZ DE ASISTENCIA CLICKASSIST: La luz ClickAssist ilumina la hebilla cada vez que tu hijo o hija necesita abrocharse el cinturón. ¡Abrocharse el cinturón de seguridad nunca ha sido tan fácil y divertido!
 - SISTEMA DE PROTECCIÓN LATERAL PLUS: Kore Pro i-Size está equipado con el sistema de protección lateral Plus, compuesto por amortiguadores de fibra de vidrio en los alerones laterales, combinados con materiales que absorben la energía.
+- REPOSACABEZAS AJUSTABLE: Kore Pro i-Size se ajusta fácilmente tanto en altura como en anchura tirando del asa de fácil acceso del reposacabezas, proporcionando un confort óptimo a tu pequeño.
 - CUMPLE CON LA NORMATIVA DE SEGURIDAD I-SIZE : Esta silla de coche ISOFIX se ha diseñado y probado según los máximos estándares de seguridad de la EU (ECE R129). Al usar ISOFIX, la silla de coche garantiza la seguridad del niño durante los viajes.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

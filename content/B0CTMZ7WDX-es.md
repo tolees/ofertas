@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Marca en el talón
 - Suela de goma con look retro.
 - Ajuste regular
-- Marca en el talón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CTMZ7WDX{{</world>}}

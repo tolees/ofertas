@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Botas para mujer
-- Plantilla extraíble
-- Softlight
 - Suelas flexibles y mayor comodidad
+- Plantilla extraíble
 - Horma estándar
+- Softlight
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DW9YZYN2{{</world>}}

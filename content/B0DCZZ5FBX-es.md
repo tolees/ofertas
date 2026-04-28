@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Indicaciones: lavar a mano. No meter en el microondas. Lavar antes del primer uso. Cuando no esté en uso, se recomienda guardarla abierta para evitar la formación de malos olores.
 - Totalmente libre de BPA, su asa grande y su pajita incorporada la hacen muy práctica al uso. Además, su base estrecha cabe en el portavasos del coche.​
+- Indicaciones: lavar a mano. No meter en el microondas. Lavar antes del primer uso. Cuando no esté en uso, se recomienda guardarla abierta para evitar la formación de malos olores.
 - Taza take away térmica de 1,2 litros de capacidad (40oz), realizada con acero inoxidable de doble pared, con aislamiento al vacío. Mantiene el calor durante 8 horas y el frío durante 12 horas.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- MODO DE USO: Puede consumirse directamente o añadirse a bebidas vegetales, zumos, yogures o espolvorearse sobre ensaladas o sopas
-- ETIQUETAS: Este producto es apto para veganos y celíacos
 - La levadura de cerveza desamargada es un producto natural que se obtiene de la fermentación de cereales, como la cebada o el trigo, y que nos poarta numerosos beneficios. A la hora de tomarlo, ofrece gran versatilidad, ya que se puede añadir a sopas, verduras, ensaladas... Incluso puede tomarse mezclado con leche, yogur, zumos...
-- PROPIEDADES: Es un producto natural que se obtiene de la fermentación de cereales como la cebada o el trigo
 - LEVADURAS, GÉRMENES Y SALVADOS. Levadura desamargada
+- PROPIEDADES: Es un producto natural que se obtiene de la fermentación de cereales como la cebada o el trigo
+- ETIQUETAS: Este producto es apto para veganos y celíacos
+- MODO DE USO: Puede consumirse directamente o añadirse a bebidas vegetales, zumos, yogures o espolvorearse sobre ensaladas o sopas
 - BENEFICIOS: Rica en proteínas y vitaminas del complejo B
 
 [🛒 Aquí!!!]({{< param buyurl >}})

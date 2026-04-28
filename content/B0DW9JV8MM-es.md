@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Color: Liso
 - Desigual
-- Grandes bolsillos en las perneras
+- Color: Liso
 - Fit: Cargo
+- Grandes bolsillos en las perneras
 - Cierre: de cremallera y botón
 - Bolsillos laterales
 

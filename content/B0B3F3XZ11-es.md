@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Esconde la bolsa – Este modelo de Brabantia puede usarse con o sin las bolsas de basura compostables (cod. D), ya que el borde superior esconde la bolsa cuando la tapa está cerrada
-- Vaciado rápido – Estos cubos de basura tienen una asa para transportarlo y otra para cogerlo por abajo, y una tapa con posición abierta, que facilitan el transporte y el vaciado
-- Multi-talento y funcional - Estos cubos de basura de reciclaje de 16L pueden colocarse en las esquinas o simplemente contra la pared, perfectos para completar tu sistema de reciclaje en casa
-- Opción sostenible – El cubo de basura cocina Sort & Go de Brabantia tienen la certificación Cradle to Cradle (nivel Plata), y son 100 % reciclable tras su uso (con 10 años de garantía)
 - Opción de colgado – Este práctico cubo basura para reciclaje puede colgarse en la pared y puede aguantar un peso máximo de 7 kg (el soporte para la pared no está incluido)
+- Vaciado rápido – Estos cubos de basura tienen una asa para transportarlo y otra para cogerlo por abajo, y una tapa con posición abierta, que facilitan el transporte y el vaciado
+- Opción sostenible – El cubo de basura cocina Sort & Go de Brabantia tienen la certificación Cradle to Cradle (nivel Plata), y son 100 % reciclable tras su uso (con 10 años de garantía)
+- Multi-talento y funcional - Estos cubos de basura de reciclaje de 16L pueden colocarse en las esquinas o simplemente contra la pared, perfectos para completar tu sistema de reciclaje en casa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B3F3XZ11{{</world>}}

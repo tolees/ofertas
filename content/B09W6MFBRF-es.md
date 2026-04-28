@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre: sigue
 - Ancho del zapato: estrecho
-- Material superior: a continuación
+- Cierre: sigue
 - Material interior:
+- Material superior: a continuación
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09W6MFBRF{{</world>}}

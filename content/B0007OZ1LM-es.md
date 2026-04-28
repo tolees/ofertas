@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 24 meses y más
-- ceras redondas con maxi punta y gran tamaño
 - colores brillantes y vivos
+- ceras redondas con maxi punta y gran tamaño
 - fácil de empuñar para los niños más pequeños
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elaborada con miel de manuka de Nueva Zelanda, su rica fórmula suaviza y nutre la piel, mejorando su apariencia
-- Todas las mascarillas están fabricadas con hydrocell biodegradable y 100% vegetal; la fórmula no contiene parabenos, alcohol, sulfatos, formaldehído o EDTA disódico
 - Apta para todo tipo de pieles, la mascarilla facial Manuka Honey es optima para pieles secas y maduras que necesiten una hidratación extra
 - Segura la mascarilla en tu dispositivo UFO o UFO mini y disfruta de un tratamiento que combina pulsaciones T-Sonic, calor y terapia de luz LED; relájate durante 2 minutos
+- Elaborada con miel de manuka de Nueva Zelanda, su rica fórmula suaviza y nutre la piel, mejorando su apariencia
+- Todas las mascarillas están fabricadas con hydrocell biodegradable y 100% vegetal; la fórmula no contiene parabenos, alcohol, sulfatos, formaldehído o EDTA disódico
 - Las propiedades hidratantes y antiedad de la miel de manuka se combinan con las propiedades beneficiosas de la alantoína para rejuvenecer tu rostro y disminuir los signos de la edad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ropa de baño inferior
-- boxers
 - Pantalones deportivos cortos
+- boxers
+- Ropa de baño inferior
 - Sport type: Multi-deportes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

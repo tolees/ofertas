@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dale vida a tus mejillas con Blush ’N’ Brush, el colorete que combina color, brocha y actitud en un solo gesto.
-- Disponible en tonos de colorete y bronceador, en acabados mate satinado o ligeramente luminoso, para lograr desde un efecto natural hasta un look más esculpido y radiante.
 - Su innovador formato dual integra una fórmula crema a polvo, ligera y fundente, junto a una brocha ultrasuave para un acabado impecable en segundos.
 - La textura se desliza sin esfuerzo, se transforma al contacto con la piel y deja un toque de color natural, aterciopelado y modulable. Gracias a sus pigmentos de alta fusión y aceites nutritivos, ofrece un rubor fresco, uniforme y duradero, con sensación de segunda piel.
+- Dale vida a tus mejillas con Blush ’N’ Brush, el colorete que combina color, brocha y actitud en un solo gesto.
+- Disponible en tonos de colorete y bronceador, en acabados mate satinado o ligeramente luminoso, para lograr desde un efecto natural hasta un look más esculpido y radiante.
 - Color que se adapta, se difumina y permanece; sin complicaciones.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

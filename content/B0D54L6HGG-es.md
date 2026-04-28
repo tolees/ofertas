@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Acabado con un gráfico atrevido
-- Hecha de jersey suave
 - Un clásico atemporal que se puede llevar con cualquier cosa
+- Hecha de jersey suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D54L6HGG{{</world>}}

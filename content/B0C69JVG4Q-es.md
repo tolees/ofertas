@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Material exterior: piel
+- Suela: goma
 - Forma del tacón: plano
 - Cierre: cordones
 - Material interior: sintético
-- Suela: goma
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C69JVG4Q{{</world>}}

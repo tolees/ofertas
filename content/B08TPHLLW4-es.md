@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Hecho en Australia
-- Libre de crueldad y vegano
 - Sin sulfatos
+- Libre de crueldad y vegano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08TPHLLW4{{</world>}}

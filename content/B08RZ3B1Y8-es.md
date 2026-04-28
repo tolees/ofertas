@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Rectangular sunglasses
-- materialFabricComposition: 70% Plastic, 30% Brass
-- Plastic
 - Detail
+- Plastic
+- materialFabricComposition: 70% Plastic, 30% Brass
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08RZ3B1Y8{{</world>}}

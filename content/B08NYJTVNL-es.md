@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cintura elástica con cordón
-- Tejido transpirable
 - Ajuste regular
+- Tejido transpirable
+- Cintura elástica con cordón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08NYJTVNL{{</world>}}

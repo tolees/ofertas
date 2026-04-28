@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricado en material resistente y duradero
-- Producto coleccionable
 - Óptimo para regalar
 - Taza PlayStation con asa de mando PS5
+- Fabricado en material resistente y duradero
+- Producto coleccionable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09YS1K5GT{{</world>}}

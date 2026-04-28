@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ERIK - Calidad y diseño es lo que nos caracteriza. Especializados en papelería, merchandising y póster con las licencias más actuales del mercado
-- Personaliza tus libros en esta vuelta al cole con este pack 16 pegatinas Jurassic Park y dale un toque personal a tu material escolar. Unas etiquetas adhesivas con el tamaño perfecto para que puedas identificar tus objetos personales
-- Fabricado en un material de calidad con un acabado brillo que se adaptará a tus superficies
 - En su interior podrás encontrar dos hojas de 8 pegatinas a todo color con un tamañao cada una de 8x4 cm. Con este set de pegatinas escolares rectangulares podrás personalizar 16 accesorios de tu papeleria escolar
+- ERIK - Calidad y diseño es lo que nos caracteriza. Especializados en papelería, merchandising y póster con las licencias más actuales del mercado
 - Unos adhesivos escolares perfectos para personalizar e identificar tus libros, libretas, agendas y todo lo que quieras
+- Fabricado en un material de calidad con un acabado brillo que se adaptará a tus superficies
+- Personaliza tus libros en esta vuelta al cole con este pack 16 pegatinas Jurassic Park y dale un toque personal a tu material escolar. Unas etiquetas adhesivas con el tamaño perfecto para que puedas identificar tus objetos personales
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B129WNR8{{</world>}}

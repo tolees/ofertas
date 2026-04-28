@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cartas de personaje Mi FACCIÓN para: Uncle Howdy + Dexter Lumis + Nikki Cross + Joe Gacy + Erick Rowan
 - Preorder / day-one bonus “WYATT SICKS PACK”: El Pack Wyatt Sicks incluye:
+- Cartas de personaje Mi FACCIÓN para: Uncle Howdy + Dexter Lumis + Nikki Cross + Joe Gacy + Erick Rowan
+- Descargar código únicamente. No contiene tarjeta de juego.
 - Artículos de The Island: Máscara de Uncle Howdy + Máscara de Nikki Cros
 - DOMINA MÁS ALLÁ DEL RING - Por primera vez, sal del ring y entra en The Island para PS5, un mundo inmersivo WWE con arenas épicas, desafíos y eventos en directo. Lucha por unirte a la Bloodline con Roman Reigns, "The Original Tribal Chief", y mejora y personaliza tu Mi Superstar a través de historias.
-- Descargar código únicamente. No contiene tarjeta de juego.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FGJVH2YQ{{</world>}}

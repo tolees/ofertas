@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Life is Strange: Double Exposure
 - Life is Strange: True Colors
-- Life is Strange 2
 - Life is Strange Remastered
 - Life is Strange: Before the Storm Remastered
-- Life is Strange: Double Exposure
+- Life is Strange 2
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FHQ4BX7M{{</world>}}

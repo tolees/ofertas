@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estilo: Regular
-- Azul
 - adulto
+- Azul
+- Estilo: Regular
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00C1P2XM0{{</world>}}

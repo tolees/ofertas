@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Galletas con forma de hueso, cocinadas con ingredientes de alta calidad siguiendo una receta especial
-- Aditivos regulados por la U
 - Ingredientes: cereales (trigo, arroz), glucosa (7,0%), aceites y grasas (aceite de palma), carne y productos derivados (pollo), minerales (sal, calcio), derivados de origen vegetal
 - De fácil digestión
+- Galletas con forma de hueso, cocinadas con ingredientes de alta calidad siguiendo una receta especial
+- Aditivos regulados por la U
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B071ZSFYB9{{</world>}}

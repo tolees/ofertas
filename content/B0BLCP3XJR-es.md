@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ojales de doble capa
-- Perforaciones en la puntera
 - Material de aspecto de cuero envejecido en la parte superior
+- Perforaciones en la puntera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BLCP3XJR{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Zapatillas bajas
-- Puntera cerrada
 - No son resistentes al agua
+- Puntera cerrada
+- Zapatillas bajas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07VGSSNQY{{</world>}}

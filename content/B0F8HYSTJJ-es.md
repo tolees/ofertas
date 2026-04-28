@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Correas de talón giratorias
 - Ligeras y flexibles
+- Correas de talón giratorias
 - Fáciles de limpiar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

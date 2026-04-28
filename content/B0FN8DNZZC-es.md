@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ABRE EN REMOTO Y NO TE PIERDAS NINGUNA VISITA: convierte tu interfono en un sistema inteligente. Recibe alertas en tiempo real y abre la entrada de tu edificio estés donde estés desde tu smartphone con la app gratuita de Ring. Tanto si estás en una reunión como lejos de casa, la funcionalidad de apertura en remoto te permite controlar el acceso.
-- HABLA AL INSTANTE CON LA COMUNICACIÓN BIDIRECCIONAL: comunícate con cualquier persona que llame a tu interfono directamente desde tu smartphone con la funcionalidad de comunicación bidireccional, ya sean tus hijos, tus amigos y familiares o un repartidor de Amazon.
-- ECHO HUB: Un cuadro de mandos con Alexa fácil de usar para tus dispositivos de Hogar digital. Tan solo pregúntale a Alexa o usa la pantalla para controlar tus luces, enchufes inteligentes, cámaras y más.
-- Este lote incluye 1 de Echo Hub, y 1 de Ring Intercom: todo lo que necesitas para entrar en el mundo del Hogar digital.
 - FUNCIONA CON MILES DE DISPOSITIVOS: Compatible con miles de cerraduras, enchufes, termostatos, altavoces y más dispositivos inteligentes. Podrás sincronizar fácilmente tus dispositivos wifi, Bluetooth, Zigbee, Matter y Thread con el controlador de Hogar digital integrado.
-- TU HOGAR DIGITAL, A TU MANERA: Personaliza los controles y widgets que ves en el panel de control para poder ajustar rápidamente tus dispositivos, ver tus cámaras, iniciar rutinas y mucho más.
+- ECHO HUB: Un cuadro de mandos con Alexa fácil de usar para tus dispositivos de Hogar digital. Tan solo pregúntale a Alexa o usa la pantalla para controlar tus luces, enchufes inteligentes, cámaras y más.
 - COMPARTE EL ACCESO FÁCILMENTE CON TUS AMIGOS Y FAMILIARES: las llaves de invitado virtuales te permiten compartir el acceso de manera sencilla con tus personas de confianza para que puedan entrar al edificio sin necesidad de esperarte. Con la app de Ring, puedes decidir cuándo y cómo entran, así como restringir el acceso cuando quieras, por lo que tendrás el control de todo en todo momento.
+- TU HOGAR DIGITAL, A TU MANERA: Personaliza los controles y widgets que ves en el panel de control para poder ajustar rápidamente tus dispositivos, ver tus cámaras, iniciar rutinas y mucho más.
+- Este lote incluye 1 de Echo Hub, y 1 de Ring Intercom: todo lo que necesitas para entrar en el mundo del Hogar digital.
+- HABLA AL INSTANTE CON LA COMUNICACIÓN BIDIRECCIONAL: comunícate con cualquier persona que llame a tu interfono directamente desde tu smartphone con la funcionalidad de comunicación bidireccional, ya sean tus hijos, tus amigos y familiares o un repartidor de Amazon.
+- ABRE EN REMOTO Y NO TE PIERDAS NINGUNA VISITA: convierte tu interfono en un sistema inteligente. Recibe alertas en tiempo real y abre la entrada de tu edificio estés donde estés desde tu smartphone con la app gratuita de Ring. Tanto si estás en una reunión como lejos de casa, la funcionalidad de apertura en remoto te permite controlar el acceso.
 - SEGURIDAD PARA TU HOGAR AL ALCANCE DE LA MANO: Usa el Echo Hub para armar y desarmar tu sistema de seguridad compatible. Con la app Alexa y tus cámaras, cerraduras, alarmas y sensores compatibles, podrás mantenerte al tanto de lo que pasa en casa incluso cuando estás fuera.
 - INSTALACIÓN SENCILLA: Ring Intercom se conecta directamente al sistema de interfono que tienes en casa de forma sencilla, sin necesidad de hacer cambios en la infraestructura común del edificio. Las tiras autoadhesivas de montaje incluidas en la caja ayudan a que el proceso sea rápido y sencillo, ya que no hace falta taladrar ni hacer una instalación compleja.
 

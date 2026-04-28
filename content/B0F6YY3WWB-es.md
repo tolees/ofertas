@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Para unos labios suaves
+- Fragancia de té verde matcha
 - Exfoliante nutritivo para labios
 - La siguiente información se aplica a cada unidad del paquete
-- Fragancia de té verde matcha
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F6YY3WWB{{</world>}}

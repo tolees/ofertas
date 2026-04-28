@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Elementos reflectantes, Instrucciones de cuidado: No usar lejía
-- Gorra unisex para todas las condiciones climáticas
 - GORE WEAR C5 Light Cap, Talla: Talla única (Contorno cabeza: 54-58 cm), Color: Negro, 100051
+- Gorra unisex para todas las condiciones climáticas
 - GORE Selected Fabrics: Transporte rápido de la humedad y extremadamente transpirable
 - Para protegerse del sol, también se puede llevar bajo el casco, Sujeción óptima gracias al elástico de la parte posterior
 

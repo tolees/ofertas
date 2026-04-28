@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Carpetas de 6 anillas DIN A4 con 80 hojas cada una
 - Tamaño de línea 27 - rayado con margen, fácil de voltear gracias a la encuadernación en espiral
-- Ideal para la escuela, la universidad y la oficina
 - Papel sin madera con un grosor de 60 g/m² y perforación de 4 agujeros
+- Carpetas de 6 anillas DIN A4 con 80 hojas cada una
+- Ideal para la escuela, la universidad y la oficina
 - FSC-Mix - papel procedente de silvicultura responsable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

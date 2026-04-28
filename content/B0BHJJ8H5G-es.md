@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Decorada con logo CK grabado
 - Material: Acero inoxidable pulido
 - Cierre: mariposa
+- Decorada con logo CK grabado
 - Pendientes de pasador con forma de aro de Calvin Klein
 - Tamaño des pendientes de pasador: 7mm (Ancho) x 20mm (Longitud)
 

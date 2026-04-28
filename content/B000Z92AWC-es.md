@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Apto para Vegetarianos y Kosher PARVE
 - DOSIS DIARIA RECOMENDADA para adultos, tomar un (1) comprimido al día, con zumo o agua, entre comidas; no debe superarse la dosis diaria expresamente recomendada para este producto
+- Apto para Vegetarianos y Kosher PARVE
 - INGREDIENTES por un (1) comprimido: L- Lisina (Clorhidrato) 1.000 mg
 - Sin azúcares ni sal; sin gluten; no contiene almidón, levadura, trigo, soja ni derivados lácteos; está formulado sin conservadores, edulcorantes, aromatizantes ni colorantes artificiales
 - DISEÑADO para aportar esta gama de aminoácidos de alta calidad; los aminoácidos esenciales son aquellos que el organismo no puede producir, sino que debe obtener de la dieta para mantener una buena salud

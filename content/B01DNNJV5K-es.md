@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material exterior: Cuero
-- Cierre: Cordones
 - Tipo de tacón: Plano
+- Cierre: Cordones
+- Material exterior: Cuero
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01DNNJV5K{{</world>}}

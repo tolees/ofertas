@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Welt pockets
-- Classic fit
 - Dockers Herren Easy Khaki Classic fit PANTS
+- Zip fly
 - Refined chino pants with no wrinkle technology
 - Easy Khaki Classic fit
-- Built with our All Motion Comfort Waistband
 - Wrinkle-free stretch cotton blend fabric
-- Zip fly
+- Built with our All Motion Comfort Waistband
+- Welt pockets
+- Classic fit
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DRVY3Q7Q{{</world>}}

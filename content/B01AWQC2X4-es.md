@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Escobillas reemplazables para mayor durabilidad.
-- Es una ingletadora
 - Incluye: bolsa para extracción de polvo, tope deslizante de gran tamaño, disco de 216 x 30mm, abrazadera y 2 extensiones de mesa.
+- Es una ingletadora
 - Es un producto de Stanley
+- Escobillas reemplazables para mayor durabilidad.
 - Número de piezas: 1
 
 [🛒 Comprar!!!]({{< param buyurl >}})

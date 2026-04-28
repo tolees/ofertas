@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cobertura más amplia y optima: el estándar Wifi 6 hace que la conexión llegue un 80 % más lejos; además, como miembro de la familia AiMesh, el RT-AX52 Pro puede funcionar con otros routers, repetidores o sistemas Wifi en malla ASUS compatibles para crear una cobertura optima de servicio de internet con un único SSID
 - Instant Guard hace que el Wifi público sea más seguro: el Wifi público en cafeterías, restaurantes, hoteles, aeropuertos y otros lugares rara vez es seguro; el router ASUS con Instant Guard proporciona servicios VPN con un solo clic en la aplicación ASUS, ofreciéndote la forma más segura de navegar por internet en público
+- Cobertura más amplia y optima: el estándar Wifi 6 hace que la conexión llegue un 80 % más lejos; además, como miembro de la familia AiMesh, el RT-AX52 Pro puede funcionar con otros routers, repetidores o sistemas Wifi en malla ASUS compatibles para crear una cobertura optima de servicio de internet con un único SSID
 - El verdadero Wifi 6: con una velocidad de datos total de 3000 Mbps (574 Mbps en la banda de 2.4 GHz y 2402 Mbps en la banda de 5 GHz)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

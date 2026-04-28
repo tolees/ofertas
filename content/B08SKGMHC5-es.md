@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño ligero que ofrece comodidad
-- El corte permite desarrollar actividades deportivas y su diseño otorga libertad a los movimientos
 - Tiene detalles distintivos de la marca
+- El corte permite desarrollar actividades deportivas y su diseño otorga libertad a los movimientos
+- Diseño ligero que ofrece comodidad
 - Ropa deportiva que se adapta a cualquier actividad deportiva
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

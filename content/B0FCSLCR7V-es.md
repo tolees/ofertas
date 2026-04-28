@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre a presión
-- Material: 100% algodón
 - Mapa polo
-- Manga corta
 - Lavar a máquina
+- Material: 100% algodón
+- Cierre a presión
 - Polo
+- Manga corta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FCSLCR7V{{</world>}}

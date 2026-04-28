@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detalles distintivos de la marca
 - Con una amortiguación óptima
+- Detalles distintivos de la marca
 - Diseño transpirable y cómodo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

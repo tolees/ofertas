@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Modelo Unisex.
 - Realizada en policarbonato de alta calidad.
-- Protección 100% ultravioleta.
 - Polarizadas con protección Ultravioleta Total UV-400 Cat 3.
 - Ultraligera y flexible para una mayor comodidad.
+- Protección 100% ultravioleta.
+- Modelo Unisex.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BZ5VJMQR{{</world>}}

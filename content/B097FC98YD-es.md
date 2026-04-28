@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Número de modelo: 50388454
 - 82 por ciento de algodón
+- Número de modelo: 50388454
 - Calcetines deportivos para hombre
 - Ocasión: informal
 

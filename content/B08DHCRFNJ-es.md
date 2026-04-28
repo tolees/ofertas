@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Cierre de velcro
 - Comodidad ligera que ama los pies
-- Cuenta con una parte superior de malla suave con cordones elásticos
 - Tenis sin cordones
+- Cuenta con una parte superior de malla suave con cordones elásticos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08DHCRFNJ{{</world>}}

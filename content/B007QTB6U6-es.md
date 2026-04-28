@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PEGATINAS QUE SE PEGAN Y DESPEGAN FÁCILMENTE: Las pegatinas de vinilo se adhieren a las páginas sin dejar residuos, lo que permite moverlas una y otra vez para inventar nuevas combinaciones y crear escenas diferentes cada vez que juegan.
 - UN REGALO ORIGINAL PARA PEQUEÑOS AVENTUREROS: Perfecto para niñas y niños a partir de 3 años, este cuaderno de pegatinas estimula la creatividad, la motricidad fina y el lenguaje mientras se inventan historias y situaciones en los distintos escenarios naturales.
-- MANUALIDADES EDUCATIVAS NIÑOS 3 AÑOS +: Las manualidades de Melissa & Doug están pensadas para acompañar el desarrollo infantil desde los primeros años. El Bloc de Pegatinas Infantiles Hábitats es perfecto para niños y niñas a partir de 3 años, fomentan el juego libre, la creatividad y el aprendizaje sin pantallas en cada etapa del crecimiento.
 - MANUALIDADES Y CREATIVIDAD INFANTIL: La línea de manualidades de Melissa & Doug incluye kits para pintar, sellos, cuentas, imanes, pegatinas y mucho más. Diseñada para estimular la creatividad, la motricidad fina y la concentración, ofrece a los niños una forma divertida de expresarse sin pantallas.
+- PEGATINAS QUE SE PEGAN Y DESPEGAN FÁCILMENTE: Las pegatinas de vinilo se adhieren a las páginas sin dejar residuos, lo que permite moverlas una y otra vez para inventar nuevas combinaciones y crear escenas diferentes cada vez que juegan.
+- MANUALIDADES EDUCATIVAS NIÑOS 3 AÑOS +: Las manualidades de Melissa & Doug están pensadas para acompañar el desarrollo infantil desde los primeros años. El Bloc de Pegatinas Infantiles Hábitats es perfecto para niños y niñas a partir de 3 años, fomentan el juego libre, la creatividad y el aprendizaje sin pantallas en cada etapa del crecimiento.
 - EXPLORA EL MUNDO CON PEGATINAS REUTILIZABLES: Este álbum de Melissa & Doug incluye más de 150 pegatinas de vinilo reutilizables y 5 escenarios a todo color: granja, jungla, fondo marino, desierto y paisaje prehistórico. Los niños pueden crear y mezclar escenas una y otra vez, estimulando su imaginación y concentración.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

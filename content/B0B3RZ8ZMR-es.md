@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Velocidad máxima de hasta 25 km/h (15.5 mph)
 - Alcance hasta aproximativo 55 km (34.2 miles)
-- Neumáticos auto regenerables de 10 pulgadas sin cámara y con capa de gelatina
+- Velocidad máxima de hasta 25 km/h (15.5 mph)
 - 2 frenos: disco delantero y trasero electrónico
+- Neumáticos auto regenerables de 10 pulgadas sin cámara y con capa de gelatina
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B3RZ8ZMR{{</world>}}

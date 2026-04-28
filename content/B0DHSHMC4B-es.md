@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Forro textil
 - Suela para césped natural seco / multisuperficie
+- Forro textil
 - Horma clásica
 - Empeine de Fiberskin con estampado Sprintgridcarcasa
 

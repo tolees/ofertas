@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Son el tentempié hecho para cualquier momento del día, la merienda rica o el acompañante imperdible para un café o un rico vaso de leche y galletas
-- Disfruta del sabor oficial de LALIGA de la mano de Oreo, Milka, Principe, Fontaneda, Chips Ahoy y Mikado y entra en el sorteo de abonos dobles para animar a tu equipo favorito
 - Las galletas Oreo Remix Tiramisú están compuestas por dos galletas de cacao y un rico relleno de crema sabor tiramisú y vainilla
+- Son el tentempié hecho para cualquier momento del día, la merienda rica o el acompañante imperdible para un café o un rico vaso de leche y galletas
 - Comparte Oreo Remix Tiramisú con todos tus amigos, compañeros de trabajo o familiares o disfrútalas tú solo en cualquier momento del día
+- Disfruta del sabor oficial de LALIGA de la mano de Oreo, Milka, Principe, Fontaneda, Chips Ahoy y Mikado y entra en el sorteo de abonos dobles para animar a tu equipo favorito
 - A lo largo de los últimos 100 años, las emblemáticas galletas de chocolate en forma de sándwich Oreo han sido una de las meriendas preferidas por jóvenes y adultos en todo el mundo
 - El sabor único de las galletas Oreo comienza con el cacao auténtico que define con fuerza el color de la base de la galleta
 

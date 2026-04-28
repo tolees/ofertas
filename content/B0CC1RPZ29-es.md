@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Vino blanco fresco, amable y muy equilibrado
+- D.O. Rueda
+- Optimo con pescados y mariscos, ensaladas de verduras o sopas frías
 - Servir entre 8-10º C
 - Amarillo pálido con sutiles reflejos dorados; en nariz, elegantes aromas a cítricos como mandarinas y naranjas y flores blancas combinadas con sutiles notas de eneldo y heno al final; en boca se reflejan los aromas y el vino tiene una acidez bien integrada, cuerpo medio y un final fresco y agradable
-- Optimo con pescados y mariscos, ensaladas de verduras o sopas frías
-- D.O. Rueda
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CC1RPZ29{{</world>}}

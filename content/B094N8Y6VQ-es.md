@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aprende los fundamentos del magnetismo y utilízalos para crear reacciones magnéticas controladas. Estimula la creatividad, la imaginación y el intelecto
 - Construye modelos móviles impulsados por las fuerzas invisibles de atracción y repulsión magnética
+- Aprende los fundamentos del magnetismo y utilízalos para crear reacciones magnéticas controladas. Estimula la creatividad, la imaginación y el intelecto
 - Adecuado para niños a partir de 7 años. Compuesto por 96 piezas
 - Crea un sistema de transmisión sin contacto utilizando las fuerzas magnéticas de atracción y repulsión
 - La serie Geomag, ganadora de numerosos premios, ayuda a los niños de todas las edades a desarrollar la imaginación y la curiosidad a través de la ciencia de las construcciones magnéticas

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Suela de cerámica, depósito de agua de 300 mililitros y cable de 1,8 metros
-- Indicador luminoso para los estados de calentamiento, recarga y lista para usar, apagado automático
 - Tiempo de restablecimiento de 25 segundos, control mecánico de la temperatura con 6 ajustes
 - Golpe de vapor de 135 gramos y vapor continuo de 40 gramos/minuto, antical y antigoteo
+- Indicador luminoso para los estados de calentamiento, recarga y lista para usar, apagado automático
 - Plancha inalámbrica y recargable de 2400 vatios de potencia
 
 [🛒 Visítala!!!]({{< param buyurl >}})

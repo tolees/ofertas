@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Modo de empleo: Aplicar generosamente en cara, cuello y escote antes de salir de casa o de cualquier exposición solar; renovar regularmente durante la exposición
-- Dermatológicamente testado
-- Proteccion solar: 50.0 sun protection factor
-- Difumina imperfecciones y evita la acumulación del producto gracias a sus pigmentos siliconados
 - Foto-maquillaje en emulsión con color indicado para la zona de rostro, cuello y escote de alta fotoprotección facial
+- Proteccion solar: 50.0 sun protection factor
+- Dermatológicamente testado
+- Modo de empleo: Aplicar generosamente en cara, cuello y escote antes de salir de casa o de cualquier exposición solar; renovar regularmente durante la exposición
+- Difumina imperfecciones y evita la acumulación del producto gracias a sus pigmentos siliconados
 - Producto formulado sin perfume, sin parabenos; no comedogénico
 
 [🛒 Comprar!!!]({{< param buyurl >}})

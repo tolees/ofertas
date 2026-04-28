@@ -28,16 +28,16 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tipo de lámpara: P21W/R10W, Con junta, luz trasera y luz de freno rojas, luz indicadora amarilla, 2 tornillos de fijación B3.9 x 16
-- Piloto indicador de parada trasera para montaje horizontal en superficie (derecha) - Con aprobación ECE
+- El piloto trasero tiene 3 funciones lumínicas: luz de freno / luz trasera / luz indicadora
+- Lado de montaje: derecha
 - La siguiente información se aplica a cada unidad del paquete
 - Homologación: E1 53253, E1 130
-- Lado de montaje: derecha
 - Funciones iluminación: 3 - Con luz intermitente/Con luz de freno/Con luz trasera
 - Encaja, p.e. Fendt (verifique la aplicación exacta del vehículo) - Tipo de luces: Halógena - Tipo de lámpara: P21W/R10W
-- Cantidad funciones iluminación: 3
-- El piloto trasero tiene 3 funciones lumínicas: luz de freno / luz trasera / luz indicadora
 - sin lámparas
+- Piloto indicador de parada trasera para montaje horizontal en superficie (derecha) - Con aprobación ECE
+- Tipo de lámpara: P21W/R10W, Con junta, luz trasera y luz de freno rojas, luz indicadora amarilla, 2 tornillos de fijación B3.9 x 16
+- Cantidad funciones iluminación: 3
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CPHWJG7J{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Los diseños de las plantillas incluyen unicornios, conejos, flamencos, anillos, pulseras y otros diseños de accesorios que pueden realizarse colocando en la bandeja los abalorios estrella, sólidos y joya incluidos
-- El set completo Maletín Deluxe incluye más de 1400 abalorios en 40 colores. Un estuche completamente nuevo con forma de maletín con el que podrás llevar tus creaciones a todas partes.
 - Incluye abalorios sólidos, joya y estrella. Crea más diseños con los recambios de Aquabeads (se venden por separado)
 - Aquabeads is suitable for children ages 4 and above. Not suitable for children under age 3 due to small parts
+- Los diseños de las plantillas incluyen unicornios, conejos, flamencos, anillos, pulseras y otros diseños de accesorios que pueden realizarse colocando en la bandeja los abalorios estrella, sólidos y joya incluidos
+- El set completo Maletín Deluxe incluye más de 1400 abalorios en 40 colores. Un estuche completamente nuevo con forma de maletín con el que podrás llevar tus creaciones a todas partes.
 - El Maletín Deluxe y la Bandeja de Creatividad tienen agujeros para fijar tus creaciones con las clavijas de diseño incluidas. ¡Podrás redecorarlos tantas veces como quieras!
 
 [🛒 Comprar!!!]({{< param buyurl >}})

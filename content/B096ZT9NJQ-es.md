@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Añádelo como ingrediente para pizzas o elabora una ensalada deliciosa y saludable.
 - Versátil y fácil de utilizar.
 - Envase hermético fácil de almacenar y apilable.
 - Lomo de atún al natural, perfecto para recetas de pasta, como los macarrones con atún y tomate.
-- Añádelo como ingrediente para pizzas o elabora una ensalada deliciosa y saludable.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B096ZT9NJQ{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuidado de la piel: Hidratantes, limpiadores, exfoliantes y sérums para una piel saludable.
 - Fragancias: Perfumes y colonias que ofrecen aromas únicos y atractivos.
+- Cuidado de la piel: Hidratantes, limpiadores, exfoliantes y sérums para una piel saludable.
 - Accesorios de belleza: Brochas, esponjas y herramientas para la aplicación de maquillaje.
 - Maquillaje: Bases, sombras, labiales y delineadores para realzar la belleza.
 

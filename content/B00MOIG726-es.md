@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - La tapa y la huevera se pueden levantar y retirar con seguridad gracias al asa lateral. Un termostato protege la huevera del sobrecalentamiento en caso de que se utilice accidentalmente sin agua.
-- Contenido: 1x Cocedor de huevos fabricado en acero inoxidable Cromargan, acabado mate (19,8 x 6 x 13,2 cm, 250 W, longitud del cable 0,8 m) con tapa de plástico Tritan (libre de BPA) con dispensador de agua integrado y perforador de huevos - Número de artículo: 0415020011
 - Para conseguir el nivel de dureza deseado (huevos blandos, medios y duros), la cantidad de agua necesaria puede medirse utilizando los símbolos del dispensador de agua o del vaso medidor (valores orientativos para huevos de tamaño M).
 - Interruptor de encendido/apagado iluminado: la luz indicadora se ilumina en blanco cuando el aparato está en funcionamiento. Una señal acústica avisa cuando los huevos están cocidos.
 - Cocina uno o dos huevos con precisión gracias a esta práctica huevera que ahorra espacio. El soporte para huevos admite uno o dos huevos de tamaño pequeño a extragrande. El perforador de huevos integrado evita que se agrieten.
+- Contenido: 1x Cocedor de huevos fabricado en acero inoxidable Cromargan, acabado mate (19,8 x 6 x 13,2 cm, 250 W, longitud del cable 0,8 m) con tapa de plástico Tritan (libre de BPA) con dispensador de agua integrado y perforador de huevos - Número de artículo: 0415020011
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00MOIG726{{</world>}}

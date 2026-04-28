@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Bolsillos laterales con cremallera, bolsillo interior
-- Protector de viento ligero y resistente al agua
 - Chaqueta Shell, con superficie mate y cremallera completa
+- Protector de viento ligero y resistente al agua
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B091GTH43R{{</world>}}

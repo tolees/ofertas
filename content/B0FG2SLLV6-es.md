@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Audio adaptable: estos auriculares JBL cuentan con transductores dinámicos de 18 x 11 mm para un audio equilibrado, y un algoritmo de refuerzo de graves adaptativo que se ajusta al volumen de la música
-- Se adaptan a diversas formas y tamaños de oreja: los auriculares inalámbricos JBL Sense Lite están fabricados con silicona líquida duradera y suave combinada con un cable de memoria para un ajuste natural y una baja fuga de sonido
+- Resistencia al agua y polvo IP54: estos auriculares para correr ofrecen hasta 32 h de autonomía (8 h en los auriculares y 24 h en el estuche) obtén 3 h más con una carga rápida de 10 min
 - Siente el mundo que te rodea: los auriculares inalámbricos Bluetooth True Wireless JBL Sense Lite poseen la Tecnología JBL OpenSound, un sonido detallado, graves potentes y ganchos para la oreja
 - Llamadas nítidas: 4 micrófonos y un diseño a prueba de viento capturan eficazmente tu voz; pasa de un dispositivo Bluetooth a otro con Dual Connect, Fast Pair y la conexión multipunto
-- Resistencia al agua y polvo IP54: estos auriculares para correr ofrecen hasta 32 h de autonomía (8 h en los auriculares y 24 h en el estuche) obtén 3 h más con una carga rápida de 10 min
+- Audio adaptable: estos auriculares JBL cuentan con transductores dinámicos de 18 x 11 mm para un audio equilibrado, y un algoritmo de refuerzo de graves adaptativo que se ajusta al volumen de la música
+- Se adaptan a diversas formas y tamaños de oreja: los auriculares inalámbricos JBL Sense Lite están fabricados con silicona líquida duradera y suave combinada con un cable de memoria para un ajuste natural y una baja fuga de sonido
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FG2SLLV6{{</world>}}

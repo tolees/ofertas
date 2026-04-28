@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Calman la sensación de picazón causada por las picaduras de mosquitos y otros insectos
-- Crea una barrera que evita el roce de la parte irritada
 - Ingredientes: caléndula, menta, mentol, lavanda y zanthoxylum
 - Paquete de 30 tiritas para después del punzón
+- Crea una barrera que evita el roce de la parte irritada
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07HLV4D8C{{</world>}}

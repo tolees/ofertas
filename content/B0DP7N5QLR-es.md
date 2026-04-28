@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - HIDRATACIÓN INTENSA Sumérgete en un baño de hidratación en cada lavado
-- HASTA 2 VECES MÁS HIDRATACIÓN* Descubre un pelo hidratado, suave y sedoso.*Al usar champú y acondicionador sin aclarado
-- MEJORA TU ESTADO DE ÁNIMO DE FORMA NATURAL. Recupera energías gracias a su fórmula de hidratación profunda y sus sensuales notas florales de jazmín
 - FÓRMULA DE ORIGEN* NATURAL EN UN 97% Con aloe de México y certificado por los expertos en botánica del Real Jardín Botánico de Kew
+- MEJORA TU ESTADO DE ÁNIMO DE FORMA NATURAL. Recupera energías gracias a su fórmula de hidratación profunda y sus sensuales notas florales de jazmín
+- HASTA 2 VECES MÁS HIDRATACIÓN* Descubre un pelo hidratado, suave y sedoso.*Al usar champú y acondicionador sin aclarado
 - MEZCLA SENSUAL Comienza tu limpieza con un golpe de hidratación y un armonioso aroma floral
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

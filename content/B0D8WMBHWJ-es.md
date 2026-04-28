@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Proporciona comodidad
 - Bolsillos insertados con forma, bolsillo para monedas integrado
-- Bolsillos traseros cuadrados con botón
 - Parte delantera plisada
+- Proporciona comodidad
+- Bolsillos traseros cuadrados con botón
 - Bragueta de cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

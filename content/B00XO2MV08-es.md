@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- No se debe superar la dosis diaria recomendada. Los complementos alimenticios no deben utilizarse como sustitutos de una dieta equilibrada. Es importante seguir una dieta variada y equilibrada y un estilo de vida saludable. Mantener fuera del alcance de los niños más pequeños Se recomienda beber 2 L de agua al día
-- Se aconseja tomar 1 vial de jalea al día, en ayunas, preferiblemente diluida en agua, leche o zumo de fruta
+- Complemento alimenticio a base de Jalea real y otros ingredientes que aportan energía y colaboran en el mantenimiento del tono vital
 - Contiene extracto seco de Reishi y de Shiitake, entre sus componentes activos destacan los polisacáridos, responsables de su actividad sobre el sistema inmunitario. El extracto seco de Azafrán, es un principio activo con efectos positivos sobre el equilibrio emocional, además de favorecer la líbido
 - Contiene aminoácidos L-Arginina, útil para mejorar el flujo sanguíneo y Acetil-L-Carnitina, que juega un importante papel en el funcionamiento del sistema nervioso, además de 11 Vitaminas
-- Complemento alimenticio a base de Jalea real y otros ingredientes que aportan energía y colaboran en el mantenimiento del tono vital
+- Se aconseja tomar 1 vial de jalea al día, en ayunas, preferiblemente diluida en agua, leche o zumo de fruta
+- No se debe superar la dosis diaria recomendada. Los complementos alimenticios no deben utilizarse como sustitutos de una dieta equilibrada. Es importante seguir una dieta variada y equilibrada y un estilo de vida saludable. Mantener fuera del alcance de los niños más pequeños Se recomienda beber 2 L de agua al día
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00XO2MV08{{</world>}}

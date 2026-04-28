@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cordones
+- Empeine textil
+- Forro textil
 - Suela sintética
 - Horma clásica
-- Forro textil
+- Cordones
 - Mediasuela Cloudfoam
-- Empeine textil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DHZJGG3G{{</world>}}

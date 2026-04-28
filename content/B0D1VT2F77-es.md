@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pasea por el modo Museo: Adéntrate en el mundo de Monster Hunter Stories a través del modo Museo, que incluye la música de fondo del juego y bocetos de los desarrolladores
 - Disfruta de un juego con voces y nuevos idiomas: Sumérgete en la aventura con voces en japonés e inglés
+- Pasea por el modo Museo: Adéntrate en el mundo de Monster Hunter Stories a través del modo Museo, que incluye la música de fondo del juego y bocetos de los desarrolladores
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D1VT2F77{{</world>}}

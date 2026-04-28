@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 100 % algodón
 - Logotipo bordado en el lado izquierdo del pecho
+- 100 % algodón
 - Suéter de cuello redondo de alta calidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

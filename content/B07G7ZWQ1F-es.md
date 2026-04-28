@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Esta lámpara para exteriores topmo-plus ha sido diseñada para entornos húmedos al aire libre y ha sido sometida a rigurosas pruebas para garantizar su impermeabilidad. El nivel de IP está indicado por dos figuras: la primera se refiere al nivel de protección contra el polvo, y la segunda a la protección contra el agua. Esta lámpara ha sido diseñada con IP65: ofrece protección contra salpicaduras de agua, por lo que es el producto ideal para uso general en exteriores.
+- Fácil instalación: Con suficiente cable largo y dos tornillos suministrados, puede pared ligera en la pared montada fácilmente.
 - Lámpara de pared para exteriores con potencia de 24W, tensión de 160-265V, dimensiones de 272*100*95 mm, LED COB , accionamiento Done.
 - Aluminio y acrílico fundido a presión. Esta adición a la disposición especial del chip LED también logra una iluminación confortable que no deslumbra y es igual.
 - Diseño noble: la luz de pared LED se dispersa desde ambos extremos del montaje, lo que crea un bello efecto de iluminación; Diseñado con montaje en pared, instalación según su preferencia.
-- Fácil instalación: Con suficiente cable largo y dos tornillos suministrados, puede pared ligera en la pared montada fácilmente.
+- Esta lámpara para exteriores topmo-plus ha sido diseñada para entornos húmedos al aire libre y ha sido sometida a rigurosas pruebas para garantizar su impermeabilidad. El nivel de IP está indicado por dos figuras: la primera se refiere al nivel de protección contra el polvo, y la segunda a la protección contra el agua. Esta lámpara ha sido diseñada con IP65: ofrece protección contra salpicaduras de agua, por lo que es el producto ideal para uso general en exteriores.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07G7ZWQ1F{{</world>}}

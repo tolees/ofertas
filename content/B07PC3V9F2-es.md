@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Toma tu lugar entre los Dioses- personajes y misión principal- jefes
-- Un reino actualizado- jefe- Jefes actualizados- Ajustes y refinamientos en todo el juego
-- El misión principal- jefes- amuleto- enemigos- amigos
 - Surgenoptimos y poderosos enemigos- optimos jefes - optimos habilidades- Canciones inéditas
+- Toma tu lugar entre los Dioses- personajes y misión principal- jefes
+- El misión principal- jefes- amuleto- enemigos- amigos
+- Un reino actualizado- jefe- Jefes actualizados- Ajustes y refinamientos en todo el juego
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07PC3V9F2{{</world>}}

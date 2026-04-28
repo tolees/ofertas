@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Revestimiento: Tela
-- Material exterior: Sintético
 - Cierre: Con cordones
+- Material exterior: Sintético
+- Revestimiento: Tela
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01LMDTB4Y{{</world>}}

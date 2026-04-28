@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalones chinos de corte estándar
-- Composición del material: 98 % algodón, 2 % elastano
 - Características: cremallera, pierna doblada con costuras decorativas, costuras en los bolsillos oblicuos, bolsillos para el glúteo, logotipo de piel
 - JACK & JONES apoya la iniciativa Better Cotton usando algodón orgánico o reciclado
-- Bragueta de botones
 - Durabilidad con material sostenible
+- Composición del material: 98 % algodón, 2 % elastano
+- Bragueta de botones
+- Pantalones chinos de corte estándar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09TPL8KY5{{</world>}}

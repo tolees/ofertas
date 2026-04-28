@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Low rise
 - Care Label:
+- materialFabricComposition: 86% Cotton, 7% Polyester, 5% Recycled Cotton, 2% Elastane
+- Low rise
 - Skinny fit jeans
 - Skinny Fit
-- materialFabricComposition: 86% Cotton, 7% Polyester, 5% Recycled Cotton, 2% Elastane
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07YZQWMTZ{{</world>}}

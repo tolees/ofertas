@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein SS Badge tee 2Pk Lv04Rd248G Camisetas Multi Maritime Navy/Bright White M para Hombre'
-date: 2026-04-21 07:21:16
+date: 2026-04-28 00:24:47
 image: 'https://m.media-amazon.com/images/I/31gGuo16M2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0F4NVLGNX-es Calvin Klein SS Badge tee 2Pk Lv04Rd248G Camisetas Multi...'
 sku: 'B0F4NVLGNX-es'
 tags: [ '🇪🇸', ]
-actualPrice: 18.88 EUR
+actualPrice: 19.75 EUR
 currency: EUR
-price: 18.88
+price: 19.75
 comparePrice: 59.9 EUR
 prodname: 'Calvin Klein SS Badge tee 2Pk Lv04Rd248G Camisetas Multi Maritime Navy/Bright White M para Hombre'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F4NVLGNX/?tag=tolees-21'
-descuento: '68.48'
-average: '22.74'
+descuento: '67.03'
+average: '21.7433333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tiene punta cubierta
 - Presentan tacón plano
+- Tiene punta cubierta
 - Cierre con cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

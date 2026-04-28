@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene un aroma suave y fragante, con notas de madera tostada y jerez
-- Bebida alcohólica aromatizada
-- Disfruta con los nuevos REDI. Una manera de disfrutar de tus cócteles de manera sencilla y refrescante
 - Delicada fusión de sabores tales como vainilla, madera de roble y miel
 - Notas clásicas de Jameson, lo que lo convierte en un whiskey especialmente suave
+- Disfruta con los nuevos REDI. Una manera de disfrutar de tus cócteles de manera sencilla y refrescante
+- Bebida alcohólica aromatizada
+- Tiene un aroma suave y fragante, con notas de madera tostada y jerez
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B087S2M6LS{{</world>}}

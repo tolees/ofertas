@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El champú anti malestar Scalp Advanced contiene una fórmula específica para el cuero cabelludo sensible. Este delicado champú, limpia con suavidad a la vez que calma el cuero cabelludo sensible.
 - Aplicar uniformemente sobre el cuero cabelludo y el cabello húmedo. Emulsionar delicadamente con la parte las yemas de los dedos hasta obtener una ligera espuma. Aclarar abundantemente.
 - Fórmula enriquecida con Niacinamida, una vitamina de la familia B3, conocida por sus propiedades reguladoras y calmantes.
+- El champú anti malestar Scalp Advanced contiene una fórmula específica para el cuero cabelludo sensible. Este delicado champú, limpia con suavidad a la vez que calma el cuero cabelludo sensible.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BPYF46LP{{</world>}}

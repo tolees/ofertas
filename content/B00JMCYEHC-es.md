@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Su elevado gramaje lo convierte en un papel todoterreno de resistencia a cualquier técnica húmeda
-- Idóneo para acuarela escolar, témpera y gouache
 - El auténtico papel de pintura
-- Papel de color blanco natural de 370 g/m²
 - Muy bien encolado, de grano ligero
+- Idóneo para acuarela escolar, témpera y gouache
+- Papel de color blanco natural de 370 g/m²
+- Su elevado gramaje lo convierte en un papel todoterreno de resistencia a cualquier técnica húmeda
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00JMCYEHC{{</world>}}

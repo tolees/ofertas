@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Muy conveniente
 - Material duradero
+- Muy conveniente
 - Producto de calidad
 - Fácil de usar
 

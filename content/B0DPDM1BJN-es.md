@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fortalece el cabello y proporciona protección contra el calor de 232 °C
-- Define los rizos con una fijación flexible que dura todo el día, sin residuos
 - Desenreda, suaviza, acondiciona e hidrata los rizos
+- Define los rizos con una fijación flexible que dura todo el día, sin residuos
+- Fortalece el cabello y proporciona protección contra el calor de 232 °C
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DPDM1BJN{{</world>}}

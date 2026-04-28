@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - La feminidad de este modelo se ve resaltada por la forma de ojo de gato
-- Fabricadas en acetato de primera calidad, estas gafas de sol garantizan la máxima comodidad y ligereza.
+- La montura RXable permite la aplicación de lentes graduadas.
 - Las patillas presentan el nuevo diseño recortado Karl en metal, inspirado en los nuevos accesorios y prendas icónicos de la temporada.
 - Este modelo es de talla L
-- La montura RXable permite la aplicación de lentes graduadas.
+- Fabricadas en acetato de primera calidad, estas gafas de sol garantizan la máxima comodidad y ligereza.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FP5RJW3P{{</world>}}

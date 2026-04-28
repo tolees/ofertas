@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pack de 24 latas de 330 ml
 - Refresco sabor melocotón
+- Pack de 24 latas de 330 ml
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08YPFGSLJ{{</world>}}

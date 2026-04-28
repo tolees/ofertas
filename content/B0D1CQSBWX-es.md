@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- OSRAM Bombilla de xenón
-- Lamparas Xenon, Bombillas De Xenón, Lámpara De Xenón: compatible con VW Polo V Hatchback (6R1, 6C1), compatible con VW Golf VII Hatchback (5G1, BQ1, BE1, BE2), compatible con AUDI A4 B8 Avant (8K5), compatible con SKODA Octavia III Combi (5E5), compatible con OPEL Insignia A Sports Tourer (G09), compatible con AUDI A6 C7 Avant (4G5, 4GD), compatible con FORD FOCUS III Turnier, compatible con VW Passat B7 Variant (365)
 - Elija su vehículo en el selector para comprobar su compatibilidad con el producto.
+- Lamparas Xenon, Bombillas De Xenón, Lámpara De Xenón: compatible con VW Polo V Hatchback (6R1, 6C1), compatible con VW Golf VII Hatchback (5G1, BQ1, BE1, BE2), compatible con AUDI A4 B8 Avant (8K5), compatible con SKODA Octavia III Combi (5E5), compatible con OPEL Insignia A Sports Tourer (G09), compatible con AUDI A6 C7 Avant (4G5, 4GD), compatible con FORD FOCUS III Turnier, compatible con VW Passat B7 Variant (365)
+- OSRAM Bombilla de xenón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D1CQSBWX{{</world>}}

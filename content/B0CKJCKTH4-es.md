@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela de goma resistente
 - Horma estándar
 - Forro de malla
-- Cierre de cordones
 - Empeine sintético y recubierto de piel
+- Suela de goma resistente
+- Cierre de cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CKJCKTH4{{</world>}}

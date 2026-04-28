@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Clasificación Energética A++
-- Termostato con ajuste de temperatura
-- patas ajustables
 - bandejas de cristal
+- patas ajustables
+- Termostato con ajuste de temperatura
 - Puerta reversible
 - Electrodomésticos
 

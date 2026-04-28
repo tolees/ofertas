@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela de goma
 - Líneas y proporciones voluminosas en el tallo
+- Suela de goma
 - Plantilla textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})

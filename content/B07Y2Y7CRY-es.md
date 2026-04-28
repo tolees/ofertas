@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Patillas de policarbonato negro con decoración metálica dorada con patrón grabado con láser
-- Frente en policarbonato negro
 - Gafas negras con lentes polarizadas para hombre y mujer
+- Frente en policarbonato negro
 - Logotipo de Polaroid en la lente izquierda y píxel icónico de Polaroid en la punta de la patilla
 - Lentes polarizadas de triacetato
+- Patillas de policarbonato negro con decoración metálica dorada con patrón grabado con láser
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07Y2Y7CRY{{</world>}}

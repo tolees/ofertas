@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Lavado a la piedra para un aspecto desteñido y desgastado
-- Bolsillos traseros, bolsillo para monedas, bolsillos delanteros
 - Rodilla delgada y puños ajustados
+- Bolsillos traseros, bolsillo para monedas, bolsillos delanteros
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CL7GM9L1{{</world>}}

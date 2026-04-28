@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Contenido: 1 unidad
 - LAMA Dice AMIGO 02103 LAMA Dice 2103
+- Contenido: 1 unidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08ND3KNJ3{{</world>}}

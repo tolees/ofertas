@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puños de canalé
 - Calcetines tobilleros que apenas asoman por encima de las zapatillas
-- Refuerzo en el arco plantar
-- Tejido fino y ligero
-- Tres pares por paquete
-- Costuras anatómicas en la puntera
 - 47% algodón / 43% poliéster reciclado / 8% nailon reciclado / 2% elastán
+- Refuerzo en el arco plantar
+- Costuras anatómicas en la puntera
+- Tres pares por paquete
+- Puños de canalé
+- Tejido fino y ligero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BPTL6ZMP{{</world>}}

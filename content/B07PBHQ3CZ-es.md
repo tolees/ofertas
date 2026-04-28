@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aptos para lavavajillas
 - Capacidad de 26cl
 - 6 vasos de vidrio para uso diario
+- Aptos para lavavajillas
 - Vasos con forma baja
 
 [🛒 Aquí!!!]({{< param buyurl >}})

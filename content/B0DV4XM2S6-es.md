@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte clásico
-- 100% algodón
-- Cuello redondo
 - Estampado de adidas engomado multicolor en el pecho
+- Cuello redondo
+- 100% algodón
+- Corte clásico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DV4XM2S6{{</world>}}

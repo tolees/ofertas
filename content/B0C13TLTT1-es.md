@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Deliciosas piezas en forma de melocotones recubiertos de azúcar
 - Irresistible sabor a melocotón
+- Deliciosas piezas en forma de melocotones recubiertos de azúcar
 - Caramelos de goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

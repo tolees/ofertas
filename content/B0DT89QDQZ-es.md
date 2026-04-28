@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - MINIMIZA OLORES: Este mueble arenero con diseño cerrado reduce los olores y ofrece a tu gato un lugar privado y limpio para su arenero, manteniendo un ambiente agradable en casa
 - DISEÑO DUAL: Combina un arenero cerrado con una mesa auxiliar moderna, logrando un mueble funcional que además es el espacio ideal para tu gato. Este arenero para gatos incluye un compartimento para guardar los accesorios de tu mascota
-- MEDIDAS TOTALES: 80x50x61 cm (LxANxAL). Peso máximo soportado: 15 kg (interior/encimera). Apto para gatos de hasta 6 kg. Se requiere montaje
 - DISEÑO FUNCIONAL: Mueble arenero para gatos incorpora una alfombrilla rascadora en la entrada, que atrapa arena y satisface el instinto de rascado de tu gato. Su base elevada mantiene la zona seca y libre de humedad
+- MEDIDAS TOTALES: 80x50x61 cm (LxANxAL). Peso máximo soportado: 15 kg (interior/encimera). Apto para gatos de hasta 6 kg. Se requiere montaje
 - AJUSTE VERSÁTIL: Compatible con la mayoría de cajas de arena para gatos, con un espacio interno de 56x46,5x47 cm (LxANxAL) que garantiza privacidad y comodidad para tu gato
 
 [🛒 Comprar!!!]({{< param buyurl >}})

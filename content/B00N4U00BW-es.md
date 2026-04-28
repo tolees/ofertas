@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CONSEJOS DE UTILIZACIÓN Mezcla : 2% a 4% (50:1 a 25:1) según las preconizaciones de los constructores y adaptado a su propia utilización .
 - Recomendado para todo tipo de carburantes con o sin plomo. Compatible con los catalizadores. Otras aplicaciones: Scooters, Quads…
+- CONSEJOS DE UTILIZACIÓN Mezcla : 2% a 4% (50:1 a 25:1) según las preconizaciones de los constructores y adaptado a su propia utilización .
 - Todas las motos, trails, motos todo terrenos, enduro, ciclomotores… equipados con motores 2 tiempos de altas prestaciones, que trabajen en regímenes del motor elevados. Para ser utilizado en sistemas de engrase por separado o en pre-mix.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

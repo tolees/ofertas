@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- La tecnología GaN integrada proporciona una carga de alta potencia y eficiente que no sobrecalienta el cargador o el dispositivo conectado.
+- Habilitado con USB-C PD 3.0, carga un iPhone 13 de 0 al 50 % en 28 minutos y un Samsung Galaxy S21+ de 0 al 50 % en 27 minutos
 - Llena por carga rápida la batería de dos dispositivos compatibles al mismo tiempo mediante los dos puertos USB-C*
 - Optimizado para dispositivos de Apple y Samsung, Nintendo Switch y otros compatibles.
-- Habilitado con USB-C PD 3.0, carga un iPhone 13 de 0 al 50 % en 28 minutos y un Samsung Galaxy S21+ de 0 al 50 % en 27 minutos
 - Consigue hasta 45 W de potencia si usas un solo puerto USB-C, o 25 W + 20 W si usas los dos.
-- La tecnología GaN integrada proporciona una carga de alta potencia y eficiente que no sobrecalienta el cargador o el dispositivo conectado.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BPMKFSY3{{</world>}}

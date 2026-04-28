@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Espuma viscoelástica refrigerada por aire
-- Ajuste de cuña
 - Collab
+- Ajuste de cuña
 - Goldcrown
 - Skech-Air
 

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tabla de asado con termostato regulable de temperatura
 - Recipiente recoge grasa/salsas que evita la acumulación de restos en la superficie
-- Superficie de asado antiadherente con unas dimensiones de 27,5 x 27,5 cm
 - Su formato compacto y en forma de bandeja te permitirá transportarla cómodamente a la mesa
 - Potencia 1.500 w
+- Superficie de asado antiadherente con unas dimensiones de 27,5 x 27,5 cm
+- Tabla de asado con termostato regulable de temperatura
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0055ZT4RU{{</world>}}

@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Los cachorros (2,9 cm cada uno) y la madre (5 cm), con su tamaño en miniatura, son perfectos para llevar a todas partes.
-- ¡Descubre 15 sorpresas! ¡Colecciona los 15 perritos en el exclusivo pack de fiesta!
 - ¡Organiza una fiesta de perritos inolvidable con divertidos colores brillantes y una familia completa de bulldogs fraceses!
 - Hay 15 perritos exclusivos con la temática «fiesta» para descubrir, cada uno con una personalidad y pose únicas.
 - Transforma el pack de fiesta de La casa de mamá en un set de juego: abre la casa y verás que hay un montón de espacio para todos los perritos de la familia.
+- ¡Descubre 15 sorpresas! ¡Colecciona los 15 perritos en el exclusivo pack de fiesta!
 - Todos los packs vienen con un accesorio exclusivo. ¿Cuál te tocará?
 - Detrás de cada puerta, descubrirás un adorable perrito o accesorio único en tonos pastel.
 

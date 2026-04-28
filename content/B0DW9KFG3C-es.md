@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cuello: Redondo
 - Estampado floral
+- Fit: Regular
+- Manga: Larga
 - Desigual
 - Largo: Midi
-- Manga: Larga
-- Cuello: Redondo
-- Fit: Regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DW9KFG3C{{</world>}}

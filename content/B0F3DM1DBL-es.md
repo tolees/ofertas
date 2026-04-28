@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre ajustable en la nuca
+- Visera curvada
+- 100% poliéster (reciclado)
 - Estructura de cinco paneles
+- Cierre ajustable en la nuca
+- CLIMACOOL
 - Talla única
 - Cinta transpirable para el sudor de la frente
-- CLIMACOOL
-- 100% poliéster (reciclado)
-- Visera curvada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F3DM1DBL{{</world>}}

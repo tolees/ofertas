@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Revestimiento: Malla
-- Material exterior: Cuero
 - Altura del tacón: 2 centímetros
+- Material exterior: Cuero
 - Material de la suela: Goma
+- Revestimiento: Malla
 - Cierre: Velcro
 
 [🛒 Aquí!!!]({{< param buyurl >}})

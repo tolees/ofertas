@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre práctico con cremallera, súper seguro que no permite que se salga nada de lo que se guarda dentro del libro de nacimiento.
 - Diseño casual y de estilo urbano. Un moderno y elegante libro para llevar todos los documentos que conservas de tu bebé de una forma muy original y llevarlo a juego con tu bolso materno favorito.
-- Carpeta portadocumentos de tamaño estándar con capacidad para muchos documentos. Un accesorio imprescindible para llevar siempre contigo el historial médico, datos o fotografías de la vida de tu bebé.
+- Cierre práctico con cremallera, súper seguro que no permite que se salga nada de lo que se guarda dentro del libro de nacimiento.
 - Práctico y cómodo, distribuido con funcionales bolsillos transparentes en ambos lados para organizar documentos como la cartilla de vacunación, recetas médicas, partida de nacimiento u otros y ubicarlos más fácil cuando los necesites.
+- Carpeta portadocumentos de tamaño estándar con capacidad para muchos documentos. Un accesorio imprescindible para llevar siempre contigo el historial médico, datos o fotografías de la vida de tu bebé.
 - Elaboración de gran calidad y materiales que garantizan la protección de tu bebé. Confeccionado libre de colorantes azoicos y sustancias nocivas para la salud. Material altamente resistente, duradero y fácil de limpiar a mano o a máquina a 30 °C. Se recomienda usar detergente suave sin lejía. No secar en secadora.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

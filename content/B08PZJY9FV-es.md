@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material: Acero inoxidable
-- Medidas: longitud: 21.5 x 20 x 6
-- Color: oro rosa
 - Tipo de cierre: no se aplica
 - Acabado: pulido
+- Color: oro rosa
+- Material: Acero inoxidable
+- Medidas: longitud: 21.5 x 20 x 6
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08PZJY9FV{{</world>}}

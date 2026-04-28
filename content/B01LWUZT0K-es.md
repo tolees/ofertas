@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gel limpiador íntimo suave adecuado para la higiene diaria femenina, con propiedades protectoras e hidratantes
 - Aplicar una pequeña cantidad de producto, masajear hasta obtener una suave espuma y aclarar con abundante agua. Puede utilizarse por la mañana y por la noche según necesidades
-- Limpiador diario en gel suave elaborado sin parabenos, sin jabón y sin sulfatos, SLES ni SLS. Ha sido dermatológica y ginecológicamente testado
-- Indicado en mujeres en etapa fértil. Para la higiene infantil y mujeres en climaterio ver Higiene Íntima Deligyn
 - De efecto protector, suavizante e hidratante, su pH ácido (3.8) respeta el pH fisiológico de la piel y no altera las mucosas sensibles, sobre todo en la etapa más fértil de la mujer
+- Indicado en mujeres en etapa fértil. Para la higiene infantil y mujeres en climaterio ver Higiene Íntima Deligyn
+- Gel limpiador íntimo suave adecuado para la higiene diaria femenina, con propiedades protectoras e hidratantes
+- Limpiador diario en gel suave elaborado sin parabenos, sin jabón y sin sulfatos, SLES ni SLS. Ha sido dermatológica y ginecológicamente testado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01LWUZT0K{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ✔️ Dispone de un portavasos, un organizador de cables integrado y una alfombrilla de ratón de tamaño completo
 - ✔️ Ajustable individualmente de -45° a +90° de inclinación y más de 2x 180
 - ✔️ Accesorios exclusivos para el GR500 Racing Cockpit & GF500 Flight Simulator Cockpit
+- ✔️ Dispone de un portavasos, un organizador de cables integrado y una alfombrilla de ratón de tamaño completo
 - ✔️ Superficie de almacenamiento 65x24,3 cm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

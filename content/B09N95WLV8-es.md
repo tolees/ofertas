@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Agitar antes de aplicar sobre la piel limpia y seca; Cobertura modulable: cobertura ligera = 1 gota. Cobertura natural = 3 gotas. Cobertura media = 5 gotas
 - Green Edition: fórmulas de cuidado, fórmulas veganas con más de un 70% de ingredientes de origen natural y comprometido con el planeta gracias a sus envases con materiales reciclados
-- Base de maquillaje de cuidado líquido con cobertura modulable en una gota
 - Fórmula Vegana Con Aceite De Jojoba Y Marula Ytecnología De Pigmentos Ligeros Para Un Aspecto Fresco Y Natural
+- Agitar antes de aplicar sobre la piel limpia y seca; Cobertura modulable: cobertura ligera = 1 gota. Cobertura natural = 3 gotas. Cobertura media = 5 gotas
 - El resultado: piel más ligera y cuidada, y una sensación no grasa; cobertura modulable
+- Base de maquillaje de cuidado líquido con cobertura modulable en una gota
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09N95WLV8{{</world>}}

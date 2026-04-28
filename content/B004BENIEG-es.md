@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Viñedos seleccionados: fincas Cuervo 4, Vicuana y Zaco, con orientación sur y suelos calcáreos.
+- Vino tinto Gran Reserva monovarietal de Tempranillo, elaborado en Haro, Rioja Alta.
 - Maridaje ideal: carnes rojas, caza, quesos curados y platos de cuchara.
 - Crianza prolongada: 24 meses en barricas de roble francés y 36 meses en botella.
-- Vino tinto Gran Reserva monovarietal de Tempranillo, elaborado en Haro, Rioja Alta.
 - Notas de cata: frutos negros maduros, violetas, tostados, balsámico y mineral.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

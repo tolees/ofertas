@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste : Normal
-- Básicos
-- Cortavientos || Ajuste normal || Color intenso || Material duradero
-- Cortavientos con las siguientes características:
 - Descubre todas las marcas de EMP!
+- Ajuste : Normal
+- Cortavientos con las siguientes características:
+- Cortavientos || Ajuste normal || Color intenso || Material duradero
+- Básicos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07PDLVZDV{{</world>}}

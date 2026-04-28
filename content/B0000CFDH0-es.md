@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Paquete de 25 CDs imprimibles
-- El diámetro del disco óptico es de 120 mm
 - Cada CD tiene una capacidad de 700 MB
 - El tiempo de grabación es de 80 minutos
+- Paquete de 25 CDs imprimibles
+- El diámetro del disco óptico es de 120 mm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0000CFDH0{{</world>}}

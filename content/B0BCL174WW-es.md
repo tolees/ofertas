@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Robusta estructura de acero y ajuste de altura con sistema de jack de clase 3.
-- Asiento ultraconfortable con respaldo ergonómico y reposabrazos acolchados.
 - Acabado de alta calidad con bordados y costuras, cubierta de piel sintética de fácil cuidado.
+- Robusta estructura de acero y ajuste de altura con sistema de jack de clase 3.
 - Función de silla mecedora, rocking-chair.
+- Asiento ultraconfortable con respaldo ergonómico y reposabrazos acolchados.
 - Silla de juego de diseño exclusivo para eSports bajo licencia oficial.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

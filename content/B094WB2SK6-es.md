@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta de algodón orgánico suave con un llamativo logotipo HH en el pecho
-- Artículos entregados: 1x Helly Hansen Hombre Camiseta HH Box,S,Negro
 - Exterior: 100% algodón
+- Artículos entregados: 1x Helly Hansen Hombre Camiseta HH Box,S,Negro
+- Camiseta de algodón orgánico suave con un llamativo logotipo HH en el pecho
 - Esta camiseta con logo es suave; queda bien tanto fuera como en casa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

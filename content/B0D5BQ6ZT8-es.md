@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Material del forro: textil
+- Anchura: estándar
+- Material de la suela: goma
 - Cierre: encaje
 - Material de la entresuela: espuma EVA
-- Material de la suela: goma
-- Anchura: estándar
-- Material del forro: textil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D5BQ6ZT8{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cuello de polo
+- Un ajuste cómodo
+- Proporciona comodidad
 - Cierre de botones
 - Una mirada original
-- Un ajuste cómodo
-- Cuello de polo
-- Proporciona comodidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07KFJ8R9D{{</world>}}

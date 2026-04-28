@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- DESPEGA Y DESCUBRE: Despega el corazón de tu Rainbocorn para descubrir lo que ama.
 - ACCESORIOS PONIBLES Y COMPARTIBLES: ¡Usa las alas de Monstercorn para convertiros a ti y a tu Monstercorn en criaturas de la noche!
-- BRILLO EN LA OSCURIDAD: ¡Mira cómo tu Monstercorn y sus espeluznantes accesorios brillan en la oscuridad!
 - COLECCIÓNALOS TODOS: Hay seis peluches espeluznantes de Monstercorn para coleccionar.
 - 35 SORPRESAS POR DESCUBRIR: ¡Abre tu Monstercorn y descubre de 35 sorpresas espeluznantes!
+- DESPEGA Y DESCUBRE: Despega el corazón de tu Rainbocorn para descubrir lo que ama.
+- BRILLO EN LA OSCURIDAD: ¡Mira cómo tu Monstercorn y sus espeluznantes accesorios brillan en la oscuridad!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CD2ZFFQX{{</world>}}

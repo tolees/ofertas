@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CARACTERÍSTICAS: Anti-moho básico. Secado en 24 horas. 100% impermeable. No pintable.
-- SECADO: en 24 horas.
-- FORMATO: Blister 50 ML.
-- MODO DE EMPLEO: Limpiar la superficie. Aplicar cinta de pintor. Cortar la cánula y aplicar. Alisar con el dedo humedecido.
 - SUPERFICIES APTAS: Bañeras, lavabos. Cocinas, fregaderos. Acristalamiento, carpintería de aluminio. Sellado y relleno de todo tipo de juntas.
+- FORMATO: Blister 50 ML.
+- SECADO: en 24 horas.
+- CARACTERÍSTICAS: Anti-moho básico. Secado en 24 horas. 100% impermeable. No pintable.
+- MODO DE EMPLEO: Limpiar la superficie. Aplicar cinta de pintor. Cortar la cánula y aplicar. Alisar con el dedo humedecido.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B008OEFQ30{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- COMPLEMENTO PARA EL DISFRAZ DE HALLOWEEN: Este sable de luz de juguete es un accesorio idóneo para un disfraz de Halloween de Star Wars
+- EFECTOS DE LUCES Y SONIDOS: Con luces y efectos de sonido de sable de luz inspirados en el entretenimiento, este juguete luminoso es un excelente regalo de Star Wars para niños y niñas a partir de 4 años (Requiere 2 pilas AAA de 1,5 V. No incluidas)
 - CREA TU PROPIO SABLE DE LUZ: Este juguete sable de luz está compuesto por 4 piezas: hoja roja extensible, tapa, cubierta y núcleo. Las piezas permiten que los niños y las niñas armen sus propios sables de luz luminosos para lanzarse a duelos imaginarios
 - PRESENTAMOS KYBER CORE: La línea oficial de sables de luz de Star Wars de Hasbro se expande con la presentación de Kyber Core, la cual cuenta con piezas traslúcidas y un núcleo brillante que simula a los cristales kyber
 - NÚCLEO TRASLÚCIDO BRILLANTE: Además de una hoja luminosa, este sable de luz para niños también cuenta con un núcleo traslúcido brillante, inspirado en los cristales kyber que se encuentran en el centro de todos los sables de luz
-- EFECTOS DE LUCES Y SONIDOS: Con luces y efectos de sonido de sable de luz inspirados en el entretenimiento, este juguete luminoso es un excelente regalo de Star Wars para niños y niñas a partir de 4 años (Requiere 2 pilas AAA de 1,5 V. No incluidas)
+- COMPLEMENTO PARA EL DISFRAZ DE HALLOWEEN: Este sable de luz de juguete es un accesorio idóneo para un disfraz de Halloween de Star Wars
 - DISEÑO Y DECORADO INSPIRADOS EN EL PERSONAJE: Imagina que controlas el poder del lado oscuro con el sable de luz electrónico Lightsaber Forge Kyber Core de Darth Vader, inspirado en el villano favorito de los fans, Darth Vader
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

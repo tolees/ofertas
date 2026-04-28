@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Plantilla de espuma viscoelástica refrigerada por aire
 - Goldcrown - Tenis de moda con estampado de entresuela
+- Plantilla de espuma viscoelástica refrigerada por aire
 - Colaboración James Goldcrown
 
 [🛒 Aquí!!!]({{< param buyurl >}})

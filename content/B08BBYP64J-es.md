@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Solé material: Caucho
 - Cierre: Cordones
+- Solé material: Caucho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08BBYP64J{{</world>}}

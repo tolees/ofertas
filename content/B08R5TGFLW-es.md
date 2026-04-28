@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela de tracción flexible
 - Diseño clásico de tenis de moda
 - Parte superior de piel sintética duraleather
+- Suela de tracción flexible
 - Plantilla cómoda de espuma viscoelástica refrigerada por aire
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

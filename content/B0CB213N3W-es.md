@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- No es resistente al agua
-- Ligeras
 - Detalle del logotipo
+- Ligeras
+- No es resistente al agua
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CB213N3W{{</world>}}

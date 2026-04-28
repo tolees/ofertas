@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ojal técnico y lengüeta en el talón con división de costura, logotipo de 1973 en el talón, pieza reflectante en el lateral, cómoda entresuela de EVA con dos líneas de color diferentes en el talón, suela de goma bicolor personalizada y logotipo clásico impreso en el lateral
 - 75 % poliuretano, 25 % poliamida
+- Ojal técnico y lengüeta en el talón con división de costura, logotipo de 1973 en el talón, pieza reflectante en el lateral, cómoda entresuela de EVA con dos líneas de color diferentes en el talón, suela de goma bicolor personalizada y logotipo clásico impreso en el lateral
 - Tenis para correr Bexley South M fabricados con piezas superiores de combinación de colores y materiales, forro de cuello de contraste de color
 
 [🛒 Aquí!!!]({{< param buyurl >}})

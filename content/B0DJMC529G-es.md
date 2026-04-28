@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Mediasuela Cloudfoam
+- Empeine textil y sintético
 - Forro textil
 - Fiel a la talla
-- Empeine textil y sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DJMC529G{{</world>}}

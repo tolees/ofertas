@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - VERTIDO PERFECTO – Diseñado para la precisión, el pico vertedor Perfecto permite reducir las salpicaduras y derrames para un vertido más suave y seguro.
 - DISEÑO RETRO - Acabado blanco satinado mate con acentos cromados en estilo vintage. Capacidad de 1,7 L y ventana de nivel de agua para hervir la cantidad correcta, ahorrando tiempo y energía.
+- BASE DE 360 GRADOS CON ALMACENAMIENTO PARA CABLE – La base giratoria permite un uso fácil con la mano izquierda o derecha, con almacenamiento integrado para el cable para mantener tu encimera limpia y ordenada.
 - HAGA HERVIR SOLO LO QUE NECESITA – Hervir una taza en cuestión de minutos y ahorrar hasta un 66% de energía en comparación con un hervidor lleno (1 taza = 236 ml frente a 1 litro).
 - BOTÓN PARA ABRIR LA TAPA - Hervidor de agua fácil de llenar con tapa de pulsador para usar con una sola mano. Ábrela directamente desde el mango para un llenado rápido y sin salpicaduras.
-- BASE DE 360 GRADOS CON ALMACENAMIENTO PARA CABLE – La base giratoria permite un uso fácil con la mano izquierda o derecha, con almacenamiento integrado para el cable para mantener tu encimera limpia y ordenada.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FM6KNJKV{{</world>}}

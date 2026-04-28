@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye un coche metálico a escala 1:64 y un helicóptero de plástico con mecanismo de transporte de automóviles. Los vehículos adicionales se venden por separado.
-- Explora múltiples niveles de juego con coches de juguete con el conjunto de juego Megaparking de Hot Wheels City.
-- El Megaparking cuenta con estacionamiento para un máximo de 37 vehículos a escala 1:64, lo que ofrece una gran capacidad de almacenamiento y formas divertidas de exponer los juguetes.
-- Los niños y las niñas pueden lanzar el vehículo Hot Wheels incluido por el doble looping y usar un desviador para dirigir el coche hacia la planta deseada.
 - Los niños y las niñas pueden conectar el Megaparking de Hot Wheels City a otras pistas y conjuntos de juego gracias a la pista Speed Snap. (Las pistas y los conjuntos adicionales se venden por separado).
-- Pasa por el lavado de coches de la planta baja donde hay un rodillo de espuma móvil y una cortina de lavado para dejar los vehículos como nuevos para lucirte haciendo acrobacias.
+- El Megaparking cuenta con estacionamiento para un máximo de 37 vehículos a escala 1:64, lo que ofrece una gran capacidad de almacenamiento y formas divertidas de exponer los juguetes.
+- Explora múltiples niveles de juego con coches de juguete con el conjunto de juego Megaparking de Hot Wheels City.
+- Los niños y las niñas pueden lanzar el vehículo Hot Wheels incluido por el doble looping y usar un desviador para dirigir el coche hacia la planta deseada.
 - En el segundo y tercer nivel, los niños y las niñas pueden explorar elementos de mantenimiento del automóvil, como un elevador de reparación, surtidores de combustible con mangueras móviles, un brazo robótico de reparación y puertas regulables.
+- Incluye un coche metálico a escala 1:64 y un helicóptero de plástico con mecanismo de transporte de automóviles. Los vehículos adicionales se venden por separado.
+- Pasa por el lavado de coches de la planta baja donde hay un rodillo de espuma móvil y una cortina de lavado para dejar los vehículos como nuevos para lucirte haciendo acrobacias.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DR3ZFQC6{{</world>}}

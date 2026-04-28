@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Altura: 18 cm, Ancho: 27 cm, Fondo: 9 cm
 - Llévala cómodamente gracias al cinturón ajustable
 - Compartimento principal con bolsillos frontales y traseros para guardar tus cosas con seguridad
-- Altura: 18 cm, Ancho: 27 cm, Fondo: 9 cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B000UDNRT8{{</world>}}

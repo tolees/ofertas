@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- 9 x 2 x 9 pulgadas
 - 3 ranuras CC/1 cremallera interior
 - Herrajes dorados brillantes
-- 9 x 2 x 9 pulgadas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FTTJZBV4{{</world>}}

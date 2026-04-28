@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Desigual
-- Largo: Midi
-- Tejido elástico
-- Estampado Arty
 - Fit: Regular
+- Estampado Arty
 - Cintura elástica
+- Desigual
+- Tejido elástico
+- Largo: Midi
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DWBJFSX3{{</world>}}

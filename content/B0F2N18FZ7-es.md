@@ -28,16 +28,16 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Inspirado en rituales de incienso de Oriente Medio
+- Aroma potente y cálido con una profunda complejidad
+- Perfecto para todos los que aman un resplandor intenso y misterioso
+- Vegano
 - Notas de salida: mandarina, pimienta, especias ahumadas
-- De larga duración con distintivo sillage
 - Sin sulfatos
 - Notas de fondo: tabaco, ámbar, haba tonka, benjuí, chocolate
-- Sin parabenos
 - Notas de corazón: Jara (cistus), azahar, incienso, pachulí
-- Aroma potente y cálido con una profunda complejidad
-- Inspirado en rituales de incienso de Oriente Medio
-- Vegano
-- Perfecto para todos los que aman un resplandor intenso y misterioso
+- Sin parabenos
+- De larga duración con distintivo sillage
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F2N18FZ7{{</world>}}

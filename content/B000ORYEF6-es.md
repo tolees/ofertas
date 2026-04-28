@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Uno de cada cuatro bebés lactantes sufre cólicos que, aunque se trata de una molestia pasajera, pueden afectar bastante al bienestar del bebé
 - Cuenta con aceites esenciales de cardamomo y manzanilla, conocidos por sus propiedades digestivas
-- Aceite para bebés que facilita el masaje en la tripita y alivia los cólicos, favoreciendo la expulsión de gases
 - Calentar el aceite entre las palmas de las manos y masajear suavemente en el sentido de las agujas del reloj haciendo una espiral desde el ombligo hacia afuera
+- Aceite para bebés que facilita el masaje en la tripita y alivia los cólicos, favoreciendo la expulsión de gases
 - Este aceite vegano es ideal para realizar un masaje en la tripita del bebé y así ayudar a aliviar posibles cólicos, gases o estreñimiento
+- Uno de cada cuatro bebés lactantes sufre cólicos que, aunque se trata de una molestia pasajera, pueden afectar bastante al bienestar del bebé
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B000ORYEF6{{</world>}}

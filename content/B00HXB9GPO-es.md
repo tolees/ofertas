@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ácido salicílico: micro-exfoliantes suaves que eliminan las células muertas de la dermis para lograr una textura más tersa en la piel
+- Petrolato, dimeticona y manteca de karité: una mezcla de emolientes que ayudan a calmar y suavizar la dermis y mejoran su aspecto
 - Ayuda a reequilibrar, renovar y restaurar la piel durante su proceso nocturno de restauración
 - Vitamina E: un antioxidante que ayuda a proteger la piel ante las agresiones ocasionadas por los factores medioambientales
-- Petrolato, dimeticona y manteca de karité: una mezcla de emolientes que ayudan a calmar y suavizar la dermis y mejoran su aspecto
+- Ácido salicílico: micro-exfoliantes suaves que eliminan las células muertas de la dermis para lograr una textura más tersa en la piel
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00HXB9GPO{{</world>}}

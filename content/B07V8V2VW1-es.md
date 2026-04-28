@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 66 altura x 36 ancho x 24 profundidad cm
+- Maleta mediana de cuatro ruedas
 - 3.72kg peso x 71L volumen
 - 100% Poliamida
-- Maleta mediana de cuatro ruedas
+- 66 altura x 36 ancho x 24 profundidad cm
 - Hidrófugo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

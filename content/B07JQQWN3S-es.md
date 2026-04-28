@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 100% aceites esenciales ecológicos*: Naranja dulce, Lima, Pachuli, Bergamota, Incienso, Canela de Ceilán, Nardo del Himalaya
-- Déjate seducir por la intensidad de los olores del Nardo y del Incienso, venerados desde la Antigüedad. Fragancia que te invita a la meditación, al crecimiento personal y a la apertura mental en búsqueda del equilibrio
-- Utilizar solamente difusores que funcionen en frío. Depositar entre 3 y 5 gotas para una habitación de entre 9 y 15 m² (Ver modo de empleo del difusor utilizado)
 - El encuentro entre la amargura espiritual del nardo y el frescor de los cítricos, elevado por notas especiadas y misteriosas
+- Déjate seducir por la intensidad de los olores del Nardo y del Incienso, venerados desde la Antigüedad. Fragancia que te invita a la meditación, al crecimiento personal y a la apertura mental en búsqueda del equilibrio
 - Mezcla para difusión - Meditación
+- Utilizar solamente difusores que funcionen en frío. Depositar entre 3 y 5 gotas para una habitación de entre 9 y 15 m² (Ver modo de empleo del difusor utilizado)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07JQQWN3S{{</world>}}

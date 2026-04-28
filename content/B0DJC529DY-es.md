@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con una plantilla cómoda
 - Logotipo de la marca en la lengüeta
+- Con una plantilla cómoda
 - Proporcionan una amortiguación suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})

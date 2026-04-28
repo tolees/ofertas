@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sello de garantía certificada Global Organic Textile Standard (GOTS)
 - Sneakers blancas con detalles en gris y acentos en neón
+- Sello de garantía certificada Global Organic Textile Standard (GOTS)
 - La plantilla es anatómica extraíble
 - Garantía certificada Global Recycled Standard (GRS)
 

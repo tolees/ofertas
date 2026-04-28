@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Polvo compacto translucido para un acabado delicado
+- Es apto para todos los tipos de piel
 - Con pigmentos que reflejan la luz e ocultan las imperfecciones
 - Matiza la piel y fija el maquillaje sin aportar color
-- Es apto para todos los tipos de piel
+- Polvo compacto translucido para un acabado delicado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B001TDSOFU{{</world>}}

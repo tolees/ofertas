@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con dimensiones de 81 x 64 x 58 cm y un peso de 2.25 kg
 - Silla-cama de playa fabricada en aluminio
+- Con dimensiones de 81 x 64 x 58 cm y un peso de 2.25 kg
 - Con 7 posiciones de respaldo
 - Incorpora un práctico bolsillo trasero y asas
 

@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - De textura dura
-- Conservar en lugar fresco y seco
-- Caramelos con palo sabores surtidos
 - Ideal para compartir
 - Vienen envueltos individualmente,
+- Conservar en lugar fresco y seco
+- Caramelos con palo sabores surtidos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07DVLWCGS{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Gran hábitat para conejos con diseño patentado, original escenario de estilo granero americano
-- Techo que se puede abrir completamente con clip de seguridad, puerta de entrada corredera; fondo y red separables para facilitar la limpieza
 - Completo con casita, estante con escalera, comedero, bebedero, cuenco, adhesivos decorativas
+- Techo que se puede abrir completamente con clip de seguridad, puerta de entrada corredera; fondo y red separables para facilitar la limpieza
 - Fondo de resina termoplástica y malla de resistente metal pintado
+- Gran hábitat para conejos con diseño patentado, original escenario de estilo granero americano
 - Dimensiones totales: 78 x 48 x h 65 cm. Se presenta en un embalaje que ahorra espacio.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

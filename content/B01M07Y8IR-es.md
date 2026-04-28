@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Múltiples posibilidades de aplicación gracias a la parada de giro para trabajos de cincelado y a la regulación electrónica de la velocidad para un trabajo limpio
+- Incluye: GBH 2-26 F, empuñadura auxiliar, tope de profundidad, paño de limpieza, portabrocas de cambio rápido, portabrocas intercambiable SDS plus, maletín
 - Alto rendimiento de arranque en cincelado gracias al potente motor de 830 vatios y una energía de impacto de 2,7 julios
 - El martillo perforador GBH 2-26 F de Bosch Professional: herramienta rápida y versátil para un uso diario en la obra
-- Incluye: GBH 2-26 F, empuñadura auxiliar, tope de profundidad, paño de limpieza, portabrocas de cambio rápido, portabrocas intercambiable SDS plus, maletín
-- Múltiples posibilidades de aplicación gracias a la parada de giro para trabajos de cincelado y a la regulación electrónica de la velocidad para un trabajo limpio
 - Portabrocas SDS plus, diámetro de perforación máx. de hasta 26 mm en hormigón y de hasta 68 mm en hormigón con coronas perforadoras huecas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

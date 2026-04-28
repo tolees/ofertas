@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tipo de producto: PANTALONES
-- Tamaño: 8 años
 - Desigual Leggings Bubble para Niñas, Azul, M
+- Tamaño: 8 años
+- Tipo de producto: PANTALONES
 - Marca: Desigual
 
 [🛒 Visítala!!!]({{< param buyurl >}})

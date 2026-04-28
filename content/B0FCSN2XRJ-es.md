@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Polo Básico
 - Polo
+- Polo Básico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FCSN2XRJ{{</world>}}

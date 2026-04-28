@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Totalmente afelpadas
-- Zapatillas de casa
 - Plantilla suave
+- Zapatillas de casa
+- Totalmente afelpadas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CX5H6DM7{{</world>}}

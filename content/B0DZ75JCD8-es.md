@@ -28,16 +28,16 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- LLÉVATE LA MÚSICA CONTIGO: Puedes meter este altavoz sony compacto en un bolso o utilizar la correa desmontable para el hombro; Es tan versátil que funciona en horizontal y en vertical
-- SONIDO POTENTE, GRAVES CONTUNDENTES: Woofer y tweeter con graves impresionantes y detalles nítidos; los radiadores pasivos duales añaden profundidad e impacto, personalízalo con el ecualizador de 7 bandas de la aplicación
-- CONECTIVIDAD Y CONTROL: Usa los botones o el smartphone para control fácil; Party Connect enlaza hasta 100 altavoces Sony vía Bluetooth; Stereo Pair crea un sistema estéreo potente
-- ULT FIELD 3: Sonido impactante que llena el espacio con un diseño portátil, pulsa ULT para disfrutar de ULT POWER SOUND
-- LLAMADAS NÍTIDAS: Utilízalo como altavoz para hacer llamadas con manos libres; con la tecnología Echo Cancelling, dos personas pueden hablar al mismo tiempo sin cortarse mutuamente
 - PULSA EL BOTÓN Y SIENTE LOS GRAVES: Al pulsar el botón ULT, los graves se potencian aún más y la presión sonora aumenta para producir un sonido ULT POWER SOUND adictivo y enérgico
+- MÚSICA DÍA Y NOCHE: 24 h de batería con una sola carga, y 2 h adicionales de reproducción con solo 10 min de carga rápida; usa el altavoz FIELD 3 como un powerbank para cargar tus dispositivos
+- ULT FIELD 3: Sonido impactante que llena el espacio con un diseño portátil, pulsa ULT para disfrutar de ULT POWER SOUND
+- SONIDO NÍTIDO, INCLUSO EN ENTORNOS RUIDOSOS: Con Sound Field Optimisation de Sony, detecta el ruido y ajusta automáticamente el audio para que siga siendo claro y detallado
+- LLÉVATE LA MÚSICA CONTIGO: Puedes meter este altavoz sony compacto en un bolso o utilizar la correa desmontable para el hombro; Es tan versátil que funciona en horizontal y en vertical
+- LLAMADAS NÍTIDAS: Utilízalo como altavoz para hacer llamadas con manos libres; con la tecnología Echo Cancelling, dos personas pueden hablar al mismo tiempo sin cortarse mutuamente
+- CONECTIVIDAD Y CONTROL: Usa los botones o el smartphone para control fácil; Party Connect enlaza hasta 100 altavoces Sony vía Bluetooth; Stereo Pair crea un sistema estéreo potente
 - EN CUALQUIER LUGAR: No te preocupes por el clima, este altavoz impermeable tiene clasificación IP67, protección contra agua y polvo, también es resistente al óxido y a los golpes
 - Adapta el sonido a tu gusto en la app Sony | Sound Connect, pulsa ULT para disfrutar de ULT POWER SOUND
-- MÚSICA DÍA Y NOCHE: 24 h de batería con una sola carga, y 2 h adicionales de reproducción con solo 10 min de carga rápida; usa el altavoz FIELD 3 como un powerbank para cargar tus dispositivos
-- SONIDO NÍTIDO, INCLUSO EN ENTORNOS RUIDOSOS: Con Sound Field Optimisation de Sony, detecta el ruido y ajusta automáticamente el audio para que siga siendo claro y detallado
+- SONIDO POTENTE, GRAVES CONTUNDENTES: Woofer y tweeter con graves impresionantes y detalles nítidos; los radiadores pasivos duales añaden profundidad e impacto, personalízalo con el ecualizador de 7 bandas de la aplicación
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DZ75JCD8{{</world>}}

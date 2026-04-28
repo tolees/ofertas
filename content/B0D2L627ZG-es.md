@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Manga larga
+- Con capucha
 - Material principal: felpa
 - Largo: normal
-- Con capucha
 - Corte: normal
 
 [🛒 Visítala!!!]({{< param buyurl >}})

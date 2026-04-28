@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cuello: Redondo
 - Estampado Art
 - Desigual
 - Fit: Regular
-- Cuello: Redondo
 - Manga: Larga
 - Tejido ligero
 

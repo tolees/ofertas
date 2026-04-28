@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo estampado en el talón y el panel lateral
-- Talón y lengüeta acolchados Aplicación con el logotipo en la lengüeta
-- Detalles de perforaciones en la puntera
 - REEBOK REEBOK GLIDE FTWWHT/VECNAV/VECRED 35 UNISEX
+- Talón y lengüeta acolchados Aplicación con el logotipo en la lengüeta
+- Logotipo estampado en el talón y el panel lateral
+- Detalles de perforaciones en la puntera
 - Entresuela de EVA Suela serrada en goma
 
 [🛒 Comprar!!!]({{< param buyurl >}})

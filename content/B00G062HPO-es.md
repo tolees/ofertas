@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - No se calienta (LED fría) lo que evita quemaduras
-- Difusión de una luz blanca natural
-- 2 niveles de intensidad luminosa
 - Botón on/off que posibilita un consumo eficiente de energía
+- 2 niveles de intensidad luminosa
+- Difusión de una luz blanca natural
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00G062HPO{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Protege y realza el color de tu esmalte de uñas favorito de Rimmel
 - Top Coat brillante
 - Acabado brillante en una sola pasada
-- Protege y realza el color de tu esmalte de uñas favorito de Rimmel
 - Manicura de larga duración
 - Fórmula vegana
 

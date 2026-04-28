@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 100% algodón
+- Visera curvada de tamaño medio
 - Contiene al menos un 50% de material reciclado y renovable
 - Talla única
-- Visera curvada de tamaño medio
-- 100% algodón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZCFBWVS{{</world>}}

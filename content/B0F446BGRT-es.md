@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ●● MEDICINA AYURVÉDICA ●● Descubre el poder del Shilajit, una resina mineral poco común procedente de las altas montañas del Himalaya, utilizada desde hace siglos en la medicina ayurvédica. Es rica en ácido fúlvico y oligoelementos. Nuestro Shilajit está purificado y libre de metales pesados.
-- ●● ALTA DOSIFICACIÓN ●● Disfruta de 2500 mg de Shilajit en una sola cápsula. Esta fórmula única en el mercado es fácil y práctica de consumir. Presenta una alta concentración gracias a un extracto titulado 5:1. El Shilajit se ha asociado tradicionalmente con el mantenimiento de la energía, la vitalidad y las defensas naturales. Un aliado ideal para estilos de vida activos o con poco tiempo.
 - ●● MENTE Y DEPORTE ●● El Shilajit participa en la producción de ATP, la principal fuente de energía celular, lo que contribuye a mejorar la resistencia física, la recuperación muscular y la adaptación al esfuerzo. También se ha vinculado tradicionalmente con el apoyo a funciones cognitivas como la memoria y la concentración, gracias a su riqueza en ácido fúlvico y antioxidantes.
 - ●● CALIDAD CERTIFICADA ●● Nuestro Shilajit se purifica rigurosamente para eliminar cualquier traza de sustancias indeseadas. Cada lote se analiza en laboratorio para garantizar una calidad, seguridad y concentración óptimas en ácido fúlvico.
+- ●● MEDICINA AYURVÉDICA ●● Descubre el poder del Shilajit, una resina mineral poco común procedente de las altas montañas del Himalaya, utilizada desde hace siglos en la medicina ayurvédica. Es rica en ácido fúlvico y oligoelementos. Nuestro Shilajit está purificado y libre de metales pesados.
+- ●● ALTA DOSIFICACIÓN ●● Disfruta de 2500 mg de Shilajit en una sola cápsula. Esta fórmula única en el mercado es fácil y práctica de consumir. Presenta una alta concentración gracias a un extracto titulado 5:1. El Shilajit se ha asociado tradicionalmente con el mantenimiento de la energía, la vitalidad y las defensas naturales. Un aliado ideal para estilos de vida activos o con poco tiempo.
 - ●● EXPERTISE FRANCESA ●● Todos los productos de Nutrimea están diseñados en Francia por nuestro departamento de I+D. Para ofrecerte los mejores complementos alimenticios, Nutrimea también cuenta con un comité de 5 expertos reconocidos en los campos de la medicina, la investigación y la trazabilidad. Nuestros productos están fabricados en Francia y certificados según las normas ISO 22000, HACCP y BPF.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

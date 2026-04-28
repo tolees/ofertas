@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Material : piel
 - Glamour y comodidad
 - Zapatilla cuña interna
-- Material : piel
 - Altura cuña interna: 3 cm.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

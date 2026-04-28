@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Número de modelo: 13488; disponible en tallas: 12-18 meses 80-92cm , 98-104 2-3 años , 110-116 3-6 años , 122-128 7-9 años , 134-146 9-12 años , 152-164 13-16 años ; Este producto ha sido sometido a pruebas de sustancias nocivas y ha sido certificado según la norma 100 por OEKO-TEX 96.0.9647 HOHENSTEIN HTTI
-- Elásticos, cálidos, no estampados y no transparentes; agradables para la piel y el pie; para niños y niñas óptima en primavera, verano, otoño e invierno; variedad de colores claro y oscuro
+- Los procesos de tricotado especiales adaptados a la plantilla de su hijo garantizan un ajuste antideslizante, sin arrugas, una larga durabilidad y protección contra los puntos de presión
 - FALKE, empresa familiar fundada en 1895, se asienta sobre una firme base de valores: calidad incondicional, la más alta artesanía, productos modernos e para generaciones
 - Leotardos marca FALKE color liso, sin patrones, reforzados y cálidos; sin felpa y de material suave; con suavidad en la cintura para una sujeción sin presión; para el hogar, carnaval, ballet, gimnasia o comunión
-- Los procesos de tricotado especiales adaptados a la plantilla de su hijo garantizan un ajuste antideslizante, sin arrugas, una larga durabilidad y protección contra los puntos de presión
+- Elásticos, cálidos, no estampados y no transparentes; agradables para la piel y el pie; para niños y niñas óptima en primavera, verano, otoño e invierno; variedad de colores claro y oscuro
+- Número de modelo: 13488; disponible en tallas: 12-18 meses 80-92cm , 98-104 2-3 años , 110-116 3-6 años , 122-128 7-9 años , 134-146 9-12 años , 152-164 13-16 años ; Este producto ha sido sometido a pruebas de sustancias nocivas y ha sido certificado según la norma 100 por OEKO-TEX 96.0.9647 HOHENSTEIN HTTI
 - Los leotardos FALKE Comfort Wool son adecuados para todos los zapatos como bailarinas, zapatillas de deporte, zapatos bajos y zancos; el ajuste y el color se mantienen incluso después de varios lavados; lavables a 40 °C en el ciclo delicado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

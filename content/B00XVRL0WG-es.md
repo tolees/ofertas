@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Boquilla Antigoteo - Boquilla de acero inoxidable con función antigoteo situada a 13 cm para facilitar el llenado de vasos altos
 - Función Cambio de Giro - El cono empieza a girar automáticamente cuando recibe presión por la parte superior y la función de cambio de la dirección de giro permite conseguir una extracción máxima del zumo
 - Motor de 60 W - Cuenta con un motor de 60 W y dispone de recogecable en la base
 - Cuerpo de Acero Inoxidable - El cuerpo del exprimidor está diseñado en acero inoxidable con acabado cepillado
 - 2 Conos Exprimidores - Incluye 2 conos exprimidores intercambiables: uno normal para naranjas y pomelos y uno pequeño para limones y limas
+- Boquilla Antigoteo - Boquilla de acero inoxidable con función antigoteo situada a 13 cm para facilitar el llenado de vasos altos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XVRL0WG{{</world>}}

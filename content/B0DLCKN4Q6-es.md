@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cada figura mide más de 6,35cm de alto y tiene el estilo característico del personaje de cada cómic
-- ¡Saca tu lado más fan! El conjunto viene en un embalaje decorativo con imágenes inspiradas en las portadas de los cómics
 - Para adultos, fans de DC y coleccionistas de artículos de Superman
-- Rinde homenaje a tu superhéroe favorito de DC con este conjunto de edición especial de Little People Collector, que representa momentos icónicos de Superman en los cómics
 - Incluye al Superman de la Edad de Oro, al Superman con el traje negro de regeneración, al Superman de “La llegada del Reino” y al Superman azul
+- Cada figura mide más de 6,35cm de alto y tiene el estilo característico del personaje de cada cómic
+- Rinde homenaje a tu superhéroe favorito de DC con este conjunto de edición especial de Little People Collector, que representa momentos icónicos de Superman en los cómics
+- ¡Saca tu lado más fan! El conjunto viene en un embalaje decorativo con imágenes inspiradas en las portadas de los cómics
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DLCKN4Q6{{</world>}}

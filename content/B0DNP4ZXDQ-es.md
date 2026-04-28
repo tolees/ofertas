@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño ligero y transpirable
-- Adecuado para todo el año
 - Pantalones de la marca VERO MODA
+- Adecuado para todo el año
+- Diseño ligero y transpirable
 - Fabricado con materiales sostenibles
 
 [🛒 Comprar!!!]({{< param buyurl >}})

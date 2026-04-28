@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Dimensiones 8 x 21 x 55 cm
-- Estuche portatodo con perfil cuadrado
 - Compartimento adecuado con cierre de cremallera
+- Estuche portatodo con perfil cuadrado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BW4GXD8W{{</world>}}

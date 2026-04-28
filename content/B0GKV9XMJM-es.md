@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Silenciosa y manejable: A diferencia de las voluminosas motosierras de gasolina, nuestra versión inalámbrica funciona con batería, reduciendo drásticamente el ruido. Con un peso de solo 500 gramos, su diseño ligero permite un manejo con una sola mano, ideal para mujeres y personas mayores. Incluye baterías de alto rendimiento y cargador práctico para máxima comodidad
 - Seguridad reforzada:Nuestra motosierra inalámbrica cuenta con un doble bloqueo de seguridad. Solo se activa al presionar dos botones simultáneamente, evitando arranques accidentales. Además, su protector de hoja integral protege tanto de cortes como de astillas despedidas durante el uso, garantizando una operación segura
 - Gran autonomía: Incluye 2 baterías de 21V 1300mAh. Cada una ofrece 30-45 minutos de corte continuo, duplicando tu tiempo de trabajo. Cuentan con protección integrada contra sobrecalentamiento para mayor seguridad y durabilidad
 - Poderosa y rápida: Esta mini motosierra de 6" cuenta con un potente motor de cobre de 800W y una cadena de acero al manganeso que alcanza 10,5 m/s. Corta troncos de 15 cm en unos 10 segundos, ofreciendo máxima eficacia. Además, maneja con precisión piezas de madera gruesas que otras sierras no pueden
+- Silenciosa y manejable: A diferencia de las voluminosas motosierras de gasolina, nuestra versión inalámbrica funciona con batería, reduciendo drásticamente el ruido. Con un peso de solo 500 gramos, su diseño ligero permite un manejo con una sola mano, ideal para mujeres y personas mayores. Incluye baterías de alto rendimiento y cargador práctico para máxima comodidad
 - Todo incluido: El paquete contiene 1 maletín, 1 motosierra, 3 cadenas (1 montada), 2 herramientas de instalación, 1 cargador, 1 lubricante, 1 par de guantes, 1 par de gafas, 1 protector de hoja, 1 manual y 1 destornillador. Equipo completo y listo para usar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

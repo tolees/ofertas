@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El aceite capilar suaviza el cabello con aceites naturales de sándalo, cedro y aceite de argán, deja un aroma inolvidable y se absorbe en segundos.
-- El aceite oscuro le da un estilo sin peso para suavidad y plenitud. El aceite para el cabello repone el cabello desde el interior, les da más sustancia y no deja residuos.
-- Aplicar aceite para el cabello húmedo o seco en las longitudes y puntas y peinar como de costumbre.
-- Aceite capilar para un cabello brillante sin dejar residuos
 - Aceite capilar de 95 ml para un peinado sin peso
+- Aceite capilar para un cabello brillante sin dejar residuos
+- Aplicar aceite para el cabello húmedo o seco en las longitudes y puntas y peinar como de costumbre.
+- El aceite oscuro le da un estilo sin peso para suavidad y plenitud. El aceite para el cabello repone el cabello desde el interior, les da más sustancia y no deja residuos.
+- El aceite capilar suaviza el cabello con aceites naturales de sándalo, cedro y aceite de argán, deja un aroma inolvidable y se absorbe en segundos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09DDZ346D{{</world>}}

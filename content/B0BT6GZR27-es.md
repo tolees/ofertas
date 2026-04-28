@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Antes de usar, asegúrate de agitarlo bien. Aplicar una cantidad generosa justo antes de exponerse al sol.
 - Líquido diseñado para pieles grasas o con tendencia acneica, con ácido salicílico y niacinamida para prevenir marcas UV, reducir imperfecciones hidratar y controlar el brillo. Es resistente al sudor y ofrece protección UV.
+- Antes de usar, asegúrate de agitarlo bien. Aplicar una cantidad generosa justo antes de exponerse al sol.
 - Protege contra rayos UV, reduce imperfecciones y brillo de la piel, para un aspecto más natural.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

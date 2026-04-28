@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - UN MANO ZIP COMPARTMENT
-- 1,5 l
 - Bolsa de carcasa fabricada con 100% GRS certificado de poliéster. GRS certified by Control Union license #1147632
+- 1,5 l
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C74KWQ87{{</world>}}

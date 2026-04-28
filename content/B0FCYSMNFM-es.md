@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Almizcle sensual
 - Enriquecido con un acorde de segunda piel de almizcle, cachemira y notas de ámbar gris.
-- Nenúfares
 - Hidratante ; Mejora el ánimo. ; Sin género. ; Ligera ; Fácil de aplicar, no pegajoso ni graso. ;
 - Acorde de néctar de melocotón jugoso
+- Nenúfares
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FCYSMNFM{{</world>}}

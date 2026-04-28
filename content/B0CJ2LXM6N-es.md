@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido: 1 l
-- Producto de calidad óptima
 - Champú adecuado para cabellos rizados
+- Producto de calidad óptima
+- Contenido: 1 l
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CJ2LXM6N{{</world>}}

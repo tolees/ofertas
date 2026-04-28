@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - con etiqueta
 - colador malla poliéster ø7 cms
-- material: plástico
 - color: blanco
+- material: plástico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B000LI34CW{{</world>}}

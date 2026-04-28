@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contiene: · 160 páginas de papel de 100gsm con certificación FSC · 4 hojas de pegatinas · Calendarios de 2026 y 2027 · Planificador mensual al inicio de cada mes · Playlist exclusiva, con una canción para cada día del año · Frases mensuales superdivertidas en inglés · Una libretita extra, con tapa blanda y encuadernación grapada, con 160 páginas de 90gsm, con certificación FSC.
-- Incorpora en su portada una goma elástica para poder acoplar en ella el teléfono móvil y otra para poder acoplar un bolígrafo, lo que la hace ideal para asistir a reuniones.
 - Una agenda de organización semanal sencilla y básica.
-- El interior lo encontraremos en todos los idiomas (inglés, español, francés, italiano y portugués).
 - Agenda anual estilo Basic, con organización semanal. De enero a diciembre de 2026.
+- Incorpora en su portada una goma elástica para poder acoplar en ella el teléfono móvil y otra para poder acoplar un bolígrafo, lo que la hace ideal para asistir a reuniones.
+- Contiene: · 160 páginas de papel de 100gsm con certificación FSC · 4 hojas de pegatinas · Calendarios de 2026 y 2027 · Planificador mensual al inicio de cada mes · Playlist exclusiva, con una canción para cada día del año · Frases mensuales superdivertidas en inglés · Una libretita extra, con tapa blanda y encuadernación grapada, con 160 páginas de 90gsm, con certificación FSC.
+- El interior lo encontraremos en todos los idiomas (inglés, español, francés, italiano y portugués).
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FQPQ6LS4{{</world>}}

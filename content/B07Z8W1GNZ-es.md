@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Resistente al agua hasta 3 ATM / 30 metros / 98 pies, resistencia general a la lluvia, salpicaduras, inmersión accidental y ducha, no apto para nadar o bañarse
 - Ultra Slim Watch Collection, el reloj más delgado de BERING hasta el momento: la caja mide 4,8 mm de altura, uno de los relojes más finos del mercado, Quartz
+- Resistente al agua hasta 3 ATM / 30 metros / 98 pies, resistencia general a la lluvia, salpicaduras, inmersión accidental y ducha, no apto para nadar o bañarse
+- El cristal de zafiro es resistente a golpes y rayaduras
+- El reloj incluye la caja original de BERING
 - Caja: acero inoxidable de grado médico 316l / plata / 31 mm de diámetro / 5 mm de espesor
 - Correa: acero inoxidable de grado médico 316l / plato / 180 mm de largo / 14 mm de ancho
-- El reloj incluye la caja original de BERING
-- El cristal de zafiro es resistente a golpes y rayaduras
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07Z8W1GNZ{{</world>}}

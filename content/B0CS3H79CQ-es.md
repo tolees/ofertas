@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- IDIOMAS*: Español, Inglés, Francés, Alemán, Portugués, Ruso, Turco, Japonés, Chino, Coreano
 - Habla con el resto de habitantes del pueblo y descubre sus historias.
-- ¡Regresa a los 90! ¡Viaja a la Indonesia de esa década mágica!
+- IDIOMAS*: Español, Inglés, Francés, Alemán, Portugués, Ruso, Turco, Japonés, Chino, Coreano
 - Disfruta de los temas compuestos por Masdito «Ittou» Bachtiar.
+- ¡Regresa a los 90! ¡Viaja a la Indonesia de esa década mágica!
 - La Special Edition incluye: Caja Premium Coleccionista, Juego Completo (PS4, PS5 o Switch), Libro “A Space for the Unbound Tales”, Llavero “Almirante”, Tarjeta Descarga con la BSO, Libro de Arte (250 páginas) repleto de piezas exclusivas del director y artista Dimas Novan, Disco con la BSO, Broche Flor Dorada y Art Print Exclusiva.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

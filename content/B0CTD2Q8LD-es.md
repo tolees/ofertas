@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- FÍJALO: Una vez que hayas terminado de crear tu mini, coloca la réplica bajo el sol o una luz ultravioleta de 365nm hasta que la resina se haya endurecido. Una vez que se haya endurecido, tendrás un coleccionable de Halloween listo para exhibir
 - MAKE IT MINI MEGA BUFFET: Miniverse de MGA se convierte en Megaverse con nuestro nuevo Make it Mini Mega Buffet. El Miniverse de MGA es el mini coleccionable original que puedes crear, fijar, exhibir y usar
 - EXHÍBELO: Diviértete exhibiendo tus minis
 - HAZLO: Con 8 recetas y más de 60 piezas en el pack, podrás preparar todo tipo de platos diferentes y únicos. Es tu momento de cocinar en la mini cocina. Sigue las instrucciones para preparar tus minis Make It Mini Mega Buffet
 - RECOMBINA: ¡Tú eres el chef! Mezcla y combina los artículos de Make It Mini Mega Buffet para crear tus propias creaciones
-- FÍJALO: Una vez que hayas terminado de crear tu mini, coloca la réplica bajo el sol o una luz ultravioleta de 365nm hasta que la resina se haya endurecido. Una vez que se haya endurecido, tendrás un coleccionable de Halloween listo para exhibir
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CTD2Q8LD{{</world>}}

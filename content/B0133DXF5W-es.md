@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hecha de material de 96% poliéster y 4% elastano
 - Visera doblada
+- Hecha de material de 96% poliéster y 4% elastano
 - Logotipo de metal de Oakley aplicado en la parte delantera
 - Con correa ajustable y tejido elástico en una parte posterior cerrada proporciona un ajuste seguro
 

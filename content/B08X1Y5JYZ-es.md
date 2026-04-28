@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tacón: Plano
 - Material exterior: Sintético
 - Tipo de cierre: Velcro
-- Tacón: Plano
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08X1Y5JYZ{{</world>}}

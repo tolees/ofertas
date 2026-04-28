@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La siguiente información se aplica a cada unidad del paquete
 - Crianza, D.O.Ca. Rioja
 - Nota de cata (vista): Color granate-cereza de intensidad media y destellos violáceos
-- Maridaje: Combina con los quesos cremosos y los semicurados. Los embutidos, setas, platos de legumbres o una tortilla de patatas, además del clásico maridaje: platos de carne con un crianza de Rioja
-- Nota de cata (boca): Se trata de un vino con entrada en boca amable, con tanino ligero, muy pulido. Balanceado y con recuerdos frutales y una persistencia intermedia
 - Varietales: Tempranillo y Garnacha
+- Maridaje: Combina con los quesos cremosos y los semicurados. Los embutidos, setas, platos de legumbres o una tortilla de patatas, además del clásico maridaje: platos de carne con un crianza de Rioja
+- La siguiente información se aplica a cada unidad del paquete
+- Nota de cata (boca): Se trata de un vino con entrada en boca amable, con tanino ligero, muy pulido. Balanceado y con recuerdos frutales y una persistencia intermedia
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F5BTK8KG{{</world>}}

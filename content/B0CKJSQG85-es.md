@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Puma formstrip en el lateral
-- Puma Logotipo de archivo n.º 1 en la lengüeta
 - Puma Logotipo n.º 2 en el lateral
+- Puma Logotipo de archivo n.º 1 en la lengüeta
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKJSQG85{{</world>}}

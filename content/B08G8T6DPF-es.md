@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Discos sin azúcar, sin gluten y sin lactosa, apto para veganos
 - Estos mini discos decorativos están listos para usar, fáciles de colocar - colócalos directamente sobre la superficie deseada
-- Mini discos comestibles con diseños de la patrulla canina perfectos para decorar cupcakes, muffins o galletas, 5,8 centímetros de diámetro
+- Discos sin azúcar, sin gluten y sin lactosa, apto para veganos
 - Original surtido de la patrulla canina con personajes como chase, skye o marshall
+- Mini discos comestibles con diseños de la patrulla canina perfectos para decorar cupcakes, muffins o galletas, 5,8 centímetros de diámetro
 - Personaliza tus cupcakes o galletas de forma fácil, rápida y divertida
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

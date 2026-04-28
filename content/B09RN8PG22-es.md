@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Figura coleccionable con caja expositora ideal para coleccionistas o jugadores
-- Adecuado a partir de 8 años
 - Licencia 100% oficial Disney
-- Jack Skellington va vestido con su ropa clasica
 - Un personaje de las pelicula pelicula de Tim burton de la factoria Disney fabricado en metal fundido a presión
+- Figura coleccionable con caja expositora ideal para coleccionistas o jugadores
 - El famoso personaje de Pesadilla antes de Navidad, Jack Skellington, en figura de metal de 10cm de altura
+- Jack Skellington va vestido con su ropa clasica
+- Adecuado a partir de 8 años
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09RN8PG22{{</world>}}

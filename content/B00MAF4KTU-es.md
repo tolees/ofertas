@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Líquido especial de base acuosa de muy alta calidad para máquinas de neblina
-- Excelente comportamiento en la reflexión
-- Fabricado en Alemania
-- Biodegradable
 - Cantidad 10 l
-- Listo para usar
+- Excelente comportamiento en la reflexión
+- Líquido especial de base acuosa de muy alta calidad para máquinas de neblina
+- Biodegradable
 - Ideal para utilizar en televisión, teatro, escenario y discoteca
 - No perjudicial para la salud
+- Listo para usar
+- Fabricado en Alemania
 - 100% sin aceite
 - Inodoro
 

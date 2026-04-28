@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Maxia Pura libre de alcohol, diferente, que mantiene toda la esencia de Nordés Gin
+- El mítico viento atlántico que en Galicia anuncia el buen tiempo, nos trae todo el frescor y sabor de NORDÉS para los que prefieren disfrutar sin alcohol
 - Una bebida aromática inspirada en botánicos gallegos, elaborada cuidadosamente para mantener su carácter herbal y el toque vínico original
 - NORDÉS 0,0 es una bebida refrescante sin azúcar que, a partir de agua osmotizada tratada a partir de una serie de procesos (emulsión, filtrado y decantación) con ácido tartárico y aceites esenciales de los principales botánicos, permite tener un líquido con los matices, intensidad de sabor y aroma de NORDÉS GIN pero sin alcohol
-- El mítico viento atlántico que en Galicia anuncia el buen tiempo, nos trae todo el frescor y sabor de NORDÉS para los que prefieren disfrutar sin alcohol
-- Maxia Pura libre de alcohol, diferente, que mantiene toda la esencia de Nordés Gin
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BYHWVD3B{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- materialFabricComposition: Upper: 100% Polyester; Sole: 100% Rubber; Inner: 100% Polyester; Insole: 100% Polyester
 - Detail
+- materialFabricComposition: Upper: 100% Polyester; Sole: 100% Rubber; Inner: 100% Polyester; Insole: 100% Polyester
 - Mesh
 - Trainers
 

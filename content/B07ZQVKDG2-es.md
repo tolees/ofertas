@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- cosMik 10 - Micrófono de condensador de estudio
-- Interfaz de audio U22 XT USB 2.0 con 2 entradas y 2 salidas
 - eXtra 10 auriculares dimámicos para monitoreo de calidad de estudio
+- Interfaz de audio U22 XT USB 2.0 con 2 entradas y 2 salidas
+- cosMik 10 - Micrófono de condensador de estudio
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07ZQVKDG2{{</world>}}

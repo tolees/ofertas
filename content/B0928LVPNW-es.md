@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Provista de dos puertos USB-A de 12 W y un puerto USB-C de 15 W para cargar los dispositivos conectados y llenar la batería móvil cuando se vacíe. Cable USB-A a USB-C incluido para poder cargar inmediatamente.
-- Obtén 40 horas más de autonomía para tu smartphone con esta batería externa. Date maratones de películas, haz videollamadas y mantén tus aplicaciones de navegación abiertas hasta llegar a tu destino.
-- Esta batería externa portátil incluye una luz LED que informa si es necesario recargarla.
 - Belkin es un fabricante reconocido como líder en el mercado de accesorios, con una trayectoria de más de 40 años creando soluciones de tecnología innovadoras y de alta calidad.
+- Esta batería externa portátil incluye una luz LED que informa si es necesario recargarla.
+- Obtén 40 horas más de autonomía para tu smartphone con esta batería externa. Date maratones de películas, haz videollamadas y mantén tus aplicaciones de navegación abiertas hasta llegar a tu destino.
+- Provista de dos puertos USB-A de 12 W y un puerto USB-C de 15 W para cargar los dispositivos conectados y llenar la batería móvil cuando se vacíe. Cable USB-A a USB-C incluido para poder cargar inmediatamente.
 - Carga hasta 3 dispositivos al mismo tiempo con dos puertos USB-A de 12 W y uno USB-C de 15 W. Cuando se usan todos los puertos simultáneamente la potencia total compartida entre ellos es de 15 W.
 - Este power bank ha sido fabricado en un 72 % como mínimo con materiales reciclados y su empaquetado no contiene plásticos.
 

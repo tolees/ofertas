@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Colecciona todos: Las muñecas y unicornios Unicorn Academy Power of Friendship (se venden por separado) ofrecen la promesa de horas de juegos imaginativos. Divertidos regalos unicornios, regalos de cumpleaños y regalos para cualquier ocasión
-- Muñeca oficial de Sophia de 24 cm: Inspirada en la popular serie NETFLIX y los libros más vendidos para niños, Sophia cobra vida con detalles realistas, cabello arcoíris y 9 puntos de articulación para innumerables poses
 - Narración fantástica: Con las muñecas Sophia, Ava, Isabel, Layla y Valentina, y los accesorios (juguetes para niñas que se venden por separado), las niñas pueden recrear juegos inspirados en la serie
 - Accesorios de muñeca auténticos: Sophia viene con un accesorio de guitarra para divertirse aún más. Su ropa incluye pantalones de equitación revisados con marcas de poder, una chaqueta dorada metalizada, botas con cordones y más. Cepille su cabello para hacerlos sedosos
+- Colecciona todos: Las muñecas y unicornios Unicorn Academy Power of Friendship (se venden por separado) ofrecen la promesa de horas de juegos imaginativos. Divertidos regalos unicornios, regalos de cumpleaños y regalos para cualquier ocasión
+- Muñeca oficial de Sophia de 24 cm: Inspirada en la popular serie NETFLIX y los libros más vendidos para niños, Sophia cobra vida con detalles realistas, cabello arcoíris y 9 puntos de articulación para innumerables poses
 - Revive aventuras en casa: Amplía tu universo Unicorn Academy con muñecas, unicornios, muñecas, peluches y mucho más. Divertidos juguetes unicornios para niñas a partir de 4-6 años
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

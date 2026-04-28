@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aumento de alta definición de 200 veces: con su revestimiento microscópico óptico multicapa de alta definición, esta lente de microscopio proporciona efectos microscópicos exquisitos y de alta definición que son comparables a los microscopios comerciales profesionales.
 - Diseñado específicamente para teléfonos móviles: la lente de microscopio de teléfono 200X está diseñada específicamente para teléfonos móviles, por lo que es ligera, portátil y adecuada para todos los modelos principales del mercado. Puede ser ampliamente utilizado en teléfonos inteligentes con varios sistemas.
+- Aumento de alta definición de 200 veces: con su revestimiento microscópico óptico multicapa de alta definición, esta lente de microscopio proporciona efectos microscópicos exquisitos y de alta definición que son comparables a los microscopios comerciales profesionales.
 - No requiere aplicación, simplemente engancha y mira: simplemente enciende la cámara de tu teléfono, apunta a la lente principal del teléfono, y la lente del microscopio se enfocará automáticamente, lo que te permite observar, tomar fotos y grabar videos. Convierte tu teléfono en un microscopio en miniatura.
 - Compatible con ampliación de cámara 2X/5X/10X para teléfonos móviles: ajusta fácilmente el tamaño de la pantalla para adaptarse a tus preferencias. El aumento puede variar dependiendo de la configuración del modelo de teléfono móvil.
 - Tamaño de la punta del dedo, ligero y portátil: con un peso de solo 17,5 g y una delgadez de 11,5 mm, esta lente de microscopio es fácil de llevar mientras viajas, lo que te permite explorar el maravilloso mundo de la microscopía dondequiera que vayas.

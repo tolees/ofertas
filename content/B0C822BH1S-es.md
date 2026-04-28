@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Soporte para gafas y bastones
-- Correa para el pecho de ajuste continuo
 - Máxima ventilación gracias al sistema de malla Aircomfort en la espalda, que garantiza una comodidad de uso óptima
+- Soporte para gafas y bastones
 - El compartimento separado para la vejiga de hidratación es compatible con sistemas de hidratación de hasta 2 litros
+- Correa para el pecho de ajuste continuo
 - Funda impermeable desmontable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

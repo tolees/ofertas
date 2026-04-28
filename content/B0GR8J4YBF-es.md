@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 【MODELOS APLICABLES】Para Lambretta V-Special 125.
 - 【BANDAS REFLECTANTES】Las bandas reflectantes ayudan a que su coche llame la atención en la oscuridad, días nublados, etc., y previenen colisiones con otros vehículos por falta de luz, protegiendo así su vehículo.
 - 【PROTECCIÓN COMPLETA】Una vez cerrada, la funda es a prueba de viento, evitando que el viento la arrastre. El diseño del orificio de la cerradura protege la funda contra robos.
 - 【DOBLE RESISTENCIA AL VIENTO】Experimente una resistencia al viento mejorada con la cubierta de motocicleta, ajuste seguro que soporta fuertes ráfagas. Asegura una instalación sin esfuerzo y un ajuste perfecto, manteniendo la cubierta impermeable en su lugar de forma segura durante condiciones de viento, brindando tranquilidad con una cobertura completa para su motocicleta.
+- 【MODELOS APLICABLES】Para Lambretta V-Special 125.
 - 【MATERIAL】La funda para moto de exterior está fabricada con tela Oxford, resistente, duradera y transpirable. Con buena protección contra el sol, los rayos UV, el agua, la lluvia, la nieve, el polvo y los arañazos, es ideal para exteriores y también para interiores.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

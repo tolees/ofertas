@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte clásico
-- Puños y dobladillo de canalé
-- Bolsillos frontales
-- 55% algodón / 36% poliéster (reciclado) / 9% viscosa
 - Contiene al menos un 70% de material reciclado y renovable
+- Puños y dobladillo de canalé
+- Corte clásico
+- 55% algodón / 36% poliéster (reciclado) / 9% viscosa
+- Bolsillos frontales
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CZP6TY7F{{</world>}}

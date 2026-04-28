@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La gama de Skin Tones incluye: lápices de colores, rotuladores, témperas escolares y una paleta en constante evolución
-- Ideal para eliminar el tópico del "color carne" y empezar a hablar de los "colores de la piel"
-- Herramienta genial para trabajar en el aula los valores de la igualdad, la diversidad y el respeto
 - Rotuladores de colores que simulan los tonos de la piel
 - Rotuladores completos y seguros gracias a su tapón de seguridad. Tienen capuchón ventilado y punta resistente bloqueada de 5mm (no se hunde). Tintas seguras base agua, fácilmente lavables de la piel y los tejidos.
+- La gama de Skin Tones incluye: lápices de colores, rotuladores, témperas escolares y una paleta en constante evolución
+- Herramienta genial para trabajar en el aula los valores de la igualdad, la diversidad y el respeto
+- Ideal para eliminar el tópico del "color carne" y empezar a hablar de los "colores de la piel"
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B082QYMRTW{{</world>}}

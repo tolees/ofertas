@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estampado de paisaje marino
 - Desigual
 - Cuello: Redondo
+- Estampado de paisaje marino
 - Sin mangas
 - Fit: Regular
 - Estampado en la parte frontal

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camisa || Puños de las mangas || Cuello Redondo Cuello Camiseta || Interior afelpado
-- Ajuste : Regular
-- Descubre todas las marcas de EMP!
 - Básicos, Ropa casual, Ropa de Calle
+- Ajuste : Regular
+- Camisa || Puños de las mangas || Cuello Redondo Cuello Camiseta || Interior afelpado
+- Descubre todas las marcas de EMP!
 - Camisa de Franela con las siguientes características:
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

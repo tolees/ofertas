@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de producto: COOKTOP
 - Marca: KLARSTEIN
+- Tipo de producto: COOKTOP
 - Klarstein Encimera Cocina de Gas 4 Quemadores, Placa de Gas 6.4kW para Cocina, Cocinas de Gas con Quemador Wok de Acero Inoxidable, Encimera Gas 4 Fuegos con Quemadores de Gas para Casa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

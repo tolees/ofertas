@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Refuerzos bajo las sisas
 - Corte clásico
 - 100% poliéster (reciclado)
 - Diseño de secado rápido
 - CLIMACOOL
-- Refuerzos bajo las sisas
-- Tejido transpirable
 - Costuras de los hombros desplazadas hacia atrás
+- Tejido transpirable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CZ9H2RGZ{{</world>}}

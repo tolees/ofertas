@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Parte superior de piel
 - Cierre con cordón
 - Entresuela de EVA
-- Parte superior de piel
 - Suela de goma muy resistente a la abrasión Forro textil
 
 [🛒 Aquí!!!]({{< param buyurl >}})

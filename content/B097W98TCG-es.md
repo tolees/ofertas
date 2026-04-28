@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Resultados: En 6 semanas piel +10% más redensificada, +20% más luminosa, +40% más hidratada* para una piel visiblemente revitalizada
 - Hidratación y luminosidad inmediatas: Sérum con color rellenador, Hidratación intensa gracias a un 1% de ácido hialurónico puro, Alisa la piel, Unifica el tono, Luminosidad instantánea, Aspecto fresco y homogéneo
-- Contenido: 1x L’Oréal Paris Accord Parfait, Sérum Con Color Rellenador, Con Ácido Hialurónico Puro 1% y 7% de Glicerina, Acabado Natural, Piel Más Lisa y Luminosa, Accord Parfait Serum, Medium (4-5)
 - Textura: Ultra ligera y cómoda, Se funde con la piel sin efecto máscara, Transpirable y sedosa, Unifica el tono, Hidratación de la mañana a la noche
+- Contenido: 1x L’Oréal Paris Accord Parfait, Sérum Con Color Rellenador, Con Ácido Hialurónico Puro 1% y 7% de Glicerina, Acabado Natural, Piel Más Lisa y Luminosa, Accord Parfait Serum, Medium (4-5)
 - Aplicación: Extrae algunas gotas con la pipeta y aplícalas en el rostro desde el centro hacia el exterior, Difuminar con el dedo, un pincel o una esponja, Utilizar solo o como base de maquillaje
 
 [🛒 Aquí!!!]({{< param buyurl >}})

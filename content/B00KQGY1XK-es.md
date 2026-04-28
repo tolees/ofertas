@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Altura: 6cm, Ancho: 22cm, Fondo: 11cm
-- Resistente cierre que mantiene tus objetos seguros
-- Fabricado 100% en nylon para un acabado impecable
 - Compartimento principal amplio con porta bolígrafos
+- Resistente cierre que mantiene tus objetos seguros
+- Altura: 6cm, Ancho: 22cm, Fondo: 11cm
+- Fabricado 100% en nylon para un acabado impecable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00KQGY1XK{{</world>}}

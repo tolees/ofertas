@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 100% Marca Nueva
 - Material: 100% alta temperatura Fibras
+- 100% Marca Nueva
 - largo: Aprox 60 cm
 - Peluca gorra Tamaño del: La máximo circunferencia Aprox 20~21pulgada/51~53cm(Existen 1~2cm normal error), La Tamaño del de Peluca gorra es Ajustable
 - embalaje especificación: 1 Peluca

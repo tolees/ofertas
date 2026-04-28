@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Este producto es óptimo
-- Modeloo de ajuste relajado que aporta un aire informal
 - Un jersey clásico
+- Modeloo de ajuste relajado que aporta un aire informal
 - Ofrece comodidad todo el día
 
 [🛒 Visítala!!!]({{< param buyurl >}})

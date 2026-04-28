@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- FORMA DE USO: Rellena el recipiente con agua, introduce el filtro y añade los ingredientes. Tritura con la batidora durante 1 minuto, remueve la pulpa y presiona con el mortero. ¡Tu leche está lista para tomar!
-- LIMPIEZA: Es muy fácil de limpiar. Con un pequeño lavado bajo el grifo estará listo para su próximo uso, aunque también puedes meterlo en el lavavajillas para una limpieza más profunda.
 - SOSTENIBLE: Con el MILKER evitarás los envases innecesarios y reducirás los residuos plásticos. En Jata estamos muy comprometidos con la sostenibilidad y parte de nuestro plan es crear productos que hagan tu vida más sencilla.
 - El set está formado por un recipiente transparente en el que encaja perfectamente el filtro (elaborado con una malla de acero de 300 micras y de construcción cónica para que el agua entre y salga y se genere un flujo constante que crea una perfecta emulsión del extracto de los ingredientes), un mortero de plástico y una cuchara dosificadora. También lleva unas fichas con 5 recetas.
+- LIMPIEZA: Es muy fácil de limpiar. Con un pequeño lavado bajo el grifo estará listo para su próximo uso, aunque también puedes meterlo en el lavavajillas para una limpieza más profunda.
 - El MILKER de JATA te permitirá preparar en solo 2 minutos todas las bebidas vegetales con cualquier tipo de semilla, fruto seco o cereal. Podrás hacer tus leches vegetales de: soja, almendras, avena, arroz y todo lo que se te ocurra, incluso de chufa. Y la harás de manera natural y sin añadidos. Siempre a tu gusto.
+- FORMA DE USO: Rellena el recipiente con agua, introduce el filtro y añade los ingredientes. Tritura con la batidora durante 1 minuto, remueve la pulpa y presiona con el mortero. ¡Tu leche está lista para tomar!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CK4S9BNT{{</world>}}

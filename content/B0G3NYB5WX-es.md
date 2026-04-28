@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Tamaño compacto: mide solo 137 mm x 103 mm x 43 mm, su construcción liviana permite un almacenamiento sin esfuerzo en su bolso o incluso en un bolsillo, para que pueda llevarlo consigo mientras viaja. Su pequeño tamaño lo convierte en el compañero perfecto para el uso diario.
 - Batería de 10 h: Disfruta de 10 horas de música o llamadas sin interrupciones. Compatible con carga magnética para mayor comodidad. Los auriculares de conducción ósea cuentan con tecnología inalámbrica Bluetooth 6.0 y se conectan rápidamente a dispositivos en 10 segundos.
-- Alta calidad de sonido: los auriculares utilizan vibraciones que viajan a través de su pómulo directamente a su oído interno, proporcionando una experiencia de sonido envolvente. Disfrutará de una calidad de sonido superior y un audio de alta calidad, lo que lo hace perfecto para actividades deportivas al aire libre y entrenamientos.
-- Auriculares de oído abierto: los auriculares de conducción ósea Sunvito tienen un diseño de oído abierto y son livianos, puedes disfrutar de horas de deporte sin ninguna molestia, lo que los hace ideales para entrenamientos largos.
 - Resistente al agua y al sudor: los auriculares para correr tienen función de resistencia al agua IPX6, que puede resistir eficazmente el sudor y la lluvia durante el ejercicio, lo que garantiza que pueda usarlos con confianza en cualquier entorno, como correr, caminar o conducir.
+- Auriculares de oído abierto: los auriculares de conducción ósea Sunvito tienen un diseño de oído abierto y son livianos, puedes disfrutar de horas de deporte sin ninguna molestia, lo que los hace ideales para entrenamientos largos.
+- Alta calidad de sonido: los auriculares utilizan vibraciones que viajan a través de su pómulo directamente a su oído interno, proporcionando una experiencia de sonido envolvente. Disfrutará de una calidad de sonido superior y un audio de alta calidad, lo que lo hace perfecto para actividades deportivas al aire libre y entrenamientos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G3NYB5WX{{</world>}}

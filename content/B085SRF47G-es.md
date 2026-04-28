@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Blazer de un solo pecho con solapa que cae
-- Se cierra con dos botones
 - Bolsillos con solapa y un solo bolsillo en el pecho
+- Se cierra con dos botones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B085SRF47G{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cajón con guías metálicas de suave deslizamiento. Interior cajón en acabado blanco.
+- Tacos ABS quitarruidos y antirrayaduras en las piezas con contacto directo con el suelo.
 - Instrucciones de montaje detalladas paso a paso para un montaje fácil. Permite un montaje reversible de la pata/estantería a derecha o izquierda.
 - Estructura muy sólida y consistente que da garantía de un mueble duradero y resistente.
-- Tacos ABS quitarruidos y antirrayaduras en las piezas con contacto directo con el suelo.
-- Cajón con guías metálicas de suave deslizamiento. Interior cajón en acabado blanco.
 - Mesa con soporte de hasta 50kg. Estante con soporte de hasta 8kg.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

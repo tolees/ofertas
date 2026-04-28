@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material: sintético
-- Color: negro puma
 - teamGOAL Mochila Core
+- Color: negro puma
+- Material: sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C3W86HJC{{</world>}}

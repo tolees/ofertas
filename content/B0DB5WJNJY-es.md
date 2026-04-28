@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte holgado
-- Dobladillo con cordón ajustable
-- Cremallera hasta el pecho y capucha con cordón ajustable
 - Puños elásticos
-- Bolsillos laterales
+- Cremallera hasta el pecho y capucha con cordón ajustable
 - Bolsillo frontal con solapa
 - 100% poliéster (reciclado)
+- Dobladillo con cordón ajustable
 - Logotipo del equipo de Fórmula 1 Mercedes - AMG Petronas
+- Bolsillos laterales
+- Corte holgado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DB5WJNJY{{</world>}}

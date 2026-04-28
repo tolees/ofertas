@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tommy hilfiger Logotipo en el lateral y la lengüeta
-- Tommy hilfiger Bandera bordada en el talón
 - Tommy hilfiger Logotipo grabado en la entresuela
+- Tommy hilfiger Bandera bordada en el talón
+- Tommy hilfiger Logotipo en el lateral y la lengüeta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4RTPRXV{{</world>}}

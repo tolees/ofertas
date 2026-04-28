@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene detalles distintivos de la marca "Puma"
 - Para uso diario
+- Tiene detalles distintivos de la marca "Puma"
 - Prenda deportiva de vestir
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

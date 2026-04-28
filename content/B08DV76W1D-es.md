@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Spade Pocket
 - Delgado y resistente
 - Denim Stretch
+- Spade Pocket
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08DV76W1D{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🚫🌿 SIN ACEITE DE PALMA: Elaborada sin aceite de palma, manteniendo su delicioso sabor con ingredientes de calidad.
-- 🥛🥖 NOCILLA STICKS BLANCA: Palitos de pan rellenos de crema de leche y avellanas, una combinación crujiente y cremosa perfecta para snacks o compartir en familia.
 - 🥄✨ PACK DE 48 RACIONES (30g cada una): Ideal para meriendas, tentempiés o llevar contigo. ¡Cada stick es una porción perfecta de delicia!
-- ⚠️🌰🥛 ALÉRGENOS: Contiene leche, avellanas, soja, trigo y cebada. Puede contener trazas de frutos de cáscara, huevo y sésamo.
 - 🛒 AMPLIA VARIEDAD Y CONSERVACIÓN: Desde palitos con crema de leche y avellanas hasta el clásico pack merienda Nocilla. Mantén en un lugar fresco y seco, fuera del frigorífico, para garantizar su frescura y calidad.
+- 🥛🥖 NOCILLA STICKS BLANCA: Palitos de pan rellenos de crema de leche y avellanas, una combinación crujiente y cremosa perfecta para snacks o compartir en familia.
+- 🚫🌿 SIN ACEITE DE PALMA: Elaborada sin aceite de palma, manteniendo su delicioso sabor con ingredientes de calidad.
+- ⚠️🌰🥛 ALÉRGENOS: Contiene leche, avellanas, soja, trigo y cebada. Puede contener trazas de frutos de cáscara, huevo y sésamo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D54M49HZ{{</world>}}

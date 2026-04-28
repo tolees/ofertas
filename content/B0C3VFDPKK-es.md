@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- DIARIO MONSTER HIGH: diario de maquillaje forrado en tela de nailon suave con una ventana transparente en forma de ataúd donde puedes escribir notas y dibujar.
 - Edad recomendada: 5+
 - CONTENIDO: 1 diario, 1 set de maquillaje. El juego está probado y es seguro, cumple con las normas europeas sobre juguetes.
-- DIMENSIONES: 14 x 20 x 2 cm. Producto ORIGINAL de Nice Group.
 - MAQUILLAJE: en el interior puedes encontrar un set de maquillaje con sombras de ojos, brillos de labios, aplicadores para recrear un estilo de chicas Monster High.
-- DIARIO MONSTER HIGH: diario de maquillaje forrado en tela de nailon suave con una ventana transparente en forma de ataúd donde puedes escribir notas y dibujar.
+- DIMENSIONES: 14 x 20 x 2 cm. Producto ORIGINAL de Nice Group.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C3VFDPKK{{</world>}}

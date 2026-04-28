@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CLIMACOOL
-- Corte clásico
 - 100% poliéster (reciclado)
+- Corte clásico
+- CLIMACOOL
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DJFFP88L{{</world>}}

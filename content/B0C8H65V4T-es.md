@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- producto 2: Varias formas y sabores
-- producto 1: Delicioso mix de diferentes piezas recubiertas de pica
-- producto 2: Bolsa de 1 kg
-- producto 2: Surtido de caramelos de goma
 - producto 1: Surtido de caramelos de goma en bolsa de 1 kg
 - producto 1: Todas las gomitas son tamaño mini de unos 3 cm de largo la más grande
+- producto 2: Surtido de caramelos de goma
 - producto 2: Delicioso mix de diferentes piezas
+- producto 2: Bolsa de 1 kg
+- producto 2: Varias formas y sabores
 - producto 1: El surtido contiene, entre otros, botellitas de cola, ositos, huevos, moras, ranas
+- producto 1: Delicioso mix de diferentes piezas recubiertas de pica
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C8H65V4T{{</world>}}

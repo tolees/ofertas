@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material de dibujo de alta calidad: Winsor & Newton utiliza para este papel de dibujo un gramaje de 110 g.
-- Papel extra-blanco que presenta una superficie ligeramente texturizada, con hojas microperforadas para que sean fáciles de arrancar.
-- Muchas posibilidades: ideal para estudios rápidos, bocetos y dibujos preliminares utilizando todas las técnicas secas como el dibujo de lápiz, carbón vegetal, grafito, tizas, lápices de colores, y mucho más.
 - Papel tratado para asegurar la estabilidad a largo plazo, permitiendo trabajar y borrar repetidamente.
+- Material de dibujo de alta calidad: Winsor & Newton utiliza para este papel de dibujo un gramaje de 110 g.
 - Blocs de papel cartridge para esbozo de Winsor & Newton hechos de celulosa y libres de ácidos. Con certificación FSC y proviene de bosques gestionados de manera responsable.
+- Muchas posibilidades: ideal para estudios rápidos, bocetos y dibujos preliminares utilizando todas las técnicas secas como el dibujo de lápiz, carbón vegetal, grafito, tizas, lápices de colores, y mucho más.
+- Papel extra-blanco que presenta una superficie ligeramente texturizada, con hojas microperforadas para que sean fáciles de arrancar.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08MWKTPV5{{</world>}}

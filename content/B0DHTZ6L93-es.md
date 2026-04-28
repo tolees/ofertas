@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Empeine Hybridfeel con elementos Strikescale
 - Suela Controlplate para todo tipo de superficies
-- Forro textil
+- Empeine Hybridfeel con elementos Strikescale
 - Horma clásica
+- Forro textil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DHTZ6L93{{</world>}}

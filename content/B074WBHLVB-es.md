@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- No es resistente al agua
-- Diámetro de la caja: 29 mm
-- Movimiento de cuarzo japonés
-- Lente de cristal mineral; esfera en tono plateado con manecillas e índices en tono dorado; escala de minutos interior impresa en negro
 - Correa marrón estilo equipaje con cierre de hebilla
+- Diámetro de la caja: 29 mm
+- Lente de cristal mineral; esfera en tono plateado con manecillas e índices en tono dorado; escala de minutos interior impresa en negro
+- Movimiento de cuarzo japonés
+- No es resistente al agua
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B074WBHLVB{{</world>}}

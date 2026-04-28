@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fiel a la talla
 - Forro textil
+- Fiel a la talla
 - Empeine de ante
 - Suela de goma vulcanizada
 

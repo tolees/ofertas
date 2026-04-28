@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Fabricado con al menos un 70% de algodón sostenible
-- Estampado de purpurina en la parte delantera del pecho
 - Diseño elegante
+- Estampado de purpurina en la parte delantera del pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D8KC157K{{</world>}}

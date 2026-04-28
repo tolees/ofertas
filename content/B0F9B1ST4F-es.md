@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño clásico de cuello redondo para un uso diario sin tiempo
-- El ajuste regular se combina fácilmente con jeans, joggers o pantalones cortos
-- Elevates casual looks with a audaz, stylish edge
 - Dazzling stacked rhinestone outline graphic adds standout shine
+- Elevates casual looks with a audaz, stylish edge
+- El ajuste regular se combina fácilmente con jeans, joggers o pantalones cortos
+- Diseño clásico de cuello redondo para un uso diario sin tiempo
 - Hecho de 100% algodón para una sensación suave y transpirable
 
 [🛒 Comprar!!!]({{< param buyurl >}})

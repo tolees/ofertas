@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para equilibrio y bienestar – El L-Triptófano es un aminoácido esencial y un componente natural de las proteínas, que participa en importantes procesos metabólicos del organismo.
-- Puro, probado y desarrollado en los Países Bajos – Certificado GMP y analizado en laboratorios de la UE para garantizar pureza y eficacia. Desarrollado por expertos para un uso diario de confianza.
 - Apoyo suave con L-Triptófano 500 mg – contribuye al bienestar general y a un equilibrio diario.
 - Cápsulas > Comprimidos: mejor absorción y comodidad – Nuestra forma en cápsulas garantiza una mejor biodisponibilidad y es más suave para el estómago en comparación con los comprimidos tradicionales de triptófano.
+- Para equilibrio y bienestar – El L-Triptófano es un aminoácido esencial y un componente natural de las proteínas, que participa en importantes procesos metabólicos del organismo.
+- Puro, probado y desarrollado en los Países Bajos – Certificado GMP y analizado en laboratorios de la UE para garantizar pureza y eficacia. Desarrollado por expertos para un uso diario de confianza.
 - Solo 1 cápsula al día, suministro para 6 meses – Fórmula de alta dosis con solo 1 cápsula vegana fácil de tragar al día. 180 cápsulas = 6 meses de apoyo diario suave.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

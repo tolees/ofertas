@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - El kit contiene: - N.1 SNOW-KISSED HOLIDAY UNLIMITED DOUBLE TOUCH LIMITED EDITION Un auténtico ritual labial en 2 pasos: el icónico labial líquido de larga duración hasta 16 horas no-transfer por un lado, y el brillo transparente por otro, para iluminar los labios con color y un brillo de espejo
 - Un auténtico ritual labial en 2 pasos: el icónico labial líquido de larga duración hasta 16 horas no-transfer por un lado, y el brillo transparente por otro, para iluminar los labios con color y un brillo de espejo
-- Perfecto para: regalar o regalarte la combinación perfecta de color intenso, brillo y definición. El combo de labios KIKO por excelencia, imposible de resistir
 - UNLIMITED DOUBLE TOUCH Dermatológicamente testado LÁPIZ DE LABIOS Dermatológicamente testado
+- Perfecto para: regalar o regalarte la combinación perfecta de color intenso, brillo y definición. El combo de labios KIKO por excelencia, imposible de resistir
 - El kit contiene: -N.1 CREAMY COLOUR COMFORT LIP LINER Textura cremosa que se desliza como la seda, precisión de maquillador: este lápiz de labios ultracómodo perfila, define y perfecciona el contorno con un trazo suave y ajustable
 
 [🛒 Comprar!!!]({{< param buyurl >}})

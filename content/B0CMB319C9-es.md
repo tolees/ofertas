@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto deportivo
-- Mejora tu experiencia deportiva
 - Cómodo de usar
+- Mejora tu experiencia deportiva
+- Producto deportivo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CMB319C9{{</world>}}

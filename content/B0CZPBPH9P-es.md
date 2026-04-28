@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cintura elástica con cordón
-- 100% poliéster (reciclado)
+- Corte clásico
+- Puños elásticos
 - N/D
+- Cintura elástica con cordón
 - Forro de malla
 - Tiro medio
-- Puños elásticos
-- Corte clásico
+- 100% poliéster (reciclado)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZPBPH9P{{</world>}}

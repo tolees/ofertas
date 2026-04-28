@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Adecuado para todo el año
+- 60 Denier
 - Calidad transpirable
 - Corte ajustado
+- Adecuado para todo el año
 - Costuras planas y agradables
-- 60 Denier
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D7MHBJVK{{</world>}}

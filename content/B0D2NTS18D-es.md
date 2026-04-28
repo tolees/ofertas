@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tasa de refresco de 180 Hz: responda más rápido con fotogramas más fluidos
-- AI Vision: la tecnología AI Vision no sólo puede mostrar detalles en zonas oscuras, sino también mejorar el brillo general y saturar los colores
 - Rapid IPS: proporciona un tiempo de respuesta rápido de 0,5 ms (GtG, mín.), optimiza los colores y el brillo de la pantalla
+- Tasa de refresco de 180 Hz: responda más rápido con fotogramas más fluidos
 - Tiempo de respuesta de 0,5 ms (GtG, mín.): elimina el tearing de la pantalla y los fotogramas entrecortados
+- AI Vision: la tecnología AI Vision no sólo puede mostrar detalles en zonas oscuras, sino también mejorar el brillo general y saturar los colores
 - Tecnología Adaptive-Sync: juegos fluidos, sin interrupciones ni tirones
 
 [🛒 Aquí!!!]({{< param buyurl >}})

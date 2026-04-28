@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- POTENCIA DE EXTRACCIÓN AJUSTABLE. Ofrece 3 velocidades, incluyendo una opción intensiva, con capacidades de extracción de 170 m3/h a 360 m3/h, manteniendo tu cocina libre de humos y olores de manera potente y silenciosa.
+- DISEÑO TELESCÓPICO Y VERSÁTIL. La campana extractora de 60 cm de Teka se adapta a espacios compactos con su diseño telescópico y frente blanco extraíble y sustituible, ideal para cocinas modernas y clásicas, integrándose perfectamente en techos y encimeras.
 - ILUMINACIÓN LED ÓPTIMA. Equipada con 2 lámparas LED, mejora la visibilidad en la zona de cocción, creando un ambiente acogedor y eficiente, perfecta para cualquier tipo de cocina integrada o empotrable.
 - FUNCIONAMIENTO AUTOMÁTICO Y EFICIENTE. Con mandos mecánicos y funcionamiento automático, su uso es sencillo y práctico, mientras que los filtros metálicos retienen eficazmente las grasas y son fáciles de limpiar.
 - OPCIÓN DE RECIRCULACIÓN SIN SALIDA DE HUMOS. Compatible con recirculación mediante filtro de carbono (CNL 1C), ideal para instalaciones sin salida de humos, su válvula antirretorno previene el retorno de olores, asegurando un ambiente fresco.
-- DISEÑO TELESCÓPICO Y VERSÁTIL. La campana extractora de 60 cm de Teka se adapta a espacios compactos con su diseño telescópico y frente blanco extraíble y sustituible, ideal para cocinas modernas y clásicas, integrándose perfectamente en techos y encimeras.
-- POTENCIA DE EXTRACCIÓN AJUSTABLE. Ofrece 3 velocidades, incluyendo una opción intensiva, con capacidades de extracción de 170 m3/h a 360 m3/h, manteniendo tu cocina libre de humos y olores de manera potente y silenciosa.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CQXW7CMB{{</world>}}

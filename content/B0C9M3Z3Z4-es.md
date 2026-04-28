@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Skechers Detalle del logotipo
-- Peso ligero
 - Parte delantera con cordones anchos
+- Peso ligero
 - Parte superior de cuero sintético duradero
+- Skechers Detalle del logotipo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C9M3Z3Z4{{</world>}}

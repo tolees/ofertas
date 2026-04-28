@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🖱️ 6 botones programables – Incluye botón DPI dedicado y opciones de personalización para macros o accesos rápidos.
 - 🎯 Precisión ajustable hasta 4200 DPI – Cambia fácilmente entre 200/400/800/1600/3200/4200 DPI para adaptarte a cualquier juego o tarea.
+- ⚖️ Sistema de pesos intercambiables – Personaliza el centro de gravedad para mayor control y comodidad en sesiones largas.
 - 🔴 Iluminación LED roja gaming – Diseño agresivo con retroiluminación roja ideal para setups con estética gaming.
 - 🧩 Diseño ambidiestro y ergonómico – Forma simétrica ideal para diestros y zurdos, compatible con agarre tipo palma o garra.
-- ⚖️ Sistema de pesos intercambiables – Personaliza el centro de gravedad para mayor control y comodidad en sesiones largas.
+- 🖱️ 6 botones programables – Incluye botón DPI dedicado y opciones de personalización para macros o accesos rápidos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08FDLQ265{{</world>}}

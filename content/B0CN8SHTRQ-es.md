@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La entresuela del calzado está fabricada con amortiguación FLYTEFOAM. Es una espuma ligera que ofrece una mayor amortiguación.
 - La suela del zapato presenta el diseño del modelo SOLUTION SPEED FF. Está confeccionado con un patrón de guión vertical, diseñado para mejorar la tracción en el campo.
+- La entresuela del calzado está fabricada con amortiguación FLYTEFOAM. Es una espuma ligera que ofrece una mayor amortiguación.
 - El componente de soporte de resina TRUSSTIC en el mediopié te permite afrontar con confianza tiros rápidos en la cancha.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- 93% algodón / 7% elastano
 - Corte ajustado
 - Escote hondo
-- 93% algodón / 7% elastano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZP4BVFG{{</world>}}

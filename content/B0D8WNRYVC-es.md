@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Elástico con cordón en la cinturilla
-- Estampado gráfico de G-STAR en la parte delantera
-- Bolsillos en las costuras laterales
-- Forro de malla
 - Bolsillo con ribete en la parte posterior
+- Bolsillos en las costuras laterales
+- Elástico con cordón en la cinturilla
+- Forro de malla
+- Estampado gráfico de G-STAR en la parte delantera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D8WNRYVC{{</world>}}

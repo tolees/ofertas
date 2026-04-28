@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Comodidad
 - Ligeras
 - Suela de CMEVA moldeada
+- Comodidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C343XPZ6{{</world>}}

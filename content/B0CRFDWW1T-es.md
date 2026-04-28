@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Instrucciones de cuidado: lavable a máquina
-- Ajuste: Slim Fit
-- Jeans Pantalones Largos
 - Composición: 77% algodón 21 por ciento poliéster 2 por ciento elastano
 - Cierre: cremallera y botón
+- Jeans Pantalones Largos
+- Instrucciones de cuidado: lavable a máquina
+- Ajuste: Slim Fit
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CRFDWW1T{{</world>}}

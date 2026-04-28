@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Almacenamiento de 512GB SSD M.2 NVMe PCIe
-- Sistema Operativo: Windows 11 Home
-- Procesador AMD Ryzen 7 5800H (8C/OctaCore 3.2 / 4.4GHz, 16MB)
 - Tarjeta gráfica integrada AMD Radeon Graphics
-- Memoria RAM de 16GB SO-DIMM DDR4
+- Procesador AMD Ryzen 7 5800H (8C/OctaCore 3.2 / 4.4GHz, 16MB)
 - Pantalla de 14" 2.8K 2880 x 1800 pixeles, 90Hz, OLED 400 nits
+- Sistema Operativo: Windows 11 Home
+- Memoria RAM de 16GB SO-DIMM DDR4
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B7P1HFHQ{{</world>}}

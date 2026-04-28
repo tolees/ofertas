@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Manga: Larga
 - Fit: Slim
-- Largo: Midi
+- Manga: Larga
 - Cuello: Redondo
-- Estampado de rayas
+- Largo: Midi
 - Desigual
+- Estampado de rayas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DW9H739J{{</world>}}

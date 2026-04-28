@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Es fabricado de acero inoxidable
 - Se puede lavar en lavavajillas
 - Tipo de producto: vaso térmico
-- Es fabricado de acero inoxidable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00VE3I2UW{{</world>}}

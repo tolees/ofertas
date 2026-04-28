@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste regular
 - Logotipo de Nike en la parte delantera
-- Mantiene la piel fresca y seca en todo momento
 - Tela suave
+- Ajuste regular
+- Mantiene la piel fresca y seca en todo momento
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07T4VFLFD{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 【Doble bloqueo de seguridad para trabajar con total seguridad】 Su seguridad es nuestra prioridad. La sierra solo se pone en marcha cuando se accionan simultáneamente el bloqueo de seguridad y el gatillo, lo que evita cualquier activación accidental.
-- 【Ligero y perfecto para uso en exteriores】 Compacto y fácil de transportar. Ideal para acampadas, jardinería y proyectos de bricolaje. Llévalo contigo a cualquier parte y corta sin esfuerzo.
+- 【2 baterías recargables de 3000 mAh】Gracias a las dos baterías recargables de 21 V y 3000 mAh, proporciona energía de larga duración para todos los trabajos de corte, sin necesidad de recargas frecuentes.
 - 【Motor superpotente de cobre puro】 Equipado con un potente motor de cobre puro que corta sin esfuerzo y de forma limpia todo tipo de madera, tanto dura como blanda.
 - 【Accesorios】Qué recibirá: 1 sierra de cadena de 6 pulgadas; 2 baterías de litio de 21 V; 1 cargador; 2 cadenas de calidad (una ya instalada); 1 par de guantes; 1 destornillador; 1 gafas protectoras; 1 destornillador; 1 llave inglesa; 1 cepillo de limpieza.
-- 【2 baterías recargables de 3000 mAh】Gracias a las dos baterías recargables de 21 V y 3000 mAh, proporciona energía de larga duración para todos los trabajos de corte, sin necesidad de recargas frecuentes.
+- 【Doble bloqueo de seguridad para trabajar con total seguridad】 Su seguridad es nuestra prioridad. La sierra solo se pone en marcha cuando se accionan simultáneamente el bloqueo de seguridad y el gatillo, lo que evita cualquier activación accidental.
+- 【Ligero y perfecto para uso en exteriores】 Compacto y fácil de transportar. Ideal para acampadas, jardinería y proyectos de bricolaje. Llévalo contigo a cualquier parte y corta sin esfuerzo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FZHHQVG8{{</world>}}

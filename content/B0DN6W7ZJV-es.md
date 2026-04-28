@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Detección inteligente: enciende y apaga la función de luz del sensor de onda. Después de activar esta función, puede encender o apagar la luz LED moviendo la mano a una distancia de entre 5 y 10 cm de la lente del faro.
+- Carga rápida: Equipado con un cable de carga y función de protección para evitar sobrecargas, sobredescargas y cortocircuitos, ofreciendo una carga rápida y conveniente.
+- Imagen clara: el sensor CMOS de 2,0 M captura vídeos de 1080P con tecnología de decodificación de vídeo H.264 y formato de almacenamiento de vídeo MP4, lo que garantiza grabaciones de calidad clara de cada momento.
 - Grabación de fotos y videos: ingresa automáticamente al modo de grabación al iniciar. En el modo de grabación, presione brevemente el botón de encendido una vez para tomar una foto. Una vez completada la captura, la grabación comenzará automáticamente y se generará un nuevo archivo de video. Admite compresión de video, almacenamiento segmentado de 5 minutos, conveniente para reproducción y visualización.
 - Ángulo de iluminación ajustable: puede ajustar fácilmente el faro hasta 45° para diversas necesidades de iluminación de corto alcance, ideal para acampar al aire libre, leer, mantenimiento de vehículos y más.
-- Imagen clara: el sensor CMOS de 2,0 M captura vídeos de 1080P con tecnología de decodificación de vídeo H.264 y formato de almacenamiento de vídeo MP4, lo que garantiza grabaciones de calidad clara de cada momento.
-- Carga rápida: Equipado con un cable de carga y función de protección para evitar sobrecargas, sobredescargas y cortocircuitos, ofreciendo una carga rápida y conveniente.
+- Detección inteligente: enciende y apaga la función de luz del sensor de onda. Después de activar esta función, puede encender o apagar la luz LED moviendo la mano a una distancia de entre 5 y 10 cm de la lente del faro.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DN6W7ZJV{{</world>}}

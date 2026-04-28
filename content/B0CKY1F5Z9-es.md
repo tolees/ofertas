@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Forro textil
 - Cierre de cordones
 - Empeine textil y sintético
+- Forro textil
 - Suela de goma
 - Horma clásica
 

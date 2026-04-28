@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Es Game Key Card
-- Impresionantes gráficos HD-2D que hacen que el juego cobre vida como nunca.
 - Sistemas de combate por turnos con funciones nuevas y mejoradas.
+- Impresionantes gráficos HD-2D que hacen que el juego cobre vida como nunca.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F9Z6RY84{{</world>}}

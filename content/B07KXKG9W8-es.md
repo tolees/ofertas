@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pack de 24 botellines de 33 centilitros cada uno de Alhambra Reserva 1925 con 6,4% de alcohol.
-- Para un mayor disfrute, se recomienda consumir entre 6º y 8º C.
-- Al beber, los aromas lupulados se potencian por vía retronasal, y en boca resulta moderadamente amarga, elegante, con cuerpo y una punta de acidez. La persistencia es agradable con recuerdo principal a lúpulo.
-- De color dorado oscuro, presenta una espuma cremosa y consistente. Es compleja y en aromas directos manifiesta una fragancia alcohólica a la que siguen notas de lúpulo Saaz floral y fresco, que se hacen más intensos al tragar. También acompañan notas a plátano y manzana roja, además de aromas delicados a tostados y caramelo de las maltas. En garganta, los aromas de lúpulo se hacen mas nítidos.
 - De sabor intenso, Alhambra Reserva 1925 es nuestra reinterpretación de la Pilsner de estilo bohemio. Está elaborada con "Saaz", una variedad exclusiva de lúpulo que aporta a nuestra cerveza ligeras notas florales y especiadas. Una cerveza de estilo pilsner con mucho cuerpo y sabor intenso, elaborada con la legendaria variedad de lúpulo Saaz. Una cerveza que te hace saborear los pequeños detalles de la vida.
+- Pack de 24 botellines de 33 centilitros cada uno de Alhambra Reserva 1925 con 6,4% de alcohol.
+- De color dorado oscuro, presenta una espuma cremosa y consistente. Es compleja y en aromas directos manifiesta una fragancia alcohólica a la que siguen notas de lúpulo Saaz floral y fresco, que se hacen más intensos al tragar. También acompañan notas a plátano y manzana roja, además de aromas delicados a tostados y caramelo de las maltas. En garganta, los aromas de lúpulo se hacen mas nítidos.
+- Al beber, los aromas lupulados se potencian por vía retronasal, y en boca resulta moderadamente amarga, elegante, con cuerpo y una punta de acidez. La persistencia es agradable con recuerdo principal a lúpulo.
+- Para un mayor disfrute, se recomienda consumir entre 6º y 8º C.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07KXKG9W8{{</world>}}

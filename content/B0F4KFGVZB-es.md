@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Tommy Hilfiger Bandera bordada en el pecho
 - Tommy Hilfiger Marca:
 - Cinta distintiva en el interior del cuello
-- Tommy Hilfiger Bandera bordada en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4KFGVZB{{</world>}}

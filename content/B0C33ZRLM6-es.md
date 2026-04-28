@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cómodos
 - Logotipo de la marca
 - Punta redonda
-- Cómodos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C33ZRLM6{{</world>}}

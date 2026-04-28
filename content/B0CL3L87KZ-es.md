@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Chaqueta de corte entallado y pantalón de corte clásico
-- Chaqueta con puños de canalé y dobladillo elástico
 - Cierre de cremallera y cuello alzado
+- Chaqueta con puños de canalé y dobladillo elástico
+- Chaqueta de corte entallado y pantalón de corte clásico
 - Talle alto
 - 53% algodón / 47% poliéster (reciclado)
 

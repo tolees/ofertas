@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Loose Fit
 - Rib knit cuffs
-- Rib knit crew neck
 - Chest pocket
+- Rib knit crew neck
+- Loose Fit
 - Long Sleeve
 
 [🛒 Aquí!!!]({{< param buyurl >}})

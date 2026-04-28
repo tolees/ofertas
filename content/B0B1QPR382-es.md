@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Espuma para enfieltrar con la técnica de aguja.
 - La técnica con aguja consiste en ir enredando la lana con la ayuda de una aguja de enfieltrar.
+- Espuma para enfieltrar con la técnica de aguja.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B1QPR382{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La parte superior de gamuza es ligera y duradera
 - Logotipo de Swoosh en piel
+- La parte superior de gamuza es ligera y duradera
+- IB2750-001
 - La entresuela de espuma amortigua cada pisada
 - Suela de goma
-- IB2750-001
 - La confección vulcanizada fusiona la suela con la parte superior para ofrecer una sensación flexible y quebrada
 
 [🛒 Comprar!!!]({{< param buyurl >}})

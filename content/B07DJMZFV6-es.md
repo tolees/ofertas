@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ALUMINIO FUNDIDO: sartén fabricada en aluminio fundido de 5,5 mm de espesor en la base, lo cual la hace resistente a la deformación.
-- APTA PARA TODO TIPO DE COCINAS: son aptas para todas las fuentes de calor (incluida la inducción) gracias a su fondo difusor full induction. Ofrece una proyección de la temperatura para una cocción óptima de los alimentos. Diámetro de la base de inducción: 29.3 cm.
+- APTO PARA HORNO: cuerpo apto para horno hasta 220ºC para horno sin la tapa de cristal y las asas de silicona.
 - ANTIADHERENTE: revestimiento antiadherente Innovations, 100% libre de PFOA.
 - TAPA DE CRISTAL: incluye la tapa de cristal para una experiencia completa.
-- APTO PARA HORNO: cuerpo apto para horno hasta 220ºC para horno sin la tapa de cristal y las asas de silicona.
+- ALUMINIO FUNDIDO: sartén fabricada en aluminio fundido de 5,5 mm de espesor en la base, lo cual la hace resistente a la deformación.
+- APTA PARA TODO TIPO DE COCINAS: son aptas para todas las fuentes de calor (incluida la inducción) gracias a su fondo difusor full induction. Ofrece una proyección de la temperatura para una cocción óptima de los alimentos. Diámetro de la base de inducción: 29.3 cm.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07DJMZFV6{{</world>}}

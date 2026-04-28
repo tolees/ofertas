@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Ultra Go
+- Almohada para el talón
 - Flex
 - Lavable a máquina
-- Almohada para el talón
-- Ultra Go
 - Espuma viscoelástica refrigerada por aire
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

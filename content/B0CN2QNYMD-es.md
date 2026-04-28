@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La siguiente información se aplica a cada unidad del paquete
 - Ingredientes : Salmon 82%, fish skin 10%, potato starch 3.7%, glycerin 2%, sorbitol 2%, salt 0.2% and potassium sorbate. Proteins 35% Fats 5.5% Fibers 1.2% Ashes 5 % Humidity 18 %
+- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CN2QNYMD{{</world>}}

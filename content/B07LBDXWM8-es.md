@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ofrece comodidad y libertad de movimiento
-- Pantalones para niños
 - Material de calidad
+- Pantalones para niños
 - Detalles distintivos de la marca
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Horma clásica
-- Empeine de Fiberskin con estampado Sprintgrid
 - Cordones
-- Suela para césped natural seco / multisuperficie
 - Forro textil
+- Empeine de Fiberskin con estampado Sprintgrid
+- Horma clásica
+- Suela para césped natural seco / multisuperficie
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DHV4CXYR{{</world>}}

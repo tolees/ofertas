@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tiene una fórmula efecto tinta líquida con pigmentos de color saturado que ni cuartea ni reseca los labios proporcionando un acabado mate aterciopelado
-- Pintalabios mate de larga duración
 - Cobertura total en una sola pasada y sin retoques
+- Pintalabios mate de larga duración
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BZYSC3YR{{</world>}}

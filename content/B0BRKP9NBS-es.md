@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela de tracción flexible
 - Plantilla acolchada y cómoda
+- Suela de tracción flexible
 - Parte superior de punto diseñada
 
 [🛒 Comprar!!!]({{< param buyurl >}})

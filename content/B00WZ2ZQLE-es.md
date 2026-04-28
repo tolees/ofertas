@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Enfoque manual
-- Montura para Nikon AE
-- Con revestimiento UMC anti-reflectante
-- Compatible con filtros de 67mm
 - Incluye parasol extraíble
+- Con revestimiento UMC anti-reflectante
+- Montura para Nikon AE
+- Enfoque manual
 - Para cámaras con sensor Full Frame como APS-C
+- Compatible con filtros de 67mm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00WZ2ZQLE{{</world>}}

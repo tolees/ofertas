@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Color: rojo tomate, se seca en mate y se puede combinar con todos los rotuladores Copic
-- La tinta es de secado rápido, totalmente opaca y no deja rayas, además de ser toxicológicamente inofensiva e inodora.
-- Rotulador con tinta a base de agua, para diversas superficies como papel, piedra, madera, plástico, etc.
-- Ideal para principiantes, alumnos, estudiantes y especialmente popular entre artistas aficionados, artistas gráficos y diseñadores.
 - Incluye una ilustración lineal para calcar y una hoja especial de ejercicios.
+- Ideal para principiantes, alumnos, estudiantes y especialmente popular entre artistas aficionados, artistas gráficos y diseñadores.
+- Color: rojo tomate, se seca en mate y se puede combinar con todos los rotuladores Copic
+- Rotulador con tinta a base de agua, para diversas superficies como papel, piedra, madera, plástico, etc.
+- La tinta es de secado rápido, totalmente opaca y no deja rayas, además de ser toxicológicamente inofensiva e inodora.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D387W2YS{{</world>}}

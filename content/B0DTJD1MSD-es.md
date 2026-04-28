@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El estilo de 5 bolsillos se adapta al corte flaco
 - 99% algodón, 1% elastano
+- El estilo de 5 bolsillos se adapta al corte flaco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DTJD1MSD{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- TOUCH-IT
 - Zapatos de moda
 - Vegano
-- TOUCH-IT
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DPLD7395{{</world>}}

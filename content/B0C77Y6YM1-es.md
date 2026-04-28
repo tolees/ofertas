@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un modelo distintivo
-- Rayas laterales
 - Logotipo en el talón deportivo inspirado en los archivos
 - Trabilla en el talón
+- Un modelo distintivo
+- Rayas laterales
 - Puntera perforada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

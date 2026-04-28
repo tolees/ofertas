@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - AEROREADY
-- Compra 1 talla más pequeña
 - Punto 92% poliéster reciclado / 8% elastán
+- Compra 1 talla más pequeña
 - Tejido transpirable
 - Diseño New Lift
 

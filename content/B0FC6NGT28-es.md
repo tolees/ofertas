@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Juega en solitario o con amigos
 - Un nuevo modo de juego golfantástico
 - La jugabilidad clásica que todos adoran
+- Juega en solitario o con amigos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FC6NGT28{{</world>}}

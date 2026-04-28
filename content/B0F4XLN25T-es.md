@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detalles gráficos
 - Una mirada original
+- Detalles gráficos
 - Cuello redondo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

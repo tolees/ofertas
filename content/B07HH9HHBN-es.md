@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - CÓMODA: El material de microfibra es muy suave al tacto y, además, gracias al regulador integrado podrás elegir la temperatura. ¡Ponla sobre el cubrecama o entre el colchón y la bajera y tu cama estará calentita!
-- LAVABLE: Puedes meter la cubierta calientacama en la lavadora, solo debes extraer el mando de temperatura y lavarla en un programa frío para tejidos delicados.
 - APAGADO AUTOMÁTICO: La manta tiene un temporizador que hace que se apague después de 3 horas encendida, para que no se produzca un sobrecalentamiento del sistema. Si quieres que siga en funcionamiento, debes activarla de nuevo.
-- ENVÍO: Recibirás 1x manta eléctrica de 180 x 130 CM con control de temperatura extraíble de 3 niveles. Viene en color gris con puntos en blanco.
 - ¿MUCHO FRÍO EN INVIERNO?: Con esta manta eléctrica se te olvidará lo que es el frío. Acurrúcate en el sofá para ver tu serie favorita en la tele, ponla como calientapiés o tápate con ella en la cama mientras lees.
+- ENVÍO: Recibirás 1x manta eléctrica de 180 x 130 CM con control de temperatura extraíble de 3 niveles. Viene en color gris con puntos en blanco.
+- LAVABLE: Puedes meter la cubierta calientacama en la lavadora, solo debes extraer el mando de temperatura y lavarla en un programa frío para tejidos delicados.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07HH9HHBN{{</world>}}

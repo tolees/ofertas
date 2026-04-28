@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Ofrece un realismo de imagen mejorado en juegos y transmisiones compatibles con HDR
 - Certificación NVIDIA G-SYNC para juegos ultra fluidos, sin interrupciones y con un rendimiento de baja latencia.
 - Ofrece amplios ángulos de visión de hasta 178°, perfecto para trabajo colaborativo o visualización de pantalla compartida.
-- USB-C con entrega de potencia de 65 W para una carga rápida y eficiente de computadoras portátiles, tabletas y teléfonos inteligentes.
 - Cuenta con ajuste de altura ergonómico para una comodidad de visualización personalizada.
+- USB-C con entrega de potencia de 65 W para una carga rápida y eficiente de computadoras portátiles, tabletas y teléfonos inteligentes.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FKHKXR85{{</world>}}

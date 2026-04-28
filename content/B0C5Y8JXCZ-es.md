@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con trabillas para el cinturón
 - Adecuados para el verano
+- Con trabillas para el cinturón
 - Detalles distintivos de la marca
 
 [🛒 Aquí!!!]({{< param buyurl >}})

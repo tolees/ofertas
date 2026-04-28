@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ve más allá de tu entrenamiento: El sistema de combate cinemático vuelve con nuevas habilidades de la fuerza y nuevos estilos de lucha de espada láser
-- Explora una galaxia indómita: Descubre nuevos planetas y mundos ya conocidos en la galaxia de Star Wars, cada uno con biomas, desafíos y enemigos únicos
 - Continúa el viaje de Cal: Cal ya no es un padawan y se ha convertido en un poderoso caballero Jedi
+- Explora una galaxia indómita: Descubre nuevos planetas y mundos ya conocidos en la galaxia de Star Wars, cada uno con biomas, desafíos y enemigos únicos
 - Domina nuevas habilidades y equipo que aumentarán tus formas de luchar y avanzar
 - Una nueva esperanza, con Star Wars Jedi: Survivor Edición Deluxe; el paquete de cosméticos Héroe galáctico: el cosmético Canalla, el cosmético de BD-1 Curtido, el conjunto de bláster DL-44; el paquete de cosméticos Nuevo héroe: el cosmético Héroe rebelde, el cosmético BD-Astro de BD-1, el conjunto de espada láser Héroe rebelde
+- Ve más allá de tu entrenamiento: El sistema de combate cinemático vuelve con nuevas habilidades de la fuerza y nuevos estilos de lucha de espada láser
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BQTYZXN2{{</world>}}

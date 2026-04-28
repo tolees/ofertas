@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Alta calidad
 - Corte perfecto
+- Alta calidad
 - Cómodo
 - Libertad de movimiento
 

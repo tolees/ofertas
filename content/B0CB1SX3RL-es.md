@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Parte superior de malla diseñada con cordones frontales
-- Suela de tracción súper flexible
-- Tacón de 1,27 cm
 - Entresuela Flex Lite que absorbe los golpes
+- Tacón de 1,27 cm
+- Suela de tracción súper flexible
+- Parte superior de malla diseñada con cordones frontales
 - Lavable a máquina
 
 [🛒 Aquí!!!]({{< param buyurl >}})

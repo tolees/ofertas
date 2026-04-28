@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Instalación flexible con cable de 4 m y soporte ajustable — Colócalo cerca o lejos de la cámara para captar mejor la luz solar; el soporte permite ajustar el ángulo.
+- Funcionamiento en rango amplio de temperatura — Opera entre –20 °C y 45 °C (carga ideal entre 0 °C y 45 °C), apto para distintos climas exteriores.
 - Carga solar eficiente (hasta 4,5 W) — Células monocristalinas de alta eficiencia para transformar luz solar en energía continua.
 - Diseño resistente IP65 — Protegido contra lluvia, polvo y condiciones exteriores para uso fiable todo el año.
 - Compatibilidad total con cámaras Tapo con batería — Conector USB‑C (incluye adaptadores) para alimentar directamente tu cámara Tapo.
-- Funcionamiento en rango amplio de temperatura — Opera entre –20 °C y 45 °C (carga ideal entre 0 °C y 45 °C), apto para distintos climas exteriores.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FWCZD763{{</world>}}

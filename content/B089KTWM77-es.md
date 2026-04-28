@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Potencia: de matrícula 1400 W (1800 máx.)
 - Recipiente de 8 litros de acero inoxidable con tapa
 - 6 velocidades de funcionamiento + pulsos
-- Posibilidad de trabajar masas de hasta 3 kg (dependiendo de los alimentos que se desea amasar)
+- Potencia: de matrícula 1400 W (1800 máx.)
 - Accesorios incluidos: gancho amasador y mezclador de aluminio, varilla agitadora de acero inoxidable y tapa
+- Posibilidad de trabajar masas de hasta 3 kg (dependiendo de los alimentos que se desea amasar)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B089KTWM77{{</world>}}

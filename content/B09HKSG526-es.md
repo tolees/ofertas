@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Perneras ajustadas
+- Apoya a Better Cotton Initiative
+- 70% algodón / 30% poliéster (reciclado)
+- Corte clásico con cintura de talle medio
+- Puños de canalé
 - Bolsillos en las costuras laterales
 - Puños de canalé
-- Apoya a Better Cotton Initiative
-- Perneras ajustadas
-- Puños de canalé
-- Corte clásico con cintura de talle medio
-- 70% algodón / 30% poliéster (reciclado)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09HKSG526{{</world>}}

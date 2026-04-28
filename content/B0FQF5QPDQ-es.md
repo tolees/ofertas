@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Control: esta funda resistente y gruesa es totalmente compatible con Control de cámara; una capa conductora personalizada transmite el movimiento de los dedos. El exterior mate texturizado de la funda proporciona un agarre adicional y reduce los signos de arañazos, manchas y huellas.
-- Elegancia: las fundas están disponible en cuatro elegantes combinaciones de colores con atractivos colores en el interior. El forro interior de malla cepillada reduce suavemente los arañazos y la abrasión de la superficie, además de añadir un toque de color vibrante.
 - La funda Beats reforzada con MagSafe y Control de cámara para iPhone 17 Pro está diseñada para ofrecer una protección adicional contra caídas y arañazos. Nuestras rigurosas pruebas incluyen caídas repetidas, golpes, pruebas de rayado y una amplia gama de pruebas térmicas, químicas y mecánicas
+- Elegancia: las fundas están disponible en cuatro elegantes combinaciones de colores con atractivos colores en el interior. El forro interior de malla cepillada reduce suavemente los arañazos y la abrasión de la superficie, además de añadir un toque de color vibrante.
+- Control: esta funda resistente y gruesa es totalmente compatible con Control de cámara; una capa conductora personalizada transmite el movimiento de los dedos. El exterior mate texturizado de la funda proporciona un agarre adicional y reduce los signos de arañazos, manchas y huellas.
 - Protección: la parte trasera de polímero ultrarresistente y ultraduradera se complementa con laterales que absorben los impactos y una base cerrada para proteger mejor el dispositivo. Además, la funda ha superado miles de horas de pruebas durante todo el proceso de diseño y fabricación.
 - Control: esta funda resistente y gruesa es totalmente compatible con Control de cámara; una capa conductora personalizada transmite el movimiento de los dedos. El exterior mate texturizado de la funda proporciona un agarre adicional y reduce los signos de arañazos, manchas y huellas.
 

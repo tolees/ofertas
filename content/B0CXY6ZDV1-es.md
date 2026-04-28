@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- CARACTERÍSTICAS DE SEGURIDAD ADICIONALES: este calefactor con ventilador cuenta con protección contra sobrecalentamiento para óptima seguridad, lo que garantiza que el calentador se apague automáticamente si se calienta demasiado
+- DIMENSIONES: 25.7 cm de alto x 26.3 cm de ancho x 14 cm de profundidad; peso: 1.15 kg
 - POTENCIA CALORÍFICA MÁXIMA DE 1.8 kW: elige entre 2 ajustes de temperatura para disfrutar de una flexibilidad total durante los períodos de frío y los meses de invierno: 900 W para temperaturas bajas y 1800 W para temperaturas altas; diseño portátil: el diseño ligero y el cable de alimentación de 1.2 m son óptimos si necesitas una fuente de calor que se pueda mover por la casa de una habitación a otra
 - HABITACIÓN DE 20 m2: calienta tus espacios favoritos de forma rápida y eficaz en los meses más fríos; su tamaño compacto y su impresionante potencia lo hacen óptimo para tu sala de estar o dormitorio
-- DIMENSIONES: 25.7 cm de alto x 26.3 cm de ancho x 14 cm de profundidad; peso: 1.15 kg
-- CARACTERÍSTICAS DE SEGURIDAD ADICIONALES: este calefactor con ventilador cuenta con protección contra sobrecalentamiento para óptima seguridad, lo que garantiza que el calentador se apague automáticamente si se calienta demasiado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CXY6ZDV1{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【Ángulo de oscilación de 3°】Corte por vibración con ángulo de oscilación de 3˚ para cortes más largos, más profundos y mayor eficiencia. Le ofrece un rendimiento de corte óptimo y comodidad. Esta sierra oscilante puede cortar madera, tubos, azulejos, clavos, tornillos, paneles de yeso y más.
-- 【Diseño ergonómico】Mango ergonómico de goma para mayor comodidad, diseño de carcasa robusta para mayor durabilidad. Diseño compacto y ligero, uso cómodo y controlado, transporte conveniente a diferentes lugares de trabajo. Estuche robusto para proteger y almacenar la sierra oscilante y todos los accesorios.
-- 【23 accesorios y hoja de sierra de liberación rápida】La instalación rápida y el reemplazo de accesorios sin herramientas hacen que la operación sea más conveniente y eficiente. La sierra vibratoria está equipada con un cabezal de engranaje de metal robusto, lo que la hace más duradera. Un juego de 23 accesorios es adecuado para muchas tareas diferentes. Sistema de montaje universal, compatible con la mayoría de accesorios de otras marcas.
 - 【Motor potente + 6 velocidades】Nuestra herramienta multifuncional cuenta con un motor de 300 W que le proporciona una potencia fuerte y constante, así como 6 velocidades variables para un mayor control sobre todas las tareas. Una velocidad alta es adecuada para serrar, esmerilar y pulir piedra, mientras que una velocidad baja es adecuada para cortar metal y pulir superficies lisas.
 - 【Accesorios compatibles】La herramienta eléctrica multicortador es adecuada para hojas de sierra estándar. Si utiliza una interfaz universal o una hoja de sierra semiabierta, se puede montar utilizando el espaciador incluido.
+- 【Diseño ergonómico】Mango ergonómico de goma para mayor comodidad, diseño de carcasa robusta para mayor durabilidad. Diseño compacto y ligero, uso cómodo y controlado, transporte conveniente a diferentes lugares de trabajo. Estuche robusto para proteger y almacenar la sierra oscilante y todos los accesorios.
+- 【23 accesorios y hoja de sierra de liberación rápida】La instalación rápida y el reemplazo de accesorios sin herramientas hacen que la operación sea más conveniente y eficiente. La sierra vibratoria está equipada con un cabezal de engranaje de metal robusto, lo que la hace más duradera. Un juego de 23 accesorios es adecuado para muchas tareas diferentes. Sistema de montaje universal, compatible con la mayoría de accesorios de otras marcas.
+- 【Ángulo de oscilación de 3°】Corte por vibración con ángulo de oscilación de 3˚ para cortes más largos, más profundos y mayor eficiencia. Le ofrece un rendimiento de corte óptimo y comodidad. Esta sierra oscilante puede cortar madera, tubos, azulejos, clavos, tornillos, paneles de yeso y más.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FWQZCD1P{{</world>}}

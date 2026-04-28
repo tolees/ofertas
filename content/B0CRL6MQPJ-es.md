@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logo
 - Alto contenido de lana
+- Logo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CRL6MQPJ{{</world>}}

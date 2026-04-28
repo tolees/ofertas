@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin cierre
 - Chaqueta larga
+- Sin cierre
 - Cárdigan
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

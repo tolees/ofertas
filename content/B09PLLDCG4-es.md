@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye: EasyDrill 18V-40, 1 batería de 2,0 Ah, cargador AL 18V-20, maletín de transporte
-- Las herramientas Easy de Bosch – una gran ayuda para pequeños proyectos
 - Cambio fácil de punta de atornillar y broca con el portabrocas rápido de 13 mm
 - POWER FOR ALL ALLIANCE: 1 BATERÍA, 10+ MARCAS, 150+ PRODUCTOS
+- Las herramientas Easy de Bosch – una gran ayuda para pequeños proyectos
+- Incluye: EasyDrill 18V-40, 1 batería de 2,0 Ah, cargador AL 18V-20, maletín de transporte
 - Rendimiento óptimo: caja de engranajes de 2 velocidades y 20 niveles de par que proporcionan un par de atornillado y una velocidad de perforación óptimos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

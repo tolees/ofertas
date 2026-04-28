@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hecho de rizo francés de gamuza material suave para un ajuste cómodo y diario
 - Bolsillos delanteros
 - Cierre de cremallera completo para poner y quitar fácilmente
+- Hecho de rizo francés de gamuza material suave para un ajuste cómodo y diario
 - Capucha para óptimo calidez y cobertura
 
 [🛒 Visítala!!!]({{< param buyurl >}})

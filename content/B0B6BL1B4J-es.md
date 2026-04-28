@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ropa interior para hombre
 - Ajuste regular
+- Ropa interior para hombre
 - Camiseta individual
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte clásico
 - Diseño que favorece la libertad de movimiento
-- AEROREADY
+- Corte clásico
 - 100% poliéster (reciclado)
+- AEROREADY
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BJ9H56JX{{</world>}}

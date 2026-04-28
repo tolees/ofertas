@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Vela votiva de cementerio LED blanca con luz roja intermitente.
+- Dimensiones: Alto 10 cm x Diámetro 3 cm / Color de la luz: rojo intermitente / Color de la vela: blanco / Duración: 365 días.
 - Equipado con una luz roja intermitente y un botón de ENCENDIDO / APAGADO. Desechables: Pilas no reemplazables (incluidas).
 - Larga vida: 365 días (pilas incluidas).
-- Dimensiones: Alto 10 cm x Diámetro 3 cm / Color de la luz: rojo intermitente / Color de la vela: blanco / Duración: 365 días.
 - Modo de empleo: para encender la vela, presione el botón de la base. Composición: 90% polipropileno, 10% poliestireno. Contiene 2 pilas alcalinas tipo LR6.
+- Vela votiva de cementerio LED blanca con luz roja intermitente.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09FHSCCVP{{</world>}}

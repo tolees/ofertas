@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Largo acortado
 - Cuello de camisa
 - Bolsillos oblicuos con cremallera en el pecho
 - Bajo recto con cordón en el interior
+- Largo acortado
 - Manga corta con borde con vuelta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

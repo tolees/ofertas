@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte holgado
 - Con tejido cepillado
+- Corte holgado
 - Puños, cuello y dobladillo acanalados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

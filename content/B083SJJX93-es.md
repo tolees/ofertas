@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseñado por Jim Shore.
-- Figura tradicional de Disney.
-- Patrón inspirado en el pueblo con colores intensos.
-- Caja de regalo de marca.
 - Hecha y pintada a mano.
+- Caja de regalo de marca.
+- Figura tradicional de Disney.
+- Diseñado por Jim Shore.
+- Patrón inspirado en el pueblo con colores intensos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B083SJJX93{{</world>}}

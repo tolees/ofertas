@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Vero Moda Camiseta sin mangas para mujer.
-- Color único.
 - Cómodo de llevar.
 - Calidad probada Vero Moda.
+- Color único.
+- Vero Moda Camiseta sin mangas para mujer.
 - Cuello redondo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

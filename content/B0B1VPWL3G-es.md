@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CREMALLERA YKK
-- Artículos entregados: 1x Helly Hansen Womens W Maud Pile Jacket - Midlayer CREAM XS
-- Bolsillos
 - Contenido reciclado
+- Bolsillos
+- Artículos entregados: 1x Helly Hansen Womens W Maud Pile Jacket - Midlayer CREAM XS
 - Logo de Helly Hansen (HH) bordado
+- CREMALLERA YKK
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B1VPWL3G{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Sportswear Logo Graphic Camiseta Hombre Dress Blues L'
-date: 2026-04-24 20:45:39
+date: 2026-04-27 18:21:42
 image: 'https://m.media-amazon.com/images/I/31Ajma5SG9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B071VLQG6M/?tag=tolees-21'
 descuento: '51.67'
-average: '19.2360526315792'
+average: '18.9992500000002'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

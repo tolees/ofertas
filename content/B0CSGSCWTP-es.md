@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- KB (AT ATTIN): Tras descubrir algo misterioso en su planeta de origen, cuatro niños se pierden en una galaxia extraña y peligrosa, y encontrar el camino de regreso a casa será una aventura más increíble de lo que puedan imaginar.
-- ACCESORIOS INSPIRADOS EN LA SERIE: Esta figura de KB (At Attin) viene con una mochila y linterna
 - ARTICULACIÓN Y DISEÑO PREMIUM: Los coleccionistas y fans de Star Wars podrán exhibir en sus colecciones esta figura de 15 cm, la cual cuenta con diseño y detalles premium fieles a la serie y múltiples puntos de articulación
-- UNA CONSTELACIÓN DE ARTÍCULOS PARA COLECCIONAR: ¡Colecciona otras figuras Black Series de Star Wars para armar tu propia galaxia en tus estantes! (Se venden por separado. Sujeto a disponibilidad)
+- KB (AT ATTIN): Tras descubrir algo misterioso en su planeta de origen, cuatro niños se pierden en una galaxia extraña y peligrosa, y encontrar el camino de regreso a casa será una aventura más increíble de lo que puedan imaginar.
 - STAR WARS: SKELETON CREW: Esta figura está inspirada en el personaje KB (At Attin) de la serie Star Wars: Skeleton Crew de Disney+
+- UNA CONSTELACIÓN DE ARTÍCULOS PARA COLECCIONAR: ¡Colecciona otras figuras Black Series de Star Wars para armar tu propia galaxia en tus estantes! (Se venden por separado. Sujeto a disponibilidad)
+- ACCESORIOS INSPIRADOS EN LA SERIE: Esta figura de KB (At Attin) viene con una mochila y linterna
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CSGSCWTP{{</world>}}

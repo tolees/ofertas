@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La montura se realza con la icónica interpretación Monogram recortada transparente y un sutil bloque de color que separa el frontal de las patillas.
-- La atrevida forma rectangular se suaviza con una silueta fluida, ofreciendo un look original y sin género.
 - La montura RXable permite la adaptación de lentes graduadas.
 - Las patillas metálicas hacen juego con el frontal y están adornadas con el logotipo CK grabado.
+- La montura se realza con la icónica interpretación Monogram recortada transparente y un sutil bloque de color que separa el frontal de las patillas.
+- La atrevida forma rectangular se suaviza con una silueta fluida, ofreciendo un look original y sin género.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DR34HG9Y{{</world>}}

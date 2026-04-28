@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Slip-Ins
 - Ultra Go
 - Lavable a máquina
-- Slip-Ins
 - Espuma viscoelástica
 - Espuma viscoelástica refrigerada por aire
 

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Construcción de tela duradera
 - Cierre de cordón para un fácil acceso
 - Bolsa de gimnasio para llevar lo esencial
+- Construcción de tela duradera
 - PUMA Marca teamGOAL para mayor estilo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

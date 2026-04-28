@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Cierre: Cordones
 - Anchura del zapato: Mediano
+- Material de la suela: Goma
 - Tipo de tacón: Plano
 - Material exterior: Malla
-- Material de la suela: Goma
 - Revestimiento: Tela
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

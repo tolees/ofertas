@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ideal para escribir en porcelana, vidrio, metal o plástico
-- No se requiere afilado: retire la envoltura de papel para obtener más marcadores
-- Incluye 12 marcadores chinos Sharpie blancos
 - Notablemente resistente y resistente a la decoloración; soluble en agua y borrable con un paño húmedo
+- No se requiere afilado: retire la envoltura de papel para obtener más marcadores
+- Ideal para escribir en porcelana, vidrio, metal o plástico
+- Incluye 12 marcadores chinos Sharpie blancos
 - Marcas de cera versátiles clara y fácilmente en cualquier material poroso o no poroso
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- HIDROBIÓTICOS: Refuerzan la barrera cutánea y apoyan un microbioma saludable de la piel.
-- HIDRATANTE INTENSIVO: Hidrata profundamente y suaviza la piel seca, dejándola tersa y confortable.
-- FÓRMULA SUAVE Y VEGANA: pH neutro, limpiadores vegetales delicados, adecuados para piel sensible y uso diario.
 - ÁCIDO HIALURÓNICO: Aporta hidratación intensa, alisando y suavizando la epidermis.
+- HIDRATANTE INTENSIVO: Hidrata profundamente y suaviza la piel seca, dejándola tersa y confortable.
 - TREHALOSA: Alivia y protege la piel deshidratada, restaurando suavidad y confort.
+- HIDROBIÓTICOS: Refuerzan la barrera cutánea y apoyan un microbioma saludable de la piel.
+- FÓRMULA SUAVE Y VEGANA: pH neutro, limpiadores vegetales delicados, adecuados para piel sensible y uso diario.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F2P1LHQR{{</world>}}

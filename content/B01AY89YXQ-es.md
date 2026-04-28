@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- TENSADO FÁCIL Y CORTE EFICIENTE Y RÁPIDO - nunca ha sido tan fácil cortar ramas altas con la podadora telescópica gracias a su barra y cadena Trilink, y una rápida velocidad de cadena de 6,7 m/s para realizar cortes rápidos y limpios
 - CONVENIENTE ENGRASADOR AUTOMÁTICO Y TANQUE DE 50 ML - su autoengrasado facilita que la cuchilla quede lubricada sin detenerte a aplicar aceite, y cuenta con una ventana traslúcida para verificar el nivel de aceite en un tanque de 50 ml
 - 3 ANNI DI GARANZIA CON 2 ANNI DI GARANZIA PER LA BATTERIA - Da Greenworks, leader mondiale negli attrezzi elettrici e della tecnologia a batterie, con una reputazione globale per design intelligente, prestazioni elevate e un servizio clienti eccezionale
-- BATERÍA DE LITIO DE 24V 2Ah DE NUEVA GENERACIÓN - la podadora de altura eléctrica es alimentada por una avanzada batería compatibles con cualquier herramienta Greenworks 24 V para ahorrar en dinero, espacio y deshechos.
 - SIERRA DE POSTE POTENTE Y LIGERA DE 20 CM PARA ÁRBOLES ALTOS - con un peso de 3,2 kg con una hoja de 20 cm de largo y un eje dividido ajustable de 3 piezas que alcanza hasta 2,6 m, esta podadura de altura es ideal para cortar y podar ramas altas del jardín
+- TENSADO FÁCIL Y CORTE EFICIENTE Y RÁPIDO - nunca ha sido tan fácil cortar ramas altas con la podadora telescópica gracias a su barra y cadena Trilink, y una rápida velocidad de cadena de 6,7 m/s para realizar cortes rápidos y limpios
+- BATERÍA DE LITIO DE 24V 2Ah DE NUEVA GENERACIÓN - la podadora de altura eléctrica es alimentada por una avanzada batería compatibles con cualquier herramienta Greenworks 24 V para ahorrar en dinero, espacio y deshechos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01AY89YXQ{{</world>}}

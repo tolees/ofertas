@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 100 % algodón
-- Cuello redondo con textura especial
 - Puños estrechos y dobladillo inferior; etiqueta de marca en la manga
+- Cuello redondo con textura especial
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DTJC2XFX{{</world>}}

@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Sistema de Doble Tubo con Extensión
 - Velocidad Variable con Bloqueo Control preciso y uso continuo sin mantener el gatillo
-- 2 Boquillas de Goma – Redonda y Plana
 - Velocidad de Aire 209km/h & 7,65m³/min Flujo potente para hojas, césped y suciedad en jardín y terraza.
+- 2 Boquillas de Goma – Redonda y Plana
 - Solo Soplador – Sin Batería ni Cargador
 
 [🛒 Comprar!!!]({{< param buyurl >}})

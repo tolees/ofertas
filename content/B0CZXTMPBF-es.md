@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 55% algodón / 36% poliéster (reciclado) / 9% viscosa
 - Corte clásico
 - Bolsillos frontales
 - Puños elásticos
-- 55% algodón / 36% poliéster (reciclado) / 9% viscosa
 - Talle medio
 - Cintura elástica con cordón
 

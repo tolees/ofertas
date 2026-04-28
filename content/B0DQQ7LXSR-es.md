@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Algodón puro
+- Aberturas laterales para una mayor libertad de movimiento
 - Ajuste holgado
 - Fácil de combinar
+- Algodón puro
 - Escote en V extensible
-- Aberturas laterales para una mayor libertad de movimiento
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DQQ7LXSR{{</world>}}

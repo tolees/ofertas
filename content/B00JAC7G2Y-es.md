@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Longitud del cable de 5 m
+- Incluye 2 unidades
+- Cuenta con 2 conectores XLR
 - Adecuado para transmisión audio
 - Dispone de 3 pines
-- Longitud del cable de 5 m
-- Cuenta con 2 conectores XLR
-- Incluye 2 unidades
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00JAC7G2Y{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con resumen de 3 años (2025, 2026, 2027), planificador de proyectos, algunas hojas extraíbles para notas en la parte posterior del calendario, fases lunares y días festivos internacionales.
 - Nuestro calendario semanal y cuaderno está hecho de papel FSC libre de ácidos de 80 g/m2, que tiene una alta resistencia a la tinta.
-- El popular modelo de calendario combina nuestros ayudantes diarios favoritos, el calendario y el cuaderno, de una manera especialmente clara. Cada página tiene una semana a la izquierda y una página a rayas a la derecha.
 - Con cierre de goma, dos marcadores y un bolsillo plegable en la cubierta, así como etiquetas de título y espalda para escribir y archivar. Tamaño: 145 x 210 mm
+- El popular modelo de calendario combina nuestros ayudantes diarios favoritos, el calendario y el cuaderno, de una manera especialmente clara. Cada página tiene una semana a la izquierda y una página a rayas a la derecha.
+- Con resumen de 3 años (2025, 2026, 2027), planificador de proyectos, algunas hojas extraíbles para notas en la parte posterior del calendario, fases lunares y días festivos internacionales.
 - 12 meses (del 01 de enero de 2026 al 31 de diciembre de 2026) la simbiosis perfecta de calendario y cuaderno con tapa dura tamaño mediano A5 (14,5 x 21 cm) en inglés.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

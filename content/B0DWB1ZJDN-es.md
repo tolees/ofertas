@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suelas flexibles y mayor comodidad
 - Forro de Microfibra
 - REMOVABLE MICROFIBER INSOLE
+- Suelas flexibles y mayor comodidad
 - Línea con plataforma que recoge su inspiración en el espíritu urbano, libre e inconformista que la marca siempre ha tenido. Su comodidad y ligereza se convierten en el máximo protagonista gracias a nuestro material ultraligero SOFTLIGHT. Suela y plantilla elaborados con este material hacen que con cada zapato sea un placer para caminar. Brighton es la demostración de que funcionalidad y diseño nunca deben estar reñidos con la comodidad.
 - CHROME FREE INTERIOR
 

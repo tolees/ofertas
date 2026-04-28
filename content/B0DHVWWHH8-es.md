@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Lentes anti-UV UV400: las lentes polarizadas impermeables pueden filtrar la luz reflejada por el agua o las superficies de la carretera. Son lentes suaves de alta definición. El revestimiento antirreflectante de las lentes también puede aliviar la fatiga ocular.
-- Gafas de sol fáciles de colocar: este clip para gafas de sol está diseñado para personas que usan gafas pero aún las necesitan. Si no lo necesitas por un tiempo, simplemente dale la vuelta y vuelve a ponerte las gafas.
-- Lista de embalaje: recibirá 3 tipos diferentes de gafas de sol con clip, suficientes para satisfacer sus diferentes necesidades. Se adapta a la mayoría de gafas de sol y gafas de tamaño estándar.
 - Dimensiones: Largo 13*6*4 cm. Los clips pequeños y fáciles de usar son más elegantes que los tradicionales clips grandes y antiestéticos.
+- Lista de embalaje: recibirá 3 tipos diferentes de gafas de sol con clip, suficientes para satisfacer sus diferentes necesidades. Se adapta a la mayoría de gafas de sol y gafas de tamaño estándar.
+- Gafas de sol fáciles de colocar: este clip para gafas de sol está diseñado para personas que usan gafas pero aún las necesitan. Si no lo necesitas por un tiempo, simplemente dale la vuelta y vuelve a ponerte las gafas.
+- Lentes anti-UV UV400: las lentes polarizadas impermeables pueden filtrar la luz reflejada por el agua o las superficies de la carretera. Son lentes suaves de alta definición. El revestimiento antirreflectante de las lentes también puede aliviar la fatiga ocular.
 - LENTES PERFECTAS: Cada par de gafas de sol absorbe más del 99% del espectro dañino UVA y UVB, protegiendo completamente los ojos mientras conduce o realiza actividades al aire libre como viajar, conducir, pescar, esquiar, caminar, pasear en bote, etc.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

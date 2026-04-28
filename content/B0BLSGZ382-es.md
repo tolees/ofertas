@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Correa ajustable
 - Bolsillo delantero
+- Correa ajustable
 - Cierre: cremallera
 
 [🛒 Visítala!!!]({{< param buyurl >}})

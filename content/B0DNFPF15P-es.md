@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PREPÁRATE PARA LA ACCIÓN EXPLOSIVA CON EL SISTEMA DE ACELERACIÓN X: Cuando los engranajes del piñón entran en contacto con el riel Acelerador X, los tops se propulsan alcanzando grandes velocidades que permiten explosiones impresionantes y choques colosales (Solo compatible con el Sistema Beyblade X)
 - DEFINE TU ESTILO DE COMBATE CON BEYBLADE X: Vive la emoción de la competencia con este dinámico top de batalla. Arma tus tops, carga tus lanzadores y... 3, 2, 1... Let it rip! (Requiere Beystadium, se vende por separado)
 - TOPS CX CON PERSONALIZACIÓN AUMENTADA: ¡Beyblade X incrementa tus posibilidades en la batalla con los tops CX que cuentan con hojas que se separan en 3 piezas para aumentar tus opciones de personalización! Las hojas CX se separan en un chip de bloqueo, una hoja principal y una hoja auxiliar
 - TOP DE TIPO EQUILIBRIO FORT HORNET R 7-60T CX DE ROTACIÓN DERECHA CON HOJA DE TIPO EQUILIBRIO: Incluye top y lanzador Beyblade X con diseño Takara Tomy hechos con auténticas piezas de metal fundido.
+- PREPÁRATE PARA LA ACCIÓN EXPLOSIVA CON EL SISTEMA DE ACELERACIÓN X: Cuando los engranajes del piñón entran en contacto con el riel Acelerador X, los tops se propulsan alcanzando grandes velocidades que permiten explosiones impresionantes y choques colosales (Solo compatible con el Sistema Beyblade X)
 - PIEZAS FÁCILES DE ENSAMBLAR: La hoja, el trinquete y el piñón intercambiables de los tops Beyblade se montan y desmontan con facilidad para que estés listo para lanzarte a la batalla
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

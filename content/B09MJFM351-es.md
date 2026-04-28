@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Chaqueta casual
 - Estilo informal
+- Chaqueta casual
 - Ajuste regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Boardshorts
 - jams
+- Boardshorts
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C8YZ2XWP{{</world>}}

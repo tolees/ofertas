@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Con un forro cálido
-- Presentan un estilo informal
 - Impermeables y transpirables
+- Presentan un estilo informal
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CPQ6XYS7{{</world>}}

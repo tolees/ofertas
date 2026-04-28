@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con Keratina en formato 650 ml+100ml
 - Para cabellos dañados o muy castigados
+- Con Keratina en formato 650 ml+100ml
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B019IO2FFG{{</world>}}

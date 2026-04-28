@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Lavable a máquina
 - Suela de tracción flexible
+- Lavable a máquina
 - Entresuela que absorbe los golpes
 
 [🛒 Aquí!!!]({{< param buyurl >}})

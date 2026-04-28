@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- AJUSTE PERFECTO: El polo minimalista de algodón elástico favorece la figura y es especialmente cómodo.
-- MATERIAL DEL ALTA CALIDAD: Versátil polo confeccionado en 96 % algodón y 4 % elastano.
 - CALIDAD DEMOSTRADA: Desde 1985, esta marca de diseñador lleva demostrando por todo el mundo la calidad y la ligereza mediante una gran variedad de diseños en los míticos colores azul oscuro, blanco y rojo.
+- MATERIAL DEL ALTA CALIDAD: Versátil polo confeccionado en 96 % algodón y 4 % elastano.
+- AJUSTE PERFECTO: El polo minimalista de algodón elástico favorece la figura y es especialmente cómodo.
 - SENCILLO Y ELEGANTE: Esta moderna camiseta con cuello clásico destaca por su gran comodidad. Los 3 botones y los detalles distintivos de Tommy Hilfiger completan el look.
 - DISEÑO PREMIUM: El estilo atemporal de este top es la base de cualquier conjunto smart-casual. Esta moderna camiseta también es perfecta como regalo.
 

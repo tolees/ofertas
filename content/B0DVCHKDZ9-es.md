@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela de aspecto vulcanizado que le aporta un toque retro
-- Estilo deportivo con un toque minimalista
 - De caña baja construido para conquistar las calles de la ciudad
+- Estilo deportivo con un toque minimalista
+- Suela de aspecto vulcanizado que le aporta un toque retro
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DVCHKDZ9{{</world>}}

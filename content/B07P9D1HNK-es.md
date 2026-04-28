@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre: Cordones
 - Material de la suela: Caucho
 - Revestimiento: Sintético
+- Cierre: Cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07P9D1HNK{{</world>}}

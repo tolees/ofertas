@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bundled with Tomb Raider Collection 1 physical cartridge
-- New charcoal grey colour scheme with turquoise accents
-- 800x480 IPS High Resolution Screen, Built-in WiFi, 4-5 hours battery life with USB-C Charging
 - Evercade EXP-R delivers classic retro gaming on the go
+- New charcoal grey colour scheme with turquoise accents
 - TATE mode for vertical screen play with dedicated buttons
+- Bundled with Tomb Raider Collection 1 physical cartridge
+- 800x480 IPS High Resolution Screen, Built-in WiFi, 4-5 hours battery life with USB-C Charging
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D1VZQ2VL{{</world>}}

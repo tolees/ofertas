@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Bloque "Nike" escrito en la lengua en el talón
 - SOLO DE FUMA INTERNA SEGURA
 - Placa de Swoosh en la parte posterior del talón
-- Bloque "Nike" escrito en la lengua en el talón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B6FQKR17{{</world>}}

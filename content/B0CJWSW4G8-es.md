@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tejido supersuave de mezcla de algodón que proporciona comodidad durante todo el día
-- Under Armour La misión de la camiseta es simple: hacerte mejor.
 - Cuello acanalado
+- Under Armour La misión de la camiseta es simple: hacerte mejor.
+- Tejido supersuave de mezcla de algodón que proporciona comodidad durante todo el día
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CJWSW4G8{{</world>}}

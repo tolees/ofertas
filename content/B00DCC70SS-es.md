@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca británica para el cuidado de la piel y spa, con terapias y productos clínicamente testados para la cara y el cuerpo
-- 1,5 ml
-- La piel adquiere una fragancia delicada
 - El aceite de monoi tahitiano y las flores de frangipani retienen la hidratación
+- Marca británica para el cuidado de la piel y spa, con terapias y productos clínicamente testados para la cara y el cuerpo
+- La piel adquiere una fragancia delicada
 - Exfolia, tersa y suaviza
+- 1,5 ml
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00DCC70SS{{</world>}}

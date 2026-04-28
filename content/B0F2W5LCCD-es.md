@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Control táctil. Simplemente toca y desliza el dedo sobre el panel para ajustar de forma precisa e instantánea la temperatura de cocción (9 niveles + Boost).
-- Detector automático. Detecta al momento si el diámetro de la sartén es adecuado para ese quemador. Si cubre menos del 60% de su superficie te avisará para que cambies de fuego o sartén.
 - Función Power Boost. Aporta un extra de energía a cada zona de cocción, que te permite hervir agua o calentar rápidamente ollas de gran tamaño.
+- Detector automático. Detecta al momento si el diámetro de la sartén es adecuado para ese quemador. Si cubre menos del 60% de su superficie te avisará para que cambies de fuego o sartén.
 - WiFi con SmartThings. Comprueba que todo esté apagado cuando no estás en casa, configura el temporizador y recibe alertas a través de la app SmartThings.
 - Indicador de calor residual. Indica si la superficie de la placa sigue caliente para evitar posibles accidentes.
 

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material: lona
-- Parte superior de lona. Material exterior de lona
-- Piel: Gamuza
-- Cierre: goma
 - 14.2519684894 inches
+- Cierre: goma
+- Piel: Gamuza
+- Parte superior de lona. Material exterior de lona
+- Material: lona
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00CLVOYOY{{</world>}}

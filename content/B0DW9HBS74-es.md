@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estampado de Mickey Mouse
-- Cuello: Redondo
-- Desigual
-- Estampado Arty
-- Confeccionado con materiales sostenibles
 - Maga: Corta
+- Estampado Arty
+- Cuello: Redondo
+- Confeccionado con materiales sostenibles
+- Desigual
+- Estampado de Mickey Mouse
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DW9HBS74{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Incluye motor de 600 vatios, cuchilla extractora, vaso grande de 700ml
 - Su diseño simple y esencial hace que el uso de nutribullet sea intuitivo y sencillo. Además, es súper compacta y no tendrás problemas a la hora de guardarla en tu cocina.
 - Pocos componentes, un estilo minimalista y un motor de 600 vatios hacen de la nutribullet Original una batidora compacta pero potente. Tu fiel compañera para todas las recetas del día a día.
+- Incluye motor de 600 vatios, cuchilla extractora, vaso grande de 700ml
 - Las cuchillas de nutribullet tienen una función exclusiva de extracción de nutrientes, que permite mezclar cualquier ingrediente y liberar vitaminas y nutrientes.
 - nutribullet no necesita más de 60 segundos para convertir los ingredientes en batidos uniformes. Conseguir un estilo de vida saludable es fácil, no hay más excusas.
 

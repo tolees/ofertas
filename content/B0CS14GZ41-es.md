@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bordado de G-STAR en el pecho
-- Cierre de botones
-- Cuello de camisa
 - Puños ajustables con botones
+- Cierre de botones
+- Bordado de G-STAR en el pecho
+- Cuello de camisa
 - Paneles laterales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Impresionante iluminación RGB con dos circuitos de luz: 18 LED por ventilador repartidos en un circuito interior y otro exterior permiten una iluminación intensa y personalizable que puede sincronizar con todos sus dispositivos iCUE RGB
+- Refrigeración eficaz y eficiente: Proporcione un excelente flujo de aire a su sistema con velocidades precisas controladas por PWM de hasta 2.400 RPM, impulsando 66,7 CFM de aire. Una impresionante presión estática de 4,72 mm-H2O también aporta al LX-R RGB la fuerza que necesita para montarse en radiadores
 - LINK para conectar sus ventiladores: Los conectores puente de iCUE LINK incluidos permiten conectar sus ventiladores directamente entre sí, creando un conjunto de ventiladores que funciona a la perfección; todos se conectan al concentrador del sistema iCUE LINK System Hub mediante un solo cable
 - Funcionamiento silencioso con rodamiento de cúpula magnética: El rodamiento de cúpula magnética de CORSAIR es un perfeccionamiento del conocido rodamiento de levitación magnética, que minimiza el ruido y reduce la fricción para maximizar la longevidad
-- Refrigeración eficaz y eficiente: Proporcione un excelente flujo de aire a su sistema con velocidades precisas controladas por PWM de hasta 2.400 RPM, impulsando 66,7 CFM de aire. Una impresionante presión estática de 4,72 mm-H2O también aporta al LX-R RGB la fuerza que necesita para montarse en radiadores
+- Impresionante iluminación RGB con dos circuitos de luz: 18 LED por ventilador repartidos en un circuito interior y otro exterior permiten una iluminación intensa y personalizable que puede sincronizar con todos sus dispositivos iCUE RGB
 - Rotor de flujo reversible para un aspecto impecable: Dale la vuelta completa al concepto de su sistema incorporando ventiladores de rotor de flujo reversible que garantizan que el anillo RGB permanezca totalmente visible, incluso cuando se montan para la admisión de aire
 
 [🛒 Visítala!!!]({{< param buyurl >}})

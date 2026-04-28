@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Función baja y alta presión
-- Para cocinas de inducción, de gas, eléctricas, 7,5 L
-- Base sandwich triple capa
 - Tapa simplificada
+- Base sandwich triple capa
+- Para cocinas de inducción, de gas, eléctricas, 7,5 L
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09RQP2JF3{{</world>}}

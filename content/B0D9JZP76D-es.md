@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Diseñado en Barcelona
 - Suela de goma reciclada
 - Colección SS25
-- Diseñado en Barcelona
 - Detalles bordados a contraste
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

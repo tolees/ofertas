@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ALGODÓN JERSEY: mezcla de algodón suave y liso. Este tejido natural ligero y transpirable tiene un tacto suave, mientras que el elastano añadido ofrece un ajuste flexible que se adapta a tus movimientos
-- LONGITUD DE LA PRENDA: 73,7cm desde el lado del cuello en la talla M de España
 - CORTE AJUSTADO: corte ajustado en los hombros, las mangas, el pecho y la cintura
 - CUELLO REDONDO: camiseta interior casual que ofrece comodidad y funcionalidad para el uso diario
+- LONGITUD DE LA PRENDA: 73,7cm desde el lado del cuello en la talla M de España
 - DETALLES: mangas cortas y dobladillo recto rematado con costuras flexibles supersuaves. El cuello redondo está reforzado para mayor durabilidad y tiene una etiqueta estampada en la parte trasera
+- ALGODÓN JERSEY: mezcla de algodón suave y liso. Este tejido natural ligero y transpirable tiene un tacto suave, mientras que el elastano añadido ofrece un ajuste flexible que se adapta a tus movimientos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B06XW4T5JP{{</world>}}

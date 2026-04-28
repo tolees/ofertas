@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Suela de goma
-- Tommy Hilfiger Logotipo en relieve en el talón
 - Tommy Hilfiger Logotipo en el lateral y la lengüeta
+- Tommy Hilfiger Logotipo en relieve en el talón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4RTSBXS{{</world>}}

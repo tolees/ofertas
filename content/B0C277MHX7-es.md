@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Instalación sencilla: Póngalo en cualquier lugar gracias a su pequeño tamaño y diseño sin cables. Solo basta con hacer un agujero y ya está.
-- Sin cuota mensual: No gaste nada más. Sin cuotas mensuales ni costes ocultos. Seguridad y transparencia completas con almacenamiento en el dispositivo y la inteligencia artificial.
-- Detección humana: La IA le avisa de cualquier persona que entre en su patio o jardín, ya sea un familiar, un mensajero o un extraño. Conéctela al HomeBase 3 para activar el reconocimiento facial individual.
 - Claridad de día y de noche: Los LED infrarrojos y la apertura f/1.6 permiten ver más y mejor con la visión nocturna.
+- Instalación sencilla: Póngalo en cualquier lugar gracias a su pequeño tamaño y diseño sin cables. Solo basta con hacer un agujero y ya está.
 - Carga solar sin cables: Mantiene la batería llena para que no tenga que hacerlo usted. Funciona de manera continua con 3 horas de luz solar al día.
+- Detección humana: La IA le avisa de cualquier persona que entre en su patio o jardín, ya sea un familiar, un mensajero o un extraño. Conéctela al HomeBase 3 para activar el reconocimiento facial individual.
+- Sin cuota mensual: No gaste nada más. Sin cuotas mensuales ni costes ocultos. Seguridad y transparencia completas con almacenamiento en el dispositivo y la inteligencia artificial.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C277MHX7{{</world>}}

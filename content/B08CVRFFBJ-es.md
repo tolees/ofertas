@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Descubre el perfilador de labios de color riche para el contorno de tus labios e intensificar el color de tu labial
+- Consigue un acabado con un color intenso
 - Fácil aplicación gracias a su textura cremosa que evita que se corra el labial
 - Fórmula con 75% de ingredientes que cuidan tus labios
-- Consigue un acabado con un color intenso
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08CVRFFBJ{{</world>}}

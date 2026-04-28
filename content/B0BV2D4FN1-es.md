@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- BAJO NIVEL SONORO - El nivel sonoro medio se mantiene tan bajo como el de una noche tranquila. Equipado con un ventilador de 135 mm con cojinete fluidodinámico (FDB), diseñado para mejorar la durabilidad.
-- CERTIFICACIÓN 80 PLUS GOLD- Con la certificación 80 PLUS Gold (hasta un 90% de eficiencia), esta fuente de alimentación es ideal para alimentar hardware con grandes demandas de energía, como GPU y CPU.
-- TAMAÑO COMPACTO - Un factor de forma ATX compacto de 150 mm de largo y 150 mm de ancho garantiza un ajuste cómodo y fácil en la mayoría de las carcasas de PC. Esto libera más espacio para la gestión de cables y el flujo de aire al resto del sistema.
 - DISEÑO DURADERO - Un semipuente LLC con convertidor CC-CC y un diseño PFC activo garantizan una salida fiable (protección OCP / OTP / OPP / SCP / OVP / UVP / SIP / NLO).
+- TAMAÑO COMPACTO - Un factor de forma ATX compacto de 150 mm de largo y 150 mm de ancho garantiza un ajuste cómodo y fácil en la mayoría de las carcasas de PC. Esto libera más espacio para la gestión de cables y el flujo de aire al resto del sistema.
+- CERTIFICACIÓN 80 PLUS GOLD- Con la certificación 80 PLUS Gold (hasta un 90% de eficiencia), esta fuente de alimentación es ideal para alimentar hardware con grandes demandas de energía, como GPU y CPU.
+- BAJO NIVEL SONORO - El nivel sonoro medio se mantiene tan bajo como el de una noche tranquila. Equipado con un ventilador de 135 mm con cojinete fluidodinámico (FDB), diseñado para mejorar la durabilidad.
 - CONECTOR NATIVO 12V-2x6- Equipado con conectores PCIe nativos 12V-2x6, puede suministrar hasta 450 W de potencia para admitir GPU PCIe 5.1.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

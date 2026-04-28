@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Capucha y dobladillo con cordón de ajuste
 - Proporciona un uso cómodo
+- Capucha y dobladillo con cordón de ajuste
 - Bolsillos laterales
 
 [🛒 Comprar!!!]({{< param buyurl >}})

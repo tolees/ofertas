@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Adecuado para: clima frío
-- Atuendo: atuendo casual
 - Suéter fabricado por Tommy Hilfiger
+- Atuendo: atuendo casual
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09F7T2BNL{{</world>}}

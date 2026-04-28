@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material exterior: Cuero
 - Cierre: Cordones
 - Revestimiento: Sintético
+- Material exterior: Cuero
 - Material de la suela: Caucho
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - La serie Suikoden comenzó su andadura en 1995 y rápidamente ganó popularidad como el primer título de la serie original de RPG de KONAMI.
-- Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars pretende mantener intacta la historia original y el encanto del colorido elenco de personajes.
 - El estreno de un nuevo tráiler destaca momentos icónicos de la querida aventura RPG junto con nuevas mejoras de calidad de vida, efectos visuales y mecánicas de juego.
 - KONAMI ha confirmado varias mejoras fundamentales y características de calidad de vida en la próxima colección de remasterizaciones:
+- Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars pretende mantener intacta la historia original y el encanto del colorido elenco de personajes.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DFHP7H4M{{</world>}}

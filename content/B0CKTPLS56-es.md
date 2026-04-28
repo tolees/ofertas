@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detalles reflectantes
-- Bolsillos frontales para calentar las manos
-- Tejido transpirable
-- Compra 1 talla más pequeña
 - Bolsillo con cremallera en la parte trasera de la cintura
-- 100% poliéster (reciclado)
+- Bolsillos frontales para calentar las manos
 - AEROREADY
+- Compra 1 talla más pequeña
+- Tejido transpirable
+- 100% poliéster (reciclado)
+- Detalles reflectantes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKTPLS56{{</world>}}

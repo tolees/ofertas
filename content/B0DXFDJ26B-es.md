@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- SIN GLUTEN, SIN ALÉRGENOS, SIN COLORANTES ARTIFICIALES: ya que en Weider se quiere ofrecer siempre productos de calidad y adaptarse a todo tipo de dietas.
-- MODO DE EMPLEO: Tomar 3 gominolas de delicioso sabor frambuesa en cualquier momento del día.
 - PARA LA FATIGA, LOS MUSCULOS Y HUESOS: El magnesio contribuye a reducir el cansancio y la fatiga, y a mantener los músculos y huesos.
+- MODO DE EMPLEO: Tomar 3 gominolas de delicioso sabor frambuesa en cualquier momento del día.
 - MAGNESIUM GUMMIES de Weider, empresa líder en nutrición deportiva!
 - CON 250MG MAGNESIO CITRATO /DOSIS: lo cual proporciona dos tercios de las necesidades diarias de este mineral esencial.
+- SIN GLUTEN, SIN ALÉRGENOS, SIN COLORANTES ARTIFICIALES: ya que en Weider se quiere ofrecer siempre productos de calidad y adaptarse a todo tipo de dietas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DXFDJ26B{{</world>}}

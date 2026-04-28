@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - La montura RXable se puede utilizar con lentes graduadas
-- Resina de origen vegetal, una alternativa más limpia que los plásticos estándar
-- Las lentes espejadas realzan la modernidad de este modelo
 - Ajuste global y tamaños s disponibles
+- Las lentes espejadas realzan la modernidad de este modelo
+- Resina de origen vegetal, una alternativa más limpia que los plásticos estándar
 - Forma cuadrada unisex que crea un aspecto distintivo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - FABRICADA CON ALUMINIO FUNDIDO RECICLADO: El diseño de la base permite que el calor se reparta por igual en toda la superficie, logrando que todos los alimentos se cocinen por completo. Su gran ligereza te permitirá saltear y remover sin esfuerzos.
 - REVESTIMIENTO ANTIADHERENTE: Hemos incorporado en nuestra gama Indigo un recubrimiento con alta resistencia al desgaste y a la corrosión, que repele a la perfección la grasa y el agua, evitando que los ingredientes se adhieran.
-- APTA PARA TODO TIPO DE COCINAS: Nuestra sartén convertirá cada momento en la cocina en una oportunidad para desatar tu creatividad culinaria. Además, es compatible con cocinas de inducción, gas, halógenas, vitrocerámicas y eléctricas.
 - MANGO ANTIQUEMADURAS CON TECNOLOGÍA STAY COOL: Esta gama incluye mangos recubiertos con tecnología Stay Cool. De esta manera conseguimos proporcionarte un agarre de efecto frío para que puedas saltear y manipular la sartén con total seguridad y sin quemarte.
 - INDICADOR DE TEMPERATURA: Sartén antiadherente de 20 cm de diametro y 5 cm de altura que cuenta con un indicador de temperatura que cambia de color en función de lo caliente que esté el producto lo cual facilita el cocinado de los productos. Cuanto más oscuro es el color del indicador, más caliente está el producto.
+- APTA PARA TODO TIPO DE COCINAS: Nuestra sartén convertirá cada momento en la cocina en una oportunidad para desatar tu creatividad culinaria. Además, es compatible con cocinas de inducción, gas, halógenas, vitrocerámicas y eléctricas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BT7N5R2Q{{</world>}}

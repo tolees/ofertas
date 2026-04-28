@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logotipo AX esmaltado
 - Bolso de mano de moda
 - Interior espacioso
+- Logotipo AX esmaltado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D463RDGF{{</world>}}

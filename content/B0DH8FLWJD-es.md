@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- De Joumma Bags.
-- Cartera de 12,5 cm x 9,5 cm x 1 cm fabricada en Piel.
 - Incorpora un monedero con cierre de clic.
+- Cartera de 12,5 cm x 9,5 cm x 1 cm fabricada en Piel.
 - Cuenta con cuatro ranuras para guardar las tarjetas y un espacio independiente para los billetes y tickets.
+- De Joumma Bags.
 - Sistema especial de protección para las tarjetas RFID que bloquea las señales de dispositivos de escaneo no autorizados por radiofrecuencia.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

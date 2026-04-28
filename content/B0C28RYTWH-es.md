@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Soporte ErgoStand ergonómico, regulable en altura, ajustable e inclinable
 - Tiempo de respuesta 1 ms VRB
 - Pantalla de 23,8", Full HD 1920 x 1080 pixeles, 100 Hz, 250 nits
+- Soporte ErgoStand ergonómico, regulable en altura, ajustable e inclinable
 - Tecnología anti-fragmentación AMD FreeSync
 
 [🛒 Aquí!!!]({{< param buyurl >}})

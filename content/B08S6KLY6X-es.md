@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Práctico clip y forma plana, perfecto para viajes
 - Diseño elegante en colaboración con la conocida diseñadora Marina Hoermanseder
 - 2 anchos de trazo: 1 + 4 mm
+- Práctico clip y forma plana, perfecto para viajes
 - Set y embalaje fabricados con cartón con certificado FSC
 - Tecnología STABILO Anti-secado: Hasta 4 horas destapado sin secarse
 

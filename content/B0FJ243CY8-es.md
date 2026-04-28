@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CAMISA OVERSIZE DE RAYAS CON BOLSILLO
 - CAMISA OVERSIZE
+- CAMISA OVERSIZE DE RAYAS CON BOLSILLO
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FJ243CY8{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Floating top plate accomodates different sandwich thicknesses and rests firmly on the bread for even toasting
 - Large, family-sized press with space for 4 sandwiches
 - Perfect for panini, ciabatta, tea cakes, crumpets, and for warming pittas, flour tortillas and naan bread
 - Flat non-stick-coated aluminium plates for easy cleaning
+- Floating top plate accomodates different sandwich thicknesses and rests firmly on the bread for even toasting
 - Stands upright for compact storage and features cool-touch handle, non-slip feet and built-in cord storage
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Referencia: S6451216
+- Color: Multicolor
+- Gorra Infantil de la marca Puma
 - Medidas: 4,85 x 4,74 x 4,63 centímetros
 - ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
-- Gorra Infantil de la marca Puma
-- Color: Multicolor
-- Referencia: S6451216
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07977WCYS{{</world>}}

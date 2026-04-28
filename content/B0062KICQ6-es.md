@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- new foliage system
 - Denser traffic
-- additional wildlife
 - enhanced damage and weather effects and much more
 - New weapons, vehicles and activities
-- new foliage system
+- additional wildlife
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0062KICQ6{{</world>}}

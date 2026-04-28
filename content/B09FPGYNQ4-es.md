@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- REVOX B77: Marca dedicada a la producción de cosmética asequible con la filosofía de brindar resultados profesionales desde casa. Seleccionamos cuidadosamente los ingredientes y procesos para asegurarnos que cada fórmula sea eficaz y de calidad.
 - PARA PIEL SENSIBLE: Su fórmula suave y efectiva limpia en profundidad sin causar irritación ni alterar la barrera cutánea. Ideal para todo tipo de pieles, especialmente pieles sensibles y ojos sensibles, proporciona frescura y equilibrio sin sensación grasa.
-- COMO UTILIZAR: Aplica una cantidad suficiente de producto y frótalo entre las manos para calentarlo. Masajea sobre la piel seca del rostro durante un minuto, evitando el contacto directo con los ojos. Enjuaga bien con agua tibia y continúa con tu skincare.
 - LIMPIADOR FACIAL SUAVE CON ESCUALANO: REVOX B77 Just Squalane Cleanser es un limpiador facial suave que elimina eficazmente las impurezas, el exceso de grasa y los restos de maquillaje, dejando la piel limpia, calmada y equilibrada sin resecarla.
+- REVOX B77: Marca dedicada a la producción de cosmética asequible con la filosofía de brindar resultados profesionales desde casa. Seleccionamos cuidadosamente los ingredientes y procesos para asegurarnos que cada fórmula sea eficaz y de calidad.
+- COMO UTILIZAR: Aplica una cantidad suficiente de producto y frótalo entre las manos para calentarlo. Masajea sobre la piel seca del rostro durante un minuto, evitando el contacto directo con los ojos. Enjuaga bien con agua tibia y continúa con tu skincare.
 - HIDRATACIÓN Y SUAVIDAD: Enriquecido con escualano, este limpiador facial no solo elimina impurezas y maquillaje, sino que también mantiene la hidratación de la piel, evitando la sensación de tirantez y dejándola suave, flexible y nutrida tras cada uso.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Momentos de diversión
-- Juego de 1000 piezas
 - Juego de mesa tipo puzzle
+- Juego de 1000 piezas
+- Momentos de diversión
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CTKM8N94{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Regular fit
-- Tipo de fábrica: 78% polyester, 22% elastane
-- Breathable fabric
 - Elastic waistband with lanyard
 - Tipo de deporte: Gimnasia
+- Tipo de fábrica: 78% polyester, 22% elastane
+- Breathable fabric
+- Regular fit
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08NYK91CK{{</world>}}

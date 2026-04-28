@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tiene una textura ligera que no deja sensación de piel grasa. No comedogénico y mineral oil free.
 - Regula el exceso de sebo y no deja sensación de piel grasa.
+- Ayuda a reducir las marcas residuales que dejan los granos sobre la piel.
 - Ayuda a disminuir granos y espinillas, mejorando la textura de la piel.
 - Unifica el tono y mejora el aspecto de la piel.
-- Ayuda a reducir las marcas residuales que dejan los granos sobre la piel.
-- Tiene una textura ligera que no deja sensación de piel grasa. No comedogénico y mineral oil free.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BXYT41KP{{</world>}}

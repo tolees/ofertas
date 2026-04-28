@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Talón y ojal moldeados
 - Goma de longitud completa
+- Talón y ojal moldeados
 - Puntera redondeada
 
 [🛒 Aquí!!!]({{< param buyurl >}})

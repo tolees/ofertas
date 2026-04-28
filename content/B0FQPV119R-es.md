@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - En sus 160 páginas con certificación FSC el contenido se reparte de la siguiente manera: · Página inicial para anotar los datos personales · Calendarios de 2026 y 2027 · Páginas de la izquierda con planificación semanal · Páginas de la derecha para notas · Hojas pautadas de notas al final de la agenda · 2 hojas de pegatinas
-- Ideal como regalo o autorregalo irresistible
-- Materiales de calidad y toque Mr. Wonderful
-- Esta agenda va de enero a diciembre de 2026 y es una solución más económica para la organización del año. El interior lo encontraremos en inglés.
 - Una agenda de tamaño A6 y de organización semanal, formato sencillo y básico.
+- Materiales de calidad y toque Mr. Wonderful
+- Ideal como regalo o autorregalo irresistible
+- Esta agenda va de enero a diciembre de 2026 y es una solución más económica para la organización del año. El interior lo encontraremos en inglés.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FQPV119R{{</world>}}

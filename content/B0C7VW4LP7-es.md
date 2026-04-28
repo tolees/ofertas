@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Prepárate para una aventura espacial definitiva con el pack Ultimate Mission. Este pack incluye dos misiones diferentes que te mantendrán entretenido durante horas.
-- La primera misión es el lanzamiento del cohete, que incluye un cohete con efectos realistas de luz y sonido; llena el depósito de agua para crear auténticos efectos de nebulización y prepárate para el despegue.
-- Recomendado a partir de 6 años.
 - La segunda misión es localizar TODOS LOS METALES con el detector con alerta luminosa y sonora.
+- Recomendado a partir de 6 años.
+- La primera misión es el lanzamiento del cohete, que incluye un cohete con efectos realistas de luz y sonido; llena el depósito de agua para crear auténticos efectos de nebulización y prepárate para el despegue.
+- Prepárate para una aventura espacial definitiva con el pack Ultimate Mission. Este pack incluye dos misiones diferentes que te mantendrán entretenido durante horas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C7VW4LP7{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Fabricado con 100% algodón sostenible
 - Polo de manga larga con doble botón
 - Corte entallado
-- Fabricado con 100% algodón sostenible
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CSNCN45R{{</world>}}

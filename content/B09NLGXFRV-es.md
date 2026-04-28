@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Paso 1: Delinea a lo largo de la línea de las pestañas. Extiende la línea hacia las cejas para darle más dramatismo. Paso 2: Eleva y difumina con nuestro cepillo sin esfuerzo y sin tirones.
+- Contenido: 1x NYX Professional Makeup Epic Smoke Liner en Barra, Fórmula vegana, Navy Heat
+- Una gama de tonos versátil que se adapta a todos los tonos de ojos, Tonos intensos y de larga duración, Aplicar una capa bajo la sombra para aumentar la intensidad del color
 - Cepillo profesional para difuminar y mezclar fácilmente, 12 atrevidos tonos ahumados, Fórmula vegana* *Sin ingredientes de origen animal
 - Delineador de ojos de textura cremosa y acabado smokey, Punta precisa para facilitar el delineado, Ideal para líneas definidas y una variedad de miradas
-- Contenido: 1x NYX Professional Makeup Epic Smoke Liner en Barra, Fórmula vegana, Navy Heat
-- Paso 1: Delinea a lo largo de la línea de las pestañas. Extiende la línea hacia las cejas para darle más dramatismo. Paso 2: Eleva y difumina con nuestro cepillo sin esfuerzo y sin tirones.
-- Una gama de tonos versátil que se adapta a todos los tonos de ojos, Tonos intensos y de larga duración, Aplicar una capa bajo la sombra para aumentar la intensidad del color
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09NLGXFRV{{</world>}}

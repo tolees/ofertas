@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Producto apto para horno
+- Se puede limpiar en el lavavajillas
 - Esta hecho con material antiadherente
 - Material de calidad
-- Se puede limpiar en el lavavajillas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B018UFWEN2{{</world>}}

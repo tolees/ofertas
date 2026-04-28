@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sensor óptico vanguardista: El Model D 2 Wireless incorpora el sensor BAMF 2.0, que proporciona un seguimiento de píxeles excepcional y una precisión sinigual con los que tendrás una precisión y un rendimiento extraordinarios en todas tus partidas.
 - Ultraligero: Con sus apenas 66 gramos de peso, este ratón asombra por su ligereza, lo que le garantiza una velocidad vertiginosa y una maniobrabilidad inigualable, además de la agilidad necesaria para reaccionar antes que tus adversarios.
 - Switches de nueva generación: El Model D 2 Wireless integra switches de nueva generación que aguantan hasta 80 millones de clics, por lo que la durabilidad y la reactividad están garantizadas. Ejecuta cada clic con precisión y seguridad.
+- Sensor óptico vanguardista: El Model D 2 Wireless incorpora el sensor BAMF 2.0, que proporciona un seguimiento de píxeles excepcional y una precisión sinigual con los que tendrás una precisión y un rendimiento extraordinarios en todas tus partidas.
 - Diseño ergonómico: su diseño ergonómico asegura una comodida y un control totales, evitando el cansancio durante sesiones largas de juego. Perfecto para trabajar y jugar.
 - Conectividad inalámbrica dual: Alterna sin problemas entre la conexión sin lag a 2,4 GHz para tener una experiencia gaming más reactiva y la versatilidad de la conexión Bluetooth para que la batería dure más cuando estés fuera de casa.
 

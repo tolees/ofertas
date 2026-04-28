@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Muy resistente – El reparador de esmalte blanco Pattex Nural 2 es resistente al agua caliente, al frío y al calor, y también a los limpiadores habituales.
 - Fácil aplicación – El reparador de esmalte impermeable cuenta con un práctico pincel que facilita su aplicación. Además, es de un color blanco brillante que no amarillea.
+- Muy resistente – El reparador de esmalte blanco Pattex Nural 2 es resistente al agua caliente, al frío y al calor, y también a los limpiadores habituales.
 - Múltiples aplicaciones – Estos esmaltes permanentes pueden utilizarse en neveras, lavadoras, cocinas, bañeras, lavabos, armarios esmaltados, vajillas y porcelanas.
 - Envío y detalles – Pattex Nural Reparador de esmalte y porcelana, reparador de esmalte protector para desconchados, golpes y rozaduras, blanco brillante, 1 x 50 g, botella
 - Esmalte y porcelana – Este reparador blanco es una excelente solución para reparar superficies esmaltadas y cerámicas que estén rayadas, desportilladas o gastadas.

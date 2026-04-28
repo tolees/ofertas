@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sellados elásticos y pegados multiusos tanto en interior como en exterior con una retención inmediata y una capacidad de movimiento de ± 25 %, fácil aplicación con una pistola de masilla estándar
-- CONSUMO: 1 cartucho 300 ml permite de realizar ~15 m de cordón. La nueva tecnología PURFORM cumple con las futuras normativas de salud y seguridad
-- óptima resistencia a los cambios medioambientales, a la humedad, a la intemperie y son resistentes a los rayos ultravioletas.
 - La reinvención de la multiherramienta definitiva para sellar y pegar; producto 2 en 1: Masilla y pegamento, listo para su uso, óptimo para tus trabajos de bricolaje
+- óptima resistencia a los cambios medioambientales, a la humedad, a la intemperie y son resistentes a los rayos ultravioletas.
+- CONSUMO: 1 cartucho 300 ml permite de realizar ~15 m de cordón. La nueva tecnología PURFORM cumple con las futuras normativas de salud y seguridad
 - SOPORTES: Se adhiere hormigón, ladrillo, cerámica, madera, metal y vidrio
+- Sellados elásticos y pegados multiusos tanto en interior como en exterior con una retención inmediata y una capacidad de movimiento de ± 25 %, fácil aplicación con una pistola de masilla estándar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00HVB9FNY{{</world>}}

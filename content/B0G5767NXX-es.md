@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - La siguiente información se aplica a cada unidad del paquete
-- TRADICIÓN Y MODERNIDAD. Añejado en barrica de Roble Blanco Americano, para lograr un sabor intenso con toques amaderados.
 - GRADUACIÓN: 38%
-- 100% MEXICANO. Tequila con identidad propia, creando la combinación perfecta entre tradición y modernidad. Con agave tequilana weber azul, procedente de la región de Jalisco. 100% mexicano
+- TRADICIÓN Y MODERNIDAD. Añejado en barrica de Roble Blanco Americano, para lograr un sabor intenso con toques amaderados.
 - NOTA DE CATA. De color ambar brillante, se distinguen aromas suaves y fragancias de vainilla y canela, con matices olfativos que ayudan a enfatizar en boca sabores con un mix de sensaciones contrapuestas al mismo tiempo: dulces y frescas.
 - MOMENTO DE CONSUMO. Disfruta tu Tequila Buen Amigo muy frío, solo o como la base de los mejores cocteles y combinados.
+- 100% MEXICANO. Tequila con identidad propia, creando la combinación perfecta entre tradición y modernidad. Con agave tequilana weber azul, procedente de la región de Jalisco. 100% mexicano
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0G5767NXX{{</world>}}

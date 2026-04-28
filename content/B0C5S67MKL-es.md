@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Embalaje: caja
-- Con forro interior
 - Cordones
+- Con forro interior
+- Embalaje: caja
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C5S67MKL{{</world>}}

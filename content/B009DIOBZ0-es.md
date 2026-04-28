@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pack de 5 filtros Laica Bi-Flux + 1 de REGALO
+- Cada filtro tiene una duración de 30 días o 150 litros
 - El filtro de agua laica mejora el sabor del agua, reduce las sustancias que alteran el sabor y el olor del agua como por ejemplo el cloro, la cal y otros elementos que pueden estar presentes en el agua
 - Fabricados en Italia para ofrecer la mejor filtración con el más alto nivel de calidad y seguridad.
-- El sistema de filtración Laica es una alternativa cómoda, rentable y respetuosa con el medio ambiente con relación a las botellas de plástico de un solo uso. Todas las jarras y filtros Laica están libres de BPA
-- Cada filtro tiene una duración de 30 días o 150 litros
 - Cartuchos compatibles con jarras de otras marcas, incluyendo todas las de Brita (excepto la jarra BRITA Style)
+- El sistema de filtración Laica es una alternativa cómoda, rentable y respetuosa con el medio ambiente con relación a las botellas de plástico de un solo uso. Todas las jarras y filtros Laica están libres de BPA
+- Pack de 5 filtros Laica Bi-Flux + 1 de REGALO
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B009DIOBZ0{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dimensiones: 10 x 22 x 27 cm
 - Mochila preescolar ligera con un compartimento con cremallera
 - Trasera acolchada transpirable para mayor comodidad
 - Cuerpo exterior con bolsillo frontal
+- Dimensiones: 10 x 22 x 27 cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DTQKZBP3{{</world>}}

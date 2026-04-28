@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca - Autan
-- Género - Unisex
 - Tipo de producto -
+- Género - Unisex
+- Marca - Autan
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00UCDEOHA{{</world>}}

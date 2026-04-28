@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- SUPRADYN ENERGY 50+ 3 MESES DE SUMINISTRO 1 comprimido multivitaminico al día
-- COMPLEJO VITAMINICO CON POLIFELONES DE OLIVA El extracto de oliva y de hojas del olivo junto con la vitamina C, E, zinc y selenio contribuyen a la protección de las células frente al daño oxidativo, protegiendo de los radicales libres
 - LSIN AZÚCARES, SIN GLÚTEN, SIN LACTOSA Supradyn Energy 50+ complementa tu dieta habitual
 - MULTIVITAMINICO COMPLETO CON VITAMINA B contiene vitamina B1, B2, B6 y B12 que contribuyen al metabolismo energético normal
 - VITAMINAS PARA TRATAR EL CANSANCIO del hombre y de la mujer a partir de los 50 años, ayuda a mantener la vitalidad física y mental
+- COMPLEJO VITAMINICO CON POLIFELONES DE OLIVA El extracto de oliva y de hojas del olivo junto con la vitamina C, E, zinc y selenio contribuyen a la protección de las células frente al daño oxidativo, protegiendo de los radicales libres
+- SUPRADYN ENERGY 50+ 3 MESES DE SUMINISTRO 1 comprimido multivitaminico al día
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07YN62NT8{{</world>}}

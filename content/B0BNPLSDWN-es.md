@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Este dentífrico blanqueante con tecnología de corrección del color es seguro con el esmalte para un uso diario
 - Exclusivo en Amazon
-- Consigue unos dientes más blancos al instante, efecto temporal, al cepillarte los dientes con el dentífrico blanqueador Colgate Max White Purple Reveal
 - Esta pasta de dientes blanqueadora que actúa al instante, efecto temporal, tiene una eficacia clínicamente probada para eliminar hasta el 100% de las manchas superficiales causadas por comida y bebida, tras dos semanas de uso continuado
+- Consigue unos dientes más blancos al instante, efecto temporal, al cepillarte los dientes con el dentífrico blanqueador Colgate Max White Purple Reveal
 - Está clínicamente probado que este dentífrico blanqueante morado corrige al instante, de forma temporal, los tonos amarillos; inspirada en los champús de color morado que utilizan la ciencia del color que consigue que el morado anule inmediatamente el amarillo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

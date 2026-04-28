@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Material exterior: Cuero
 - Tipo de tacón: Plano
 - Cierre: Cordones
-- Material exterior: Cuero
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00M2WIUBK{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 🧵 MATERIAL: El tejido sobre el que está confeccionada esta sábana es de 100 %algodón con 144 hilos. Un producto de calidad, avalado por Burrito Blanco. Se recomienda un lavadito suave inicial para que adquiera sus características de tacto y suavidad definitivas.
 - 📏 MEDIDAS DEL CONJUNTO: Una encimera de 240x270 cm. .Dos fundas de almohadas de 50x85 cm. .Una sábana bajera ajustable de 150-160x190/200cm. Disponible en más medidas.
 - ✅ CARACTERÍSTICAS: Tejido 100% algodón extra suave.Fácil planchado.Es recomendable lavar antes del primer uso.Larga duración.Alto colchón de 32cm..Una sola funda de almohada de 90,105,135 cm y dos fundas de almohadas para camas de 150/160,160,180 y 200cm..Estampación a una sola cara.Disponible en funda nórdica
 - 🛏️ PRODUCTO: Juego de sábanas de ALGODÓN 100% con un estremado estampado geométrico , de pata de gallo XL en color caqui pastel sobre un fondo blanco. Embozo en color blanco y ribete estampado en color caqui pastel. Bajera confección ajustable en color caqui pastel. Almohada estampada como la sábana y aplicaciones en blanco.
 - 🫧 MANTENIMIENTO: Lavar a máquina con programa delicado y temperatura máxima de 40º. No usar lejía. Planchar a temperatura media. No limpiar en seco. Secado a máquina, ciclo normal
-- 🧵 MATERIAL: El tejido sobre el que está confeccionada esta sábana es de 100 %algodón con 144 hilos. Un producto de calidad, avalado por Burrito Blanco. Se recomienda un lavadito suave inicial para que adquiera sus características de tacto y suavidad definitivas.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FHWWJVRJ{{</world>}}

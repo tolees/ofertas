@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Desigual
-- Maga: Corta
-- Estampado Arty
-- Cuello: Redondo
 - Estampado de Mickey Mouse
+- Cuello: Redondo
+- Maga: Corta
 - Confeccionado con materiales sostenibles
+- Estampado Arty
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DW9KLN8L{{</world>}}

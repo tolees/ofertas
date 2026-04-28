@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Para llaves de vaso (vasos) de 1/4" y vasos de punta de 1/4" aislados de Wera
 - La herramienta ha sido probada de manera individual en un 100 % según IEC 60900 a una tensión de 10.000 voltios para un trabajo seguro bajo la tensión permitida de hasta 1.000 voltios.
-- Adecuada para los porta-puntas aislados Wera Kraftform Kompakt VDE con toma de hexágono interior de 9 mm
 - La varilla adapta de hexágono exterior de 9 mm a cuadradillo exterior de 1/4"
+- Adecuada para los porta-puntas aislados Wera Kraftform Kompakt VDE con toma de hexágono interior de 9 mm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F7RFZZR3{{</world>}}

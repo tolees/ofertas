@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene detalles distintivos de la marca, la misma es Puma
 - Para uso diario
 - Sombrero deportivo
+- Tiene detalles distintivos de la marca, la misma es Puma
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D2LJGHQ5{{</world>}}

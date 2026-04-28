@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CEPAS PROBIÓTICAS SELECCIONADAS: Contiene Lactobacillus acidophilus DDS-1 y Bifidobacterium lactis UAB lab-12 (60.000 millones UFC), elegidas para apoyar la salud intestinal, reducir síntomas del colon irritable y mantener una flora equilibrada.
-- CÁPSULA DE LIBERACIÓN PROLONGADA: Con alcachofa, zinc, biotina y vitaminas, asegura la eficacia de los probióticos al liberar sus beneficios en el intestino. Ideal para un tratamiento de 6-12 semanas.
 - DOBLE ACCIÓN CON PROBIÓTICOS Y PREBIÓTICOS: Combina una cápsula con probióticos y otra con extractos naturales, vitaminas y minerales. Los probióticos restauran la flora intestinal, mientras los prebióticos y nutrientes equilibran el sistema digestivo.
 - ALIVIO PARA EL COLON Y FLORA INTESTINAL: EMITIUM Intestinal está formulado para aliviar molestias digestivas como diarrea, estreñimiento, hinchazón o gases. Ideal para quienes padecen Síndrome de Intestino Irritable o buscan mantener su microbiota equilibrada.
+- CÁPSULA DE LIBERACIÓN PROLONGADA: Con alcachofa, zinc, biotina y vitaminas, asegura la eficacia de los probióticos al liberar sus beneficios en el intestino. Ideal para un tratamiento de 6-12 semanas.
+- CEPAS PROBIÓTICAS SELECCIONADAS: Contiene Lactobacillus acidophilus DDS-1 y Bifidobacterium lactis UAB lab-12 (60.000 millones UFC), elegidas para apoyar la salud intestinal, reducir síntomas del colon irritable y mantener una flora equilibrada.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08DKT71YP{{</world>}}

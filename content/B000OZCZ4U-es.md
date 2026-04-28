@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Longitud de 124 milímetros Su diámetro máximo de dibujo es de 300 milímetros
-- Aguja y minas intercambiables Obtusángulo y aguja roma óptima para prevenir lesiones
 - Enviado en un estuche de plástico transparente con la tapa abatible y una regla incorporada y un tubo de minas de repuesto
 - Compás de precisión idóneo para el uso infantil y para la inciación al dibujo en etapas escolares
+- Aguja y minas intercambiables Obtusángulo y aguja roma óptima para prevenir lesiones
+- Longitud de 124 milímetros Su diámetro máximo de dibujo es de 300 milímetros
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B000OZCZ4U{{</world>}}

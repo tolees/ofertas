@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuaderno en blanco
 - Set de 5 marcos de fotos magnéticos, realizados en hoja magnética flexible
+- Cuaderno en blanco
 - Para tomar notas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

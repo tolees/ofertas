@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuidara la piel de su perro
 - Pienso natural , sino conservantes , colorantes o saborizantes
+- Cuidara la piel de su perro
 - Monoprotéico y hipoalergénico
 
 [🛒 Comprar!!!]({{< param buyurl >}})

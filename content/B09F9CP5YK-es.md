@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- LED lámparas profesionales para tensión en línea
-- Lámparas libres de mercurio
 - Casquillo: E27, B22d
 - No regulable
 - Consumo de energía muy bajo
+- LED lámparas profesionales para tensión en línea
+- Lámparas libres de mercurio
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09F9CP5YK{{</world>}}

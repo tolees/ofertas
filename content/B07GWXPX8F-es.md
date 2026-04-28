@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logo en el pecho.
-- Apto para entrenamientos.
 - Gran libertad de movimiento.
+- Apto para entrenamientos.
+- Logo en el pecho.
 - Producto de la marca Leone 1947.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

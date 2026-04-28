@@ -29,14 +29,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Horma clásica
-- Peso: 260 g (talla 38 2/3)
 - Empeine de malla con acabado que repele el agua y detalles reflectantes
-- Mediasuela Cloudfoam
 - Drop: 9 mm (talón: 32 mm / antepié: 23 mm)
-- Suela Adiwear
-- Forro textil
 - Banda de refuerzo
 - Cierre de cordones
+- Suela Adiwear
+- Peso: 260 g (talla 38 2/3)
+- Mediasuela Cloudfoam
+- Forro textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F1WYXVY7{{</world>}}

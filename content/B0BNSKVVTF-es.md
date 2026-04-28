@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillo frontal con cremallera
-- Tira para colgar
 - Compartimento principal con cremallera
-- Dimensiones: 5 cm x 15 cm x 21 cm
+- Tira para colgar
+- Bolsillo frontal con cremallera
 - Divisor interno
+- Dimensiones: 5 cm x 15 cm x 21 cm
 - Correa ajustable para el hombro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

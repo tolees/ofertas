@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Adecuado para uso diario
-- Cuenta con un estilo casual
 - Ajustable y flexible
+- Cuenta con un estilo casual
+- Adecuado para uso diario
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CLVWTVJ9{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detector de movimiento integrado: este dispositivo fue diseñado con un detector de movimiento confiable; Si descubre una presencia, una sirena cambia automáticamente como desee; Las zonas de detección son personal
-- Características: función interfónica para comunicarse a través de la cámara; Visión nocturna ; Ángulo de visión: 110 °; Índice de protección: IP65; mal tiempo
 - Garantía y satisfacción: Garantizamos la confiabilidad de nuestros innovadores productos técnicos fáciles de instalar y utilizar la comodidad y la seguridad, ofreciéndole un servicio al cliente de calidad. Su satisfacción es nuestra prioridad !
-- Cámara de vigilancia de alta calidad de 1920 x 1080 píxeles (1080p), casi perfecta. Requiere la app iSCS, disponible solo en Francia, Italia y España.
 - Función de grabación: esta cámara permite una visualización de video remota, captura de fotos en vivo o grabación de video continuo en una tarjeta micro SD (no suministrada - 4 a 128 GB - Clase 6 o superior recomendado)
+- Cámara de vigilancia de alta calidad de 1920 x 1080 píxeles (1080p), casi perfecta. Requiere la app iSCS, disponible solo en Francia, Italia y España.
+- Características: función interfónica para comunicarse a través de la cámara; Visión nocturna ; Ángulo de visión: 110 °; Índice de protección: IP65; mal tiempo
+- Detector de movimiento integrado: este dispositivo fue diseñado con un detector de movimiento confiable; Si descubre una presencia, una sirena cambia automáticamente como desee; Las zonas de detección son personal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BNQJCNC1{{</world>}}

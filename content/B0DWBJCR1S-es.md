@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Manga: Larga
+- Color: Liso
 - Desigual
+- Fit: Regular
 - Tejido ligero
 - Cuello: Redondo
-- Manga: Larga
-- Fit: Regular
-- Color: Liso
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DWBJCR1S{{</world>}}

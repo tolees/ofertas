@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño robusto: carcasa de magnesio, protección contra el frío/polvo y salpicaduras, 2 ranuras SD, joystick
-- Transmisión en vivo simple e inalámbrica a través de un teléfono inteligente o enrutador
-- Estabilizador de imagen - estabilización doble: cuerpo de 5 ejes I.S. y O.I.S. en la lente (6.5 pasos)
+- Tamaño de pantalla: 3.0 inches; Zoom óptico: 5.0 multiplier x; Resolución video: 2160p; Pantalla/visor: Electrónico
 - Calidad de imagen: sensor de 20 MP con revestimiento AR y procesador óptimizado
 - Grabaciones de video profesionales - 4K60p 4: 2: 0 10-bit o 30p 4: 2: 2 10-bit interno, FHD con 180 fps
-- Tamaño de pantalla: 3.0 inches; Zoom óptico: 5.0 multiplier x; Resolución video: 2160p; Pantalla/visor: Electrónico
+- Transmisión en vivo simple e inalámbrica a través de un teléfono inteligente o enrutador
+- Diseño robusto: carcasa de magnesio, protección contra el frío/polvo y salpicaduras, 2 ranuras SD, joystick
+- Estabilizador de imagen - estabilización doble: cuerpo de 5 ejes I.S. y O.I.S. en la lente (6.5 pasos)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B096MTVJQL{{</world>}}

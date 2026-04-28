@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte (corte: corte estándar
 - Color: negro
-- Gorilla Wear, La marca de culturismo, fitness, estilo de vida y artes marciales
+- Corte (corte: corte estándar
 - Sudadera con capucha para un espacio óptimo de movimiento.
 - Instrucciones de cuidado: lavar a 30 °C, lavado normal, no usar lejía, no secar en secadora, no planchar, no lavar en seco
+- Gorilla Wear, La marca de culturismo, fitness, estilo de vida y artes marciales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09RWT5ZGQ{{</world>}}

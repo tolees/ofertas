@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CALIDAD DEMOSTRADA: Desde 1985, esta marca de diseñador lleva demostrando por todo el mundo la calidad y la ligereza mediante una gran variedad de diseños en los míticos colores azul oscuro, blanco y rojo.
 - COMODA Y CON DETALLES ESPECIALES: Gracias a su material de alta calidad, este blazer es supercómodo de llevar. Los dos bolsillos a la altura de la cintura y la bandera metálica de Tommy Hilfiger en el bajo de las mangas proporcionan un toque especial.
 - MATERIAL Y CUIDADO: Blazer confeccionado con 66 % poliéster reciclado, 32 % viscosa sostenible y 2 % elastano. Se recomienda limpieza en seco.
+- CALIDAD DEMOSTRADA: Desde 1985, esta marca de diseñador lleva demostrando por todo el mundo la calidad y la ligereza mediante una gran variedad de diseños en los míticos colores azul oscuro, blanco y rojo.
 - ICÓNICO Y ATEMPORAL: El blazer original de Tommy Hilfiger tiene un corte clásico. El diseño sencillo y depurado convierte a esta chaqueta elegante en un clásico que no puede faltar en ningún armario.
 - CLÁSICO TODOTERRENO: Esta americana, imprescindible en cualquier armario, es una prenda muy fácil de combinar y que realza cualquier conjunto. Es el complemento perfecto para pantalones de traje para el trabajo o vaqueros informales para el día a día.
 

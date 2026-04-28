@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein SS 30s WHSL SP CK Corner Graphic LV04RE819G Azul M Azul Teal Marine M'
-date: 2026-04-21 20:20:31
+date: 2026-04-27 17:06:15
 image: 'https://m.media-amazon.com/images/I/31vm+YD2hiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0F4DKYZ8Q-es Calvin Klein SS 30s WHSL SP CK Corner Graphic LV04RE819G...'
 sku: 'B0F4DKYZ8Q-es'
 tags: [ '🇪🇸', ]
-actualPrice: 19.99 EUR
+actualPrice: 16.19 EUR
 currency: EUR
-price: 19.99
+price: 16.19
 comparePrice: 39.9 EUR
 prodname: 'Calvin Klein SS 30s WHSL SP CK Corner Graphic LV04RE819G Azul M Azul Teal Marine M'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F4DKYZ8Q/?tag=tolees-21'
-descuento: '49.90'
-average: '19.99'
+descuento: '59.42'
+average: '18.09'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

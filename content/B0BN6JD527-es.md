@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Material interior: sintético
 - Forma del tacón: plano
+- Material exterior: sintético
 - Suela: goma
 - Cierre: cremallera
-- Material exterior: sintético
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BN6JD527{{</world>}}

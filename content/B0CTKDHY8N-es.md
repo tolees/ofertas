@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- REGALO PERFECTO PARA LOS FANS DE DEADPOOL - Ideal para fiestas, cumpleaños u ocasiones especiales y como regalo esta exclusiva figurita es un complemento imprescindible en cualquier colección de merchandising de Deadpool
-- ¡COLECCIONALOS TODOS - Estos simpáticos Pop! Pins son la gama ultra coleccionable de las licencias más populares de Funko, desde éxitos de taquilla a clásicos de culto
 - MISTERIO Y SORPRESA - ¿Qué Pin sorpresa encontrarás? Vive la emoción de abrir el envoltorio ciego para revelar tu pin de esmalte coleccionable!
+- REGALO PERFECTO PARA LOS FANS DE DEADPOOL - Ideal para fiestas, cumpleaños u ocasiones especiales y como regalo esta exclusiva figurita es un complemento imprescindible en cualquier colección de merchandising de Deadpool
 - SOPORTE DE CORONA INCLUIDO - También incluido, es un soporte de corona Funko único, para ayudarte a mostrar tu pin, ¡o puedes decorar tu mochila, bolso u otros!
 - ACABADOS PREMIUM - Estos pins, insignias o broches vienen en todo tipo de acabados metálicos, con técnicas que ayudan a ampliar los límites de lo que suele ser un pin esmaltado
+- ¡COLECCIONALOS TODOS - Estos simpáticos Pop! Pins son la gama ultra coleccionable de las licencias más populares de Funko, desde éxitos de taquilla a clásicos de culto
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CTKDHY8N{{</world>}}

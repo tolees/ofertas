@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- GARANTÍA SATECHI – Nos gusta cuidar de ti: todos nuestros productos tienen 2 años de garantía ante cualquier fallo de fabricación o material. ¿Dudas? Nuestro equipo de soporte estará encantado de ayudarte siempre con una sonrisa. Además, recibirás un manual de usuario sencillo y útil para sacar el máximo partido a tu producto desde el primer día.
 - SISTEMA DE REFRIGERACIÓN EFICIENTE – Mantén tu Mac Mini fresco gracias a ventilaciones integradas que regulan la temperatura y mejoran el flujo de aire. Ideal para setups con múltiples conexiones.
-- PUERTOS DE EXPANSIÓN 7‑EN‑1 VERSÁTILES – Este hub USB-C incluye puerto de datos USB‑C (hasta 5 Gbps), tres USB 3.0, lectores Micro/SD (hasta 104 Mbps) y jack de 3,5 mm. Conecta fácilmente todos tus periféricos esenciales.
 - DISEÑO ELEGANTE E INTEGRADO – Este hub usb c con acabado cepillado y cuerpo de aluminio gris espacial se integra visualmente con tu Mac Mini. Compatible con varios dispositivos modernos. No es compatible con Mac Mini M4 2024.
+- PUERTOS DE EXPANSIÓN 7‑EN‑1 VERSÁTILES – Este hub USB-C incluye puerto de datos USB‑C (hasta 5 Gbps), tres USB 3.0, lectores Micro/SD (hasta 104 Mbps) y jack de 3,5 mm. Conecta fácilmente todos tus periféricos esenciales.
+- GARANTÍA SATECHI – Nos gusta cuidar de ti: todos nuestros productos tienen 2 años de garantía ante cualquier fallo de fabricación o material. ¿Dudas? Nuestro equipo de soporte estará encantado de ayudarte siempre con una sonrisa. Además, recibirás un manual de usuario sencillo y útil para sacar el máximo partido a tu producto desde el primer día.
 - FABRICACIÓN INNOVADORA – Adaptador multipuerto con diseño patentado que combina soporte para Mac Mini y hub usb c en una sola conexión Type‑C. Solución compacta y eficaz para tu escritorio.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Formando una capa protectora contra el agua y la suciedad diaria
 - Cuidado y protección para suelos de piedra natural y artificial, linóleo y PVC
 - Producto de limpieza listo para usar
-- Se eliminan las huellas, se renueva la película protectora y el piso adquiere un acabado semi brillante
 - Dimensiones del producto: 10 x 10 x 21.5 cm
+- Se eliminan las huellas, se renueva la película protectora y el piso adquiere un acabado semi brillante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00B17I6ZC{{</world>}}

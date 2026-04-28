@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Medidas generales: 92 x 120 x 47cm (alto x ancho x profundo); Medida diámetro del grifo: 3.5 cm; Medidas interiores cajones: 19 x 52 x 33 cm (alto x ancho x profundo); Altura dentro de puertas: 40 cm; Medidas salvasifón (en cajones): 28 x 14 cm
-- Material: aglomerado de partículas y melamina de alta densidad
+- Necesita montaje. No se incluye las siguientes herramientas: destornillador, martillo, cinta americana, metro...
 - Color: Blanco/Roble Cambrian
 - Características: -Guías metálicas con cierre progresivo -Tiradores de plástico ABS gris -Patas de plástico ABS. Altura: 9 cm -Molduras en puertas y cajones -Gran grosor en la tapa -NO se incluye grifería -NO se incluye espejo
-- Necesita montaje. No se incluye las siguientes herramientas: destornillador, martillo, cinta americana, metro...
+- Medidas generales: 92 x 120 x 47cm (alto x ancho x profundo); Medida diámetro del grifo: 3.5 cm; Medidas interiores cajones: 19 x 52 x 33 cm (alto x ancho x profundo); Altura dentro de puertas: 40 cm; Medidas salvasifón (en cajones): 28 x 14 cm
+- Material: aglomerado de partículas y melamina de alta densidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C4B7L3ZV{{</world>}}

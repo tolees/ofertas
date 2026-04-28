@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Horma clásica
 - Empeine textil y sintético
-- Puntera Adituff
-- Suela Adiwear
 - Amortiguación Lightstrike
+- Horma clásica
+- Suela Adiwear
+- Puntera Adituff
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHVZXWKP{{</world>}}

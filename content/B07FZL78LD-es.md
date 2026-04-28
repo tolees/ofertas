@@ -30,10 +30,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Depósito extraíble
 - Autonomía ilimitada
-- Función eco para limitar el consumo
-- Centro de planchado a vapor con bomba de 6,5 bar
 - Temperatura de la plancha regulable
+- Centro de planchado a vapor con bomba de 6,5 bar
 - Orificios concentrados por toda la superficie de la plancha para una erogación de vapor más uniforme
+- Función eco para limitar el consumo
 - Suela de cerámica para un mayor deslizamiento
 
 [🛒 Aquí!!!]({{< param buyurl >}})

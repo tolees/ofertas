@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Alarma sonora y visual para valores encima y abajo de la diferencia de temperatura preseleccionada
+- Resolución óptica (D:S): 10:1
 - Precisión máx.: ±2.0 °C o ± 2 °C de la lectura
 - Rango de medición por infrarrojos: -50 °C a +380 °C
-- Resolución óptica (D:S): 10:1
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01C2WFU6M{{</world>}}

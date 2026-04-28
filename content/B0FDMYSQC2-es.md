@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Skech-Air
 - MF refrigerado por aire
+- Skech-Air
 - Ajuste de cuña
 
 [🛒 Visítala!!!]({{< param buyurl >}})

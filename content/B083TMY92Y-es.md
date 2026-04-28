@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cintura: cintura totalmente elástica con cordón de ajuste
-- Logo serigrafiado en la pierna izquierda
 - Tejido Repreve elástico en 4 direcciones, fabricado a base de botellas de plástico
+- Cintura: cintura totalmente elástica con cordón de ajuste
 - Corte: Corte de longitud media
+- Logo serigrafiado en la pierna izquierda
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B083TMY92Y{{</world>}}

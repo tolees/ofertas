@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- cierra con cremallera
 - un bolsillo frontal abierto
 - 24 x 15 x 8 centímetros
+- cierra con cremallera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BNNPGN2H{{</world>}}

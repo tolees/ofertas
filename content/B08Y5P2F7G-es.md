@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Chaqueta con cremallera
-- Chándal de dos piezas formado por chaqueta con cuello alto y pantalón largo con bolsillos y cintura elástica ajustable. Logotipo estampado.
 - Pantalón con cordones
-- Tipo de fábrica: 100 % poliéster
 - Rib en puños y bajo
+- Chándal de dos piezas formado por chaqueta con cuello alto y pantalón largo con bolsillos y cintura elástica ajustable. Logotipo estampado.
+- Tipo de fábrica: 100 % poliéster
+- Chaqueta con cremallera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08Y5P2F7G{{</world>}}

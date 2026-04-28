@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material exterior: Lona
 - Material de la suela: Caucho
+- Material exterior: Lona
 - Cierre: Cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

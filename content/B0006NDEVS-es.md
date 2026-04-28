@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La tapa de goma del dedo del pie
 - Parche con la estrella
 - Suela de caucho vulcanizado
+- La tapa de goma del dedo del pie
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0006NDEVS{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100% ante de vaca
 - Botines Dissy Etnic W de gamuza de vaca con forro cálido y plantilla, costuras pesadas en contraste de color
+- 100% ante de vaca
 - Suela de plataforma y parche de goma con logo clásico en la parte posterior
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

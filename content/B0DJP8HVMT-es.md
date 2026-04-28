@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 100 % acrílico
 - Talla única
 - Puño con vuelta
+- 100 % acrílico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DJP8HVMT{{</world>}}

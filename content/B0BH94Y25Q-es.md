@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Devuelve elasticidad, hidratación y brillo al cabello
-- Revitaliza y reestructura el cabello desde la raíz
 - Fortalece y recupera el cabello
+- Revitaliza y reestructura el cabello desde la raíz
+- Devuelve elasticidad, hidratación y brillo al cabello
 - Acondiciona el cabello facilitando el peinado
 - Libre de sal, sulfatos y parabenos
 

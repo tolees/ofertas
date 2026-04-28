@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fabricado en un lavado índigo claro con un desvanecimiento completo
 - Jeans ajustados clásicos con uno de nuestros bajos
 - 92,5% algodón, 6% poliéster, 1,5% elastano
+- Fabricado en un lavado índigo claro con un desvanecimiento completo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DKFRFSC7{{</world>}}

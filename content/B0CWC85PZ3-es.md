@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Horma clásica
-- Empeine de piel
 - Forro textil
-- Suela de goma
 - Cierre de cordones
+- Empeine de piel
+- Suela de goma
+- Horma clásica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CWC85PZ3{{</world>}}

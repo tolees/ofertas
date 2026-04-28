@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Costuras planas para poco volumen.
 - Bolsillos para las manos con cremallera YKK
-- Polartec
 - Abertura frontal con cremallera helicoidal YKK completa
+- Polartec
+- Costuras planas para poco volumen.
 - CREMALLERA YKK
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

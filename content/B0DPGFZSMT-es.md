@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bragueta: cremallera
-- __Conscious by Nature: __ Algodón reciclado GRS
 - __Ajuste: __ Ajuste regular
+- Bragueta: cremallera
 - __Colección:__ Colección Mainline
+- __Conscious by Nature: __ Algodón reciclado GRS
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DPGFZSMT{{</world>}}

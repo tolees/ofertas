@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- RESISTENTE AL AGUA - Repele moho y jabón, no vinílico, No PEVA, Amigable con el Medio Ambiente
 - MEDIDAS - 175 cm ancho x 180 cm alto. Tela turca de alta calidad. HECHO EN TURQUIA.
 - BRINDA GRAN PERSPECTIVA - Gráficos llamativos estampados con tecnología diigital de avanzada.
 - DISEÑO DE AUTOR - No es una cortina de baño común y corriente. Única. Original. DIVERTIDA.
 - APTO LAVADORA – Colores vibrantes, imágen nitida, durable, sin tinturas nocivas para la salud
+- RESISTENTE AL AGUA - Repele moho y jabón, no vinílico, No PEVA, Amigable con el Medio Ambiente
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0828TXXJ5{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CONTENIDO: una elegante caja de regalo, lista para regalar y disfrutar. Una selección de 3 vinos del Haut-Médoc y del Médoc para descubrir los Crus Bourgeois de estas regiones, todos procedentes de las fincas de la familia Castel.
-- VINO 3: Château Tour Prignac, DOP Médoc Cru Bourgeois, una de las mejores fincas de Médoc. Certificado Terra Vitis (graduación 13,5 %).
 - VINO 2: Château dArcins, DOP Haut-Médoc Cru Bourgeois, uno de los primeros viñedos de Haut-Médoc desarrollado en 1300 por la Commanderie des Templiers. Certificado Terra Vitis (graduación 13%).
 - VINO 1: Château Barreyres, DOP Haut-Médoc Cru Bourgeois, una joya de la denominación Haut-Médoc gracias a su excepcional terruño de grava. Certificado Terra Vitis (graduación 13 %).
+- VINO 3: Château Tour Prignac, DOP Médoc Cru Bourgeois, una de las mejores fincas de Médoc. Certificado Terra Vitis (graduación 13,5 %).
 - CAJA DE REGALO: una caja de regalo perfecta para descubrir los vinos de las fincas de la familia Castel de los viñedos de Burdeos, y que garantiza el placer con estos 3 grandes vinos tintos clasificados como Cru Bourgeois.
+- CONTENIDO: una elegante caja de regalo, lista para regalar y disfrutar. Una selección de 3 vinos del Haut-Médoc y del Médoc para descubrir los Crus Bourgeois de estas regiones, todos procedentes de las fincas de la familia Castel.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C2PZ6KZ8{{</world>}}

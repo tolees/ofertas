@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tecnología Dri-Fit
 - corte ajustado
 - Camisa manga corta
+- Tecnología Dri-Fit
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C4B49P4S{{</world>}}

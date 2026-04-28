@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Davidoff Cool Water Eau de Toilette para Hombre | Fragancia aromática masculina fresca y con notas de cilantro menta y lavanda | Intensidad media | 200 ml'
-date: 2026-04-22 21:12:47
+date: 2026-04-28 00:45:56
 image: 'https://m.media-amazon.com/images/I/31VAffv6yEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B002XITZ1C/?tag=tolees-21'
 descuento: '69.91'
-average: '29.1372463768115'
+average: '29.1130985915492'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Notas altas: agua de mar, menta, verde, lavanda, cilantro, romero y calone
-- Una fragancia fresca y aromática
 - Aprovecha el poder del océano
+- Una fragancia fresca y aromática
+- Notas altas: agua de mar, menta, verde, lavanda, cilantro, romero y calone
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B002XITZ1C{{</world>}}

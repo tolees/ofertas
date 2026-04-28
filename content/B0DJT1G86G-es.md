@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- UN JUEGO APASIONANTE Y FÁCIL DE APRENDER: Disney Lorcana es ideal tanto para principiantes como para jugadores experimentados, ofreciendo una experiencia estratégica profunda. Se puede jugar con 2 o más jugadores a partir de 8 años, y cada partida dura aproximadamente 10 minutos por jugador.
-- DISNEY LORCANA: Explora el encantador mundo de Lorcana en este extraordinario juego de cartas coleccionables. Descubre las impresionantes ilustraciones originales que capturan maravillosamente la esencia de los populares personajes Disney
-- PRELUDIO: La versión Preludio de Disney Lorcana incluye 48 cartas, 30 contadores de daño, 2 fichas, 1 tablero de juego, manuales y reglamento
 - COLECCIONA, INTERCAMBIA Y DESAFÍA: Crea tu mazo perfecto, colecciona cartas raras y reta a otros fanáticos de Disney en emocionantes desafíos. ¡Un viaje épico lleno de estrategia y diversión!
+- DISNEY LORCANA: Explora el encantador mundo de Lorcana en este extraordinario juego de cartas coleccionables. Descubre las impresionantes ilustraciones originales que capturan maravillosamente la esencia de los populares personajes Disney
 - ILUSTRACIONES IMPRESIONANTES Y ÚNICAS: Disfruta de más de 200 ilustraciones originales de Disney en cada set, creando la colección más grande de arte Disney en un solo producto. Cada carta ofrece un diseño fascinante que te sumergirá aún más en el mundo Disney.
+- UN JUEGO APASIONANTE Y FÁCIL DE APRENDER: Disney Lorcana es ideal tanto para principiantes como para jugadores experimentados, ofreciendo una experiencia estratégica profunda. Se puede jugar con 2 o más jugadores a partir de 8 años, y cada partida dura aproximadamente 10 minutos por jugador.
+- PRELUDIO: La versión Preludio de Disney Lorcana incluye 48 cartas, 30 contadores de daño, 2 fichas, 1 tablero de juego, manuales y reglamento
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJT1G86G{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Gran durabilidad sobre la piel
 - Fragancia para hombre.
+- Gran durabilidad sobre la piel
 - Con Alcohol
 
 [🛒 Aquí!!!]({{< param buyurl >}})

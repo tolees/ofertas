@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Consigue combinaciones de escaleras de color con 4 números o agrupar al menos 3 mismos números de diferente color, ¡gana quien se quede sin fichas antes!
-- Juego de inteligencia que trabaja con operaciones matemáticas básicas, lógica, atención, concentración, habilidad mental y socialización
 - El juego incluye 111 piezas: 4 atriles azules de 3 filas con soporte estable para colocar tus números y 107 fichas con números y comodines grandes
-- Juego de mesa diseñado para que participen de 2 a 4 jugadores y está recomendado para niños a partir de 6 años
 - Desafía a tu mente con el juego de números más clásico y popular de todos los tiempos: Rummy CB Games, ¡para retar a tu familia y amigos!
+- Juego de inteligencia que trabaja con operaciones matemáticas básicas, lógica, atención, concentración, habilidad mental y socialización
+- Juego de mesa diseñado para que participen de 2 a 4 jugadores y está recomendado para niños a partir de 6 años
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07VG9T5RW{{</world>}}

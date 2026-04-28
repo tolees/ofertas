@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aplica la espuma con las manos húmedas, masajea el rostro con movimientos suaves circulares. Aclara con agua tibia y seca a toques con una toalla suave. Ideal para una doble limpieza tras un maquillaje pesado
-- Espuma limpiadora Gentle Cleansing Mousse Sensilis con ácido hialurónico y vitamina B5, que limpia suavemente pieles sensibles reactivas, hidrata y calma sin resecar ni alterar la barrera cutánea
 - Elimina impurezas y maquillaje sin alterar barrera cutánea, hidrata 24h consecutivas, calma rojeces inmediatamente, sin jabón ni perfume. Su formula está testada en pieles atópicas y con dermatitis para máxima seguridad
+- Espuma limpiadora Gentle Cleansing Mousse Sensilis con ácido hialurónico y vitamina B5, que limpia suavemente pieles sensibles reactivas, hidrata y calma sin resecar ni alterar la barrera cutánea
+- Aplica la espuma con las manos húmedas, masajea el rostro con movimientos suaves circulares. Aclara con agua tibia y seca a toques con una toalla suave. Ideal para una doble limpieza tras un maquillaje pesado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09FFFV1XX{{</world>}}

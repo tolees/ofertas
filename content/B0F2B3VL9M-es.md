@@ -29,12 +29,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Diseño en T
-- Plantilla textil
-- Diseño de perfil fino
-- Empeine de material sintético
 - Cordones
-- Horma clásica
+- Diseño de perfil fino
 - Suela de goma
+- Horma clásica
+- Empeine de material sintético
+- Plantilla textil
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F2B3VL9M{{</world>}}

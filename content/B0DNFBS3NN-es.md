@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Duración de la batería de hasta 2,5 horas. 1 pila de 9 V incluida
-- A partir del 1 de enero de 2026, el dispositivo será obligatorio en España: Todos los conductores con matrícula española deberán estar equipados con una V16 IoT, que sustituirá al triángulo de emergencia
-- Base magnética para facilitar la instalación en el techo. Montaje rápido y sencillo en el vehículo gracias a su diseño compacto y a su fijación magnética. El encendido del dispositivo no sustituye la llamada a la policía, ambulancia u otras autoridades
 - Luz de advertencia ámbar intermitente de 360 grados certificada por la DGT 3.0. Transferencia anónima de datos y la posición del vehículo a la DGT 3.0. Permite la localización en tiempo real
+- Duración de la batería de hasta 2,5 horas. 1 pila de 9 V incluida
+- Base magnética para facilitar la instalación en el techo. Montaje rápido y sencillo en el vehículo gracias a su diseño compacto y a su fijación magnética. El encendido del dispositivo no sustituye la llamada a la policía, ambulancia u otras autoridades
+- A partir del 1 de enero de 2026, el dispositivo será obligatorio en España: Todos los conductores con matrícula española deberán estar equipados con una V16 IoT, que sustituirá al triángulo de emergencia
 - Potencia luminosa de 140 lm y alcance luminoso de hasta 1 000 m: Color de luz de 1900K, 10 LED de alto rendimiento y larga duración
 
 [🛒 Aquí!!!]({{< param buyurl >}})

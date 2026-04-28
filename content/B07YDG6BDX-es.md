@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🔄 Adaptable y Versátil: Compatible con un amplio rango de voltajes (170-265V AC), este panel es fácil de instalar en diversas configuraciones eléctricas. Su ángulo de iluminación de 120º garantiza una distribución uniforme de la luz, adaptándose a diferentes espacios.
-- 🌈 Diseño Elegante y Dimensiones Perfectas: El acabado blanco y las dimensiones de 595X595X35H mm hacen que este panel se integre perfectamente en cualquier entorno. Su diseño delgado y elegante complementa la estética de tu espacio, proporcionando una iluminación que también es un elemento de diseño.
-- 💡 Potencia y Eficiencia: Con 42 vatios de potencia, el Panel LED Serie Trielle 60X60 cm 42W ofrece una luminosidad impresionante de 4200 lúmenes, iluminando tu espacio con claridad y eficiencia. Ideal para entornos que buscan una iluminación brillante.
 - 🌟 Calidad Visual y Garantía Extendida: Con un CRI de 80 y un UGR de 19, el Panel LED Serie Trielle ofrece colores naturales y una luz sin deslumbramientos. Respaldamos nuestra calidad con una garantía extendida de 5 años, proporcionando tranquilidad y confianza en tu inversión luminosa. ¡Haz clic ahora para experimentar la excelencia de Trielle!
 - 🔒 Protección Confiable: Fabricado en aluminio de alta calidad, este panel cuenta con una clasificación de protección IP40, asegurando durabilidad y resistencia al polvo. Confía en la fiabilidad de Trielle para brindar una iluminación constante y duradera.
+- 💡 Potencia y Eficiencia: Con 42 vatios de potencia, el Panel LED Serie Trielle 60X60 cm 42W ofrece una luminosidad impresionante de 4200 lúmenes, iluminando tu espacio con claridad y eficiencia. Ideal para entornos que buscan una iluminación brillante.
+- 🌈 Diseño Elegante y Dimensiones Perfectas: El acabado blanco y las dimensiones de 595X595X35H mm hacen que este panel se integre perfectamente en cualquier entorno. Su diseño delgado y elegante complementa la estética de tu espacio, proporcionando una iluminación que también es un elemento de diseño.
+- 🔄 Adaptable y Versátil: Compatible con un amplio rango de voltajes (170-265V AC), este panel es fácil de instalar en diversas configuraciones eléctricas. Su ángulo de iluminación de 120º garantiza una distribución uniforme de la luz, adaptándose a diferentes espacios.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07YDG6BDX{{</world>}}

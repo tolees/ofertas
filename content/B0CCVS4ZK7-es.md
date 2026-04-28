@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Apto para todo tipo de pieles
 - Mascarilla desmaquillante con fórmula sin agua
 - La mascarilla demaquillante waterless elimina el maquillaje más resistente y los protectores solares
-- Apto para todo tipo de pieles
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CCVS4ZK7{{</world>}}

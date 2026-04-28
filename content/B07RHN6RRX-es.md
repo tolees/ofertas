@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Una marca con mil millones de sueños - siéntase vivo con los tés premium de VAHDAM India. Una marca global líder, realizamos envíos a más de 3 millones de clientes en más de 130 países. Orgullosamente neutros en carbono y plástico, invertimos en sostenibilidad ambiental bajo nuestra etiqueta sostenible de cosecha propia.
+- Infusión de sabor a bergamota - elaborada a partir de té negro puro y sabor a bergamota, utiliza ingredientes 100% reales para una infusión deliciosa. Sus notas cítricas realzan el té robusto, ofreciendo una experiencia sabrosa con cafeína media para un suave impulso.
+- Comercio ético, directo y justo - nuestra cadena de suministro garantiza que usted obtenga el té más fresco y que los agricultores reciban precios justos. Reinvertimos el 1% de nuestros ingresos en la educación de los hijos de nuestros productores de té a través de nuestra iniciativa Teach Me, honrando sus aspiraciones y apoyando su futuro.
 - Cítrico Earl Grey de la India - el té cítrico Earl Grey de las ricas regiones de té de la India ofrece sabores robustos y con mucho cuerpo, perfectos para notas cítricas. Cargado de una rica herencia cultural, el té indio agrega autenticidad y una historia única a cada taza, brindando una experiencia encantadora.
 - Bolsitas de té todo el sabor - La forma piramidal de las bolsitas de té permite que las hojas se desplieguen completamente, liberando ricos sabores para una experiencia de té aromático.
-- Infusión de sabor a bergamota - elaborada a partir de té negro puro y sabor a bergamota, utiliza ingredientes 100% reales para una infusión deliciosa. Sus notas cítricas realzan el té robusto, ofreciendo una experiencia sabrosa con cafeína media para un suave impulso.
-- Una marca con mil millones de sueños - siéntase vivo con los tés premium de VAHDAM India. Una marca global líder, realizamos envíos a más de 3 millones de clientes en más de 130 países. Orgullosamente neutros en carbono y plástico, invertimos en sostenibilidad ambiental bajo nuestra etiqueta sostenible de cosecha propia.
-- Comercio ético, directo y justo - nuestra cadena de suministro garantiza que usted obtenga el té más fresco y que los agricultores reciban precios justos. Reinvertimos el 1% de nuestros ingresos en la educación de los hijos de nuestros productores de té a través de nuestra iniciativa Teach Me, honrando sus aspiraciones y apoyando su futuro.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07RHN6RRX{{</world>}}

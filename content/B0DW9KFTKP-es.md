@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Plantilla extraíble
-- Softlight
-- Zapatillas unisex
 - Suelas flexibles y mayor comodidad
 - Forro de Microfibra
+- Zapatillas unisex
+- Plantilla extraíble
+- Softlight
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DW9KFTKP{{</world>}}

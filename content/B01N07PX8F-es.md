@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Parte inferior de goma antideslizante
 - Puede utilizarse con todos los sensores y sensibilidades de ratón
+- Parte inferior de goma antideslizante
 - Superficie de textura optimizada para garantizar una precisión óptima y un control suave
 - Diseño de superficie XXL (930x300x3mm)
 

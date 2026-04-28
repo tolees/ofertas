@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Detalles distintivos de la marca
 - Tejido ligero y suave
 - Camiseta de manga corta de 100% algodón
-- Detalles distintivos de la marca
 - Amplia libertad de movimiento
 
 [🛒 Comprar!!!]({{< param buyurl >}})

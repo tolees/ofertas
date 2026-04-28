@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con tejido ligero y transpirable
 - Detalles distintivos de la marca
 - Ajuste cómodo
+- Con tejido ligero y transpirable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DK44D9M9{{</world>}}

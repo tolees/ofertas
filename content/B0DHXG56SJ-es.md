@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Mediasuela Cloudfoam
-- Suela de goma
 - Empeine sintético y de piel
 - Forro textil
+- Suela de goma
 - Horma clásica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

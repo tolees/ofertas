@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Ancho: 325 mm.
+- Longitud: 265 mm.
 - Altura: 150 mm.
 - 1 unidad.
 - Material: acero inoxidable.
-- Longitud: 265 mm.
-- Ancho: 325 mm.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B005NYM4XY{{</world>}}

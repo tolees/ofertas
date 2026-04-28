@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- manga corta
-- Camiseta
 - Composición: 100% algodón
+- manga corta
 - Corte holgado
+- Camiseta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C36LR3CR{{</world>}}

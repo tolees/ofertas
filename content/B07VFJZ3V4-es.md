@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - CEPILLO PARA NIÑOS: Tangle Teezer Cepillo Mini Original está diseñado para manos más pequeñas, permitiendo desenredar el cabello sin tirones ni molestias. Ideal para hacer que la hora del baño sea más sencilla y sin complicaciones.
-- PARA TODO TIPO DE CABELLO: Nuestro cepillo desenredante original mini es ideal para cabellos lisos, ondulados y rizados. Suaviza los nudos incluso en los cabellos más delicados, y se puede usar tanto en cabello seco como mojado.
-- CEPILLO DESENREDANTE: Su diseño compacto y ergonómico se adapta perfectamente a la palma de la mano, proporcionando un agarre seguro. Ideal para distribuir acondicionadores, mascarillas o tratamientos capilares de manera uniforme.
 - RUTINA CAPILAR: Para conseguir los mejores resultados, prepara tu cuero cabelludo con Tangle Teezer Scalp Exfoliator & Massager, desenreda con tu cepillo desenredante, y péinate con nuestro cepillo para secado y nuestro peine moldeador.
+- CEPILLO DESENREDANTE: Su diseño compacto y ergonómico se adapta perfectamente a la palma de la mano, proporcionando un agarre seguro. Ideal para distribuir acondicionadores, mascarillas o tratamientos capilares de manera uniforme.
+- PARA TODO TIPO DE CABELLO: Nuestro cepillo desenredante original mini es ideal para cabellos lisos, ondulados y rizados. Suaviza los nudos incluso en los cabellos más delicados, y se puede usar tanto en cabello seco como mojado.
 - DISEÑO ERGONÓMICO Y CÓMODO: Su diseño icónico cuenta con 325 púas de doble altura, que se deslizan sin esfuerzo por el cabello seco o mojado, eliminando los nudos sin rotura ni daños. Ideal para niños.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

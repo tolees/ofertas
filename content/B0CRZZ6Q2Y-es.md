@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello alzado
-- Cuello, puños y cintura acanalados
-- Bolsillo con cremallera en el pecho, bolsillos con ribete en la cintura
-- Bolsillo y trabilla en el interior
 - Cierre de cremallera
+- Cuello alzado
+- Bolsillo y trabilla en el interior
+- Bolsillo con cremallera en el pecho, bolsillos con ribete en la cintura
+- Cuello, puños y cintura acanalados
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CRZZ6Q2Y{{</world>}}

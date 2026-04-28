@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Sujetador triangular padded
-- Colección Lovely Algodón
 - Lavar a máquina
+- Colección Lovely Algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FDBG8HXP{{</world>}}

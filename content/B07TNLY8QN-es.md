@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con faldón curvado
 - Minilogotipo de Levis en el pecho
+- Con faldón curvado
 - Modelo casual
 
 [🛒 Aquí!!!]({{< param buyurl >}})

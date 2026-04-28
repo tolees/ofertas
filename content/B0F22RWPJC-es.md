@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Disfruta del emocionante nuevo capítulo de Braking Point, nuevas características que te permitirán vivir la historia a tu manera, incluidos escenarios alternativos en los que elegirás con qué piloto jugar en las carreras clave
 - Conviértete en titular en Mi Equipo "2,0", Prepárate para crear tus propias historias de F1 en el modo favorito de la afición, Mi Equipo, con la mayor actualización desde su introducción
-- Juega como APXGP de F1 THE MOVIE en el modo Como Piloto o Mi equipo; Esta oferta promocional finaliza el 11 de julio de 2025 a las 15:00 UTC
-- EA SPORTS F1 25 es el videojuego oficial del 2025 FIA Formula One World Championship
+- Disfruta del emocionante nuevo capítulo de Braking Point, nuevas características que te permitirán vivir la historia a tu manera, incluidos escenarios alternativos en los que elegirás con qué piloto jugar en las carreras clave
 - La Iconic Edition contiene Pack de parachoques de F1 World, 18 000 PitCoin, Pack icónico de Lewis Hamilton, Pilotos Iconos de F3 (Voisin, Zagazeta, Tsolov y Tramnitz)
+- EA SPORTS F1 25 es el videojuego oficial del 2025 FIA Formula One World Championship
+- Juega como APXGP de F1 THE MOVIE en el modo Como Piloto o Mi equipo; Esta oferta promocional finaliza el 11 de julio de 2025 a las 15:00 UTC
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F22RWPJC{{</world>}}

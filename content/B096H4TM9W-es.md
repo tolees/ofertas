@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte superior de material sintético
 - Cierre con velcro
+- Parte superior de material sintético
 - Tiene tacón plano
 
 [🛒 Comprar!!!]({{< param buyurl >}})

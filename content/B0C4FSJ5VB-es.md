@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Fácil de aplicar
 - Tratamiento anti acné
 - Producto de calidad óptima
-- Fácil de aplicar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C4FSJ5VB{{</world>}}

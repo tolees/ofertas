@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Carro para muñecas de hasta 46 cm
 - Con cesto de la compra integrado y bolsa
-- Cochecito muñecas Trendy en colores modernos y frescos
 - Carriot de muñeca con altura regulable (39 y 68 cm)
+- Cochecito muñecas Trendy en colores modernos y frescos
 - Cochecito para muñecas fácil de plegar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

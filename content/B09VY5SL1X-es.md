@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MODO DE EMPLEO: Agitar el frasco y aplicar sobre el rostro y el cuerpo de manera uniforme. Aplicar con frecuencia en caso de transpiración intensa y después de bañarse o secarse
 - PROTEGE E HIDRATA: También cuenta con niacinamida, que ofrece una acción antioxidante y fotoprotectora; el ácido hialurónico se tiene acción hidratante, siendo beneficiosa y necesaria para la piel
 - REPARA Y REDUCE: Está formulado con DNA Repair Complex, que estimula y acelera los procesos naturales de reparación del ADN, reduciendo el eritema y la formación de CPD
+- MODO DE EMPLEO: Agitar el frasco y aplicar sobre el rostro y el cuerpo de manera uniforme. Aplicar con frecuencia en caso de transpiración intensa y después de bañarse o secarse
 - SUN SYSTEM AK-REPAIR 100: Es una emulsión fluida de muy altra fotoprotección para pieles propensas al eritema, a la formación de manchas y a las condiciones adversas de la piel, como el daño actínico
 - MEDIOAMBIENTE: Este protector solar en formato fluido protege el cutis expuesto a riesgos provocados por factores ambientales como la contaminación; además es resistente al agua y respetuoso con el medioambiente
 

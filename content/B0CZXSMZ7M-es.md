@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte clásico
-- Cintura elástica con cordón
-- Contiene al menos un 70% de material reciclado y renovable
 - 70% algodón / 30% poliéster (reciclado)
+- Contiene al menos un 70% de material reciclado y renovable
+- Cintura elástica con cordón
+- Corte clásico
 - Talle medio
 - Bolsillos frontales
 - Puños de canalé

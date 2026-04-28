@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tercera banda adicional: una banda dedicada entre el router Orbi y los satélites libera a las otras bandas para una optima velocidad de la red WiFi
-- Velocidad de red multi-gigabito: 4x 1 GBit y 1x 2,5 GBit de conexiones de red en el router y en cada satélite para conexiones optimas por cable sin pérdida de ancho de banda para los dispositivos WLAN
 - Compatibilidad y seguridad futura: Compatible con todos los proveedores de Internet y los últimos dispositivos WiFi 6 (iPhone 11, Samsung Galaxy S10, Grado 10), compatible con WiFi 4 y 5 (802.11n/ac)
 - Rendimiento WiFi 6 Ultimate-AX6000 de 12 flujos Tribanda; El WiFi 6 802.11 AX potencia hasta un total de 6 Gbps de streaming de videoconferencia, transferencias de archivos grandes y descargas
 - Cobertura y capacidad: (1 router y 1 satélite) Cobertura WLAN hasta 400 m2 y 256 dispositivos, ampliable hasta 6 satélites - 1.200 m2 (satélites SXS80 adicionales se venden por separado)
 - Cobertura de hasta 400 metros cuadrados y 100 usuarios simultáneos. El sistema mesh ampliable admite hasta 6 satélites y 1.400 metros cuadrados de cobertura total (los satélites adicionales se venden por separado)
+- Tercera banda adicional: una banda dedicada entre el router Orbi y los satélites libera a las otras bandas para una optima velocidad de la red WiFi
+- Velocidad de red multi-gigabito: 4x 1 GBit y 1x 2,5 GBit de conexiones de red en el router y en cada satélite para conexiones optimas por cable sin pérdida de ancho de banda para los dispositivos WLAN
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01NAU5YEK{{</world>}}

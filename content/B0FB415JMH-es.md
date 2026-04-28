@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Horma clásica
-- Suela de goma
-- Empeine sintético y textil
 - Forro textil
 - Cordones
+- Horma clásica
+- Empeine sintético y textil
+- Suela de goma
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FB415JMH{{</world>}}

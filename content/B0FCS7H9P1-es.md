@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corre a toda velocidad en 24 circuitos y teletransporta a 15 CrossWorlds gracias a los Anillos de transferencia. Este mecanismo de juego transporta a los personajes emblemáticos de los universos de Sonic y SEGA a través de nuevas dimensiones. Disfruta del efecto sorpresa al modificar la topografía de cada carrera
-- Reserva Sonic Racing: CrossWorlds para recibir el personaje jugable Lobo-Erizo, el vehículo Beast Spike y la pegatina a juego
-- Elige uno de los 23 personajes icónicos del universo de Sonic gracias a la más amplia gama de personajes de todos los juegos de Sonic Racing
 - Corre en tierra, en el agua, en el aire y a través del tiempo y el espacio en Sonic Racing: CrossWorlds
+- Reserva Sonic Racing: CrossWorlds para recibir el personaje jugable Lobo-Erizo, el vehículo Beast Spike y la pegatina a juego
+- Corre a toda velocidad en 24 circuitos y teletransporta a 15 CrossWorlds gracias a los Anillos de transferencia. Este mecanismo de juego transporta a los personajes emblemáticos de los universos de Sonic y SEGA a través de nuevas dimensiones. Disfruta del efecto sorpresa al modificar la topografía de cada carrera
+- Elige uno de los 23 personajes icónicos del universo de Sonic gracias a la más amplia gama de personajes de todos los juegos de Sonic Racing
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FCS7H9P1{{</world>}}

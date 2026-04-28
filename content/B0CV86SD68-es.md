@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Chaqueta larga con cremallera Soudee Schott
 - Calidad Schott desde 1913
+- Chaqueta larga con cremallera Soudee Schott
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CV86SD68{{</world>}}

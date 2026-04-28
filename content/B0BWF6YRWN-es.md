@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ACERCA DE SIMON: Nacida en un pequeño taller de Olot, SIMON es una multinacional líder en material eléctrico y referente de diseño, con más de 100 años formando parte de la vida cotidiana de muchas personas
-- COMBINACIÓN DE ENCHUFES: Incluye 4 tomas de Schuko 16 Amperios (250V) y 2 puertos de carga USB tipo A con una potencia máxima de 2,4 Amperios
-- REGLETA SIMON: Ladrón de enchufes con toma tierra para que puedas conectar tus dispositivos desde un mismo lugar y ocupando el menor espacio posible
 - SEGURIDAD: Dispone de un sistema para proteger los elementos conectados frente sobretensiones y sobrecargas, y cuenta con un led luminoso que informa si la protección está activada
 - EXTENSIÓN DE LAS TOMAS DE CORRIENTE: Gracias a su cable de 2 metros (3G1,5mm²), podrás conectar aquellos dispositivos que se encuentren más alejados de los enchufes de pared
+- REGLETA SIMON: Ladrón de enchufes con toma tierra para que puedas conectar tus dispositivos desde un mismo lugar y ocupando el menor espacio posible
+- COMBINACIÓN DE ENCHUFES: Incluye 4 tomas de Schuko 16 Amperios (250V) y 2 puertos de carga USB tipo A con una potencia máxima de 2,4 Amperios
+- ACERCA DE SIMON: Nacida en un pequeño taller de Olot, SIMON es una multinacional líder en material eléctrico y referente de diseño, con más de 100 años formando parte de la vida cotidiana de muchas personas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BWF6YRWN{{</world>}}

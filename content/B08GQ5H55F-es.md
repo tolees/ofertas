@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Correa ajustable
-- Parche con logo en el frente
 - Bolsa utilitaria para tripulación
+- Parche con logo en el frente
+- Correa ajustable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08GQ5H55F{{</world>}}

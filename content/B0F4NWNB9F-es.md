@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Acabado impermeable
-- Capucha opcional en el cuello
 - Nailon suave y brillante
+- Capucha opcional en el cuello
+- Acabado impermeable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4NWNB9F{{</world>}}

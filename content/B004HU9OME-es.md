@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- VARENSIA Eau de Parfum Natural Spray 50 ml
 - Varensia edp vapo 50 ml
+- VARENSIA Eau de Parfum Natural Spray 50 ml
 - VARENSIA Eau de Parfum Natural Spray 50 ml
 
 [🛒 Comprar!!!]({{< param buyurl >}})

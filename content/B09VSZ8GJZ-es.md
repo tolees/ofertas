@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cierre de cordones
-- Suela de goma
-- Horma clásica
 - Forro sintético
+- Horma clásica
+- Suela de goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09VSZ8GJZ{{</world>}}

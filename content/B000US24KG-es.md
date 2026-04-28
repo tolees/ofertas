@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Participa en el metabolismo muscular
-- Apto para veganos, vegetarianos y kosher
 - Aminoácido no esencial
+- Apto para veganos, vegetarianos y kosher
 - Contiene la forma libre del aminoácido para mejorar su absorción
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Duraleather sintético y parte superior de malla con cordones frontales
 - Skechers Plantilla acolchada de espuma viscoelástica refrigerada por aire
-- Skechers Detalle del logotipo
 - Skechers Manos libres para un ajuste fácil
+- Skechers Detalle del logotipo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB1SJ1PC{{</world>}}

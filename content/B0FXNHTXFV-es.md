@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Genial para el desayuno o en cualquier momento
+- Merienda dulce, sana y rápida
 - Hecho con cacao real y avellana
+- Genial para el desayuno o en cualquier momento
+- Conservar en lugar fresco y seco
 - Rico en vitaminas B6 y B12
 - La siguiente información se aplica a cada unidad del paquete
-- Merienda dulce, sana y rápida
-- Conservar en lugar fresco y seco
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FXNHTXFV{{</world>}}

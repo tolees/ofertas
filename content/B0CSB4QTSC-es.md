@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ausschnitt: default
-- Extras: default
-- Futter: default
 - Gattung: Hose
 - Beinabschluss: weit
+- Futter: default
+- Ausschnitt: default
+- Extras: default
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CSB4QTSC{{</world>}}

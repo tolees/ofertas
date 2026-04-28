@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 【Fácil de instalar】Fijar el soporte en el techo o la pared, luego montar el lámpara techo foco en el soporte. La bombilla se puede insertar y sustituir fácilmente con el casquillo estándar GU10. Las bombillas GU10 no están incluidas. Puede elegir su bombilla GU10 favorita para obtener un efecto de iluminación personalizado.
-- 【Beautiful Flexibility】Los 4 focos son direccionales y giratorios, la luz de apliques techo blanco de 4 Spots se puede inclinar 90° y girar 320°, se pueden apuntar en diferentes direcciones para iluminar diferentes áreas de la habitación según sea necesario. Ideal como iluminación de comedor, dormitorio o sala de estar.
 - 【Especificaciones del producto】Voltaje de los focos de techo GU10 para 4 llamas: AC220-240V/50Hz; Potencia: bombilla LED máx. 5W, bombilla halógena máx. 50W; Volumen de suministro: barra de focos x1, Accesorios de montaje (tacos x2, tornillos x2, ventosa x1, soporte de montaje x1), Manual x1 (sin bombillas)
 - 【Diseño moderno y resistente al óxido】El focos de techo orientable está hecho de metal de alta calidad para proteger la superficie de la luz de la humedad y el óxido. El diseño del plafón led techo interior blanco mate giratorio con base redonda se adapta perfectamente a cualquier espacio de vida con su diseño moderno y elegante.
+- 【Beautiful Flexibility】Los 4 focos son direccionales y giratorios, la luz de apliques techo blanco de 4 Spots se puede inclinar 90° y girar 320°, se pueden apuntar en diferentes direcciones para iluminar diferentes áreas de la habitación según sea necesario. Ideal como iluminación de comedor, dormitorio o sala de estar.
 - 【Ampliamente utilizado】El diseño moderno y minimalista de este plafones de techo redondo es adecuado para una amplia variedad de espacios, sala de estar, dormitorio, pasillo, guardería, cocina, balcón, armario, etc.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- [Ahorro] Diseñado para sustituir bombillas tradicionales incandescentes, normalmente de 250W. Con el empleo de nuestros Plafones LED se consigue un ahorro energético de más del 80% con respecto a las luminarias tradicionales.
-- [Iluminación de alta calidad] Intensidad lumínica de 2200 lúmenes reales proyectados en un ángulo de haz de luz de 120 grados, cuenta con un difusor opal el cuál proporciona una correcta distribución de la luz, evitando deslumbramientos y ofrece una luz agradable a la vista. Su índice de reproducción cromática +80 IRC garantiza una correcta reproducción de los colores.
 - [Selector de Color CCT] El selector de color integrado permite elegir fácilmente entre color Blanco Cálido (3000K), Blanco Neutro (4500K) y Blanco Frío (6500K)
 - [Material y duración] Nuestros plafones LED tienen una duración excepcional estimada de 30000 horas, gracias a la calidad de sus materiales. Su construcción en aluminio contribuye a que la emisión de calor de la luminaria sea mínima, garantizando un correcto funcionamiento durante largos periodos de tiempo.
+- [Ahorro] Diseñado para sustituir bombillas tradicionales incandescentes, normalmente de 250W. Con el empleo de nuestros Plafones LED se consigue un ahorro energético de más del 80% con respecto a las luminarias tradicionales.
+- [Iluminación de alta calidad] Intensidad lumínica de 2200 lúmenes reales proyectados en un ángulo de haz de luz de 120 grados, cuenta con un difusor opal el cuál proporciona una correcta distribución de la luz, evitando deslumbramientos y ofrece una luz agradable a la vista. Su índice de reproducción cromática +80 IRC garantiza una correcta reproducción de los colores.
 - [Medidas estandarizadas] Plafón LED Redondo Superficie 24W y 2200 lúmenes con driver incluido. Medidas de 300x32mm.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

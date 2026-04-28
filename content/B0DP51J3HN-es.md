@@ -30,10 +30,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - CUIDADO FACIAL – Esta crema hidratante para hombre ayuda a regenerar la piel del rostro, dándole un aspecto natural para que se sienta cómoda todo el día.
 - CREMA NUTRITIVA – Esta crema para la cara nutre e hidrata intensivamente la piel del rostro del hombre, dejándola suave y sin sensación de tirantez.
-- PIEL MUY SECA – Desarrollada para los hombres con la piel muy seca, esta crema con aloe vera y provitamina B5 alivia de inmediato la sensación de sequedad.
+- La siguiente información se aplica a cada unidad del paquete
 - CONTENIDO DEL ENVÍO – NIVEA MEN Protege & Cuida Crema Hidratante Intensiva, cuidado facial para hombre con aloe vera y provitamina B5, 1 x 50 ml, bote.
 - FRAGANCIA MASCULINA – Diseñada para el cuidado de la piel de los hombres, esta crema hidratante facial cuenta con una agradable fragancia masculina.
-- La siguiente información se aplica a cada unidad del paquete
+- PIEL MUY SECA – Desarrollada para los hombres con la piel muy seca, esta crema con aloe vera y provitamina B5 alivia de inmediato la sensación de sequedad.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DP51J3HN{{</world>}}

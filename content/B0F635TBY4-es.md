@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño actualizado de eyestay
-- Cuello cosido y acolchado
 - Parte superior sintética y de cuero
+- Cuello cosido y acolchado
+- Diseño actualizado de eyestay
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F635TBY4{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Body con las siguientes características:
-- Descubre todas las marcas de EMP!
-- Body || Materiales de larga duración || Altura del tacón: /
 - Lencería, Ropa de Calle
+- Descubre todas las marcas de EMP!
 - Merch para fans y divertido
+- Body con las siguientes características:
+- Body || Materiales de larga duración || Altura del tacón: /
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07MSQHZGJ{{</world>}}

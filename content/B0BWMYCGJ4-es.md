@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Diseño elegante y versátil que combina fácilmente con cualquier otro estilo de muebles. Se adapta al espacio, se adapta al presupuesto.
-- Fabricado con madera compuesta de grado CARB.
 - Dimensiones del producto: 23,62 x 30,48 x 106,17 cm
+- Fabricado con madera compuesta de grado CARB.
 - Cuenta con 3 estantes abiertos para exhibición y almacenamiento. Armario cerrado en la parte inferior para mantener tu habitación lejos del desorden. Cada estante soporta hasta 7 kg.
 - Crea más espacio de almacenamiento teniendo esta estantería en tu habitación.
 

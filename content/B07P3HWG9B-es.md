@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Gardena offers a wide range of products for all jobs in and around the garden
 - De alta calidad
+- Gardena offers a wide range of products for all jobs in and around the garden
 - Producto de la marca GARDENA
 
 [🛒 Comprar!!!]({{< param buyurl >}})

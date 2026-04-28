@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- EL PODER DE LA NATURALEZA: La cúrcuma se utiliza especialmente en la medicina tradicional india y china y en el ayurveda
-- FÁCIL DE TOMAR: Recomendamos tomar 2 cápsulas al día con suficiente líquido
-- CÁPSULAS DE ALTA DOSIS: Nuestras cápsulas de extracto de cúrcuma ESN te proporcionan 1000 mg de curcumina NovaSOL patentada por cada dosis diaria de dos cápsulas.¹ De los cuales, 60 mg son curcuminoides
-- ALTA BIODISPONIBILIDAD: Para nuestras cápsulas de curcumina utilizamos exclusivamente curcumina NovaSOL patentada en forma líquida, que tiene una biodisponibilidad 185 veces superior a la del extracto en polvo²
 - FABRICACIÓN: Las cápsulas de cúrcuma de ESN se producen cumpliendo con los más estrictos requisitos de calidad y son veganas
+- FÁCIL DE TOMAR: Recomendamos tomar 2 cápsulas al día con suficiente líquido
+- ALTA BIODISPONIBILIDAD: Para nuestras cápsulas de curcumina utilizamos exclusivamente curcumina NovaSOL patentada en forma líquida, que tiene una biodisponibilidad 185 veces superior a la del extracto en polvo²
+- CÁPSULAS DE ALTA DOSIS: Nuestras cápsulas de extracto de cúrcuma ESN te proporcionan 1000 mg de curcumina NovaSOL patentada por cada dosis diaria de dos cápsulas.¹ De los cuales, 60 mg son curcuminoides
+- EL PODER DE LA NATURALEZA: La cúrcuma se utiliza especialmente en la medicina tradicional india y china y en el ayurveda
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B086BBLBHS{{</world>}}

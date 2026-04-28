@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Muy convenable
 - Producto excelente
 - Fácil de usar
+- Muy convenable
 - Número de piezas: 1.0
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 2. Tolerancia de alta precisión +/-0,03 mm: rollo completo de filamento de impresora 3D de 1 kg, redondez perfecta y tolerancia de diámetro muy estrecha, sin olor, sin obstrucciones, sin burbujas, compatible con la mayoría de impresoras y bolígrafos 3D Fdm.
 - 4. Embalaje sellado al vacío: el filamento Geeetech 3D se embala cuidadosamente al vacío con un desecante para mantener un bajo contenido de agua. Y manténgalo seco, alejado del polvo y los cuerpos extraños para evitar el bloqueo de las boquillas.
 - 3. Efecto seda perfecto: al imprimir con esta seda impresa en 3D de tres colores, aporta un aspecto verdaderamente único a tu trabajo impreso, con una increíble luz nacarada y hermosos acabados de seda.
+- 2. Tolerancia de alta precisión +/-0,03 mm: rollo completo de filamento de impresora 3D de 1 kg, redondez perfecta y tolerancia de diámetro muy estrecha, sin olor, sin obstrucciones, sin burbujas, compatible con la mayoría de impresoras y bolígrafos 3D Fdm.
 - 1. Hilo de Seda Tricolor: El Hilo de Seda Bicolor de Geetech está hecho presionando tres colores diferentes de hilo de seda en un solo hilo. Puede cambiar el color visible girando la paleta en diferentes direcciones.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Skechers Detalle del logotipo
 - Parte superior de malla y sintética
+- Skechers Detalle del logotipo
 - Cordones elásticos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

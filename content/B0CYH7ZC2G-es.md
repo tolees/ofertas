@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Instrucciones de preparación: Agregue 1 bolsita de té a 250 ml de agua caliente y deje reposar durante 3 a 5 minutos, ajustando según su intensidad preferida.
-- La menta piperita, un híbrido entre la menta acuática y la hierbabuena, es una hierba perenne originaria de Europa y Asia. Conocida por su aroma intenso y refrescante, se utiliza ampliamente en diversos platos culinarios y suele prepararse en infusión.
 - Origen orgánico: Procedente de cultivo orgánico certificado, este producto cumple las normas orgánicas de calidad y pureza de la UE. Certificado por Balkan Biocert Ltd. (Órgano de Control: BG-BIO-02, válido para 2025).
-- Compromiso con la calidad: Mantenemos estándares excepcionales a lo largo de toda la cadena de valor, desde el cultivo hasta el envasado, para asegurar la consistencia en la calidad de nuestros productos.
 - Experiencia del té: Nuestro té de menta tiene un sabor intenso y terroso con matices herbales y un toque picante. Su aroma es intensamente aromático con notas de pino, cítricos y un toque de dulzura floral.
+- Instrucciones de preparación: Agregue 1 bolsita de té a 250 ml de agua caliente y deje reposar durante 3 a 5 minutos, ajustando según su intensidad preferida.
+- Compromiso con la calidad: Mantenemos estándares excepcionales a lo largo de toda la cadena de valor, desde el cultivo hasta el envasado, para asegurar la consistencia en la calidad de nuestros productos.
+- La menta piperita, un híbrido entre la menta acuática y la hierbabuena, es una hierba perenne originaria de Europa y Asia. Conocida por su aroma intenso y refrescante, se utiliza ampliamente en diversos platos culinarios y suele prepararse en infusión.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CYH7ZC2G{{</world>}}

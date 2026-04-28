@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Jeans holgados
 - Composición del material: 80% algodón, 20% poliéster
 - Corte de pierna ancha
+- Jeans holgados
 - Tiro medio con elástico
 - Cierre de botón y cremallera
 

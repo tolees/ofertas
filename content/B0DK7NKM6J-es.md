@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- GAMERVERSE PACK DOBLE: Las figuras de Capitán América y Venom están inspiradas en la apariencia de los personaje en los clásicos videojuegos de Marvel
-- ACCESORIOS INSPIRADOS EN LOS VIDEOJUEGOS: Estas figuras de la línea Marvel Legends de Hasbro vienen con 8 accesorios, incluyendo manos alternativas y un escudo con efectos de poder
 - CAJA CON VENTANA ESTILO RETRO: Exhibe estas figuras Marvel Legends en tus estantes con el embalaje de colección que cuenta con diseño clásico inspirado en los videojuegos
-- CAPITÁN AMÉRICA VS. VENOM: El supersoldado patriota, el Capitán América, se enfrenta a Venom y a sus poderes simbiontes alienígenas
 - COLECCIONA UN MULTIVERSO DE ARTÍCULOS DE MARVEL: ¡Busca también packs doble Gamerverse de Lobezno vs. Marvels Silver Samurai y Máquina de Guerra vs. Omega Red! (Los sets se venden por separado. Sujeto a disponibilidad).
+- GAMERVERSE PACK DOBLE: Las figuras de Capitán América y Venom están inspiradas en la apariencia de los personaje en los clásicos videojuegos de Marvel
+- CAPITÁN AMÉRICA VS. VENOM: El supersoldado patriota, el Capitán América, se enfrenta a Venom y a sus poderes simbiontes alienígenas
+- ACCESORIOS INSPIRADOS EN LOS VIDEOJUEGOS: Estas figuras de la línea Marvel Legends de Hasbro vienen con 8 accesorios, incluyendo manos alternativas y un escudo con efectos de poder
 - DISEÑO Y DECORADO PREMIUM: Los fans y coleccionistas pueden exhibir en sus colecciones estas figuras premium a escala de 15 cm que cuentan con diseño y decorado inspirados en los videojuegos
 - ARTICULACIÓN PERFECTA PARA EXHIBIR LAS FIGURAS: Estas figuras de acción cuentan con 20 puntos de articulación con cabeza, brazos y piernas completamente articulables
 

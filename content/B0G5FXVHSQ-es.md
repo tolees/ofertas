@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Medidas: 7.5 x 7.5 x 36 cm
-- Libre de BPA: fabricado de polipropileno
 - La siguiente información se aplica a cada unidad del paquete
-- Fabricado en España
 - Producto de alta calidad
+- Libre de BPA: fabricado de polipropileno
+- Medidas: 7.5 x 7.5 x 36 cm
+- Fabricado en España
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G5FXVHSQ{{</world>}}

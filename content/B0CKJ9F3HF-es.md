@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Puma Logotipo de archivo número uno en la lengüeta
 - Puma Logotipo número dos en el lateral
 - Puma Tira de forma en el lateral
+- Puma Logotipo de archivo número uno en la lengüeta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CKJ9F3HF{{</world>}}

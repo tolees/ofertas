@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tipo de estiramiento: no elástico
-- Composición: 100% algodón
-- Instrucciones de cuidado: lavable a máquina
-- Gorro
 - Casual y cómodo
+- Instrucciones de cuidado: lavable a máquina
+- Composición: 100% algodón
+- Tipo de estiramiento: no elástico
+- Gorro
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D6NJG2JF{{</world>}}

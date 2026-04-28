@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Skinny fit jeans
-- materialFabricComposition: 77% Cotton, 15% Recycled Cotton, 6% Polyester, 2% Elastane
-- Skinny Fit
 - Mid waist
+- materialFabricComposition: 77% Cotton, 15% Recycled Cotton, 6% Polyester, 2% Elastane
 - Care Label:
+- Skinny Fit
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07S6NQ65D{{</world>}}

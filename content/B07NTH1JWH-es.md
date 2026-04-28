@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La pantalla se conecta directamente con SPI, también admite la visualización de pantalla HDMI al mismo tiempo.
-- Haga coincidir la funda protectora de PC para su pantalla y Pi, use el diseño dividido para que sea fácil de instalar, y también combine las pinzas para que la instalación sea más fácil. La columna de nylon blanco puede ayudar a mantener el equilibrio de la pantalla.
-- La resolución física 320x480 con control táctil resistivo, se puede conectar directamente a Raspberry Pi 3 B +, sin potencia adicional. (Raspberry Pi no está incluido)
 - La pantalla de visualización admite entrada de señal SPI de 125 MHz, puede mostrarse estable sin parpadeo, la frecuencia de actualización es de aproximadamente 50 fps, es suficiente para reproducir el video y el juego.
 - Trabajo de soporte con los sistemas Raspbian / Ubuntu / Kali / Retropie. Ofrecemos un archivo de imagen del sistema del controlador de preinstalación.
+- Haga coincidir la funda protectora de PC para su pantalla y Pi, use el diseño dividido para que sea fácil de instalar, y también combine las pinzas para que la instalación sea más fácil. La columna de nylon blanco puede ayudar a mantener el equilibrio de la pantalla.
+- La pantalla se conecta directamente con SPI, también admite la visualización de pantalla HDMI al mismo tiempo.
+- La resolución física 320x480 con control táctil resistivo, se puede conectar directamente a Raspberry Pi 3 B +, sin potencia adicional. (Raspberry Pi no está incluido)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07NTH1JWH{{</world>}}

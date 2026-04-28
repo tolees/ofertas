@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lubricante de motor avanzado, sintético y de calidad superior para motores 4 tiempos, carburador o inyección decombustible donde se recomiendan API SN (o inferior) y JASO MA o MA2
-- Castrol POWER1 4T 15W-50 con Power Sustain Technology gestiona el calor y la fricción en las motos de gran cilindrada, de modo que garantiza una potencia continuada gracias a su capacidad de resistir a la oxidación a altas temperaturas.
 - Castrol POWER1 4T 15W-50 mantiene el rendimiento de tu motocicleta durante largos recorridos.
+- Lubricante de motor avanzado, sintético y de calidad superior para motores 4 tiempos, carburador o inyección decombustible donde se recomiendan API SN (o inferior) y JASO MA o MA2
 - Castrol POWER1 4T 15W-50 resiste el espesamiento del aceite que causan las altas temperaturas.
+- Castrol POWER1 4T 15W-50 con Power Sustain Technology gestiona el calor y la fricción en las motos de gran cilindrada, de modo que garantiza una potencia continuada gracias a su capacidad de resistir a la oxidación a altas temperaturas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C817NP6M{{</world>}}

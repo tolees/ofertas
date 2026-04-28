@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - TODO EN 1: Cárgalo y estará listo para utilizarlo cuando te apetezca, sin cables que te detengan. Autonomia 60 minutos. Alisa, riza, crea ondas en minutos con su calor constante a 200 °C. Siempre listo para que tu cabello esté como a ti te gusta. Ligero y muy fácil de utilizar.
+- CARGA: conecta el USB a la corriente con el adaptador. El Indicador se ilumina Luz roja carga/ Luz azul Ready. Cuando parpadea la luz roja significa que la batería está a punto de agotarse y debes cargarlo.
 - BETER: empresa familiar española con más de 85 años de historia, líder en accesorios de belleza y cuidado personal gracias a la innovación constante y compromiso medioambiental.
 - MODO DE EMPLEO ONDAS: 1. Peina tu cabello en seco y elimina los enredos, sepáralo en pequeños mechones. 2. Coge un mechón y envuélvelo alrededor del cepillo y mantenlo cerca de la raíz. Gira el cepillo hacia afuera en posición vertical, mantén unos segundos y desliza hacia abajo. 3. Repite la misma técnica en el resto de mechones, pero girando el cepillo hacia adentro. Alterna los dos sentidos para un acabado más natural. 4. Deja que el cabello se enfríe y con las manos abre las ondas.
-- CARGA: conecta el USB a la corriente con el adaptador. El Indicador se ilumina Luz roja carga/ Luz azul Ready. Cuando parpadea la luz roja significa que la batería está a punto de agotarse y debes cargarlo.
 - MODE DE EMPLEO ALISAR: 1. Peina tu cabello en seco y elimina los enredos, sepáralo en pequeños mechones. 2. Coge un mechón y coloca el cepillo debajo con las cerdas hacia arriba. Mantén estirado el mechón y desliza lentamente el cepillo hacia las puntas en un solo movimiento. Cuando llegues a las puntas gira ligeramente el cepillo para darles forma. 3. Deja que el mechón de pelo se enfríe durante dos o tres segundos. Coge el mismo mechón y desliza el cepillo con las cerdas hacia abajo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

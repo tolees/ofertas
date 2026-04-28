@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte superior de malla
 - Cómodos
+- Parte superior de malla
 - Skechers Detalle del logotipo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

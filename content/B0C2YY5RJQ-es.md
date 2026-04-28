@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ESTILO INDUSTRIAL - Una biblioteca elegante que tiene un minimalismo limpio y una estética moderna; Aspecto elegante y estructura simple para hacer una impresión duradera en cualquier habitación con una funcionalidad elegante
 - Biblioteca multifunción: este estante de almacenamiento vintage ofrece una solución de espacio compacto; se adapta fácilmente a su oficina, sala de estar, dormitorio, cocina o cualquier rincón de su hogar con opciones de almacenamiento versátiles; puede servir como plataforma de visualización para sus artículos como fotos familiares, novelas, altavoces o plantas
+- ESTILO INDUSTRIAL - Una biblioteca elegante que tiene un minimalismo limpio y una estética moderna; Aspecto elegante y estructura simple para hacer una impresión duradera en cualquier habitación con una funcionalidad elegante
 - Estabilidad fiable con anclaje de pared: viene con un kit de anclaje de pared extra para fijar a la pared y evitar lesiones al volquear; los patines ajustables mantienen el estante estable en un suelo desigual o una alfombra mientras proporciona protección contra arañazos en el piso de madera; simplemente limpie la tabla de madera impermeable con un paño húmedo
 - Muy resistente: la estantería está construida con tableros de partículas duraderos con un marco de acero de 20 mm de grosor y se combina con barras transversales laterales para una mayor capacidad de peso y durabilidad. Dimensiones totales (largo x ancho x alto): 73 x 30 x 151 cm
 - ALMACENAMIENTO MÚLTIPLE: el diseño offset abierto y oculto de nuestra biblioteca industrial se destaca de las alternativas tradicionales; la mezcla de 7 estantes abiertos y 2 cajones cerrados en rieles lisos satisface diversas necesidades de almacenamiento al tiempo que proporciona un estilo moderno que complementa cualquier decoración

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apropiado para jugar al futbol
 - De la marca Nike
+- Apropiado para jugar al futbol
 - Diseñado para infantes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para uso diario
-- Prenda de vestimenta
 - Cierre central con botones
+- Prenda de vestimenta
+- Para uso diario
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B019OEKH6Y{{</world>}}

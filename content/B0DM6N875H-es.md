@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material: Synthetic
-- Cordones cierre
-- Casual
 - Plano tipo de tacón
+- Casual
 - no es resistente al agua
 - Material interno: sintético
+- Material: Synthetic
+- Cordones cierre
 - Sin tiras.
 - material de suela: Caucho
 

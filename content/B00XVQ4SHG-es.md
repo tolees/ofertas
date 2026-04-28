@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- [Control fácil] – El mando colgante en forma de estrella musical es fácil de usar y te permite pasar de una nana relajante a otra mediante un botón de encendido/apagado. También puedes ajustar el volumen y controlar la rotación. Funciona con 3 pilas AA (no incluidas en el paquete).
 - [Peluches suaves] – Al bebé le encantará tocar y jugar con los personajes: el tierno osito, las estrellas y las nubes (¡incluso una en forma de luna creciente!).
 - [Rotación suave] – Una rotación lenta y calmante que ayuda a tu bebé a relajarse y quedarse dormido.
+- [Control fácil] – El mando colgante en forma de estrella musical es fácil de usar y te permite pasar de una nana relajante a otra mediante un botón de encendido/apagado. También puedes ajustar el volumen y controlar la rotación. Funciona con 3 pilas AA (no incluidas en el paquete).
 - [Móvil para cuna] – Diseñado para ayudar a tu pequeño a dormirse en muy poco tiempo, está compuesto por seis melodías suaves y relajantes, además de un adorable osito.
 - [Brazo ajustable] – Este móvil para cuna cuenta con un brazo ajustable que se adapta al borde superior de la cuna (profundidad máxima de 7 cm).
 

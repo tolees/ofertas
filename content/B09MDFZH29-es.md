@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Batería recargable: Hasta 75 horas de juego ininterrumpido con una sola carga. Cuando llegue el momento de cargar, enchufa el cable y sigue jugando sin necesidad de interrumpir la partida
+- Forma ergonómica adaptable: Optimizado para diestros, el tamaño se puede ajustar cambiando la carcasa trasera (2 tamaños incluidos). El equilibrio del peso se puede ajustar moviendo la batería
+- Componentes de primera clase: Sensor Pixart 3370 para mayor precisión, botón Kailh GM 8.0 para 80 millones de clics rápidos, microcontrolador ARM de 32 bits para velocidad y estabilidad sin concesiones
 - No requiere software: Los efectos, los colores y el brillo de la iluminación RGB, así como el CPI, la frecuencia de sondeo, la distancia de despegue y el tiempo de rebote se pueden configurar directamente en el ratón con sólo pulsar un botón
 - Ratón de gaming inalámbrico ultraligero para un alto rendimiento en esports: Conexión mediante dongle USB (2,4 GHz RF), frecuencia de sondeo de hasta 1.000 Hz (tiempo de reacción 1 ms)
-- Forma ergonómica adaptable: Optimizado para diestros, el tamaño se puede ajustar cambiando la carcasa trasera (2 tamaños incluidos). El equilibrio del peso se puede ajustar moviendo la batería
-- Batería recargable: Hasta 75 horas de juego ininterrumpido con una sola carga. Cuando llegue el momento de cargar, enchufa el cable y sigue jugando sin necesidad de interrumpir la partida
-- Componentes de primera clase: Sensor Pixart 3370 para mayor precisión, botón Kailh GM 8.0 para 80 millones de clics rápidos, microcontrolador ARM de 32 bits para velocidad y estabilidad sin concesiones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09MDFZH29{{</world>}}

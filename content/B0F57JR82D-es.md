@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Logotipo impreso en la parte delantera
 - Camiseta delgada de manga corta
+- Logotipo impreso en la parte delantera
 - 95% algodón, 5% elastano
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Silueta de corte medio
 - Detalle de la marca Levis
 - Talón y puntera reforzados para durabilidad
-- Silueta de corte medio
 - Levis es líder en vaqueros y calcetines
 - Tacto de algodón suave
 

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin gluten
 - Frambuesa, fresa, cola, manzana y sandía
+- Sin gluten
 - 250 uds aprox por bolsa.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Una hoja de 48 dientes proporciona un acabado fino y preciso con muy poca rotura en laminados
-- La profundidad de corte de 55 mm permite recortar y dimensionar la mayoría de los tamaños de puertas comunes
 - La función anti-retroceso evita que la sierra se mueva hacia atrás a lo largo del riel y ayuda a evitar que la sierra se salga de la pieza de trabajo al realizar cortes de inmersión
 - Compatibilidad directa con el sistema AirLock de DeWalt para una conexión fácil y segura a la manguera de extracción
 - El sistema de inmersión paralela permite al usuario mantener una posición de mano suave y constante mientras corta
+- La profundidad de corte de 55 mm permite recortar y dimensionar la mayoría de los tamaños de puertas comunes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B013YHISVI{{</world>}}

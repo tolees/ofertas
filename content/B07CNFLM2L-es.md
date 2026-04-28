@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte ajustado
 - Tejido que absorbe la humedad
 - Dos bolsillos de cadera con cremallera
+- Corte ajustado
 - Tecnología que absorbe la humedad y ayuda a mantenerte seco y cómodo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye Space Invaders
-- Funciona con 3 pilas AAA (no incluidas).
-- Título con licencia oficial.
-- Incluye un llavero para una fácil portabilidad.
 - Pantalla vertical a todo color de 2 pulgadas de alta resolución.
+- Incluye un llavero para una fácil portabilidad.
+- Funciona con 3 pilas AAA (no incluidas).
+- Incluye Space Invaders
+- Título con licencia oficial.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DSCN124T{{</world>}}

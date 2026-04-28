@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Artículo de marca adidas
 - Tiene detalles distintivos de la marca
 - Ofrece comodidad y libertad de movimiento
+- Artículo de marca adidas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CKS39TMY{{</world>}}

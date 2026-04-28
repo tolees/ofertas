@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Distancia elevadora: 127 - 330 mm; giro de asiento de 360º
 - Marca Good Year
 - Levanta pesos de hasta 2 toneladas
-- Distancia elevadora: 127 - 330 mm; giro de asiento de 360º
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01J1QGN54{{</world>}}

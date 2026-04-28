@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Vegano
-- Glide-Step
-- Espuma viscoelástica refrigerada por aire
 - Lavable a máquina
+- Espuma viscoelástica refrigerada por aire
+- Glide-Step
 - Slip-Ins
 
 [🛒 Comprar!!!]({{< param buyurl >}})

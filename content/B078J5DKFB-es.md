@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Fórmula ligera no comedogénica enriquecida con arcilla matificante y micropolvos borradores de brillos y poros para un acabado natural
 - Idónea para pieles mixtas o grasas gracias a nuestra exclusiva fórmula
 - Base de maquillaje que calca tu tono y tu textura para un resultado sublime y homogéneo
-- Utiliza tu tono en toda la cara y otro ligeramente más oscuro en los relieves del rostro para un efecto bronceado, Combínalo con el corrector y los polvos Fit Me para un acabado impecable.
 - Contenido: 1x Base de maquillaje fluido Fit Me Mate y Afinaporos Maybelline New York, Tono: 334 Warm Tan Cantidad: 30 ml
+- Utiliza tu tono en toda la cara y otro ligeramente más oscuro en los relieves del rostro para un efecto bronceado, Combínalo con el corrector y los polvos Fit Me para un acabado impecable.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B078J5DKFB{{</world>}}

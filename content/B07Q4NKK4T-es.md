@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PROTECCIÓN SOLAR MUY ALTA Y COMPLETA SPF50+: Fotoprotección facial de amplio espectro frente a rayos UVA, UVB, luz azul (HEVL) e infrarrojos (IR), ideal para el uso diario en pieles sensibles.
-- MODO DE EMPLEO: Aplicar generosamente sobre la piel del rostro de manera uniforme al menos 30 minutos antes de la exposición solar. Repita con frecuencia
-- CLÍNICAMENTE TESTADO: Testado oftalmológicamente en ojos sensibles y en usuarios con lentes de contacto. Testado con Níquel, Cobalto, Cromo, Paladio y Mercurio
 - HIDRATACIÓN PROFUNDA Y CONFORT INMEDIATO: Formulado con ácido hialurónico y ectoína, proporciona hidratación duradera y protección frente al estrés oxidativo y la deshidratación.
+- PROTECCIÓN SOLAR MUY ALTA Y COMPLETA SPF50+: Fotoprotección facial de amplio espectro frente a rayos UVA, UVB, luz azul (HEVL) e infrarrojos (IR), ideal para el uso diario en pieles sensibles.
+- CLÍNICAMENTE TESTADO: Testado oftalmológicamente en ojos sensibles y en usuarios con lentes de contacto. Testado con Níquel, Cobalto, Cromo, Paladio y Mercurio
+- MODO DE EMPLEO: Aplicar generosamente sobre la piel del rostro de manera uniforme al menos 30 minutos antes de la exposición solar. Repita con frecuencia
 - TRATAMIENTO ANTIEDAD CON ACCIÓN REAFIRMANTE: Gracias al Age-Repair Complex y Pro-DNA Complex, combate los signos del fotoenvejecimiento, mejorando la elasticidad y firmeza de la piel.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

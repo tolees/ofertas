@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Bolsillo interior
+- Puños y cintura acanalados
 - Cuello acanalado
 - Bolsillos de parche en la cintura, botón a presión oculto
-- Puños y cintura acanalados
 - Cierre de cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

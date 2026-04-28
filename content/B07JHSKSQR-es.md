@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Su sabor en boca destaca por su pronunciado y prolongado amargor con sutiles notas de fondo que recuerdan al regaliz y al cacao, permite el aridaje con carnes a la parrilla, quesos fuertes, postres de chocolate
-- De color negro, con reflejos cobrizos y rubí, con voluminosa espuma, intensidad en boca y un alma rebelde. En nariz su aroma es tostado que recuerdan a la malta y al café
-- Pack de cervezas premium con sabor pronunciado y prolongado amargor con sutiles notas de fondo que recuerdan al regaliz y al cacao. Aromas tostados que recuerdan a la malta y al café. Se recomienda su consumo entre 5º y 6º
 - La Cerveza 1906 Black Coupage ha sido galardonada con numerosos premios internacionales gracias a su calidad excepcional y su sabor inconfundible. Prueba una hoy y descubre por qué es una de las cervezas más reconocidas del mundo
 - Elaborada con agua de la ciudad de A Coruña, coupage de cuatro MALTAS con diferentes grados de tueste. LÚPULOS Nugget y Sladek. LEVADURA seleccionada. Alc 7.2% vol
+- Pack de cervezas premium con sabor pronunciado y prolongado amargor con sutiles notas de fondo que recuerdan al regaliz y al cacao. Aromas tostados que recuerdan a la malta y al café. Se recomienda su consumo entre 5º y 6º
+- De color negro, con reflejos cobrizos y rubí, con voluminosa espuma, intensidad en boca y un alma rebelde. En nariz su aroma es tostado que recuerdan a la malta y al café
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07JHSKSQR{{</world>}}

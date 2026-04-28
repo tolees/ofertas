@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nombre de la colección: Disney Traditions
 - Material del producto: resina de piedra
 - Producto adecuado para regalar, decorar o coleccionar
+- Nombre de la colección: Disney Traditions
 - Figurilla decorativa creada por el artista Jim Shore
 - El producto es pintado a mano
 

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ACCIÓN MECÁNICA Forma especial que elimina los residuos de comida
-- PIROFOSFATOS que ayudan a evitar la acumulación de sarro
-- Formato mensual 4 bolsas con 7 sticks cada una (Total 28 sticks)
 - Indicado para perros adultos mini (2 a 10 kg)
+- ACCIÓN MECÁNICA Forma especial que elimina los residuos de comida
+- Formato mensual 4 bolsas con 7 sticks cada una (Total 28 sticks)
+- PIROFOSFATOS que ayudan a evitar la acumulación de sarro
 - PROTECCIÓN DENTAL: limita la formación de placa bacteriana
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

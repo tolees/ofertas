@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Conectividad versátil: incluye mini-HDMI (cable HDMI a mini-HDMI incluido) y 2 puertos USB tipo C (señal DP 1.2a con modo Alt y entrada de alimentación de 15 W) compatible con fuentes de entrada de PC, laptop o teléfono celular, así como cables de enchufe premium en forma de L
-- Menos luz azul: las características certificadas TÜV Rheinland Eye Comfort incluyen menos filtros de luz azul y tecnología antiparpadeo; emplea tratamiento de superficie antirreflejos y modo ecológico a través del software MSI Display Kit (perfiles de pantalla, multitarea de ventana dividida y HDCR)
+- Panel FHD portátil de 15.6 pulgadas: el PRO MP161 E2 cuenta con un panel IPS de 15.6 pulgadas (ángulo de visión amplio de 170°) con resolución Full-HD (1920 x 1080); una frecuencia de actualización de 60 Hz (4 ms GtG) mejora la experiencia visual diaria con velocidades de fotogramas más suaves y rápidas
 - Delgado y ligero: el PRO MP161 E2 puede funcionar como un segundo monitor para portátil para mayor productividad, pantalla móvil mejorada, presenta pantallas duplicadas; un perfil delgado de 1,08 cm y un marco ligero de 0,75 kg es ideal para viajes de negocios
 - Ultraflexible: el monitor se puede orientar horizontalmente (horizontal), verticalmente (vertical) o montar en un trípode, y cuenta con un soporte plegable de 0° ~ 180° con ángulos de visión ajustables; los altavoces integrados de 1.5 W son convenientes para llamadas de conferencia
-- Panel FHD portátil de 15.6 pulgadas: el PRO MP161 E2 cuenta con un panel IPS de 15.6 pulgadas (ángulo de visión amplio de 170°) con resolución Full-HD (1920 x 1080); una frecuencia de actualización de 60 Hz (4 ms GtG) mejora la experiencia visual diaria con velocidades de fotogramas más suaves y rápidas
+- Menos luz azul: las características certificadas TÜV Rheinland Eye Comfort incluyen menos filtros de luz azul y tecnología antiparpadeo; emplea tratamiento de superficie antirreflejos y modo ecológico a través del software MSI Display Kit (perfiles de pantalla, multitarea de ventana dividida y HDCR)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CP9QDBJQ{{</world>}}

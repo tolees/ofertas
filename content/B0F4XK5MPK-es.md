@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cómoda tela elástica
-- Bolsillos en la parte delantera
-- Cierre de cremallera y botón
 - Bolsillos con ribete en la parte posterior
+- Cierre de cremallera y botón
+- Bolsillos en la parte delantera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F4XK5MPK{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ✔️ Colágeno Marino: Ayuda en la elasticidad y a levantar la piel. Solución acuosa de colágeno marino 75%. No deja sensación pegajosa en la piel mientras proporciona una hidratación profunda. La textura es una crema ligera. Sin perfume.
 - ✔️ Mejora de arrugas: funcionalidad de mejora de arrugas autorizada por MFDS, resultado de sus ingredientes adenosina y colágeno. Reduce las líneas finas y las arrugas de expresión. Recomendado para pieles de más de 30 años
 - ✔️ Sinergia del lifting: Da elasticidad a la piel flácida gracias a los ingredientes activos que contiene. Da a vuestro rostro un brillo radiante.
 - ✔️ Nutrición altamente concentrada: Creado con jalea nutritiva, adenosina para la mejora de las arrugas, ácido hialurónico para la hidratación, colágeno hidrolizado para la elasticidad y péptidos para el lifting. Penetra directamente la piel.
+- ✔️ Colágeno Marino: Ayuda en la elasticidad y a levantar la piel. Solución acuosa de colágeno marino 75%. No deja sensación pegajosa en la piel mientras proporciona una hidratación profunda. La textura es una crema ligera. Sin perfume.
 - ✔️ Testado dermatológicamente: Con un porcentaje de irritación de 0,00%. Proporcionamos una crema segura sin irritación. Este producto MIZON completó la dermatologica en sujetos de prueba humanos y fue catalogado como Producto No Irritante.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

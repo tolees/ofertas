@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con ranuras rotas: distribución perfecta
 - Sin la adición de granos, azúcar, colorantes ni potenciadores artificiales del sabor
+- Con ranuras rotas: distribución perfecta
 - Extra carnoso (95%)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

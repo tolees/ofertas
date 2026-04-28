@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CEPILLO VOLUMINIZADOR INNOVADOR: Diseño en forma de reloj de arena con fibras de la planta de ricino para una aplicación uniforme. Sus cerdas cortas aportan volumen mientras que las largas separan y alargan sin dejar grumos.
 - DURACIÓN 24H Y RESISTENCIA: Fórmula de larga duración que mantiene las pestañas separadas y definidas sin borrones ni grumos. Resistente al sudor y a la humedad para un look impecable todo el día.
 - FÓRMULA SUAVE Y NATURAL: Enriquecida con Agua de Aciano Bio de propiedades calmantes y Aceite de Ricino fortificante, esta máscara nutre y fortalece las pestañas con cada uso. Apta para ojos sensibles y usuarias de lentillas.
+- CEPILLO VOLUMINIZADOR INNOVADOR: Diseño en forma de reloj de arena con fibras de la planta de ricino para una aplicación uniforme. Sus cerdas cortas aportan volumen mientras que las largas separan y alargan sin dejar grumos.
 - COMPROMISO YVES ROCHER: Fórmula con pigmentos naturales de carbón vegetal para un negro intenso. Probado dermatológicamente y aprobado por el 95 %**** de las usuarias. Disponible en 4 versiones: Negro Waterproof, Marrón, Negro y Azul.
 - VOLUMEN EXTREMO Y DEFINICIÓN: La máscara de pestañas Intense Métamorphose de Yves Rocher transforma tu mirada con un volumen extremo, curvatura intensa y longitud visible. Aumenta hasta un 193 %* el volumen de tus pestañas para un efecto espectacular.
 

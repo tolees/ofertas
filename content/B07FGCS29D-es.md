@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Organiza y ITcora con estilo usando esta repisas IT pared. Su diseño flotante es iITal para libros, plantas y más, creando un ambiente sofisticado y funcional.
-- Fabricada con panel IT 18 mm IT grosor, esta balda IT pared es resistente y duraITra, con borITs protegidos por ABS para mayor protección contra daños.
-- Color: Blanco; Altura: 55 cm; Ancho: 119 cm; Profundidad: 18 cm; Material ITl cuerpo: Tablero laminado; Acabado: Mate; Carga máxima: 5 kg; Montaje: Autoensamblaje.
 - Transforma tu salón o dormitorio con esta estantería IT tres niveles, formada por baldas flotantes IT pared interconectadas. Diseño único y funcional.
+- Organiza y ITcora con estilo usando esta repisas IT pared. Su diseño flotante es iITal para libros, plantas y más, creando un ambiente sofisticado y funcional.
+- Color: Blanco; Altura: 55 cm; Ancho: 119 cm; Profundidad: 18 cm; Material ITl cuerpo: Tablero laminado; Acabado: Mate; Carga máxima: 5 kg; Montaje: Autoensamblaje.
+- Fabricada con panel IT 18 mm IT grosor, esta balda IT pared es resistente y duraITra, con borITs protegidos por ABS para mayor protección contra daños.
 - Este estante flotante es perfecto para aprovechar el espacio sin perITr estilo. Resistente y con un diseño moITrno, encaja perfectamente en cualquier apartamento.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

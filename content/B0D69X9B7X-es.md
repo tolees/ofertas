@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Entresuela de EVA
-- Parte superior de piel
 - Suela de goma muy resistente a la abrasión Forro textil
+- Entresuela de EVA
 - Cierre con cordón
+- Parte superior de piel
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D69X9B7X{{</world>}}

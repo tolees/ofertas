@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 1. Alternativa ecológica y biodegradable – Fabricados con papel reciclable certificado FSC. 100 % compostables y respetuosos con el medio ambiente, una opción sostenible frente al plástico.
-- 5. Uso seguro y cómodo – Sin astillas ni plásticos, fabricados en papel prensado de alta calidad. Compostables en casa y en instalaciones industriales.
 - 4. Perfectos para todo tipo de eventos – Cubiertos de fiesta ideales para cumpleaños, bodas, food trucks, catering, colegios, celebraciones familiares y picnics.
+- 5. Uso seguro y cómodo – Sin astillas ni plásticos, fabricados en papel prensado de alta calidad. Compostables en casa y en instalaciones industriales.
 - 3. Resistentes y duraderos – Aguantan temperaturas de hasta 80 ºC sin doblarse. Ideales para sopas, postres, ensaladas y comidas calientes o frías.
 - 2. Pack grande de 150 cubiertos de papel verde – Incluye 50 tenedores, 50 cuchillos y 50 cucharas. Cubiertos resistentes, prácticos y desechables en un solo color para eventos y catering.
 

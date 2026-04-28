@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tecnología ciclónica sin bolsa: vaciado práctico e higiénico del depósito para el polvo.
+- Volumen de suministro: aspiradora de escoba sin cable MD 11609, adaptador de alimentación, cepillo mullido, boquilla para polvo 2 en 1, boquilla para juntas, cepillo para pelo de mascotas, depósito de agua con 2 bayetas, filtro HEPA-H13 de repuesto, soporte de pared con función de carga.
 - Aspiradora de escoba sin cable con tecnología ciclónica sin bolsa, especialmente flexible, potencia de aspiración de 22 kPa, diferentes accesorios de boquillas y cepillos.
 - Función 2 en 1: aspiración y fregado simultáneamente.
 - Los 3 niveles de potencia de aspiración y el sensor de polvo garantizan una limpieza especialmente profunda y potente.
-- Volumen de suministro: aspiradora de escoba sin cable MD 11609, adaptador de alimentación, cepillo mullido, boquilla para polvo 2 en 1, boquilla para juntas, cepillo para pelo de mascotas, depósito de agua con 2 bayetas, filtro HEPA-H13 de repuesto, soporte de pared con función de carga.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CP3YHGZW{{</world>}}

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Largo; Midi
-- Cuello: Redondo
 - Estampado Arty
 - Desigual
+- Cuello: Redondo
 - Fit: Slim
 - Manga: Corta
 

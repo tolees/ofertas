@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste regular
 - Capucha con cordón
 - Cremallera frontal completa
+- Ajuste regular
 - Bolsillos laterales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

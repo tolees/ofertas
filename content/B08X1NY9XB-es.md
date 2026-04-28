@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Material de la suela: Caucho
 - Revestimiento: Sintético
 - Cierre: Cordones
-- Material de la suela: Caucho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08X1NY9XB{{</world>}}

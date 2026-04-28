@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Realiza incluso cortes largos y precisos gracias al carril guía incluido
 - Trabajo limpio, puesto que el 80 % de las virutas se recogen en el depósito CleanSystem incorporado
-- Incluye: PKS 66 AF, depósito CleanSystem, CutControl, tres elementos de carril guía (cada uno de 35 cm), disco de sierra Speedline Wood (diámetro de 190 mm), tope paralelo, caja de cartón
 - Sierra circular PKS 66 AF con carril guía: fuerza y precisión en cortes rectos
 - Adecuada para discos de sierra circular con un diámetro nominal de 190 mm
+- Incluye: PKS 66 AF, depósito CleanSystem, CutControl, tres elementos de carril guía (cada uno de 35 cm), disco de sierra Speedline Wood (diámetro de 190 mm), tope paralelo, caja de cartón
+- Realiza incluso cortes largos y precisos gracias al carril guía incluido
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B002EX4VB0{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Productos de Cuidado de la piel para Unisex Adulto
 - Cuidado de la piel DESOD FA SP 150 SPORT de Fa
 - Los productos de la marca Fa están fabricados con ingredientes de la mejor calidad.
+- Productos de Cuidado de la piel para Unisex Adulto
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CC9YS4PF{{</world>}}

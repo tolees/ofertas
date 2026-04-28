@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🫧 MANTENIMIENTO: Lavar a máquina con programa delicado y temperatura máxima de 40º. Secado a máquina, ciclo normal. No usar lejía. Planchar a temperatura media. No limpiar en seco
-- 🧵 MATERIAL: Tejido de algodón y de poliéster, que se plancha estupendo y ofrece un tacto súper agradable. Son las cualidades de este juego de sábanas, con 144 hilos, que aporta además una gran duración. La calidad de la estampación hace que su aspecto permanezca inalterable tras múltiples lavados, siempre y cuando se observen las indicaciones contenidas tanto en el envoltorio como en la etiqueta cosida a la prenda. Se recomienda un lavado ligero en tiempo y detergente previamente al primer uso.
 - ✅ CARACTERÍSTICAS: Tacto suave.Planchado rápido y fácil.Larga duración.No hace bolas.Alto colchón 32cm..Estampación a una sola cara.Es recomendable lavar antes del primer uso.
 - 🛏️ PRODUCTO: Juego de sábanas con un estampado de estilo étnico con geométrica abstracta , motivos en crema y fondo en color verde musgo texturado. Encimera con pespunte en embozo verde musgo texturado . Almohada con el mismo diseño, con aplicación en verde musgo texturado. Bajera confección ajustable en color verde musgo con textura.
 - 📏 MEDIDAS DEL CONJUNTO: Una encimera de 240x270 cm..Dos fundas de almohada de 50x85 cm..Una sábana bajera ajustable de 150/160x190/200 cm. Disponible en más medidas.
+- 🧵 MATERIAL: Tejido de algodón y de poliéster, que se plancha estupendo y ofrece un tacto súper agradable. Son las cualidades de este juego de sábanas, con 144 hilos, que aporta además una gran duración. La calidad de la estampación hace que su aspecto permanezca inalterable tras múltiples lavados, siempre y cuando se observen las indicaciones contenidas tanto en el envoltorio como en la etiqueta cosida a la prenda. Se recomienda un lavado ligero en tiempo y detergente previamente al primer uso.
+- 🫧 MANTENIMIENTO: Lavar a máquina con programa delicado y temperatura máxima de 40º. Secado a máquina, ciclo normal. No usar lejía. Planchar a temperatura media. No limpiar en seco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DWT8F31Z{{</world>}}

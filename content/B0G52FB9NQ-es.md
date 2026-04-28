@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Vaporizar el desodorante manteniendo el spray a 15 cm de la piel; no aplicar sobre la piel lesionada; dejar de usar si se produce irritación; evitar una vaporización prolongada; proteger el producto de la luz del sol; no exponer a temperaturas superiores a 50ºC; mantener fuera del alcance de los niños; ver más instrucciones de uso y precauciones en la etiqueta del producto
 - Con 72 horas de frescor gracias a fórmula mejorada sin sales de aluminio y con 2X más tecnología Zinc que body spray estándar, para lograr una mayor protección contra el mal olor y mantenerte fresco durante más tiempo
-- Verifica siempre el etiquetado del producto para una mayor información
+- Vaporizar el desodorante manteniendo el spray a 15 cm de la piel; no aplicar sobre la piel lesionada; dejar de usar si se produce irritación; evitar una vaporización prolongada; proteger el producto de la luz del sol; no exponer a temperaturas superiores a 50ºC; mantener fuera del alcance de los niños; ver más instrucciones de uso y precauciones en la etiqueta del producto
 - La siguiente información se aplica a cada unidad del paquete
+- Verifica siempre el etiquetado del producto para una mayor información
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0G52FB9NQ{{</world>}}

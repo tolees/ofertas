@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Corte cargo
 - Hecho de material duradero y ligero
 - Cuenta con un diseño ligero
 - JACK & JONES apoya la iniciativa Better Cotton usando algodón orgánico o reciclado
 - Tejido cómodo y suave
-- Corte cargo
 - Tiene detalles distintivos de la marca
 
 [🛒 Visítala!!!]({{< param buyurl >}})

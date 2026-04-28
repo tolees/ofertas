@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Incluye: GWS 12-125, empuñadura auxiliar antivibración, cubierta protectora, cubierta protectora de separación de plástico, brida, tuerca de apriete, llave de dos agujeros
-- Motor potente y robusto: de 1200 vatios con una velocidad en vacío de hasta 11 000 rpm, tiene una buena capacidad de sobrecarga para avanzar rápidamente en las aplicaciones diarias con metales
-- Esta herramienta es compatible con las caperuzas de aspiración GDE 125 EA-T Professional y GDE 115/125 FC-T Professional.
 - Ergonómico: más comodidad y menos fatiga gracias al diseño ergonómico debido a la talla reducida del agarre
+- Esta herramienta es compatible con las caperuzas de aspiración GDE 125 EA-T Professional y GDE 115/125 FC-T Professional.
+- Motor potente y robusto: de 1200 vatios con una velocidad en vacío de hasta 11 000 rpm, tiene una buena capacidad de sobrecarga para avanzar rápidamente en las aplicaciones diarias con metales
 - Funciones PROtection inteligentes: La protección contra re arranque evita que la máquina se ponga en marcha automáticamente tras un corte de energía
 
 [🛒 Aquí!!!]({{< param buyurl >}})

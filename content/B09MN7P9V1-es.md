@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - TEJIDO - El cómodo y suave material de 60% algodón, 20% viscosa y 20% nylon ofrece una cómoda elasticidad ligera al usarlo.
-- AJUSTE - Corte elástico Regular Fit, combinable con todos los conjuntos. Cuello redondo clásico, puños y dobladillo con acabado elástico. El modelo mide 188 cm y lleva la talla L.
 - COMODIDAD - Este fino suéter de punto de manga larga destaca por su alta calidad de fabricación. Presentación impecable en un diseño clásico.
+- AJUSTE - Corte elástico Regular Fit, combinable con todos los conjuntos. Cuello redondo clásico, puños y dobladillo con acabado elástico. El modelo mide 188 cm y lleva la talla L.
 - LOOK DE CADA DÍA - Ropa de estar en casa, ropa casual de calle o de negocios. ¡Un versátil básico JJEEMIL - 12208365! Ideal para tus estilos diarios.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

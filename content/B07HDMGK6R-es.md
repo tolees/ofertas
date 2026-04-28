@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Spread Collar
 - Denim jacket
 - materialFabricComposition: 98% Cotton, 2% Elastane
-- Spread Collar
 - Care Label:
 - Long Sleeves
 

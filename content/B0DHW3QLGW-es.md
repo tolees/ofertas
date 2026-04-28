@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cordones
-- Empeine de Fiberskin con estampado Sprintgrid
-- Forro textil
 - Horma clásica
+- Empeine de Fiberskin con estampado Sprintgrid
 - Suela Sprintplate 360 multisuperficie
+- Cordones
+- Forro textil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DHW3QLGW{{</world>}}

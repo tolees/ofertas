@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ideal para correr por senderos en condiciones climáticas adversas
 - Suela con agarre seguro en superficies mojadas
 - GORE-TEX impermeable y transpirable
 - GEL en el talón para absorber el impacto
+- Ideal para correr por senderos en condiciones climáticas adversas
 - Amortiguación AMPLIFOAM para mayor comodidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

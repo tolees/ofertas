@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Primavera verano
+- De las mujeres
 - Cumbres
 - Lona
 - Bajo-Top
-- De las mujeres
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B076TW2DNN{{</world>}}

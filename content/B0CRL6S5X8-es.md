@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Chino
 - Alto porcentaje de algodón
+- Chino
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CRL6S5X8{{</world>}}

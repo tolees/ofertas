@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Instrucciones de cuidado: lavable a máquina
-- Composición: 92 por ciento de algodón 6 por ciento elastomultiéster 2 por ciento de elastano
-- Cierre: cremallera y botón
 - Jeans Pantalones Largos
+- Composición: 92 por ciento de algodón 6 por ciento elastomultiéster 2 por ciento de elastano
 - Ajuste: Slim Straight
+- Cierre: cremallera y botón
+- Instrucciones de cuidado: lavable a máquina
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CLMBXSM4{{</world>}}

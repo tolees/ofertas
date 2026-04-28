@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Capucha con cordón ajustable
+- Corte clásico
+- Dobladillo trasero ligeramente más corto
 - Hombros con la costura caída
+- 70% algodón / 30% poliéster (reciclado)
 - Puños y dobladillo de canalé
 - Contiene al menos un 70% de material reciclado y renovable
+- Capucha con cordón ajustable
 - Bolsillo canguro
-- 70% algodón / 30% poliéster (reciclado)
-- Dobladillo trasero ligeramente más corto
-- Corte clásico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CZV13LMG{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El adaptador de corriente universal OMRON es apto para el siguiente nebulizador con compresor NE-C803-E
-- El adaptador universal OMRON es apto para los siguientes tensiómetros de brazo de uso doméstico: Tensiómetro OMRON M7 Intelli IT (HEM-7361T-EBK / HEM-7322T-E), medidor de tensión arterial de brazo M500 Intelli IT (HEM-7361T-D), tensiómetro de brazo digital M4 Intelli IT (HEM-7115T-EBK), medidor de tensión arterial en brazo M400 Intelli IT (HEM-7115T-D), medidor de presión arterial M3 Comfort (HEM-7155-E / HEM-7134-E), tensiómetro de brazo Omron M400 Comfort (HEM-7155-D), aparato de tensión arterial M400 (HEM-7134-D), X7 Smart (HEM-7361T-ESL / HEM-7361T-D), X4 Smart (HEM-7155T-ESL / HEM-7155T-D), X3 Comfort (HEM-7155-E / HEM-7155-D)
 - Contenido: 1 adaptador de corriente (2 clavijas) y el manual de instrucciones
 - 2 clavijas estándares europeas, adaptador de corriente universal para uso con dispositivos OMRON compatibles
 - Estos accesorios para monitores de presión arterial tienen el número de artículo 9546045-8
+- El adaptador universal OMRON es apto para los siguientes tensiómetros de brazo de uso doméstico: Tensiómetro OMRON M7 Intelli IT (HEM-7361T-EBK / HEM-7322T-E), medidor de tensión arterial de brazo M500 Intelli IT (HEM-7361T-D), tensiómetro de brazo digital M4 Intelli IT (HEM-7115T-EBK), medidor de tensión arterial en brazo M400 Intelli IT (HEM-7115T-D), medidor de presión arterial M3 Comfort (HEM-7155-E / HEM-7134-E), tensiómetro de brazo Omron M400 Comfort (HEM-7155-D), aparato de tensión arterial M400 (HEM-7134-D), X7 Smart (HEM-7361T-ESL / HEM-7361T-D), X4 Smart (HEM-7155T-ESL / HEM-7155T-D), X3 Comfort (HEM-7155-E / HEM-7155-D)
+- El adaptador de corriente universal OMRON es apto para el siguiente nebulizador con compresor NE-C803-E
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07PFFF8HY{{</world>}}

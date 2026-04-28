@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Care Label:
-- Zip Hoodie
-- materialFabricComposition: 61% Polyester, 39% Cotton
 - Long Sleeves
+- Care Label:
+- materialFabricComposition: 61% Polyester, 39% Cotton
 - Relaxed Fit
+- Zip Hoodie
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C7HCLCHD{{</world>}}

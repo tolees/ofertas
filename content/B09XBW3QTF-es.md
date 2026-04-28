@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Parte superior de malla ligera y transpirable con superposiciones sintéticas para mayor durabilidad y apoyo
-- La entresuela Charged Cushioning utiliza espuma moldeada por compresión para una máxima capacidad de respuesta y durabilidad
-- Desplazamiento: 10 mm
-- Peso: 9.5 onzas.
-- Suela de goma sólida que cubre zonas de alto impacto para una mayor durabilidad con menos peso
-- Advertencia: este producto puede exponerte a productos químicos, incluyendo cromo (compuestos hexavalentes), que se sabe en el estado de California por causar cáncer y defectos de nacimiento u otros daños reproductivos.
 - La plantilla de EVA proporciona una comodidad suave al pisar
+- Desplazamiento: 10 mm
+- Advertencia: este producto puede exponerte a productos químicos, incluyendo cromo (compuestos hexavalentes), que se sabe en el estado de California por causar cáncer y defectos de nacimiento u otros daños reproductivos.
 - Tipo de encaje: corbata estándar
+- La entresuela Charged Cushioning utiliza espuma moldeada por compresión para una máxima capacidad de respuesta y durabilidad
+- Suela de goma sólida que cubre zonas de alto impacto para una mayor durabilidad con menos peso
+- Parte superior de malla ligera y transpirable con superposiciones sintéticas para mayor durabilidad y apoyo
+- Peso: 9.5 onzas.
 - NEUTRAL: para corredores que necesitan flexibilidad, amortiguación y versatilidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- VASOS DE GRAN CAPACIDAD: Hemos diseñado estos vasos con una capacidad de 350 ml, un tamaño perfecto para poder echar cualquier bebida sin que sea demasiado incómodo de beber ni sin que tengas que estar todo el rato rellenándolo.
 - DISEÑO MODERNO: En Scalpers somos fieles a nuestro estilo incluso diseñando vasos. Por eso, te traemos 4 vasos elegantes, simples, pero con toques rebeldes que nos caracterizan.
 - FABRICADOS EN CRISTAL: Todos sabemos que las cosas no saben igual si las bebes en plástico o en cualquier otro material que no sea cristal. Por eso hemos decidido crearlo en este material con un diseño tan diferente como tú.
 - ESPÍRITU LIBRE: De un pequeño taller dedicado a la venta de corbatas a todo un imperio de distinción, elegancia y calidad. En apenas 15 años, en Scalpers hemos revolucionado el diseño y el buen gusto llenando tu vida de rebeldía.
 - SET DE 4 VASOS DE CRISTAL: Nuestros vasos de cristal Scalpers son el acompañamiento perfecto de tus comidas y cenas. Serán el centro de atención y combinarán a la perfección con el resto de tu vajilla, sea cual sea.
-- VASOS DE GRAN CAPACIDAD: Hemos diseñado estos vasos con una capacidad de 350 ml, un tamaño perfecto para poder echar cualquier bebida sin que sea demasiado incómodo de beber ni sin que tengas que estar todo el rato rellenándolo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08JQ4JK84{{</world>}}

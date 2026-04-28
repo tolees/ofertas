@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Entresuela AMPLIFOAM
 - Superposiciones de cuero sintético
+- Entresuela AMPLIFOAM
 - Parte superior de malla técnica
 
 [🛒 Visítala!!!]({{< param buyurl >}})

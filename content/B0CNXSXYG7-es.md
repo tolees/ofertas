@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- VEHÍCULO EXCLUSIVO – Sólo podrás encontrar este T-Racer Exclusivo, Dragon Instinct, con este camión lanzadera. Recuerda que sus piezas se podrán combinar con las de los otros coches T-Racers Mix ´N Race que tengas. No compatibles con T-Racers anteriores (de la serie 1 a la 6)
+- ¡DESCUBRE EL FIRE LAUNCHER TRUCK! - ¡La pista está que arde con el Fire Launcher Truck! Carga el camión con tu T-Racer Mix ´N Race favorito… ¡y lánzalo a máxima velocidad!
 - EMOCIÓN Y DIVERSIÓN – Horas de diversión para niños montando su propio vehículo, combinando piezas y haciendo carreras con el Fire Launcher Truck. ¿Estás listo para el Mix ‘N Race?
 - ¿LISTO PARA LA CARRERA? – Junta los dos Launcher Trucks Fire y Ice y podrás competir en modo carrera: ¿Quién será el más rápido y llegará más lejos?
-- ¡DESCUBRE EL FIRE LAUNCHER TRUCK! - ¡La pista está que arde con el Fire Launcher Truck! Carga el camión con tu T-Racer Mix ´N Race favorito… ¡y lánzalo a máxima velocidad!
+- VEHÍCULO EXCLUSIVO – Sólo podrás encontrar este T-Racer Exclusivo, Dragon Instinct, con este camión lanzadera. Recuerda que sus piezas se podrán combinar con las de los otros coches T-Racers Mix ´N Race que tengas. No compatibles con T-Racers anteriores (de la serie 1 a la 6)
 - ¡LANZA TU T-RACER A MÁXIMA VELOCIDAD! –¡usa el poder del fuego para salir victorioso! Cuando tu coche esté listo para competir, colócalo en el lanzador, y ¡dispara! ¿Ganarás la carrera?
 
 [🛒 Visítala!!!]({{< param buyurl >}})

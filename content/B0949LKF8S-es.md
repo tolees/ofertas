@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Construcción vulcanizada
-- Vans Marca Sidestripe
-- Cierre de cordones
 - Suela original de gofre
+- Cierre de cordones
+- Vans Marca Sidestripe
+- Construcción vulcanizada
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0949LKF8S{{</world>}}

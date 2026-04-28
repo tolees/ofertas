@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dermatológicamente y oftalmológicamente probado
+- La siguiente información se aplica a cada unidad del paquete
 - Color de alta intensidad para un impacto instantáneo
 - Resistente al agua
-- Dibuja una línea fina sobre el ojo para una mirada más intensa
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
-- La siguiente información se aplica a cada unidad del paquete
+- Dibuja una línea fina sobre el ojo para una mirada más intensa
 - Fórmula suave y cremosa para una fácil aplicación
+- Dermatológicamente y oftalmológicamente probado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DZHP7SXY{{</world>}}

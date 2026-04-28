@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fragancia personal
 - Narciso Rodriguez All Of Me
+- Fragancia personal
 - Empaque de 90 ml
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

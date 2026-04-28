@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Los productos Lastolite by Manfrotto se han trasladado a la marca Manfrotto. Puede recibir la versión Lastolite de Manfrotto o Manfrotto, pero el producto es exactamente el mismo
 - Fondo
-- Doble cara
 - Plegable
+- Doble cara
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00M87BWJ6{{</world>}}

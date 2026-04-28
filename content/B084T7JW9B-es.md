@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Alta calidad: gracias al material robusto y resistente, la gorra ofrece una larga vida útil
 - Gorra de camionero oficial del modelo A-Frame de New Era con visera curvada e inserción de malla en la parte trasera
+- Alta calidad: gracias al material robusto y resistente, la gorra ofrece una larga vida útil
 - Una característica especial es el bordado del logotipo de los Los Angeles Lakers en la parte delantera
 
 [🛒 Comprar!!!]({{< param buyurl >}})

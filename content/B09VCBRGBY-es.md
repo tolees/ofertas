@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Control Preservativos Slim Fit - Caja de 24 Condones Más ajustados Lubricados Sexo Seguro Preservativos con Óptimo Ajuste Pack ahorro'
-date: 2026-04-21 23:10:51
+date: 2026-04-27 11:51:14
 image: 'https://m.media-amazon.com/images/I/41wTeCj7YvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09VCBRGBY/?tag=tolees-21'
 descuento: '57.86'
-average: '11.8666666666667'
+average: '12.008'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

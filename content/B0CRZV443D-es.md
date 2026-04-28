@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillos en la cintura cubiertos con cinta y cierre de botón a presión
-- Bajo y puños elásticos
-- Cierre de cremallera
-- Bolsillo y trabilla en el interior
 - Cuello alzado acanalado por dentro
+- Bolsillos en la cintura cubiertos con cinta y cierre de botón a presión
+- Bolsillo y trabilla en el interior
+- Cierre de cremallera
+- Bajo y puños elásticos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CRZV443D{{</world>}}

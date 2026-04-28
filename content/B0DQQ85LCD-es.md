@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Difumina las imperfecciones y reduce las rojeces
-- Con vitaminas E + B5 y aloe vera, ideal para pieles sensibles y secas
-- Base ligera e hidratante que calma la piel sensible, para una piel glow todo el día
 - Hidrata y unifica la piel para que tenga un aspecto radiante y saludable
 - Fórmula clean y 100% vegana
+- Con vitaminas E + B5 y aloe vera, ideal para pieles sensibles y secas
+- Difumina las imperfecciones y reduce las rojeces
+- Base ligera e hidratante que calma la piel sensible, para una piel glow todo el día
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQQ85LCD{{</world>}}

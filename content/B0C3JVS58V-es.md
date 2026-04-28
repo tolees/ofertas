@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forro textil
 - Parte de malla
-- Mediasuela Cloudfoam
 - Horma clásica
+- Mediasuela Cloudfoam
+- Forro textil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C3JVS58V{{</world>}}

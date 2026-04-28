@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Entresuela Flex Lite que absorbe los golpes
 - Lavable a máquina
+- Tacón de 1,27 cm
 - Parte superior de malla diseñada con cordones frontales
 - Suela de tracción súper flexible
-- Entresuela Flex Lite que absorbe los golpes
-- Tacón de 1,27 cm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CB1W562F{{</world>}}

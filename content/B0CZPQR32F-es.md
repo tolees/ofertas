@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Chaqueta y pantalón: Bolsillos frontales
 - Chaqueta y pantalón: Puños y dobladillo de canalé
+- Chaqueta y pantalón: Bolsillos frontales
 - Pantalón: Cintura elástica con cordón
 - 100% poliéster (reciclado)
 - Corte clásico con talle medio

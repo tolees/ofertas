@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Horma clásica
+- Cierre de cordones
 - Empeine textil y sintético
 - Mediasuela Bounce
 - Suela de goma
-- Cierre de cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CYMZPX9M{{</world>}}

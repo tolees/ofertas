@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Caramelos de goma
 - Con recubrimiento de azúcar
 - Conservar en lugar fresco y seco
 - Deliciosas piezas en forma de lagartones con sabor a frutas
-- Caramelos de goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01CP8PPAE{{</world>}}

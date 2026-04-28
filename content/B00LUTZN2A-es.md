@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Para todos los tipos de piel
-- Limpia, acondiciona y suaviza
 - Volumen: 8 ml
 - Envuelve a diario tu cuerpo con esta crema; Deja la piel suave, flexible y con una elegante fragancia
+- Para todos los tipos de piel
+- Limpia, acondiciona y suaviza
 - Marca británica para el cuidado de la piel y spa, con terapias y productos clínicamente testados para la cara y el cuerpo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

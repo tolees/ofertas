@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pure Micro N Café Latte
 - Lencería
+- Pure Micro N Café Latte
 - Para mujer
 
 [🛒 Comprar!!!]({{< param buyurl >}})

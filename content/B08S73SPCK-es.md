@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Adecuado para reglas y plantillas
 - Punta metálica (grosor de trazo: 0,4 mm)
+- Tapa en el extremo del bolígrafo
+- Alta protección contra la deshidratación sin tapa
 - Rotulador de punta fina hexagonal con diseño de rayas
 - Disponible en muchos colores brillantes
-- Alta protección contra la deshidratación sin tapa
-- Tapa en el extremo del bolígrafo
+- Adecuado para reglas y plantillas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08S73SPCK{{</world>}}

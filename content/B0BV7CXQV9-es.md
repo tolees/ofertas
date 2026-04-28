@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Deliciosas piezas con formas de dinosaurios
 - Caramelos de goma
 - Irresistible mix de sabores
+- Deliciosas piezas con formas de dinosaurios
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BV7CXQV9{{</world>}}

@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Forro textil
-- Horma clásica
-- Empeine sintético
 - Suela de goma para campos de moqueta
+- Empeine sintético
 - Cierre de cordones
+- Horma clásica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CYNHM22J{{</world>}}

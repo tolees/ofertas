@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Manga Larga
 - Botones falsos
+- Manga Larga
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DNK1JRX9{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Detalles distintivos de la marca
 - Diseño ligero y cómodo
 - Con un tejido suave
+- Detalles distintivos de la marca
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DSY93T63{{</world>}}

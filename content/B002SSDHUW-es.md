@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CONSEJOS DE USO Aplica la crema generosamente sobre la piel limpia y seca, masajeando suavemente hasta que se absorba completamente, úsala diariamente, preferiblemente después del baño o la ducha.
-- INGREDIENTES SELECCIONADOS Con aloe vera y agentes suavizantes, hidrata en profundidad, calma y acondiciona la piel. Ayuda a retener la humedad para una piel revitalizada, radiante y saludable.
 - HIDRATACIÓN INTENSIVA Con miel y té verde, esta fórmula calma, nutre y revitaliza la piel seca, dejándola suave, flexible y con una sensación refrescante, rejuvenecida y llena de bienestar
 - RECOMENDACIONES Complementa tu rutina con el perfume Green Tea y disfruta de una experiencia sensorial completa con la frescura revitalizante del té verde y Honey Drops
 - CREMA CORPORAL GREEN TEA HONEY DROPS: Fórmula ultra hidratante con miel y té verde que revitaliza la piel seca, brindando frescura, alivio y nutrición profunda para todo el cuerpo
+- INGREDIENTES SELECCIONADOS Con aloe vera y agentes suavizantes, hidrata en profundidad, calma y acondiciona la piel. Ayuda a retener la humedad para una piel revitalizada, radiante y saludable.
+- CONSEJOS DE USO Aplica la crema generosamente sobre la piel limpia y seca, masajeando suavemente hasta que se absorba completamente, úsala diariamente, preferiblemente después del baño o la ducha.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B002SSDHUW{{</world>}}

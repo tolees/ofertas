@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto deportivo
 - Material de calidad
+- Producto deportivo
 - Ofrece un resultado óptimo y adecuado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

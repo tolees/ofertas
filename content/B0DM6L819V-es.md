@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con detalles distintivos de la marca
-- Puntera reforzada
-- Tobillo y lengüeta acolchados
-- Parte superior en ante y nailon
 - Cierre con cordones
+- Con detalles distintivos de la marca
+- Parte superior en ante y nailon
+- Tobillo y lengüeta acolchados
+- Puntera reforzada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DM6L819V{{</world>}}

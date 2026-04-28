@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cabezas y uñas forjadas, máxima dureza
-- Acabado con pintura epoxi
-- Para realizar palanca y eliminar el soporte del encofrado.
 - Tratamiento térmico de temple en cabeza y uñas, gran resistencia al desgaste
+- Para realizar palanca y eliminar el soporte del encofrado.
+- Acabado con pintura epoxi
+- Cabezas y uñas forjadas, máxima dureza
 - Uñas diseñadas para optimizar el esfuerzo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

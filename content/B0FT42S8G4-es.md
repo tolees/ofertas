@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - BATALLA: Siente el impacto veloz en estadios con Xtreme Line. ¡Continúa realizando ataques críticos y contraataques y usa la "X Skill" para acabar con tu oponente con estilo
+- BATALLA ONLINE: ¡En las batallas en línea podrás enfrentarte a Bladers de todo el mundo en cualquier momento y lugar! Compite con Bladers de todo el mundo y apunta a la cima
+- HISTORIA: Un nuevo torneo en la The X: Campeonato de la The X. Compite contra rivales, afiánzate en la batalla y llega a la cima de la The X
 - PERSONALIZACIÓN: ¡Podrás crear más de 100 millones de combinaciones con la "X Skill"! Combina piezas y habilidades para configurar tu Bey a tu gusto
 - BEYBLADE X XONE Digital Beybooster Vol. 1, 2 and 3, BEYBLADE X XONE X-OVER BOOSTER, BEYBLADE X XONE DRAN DECK DIGITAL BOOSTER, DRAN DIGITAL COLOR CHOICE BOOSTER
-- HISTORIA: Un nuevo torneo en la The X: Campeonato de la The X. Compite contra rivales, afiánzate en la batalla y llega a la cima de la The X
-- BATALLA ONLINE: ¡En las batallas en línea podrás enfrentarte a Bladers de todo el mundo en cualquier momento y lugar! Compite con Bladers de todo el mundo y apunta a la cima
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FT42S8G4{{</world>}}

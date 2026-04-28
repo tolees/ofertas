@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre de piel ajustable
-- Una gorra básica perfecta para el día a día
-- Levis D7723-0030 Red TAB MAINLINE 98PL 2EA WVN Cap Mens One Size
 - Lavado a mano
+- Una gorra básica perfecta para el día a día
+- Cierre de piel ajustable
+- Levis D7723-0030 Red TAB MAINLINE 98PL 2EA WVN Cap Mens One Size
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DNTPX9V3{{</world>}}

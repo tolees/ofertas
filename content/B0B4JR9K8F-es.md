@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Elástico Total - El elástico total utilizado en la sábana bajera hace que se adapte fácilmente al colchón, dando un bonito acabado a la cama.
-- OEKO-TEX Certificado - Nuestras sábanas cumplen con las normas de seguridad, lo que le garantiza tranquilidad cada vez que duerme.
 - Resistente A La Disminución Y Al Desteñido - El material de microfibra está procesado para hacerlo resistente a la contracción y al desteñido, lo que aumenta la longevidad del conjunto y lo mantiene en excelentes condiciones.
+- OEKO-TEX Certificado - Nuestras sábanas cumplen con las normas de seguridad, lo que le garantiza tranquilidad cada vez que duerme.
 - Fácil De Cuidar - Lavar a máquina en frío, ciclo delicado, no usar lejía, secar en secadora a baja temperatura y planchar a baja temperatura.
+- Elástico Total - El elástico total utilizado en la sábana bajera hace que se adapte fácilmente al colchón, dando un bonito acabado a la cama.
 - Juego De Sabanas - Utopia Bedding juego de sábanas de 4 piezas incluye 1 sábana plana de 180 x 227 cm, 1 sábana bajera de 105 x 190 cm con bolsillo de 35 cm de profundidad y 2 fundas de almohada de 50 x 75 cm con cierre de sobre de 10 cm. (Funda De Edredón No Incluido)
 - Poliéster Microfibra Cepillada - Tejido de poliéster microfibra cepillada hace que el juego de sábanas sea excepcionalmente suave, liso y cómodo, manteniéndole caliente en invierno y fresco en verano.
 

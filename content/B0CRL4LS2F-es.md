@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte estándar
-- Puños acanalados, dobladillo y escote
-- Cuello redondo
 - Gant bordado gráfico en el pecho
+- Corte estándar
+- Cuello redondo
+- Puños acanalados, dobladillo y escote
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CRL4LS2F{{</world>}}

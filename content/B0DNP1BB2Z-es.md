@@ -30,14 +30,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Ajuste ancho y desenfadado en caderas y muslos
 - Lavado a máquina
+- Ajuste holgado en cadera y muslo
 - Cremallera
 - Pierna recta
-- Con cintura media y pierna recta
-- Altura media: 26 cm
-- 85% algodón, 15% lino
 - Dobladillo informal y suelto
-- Ajuste holgado en cadera y muslo
+- Altura media: 26 cm
 - Un ajuste al estilo de nuestra generación de padres
+- Con cintura media y pierna recta
+- 85% algodón, 15% lino
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DNP1BB2Z{{</world>}}

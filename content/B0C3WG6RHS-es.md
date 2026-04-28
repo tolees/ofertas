@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte sintética suave
-- Mediasuela Cloudfoam
 - Forro textil
 - Horma clásica
+- Parte sintética suave
+- Mediasuela Cloudfoam
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C3WG6RHS{{</world>}}

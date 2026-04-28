@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- TRIPLE ACCIÓN – Esta crema solar facial 3-en-1 cubre las manchas y las reduce a nivel celular, uniformando el tono. Además, protege la piel gracias a su FPS 30.
+- CONTENIDO DEL ENVÍO – NIVEA Luminous 630 antimanchas fluido CC SPF30 3-en-1, despigmentante facial dermatológicamente comprobado con resultados visibles en 2 semanas, 1 x 40 ml, tono oscuro.
 - COBERTURA – La fórmula con pigmentos microencapsulados de esta crema Nivea con cobertura modulable aporta un tono natural y cubre manchas e imperfecciones.
 - TRATAMIENTO ANTIMANCHAS – Gracias al activo patentado Luminous 630, el sérum antimanchas reduce visiblemente las manchas del rostro en un 40% en 8 semanas*.
-- CONTENIDO DEL ENVÍO – NIVEA Luminous 630 antimanchas fluido CC SPF30 3-en-1, despigmentante facial dermatológicamente comprobado con resultados visibles en 2 semanas, 1 x 40 ml, tono oscuro.
+- TRIPLE ACCIÓN – Esta crema solar facial 3-en-1 cubre las manchas y las reduce a nivel celular, uniformando el tono. Además, protege la piel gracias a su FPS 30.
 - ÁCIDO HIALURÓNICO – Este protector solar fluido contiene ácido hialurónico, que activa las células** para conseguir una piel profundamente hidratada y tersa.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- MATERIAL Y CUIDADO: Cazadora bomber confeccionada en polipropileno reciclado 100 %. Se puede lavar a máquina y secar en secadora.
 - PARA CUALQUIER OCASIÓN: Esta ligera cazadora destaca porque es muy práctica y cómoda. Los discretos detalles distintivos de Calvin Klein proporcionan un estilo muy elegante a esta cazadora.
 - ICÓNICO Y ATEMPORAL: La cazadora original de Calvin Klein con dos bolsillos a la altura de la cintura y cuello tipo béisbol tiene un diseño depurado. Gracias a su material cálido es ideal para los meses de entretiempo.
+- MATERIAL Y CUIDADO: Cazadora bomber confeccionada en polipropileno reciclado 100 %. Se puede lavar a máquina y secar en secadora.
 - AJUSTE PERFECTO: Esta cazadora bomber de estilo atemporal y minimalista es ligera a la vez que abrigada.
 - EMOCIONANTE Y CLARO: La marca de moda Calvin Klein, fundada en 1968, es conocida por su singular look y lleva conquistando el mundo de la moda desde entonces. La marca americana apuesta por una estética minimalista.
 

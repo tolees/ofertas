@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Opcional recomendado: cojín Jolly de Ferplast, fabricado en material técnico resistente a los arañazos y al agua y puerta de plástico transparente
 - Robusta y duradera: la caseta para perros tiene una construcción sólida con tablas ensambladas con tornillos; forma de casa estilizada moderna; original combinación de madera clara y oscura
 - Caseta de exterior para perros en madera certificada FSC tratada con pintura al agua no tóxica e inodora para la salud del animal; sistema de ventilación con orificios en la parte trasera para una ventilación interior óptima
 - Dimensiones internas: 57.5 x 83.5 x h 69 cm; dimensiones de la puerta: 27 x 44.5 cm; dimensiones con techo: 63.5 x 91.5 xh 78 cm; dimensiones sin techo: 60.5 x 86.5 xh 78 cm
 - Techo fijo e inclinado para permitir un drenaje óptimo del agua de lluvia, pies aislantes de plástico; conveniente puerta frontal para un fácil acceso
+- Opcional recomendado: cojín Jolly de Ferplast, fabricado en material técnico resistente a los arañazos y al agua y puerta de plástico transparente
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BLM5N4QL{{</world>}}

@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mediasuela Cloudfoam
 - Plantilla OrthoLite
 - Empeine de malla
 - Peso: 304 g (talla 42 2/3)
-- Suela Adiwear
 - Forro textil
-- Horma clásica
 - Drop: 10 mm (talón: 33 mm / antepié: 23 mm)
+- Suela Adiwear
+- Mediasuela Cloudfoam
 - Cierre de cordones
+- Horma clásica
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F2G9JHHP{{</world>}}

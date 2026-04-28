@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Polo TeamGOAL
 - Duradero y resistente
 - Producto cómodo
-- Polo TeamGOAL
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C4PN46TD{{</world>}}

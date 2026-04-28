@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Parte superior reforzada y transpirable
-- TWISTRUSS para mayor estabilidad al saltar
 - Suela específica para interiores con máximo agarre
+- TWISTRUSS para mayor estabilidad al saltar
 - Ideal para voleibol de competición
 - Amortiguación FLYTEFOAM con tecnología GEL
 

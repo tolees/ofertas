@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Moldeado por inyección
-- 100% acero inoxidable
 - Capacidad de 0,6 L
+- 100% acero inoxidable
+- Moldeado por inyección
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F1F4CQQQ{{</world>}}

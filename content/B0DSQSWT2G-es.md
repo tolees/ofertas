@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ofrece un ajuste cómodo
 - Detalles distintivos de la marca
+- Ofrece un ajuste cómodo
 - Tejido suave y ligero
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Modelo casual
 - Este producto es original Levis
-- Con un discreto logo en el pecho
 - Elaborada en punto suave
+- Con un discreto logo en el pecho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07K75RX5J{{</world>}}

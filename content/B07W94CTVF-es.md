@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Exclusiva fragancia
 - De máxima duración
-- Buen olor
 - Excelente calidad
 - Con aroma muy agradable
+- Buen olor
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07W94CTVF{{</world>}}

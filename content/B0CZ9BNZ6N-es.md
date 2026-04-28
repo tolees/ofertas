@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Corte clásico
+- Tecnología Freshrite Polygiene que evita el mal olor
+- Tejido Twistknit
 - Cremallera hasta el pecho y cuello corto
+- CLIMACOOL
+- Refuerzos bajo las sisas
 - Protección contra los rayos UV
 - 100% poliéster (71% reciclado)
-- Refuerzos bajo las sisas
-- Tejido Twistknit
 - Contiene al menos un 70% de material reciclado y renovable
-- Tecnología Freshrite Polygiene que evita el mal olor
-- CLIMACOOL
-- Corte clásico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZ9BNZ6N{{</world>}}

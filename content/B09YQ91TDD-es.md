@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillos laterales
 - Corte clásico
+- Bolsillos laterales
 - Cintura elástica con cordón
 - 70% algodón / 30% poliéster (reciclado)
 - Bolsillo trasero

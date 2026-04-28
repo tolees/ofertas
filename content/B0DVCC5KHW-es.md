@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Desigual
-- Logo bordado en el pecho
-- Manga: Larga
-- Cuello: Redondo
-- Mangas con acabados rib
 - Colección AW25
+- Manga: Larga
+- Logo bordado en el pecho
+- Mangas con acabados rib
+- Cuello: Redondo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DVCC5KHW{{</world>}}

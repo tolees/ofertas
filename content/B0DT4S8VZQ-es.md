@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Accesorios: Incluye una tapa, un carril de 1 m y un conector lineal para ampliar el sistema de carriles sin interrupciones
-- Longevidad: Cada foco tiene una vida útil de 20.000 horas y ofrece una excelente reproducción cromática con un índice de reproducción cromática (Ra) de ≥90
-- Iluminación: se incluyen dos focos LED cilíndricos, cada uno con 5 W, una potencia de 450 lúmenes y una temperatura de color de 3000 K para conseguir una iluminación cálida y agradable
 - Ampliable: perfecto para ampliar el set de inicio (8025045) y no apto para uso independiente, este set puede ampliarse con focos adicionales de hasta 100W
+- Longevidad: Cada foco tiene una vida útil de 20.000 horas y ofrece una excelente reproducción cromática con un índice de reproducción cromática (Ra) de ≥90
+- Accesorios: Incluye una tapa, un carril de 1 m y un conector lineal para ampliar el sistema de carriles sin interrupciones
 - Material y diseño: Fabricado en metal con un elegante acabado negro, el sistema ofrece un diseño moderno y de alta calidad
+- Iluminación: se incluyen dos focos LED cilíndricos, cada uno con 5 W, una potencia de 450 lúmenes y una temperatura de color de 3000 K para conseguir una iluminación cálida y agradable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DT4S8VZQ{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello frontal insert and piping detail
 - Cuello y logotipo impresos en agua
 - Tejido entrelazado
+- Cuello frontal insert and piping detail
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09VRTK8B9{{</world>}}

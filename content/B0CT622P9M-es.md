@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🌬️ Textura Ligera y Mezclable: La textura ligera facilita la aplicación, creando un aspecto uniforme sin sensación pesada.
 - 💎 Fórmula Mineral Suave: Enriquecidos con minerales, estos polvos son suaves para la piel y se adaptan a diversos tonos.
+- 🌬️ Textura Ligera y Mezclable: La textura ligera facilita la aplicación, creando un aspecto uniforme sin sensación pesada.
 - 🌟 Acabado Mate Duradero: Lovely Mineral Pressed Powder logra un aspecto mate que reduce el brillo durante todo el día.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

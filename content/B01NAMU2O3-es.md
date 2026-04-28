@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dispositivos compatibles: Epson Stylus SX600FW
+- Guepardo
 - De alto rendimiento
 - Número de páginas impresas: 250
 - Rf & Am Alarma
-- Guepardo
+- Dispositivos compatibles: Epson Stylus SX600FW
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01NAMU2O3{{</world>}}

@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Slim fit
+- Tejido de algodón ultraelástico para una máxima flexibilidad y comodidad
+- Ultimate Chino Slim
 - Cintura elástica Flex Comfort Waistband para una mayor elasticidad
 - Bragueta con cremallera
-- Ultimate Chino Slim
-- Tejido de algodón ultraelástico para una máxima flexibilidad y comodidad
 - Bolsillo de seguridad invisible con cierre de cremallera oculto y pequeño bolsillo monedero
-- Slim fit
 - Pantalón chino informal con tecnología Smart 360 Flex
 
 [🛒 Visítala!!!]({{< param buyurl >}})

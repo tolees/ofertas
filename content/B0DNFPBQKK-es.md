@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CHOQUES CON ÉPICAS EXPLOSIONES: Las increíbles velocidades que los tops Beyblade X experimentan al entrar en contacto con el riel permiten explosiones impresionantes y choques colosales (La frecuencia de explosión varía)
-- PREPÁRATE PARA LA ACCIÓN EXPLOSIVA CON EL SISTEMA DE ACELERACIÓN X: Cuando los engranajes del piñón entran en contacto con el riel de Aceleración X, los tops se propulsan alcanzando grandes velocidades que permiten explosiones impresionantes y choques colosales (Solo compatible con el Sistema Beyblade X)
 - 3 PIEZAS FÁCILES DE ENSAMBLAR: La hoja, el trinquete y el piñón intercambiables de los tops Beyblade X se montan y desmontan en un rápido giro y dos clics para que estés listo para lanzarte a la batalla
+- PREPÁRATE PARA LA ACCIÓN EXPLOSIVA CON EL SISTEMA DE ACELERACIÓN X: Cuando los engranajes del piñón entran en contacto con el riel de Aceleración X, los tops se propulsan alcanzando grandes velocidades que permiten explosiones impresionantes y choques colosales (Solo compatible con el Sistema Beyblade X)
+- CHOQUES CON ÉPICAS EXPLOSIONES: Las increíbles velocidades que los tops Beyblade X experimentan al entrar en contacto con el riel permiten explosiones impresionantes y choques colosales (La frecuencia de explosión varía)
 - LANZADOR BEYBLADE X: Este lanzador de torneo Takara Tomy oficial de rotación derecha cuenta con una tira dentada de 25 cm y agarres de goma personalizables. Incluye 1 lanzador Beyblade X de rotación derecha y un top Beyblade X de rotación derecha
 - DEMUÉSTRALO EN LA BATALLA CON BEYBLADE X: Disfruta la emoción de la competencia con este dinámico top de batalla. Arma tus tops, carga tus lanzadores y... 3, 2, 1... Let it rip! (Requiere Beystadium, se vende por separado)
 

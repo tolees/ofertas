@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste cómodo
 - Proyecto de sostenibilidad de Armani
+- Ajuste cómodo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DQ92PQSS{{</world>}}

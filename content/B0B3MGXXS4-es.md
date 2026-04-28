@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Parte superior de punto diseñada con cordones decorativos
 - Skechers Plantilla acolchada de espuma viscoelástica refrigerada por aire
 - Suela de tracción flexible
-- Parte superior de punto diseñada con cordones decorativos
 - Tacón de 1 1/4 pulgadas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

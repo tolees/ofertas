@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Confección en suave forro polar cepillado
-- Confeccionada con un corte holgado
 - Una sudadera infinitamente versátil
+- Confeccionada con un corte holgado
+- Confección en suave forro polar cepillado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CNHDZGXX{{</world>}}

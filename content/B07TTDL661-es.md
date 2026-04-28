@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Detalle de punto en los dedos, los lados y el talón
-- Entresuela ligera y flexible que absorbe los golpes
-- Panel frontal de tela elástica suave en el empeine
 - Forro de tela suave
+- Panel frontal de tela elástica suave en el empeine
+- Entresuela ligera y flexible que absorbe los golpes
 - Tejido de malla de punto suave de casi una pieza superior
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Talla única
 - Logotipo del equipo Mercedes - AMG Petronas Formula One Team
+- Talla única
 - Ala flexible tipo pescador
 
 [🛒 Visítala!!!]({{< param buyurl >}})

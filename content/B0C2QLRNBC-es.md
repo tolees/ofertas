@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Forro textil
-- Mediasuela de EVA ligera
-- Cierre de cordones
 - Horma clásica
+- Forro textil
+- Cierre de cordones
+- Mediasuela de EVA ligera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C2QLRNBC{{</world>}}

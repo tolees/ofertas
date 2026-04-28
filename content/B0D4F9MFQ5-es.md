@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con un ajuste posterior de gancho y bucle para un ajuste versátil y regulable, mantendrá tu cabeza a salvo del sol.
 - 100% algodón
 - Una gorra de algodón clásica para los días informales y las actividades al aire libre
+- Con un ajuste posterior de gancho y bucle para un ajuste versátil y regulable, mantendrá tu cabeza a salvo del sol.
 - Contenido: 1x Columbia Gorra Unisex Provisions, Color: Columbia Grey, Logo (Gris), Talla: Talla única
 - Provisions Ball Cap es una gorra clásica sin estructura que nunca pasa de moda, con la marca Columbia y que combina fácilmente con una gran variedad de atuendos.
 

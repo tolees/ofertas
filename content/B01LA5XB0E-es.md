@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Rango de grosores de puerta: 38-110 mm. Rango de agujeros puerta: 14- 22 mm.
 - Tamaño de pantalla: 3,2″. Tipo de pantalla: LCD TFT. Sensor cámara: 0,3 Mp CMOS. Resolución pantalla: 320 x 240. Ángulo de visión: 105º.
+- Mirilla digital de 3,2″. Buenos resultados incluso en condiciones de poca luz. Cuenta con varios acabados según modelo y su ángulo de visión es de 105º. Acabado blanco / latón.
 - Características: Encendido con un simple toque. Fácil manejo para niños y mayores. Máxima calidad y diseño moderno al mejor precio. Fácil instalación y sustitución de pilas.
 - Alimentación: Baterías Alkalinas 2 AAA (incluidas)
-- Mirilla digital de 3,2″. Buenos resultados incluso en condiciones de poca luz. Cuenta con varios acabados según modelo y su ángulo de visión es de 105º. Acabado blanco / latón.
-- Rango de grosores de puerta: 38-110 mm. Rango de agujeros puerta: 14- 22 mm.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01LA5XB0E{{</world>}}

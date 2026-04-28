@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Panasonic ER-GB86-K503 - Recortadora Ideal Barbas Largas con Peine-Guía 3 en 1 Cabello Barba y Cuerpo'
-date: 2026-04-22 18:07:08
+date: 2026-04-27 11:07:22
 image: 'https://m.media-amazon.com/images/I/51tMxZW-B6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B079YX8PLJ/?tag=tolees-21'
 descuento: '38.01'
-average: '58.575'
+average: '57.9429166666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

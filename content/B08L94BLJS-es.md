@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El corte cómodo permite una comodidad y un movimiento natural
-- Secado rápido
-- Tejido elástico
-- Tiene bolsillos laterales
-- Tela ligera
 - Cordones interiores para ajustar adecuado la prenda
+- Tela ligera
+- Tejido elástico
+- El corte cómodo permite una comodidad y un movimiento natural
+- Tiene bolsillos laterales
+- Secado rápido
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08L94BLJS{{</world>}}

@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Bolsillos insertados con remaches de refuerzo, bolsillo para monedas
 - Bragueta de botones
-- Pinzas laterales para crear un efecto arqueado
 - Etiqueta trasera de G-STAR hecha de un tejido de papel que imita a la piel
+- Pinzas laterales para crear un efecto arqueado
 - Bolsillos traseros
 
 [🛒 Aquí!!!]({{< param buyurl >}})

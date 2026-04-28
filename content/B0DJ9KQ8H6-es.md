@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño ligero y cómodo
 - Detalles distintivos de la marca
+- Diseño ligero y cómodo
 - Con una suela flexible
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

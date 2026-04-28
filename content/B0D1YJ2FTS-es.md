@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño ligero y cómodo
 - Con una suela duradera
+- Diseño ligero y cómodo
 - Detalles distintivos de la marca
 
 [🛒 Visítala!!!]({{< param buyurl >}})

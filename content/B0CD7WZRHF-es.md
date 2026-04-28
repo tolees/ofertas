@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Creación y personalización: Elija entre decenas de perfiles de iluminación predefinidos o cree los suyos con iCUE.
-- Regulación del voltaje integrada: El software CORSAIR iCUE permite un overclocking más sencillo, preciso y estable que el control de placas base de la generación anterior.
 - Perfiles Intel XMP 3.0 personalizados: Personalice y guarde sus perfiles XMP con iCUE para ajustar el rendimiento en función de la aplicación o tarea y mejorar la eficiencia.
 - Iluminación dinámica RGB en diez zonas: Ilumine su sistema con la iluminación de diez LED RGB ultrabrillantes y direccionables individualmente por módulo, encerrados en una barra de luz panorámica para disfrutar de la iluminación RGB desde cualquier ángulo.
+- Regulación del voltaje integrada: El software CORSAIR iCUE permite un overclocking más sencillo, preciso y estable que el control de placas base de la generación anterior.
 - Número de pieza: CMH32GX5M2B6000C30W | Latencia: 30-36-36-76 | Voltaje: 1,4 V | Compatibilidad: Intel series 600 y 700
 
 [🛒 Visítala!!!]({{< param buyurl >}})

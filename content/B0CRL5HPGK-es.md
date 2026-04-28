@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Jersey de algodón para hombre con microtextura, media cremallera
 - Logo
 - Alto porcentaje de algodón
+- Jersey de algodón para hombre con microtextura, media cremallera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CRL5HPGK{{</world>}}

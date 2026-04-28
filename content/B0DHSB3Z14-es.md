@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- MEDIDAS Y PESO: Las medidas del espejo con luz led son 18 x 29 x 19.5 cm y es muy ligero, tan solo pesa 300 gramos.
-- BATERÍA: La batería del espejo es de 500mAH e incluye un cargador tipo C y USB.
-- BASE: La base del espejo tiene forma de bandeja, lo que permite colocar tus productos favoritos. Perfecto como elemento decorativo para ese pequeño rincón de tu habitación o baño.
-- ESPEJO LED FORMA CORAZÓN: Espejo con luz para maquillaje con forma de corazón, perfecto para tus rutinas de skincare y maquillaje.
 - INTENSIDAD AJUSTABLE: El espejo led maquillaje tiene un modo de luz, y la intensidad de la misma es ajustable, pudiendo regular la luz como prefieras en cada momento.
+- ESPEJO LED FORMA CORAZÓN: Espejo con luz para maquillaje con forma de corazón, perfecto para tus rutinas de skincare y maquillaje.
+- BASE: La base del espejo tiene forma de bandeja, lo que permite colocar tus productos favoritos. Perfecto como elemento decorativo para ese pequeño rincón de tu habitación o baño.
+- BATERÍA: La batería del espejo es de 500mAH e incluye un cargador tipo C y USB.
+- MEDIDAS Y PESO: Las medidas del espejo con luz led son 18 x 29 x 19.5 cm y es muy ligero, tan solo pesa 300 gramos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DHSB3Z14{{</world>}}

@@ -29,14 +29,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Plantilla OrthoLite
-- Peso: 299,5 g (talla 42 2/3)
-- Horma clásica
-- Drop: 10 mm (talón: 32 mm / antepié: 22 mm)
-- Suela de goma
-- Contiene al menos un 20% de material reciclado
-- Mediasuela de EVA
-- Forro textil
 - Empeine de malla
+- Contiene al menos un 20% de material reciclado
+- Horma clásica
+- Mediasuela de EVA
+- Suela de goma
+- Drop: 10 mm (talón: 32 mm / antepié: 22 mm)
+- Forro textil
+- Peso: 299,5 g (talla 42 2/3)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CYN9CF6X{{</world>}}

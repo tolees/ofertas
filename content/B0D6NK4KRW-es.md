@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste: Slim Tapered
-- Composición: 99 por ciento algodón 1 por ciento elastano
-- Tipo de estiramiento: baja elasticidad
 - Instrucciones de cuidado: apto para lavadora
+- Tipo de estiramiento: baja elasticidad
 - Jeans Pantalones Largos
+- Composición: 99 por ciento algodón 1 por ciento elastano
+- Ajuste: Slim Tapered
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D6NK4KRW{{</world>}}

@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Horma clásica
 - Mediasuela Cloudfoam
-- Suela de EVA
-- Empeine de piel y material sintético
 - Forro textil
+- Empeine de piel y material sintético
+- Suela de EVA
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHGGRMW5{{</world>}}

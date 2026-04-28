@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pepe jeans Logotipo totalmente bordado en el pecho y PJL bordado completo en el dobladillo trasero; etiqueta tejida con logotipo insertado en la costura lateral
 - 100 % algodón
+- Pepe jeans Logotipo totalmente bordado en el pecho y PJL bordado completo en el dobladillo trasero; etiqueta tejida con logotipo insertado en la costura lateral
 - Polo de manga larga con doble botón en piqué con tinte de ropa y acabado lavado pesado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

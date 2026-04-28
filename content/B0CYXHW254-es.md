@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre de cordones
-- Horma clásica
 - Panel alrededor del tobillo y forro de malla
-- Puntera de ante
 - Empeine de piel sintética
+- Puntera de ante
+- Horma clásica
+- Cierre de cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CYXHW254{{</world>}}

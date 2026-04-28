@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Horma clásica
+- Mediasuela con amortiguación
 - Forro textil
+- Suela de goma vulcanizada
 - Empeine de piel sintética
 - Cierre de cordones
-- Mediasuela con amortiguación
-- Suela de goma vulcanizada
-- Horma clásica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C59BYB8Q{{</world>}}

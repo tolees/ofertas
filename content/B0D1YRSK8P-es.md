@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Plantilla Softfoam Plus
 - Puma Detalles de la marca
+- Plantilla Softfoam Plus
 - Bota baja
 
 [🛒 Aquí!!!]({{< param buyurl >}})

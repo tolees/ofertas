@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- De 0 a 2 años
-- 3,5- 13kg, desde 53cm
-- Ergonómica
 - Ajustable
+- De 0 a 2 años
+- Ergonómica
+- 3,5- 13kg, desde 53cm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CV7XS6VQ{{</world>}}

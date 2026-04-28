@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ALTA PIGMENTACIÓN: Color rojo intenso en una sola pasada. Su fórmula cremosa ofrece cobertura total y uniforme, sin marcas ni transferencias. Perfecto para que tu look dure toda la noche.
-- ACABADO DE MATE A PURPURINA: Este labial rojo festivo cambia de acabado mate a purpurina con solo presionar los labios. Perfecto para brillar en esta temporada de fiestas.
 - VEGANO Y CRUELTY FREE: 3INA es una marca de maquillaje española que fabrica en Europa. Todos nuestros productos son veganos, libres de parabenos y sin crueldad animal.
+- ACABADO DE MATE A PURPURINA: Este labial rojo festivo cambia de acabado mate a purpurina con solo presionar los labios. Perfecto para brillar en esta temporada de fiestas.
 - EDICIÓN LIMITADA: Este producto forma parte de la colección exclusiva Holiday 2025 y estará disponible solo por tiempo limitado. Todos nuestros productos son veganos, cruelty-free y fabricados en Europa.
+- ALTA PIGMENTACIÓN: Color rojo intenso en una sola pasada. Su fórmula cremosa ofrece cobertura total y uniforme, sin marcas ni transferencias. Perfecto para que tu look dure toda la noche.
 - TEXTURA CREMOSA Y CÓMODA: Se desliza fácilmente con una sensación suave y cremosa que mantiene los labios cómodos. Sin sequedad ni tirantez, solo un color festivo e intenso con un acabado ligero.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Un completo kit de regalo de maquillaje para ojos, rostro y labios con: un stick para labios y mejillas reactivo al pH, una sombra de ojos líquida holográfica y un aceite labial, todo ello en una pochette de tela supermoderna
-- LIPS & CHEEKS PH STICK Dermatológicamente testado No comedogénico GLEAM LIQUID EYESHADOW Oftalmológicamente testado 3D HYDRA LIP OIL Dermatológicamente testado
 - El kit contiene: -N.1 3D HYDRA LIP OIL 01 Aceite hidratante para labios hasta 10 horas. Una textura emoliente y envolvente con un acabado luminoso para nutrir los labios y cubrirlos de brillo y un toque de color. Un verdadero mimo, esencial e imprescindible
+- LIPS & CHEEKS PH STICK Dermatológicamente testado No comedogénico GLEAM LIQUID EYESHADOW Oftalmológicamente testado 3D HYDRA LIP OIL Dermatológicamente testado
 - El kit contiene: El kit contiene: -N.1 SNOW-KISSED HOLIDAY LIPS & CHEEKS PH STICK Una textura que sorprende al primer contacto y se adapta al pH de la piel del rostro, con aceite de rosa mosqueta ecológico prensado en frío. Se transforma y activa al contacto con la piel, lo que da un color personalizado a mejillas y labios. Formato en stick, para retoques y brillo infinitos
+- Un completo kit de regalo de maquillaje para ojos, rostro y labios con: un stick para labios y mejillas reactivo al pH, una sombra de ojos líquida holográfica y un aceite labial, todo ello en una pochette de tela supermoderna
 - El kit contiene: -N.1 SNOW-KISSED HOLIDAY GLEAM LIQUID EYESHADOW Con cada movimiento, un efecto y un color diferentes con esta sombra de ojos holográfica que ilumina la mirada. Líquido, ligero y rico, se aplica, adora y difumina fácilmente
 
 [🛒 Visítala!!!]({{< param buyurl >}})

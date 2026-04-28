@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 4 TECNOLOGÍAS DE LIMPIEZA EN PROFUNDIDAD: DirtDetect aumenta la potencia en la suciedad oculta. EdgeDetect duplica la succión en los bordes. FloorDetect se adapta a los tipos de suelo. LightDetect ilumina las áreas oscuras.
-- 5 AÑOS DE GARANTÍA: 2 años para las baterías. Previo registro en Shark
 - LIMPIEZA PROFUNDA EN TODOS LOS SUELOS: El cabezal QuadClean con tecnología Anti Hair Wrap elimina residuos grandes, suciedad fina, pelo y polvo. Hasta 60 minutos de autonomía (*En modo ECO, con un accesorio no motorizado).
-- POTENTE SUCCIÓN + INTELIGENCIA DETECTORA DE SUCIEDAD: Esta ligera aspiradora sin cable se vacía automáticamente. Ofrece una limpieza en profundidad gracias a su potente rendimiento y es 25% más ligera (en comparación con Shark IZ400).
-- SE VACÍA Y CARGA DESPUÉS DE CADA LIMPIEZA: Almacena la suciedad y los residuos durante hasta 45 días en la base de vaciado automático de 2 litros con tecnología Anti-Odour y sistema de sellado Anti-Allergen Complete Seal. Se carga mientras está guardada.
 - INCLUYE: Aspiradora sin cable Shark Detect Pro IW3611EU, base de carga (enchufe UE), base de vaciado automático con capacidad de 2 litros, cepillo para polvo y boquilla estrecha. Peso: 2,78 kg. Color: blanco y bronce.
+- POTENTE SUCCIÓN + INTELIGENCIA DETECTORA DE SUCIEDAD: Esta ligera aspiradora sin cable se vacía automáticamente. Ofrece una limpieza en profundidad gracias a su potente rendimiento y es 25% más ligera (en comparación con Shark IZ400).
+- 4 TECNOLOGÍAS DE LIMPIEZA EN PROFUNDIDAD: DirtDetect aumenta la potencia en la suciedad oculta. EdgeDetect duplica la succión en los bordes. FloorDetect se adapta a los tipos de suelo. LightDetect ilumina las áreas oscuras.
+- SE VACÍA Y CARGA DESPUÉS DE CADA LIMPIEZA: Almacena la suciedad y los residuos durante hasta 45 días en la base de vaciado automático de 2 litros con tecnología Anti-Odour y sistema de sellado Anti-Allergen Complete Seal. Se carga mientras está guardada.
+- 5 AÑOS DE GARANTÍA: 2 años para las baterías. Previo registro en Shark
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CGDWWQF1{{</world>}}

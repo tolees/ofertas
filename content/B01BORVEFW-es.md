@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El tamaño de estas bayetas se ha estudiado para mejorar la sujeción con la mano.
-- Muy absorbente y con acción quitagrasas.
-- Uso húmedo o en seco, no usar como suavizante, lavable a máquina hasta 60 °C, con colores similares.
 - Este paquete de 4 bayetas de microfibra de alta calidad combinan colores modernos con un gran rendimiento de limpieza y absorción.
+- El tamaño de estas bayetas se ha estudiado para mejorar la sujeción con la mano.
+- Uso húmedo o en seco, no usar como suavizante, lavable a máquina hasta 60 °C, con colores similares.
+- Muy absorbente y con acción quitagrasas.
 - Eficaces incluso sin detergente.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

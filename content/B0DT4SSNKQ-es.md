@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Modelo: Zapatillas
 - Material: piel sintética
-- Color: Multicolor
 - Marca: Skechers
+- Color: Multicolor
 - Artículo: 177918
 
 [🛒 Comprar!!!]({{< param buyurl >}})

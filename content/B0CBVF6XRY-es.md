@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MASCARILLA CAPILAR: Mascarilla de nutrición profunda que actúa de forma instantánea para nutrir y suavizar el cabello seco, dañado y estresado
 - SUAVIDAD: Con Vitamina E para proteger el cabello del estrés y mantener la suavidad y el brillo.
 - PRODUCTO ANTI ENCRESPAMIENTO: Enriquecido con Bayas de Goji -contienede vitaminas, minerales y péptidos -controla el encrespamiento y mejora la manejabilidad.
+- MASCARILLA CAPILAR: Mascarilla de nutrición profunda que actúa de forma instantánea para nutrir y suavizar el cabello seco, dañado y estresado
 - NUTRICIÓN PROFUNDA: Formulada con Ácido Oleico y Pantenol para nutrir e hidratar el cabello en profundidad y devolverle toda su vitalidad -efecto de tratamiento hidratante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Un recto moderno con un talle ultra alto y un ajuste espacioso a través de las piernas que llega justo a la longitud del tobillo
 - 99% algodón, 1% elastano
 - Corte en una cómoda mezclilla gris elástica en un lavado medio a la piedra
+- Un recto moderno con un talle ultra alto y un ajuste espacioso a través de las piernas que llega justo a la longitud del tobillo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DKFT94KG{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Limpieza suave y eficaz para piel sensible y con problemas
-- Formulada con Centella Asiática y Ácido Salicílico para combatir imperfecciones
-- Ayuda a equilibrar la producción de sebo y reducir la apariencia de poros
-- Contiene extracto de hoja de té verde para calmar y nutrir la piel
 - Deja la piel más suave, más clara y con una sensación refrescante
+- Limpieza suave y eficaz para piel sensible y con problemas
+- Contiene extracto de hoja de té verde para calmar y nutrir la piel
+- Ayuda a equilibrar la producción de sebo y reducir la apariencia de poros
+- Formulada con Centella Asiática y Ácido Salicílico para combatir imperfecciones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B7XFYR23{{</world>}}

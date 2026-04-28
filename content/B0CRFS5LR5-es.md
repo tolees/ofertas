@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - MODO DE USO: Aplica una capa de Infinite Shine Base Coat, seguida de dos capas finas de color y sella tu manicura con una capa de Infinite Shine Top Coat.
+- OPI: Para profesionales y para cuidarte en casa, con colores atrevidos y productos que miman tus uñas. El regalo perfecto para un cumpleaños, un detalle especial o simplemente para darte un capricho.
 - EFECTO GEL: Un esmalte con acabado efecto gel y la comodidad de un esmalte tradicional. Sin lámpara UV, sin complicaciones: color intenso que no se desvanece y aplicación uniforme gracias a nuestro pincel OPI Pro-Wide.
 - ESMALTE DE UÑAS: Disfruta de la duración de una manicura efecto gel, ¡sin complicaciones! Su tecnología de gel precurado ofrece hasta 11 días de color impecable, con la comodidad de un esmalte OPI tradicional.
-- OPI: Para profesionales y para cuidarte en casa, con colores atrevidos y productos que miman tus uñas. El regalo perfecto para un cumpleaños, un detalle especial o simplemente para darte un capricho.
 - ESMALTE DE UÑAS DE LARGA DURACIÓN: Un esmalte de larga duración, perfecto para brillar en temporada de fiestas. Tu manicura, impecable día tras día, sin perder el brillo, ni el esmalte.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

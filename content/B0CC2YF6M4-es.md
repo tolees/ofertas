@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Tableta gráfica
 - Modelo: Wacom CTC6110WLW2B
 - Incluye lápiz de uso
-- Tableta gráfica
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CC2YF6M4{{</world>}}

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Función TWS (True Wireless Stereo). Entrada AUX-IN de 3.5 mm.
-- Resistente al agua con certificación IPX5.
-- Potencia de salida máxima 100 W.
 - Batería de litio recargable de 7.4 V / 4000 mAh. Conector de alimentación USB tipo C.
-- Woofer de 5.25" y tweeter de 2". Bass Boost.
+- Resistente al agua con certificación IPX5.
 - Múltiples entradas de audio: Bluetooth, MIC IN, AUX y USB
+- Potencia de salida máxima 100 W.
+- Función TWS (True Wireless Stereo). Entrada AUX-IN de 3.5 mm.
+- Woofer de 5.25" y tweeter de 2". Bass Boost.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CY2PZ485{{</world>}}

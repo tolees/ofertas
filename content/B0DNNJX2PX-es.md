@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Acabado con un diseño de mezclilla deconstruido
 - Con un talle alto fácil
 - Tus jeans favoritos en forma de falda
+- Acabado con un diseño de mezclilla deconstruido
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DNNJX2PX{{</world>}}

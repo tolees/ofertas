@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Champú fisiológico en gel para cabello normal
 - La base indispensable de cada uno de los productos es el agua termal de La Roche Posay, que tiene propiedades antioxidantes y terapéuticas y calma la piel sensible e irritada al instante
-- Regenera y nutre el cabello y el cuero cabelludo
 - Se adapta a las necesidades específicas de todos los tipos de piel sensible
+- Champú fisiológico en gel para cabello normal
+- Regenera y nutre el cabello y el cuero cabelludo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00IVIMVFK{{</world>}}

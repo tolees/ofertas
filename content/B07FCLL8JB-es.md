@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CONTENIDO DEL JUEGO: 100 azulejos de resina (1,8 x 1,8 cm), 4 bandejas de juego reversibles (24 x 24 cm), 9 círculos Fabrique (diam. 7,5 cm), 4 marcadores de puntuación, 1 marcador de primer jugador, 1 bolsa de lino para azulejos, regla y variante.
-- JUEGO DE BANDEJA: Azul te coloca en el papel de un chef decorador encargado de colocar Azulejos en el palacio del Rey Manuel 1, en el siglo XVI.Azul es un juego de colocación de azulejos muy inteligente, que sale de los puncivos habituales del juego abstracto para ofrecer un juego seductor y despaisante.Toma tu paleta y saca tus talentos artesanales. ¡Crea el mosaico más hermoso para embellecer las paredes del Palacio Real de Evora!
-- REGLAS DEL JUEGO: Cada jugador debe hacer todo lo posible para colocar las fichas en las cuadrículas de colores de su tablero del juego. Cada azulejo colocado en una cuadrícula reporta puntos al final de una manga. El juego termina cuando un jugador llega a colocar primero 5 fichas en la misma línea de color.
-- JUEGO RECOMPENSE: Este juego de estrategia ha recibido el As dOr en la categoría Juego del año en el Festival de Cannes 2018 y el Spiel des Jahres 2018!
 - Apto para niños y para toda la familia: las fiestas duran unos 45 minutos. Es un juego de mesa accesible para niños desde 8 años. De 2 a 4 jugadores, podrás jugar a este juego de estrategia con familiares o amigos
+- CONTENIDO DEL JUEGO: 100 azulejos de resina (1,8 x 1,8 cm), 4 bandejas de juego reversibles (24 x 24 cm), 9 círculos Fabrique (diam. 7,5 cm), 4 marcadores de puntuación, 1 marcador de primer jugador, 1 bolsa de lino para azulejos, regla y variante.
+- REGLAS DEL JUEGO: Cada jugador debe hacer todo lo posible para colocar las fichas en las cuadrículas de colores de su tablero del juego. Cada azulejo colocado en una cuadrícula reporta puntos al final de una manga. El juego termina cuando un jugador llega a colocar primero 5 fichas en la misma línea de color.
+- JUEGO DE BANDEJA: Azul te coloca en el papel de un chef decorador encargado de colocar Azulejos en el palacio del Rey Manuel 1, en el siglo XVI.Azul es un juego de colocación de azulejos muy inteligente, que sale de los puncivos habituales del juego abstracto para ofrecer un juego seductor y despaisante.Toma tu paleta y saca tus talentos artesanales. ¡Crea el mosaico más hermoso para embellecer las paredes del Palacio Real de Evora!
+- JUEGO RECOMPENSE: Este juego de estrategia ha recibido el As dOr en la categoría Juego del año en el Festival de Cannes 2018 y el Spiel des Jahres 2018!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07FCLL8JB{{</world>}}

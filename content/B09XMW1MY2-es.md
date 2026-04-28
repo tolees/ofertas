@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Camiseta deportiva
-- Mangas cortas
 - Para ambos géneros
+- Mangas cortas
+- Camiseta deportiva
 - Logo de la marca en el frente
 
 [🛒 Visítala!!!]({{< param buyurl >}})

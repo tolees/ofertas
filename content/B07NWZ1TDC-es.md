@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Goma en la base para ofrecer estabilidad y prevenir rayones
-- Fabricada en acero inoxidable con revestimiento en color mate de óptima calidad, de forma rectangular con bordes redondeados, ofrece 5 Litros de capacidad
-- Pedal de fácil accionamiento, en acero mate cepillado, ofrece un cierre lento y silencioso, y como se acciona por pedal, permanece abierto mientras esté pisado, dejando las manos libres
 - Facilita su limpieza y vaciado con un cubo interior extraíble, incorporado, fabricado en plástico reciclado
 - La papelera para baño de la colección Akira de Spirella es un práctico accesorio que llama la atención por su diseño limpio y distinguido
+- Fabricada en acero inoxidable con revestimiento en color mate de óptima calidad, de forma rectangular con bordes redondeados, ofrece 5 Litros de capacidad
+- Goma en la base para ofrecer estabilidad y prevenir rayones
 - Dimensiones: 21,4x17,6x30cms
+- Pedal de fácil accionamiento, en acero mate cepillado, ofrece un cierre lento y silencioso, y como se acciona por pedal, permanece abierto mientras esté pisado, dejando las manos libres
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07NWZ1TDC{{</world>}}

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- La siguiente información se aplica a cada unidad del paquete
+- Adecuado para toda la familia
+- Tu nueva forma de consumir atún gracias al nuevo envase Vuelca Fácil
+- Atún claro en aceite de oliva virgen extra
 - Se debe conservar en un lugar fresco y seco
 - La combinación óptima, lo mejor del mar y lo mejor de la tierra
-- Tu nueva forma de consumir atún gracias al nuevo envase Vuelca Fácil
-- Adecuado para toda la familia
-- La siguiente información se aplica a cada unidad del paquete
-- Atún claro en aceite de oliva virgen extra
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DP4YJQGT{{</world>}}

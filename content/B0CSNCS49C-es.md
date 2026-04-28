@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Estampado
-- Manga corta
 - PEPE JEANS SANN TEE DK ORANGE Men L
+- Manga corta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CSNCS49C{{</world>}}

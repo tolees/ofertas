@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Espuma viscoelástica
 - Skech-Air
+- Espuma viscoelástica
 - MF refrigerado por aire
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

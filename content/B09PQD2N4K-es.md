@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ✔️ CONTROL DE SEBO: perfecto para aquellos que tienen preocupaciones sobre la sobreproducción excesiva de aceites de su piel. El tónico controla el exceso de sebo en la piel y al mismo tiempo calma los problemas de la piel como los brotes y el acné.
 - ✔️ ANTI-ACNEICO: Contiene Acnotide, que es un componente que fortalece la barrera de salud de la piel, enfocándose solo en el área afectada por el acné, ¡di adiós al acné! Reduce la inflamación del acné y la cantidad de sebo;
+- ✔️ CONTROL DE SEBO: perfecto para aquellos que tienen preocupaciones sobre la sobreproducción excesiva de aceites de su piel. El tónico controla el exceso de sebo en la piel y al mismo tiempo calma los problemas de la piel como los brotes y el acné.
 - ✔️ PARA PIELES SENSIBLES: Ayuda a eliminar las pieles muertas y aporta tersura a tu piel, reponiéndola inmediatamente de humedad;
 - ✔️ PARA PIELES SENSIBLES: Ayuda a eliminar las pieles muertas y aporta tersura a tu piel, reponiéndola inmediatamente de humedad;
 
