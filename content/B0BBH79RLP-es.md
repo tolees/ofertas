@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'ONLY Women s ONLWONDER DNM Jacket NOOS - Chaqueta vaquera color blanco Blanco M'
+date: 2026-04-15 09:35:16
+image: 'https://m.media-amazon.com/images/I/31UuDINny5L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0BBH79RLP-es ONLY Women s ONLWONDER DNM Jacket NOOS - Chaqueta vaquera...'
+sku: 'B0BBH79RLP-es'
+tags: [ '🇪🇸', ]
+actualPrice: 20.99 EUR
+currency: EUR
+price: 20.99
+comparePrice: 39.99 EUR
+prodname: 'ONLY Women s ONLWONDER DNM Jacket NOOS - Chaqueta vaquera color blanco Blanco M'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0BBH79RLP/?tag=tolees-21'
+descuento: '47.51'
+average: '20.49'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Chaqueta vaquera clásica para mujer de la marca. Only
+- Cuello abatible
+- Se puede cerrar con botones
+- Corte entallado que abraza el cuerpo
+- Mezclilla elástica
+
+[🛒 Comprar!!!]({{< param buyurl >}})
+{{<world>}}B0BBH79RLP{{</world>}}

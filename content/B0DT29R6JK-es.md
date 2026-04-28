@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Calvin Klein Botas de agua Mujer Mid Rubber Chunky Marfil Chateau 39'
+date: 2026-03-16 22:50:28
+image: 'https://m.media-amazon.com/images/I/31sXFzQBaYL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0DT29R6JK-es Calvin Klein Botas de agua Mujer Mid Rubber Chunky Marfil...'
+sku: 'B0DT29R6JK-es'
+tags: [ '🇪🇸', ]
+actualPrice: 38.71 EUR
+currency: EUR
+price: 38.71
+comparePrice: 119.9 EUR
+prodname: 'Calvin Klein Botas de agua Mujer Mid Rubber Chunky Marfil Chateau 39'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0DT29R6JK/?tag=tolees-21'
+descuento: '67.71'
+average: '38.71'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- MATERIAL DEL ALTA CALIDAD: Material exterior de goma 100 %.
+- DISEÑO PREMIUM: Las botas de lluvia impermeables con suela ancha convencen por su diseño atemporal y su material de alta calidad. Los detalles distintivos de Calvin Klein completan el look de este calzado.
+- EMOCIONANTE Y CLARO: La marca de moda Calvin Klein, fundada en 1968, es conocida por su singular look y lleva conquistando el mundo de la moda desde entonces. La marca americana apuesta por una estética minimalista.
+- FAVORECEDOR Y PRÁCTICO: Estas botas de lluvia son versátiles y combinan a la perfección con todo tipo de conjuntos informales, pero también con looks más chic. El material de alta calidad garantiza mucha comodidad durante todo el día.
+- AJUSTE PERFECTO: Los botines originales de Calvin Klein son superllamativos y se adaptan perfectamente al pie. Gracias a su cómoda plantilla de gomaespuma son supercómodas de llevar.
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B0DT29R6JK{{</world>}}

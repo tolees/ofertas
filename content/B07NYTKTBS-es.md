@@ -1,0 +1,36 @@
+---
+layout: post
+title: 'Skechers Uno Stand On Air Zapatillas Hombre Black Durabuck Trim 42 EU'
+date: 2026-03-07 09:53:21
+image: 'https://m.media-amazon.com/images/I/31ib8r+tm+L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B07NYTKTBS-es Skechers Uno Stand On Air Zapatillas Hombre Black Durabuck...'
+sku: 'B07NYTKTBS-es'
+tags: [ '🇪🇸', ]
+actualPrice: 45.49 EUR
+currency: EUR
+price: 45.49
+comparePrice: 79.95 EUR
+prodname: 'Skechers Uno Stand On Air Zapatillas Hombre Black Durabuck Trim 42 EU'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B07NYTKTBS/?tag=tolees-21'
+descuento: '43.10'
+average: '53.7766666666667'
+---
+
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Material exterior: Sintético
+- Cierre: Cordones
+- Material de la suela: Caucho
+
+[🛒 Visítala!!!]({{< param buyurl >}})
+{{<world>}}B07NYTKTBS{{</world>}}

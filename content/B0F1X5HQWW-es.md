@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'adidas Mujer VL Court 3.0 Shoes Aurora Coffee/Off White/Gold Met. 40 EU'
+date: 2026-04-13 09:21:38
+image: 'https://m.media-amazon.com/images/I/31XMmZjg3GL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0F1X5HQWW-es adidas Mujer VL Court 3.0 Shoes Aurora Coffee/Off...'
+sku: 'B0F1X5HQWW-es'
+tags: [ '🇪🇸', ]
+actualPrice: 41.95 EUR
+currency: EUR
+price: 41.95
+comparePrice: 70.0 EUR
+prodname: 'adidas Mujer VL Court 3.0 Shoes Aurora Coffee/Off White/Gold Met. 40 EU'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0F1X5HQWW/?tag=tolees-21'
+descuento: '40.07'
+average: '41.95'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Cordones
+- Suela de goma
+- Empeine de piel y textil
+- Plantilla textil
+- Horma clásica
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B0F1X5HQWW{{</world>}}

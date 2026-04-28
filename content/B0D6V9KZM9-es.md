@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'Salomon X-ADVENTURE RECON Gore-Tex impermeables All-In-One Zapatillas para hombre'
+date: 2026-04-08 09:51:40
+image: 'https://m.media-amazon.com/images/I/41aCx99VSkL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0D6V9KZM9-es Salomon X-ADVENTURE RECON Gore-Tex impermeables All-In-One...'
+sku: 'B0D6V9KZM9-es'
+tags: [ '🇪🇸', ]
+actualPrice: 79.03 EUR
+currency: EUR
+price: 79.03
+comparePrice: 130.0 EUR
+prodname: 'Salomon X-ADVENTURE RECON Gore-Tex impermeables All-In-One Zapatillas para hombre'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0D6V9KZM9/?tag=tolees-21'
+descuento: '39.21'
+average: '79.03'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Aptitud todo terreno: La suela y la geometría de tacos específicas se combinan con la goma All Terrain Contagrip para que tus caminatas sean sencillas y fiables por todo tipo de superficies y senderos
+- Protección al aire libre: Esta zapatilla te cubre las espaldas, sean cuales sean las condiciones Desde el chasis, la puntera reforzada y la protección antibarro hasta la membrana GORE-TEX: tus pies están protegidos de todos los elementos
+- Hercúleo aliado para hacerlo todo al aire libre
+- Construcción duradera: La robusta piel de nobuk y la construcción de malla garantizan un uso y una protección duraderos
+
+[🛒 Comprar!!!]({{< param buyurl >}})
+{{<world>}}B0D6V9KZM9{{</world>}}

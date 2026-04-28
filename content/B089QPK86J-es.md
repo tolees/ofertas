@@ -1,0 +1,36 @@
+---
+layout: post
+title: 'PUMA Crew Sock Calcetines Blanco white 43-46 Unisex adulto'
+date: 2026-04-25 14:35:51
+image: 'https://m.media-amazon.com/images/I/213znHdQkdL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B089QPK86J-es PUMA Crew Sock Calcetines Blanco white 43-46 Unisex adulto'
+sku: 'B089QPK86J-es'
+tags: [ '🇪🇸', ]
+actualPrice: 6.99 EUR
+currency: EUR
+price: 6.99
+comparePrice: 10.88 EUR
+prodname: 'PUMA Crew Sock Calcetines Blanco white 43-46 Unisex adulto'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B089QPK86J/?tag=tolees-21'
+descuento: '35.75'
+average: '7.11437499999999'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Costuras planas para una irritación cera.
+- Cómodo acanalado 3:1 para un ajuste perfecto.
+- Calcetines deportivos para todas las actividades.
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B089QPK86J{{</world>}}

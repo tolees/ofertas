@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Columbia Klamath Range 2 Half Zip Sudadera De Forro Polar Hombre City Grey/Shark L'
+date: 2026-04-19 20:19:08
+image: 'https://m.media-amazon.com/images/I/41k4Svh+MfL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B08176LJZW-es Columbia Klamath Range 2 Half Zip Sudadera De Forro Polar...'
+sku: 'B08176LJZW-es'
+tags: [ '🇪🇸', ]
+actualPrice: 21.41 EUR
+currency: EUR
+price: 21.41
+comparePrice: 40.0 EUR
+prodname: 'Columbia Klamath Range 2 Half Zip Sudadera De Forro Polar Hombre City Grey/Shark L'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B08176LJZW/?tag=tolees-21'
+descuento: '46.48'
+average: '20.8259090909091'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Protección adicional contra el viento y el frío gracias al cuello alto y a la media cremallera
+- Estilo funcional y cálido combinado con otros productos de Columbia
+- Especialmente cálido y acogedor gracias al material de vellón de alta calidad
+- Forro polar con media cremallera para hombre, Adecuado para senderismo, trail running y otras actividades al aire libre o como capa intermedia en los días fríos de invierno, Active Fit
+- Contenido: 1x Columbia Klamath Range II Forro polar con media cremallera para hombre, Fibra sintética, Gris/Negro (City Grey/Shark), L, Art. 1352472
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B08176LJZW{{</world>}}

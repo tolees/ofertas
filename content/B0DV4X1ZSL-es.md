@@ -1,0 +1,42 @@
+---
+layout: post
+title: 'Cámara exterior con foco Blink última generación | Cámara de seguridad inteligente inalámbrica LED de 700 lúmenes dos años de autonomía | Módulo de sincronización básico incluido'
+date: 2026-04-07 10:49:29
+image: 'https://m.media-amazon.com/images/I/21IKkzyz0ML._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0DV4X1ZSL-es Cámara exterior con foco Blink última generación | Cámara...'
+sku: 'B0DV4X1ZSL-es'
+tags: [ '🇪🇸', ]
+actualPrice: 46.99 EUR
+currency: EUR
+price: 46.99
+comparePrice: 94.99 EUR
+prodname: 'Cámara exterior con foco Blink última generación | Cámara de seguridad inteligente inalámbrica LED de 700 lúmenes dos años de autonomía | Módulo de sincronización básico incluido'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0DV4X1ZSL/?tag=tolees-21'
+descuento: '50.53'
+average: '45.7399999999999'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- GUARDA Y COMPARTE TUS CLIPS: almacena de forma segura tus vídeos en la nube con una prueba gratuita de 30 días del plan de suscripción Blink Plus.
+- INSTALACIÓN EN MINUTOS: gracias a su configuración inalámbrica, la Cámara exterior con foco puede instalarse en cualquier lugar de la casa que desees iluminar.
+- VE A TUS VISITAS Y HABLA CON ELLAS: la app de Blink te ofrece vídeo en directo HD 1080p, visión nocturna por infrarrojos y comunicación bidireccional de gran claridad.
+- NUEVA CÁMARA EXTERIOR CON FOCO: descubre la nueva cámara Blink, equipada con iluminación LED de 700 lúmenes activada por movimiento y vídeo en directo HD, que ofrece una instalación sin cables y alertas en tiempo real para una mayor tranquilidad.
+- DETECCIÓN DE MOVIMIENTO MEJORADA: recibe alertas de movimiento al instante en tu smartphone con la detección de movimiento mejorada de doble zona.
+- CONTENIDO DE LA CAJA: incluye una Cámara exterior 4 con foco, un módulo de sincronización básico, dos pilas de metal de litio AA, cuatro pilas de botón D, un kit de montaje, un adaptador de corriente y un cable USB.
+- COMPATIBLE CON ALEXA: conéctate a un dispositivo Alexa para responder al timbre, armar y desarmar tu sistema de hogar inteligente y mucho más con comandos de voz.
+- PROTECCIÓN AÚN MÁS INTELIGENTE: con un plan de suscripción de Blink opcional (a la venta por separado), accederás a las notificaciones inteligentes con tecnología de IA para la detección de personas y vehículos, de forma que solo recibirás las notificaciones de movimiento realmente importantes.
+- DOS AÑOS DE AUTONOMÍA: obtén hasta dos años de autonomía con dos pilas de litio AA Energizer y el módulo de sincronización Blink (ambos incluidos).
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B0DV4X1ZSL{{</world>}}

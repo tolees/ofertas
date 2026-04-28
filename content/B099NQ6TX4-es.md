@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Spirella - Dispensador de Jabón en Tubo - con Bomba de Acero Inoxidable - Dispensador de Jabón Líquido - Porcelana - 300 ML - Resistente y Duradero - Color Topo Mate'
+date: 2026-04-19 18:44:05
+image: 'https://m.media-amazon.com/images/I/21xakBiZfDL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B099NQ6TX4-es Spirella - Dispensador de Jabón en Tubo - con Bomba de...'
+sku: 'B099NQ6TX4-es'
+tags: [ '🇪🇸', ]
+actualPrice: 12.29 EUR
+currency: EUR
+price: 12.29
+comparePrice: 20.99 EUR
+prodname: 'Spirella - Dispensador de Jabón en Tubo - con Bomba de Acero Inoxidable - Dispensador de Jabón Líquido - Porcelana - 300 ML - Resistente y Duradero - Color Topo Mate'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B099NQ6TX4/?tag=tolees-21'
+descuento: '41.45'
+average: '12.29'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Este dispensador de jabón premium, fabricado en porcelana de alta calidad con un dispensador de ABS cromado, es un accesorio robusto y elegante que destaca por su diseño fresco y moderno. Disponible en una amplia gama de colores, este accesorio de pie es perfecto para cualquier baño.
+- Compatible con otros accesorios de baño y cosmética de la serie Tube: Escobilla de baño, Jabonera, Vaso.
+- Indispensable para la higiene de las manos, este dispensador de jabón líquido multiusos también es muy adecuado para su uso con loción corporal o desinfectante: con su capacidad de aproximadamente 300 ml, un accesorio práctico y muy fácil de usar para el baño y la cocina.
+- Capacidad: 300 ml – Dimensiones: Ø 7 x 16 cm – Material: Porcelana, ABS cromado
+- El dispensador de jabón se rellena fácilmente gracias a su dispensador de ABS cromado con rosca. Al presionarlo, se dispensa la dosis ideal de jabón líquido: ¡limpio y práctico, sin desperdicios!
+
+[🛒 Comprar!!!]({{< param buyurl >}})
+{{<world>}}B099NQ6TX4{{</world>}}

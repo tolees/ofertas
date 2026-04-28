@@ -1,0 +1,36 @@
+---
+layout: post
+title: 'Skechers Parson-Oswin Slip-in Hombre Desert Leather 44 EU'
+date: 2026-04-22 12:48:10
+image: 'https://m.media-amazon.com/images/I/41bhsUazqnL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0BYB7P295-es Skechers Parson-Oswin Slip-in Hombre Desert Leather 44 EU'
+sku: 'B0BYB7P295-es'
+tags: [ '🇪🇸', ]
+actualPrice: 54.98 EUR
+currency: EUR
+price: 54.98
+comparePrice: 99.95 EUR
+prodname: 'Skechers Parson-Oswin Slip-in Hombre Desert Leather 44 EU'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0BYB7P295/?tag=tolees-21'
+descuento: '44.99'
+average: '54.98'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Suela de tracción flexible
+- Detalle del logotipo de Skechers
+- Parte superior de cuero
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B0BYB7P295{{</world>}}
