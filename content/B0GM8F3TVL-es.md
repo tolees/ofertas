@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Mobicool ME27 - Refrigerador eléctrico 26 L 12/230 V para coche camión barco ocio y camping'
+date: 2026-07-28 11:47:10
+image: 'https://m.media-amazon.com/images/I/31kqEeM7XcL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0GM8F3TVL-es Mobicool ME27 - Refrigerador eléctrico 26 L 12/230 V para...'
+sku: 'B0GM8F3TVL-es'
+tags: [ '🇪🇸', ]
+actualPrice: 54.99 EUR
+currency: EUR
+price: 54.99
+comparePrice: 85.0 EUR
+prodname: 'Mobicool ME27 - Refrigerador eléctrico 26 L 12/230 V para coche camión barco ocio y camping'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0GM8F3TVL/?tag=tolees-21'
+descuento: '35.31'
+average: '54.99'
+---
+
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Gran capacidad: el Mobicool ME27 ofrece un volumen de 26 litros, que puede contener hasta 42 latas o cuatro botellas de 1,5 litros, lo que las hace ideales para excursiones, picnics y viajes de camping
+- Refrigeración eficiente: el refrigerador puede enfriarse hasta 18 °C por debajo de la temperatura ambiente y tiene un sistema de ventilación doble para un enfriamiento rápido y uniforme. El modo ECO reduce el consumo de energía y garantiza un funcionamiento casi silencioso
+- Fácil de usar: el Mobicool ME27 está equipado con un asa de transporte que sirve tanto como soporte de tapa y cierre de tapa. La construcción robusta y el práctico compartimento para cable en la tapa aseguran un manejo fácil y cómodo
+- Modo ECO: la potencia máxima de enfriamiento se puede alcanzar en modo máx. En el modo ECO, el refrigerador consume poca energía y funciona muy silenciosamente. Este modo es ideal para mantener las cosas frescas durante la noche con un bajo consumo de energía. El modo ECO solo se puede utilizar en una fuente de alimentación de 230 V
+- Alimentación flexible: este refrigerador se puede utilizar tanto a través de la red a bordo de 12 V de un vehículo como a través de un enchufe de 230 V. Esto permite un uso versátil, ya sea en coche o en el camping
+
+[🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B0GM8F3TVL{{</world>}}

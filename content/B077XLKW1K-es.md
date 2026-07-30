@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Under Armour Tech Graphic Short Pantalones cortos Azul S Hombre'
+date: 2026-05-02 13:02:19
+image: 'https://m.media-amazon.com/images/I/417fSPzOxlL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B077XLKW1K-es Under Armour Tech Graphic Short Pantalones cortos Azul S...'
+sku: 'B077XLKW1K-es'
+tags: [ '🇪🇸', ]
+actualPrice: 18.99 EUR
+currency: EUR
+price: 18.99
+comparePrice: 30.0 EUR
+prodname: 'Under Armour Tech Graphic Short Pantalones cortos Azul S Hombre'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B077XLKW1K/?tag=tolees-21'
+descuento: '36.70'
+average: '17.5590909090909'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Muy cómodos – Gracias al tejido ultrasuave UA Tech y a su corte suelto, esta prenda de ropa deportiva para hombre se ajusta cómodamente al cuerpo
+- Características útiles – Estos pantalones de poliéster tienen bolsillos laterales de malla y una cintura elástica con cordón para un mejor ajuste
+- Material y forma – Pantalones cortos para correr Under Armour UA Tech, pantalones de tejido Tech con logo, forma – ancha, material – 1% de poliéster
+- Material novedoso – Por su tejido innovador, estos pantalones de deporte eliminan eficazmente el sudor del cuerpo y se secan extremadamente rápido
+- Ideales para cada deporte – Estos pantalones cortos deportivos son de un material suave de secado rápido y tienen unos prácticos bolsillos laterales
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B077XLKW1K{{</world>}}

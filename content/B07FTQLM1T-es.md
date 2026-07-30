@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Oxford cuaderno Europeanbook 1 touch microperforado tapa extradura espiral a4+ cuadrícula 5x5 color azul pastel'
+date: 2026-06-23 12:08:17
+image: 'https://m.media-amazon.com/images/I/31Uo2-GIrFL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B07FTQLM1T-es Oxford cuaderno Europeanbook 1 touch microperforado tapa...'
+sku: 'B07FTQLM1T-es'
+tags: [ '🇪🇸', ]
+actualPrice: 3.43 EUR
+currency: EUR
+price: 3.43
+comparePrice: 8.99 EUR
+prodname: 'Oxford cuaderno Europeanbook 1 touch microperforado tapa extradura espiral a4+ cuadrícula 5x5 color azul pastel'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B07FTQLM1T/?tag=tolees-21'
+descuento: '61.85'
+average: '3.93888888888889'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Espiral simple a juego con la tapa
+- Formato A4+
+- Tapa extradura, máxima resistencia y protección de las hojas, y con un tacto suave
+- 80 hojas con cuadrícula 5mm x 5mm, sin margen
+- Recuadro de color a juego con la tapa
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B07FTQLM1T{{</world>}}

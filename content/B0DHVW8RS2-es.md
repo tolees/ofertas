@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'adidas Hombre Terrex Trailmaker 2 Gore-Tex Speed Lace Hiking Shoes Cardboard/Grey Five/Carbon 38 2/3 EU'
+date: 2026-07-14 15:38:36
+image: 'https://m.media-amazon.com/images/I/31y9v9cqFVL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0DHVW8RS2-es adidas Hombre Terrex Trailmaker 2 Gore-Tex Speed Lace...'
+sku: 'B0DHVW8RS2-es'
+tags: [ '🇪🇸', ]
+actualPrice: 58.2 EUR
+currency: EUR
+price: 58.2
+comparePrice: 130.0 EUR
+prodname: 'adidas Hombre Terrex Trailmaker 2 Gore-Tex Speed Lace Hiking Shoes Cardboard/Grey Five/Carbon 38 2/3 EU'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0DHVW8RS2/?tag=tolees-21'
+descuento: '55.23'
+average: '58.2'
+---
+
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Sistema de lazada rápida
+- Horma clásica
+- Membrana GORE-TEX
+- Empeine textil y sintético con refuerzos de gran resistencia al desgaste
+- Mediasuela de EVA
+
+[🛒 Visítala!!!]({{< param buyurl >}})
+{{<world>}}B0DHVW8RS2{{</world>}}

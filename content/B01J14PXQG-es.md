@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Philips myGarden Buzzard - Aplique de exterior casquillo E27 60 W aluminio color negro diseñado para jardines y patios 17.50 x 13.00 x 29.00 cm'
+date: 2026-04-28 19:46:39
+image: 'https://m.media-amazon.com/images/I/41IAkfYJXiL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B01J14PXQG-es Philips myGarden Buzzard - Aplique de exterior casquillo...'
+sku: 'B01J14PXQG-es'
+tags: [ '🇪🇸', ]
+actualPrice: 17.99 EUR
+currency: EUR
+price: 17.99
+comparePrice: 35.96 EUR
+prodname: 'Philips myGarden Buzzard - Aplique de exterior casquillo E27 60 W aluminio color negro diseñado para jardines y patios 17.50 x 13.00 x 29.00 cm'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B01J14PXQG/?tag=tolees-21'
+descuento: '49.97'
+average: '19.0553846153846'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Estilo vintage
+- Bombilla no incluida
+- Resistente a la intemperie
+- Materiales de calidad
+- Efectos de luz de calidad
+
+[🛒 Comprar!!!]({{< param buyurl >}})
+{{<world>}}B01J14PXQG{{</world>}}

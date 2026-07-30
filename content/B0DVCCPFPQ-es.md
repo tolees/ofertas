@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'Desigual Sweat MY Name STITICH 1001 Crudo 3/4'
+date: 2026-05-04 04:37:17
+image: 'https://m.media-amazon.com/images/I/41wrtwx4nGL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0DVCCPFPQ-es Desigual Sweat MY Name STITICH 1001 Crudo 3/4'
+sku: 'B0DVCCPFPQ-es'
+tags: [ '🇪🇸', ]
+actualPrice: 34.83 EUR
+currency: EUR
+price: 34.83
+comparePrice: 59.95 EUR
+prodname: 'Desigual Sweat MY Name STITICH 1001 Crudo 3/4'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0DVCCPFPQ/?tag=tolees-21'
+descuento: '41.90'
+average: '28.07'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Detalles bordados
+- Desigual
+- Colección AW25
+- Cuello: Redondo
+- Manga: Larga
+- Detalles en glitter
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B0DVCCPFPQ{{</world>}}

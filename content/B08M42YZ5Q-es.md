@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'Vans Filmore Decon Zapatillas Mujer Black and White 37 EU'
+date: 2026-05-12 02:50:57
+image: 'https://m.media-amazon.com/images/I/31JPo4lwLkL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B08M42YZ5Q-es Vans Filmore Decon Zapatillas Mujer Black and White 37 EU'
+sku: 'B08M42YZ5Q-es'
+tags: [ '🇪🇸', ]
+actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
+comparePrice: 65.0 EUR
+prodname: 'Vans Filmore Decon Zapatillas Mujer Black and White 37 EU'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B08M42YZ5Q/?tag=tolees-21'
+descuento: '53.86'
+average: '31.2400000000001'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Materiales resistentes
+- Diseno funcional
+- Alta calidad
+- De la marca Vans
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B08M42YZ5Q{{</world>}}

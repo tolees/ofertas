@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'DEVAISE Escritorio Elevable Eléctrico Mesa Regulable Rltura 100 x 60cm con 3 Memorias Mesa de Oficina con Panel Inteligente en Casa con Tablero Ensamblado Roble Natural'
+date: 2026-07-19 16:17:20
+image: 'https://m.media-amazon.com/images/I/41OXvbPm9FL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0FSCVCZ3W-es DEVAISE Escritorio Elevable Eléctrico Mesa Regulable...'
+sku: 'B0FSCVCZ3W-es'
+tags: [ '🇪🇸', ]
+actualPrice: 59.99 EUR
+currency: EUR
+price: 59.99
+comparePrice: 99.99 EUR
+prodname: 'DEVAISE Escritorio Elevable Eléctrico Mesa Regulable Rltura 100 x 60cm con 3 Memorias Mesa de Oficina con Panel Inteligente en Casa con Tablero Ensamblado Roble Natural'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0FSCVCZ3W/?tag=tolees-21'
+descuento: '40.00'
+average: '59.99'
+---
+
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Ideal para Oficina y Hogar: Esta mesa regulable altura combina diseño moderno, estructura estable y ajustes eléctricos precisos. Perfecta para crear un espacio de trabajo saludable, ya sea en casa o en oficina, fomentando el movimiento y la productividad.
+- Ajuste de Altura Suave y Preciso: Este Escritorio Elevable Eléctrico cuenta con un panel de control intuitivo con botones para subir y bajar, más 3 niveles predefinidos. Cambie fácilmente entre trabajar sentado o de pie para mejorar la postura y reducir la fatiga durante la jornada.
+- 3 Modos de Memoria Inteligentes: La mesa escritorio elevable dispone de 3 memorias programables para guardar las alturas más cómodas. Ideal para varios usuarios o diferentes tareas, evitando tener que ajustar manualmente cada vez la mesa regulable altura.
+- Funcionamiento Silencioso <50dB: Gracias a su motor silencioso de alta calidad, esta secretaria elevatoria opera con menos de 50 decibelios, garantizando un ajuste de altura fluido y sin ruidos molestos, perfecto para entornos de oficina compartidos o teletrabajo.
+- Diseño Ergonómico de 100 x 60 cm: Con su tablero espacioso y ya ensamblado de 100 x 60 cm, este escritorio elevable electrico ofrece espacio suficiente para ordenador, pantalla y accesorios, manteniendo un entorno de trabajo organizado y ergonómico.
+
+[🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B0FSCVCZ3W{{</world>}}

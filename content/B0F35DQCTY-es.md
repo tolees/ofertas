@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Under Armour Tech SSV- Twist - Estante Verde/Blanco - XL'
+date: 2026-07-11 20:51:52
+image: 'https://m.media-amazon.com/images/I/411pMp4JqCL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0F35DQCTY-es Under Armour Tech SSV- Twist - Estante Verde/Blanco - XL'
+sku: 'B0F35DQCTY-es'
+tags: [ '🇪🇸', ]
+actualPrice: 17.99 EUR
+currency: EUR
+price: 17.99
+comparePrice: 30.0 EUR
+prodname: 'Under Armour Tech SSV- Twist - Estante Verde/Blanco - XL'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0F35DQCTY/?tag=tolees-21'
+descuento: '40.03'
+average: '17.99'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- La tela principal contiene al menos un 30% de poliéster reciclado, excluyendo los adornos y adornos
+- Material que capilariza el sudor y se seca rápidamente
+- Cuello de pico
+- Tejido principal que contiene, al menos, un 30 % de poliéster reciclado, sin incluir ribetes ni adornos
+- Tejido UA Tech de secado rápido, ultrasuave y de tacto más natural
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B0F35DQCTY{{</world>}}

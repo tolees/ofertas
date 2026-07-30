@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Sharp HT-SB700 Barra de Sonido Compacta 2.0.2 Dolby Atmos Bluetooth con HDMI eARC/CEC Potencia Total de 140 W 52 cm Color Negro'
+date: 2026-05-31 17:18:30
+image: 'https://m.media-amazon.com/images/I/21JkocSx6NL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0CR6M8RW3-es Sharp HT-SB700 Barra de Sonido Compacta 2.0.2 Dolby Atmos...'
+sku: 'B0CR6M8RW3-es'
+tags: [ '🇪🇸', ]
+actualPrice: 89.69 EUR
+currency: EUR
+price: 89.69
+comparePrice: 199.9 EUR
+prodname: 'Sharp HT-SB700 Barra de Sonido Compacta 2.0.2 Dolby Atmos Bluetooth con HDMI eARC/CEC Potencia Total de 140 W 52 cm Color Negro'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0CR6M8RW3/?tag=tolees-21'
+descuento: '55.13'
+average: '108.043636363636'
+---
+
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Rejillas metálicas acabado en negro mate Posicionamiento sobre mesa
+- La conexión HDMI eARC/CEC permite controlar la Barra de Sonido conel mando a distancia del TV
+- Streaming de música inalámbrico Bluetooth 5.3 Entrada óptica digital para una transmisión de audio superior Entrada auxiliar de 3.5mm para conectar dispositivos estéreoanalógicos externos
+- Potencia máxima de salida de 140W, Ecualizador con 5 preajustes (incl. modo Noche) + ajuste personalizadode bajos y agudos Control remoto de función completa + controles en la Barra de Sonido
+- Motor Dolby Atmos y altavoces con disparo hacia arriba crean unsonido envolvente 3D inmersivo
+
+[🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B0CR6M8RW3{{</world>}}

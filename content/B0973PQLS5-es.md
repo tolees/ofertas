@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Château de Goëlane Chœur de l Aube - DOP Bordeaux Supérieur - Vino Tinto - Cosecha 2016 - Terra Vitis - 6 x 75 cl botellas'
+date: 2026-05-18 16:33:37
+image: 'https://m.media-amazon.com/images/I/41yyhK0PY8S._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0973PQLS5-es Château de Goëlane Chœur de l Aube - DOP Bordeaux...'
+sku: 'B0973PQLS5-es'
+tags: [ '🇪🇸', ]
+actualPrice: 32.41 EUR
+currency: EUR
+price: 32.41
+comparePrice: 53.5 EUR
+prodname: 'Château de Goëlane Chœur de l Aube - DOP Bordeaux Supérieur - Vino Tinto - Cosecha 2016 - Terra Vitis - 6 x 75 cl botellas'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0973PQLS5/?tag=tolees-21'
+descuento: '39.42'
+average: '30.852'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Nariz: muy fresco, aromas de cereza negra y matices tostados
+- Boca: potente y bien estructurado. Final prolongado.
+- Variedades de uva: 70 % Merlot, 30 % Cabernet Sauvignon
+- Región: vino tinto de Burdeos, finca familiar de Castel certificación Terra Vitis desde 2012
+- Color: un precioso rojo intenso.
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B0973PQLS5{{</world>}}

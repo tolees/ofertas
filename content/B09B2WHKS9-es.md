@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'ABUS Casco MTB MoTrip - Casco de Ciclismo Robusto con Visera Ajustable en Altura para Ciclistas de montaña - Ajuste Personalizado - Unisex'
+date: 2026-06-02 21:10:05
+image: 'https://m.media-amazon.com/images/I/319LVGM0nkL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B09B2WHKS9-es ABUS Casco MTB MoTrip - Casco de Ciclismo Robusto con...'
+sku: 'B09B2WHKS9-es'
+tags: [ '🇪🇸', ]
+actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
+comparePrice: 69.95 EUR
+prodname: 'ABUS Casco MTB MoTrip - Casco de Ciclismo Robusto con Visera Ajustable en Altura para Ciclistas de montaña - Ajuste Personalizado - Unisex'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B09B2WHKS9/?tag=tolees-21'
+descuento: '42.83'
+average: '43.896'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Para los usuarios de trenzas: el sistema de ajuste en la parte posterior de la cabeza es ajustable en altura - esto crea espacio para una trenza
+- VENTILACIÓN: 6 entradas y 8 salidas de aire garantizan una buena ventilación del cabezal para evitar la acumulación de calor.
+- IN-MOLD: Proceso de fabricación que crea un casco de bicicleta con una combinación duradera de espuma dura EPS que absorbe los impactos y una carcasa exterior de PC resistente a los impactos.
+- AJUSTE: El sistema de ajuste Zoom Ace MTB dispone de una rueda de ajuste que permite una adaptación individual a la circunferencia de la cabeza = comodidad y buen ajuste
+- DETALLES DEL PRODUCTO: Casco unisex para adultos, con distribuidor de correa ajustable - la talla en centímetros corresponde al perímetro craneal del usuario
+- CASCO MTB: protección fiable de la cabeza para principiantes en bicicleta de montaña - gran comodidad y protección en terrenos irregulares
+
+[🛒 Comprar!!!]({{< param buyurl >}})
+{{<world>}}B09B2WHKS9{{</world>}}

@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'WOWNIGHT Linternas LED Alta Potencia 1 000 000 Lúmenes 50W 2 Interruptores Linterna Led Recargable Linterna Potente Tactica VariacióN Infinita & IP67 Linternas Potentes para Emergencia Camping'
+date: 2026-07-21 23:24:34
+image: 'https://m.media-amazon.com/images/I/51vgO8h3IBL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0FJF5L4KH-es WOWNIGHT Linternas LED Alta Potencia 1 000 000 Lúmenes 50W...'
+sku: 'B0FJF5L4KH-es'
+tags: [ '🇪🇸', ]
+actualPrice: 26.3 EUR
+currency: EUR
+price: 26.3
+comparePrice: 43.98 EUR
+prodname: 'WOWNIGHT Linternas LED Alta Potencia 1 000 000 Lúmenes 50W 2 Interruptores Linterna Led Recargable Linterna Potente Tactica VariacióN Infinita & IP67 Linternas Potentes para Emergencia Camping'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0FJF5L4KH/?tag=tolees-21'
+descuento: '40.20'
+average: '26.48'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- 【DURABLE & IPX6 WATERPROOF】Esta linterna táctica está hecha de aluminio de grado aeronáutico duradero con un acabado anodizado endurecido para una excelente resistencia a impactos y arañazos. La linterna recargable también es IPX6 impermeable con una junta de goma impermeable de alta densidad incorporada para resistir la lluvia y la nieve. Tanto si haces senderismo en una noche lluviosa como si vas a una aventura al aire libre, esta linternas es ideal para ti.
+- 【HEADLAMP LED RECHARGEABLE】Este conjunto linternas potentes también incluye un faro con 5 modos de luz. El faro LED tiene un diseño de gran angular de 230 ° para un área de iluminación más grande y un foco LED lateral para un posicionamiento preciso. Un sensor de movimiento incorporado permite encender y apagar la luz con un simple movimiento de la mano. Ya sea para pescar, acampar, leer o pasear de noche, esta linterna frontal está a la altura.
+- 【LINTERNAS LED ALTA POTENCIA 1,000,000 LUMEN】La linterna potente está equipada con un chip LED 50W XHQ100. Alta densidad de luz, excelente estabilidad y fuerte penetración lo hacen ideal para penetrar el polvo desagradable y la niebla densa, Especialmente adecuado para entornos difíciles. El haz de la linterna LED alta potencia puede iluminar un área de 280m² como una pared gigante de luz o apuntar a objetos a 1600m de distancia como un sable de luz ultra largo.
+- 【PANTALLA LCD & SALIDA USB】Esta linternas LED alta potencia recargable tiene un nuevo y mejorado indicador de potencia con una función de autodiagnóstico al encender, que se comprueba automáticamente cada vez que se enciende y le da un nivel de potencia de la linterna en tiempo real más preciso. Equipada con un puerto USB-C, puedes recargar la flashlight a través de cualquier puerto USB. En caso de emergencia, puedes incluso utilizar la linterna recargable para cargar tu teléfono móvil.
+- 【MODES DE GRADATION PROGRESSIVE】Es linternas LED alta potencia recargable tiene un innovador modo de atenuación continua, que se activa con una pulsación larga en el interruptor en el lado derecho de la linterna. Puede ajustar continuamente la salida de luz entre 500-1,000,000 lúmenes para satisfacer las necesidades de iluminación de diferentes escenarios sin tener que cambiar con frecuencia entre múltiples niveles de brillo preestablecidos, mejorando la comodidad de iluminación.
+- 【2 INTERRUPTORES Y 4 MODOS】La linterna LED tiene 4 modos de iluminación controlados por 2 interruptores, lo que le permite seleccionar rápidamente el modo de iluminación adecuado para la escena. El interruptor izquierdo controla la luz estroboscópica/SOS, que se puede activar rápidamente en situaciones de emergencia; derecho Alto/Infinitamente regulable, ya sea acampada/fallo de energía, etc, una simple pulsación del interruptor derecho proporciona una iluminación estable y brillante.
+
+[🛒 Comprar!!!]({{< param buyurl >}})
+{{<world>}}B0FJF5L4KH{{</world>}}

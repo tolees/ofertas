@@ -1,0 +1,36 @@
+---
+layout: post
+title: 'Puma Unisex Adults Club II ERA Sneaker Puma White-Puma Black-Vapor Gray 42 EU'
+date: 2026-07-17 19:25:53
+image: 'https://m.media-amazon.com/images/I/31lXZ5YOOuL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0CKJTSMXV-es Puma Unisex Adults Club II ERA Sneaker Puma White-Puma...'
+sku: 'B0CKJTSMXV-es'
+tags: [ '🇪🇸', ]
+actualPrice: 32.5 EUR
+currency: EUR
+price: 32.5
+comparePrice: 64.95 EUR
+prodname: 'Puma Unisex Adults Club II ERA Sneaker Puma White-Puma Black-Vapor Gray 42 EU'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0CKJTSMXV/?tag=tolees-21'
+descuento: '49.96'
+average: '32.475'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Logotipo en pinta de aluminio en los laterales
+- Plantilla cómoda diseñada para proporcionar una amortiguación suave
+- Tira de Puma cosida en los lados medial y lateral
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B0CKJTSMXV{{</world>}}

@@ -1,0 +1,36 @@
+---
+layout: post
+title: 'Skechers Mujer Uno Golden Air Trainers White Durabuck/Mesh Trim 36.5 EU'
+date: 2026-07-29 12:41:37
+image: 'https://m.media-amazon.com/images/I/41BsYZ0oG7L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B09PZ6LWXC-es Skechers Mujer Uno Golden Air Trainers White Durabuck/Mesh...'
+sku: 'B09PZ6LWXC-es'
+tags: [ '🇪🇸', ]
+actualPrice: 56.95 EUR
+currency: EUR
+price: 56.95
+comparePrice: 89.95 EUR
+prodname: 'Skechers Mujer Uno Golden Air Trainers White Durabuck/Mesh Trim 36.5 EU'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B09PZ6LWXC/?tag=tolees-21'
+descuento: '36.69'
+average: '48.22'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Material exterior: Sintético
+- Material de la suela: Caucho
+- Cierre: Cordones
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B09PZ6LWXC{{</world>}}

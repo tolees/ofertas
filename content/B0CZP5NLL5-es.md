@@ -1,0 +1,36 @@
+---
+layout: post
+title: 'adidas Unisex - Bambini e Ragazzi Essentials 3 Stripes T-Shirt White/Black 15-16 Years'
+date: 2026-04-30 06:27:43
+image: 'https://m.media-amazon.com/images/I/41L9jecBLUL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0CZP5NLL5-es adidas Unisex - Bambini e Ragazzi Essentials 3 Stripes...'
+sku: 'B0CZP5NLL5-es'
+tags: [ '🇪🇸', ]
+actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
+comparePrice: 20.0 EUR
+prodname: 'adidas Unisex - Bambini e Ragazzi Essentials 3 Stripes T-Shirt White/Black 15-16 Years'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0CZP5NLL5/?tag=tolees-21'
+descuento: '35.05'
+average: '13.47'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Cuello redondo
+- Corte clásico
+- 100% algodón
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B0CZP5NLL5{{</world>}}

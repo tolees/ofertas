@@ -1,0 +1,34 @@
+---
+layout: post
+title: 'Levi s Mujer 501 Jeans for Women Take A Hint 25W / 32L'
+date: 2026-02-28 09:05:25
+image: 'https://m.media-amazon.com/images/I/31C9sih2fWL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B09MJ3DGR2-es Levi s Mujer 501 Jeans for Women Take A Hint 25W / 32L'
+sku: 'B09MJ3DGR2-es'
+tags: [ '🇪🇸', ]
+actualPrice: 55.0 EUR
+currency: EUR
+price: 55.0
+comparePrice: 110.0 EUR
+prodname: 'Levi s Mujer 501 Jeans for Women Take A Hint 25W / 32L'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B09MJ3DGR2/?tag=tolees-21'
+descuento: '50.00'
+average: '55.0'
+---
+
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Este producto es original Levis
+
+[🛒 Visítala!!!]({{< param buyurl >}})
+{{<world>}}B09MJ3DGR2{{</world>}}

@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Skechers Performance GO WALK MAX Zapatillas sin cordones para Hombre Black Textile/Trim 43.5 EU'
+date: 2026-05-18 08:50:52
+image: 'https://m.media-amazon.com/images/I/41MRVyUYXJL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0719CY2VJ-es Skechers Performance GO WALK MAX Zapatillas sin cordones...'
+sku: 'B0719CY2VJ-es'
+tags: [ '🇪🇸', ]
+actualPrice: 25.3 EUR
+currency: EUR
+price: 25.3
+comparePrice: 69.95 EUR
+prodname: 'Skechers Performance GO WALK MAX Zapatillas sin cordones para Hombre Black Textile/Trim 43.5 EU'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0719CY2VJ/?tag=tolees-21'
+descuento: '63.83'
+average: '28.655'
+---
+
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Entresuela y suela ligera y sensible con amortiguación 5GEN
+- Suela de goma flexible
+- Parte superior de malla de aire atlética transpirable casi sin costuras
+- Lavable a máquina, secar al aire
+- Plantilla acolchada Goga Max
+
+[🛒 Visítala!!!]({{< param buyurl >}})
+{{<world>}}B0719CY2VJ{{</world>}}
