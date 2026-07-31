@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camisa A Rayas
 - 100% algodón
-- Mangas largas
 - Camisa Oxford
-- Lavar a máquina
 - Cierre a presión
+- Camisa A Rayas
+- Mangas largas
+- Lavar a máquina
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FCMYBY5X{{</world>}}

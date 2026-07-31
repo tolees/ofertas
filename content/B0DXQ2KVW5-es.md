@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El paquete consiste en calcetines negros, grises y blancos
-- Embellished with Ikon artwork at the top.
 - Logotipo elongated just above the artwork
 - Tres paquetes de calcetines de longitud media
+- Embellished with Ikon artwork at the top.
+- El paquete consiste en calcetines negros, grises y blancos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DXQ2KVW5{{</world>}}

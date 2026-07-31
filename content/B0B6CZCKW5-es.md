@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre de cremallera
 - Capucha con parte delantera alzada y cordón ajustable
-- Puños acanalados, bajo redondeado
+- Cierre de cremallera
 - Bolsillo estilo canguro dividido
+- Puños acanalados, bajo redondeado
 - Paneles laterales y cintura acanalados
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

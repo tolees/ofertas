@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Corte ajustado de talle alto
+- AEROREADY
 - Diseño estilizado
 - Material Principal: 85% Poliéster(100% Reciclado) / 15% Elastano
-- AEROREADY
 - Cintura elástica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

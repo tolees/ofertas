@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Camiseta infantil
-- Cuello redondo
 - Color: negro
+- Cuello redondo
 - Producto de calidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

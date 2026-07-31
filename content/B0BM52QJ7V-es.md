@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Forma del tacón: sin tacón
-- Talla del zapato: Medium
 - Grado de resistencia al agua: no impermeable
+- Talla del zapato: Medium
+- Forma del tacón: sin tacón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BM52QJ7V{{</world>}}

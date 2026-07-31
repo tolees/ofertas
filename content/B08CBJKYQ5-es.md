@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Cierre con cremallera y botones
 - Cintura baja
-- 2 bolsillos y 1 bolsillo delantero para billetes, 2 bolsillos de parche en la parte posterior
 - Corte pitillo
+- 2 bolsillos y 1 bolsillo delantero para billetes, 2 bolsillos de parche en la parte posterior
 - Traslados en la cintura
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

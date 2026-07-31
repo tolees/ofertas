@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Equipo de bajo mantenimiento, apto para jardineros de todos los niveles
 - Época de floración: Florece de verano a otoño
+- Equipo de bajo mantenimiento, apto para jardineros de todos los niveles
 - Rizomas de hosta a la venta
 - Difícil de sobrevivir en condiciones de humedad
 

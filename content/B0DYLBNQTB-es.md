@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nueva amortiguación reactiva DNA LOFT v3
-- Perfecto para el entrenamiento diario en carretera.
 - Transiciones suaves para una carrera natural.
+- Perfecto para el entrenamiento diario en carretera.
+- Nueva amortiguación reactiva DNA LOFT v3
 - Parte superior de malla transpirable diseñada
 - Suela estable para largas distancias.
 

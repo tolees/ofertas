@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El reloj solo necesita una pila AA para funcionar correctamente
 - Esfera blanca con números arábigos
 - Agujero para colgar en la pared
+- El reloj solo necesita una pila AA para funcionar correctamente
 - Movimiento suave del segundero
 - Movimiento de cuarzo con visualización de la hora analógica
 

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con detalles moldeados
 - Diseño ligero y cómodo
+- Con detalles moldeados
 - Detalles distintivos de la marca
 
 [🛒 Aquí!!!]({{< param buyurl >}})

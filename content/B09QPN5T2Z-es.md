@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - SOLO O ACOMPAÑADO: Los patrones omnidireccional o cardioide captan el sonido del ambiente o tu voz. Elige la modalidad que se adapte a tu contenido
 - MONTAJE FLEXIBLE: Diseñado para funcionar sin problemas con los soportes y monturas de JOBY. Por fin podrás personalizar tu flujo de trabajo y gestionar tus contenidos con confianza
-- JOBY diseña micrófonos, monturas, carcasas, luces, soportes y empuñaduras centrándose en los usuarios y sin renunciar a su gran calidad
 - SONIDO ÚNICO: Se incluye un filtro antipop para una transmisión de voz uniforme. Idóneo para tus podcast o canal de streaming de videojuegos
 - AL LÍO: Control de volumen, modo silencio y ganancia incorporados. Gracias a la entrada de auriculares en la parte inferior, siempre estarás list@ para hacer ajustes y conseguir el sonido deseado
+- JOBY diseña micrófonos, monturas, carcasas, luces, soportes y empuñaduras centrándose en los usuarios y sin renunciar a su gran calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09QPN5T2Z{{</world>}}

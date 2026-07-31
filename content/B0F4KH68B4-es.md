@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- SENCILLO Y ELEGANTE: Esta camiseta moderna destaca por su cuello clásico y su gran comodidad. Los dos botones y la discreta bandera en el pecho completan el look de la prenda.
-- CALIDAD DEMOSTRADA: Desde 1985, esta marca de diseñador lleva demostrando por todo el mundo la calidad y la ligereza mediante una gran variedad de diseños en los míticos colores azul oscuro, blanco y rojo.
-- MATERIAL Y CUIDADO: Polo de algodón 100 %. Se puede lavar a máquina.
-- DISEÑO PREMIUM: Esta prenda de arriba de diseño atemporal sienta superbién y es muy cómoda. Ya sea en la oficina o en el tiempo libre, esta camiseta ofrece siempre la combinación perfecta de comodidad y estilo.
 - AJUSTE PERFECTO: El polo regular fit es un clásico atemporal que destaca por su corte cómodo. La prenda de material suave y corte recto es muy agradable de llevar.
+- SENCILLO Y ELEGANTE: Esta camiseta moderna destaca por su cuello clásico y su gran comodidad. Los dos botones y la discreta bandera en el pecho completan el look de la prenda.
+- DISEÑO PREMIUM: Esta prenda de arriba de diseño atemporal sienta superbién y es muy cómoda. Ya sea en la oficina o en el tiempo libre, esta camiseta ofrece siempre la combinación perfecta de comodidad y estilo.
+- MATERIAL Y CUIDADO: Polo de algodón 100 %. Se puede lavar a máquina.
+- CALIDAD DEMOSTRADA: Desde 1985, esta marca de diseñador lleva demostrando por todo el mundo la calidad y la ligereza mediante una gran variedad de diseños en los míticos colores azul oscuro, blanco y rojo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4KH68B4{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de estiramiento: no elástico
+- Ajuste: recto relajado
 - Jeans Pantalones Largos
 - Composición: 100% algodón
+- Tipo de estiramiento: no elástico
 - Instrucciones de cuidado: lavable a máquina
-- Ajuste: recto relajado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6RRXFFD{{</world>}}

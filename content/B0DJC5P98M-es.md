@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cierre de cordones
 - Superposiciones de gamuza
 - Suela de goma
-- Cierre de cordones
 - Entresuela sintética
 - Ajuste regular;Parte superior de nailon
 

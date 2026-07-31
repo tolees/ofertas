@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100% poliéster
 - Nike Dri Fit
+- 100% poliéster
 - Ajuste estándar para comodidad relajada e informal.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

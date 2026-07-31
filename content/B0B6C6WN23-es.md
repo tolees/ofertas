@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Prenda para varones adultos
 - Traje de baño
 - Tiene detalles distintivos de la marca
+- Prenda para varones adultos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B6C6WN23{{</world>}}

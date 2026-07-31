@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Color: Puma White-puma Black
-- Número de modelo: 084335
 - PUMA Orbita 6 MS
+- Número de modelo: 084335
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CKTJP7CN{{</world>}}

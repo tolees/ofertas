@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- __Fit:__ Snug fit
-- Chlorine resistant
 - Moisture wicking
 - __UV protection:__ UPF 50 sun protection
+- Chlorine resistant
+- __Fit:__ Snug fit
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B6PWH28N{{</world>}}

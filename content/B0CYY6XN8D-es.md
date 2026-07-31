@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte clásico
-- 70% algodón / 30% poliéster (reciclado)
 - Contiene al menos un 70% de materiales reciclados y renovables
 - Interior cepillado
+- 70% algodón / 30% poliéster (reciclado)
 - Puños y dobladillo de canalé
 - Capucha con cordón ajustable
 - Bolsillo canguro
+- Corte clásico
 - Contiene al menos un 70% de materiales reciclados y renovables
 
 [🛒 Aquí!!!]({{< param buyurl >}})

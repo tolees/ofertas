@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Fabricado con prácticas sostenibles
 - Poliéster reciclado
 - Realizado con fibras naturales
-- Fabricado con prácticas sostenibles
 - Etiqueta Have a nice World
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detalles distintivos de la marca
 - Plantilla cómoda
+- Detalles distintivos de la marca
 - Proporcionan una amortiguación suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Twill with stretch for movement
-- Dockers Herren ORIGINAL CHINO SLIM PANTS
-- Original Chino Slim
-- Slim Fit
-- Welt pocket
 - Zip fly
+- Dockers Herren ORIGINAL CHINO SLIM PANTS
+- Twill with stretch for movement
+- Welt pocket
+- Slim Fit
+- Original Chino Slim
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B1LRTGB9{{</world>}}

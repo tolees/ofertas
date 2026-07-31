@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Perfume duradero: Estos detergentes líquidos dejan en las prendas un perfume fresco y duradero gracias a su tecnología que mantiene la ropa fresca por más tiempo. Además, su botella es 100% reciclable y contiene más de un 92% de ingredientes biodegradables*. *En relación a ingredientes orgánicos / Según OECD 301/302.
 - Detergente universal: Gracias a su tecnología de lavado única, este jabón líquido para lavadora para ropa blanca y de color proporciona resultados luminosos y frescos, para que disfrutes de una colada higiénicamente limpia.
-- Envío: Dixan Gel Total 4+1, Detergente Líquido para Lavadora, jabón quitamanchas para ciclos de 20 a 95°C, limpieza, luminosidad, frescor y sostenibilidad, 85 lavados.
-- La siguiente información se aplica a cada unidad del paquete
 - Detergente 4 en 1: Este detergente en líquido combina cuatro beneficios de limpieza para asegurar una colada higiénicamente limpia: limpieza, luminosidad, frescor y sostenibilidad.
+- La siguiente información se aplica a cada unidad del paquete
+- Envío: Dixan Gel Total 4+1, Detergente Líquido para Lavadora, jabón quitamanchas para ciclos de 20 a 95°C, limpieza, luminosidad, frescor y sostenibilidad, 85 lavados.
 - Alta eficacia: Este detergente Dixan ofrece grandes resultados de lavado, ya que elimina las manchas incluso a baja temperatura y actúa sobre la suciedad más obstinada.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

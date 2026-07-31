@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Preparada para la informática de IA avanzada: diseñada para el futuro de la informática de IA, con la potencia y conectividad necesarias para las exigentes aplicaciones de IA
+- Zócalo Intel LGA 1851 compatible con procesadores Intel Core Ultra (serie 2)
 - Conectividad rápida: Wi-Fi 6E, ranura PCIe 5.0 x16, Ethernet Realtek de 2,5 Gb, puerto USB Type-C trasero de 20 Gbps, conector USB Type-C delantero de 10 Gbps
 - Compatible con M.2 de última generación: una ranura PCIe 5.0 M.2 integrada equipada con un disipador M.2 y una ranura PCIe 4.0 M.2
-- Zócalo Intel LGA 1851 compatible con procesadores Intel Core Ultra (serie 2)
 - Solución de alimentación mejorada: 7+1+1+1 etapas de alimentación DrMOS de 80A, PCB de 6 capas, conectores de alimentación ProCool de 8 pines, bobinas de aleación y condensadores duraderos para un suministro de energía estable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

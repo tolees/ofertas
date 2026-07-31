@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Camiseta Tiempo libre y sportwear Hombre
-- Muy conveniente
 - Ropa deportiva Nike
 - Soft fabric
+- Muy conveniente
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07H44M7XW{{</world>}}

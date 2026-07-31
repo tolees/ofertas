@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ESTABILIDAD SEGURA: permite sacar fotos sin oscilaciones y grabar vídeos estables incluso en superficies irregulares. Ideal para fotografía con cámara compacta o móvil en cualquier situación.
 - ROSCA UNIVERSAL: compatible con cámaras compactas y accesorios con rosca estándar de 1/4". Permite montar fácilmente cámaras digitales o soportes para móvil compatibles.
-- PATAS FLEXIBLES: minitrípode con patas flexibles que se adaptan a diferentes superficies. Perfecto para colocar sobre mesas, rocas, barandillas o terrenos irregulares para conseguir el mejor ángulo.
 - FORMATO COMPACTO: tamaño reducido y peso ligero para llevarlo siempre contigo. Ideal como trípode pequeño para cámara o soporte portátil para grabar contenido o hacer fotos en viajes.
+- ESTABILIDAD SEGURA: permite sacar fotos sin oscilaciones y grabar vídeos estables incluso en superficies irregulares. Ideal para fotografía con cámara compacta o móvil en cualquier situación.
+- PATAS FLEXIBLES: minitrípode con patas flexibles que se adaptan a diferentes superficies. Perfecto para colocar sobre mesas, rocas, barandillas o terrenos irregulares para conseguir el mejor ángulo.
 - Contenido del paquete: 1 minitrípode flexi de Hama.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

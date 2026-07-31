@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Guarda hasta 24 cartuchos de juegos de Nintendo Switch
 - Licencia oficial Dragon Ball Super
 - Tamaño compacto, ideal para el transporte y las protección de tus juegos
-- Guarda hasta 24 cartuchos de juegos de Nintendo Switch
 - Material duradero que protege de golpes a tus cartuchos de juego
 
 [🛒 Visítala!!!]({{< param buyurl >}})

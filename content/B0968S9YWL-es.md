@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Manga larga
-- Ajuste informal
-- Hombros superpuestos
 - Costuras en el dobladillo, cuello y puños
+- Manga larga
 - Cuello redondo
-- Color liso
+- Hombros superpuestos
 - Jersey para mujer de la marca danesa PIECES
+- Ajuste informal
+- Color liso
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0968S9YWL{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Empeine de piel
-- Cierre de cordones
 - Horma clásica
+- Empeine de piel
 - Forro textil
+- Cierre de cordones
 - Suela de goma
 
 [🛒 Comprar!!!]({{< param buyurl >}})

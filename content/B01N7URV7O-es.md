@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tenis deportivos de entrenamiento con cordones
 - Cuello y lengüeta acolchados
 - Parte superior de cuero suave con paneles de tela de malla para un efecto refrescante
+- Tenis deportivos de entrenamiento con cordones
 - Plantilla acolchada de espuma viscoelástica
 
 [🛒 Visítala!!!]({{< param buyurl >}})

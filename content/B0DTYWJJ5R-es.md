@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- bailarina plana
-- Material : piel
 - flexible y ligero
 - a la moda
+- bailarina plana
+- Material : piel
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DTYWJJ5R{{</world>}}

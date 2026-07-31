@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Marca: NGK
-- Estilo: Específico en función del vehículo
 - Producto de alta calidad, con diseño funcional
 - La siguiente información se aplica a cada unidad del paquete
+- Marca: NGK
+- Estilo: Específico en función del vehículo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CH3GBPL4{{</world>}}

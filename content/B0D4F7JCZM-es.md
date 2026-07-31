@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Confort elástico para facilitar el movimiento, paneles laterales Omni-Wick para el control de la humedad y un diseño ligero hacen de este polo la prenda ideal para la actividad física.
-- Fabricado con Omni Freeze Zero: tecnología de refrigeración activada por el sudor para mantenerte fresco y seco.
-- El polo Zero Rules es un polo ligero que absorbe el sudor y te mantiene frío en condiciones cálidas, luce bien en el sendero y en salidas informales
 - Contenido: 1x Columbia Polo Zero Rules Light para Hombre, Color: Ripple Blue (Azul), Talla: XL
+- El polo Zero Rules es un polo ligero que absorbe el sudor y te mantiene frío en condiciones cálidas, luce bien en el sendero y en salidas informales
+- Fabricado con Omni Freeze Zero: tecnología de refrigeración activada por el sudor para mantenerte fresco y seco.
+- Confort elástico para facilitar el movimiento, paneles laterales Omni-Wick para el control de la humedad y un diseño ligero hacen de este polo la prenda ideal para la actividad física.
 - Ajuste activo que garantiza una amplitud de movimiento completa, Se ajusta a la talla, Longitud de la espalda 28", 100% poliéster
 
 [🛒 Visítala!!!]({{< param buyurl >}})

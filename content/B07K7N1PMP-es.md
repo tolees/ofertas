@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Planchado: en seco y al vapor.
-- Emisión de vapor incluso en vertical.
 - Volumen de vapor: 10-20 g/min
 - Golpe de vapor: 0,3 – 0,8 g.
+- Emisión de vapor incluso en vertical.
 - Termostato para control de temperatura de planchado.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

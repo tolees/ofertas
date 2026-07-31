@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Artículo : Top deportivo
-- Manga : Manga corta
-- Modo de vida : Tradicional
-- Mangas : Sisa en disminución
 - Corte : Corte standard
+- Mangas : Sisa en disminución
+- Artículo : Top deportivo
 - Estampado : Estampa en la parte delantera del producto, Estampado con pigmentos para un acabado delicado en los tejidos más ligeros
+- Modo de vida : Tradicional
 - Cuello : Cuello redondo
+- Manga : Manga corta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F4436GDG{{</world>}}

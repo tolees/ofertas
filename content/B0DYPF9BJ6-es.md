@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Consejos de uso. Aplicar una pequeña cantidad sobre la piel húmeda durante la ducha. Masajear suavemente hasta formar una ligera espuma y aclarar con agua
-- Gel de ducha de Pomelo. Producto de higiene diaria que limpia la piel de forma suave y envolvente. Su fórmula está especialmente diseñada para transformar la ducha en un momento único
 - Ingredientes de calidad. Está formulado con aceites esenciales naturales de pomelo, mandarina y lima, que no solo aportan un aroma revitalizante, sino que también tonifican la piel y estimulan los sentidos
+- Consejos de uso. Aplicar una pequeña cantidad sobre la piel húmeda durante la ducha. Masajear suavemente hasta formar una ligera espuma y aclarar con agua
 - Fórmula natural. Elaborado con ingredientes naturales y orgánicos, sin perfumes sintéticos, colorantes ni conservantes. Su fórmula vegana está certificada como cosmética natural, garantizando un cuidado respetuoso tanto con la piel como con el medioambiente
 - Sensación de descanso. Limpia la piel con suavidad, respetando su equilibrio natural. Su fragancia cítrica despierta los sentidos y aporta una sensación de energía, dejando la piel fresca y con una sensación de bienestar tras cada ducha
+- Gel de ducha de Pomelo. Producto de higiene diaria que limpia la piel de forma suave y envolvente. Su fórmula está especialmente diseñada para transformar la ducha en un momento único
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DYPF9BJ6{{</world>}}

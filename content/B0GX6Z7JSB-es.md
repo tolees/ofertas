@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- FÁCIL DE USAR: disuelve y mezcla 1 sobre en un vaso de agua. Puedes tomar 1 o 2 sobres al día según tus necesidades. Es un complemento sin lactosa, sin gluten y apto para una dieta vegana. Lee las advertencias. Los complementos alimenticios no deben utilizarse como sustituto de una dieta variada y equilibrada.
-- PARA EL BIENESTAR DEL TRACTO URINARIO: factores como una alimentación inadecuada, alteraciones de la flora intestinal, poca hidratación y el estrés pueden afectar la función normal del tracto urinario. Es importante cuidar su bienestar día a día.
 - ALTO CONTENIDO DE D-MANOSA: este complemento contiene una alta dosis de D-manosa, 2 gramos por sobre.
 - Este complemento contiene probióticos que contribuyen al mantenimiento de un equilibrio saludable de la flora intestinal, favoreciendo la salud digestiva.
+- PARA EL BIENESTAR DEL TRACTO URINARIO: factores como una alimentación inadecuada, alteraciones de la flora intestinal, poca hidratación y el estrés pueden afectar la función normal del tracto urinario. Es importante cuidar su bienestar día a día.
+- FÁCIL DE USAR: disuelve y mezcla 1 sobre en un vaso de agua. Puedes tomar 1 o 2 sobres al día según tus necesidades. Es un complemento sin lactosa, sin gluten y apto para una dieta vegana. Lee las advertencias. Los complementos alimenticios no deben utilizarse como sustituto de una dieta variada y equilibrada.
 - FUNCIONAMIENTO ADECUADO DEL TRACTO URINARIO: gracias al diente de león, GineCanesCystil contribuye a eliminar el exceso de líquidos y mantener el bienestar del tracto urinario.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

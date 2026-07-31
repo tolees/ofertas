@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Bandera de Tommy Hilfiger bordada en el pecho
-- Banda distintiva en el escote
 - cuello, puños y dobladillo acanalados
+- escote redondo
 - Marca Tommy Hilfiger
 - algodón peinado puro
-- escote redondo
+- Banda distintiva en el escote
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4KDNNBF{{</world>}}

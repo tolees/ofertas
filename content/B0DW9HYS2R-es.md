@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Manga: Larga
-- Desigual
 - Confeccionado con materiales sostenibles
-- Fit: Regular
 - Cuello: Barco
 - Combinación de tejidos
+- Fit: Regular
+- Desigual
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DW9HYS2R{{</world>}}

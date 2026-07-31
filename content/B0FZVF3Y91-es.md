@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Domina la magia de bruja. Desbloquea y aprende nuevos hechizos para completar tu grimorio. Mezcla y combina diferentes hechizos para encontrar tu propio estilo de magia y domina el equilibrio entre los cuatro elementos
 - Cultiva, recolecta y crea. ¡Descubre todo lo que los bosques tienen para ofrecer! Recoge frutas, crea nuevos hechizos y objetos, y cultiva criaturas vegetales para repoblar el bosque. Honra la tradición bruja de la recolección y aprende a mejorar tus poderes
 - Hazte amigo de criaturas míticas. Encuentra a los legendarios espíritus del bosque y dales un nuevo hogar. Ayúdalos a restablecer el equilibrio de los bosques potenciando sus poderes mágicos, así como los tuyos propios, con decoraciones alrededor de tu cabaña
-- Desentraña el misterio de los Calcetines Arcoíris. Embárcate en un viaje para recuperar el objeto más mítico que jamás haya existido, los legendarios Calcetines Arcoíris, mientras investigas qué ha alterado el delicado equilibrio del bosque mágico
 - La Edición Deluxe incluye: Juego físico completo, 4 Pins Espíritus del Bosque, Pegatinas, Artbook, Banda Sonora y Caja de Coleccionista
+- Domina la magia de bruja. Desbloquea y aprende nuevos hechizos para completar tu grimorio. Mezcla y combina diferentes hechizos para encontrar tu propio estilo de magia y domina el equilibrio entre los cuatro elementos
+- Desentraña el misterio de los Calcetines Arcoíris. Embárcate en un viaje para recuperar el objeto más mítico que jamás haya existido, los legendarios Calcetines Arcoíris, mientras investigas qué ha alterado el delicado equilibrio del bosque mágico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FZVF3Y91{{</world>}}

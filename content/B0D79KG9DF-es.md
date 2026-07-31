@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- GORE-TEX impermeable y transpirable
-- Amortiguación AMPLIFOAM para mayor comodidad
 - GEL en el talón para absorber el impacto
 - Suela con agarre seguro en superficies mojadas
+- GORE-TEX impermeable y transpirable
+- Amortiguación AMPLIFOAM para mayor comodidad
 - Ideal para correr por senderos en condiciones climáticas adversas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Forma del tacón: plana
 - Material interior: sintético
 - Material exterior: piel sintética
-- Forma del tacón: plana
 - Cierre: cremallera
 - Suela: goma
 

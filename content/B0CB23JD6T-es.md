@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cómodos
-- Punta redonda
 - Logotipo de la marca
+- Punta redonda
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB23JD6T{{</world>}}

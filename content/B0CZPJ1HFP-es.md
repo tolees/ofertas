@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- AHORRA ESPACIO EN TU COCINA: 30% más delgada (comparado con el modelo AF400). Gran capacidad de 9,5 litros para alimentar hasta 8 personas. Cocina hasta un 55% más rápido que los hornos eléctricos (probado con palitos de pescado y salchichas)
 - NINJA ES LA MARCA DE FREIDORAS DE AIRE N.º 1 EN EL MUNDO: Fuente: Euromonitor International Ltd, Electrodomésticos, edición 2026, ventas minoristas en volumen (unidades), segue la definición de la categoría freidoras de aire, datos de 2025
-- EFICIENCIA ENERGÉTICA: Cocina con hasta un 55% menos de energía que un horno* (*Pruebas y cálculos basados en el tiempo de cocción recomendado para salchichas, utilizando la función de freír con aire vs. un horno de 68 L con clasificación “A” y 71 L con clasificación “A+")
-- 6 FUNCIONES DE COCCIÓN: Max Crisp, Freír con aire, Asar, Hornear, Recalentar y Deshidratar. Hasta un 75% menos de grasa* utilizando la función Freír con aire (*Probado con patatas fritas cortadas a mano). Funciones SYNC y MATCH para las 2 cestas
 - INCLUYE: Ninja Double Stack XL Freidora de aire 9,5 L (enchufe UE), 2 cestas de 4,75 l, 2 rejillas base antiadherentes, 2 rejillas. Piezas aptas para lavavajillas. Dimensiones: 38,5 cm x 28 cm x 47 cm. Peso: 10,3 kg. Color: Gris
 - COCINA EN 4 NIVELES SIMULTÁNEAMENTE: Incluye 2 cestas y 2 rejillas de base para comida, brindando 4 niveles para cocinar el doble de alimentos. Gracias a los ventiladores traseros, la comida se cocina y dora de forma uniforme en todos los niveles
+- EFICIENCIA ENERGÉTICA: Cocina con hasta un 55% menos de energía que un horno* (*Pruebas y cálculos basados en el tiempo de cocción recomendado para salchichas, utilizando la función de freír con aire vs. un horno de 68 L con clasificación “A” y 71 L con clasificación “A+")
+- AHORRA ESPACIO EN TU COCINA: 30% más delgada (comparado con el modelo AF400). Gran capacidad de 9,5 litros para alimentar hasta 8 personas. Cocina hasta un 55% más rápido que los hornos eléctricos (probado con palitos de pescado y salchichas)
+- 6 FUNCIONES DE COCCIÓN: Max Crisp, Freír con aire, Asar, Hornear, Recalentar y Deshidratar. Hasta un 75% menos de grasa* utilizando la función Freír con aire (*Probado con patatas fritas cortadas a mano). Funciones SYNC y MATCH para las 2 cestas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZPJ1HFP{{</world>}}

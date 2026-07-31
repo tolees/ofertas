@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Recomendado para cabellos secos, teñidos, quebradizos, lisos, apagados y finos. También se recomienda para cabello de baja porosidad, que es naturalmente saludable y suave, pero requiere hidratación y fortalecimiento.
-- Champú hidratante a base de ingredientes de origen vegetal suaves que limpia el cabello y el cuero cabelludo suavemente. Contiene un 95% de ingredientes de origen natural.
-- Tiene una fragancia agradable y refrescante.
-- Champú hidratante que limpia suavemente, aporta hidratación y ligereza al cabello y protege de la pérdida de humedad.
-- Champú hidratante de Granada PLANT ESSENTIALS de Ziaja.
 - Edad recomendada: a partir de 12 años.
+- Recomendado para cabellos secos, teñidos, quebradizos, lisos, apagados y finos. También se recomienda para cabello de baja porosidad, que es naturalmente saludable y suave, pero requiere hidratación y fortalecimiento.
+- Champú hidratante que limpia suavemente, aporta hidratación y ligereza al cabello y protege de la pérdida de humedad.
 - Aporta hidratación y ligereza al cabello y protege de la pérdida de humedad. Crea espuma, que facilita el lavado.
+- Champú hidratante a base de ingredientes de origen vegetal suaves que limpia el cabello y el cuero cabelludo suavemente. Contiene un 95% de ingredientes de origen natural.
+- Champú hidratante de Granada PLANT ESSENTIALS de Ziaja.
+- Tiene una fragancia agradable y refrescante.
 - Producto vegano.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

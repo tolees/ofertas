@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Textura gruesa en la media suela
-- Plantilla cómoda que proporciona una suave amortiguación
 - Cuentan con un estilo informal
+- Plantilla cómoda que proporciona una suave amortiguación
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKJK36MD{{</world>}}

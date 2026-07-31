@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Hervidor inalámbrico con base separada que incluye bobina de cable
+- Exterior de Cromargan aleación acero inoxidable 18/10 única de WMF; Es un material robusto, resistente, duradero y muy fácil de limpiar de un aspecto más elegante que el acero inoxidable; Neutro a los sabores y resistente a los ácidos de las comidas
+- Dimensiones del producto en mm: largo 196, ancho 136, alto 246
+- Indicador de nivel de agua en el interior y filtro de depósito de cal extraíble para su limpieza
+- Hervidor de 1800 W de potencia y 0,8 L de capacidad; Su exterior está hecho de Cromargan mate y tiene una resistencia de calentamiento de acero inoxidable integrado
 - La tapa se abre con una mano con solo pulsar un botón
 - Gran nivel de seguridad gracias a la protección contra sobrecalentamiento y calentamiento sin agua, y apagado al hervir y bloqueo de tapa automáticos
-- Exterior de Cromargan aleación acero inoxidable 18/10 única de WMF; Es un material robusto, resistente, duradero y muy fácil de limpiar de un aspecto más elegante que el acero inoxidable; Neutro a los sabores y resistente a los ácidos de las comidas
-- Hervidor de 1800 W de potencia y 0,8 L de capacidad; Su exterior está hecho de Cromargan mate y tiene una resistencia de calentamiento de acero inoxidable integrado
-- Indicador de nivel de agua en el interior y filtro de depósito de cal extraíble para su limpieza
-- Hervidor inalámbrico con base separada que incluye bobina de cable
-- Dimensiones del producto en mm: largo 196, ancho 136, alto 246
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00MOIG21C{{</world>}}

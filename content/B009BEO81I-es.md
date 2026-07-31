@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Resistente al agua hasta 100 m: se puede llevar bañándose, nadando o practicando snorkel y buceo poco profundo
 - Correa de acero inoxidable plateada
 - Caja de 38 mm, pulsera de 18 mm de ancho, cristal mineral, movimiento de cuarzo multifunción, importado
+- Resistente al agua hasta 100 m: se puede llevar bañándose, nadando o practicando snorkel y buceo poco profundo
 - Caja redonda de acero con esfera plateada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

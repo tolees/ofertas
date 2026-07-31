@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Felino PUMA
 - Refuerzo en el tobillo para dar estabilidad
 - Puntera y talón de algodón para más comodidad
+- Felino PUMA
 - de punto en el frontal del calcetín
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

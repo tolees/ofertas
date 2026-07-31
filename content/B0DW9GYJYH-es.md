@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillos laterales
-- Desigual
 - Grandes bolsillos en las perneras
 - Cierre: de cremallera y botón
 - Color: Liso
+- Bolsillos laterales
+- Desigual
 - Fit: Cargo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

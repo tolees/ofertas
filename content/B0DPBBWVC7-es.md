@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Detalles distintivos de la marca
 - Camiseta de manga corta
+- Detalles distintivos de la marca
 - Estilo informal
 
 [🛒 Visítala!!!]({{< param buyurl >}})

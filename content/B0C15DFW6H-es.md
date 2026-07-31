@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cómodos
 - Punta redonda
 - Cierre de cordones
+- Cómodos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C15DFW6H{{</world>}}

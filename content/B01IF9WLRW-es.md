@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Bajo con ajuste de cordón
 - Dos bolsillos laterales con cierre de cremallera seguro
 - Cremallera a la vista en la parte central delantera
-- Bajo con ajuste de cordón
-- Logotipo bordado
 - Sistema de integración mediante cremallera con prendas complementarias de The North Face Factor 30+ de protección ultravioleta (UPF)
+- Logotipo bordado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01IF9WLRW{{</world>}}

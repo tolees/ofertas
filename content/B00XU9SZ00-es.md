@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - CONTROL MECÁNICO DE USO SENCILLO: permite seleccionar cómodamente uno de los 2 niveles de extracción y activar la iluminación mediante mandos prácticos y accesibles.
-- MOTOR TANGENCIAL DE 100 W: incorpora un motor extra silencioso con un nivel sonoro de 45 dB(A) en potencia mínima y hasta 57 dB(A) en máxima, además de una presión de 194 Pa.
 - ILUMINACIÓN LED Y FÁCIL LIMPIEZA: incluye luces LED de alta eficiencia, interior blindado, filtros lavables en lavavajillas y acabado DurAlum antihuellas para facilitar el mantenimiento.
-- EXTRACCIÓN DE HASTA 390 m³/h: dispone de 2 niveles de potencia y un caudal regulable entre 150 y 390 m³/h para ayudar a reducir el humo, el vapor y los olores durante la cocción.
 - DISEÑO TELESCÓPICO DE 90 CM: se instala bajo el mueble de cocina y cuenta con un frontal extraíble y sustituible, proporcionando una amplia superficie de aspiración con una integración discreta.
+- EXTRACCIÓN DE HASTA 390 m³/h: dispone de 2 niveles de potencia y un caudal regulable entre 150 y 390 m³/h para ayudar a reducir el humo, el vapor y los olores durante la cocción.
+- MOTOR TANGENCIAL DE 100 W: incorpora un motor extra silencioso con un nivel sonoro de 45 dB(A) en potencia mínima y hasta 57 dB(A) en máxima, además de una presión de 194 Pa.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XU9SZ00{{</world>}}

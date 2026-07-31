@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Plug and play mediante conexión USB: Basta con conectarlo al puerto USB-A del dispositivo final y empezar a utilizarlo (cable de 180 cm para mayor flexibilidad). Disponible en negro y blanco/gris
-- Práctico: El teclado de cable plano puede leer/escribir tarjetas inteligentes conformes con ISO 7816 y es compatible con controladores para Windows, MacOS-X y Linux
 - Lector de tarjetas inteligentes PC/SC compatible con CCID: Proporciona entrada segura de PIN (lector de clase 2), cumple los requisitos FIPS-201 y admite los protocolos T=0, T=1, S=8, S=9 y S=10
 - Fiable: rotulación duradera de las teclas, hasta 10 millones de pulsaciones sin pérdida de calidad de escritura, certificación GS («seguridad comprobada»)
 - Teclado de seguridad inteligente con anclaje para tarjetas inteligentes: Cumple con requisitos clave de firma electrónica, autenticación, cifrado de datos y control de acceso
+- Práctico: El teclado de cable plano puede leer/escribir tarjetas inteligentes conformes con ISO 7816 y es compatible con controladores para Windows, MacOS-X y Linux
+- Plug and play mediante conexión USB: Basta con conectarlo al puerto USB-A del dispositivo final y empezar a utilizarlo (cable de 180 cm para mayor flexibilidad). Disponible en negro y blanco/gris
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00PN4TYIM{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Tiro bajo
-- Con detalle de la marca en el centro de la cintura
 - Cintura expuesta
+- Con detalle de la marca en el centro de la cintura
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D9KGQPXQ{{</world>}}

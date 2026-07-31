@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Puños y dobladillo con ribete elástico
-- Bolsillos laterales con cremallera
 - Cierre de cremallera y cuello alzado
+- Bolsillos laterales con cremallera
 - 100% poliéster (reciclado)
+- Puños y dobladillo con ribete elástico
 - Corte clásico
 
 [🛒 Aquí!!!]({{< param buyurl >}})

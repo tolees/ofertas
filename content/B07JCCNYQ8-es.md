@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Acabado: mate
 - Material: otro
-- Tipo de cierre: control deslizante
 - Medidas: 170 x 250 mm
 - De color negro
+- Tipo de cierre: control deslizante
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07JCCNYQ8{{</world>}}

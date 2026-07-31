@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Incluye: EasyGrassCut 18V-230, 1 batería PBA 18V 2,0 Ah W-B, cargador AL 1810 CV, caja
+- Manejo cómodo: Diseño ligero y motor potente para recortar sin esfuerzo y de manera sencilla
 - Cortes continuos: Corte sin interrupciones gracias al sistema que alimenta la bobina con cada pulsación del gatillo
 - POWER FOR ALL ALLIANCE: 1 BATERÍA, 10+ MARCAS, 150+ PRODUCTOS.
 - Las herramientas Easy para jardín de Bosch: para jardines de tamaño medio y tamaño pequeño
-- Incluye: EasyGrassCut 18V-230, 1 batería PBA 18V 2,0 Ah W-B, cargador AL 1810 CV, caja
-- Manejo cómodo: Diseño ligero y motor potente para recortar sin esfuerzo y de manera sencilla
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09LM6WK5M{{</world>}}

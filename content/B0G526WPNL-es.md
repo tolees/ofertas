@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- <br>Recomendado para su uso con: comdora portátil
-- . <br>Tecnología de sensor de movimiento: optical
 - La siguiente información se aplica a cada unidad del paquete
-- <br>
-- <br>Interfaz del dispositivo: USB
+- . <br>Tecnología de sensor de movimiento: optical
 - <br>Longitud del cable: 0,8 m. <br>Fuente de alimentación: cable
+- <br>Interfaz del dispositivo: USB
+- <br>
+- <br>Recomendado para su uso con: comdora portátil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G526WPNL{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dos modalidades diferentes: modo aprendizaje y modo juego. 30 minutos de contenido por libro y 20 locuciones por lámina.
-- En cada lámina hay unos 20 puntos interactivos sobre 10-20 imágenes (puede haber más de un punto sobre una misma imagen).
-- Libro interactivo que abarca los acontecimientos más importantes en la historia y la geografía mundial.
 - El sistema OID utiliza puntos invisibles impresos en las imágenes que, al ser leídos con el lápiz óptico, activan sonidos o animaciones. Esto permite que libros y materiales impresos interactúen de forma dinámica con el niño.
 - ¿Y si cada página tuviera algo que contar? Con EducaPen… cada página esconde un secreto… cada historia cobra vida… cada descubrimiento se convierte en aprendizaje.
+- Dos modalidades diferentes: modo aprendizaje y modo juego. 30 minutos de contenido por libro y 20 locuciones por lámina.
+- Libro interactivo que abarca los acontecimientos más importantes en la historia y la geografía mundial.
+- En cada lámina hay unos 20 puntos interactivos sobre 10-20 imágenes (puede haber más de un punto sobre una misma imagen).
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F5WZPQ94{{</world>}}

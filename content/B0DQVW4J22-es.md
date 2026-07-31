@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Con capucha
+- Felpa
+- Corte estándar
 - Largo estándar
 - Cierre de cremallera
-- Corte estándar
-- Felpa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DQVW4J22{{</world>}}

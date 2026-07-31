@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Compartimento principal con un bolsillo interior con cierre cremallera
 - Bolsillo frontal con cierre cremallera para guardar los accesorios más pequeños
-- Bandolera de 12 cm x 17 cm x 2,5 cm fabricada en poliéster
 - Bandolera ajustable para óptima comodidad
+- Bandolera de 12 cm x 17 cm x 2,5 cm fabricada en poliéster
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BTMJ4C9M{{</world>}}

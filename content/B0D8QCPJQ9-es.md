@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Color: Plata
 - Material: Acero inoxidable Acero inoxidable
 - Acabado: Combo
-- Color: Plata
 - Talla: 8 ,9 ,10 ,11 ,12
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'THE NORTH FACE - Camiseta para Hombre Half Dome - Manga Larga - TNF Black M'
-date: 2026-06-24 13:34:21
+title: 'The North Face Half Dome Manga Larga TNF Black M'
+date: 2026-07-30 17:27:17
 image: 'https://m.media-amazon.com/images/I/315bgAcT0uL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0D53GBYBK-es THE NORTH FACE - Camiseta para Hombre Half Dome - Manga...'
+slug: 'B0D53GBYBK-es The North Face Half Dome Manga Larga TNF Black M'
 sku: 'B0D53GBYBK-es'
 tags: [ '🇪🇸', ]
-actualPrice: 18.0 EUR
+actualPrice: 22.5 EUR
 currency: EUR
-price: 18.0
+price: 22.5
 comparePrice: 45.0 EUR
-prodname: 'THE NORTH FACE - Camiseta para Hombre Half Dome - Manga Larga - TNF Black M'
+prodname: 'The North Face Half Dome Manga Larga TNF Black M'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0D53GBYBK/?tag=tolees-21'
-descuento: '60.00'
-average: '19.125'
+descuento: '50.00'
+average: '20.25'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Imprescindible en Tu Armario: Camiseta de manga larga con cuello redondo, perfecta para tus escapadas de fin de semana
-- Logotipo Icónico: Se muestra el emblemático logo de The North Face
-- 100% Algodón: Una prenda ideal para las aventuras cotidianas
-- Never Stop Exploring: Todos los productos The North Face están diseñados para la intemperie, con el foco puesto en la calidad y en el estilo
 - Fácil de Llevar, Fácil de Cuidar: Solo tienes que meterlo en la lavadora con colores similares
+- Imprescindible en Tu Armario: Camiseta de manga larga con cuello redondo, perfecta para tus escapadas de fin de semana
+- Never Stop Exploring: Todos los productos The North Face están diseñados para la intemperie, con el foco puesto en la calidad y en el estilo
+- 100% Algodón: Una prenda ideal para las aventuras cotidianas
+- Logotipo Icónico: Se muestra el emblemático logo de The North Face
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D53GBYBK{{</world>}}

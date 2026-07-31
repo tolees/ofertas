@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Certificado OEKO-TEX y apto para la piel: suave, seguro y cómodo para todo tipo de pieles, cumple con los más altos estándares de seguridad.
 - Sábana Ajustable - Incluye 1 sábana ajustable de 150x200cm con bolsillos de 35 cm de profundidad.
 - Elástico En Los Bordes: El elástico utilizado en la sábana bajera en los bordes hace que se adapte fácilmente al colchón a la vez que da un bonito acabado a la cama.
-- Sábana Bajera De Poliéster Microfibra Cepillado - Esta sábana bajera de lujo de 150 x 200 cm está fabricada con un tejido de microfibra cepillada que hace que la sábana bajera sea excepcionalmente suave, flexible y cómoda, manteniéndole caliente en invierno y fresco en verano.
 - Instrucciones De Cuidado - Lavar a máquina, secar en secadora o planchar a baja temperatura; no usar lejía.
+- Sábana Bajera De Poliéster Microfibra Cepillado - Esta sábana bajera de lujo de 150 x 200 cm está fabricada con un tejido de microfibra cepillada que hace que la sábana bajera sea excepcionalmente suave, flexible y cómoda, manteniéndole caliente en invierno y fresco en verano.
+- Certificado OEKO-TEX y apto para la piel: suave, seguro y cómodo para todo tipo de pieles, cumple con los más altos estándares de seguridad.
 - Resistente Al Encogimiento Y A La Decoloración - El material de microfibra se procesa para hacerlo resistente al encogimiento y a la decoloración, lo que aumenta la longevidad de la lámina manteniéndola en buenas condiciones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

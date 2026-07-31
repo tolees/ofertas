@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Apertura frontal con cremallera YKK completa
 - Logotipo HH bordado en el pecho
+- Apertura frontal con cremallera YKK completa
 - Costuras planas para un bajo volumen
 
 [🛒 Aquí!!!]({{< param buyurl >}})

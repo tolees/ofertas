@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Amortiguación LIGHTMOTION
-- Forro textil
-- Horma clásica
-- Empeine sintético y textil
 - Cierre de cordones
+- Amortiguación LIGHTMOTION
+- Horma clásica
+- Forro textil
 - Refuerzo de goma en el talón
+- Empeine sintético y textil
 - Suela de goma Adiwear
 
 [🛒 Aquí!!!]({{< param buyurl >}})

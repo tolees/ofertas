@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- MINIMARAVILLA – Este teclado ultracompacto con un factor de forma del 60 % incluye todas las funciones que necesitas y libera mucho espacio en el escritorio
-- NO FALTA NADA – Que sea pequeño no quiere decir que pierda prestaciones. Las teclas de función dual ofrecen la misma experiencia de tamaño completo en un formato más reducido
 - AL ROJO VIVO – Con los interruptores mecánicos lineales Outemu Red, disfruta de tu contenido. Probado para resistir hasta 50 millones de pulsaciones, este teclado acepta todo el gaming que haga falta
 - PARA GUSTOS, LOS COLORES – ¿No sabes con qué color quedarte? La retroiluminación RGB del teclado Acira incluye 16,8 millones de opciones, para que tu personalidad brille en cualquier color imaginable
+- MINIMARAVILLA – Este teclado ultracompacto con un factor de forma del 60 % incluye todas las funciones que necesitas y libera mucho espacio en el escritorio
+- NO FALTA NADA – Que sea pequeño no quiere decir que pierda prestaciones. Las teclas de función dual ofrecen la misma experiencia de tamaño completo en un formato más reducido
 - COMO QUIERAS – Aprovecha el teclado Acira al máximo gracias a su software incluido, con el que personalizar la iluminación y las teclas a tu gusto. ¡No será por estilo!
 
 [🛒 Comprar!!!]({{< param buyurl >}})

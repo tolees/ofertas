@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- RÁPIDO: La superficie se cura en 30 segundos o menos. El tiempo de secado puede ser mayor en función del tipo y el grosor de resina
 - FIJA: Una vez que hayas terminado de crear tu Make It Mini, cúralo con la luz UV Miniverse de MGA. No apto para niños menores de 14 años
+- RÁPIDO: La superficie se cura en 30 segundos o menos. El tiempo de secado puede ser mayor en función del tipo y el grosor de resina
+- PILAS: Esta bonita luz UV necesita una pila AA (no incluida)
 - LUZ UV MAKE IT MINI: Cura tus Make It Minis más rápido con la luz UV oficial de Miniverse Make It Mini de MGA
 - FÁCIL DE USAR: Se maneja con un solo botón, lo que facilita su uso
-- PILAS: Esta bonita luz UV necesita una pila AA (no incluida)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CVQBQ5VN{{</world>}}

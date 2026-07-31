@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Muy cómodos – Los pantalones de deporte tienen una cintura elástica con cordón interior y la chaqueta de deporte tiene puños elásticos revestidos.
 - Material y forma – Under Armour UA Challenger Tracksuit Chándal deportivo para hombre con pantalones de chándal de forma cónica y chaqueta, ropa de deporte. Material: 100% poliéster. Forma: entallada.
 - Útil conjunto deportivo– Este cómodo chándal de hombre consta de una chaqueta de deporte y unos pantalones largos, ambos hechos de un tejido suave.
+- Muy cómodos – Los pantalones de deporte tienen una cintura elástica con cordón interior y la chaqueta de deporte tiene puños elásticos revestidos.
 - Prácticos bolsillos – La chaqueta de chándal tiene bolsillos seguros con cremallera para guardar los objetos de valor durante la actividad deportiva.
 - Cálido y seco – Este chándal completo está fabricado con un ligero tejido de punto transpirable que aleja el sudor del cuerpo y se seca muy rápido.
 

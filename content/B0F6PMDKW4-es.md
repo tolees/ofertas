@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tommy Hilfiger Bandera bordada en el pecho
-- Cinta adhesiva en la nuca
 - Tommy Hilfiger Marca:
+- Cinta adhesiva en la nuca
+- Tommy Hilfiger Bandera bordada en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F6PMDKW4{{</world>}}

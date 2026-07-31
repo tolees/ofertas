@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - ALTAVOCES ESTÉREO INTEGRADOS & REPRODUCTOR MULTIMEDIA: Los altavoces estéreo integrados de 2x2W ofrecen sonido claro sin necesidad de equipos externos. El reproductor multimedia permite reproducir vídeos, música y fotos directamente desde USB, MicroSD o disco duro externo
-- ENFOQUE MANUAL, CORRECCIÓN KEYSTONE & MANDO A DISTANCIA: Ajuste fácilmente la nitidez y el ángulo de proyección mediante enfoque manual y corrección trapezoidal. El mando a distancia incluido proporciona un manejo cómodo y práctico.
-- MÚLTIPLES CONEXIONES PARA SMARTPHONE, PC, CONSOLA & MÁS: Equipado con puertos HDMI, VGA, AV, USB y MicroSD, el proyector LED es compatible con portátil, TV Box, consola de juegos, memorias USB, discos duros externos y muchos otros dispositivos multimedia
-- 1800 LÚMENES, TECNOLOGÍA LED & VIDA ÚTIL DE 40.000 HORAS: El proyector portátil ofrece imágenes brillantes con 1800 lúmenes, contraste 2000:1 y larga duración LED de hasta 40.000 horas. Perfecto para cine en casa, gaming y presentaciones en ambientes oscuros
 - MINI PROYECTOR LED CON PANTALLA DE HASTA 176 PULGADAS: El Technaxx TX-113 convierte salón, dormitorio o jardín en un auténtico cine en casa. Con tamaño de proyección de 32" a 176", este mini proyector es ideal para películas, series, videojuegos, deportes y entretenimiento multimedia
+- 1800 LÚMENES, TECNOLOGÍA LED & VIDA ÚTIL DE 40.000 HORAS: El proyector portátil ofrece imágenes brillantes con 1800 lúmenes, contraste 2000:1 y larga duración LED de hasta 40.000 horas. Perfecto para cine en casa, gaming y presentaciones en ambientes oscuros
+- MÚLTIPLES CONEXIONES PARA SMARTPHONE, PC, CONSOLA & MÁS: Equipado con puertos HDMI, VGA, AV, USB y MicroSD, el proyector LED es compatible con portátil, TV Box, consola de juegos, memorias USB, discos duros externos y muchos otros dispositivos multimedia
+- ENFOQUE MANUAL, CORRECCIÓN KEYSTONE & MANDO A DISTANCIA: Ajuste fácilmente la nitidez y el ángulo de proyección mediante enfoque manual y corrección trapezoidal. El mando a distancia incluido proporciona un manejo cómodo y práctico.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07H3KFGGM{{</world>}}

@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Contenido de la caja: teclado y ratón HP 230, aviso sobre el producto, tarjeta de garantía, R.E.D., tarjeta RTF
 - Sistemas operativos compatibles: Windows 7, Windows 8, Windows 10 y mac OS 10.1 o superior
-- Olvídate de los cables, reduce el desorden y disfruta de la libertad de movimiento sin retardo que ofrece la conexión inalámbrica a 2,4 GHz
-- La batería es de gran duración, aguanta hasta 16 meses en el teclado y hasta 12 meses en el ratón
 - Combinación perfecta entre confort y durabilidad, afronta cualquier tarea con la durabilidad de este ratón que ha sido diseñado para brindar tranquilidad
+- La batería es de gran duración, aguanta hasta 16 meses en el teclado y hasta 12 meses en el ratón
+- Olvídate de los cables, reduce el desorden y disfruta de la libertad de movimiento sin retardo que ofrece la conexión inalámbrica a 2,4 GHz
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09FNRYNY4{{</world>}}

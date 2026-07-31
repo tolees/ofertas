@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantilla: plantilla de EVA moldeada con cubierta superior sintética.
+- Parte superior: disponible en tejido ligero con superposiciones de ante y cuero (CW 010, 102, 165).
 - Suela intermedia: EVA moldeada ligera.
 - PERFIL: Comenzando la cuenta atrás, motores encendidos, control de tierra a gran estilo. Estos tenis inspirados en corredores de los años 70 son mucho más que retro. Combinando los colores y materiales de la firma SOREL con un lenguaje de diseño KINETIC atrevido, hemos creado una silueta totalmente fresca
 - Suela: compuesto moldeado XS TREK EVO Vibram
-- Parte superior: disponible en tejido ligero con superposiciones de ante y cuero (CW 010, 102, 165).
+- Plantilla: plantilla de EVA moldeada con cubierta superior sintética.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F85YC2H1{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ESTUDIO CLÍNICO INSTRUMENTAL: Realizado en voluntarios con resultados después de 8 semanas. El 86% y 82% mostró mejora en la luminosidad y suavidad y un 78% una reducción de la hiperpigmentación.
+- VITAMINA C: Sérum con 15 % de Vitamina C estabilizada para uso diario en todos los tipos de piel. Este serum de vitamina C para la cara viene en una botella de cristal con un dosificador de gotero.
+- ADIÓS A LAS MANCHAS: Tiene propiedades antioxidantes que ayudarán a deshinchar, a unificar el tono de la piel y a reducir la hiperpigmentación. Con el tiempo las manchas serán menos visibles.
 - NO DESPERDICIES NI UNA GOTA: Nuestro serum de vitamina C facial viene en un packaging de cristal suave al tacto, con un gotero que pemite extraer la cantidad exacta de producto.
 - PIEL FELIZ: Un glow saludable al momento, ilumina la piel y reduce las marcas con el tiempo. Espera 5 minutos para que la fórmula penetre en la piel antes de aplicar tu crema hidratante.
-- ADIÓS A LAS MANCHAS: Tiene propiedades antioxidantes que ayudarán a deshinchar, a unificar el tono de la piel y a reducir la hiperpigmentación. Con el tiempo las manchas serán menos visibles.
-- VITAMINA C: Sérum con 15 % de Vitamina C estabilizada para uso diario en todos los tipos de piel. Este serum de vitamina C para la cara viene en una botella de cristal con un dosificador de gotero.
+- ESTUDIO CLÍNICO INSTRUMENTAL: Realizado en voluntarios con resultados después de 8 semanas. El 86% y 82% mostró mejora en la luminosidad y suavidad y un 78% una reducción de la hiperpigmentación.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BBG6GRLG{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 💦 LÍNEA HYDRO BOOST: Línea de skincare VEGANA formulada para proporcionar una hidratación intensa y liviana, brindando una apariencia de piel renovada y estable.
 - 🌱 CREMA PARA LOS OJOS: Crema vegana para los ojos que contiene 1% de manteca de karité para nutrir profundamente la piel del área de los ojos, mientras que el pantenol, el ácido hialurónico y el complejo V11 calman y mejoran la barrera de la piel para una apariencia radiante.
 - 🌿FÓRMULA ESPECIAL: 92% de Ingredientes Naturales con complejo V11 al 11% para un cuidado específico del contorno de los ojos. Village 11 Factory utiliza principalmente ingredientes derivados de plantas con una formulación suave para proteger su piel del daño ambiental.
 - 💧TEXTURA: Una crema de textura rica apta para todo tipo de pieles, con una textura que combina perfectamente con las pieles grasas, una crema que deja la piel hidratada, sin acabado pesado y equilibrada, dando una piel sana.
 - 🌼 COMPLEJO V11 + 8 TIPOS DE ÁCIDO HIALURÓNICO + EXTRACTO DE MANZANILLA
-- 💦 LÍNEA HYDRO BOOST: Línea de skincare VEGANA formulada para proporcionar una hidratación intensa y liviana, brindando una apariencia de piel renovada y estable.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BJKKTVXB{{</world>}}

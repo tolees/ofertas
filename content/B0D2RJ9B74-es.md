@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Composición tejido: exterior y forro interior de poliéster. Medidas: 22 x 12 x 4 cm.
-- La cremallera exterior facilita el acceso a 4 bolsillos interiores y una cremallera central, para guardar cada cosa en su compartimento.
 - Con forro interior de color negro.
 - Estuche portatodo con 2 cremalleras y 5 compartimentos.
+- La cremallera exterior facilita el acceso a 4 bolsillos interiores y una cremallera central, para guardar cada cosa en su compartimento.
+- Composición tejido: exterior y forro interior de poliéster. Medidas: 22 x 12 x 4 cm.
 - erie especial Aliens multicolor, con un alegre estampado de alienígenas apilados, con los mismos personajes que el juguete educativo de madera Aliens Tower.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

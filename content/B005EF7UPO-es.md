@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Botón de bloqueo para facilitar el trabajo continuo
 - Diseño en línea con la broca para una eficiente transmisión de la presión
-- Selector de cambio del modo de trabajo de "sólo rotación" a "rotación Portabrocas automático|Mango ergonómico que se adapta a la mano facilitando el trabajo|Potencia absorbida (W): 710|R.P.M. en vacío: 0-3.200|Golpes por minuto: 0-48.000|Capacidad máxima (mm): hormigón 16|Capacidad máxima (mm): acero 13|Capacidad máxima (mm): madera 30|Peso: 1 9 kg|Maletín 824811-7|Empuñadura lateral 153503-4|Empuñadura auxiliar 192692-0
 - Nuevo sistema de cambio de giro que permite cambiar la posición de las escobillas respecto del inducido consiguiendo así más potencia y alargando la vida útil de las mismas 3 veces más de lo habitual
+- Selector de cambio del modo de trabajo de "sólo rotación" a "rotación Portabrocas automático|Mango ergonómico que se adapta a la mano facilitando el trabajo|Potencia absorbida (W): 710|R.P.M. en vacío: 0-3.200|Golpes por minuto: 0-48.000|Capacidad máxima (mm): hormigón 16|Capacidad máxima (mm): acero 13|Capacidad máxima (mm): madera 30|Peso: 1 9 kg|Maletín 824811-7|Empuñadura lateral 153503-4|Empuñadura auxiliar 192692-0
+- Botón de bloqueo para facilitar el trabajo continuo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B005EF7UPO{{</world>}}

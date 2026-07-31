@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Empeine de ante y material sintético
-- Lengüeta acolchada
 - Horma clásica
+- Lengüeta acolchada
 - Cordones elásticos y cierre autoadherente
 
 [🛒 Visítala!!!]({{< param buyurl >}})

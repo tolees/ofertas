@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tamaño: al comprar sandalias Havaianas en Amazon, debes considerar la talla BR/proveedor como equivalente a la talla de la UE, independientemente de lo que se muestre en la suela del producto
 - Composición: tira: 100 % PVC + Logo: 100 % PVC. Suela: 100 % goma + serigrafía 100 % (sustrato, pintura, resinas y etiquetas)
-- Tipo de suela: cómoda, duradera, ligera, resistente al calor, antideslizante y resistente al agua
-- Color de las chanclas: gris acero
+- Tamaño: al comprar sandalias Havaianas en Amazon, debes considerar la talla BR/proveedor como equivalente a la talla de la UE, independientemente de lo que se muestre en la suela del producto
 - Género: zapatos de moda para niños
+- Color de las chanclas: gris acero
+- Tipo de suela: cómoda, duradera, ligera, resistente al calor, antideslizante y resistente al agua
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DBM4BPCX{{</world>}}

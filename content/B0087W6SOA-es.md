@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Anchura del zapato: Normal
+- Tipo de tacón: Plano
+- Material de la suela: Goma
 - Composición: Lona
 - Material exterior: Lona
-- Anchura del zapato: Normal
-- Material de la suela: Goma
-- Tipo de tacón: Plano
 - Cierre: Cordones
 - Revestimiento: Tela
 

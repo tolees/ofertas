@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Corte clásico
+- Cuello redondo
 - Tejido de punto
 - Pequeño logotipo debajo
-- Cuello redondo
 - Gran inscripción de inspiración universitaria en el pecho
 - 100% algodón
 

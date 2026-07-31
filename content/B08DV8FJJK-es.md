@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Delgado y recto
-- Bolsillo de pala
 - Tejido vaquero elástico
+- Bolsillo de pala
+- Delgado y recto
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08DV8FJJK{{</world>}}

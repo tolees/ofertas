@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- AEROREADY
 - Diseño New Lift
 - Tejido calado 100% poliéster reciclado
+- AEROREADY
 - Compra 1 talla más pequeña
 
 [🛒 Aquí!!!]({{< param buyurl >}})

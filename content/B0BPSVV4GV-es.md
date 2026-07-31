@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tres pares por paquete
-- Largo hasta el tobillo
 - Refuerzo en el arco plantar
+- Largo hasta el tobillo
+- Tres pares por paquete
 - Puntera sin costuras
 
 [🛒 Comprar!!!]({{< param buyurl >}})

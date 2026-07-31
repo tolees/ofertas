@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - La entresuela con tecnología ABZORB absorbe los impactos combinando amortiguación y resistencia a la compresión.
-- Logotipo “N” de TPU impreso
 - Detalles reflectantes
+- Logotipo “N” de TPU impreso
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FFN874HN{{</world>}}

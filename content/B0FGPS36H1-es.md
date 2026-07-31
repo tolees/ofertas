@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Horma clásica
 - Plantilla textil
+- Horma clásica
 - Empeine textil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

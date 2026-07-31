@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La parte superior contiene al menos un 50% de material reciclado
-- Parte superior de ripstop con refuerzos sintéticos
-- Mediasuela de EVA ligera
 - Compra 1 talla más grande
+- Mediasuela de EVA ligera
+- Parte superior de ripstop con refuerzos sintéticos
+- La parte superior contiene al menos un 50% de material reciclado
 - Forro textil
 - Suela Traxion
 

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 40 mangas exclusivas collect-it.de MY HOME OF CARDS + TOYS
 - Pegatinas para el Mundial 2026, paquete con mangas collect-it.de MY HOME OF CARDS + TOYS exclusivas
 - Recibirás un álbum de recortes y 10 bolsas para la Copa del Mundo 2026. 1 bolsa contiene 7 pegatinas.
-- 40 mangas exclusivas collect-it.de MY HOME OF CARDS + TOYS
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GY1LPJWS{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ESTILO COURT PARA EL DÍA A DÍA: Silueta clásica inspirada en la cancha, versátil para el uso diario.
 - COMODIDAD VERSÁTIL: Diseño ligero perfecto para caminar, uso casual o looks deportivos.
 - UPPER DE CUERO SINTÉTICO: Construcción duradera y fácil de limpiar para un estilo que dura.
+- ESTILO COURT PARA EL DÍA A DÍA: Silueta clásica inspirada en la cancha, versátil para el uso diario.
 - SUELA DE GOMA: Tracción fiable para un uso cómodo durante todo el día.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

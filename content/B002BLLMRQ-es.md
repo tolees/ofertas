@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CONSEJOS DE USO: Extender la barra sobre los labios siempre que sea necesario Utilizar solo o debajo de la barra de labios
-- RECOMENDACIONES:Combina con el resto de bálsamos, cremas y Aceites de Eight Hour para mantener tu piel hidratada, aliviada y protegida en todo momento
-- PROTECCIÓN UV: Además de sus beneficios hidratantes, este producto ayuda a proteger contra los efectos dañinos de la exposición a los rayos UV con FPS 15, garantizando unos labios saludables y protegidos en todo momento
 - COLOR E HIDRATACIÓN: Disponible en 4 preciosos tonos, este tratamiento labial para llevar ofrece un color hidratante y translúcido perfecto para el día a día Además, se presenta en una gama de tonos translúcidos que realzan la belleza natural de tus labios
+- CONSEJOS DE USO: Extender la barra sobre los labios siempre que sea necesario Utilizar solo o debajo de la barra de labios
+- PROTECCIÓN UV: Además de sus beneficios hidratantes, este producto ayuda a proteger contra los efectos dañinos de la exposición a los rayos UV con FPS 15, garantizando unos labios saludables y protegidos en todo momento
+- RECOMENDACIONES:Combina con el resto de bálsamos, cremas y Aceites de Eight Hour para mantener tu piel hidratada, aliviada y protegida en todo momento
 - PROTECTOR LABIAL EIGH HOUR: Regala a tus labios el cuidado que merecen con Eight Hour Care, un práctico tinte labial multiusos Su fórmula nutritiva hidrata profundamente, suaviza y alisa los labios, proporcionando un alivio efectivo contra las grietas y la sequedad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

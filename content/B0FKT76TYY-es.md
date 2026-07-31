@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los enemigos te hacen más fuerte
 - Espectaculares combates 3d
 - La mejor alineación de la historia
+- Los enemigos te hacen más fuerte
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FKT76TYY{{</world>}}

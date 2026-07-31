@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte en un denim cómodo lavado enzimático azul oscuro
 - 99 % algodón, 1 % elastano
+- Corte en un denim cómodo lavado enzimático azul oscuro
 - Este ajuste fácil a través de los muslos y un recto en la pierna es un verdadero favorito de los clientes con detalles atemporales de cinco bolsillos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

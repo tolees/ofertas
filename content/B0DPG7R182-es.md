@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello:
-- Etiqueta de bandera lateral
 - Impresión suave a mano en el bolsillo
+- Etiqueta de bandera lateral
+- Cuello:
 - Pockets: __ Chest Pocket
 
 [🛒 Visítala!!!]({{< param buyurl >}})

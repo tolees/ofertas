@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior reforzada y resistente
-- Suela con tacos para mayor agarre en terrenos mixtos.
-- Amortiguación ligera AMPLIFOAM
-- Gel en el talón para mayor protección
 - Ideal para niños y adolescentes en rutas mixtas
+- Gel en el talón para mayor protección
+- Suela con tacos para mayor agarre en terrenos mixtos.
+- Parte superior reforzada y resistente
+- Amortiguación ligera AMPLIFOAM
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F5BWN415{{</world>}}

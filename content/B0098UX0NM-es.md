@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Es impermeable y no absorbe olores
-- Hecho de polietileno
 - Adecuado para todo tipo de alimentos
+- Hecho de polietileno
 - Apta para lavavajillas a hasta 80° C
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

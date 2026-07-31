@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Centella Asiática de Madagascar: Aprovecha el poder de la Centella Asiática de Madagascar, reconocida por sus propiedades calmantes y curativas.
-- Fórmula iluminadora de tono: ilumina el tono de la piel y disminuye las manchas oscuras y la hiperpigmentación para una tez más uniforme.
-- Aumento de hidratación: Enriquecido con ingredientes hidratantes para reponer la humedad y dar volumen a la piel, dejándola suave y flexible.
-- Tecnología de ampolla de cápsulas: la innovadora tecnología de cápsulas preserva la frescura y la potencia de los ingredientes activos hasta su uso, asegurando la máxima eficacia.
 - Soporte de la barrera cutánea: fortalece la barrera natural de la piel para protegerla contra los agresores externos y prevenir la pérdida de humedad.
+- Tecnología de ampolla de cápsulas: la innovadora tecnología de cápsulas preserva la frescura y la potencia de los ingredientes activos hasta su uso, asegurando la máxima eficacia.
+- Fórmula iluminadora de tono: ilumina el tono de la piel y disminuye las manchas oscuras y la hiperpigmentación para una tez más uniforme.
+- Centella Asiática de Madagascar: Aprovecha el poder de la Centella Asiática de Madagascar, reconocida por sus propiedades calmantes y curativas.
+- Aumento de hidratación: Enriquecido con ingredientes hidratantes para reponer la humedad y dar volumen a la piel, dejándola suave y flexible.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09TLFY4GP{{</world>}}

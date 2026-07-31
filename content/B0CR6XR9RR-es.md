@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La montura RXable permite el uso de lentes graduadas
-- Tamaño grande y ajuste global
-- Elegante y glamurosa forma de mariposa
 - Patillas ajustables con bisagra de 5 cilindros para mayor estabilidad de la montura
 - El material de acetato garantiza ligereza, comodidad y durabilidad
+- Tamaño grande y ajuste global
+- Elegante y glamurosa forma de mariposa
+- La montura RXable permite el uso de lentes graduadas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CR6XR9RR{{</world>}}

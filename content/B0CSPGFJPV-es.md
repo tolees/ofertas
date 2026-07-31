@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricado con un lavado inteligente para garantizar un uso responsable del agua
 - Cintura baja
+- Fabricado con un lavado inteligente para garantizar un uso responsable del agua
 - Corte ajustado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

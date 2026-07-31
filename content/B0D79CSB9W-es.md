@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Material exterior: 75% poliéster reciclado - 25% sintético (80% TPU - 20% PU)
-- Suela: 100% caucho vulcanizado
 - Forro: 63% piel de cerdo - 37% tela (100% poliéster reciclado)
 - Color: gris pastel
+- Suela: 100% caucho vulcanizado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D79CSB9W{{</world>}}

@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - TAMAÑO MINI: Para los que necesitan ahorrar espacio en su mesa, mochila o escritorio sin perder durabilidad. Este set incluye marcadores tamaño pequeño.
 - PUNTA GRUESA DE 1,5 MM: Punta biselada que permite realizar trazos precisos y líneas anchas según la inclinación. Permite remarcar textos o resaltar títulos a la perfección.
-- PACK DE 6 SUBRAYADORES: Set completo de marcadores fluorescentes con 6 colores pastel: naranja, morado, amarillo, verde, rosa y azul. Perfectos para destacar información de forma clara y ordenada.
 - ESTUCHE PRÁCTICO Y RESISTENTE: Se sirve en un estuche transparente de plástico que permite mantener los subrayadores ordenados y protegidos. Ideal para colegio, instituto, en casa u oficina.
+- PACK DE 6 SUBRAYADORES: Set completo de marcadores fluorescentes con 6 colores pastel: naranja, morado, amarillo, verde, rosa y azul. Perfectos para destacar información de forma clara y ordenada.
 - TINTA FLUORESCENTE SUAVE Y UNIFORME: Su tinta es de alta calidad y ofrece un color intenso pero agradable a la vista, sin emborronar ni traspasar el papel. Apta para todo tipo de papel.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

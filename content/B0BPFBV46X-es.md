@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Rebote pro intersuola
-- Consejo con protección con forma
 - Zapato de tenis
+- Consejo con protección con forma
+- Rebote pro intersuola
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BPFBV46X{{</world>}}

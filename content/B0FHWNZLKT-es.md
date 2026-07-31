@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ANC: Ear (3) ajusta su Cancelación de Ruido Adaptativa en tiempo real, hasta 45 DB, analizando tu entorno cada 600 milisegundos y controlando las fugas de sonido para mantener el audio siempre claro. El Modo Transparencia integrado te permite escuchar el mundo exterior.
 - BATERÍA:Disfrutarás de hasta 5,5 horas de reproducción con Adaptive Noise Cancellation activada. El estuche amplía ese tiempo hasta 22 horas, sin necesidad de cables gracias a la carga inalámbrica integrada. Hasta 38 Horas con ANC apagada.
-- HI-RES: El audio inalámbrico de baja latencia y compatible con LDAC te mantiene inmerso en sonido de alta resolución, conectado en tus llamadas y siempre en sincronía al jugar. Además, el emparejamiento instantáneo con Android, Windows e iOS viene de serie.
 - SPATIAL AUDIO: La música y el cine se vuelven envolventes con Static Spatial Audio, que crea un paisaje sonoro en 3D y te coloca en el centro de todo lo que escuchas.
 - SUPER MIC: El estuche de carga de Ear (3) integra un revolucionario sistema de micrófonos dual con filtrado ambiental. Capta tu voz y elimina el resto del ruido - hasta 95 dB - para que tus llamadas y notas de voz suenen siempre nítidas
+- HI-RES: El audio inalámbrico de baja latencia y compatible con LDAC te mantiene inmerso en sonido de alta resolución, conectado en tus llamadas y siempre en sincronía al jugar. Además, el emparejamiento instantáneo con Android, Windows e iOS viene de serie.
+- ANC: Ear (3) ajusta su Cancelación de Ruido Adaptativa en tiempo real, hasta 45 DB, analizando tu entorno cada 600 milisegundos y controlando las fugas de sonido para mantener el audio siempre claro. El Modo Transparencia integrado te permite escuchar el mundo exterior.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FHWNZLKT{{</world>}}

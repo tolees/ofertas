@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Color negro-rojo
-- Amperios/Voltaje: 13A / 230V
-- Apto para uso en bricolaje y jardinería
-- Sistema de protección infantil
 - Potencia máxima: 3000 W
-- Cable HO5VV - F 3G 1.5 mm de 50 metros de largo
-- Enrollacables Brico de 4 tomas Schuko con asa para transporte
 - Protección de sobrecarga de rearme
+- Cable HO5VV - F 3G 1.5 mm de 50 metros de largo
+- Sistema de protección infantil
+- Amperios/Voltaje: 13A / 230V
+- Color negro-rojo
+- Apto para uso en bricolaje y jardinería
+- Enrollacables Brico de 4 tomas Schuko con asa para transporte
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0108GS4XU{{</world>}}

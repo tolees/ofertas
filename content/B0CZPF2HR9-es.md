@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contiene al menos un 70% de material reciclado y renovable
 - 50% poliéster (reciclado) / 25% algodón / 25% viscosa
-- Talle alto
+- Contiene al menos un 70% de material reciclado y renovable
 - Corte holgado
+- Talle alto
 - Bolsillos frontales
 
 [🛒 Comprar!!!]({{< param buyurl >}})

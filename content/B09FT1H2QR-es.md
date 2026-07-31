@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Páginas interiores con líneas punteadas.
-- Tapa dura y encuadernación con espiral wire-o
-- Cuaderno de notas fabricado en España y diseñado por UO en nuestro bonito estudio de Valencia.
-- CUADERNO A5 con 100 hojas (200 páginas) y diseño exclusivo tanto en portada como en guarda (parte trasera de la portada).
-- Libretas bonitas para regalar.
 - TAMAÑO A5 15x22cm
+- Cuaderno de notas fabricado en España y diseñado por UO en nuestro bonito estudio de Valencia.
+- Libretas bonitas para regalar.
 - Esta bonita libreta de puntos es perfecta para hacer bullet journal, diario y estudio.
 - PAPEL extra opaco de 90gr con excelente calidad
+- CUADERNO A5 con 100 hojas (200 páginas) y diseño exclusivo tanto en portada como en guarda (parte trasera de la portada).
+- Páginas interiores con líneas punteadas.
+- Tapa dura y encuadernación con espiral wire-o
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09FT1H2QR{{</world>}}

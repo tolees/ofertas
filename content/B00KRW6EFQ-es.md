@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Para colorear las impresiones
 - Material compuesto
 - Colores surtidos
 - Marca: Epson
-- Para colorear las impresiones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00KRW6EFQ{{</world>}}

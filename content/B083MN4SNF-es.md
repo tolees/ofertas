@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto de calidad óptima
 - Tiene detalles distintivos de la marca
+- Producto de calidad óptima
 - Ofrece protección contra los rayos UV
 
 [🛒 Comprar!!!]({{< param buyurl >}})

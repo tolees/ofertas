@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- EA SPORTS F1 25 es el videojuego oficial del 2025 FIA Formula One World Championship. La Edición Estándar para PC se entrega mediante un código de descarga. Sólo se puede jugar en PC.
-- La Edicion Estandard incluye un renovado modo Mi Equipo y el emocionante tercer capítulo de Braking Point
 - Lleva el legado de Konnersport más allá de la historia de Braking Point: Por primera vez, puedes ampliar tu experiencia en Konnersport a través de otros modos de juego
+- La Edicion Estandard incluye un renovado modo Mi Equipo y el emocionante tercer capítulo de Braking Point
 - Disfruta del emocionante nuevo capítulo de Braking Point: Elige tu camino en el emocionante tercer capítulo de Braking Point, con diferentes objetivos para cada piloto en momentos clave de la historia
+- EA SPORTS F1 25 es el videojuego oficial del 2025 FIA Formula One World Championship. La Edición Estándar para PC se entrega mediante un código de descarga. Sólo se puede jugar en PC.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F22PT4PQ{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte holgado
-- 55 % algodón, 36% poliéster (100 % reciclado), 9 % viscosa
-- Cuello redondo
-- Logotipo de 3 barras impreso en goma
 - Estructura de felpa
+- Logotipo de 3 barras impreso en goma
+- 55 % algodón, 36% poliéster (100 % reciclado), 9 % viscosa
+- Corte holgado
+- Cuello redondo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F4RJHY5L{{</world>}}

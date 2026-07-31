@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estilo casual y cotidiano
 - Toques inspirados en el tenis
 - Ajuste regular
+- Estilo casual y cotidiano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DMPJNR9S{{</world>}}

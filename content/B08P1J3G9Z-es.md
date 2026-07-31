@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - MANTENGA LAS COSAS ORGANIZADAS: Construido con 1 bolsillo principal, 1 bolsillo frontal y 2 bolsillos laterales de malla. Dos compartimentos con cremallera. El bolsillo principal es lo suficientemente grande como para llevar lo que necesita en el viaje. El otro bolsillo es ideal para un acceso rápido, como efectivo, tarjetas de crédito y pasaporte. Dos grandes bolsillos laterales de malla para botellas de agua o paraguas.
-- OCASIÓN: Adecuado para excursiones de un día, caminatas de un día, caminatas diarias, ciclismo, cruceros, excursiones, deportes, escuela, camping y compras.
 - DURADERO: Hecho con material de poliéster resistente al agua y al desgarro de alta calidad. Cremallera metálica SBS resistente a la abrasión duradera. La correa de hombro ajustable transpirable, así como las costuras reforzadas proporcionan un rendimiento duradero. No expongas esta mochila al agua directamente.
+- OCASIÓN: Adecuado para excursiones de un día, caminatas de un día, caminatas diarias, ciclismo, cruceros, excursiones, deportes, escuela, camping y compras.
 - CONVENIENTE Y LIGERO (solo 130G): Tamaño desplegado: 8.27 x 6.30 x 13 inch (21 x 16 x 33 CM). Cabe en una bolsa ultra compacta. Es fácil de plegar en un bolsillo pequeño, empacarlo en su maleta, bolso o automóvil sin ocupar espacio, ultraligero y práctico.
 - COMPAÑERO PERFECTO PARA VIAJES: esta pequeña mochila es el compañero perfecto cuando estás fuera. Colores vibrantes y pueden ser utilizados por personas de diferentes edades, también un regalo perfecto para amigos y familiares.
 

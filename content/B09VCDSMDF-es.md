@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Acción purificadora con xilitol y otros ingredientes inhibidores de bacterias.
-- Úsalo en combinación con la pasta dental blanqueadora FLASH Speed ​​para obtener resultados óptimos.
-- Enjuagar con dos cucharaditas (8-10 ml o media boca llena) durante 60 segundos antes de cepillarse los dientes para lograr el máximo blanqueamiento.
 - La rutina ideal para el blanqueamiento de la sonrisa.
+- Enjuagar con dos cucharaditas (8-10 ml o media boca llena) durante 60 segundos antes de cepillarse los dientes para lograr el máximo blanqueamiento.
+- Úsalo en combinación con la pasta dental blanqueadora FLASH Speed ​​para obtener resultados óptimos.
+- Acción purificadora con xilitol y otros ingredientes inhibidores de bacterias.
 - Con PAP para una acción blanqueadora.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

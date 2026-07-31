@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido transpirable
 - Producto adecuado para los días de verano
+- Tejido transpirable
 - Ofrece comodidad y libertad de movimiento
 - Producto hecho con un material de calidad y resistente
 

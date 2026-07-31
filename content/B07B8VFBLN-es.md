@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- WIRELESS REMOTE – TELECOMANDO WIRELESS – Comodo telecomando compatto per la selezione dellingresso, la regolazione del volume e il controllo della traccia (Bluetooth).
-- BLUETOOTH V4.0 - La più recente tecnologia wireless per la riproduzione da telefoni, tablet o laptop
-- INGRESSI DIGITALI / ANALOGICI – RCA/Aux per PC, giradischi, ecc; Ottici/Coassiali per una connessione senza perdita di segnale; Bluetooth per comodità
 - CONTROLLO DEGLI ALTI/BASSI, LINEA SUBWOOFER OUT – egola i bassi, gli alti, il volume e aziona gli ingressi sul pannello posteriore. Hai bisogno di un po più di sprint? Aggiungi un subwoofer alla configurazione 2.0 semplicemente collegandolo al jack subwoofer out
+- INGRESSI DIGITALI / ANALOGICI – RCA/Aux per PC, giradischi, ecc; Ottici/Coassiali per una connessione senza perdita di segnale; Bluetooth per comodità
+- BLUETOOTH V4.0 - La più recente tecnologia wireless per la riproduzione da telefoni, tablet o laptop
+- WIRELESS REMOTE – TELECOMANDO WIRELESS – Comodo telecomando compatto per la selezione dellingresso, la regolazione del volume e il controllo della traccia (Bluetooth).
 - SERVICIO AL CLIENTE – Los componentes de calidad en sólidos casas de madera MDF están construidos para la eternidad. Brindamos un servicio al cliente continuo y un excelente soporte técnico por correo electrónico y otros medios para garantizar que tenga respuestas a sus preguntas sobre sus altavoces de alta fidelidad de estantería Edifier.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

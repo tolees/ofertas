@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste normal: Ajuste normal
 - Rib at Cuffs and Bottom Hem
 - Material: 60% algodón, 40% poliéster, 280 g/m2
+- Ajuste normal: Ajuste normal
 - Pockets: __ Kangaroo Pocket
 
 [🛒 Aquí!!!]({{< param buyurl >}})

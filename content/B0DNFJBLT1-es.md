@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- JERSEY DE ALGODÓN: el diseño de 100% algodón proporciona transpirabilidad natural para un uso cómodo
 - DETALLES: cintura elástica para una mayor flexibilidad y con cordón (cordón falso para la talla infantil)
+- JERSEY DE ALGODÓN: el diseño de 100% algodón proporciona transpirabilidad natural para un uso cómodo
 - CORTE ESTÁNDAR: Ajuste regular a través de la abertura de la cadera, el muslo y la pierna. Se ajusta por debajo de la cintura natural
 - JERSEY DE ALGODÓN: el diseño de 100% algodón proporciona transpirabilidad natural para un uso cómodo
 

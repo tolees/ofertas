@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - LIMPIEZA RÁPIDA TRAS COCINAR – Las parrillas esmaltadas extraíbles son aptas para las lavavajillas y la superficie de acero fácil de limpiar, facilitando el mantenimiento tras cada uso
-- RENDIMIENTO FIABLE EN EXTERIORES – Los paneles laterales resistentes al calor y la tapa abatible protegen la llama del viento, manteniendo una cocción estable en las escapadas en exterior
 - COCCIÓN POTENTE Y FLEXIBLE – Los dos quemadores de 2000 W con los mandos de control independientes permiten cocinar más rápido en el camping o el jardín, usando dos sartenes o cazuelas de hasta 24 cm
+- RENDIMIENTO FIABLE EN EXTERIORES – Los paneles laterales resistentes al calor y la tapa abatible protegen la llama del viento, manteniendo una cocción estable en las escapadas en exterior
 - CONEXIÓN DE GAS PRÁCTICA Y SEGURA – El sistema Easy Clic Plus para los cartuchos Campingaz CV 904 y 907 (no incluidos) permite un acople rápido y estable, ideal para montar la cocina portátil con facilidad durante los viajes
 - DISEÑO PLEGABLE Y FÁCIL TRANSPORTE – La cocina portátil con la tapa integrada que se pliega en el formato compacto, con el asa de transporte para guardar en el coche, la caravana o el equipo de camping sin ocupar el espacio
 

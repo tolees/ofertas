@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Suela de tracción flexible
 - Diseño ligero
 - Entresuela que absorbe los golpes
-- Suela de tracción flexible
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CNY54TLB{{</world>}}

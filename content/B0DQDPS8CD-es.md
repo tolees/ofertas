@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - PRÁCTICO: Cama paraguas y parque - Saco y funda extraíbles lavables a máquina a 30° - Compatible con sábanas bajeras de 120x60cm
-- GARANTÍA DE POR VIDA: Cama paraguas con garantía de por vida (registro antes de 2 meses en la web de la marca)
 - CÓMODO: Cómodo colchón con una densidad de 25kg/m3 - Desde el nacimiento hasta los 3 años (113x61cm)
 - NOMADA: Pequeña cuando plegada, esta cuna de viaje ocupará poco espacio en el maletero del coche - Bolsa de transporte incluida, para llevarla al hombro o en la mochila - Cuna paraguas ligera (7,5 kg)
+- GARANTÍA DE POR VIDA: Cama paraguas con garantía de por vida (registro antes de 2 meses en la web de la marca)
 - ÚNICO SISTEMA DE PLEGADO: Ultrafácil de plegar y desplegar gracias a su sistema de acordeón
 
 [🛒 Aquí!!!]({{< param buyurl >}})

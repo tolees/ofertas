@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dead Rising Deluxe Remaster ahora tiene función de guardado automático. ¿Necesitas ir al baño? No te preocupes... los guardados manuales siguen estando disponibles cuando necesites un respiro; todas las interacciones con los PNJ y los supervivientes tienen ahora voz; comportamientos de los PNJ nuevos y mejorados; efectos de iluminación y sombras en tiempo real; controles más intuitivos y fáciles de usar y nueva interfaz de usuario mejorada.
-- ¡Olá! ¡Bonjour! ¡Ciao! Por primera vez, Dead Rising Deluxe Remaster incluye doblaje para todos los personajes en español. El juego también tendrá subtítulos en 14 idiomas, incluidos el español.
-- Gráficos mejorados: Disfruta como nunca del centro comercial Willamette Parkview invadido por hordas de zombis en resolución 4K con una tasa de fotogramas de 60 FPS.
 - Modelos de personajes actualizados: Dead Rising Deluxe Remaster presenta nuevos modelos de personajes de alta calidad para Frank West, los psicópatas desquiciados, PNJ como Brad, Jessie, Isabela y la querida Madonna, los supervivientes del brote y las interminables oleadas de zombis.
+- Dead Rising Deluxe Remaster ahora tiene función de guardado automático. ¿Necesitas ir al baño? No te preocupes... los guardados manuales siguen estando disponibles cuando necesites un respiro; todas las interacciones con los PNJ y los supervivientes tienen ahora voz; comportamientos de los PNJ nuevos y mejorados; efectos de iluminación y sombras en tiempo real; controles más intuitivos y fáciles de usar y nueva interfaz de usuario mejorada.
+- Gráficos mejorados: Disfruta como nunca del centro comercial Willamette Parkview invadido por hordas de zombis en resolución 4K con una tasa de fotogramas de 60 FPS.
+- ¡Olá! ¡Bonjour! ¡Ciao! Por primera vez, Dead Rising Deluxe Remaster incluye doblaje para todos los personajes en español. El juego también tendrá subtítulos en 14 idiomas, incluidos el español.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DCNZZKJN{{</world>}}

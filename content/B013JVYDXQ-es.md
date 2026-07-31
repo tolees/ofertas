@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Queda justo por debajo de la cintura
 - Tiene bragueta con cremallera
+- Queda justo por debajo de la cintura
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B013JVYDXQ{{</world>}}

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sabor y aroma a frutas
+- Alta fermentación
 - Cerveza Rubia de estilo Blonde Ale. Alc. 5,4% vol.
+- Sabor y aroma a frutas
+- Caja de 12 botellas de 33cl
 - Amargor refrescante y floral
 - Rubia, con cuerpo denso
-- Caja de 12 botellas de 33cl
-- Alta fermentación
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07PH23G4S{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Entresuela estilo jogger que absorbe los golpes
 - Skechers Espuma viscoelástica refrigerada por aire
+- Entresuela estilo jogger que absorbe los golpes
 - Suela de tracción de goma flexible
 - Detalles del logotipo de Skechers
 

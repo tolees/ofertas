@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Vino rosado espumoso
 - Vino refrescante, goloso y de baja graduación alcohólica
-- Explora todos nuestros productos
 - con este vino se consigue un equilibrio de alcohol, acidez y dulzor, con aromas de fresa y frutos del bosque
+- Explora todos nuestros productos
+- Vino rosado espumoso
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BFX77DT9{{</world>}}

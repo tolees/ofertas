@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Malla transpirable y parte sintética
-- Entresuela visible con amortiguación de aire
 - Diseño ligero de tenis sin cordones
-- Parte delantera elástica con cordones y correa de velcro
+- Malla transpirable y parte sintética
 - Plantilla acolchada y cómoda
+- Entresuela visible con amortiguación de aire
+- Parte delantera elástica con cordones y correa de velcro
 - Suela de tracción flexible
 
 [🛒 Aquí!!!]({{< param buyurl >}})

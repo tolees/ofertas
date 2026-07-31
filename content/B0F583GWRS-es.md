@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Polo de manga larga a rayas con cuello de sarga de color de contraste y solapa
-- Puños acanalados y cinta interior tejida a rayas
 - Gráfico bordado en el pecho y etiqueta tejida con logotipo insertado en la costura lateral
+- Puños acanalados y cinta interior tejida a rayas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F583GWRS{{</world>}}

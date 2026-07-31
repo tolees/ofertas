@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Horma clásica
 - Desnivel de la mediasuela: 10 mm (talón: 32 mm, antepié: 22 mm)
+- Horma clásica
+- Cierre de cordones
+- Empeine de tejido ripstop con refuerzos
 - Plantilla OrthoLite
+- Peso: 350 g (talla 38 2/3)
 - Mediasuela de EVA LIGHTMOTION
 - Suela con compuesto de caucho Continental
-- Peso: 350 g (talla 38 2/3)
-- Empeine de tejido ripstop con refuerzos
-- Cierre de cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DHVXZQ2P{{</world>}}

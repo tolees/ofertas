@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Detalles de cuero y fantasía
 - Zapatillas deportivas/zapatillas de correr
 - Estilo retro
+- Detalles de cuero y fantasía
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CSPMCC4T{{</world>}}

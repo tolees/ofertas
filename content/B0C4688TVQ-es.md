@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Calidad probada de TAMIYA - Muchos años de experiencia, altos estándares y optimización constante: los vehículos teledirigidos del líder del mercado japonés TAMIYA son imprescindibles para cualquier modelista.
-- Chasis extremadamente robusto - El chasis TT-02 para principiantes del coche es especialmente estable y extremadamente adaptable gracias a las diferentes distancias entre ejes, relaciones de transmisión y distancia al suelo.
-- Incluido en la entrega - Además del cuerpo de policarbonato de alta calidad, el kit incluye el motor eléctrico 540, un controlador electrónico de velocidad y las instrucciones ilustradas detalladas.
 - Kit RC - El kit de alta calidad TAMIYA del Mercedes Benz a escala 1:10 garantiza un montón de horas de diversión construyendo y conduciendo gracias a su carrocería fiel al original y a sus numerosos componentes. La carrocería del coche RC se puede pintar individualmente.
 - Dimensiones - El modelo montado tiene las siguientes dimensiones: Longitud: 444 mm, Anchura: 185 mm, Altura: 125 mm. Accesorios necesarios: Mando a distancia con receptor, servo de dirección, pack de baterías NiMH de 7,2 V, cargador (500500091)
+- Chasis extremadamente robusto - El chasis TT-02 para principiantes del coche es especialmente estable y extremadamente adaptable gracias a las diferentes distancias entre ejes, relaciones de transmisión y distancia al suelo.
+- Incluido en la entrega - Además del cuerpo de policarbonato de alta calidad, el kit incluye el motor eléctrico 540, un controlador electrónico de velocidad y las instrucciones ilustradas detalladas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C4688TVQ{{</world>}}

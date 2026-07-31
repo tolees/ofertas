@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Servirse frio
+- Se trata de bebida aromática, dulce y ligera gracias a sus divertidas y refrescantes burbujas y su baja graduación alcohólica
+- La bebida chispeante de moda
 - Idoneo acompañamiento para cualquier aperitivo o cena ligera
 - Vino blanco espumoso
-- La bebida chispeante de moda
-- Se trata de bebida aromática, dulce y ligera gracias a sus divertidas y refrescantes burbujas y su baja graduación alcohólica
+- Servirse frio
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B092JWW82T{{</world>}}

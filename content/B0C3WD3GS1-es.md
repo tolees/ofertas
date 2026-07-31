@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- País de origen: DE
 - Número de artículo: teamGoal L blk
 - Descripción: teamGoal L blk
-- País de origen: DE
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C3WD3GS1{{</world>}}

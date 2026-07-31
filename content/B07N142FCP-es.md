@@ -29,12 +29,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tipo de tacón: Plano
-- Material exterior: Cuero sintético
-- Material de la suela: Sintético
 - Tipo de talla: Grande
+- Material exterior: Cuero sintético
 - Composición: Malla
-- Revestimiento: Tela
 - Cierre: Cordones
+- Material de la suela: Sintético
+- Revestimiento: Tela
 - Anchura del zapato: Medio
 
 [🛒 Visítala!!!]({{< param buyurl >}})

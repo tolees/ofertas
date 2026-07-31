@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Color: multicolor
 - Medidas: 27,3 x 26,7 x 14,3 centímetros
+- Color: multicolor
 - Referencia: S7124286
 - Juego de Mesa de la marca Hasbro
 - ¡Si buscas calidad al mejor precio no sigas buscando!

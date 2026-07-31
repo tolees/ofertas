@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puños : Puños doblados
+- Mangas : Mangas dobladas
+- Cuello : Cuello de tortuga
 - Manga : Manga corta
 - Cierre : Cierre de botones
-- Cuello : Cuello de tortuga
-- Mangas : Mangas dobladas
+- Puños : Puños doblados
 - Artículo : Vestido camisero
 - Bolsillos : Bolsillos en la pechera
 

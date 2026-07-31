@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aplicación precisa en solo una pasada
-- Esmalte de uñas de impacto, color brillante; con tecnología 3 en 1: base, color y top coat
 - Secado rápido en solo 60 segundos para que puedas ir de la piscina a la ciudad en un abrir y cerrar de ojos
 - Acabado impecable hasta 10 días
+- Aplicación precisa en solo una pasada
+- Esmalte de uñas de impacto, color brillante; con tecnología 3 en 1: base, color y top coat
 - Celebra el amor con esta gama de colores divertidos y joviales o tonos neutros brillantes
 
 [🛒 Aquí!!!]({{< param buyurl >}})

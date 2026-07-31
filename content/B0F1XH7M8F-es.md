@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Cordones
 - Suela de goma
 - Horma clásica
-- Plantilla textil
 - Empeine de piel y textil
+- Plantilla textil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F1XH7M8F{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DISEÑO ITALIANO: Ferplast es una empresa italiana y esta jaula ha sido diseñada íntegramente en Italia con el máximo cuidado y atención al detalle que distingue al Made in Italy.
-- ACCESORIOS INCLUIDOS: 1 comedero, 1 bebedero, 1 nido, 1 rueda, tubos transparentes y 2 estantes garantizan a uno o más ejemplares no sólo un suministro constante de alimento y agua, sino también lo necesario para divertirse y descansar. La puerta de entrada está equipada con un gancho de bloqueo para evitar fugas accidentales. Preparado para conexión mediante tuberías a otras jaulas o hábitats para roedores.
-- DIMENSIONES GENERALES : 46 x 29,5 x h 54 cm.
 - PRÁCTICO Y FUNCIONAL: Hábitat muy original, modular y diseñado para ser conectado a otras jaulas o hábitats. La jaula tiene una rejilla metálica pintada con una puerta equipada con cerradura de seguridad y un techo desmontable para facilitar la limpieza. El interior es espacioso y se desarrolla en dos plantas conectadas por una escalera. Equipado con todas las comodidades.
 - HÁBITAT IDEAL: Jaula para roedores espaciosa y modular. Perfecto para que tu mascota juegue y se sienta segura. La separación de los barrotes lo hace adecuado para: hámsters, ratones.
+- DIMENSIONES GENERALES : 46 x 29,5 x h 54 cm.
+- ACCESORIOS INCLUIDOS: 1 comedero, 1 bebedero, 1 nido, 1 rueda, tubos transparentes y 2 estantes garantizan a uno o más ejemplares no sólo un suministro constante de alimento y agua, sino también lo necesario para divertirse y descansar. La puerta de entrada está equipada con un gancho de bloqueo para evitar fugas accidentales. Preparado para conexión mediante tuberías a otras jaulas o hábitats para roedores.
+- DISEÑO ITALIANO: Ferplast es una empresa italiana y esta jaula ha sido diseñada íntegramente en Italia con el máximo cuidado y atención al detalle que distingue al Made in Italy.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B002TLRW6I{{</world>}}

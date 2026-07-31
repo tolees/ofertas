@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Composición: Textil
-- Cierre: Cordones
-- Anchura del zapato: Normal
-- Revestimiento: Tela
-- Tipo de talla: Talla estándar
-- Material exterior: Lona
 - Tipo de tacón: Plano
+- Composición: Textil
+- Tipo de talla: Talla estándar
+- Revestimiento: Tela
+- Material exterior: Lona
+- Cierre: Cordones
 - Material de la suela: Caucho
+- Anchura del zapato: Normal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00M0DZU8C{{</world>}}

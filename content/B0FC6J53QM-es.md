@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Features a Hidden Security Pocket with a concealed zipper and coin compartment
+- Gusset for extra comfort and mobility
+- Slim fit chino made with Airweave fabric featuring 4-way stretch and moisture wicking
 - Two front slant pockets, two back welt pockets and one hidden waistband pocket for phone or passport
 - Cool to Touch technology delivers a cooling sensation against the skin
-- Slim fit chino made with Airweave fabric featuring 4-way stretch and moisture wicking
-- Gusset for extra comfort and mobility
+- Features a Hidden Security Pocket with a concealed zipper and coin compartment
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FC6J53QM{{</world>}}

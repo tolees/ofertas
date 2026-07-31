@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - BUENO PARA LA GARGANTA Y LA NARIZ: Las Cápsulas Nariz-Garganta de Pranarôm son el reflejo natural a tener en cuenta en caso de molestias respiratorias; Úselas como alternativa natural
 - PRANARÔM, LA CIENCIA DE LOS ACEITES ESENCIALES: El laboratorio Pranarôm, experto en aceites esenciales, ofrece soluciones innovadoras y naturales diseñadas a partir de aceites esenciales quimiotipados, 100% puros, integrales y orgánicos
-- CURA DE 7 DÍAS: Estas cápsulas respiratorias son altamente biodisponibles y fáciles de tragar, ofreciendo así todos los beneficios de las plantas; se recomienda tomar 1 cápsula al principio o durante las comidas, 3 veces al día, durante 7 días
 - ACEITES ESENCIALES QUIMIOTIPADOS: La etiqueta HECT es una garantía de calidad que selecciona plantas certificadas botánicamente y garantiza un aceite esencial 100% puro y natural para su bienestar
+- CURA DE 7 DÍAS: Estas cápsulas respiratorias son altamente biodisponibles y fáciles de tragar, ofreciendo así todos los beneficios de las plantas; se recomienda tomar 1 cápsula al principio o durante las comidas, 3 veces al día, durante 7 días
 - FÓRMULA CON ACEITES ESENCIALES ORGÁNICOS: A base de una sinergia de aceites esenciales certificados orgánicos: limón y orégano vulgare, reconocido por sus propiedades para optimizar la respiración
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cierre: botones
+- Ajuste: entallado
+- Mezclilla elástica
 - Bermudas Cool Leisure para hombre
 - Modelo clásico de 5 bolsillos
-- Mezclilla elástica
-- Ajuste: entallado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C8PLQXVJ{{</world>}}

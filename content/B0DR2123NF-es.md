@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Composición: 60 por ciento de algodón 38 por ciento de poliéster y 2 por ciento de elastano
-- Instrucciones de cuidado: lavable a máquina
 - Ajuste: relajado
+- Instrucciones de cuidado: lavable a máquina
+- Composición: 60 por ciento de algodón 38 por ciento de poliéster y 2 por ciento de elastano
 - Pantalón largo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con capucha
+- Color: Liso
 - Múltiples bolsollos
 - Desigual
-- Fit: Utility
-- Color: Liso
+- Con capucha
 - Manga: Larga
+- Fit: Utility
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DTV7NVT4{{</world>}}

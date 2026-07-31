@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Horma clásica
-- Plantilla textil
-- Diseño de perfil fino
 - Logotipo lineal en la lengüeta y refuerzo del talón
-- Empeine de material sintético
 - Cordones
+- Plantilla textil
+- Empeine de material sintético
+- Horma clásica
+- Diseño de perfil fino
 - Suela de goma, estructura Cold Cement
 
 [🛒 Visítala!!!]({{< param buyurl >}})

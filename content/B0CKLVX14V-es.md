@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Forro textil
-- Compra 1 talla más grande
-- Suela de goma vulcanizada
 - Mediasuela con amortiguación
 - Parte superior de piel
+- Suela de goma vulcanizada
+- Compra 1 talla más grande
+- Forro textil
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CKLVX14V{{</world>}}

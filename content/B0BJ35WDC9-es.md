@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Formado por dos piezas: chaqueta y pantalón. La chaqueta, de manga larga y cuello alto, tiene cierre con cremallera completa para mayor comodidad. Incluye inserciones de bandas en las mangas superiores. El pantalón es largo y de corte recto.
-- 100% poliéster. Lavar a máquina a 30º.
 - CHÁNDALES DALCITO
 - Este conjunto de chándal exclusivo de Kappa de la colección deportiva es ideal para tu día a día, entrenar o preparar tus partidos.
-- Omini de Kappa bordado en contraste en el pecho y en la pierna izquierda del pantalón.
 - En el pantalón hay cintura elástica con cordón interior para mayor ajuste al cuerpo. También se incluyen bolsillos en la chaqueta (uno a cada lado) y en el pantalón (uno a cada lado).
+- Formado por dos piezas: chaqueta y pantalón. La chaqueta, de manga larga y cuello alto, tiene cierre con cremallera completa para mayor comodidad. Incluye inserciones de bandas en las mangas superiores. El pantalón es largo y de corte recto.
+- Omini de Kappa bordado en contraste en el pecho y en la pierna izquierda del pantalón.
+- 100% poliéster. Lavar a máquina a 30º.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BJ35WDC9{{</world>}}

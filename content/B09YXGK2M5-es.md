@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño de ojal actualizado
-- Cierre de cordones para un ajuste cómodo
 - Logotipo de PUMA N° 1 en la lengüeta
+- Cierre de cordones para un ajuste cómodo
 - Parte superior de gamuza
+- Diseño de ojal actualizado
 - Cuello acolchado y cosido
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color: dos tonos
 - Tipo de cierre: cierre de mosquetón
+- Color: dos tonos
 - Material: acero inoxidable
 - Acabado: pulido
 

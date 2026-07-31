@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cava de sabor agradable
 - Producto de calidad óptima
+- Cava de sabor agradable
 - Adecuado para regalar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

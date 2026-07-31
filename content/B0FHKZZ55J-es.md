@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sincronización sin límites: AMD FreeSync te permite trabajar con eficiencia en cualquier momento del día y, además, disfrutar de una reproducción fluida de juegos y vídeos, eliminando el tearing de la pantalla
 - Juega, crea, impacta: vive una experiencia impresionante con la pantalla de 23,8 con resolución FHD In-Plane Switching, relación de aspecto 16:9 y biseles ultradelgados en los cuatro lados que te abren las puertas a un mundo de creación de contenidos, juegos y entretenimiento
 - Disfruta de tu trabajo, tus juegos y tu creatividad: La tasa de refresco de 144 Hz y tiempo de respuesta G-to-G de 4 ms, te proporcionan imágenes fluidas, vívidas y realistas mientras disfrutas de escenas trepidantes durante el uso diario
 - Más conectividad, creatividad para el trabajo diario: el monitor Lenovo L24-4C se convierte en tu compañero para el uso diario con 1x HDMI 1.4, 1x VGA y 1x salida de audio (3,5 mm) para poder reproducir, ver o trabajar en diferentes dispositivos al mismo tiempo
 - Libera el poder del color: disfruta de colores vivos con una cobertura del 99 % del espacio de color sRGB, un área de cobertura de hasta el 112 %, y compatibilidad con 16,7 millones de colores, mientras disfrutas de tu trabajo, entretenimiento o juegos con una experiencia de color envolvente
+- Sincronización sin límites: AMD FreeSync te permite trabajar con eficiencia en cualquier momento del día y, además, disfrutar de una reproducción fluida de juegos y vídeos, eliminando el tearing de la pantalla
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FHKZZ55J{{</world>}}

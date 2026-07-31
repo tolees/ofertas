@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- De cuerda
 - Diseño inspirado en la tradición de los modelos de los años 70 para un look clásico.
 - Parte superior de gamuza, malla y nailon.
+- De cuerda
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FCNWFNMT{{</world>}}

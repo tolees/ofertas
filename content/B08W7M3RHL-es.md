@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tono rosa claro
 - Utiliza tu tono favorito con el Base Coat y Top Coat OPI Nail Lacquer
 - Manicura con hasta 7 días de duración
-- Resultados profesionales
-- Esmalte de uñas resistente a roturas
-- Aplicación fácil
+- Tono rosa claro
 - Acabado brillante y uniforme
+- Esmalte de uñas resistente a roturas
+- Resultados profesionales
+- Aplicación fácil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08W7M3RHL{{</world>}}

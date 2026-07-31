@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Spray de fácil aplicación
+- Aporta protección frente a la radiación solar y permite broncearse con seguridad
 - Esta leche en spray combina la facilidad de uso con una fórmula absolutamente vanguardista que garantiza una intensa acción de tratamiento y un bronceado rápido; contiene Unipertan, un complejo especial que acelera e intensifica el proceso de pigmentación de la piel; rica en vitamina E y betaglucano, energizantes y antienvejecimiento, y en valiosas sustancias hidratantes y nutritivas, mantiene la piel fresca, suave y lisa incluso después de una exposición prolongada al sol; fresca, absorbible rápidamente y resistente al agua, es el protector solar recomendada especialmente para deportistas
 - Textura ligera y de rápida absorción
-- Aporta protección frente a la radiación solar y permite broncearse con seguridad
-- Spray de fácil aplicación
 - Smart Sun Protection
 
 [🛒 Comprar!!!]({{< param buyurl >}})

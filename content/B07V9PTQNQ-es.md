@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tamaño Ideal: Con 13 cm de altura, esta figura es perfecta para exhibirla en tu espacio.
 - Son Goku de Dragon Ball: Esta figura presenta a Goku en una pose icónica y poderosa.
-- Perfecta para Coleccionistas de Dragon Ball: Los coleccionistas de Dragon Ball disfrutarán de esta representación emblemática de Goku.
-- Pose de Batalla: Goku está en una pose de batalla que refleja su espíritu luchador.
 - Wrath: Parte de la serie Wrath de Banpresto, esta figura destaca por su calidad y representación impactante de Goku.
+- Pose de Batalla: Goku está en una pose de batalla que refleja su espíritu luchador.
+- Tamaño Ideal: Con 13 cm de altura, esta figura es perfecta para exhibirla en tu espacio.
+- Perfecta para Coleccionistas de Dragon Ball: Los coleccionistas de Dragon Ball disfrutarán de esta representación emblemática de Goku.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07V9PTQNQ{{</world>}}

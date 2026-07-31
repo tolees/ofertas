@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Para mujer
-- Pure Micro N Café Latte
 - Lencería
+- Pure Micro N Café Latte
+- Para mujer
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C78ZMVPM{{</world>}}

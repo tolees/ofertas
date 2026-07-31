@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con una plantilla cómoda
 - Presentan un estilo informal
+- Con una plantilla cómoda
 - Disponen de una suave amortiguación
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Excelente protección: con el cierre deslizante de cerámica y la cámara de aceite, la bomba SP 16.000 Dirt está bien protegida y puede utilizarse de forma continua sin problemas
-- Excelente rendimiento: la bomba sumergible SP 16.000 Dirt de Kärcher logra bombear hasta 16.000 litros de agua por hora, incluso si se trata de agua sucia con partículas de hasta 20 mm
 - Versatilidad de uso: la bomba sumergible sirve para extraer agua de estanques de jardín, espacios inundados, bidones de lluvia o pequeñas excavaciones, con un nivel de agua restante de 25 mm
-- Entrega: Kärcher Bomba sumergible de agua sucia SP 16.000 Dirt, conexión Quick Connect y adaptador G 1 y G 1 1/2
 - Interruptor flotador de altura regulable: también se puede fijar a la bomba de extracción de agua para que esta funcione en modo manual y bombee el agua hasta conseguir el nivel de agua restante
+- Entrega: Kärcher Bomba sumergible de agua sucia SP 16.000 Dirt, conexión Quick Connect y adaptador G 1 y G 1 1/2
+- Excelente rendimiento: la bomba sumergible SP 16.000 Dirt de Kärcher logra bombear hasta 16.000 litros de agua por hora, incluso si se trata de agua sucia con partículas de hasta 20 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BXY6HFRG{{</world>}}

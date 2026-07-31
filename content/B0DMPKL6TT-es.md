@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo de archivo y caja de ventana
 - Suela de goma duradera
 - Perfil de corte bajo
 - Empeine de piel
+- Logotipo de archivo y caja de ventana
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DMPKL6TT{{</world>}}

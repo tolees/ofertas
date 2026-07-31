@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- SOFTABLE: Acolchado de neopreno extra suave sobre la nariz. El acolchado reduce el roce del perro, protege el piel del perro y sean cómodos y antideslizantes.
-- FUNCIÓN: Si tienes un perro, es bueno llevar un bozal. Puedas utilizarlo como la ayuda del adiestramiento cuando el perro estaría agresivo. Además, si tu perro tiene una lesión, puedes ponerle un bozal para que evite mordidas, ladrido y masticar, y garantize la interacción social segura.
 - POSIBILIDAD ADICIÓNAL: Conlleva el extra banda de cabeza a asegurar la posision del bozal. Evite quitar accidentalmente el bozal.
+- FUNCIÓN: Si tienes un perro, es bueno llevar un bozal. Puedas utilizarlo como la ayuda del adiestramiento cuando el perro estaría agresivo. Además, si tu perro tiene una lesión, puedes ponerle un bozal para que evite mordidas, ladrido y masticar, y garantize la interacción social segura.
+- SOFTABLE: Acolchado de neopreno extra suave sobre la nariz. El acolchado reduce el roce del perro, protege el piel del perro y sean cómodos y antideslizantes.
 - MEDICIÓN: Por favor! Revisa la imagen y elige el tamaño adecuado mientras mide la circunferencia de la boca y el cuello del perro. Si las medidas de su perro se aproximan a la maxima de una talla que le aconsaja eligir la talla siguiente.
 - AJUSTABLES: Se pueden ajustar la circunferencia de la boca y el cuello del perro. Al ajustar las 2 partes, puede dejar un espacio adecuado que permita tu perro comer y beber.
 

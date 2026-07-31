@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hojas de larga duración
-- Maquinilla desechable para hombre
 - Cabezal fijo
 - Dos hojas con revestimiento en cromo
+- Hojas de larga duración
+- Maquinilla desechable para hombre
 - Un excelente afeitado al alcance de tu mano
 
 [🛒 Comprar!!!]({{< param buyurl >}})

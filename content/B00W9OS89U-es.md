@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Base de enchufe múltiple con 6 tomas de corriente con protección contra el contacto accidental, colocados en un disposición de 45°, cable de 1,5m (H05VV-F 3G1,5)
-- Regleta enchufe múltiple para uso en interiores con interruptor de seguridad iluminado para encendido y apagado (bipolar) de mano/pie con un cable adicional para control flexible de 1,5m de largo
-- Volumen de suministro: 1x regleta enchufes Eco-Line Comfort Switch Plus antracita con interruptor de mano/pie, 6 tomas de corriente (2 permanentementes, 4 conmutables) - en la máxima calidad de brennenstuhl
 - Regleta de enchufes inteligente, que puede controlar 4 enchufes conmutables con el interruptor de mano/pie, 2 enchufes funcionan de forma permanente
+- Volumen de suministro: 1x regleta enchufes Eco-Line Comfort Switch Plus antracita con interruptor de mano/pie, 6 tomas de corriente (2 permanentementes, 4 conmutables) - en la máxima calidad de brennenstuhl
+- Regleta enchufe múltiple para uso en interiores con interruptor de seguridad iluminado para encendido y apagado (bipolar) de mano/pie con un cable adicional para control flexible de 1,5m de largo
+- Base de enchufe múltiple con 6 tomas de corriente con protección contra el contacto accidental, colocados en un disposición de 45°, cable de 1,5m (H05VV-F 3G1,5)
 - Regleta de enchufes con protección contra el contacto accidental incorporada: Unas pequeñas placas de plástico cierran los contactos de la toma de corriente
 
 [🛒 Comprar!!!]({{< param buyurl >}})

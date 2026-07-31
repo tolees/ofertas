@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ALTAMENTE PIGMENTADA: Presentada en un lujoso frasco de cristal con un aplicador gigante para un mayor control y menos desperdicio, esta base de maquillaje ofrece una cobertura altamente pigmentada que se puede aplicar en capas o difuminar para adaptarla a tu look
-- MODO DE EMPLEO: Aplicar con la ayuda del aplicador en la zona deseada. Difuminar con un pincel sintético o con una esponja húmeda. Para conseguir un mayor poder de permanencia, finaliza con un polvo fijador y un spray fijador para mantener el maquillaje en su sitio durante todo el día.
 - VEGANO Y LIBRE DE CRUELDAD: No contiene ningún ingrediente de origen animal. Aprobado por PETA como libre de pruebas en animales.
+- MODO DE EMPLEO: Aplicar con la ayuda del aplicador en la zona deseada. Difuminar con un pincel sintético o con una esponja húmeda. Para conseguir un mayor poder de permanencia, finaliza con un polvo fijador y un spray fijador para mantener el maquillaje en su sitio durante todo el día.
 - ADECUADO PARA TODO TIPO DE PIELES: Formulado para adaptarse a todo tipo de piel, el F1 es para tonos de piel claros con un subtono neutro
+- ALTAMENTE PIGMENTADA: Presentada en un lujoso frasco de cristal con un aplicador gigante para un mayor control y menos desperdicio, esta base de maquillaje ofrece una cobertura altamente pigmentada que se puede aplicar en capas o difuminar para adaptarla a tu look
 - BASE DE COBERTURA COMPLETA: Esta base de maquillaje ligera es versátil, no contiene aceites y es de cobertura total, disimulando perfectamente las imperfecciones
 
 [🛒 Aquí!!!]({{< param buyurl >}})

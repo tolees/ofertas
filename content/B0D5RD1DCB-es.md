@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalones cortos deportivos
 - Cómodos de llevar
+- Pantalones cortos deportivos
 - Proporciona una movilidad adecuada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

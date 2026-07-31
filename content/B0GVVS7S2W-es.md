@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Lleva suela de goma natural vulcanizada, cordones en crudo y tiene nuestro logo bordado a contraste.
-- Plantilla de alta confortabilidad.
-- Zapatilla unisex Low top piel canvas fabricada en 100% algodón con efecto lavado.
-- Talonera de ante con El Ganso bordado.
 - El lavado y tintado hacen que toda la zapatilla adquiera el color en toda su superficie.
+- Talonera de ante con El Ganso bordado.
+- Zapatilla unisex Low top piel canvas fabricada en 100% algodón con efecto lavado.
+- Plantilla de alta confortabilidad.
+- Lleva suela de goma natural vulcanizada, cordones en crudo y tiene nuestro logo bordado a contraste.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0GVVS7S2W{{</world>}}

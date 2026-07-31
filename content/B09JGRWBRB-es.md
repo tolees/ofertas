@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Serigrafía de alta densidad en la corona central del frente
 - Visera curvada
 - Paneles laterales y traseros hechos de malla de poliéster
 - __Tejido:__ Pieza delantera de poliéster acolchado
+- Serigrafía de alta densidad en la corona central del frente
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09JGRWBRB{{</world>}}

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tiene detalles distintivos de la marca
-- Prenda para varones adultos
 - Camiseta de uso diario
+- Prenda para varones adultos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B6952CLG{{</world>}}

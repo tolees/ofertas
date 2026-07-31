@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo de Levis en el pecho
 - Ajuste regular
+- Logotipo de Levis en el pecho
 - Mangas cortas y cuello redondo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Serum Facial con Baba de Caracol: Contiene 98% de Filtrado de Secreción de Caracol y 1.5% de ácido hialurónico, Betaina, Niacinamida. Este serum facial se absorbe rápidamente en la piel, calma al instante las irritaciones cutáneas, elimina suavemente las células muertas, promueve la renovación celular y hace que la piel brille con un aspecto natural y saludable.
-- Serum Antimanchas y Antiarrugas：Reduce visiblemente manchas oscuras y arrugas, unifica e ilumina el tono de la piel y refina su textura. Devuelve a la piel un brillo juvenil y un aspecto más joven y lleno de vitalidad.Es la elección perfecta para el skin care de zonas delicadas como el cuello y el contorno ojos.
 - Hidratante Facial y Skin Care: La mucina de caracol y el ácido hialurónico actúan en sinergia para proporcionar una doble hidratación profunda, fortalece y repara la piel dañada, y lleva la hidratacion hasta las capas más profundas. Especialmente adecuado para pieles secas, deshidratadas o con barrera cutánea dañada.
+- Serum Antimanchas y Antiarrugas：Reduce visiblemente manchas oscuras y arrugas, unifica e ilumina el tono de la piel y refina su textura. Devuelve a la piel un brillo juvenil y un aspecto más joven y lleno de vitalidad.Es la elección perfecta para el skin care de zonas delicadas como el cuello y el contorno ojos.
 - El serum facial que tranquiliza.: Su ingrediente principal es el extracto natural de baba de caracol, conocido por su bajo potencial alergénico. Adecuado para todo tipo de pieles, incluso las pieles sensibles pueden usarlo con confianza.
 - Recolección Humanitaria y Libre de Crueldad: La mucina baba de caracol recolecta mediante métodos seguros y ecológicos, sin dañar a los caracoles, y se formula científicamente en un serum facial de alta eficacia que garantiza resultados excepcionales.
 

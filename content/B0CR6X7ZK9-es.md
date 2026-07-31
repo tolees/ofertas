@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Diseñado en forma aviator para un aspecto clásico
 - Fabricado con acetato duradero y cómodo
 - Tamaño grande y ajuste global
-- Diseñado en forma aviator para un aspecto clásico
-- La montura RXable permite el uso de lentes graduadas
 - Patillas regulables para un ajuste perfecto
+- La montura RXable permite el uso de lentes graduadas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CR6X7ZK9{{</world>}}

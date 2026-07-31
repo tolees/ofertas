@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre de cremallera y cuello alzado
 - Corte clásico
 - Bolsillos con cremallera
+- Cierre de cremallera y cuello alzado
 - 100% poliéster (reciclado)
 - AEROREADY
 

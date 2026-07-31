@@ -28,19 +28,19 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Su visión nocturna de alta definición ofrece un contraste nítido, por lo que no te perderás ningún detalle de lo que ocurra en el exterior, incluso después de que oscurezca.
-- Ve, escucha y habla con tus visitas desde cualquier sitio; recibe notificaciones en tiempo real para saber siempre si alguien se ha pasado por casa.
-- Con su diseño fino, elegante e impermeable, el videotimbre exterior combina a la perfección con el estilo de cualquier casa.
-- Ve, escucha y habla con tus visitas desde cualquier sitio; recibe notificaciones en tiempo real para saber siempre si alguien se ha pasado por casa.
-- MÁS VISIÓN,MÁS INFORMACIÓNY MÁS PROTECCIÓN: guarda las grabaciones de tus vídeos hasta 180 días para volver a verlas en cualquier momento, recibe alertas cuando se detecte a una persona y mucho más con una suscripción a Ring Home (a la venta por separado)*.
-- Videotimbre cableado HD 1080p impermeable con comunicación bidireccional, detección de movimiento avanzada, conectividad estándar de 2,4 Ghz y configuración de privacidad personalizable.
-- Para una alimentación ininterrumpida, conéctalo al cableado de tu sistema de timbre actual, si es compatible, o elige el lote con adaptador de enchufe para conectarlo a una toma de corriente estándar.
-- Con su diseño fino, elegante e impermeable, el videotimbre exterior combina a la perfección con el estilo de cualquier casa.
 - Recibe notificaciones al instante directamente en tu teléfono, dispositivo Alexa o Ring Chime cuando alguien llame al timbre o esté frente a tu puerta y active los sensores de movimiento. Así siempre podrás saber si alguien se ha pasado por casa.
+- Recibe notificaciones al instante directamente en tu teléfono, dispositivo Alexa o Ring Chime cuando alguien llame al timbre o esté frente a tu puerta y active los sensores de movimiento. Así siempre podrás saber si alguien se ha pasado por casa.
+- Con su diseño fino, elegante e impermeable, el videotimbre exterior combina a la perfección con el estilo de cualquier casa.
 - Su visión nocturna de alta definición ofrece un contraste nítido, por lo que no te perderás ningún detalle de lo que ocurra en el exterior, incluso después de que oscurezca.
 - Para una alimentación ininterrumpida, conéctalo al cableado de tu sistema de timbre actual, si es compatible, o elige el lote con adaptador de enchufe para conectarlo a una toma de corriente estándar.
-- Recibe notificaciones al instante directamente en tu teléfono, dispositivo Alexa o Ring Chime cuando alguien llame al timbre o esté frente a tu puerta y active los sensores de movimiento. Así siempre podrás saber si alguien se ha pasado por casa.
 - Para poder escuchar las notificaciones de audio en tu casa, tienes que vincularlo a un Ring Chime o a un dispositivo compatible con Alexa integrada. También puedes comprar el paquete del Videotimbre cableado Ring con el Chime. Una vez que el Videotimbre cableado Ring esté instalado, el timbre de tu casa ya no sonará.
+- Con su diseño fino, elegante e impermeable, el videotimbre exterior combina a la perfección con el estilo de cualquier casa.
+- Su visión nocturna de alta definición ofrece un contraste nítido, por lo que no te perderás ningún detalle de lo que ocurra en el exterior, incluso después de que oscurezca.
+- MÁS VISIÓN,MÁS INFORMACIÓNY MÁS PROTECCIÓN: guarda las grabaciones de tus vídeos hasta 180 días para volver a verlas en cualquier momento, recibe alertas cuando se detecte a una persona y mucho más con una suscripción a Ring Home (a la venta por separado)*.
+- Ve, escucha y habla con tus visitas desde cualquier sitio; recibe notificaciones en tiempo real para saber siempre si alguien se ha pasado por casa.
+- Para una alimentación ininterrumpida, conéctalo al cableado de tu sistema de timbre actual, si es compatible, o elige el lote con adaptador de enchufe para conectarlo a una toma de corriente estándar.
+- Videotimbre cableado HD 1080p impermeable con comunicación bidireccional, detección de movimiento avanzada, conectividad estándar de 2,4 Ghz y configuración de privacidad personalizable.
+- Ve, escucha y habla con tus visitas desde cualquier sitio; recibe notificaciones en tiempo real para saber siempre si alguien se ha pasado por casa.
 - Videotimbre cableado HD 1080p impermeable con comunicación bidireccional, detección de movimiento avanzada, conectividad estándar de 2,4 Ghz y configuración de privacidad personalizable.
 - Para poder escuchar las notificaciones de audio en tu casa, tienes que vincularlo a un Ring Chime o a un dispositivo compatible con Alexa integrada. También puedes comprar el paquete del Videotimbre cableado Ring con el Chime. Una vez que el Videotimbre cableado Ring esté instalado, el timbre de tu casa ya no sonará.
 

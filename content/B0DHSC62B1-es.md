@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El 88 % de las zonas secas se siente menos áspera después de 28 días****. **** Autoevaluación, 85 sujetos, 2 veces al día durante 28 días.
-- El 71 % de las zonas secas se siente menos áspera al instante***. *** Autoevaluación, 91 sujetos, 2 veces al día durante 28 días.
-- Fórmula ultraconcentrada con solo 14 ingredientes, testada en pieles sensibles.
-- Alisa visiblemente la apariencia de la piel desde la primera aplicación: +34 % de suavidad después de 30 min*. *Estudio clínico, 44 sujetos tras una aplicación.
 - Aumenta al instante la hidratación de la piel que dura 48 horas y restaura la sensación de confort de la piel**. ** Test instrumental, 24 sujetos.
+- El 71 % de las zonas secas se siente menos áspera al instante***. *** Autoevaluación, 91 sujetos, 2 veces al día durante 28 días.
+- El 88 % de las zonas secas se siente menos áspera después de 28 días****. **** Autoevaluación, 85 sujetos, 2 veces al día durante 28 días.
+- Alisa visiblemente la apariencia de la piel desde la primera aplicación: +34 % de suavidad después de 30 min*. *Estudio clínico, 44 sujetos tras una aplicación.
+- Fórmula ultraconcentrada con solo 14 ingredientes, testada en pieles sensibles.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHSC62B1{{</world>}}

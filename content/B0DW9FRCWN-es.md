@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Fit: Sliim
-- Desigual
-- Cuello: Redondo
-- Largo: Corto
-- Manga: Larga
 - Estampado Floral
+- Desigual
+- Manga: Larga
+- Largo: Corto
+- Cuello: Redondo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DW9FRCWN{{</world>}}

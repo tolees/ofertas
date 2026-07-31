@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Lot de 3 spots encastrables blancs: Ce lot spot encastrable au design moderne et discret est idéal pour une lumière d’ambiance dans les salons, couloirs ou cuisines sans alourdir la décoration
-- Instalación rápida y flexible: Con medidas de montaje de Ø68x30mm, cada foco empotrable techo es fácil de instalar y se adapta sin esfuerzo a reformas o nuevas construcciones de interiores
-- Diseño orientable para luz personalizada: Gracias a su función ajustable, estos focos para empotrar en techo permiten enfocar la luz hacia zonas de trabajo, muebles o elementos decorativos
 - Tamaño compacto y discreto: Con un diámetro de Ø80mm y una profundidad de solo 22mm, estas lamparas empotradas techo se integran perfectamente en techos sin ocupar espacio visual
 - Compatibles con bombillas GU10: Estos focos empotrables en techo admiten bombillas GU10 de hasta 7W (no incluidas), lo que permite ajustar la intensidad y el tono de luz según tus preferencias
+- Instalación rápida y flexible: Con medidas de montaje de Ø68x30mm, cada foco empotrable techo es fácil de instalar y se adapta sin esfuerzo a reformas o nuevas construcciones de interiores
+- Lot de 3 spots encastrables blancs: Ce lot spot encastrable au design moderne et discret est idéal pour une lumière d’ambiance dans les salons, couloirs ou cuisines sans alourdir la décoration
+- Diseño orientable para luz personalizada: Gracias a su función ajustable, estos focos para empotrar en techo permiten enfocar la luz hacia zonas de trabajo, muebles o elementos decorativos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FGDQ4T9R{{</world>}}

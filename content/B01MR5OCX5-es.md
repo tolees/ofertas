@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 3. Recommended temperature: 180-210 ℃;
-- 1. 1kg spool 1.75mm filament PLA in vacuum packing
 - 5. Environmental-friendly, Made from starch raw materials derived from renewable plant resources
 - 4. Diameter tolerance +/- 0.02mm
+- 1. 1kg spool 1.75mm filament PLA in vacuum packing
 - 2. No impurities, no clogging
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

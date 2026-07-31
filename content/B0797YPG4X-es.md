@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Borotalco Velvet Body Cream - Crema hidratante para piel suave (6 unidades, 150 ml)
 - Marca: Borotalco
+- Borotalco Velvet Body Cream - Crema hidratante para piel suave (6 unidades, 150 ml)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0797YPG4X{{</world>}}

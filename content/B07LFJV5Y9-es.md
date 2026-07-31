@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto número: 1127774
-- Fragancia personal
 - Para género femenino
+- Fragancia personal
+- Producto número: 1127774
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07LFJV5Y9{{</world>}}

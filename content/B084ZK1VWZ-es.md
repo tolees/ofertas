@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte Wide Leg elegante para una silueta moderna
-- Versátil para combinar en la oficina, el ocio y ocasiones especiales
 - Cintura elástica que garantiza comodidad óptima
+- Versátil para combinar en la oficina, el ocio y ocasiones especiales
+- Corte Wide Leg elegante para una silueta moderna
 - Mezcla de materiales de alta calidad que ofrece durabilidad y facilidad de cuidado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

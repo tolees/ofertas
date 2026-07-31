@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Dos compartimentos de cremallera para mejorar la organización.
-- Estuche de 23 cm x 9 cm x 7 cm fabricado en Poliéster.
 - Asa lateral para colgarlo del pupitre.
 - De Joumma Bags.
 - Tamaño perfecto para llevarlo en la mochila o el carterón.
+- Estuche de 23 cm x 9 cm x 7 cm fabricado en Poliéster.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CWMLHW7Y{{</world>}}

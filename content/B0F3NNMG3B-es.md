@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 100% poliéster (100% reciclado)
+- Cuello con cierre de botones
 - Corte clásico
 - Confección en tejido de punto
-- Cuello con cierre de botones
+- 100% poliéster (100% reciclado)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F3NNMG3B{{</world>}}

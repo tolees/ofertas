@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- COSMÉTICA, CORPORAL. Prunus Amygdalus Dulcis Oil
-- MODO DE USO: El Aceite de Almendras Dulces es de aplicación tópica como calmante o emoliente. También se utiliza para combatir la sequedad del cabello o para mezclar con otros aceites vegetales o esenciales. Sobre la piel: Aplicar directamente sobre la piel (seca o húmeda) con un ligero masaje, hasta que se absorba. Sobre el cabello: Aplicar con un suave masaje y dejar actuar durante 15 minutos. Aclarar con abundante agua
-- El aceite de almendras es muy rico en ácidos grasos insaturados, por lo que es muy nutritivo e hidratante y nos sirve tanto para la piel como para el pelo. Nos ayuda a suavizar la piel, reducir arrugas y estrías, tratar irritaciones, rojeces o descamaciones…
-- ETIQUETAS: Este producto es apto para veganos y celíacos
 - BENEFICIOS: Propiedades emolientes que ayudan a suavizar la piel, reducir las arrugas y estrías, así como a calmar irritaciones cutáneas o descamaciones
+- COSMÉTICA, CORPORAL. Prunus Amygdalus Dulcis Oil
+- El aceite de almendras es muy rico en ácidos grasos insaturados, por lo que es muy nutritivo e hidratante y nos sirve tanto para la piel como para el pelo. Nos ayuda a suavizar la piel, reducir arrugas y estrías, tratar irritaciones, rojeces o descamaciones…
+- MODO DE USO: El Aceite de Almendras Dulces es de aplicación tópica como calmante o emoliente. También se utiliza para combatir la sequedad del cabello o para mezclar con otros aceites vegetales o esenciales. Sobre la piel: Aplicar directamente sobre la piel (seca o húmeda) con un ligero masaje, hasta que se absorba. Sobre el cabello: Aplicar con un suave masaje y dejar actuar durante 15 minutos. Aclarar con abundante agua
 - PROPIEDADES: Aceite especialmente nutritivo e hidratante, tanto para la piel como para el cabello
+- ETIQUETAS: Este producto es apto para veganos y celíacos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00XZ3NATM{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Zapatillas deportivas/zapatillas de correr
-- Piezas de talón de color Ontrast
 - Parte superior de combinación de materiales con fantasía de serpiente
+- Piezas de talón de color Ontrast
+- Zapatillas deportivas/zapatillas de correr
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CSPC4RVM{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CONTROL LED - Controla niveles audio y silenciamiento de un vistazo con la iluminación verde y roja del micro. Estés lejos, cerca o RSMA
-- CÁPSULA 3 VECES MAYOR - Captura las voces en una cápsula mucho mayor que en otros micros
-- SOPORTE ANTIVIBRACIÓN - Integrado que reduce vibraciones no deseadas para sonido más claro. Compatible con pie de sobremesa o brazo de soporte (venta por separado).
 - LUZ DESCENDENTE RGB - Mejora el ambiente con luz RGB personalizable procedente del micro
+- SOPORTE ANTIVIBRACIÓN - Integrado que reduce vibraciones no deseadas para sonido más claro. Compatible con pie de sobremesa o brazo de soporte (venta por separado).
 - SOFTWARE TODO EN UNO - Sonar es la solución innovadora de audio, con mezcla y ruteo fácil de arrastrar y soltar, cancelación por IA y más
+- CÁPSULA 3 VECES MAYOR - Captura las voces en una cápsula mucho mayor que en otros micros
+- CONTROL LED - Controla niveles audio y silenciamiento de un vistazo con la iluminación verde y roja del micro. Estés lejos, cerca o RSMA
 - DISEÑADO PARA GAMERS - Micro de gaming, emisiones y pódcast, sube de nivel con Alias y el software gratis de audio
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

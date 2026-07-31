@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tiene detalles distintivos de la marca "Under Armour"
 - Para uso diario
 - Pantalón corto
+- Tiene detalles distintivos de la marca "Under Armour"
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D5RDPC7Z{{</world>}}

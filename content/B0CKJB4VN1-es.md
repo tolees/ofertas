@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior de ante
-- Corte estándar
 - Suela de goma
 - Forro de malla
+- Parte superior de ante
 - Con cordones
+- Corte estándar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKJB4VN1{{</world>}}

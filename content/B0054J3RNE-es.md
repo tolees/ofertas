@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Lavado a máquina, 30 grados
+- Se adapta a la talla
 - Sujetador sin aros que ofrece un ajuste óptimo
 - Con detalles de encaje en la parte delantera
-- Se adapta a la talla
-- Lavado a máquina, 30 grados
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0054J3RNE{{</world>}}

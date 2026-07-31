@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Sistema de protección múltiple: sobrecarga, sobredescarga, sobrecorriente primaria y secundaria, cortocircuito y sobrecalentamiento en descarga. Regula la tasa de descarga de forma automática e inteligente para evitar pérdidas de energía ante cambios bruscos de temperatura.
-- Gestión inteligente de la descarga mediante BMS, que ajusta automáticamente la tasa de salida y protege la batería. Carcasa ergonómica para una extracción y colocación de la batería más cómoda.
 - Bateria de 21V y 4.0Ah compatible con toda la gama de herramientas Cecotec de 21V. Puerto de carga universal Type C (In&Out) con función powerbank, capaz de cargar móviles u otros dispositivos electrónicos con salida rápida de hasta 45W.
+- Gestión inteligente de la descarga mediante BMS, que ajusta automáticamente la tasa de salida y protege la batería. Carcasa ergonómica para una extracción y colocación de la batería más cómoda.
 - Potencia optimizada con tecnología PRO, diseñada para dar el máximo rendimiento en herramientas exigente. Indicador de nivel de carga integrado.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

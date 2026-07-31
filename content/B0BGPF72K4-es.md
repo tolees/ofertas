@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Brazalete Negro Acero inoxidable
-- Diámetro caja: 35mm
 - Caja Acero inoxidable, esfera Gris
-- Resistente al agua: 50m
+- Diámetro caja: 35mm
 - Movimiento Cuarzo
+- Resistente al agua: 50m
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BGPF72K4{{</world>}}

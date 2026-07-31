@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillos laterales oblicuos con cremallera
 - Acabado resistente al agua
+- Bolsillos laterales oblicuos con cremallera
 - Ofrece comodidad y calidez
 
 [🛒 Aquí!!!]({{< param buyurl >}})

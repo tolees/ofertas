@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Desechable
 - Pegamento
 - Permanente
 - Roller
+- Desechable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00EZP8YKO{{</world>}}

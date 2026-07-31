@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Horma estándar
 - Botas para mujer
-- Suelas flexibles y mayor comodidad
 - Plantilla extraíble
+- Suelas flexibles y mayor comodidad
+- Horma estándar
 - Softlight
 
 [🛒 Visítala!!!]({{< param buyurl >}})

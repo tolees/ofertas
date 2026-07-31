@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puma Archivo no. 1 logotipo en la lengua
-- Puma Tiras moldeadas en el lateral
 - Puma No. 2 logotipo en el lateral
+- Puma Tiras moldeadas en el lateral
+- Puma Archivo no. 1 logotipo en la lengua
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKJFJBN1{{</world>}}

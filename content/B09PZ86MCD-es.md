@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Medidas: 17,38 x 32,91 x 14,62 centímetros
+- Referencia: S64144702
 - ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
+- Medidas: 17,38 x 32,91 x 14,62 centímetros
 - Color: Multicolor
 - Zapatillas Deportivas Mujer de la marca Skechers
-- Referencia: S64144702
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09PZ86MCD{{</world>}}

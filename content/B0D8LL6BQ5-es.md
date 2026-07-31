@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Diseño icónico: ilumina tu espacio con el legendario logotipo de Fireflies de The Last of Us. Perfecto para los fans que quieren dar vida al ambiente del juego
 - Doble alimentación: se alimenta fácilmente por USB (cable incluido) o 3 pilas AAA (no incluidas). Flexibilidad en su máxima expresión: colócalo en cualquier lugar sin preocuparte por las tomas de corriente
 - Pantalla versátil: colócalo en tu escritorio o móntalo en tu pared. Esta luz se adapta a tu espacio, ofreciendo infinitas posibilidades de visualización.
-- Luz dinámica: cambia entre los modos rojo y blanco que cambian de color para que coincida con tu estado de ánimo o establece el ambiente perfecto para tus sesiones de juego.
 - PALADONE: En Paladone, nos especializamos en regalos divertidos para personas divertidas. Nuestra mercancía con licencia oficial incluye juguetes, decoración y artículos únicos que traen alegría a todos los entusiastas nostálgicos de la cultura pop. Descubre regalos mágicos que hacen la colección de cada fanático.
-- Diseño icónico: ilumina tu espacio con el legendario logotipo de Fireflies de The Last of Us. Perfecto para los fans que quieren dar vida al ambiente del juego
+- Luz dinámica: cambia entre los modos rojo y blanco que cambian de color para que coincida con tu estado de ánimo o establece el ambiente perfecto para tus sesiones de juego.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D8LL6BQ5{{</world>}}

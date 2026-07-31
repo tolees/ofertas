@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Para el modelo PCH-1000
-- Cable USB de repuesto
-- Longitud 110cm aproximado
-- Color negro
 - Válido para PS Vita
+- Longitud 110cm aproximado
+- Cable USB de repuesto
+- Color negro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00WERXML6{{</world>}}

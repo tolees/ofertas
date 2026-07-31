@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Horma clásica
-- Empeine de malla con mezcla de materiales
-- Forro textil
 - Suela Adiwear
-- Amortiguación LIGHTMOTION
-- Cierre de cordones con detalles textiles
 - Refuerzo de goma en el talón
+- Empeine de malla con mezcla de materiales
+- Horma clásica
+- Cierre de cordones con detalles textiles
+- Amortiguación LIGHTMOTION
+- Forro textil
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CYTC9G4C{{</world>}}

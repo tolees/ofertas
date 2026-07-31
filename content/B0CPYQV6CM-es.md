@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Todo tiene su sitio en la unidad organizadora interna. Ya sean documentos, una tableta en el compartimento interior acolchado o las llaves en el clip para llaves.
 - Dimensiones: Al 23 x An 38 X P 9 cm
+- Todo tiene su sitio en la unidad organizadora interna. Ya sean documentos, una tableta en el compartimento interior acolchado o las llaves en el clip para llaves.
 - El compartimento principal es accesible desde la parte delantera y ofrece mucho espacio de almacenamiento y opciones de organización.
 - Gracias a la correa de hombro acolchada y desmontable, la correa de hombro ajustable y la correa de pecho desmontable y ajustable, la bolsa bandolera puede llevarse cómodamente sobre el hombro izquierdo o derecho.
 

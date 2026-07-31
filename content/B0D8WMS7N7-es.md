@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Una mirada original
 - Estampado de G-STAR en el pecho
-- Cuello acanalado
+- Una mirada original
 - Proporciona comodidad
+- Cuello acanalado
 - Etiqueta de G-STAR Originals tejida en la costura lateral inferior
 
 [🛒 Visítala!!!]({{< param buyurl >}})

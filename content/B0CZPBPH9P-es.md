@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 100% poliéster (reciclado)
+- Corte clásico
 - Tiro medio
-- N/D
 - Puños elásticos
 - Forro de malla
-- Corte clásico
+- 100% poliéster (reciclado)
+- N/D
 - Cintura elástica con cordón
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Entresuela que absorbe los golpes
 - Lavable a máquina
 - Suela de tracción flexible
+- Entresuela que absorbe los golpes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B3MJ48YX{{</world>}}

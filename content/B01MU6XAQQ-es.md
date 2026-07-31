@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Set para la reparación
 - Construcción auto portante
 - Diferentes opciones de abertura de puertas
+- Set para la reparación
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MU6XAQQ{{</world>}}

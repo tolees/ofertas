@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Transmite señal digital y corriente de hasta 7 A: Lleve tanto datos como energía a sus dispositivos.
-- Opciones de posición de instalación flexibles Con solo 5 mm de diámetro y cabezales de cable reversibles para simplificar las conexiones, podrá colocar sus dispositivos iCUE LINK en su chasis con facilidad.
-- Frescura garantizada: Potentes velocidades de ventilador controladas por PWM desde 480 RPM hasta 2.400 RPM, para que sus ventiladores funcionen con la velocidad que necesita, lo que ofrece un flujo de aire de hasta 63,1 CFM con una presión estática de 3,8 mm-H2O.
 - Exclusivo modo de iluminación estroboscópica Time Warp: Equipado con 34 LED RGB, repartidos en dos zonas de luz diferentes a cada lado, y con la tecnología iCUE LINK para modos de iluminación exclusivos como el estroboscópico Time Warp (requiere concentrador del sistema iCUE LINK, de venta por separado).
-- Funcionamiento silencioso con rodamiento de cúpula magnética: El rodamiento de cúpula magnética de CORSAIR conserva todo el rendimiento de la tecnología de ventiladores ML y reduce aún más la fricción a bajas velocidades del ventilador.
+- Opciones de posición de instalación flexibles Con solo 5 mm de diámetro y cabezales de cable reversibles para simplificar las conexiones, podrá colocar sus dispositivos iCUE LINK en su chasis con facilidad.
+- Transmite señal digital y corriente de hasta 7 A: Lleve tanto datos como energía a sus dispositivos.
 - Expanda su ecosistema iCUE LINK: Utilice cables adicionales para conectar más dispositivos a su ecosistema iCUE LINK existente, como ventiladores, AIO y otros.
+- Frescura garantizada: Potentes velocidades de ventilador controladas por PWM desde 480 RPM hasta 2.400 RPM, para que sus ventiladores funcionen con la velocidad que necesita, lo que ofrece un flujo de aire de hasta 63,1 CFM con una presión estática de 3,8 mm-H2O.
+- Funcionamiento silencioso con rodamiento de cúpula magnética: El rodamiento de cúpula magnética de CORSAIR conserva todo el rendimiento de la tecnología de ventiladores ML y reduce aún más la fricción a bajas velocidades del ventilador.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CDCHPHPD{{</world>}}

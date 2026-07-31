@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte : Vaqueros ajustados con talla media, muslo fino, rodilla fina, apertura ajustada en la pierna
-- Cierre : Bragueta de botones
-- Bolsillos : Bolsillos traseros, Bolsillo relojero, Bolsillos delanteros
-- Cintura : Tiro bajo
-- Klavado/acabado : Lavado a la piedra para un acabado desgastado y desteñido
 - Modo de vida : Tradicional
 - Artículo : Jeans de corte slim
+- Klavado/acabado : Lavado a la piedra para un acabado desgastado y desteñido
+- Bolsillos : Bolsillos traseros, Bolsillo relojero, Bolsillos delanteros
+- Cierre : Bragueta de botones
+- Corte : Vaqueros ajustados con talla media, muslo fino, rodilla fina, apertura ajustada en la pierna
+- Cintura : Tiro bajo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CL7KXB5B{{</world>}}

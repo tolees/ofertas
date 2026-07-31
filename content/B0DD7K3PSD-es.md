@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Giratorios y orientables: moderno aplique techo interior cabeza de la lámpara se puede girar 350° a la izquierda y a la derecha y girar 90° hacia arriba y hacia abajo, cada parte se puede ajustar en cualquier dirección
-- Fácil de instalar: Foco interior de techo orientable incluido con un manual de instalación y un kit de instalación, después de fijar el cuerpo de la lámpara, instale la fuente de luz GU10 en él, luego puede obtener la iluminación
 - Aplicaciones amplias: La iluminación de techo led puede instalarse no solo en el techo, sino también en la pared, ya sea instalada en casa, en la oficina, en el garaje, etc. Es muy adecuada
 - Portalámpara GU10: Este foco de techo LED interior de 3 puntos tiene 3 portalámparas, adecuadas para bombillas de modelo GU10. Las bombillas con diferentes temperaturas de color y potencias se pueden combinar según las necesidades personales
+- Giratorios y orientables: moderno aplique techo interior cabeza de la lámpara se puede girar 350° a la izquierda y a la derecha y girar 90° hacia arriba y hacia abajo, cada parte se puede ajustar en cualquier dirección
+- Fácil de instalar: Foco interior de techo orientable incluido con un manual de instalación y un kit de instalación, después de fijar el cuerpo de la lámpara, instale la fuente de luz GU10 en él, luego puede obtener la iluminación
 - Materiales de los productos: Plafón GU10 de 3 focos negro con un diseño simple. El cuerpo de la lámpara está hecho de hierro de alta calidad, con una superficie de laca protectora antioxidante negra mate, resistente a la humedad y al óxido
 
 [🛒 Aquí!!!]({{< param buyurl >}})

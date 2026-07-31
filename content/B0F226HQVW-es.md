@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aplicar mañana y noche sobre la piel limpia de cuello y escote
-- La piel se mantiene hidratada durante 72 horas y protegida contra los rayos UVA y UVB.
 - Crema facial antiedad, antiarrugas y anti-UV que reafirma, alisa y rellena la piel. Fórmula enriquecida con ácido hialurónico, vitamina B5 y ectoína. Apta para todo tipo de piel, incluso las sensibles.
+- La piel se mantiene hidratada durante 72 horas y protegida contra los rayos UVA y UVB.
+- Aplicar mañana y noche sobre la piel limpia de cuello y escote
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F226HQVW{{</world>}}

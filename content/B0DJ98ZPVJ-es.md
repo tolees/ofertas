@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Puntera redondeada
 - Talón y ojal moldeados
 - Goma de longitud completa
+- Puntera redondeada
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DJ98ZPVJ{{</world>}}

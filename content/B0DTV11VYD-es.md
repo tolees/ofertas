@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Botin piel trenzada
 - Plantilla acolchada
+- Botin piel trenzada
 - piel trenzada artesanalmente
 - moda y confort
 

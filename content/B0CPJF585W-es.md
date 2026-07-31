@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Media suela contorneada con absorción de impactos
 - Presentan detalles distintivos de la marca
+- Media suela contorneada con absorción de impactos
 - Plantilla cómoda con amortiguación
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

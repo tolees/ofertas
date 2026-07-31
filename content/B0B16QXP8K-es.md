@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Ajuste normal
+- Puños de malla planos
+- Manga corta
 - Número de botones: 3
 - Cuello de malla plano
-- Ajuste normal
-- Manga corta
-- Puños de malla planos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B16QXP8K{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño atractivo que fusiona el estilo de los 80 y 90.
 - Cierre de cordones ajustable para un ajuste personalizado
 - Parte superior de gamuza/malla
+- Diseño atractivo que fusiona el estilo de los 80 y 90.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D2Y9GGXH{{</world>}}

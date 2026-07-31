@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con cabeza giratoria. Presentación: hoja cromada, punta bruñida.
 - Con cabeza giratoria.
+- Con cabeza giratoria. Presentación: hoja cromada, punta bruñida.
 - Presentación: hoja cromada, punta bruñida.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Malla mono suave y transpirable y parte superior de cuero
 - Suela de tracción de goma flexible
 - Diseño deportivo con cordones
+- Malla mono suave y transpirable y parte superior de cuero
 - Entresuela ligera y flexible que absorbe los golpes
 
 [🛒 Aquí!!!]({{< param buyurl >}})

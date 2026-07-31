@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Almizcle sensual
-- Leche de Coco
 - Hidratante ; Mejora el ánimo. ; Sin género. ; Ligera ; Fácil de aplicar, no pegajoso ni graso. ;
+- Leche de Coco
 - Enriquecido con un acorde de segunda piel de almizcle, cachemira y notas de ámbar gris.
+- Almizcle sensual
 - Piña
 
 [🛒 Aquí!!!]({{< param buyurl >}})

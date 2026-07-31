@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Beanie
 - Headwear
+- Beanie
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DPG83DKL{{</world>}}

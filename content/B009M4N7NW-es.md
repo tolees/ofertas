@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Multicentrum Junior contiene vitaminas y minerales que ayudan a complementar una dieta equilibrada
-- Comprimidos masticables de Multicentrum con vitaminas y minerales, en una fórmula equilibrada para niños a partir de 4 años
-- Multicentrum junior multivitaminas sin gluten, lactosa ni colorantes. Es seguro para los dientes por su calidad no cariogénica y no erosiva
+- Después de cada uso, asegúrese de que el bote se encuentra cerrado y guardado dentro de su caja, en un lugar seco y a una temperatura inferior a 25ºC
 - Envase de 30 comprimidos de Multicentrum Junior para 1 mes de uso. Los complementos alimenticios no deben ser usados como sustitutos de una dieta equilibrada.
 - Contiene vitamina D, que es necesaria para el crecimiento y desarrollo normal de los huesos en los niños. También contiene hierro, que contribuye al desarrollo diario cognitivo normal de los niños
-- Después de cada uso, asegúrese de que el bote se encuentra cerrado y guardado dentro de su caja, en un lugar seco y a una temperatura inferior a 25ºC
+- Multicentrum junior multivitaminas sin gluten, lactosa ni colorantes. Es seguro para los dientes por su calidad no cariogénica y no erosiva
+- Multicentrum Junior contiene vitaminas y minerales que ayudan a complementar una dieta equilibrada
+- Comprimidos masticables de Multicentrum con vitaminas y minerales, en una fórmula equilibrada para niños a partir de 4 años
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B009M4N7NW{{</world>}}

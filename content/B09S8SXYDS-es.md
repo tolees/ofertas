@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aplicar sobre el rostro y masajear hasta que se absorba por completo.
 - Protege la piel con antioxidantes, activos anticontaminación, hidratación y protección solar antiedad.
+- Aplicar sobre el rostro y masajear hasta que se absorba por completo.
 - El UV-AGE de uso diario con color es un aliado excepcional contra el sol. Con péptidos antiedad, previene arrugas y manchas y protege contra el agua, el sudor, la contaminación y la radiación infrarroja. Para todo tipo de piel.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

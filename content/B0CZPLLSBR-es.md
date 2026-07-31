@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Talle medio
-- Cintura plana elástica
-- Corte ajustado
-- Logotipo de las 3 bandas
 - 90% algodón / 10% elastano
+- Cintura plana elástica
+- Logotipo de las 3 bandas
+- Corte ajustado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZPLLSBR{{</world>}}

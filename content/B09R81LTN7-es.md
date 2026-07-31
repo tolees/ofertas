@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Materiales reciclados
-- Forro transpirable de poliéster reciclado
 - Planta acolchada
+- Forro transpirable de poliéster reciclado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09R81LTN7{{</world>}}

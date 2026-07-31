@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- AJUSTE PERFECTO: Las camisetas de manga larga Slim Fit son ajustadas y tienen un diseño minimalista. Gracias a su material de alta calidad son supercómodas y permiten una libertad de movimientos total.
 - SENCILLO E INFORMAL: Estas camisetas básicas de algodón son supercómodas y perfectas para looks más informales. El cuello redondo y la bandera de Tommy Jeans en el pecho completan el estilo de la prenda.
-- VERSÁTIL Y PRÁCTICO: Estas prendas convencen por su gran comodidad y son la base para cualquier look informal. Las camisetas son perfectas para ponérselas todos los días o para la oficina, ya que se pueden combinar de muchas maneras.
-- MODA URBANA REINTERPRETADA: Para acercar las populares prendas de los 90 a las nuevas generaciones, Tommy Jeans se inspira en los iconos del hip-hop de aquella época. Apostando por prendas de alta calidad y diseños modernos con mucho denim.
 - MATERIAL Y CUIDADO: Camisetas de manga larga confeccionadas con 95 % algodón regenerativo y 5 % elastano. Se pueden lavar a máquina.
+- MODA URBANA REINTERPRETADA: Para acercar las populares prendas de los 90 a las nuevas generaciones, Tommy Jeans se inspira en los iconos del hip-hop de aquella época. Apostando por prendas de alta calidad y diseños modernos con mucho denim.
+- AJUSTE PERFECTO: Las camisetas de manga larga Slim Fit son ajustadas y tienen un diseño minimalista. Gracias a su material de alta calidad son supercómodas y permiten una libertad de movimientos total.
+- VERSÁTIL Y PRÁCTICO: Estas prendas convencen por su gran comodidad y son la base para cualquier look informal. Las camisetas son perfectas para ponérselas todos los días o para la oficina, ya que se pueden combinar de muchas maneras.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DSWH9VH4{{</world>}}

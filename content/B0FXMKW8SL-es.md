@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Extracto de vainilla y esencia de madera de cedro
-- Orquídea dorada
 - Mango
+- Orquídea dorada
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FXMKW8SL{{</world>}}

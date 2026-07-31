@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Analógico para Mujer
 - CASIO Modelo 05 COLLECTION
+- Analógico para Mujer
 - 11 milimetros calendario Sin cierre a presion plegable
 
 [🛒 Aquí!!!]({{< param buyurl >}})

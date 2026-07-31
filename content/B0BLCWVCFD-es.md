@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material de aspecto de cuero envejecido en la parte superior
 - Perforaciones en la puntera
+- Material de aspecto de cuero envejecido en la parte superior
 - Ojales de doble capa
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

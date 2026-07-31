@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tipo de talón: plano
 - Recomendado para: pisada neutra
 - Ajuste: estándar
-- Tipo de talón: plano
-- Tipo de puntera: redondeada
 - Cierre: de cordones
+- Tipo de puntera: redondeada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJ8YW5HR{{</world>}}

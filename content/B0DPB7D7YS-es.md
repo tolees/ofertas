@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 100% algodón
-- Lavado a máquina
 - Con prácticos bolsillos
-- Ajuste holgado en cadera y muslos
-- Pierna recta
-- Nuestro XX Chino se encuentra con los pantalones cargo
 - Cremallera
 - Se asienta en la cintura
+- 100% algodón
+- Nuestro XX Chino se encuentra con los pantalones cargo
+- Ajuste holgado en cadera y muslos
+- Pierna recta
+- Lavado a máquina
 - Ajuste holgado, se ajusta cómodamente a las nalgas y los muslos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

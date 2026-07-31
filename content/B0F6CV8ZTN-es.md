@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Este código es válido sólo para Switch 2. Accede a tu cuenta Nintendo en la Tienda Nintendo (a través de la consola o del navegador de Internet) e introduce el código de 16 dígitos.
 - PASS AMIGO: Invita a tu acompañante a jugar contigo gratis en cualquier plataforma (juego cruzado en PS, Xbox, Switch y PC) con el Pase de amigo Esta locura llega de la mano de Hazelight, el estudio creador de trepidantes juegos cooperativos como It Takes Two y A Way Out
-- UNA VERDADERA AVENTURA COOPERATIVA: Esta aventura en pantalla dividida está hecha para dos; Disfrutad de una jugabilidad cooperativa en la que tendréis que coordinaros y sincronizaros, así como trabajar en equipo para superar los desafíos
 - Este videojuego es el nuevo e imprescindible juego de aventuras a pantalla partida hecho a medida para dos jugadores. Se puede acceder a este juego con el código de descarga que hay dentro de la caja.
+- Este código es válido sólo para Switch 2. Accede a tu cuenta Nintendo en la Tienda Nintendo (a través de la consola o del navegador de Internet) e introduce el código de 16 dígitos.
 - EL PODER DE LA AMISTAD: Al principio Mio y Zoe no se llevan bien, pero pronto se convierten en la única esperanza de la otra; Este viaje les deparará giros inesperados y, si quieren salir adelante, tendrán que cubrirse las espaldas mutuamente
+- UNA VERDADERA AVENTURA COOPERATIVA: Esta aventura en pantalla dividida está hecha para dos; Disfrutad de una jugabilidad cooperativa en la que tendréis que coordinaros y sincronizaros, así como trabajar en equipo para superar los desafíos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F6CV8ZTN{{</world>}}

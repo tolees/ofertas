@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sin azúcares ni sal; sin gluten; no contiene almidón, levadura, trigo, soja ni derivados lácteos; está formulado sin conservadores, edulcorantes, aromatizantes ni colorantes artificiales
-- DISEÑADO para favorecer un nivel de energía normal, ayudar a reducir el cansancio y la fatiga; estimula la función muscular
 - MODO DE EMPLEO - Para adultos, tomar un (1) comprimido al día preferentemente con las comidas, tragar los comprimidos con ayuda de agua u otra bebida, no debe superarse la dosis diaria expresamente recomendada para este producto
 - Apto para Vegetarianos y Kosher PARVE
 - INFORMACION NUTRICIONAL: Un (1) comprimido aporta: Magnesio 133 mg (35,5% VRN); Vitamina B6 8,3 mg (592,8% VRN)
+- Sin azúcares ni sal; sin gluten; no contiene almidón, levadura, trigo, soja ni derivados lácteos; está formulado sin conservadores, edulcorantes, aromatizantes ni colorantes artificiales
+- DISEÑADO para favorecer un nivel de energía normal, ayudar a reducir el cansancio y la fatiga; estimula la función muscular
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B000Z8YGGG{{</world>}}

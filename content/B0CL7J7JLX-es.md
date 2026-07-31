@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Entresuela acolchada
-- Plantilla cómoda
 - Suela de tracción flexible
+- Plantilla cómoda
+- Entresuela acolchada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CL7J7JLX{{</world>}}

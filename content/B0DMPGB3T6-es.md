@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- NOTA: ¹Una ración equivale a 1 cápsula al día
-- L-TEANINA: La L-teanina es un aminoácido natural que se extrae del té verde. La L-teanina y la cafeína se complementan a la perfección, ya que la L-teanina potencia el efecto estimulante de la cafeína y, al mismo tiempo, mitiga los posibles efectos secundarios
-- CONTENIDO: Un envase de ESN L-Theanine contiene 45 cápsulas veganas y te aporta 100 mg de L-teanina por dosis¹
-- RECOMENDACIÓN DE CONSUMO: Nuestras cápsulas de L-teanina son veganas y recomendamos tomar 1-2 cápsulas al día con suficiente líquido
 - FABRICADO EN ALEMANIA: Las cápsulas de L-teanina de ESN se producen en nuestras propias instalaciones de Alemania, cumpliendo con los más estrictos estándares de calidad
+- CONTENIDO: Un envase de ESN L-Theanine contiene 45 cápsulas veganas y te aporta 100 mg de L-teanina por dosis¹
+- L-TEANINA: La L-teanina es un aminoácido natural que se extrae del té verde. La L-teanina y la cafeína se complementan a la perfección, ya que la L-teanina potencia el efecto estimulante de la cafeína y, al mismo tiempo, mitiga los posibles efectos secundarios
+- RECOMENDACIÓN DE CONSUMO: Nuestras cápsulas de L-teanina son veganas y recomendamos tomar 1-2 cápsulas al día con suficiente líquido
+- NOTA: ¹Una ración equivale a 1 cápsula al día
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DMPGB3T6{{</world>}}

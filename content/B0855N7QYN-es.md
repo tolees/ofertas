@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Protección solar de amplio espectro que hidrata y limpia la piel a nivel celular, incluso en el agua.
 - Aplicar justo antes de exponerse al sol.
 - Agua hidratante con protección UV de amplio espectro que refresca, limpia y protege la piel a nivel celular, manteniéndola hidratada incluso en el agua, gracias a su fórmula ultraligera con ácido hialurónico.
-- Protección solar de amplio espectro que hidrata y limpia la piel a nivel celular, incluso en el agua.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0855N7QYN{{</world>}}

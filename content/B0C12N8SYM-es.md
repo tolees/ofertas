@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - UA Tech es nuestro equipo de entrenamiento de referencia: suelto, ligero y te mantiene fresco. Es todo lo que necesitas.
-- Cintura elástica con revestimiento y cordón interior
-- Bolsillos laterales abiertos
 - Tejido UA Tech de secado rápido, ultrasuave y de tacto más natural
+- Bolsillos laterales abiertos
+- Cintura elástica con revestimiento y cordón interior
 - Material que capilariza el sudor y se seca rápidamente
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Women s Move Legging Yoga Pants Leggings Black Heather M/R'
-date: 2026-05-17 07:05:20
+date: 2026-07-30 16:38:20
 image: 'https://m.media-amazon.com/images/I/31PPuhO1NIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido: 1x Columbia Mujer Legging Move, Color: Negro (black heather), Talla: M, Art.: 2072961
-- Mantén tu móvil a salvo con el bolsillo para móvil
 - Leggings confeccionados con un tejido que absorbe el sudor, elástico y resistente, Adecuados para senderismo
+- Mantén tu móvil a salvo con el bolsillo para móvil
 - Diseño de talle alto con cintura cómoda
+- Contenido: 1x Columbia Mujer Legging Move, Color: Negro (black heather), Talla: M, Art.: 2072961
 - Con tecnología Omni-Wick que hace que el sudor y la humedad se evaporen rápidamente, manteniéndote seco y cómodo durante todo el día
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

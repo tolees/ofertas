@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Artículos entregados: 1x Helly Hansen Hombre Polo Kos,2XL,Azul marino
-- Polo clásico de verano marino para hombre; el tejido Tactel de secado rápido es apreciado por los usuarios activos; un corte de polo tradicional para un buen aspecto clásico, que se presenta en una amplia gama de colores; la abertura lateral y la caída de la espalda aumentan la comodidad
 - Exterior: 100% poliamida
+- Polo clásico de verano marino para hombre; el tejido Tactel de secado rápido es apreciado por los usuarios activos; un corte de polo tradicional para un buen aspecto clásico, que se presenta en una amplia gama de colores; la abertura lateral y la caída de la espalda aumentan la comodidad
+- Artículos entregados: 1x Helly Hansen Hombre Polo Kos,2XL,Azul marino
 - Un polo clásico de estilo marino para hombre, confeccionado con tejido Tactel de secado rápido
 
 [🛒 Comprar!!!]({{< param buyurl >}})

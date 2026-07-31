@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Confección en tejido de punto
-- Material Principal: 100% Poliéster(100% Reciclado)
 - Cuello con cierre de botones
+- Confección en tejido de punto
 - Corte clásico
+- Material Principal: 100% Poliéster(100% Reciclado)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F3NDZ3R4{{</world>}}

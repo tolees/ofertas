@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Plantilla de EVA
-- Empeine sintético
 - Forro textil
+- Empeine sintético
 - Horma clásica
 - Cierre de cordones
+- Plantilla de EVA
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CYTB3GKH{{</world>}}

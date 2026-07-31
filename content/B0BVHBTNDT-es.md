@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 1 x Eucerin Ultraligero Ligero Gel Crema - 350ml
 - Proporciona hidratación duradera, se suaviza
 - Protege la piel, dejándola aterciopelada y sin residuos
-- 1 x Eucerin Ultraligero Ligero Gel Crema - 350ml
 - Crema de gel ligera para piel sensible y seca
 - Fórmula de absorción ultra rápida y sin grasa
 

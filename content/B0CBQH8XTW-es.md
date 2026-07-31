@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sneakers blancas con detalles en gris y acentos en neón
 - Garantía certificada Global Recycled Standard (GRS)
+- Sneakers blancas con detalles en gris y acentos en neón
 - Sello de garantía certificada Global Organic Textile Standard (GOTS)
 - La plantilla es anatómica extraíble
 

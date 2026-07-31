@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Conservar en lugar fresco y seco
 - Deliciosas piezas de gelatina y espuma con forma de corazones de color rojo
-- La siguiente información se aplica a cada unidad del paquete
 - Sabor a fresa
+- Conservar en lugar fresco y seco
 - Caramelos de goma
+- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0GSYLGK77{{</world>}}

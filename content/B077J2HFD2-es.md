@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Marcos: asignación de función macro en cualquier tecla, memoria interna: 64kb, fuerza de accionamiento 60 +/- 10g, 1000 hz
+- Teclado Español
 - Conexión: USB chapado en oro, consumo de energía: 100-260 ma, voltaje: 5.0 +/- 0.25 v, longitud cable: 180cm
 - Compatibilidad: Windows 7 / 8 / 8.1 / 10
-- Teclado Español
+- Marcos: asignación de función macro en cualquier tecla, memoria interna: 64kb, fuerza de accionamiento 60 +/- 10g, 1000 hz
 - Tipo cable: trenzado, dimensiones: 361x22,5x133,5 mm, peso: 950 +/- 30 g
 
 [🛒 Visítala!!!]({{< param buyurl >}})

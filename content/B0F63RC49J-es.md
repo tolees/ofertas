@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Puntera redondeada
 - Ofrecen comodidad en cada zancada
+- Puntera redondeada
 - Cierre con cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 12 tonalidades
-- Fórmula lavable de manos y de la mayor parte de tejidos y superficies no porosas
 - Colores vivos y cubrientes
-- Lavables de tejidos y superficies no porosas
+- 12 tonalidades
 - Medidas: Largo 9cm, Ancho 0,85cm
+- Fórmula lavable de manos y de la mayor parte de tejidos y superficies no porosas
+- Lavables de tejidos y superficies no porosas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B004WSZBKU{{</world>}}

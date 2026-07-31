@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Componentes incluidos: components included
-- Numero de piezas: 1.0
 - Paqueteage weight: 1.32 kilograms
+- Numero de piezas: 1.0
+- Componentes incluidos: components included
 - Quality and precision at your fingertips
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

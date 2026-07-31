@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puños : Puños acanalados
-- Cuello : Cuello levantado
-- Largo/talla : Corto
 - Artículo : Chaqueta bomber
-- Cierre : Cierre de cremallera
 - Manga : Manga larga
-- Bolsillos : Bolsillos frontales con cierre de cremallera
+- Cuello : Cuello levantado
+- Puños : Puños acanalados
 - Mangas : Sisa en disminución
+- Largo/talla : Corto
+- Bolsillos : Bolsillos frontales con cierre de cremallera
+- Cierre : Cierre de cremallera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B091TV95QT{{</world>}}

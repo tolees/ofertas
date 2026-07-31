@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Calcetines de fútbol
-- Bolsillo de ojal en contraste
 - Malla de punto para mejor transpirabilidad
+- Bolsillo de ojal en contraste
+- Calcetines de fútbol
 - Puntera y talón de algodón para comodidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

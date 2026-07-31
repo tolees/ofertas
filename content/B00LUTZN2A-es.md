@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Para todos los tipos de piel
-- Marca británica para el cuidado de la piel y spa, con terapias y productos clínicamente testados para la cara y el cuerpo
-- Envuelve a diario tu cuerpo con esta crema; Deja la piel suave, flexible y con una elegante fragancia
-- Limpia, acondiciona y suaviza
 - Volumen: 8 ml
+- Envuelve a diario tu cuerpo con esta crema; Deja la piel suave, flexible y con una elegante fragancia
+- Marca británica para el cuidado de la piel y spa, con terapias y productos clínicamente testados para la cara y el cuerpo
+- Limpia, acondiciona y suaviza
+- Para todos los tipos de piel
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00LUTZN2A{{</world>}}

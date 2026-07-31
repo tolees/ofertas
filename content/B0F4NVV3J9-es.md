@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Capucha opcional en el cuello
 - Acabado impermeable
 - Nylon suave y brillante
-- Capucha opcional en el cuello
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4NVV3J9{{</world>}}

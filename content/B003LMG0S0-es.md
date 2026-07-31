@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Hecho de acero al cromo vanadio
+- Anchura de llave 1: 10 mm
+- Salida: hexagonal
 - Anchura de llave 2: 11 mm
 - Cromado, cabezas pulidas
-- Salida: hexagonal
-- Anchura de llave 1: 10 mm
 - Forjado en caliente
-- Hecho de acero al cromo vanadio
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B003LMG0S0{{</world>}}

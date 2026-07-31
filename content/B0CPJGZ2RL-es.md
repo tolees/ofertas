@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Aplicar por la mañana en rostro, cuello, escote y manos. Apta para piel sensible. Evitar el contacto con los ojos.
 - Logra un tono de piel más uniforme y aclara las manchas en solo 2 semanas, haciéndolas menos visibles.
+- Aplicar por la mañana en rostro, cuello, escote y manos. Apta para piel sensible. Evitar el contacto con los ojos.
 - Crema despigmentante intensiva con SPF30 para todo tipo de piel y manchas. Formulada con Melasyl, nuestro activo multipatentado que combate la hiperpigmentación. Ofrece un efecto glow instantáneo desde la primera aplicación.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

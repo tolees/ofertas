@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela de goma vulcanizada
-- Parte superior de piel revestida
-- Forro textil
-- Fiel a la talla
-- Cierre de cordones
 - Mediasuela con amortiguación
+- Parte superior de piel revestida
+- Cierre de cordones
+- Suela de goma vulcanizada
+- Fiel a la talla
+- Forro textil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DMVHXSM1{{</world>}}

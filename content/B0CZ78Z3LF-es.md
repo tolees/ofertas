@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Corte ajustado
+- Forro en la entrepierna
+- Tejido Infinitex
 - Pernera de corte medio
 - 78% poliamida (reciclada) / 22% elastano
-- Corte ajustado
-- Tejido Infinitex
-- Forro en la entrepierna
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CZ78Z3LF{{</world>}}

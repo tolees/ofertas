@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡Un auténtico destacado para tu casa!
-- Anime, Fan merch
 - Tu artículo favorito de EMP!
 - ¡Funko Pop! con las siguientes características:
 - Merch para fans y divertido
+- ¡Un auténtico destacado para tu casa!
+- Anime, Fan merch
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08HGHNHK6{{</world>}}

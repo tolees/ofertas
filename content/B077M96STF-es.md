@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material Exterior: Cuero
 - Material de la suela: Caucho
+- Material Exterior: Cuero
 - Cierre: Velcro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

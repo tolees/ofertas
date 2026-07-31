@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Descripción técnica: Material: Aleación de metal Piedra: Cristal Color: Azul y dorado Acabado: Oro amarillo de 18k
 - Descripción del producto: Anillo Luxenter Mantis en aleación de metal con cristal verde y acabado en oro amarillo de 18K. La colección África es la línea perfecta para mujeres con personalidad, que no temen arriesgar y lucir piezas con carácter propio. Un diseño sofisticado y llamativo, ideal para resaltar cualquier look con un toque de exclusividad y elegancia.
+- Descripción técnica: Material: Aleación de metal Piedra: Cristal Color: Azul y dorado Acabado: Oro amarillo de 18k
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CQHQXRNZ{{</world>}}

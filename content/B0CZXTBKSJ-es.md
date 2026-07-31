@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo de las 3 bandas en el pecho
 - Corte clásico
-- Cuello redondo
 - 100% algodón
+- Cuello redondo
+- Logotipo de las 3 bandas en el pecho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZXTBKSJ{{</world>}}

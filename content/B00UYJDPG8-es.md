@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- El artículo no viene con precinto
 - La varilla que abraza los labios asegura una aplicación suave y precisa
+- Fórmula para los labios enriquecida con aceite de argán y vitamina E
 - Hasta 6 horas de color verdadero, alto brillo y comodidad
 - Se desliza para un brillo 3D ligero, cómodo y no pegajoso
-- El artículo no viene con precinto
-- Fórmula para los labios enriquecida con aceite de argán y vitamina E
 - My Eternity es un tono rosa malva brillante
 
 [🛒 Aquí!!!]({{< param buyurl >}})

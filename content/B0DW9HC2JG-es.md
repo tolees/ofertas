@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fit: Regular
 - Cuello: Mao
 - Desigual
-- Bolsillos delanteros
 - Manga: Larga
+- Bolsillos delanteros
+- Fit: Regular
 - Color: Liso
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta de manga corta
 - Set de dos piezas
+- Camiseta de manga corta
 - Pantalón corto con cintura elastica ajustable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

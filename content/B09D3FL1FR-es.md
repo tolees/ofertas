@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Brazalete en nailon negro con detalles en acero inoxidable
-- Circunferencia interna: 19 cm
 - Logotipo esmaltado de Tommy Hilfiger en el cierre
 - Pulsera masculina de Tommy Hilfiger
+- Brazalete en nailon negro con detalles en acero inoxidable
+- Circunferencia interna: 19 cm
 - Cierre: pasador
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

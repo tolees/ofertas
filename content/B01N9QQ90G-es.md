@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Columna de baño con 4 puertas y 1 cajón en el centro, cuenta con 2 estantes interiores regulables en altura que dividen el espacio interior en 4 huecos de gran tamaño. Incluye tiradores y patas metálicos y los dispositivos de fijación del mueble a la pared.
+- Medidas Mueble: 182 cm (alto) x 60 cm (ancho) x 29 cm (prof.). Peso máximo cajón: 4 Kg. Peso máximo balda: 4 Kg. Peso máximo mueble: 20 Kg.
+- Fabricado con tablero de partículas melaminizado de gran calidad y de larga durabilidad. Certificado por PEFC (Asociación Española para la Sostenibilidad Forestal). Fabricado en España.
 - Este tipo de material tiene una superficie no porosa y muy resistente; por lo tanto, es un mueble fácil y rápido de limpiar con un paño húmedo.
 - Requiere montaje (incluye instrucciones y herrajes).
-- Fabricado con tablero de partículas melaminizado de gran calidad y de larga durabilidad. Certificado por PEFC (Asociación Española para la Sostenibilidad Forestal). Fabricado en España.
-- Medidas Mueble: 182 cm (alto) x 60 cm (ancho) x 29 cm (prof.). Peso máximo cajón: 4 Kg. Peso máximo balda: 4 Kg. Peso máximo mueble: 20 Kg.
-- Columna de baño con 4 puertas y 1 cajón en el centro, cuenta con 2 estantes interiores regulables en altura que dividen el espacio interior en 4 huecos de gran tamaño. Incluye tiradores y patas metálicos y los dispositivos de fijación del mueble a la pared.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01N9QQ90G{{</world>}}

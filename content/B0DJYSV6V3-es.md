@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ribete elástico en el cuello
 - Fabricado con contenido reciclado
-- Bolsillos con cremallera
 - Ribete elástico en puños y dobladillo.
+- Bolsillos con cremallera
+- Ribete elástico en el cuello
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DJYSV6V3{{</world>}}

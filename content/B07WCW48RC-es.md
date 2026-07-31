@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 0
 - Material: 100% poliéster
 - Completa tu atuendo con un par de botas y
 - Botas de tacón
+- 0
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07WCW48RC{{</world>}}

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Originals de G-STAR tejidos en la costura lateral inferior
-- Una mirada original
 - Ribete de cinta tejida con remache en una manga
 - Cuello acanalado
+- Una mirada original
 - Proporciona comodidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

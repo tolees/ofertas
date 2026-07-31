@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Consumo energético muy bajo; ahorra al menos el 80%
 - Tira multicolor controlable
 - Iluminación LED controlable de encendido instantáneo
+- Consumo energético muy bajo; ahorra al menos el 80%
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B074PYKW8S{{</world>}}

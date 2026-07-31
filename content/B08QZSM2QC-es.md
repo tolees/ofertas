@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- MF refrigerado por aire
 - Ajuste clásico
 - Goga Mat Arch
+- MF refrigerado por aire
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08QZSM2QC{{</world>}}

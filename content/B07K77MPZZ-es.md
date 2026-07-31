@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Las tomas, dispuestas en un ángulo de 90°, también son buenas para conectar enchufes angulares
-- Base de enchufe múltiple con 5 tomas de corriente, 2 unidades de carga USB y con cable de 3m (H05VV-F 3G1,5)
 - Regleta de enchufes para montaje, instalación y fijación posible, montable por ejemplo en pared o en la mesa, instalación rápida y fácil con tornillos
-- Enchufe múltiple para uso en interiores con interruptor de seguridad iluminado para encendido y apagado (bipolar)
 - Regleta de enchufes con 2 tomas de carga USB A 5V/2,10A, 10,5W
+- Base de enchufe múltiple con 5 tomas de corriente, 2 unidades de carga USB y con cable de 3m (H05VV-F 3G1,5)
+- Enchufe múltiple para uso en interiores con interruptor de seguridad iluminado para encendido y apagado (bipolar)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07K77MPZZ{{</world>}}

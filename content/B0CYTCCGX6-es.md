@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mediasuela Bounce
-- Corte clásico
-- Peso: 277 g (talla 38 2/3)
+- Forro textil
+- Drop: 10 mm (talón: 34 mm / antepié: 24 mm)
+- Suela de goma
 - Cierre de cordones
 - Empeine textil y de malla sintética
+- Mediasuela Bounce
 - Plantilla OrthoLite
-- Forro textil
-- Suela de goma
-- Drop: 10 mm (talón: 34 mm / antepié: 24 mm)
+- Corte clásico
+- Peso: 277 g (talla 38 2/3)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CYTCCGX6{{</world>}}

@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Material Principal: 100% Poliéster(100% Reciclado) / Forro: 100% Poliéster(100% Reciclado) / Acolchado: 100% Polietileno
 - Capacidad: 57 l
-- Dimensiones: 29 x 59,5 cm
 - Cierre de cremallera en el compartimento principal
+- Dimensiones: 29 x 59,5 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4DX4SDX{{</world>}}

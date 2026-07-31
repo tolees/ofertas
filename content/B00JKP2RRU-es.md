@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Jersey de 160 g/m²
-- Jersey
-- Estampado suave en el pecho.
 - 60 % algodón, 40 % poliéster
+- Jersey de 160 g/m²
+- Estampado suave en el pecho.
+- Jersey
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00JKP2RRU{{</world>}}

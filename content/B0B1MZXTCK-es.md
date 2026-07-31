@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- REEBOK REEBOK GLIDE FTWWHT/FTWWHT/CDGRY2 36 WOMENS
 - Logotipo estampado en el talón y el panel lateral
-- Entresuela de EVA Suela serrada en goma
 - Talón y lengüeta acolchados Aplicación con el logotipo en la lengüeta
+- Entresuela de EVA Suela serrada en goma
+- REEBOK REEBOK GLIDE FTWWHT/FTWWHT/CDGRY2 36 WOMENS
 - Detalles de perforaciones en la puntera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Talle medio
+- Contiene al menos un 70 % de material reciclado y renovable
+- 55 % algodón, 36 % poliéster (reciclado), 9 % viscosa
 - Dobladillo elástico
 - Corte clásico
 - Cintura elástica con cordón
 - Bolsillos delanteros
-- Contiene al menos un 70 % de material reciclado y renovable
-- Talle medio
-- 55 % algodón, 36 % poliéster (reciclado), 9 % viscosa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZPBYC9F{{</world>}}

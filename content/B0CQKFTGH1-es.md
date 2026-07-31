@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Essence cares: ¿Belleza sin escrúpulos? ¡Ni hablar! Nuestros productos no han sido testados en animales (conforme a la legislación de la UE). Creemos que ningún ser vivo debería sufrir por nuestra belleza
 - Ingredientes de calidad: nuestro objetivo es desarrollar cosméticos seguros y de la mejor calidad. Siempre que sea posible, utilizamos ingredientes naturales y veganos
 - Máxima adherencia para un maquillaje de larga duración: esta prebase es la base perfecta para un maquillaje duradero
-- Para una piel suave y con aspecto fresco: aplicada sola, esta base hidratante en gel proporciona un acabado fresco, ideal para lograr un look radiante y luminoso.
+- Essence cares: ¿Belleza sin escrúpulos? ¡Ni hablar! Nuestros productos no han sido testados en animales (conforme a la legislación de la UE). Creemos que ningún ser vivo debería sufrir por nuestra belleza
 - Textura gelatinosa hidratante: su fórmula gelatinosa especial hidrata la piel y se puede usar sola o como prebase antes de la base de maquillaje
+- Para una piel suave y con aspecto fresco: aplicada sola, esta base hidratante en gel proporciona un acabado fresco, ideal para lograr un look radiante y luminoso.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CQKFTGH1{{</world>}}

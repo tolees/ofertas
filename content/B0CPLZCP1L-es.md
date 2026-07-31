@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Disfruta de una experiencia de energía con cada aplicación.
-- CATRICE fragancia original con calidad garantizada.
 - Presentación versátil de alta calidad, fácil de usar y llevar contigo.
 - CATRICE Fake It Máscara De Pestañas Volumen Y Pestañas Postizas 010D – Other Beauty auténtico y reconocido.
 - Ideal para viajes, aporta beneficio inmediata.
+- Disfruta de una experiencia de energía con cada aplicación.
+- CATRICE fragancia original con calidad garantizada.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CPLZCP1L{{</world>}}

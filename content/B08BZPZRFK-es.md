@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - ♥ Temperatura de impresión / temperatura de la boquilla: la temperatura de impresión recomendada para el filamento PETG 3d es de 220-250 ° C, temperatura de la placa inferior: si no se aplica pegamento, es de 90 ° C.
-- ♥ Rigidez, tenacidad, alto rendimiento: el filamento 3d petg1.75 es un material rígido, resistente y de alto rendimiento con excelente transmisión de luz, transparencia y alto brillo. Tiene alta resistencia a temperaturas superiores a 60 ° C.
-- ♥ Alta precisión: filamento PETG 3D de 1,75 mm (clase de tolerancia: ± 0,02 mm). El filamento de aproximadamente 325 m en cada carrete es fácil de usar, con una deformación mínima, sin obstrucciones y sin burbujas de aire.
 - ♥ Sin enredos: filamento PETG de 1.75 mm de alta calidad GEEETECH, el producto impreso es suave, brillante y libre de impurezas.
 - ♥ Protección del medio ambiente: está hecho de recursos naturales renovables, materiales de protección del medio ambiente, libres de contaminación y protegen la naturaleza.
+- ♥ Rigidez, tenacidad, alto rendimiento: el filamento 3d petg1.75 es un material rígido, resistente y de alto rendimiento con excelente transmisión de luz, transparencia y alto brillo. Tiene alta resistencia a temperaturas superiores a 60 ° C.
+- ♥ Alta precisión: filamento PETG 3D de 1,75 mm (clase de tolerancia: ± 0,02 mm). El filamento de aproximadamente 325 m en cada carrete es fácil de usar, con una deformación mínima, sin obstrucciones y sin burbujas de aire.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08BZPZRFK{{</world>}}

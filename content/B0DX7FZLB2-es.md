@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ¡Forma tu equipo perfecto de 3 luchadores!
-- ¡Una variedad de modos de juego para una experiencia completa!
 - ¡El primer juego de lucha en la historia de la franquicia!
+- ¡Una variedad de modos de juego para una experiencia completa!
+- ¡Forma tu equipo perfecto de 3 luchadores!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DX7FZLB2{{</world>}}

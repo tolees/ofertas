@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - El paquete contiene dos unidades
-- Crema para cara y cuerpo de nutrición intensa
-- Contiene la fórmula desarrollada con tecnología de hidro-cera que se funde sobre la piel
 - Nutre intensamente la piel durante de 24 horas
+- Contiene la fórmula desarrollada con tecnología de hidro-cera que se funde sobre la piel
+- Crema para cara y cuerpo de nutrición intensa
 - Ofrece una sensación en la piel de ligereza
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El icónico estilo deportivo de Nike, ideal tanto para entrenar como para el tiempo libre.
-- Máximo confort diseñado para acompañar cada movimiento de forma natural.
 - Diseño clásico con capucha y bolsillo tipo canguro; ideal para la comodidad y versatilidad del día a día.
 - Confeccionada con tejido suave y cepillado para una calidez óptima; perfecta para los días frescos.
+- El icónico estilo deportivo de Nike, ideal tanto para entrenar como para el tiempo libre.
 - Puños y dobladillo acanalados para un ajuste que mantiene la forma; logotipo Nike Swoosh bordado en el pecho.
+- Máximo confort diseñado para acompañar cada movimiento de forma natural.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DPGK87L9{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño ligero
-- Entresuela amortiguadora
 - Suela de tracción flexible
+- Entresuela amortiguadora
+- Diseño ligero
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CNY6783G{{</world>}}

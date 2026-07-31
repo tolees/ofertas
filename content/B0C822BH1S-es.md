@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- El compartimento separado para la vejiga de hidratación es compatible con sistemas de hidratación de hasta 2 litros
+- Funda impermeable desmontable
 - Máxima ventilación gracias al sistema de malla Aircomfort en la espalda, que garantiza una comodidad de uso óptima
 - Correa para el pecho de ajuste continuo
 - Soporte para gafas y bastones
-- Funda impermeable desmontable
-- El compartimento separado para la vejiga de hidratación es compatible con sistemas de hidratación de hasta 2 litros
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C822BH1S{{</world>}}

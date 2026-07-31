@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Escote en V
 - Corte delgado para líneas ajustadas
 - Algodón suave
+- Escote en V
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4QLPKSZ{{</world>}}

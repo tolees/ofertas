@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Longitud 2 m
-- Peso con embalaje incluido 0.4 kg
 - Repuesto de manguera de aspiración con 2 metros de longitud y conexión para aspirador en seco DN 35
+- Peso con embalaje incluido 0.4 kg
 - Ancho nominal estándar 35
+- Longitud 2 m
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01K9QPZFY{{</world>}}

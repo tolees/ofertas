@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Suela para césped natural seco / multisuperficie
-- Horma clásica
-- Forro textil
 - Empeine de Fiberskin con estampado Sprintgridcarcasa
+- Forro textil
+- Horma clásica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DHSPBDC8{{</world>}}

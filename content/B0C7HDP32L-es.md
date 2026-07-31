@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Manga larga
-- Sudadera para hombre de la marca danesa JACK & JONES
-- Con cremallera
 - Con capucha
+- Sudadera para hombre de la marca danesa JACK & JONES
 - Composición del material: 61% poliéster, 39% algodón
+- Con cremallera
 - Composición del material: 61% poliéster, 39% algodón
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior de punto de malla diseñada con cordones en la parte delantera
 - Skechers Plantilla acolchada de espuma viscoelástica
+- Parte superior de punto de malla diseñada con cordones en la parte delantera
 - Entresuela contorneada que absorbe los golpes
 - Suela de tracción de goma flexible
 

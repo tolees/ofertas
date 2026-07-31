@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Depositar entre 3 y 5 gotas para una habitación de entre 9 y 15 m² (Ver modo de empleo del difusor utilizado)
-- Energía chispeante y acidulada - Limón y Bergamota
 - 100% aceites esenciales ecológicos : Limón, Bergamota, Lima, Naranjo amargo, Naranja dulce, Hierbabuena, Anís estrellado
-- Verdadera explosión olfativa vibrante que estimulará el optimismo y el entusiasmo
 - Las notas vibrantes y aciduladas que evocan el frescor y el color amarillo brillante del limón
+- Energía chispeante y acidulada - Limón y Bergamota
+- Depositar entre 3 y 5 gotas para una habitación de entre 9 y 15 m² (Ver modo de empleo del difusor utilizado)
+- Verdadera explosión olfativa vibrante que estimulará el optimismo y el entusiasmo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07JQGG196{{</world>}}

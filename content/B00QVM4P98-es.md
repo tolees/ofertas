@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- This aromatic aquatic fragrance has a blend of mint, petit grain, cardamom, nutmeg, lavender, musk, sandalwood, and cedar
 - It is recommended for casual wear.
 - Launched by the design house of Nautica in the year 2013
-- This aromatic aquatic fragrance has a blend of mint, petit grain, cardamom, nutmeg, lavender, musk, sandalwood, and cedar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00QVM4P98{{</world>}}

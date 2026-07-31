@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diámetro: 25 cm, profundidad: 4,5 cm, peso: 630 g
 - Reloj de pared con diseño sencillo y atemporal
+- Diámetro: 25 cm, profundidad: 4,5 cm, peso: 630 g
 - Contenido del suministro: 1 reloj de pared, 1 instrucciones
 - Funciona con pilas: 1 pila AA (no incl.)
 - Mecanismo de reloj silencioso, ajuste manual de la hora

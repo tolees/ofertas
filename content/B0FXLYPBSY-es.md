@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cámara de seguridad conectividad 4G LTE plug‑and‑play: funciona con tarjeta SIM (no incluida), ideal para lugares sin WiFi permanente.
-- Cobertura total: giro horizontal de ~340‑360° y vertical de hasta 134°, con seguimiento inteligente (personas, vehículos, mascotas) y zonas de detección personalizables.
-- Grado de protección IP65 ante intemperie: resistencia al polvo, lluvia y calor, ideal para exteriores exigentes.
-- Vídeo nítido en resolución 2K (3MP) con visión nocturna en color gracias a los focos integrados.
 - Alimentación solar + batería de gran capacidad (6.700 mAh): hasta 120 días de autonomía con luz solar regular; sin dependencias de enchufes.
+- Grado de protección IP65 ante intemperie: resistencia al polvo, lluvia y calor, ideal para exteriores exigentes.
+- Cobertura total: giro horizontal de ~340‑360° y vertical de hasta 134°, con seguimiento inteligente (personas, vehículos, mascotas) y zonas de detección personalizables.
+- Vídeo nítido en resolución 2K (3MP) con visión nocturna en color gracias a los focos integrados.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FXLYPBSY{{</world>}}

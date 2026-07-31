@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste : Normal
 - Chaqueta entre-tiempo con las siguientes características:
+- Ajuste : Normal
 - Descubre todas las marcas de EMP!
-- Básicos, Ropa de Calle
 - Chaqueta Mujer || Ajuste normal || Color intenso || Material duradero
+- Básicos, Ropa de Calle
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07CJLJ6H1{{</world>}}

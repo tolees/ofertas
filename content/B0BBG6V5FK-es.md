@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- VOLUMEN Y CURVATURA SIN APELMAZAR: riza y alarga tus pestañas y consigue un efecto volumen modulable para intensificar la mirada y definir tus ojos. ¡Sin duda un imprescindible!
 - ALTA PIGMENTACIÓN:s máscaras de colores atrevidos y vibrantes de alta cobertura. Conoce algunos de nuestros tonos: como la mascara de pestañas violeta 482 o la máscara de pestañas azul 850 ¡Atrévete!
 - VEGANO Y CRUELTY FREE: 3INA es una marca de maquillaje española que fabrica en Europa. Todos nuestros productos son veganos, libres de parabenos y sin crueldad animal.
-- APLICACIÓN SIN ESFUERZO: cepillo de silicona atrapa cada pestaña para dar color desde la raíz hasta la punta. Utiliza The Eyes & Makeup Remover para retirar el maquillaje de forma sencilla y rápida.
 - KERATINA VEGETAL: máscaras de colores enriquecidas con keratina vegetal que ayuda a reforzar y fortalecer las fibras de tus pestañas consiguiendo un color inmediato a la vez que hidrata la pestaña.
-- VOLUMEN Y CURVATURA SIN APELMAZAR: riza y alarga tus pestañas y consigue un efecto volumen modulable para intensificar la mirada y definir tus ojos. ¡Sin duda un imprescindible!
+- APLICACIÓN SIN ESFUERZO: cepillo de silicona atrapa cada pestaña para dar color desde la raíz hasta la punta. Utiliza The Eyes & Makeup Remover para retirar el maquillaje de forma sencilla y rápida.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BBG6V5FK{{</world>}}

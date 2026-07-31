@@ -28,15 +28,15 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Efecto a largo plazo: protección y humedad duradera
-- Para pieles muy secas y dañadas
-- Fórmula sin microplástico
-- Magnolia y manteca de karité
-- Con complejo de aceite de cuidado
 - Cuidado rico
+- Magnolia y manteca de karité
+- Fórmula sin microplástico
+- Para pieles muy secas y dañadas
 - Tubo con un 30% de papel
-- Protege contra la sequedad
+- Con complejo de aceite de cuidado
+- Efecto a largo plazo: protección y humedad duradera
 - Vegano
+- Protege contra la sequedad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07BRQ4SC7{{</world>}}

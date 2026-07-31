@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cojín cervical de viaje pensado para los más peques, con forma de nuestro querido koala. Realizado en memory foam, resulta muy cómodo. Se ajusta en la parte frontal con un cierre de clic.
 - Indicaciones: no mojar la parte interior. Extraer la parte exterior para lavarla y hacerlo a mano y en agua fría, sin usar lejía, sin plancharla, sin meterla en la secadora y sin lavarla en seco.
+- Cojín cervical de viaje pensado para los más peques, con forma de nuestro querido koala. Realizado en memory foam, resulta muy cómodo. Se ajusta en la parte frontal con un cierre de clic.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DR2RD2MT{{</world>}}

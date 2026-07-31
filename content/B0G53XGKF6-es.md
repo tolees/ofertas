@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La siguiente información se aplica a cada unidad del paquete
-- Packaging fabricado con un 48% de material reciclado
-- Fuente natural de vitaminas C&E y aceite de coco
-- Difumina las imperfecciones y los signos de fatiga, unificando el tono de piel para un efecto mas radiante
 - Cobertura ligera, que deja que la piel respire y con una aplicación cómoda, deslizandose fácil y uniformemente
+- La siguiente información se aplica a cada unidad del paquete
+- Difumina las imperfecciones y los signos de fatiga, unificando el tono de piel para un efecto mas radiante
+- Fuente natural de vitaminas C&E y aceite de coco
 - Crema facial con color que proporcina un brillo instantáneo y mejora de la luminosidad y el aspecto de la piel en sólo 2 semanas
+- Packaging fabricado con un 48% de material reciclado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G53XGKF6{{</world>}}

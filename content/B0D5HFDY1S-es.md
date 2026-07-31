@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Octava estatua de la colección Destiny tras The Stranger, The Drifter, Eris Morn, Cayde-6, Savathûn, the Witch Queen, Lord Shaxx y Variks, the Loyal
-- Fabricada con materiales de alta calidad y gran atención al detalle: desde los intrincados patrones de su armadura hasta la mirada penetrante de The Crow, esta estatua irradia fuerza y determinación
-- Ya sea en tu escritorio, estantería o setup gamer, esta extraordinaria estatua atraerá todas las miradas y es imprescindible para cualquier fan de Destiny
-- Con una altura impresionante de 25,4 cm (10 pulgadas), esta réplica de alta calidad incluye detalles pintados a mano
 - Numskull Designs se enorgullece de colaborar con Bungie para presentar esta fiel recreación de uno de los personajes favoritos de los fans
+- Ya sea en tu escritorio, estantería o setup gamer, esta extraordinaria estatua atraerá todas las miradas y es imprescindible para cualquier fan de Destiny
+- Fabricada con materiales de alta calidad y gran atención al detalle: desde los intrincados patrones de su armadura hasta la mirada penetrante de The Crow, esta estatua irradia fuerza y determinación
+- Con una altura impresionante de 25,4 cm (10 pulgadas), esta réplica de alta calidad incluye detalles pintados a mano
+- Octava estatua de la colección Destiny tras The Stranger, The Drifter, Eris Morn, Cayde-6, Savathûn, the Witch Queen, Lord Shaxx y Variks, the Loyal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D5HFDY1S{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bordado con logo
-- Bolsillos laterales
 - Nuestras prendas de entrenamiento ofrecen la máxima adaptación a tu cuerpo porque trabajamos con tejidos transpirables que optimizan la ligereza y la resistencia al mismo tiempo.
+- Bolsillos laterales
+- Bordado con logo
 - 100% Algodón Cepillado Vellón
 - Givova es una marca italiana de ropa deportiva y expandida a otros segmentos textiles
 

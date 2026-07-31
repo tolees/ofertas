@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Empeine de material sintético
 - Forro textil
 - Horma clásica
-- Empeine de material sintético
 - Cierre de cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Amortiguación Lightstrike
 - Compra una talla más grande
+- Amortiguación Lightstrike
 - Forro textil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

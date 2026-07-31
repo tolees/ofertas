@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de material: acero inoxidable
-- Dimensiones del producto : 10.8 x 10.8 x 18.8 cm
 - Tipo de fuente de energía: eléctrica
 - Peso: 875 gramos
+- Dimensiones del producto : 10.8 x 10.8 x 18.8 cm
+- Tipo de material: acero inoxidable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B004ZIIGX6{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Este polo de rendimiento de manga corta para hombre con material de secado rápido es óptimo para los días activos; uno de nuestros polos técnicos más vendidos; el tejido Tactel te mantiene fresco y seco durante cualquier actividad sin dejar de lucir un aspecto impecable
+- Exterior: 100% poliamida
 - Polo de rendimiento de manga corta confeccionado con tejido Tactel de secado rápido
 - Artículos entregados: 1x Helly Hansen Mujer Polo Tech Crew,M,Blanco
-- Exterior: 100% poliamida
+- Este polo de rendimiento de manga corta para hombre con material de secado rápido es óptimo para los días activos; uno de nuestros polos técnicos más vendidos; el tejido Tactel te mantiene fresco y seco durante cualquier actividad sin dejar de lucir un aspecto impecable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B06ZXXVJ78{{</world>}}

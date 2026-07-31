@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material: textil, sintético
-- Talla Del Zapato: 43 EU
 - Género: Masculino
 - Cierre: cordones
+- Material: textil, sintético
 - Edad: Adulto
+- Talla Del Zapato: 43 EU
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DBZSC2VX{{</world>}}

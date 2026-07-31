@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alérgenos: Estas galletas son veganas, tienen un bajo contenido en grasas saturadas, no tiene huevo, lactosa ni grasa de palma; sin embargo, puede contener trazas de soja
-- Textura y sabor: Su textura es crujiente y su sabor es de galleta tradicional, pero con un toque afrutado gracias al arándano natural. Se recomienda guardarlas en un lugar fresco, seco y cerrarlas bien después de su uso
-- La siguiente información se aplica a cada unidad del paquete
-- Modo de empleo: Consumir directamente como tentempié, merienda o acompañamiento. Ideal entre horas o como parte de un desayuno equilibrado y/o merienda
-- Galletas Arándanos Triple Zero: Galletas de arándanos rojos sin edulcorantes, sin azúcares añadidos y sin gluten, siendo ideal para personas celíacas o que siguen una alimentación baja en azúcares
 - Formulación: Está formulada con 20% de copos finos de avena integral, 4,5% de arándanos rojos y es alta en fibra con un 22%, lo que contribuye a una buena digestión y proporciona una mayor sensación de saciedad
+- Modo de empleo: Consumir directamente como tentempié, merienda o acompañamiento. Ideal entre horas o como parte de un desayuno equilibrado y/o merienda
+- La siguiente información se aplica a cada unidad del paquete
+- Textura y sabor: Su textura es crujiente y su sabor es de galleta tradicional, pero con un toque afrutado gracias al arándano natural. Se recomienda guardarlas en un lugar fresco, seco y cerrarlas bien después de su uso
+- Galletas Arándanos Triple Zero: Galletas de arándanos rojos sin edulcorantes, sin azúcares añadidos y sin gluten, siendo ideal para personas celíacas o que siguen una alimentación baja en azúcares
+- Alérgenos: Estas galletas son veganas, tienen un bajo contenido en grasas saturadas, no tiene huevo, lactosa ni grasa de palma; sin embargo, puede contener trazas de soja
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G5BP111R{{</world>}}

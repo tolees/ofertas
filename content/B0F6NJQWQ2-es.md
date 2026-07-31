@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ancho normal
 - Cierre de cordones
 - Puntera redondeada
+- Ancho normal
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F6NJQWQ2{{</world>}}

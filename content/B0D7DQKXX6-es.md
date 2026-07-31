@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conoce a nuevos amigos por el camino, como Conetta y Porcopolo (que no es un cerdo en absoluto), y crúzate con personajes conocidos del Reino Champiñón, como Peach y Bowser, que quizá te echen una mano durante la aventura.
-- ¡El inimitable dúo de hermanos regresa para una nueva aventura en alta mar! Leva anclas en compañía de Mario y Luigi a bordo de la Isla Nao (mitad barco, mitad isla), y recorre el ancho mundo de Concordia. Usa el cañón de la Isla Nao para visitar, explorar y vivir mil peripecias en todo tipo de islas, que albergan desde selvas tropicales hasta bulliciosas ciudades.
 - ¡Viaja de isla en isla en esta marítima aventura de Mario y Luigi!
+- Conoce a nuevos amigos por el camino, como Conetta y Porcopolo (que no es un cerdo en absoluto), y crúzate con personajes conocidos del Reino Champiñón, como Peach y Bowser, que quizá te echen una mano durante la aventura.
 - Tendrás que recurrir al vínculo que une a Mario y Luigi para lograr la victoria. Usa las acciones tándem para salvar obstáculos mientras exploras, y ejecuta poderosos ataques tándem que les dan un toque muy dinámico a los clásicos combates por turnos. ¡Necesitarás sacarle todo el provecho a esta "conexión fraternal" para que los hermanos salgan airosos!
+- ¡El inimitable dúo de hermanos regresa para una nueva aventura en alta mar! Leva anclas en compañía de Mario y Luigi a bordo de la Isla Nao (mitad barco, mitad isla), y recorre el ancho mundo de Concordia. Usa el cañón de la Isla Nao para visitar, explorar y vivir mil peripecias en todo tipo de islas, que albergan desde selvas tropicales hasta bulliciosas ciudades.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D7DQKXX6{{</world>}}

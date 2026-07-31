@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Camiseta y mallas cortas de corte ajustado
-- Camiseta: 80% poliéster (reciclado) / 20% elastano
 - CLIMACOOL
-- Cintura elástica
 - Mallas cortas: 100% poliéster (reciclado)
+- Camiseta: 80% poliéster (reciclado) / 20% elastano
+- Cintura elástica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZY1SCFW{{</world>}}

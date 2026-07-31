@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior en piel
-- Trabilla con el logotipo en la lengüeta Puntera con perforaciones Puntera reforzada
 - Entresuela de goma EVA Suela exterior de goma
 - Cuello en el tobillo y lengüeta acolchados Plantilla moldeada
+- Parte superior en piel
+- Trabilla con el logotipo en la lengüeta Puntera con perforaciones Puntera reforzada
 - Empeine de piel
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

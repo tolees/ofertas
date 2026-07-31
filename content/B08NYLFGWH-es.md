@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tejido suave transpirable
-- Malla en las pantorrillas
 - Cintura ancha elástica
+- Malla en las pantorrillas
+- Tejido suave transpirable
 - Ofrece comodidad y libertad de movimiento
 
 [🛒 Aquí!!!]({{< param buyurl >}})

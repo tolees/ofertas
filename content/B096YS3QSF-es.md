@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- DETALLES: solapa con tres botones, tela que absorbe la humedad, cuello acanalado y aberturas laterales para mayor movilidad
-- PIQUÉ DE SECADO RÁPIDO: el piqué de poliéster ofrece una superficie texturizada y absorbe la humedad para ofrecer comodidad en movimiento
-- CORTE AJUSTADO: corte ajustado en los hombros, las mangas, el pecho y la cintura
 - POLO DEPORTIVO: diseñado para jugar al golf y como ropa deportiva
+- DETALLES: solapa con tres botones, tela que absorbe la humedad, cuello acanalado y aberturas laterales para mayor movilidad
+- CORTE AJUSTADO: corte ajustado en los hombros, las mangas, el pecho y la cintura
+- PIQUÉ DE SECADO RÁPIDO: el piqué de poliéster ofrece una superficie texturizada y absorbe la humedad para ofrecer comodidad en movimiento
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B096YS3QSF{{</world>}}

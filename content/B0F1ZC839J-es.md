@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Color: azul
-- Marca: Tommy Hilfiger
+- Modelo: Sudaderas
 - Material: algodón
 - Artículo: MW0MW37235
-- Modelo: Sudaderas
+- Marca: Tommy Hilfiger
+- Color: azul
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F1ZC839J{{</world>}}

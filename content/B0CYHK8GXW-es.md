@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre de cremallera y cuello alzado
-- Bolsillos frontales con cremallera
-- Perforaciones a láser que favorecen la ventilación
-- 100% poliéster (reciclado)
-- Dobladillo trasero más largo
-- Revestimiento que repele el agua (DWR)
-- Detalles reflectantes
 - Corte clásico
+- Dobladillo trasero más largo
+- Perforaciones a láser que favorecen la ventilación
+- Revestimiento que repele el agua (DWR)
+- Bolsillos frontales con cremallera
 - WIND.RDY
+- Detalles reflectantes
+- 100% poliéster (reciclado)
+- Cierre de cremallera y cuello alzado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CYHK8GXW{{</world>}}

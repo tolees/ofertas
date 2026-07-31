@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Todo tipo de cabello
-- Limpia suavemente el cabello
 - Pelo hasta 3 veces más suave
-- Champú ligero
+- Limpia suavemente el cabello
 - Contiene aceites de jojoba y argán
-- Combínalo con el acondicionador Dark Oil, la mascarilla Dark Oil y el aceite Dark Oil de Sebastian Professionals
+- Todo tipo de cabello
+- Champú ligero
 - Cabello con cuerpo y brillo sin apelmazar
+- Combínalo con el acondicionador Dark Oil, la mascarilla Dark Oil y el aceite Dark Oil de Sebastian Professionals
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B2DZVM6N{{</world>}}

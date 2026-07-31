@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Chaqueta confeccionada en algodón con elastán para una mayor comodidad.
-- Corte Regular Fit.
 - Cuello alto, múltiples bolsillos tipo cargo con tapeta y cierre mediante cremallera oculta por tapeta con botones tipo snap.
+- Corte Regular Fit.
 - Manga larga terminada en puño con tira abotonada y cintura ajustable mediante cordón.
+- Chaqueta confeccionada en algodón con elastán para una mayor comodidad.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0GVN94N3V{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin perfume
-- Elimina suavemente la suciedad, el maquillaje y otras impurezas
-- Cuidado díario de alta tolerancia para pieles normales, sensibles y secas
-- No obstruye los poros
 - Se puede retirar con o sin agua
+- Cuidado díario de alta tolerancia para pieles normales, sensibles y secas
+- Elimina suavemente la suciedad, el maquillaje y otras impurezas
+- No obstruye los poros
+- Sin perfume
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0052EC0AW{{</world>}}

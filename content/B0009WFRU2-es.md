@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Capacidad del tazón: 1 l
-- Controles ajustables de pulpa
 - Rotación izquierda y derecha
+- Controles ajustables de pulpa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0009WFRU2{{</world>}}

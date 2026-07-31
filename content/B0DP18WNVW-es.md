@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Colección Magical
 - Unicornio iluminado con correa y parte superior con estampado de corazón múltiple
+- Se ilumina con botón de encendido/apagado
 - Temático
 - Cierre adaptable
-- Colección Magical
-- Se ilumina con botón de encendido/apagado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DP18WNVW{{</world>}}

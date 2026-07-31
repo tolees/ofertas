@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CALIDAD DEMOSTRADA: Desde 1985, esta marca de diseñador lleva demostrando por todo el mundo la calidad y la ligereza mediante una gran variedad de diseños en los míticos colores azul oscuro, blanco y rojo.
-- PARA CUALQUIER OCASIÓN: Esta ligera cazadora con cuello alto destaca por su versatilidad y su gran comodidad. Los discretos detalles distintivos de Tommy Hilfiger proporcionan un estilo muy elegante a esta prenda.
-- MATERIAL Y CUIDADO: Cazadora confeccionada en 53 % elastomultiéster y 47 % poliéster. Se puede lavar a máquina y secar en secadora.
 - ICÓNICO Y ATEMPORAL: La cazadora original de Tommy Hilfiger con dos bolsillos a la altura de la cintura tiene un diseño depurado. Gracias a su material ligero es ideal para los meses de entretiempo.
+- MATERIAL Y CUIDADO: Cazadora confeccionada en 53 % elastomultiéster y 47 % poliéster. Se puede lavar a máquina y secar en secadora.
+- PARA CUALQUIER OCASIÓN: Esta ligera cazadora con cuello alto destaca por su versatilidad y su gran comodidad. Los discretos detalles distintivos de Tommy Hilfiger proporcionan un estilo muy elegante a esta prenda.
+- CALIDAD DEMOSTRADA: Desde 1985, esta marca de diseñador lleva demostrando por todo el mundo la calidad y la ligereza mediante una gran variedad de diseños en los míticos colores azul oscuro, blanco y rojo.
 - AJUSTE PERFECTO: Esta cazadora de entretiempo de estilo atemporal y minimalista es ligera a la vez que abrigada.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Juego de puntas de 31 piezas.
 - Alcance de la garantía
+- Ninguna DEWALT garantía
 - entrega
 - NOTA: el embalaje puede variar.
-- Juego de puntas de 31 piezas.
-- Ninguna DEWALT garantía
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07NZXD5DY{{</world>}}

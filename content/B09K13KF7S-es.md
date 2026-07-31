@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Combinación de Omega 3 y Omega 6 para adultos y niños
 - Complemento alimenticio
+- Combinación de Omega 3 y Omega 6 para adultos y niños
 - Producto de calidad óptima
 
 [🛒 Visítala!!!]({{< param buyurl >}})

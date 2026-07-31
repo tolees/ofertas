@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cómoda de llevar
 - Protege del frío
 - Sudadera deportiva
+- Cómoda de llevar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DCZX5XG6{{</world>}}

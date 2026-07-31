@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela de tracción flexible
-- Cierre de cordones
 - Skechers Detalle del logotipo
+- Cierre de cordones
+- Suela de tracción flexible
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB25TDD1{{</world>}}

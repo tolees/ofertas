@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Lavable a máquina
 - Slip-Ins integrados
-- Mstrike
 - Espuma viscoelástica refrigerada por aire
+- Mstrike
 - Amortiguación ultraligera
 
 [🛒 Comprar!!!]({{< param buyurl >}})

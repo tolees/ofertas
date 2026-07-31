@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela : Suela de goma
 - Puntera : Punta redonda
 - Cierre : Con cordones
+- Suela : Suela de goma
 - Artículo : Zapatillas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

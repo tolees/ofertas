@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Hidratación y lubricación reforzadas con ácido hialurónico. Nutre y protege la superficie ocular, aportando nutrientes
-- Para ojos secos. Nueva fórmula con ácido hialurónico al 0,2%
 - Compatible con cualquier tipo de lente de contacto blanda
+- Para ojos secos. Nueva fórmula con ácido hialurónico al 0,2%
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D9BVNH14{{</world>}}

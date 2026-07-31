@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Chaleco
 - Logo
+- Chaleco
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CRL2PYZH{{</world>}}

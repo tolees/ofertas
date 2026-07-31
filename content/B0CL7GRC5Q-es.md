@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte : Corte slim
-- Cintura : Tiro bajo
+- Bolsillos : Bolsillos traseros, Bolsillos delanteros
+- Detalles de la pierna : Dobladillos arremangados
 - Artículo : Pantalones chinos
+- Corte : Corte slim
 - Modo de vida : Tradicional
 - Cierre : Bragueta con cremallera
-- Detalles de la pierna : Dobladillos arremangados
-- Bolsillos : Bolsillos traseros, Bolsillos delanteros
+- Cintura : Tiro bajo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CL7GRC5Q{{</world>}}

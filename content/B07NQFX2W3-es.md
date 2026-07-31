@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Patrón: liso
 - Casquillo: Forma redonda
+- Patrón: liso
 - Forrado en frío
 
 [🛒 Aquí!!!]({{< param buyurl >}})

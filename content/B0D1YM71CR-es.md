@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detalles distintivos de la marca
 - Ofrecen amortiguación y comodidad durante todo el día
+- Detalles distintivos de la marca
 - Suela con una tracción óptima
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

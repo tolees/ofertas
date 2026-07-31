@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Lavar a mano
 - Manga larga
 - Cierre de Cremallera
-- Lavar a mano
 - 100% Compuesto
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- ETIQUETAS: Este producto es apto para celiácos. Además, no contiene azúcares añadidos, ni colorantes, ni conservantes
 - Tomar colágeno de manera sencilla, en cualquier momento y lugar, es posible con los comprimidos masticables de Drasanvi que, además, tienen un agradable sabor
 - HUESOS Y ARTICULACIONES: Colágeno marino hidrolizado, óxido de magnesio, ácido hialurónico, aroma de limón. Sin colorantes, conservantes ni azúcares añadidos
 - MODO DE USO: Tomar 6 comprimidos a lo largo del día, masticados o disueltos directamente en la boca. Por dosis diaria se obtienen 226,56 mg de Magnesio, lo que representa el 61% del Valor de Referencia Nutricional
 - PROPIEDADES: El colágeno utilizado proviene de peces, un estudio reciente ha demostrado que el colágeno marino se asimila más fácilmente que otras fuentes de colágeno, como el porcino o bovino
-- ETIQUETAS: Este producto es apto para celiácos. Además, no contiene azúcares añadidos, ni colorantes, ni conservantes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07BWK4JZ6{{</world>}}

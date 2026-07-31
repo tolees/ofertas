@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Instrucciones de cuidado: lavable a máquina
+- Ajuste: corte regular
 - Composición: 99 por ciento algodón 1 por ciento elastano
 - Jeans Pantalones Largos
 - Cierre: cremallera y botón
-- Instrucciones de cuidado: lavable a máquina
-- Ajuste: corte regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CRF9DLJ9{{</world>}}

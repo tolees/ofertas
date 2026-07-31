@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aplicar aproximadamente 10ml/15ml sobre las palmas de las manos y repartir sobre el cabello húmedo por todas las diferentes áreas del cuero cabelludo y longitud del cabello realizando movimientos circulares hasta favorecer la aparición de espuma. A continuación aclarar con agua de manera abundante.
 - Hidratación del cabello, aportando manejabilidad, suavidad y potenciando el brillo en todo momento.
 - Champú con Aceite de Argán y Moisture Complex para Cabello seco y frágil. Elimina las impurezas manteniendo a la vez el cabello suave, saludable y manejable
+- Aplicar aproximadamente 10ml/15ml sobre las palmas de las manos y repartir sobre el cabello húmedo por todas las diferentes áreas del cuero cabelludo y longitud del cabello realizando movimientos circulares hasta favorecer la aparición de espuma. A continuación aclarar con agua de manera abundante.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08Y1CYNF3{{</world>}}

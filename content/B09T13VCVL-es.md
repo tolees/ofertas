@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fuente de calcio. Contiene vitaminas B2, B12 y D
-- Bebida de avena barista con calcio y vitaminas añadidas
 - Naturalmente bajo en grasas
 - Es 100% natural y vegetal, para contribuir a un planeta sostenible
 - Fue especialmente creado para ser puesto en el café
+- Bebida de avena barista con calcio y vitaminas añadidas
+- Fuente de calcio. Contiene vitaminas B2, B12 y D
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09T13VCVL{{</world>}}

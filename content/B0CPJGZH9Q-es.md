@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cuña con tacón oculto de 2,54 cm
+- Suela de goma flexible
 - Parte superior perforada de material sintético liso "Durabuck"
 - Tacón de 3,8 cm
-- Suela de goma flexible
-- Cuña con tacón oculto de 2,54 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CPJGZH9Q{{</world>}}

@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Revestimiento: Tela
-- Anchura del zapato: Normal
-- Material de la suela: Goma
 - Cierre: Cordones
-- Tipo de tacón: Plano
-- Composición: Canvas
 - Material exterior: Lona
+- Tipo de tacón: Plano
+- Revestimiento: Tela
+- Composición: Canvas
+- Material de la suela: Goma
+- Anchura del zapato: Normal
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00BIJ0PRA{{</world>}}

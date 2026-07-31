@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con una suela alta
 - Ofrecen una comodidad óptima
 - Presentan detalles distintivos de la marca
+- Con una suela alta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CQRPJFQ1{{</world>}}

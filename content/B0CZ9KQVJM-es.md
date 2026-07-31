@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte clásico
-- Tecnología Freshrite Polygiene que evita el mal olor
 - 100% poliéster (71% reciclado)
-- Cuello redondo
-- Material de secado rápido
-- Contiene al menos un 70% de material reciclado y renovable
-- Refuerzos bajo las sisas
-- Protección contra los rayos UV
 - Tejido Twistknit
+- Protección contra los rayos UV
+- Tecnología Freshrite Polygiene que evita el mal olor
+- Contiene al menos un 70% de material reciclado y renovable
+- Cuello redondo
+- Corte clásico
+- Refuerzos bajo las sisas
+- Material de secado rápido
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZ9KQVJM{{</world>}}

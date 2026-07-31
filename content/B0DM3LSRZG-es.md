@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Parte superior de malla transpirable con diseño moderno.
 - Suela con patrón de punta de flecha para transiciones rápidas
+- Parte superior de malla transpirable con diseño moderno.
 - Amortiguación reactiva para una conducción cómoda.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

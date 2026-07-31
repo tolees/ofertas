@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Aporta brillo
 - Protege de los daños causados por el sol
 - Fija el peinado
 - Gel de fijación media
-- Aporta brillo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0009ET3QO{{</world>}}

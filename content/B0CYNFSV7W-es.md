@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Empeine Hybridfeel con inserciones Strikescale
+- Horma clásica
 - Cierre de cordones
 - Suela para césped artificial
-- Horma clásica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CYNFSV7W{{</world>}}

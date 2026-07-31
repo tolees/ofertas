@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ✔️ CONSTRUYE MÚSCULO: bajo contenido en grasas y azúcares - sin azúcar ni sal añadidos - hidrosoluble - bebida proteica óptima para una dieta baja en carbohidratos y grasas - proteína de múltiples componentes con aislado de proteína de soja
-- ✔️ MÁS DE UN BATIDO: también es ideal para cocinar - se recomiendan de 1 a 2 batidos de proteínas con agua al día - lo ideal es tomar un batido inmediatamente después del entrenamiento/culturismo
 - ✔️ PROBADO EN LABORATORIO: calidad superior desarrollada por nutricionistas - fabricado en Alemania según las normas de calidad más estrictas - IFS Food y GMP
+- ✔️ MÁS DE UN BATIDO: también es ideal para cocinar - se recomiendan de 1 a 2 batidos de proteínas con agua al día - lo ideal es tomar un batido inmediatamente después del entrenamiento/culturismo
+- ✔️ CONSTRUYE MÚSCULO: bajo contenido en grasas y azúcares - sin azúcar ni sal añadidos - hidrosoluble - bebida proteica óptima para una dieta baja en carbohidratos y grasas - proteína de múltiples componentes con aislado de proteína de soja
 - ✔️ CAJA DE PRUEBAS 8 muestras de 30g con alto contenido en proteínas - promueve el crecimiento muscular - proteína de 6 componentes con todos los aminoácidos esenciales - alto valor biológico
 - ✔️ 100% VEGETAL: batido de proteínas sin lactosa, proteínas lácteas (suero y caseína), aspartamo, colorantes, aceite de palma, gelatina ni ingeniería genética - ideal para dietas veganas y vegetarianas - para hombres y mujeres.
 

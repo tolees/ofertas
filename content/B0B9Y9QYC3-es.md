@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Utiliza una técnica especial que teje hilos gruesos de refuerzo a intervalos regulares en un patrón entrecruzado.
-- Estuche portatodo mini.
-- Forro interior.
 - Serie 1918, color verde. Inspirada en los colores y diseño originales de las gomas de borrar MILAN, fabricadas en España desde 1918.
+- Estuche portatodo mini.
 - Composición tejido: exterior y forro interior de poliéster. Medidas: 20,5 x 4,5 x 5 cm.
+- Utiliza una técnica especial que teje hilos gruesos de refuerzo a intervalos regulares en un patrón entrecruzado.
+- Forro interior.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B9Y9QYC3{{</world>}}

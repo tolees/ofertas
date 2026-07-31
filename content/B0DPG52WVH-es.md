@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Ajuste: __ Comfort Fit
 - Rib 1 x 1 en cuffs and Bottom Hem
-- Material: algodón, reciclado, poliéster, 280 g/m2
 - Hood with Drawcord
+- Material: algodón, reciclado, poliéster, 280 g/m2
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DPG52WVH{{</world>}}

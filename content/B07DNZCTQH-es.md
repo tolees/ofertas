@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Altura: 40 cm, Ancho: 30 cm, Fondo: 18 cm
 - Fabricada 100% en poliéster y con un auténtico tacto vaquero
-- Altura: 40 cm, Ancho: 30 cm, Fondo: 18 cm
 - Mochila de un compartimento con un práctico bolsillo delantero
+- Altura: 40 cm, Ancho: 30 cm, Fondo: 18 cm
 - Funda acolchada para portátil de hasta 13.3 pulgadas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

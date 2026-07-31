@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 📷 CALIDAD - Álbum juvenil fabricado con materiales de alta calidad cuyas medidas son de 24 x 32 x 2 cm. Es un álbum tapa dura con un protector para resguardar sus portadas, haciendolo así más resistente y duradero
 - 📷 ÁLBUM DE FOTOS ADHESIVO - Con este álbum con 30 páginas adhesivas podrás colocar en cada página dos fotos de 10x15cm o de distintos tamaños de manera sencilla. Gracias a su tamaño podrás tenerlo siempre a mano y recordar esos momentos que te hacen tan felices
 - 📷 KOKONOTE - Los diseñadores de Kokonote han echado su mente a volar para crear este diseño icónico de albumes de fotos en su gama de papeleria con un estilo inmejorable.
-- 📷 CALIDAD - Álbum juvenil fabricado con materiales de alta calidad cuyas medidas son de 24 x 32 x 2 cm. Es un álbum tapa dura con un protector para resguardar sus portadas, haciendolo así más resistente y duradero
 - 📷 Un álbum de fotos siempre será la mejor opción para recordar aquellos momentos que nos hicieron felices. Con este álbum moderno podrás guardar bien todos aquellos recuerdos gracias a su plástico en cada hoja para proteger tus fotografías
 - 📷 REGALO ORIGINAL - Un álbum de fotos siempre ha sido un regalo dotado de mucha personalidad y cargado de emoción. Es ideal para crear un álbum bebe primer año para inmortalizar aquellos momentos únicos y enseñarselos al bebe cuando sea más grande. ¿Te vas de viaje y eres del que haces mil y una fotografía? Este album fotos viaje es perfecto para guardarlas ¡Se convertirá en el álbum fotos cuadrado preferido!
 

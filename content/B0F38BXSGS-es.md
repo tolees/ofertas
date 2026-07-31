@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte entallado
-- CLIMACOOL
-- Cierre con cremallera
 - 48 % poliéster (reciclado), 46 % poliamida (reciclada), 6 % elastano
+- Corte entallado
+- Cierre con cremallera
+- CLIMACOOL
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F38BXSGS{{</world>}}

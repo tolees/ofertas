@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Entresuela sintética
-- Suela de goma
 - Empeine de piel
+- Suela de goma
+- Entresuela sintética
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DJ9Q3LLW{{</world>}}

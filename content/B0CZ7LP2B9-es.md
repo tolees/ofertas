@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Bolsillos frontales con cremallera
+- 70 % algodón, 30 % poliéster (reciclado)
 - Cintura elástica con cordón
 - Contiene al menos un 70 % de material reciclado y renovable.
-- Bolsillos frontales con cremallera
-- Corte clásico
-- 70 % algodón, 30 % poliéster (reciclado)
 - Ajustado
+- Corte clásico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZ7LP2B9{{</world>}}

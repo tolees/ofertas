@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Plantilla Softfoam
 - Puma Marca:
+- Plantilla Softfoam
 - Ligeras
 
 [🛒 Aquí!!!]({{< param buyurl >}})

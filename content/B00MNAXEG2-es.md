@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Multicolor
 - Ergonómico, pensado para que el niño aprenda a sujetar bien el lápiz
+- Multicolor
 - Lápiz diseñado para las primeras etapas del dibujo
 - Forma triangular, diámetro grueso de 10 mm
 

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ¡Imaginado e ilustrado por la legendaria Takaya Imamura!
-- ¡El sistema de combate mezcla piedra, papel y tijeras con cartas!
 - ¡Cultiva tu propio bonsái espacial con frutas que potencian habilidades!
+- ¡Imaginado e ilustrado por la legendaria Takaya Imamura!
 - ¡Banda sonora a cargo de la veterana de la industria Shinobu Amayake!
+- ¡El sistema de combate mezcla piedra, papel y tijeras con cartas!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DSW64SNB{{</world>}}

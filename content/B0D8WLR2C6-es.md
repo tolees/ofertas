@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Etiqueta de G-STAR Originals tejida en el lateral
-- Gráfico de G-STAR RAW estampado en el pecho
 - Proporciona comodidad
+- Gráfico de G-STAR RAW estampado en el pecho
 - Sisas y cuello ribeteados
 - Una mirada original
 

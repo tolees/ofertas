@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Gusset for extra comfort and mobility
 - Cool to Touch technology delivers a cooling sensation against the skin
-- Two front slant pockets, two back welt pockets and one hidden waistband pocket for phone or passport
 - Slim fit chino made with Airweave fabric featuring 4-way stretch and moisture wicking
+- Two front slant pockets, two back welt pockets and one hidden waistband pocket for phone or passport
 - Features a Hidden Security Pocket with a concealed zipper and coin compartment
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

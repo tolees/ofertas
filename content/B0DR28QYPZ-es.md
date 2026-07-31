@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Control organizado del tiempo
-- Sirve como registro para realizar un seguimiento de los eventos
 - Representación física de días, semanas, meses y/o años
+- Sirve como registro para realizar un seguimiento de los eventos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DR28QYPZ{{</world>}}

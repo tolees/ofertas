@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Difícil de volcar
+- Número de modelo: T24495
 - Cerámica
 - Apto para lavavajillas
-- Número de modelo: T24495
-- Difícil de volcar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00LN5M4F0{{</world>}}

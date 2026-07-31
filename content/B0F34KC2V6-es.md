@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantilla textil
-- Empeine de material sintético
 - Suela sintética
+- Empeine de material sintético
 - Horma clásica
 - Cordones
+- Plantilla textil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F34KC2V6{{</world>}}

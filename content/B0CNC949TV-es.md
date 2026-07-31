@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cordón interno con trabas en el dobladillo para ajuste
+- Logotipo Windwall transferido por calor en la manga trasera izquierda
 - Cierre de gancho y bucle en la parte central delantera en el reverso
 - Logotipo bordado en el bolsillo izquierdo del pecho y en la parte trasera del hombro derecho del exterior
-- Logotipo Windwall transferido por calor en la manga trasera izquierda
-- Cordón interno con trabas en el dobladillo para ajuste
 - Bolsillo izquierdo en el pecho y bolsillos para las manos con cremalleras VISLON cerradas en el exterior
 
 [🛒 Comprar!!!]({{< param buyurl >}})

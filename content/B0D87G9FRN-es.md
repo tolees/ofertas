@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pepe jeans Logotipo
 - Estilo contemporáneo
 - Uso versátil
+- Pepe jeans Logotipo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D87G9FRN{{</world>}}

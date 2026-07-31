@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- FUERZA DE RENDIMIENTO - motosierra inalámbrica velocidad de cadena 11 m/s y un paso 0.043" y lubricación automática de cadena; trabajos de jardinería y silvicultura ya no es un problema
-- FÁCIL USO - Inserte batería 40V y listo: motosierra inalámbrica corte inmediatamente ramas y troncos de árboles libre y sin cables en su jardín; la batería y el cargador no están incluidos
-- UNA BATERÍA PARA TODOS - baterías de 40V de Greenworks desde 2Ah hasta las potentes 4Ah son versátiles y compatibles con muchos productos de Greenworks en el sector del jardín y el taller
 - COMODIDAD - debido a su bajo peso de 5.4 kg, la sierra sin cable es fácil de manejar y tiene un mango ergonómico y un protector de mano para un trabajo cómodo y seguro en el jardín
+- FÁCIL USO - Inserte batería 40V y listo: motosierra inalámbrica corte inmediatamente ramas y troncos de árboles libre y sin cables en su jardín; la batería y el cargador no están incluidos
+- FUERZA DE RENDIMIENTO - motosierra inalámbrica velocidad de cadena 11 m/s y un paso 0.043" y lubricación automática de cadena; trabajos de jardinería y silvicultura ya no es un problema
+- UNA BATERÍA PARA TODOS - baterías de 40V de Greenworks desde 2Ah hasta las potentes 4Ah son versátiles y compatibles con muchos productos de Greenworks en el sector del jardín y el taller
 - POTENTE - motosierra Greenworks convence gracias al motor DigiPro sin escobillas 30% más potencia y tiempos de funcionamiento; la sierra está equipada con un interruptor de seguridad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

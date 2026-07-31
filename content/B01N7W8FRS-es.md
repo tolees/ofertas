@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Características quirky monster caracteres
-- Apto para 2.–.4.jugadores
-- Opciones para más fácil y más desafiante juego
 - Un primer juego de juego
+- Opciones para más fácil y más desafiante juego
+- Apto para 2.–.4.jugadores
 - Adecuado para edades de 2.–.6
+- Características quirky monster caracteres
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01N7W8FRS{{</world>}}

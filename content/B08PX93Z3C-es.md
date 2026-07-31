@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dragon Ball
-- Aventuras
-- Shonen
-- Acción
 - Serie de animación japonesa
+- Shonen
+- Aventuras
+- Acción
+- Dragon Ball
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08PX93Z3C{{</world>}}

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- No Strap
 - Cordones cierre
 - no es resistente al agua
-- Casual
 - Plano tipo de tacón
+- No Strap
 - material de suela: Caucho
+- Casual
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DTQ5NS76{{</world>}}

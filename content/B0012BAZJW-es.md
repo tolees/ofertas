@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Tipo de fábrica: Metal
 - Mecanismo de desbloqueo: los insertos se desbloquean pulsando simplemente un botón
-- Unidades: 1.0
-- Palanca de conmutación para el giro a la derecha e izquierda
 - Varios de los 52 dientes se engranan simultáneamente para transferir elevados pares de torsión
+- Palanca de conmutación para el giro a la derecha e izquierda
+- Unidades: 1.0
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0012BAZJW{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- FF BLAST para un mayor retorno de energía
+- PureGEL evolucionado para una comodidad superior
 - Parte superior transpirable y ligera.
 - Ideal para entrenamientos diarios y distancias medias.
-- PureGEL evolucionado para una comodidad superior
+- FF BLAST para un mayor retorno de energía
 - Suela exterior AHAR+ duradera
 
 [🛒 Visítala!!!]({{< param buyurl >}})

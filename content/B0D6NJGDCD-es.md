@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Instrucciones de cuidado: apto para lavadora
+- Composición: 67 por ciento algodón 32 por ciento lyocell 1 por ciento elastano
+- Ajuste: recto regular
 - Pantalón Largo
 - Tipo de estiramiento: baja elasticidad
-- Instrucciones de cuidado: apto para lavadora
-- Ajuste: recto regular
-- Composición: 67 por ciento algodón 32 por ciento lyocell 1 por ciento elastano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6NJGDCD{{</world>}}

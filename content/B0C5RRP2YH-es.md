@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Ajuste regular
+- Ajuste regular
 - Construcción sin cordones
-- Ajuste regular
-- Ajuste regular
 - Parte superior sintética
 
 [🛒 Visítala!!!]({{< param buyurl >}})

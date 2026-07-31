@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 3 MODOS DE FUNCIONAMIENTO: Modo 1: se enciende al detectar paso y se apaga 30 segundos después de que la persona se aleja. Modo 2: permanece con luz tenue, aumenta la intensidad al detectar movimiento y vuelve a luz tenue tras 30 segundos. Modo 3: se mantiene encendida de forma continua cuando detecta oscuridad.
-- SENSOR DE MOVIMIENTO: Equipada con sensor infrarrojo automático que activa la luz al detectar movimiento en un ángulo de 120° y hasta 5 metros de distancia. Además, la farola permite ajustar su orientación con rotación e inclinación de hasta 180°.
 - RESISTENCIA IP65: Fabricada en ABS resistente y con certificación IP65, está diseñada para soportar lluvia, nieve y condiciones climáticas adversas. Una opción práctica para iluminación exterior nocturna en jardines, patios, accesos o garajes.
-- FOCO SOLAR: Lámpara solar exterior con 120 LED, panel fotovoltaico incorporado, mando a distancia y accesorios de instalación incluidos. Perfecta para iluminar y mejorar la seguridad en zonas exteriores como patios, garajes, balcones, pasillos o entradas.
+- 3 MODOS DE FUNCIONAMIENTO: Modo 1: se enciende al detectar paso y se apaga 30 segundos después de que la persona se aleja. Modo 2: permanece con luz tenue, aumenta la intensidad al detectar movimiento y vuelve a luz tenue tras 30 segundos. Modo 3: se mantiene encendida de forma continua cuando detecta oscuridad.
 - PANEL SOLAR: El panel solar integrado se carga automáticamente durante el día con la luz del sol, sin necesidad de cables ni conexión eléctrica, con un tiempo aproximado de carga de 8 a 10 horas. Para un mejor rendimiento, instálala en una zona con buena exposición solar y evita colocarla donde reciba luz directa de otros focos durante la noche.
+- FOCO SOLAR: Lámpara solar exterior con 120 LED, panel fotovoltaico incorporado, mando a distancia y accesorios de instalación incluidos. Perfecta para iluminar y mejorar la seguridad en zonas exteriores como patios, garajes, balcones, pasillos o entradas.
+- SENSOR DE MOVIMIENTO: Equipada con sensor infrarrojo automático que activa la luz al detectar movimiento en un ángulo de 120° y hasta 5 metros de distancia. Además, la farola permite ajustar su orientación con rotación e inclinación de hasta 180°.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0H118JHPD{{</world>}}

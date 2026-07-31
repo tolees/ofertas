@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Potente motor de 710 W para resultados rápidos y precisos
 - Forma compacta para un manejo cómodo y trabajar en zonas de difícil acceso
+- Sistema de evacuación de virutas doble ajustable para la aspiración cómoda del polvo y una superficie limpia
 - Trabajo cómodo gracias a la expulsión de virutas opcionalmente en el lado derecho o izquierdo
 - Incluye: GHO 26-82 D, tope paralelo, llave hexagonal SW 2,5, bolsa de tela para el polvo, maletín
-- Sistema de evacuación de virutas doble ajustable para la aspiración cómoda del polvo y una superficie limpia
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01F1SZAO6{{</world>}}

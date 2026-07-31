@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca: Valentino
 - Color: crudo
 - SATCHEL 5A8-ALEXIA VALENTINO ÚNICA PARA MUJER ECRU MUJER
+- Marca: Valentino
 - País de origen: CN
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

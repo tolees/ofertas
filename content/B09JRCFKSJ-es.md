@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con aplicación explicativa gratuita. Se puede jugar con y sin aplicación
-- El juego de mesa simplemente ingenioso para toda la familia: piedra sobre piedra para la victoria.
 - Para 1-4 jugadores, también es divertido en solitario.
-- Increíblemente simple: reglas cortas para empezar a jugar directamente.
 - El nuevo juego favorito para la divertida noche de juegos, como regalo o simplemente para entre.
-- Divertido juego para jóvenes y mayores a partir de 8 años.
+- Con aplicación explicativa gratuita. Se puede jugar con y sin aplicación
 - Siempre emocionante - hasta el último segundo.
+- El juego de mesa simplemente ingenioso para toda la familia: piedra sobre piedra para la victoria.
+- Increíblemente simple: reglas cortas para empezar a jugar directamente.
+- Divertido juego para jóvenes y mayores a partir de 8 años.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09JRCFKSJ{{</world>}}

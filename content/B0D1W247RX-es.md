@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ELECTROLITOS E INMUNIDAD - CocoMineral y Magnesio Aquamin equilibran los electrolitos; 3 mg de zinc por porción contribuye a la salud inmunitaria**
-- METABOLISMO ENERGÉTICO - Rico en vitaminas B como la Tiamina y la Niacina, que aumentan los niveles de energía durante los entrenamientos intensos***
 - CREATINA ALTAMENTE SOLUBLE - Proporciona 3 g de creatina CreaBev por porción para mejorar la fuerza y la potencia, aumentando el rendimiento físico* en entrenamientos de alta intensidad
+- ELECTROLITOS E INMUNIDAD - CocoMineral y Magnesio Aquamin equilibran los electrolitos; 3 mg de zinc por porción contribuye a la salud inmunitaria**
 - FÁCIL DE USAR - Mezclar un cacito con 240 ml de agua fría, ideal antes y después de un entrenamiento intenso; disponible en dos sabores
 - SUPLEMENTO ALIMENTICIO VEGETARIANO- Formulado para atletas de todos los niveles, favorece el máximo rendimiento* sin comprometerlo
+- METABOLISMO ENERGÉTICO - Rico en vitaminas B como la Tiamina y la Niacina, que aumentan los niveles de energía durante los entrenamientos intensos***
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D1W247RX{{</world>}}

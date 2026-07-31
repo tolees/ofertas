@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Protección solar alta: UVA+ UVB + UVA LARGA. Piel nutrida y radiante. Acabado ligero. Absorción inmediata.
-- Evitar exposición prolongada al sol. Aplicar antes de la exposición solar, renovando generosamente.
 - Aceite Invisible Cell Protect SPF50+ que protege la piel del daño solar a nivel celular con una sensación de aceite seco ultrasensorial. Para el rostro, el cuerpo y las puntas del cabello.
+- Evitar exposición prolongada al sol. Aplicar antes de la exposición solar, renovando generosamente.
+- Protección solar alta: UVA+ UVB + UVA LARGA. Piel nutrida y radiante. Acabado ligero. Absorción inmediata.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CW86GGNX{{</world>}}

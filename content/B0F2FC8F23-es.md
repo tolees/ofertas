@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela de goma
-- Plantilla textil
 - Plantilla de espuma con memoria
 - Horma clásica
+- Plantilla textil
+- Suela de goma
 - Empeine de material sintético
 - Cordones
 

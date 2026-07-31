@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre central con botones
 - Para uso diario
+- Cierre central con botones
 - Prenda de vestimenta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

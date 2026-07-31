@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - No superar la dosis diaria expresamente recomendada. Los complementos alimenticios no deben utilizarse como sustituto de una dieta equilibrada. El producto se debe mantener fuera del alcance de los niños más pequeños
 - Flor de Bach Honeysuckle es un complemento alimenticio vegetariano a base de extracto de flores de madreselva en alcohol de uva con volumen del 27%
-- El extracto de flores de madreselva, tiene como potencial positivo la realidad, ayudando a la gestión de tus emociones para tener la capacidad de vivir en el presente, utilizando las experiencias pasadas como lecciones para avanzar en la vida
 - Modo de empleo: Diluir 2 gotas en medio vaso de agua, o poner 2 gotas directamente en la boca cada 4 horas a lo largo del día. O bien añadir 2 gotas en un frasco cuentagotas de 30 ml con agua y tomar 4 gotas, 4 veces al día
 - Cada flor de Bach viene directamente de los jardines originales del Centro Bach y son escogidas de acuerdo con el método creado por Edward Bach en 1930
+- El extracto de flores de madreselva, tiene como potencial positivo la realidad, ayudando a la gestión de tus emociones para tener la capacidad de vivir en el presente, utilizando las experiencias pasadas como lecciones para avanzar en la vida
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00DN9R4N6{{</world>}}

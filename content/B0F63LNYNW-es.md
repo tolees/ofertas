@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Superficie De Ropa Suave Y Confortable: La superficie de rizo conserva el tacto suave, acogedor, silencioso y transpirable de su colchón
+- Certificado OEKO-TEX: fabricado con materiales sometidos a pruebas de sustancias nocivas y certificado STANDARD 100 por OEKO-TEX, garantiza seguridad y respeto por el medio ambiente. Perfecto para un entorno de descanso saludable.
 - Instrucciones De Cuidado: Lavar a máquina en frío con programa delicado; secar en secadora a baja temperatura; no planchar; no usar lejía; no usar suavizante
 - 100% Impermeable: la parte superior impermeable de 200 g/m² y las costuras de alta calidad impiden que penetre el agua y la orina; mantiene el colchón seco y sin manchas.
-- Certificado OEKO-TEX: fabricado con materiales sometidos a pruebas de sustancias nocivas y certificado STANDARD 100 por OEKO-TEX, garantiza seguridad y respeto por el medio ambiente. Perfecto para un entorno de descanso saludable.
+- Superficie De Ropa Suave Y Confortable: La superficie de rizo conserva el tacto suave, acogedor, silencioso y transpirable de su colchón
 - Diseño frottee: Este protector de colchón se adapta perfectamente a su cama, con dobladillos profesionalmente doblados y bolsillos de ajuste profundo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

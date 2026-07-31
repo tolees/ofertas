@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Clásico diseño de gorro de pesca
 - 100% algodón
 - Talla única
+- Clásico diseño de gorro de pesca
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DHCW24FV{{</world>}}

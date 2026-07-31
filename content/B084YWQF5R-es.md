@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este producto viene con Android 10 AOSP y Huawei Mobile Services (HMS). Las aplicaciones y servicios de Google no están disponibles
-- OS Android 10 (AOSP)
-- Cámara Cuádruple 48MP+8MP +2MP+2MP
 - Procesador Kirin 810 2 27Ghz
+- Cámara Cuádruple 48MP+8MP +2MP+2MP
+- OS Android 10 (AOSP)
 - Pantalla 6 4" 1080 x 2310 pixels
+- Este producto viene con Android 10 AOSP y Huawei Mobile Services (HMS). Las aplicaciones y servicios de Google no están disponibles
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B084YWQF5R{{</world>}}

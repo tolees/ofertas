@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hojas grandes de estilo tropical Destaca por su follaje amplio, verde y decorativo, perfecto para crear ambientes tropicales, zonas de piscina, porches, patios decorativos o rincones verdes de interior.
-- Formato compacto en maceta M23 Se presenta en maceta M23, un tamaño manejable para decoración vegetal, adecuado para espacios exteriores protegidos o interiores con buena entrada de luz natural.
 - Planta natural decorativa Al tratarse de una planta natural, la altura, cantidad de hojas, forma, coloración y estado vegetativo pueden variar según la época del año y las condiciones de cultivo.
+- Formato compacto en maceta M23 Se presenta en maceta M23, un tamaño manejable para decoración vegetal, adecuado para espacios exteriores protegidos o interiores con buena entrada de luz natural.
+- Hojas grandes de estilo tropical Destaca por su follaje amplio, verde y decorativo, perfecto para crear ambientes tropicales, zonas de piscina, porches, patios decorativos o rincones verdes de interior.
 - Platanera enana Dwarf Cavendish Canaria La Musa Dwarf Cavendish Canaria es una planta tropical natural de porte compacto, ideal para aportar un aspecto exótico y frondoso a jardines, patios, terrazas o interiores muy luminosos.
 - Ideal para climas suaves y zonas luminosas Requiere mucha luz, temperaturas cálidas o templadas y protección frente al frío intenso. En exterior, se recomienda colocar en zonas resguardadas del viento fuerte y de las heladas.
 

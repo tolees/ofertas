@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - El jabón para aclarar la piel Kojie San es eficaz para disminuir las manchas oscuras, las pecas y el acné, las estrías, el tono desigual de la piel y otros trastornos del tono de la piel".
-- Este producto se vende de conformidad con el Reglamento cosmético de la UE 1223/2009.
 - Jabón blanqueador para rostro y cuerpo. El ingrediente blanqueador es el ácido kójico.
+- Este producto se vende de conformidad con el Reglamento cosmético de la UE 1223/2009.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0089PZZKS{{</world>}}

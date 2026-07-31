@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - ★ Aplicación: Ideal para el suministro de agua del pueblo, familia, granja, camping, etc.
 - ★ tamaño del artículo: 112*13*20
-- ★ Garantía de un año （ Atención: los defectos debidos a un uso incorrecto de la bomba no se encuentran dentro de la garantía)
 - ★ Perfecto para aplicaciones domésticas y de servicios públicos de transferir agua de un lugar a otro
 - ★ Material: 7 impulsores de plástico. POM, cuerpo de bomba de acero inoxidable 201, salida es SS304, motor es 100% alambre de cobre, motor de aceite, material de tornillo es SS y caucho
+- ★ Garantía de un año （ Atención: los defectos debidos a un uso incorrecto de la bomba no se encuentran dentro de la garantía)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07QBF9C22{{</world>}}

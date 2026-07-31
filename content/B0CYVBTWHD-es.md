@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Empeine textil con refuerzos sintéticos
+- Horma clásica
+- Peso: 373 g (talla 42 2/3)
+- Membrana GORE-TEX
 - Contiene al menos un 20% de material reciclado
 - Cierre de cordones
-- Membrana GORE-TEX
-- Peso: 373 g (talla 42 2/3)
 - Drop: 7 mm (talón: 23 mm / antepié: 16 mm)
 - Suela Traxion con tacos
+- Empeine textil con refuerzos sintéticos
 - Mediasuela de EVA
 - Forro textil
-- Horma clásica
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CYVBTWHD{{</world>}}

@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Superficie de fácil limpieza: Acabado de acero inoxidable duradero y resistente que evita las huellas dactilares, los arañazos y el desgaste diario. Además, el diseño aerodinámico de la bandeja de goteo hace que sea rápida y fácil de limpiar.
 - Encendido con una mano: Simplemente es necesario presionar el mando y girar hasta la potencia deseada.
-- Soporte de Hierro Fundido: Robusto, elegante y más sencillo de limpiar. Permite mover fácilmente de una zona de cocción a otra y cocinar con estabilidad.
 - Placa de Gas: Opción ideal para quienes prefieran una cocción a fuego a tradicional o por motivos de ahorro de energía.
+- Soporte de Hierro Fundido: Robusto, elegante y más sencillo de limpiar. Permite mover fácilmente de una zona de cocción a otra y cocinar con estabilidad.
 - 3 Quemadores de Gas: Cada quemador es compatible con diferentes tipos de cocción, como freír, hervir, cocinar al vapor, guisar, etc. Te brinda control total sobre cómo deseas que se cocine tu comida.
 - Mandos con Válvula de Seguridad: Ya sea por un derrame accidental o porque la llama se apaga, la válvula se encargará de cerrar inmediatamente el suministro, brindándote tranquilidad.
 

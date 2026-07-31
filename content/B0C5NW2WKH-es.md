@@ -31,9 +31,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - Horma clásica
 - Compra una talla más grande
 - Cierre de cordones
+- Suela de goma
 - Plantilla Cloudfoam
 - Parte superior de piel
-- Suela de goma
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C5NW2WKH{{</world>}}

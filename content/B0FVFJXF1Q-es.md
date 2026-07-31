@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DIFUMINADO FÁCIL: permite trabajar el color con los dedos o pincel
-- TEXTURA CREMOSA: se desliza suavemente sobre el párpado sin tirantez
-- COLOR INTENSO: aporta pigmentación rica y profunda desde la primera pasada
 - LARGA DURACIÓN: conserva la intensidad del color durante horas
+- COLOR INTENSO: aporta pigmentación rica y profunda desde la primera pasada
+- TEXTURA CREMOSA: se desliza suavemente sobre el párpado sin tirantez
+- DIFUMINADO FÁCIL: permite trabajar el color con los dedos o pincel
 - FÓRMULA RESISTENTE: ayuda a mantener el maquillaje sin manchas durante el día
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

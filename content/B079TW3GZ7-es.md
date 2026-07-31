@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Es fácil de montar
-- Permite ahorrar espacio en la casa
 - Dimensiones del producto: 60 x 16 x 95 cm
 - El producto dispone de 4 pisos
+- Permite ahorrar espacio en la casa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B079TW3GZ7{{</world>}}

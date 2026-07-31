@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- SoftFoam: La cómoda plantilla PUMA para una pisada instantánea y una comodidad duradera que proporciona una amortiguación suave a cada paso que das
 - Silueta de caña baja
+- SoftFoam: La cómoda plantilla PUMA para una pisada instantánea y una comodidad duradera que proporciona una amortiguación suave a cada paso que das
 - Empeine de piel sintética
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Formulado con una mezcla de polvos matificantes y microesferas para una apariencia mate suave y favorecedora
 - Con un acabado mate suave
+- Formulado con una mezcla de polvos matificantes y microesferas para una apariencia mate suave y favorecedora
 - Color de impacto con tan sólo una pasada
-- Labial de larga duración
 - Con vitamina E, aceite de coco y aloe vera; para una aplicación y llevado confortable
+- Labial de larga duración
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08JDNBL2F{{</world>}}

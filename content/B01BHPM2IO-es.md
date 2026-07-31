@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Se puede utilizar la higiene del ojo, nariz y oído
-- Solución isotónica estéril
 - Con punta redonda
 - Ayuda a retener agentes externos y gérmenes
 - Práctico para llevar, viene en monodosis
+- Solución isotónica estéril
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01BHPM2IO{{</world>}}

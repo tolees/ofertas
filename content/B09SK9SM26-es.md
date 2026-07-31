@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tie at waist
 - Ruffles on pockets
+- Tie at waist
 - Front pleat details
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

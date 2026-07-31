@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Braga Hipster
 - Colección Wild Helanka
+- Braga Hipster
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FDBL5SD5{{</world>}}

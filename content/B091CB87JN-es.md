@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Ropa deportiva que se adapta a cualquier actividad deportiva
-- Diseño ligero que ofrece comodidad
 - Proporciona libertad de movimiento
+- Diseño ligero que ofrece comodidad
 - Producto hecho con un material de óptima calidad y resistente
 
 [🛒 Visítala!!!]({{< param buyurl >}})

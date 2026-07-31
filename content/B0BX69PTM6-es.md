@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Plantilla acolchada y cómoda
-- Parte superior de punto diseñada
 - Suela de tracción flexible
+- Parte superior de punto diseñada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BX69PTM6{{</world>}}

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Se dice que las figuras de unicornio GALUPY UNICORN tienen poderes mágicos. ¿A qué niño no le gustaría tener como amigo a uno de los 18 unicornios? Para quererlo, jugar con él, soñar con él, consolarlo o simplemente para coleccionarlo e intercambiarlo.
-- La Casa Mariposa Mariposa es una preciosa casa donde viven Nessy y su familia (Nessy está incluida en este set). Una vez montada puedes decorarla con las pegatinas incluidas. Especial atención al ELEVADOR MÁGICO, gira el arco para elevar tu figura de unicornio Nessy de la planta baja a la planta superior.
-- ¡Bienvenido al mundo de los Galupy! Galupy es la mágica historia de 18 simpáticos unicornios que viven en la mágica isla de Elfia, en el misterioso archipiélago insular de Galupia. En la mágica isla de Elfia se viven innumerables y divertidas aventuras con los caballos especiales.
 - La figura del unicornio, Nessy, se sostiene sobre sus patas traseras y lleva un cristal de Swarovski en la corona. Es súper bonita de pie en el primer piso mirando desde el balcón. Incluye: 1 estructura de casa con función especial de ascensor, accesorios y pegatinas para decorar tanto el interior como el exterior de la casa, 1x juguete Galupy Unicornio (Nessy).
 - Este playset forma parte del mundo de los unicornios Galupy. Los juguetes GALUPY Unicornio prometen mucha emoción y diversión. Las figuras de unicornio son el complemento ideal para los populares playsets del mundo de los unicornios.
+- ¡Bienvenido al mundo de los Galupy! Galupy es la mágica historia de 18 simpáticos unicornios que viven en la mágica isla de Elfia, en el misterioso archipiélago insular de Galupia. En la mágica isla de Elfia se viven innumerables y divertidas aventuras con los caballos especiales.
+- La Casa Mariposa Mariposa es una preciosa casa donde viven Nessy y su familia (Nessy está incluida en este set). Una vez montada puedes decorarla con las pegatinas incluidas. Especial atención al ELEVADOR MÁGICO, gira el arco para elevar tu figura de unicornio Nessy de la planta baja a la planta superior.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C5XXV8W3{{</world>}}

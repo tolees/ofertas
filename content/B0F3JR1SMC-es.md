@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- MEDIDAS TOTALES: 149x121x180 cm (LxANxAL). Medidas del toldo: 145x100 cm (LxAN). Medidas del asiento: 117x50x44 cm (LxANxAL). Carga máxima: 240 kg. Requiere montaje
 - MÁXIMA COMODIDAD: Diseñado para el confort, este columpio de jardín exterior con toldo ajustable incluye un cojín acolchado y dos cojines adicionales para relajarte. El cojín cuenta con una funda con cremallera suave, facilitando su limpieza
+- CAPACIDAD PARA 2: Este balancín de mimbre sintético, con un asiento espacioso, ofrece el espacio suficiente para dos adultos y soporta hasta 240 kg, siendo ideal para disfrutar de momentos de relax con amigos
 - ESTRUCTURA RESISTENTE: Fabricado con acero con recubrimiento en polvo y mimbre sintético resistente a los rayos UV, este columpio de jardín es duradero y ofrece gran resistencia a la corrosión y deformaciones
 - TOLDO AJUSTABLE: Equipado con un toldo superior retráctil de poliéster, este balancín de jardín ofrece protección contra los rayos UV, garantizando tu comodidad en los días soleados y proporcionando sombra en los momentos de descanso al aire libre
-- CAPACIDAD PARA 2: Este balancín de mimbre sintético, con un asiento espacioso, ofrece el espacio suficiente para dos adultos y soporta hasta 240 kg, siendo ideal para disfrutar de momentos de relax con amigos
-- MEDIDAS TOTALES: 149x121x180 cm (LxANxAL). Medidas del toldo: 145x100 cm (LxAN). Medidas del asiento: 117x50x44 cm (LxANxAL). Carga máxima: 240 kg. Requiere montaje
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F3JR1SMC{{</world>}}

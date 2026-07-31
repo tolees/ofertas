@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Plantilla de espuma EVA extraíble 50% reciclada que se coloca en la parte superior de una entresuela ligera de espuma EVA para mayor estabilidad y comodidad
 - Piel de ante y parte superior textil 100% reciclada
-- Suela de goma
 - Cordones y correas 100 % reciclados
+- Suela de goma
 - Talonera de TPU moldeado para mayor seguridad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Formato optimo para compartir en familia
 - Refresco con cero azúcar y cero calorías
 - Pack con 6 botellas de 1.75 litros
 - Disfruta de todo el sabor de la nueva Pepsi Cherry
-- Formato optimo para compartir en familia
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F1N15WKF{{</world>}}

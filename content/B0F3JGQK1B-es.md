@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material Principal: 70% Algodón / 30% Poliéster(100% Reciclado)
-- Tejido de felpa
 - Capucha
 - Corte estándar
+- Material Principal: 70% Algodón / 30% Poliéster(100% Reciclado)
+- Tejido de felpa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F3JGQK1B{{</world>}}

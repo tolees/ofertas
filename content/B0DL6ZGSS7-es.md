@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Empeine textil y de malla
+- Cierre de cordones
 - Contiene al menos un 20% de material reciclado
 - Sistema Torsion
-- Cierre de cordones
 - Horma clásica
 - Amortiguación Lightstrike
 - Forro textil

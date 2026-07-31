@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una parte cómoda y bonita que llevarás todo el verano
-- Los pantalones chinos para hombre se han lavado con una coloración especial para que parezcan tan perecederos al sol como corresponde al verano
-- Bolsillo para monedas
 - El diseño incluye un cierre de botón, bolsillos frontales inclinados y botones de nogal
+- Los pantalones chinos para hombre se han lavado con una coloración especial para que parezcan tan perecederos al sol como corresponde al verano
+- Una parte cómoda y bonita que llevarás todo el verano
+- Bolsillo para monedas
 - Los pantalones de sarga de algodón fino y mezcla de algodón elástico tienen un ajuste estrecho con cintura media
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

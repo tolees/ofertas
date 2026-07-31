@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Gorra de uso diario
 - Tiene detalles distintivos de la marca
 - Prenda para varones adultos
-- Gorra de uso diario
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B6GFWGDW{{</world>}}

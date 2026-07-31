@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Área trasera acolchada
 - Correas de hombro acolchadas
 - Correas de hombro ajustables
-- Cinturón de cadera ajustable y extraíble
 - Correa de pecho ajustable
+- Cinturón de cadera ajustable y extraíble
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09HMS3MMQ{{</world>}}

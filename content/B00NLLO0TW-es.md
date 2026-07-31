@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ofrece un estilo casual
 - Cuenta con un diseño ligero
+- Ofrece un estilo casual
 - Dispone de una visera plana
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

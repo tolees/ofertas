@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tecnología Goga Mat
-- Amortiguación ultraligera
 - Lavable a máquina
 - Máxima amortiguación
+- Amortiguación ultraligera
 - Tecnología Natural Rocker
 
 [🛒 Visítala!!!]({{< param buyurl >}})

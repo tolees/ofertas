@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre de bisutería: aro
-- Material de joyería: acero inoxidable
 - Plataforma - Ellis
+- Material de joyería: acero inoxidable
 - Tipo de joyería - Pendientes
 - Color de la joyería de plata
+- Cierre de bisutería: aro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DBJPTJMV{{</world>}}

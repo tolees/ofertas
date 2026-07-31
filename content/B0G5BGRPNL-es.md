@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La siguiente información se aplica a cada unidad del paquete
-- Santiveri Vigor Total - 400 Gr
-- De 2 a 3 cucharadas soperas disueltas en una vaso de zumo, preferentemente en ayunas.
 - Los complementos alimenticios no deben utilizarse como sustitutos de una dieta variada y equilibrada. Es importante seguir una dieta variada y equilibrada y un estilo de vida saludable
+- Santiveri Vigor Total - 400 Gr
+- La siguiente información se aplica a cada unidad del paquete
 - 5 suplementos en uno: germen de trigo, levadura de cerveza, lecitina de soja, polen y algas marinas. Con vitamina C
+- De 2 a 3 cucharadas soperas disueltas en una vaso de zumo, preferentemente en ayunas.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G5BGRPNL{{</world>}}

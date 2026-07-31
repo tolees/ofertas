@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Regular Fit
 - Care Label:
 - Denim jacket
-- Regular Fit
-- materialFabricComposition: 100% Cotton
 - Long Sleeves
+- materialFabricComposition: 100% Cotton
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09Y8XGF2L{{</world>}}

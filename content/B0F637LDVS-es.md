@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- PUMA Tira en los laterales
-- Cierre de cordones
 - Empeine de gamuza
 - Suela de goma
+- Cierre de cordones
+- PUMA Tira en los laterales
 - Ancho normal
 
 [🛒 Visítala!!!]({{< param buyurl >}})

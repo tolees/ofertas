@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello redondo
-- 100 % poliéster (71 % reciclado)
-- Factor de protección solar (FPS)
-- Corte clásico
 - Freshrite Polygiene que evita el mal olor
-- Refuerzos en la sisa
 - Tejido Twistknit
+- Factor de protección solar (FPS)
 - Tecnología transpirable
+- 100 % poliéster (71 % reciclado)
+- Cuello redondo
+- Corte clásico
+- Refuerzos en la sisa
 - Contiene al menos un 70 % de material reciclado y renovable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

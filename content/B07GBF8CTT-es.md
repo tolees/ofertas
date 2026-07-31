@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Capacidad de carga aproximada: 70 grapas.
 - Con cuerpo de plástico amarillo fluo y con botón a presión que facilita la recarga de grapas y visor de grapas.
+- Capacidad de carga aproximada: 70 grapas.
 - Grapas: 24/6 26/6.
 - No incluye grapas.
 - Capacidad de grapado: 20 hojas (2,2 mm).

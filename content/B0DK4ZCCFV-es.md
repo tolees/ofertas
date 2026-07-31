@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cierre de cordones
+- Empeine de piel sintética y ante
 - Horma clásica
 - Suela de goma
-- Empeine de piel sintética y ante
 - Clásica puntera con forma de T
 
 [🛒 Comprar!!!]({{< param buyurl >}})

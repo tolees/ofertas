@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte superior de ante
-- Forro textil
-- Horma clásica
 - Suela de goma vulcanizada
+- Horma clásica
 - Mediasuela con amortiguación
+- Forro textil
+- Parte superior de ante
 - Cierre de cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

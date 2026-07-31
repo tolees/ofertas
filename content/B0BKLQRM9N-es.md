@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Construcción de 1/2 cremallera
 - Polartec
 - Costuras planas para poco volumen.
-- CREMALLERA YKK
 - Logotipo de HH bordado en el pecho
+- CREMALLERA YKK
+- Construcción de 1/2 cremallera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BKLQRM9N{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tipo de puntera: redondeada
 - Cierre: de cordones
+- Tipo de puntera: redondeada
 - Obermaterial: Synthetik; Futter: Textil; Einlegesohle: Textil; Laufsohle: Gummi
 - Tipo de talón: plano
 - Ancho: estándar

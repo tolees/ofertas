@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La innovadora textura en gel se desliza sobre los labios y garantiza una perfecta consistencia y máxima fijación
-- Labial efecto gloss en lápiz con acabado efecto mojado
 - La combinación de humectantes y aminoácidos de origen vegetal suaviza los labios para un confort absoluto
 - La aplicación del producto aporta una sensación de suavidad extrema de larga duración
+- La innovadora textura en gel se desliza sobre los labios y garantiza una perfecta consistencia y máxima fijación
+- Labial efecto gloss en lápiz con acabado efecto mojado
 - El acabado extrabrillante garantiza un resultado radiante de efecto mojado con una cobertura media-baja
 
 [🛒 Visítala!!!]({{< param buyurl >}})

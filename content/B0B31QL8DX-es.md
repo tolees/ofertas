@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La parte superior contiene al menos un 50% de material reciclado
 - Horma clásica
 - Parte superior de piel sintética
+- La parte superior contiene al menos un 50% de material reciclado
 - Suela de goma que no deja marcas
 - Forro textil
 

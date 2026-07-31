@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - FÓRMULA CON ACEITES ESENCIALES ORGÁNICOS: Este spray contiene aceites esenciales orgánicos no fotosensibilizantes: menta silvestre, copaiba, lavanda áspic, tomillo de hoja ajedrea, anís estrellado, eucalipto de limón y gaulteria fragante
-- EL SPRAY AROMALGIC PARA ARTICULACIONES Y MÚSCULOS PRANARÔM: El Spray Aromático para Articulaciones y Músculos Pranarôm se aplica en todo el cuerpo en casos de rigidez o tensión, para calmar los músculos y articulaciones con un efecto frío instantáneo
 - PRANARÔM, LA CIENCIA DE LOS ACEITES ESENCIALES: Pranarôm combina su experiencia científica con su amor por las plantas para ofrecer soluciones específicas para mantener a toda la familia con buena salud cada día
 - MODO DE EMPLEO: Pulverizar sobre articulaciones y músculos sensibles hasta 3 veces al día, luego masajear manualmente hasta la total absorción del producto; no utilizar menores de 15 años
+- EL SPRAY AROMALGIC PARA ARTICULACIONES Y MÚSCULOS PRANARÔM: El Spray Aromático para Articulaciones y Músculos Pranarôm se aplica en todo el cuerpo en casos de rigidez o tensión, para calmar los músculos y articulaciones con un efecto frío instantáneo
 - ACEITES ESENCIALES QUIMOTIPADOS: Los aceites esenciales que componen esta sinergia cuentan con certificación HECT, lo que significa que su composición ha sido analizada para garantizar la presencia de moléculas activas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

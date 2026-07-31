@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste: auténtico recto
 - Instrucciones de cuidado: lavable a máquina
-- Composición: 97 por ciento algodón 3 por ciento elastano
-- Pantalón largo
+- Ajuste: auténtico recto
 - Tipo de estiramiento: Medium Stretch
+- Pantalón largo
+- Composición: 97 por ciento algodón 3 por ciento elastano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D6RV763T{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Apto para lavavajillas
 - Compatible con portavasos y a prueba de fugas
 - Fabricado en material duradero, es rellenable y reutilizable
-- Apto para lavavajillas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DG35V8MG{{</world>}}

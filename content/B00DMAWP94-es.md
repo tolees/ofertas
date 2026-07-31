@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aplicar diariamente sobre las axilas limpias y secas.
 - Tratamiento antitranspirante que ayuda a regular la transpiración durante todo el día gracias a su fórmula rica en activos antitranspirantes y minerales ultraabsorbentes. Hipoalergénico.
 - El calor y la transpiración se regulan durante 72H, para que te sientas seguro todo el día.
+- Aplicar diariamente sobre las axilas limpias y secas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00DMAWP94{{</world>}}

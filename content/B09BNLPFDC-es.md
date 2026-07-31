@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Cierre frontal
 - 5 bolsillos
-- Composición del material: 69% algodón orgánico, 29% poliéster, 2% elastano
 - Vaqueros ajustados con cintura alta
+- Composición del material: 69% algodón orgánico, 29% poliéster, 2% elastano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09BNLPFDC{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sarga de algodón elástico
-- Pequeño bolsillo delantero
-- Cierre de cremallera con botón
-- Cinta distintiva en la cadera
 - Dos bolsillos ribeteados en diagonal en la cintura
+- Cierre de cremallera con botón
+- Pequeño bolsillo delantero
+- Cinta distintiva en la cadera
+- Sarga de algodón elástico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4KGP9WT{{</world>}}

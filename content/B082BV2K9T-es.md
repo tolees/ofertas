@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Características incluyen: tejido en punto jersey de algodón
-- Cómodo
 - Corte normal
+- Características incluyen: tejido en punto jersey de algodón
 - Camiseta sin mangas para hombre
+- Cómodo
 - Cuello redondo y estampado gráfico en la parte frontal
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Arrasa con la suciedad. Su gran potencia de succión de 80 AW y 240 W arrasa con la suciedad de tu casa sin esfuerzo. 240 W de potencia total que permiten aspirar hasta la suciedad más difícil sin esfuerzo. Cuenta con 20 kPa.
-- Diseño ultraligero. Aspirador vertical de 2,5 kg y de mano sólo 1,45 kg para limpiar al detalle y sin esfuerzo.
 - Evita líos, ahorra esfuerzos. Su HairLess Brush cuenta con un sistema que permite atrapar toda la suciedad del suelo y la envía directamente al depósito del aspirador gracias a su diseño en forma de "V". Además, Además, su diseño dentado permite cortar los pelos enredados, evitando atascos y manteniendo el cepillo limpio por más tiempo.
-- GreenDetect. Luz LED verde que permite ver hasta las partículas más invisibles.
+- Arrasa con la suciedad. Su gran potencia de succión de 80 AW y 240 W arrasa con la suciedad de tu casa sin esfuerzo. 240 W de potencia total que permiten aspirar hasta la suciedad más difícil sin esfuerzo. Cuenta con 20 kPa.
 - Batería desmontable de 25,2 V Max y 2200 mAh para limpiar sin parones hasta 120 m2*. Hasta 45 minutos de autonomía en modo Eco y aspirador de mano, 25 en modo Medio y 12 en modo Turbo. Con el tubo y el pie motorizado en modo Eco, alcanza hasta 40 minutos, 20 en modo Medio y 10 en modo Turbo.. *Basado en pruebas internas. **La autonomía varía en función del modo que el usuario seleccione. Se recomienda utilizar el modo Eco, y aumentarlo en caso de haber una suciedad mayor.
+- Diseño ultraligero. Aspirador vertical de 2,5 kg y de mano sólo 1,45 kg para limpiar al detalle y sin esfuerzo.
+- GreenDetect. Luz LED verde que permite ver hasta las partículas más invisibles.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GHSBNSJG{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Correa de talón ajustable
 - Ligeras y flexibles
+- Correa de talón ajustable
 - Comodidad de 360 grados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

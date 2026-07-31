@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Marca: Olaplex
 - Apto para el uso diario
-- Producto para el cuidado del cabello
 - El producto es fabricado con ingredientes de calidad
+- Producto para el cuidado del cabello
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09P5HJMTD{{</world>}}

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- New Zombie Kitten Card - The new special Zombie Kitten card gives you the power to bring dead players back into the game.
-- Many Ways to Play - Play Zombie Kittens on its own or combine with Exploding Kittens to unlock a mega game. Yes! That means you can play with up to 5 players or combine with any other version of Exploding Kittens to unlock new ways to play.
-- Play Cards from the Grave - If you explode you can still play while you’re dead!
-- A Game by Exploding Kittens - Creators of award-winning, hilarious and entertaining games that adults, teens and kids will all enjoy!
-- An Undead Twist - An undead twist on the original Exploding Kittens that keeps every player involved in the game, dead or alive, until the very end. The last player alive wins.
 - Important Note: The English version of this game is only compatible with other English-language versions of Exploding Kittens and Expansion Packs.
+- Play Cards from the Grave - If you explode you can still play while you’re dead!
+- An Undead Twist - An undead twist on the original Exploding Kittens that keeps every player involved in the game, dead or alive, until the very end. The last player alive wins.
+- New Zombie Kitten Card - The new special Zombie Kitten card gives you the power to bring dead players back into the game.
+- A Game by Exploding Kittens - Creators of award-winning, hilarious and entertaining games that adults, teens and kids will all enjoy!
+- Many Ways to Play - Play Zombie Kittens on its own or combine with Exploding Kittens to unlock a mega game. Yes! That means you can play with up to 5 players or combine with any other version of Exploding Kittens to unlock new ways to play.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09R3QNLR9{{</world>}}

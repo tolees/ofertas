@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Set compuesto por molde y prensador
 - Molde alto para diferentes tipos de grosor
 - Prensador de acero inoxidable con pomo ergonómico
-- Set compuesto por molde y prensador
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B088PCBBM2{{</world>}}

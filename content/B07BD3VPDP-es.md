@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Best for oily to normal skin: neem oil provides hydration for skin and soothes it with all of its earthy properties.
-- Cools and soothes the skin.
-- Made with natural herbal ingredients.
-- Regulates excess oil production.
 - Dermatologically tested.
+- Cools and soothes the skin.
+- Regulates excess oil production.
+- Made with natural herbal ingredients.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07BD3VPDP{{</world>}}

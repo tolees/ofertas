@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 🔎 NO UTILIZAMOS: estearato de Magnesio ni ningún tipo de Dióxido ni producto químico, comprimidos respetuosos con el medio ambiente producidos sin utilizar ingredientes de origen animal. Nuestra curcuma en capsulas es apta para celíacos. Sin lactosa. Sin colorantes ni conservantes. Vegano. Certificado Europeo de Agricultura Ecológica.
-- ✔️ FORMULA AVANZADA: nuestra curcuma en capsulas con jengibre y pimienta negra aporta una combinación completa. 1 cápsula contiene contiene 5000 mg de cúrcuma raíz, 150 mg de pimienta negra y 100 mg de extracto de jengibre. Formulación avanzada elaborada con materias primas premium de origen 100% natural.
 - ✨ RICO EN VITAMINAS: completamos nuestra fórmula con pimienta negra concentrada con piperina esencial para potenciar los beneficios de la cúrcuma. El jengibre es ideal para detoxificar y estimular el metabolismo. Contribuye al correcto mantenimiento muscular, óseo e inmunitario.
-- 👍 BENEFICIOS: complemento alimenticio a base de curcumina o tumeric procedente de la India con múltiples propiedades y beneficios. Favorece el tracto digestivo, ayuda reforzar el sistema inmune, contribuye al estado de la piel, actua como antiinflamatorio natural y contribuye al correcto mantenimiento muscular.
+- ✔️ FORMULA AVANZADA: nuestra curcuma en capsulas con jengibre y pimienta negra aporta una combinación completa. 1 cápsula contiene contiene 5000 mg de cúrcuma raíz, 150 mg de pimienta negra y 100 mg de extracto de jengibre. Formulación avanzada elaborada con materias primas premium de origen 100% natural.
 - 🧪 LABORATORIOS BAMBOO LABS: perseguimos el objetivo claro de proporcionarte las herramientas necesarias para alcanzar tu estilo de vida ideal. Trabajamos bajo la norma ISO 22000 que certifica que cumplimos con todos los requisitos en seguridad alimentaria. Fabricado en España.
+- 👍 BENEFICIOS: complemento alimenticio a base de curcumina o tumeric procedente de la India con múltiples propiedades y beneficios. Favorece el tracto digestivo, ayuda reforzar el sistema inmune, contribuye al estado de la piel, actua como antiinflamatorio natural y contribuye al correcto mantenimiento muscular.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09Y91HSHD{{</world>}}

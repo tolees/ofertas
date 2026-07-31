@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cinturilla con cordón para un ajuste seguro y personalizable.
 - Bolsillos en las costuras laterales con orificios de drenaje para facilitar la evacuación del agua.
+- Cinturilla con cordón para un ajuste seguro y personalizable.
 - Tejido elaborado, en parte, con hilos de nailon íntegramente elaborados a base de residuos preconsumo, como retales recuperados durante el proceso de fabricación.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

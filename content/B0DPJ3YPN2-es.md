@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- 2 coloretes, 1 iluminador
 - Nos oponemos a los experimentos con animales; cosnova aparece internacionalmente con essence y CATRICE tanto en PETA Alemania como en PETA
 - Brillante, luminoso, reluciente, escarchado
-- 2 coloretes, 1 iluminador
 - Con brocha aplicadora
 - Textura cremosa
 

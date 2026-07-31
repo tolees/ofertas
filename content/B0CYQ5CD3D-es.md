@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Amortiguación Lightstrike
-- Empeine textil y sintético
 - Horma clásica
-- Cierre de cordones
 - Forro textil y sintético
+- Empeine textil y sintético
+- Cierre de cordones
+- Amortiguación Lightstrike
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CYQ5CD3D{{</world>}}

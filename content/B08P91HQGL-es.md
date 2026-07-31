@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estor enrollable 100% poliéster con Mecanismo y cadena de PVC en color blanco, impreso con tintas ecológicas con certificado Greenguard. Impresión digital translúcido. Tintas ecológicas, no tóxicas, no inflamables e inodoras.
 - Estor enrollable de estilo moderno y elegante perfecto para todo tipo de estancias: Salón, Cocina, Habitaciones, Baño u Oficina, Fácil limpieza con un trapo ligeramente húmedo
-- Nota: El ancho del producto, incluido soportes, es de 130 cm; El tejido mide 127 cm de ancho (1,5 cm menos a cada lado aprox.); El largo del producto abierto completamente más el mecanismo mide 180 cm; Solo el tejido mide 175 cm
 - Opciones de instalación: colgar, atornillar con tornillos y tacos que enviamos
+- Estor enrollable 100% poliéster con Mecanismo y cadena de PVC en color blanco, impreso con tintas ecológicas con certificado Greenguard. Impresión digital translúcido. Tintas ecológicas, no tóxicas, no inflamables e inodoras.
+- Nota: El ancho del producto, incluido soportes, es de 130 cm; El tejido mide 127 cm de ancho (1,5 cm menos a cada lado aprox.); El largo del producto abierto completamente más el mecanismo mide 180 cm; Solo el tejido mide 175 cm
 - Incluye: sistema seguridad infantil, tacos, tornillos, soportes, contrapeso e instrucciones de instalación, Regulación mediante mecanismo de cadena, Fabricado en ESPAÑA por ZEBRA TEXTIL, S.L.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

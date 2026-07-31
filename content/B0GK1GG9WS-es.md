@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Indicadores LED para comprobar el estado de la batería
 - Puerto USB-C in/out de hasta 10,5W para una carga rápida y versátil
-- Dos puertos USB-A de hasta 12W para carga múltiple
-- Capacidad de 20.000 mAh para hasta 144 horas de carga extra
+- Indicadores LED para comprobar el estado de la batería
 - Diseño compacto y colorido, ideal para cualquier ocasión
+- Capacidad de 20.000 mAh para hasta 144 horas de carga extra
+- Dos puertos USB-A de hasta 12W para carga múltiple
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0GK1GG9WS{{</world>}}

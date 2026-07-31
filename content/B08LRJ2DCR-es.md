@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - La luz fría proporciona una vista más clara y mayor comodidad
 - Luz de alto rendimiento aprobada para su uso en vías públicas, con homologación ECE
-- Brillo para disfrutar de mayor seguridad
 - Una luz hasta un 150 % más reluciente y con un alcance de 70 metros*
+- Brillo para disfrutar de mayor seguridad
 - La combinación óptima entre alto rendimiento y duración
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- __Otros:__ bolsillo interior con estampado Denim Story
 - __Corte:__ corte normal ligeramente con volumen y recto desde las rodillas hasta los tobillos
 - __Tejido:__ mezcla de algodón y elastano [15 oz.]
-- __Lavado:__ azul medio conseguido a través de múltiples procesos para un look vintage
 - __Marca:__ etiqueta en el bolsillo para billetes, parche de cuero en la parte posterior de la cintura, etiqueta con el logo en el bolsillo trasero
+- __Lavado:__ azul medio conseguido a través de múltiples procesos para un look vintage
+- __Otros:__ bolsillo interior con estampado Denim Story
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DPG8ZRYS{{</world>}}

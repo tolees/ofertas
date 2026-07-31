@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 70% algodón / 30% poliéster (reciclado)
 - Capucha
+- 70% algodón / 30% poliéster (reciclado)
 - Bolsillos frontales
-- Corte clásico
 - Contiene al menos un 70% de material reciclado y renovable
 - Puños y dobladillo de canalé
+- Corte clásico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CZ7FPWRM{{</world>}}

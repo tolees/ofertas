@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Superalimento natural: Derivadas de la planta Salvia hispanica (de la familia de la menta, originaria de México), las chia seeds son pequeñas, versátiles, nutritivas y potenciadoras de la energía. Esenciales para un estilo de vida saludable.
-- Ecológicos, éticos y sostenibles: Provenientes de granjas ecológicas certificadas y hechos con ingredientes sostenibles, los productos NaturaleBio son perfectos para las personas conscientes de su salud que buscan superalimentos de origen vegetal.
-- Beneficios para la salud: Ricas en omega-3, fibra, proteínas y minerales esenciales como calcio, magnesio y zinc. Pueden contribuir a la salud digestiva, cardíaca, de los músculos y huesos, a regular el azúcar en sangre y a potenciar la energía.
 - Fáciles de consumir: Usa un molinillo para semillas lino y chía e incorpora la chía molida a jugos, batidos, leche de avena o matcha o espolvoréala sobre cereales, yogur o avena. Puedes hornearla en pan o galletas o agregarla a ensaladas o arroz.
+- Ecológicos, éticos y sostenibles: Provenientes de granjas ecológicas certificadas y hechos con ingredientes sostenibles, los productos NaturaleBio son perfectos para las personas conscientes de su salud que buscan superalimentos de origen vegetal.
 - 100% natural: Certificación ecológica, sin OGM, cultivadas sin químicos dañinos, pesticidas ni fertilizantes sintéticos. Ideales para dietas veganas, vegetarianas o sin gluten. La más alta calidad y una excelente relación calidad-precio.
+- Beneficios para la salud: Ricas en omega-3, fibra, proteínas y minerales esenciales como calcio, magnesio y zinc. Pueden contribuir a la salud digestiva, cardíaca, de los músculos y huesos, a regular el azúcar en sangre y a potenciar la energía.
+- Superalimento natural: Derivadas de la planta Salvia hispanica (de la familia de la menta, originaria de México), las chia seeds son pequeñas, versátiles, nutritivas y potenciadoras de la energía. Esenciales para un estilo de vida saludable.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DY9G9ZVD{{</world>}}

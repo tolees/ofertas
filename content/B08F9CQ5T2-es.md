@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 60% Cuero 40% Tela
 - Nuestras líneas soldadas Goodyear están selladas con calor a 700 °C y reforzadas con nuestras costuras exclusivas.
 - Altura de la plataforma: 4,7 cm
+- 60% Cuero 40% Tela
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08F9CQ5T2{{</world>}}

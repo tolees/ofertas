@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Talla 8 – 20 (talla única).
-- Carcasa y forro: acrílico.
-- Incluye sombrero a rayas y guantes sólidos.
 - Logotipo de Nike bordado.
+- Talla 8 – 20 (talla única).
+- Incluye sombrero a rayas y guantes sólidos.
+- Carcasa y forro: acrílico.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07JCB8CLN{{</world>}}

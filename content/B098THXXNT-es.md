@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cárdigan con cremallera para niño
-- Ajuste regular con un poco más de ancho
 - Cordón de algodón fijo
+- Ajuste regular con un poco más de ancho
+- Cárdigan con cremallera para niño
 - Viscosa suave y transpirable
 
 [🛒 Aquí!!!]({{< param buyurl >}})

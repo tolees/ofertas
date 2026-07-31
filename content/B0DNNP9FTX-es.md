@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dobladillo y puños acanalados
 - Con un tejido suave
+- Dobladillo y puños acanalados
 - Detalles distintivos de la marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})

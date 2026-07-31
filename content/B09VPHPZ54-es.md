@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Horas de entrenamiento
 - Producto óptimo para los amantes del cine
+- Horas de entrenamiento
 - Adecuado para disfrutar solo, en familia o con amigos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Género: Mujer
-- Tipo de producto: Tratamiento capilar
 - Marca: GHD
+- Tipo de producto: Tratamiento capilar
+- Género: Mujer
 - Para el cabello: Rizado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Contenido del envío: esta herramienta RYOBI viene en estuche con 1 boquilla de descentramiento, 1 boquilla en ángulo recto, 1 batería de 2,0 Ah, 1 cable de carga USB-C y un juego de puntas de 10 piezas (3 x PH1, PH2, SL4, PZ1, PZ2, T20, T25, HEX4)
 - Práctico portabrocas y luz LED: el portabrocas hexagonal de cambio rápido es perfecto para facilitar el reemplazo de la boquilla. La luz LED permite trabajar en lugares con poca luz para operaciones precisas
 - Garantía de 3 años para herramientas de bricolaje y jardinería: todas nuestras herramientas y baterías están garantizadas durante un total de 24 meses, ampliable por 1 año si el consumidor registra su producto dentro de los 30 días siguientes a la fecha de compra
-- Contenido del envío: esta herramienta RYOBI viene en estuche con 1 boquilla de descentramiento, 1 boquilla en ángulo recto, 1 batería de 2,0 Ah, 1 cable de carga USB-C y un juego de puntas de 10 piezas (3 x PH1, PH2, SL4, PZ1, PZ2, T20, T25, HEX4)
-- Batería USB de litio: el dispositivo funciona con la última batería USB de litio de 4 V (no incluida), compatible con las nuevas herramientas RYOBI de 4 V. Extraíble y cambia fácilmente de un dispositivo a otro. Se carga gracias a un cable USB-C
 - ¡Haz un bricolaje sin límites! El destornillador eléctrico USB de litio de 4 V es la herramienta ideal para todos sus proyectos. Ligero y manejable, le permite trabajar sin esfuerzo físico significativo
+- Batería USB de litio: el dispositivo funciona con la última batería USB de litio de 4 V (no incluida), compatible con las nuevas herramientas RYOBI de 4 V. Extraíble y cambia fácilmente de un dispositivo a otro. Se carga gracias a un cable USB-C
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CRLBWHLN{{</world>}}

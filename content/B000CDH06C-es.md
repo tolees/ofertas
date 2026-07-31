@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ES Mondelez España Commercial, S.L. C/Eucalipto, 25-28016 Madrid, España. Servicio al Consumidor. Tel. 900 963 248.
 - Snack de galleta salada adecuada para saciar el apetito entre horas o para preparar un buen aperitivo Tuc originales en formato de 1 paquete de 100 gramos Textura crujiente al punto de sal; pruébalas solas o con algún aperitivo o entrante, como cremas y patés Conservar en lugar fresco y seco Alérgenos: contiene cebada, semillas de sésamo, cereales con gluten, huevos, leche, soja
+- ES Mondelez España Commercial, S.L. C/Eucalipto, 25-28016 Madrid, España. Servicio al Consumidor. Tel. 900 963 248.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B000CDH06C{{</world>}}

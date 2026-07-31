@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Combinado de tejidos
 - Fit: Regular
+- Combinado de tejidos
 - Manga: larga
 
 [🛒 Visítala!!!]({{< param buyurl >}})

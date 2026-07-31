@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Un grande bolsillo canguro
 - Ajuste regular
 - Cuello con capucha
+- Un grande bolsillo canguro
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B082L8CQD8{{</world>}}

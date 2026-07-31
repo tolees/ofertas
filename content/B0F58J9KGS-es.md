@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Kenton Campus M - Tenis básicos vulcanizados de corte bajo con parte superior clásica
 - 85 % poliuretano, 15 % gamuza de vaca
+- Kenton Campus M - Tenis básicos vulcanizados de corte bajo con parte superior clásica
 - Cuello acolchado, ojal personalizado, cómoda plantilla termoformada y extraíble, logotipo clásico en el lateral
 
 [🛒 Comprar!!!]({{< param buyurl >}})

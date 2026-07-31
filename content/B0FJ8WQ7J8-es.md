@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Camisa de manga larga
 - Ofrece comodidad
 - Cierre con botones
-- Camisa de manga larga
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FJ8WQ7J8{{</world>}}

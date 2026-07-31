@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Detalles distintivos de la marca
 - Con una plantilla cómoda
+- Detalles distintivos de la marca
 - Presentan un estilo casual
 
 [🛒 Comprar!!!]({{< param buyurl >}})

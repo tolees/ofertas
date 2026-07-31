@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vegana
 - Libre de crueldad
+- Sin sulfatos
 - Hecho en Australia
 - Sin sulfatos
-- Sin sulfatos
+- Vegana
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09X7BY5XP{{</world>}}

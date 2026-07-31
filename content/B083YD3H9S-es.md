@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillo trasero con cremallera
 - 2 bolsillos frontales con cremallera
 - Compartimento principal con cremallera con: bolsillo con cremallera, bolsillo para el móvil, bolsillo para la cartera, presilla para bolis y llavero
+- Bolsillo trasero con cremallera
 - Correa ajustable para el hombro
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mangas : Sisa en disminución
 - Manga : Manga corta
-- Corte : Corte regular
+- Mangas : Sisa en disminución
 - Modo de vida : Tradicional
+- Corte : Corte regular
 - Artículo : Camiseta
 - Cuello : Cuello redondo
 

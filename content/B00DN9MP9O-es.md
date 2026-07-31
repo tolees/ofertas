@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - MODO DE EMPLEO: Se recomienda tomar 10 gotas diluidas en agua o cualquier bebida y repetir el proceso 3 veces al día. Es aconsejable no exceder la dosis recomendada, se debe mantener fuera del alcance de los niños y conservar en un lugar fresco.
-- MÚLTIPLES BENEFICIOS: Gracias a su efecto antioxidante, el extracto de pomelo contribuye a neutralizar los radicales libres. De esta manera ayudará a retrasar la aparición de los signos de la edad en la piel.
-- INGREDIENTES NATURALES: Nuestro suplemento está elaborado íntegramente a base de semillas de pomelo. Además, todos nuestros componentes han sido cuidadosamente seleccionados y cumplen los estándares de calidad.
 - REFUERZO INMUNITARIO: Este complemento alimenticio ayuda a tener un correcto funcionamiento del sistema inmune. Al contar con un alto contenido en vitamina C, contribuye al mantenimiento normal del sistema inmunitario.
 - SOBRE NOSOTROS: Naturaleza, tradición y pasión por ayudar a los demás fueron el impulso que en 1985 nos llevó a crear Eladiet. Actualmente, somos líderes en la elaboración de complementos alimenticios naturales cuyo objetivo es mejorar tu bienestar.
+- INGREDIENTES NATURALES: Nuestro suplemento está elaborado íntegramente a base de semillas de pomelo. Además, todos nuestros componentes han sido cuidadosamente seleccionados y cumplen los estándares de calidad.
+- MÚLTIPLES BENEFICIOS: Gracias a su efecto antioxidante, el extracto de pomelo contribuye a neutralizar los radicales libres. De esta manera ayudará a retrasar la aparición de los signos de la edad en la piel.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00DN9MP9O{{</world>}}

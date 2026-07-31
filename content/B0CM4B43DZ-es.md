@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sérum despigmentante intensivo que corrige manchas oscuras persistentes, incluidas las de la edad, solares, post-acné y post-cicatrización. Iguala el tono y reduce la hiperpigmentación. Formulado con Melasyl y 10% Niacinamida.
 - Piel más uniforme y menos manchas en una semana. Previene nuevas manchas. Apto para pieles sensibles.
 - Aplicar 1-3 gotas mañana y noche en rostro, cuello, escote y manos con la pipeta antigoteo. Evitar los ojos.
+- Sérum despigmentante intensivo que corrige manchas oscuras persistentes, incluidas las de la edad, solares, post-acné y post-cicatrización. Iguala el tono y reduce la hiperpigmentación. Formulado con Melasyl y 10% Niacinamida.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CM4B43DZ{{</world>}}

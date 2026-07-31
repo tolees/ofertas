@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño cómodo y transpirable
 - Detalles distintivos de la marca
+- Diseño cómodo y transpirable
 - Con una amortiguación óptima
 
 [🛒 Aquí!!!]({{< param buyurl >}})

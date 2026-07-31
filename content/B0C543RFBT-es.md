@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- 100% algodón
 - Compra una talla más pequeña
 - Corte clásico
 - Estampado de adidas Sportswear serigrafiado
-- 100% algodón
 - Cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

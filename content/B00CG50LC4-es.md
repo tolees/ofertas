@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Broca para un mecanizado profesional de granito, hormigón, mampostería, piedra caliza, piedra natural y piedra artificial
 - Broca resistente al martillo conforme a ISO 5468 con punta centradora activeteq para realizar un corte activo en hormigón; de metal duro resistente con grano muy fino que permite alcanzar una larga vida útil y la máxima solidez
-- Suministro: 1x Broca CYL-5 para hormigón y granito - Ø 8 x 100 mm
-- Broca para un mecanizado profesional de hormigón, mampostería, piedra caliza, piedra natural y piedra artificial
 - Broca de alto rendimiento con dos aristas de corte rectificadas con diamante y diseño Vario con dos espirales que garantiza una buena expulsión del polvo y una perforación rápida; sistema Power Grip para una transmisión de fuerza óptima de la máquina a la broca
+- Broca para un mecanizado profesional de granito, hormigón, mampostería, piedra caliza, piedra natural y piedra artificial
+- Broca para un mecanizado profesional de hormigón, mampostería, piedra caliza, piedra natural y piedra artificial
+- Suministro: 1x Broca CYL-5 para hormigón y granito - Ø 8 x 100 mm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00CG50LC4{{</world>}}

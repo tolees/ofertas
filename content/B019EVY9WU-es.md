@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Nevera Compresor 12V/230V
-- Capacidad para botellas de 1.5 litros en vertical
 - Protección contra bajo nivel de batería
 - Clasificación energética A+
+- Nevera Compresor 12V/230V
 - Refrigeración y congelación desde +10°C hasta -10°C
+- Capacidad para botellas de 1.5 litros en vertical
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B019EVY9WU{{</world>}}

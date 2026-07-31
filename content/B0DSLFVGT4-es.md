@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Papel de 95 gr/m² de alta calidad, microperforado.
+- Color azul. Colección MILAN nata 624 since 1918, inspirada en los colores y diseño originales de las gomas de borrar MILAN, fabricadas en España desde 1918.
 - 48 hojas de papel en blanco.
+- Papel de 95 gr/m² de alta calidad, microperforado.
 - Libreta A4 encolada (sin grapas) y tapa flexible.
 - Cubierta de cartón flexible con dos acabados distintos, brillante y mate.
-- Color azul. Colección MILAN nata 624 since 1918, inspirada en los colores y diseño originales de las gomas de borrar MILAN, fabricadas en España desde 1918.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DSLFVGT4{{</world>}}

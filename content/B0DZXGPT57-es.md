@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - La cocina portátil funciona con gas licuado y está preparada para funcionar con butano o propano. No es apta para gas natural ni gas ciudad.
-- La JECG2721 cuenta con un quemador y una tapa protectora extraíble.
+- Cuenta con patas de goma en las esquinas de la base de la cocina de gas para evitar que se deslice cuando se está haciendo.
 - La cocina de gas se debe conectar a una bombona de butano o propano mediante un reductor y un tubo flexible debidamente homologados (no incluidos)
 - Fácil limpieza: La parrilla y los quemadores se pueden limpiar con agua y jabón y la superficie, con un trapo humedecido cuando todavía esté templada.
-- Cuenta con patas de goma en las esquinas de la base de la cocina de gas para evitar que se deslice cuando se está haciendo.
+- La JECG2721 cuenta con un quemador y una tapa protectora extraíble.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DZXGPT57{{</world>}}

@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Tirador de tela en el talón
 - Parte de nobuk sintético
-- Suela de goma de aspecto vulcanizado
 - Horma clásica
+- Suela de goma de aspecto vulcanizado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BJL46D34{{</world>}}

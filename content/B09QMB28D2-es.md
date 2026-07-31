@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con un discreto logo en la parte izquierda del pecho
 - Camiseta de manga corta
-- Cuello redondo
 - Adecuada para un look relajado
+- Cuello redondo
+- Con un discreto logo en la parte izquierda del pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09QMB28D2{{</world>}}

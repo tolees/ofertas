@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material exterior: Ante
-- Cierre: Cordones
 - Material de la suela: EVA
+- Cierre: Cordones
+- Material exterior: Ante
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09ZVMZ3ZH{{</world>}}

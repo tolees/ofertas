@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Piqué de algodón elástico
-- Cuello polo
 - Tommy Hilfiger Marca:
 - Solapa de cuatro botones
+- Piqué de algodón elástico
+- Cuello polo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F4QMYLM3{{</world>}}

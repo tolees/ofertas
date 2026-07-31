@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- VERSÁTIL Y FÁCIL DE SERVIR: Ideal para tomar solo con hielo o como base en cócteles creativos. Perfecto para aperitivos, brunch o celebraciones al aire libre.
-- ESPÍRITU MEDITERRÁNEO: Inspirado en la frescura y alegría del estilo de vida mediterráneo. Su botella de 750 ml es perfecta para acompañar momentos especiales y celebraciones.
 - SIN AZÚCARES AÑADIDOS: Elaborado únicamente con el azúcar natural presente en las uvas del vino. Una opción más natural, ligera y auténtica.
+- VERSÁTIL Y FÁCIL DE SERVIR: Ideal para tomar solo con hielo o como base en cócteles creativos. Perfecto para aperitivos, brunch o celebraciones al aire libre.
 - BAJO EN ALCOHOL – 8 % VOL: Disfrútalo sin excesos. Su graduación suave lo convierte en una alternativa ligera y sociable para compartir con amigos.
 - REFRESCANTE Y BURBUJEANTE: Aperitivo espumoso de baja graduación, con vibrantes notas cítricas. Su mezcla de naranja sanguina, flor de azahar y vino rosado ofrece una experiencia deliciosa para cualquier ocasión.
+- ESPÍRITU MEDITERRÁNEO: Inspirado en la frescura y alegría del estilo de vida mediterráneo. Su botella de 750 ml es perfecta para acompañar momentos especiales y celebraciones.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F1XGSHG2{{</world>}}

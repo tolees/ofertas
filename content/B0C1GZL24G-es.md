@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La firma Rococo Pearl aboga por el romanticismo y la elegancia de estilo. Cada pieza es única.
-- La gran apertura F1.4 de la cámara principal y el sensor RYYB aumentan enormemente la entrada de luz, lo que da lugar a imágenes de tal nitidez, riqueza y contraste que apenas creerás lo que ven tus ojos.
-- Con una cámara de teleobjetivo con ultrailuminación de vanguardia, cargada con varios grupos de lentes y una gran apertura F2.1, que admite un 178% más de luz para resaltar los detalles.
-- Activa el modo Turbo para cargar la batería al 50 % en tan solo 10 minutos, con HUAWEI SuperCharge de 88 W.
-- La pantalla LTPO Quad-Curve de 6,67 pulgadas proporciona un agarre suave y una vista inmersiva con una tasa de refresco adaptativa de 1-120 Hz. La pantalla HUAWEI X-TrueTM muestra colores precisos y detalles realistas en áreas brillantes y oscuras.
 - HUAWEI AppGallery es la plataforma oficial de distribución de aplicaciones para dispositivos HUAWEI. Ofrece una enorme colección de aplicaciones disponibles seguras y listas para descargar.
+- La firma Rococo Pearl aboga por el romanticismo y la elegancia de estilo. Cada pieza es única.
+- La pantalla LTPO Quad-Curve de 6,67 pulgadas proporciona un agarre suave y una vista inmersiva con una tasa de refresco adaptativa de 1-120 Hz. La pantalla HUAWEI X-TrueTM muestra colores precisos y detalles realistas en áreas brillantes y oscuras.
+- Activa el modo Turbo para cargar la batería al 50 % en tan solo 10 minutos, con HUAWEI SuperCharge de 88 W.
+- Con una cámara de teleobjetivo con ultrailuminación de vanguardia, cargada con varios grupos de lentes y una gran apertura F2.1, que admite un 178% más de luz para resaltar los detalles.
+- La gran apertura F1.4 de la cámara principal y el sensor RYYB aumentan enormemente la entrada de luz, lo que da lugar a imágenes de tal nitidez, riqueza y contraste que apenas creerás lo que ven tus ojos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C1GZL24G{{</world>}}

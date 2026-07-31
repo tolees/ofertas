@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Capucha
-- Material Principal: 70% Algodón / 30% Poliéster(100% Reciclado)
-- Horma clásica
 - Tejido de felpa
+- Horma clásica
+- Material Principal: 70% Algodón / 30% Poliéster(100% Reciclado)
+- Capucha
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F3JG7TQT{{</world>}}

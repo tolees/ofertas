@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Parte del sistema Original GARDENA: gracias a los productos de sistema GARDENA, se pueden conectar los dispositivos de conexión fácil, rápida y por supuesto, herméticamente
+- Determine el caudal de agua usted mismo: puede regular o bloquear el flujo de agua según lo que necesite
 - El paquete incluye: 1 distribuidor de 4 vías GARDENA, fabricado en Alemania
 - Para conectar hasta cuatro equipos: el práctico distribuidor de agua sirve para hasta cuatro dispositivos de conexión y es óptimo para los programadores y temporizadores de riego GARDENA
-- Determine el caudal de agua usted mismo: puede regular o bloquear el flujo de agua según lo que necesite
-- Parte del sistema Original GARDENA: gracias a los productos de sistema GARDENA, se pueden conectar los dispositivos de conexión fácil, rápida y por supuesto, herméticamente
 - Distribuidor de 4 vías: se pueden conectar directamente 4 dispositivos, para grifos de 26,5 mm (G 3/4") con rosca de 33.3 mm (G 1") o grifos de 21 mm (G 1/2") con rosca de 26,5 mm (G 3/4")
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

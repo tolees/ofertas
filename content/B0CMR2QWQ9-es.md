@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Entresuela de EVA
 - Suela exterior de goma
+- Entresuela de EVA
 - Archivos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

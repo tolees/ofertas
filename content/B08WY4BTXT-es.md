@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - BENEFICIOS: Limpia con suavidad respetando la delicada piel del bebé, hidrata la piel y mantiene su nivel óptimo de hidratación durante 6 h, ayuda a relajar el bebé y deja una sensación muy agradable
-- TE PUEDE INTERESAR: Apto desde los 0 meses, testado pediátrica y oftalmológicamente, hipoalergénico, no pica en los ojos
 - INGREDIENTES: Está formulado con un 93% ingredientes de origen natural como glicerina, betaína, tensioactivos suaves y extracto de siempreviva, su fórmula es biodegradable en un 92%
+- TE PUEDE INTERESAR: Apto desde los 0 meses, testado pediátrica y oftalmológicamente, hipoalergénico, no pica en los ojos
 - CONSEJO EXPERTO: Aplica el producto sobre la piel mojada, realiza un suave masaje hasta que se forme espuma y aclara con abundante agua, a continuación, seca delicadamente todo su cuerpo, especialmente los pliegues
 - Gel champú para la higiene diaria de la piel y el cabello del bebé con un 93% de ingredientes de origen natural, respeta la delicada piel del bebé, protegiendo su equilibrio cutáneo, y deja una sensación de hidratación y suavidad muy agradable
 

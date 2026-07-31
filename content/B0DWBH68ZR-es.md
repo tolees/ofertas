@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello: Tortuga
 - Manga: Larga
 - Desigual
-- Tejido de canalé
-- Fit: Slim
 - Estampado floral
+- Tejido de canalé
+- Cuello: Tortuga
+- Fit: Slim
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DWBH68ZR{{</world>}}

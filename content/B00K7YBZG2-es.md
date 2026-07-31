@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Componentes incluidos: Components included in description
 - Choose the best sealing solution
+- Componentes incluidos: Components included in description
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00K7YBZG2{{</world>}}

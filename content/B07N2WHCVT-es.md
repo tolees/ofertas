@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Medidas: 40.6 cm + 5.1 cm, w: 10 mm
 - Acabado: pulido
+- Medidas: 40.6 cm + 5.1 cm, w: 10 mm
 - Tipo de cierre: cierre de langosta
 - Color: oro rosa
 - Material: Acero inoxidable

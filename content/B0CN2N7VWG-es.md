@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Apto Frigorífico
-- La siguiente información se aplica a cada unidad del paquete
-- Apto lavavajillas
-- Facil de limpiar
-- Reciclable , Ecológico , Material 100% saludable , 100% higiénico , No poroso , Larga duración
 - 6 vasos 26 cl
+- La siguiente información se aplica a cada unidad del paquete
+- Facil de limpiar
+- Apto lavavajillas
+- Reciclable , Ecológico , Material 100% saludable , 100% higiénico , No poroso , Larga duración
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CN2N7VWG{{</world>}}

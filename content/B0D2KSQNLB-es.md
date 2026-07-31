@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Puma Logotipo de gato en el talón
 - Puma Tira de forma en los lados medial y lateral
 - Entresuela de goma
-- Puma Logotipo de gato en el talón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D2KSQNLB{{</world>}}

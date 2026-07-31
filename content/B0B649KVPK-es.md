@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- AZUL MEDIO
-- Fabricado con prácticas y materiales sostenibles
 - Nuestra icónica cintura media, ajuste delgado en un vaquero elástico azul oscuro fabricado con prácticas y materiales sostenibles
+- Fabricado con prácticas y materiales sostenibles
+- AZUL MEDIO
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B649KVPK{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 3 ATM de resistencia al agua El agua del grifo o la lluvia no daña nuestros relojes siempre y cuando la caja, la corona y el cristal permanezcan intactos.
+- Grosor de la caja de 6,85 mm / Diámetro de la caja: 40 mm
 - Pulsera de malla de acero inoxidable
 - Movimiento de cuarzo de dos manecillas
+- 3 ATM de resistencia al agua El agua del grifo o la lluvia no daña nuestros relojes siempre y cuando la caja, la corona y el cristal permanezcan intactos.
 - Esfera plateada con el logo distintivo de CK
-- Grosor de la caja de 6,85 mm / Diámetro de la caja: 40 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09S61DQRM{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Schesir Dog: ideal para perros adultos de talla media, es un alimento completo y equilibrado perteneciente a la línea seca
-- Proteínas animales: una única fuente de proteínas animal, con vitaminas y minerales, para satisfacer las necesidades nutricionales de los perros adultos de talla media en las diferentes etapas de vida y para mantener condiciones de bienestar
-- Altamente digerible: su fórmula ha sido aprobada por el departamento de ciencias médicas veterinarias - Alma Mater Studiorum Universidad de Bologna
 - Controlado y certificado biológico por la CCPB: organismo de certificación independiente autorizado por el Ministerio para las políticas agrícolas, alimentarios y forestales
+- Schesir Dog: ideal para perros adultos de talla media, es un alimento completo y equilibrado perteneciente a la línea seca
+- Altamente digerible: su fórmula ha sido aprobada por el departamento de ciencias médicas veterinarias - Alma Mater Studiorum Universidad de Bologna
+- Proteínas animales: una única fuente de proteínas animal, con vitaminas y minerales, para satisfacer las necesidades nutricionales de los perros adultos de talla media en las diferentes etapas de vida y para mantener condiciones de bienestar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01AV9MW1O{{</world>}}

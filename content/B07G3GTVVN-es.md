@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Slim Fit
-- Care Label:
 - Mid rise
 - materialFabricComposition: 99% Cotton, 1% Elastane
+- Slim Fit
 - Slim fit jeans
+- Care Label:
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07G3GTVVN{{</world>}}

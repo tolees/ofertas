@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - TUBO RESELLABLE – Conserva la frescura – Ideal para cualquier ocasión, ya sea en solitario o compartiendo con otros
 - SABOR PICANTE – Hot Chili Lime dulce y ácido – Perfectamente equilibrado y distribuido uniformemente en cada unidad para una experiencia consistente
-- FORMATO DE 160 g – El snack perfecto para disfrutar en cualquier momento
-- FORMA ICÓNICA – Cada una de las Pringles tiene la distintiva forma curva que ofrece ese crujido satisfactorio en todos los bocados
 - IDEALES PARA CUALQUIER OCASIÓN – Perfectas para picar, ideales para reuniones con amigos o disfrutar en casa
+- FORMA ICÓNICA – Cada una de las Pringles tiene la distintiva forma curva que ofrece ese crujido satisfactorio en todos los bocados
+- FORMATO DE 160 g – El snack perfecto para disfrutar en cualquier momento
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CWPH6ZWJ{{</world>}}

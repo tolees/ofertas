@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- 4 ranuras para tarjetas, 2 bolsillos internos
+- Cierre con cremallera superior
 - 2S4SMP008S02-001
 - Cadena con mosquetón
-- Cierre con cremallera superior
-- 4 ranuras para tarjetas, 2 bolsillos internos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CQS9RXN4{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño moderno apto para uso diario.
 - Cintura elástica para un ajuste seguro.
+- Diseño moderno apto para uso diario.
 - Composición: 80% algodón, 20% poliéster
 - Fácil de combinar con cualquier atuendo informal.
 - Confeccionado con tejido polar suave para una comodidad óptima.

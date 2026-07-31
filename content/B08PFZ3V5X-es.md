@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- corte: corte de longitud media
+- Cintura: Cintura con cordón totalmente elástica
 - Logo serigrafiado en la pierna izquierda
 - Tejido reciclado: Tejido Repreve trazable de poliéster reciclado, elástico en 4 direcciones, fabricado a base de botellas de plástico
-- Cintura: Cintura con cordón totalmente elástica
-- corte: corte de longitud media
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08PFZ3V5X{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Adaptador de audio.
 - Salida: jack estéreo de 3,5 mm.
 - Entrada: conector estéreo de 6,3 mm.
-- Adaptador de audio.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07NSLR5S1{{</world>}}

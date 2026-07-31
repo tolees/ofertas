@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Forro textil
-- Contiene al menos un 20% de material reciclado
-- Empeine de piel
-- Cierre de cordones
-- Puntera reforzada
-- Suela de goma
-- Forro textil
 - Horma clásica
+- Forro textil
+- Suela de goma
+- Cierre de cordones
+- Empeine de piel
+- Contiene al menos un 20% de material reciclado
+- Puntera reforzada
+- Forro textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CKXY2LHP{{</world>}}

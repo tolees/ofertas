@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Productos de belleza y el cuidado personal
 - Tipo de producto: Locion anti-imperfecciones
-- Producto que combina tradición e innovación
 - Marca: Clinique
+- Productos de belleza y el cuidado personal
+- Producto que combina tradición e innovación
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000ALFTSC{{</world>}}

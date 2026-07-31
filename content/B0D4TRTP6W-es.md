@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sensibilidad amplificada
 - Suela interior acolchada
+- Sensibilidad amplificada
 - Ideal en superficies sintéticas más cortas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - El snack favorito de todos para las fiestas. ¡Ponlos en un bol y mira cómo desaparecen en un instante!
-- Deliciosos trozos de chocolate con leche en miniatura, envueltos en crujientes y coloridas cáscaras de azúcar.
 - Su tamaño en miniatura los hace perfectos para usar en repostería. ¡Es hora de ponerse creativo!
 - El snack definitivo para las noches de cine, mucho más emocionante que las palomitas de maíz. (¡Idea brillante: a menos que añadas M&Ms Minis A las palomitas de maíz!)
 - 1 x Bolsa de 176g de M&Ms Chocolate Minis
+- Deliciosos trozos de chocolate con leche en miniatura, envueltos en crujientes y coloridas cáscaras de azúcar.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CVSC77M9{{</world>}}

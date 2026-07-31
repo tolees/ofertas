@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Care Label:
 - Flared Fit
-- Flared fit jeans
 - materialFabricComposition: 92% Cotton, 6% Elastomultiester, 2% Elastane
+- Flared fit jeans
+- Care Label:
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CND8RJ8M{{</world>}}

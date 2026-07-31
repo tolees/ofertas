@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello redondo
 - Camiseta de manga corta
+- Cuello redondo
 - Ruffle Edges
 
 [🛒 Comprar!!!]({{< param buyurl >}})

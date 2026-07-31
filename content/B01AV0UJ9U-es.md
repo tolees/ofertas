@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 165 Rosy Kiss
 - lápiz labial con perfecta distribución de color
 - Perfect Mat Lipstick Nº 165
+- 165 Rosy Kiss
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01AV0UJ9U{{</world>}}

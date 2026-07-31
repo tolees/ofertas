@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pack con diario y bolígrafo presentado en caja regalo
-- Diario de 160 páginas con tapa rígida y cierre con llave y candado en forma de corazón
 - Bolígrafo decorativo con adorno superior
+- Pack con diario y bolígrafo presentado en caja regalo
 - Dimensiones: 24 x 23 x 2,5 cm
+- Diario de 160 páginas con tapa rígida y cierre con llave y candado en forma de corazón
 - Incluye una segunda llave
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

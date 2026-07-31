@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Espuma viscoelástica
 - Slip-Ins
-- Lavable a máquina
-- Ajuste sin atar
 - Almohada para el talón
+- Ajuste sin atar
+- Lavable a máquina
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DW9FKFX1{{</world>}}

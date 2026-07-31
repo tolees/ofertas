@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Folio
-- Producto de alta calidad
 - Cartón forrado
+- Producto de alta calidad
+- Folio
 - Cartón forrado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

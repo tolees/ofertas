@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ajuste cómodo
-- Pantalón con cintura elástica
 - Tejido acanalado
+- Pantalón con cintura elástica
 - Estándar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

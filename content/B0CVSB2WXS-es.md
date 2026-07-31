@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Lavable a máquina
 - Slip-Ins
-- Espuma viscoelástica refrigerada por aire
+- Lavable a máquina
 - Almohada para el talón
+- Espuma viscoelástica refrigerada por aire
 - Vegano
 
 [🛒 Visítala!!!]({{< param buyurl >}})

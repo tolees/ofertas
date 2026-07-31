@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CUIDADO CAPILAR: Champú capilar con grandes resultados. El regalo perfecto para el cuidado del cabello.
 - FÓRMULA ENERGIZANTE: Con extracto de algodón, pantenol y provitamina B5 para un cabello profundamente cuidado.
-- CHAMPÚ: Champú que aporta volumen y brillo al cabello
-- POLÍMEROS ELÁSTICOS: Rodean las fibras capilares para estabilizar y dar volumen durante el secado con secador.
 - APORTA VOLUMEN: Para un cabello con más cuerpo, brillo y ligereza.
+- POLÍMEROS ELÁSTICOS: Rodean las fibras capilares para estabilizar y dar volumen durante el secado con secador.
+- CUIDADO CAPILAR: Champú capilar con grandes resultados. El regalo perfecto para el cuidado del cabello.
+- CHAMPÚ: Champú que aporta volumen y brillo al cabello
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CH9DWSTN{{</world>}}

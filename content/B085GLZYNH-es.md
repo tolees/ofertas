@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Vegano, respetuoso con el medio ambiente, comercio ético (ETI)
 - Ajuste: recomendamos una talla más de la habitual.
 - Material exterior: tela de algodón orgánico, transpirable
-- Suela: caucho natural vulcanizado (sin adhesivos animales)
 - Se puede lavar en máquina, máximo 30 grados en programa para prendas delicadas. Dejar secar al aire.
+- Suela: caucho natural vulcanizado (sin adhesivos animales)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B085GLZYNH{{</world>}}

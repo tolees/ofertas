@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Bolsillos con solapas en cada pierna
 - Cintura media
 - Material composición: 98% algodón, 2% elastano
-- Bolsillos con solapas en cada pierna
 - Pantalón cargo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

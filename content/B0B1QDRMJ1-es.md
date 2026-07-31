@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 3 VELOCIDADES Y OSCILACIÓN 90º. Disfruta de una sensación de aire fresco en todo momento, eligiendo el caudal de aire que necesites (alta-turbo, media-eco y baja-sleep) y utilizando su sistema de oscilación para conseguir un mayor ángulo de aireación del ventilador de pie con mando a distancia.
 - GRAN POTENCIA Y MÁXIMO FRESCOR CON EL MÍNIMO RUIDO. Disfruta del máximo silencio y confort, sin renunciar a la potencia gracias al diseño con tecnología PowerWind del ventilador de pie con mando a distancia, que proporciona una gran potencia de 50W.
-- SISTEMA DE 10 ASPAS SUPERPUESTAS EN DOS NIVELES que consiguen que el ventilador de pie con mando a distancia expulse un gran caudal de aire fresco gracias a su efecto divergente. Además, reduce el ruido y distribuye el aire uniformemente por toda la estancia.
+- 3 VELOCIDADES Y OSCILACIÓN 90º. Disfruta de una sensación de aire fresco en todo momento, eligiendo el caudal de aire que necesites (alta-turbo, media-eco y baja-sleep) y utilizando su sistema de oscilación para conseguir un mayor ángulo de aireación del ventilador de pie con mando a distancia.
 - ALTURA TOTALMENTE REGULABLE. El ventilador de pedestal es completamente regulable y permite adecuar su altura según tus necesidades y situación. Cuenta con una altura máxima de 130 cm y se convierte en un ventilador de sobremesa con una altura mínima de 70 cm y un diseño minimalista y elegante.
+- SISTEMA DE 10 ASPAS SUPERPUESTAS EN DOS NIVELES que consiguen que el ventilador de pie con mando a distancia expulse un gran caudal de aire fresco gracias a su efecto divergente. Además, reduce el ruido y distribuye el aire uniformemente por toda la estancia.
 - CONTROL REMOTO CON TEMPORIZADOR HASTA 18H. Incluye un mando a distancia y un temporizador programable hasta 1080 minutos transcurridos los cuales el ventilador de pedestal se apaga de forma automática. Gracias a esta tecnología podrás despreocuparte y ahorrarás en tu factura de la luz.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tu artículo favorito de EMP!
 - ¡Un auténtico destacado para tu casa!
+- Tu artículo favorito de EMP!
 - ¡Funko Pop! con las siguientes características:
 - Merch para fans y divertido
 - Bandas, Fan merch, Película

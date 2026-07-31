@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con hombros caídos
 - Detalles distintivos de la marca
 - Dobladillo y puños acanalados
+- Con hombros caídos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DPB9NBL8{{</world>}}

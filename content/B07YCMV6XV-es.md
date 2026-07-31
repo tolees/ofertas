@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura ajustable
-- Corte skinny desde la cadera hasta el tobillo
-- Diseño clásico Levis de 5 bolsillos
 - Tiro medio
 - Confeccionado en denim rígido tradicional con un toque de stretch
+- Diseño clásico Levis de 5 bolsillos
+- Corte skinny desde la cadera hasta el tobillo
+- Cintura ajustable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07YCMV6XV{{</world>}}

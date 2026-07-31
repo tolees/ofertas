@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Talla 43
 - Impermeable y cómoda, para la construcción, agricultura e industria
 - Bota de agua en PVC
-- Talla 43
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B3RWB1L8{{</world>}}

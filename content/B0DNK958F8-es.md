@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Correa trasera icónica para mayor funcionalidad
 - Suela de goma para mayor agarre
+- Correa trasera icónica para mayor funcionalidad
 - Cómodas plantillas para hundirse
 
 [🛒 Aquí!!!]({{< param buyurl >}})

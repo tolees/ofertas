@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ghd helios blanco incorpora un motor profesional de larga duración y sin escobillas que proporciona un caudal de aire a 120km/h para un secado profesional en tiempo récord.
-- Potencia variable y control de temperatura. Incluye botón de aire frío.
-- Avanzada tecnología acústica para un rendimiento más silencioso
 - Diseño ergonómico y equilibrado. Cable de longitud profesional.
+- Potencia variable y control de temperatura. Incluye botón de aire frío.
+- ghd helios blanco incorpora un motor profesional de larga duración y sin escobillas que proporciona un caudal de aire a 120km/h para un secado profesional en tiempo récord.
+- Avanzada tecnología acústica para un rendimiento más silencioso
 - Secador profesional con revolucionaria tecnología Aeroprecis para un uso más intuitivo y un secado más preciso. Incluye boquilla contorneada de precisión.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

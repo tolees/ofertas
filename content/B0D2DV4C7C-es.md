@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Ajuste estándar
 - Cuello redondo
-- Largo estándar
-- Manga corta
 - Punto simple
+- Manga corta
+- Largo estándar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D2DV4C7C{{</world>}}

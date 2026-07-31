@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Contiene al menos un 70% de materiales reciclados y renovables
-- Capucha con cordón ajustable
-- Bolsillo canguro
 - 70% algodón / 30% poliéster (reciclado)
+- Bolsillo canguro
+- Contiene al menos un 70% de materiales reciclados y renovables
 - Primegreen
+- Capucha con cordón ajustable
 - Interior cepillado
 - Corte clásico
 

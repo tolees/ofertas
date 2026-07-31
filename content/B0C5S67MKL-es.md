@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con forro interior
 - Embalaje: caja
+- Con forro interior
 - Cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})

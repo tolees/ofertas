@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🧠 Estimula tu mente y creatividad: Los puzzles de Educa son una actividad perfecta para desarrollar motricidad fina memoria visual y psicomotricidad además de Estimular curiosidad y imaginación de niños y adultos.
-- Crea un extraordinario puzzle cube 3D de con piezas plásticas de alta calidad.
 - 🧩 ¡El reto puzzlero en forma de cubo! Piezas pequeñas, de tamaño similar a las de puzzle adulto.
+- 🧠 Estimula tu mente y creatividad: Los puzzles de Educa son una actividad perfecta para desarrollar motricidad fina memoria visual y psicomotricidad además de Estimular curiosidad y imaginación de niños y adultos.
 - Materiales de alta calidad y óptimo encaje. Creando puzles desde 1967 Educa es sinónimo de calidad y experiencia. Puzzles recomendado a partir de 8 años.
+- Crea un extraordinario puzzle cube 3D de con piezas plásticas de alta calidad.
 - Contenido: 6 puzzles de 36 piezas, 216 piezas en total.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

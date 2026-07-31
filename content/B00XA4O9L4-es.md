@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tarro gran formato de cristal con cierre hermético que garantiza la frescura y conservación óptima del producto. Tamaño ideal para familias y para quienes consumen mermelada a diario.
 - Los inconfundibles trozos de fresa de La Vieja Fábrica le aportan una textura única y un sabor intenso que recuerda a la mermelada hecha en casa. Cocción suave y controlada que concentra el sabor sin perder la frescura natural de la fruta.
-- Mermelada de fresas elaborada siguiendo la receta tradicional de La Vieja Fábrica durante más de 180 años con frutas selectas en su punto óptimo de maduración, conservando la textura, el color y el aroma natural de la fresa.
+- Tarro gran formato de cristal con cierre hermético que garantiza la frescura y conservación óptima del producto. Tamaño ideal para familias y para quienes consumen mermelada a diario.
 - Elaborada con fresas, azúcar, pectina cítrica y ácido cítrico. Sin colorantes, sin conservantes artificiales y libre de alérgenos. Naturalmente sin gluten y sin lactosa, apta para dietas con restricciones alimentarias.
+- Mermelada de fresas elaborada siguiendo la receta tradicional de La Vieja Fábrica durante más de 180 años con frutas selectas en su punto óptimo de maduración, conservando la textura, el color y el aroma natural de la fresa.
 - Perfecta para desayunos y meriendas sobre tostadas, yogur o porridge. También ideal como ingrediente en repostería (tartas, bizcochos, cheesecakes), salsas agridulces para carnes, vinagretas y aperitivos creativos. Producto 100 % español.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

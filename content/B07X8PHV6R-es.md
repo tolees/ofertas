@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillo delantero tipo canguro
 - Logotipo del felino PUMA en la parte derecha del pecho
+- Bolsillo delantero tipo canguro
 - Capucha con cordón ajustable
 - Algodón, poliéster y elastano
 - Manga larga

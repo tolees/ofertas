@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- OCEAN RESPECT: Tiene fórmula Ocean Respect, lo que hace que este producto sea respetuoso con tu piel y con el planeta
-- FORMULACIÓN: Formulado con alantoína, que calma, suaviza y regenera la piel; vitamina E, que previene el fotoenvejecimiento gracias a su potente acción antioxidante y aloe vera, que tiene acción hidratante
-- LOTION SPRAY SPF50+ KIDS: Es un protector solar en formato spray de muy alta protección contra los rayos UVB y UVA, es apto para pieles con tendencia atópica y para niños a partir de los 3 años
 - MODO DE EMPLEO: Aplica el fotoprotector 30 minutos antes de ir a la piscina o playa, ya que los filtros suelen tardar entre 20 y 30 minutos en actuar. Reaplicar en caso de exposición prolongada, sudor o después de mojarse
+- LOTION SPRAY SPF50+ KIDS: Es un protector solar en formato spray de muy alta protección contra los rayos UVB y UVA, es apto para pieles con tendencia atópica y para niños a partir de los 3 años
+- FORMULACIÓN: Formulado con alantoína, que calma, suaviza y regenera la piel; vitamina E, que previene el fotoenvejecimiento gracias a su potente acción antioxidante y aloe vera, que tiene acción hidratante
 - TEXTURA Y COLOR: Este protector solar es de textura acuosa y de rápida absorción. Tiene un color violeta con acabado invisible no graso; además, no se pega a la arena
+- OCEAN RESPECT: Tiene fórmula Ocean Respect, lo que hace que este producto sea respetuoso con tu piel y con el planeta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZS54GJ1{{</world>}}

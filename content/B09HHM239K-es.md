@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- SIMPLE: la interfaz de usuario intuitiva integrada, la aplicación móvil y Cisco Business Dashboard simplifican las operaciones de red y automatizan la gestión del ciclo de vida
-- DISEÑO INNOVADOR: diseño elegante y compacto, ideal para la instalación fuera de la sala de cableado, como comercios, oficinas abiertas y aulas
 - SEGURIDAD: integrada con IEEE 802.1X para controlar el acceso a su red, la prevención de ataques de denegación de servicio (DoS) aumenta el tiempo de actividad de la red durante un ataque, mientras que las listas de control de acceso (ACL) protegen la red de usuarios no autorizados
-- TRANQUILIDAD: garantía limitada de hardware de 3 años con devolución a fábrica y sustitución y un año de asistencia técnica
-- PUERTOS DE SWITCH: 24 puertos 10/100/1000 + 4 SFP de 1 G
+- SIMPLE: la interfaz de usuario intuitiva integrada, la aplicación móvil y Cisco Business Dashboard simplifican las operaciones de red y automatizan la gestión del ciclo de vida
 - EFICIENCIA ENERGÉTICA: optimiza el uso de energía para reducir el coste operativo. Compatible con Ethernet de eficiencia energética IEEE802.3az Sin ventilador en modelos seleccionados
 - FLEXIBLE: su amplia cartera ofrece la máxima flexibilidad de 8 a 48 puertos y combinaciones de PoE+
+- PUERTOS DE SWITCH: 24 puertos 10/100/1000 + 4 SFP de 1 G
+- DISEÑO INNOVADOR: diseño elegante y compacto, ideal para la instalación fuera de la sala de cableado, como comercios, oficinas abiertas y aulas
+- TRANQUILIDAD: garantía limitada de hardware de 3 años con devolución a fábrica y sustitución y un año de asistencia técnica
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09HHM239K{{</world>}}

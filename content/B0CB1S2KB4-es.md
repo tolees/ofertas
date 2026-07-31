@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Forro textil
 - Cierre de cordones
-- Mediasuela de aspecto vulcanizado
 - Horma clásica
+- Forro textil
+- Mediasuela de aspecto vulcanizado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CB1S2KB4{{</world>}}

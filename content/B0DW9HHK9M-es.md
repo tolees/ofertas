@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fit: Slim
+- Sin mangas
 - Estampado Arty
 - Desigual
-- Sin mangas
+- Fit: Slim
 - Escote pronunciado
 - Cuello: Barco pronunciado
 

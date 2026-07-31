@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - La siguiente información se aplica a cada unidad del paquete
-- Marca Nº1 en Europa
-- 以下の情報は単品あたりの情報です。
 - Innovadora, juvenil y llena de vida
 - Productos de calidad a precio reducido
+- 以下の情報は単品あたりの情報です。
+- Marca Nº1 en Europa
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DDQ7KYM3{{</world>}}

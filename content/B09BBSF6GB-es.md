@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Confección en 60 % nailon y 40 % poliéster
+- Ranuras para tarjetas, bolsillo para monedas con cierre de cremallera y ranura de malla para el documento de identidad
 - Incluye llavero
-- Interior con varios compartimentos y cierre de velcro
 - Altura: 7,5 cm Ancho: 11,5 cm
 - In our Sunday Grey colourway
-- Ranuras para tarjetas, bolsillo para monedas con cierre de cremallera y ranura de malla para el documento de identidad
+- Confección en 60 % nailon y 40 % poliéster
+- Interior con varios compartimentos y cierre de velcro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09BBSF6GB{{</world>}}

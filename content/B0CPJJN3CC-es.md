@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte normal
-- Logotipo de Nike en el frente
 - Tela Suave
+- Logotipo de Nike en el frente
+- Corte normal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CPJJN3CC{{</world>}}

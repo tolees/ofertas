@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cierre adaptable
-- Tenis de malla elástica y correa con pintura en la entresuela con bolsa de aire en el talón
 - Skech-Air
+- Tenis de malla elástica y correa con pintura en la entresuela con bolsa de aire en el talón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D4C2Z1Y1{{</world>}}

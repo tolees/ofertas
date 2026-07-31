@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Hasta 5 veces más precisión que una broca Bosch CYL-3
+- Es ideal para perforar agujeros en múltiples materiales. Se puede utilizar en modo impacto en hormigón y piedra, y en modo rotativo en ladrillo, baldosa cerámica blanda, lámina metálica, madera y plástico
 - Vástago cilíndrico compatible con portabrocas de tres mordazas
 - Suministro: Bosch Broca EXPERT CYL-9 MultiConstruction de 5,5 x 100 x 150 mm
-- Es ideal para perforar agujeros en múltiples materiales. Se puede utilizar en modo impacto en hormigón y piedra, y en modo rotativo en ladrillo, baldosa cerámica blanda, lámina metálica, madera y plástico
-- Hasta 5 veces más precisión que una broca Bosch CYL-3
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09418DZQK{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Forro de malla
 - Empeine de piel sintética con refuerzos de ante
 - Horma clásica
-- Forro de malla
 - Suela de goma
 - Cierre de cordones
 

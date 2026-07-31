@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Espacio para hasta 7 ventiladores, con soporte para refrigeración líquida frontal y superior.
-- Sistema de gestión de cables que mantiene el interior ordenado y mejora el flujo de aire.
-- Compatible con placas ATX, Micro ATX y Mini ITX, ideal para configuraciones gaming avanzadas.
-- Incluye 4 ventiladores ARGB de 120 mm preinstalados, ofreciendo una iluminación personalizable.
-- Diseño con panel frontal mesh y lateral de cristal templado que optimiza la ventilación y la estética.
-- Compatible con tarjetas gráficas de hasta 400 mm y disipadores de CPU de hasta 170 mm.
 - Conectividad moderna con USB-C, USB 3.0, USB 2.0 y puertos de audio HD frontales.
+- Compatible con placas ATX, Micro ATX y Mini ITX, ideal para configuraciones gaming avanzadas.
+- Sistema de gestión de cables que mantiene el interior ordenado y mejora el flujo de aire.
+- Diseño con panel frontal mesh y lateral de cristal templado que optimiza la ventilación y la estética.
+- Incluye 4 ventiladores ARGB de 120 mm preinstalados, ofreciendo una iluminación personalizable.
+- Compatible con tarjetas gráficas de hasta 400 mm y disipadores de CPU de hasta 170 mm.
+- Espacio para hasta 7 ventiladores, con soporte para refrigeración líquida frontal y superior.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DBM7M124{{</world>}}

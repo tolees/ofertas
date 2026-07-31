@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ancho 210mm
 - Plástico
+- Ancho 210mm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B001D7TDVG{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con cápsula de impacto y hexágono para llave y poder transmitir mayores pares de giro
-- El destorcincel para atornillar, cincelar y escoplear
-- La punta Wera Black Point ofrece un alojamiento preciso y una mayor protección anticorrosiva
 - Mango Kraftform ergonómico y unicomponente
 - Con varilla hexagonal pasante
+- Con cápsula de impacto y hexágono para llave y poder transmitir mayores pares de giro
+- La punta Wera Black Point ofrece un alojamiento preciso y una mayor protección anticorrosiva
+- El destorcincel para atornillar, cincelar y escoplear
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B003ES5KSM{{</world>}}

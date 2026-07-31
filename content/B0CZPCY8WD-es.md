@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tiro medio
-- Cintura elástica con cordón
-- Puños elásticos
-- Corte clásico
-- 100% poliéster (reciclado)
 - N/D
+- Cintura elástica con cordón
 - Forro de malla
+- Tiro medio
+- 100% poliéster (reciclado)
+- Corte clásico
+- Puños elásticos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CZPCY8WD{{</world>}}

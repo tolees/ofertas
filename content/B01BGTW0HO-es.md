@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bragueta de cremallera
 - Bolsillos insertados con ribete en el borde
 - Bolsillos traseros con solapa, cierre a presión oculto
+- Bragueta de cremallera
 - Bajo ajustable con cinta integrada
 - Bolsillos tipo cargo con botón a presión oculto en el muslo, bolsillo con cremallera detrás
 

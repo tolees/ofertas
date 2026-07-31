@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto con licencia oficial
 - Figura coleccionable
+- Producto con licencia oficial
 - Pop! Vinyl
 - Hecho de vinilo
 

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mediasuela con amortiguación
-- Forro textil
-- Suela de goma vulcanizada
-- Parte superior de ante
-- Horma clásica
 - Cierre de cordones
+- Horma clásica
+- Suela de goma vulcanizada
+- Mediasuela con amortiguación
+- Parte superior de ante
+- Forro textil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C53YTNTM{{</world>}}

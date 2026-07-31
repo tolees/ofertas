@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Forro textil
-- Empeine Hybridfeel con elementos Strikescale
 - Horma clásica
+- Empeine Hybridfeel con elementos Strikescale
+- Forro textil
 - Suela Controlplate multisuperficie
 
 [🛒 Visítala!!!]({{< param buyurl >}})

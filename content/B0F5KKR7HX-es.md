@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tejido Fleece de mezcla de algodón ultrasuave con interior cepillado para una mayor calidez
+- Lavar a máquina en agua fría con prendas de colores similares. No usar lejía. Secar en secadora a baja temperatura. No planchar. No utilizar suavizantes. No limpiar en seco
 - Bolsillo delantero tipo canguro
 - Este diseño resulta perfecto para cualquier actividad, ya que es cálido, ligero y cómodo, y cuenta con un interior supersuave
 - Puños y bajo acanalados
-- Lavar a máquina en agua fría con prendas de colores similares. No usar lejía. Secar en secadora a baja temperatura. No planchar. No utilizar suavizantes. No limpiar en seco
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F5KKR7HX{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tight leggings
 - Coated leather leggings
+- Tight leggings
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07T2PFBGM{{</world>}}

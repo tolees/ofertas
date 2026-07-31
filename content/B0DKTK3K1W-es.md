@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Totalmente de moda
 - Mango texturizado
-- Mangas raglán
 - Puños, cuello acanalado
+- Mangas raglán
+- Totalmente de moda
 - Dobladillo recto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

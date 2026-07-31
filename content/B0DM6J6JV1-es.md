@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- no es resistente al agua
 - Casual
 - Cordones cierre
-- Sin tiras.
-- material de suela: Caucho
+- no es resistente al agua
 - Plano tipo de tacón
+- material de suela: Caucho
+- Sin tiras.
 - Material interno: sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

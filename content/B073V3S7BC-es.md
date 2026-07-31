@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- EL SUR EN CADA COPA: Siente la esencia del sur en tu aperitivo y tardeo con amigos. No hay plan que no mejoren unas tapitas y Croft Twist.
-- DISFRUTA Y REFRÉSCATE: Es un fino spritz listo para servir. Su fina burbuja aporta viveza y originalidad a cada copa.
-- BAJA GRADUACIÓN: Su baja graduación alcohólica (5,5ºC) la convierte en una bebida perfecta para disfrutar a cualquier hora del día. De hecho, te será muy difícil rechazar la llamada de un amigo cuando te proponga una quedada con sabor a Croft Twist.
-- PERFECT SERVE: Una copa perfecta se prepara sin prisa. Añade hielo, unas hojas de hierbabuena fresca y Croft Twist muy frío. Y, recuerda, la experiencia mejora todavía más cuando lo haces en buena compañía.
 - Gonzalez Byass, Calle de Manuel María González 12, 11403 Jerez de la Frontera
+- BAJA GRADUACIÓN: Su baja graduación alcohólica (5,5ºC) la convierte en una bebida perfecta para disfrutar a cualquier hora del día. De hecho, te será muy difícil rechazar la llamada de un amigo cuando te proponga una quedada con sabor a Croft Twist.
 - INGREDIENTES NATURALES: Elaborado a partir de una mezcla de finos e ingredientes naturales como la hierbabuena, el limón y la flor de saúco.
+- EL SUR EN CADA COPA: Siente la esencia del sur en tu aperitivo y tardeo con amigos. No hay plan que no mejoren unas tapitas y Croft Twist.
+- PERFECT SERVE: Una copa perfecta se prepara sin prisa. Añade hielo, unas hojas de hierbabuena fresca y Croft Twist muy frío. Y, recuerda, la experiencia mejora todavía más cuando lo haces en buena compañía.
+- DISFRUTA Y REFRÉSCATE: Es un fino spritz listo para servir. Su fina burbuja aporta viveza y originalidad a cada copa.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B073V3S7BC{{</world>}}

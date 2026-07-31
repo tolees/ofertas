@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - GANT Logotipo en el bolsillo derecho del ribete
-- Bolsillos delanteros inclinados y bolsillos traseros ribeteados abotonados
 - Corte normal
+- Bolsillos delanteros inclinados y bolsillos traseros ribeteados abotonados
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BRL9HXBY{{</world>}}

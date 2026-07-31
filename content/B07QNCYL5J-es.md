@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mando izdo; altus 2/3v; c/opt.marchas (slm315lb)
 - Accesorios shimano
 - Material duro shimano
 - Mandos ciclismo unisex adulto
+- Mando izdo; altus 2/3v; c/opt.marchas (slm315lb)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07QNCYL5J{{</world>}}

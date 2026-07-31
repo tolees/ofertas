@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MG: Césped artificial/suelo duro
-- Cuello escotado de punto
 - Suela exterior ligera de TPU con múltiples tachuelas
+- Cuello escotado de punto
+- MG: Césped artificial/suelo duro
 - Piel GripControl
 - Parte superior de malla ligera
 

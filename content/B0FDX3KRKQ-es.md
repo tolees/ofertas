@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Color insert
 - Logotipo en relieve
+- Color insert
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FDX3KRKQ{{</world>}}

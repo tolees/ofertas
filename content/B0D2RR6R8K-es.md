@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Número de autorización: 644-PLAG. Apto para uso doméstico
 - REPELENTE FORTE. Spray repelente de mosquitos Forte de amplio espectro de protección. Eficaz contra el mosquito tigre y otros insectos
-- SPRAY FÁCIL DE APLICAR. Repelente en spray fácil y cómodo de aplicar, sin sensación pegajosa
 - CON ICARIDINA. Repelente de mosquitos con un 20% de icaridina, compuesto eficaz, seguro, incoloro y sin olor que forma una barrera en la superficie de la piel evitando que los insectos se posen sobre ellla.
+- SPRAY FÁCIL DE APLICAR. Repelente en spray fácil y cómodo de aplicar, sin sensación pegajosa
+- Número de autorización: 644-PLAG. Apto para uso doméstico
 - AMPLIO ESPECTRO. Repelente de mosquitos con amplio espectro de protección. Protege contra el mosquito tigre (hasta 6 horas), contra el mosquito común (hasta 8 horas), contra las garrapatas (hasta 10 horas), las pulgas, los tábanos y otros tipos de insecto
 - PARA TODA LA FAMILIA. Repelente apto para niños y niñas +3 años y embarazadas. Fórmula compatible con la lactancia materna
 

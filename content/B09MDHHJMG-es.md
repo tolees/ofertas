@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cintura elástica
-- Transpirable
 - Material: mezcla de algodón y elastano para una máxima comodidad y durabilidad
-- Tejido suave y ligero
 - 2 unidades
+- Transpirable
+- Tejido suave y ligero
 - Diseño danés infantil y juvenil unisex de la marca NAME IT
 
 [🛒 Comprar!!!]({{< param buyurl >}})

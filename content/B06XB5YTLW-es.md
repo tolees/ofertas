@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela de goma flexible de alta tracción para cualquier terreno
 - Piel de acción suave y duradera, material sintético y parte de malla
+- Suela de goma flexible de alta tracción para cualquier terreno
 - Skechers Plantilla de espuma viscoelástica con ventilación por aire
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - El primer bálsamo con corazón de aceite labial, para cuidar los labios de una forma nueva. Su textura única se funde al contacto con los labios, lo que te proporciona una sensación de comodidad absoluta
-- HYDRA KISS - CALMANTE - Con camomila y aloe - El toque calmante para unos labios necesitados de dulzura
-- COCOAQUAKE -NUTRITIVO - Con ácido hialurónico y aceite de almendras dulces - Para unos labios como la seda, nutridos y radiantes
 - POUT PERFECTION -EFECTO ALISADOR - Con péptidos y vitamina C - Para unos labios supersuaves y perfectos
+- COCOAQUAKE -NUTRITIVO - Con ácido hialurónico y aceite de almendras dulces - Para unos labios como la seda, nutridos y radiantes
 - Dermatológicamente testado
+- HYDRA KISS - CALMANTE - Con camomila y aloe - El toque calmante para unos labios necesitados de dulzura
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FKN4YV9P{{</world>}}

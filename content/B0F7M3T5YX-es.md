@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricados en puro algodón y poliéster
-- Estampado llamativo en el pecho con aspecto agrietado
 - Corte regular
-- Numerosos bolsillos
 - Pantalones de jogging informales de BENLEE
+- Fabricados en puro algodón y poliéster
+- Numerosos bolsillos
+- Estampado llamativo en el pecho con aspecto agrietado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F7M3T5YX{{</world>}}

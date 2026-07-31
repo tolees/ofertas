@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Óptimo a partir de los 8 años; un juguete en castellano, ideado, diseñado y desarrollado en Italia
 - Dos modelos en 1 para crear dos coches de carreras con volante que funciona; un chasis interior de bloques y una carrocería personalizable con adhesivos
-- Un kit para reproducir 2 modelos de coches de carreras para Fórmula 1; un juego para montar tu propio coche mientras aprendes conceptos de mecánica e ingeniería
 - El completo manual ilustrado que permite construir y realizar los diferentes modelos paso a paso; además, cuenta con una App de la línea Mechanics para descubrir el montaje en 3D
+- Óptimo a partir de los 8 años; un juguete en castellano, ideado, diseñado y desarrollado en Italia
+- Un kit para reproducir 2 modelos de coches de carreras para Fórmula 1; un juego para montar tu propio coche mientras aprendes conceptos de mecánica e ingeniería
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CXF39S5T{{</world>}}

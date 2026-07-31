@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Resistente al agua hasta 50 m: apto para nadar en aguas poco profundas
 - Caja de 42 mm, correa de 22 mm de ancho, cristal mineral, movimiento de fase lunar con pantalla analógica multifunción, importado
 - Caja redonda de acero inoxidable con esfera azul
-- Resistente al agua hasta 50 m: apto para nadar en aguas poco profundas
 - Correa de reloj de piel marrón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

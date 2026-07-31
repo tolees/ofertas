@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Personaje Mandalorian the Child de Star Wars - Disney.
-- Compatible con todos los teléfonos móviles o smartphones actuales.
 - Producto con licencia oficial de Disney.
+- Compatible con todos los teléfonos móviles o smartphones actuales.
+- Personaje Mandalorian the Child de Star Wars - Disney.
 - Compatible con mando o controller PS4, PS5, Xbox one y Xbox X Series.
 - Incluye cable de carga de 2 metros (conector lightning, mini USB y USB).
 

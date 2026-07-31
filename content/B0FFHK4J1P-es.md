@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Embarcad en una aventura tan inmersiva como perturbadora
 - Afrontad juntos vuestros miedos de la infancia
+- Embarcad en una aventura tan inmersiva como perturbadora
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FFHK4J1P{{</world>}}

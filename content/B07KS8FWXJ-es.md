@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material de sudadero
-- Largo Largo
-- Cordón de ajuste
-- Dos bolsillos
 - Logotipo de Hummel impreso en el dobladillo inferior
+- Cordón de ajuste
+- Material de sudadero
+- Dos bolsillos
+- Largo Largo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07KS8FWXJ{{</world>}}

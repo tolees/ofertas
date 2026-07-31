@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Camisa de manga corta
 - Estilo informal
 - Cierre de botones
-- Camisa de manga corta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FDL6RP8P{{</world>}}

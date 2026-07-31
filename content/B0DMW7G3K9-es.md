@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Otra forma de decorar los pasteles es estampando dibujos en el glaseado espeluznante con los moldes incluidos. Una vez que los pasteles estén cubiertos, ¡decóralos con las docenas de escalofriantes y simpáticos adornos para pasteles!
-- ¡Echa un vistazo a toda la colección Cumplespantos de Monster High para celebrar una fiesta espeluznante con la pandilla de monstruitas! Se venden por separado y están sujetas a disponibilidad.
 - Elige entre 3 boquillas decorativas para enroscar en la pipeta; luego, aprieta el glaseado espeluznante en la pipeta y crea horripilantes diseños en los pasteles.
-- ¡Decora los pasteles con el Kit de pastelería de la colección Cumplespantos! Este dulce y espeluznante conjunto de Monster High incluye a la muñeca Clawdeen Wolf y más de 20 piezas para disfrutar de horas de diversión creativa.
 - ¡Los accesorios de repostería añaden más posibilidades de juego y decoración! Apila los pasteles para conseguir la combinación perfecta y luego exponlos. ¡Seguro que estas creaciones festivas serán un éxito en la fiesta!
 - Draculaura va a celebrar un cumplespantos divino de la muerte y Clawdeen Wolf ya tiene el conjunto perfecto para una danza macabra, pero antes necesita ayuda para preparar unos pasteles para la fiesta de su amiga.
+- Otra forma de decorar los pasteles es estampando dibujos en el glaseado espeluznante con los moldes incluidos. Una vez que los pasteles estén cubiertos, ¡decóralos con las docenas de escalofriantes y simpáticos adornos para pasteles!
+- ¡Echa un vistazo a toda la colección Cumplespantos de Monster High para celebrar una fiesta espeluznante con la pandilla de monstruitas! Se venden por separado y están sujetas a disponibilidad.
+- ¡Decora los pasteles con el Kit de pastelería de la colección Cumplespantos! Este dulce y espeluznante conjunto de Monster High incluye a la muñeca Clawdeen Wolf y más de 20 piezas para disfrutar de horas de diversión creativa.
 - El Kit de pastelería incluye 6 pasteles apilables, 6 magdalenas, una bandeja para magdalenas, una espátula, un rodillo, una pipeta, pinzas, un montón de adornos y 2 moldes para pasteles que también sirven para glasear.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

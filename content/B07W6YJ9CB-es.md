@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cinturilla elástica con cordón
 - Tienen ajuste regular
-- Pantalones cortos para hombre
+- Cinturilla elástica con cordón
 - Con tejido Nike Dry
+- Pantalones cortos para hombre
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07W6YJ9CB{{</world>}}

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Paquete: 6 vidrios
-- Material: vidrio, aptos para lavavajillas
-- Diámetro: 79mm; altura: 98mm
 - La capacidad máxima: 250ml
+- Diámetro: 79mm; altura: 98mm
+- Material: vidrio, aptos para lavavajillas
 - Mercancías de la calidad de Duralex
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

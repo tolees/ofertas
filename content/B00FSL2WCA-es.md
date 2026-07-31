@@ -28,18 +28,18 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Piloto trasero reflector función indicador freno-niebla para montaje vertical en vehículos de arrastre y remolques (izquierda) - Con homologación CEE
-- Lado de montaje: izquierda
 - Ancho [mm]: 210
-- El piloto trasero tiene 5 funciones lumínicas: luz trasera / luz de freno / indicador / Piloto antiniebla trasero / reflector, luz trasera, luz de freno, Piloto antiniebla trasero y reflector rojos, indicador amarillo
-- Tipo de lámpara: P21W/R10W, sin bombillas, Con junta, placa base negra, 4 agujeros Diámetro 6 mm para tornillos de fijación, admisible para remolques si se dispone de una homologación parcial CE para la iluminación
-- Longitud: 210mm - Ancho: 108mm - Altura: 66mm - Tipo de lámpara: R10W/P21W - sin lámparas
-- Funciones iluminación: 5 - Con luces reflectoras/Con luz trasera/Con luz antiniebla trasera/Con luz intermitente/Con luz de freno
-- Color de carcasa: negro
-- Verificación ECE
+- Piloto trasero reflector función indicador freno-niebla para montaje vertical en vehículos de arrastre y remolques (izquierda) - Con homologación CEE
 - Cantidad funciones iluminación: 5
-- Altura [mm]: 108
 - Homologación: E13 9385, E13 9531
+- Color de carcasa: negro
+- Tipo de lámpara: P21W/R10W, sin bombillas, Con junta, placa base negra, 4 agujeros Diámetro 6 mm para tornillos de fijación, admisible para remolques si se dispone de una homologación parcial CE para la iluminación
+- El piloto trasero tiene 5 funciones lumínicas: luz trasera / luz de freno / indicador / Piloto antiniebla trasero / reflector, luz trasera, luz de freno, Piloto antiniebla trasero y reflector rojos, indicador amarillo
+- Verificación ECE
+- Lado de montaje: izquierda
+- Funciones iluminación: 5 - Con luces reflectoras/Con luz trasera/Con luz antiniebla trasera/Con luz intermitente/Con luz de freno
+- Altura [mm]: 108
+- Longitud: 210mm - Ancho: 108mm - Altura: 66mm - Tipo de lámpara: R10W/P21W - sin lámparas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00FSL2WCA{{</world>}}

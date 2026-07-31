@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- LOOKS VERSÁTILES: Crea desde un brillo sutil hasta ojos de fiesta. Usa los metalizados para un glow diario y los multicromáticos para un efecto más llamativo. Solos o mezclados.
-- EDICIÓN LIMITADA: Este producto forma parte de la colección exclusiva Holiday 2025 y estará disponible solo por tiempo limitado. Todos nuestros productos son veganos, cruelty-free y fabricados en Europa.
 - VEGANO Y CRUELTY FREE: 3INA es una marca de maquillaje española que fabrica en Europa. Todos nuestros productos son veganos, libres de parabenos y sin crueldad animal.
+- EDICIÓN LIMITADA: Este producto forma parte de la colección exclusiva Holiday 2025 y estará disponible solo por tiempo limitado. Todos nuestros productos son veganos, cruelty-free y fabricados en Europa.
 - SOMBRAS MULTIACABADO: Contiene cuatro sombras combinables: 2 metalizadas (bronce dorado, rosa dorado) y 2 multicromáticas (azul oscuro-verde, azul pastel-rosa). Fáciles de aplicar y difuminar.
+- LOOKS VERSÁTILES: Crea desde un brillo sutil hasta ojos de fiesta. Usa los metalizados para un glow diario y los multicromáticos para un efecto más llamativo. Solos o mezclados.
 - FÓRMULAS ALTAMENTE PIGMENTADAS: Diseñadas para combinar y difuminar. Color intenso en una sola pasada. Los tonos multicromáticos cambian según la luz y los metalizados añaden dimensión al instante.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

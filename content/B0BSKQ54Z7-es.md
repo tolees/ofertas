@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Hecho de algodón puro y poliéster
-- Pantalones cortos deportivos Lonsdale
 - Impresionante impresión en la pierna izquierda del pantalón
+- Pantalones cortos deportivos Lonsdale
 - Ajuste ideal gracias a la cintura elástica con cordón
 - Corte regular
 

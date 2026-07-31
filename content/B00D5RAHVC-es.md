@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Brütting
-- negro antracita
 - Man Comfort V
+- negro antracita
+- Brütting
 - Target_Gender - Hombre
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

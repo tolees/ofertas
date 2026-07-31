@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pega, sella y rellena casi cualquier superficie.
 - El sellador tiene un gran poder de pegado, su flexibilidad lo hace óptimo para infinidad de aplicaciones.
-- Buena resistencia a la intemperie incluso con agua.
 - Ideal para pegar/sellar cubiertas, canalones, cumbreras, peldaños, juntas marco-obra, de dilatación, de elementos constructivos.
+- Pega, sella y rellena casi cualquier superficie.
+- Buena resistencia a la intemperie incluso con agua.
 - Polímero de color transparente en formato de 80 ml.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

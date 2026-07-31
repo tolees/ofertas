@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello y puños de canalé de punto
-- Nueva costura de hombro curvada
 - Etiqueta principal tejida en la parte posterior del cuello
-- Ajuste y apariencia contemporáneos
+- Cuello y puños de canalé de punto
 - 52% algodón, 45% poliéster, 3% elastano
+- Nueva costura de hombro curvada
+- Ajuste y apariencia contemporáneos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DR37VHWL{{</world>}}

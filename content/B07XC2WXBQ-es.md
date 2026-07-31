@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 1% elastano
-- 19% poliéster
 - Ajuste regular
+- 19% poliéster
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07XC2WXBQ{{</world>}}

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Corte : Corte relaxed
-- Artículo : Joggers cortos
 - Cintura : Cintura media
+- Artículo : Joggers cortos
 - Modo de vida : Playa
 
 [🛒 Aquí!!!]({{< param buyurl >}})

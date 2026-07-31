@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Plantilla moldeada y reciclada Contour Cushion
 - Suela de goma reciclada con parte antideslizante
+- Plantilla moldeada y reciclada Contour Cushion
 - Forro de cuero transpirable que mantiene los pies frescos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

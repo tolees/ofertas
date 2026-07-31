@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Logotipo PUMA n.º 1 en la lengüeta
+- Ojetera de diseño actualizado
+- Exterior de ante
 - Cierre de cordones para un ajuste perfecto
 - Cuello acolchado y pespunteado
-- Exterior de ante
-- Ojetera de diseño actualizado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DS3QYKXT{{</world>}}

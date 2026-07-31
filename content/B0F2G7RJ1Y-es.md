@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantilla textil
 - Suela cosida de goma
 - Empeine de piel sintética
+- Plantilla textil
 - Horma clásica
 - Cordones
 

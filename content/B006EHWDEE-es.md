@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Polvo compacto matificante con minerales naturales
 - Dermatológicamente testado
 - Ayuda a minimizar la apariencia de los poros.
-- Hasta 5 horas de duración
+- Polvo compacto matificante con minerales naturales
 - Acabado mate sin brillos
+- Hasta 5 horas de duración
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B006EHWDEE{{</world>}}

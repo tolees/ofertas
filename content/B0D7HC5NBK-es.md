@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Botón en la corona
+- Ojales de ventilación
 - Costuras texturizadas en la visera
 - Cierre de en la parte trasera
-- Ojales de ventilación
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D7HC5NBK{{</world>}}

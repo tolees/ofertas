@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Básicos, Ropa de Calle
-- Ajuste : Regular
-- Camiseta Manga Larga con las siguientes características:
-- Manga larga || Mangas Normales || Cuello Redondo Sin cuello || + [Efectos/Características especiales] +
 - Descubre todas las marcas de EMP!
+- Ajuste : Regular
+- Manga larga || Mangas Normales || Cuello Redondo Sin cuello || + [Efectos/Características especiales] +
+- Básicos, Ropa de Calle
+- Camiseta Manga Larga con las siguientes características:
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B005CX3DCM{{</world>}}

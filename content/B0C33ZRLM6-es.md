@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cómodos
 - Punta redonda
+- Cómodos
 - Logotipo de la marca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

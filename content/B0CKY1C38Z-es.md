@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Parte superior de ripstop con refuerzos sintéticos y puntera moldeada
-- Plantilla moldeada
-- Membrana GORE-TEX
 - Compra una talla más grande
 - Sistema de lazada rápida
+- Parte superior de ripstop con refuerzos sintéticos y puntera moldeada
+- Membrana GORE-TEX
 - Horma clásica
+- Plantilla moldeada
 - Mediasuela de EVA ligera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

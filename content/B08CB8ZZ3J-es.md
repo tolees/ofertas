@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte: corte muy ceñido
-- Tejido:Tejido resistente al agua fabricado con hilo reciclado
+- Resistente al cloro
 - Absorbe la humedad
 - Protección solar: Protección solar UPF 50
-- Resistente al cloro
+- Corte: corte muy ceñido
+- Tejido:Tejido resistente al agua fabricado con hilo reciclado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08CB8ZZ3J{{</world>}}

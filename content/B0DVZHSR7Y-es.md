@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Modelo: 251341
-- Genero: Femenino
-- Tamaño: 24
-- Color: Gris
 - Country Of Origin: España
+- Modelo: 251341
+- Color: Gris
+- Tamaño: 24
+- Genero: Femenino
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DVZHSR7Y{{</world>}}

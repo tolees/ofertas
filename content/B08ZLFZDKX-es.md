@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Entresuela de EVA
-- Material exterior: sintético Material interior: sintético Suela: goma Cierre: cordones Ancho del zapato: estrecho, repelente al agua
 - Fullon Grip Perfil de suela
+- Material exterior: sintético Material interior: sintético Suela: goma Cierre: cordones Ancho del zapato: estrecho, repelente al agua
+- Entresuela de EVA
 - Material interior: sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})

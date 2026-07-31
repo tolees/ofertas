@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Diseño estilizado disponible en varios estampados.
-- Cintura elástica para un ajuste cómodo y seguro.
 - Múltiples bolsillos para guardar lo esencial.
+- Cintura elástica para un ajuste cómodo y seguro.
 - Material de secado rápido para fácil transición del agua a tierra.
 - Ligero y transpirable para días calurosos.
 

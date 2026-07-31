@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Amortiguación AMPLIFOAM ligera y estable
+- Gel en el talón para protección articular
 - Parte superior de malla transpirable y duradera.
 - Cierre de velcro para mayor comodidad.
-- Gel en el talón para protección articular
-- Amortiguación AMPLIFOAM ligera y estable
 - Suela resistente para el juego diario
 
 [🛒 Visítala!!!]({{< param buyurl >}})

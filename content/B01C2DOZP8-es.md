@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tiene unas medidas de 140x140x122 cm con una capacidad de 265 litros
-- Está fabricado en vinilo resistente probado
 - Los más pequeños de la casa se lo pasarán en grande con esta piscina de fondo marino
 - Tiene un toldo que se pone y se quita fácilmente para proteger a los niños
+- Tiene unas medidas de 140x140x122 cm con una capacidad de 265 litros
+- Está fabricado en vinilo resistente probado
 - Cuenta con válvula de drenaje para vaciar la piscina al final de la temporada de forma sencilla
 
 [🛒 Aquí!!!]({{< param buyurl >}})

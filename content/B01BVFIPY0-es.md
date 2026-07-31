@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- No es científica
 - El tipo de alimentación es Pilas
-- No permite impresión
-- La marca es Milan
 - El número de dígitos es 10, el formato es pequeño
+- No permite impresión
+- No es científica
+- La marca es Milan
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01BVFIPY0{{</world>}}

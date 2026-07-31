@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Refuerzo en el arco plantar
 - Puntera sin costuras
 - Tres pares por paquete
-- Refuerzo en el arco plantar
 - No asoman por encima de la zapatilla
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estilo vintage
 - Bombilla no incluida
 - Resistente a la intemperie
+- Estilo vintage
 - Materiales de calidad
 - Efectos de luz de calidad
 

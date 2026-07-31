@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre de cremallera y botón
 - Etiqueta G-STAR en la parte trasera
+- Cierre de cremallera y botón
 - Diseño con cinco bolsillos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

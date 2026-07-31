@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【Estación de energía con batería LiFePO4 de primera calidad】La batería LiFePO4 integrada, con más de 4000 ciclos, hace que esta estación de energía sea extremadamente duradera y segura. La estación de energía portátil cuenta con funciones de protección completas para un funcionamiento continuo y seguro.
-- 【Generador solar de alta eficiencia con MPPT】Este generador solar admite hasta 500 W de entrada solar con regulador MPPT para una máxima eficiencia de carga. Como generador solar profesional, es ideal para uso al aire libre sin conexión a la red.
-- 【Estación de energía portátil de alta capacidad】La estación de energía portátil OKITECH P1000EPLUS ofrece una capacidad de 1024 Wh y una potencia continua de 1800 W (3600 W de potencia máxima), lo que permite alimentar la mayoría de los dispositivos de menos de 1800 W. Esta estación de energía portátil es perfecta para acampadas, autocaravanas y como fuente de energía de emergencia.
 - 【Función SAI y onda sinusoidal pura】La estación de energía OKITECH P1000EPLUS cuenta con una función SAI que conmuta en 10 ms en caso de corte de corriente. La estación de energía portátil suministra onda sinusoidal pura para dispositivos sensibles.
 - 【Gran variedad de conexiones y ámbitos de aplicación】Con conexiones de CA, CC, USB-C PD de 100 W, USB-A QC3.0 y encendedor de cigarrillos, esta estación de energía portátil puede cargar varios dispositivos al mismo tiempo. Es la estación de energía perfecta para acampadas, autocaravanas y suministro de energía de emergencia.
+- 【Generador solar de alta eficiencia con MPPT】Este generador solar admite hasta 500 W de entrada solar con regulador MPPT para una máxima eficiencia de carga. Como generador solar profesional, es ideal para uso al aire libre sin conexión a la red.
+- 【Estación de energía portátil de alta capacidad】La estación de energía portátil OKITECH P1000EPLUS ofrece una capacidad de 1024 Wh y una potencia continua de 1800 W (3600 W de potencia máxima), lo que permite alimentar la mayoría de los dispositivos de menos de 1800 W. Esta estación de energía portátil es perfecta para acampadas, autocaravanas y como fuente de energía de emergencia.
+- 【Estación de energía con batería LiFePO4 de primera calidad】La batería LiFePO4 integrada, con más de 4000 ciclos, hace que esta estación de energía sea extremadamente duradera y segura. La estación de energía portátil cuenta con funciones de protección completas para un funcionamiento continuo y seguro.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GX13YP6R{{</world>}}

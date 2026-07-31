@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color contraste en el interior del cuello, línea en el puño de la manga, interior de la botonadura, cinta de tejido que cubre la costura del cuello y presillas
-- Cuello y puños de canalé
 - Cierre central con botones
+- Cuello y puños de canalé
+- Color contraste en el interior del cuello, línea en el puño de la manga, interior de la botonadura, cinta de tejido que cubre la costura del cuello y presillas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07VP5QQPX{{</world>}}

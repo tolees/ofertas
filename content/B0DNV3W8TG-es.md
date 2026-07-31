@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tenis Gore And Strap con malla mono, pintura en la entresuela y cisne S
 - Lavable a máquina
+- Tenis Gore And Strap con malla mono, pintura en la entresuela y cisne S
 - Cierre adaptable
 
 [🛒 Aquí!!!]({{< param buyurl >}})

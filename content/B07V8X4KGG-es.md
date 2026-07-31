@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- AF CONFIABLE: La estrecha profundidad de campo disponible en una amplia apertura F1.8 hace que el enfoque sea fundamental. Pero el sistema de accionamiento AF con motor lineal de alta precisión garantiza un enfoque preciso y súper rápido.
 - ERGONOMÍA CONVENIENTE: Un interruptor de modo de enfoque que permite cambiar instantáneamente entre los modos de enfoque automático y manual junto con un botón de retención de enfoque personalizable para disparos eficientes y versátiles.
 - SIEMPRE CONFIABLE: Un diseño resistente al polvo y la humedad proporciona la confiabilidad necesaria para uso en exteriores en condiciones difíciles.
-- AF CONFIABLE: La estrecha profundidad de campo disponible en una amplia apertura F1.8 hace que el enfoque sea fundamental. Pero el sistema de accionamiento AF con motor lineal de alta precisión garantiza un enfoque preciso y súper rápido.
 - RÁPIDO Y PRECISO: Linear Response MF garantiza que el anillo de enfoque responda directa y linealmente a un control sutil al enfocar manualmente
 - FONDOS HERMOSOS Y SUAVES: El bokeh suave está respaldado por un mecanismo de apertura circular de 9 hojas con resultados de apariencia natural.
 

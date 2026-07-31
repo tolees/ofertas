@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- FIGURA ARTICULADA: Esta figura Star Wars cuentan con múltiples puntos de articulación y se queda parada sola para que puedas colocarla en increíbles poses de acción
-- COMPATIBLE CON LOS ARTÍCULOS DE LA LÍNEA EPIC HERO SERIES: Esta figura es compatible con la mayoría de los accesorios, vehículos y figuras de la línea exclusiva Epic Hero Series de Hasbro. (Se venden por separado. Sujeto a disponibilidad.)
 - DARTH VADER: Seducido por el lado oscuro de la Fuerza, el Lord Sith Darth Vader dirigió la erradicación de la Orden Jedi por parte del Imperio
+- FIGURA ARTICULADA: Esta figura Star Wars cuentan con múltiples puntos de articulación y se queda parada sola para que puedas colocarla en increíbles poses de acción
 - FIGURAS DE ACCIÓN STAR WARS: Esta figura Star Wars de Darth Vader a escala de 10 cm cuenta con diseño y detalles inspirados en el personaje
+- COMPATIBLE CON LOS ARTÍCULOS DE LA LÍNEA EPIC HERO SERIES: Esta figura es compatible con la mayoría de los accesorios, vehículos y figuras de la línea exclusiva Epic Hero Series de Hasbro. (Se venden por separado. Sujeto a disponibilidad.)
 - ACCESORIO PARA LA FIGURA: Este set Star Wars también incluye un sable de luz que se puede fijar fácilmente a las manos de la figura de Darth Vader
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Su fórmula antiadherente llena los espacios y alarga el arco de la ceja para una apariencia natural impresionante
-- Cómodo de usar y fácil de aplicar
-- Delineador de cejas profesional diseñado para realzar y dar forma a tus cejas
 - Encuentra tu tono ideal
+- Cómodo de usar y fácil de aplicar
+- Su fórmula antiadherente llena los espacios y alarga el arco de la ceja para una apariencia natural impresionante
+- Delineador de cejas profesional diseñado para realzar y dar forma a tus cejas
 - Incluye un aplicador de brocha para retoques fáciles
 
 [🛒 Comprar!!!]({{< param buyurl >}})

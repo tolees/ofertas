@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Composición: 100% algodón
 - Camisa vaquera
+- Composición: 100% algodón
 - Ajuste: regular
 - Tipo de estiramiento: no elástico
 - Instrucciones de cuidado: lavable a máquina

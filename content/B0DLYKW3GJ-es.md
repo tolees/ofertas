@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Omni-Wick elimina la humedad del cuerpo para que el sudor se evapore rápidamente.
 - Orificios para el
+- Omni-Wick elimina la humedad del cuerpo para que el sudor se evapore rápidamente.
 - Ribete elástico en puños y dobladillo.
 - Captura y neutraliza el olor para una frescura duradera
 

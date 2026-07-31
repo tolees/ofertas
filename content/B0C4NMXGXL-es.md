@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 【Carga USB C PD 36W】 La TV base para Nintendo Switch viene con un chip GaN incorporado, compatible con la carga rápida PD / QC con un tiempo de carga completo de 3 horas, al tiempo que genera menos calor y ocupa menos espacio que los cargadores normales.
-- NOTA:No compatible con Switch 2!!!
-- 【Base de TV para Switch】 Esta Switch dock combina la función de la base original y el adaptador de CA, ideal para viajar. Con 1 puerto de salida HD, 1 puerto USB-C 3.1 para la fuente de alimentación de la consola, 1 puerto USB-A 2.0 para el controlador.
-- 【Gran ahorro de habitación para viajar】 Viajar con esta base de TV switch podría ahorrar mucho espacio para su paquete. Nuestra base de repuesto es más compacta en tamaño y con un enchufe plegable. Ocupa solo 1/10 de espacio de la base original y el adaptador de CA. Esta es una alternativa perfecta para la base y el cargador Switch.
-- 【Cargador certificado FCC / CE / UL】 Todos los switch dock basados en nuestra fábrica son productos certificados por FCC / CE / UL (las marcas están impresas en el cuerpo). Todos ellos se someten a rigurosas pruebas de protección contra sobretensiones y sobrecorrientes para garantizar que cada producto sea seguro y fácil de usar.
 - 【Salida HD 4K 60Hz】Esta base de reemplazo para Switch admite una salida de resolución UHD de hasta 4K 60Hz. Simplemente disfruta de un juego suave y fluido de alta velocidad de fotogramas con esta Switch dock portátil. (La resolución de pantalla real depende de la compatibilidad del juego y la frecuencia de actualización de la pantalla).
+- 【Gran ahorro de habitación para viajar】 Viajar con esta base de TV switch podría ahorrar mucho espacio para su paquete. Nuestra base de repuesto es más compacta en tamaño y con un enchufe plegable. Ocupa solo 1/10 de espacio de la base original y el adaptador de CA. Esta es una alternativa perfecta para la base y el cargador Switch.
+- 【Base de TV para Switch】 Esta Switch dock combina la función de la base original y el adaptador de CA, ideal para viajar. Con 1 puerto de salida HD, 1 puerto USB-C 3.1 para la fuente de alimentación de la consola, 1 puerto USB-A 2.0 para el controlador.
+- 【Carga USB C PD 36W】 La TV base para Nintendo Switch viene con un chip GaN incorporado, compatible con la carga rápida PD / QC con un tiempo de carga completo de 3 horas, al tiempo que genera menos calor y ocupa menos espacio que los cargadores normales.
+- 【Cargador certificado FCC / CE / UL】 Todos los switch dock basados en nuestra fábrica son productos certificados por FCC / CE / UL (las marcas están impresas en el cuerpo). Todos ellos se someten a rigurosas pruebas de protección contra sobretensiones y sobrecorrientes para garantizar que cada producto sea seguro y fácil de usar.
+- NOTA:No compatible con Switch 2!!!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C4NMXGXL{{</world>}}

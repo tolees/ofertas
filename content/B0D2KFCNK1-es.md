@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Parte superior de gamuza
 - Suela de goma
 - Cierre de cordones
-- Parte superior de gamuza
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D2KFCNK1{{</world>}}

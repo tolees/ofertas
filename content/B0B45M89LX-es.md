@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- [Limpieza profunda] Este aceite limpiador hidratante, que contiene ingredientes herbales orientales como aceite de soja con glicina y aceite de semilla de ginseng, disuelve suavemente la suciedad, los desechos y los residuos de maquillaje que se han acumulado en la piel y la suaviza sin obstruir los poros.
 - [Aceite de semilla de ginseng 0,1%] El aceite de semilla de ginseng ayuda a proteger la piel de los estímulos externos. Además, su aroma herbal único, saludable y agradable, te ayuda a disfrutar de una limpieza más cómoda."
 - ​[Textura de aceite húmedo​] Tiene una fórmula de aceite texturizada que fluye. Limpia la suciedad, la grasa y los residuos de maquillaje sin dejar la piel con una sensación pesada o grasosa.
+- [Limpieza profunda] Este aceite limpiador hidratante, que contiene ingredientes herbales orientales como aceite de soja con glicina y aceite de semilla de ginseng, disuelve suavemente la suciedad, los desechos y los residuos de maquillaje que se han acumulado en la piel y la suaviza sin obstruir los poros.
 - [Aceite de soja 50%] Este es un aceite agradable para la piel extraído de Glycine Soja compuesto de ácido oleico, ácido linoleico y ácido linolénico. Disuelve suavemente los residuos sin obstruir los poros de la piel y al mismo tiempo actúa como agente revitalizante para suavizar la piel.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

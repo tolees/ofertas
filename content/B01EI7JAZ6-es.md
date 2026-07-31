@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con 150 preguntas
-- Este fantástico juego 2 en 1 es un puzzle de dos caras con el mapa físico y político de Europa
-- multicolor
 - Incluye imágenes de los monumentos más importantes
+- Con 150 preguntas
+- multicolor
+- Este fantástico juego 2 en 1 es un puzzle de dos caras con el mapa físico y político de Europa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01EI7JAZ6{{</world>}}

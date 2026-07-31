@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Bragueta de cremallera
 - Cinco bolsillos, incluido un bolsillo para monedas
-- Etiqueta trasera de G-STAR hecha de un tejido de papel que imita a la piel
 - Proporciona comodidad
+- Etiqueta trasera de G-STAR hecha de un tejido de papel que imita a la piel
 - Cinturilla entallada sin huecos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

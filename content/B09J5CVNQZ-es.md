@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Proporciona comodidad
 - Un ajuste cómodo
 - Una mirada original
+- Proporciona comodidad
 - Una mirada original
 - Proporciona comodidad
 

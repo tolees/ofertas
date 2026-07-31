@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lavable a máquina
 - Cierre adaptable
 - Ligeras
+- Lavable a máquina
 - Tenis ligeros para niños pequeños con correa
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

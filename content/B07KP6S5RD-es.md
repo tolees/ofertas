@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- <b>Escaneado continuo con el modo de alimentación automática<b> - Simplifica tu carga de trabajo y acelera el escaneado de documentos
 - <b>Consigue un escaneado rápido y fácil<b> - Con el software Epson ScanSmart puedes guardar y enviar archivos en los formatos más habituales como PDF, JPG, TIFF, entre otros muchos
 - <b>Diseño pequeño y ligero<b> - Escanea desde cualquier lugar con el escáner móvil más pequeño de Epson
-- <b>Escanea hasta 300 páginas por cada carga de batería<b> - La batería integrada permite realizar tareas en cualquier lugar. Incluye además un cable USB para cuando necesites recargar la batería y seguir trabajando
 - <b>Escaneado rápido a 4 segundos por página<b> - Escanea documentos, tarjetas de visita y mucho más de forma eficiente, con gramajes de 35 g/m² a 270 g/m² y papel largo de hasta 1,8 metros
+- <b>Escaneado continuo con el modo de alimentación automática<b> - Simplifica tu carga de trabajo y acelera el escaneado de documentos
+- <b>Escanea hasta 300 páginas por cada carga de batería<b> - La batería integrada permite realizar tareas en cualquier lugar. Incluye además un cable USB para cuando necesites recargar la batería y seguir trabajando
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07KP6S5RD{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Alta opacidad y brillo del color tanto en papel o cartón de color como en negro
 - Fantásticos efectos metálicos para ideas creativas
 - Ideal para do-it-yourself, tarjetas de felicitación, handlettering o para pintar
 - No es necesario agitar o bombear antes de la aplicación
+- Alta opacidad y brillo del color tanto en papel o cartón de color como en negro
 - Visibilidad duradera sobre superficies lisas, como metal, película o papel, después de un secado rápido sobre superficies lisas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

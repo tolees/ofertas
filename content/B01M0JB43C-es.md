@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- BOTÓN DE PRUEBA: Prueba tu detector con regularidad y asegúrate de que funcione utilizando el botón de prueba incorporado; El detector tiene una vida útil de 10 años; Transcurridos 10 años, el sensor queda obsoleto y deberás sustituir el aparato
 - SENSOR FOTOELÉCTRICO: reacciona rápidamente en caso de incendio con este detector de humo Smartwares que incorpora un sensor fotoeléctrico (también conocido como óptico); Te avisa con antelación y reduce las falsas alarmas
-- ALTA CALIDAD: estos detectores de humo homologados por la VDS llevan la marca de calidad «Q», lo que significa que son duraderos y estables frente a factores externos, además de reducir el número de falsas alarmas.
 - CONSEJOS DE INSTALACIÓN: recomendamos instalar un detector de humo en cada planta para que oigas su sirena de 85 dB en todas partes, incluso cuando duermes; Este detector también existe en juegos de 3 para cubrir toda tu casa
 - PILA 10 AÑOS: Este detector funciona con una pila CR123A que dura 10 años; Por tanto, no es necesario sustituirla durante la vida útil del aparato, pero un indicador luminoso te avisa cuando ésta -y, por tanto, tu detector- está llegando al final de su vida útil
-- BOTÓN DE PRUEBA: Prueba tu detector con regularidad y asegúrate de que funcione utilizando el botón de prueba incorporado; El detector tiene una vida útil de 10 años; Transcurridos 10 años, el sensor queda obsoleto y deberás sustituir el aparato
+- ALTA CALIDAD: estos detectores de humo homologados por la VDS llevan la marca de calidad «Q», lo que significa que son duraderos y estables frente a factores externos, además de reducir el número de falsas alarmas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01M0JB43C{{</world>}}

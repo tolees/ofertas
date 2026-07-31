@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Perfecto para organizar y llevar recogidos los lápices y bolígrafos.
-- Estuche de 22cm x 7 cm x 3 cm fabricado en Poliéster.
 - De Joumma Bags
+- Estuche de 22cm x 7 cm x 3 cm fabricado en Poliéster.
+- Perfecto para organizar y llevar recogidos los lápices y bolígrafos.
 - Tamaño perfecto para llevarlo en la mochila, en la bolsa de deporte o en el bolso.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

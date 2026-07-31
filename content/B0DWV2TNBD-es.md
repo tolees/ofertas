@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Logo metálico
-- Estilo elegante
 - Bolso de mujer
+- Estilo elegante
+- Logo metálico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DWV2TNBD{{</world>}}

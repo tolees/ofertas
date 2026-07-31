@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 📷 REGALO ORIGINAL - Un álbum de fotos siempre ha sido un regalo dotado de mucha personalidad y cargado de emoción. ¿Te vas de viaje y eres del que haces mil y una fotografía? Este album fotos viaje es perfecto para guardarlas ¡Se convertirá en el álbum fotos aventuras preferido! Además es un albúm fotos aniversario perfecto para recordar los momentos vividos con tu pareja
-- 🌊 CALIDAD - Álbum cuadrado fabricado con materiales de alta calidad cuyas medidas son de 26 x 26 cm. Es un álbum tapa dura lo que hace que sea más resistente y duradero, además contiene una cinta para cerralo
 - 🌊 Un álbum de fotos siempre será la mejor opción par recordar aquellos momentos que nos hicieron felices. Con este álbum personalizable inspirado en la cultura japonesa donde podrás guardar bien todos aquellos recuerdos y tenerlos siempre a mano
-- ERIK - Diseños originales y únicos de alta calidad, hacemos que cada artículo ERIK refleje la pasión por tu personaje favorito. En Grupo Erik estamos especializados en papelería y merchandising de las licencias más actuales del mercado
+- 📷 REGALO ORIGINAL - Un álbum de fotos siempre ha sido un regalo dotado de mucha personalidad y cargado de emoción. ¿Te vas de viaje y eres del que haces mil y una fotografía? Este album fotos viaje es perfecto para guardarlas ¡Se convertirá en el álbum fotos aventuras preferido! Además es un albúm fotos aniversario perfecto para recordar los momentos vividos con tu pareja
 - 📷 SCRAPBOOK - En este álbum con 20 hojas, 40 páginas de 120gr podrás pegar 80 fotos 10x15 cm aproximadamente o colocar el tamaño de foto que desees ¡Es un formato perfecto para personalizarlo al detalle! Además, Grupo Erik te ofrece la oportunidad de completar esta compra con sus washi tape del mismo diseño ¡Con ellos podrás personalizar sus páginas a la misma vez que pegas tus fotos! Un albúm de fotos para recortar y escribir todos tus mejores momentos, personaliza tu álbum de recortes como más te guste y házlo especial
+- 🌊 CALIDAD - Álbum cuadrado fabricado con materiales de alta calidad cuyas medidas son de 26 x 26 cm. Es un álbum tapa dura lo que hace que sea más resistente y duradero, además contiene una cinta para cerralo
+- ERIK - Diseños originales y únicos de alta calidad, hacemos que cada artículo ERIK refleje la pasión por tu personaje favorito. En Grupo Erik estamos especializados en papelería y merchandising de las licencias más actuales del mercado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B12BSXJX{{</world>}}

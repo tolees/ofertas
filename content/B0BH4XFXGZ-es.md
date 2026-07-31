@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Horma clásica
-- Clásico diseño de chancla hawaiana
-- Plantilla moldeada
-- Mediasuela de EVA fabricada con un 17% de material vegetal derivado de la caña de azúcar
 - Parte superior sintética
+- Horma clásica
+- Plantilla moldeada
+- Clásico diseño de chancla hawaiana
+- Mediasuela de EVA fabricada con un 17% de material vegetal derivado de la caña de azúcar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BH4XFXGZ{{</world>}}

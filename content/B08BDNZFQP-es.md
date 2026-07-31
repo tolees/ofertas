@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Maridaje: Legaris Verdejo es un vino blanco que armoniza perfectamente con tapas, arroces, ensaladas, pescados y pastas.
-- Nota de cata (boca): Amplio y sabroso, con el final amargo característico de la variedad Verdejo.
 - Nota de cata (nariz): Vino muy intenso en nariz, con notas cítricas y de fruta blanca y leves matices herbáceos (hinojo).
 - La temperatura de consumo aconsejada para este vino es entre 8 y 10ºC. No recomendamos servirlo demasiado frío, pues no se apreciarían correctamente sus características sensoriales.
 - Varietales: Verdejo 100%
+- Maridaje: Legaris Verdejo es un vino blanco que armoniza perfectamente con tapas, arroces, ensaladas, pescados y pastas.
+- Nota de cata (boca): Amplio y sabroso, con el final amargo característico de la variedad Verdejo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08BDNZFQP{{</world>}}

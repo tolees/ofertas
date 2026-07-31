@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Suela exterior de goma duradera para una mayor tracción y un mejor rendimiento en cualquier cancha
 - Zona del tobillo acolchada que proporciona sujeción y comodidad
-- Lace type: Standard tie
 - Parte superior de varios materiales para una mayor durabilidad y transpirabilidad donde más se necesitan
+- Lace type: Standard tie
 - Mediasuela Micro G completa que aporta reactividad y comodidad en la planta del pie
 
 [🛒 Visítala!!!]({{< param buyurl >}})

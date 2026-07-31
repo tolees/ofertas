@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- COMPACTA: La TD300 Mesh está diseñada para flujo de aire de entrada frontal con salida superior/trasera; El panel frontal admite máx 3 fans 120mm/1 radiador 360mm, panel superior máx 2 fans 140mm/1 radiador 280mm, panel trasero 1 fan 120mm/radiador 120mm
 - ENTRADA DE MALLA TESELADA: El panel frontal está construido con tecnología Cooler Master FineMesh para filtrar el polvo sin comprometer el alto flujo de aire; Incluye 2 ventiladores ARGB Sickleflow de 120mm y un hub PWM/ARGB integrado (máx 4 ventiladores)
 - CAPACIDAD: El interior admite placas base Mini-ITX y Micro-ATX y cuenta con una caja de unidad HDD/SSD reposicionable debajo de la cubierta de la fuente de alimentación para espacio adicional en el radiador o una PSU más larga según sea necesario
-- COMPACTA: La TD300 Mesh está diseñada para flujo de aire de entrada frontal con salida superior/trasera; El panel frontal admite máx 3 fans 120mm/1 radiador 360mm, panel superior máx 2 fans 140mm/1 radiador 280mm, panel trasero 1 fan 120mm/radiador 120mm
-- FÁCIL VISUALIZACIÓN, FÁCIL ACCESO: Un panel lateral de vidrio templado de borde a borde es ideal para mostrar los montajes, mientras que el panel superior extraíble permite un mayor acceso durante el ensamblaje de componentes (radiadores y ventilares)
 - DIMENSIONES INTERNAS: Admite refrigeración para CPU (torre de disipador de calor o bomba de agua) de hasta 166 mm de alto, tarjetas gráficas (GPU/GFX) de hasta 344 mm de largo y una fuente de alimentación (PSU) de hasta 325 mm de largo
+- FÁCIL VISUALIZACIÓN, FÁCIL ACCESO: Un panel lateral de vidrio templado de borde a borde es ideal para mostrar los montajes, mientras que el panel superior extraíble permite un mayor acceso durante el ensamblaje de componentes (radiadores y ventilares)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09J4WN98H{{</world>}}

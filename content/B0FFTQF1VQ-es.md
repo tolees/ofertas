@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta de manga corta relajada
 - Cuello redondo con logotipo impreso en el pecho
 - 100% algodón
+- Camiseta de manga corta relajada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FFTQF1VQ{{</world>}}

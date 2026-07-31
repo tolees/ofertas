@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cartera minimalista
 - Dispone de 5 ranuras para tarjetas
 - Diseño elegante
-- Cartera minimalista
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DT1MXMPT{{</world>}}

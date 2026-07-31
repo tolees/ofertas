@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Puma formstrip en el lateral
-- Puma Logotipo n.º 2 en el lateral
 - Puma Logotipo de archivo n.º 1 en la lengüeta
+- Puma Logotipo n.º 2 en el lateral
+- Puma formstrip en el lateral
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CKJRG8WM{{</world>}}

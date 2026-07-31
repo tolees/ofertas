@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Una mirada original
-- Un ajuste cómodo
-- Cuello acanalado
 - Estampado de G-STAR en el pecho
 - Proporciona comodidad
+- Un ajuste cómodo
+- Cuello acanalado
+- Una mirada original
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D8WNRVKS{{</world>}}

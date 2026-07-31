@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Empeine de malla
-- Suela de goma
-- Horma clásica
 - Forro textil
+- Suela de goma
 - Refuerzo y estabilizador del talón de TPU
+- Horma clásica
 - Cierre de cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})

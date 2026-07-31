@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Baja
-- Femenino
-- 12615 WINE
 - Graceful Get Connected
 - Para todo el año
+- 12615 WINE
+- Baja
+- Femenino
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07DY45J3T{{</world>}}

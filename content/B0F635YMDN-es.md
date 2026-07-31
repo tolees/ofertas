@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Perforaciones en la puntera
-- Material de efecto piel abatanada en el exterior
-- Entresuela de goma
-- Suela de goma
 - Ojales de doble capa
+- Material de efecto piel abatanada en el exterior
+- Suela de goma
+- Perforaciones en la puntera
+- Entresuela de goma
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F635YMDN{{</world>}}

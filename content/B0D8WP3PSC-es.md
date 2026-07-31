@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Bolsillos con solapa y cierre de velcro en la parte trasera
+- Ancho ajustable con cinta en el interior del bajo
 - Bolsillos insertados con ribete y bolsillo para monedas
 - Bragueta de cremallera
-- Bolsillos con solapa y cierre de velcro en la parte trasera
 - Bolsillos cargo con cierre de velcro, bolsillo con cremallera y tirador debajo a un lado
-- Ancho ajustable con cinta en el interior del bajo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D8WP3PSC{{</world>}}

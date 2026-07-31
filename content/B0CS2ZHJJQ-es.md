@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Se puede utilizar para terraza de baldosín catalán, paramentos verticales, canalizaciones, el reparación de tejas y canalones de zinc y tratamiento de encuentros en chimeneas
-- Soportes: buena adherencia a la mayor parte de los soportes como hormigón, mortero, fibrocemento, tejas, ladrillos, acero, zinc, aluminio, bituminosos
 - Aplicacion: puede aplicarse fácilmente en frío por métodos tradicionales con un rodillo de lana (pelo corto), brocha o mediante proyección con airless
-- Consumo: al menos 2 kg/m2 aplicado en dos o más capas
 - Rendimiento: elasticidad y puenteo de fisuras, es impermeable a lluvia y salpicaduras, capaz de acompañar los movimientos de dilatación ycontracción del soporte sin agrietarse
+- Soportes: buena adherencia a la mayor parte de los soportes como hormigón, mortero, fibrocemento, tejas, ladrillos, acero, zinc, aluminio, bituminosos
+- Consumo: al menos 2 kg/m2 aplicado en dos o más capas
+- Se puede utilizar para terraza de baldosín catalán, paramentos verticales, canalizaciones, el reparación de tejas y canalones de zinc y tratamiento de encuentros en chimeneas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CS2ZHJJQ{{</world>}}

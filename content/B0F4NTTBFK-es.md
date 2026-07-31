@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Excelente mano de obra
-- Larga vida útil
 - Camiseta de manga corta para hombre
+- Larga vida útil
+- Excelente mano de obra
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4NTTBFK{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con certificación FSC, que garantiza que ha sido fabricada con papel proveniente de bosques gestionados de manera responsable.
-- Libreta de tamaño A5 con encuadernación en espiral.
 - Cuenta con 12 bolsillos interiores (uno para cada mes del año) para guardar en ellos tiques, facturas y cualquier otro documento necesario para mantener los gastos bajo control.
 - Con cierre con goma elástica.
+- Libreta de tamaño A5 con encuadernación en espiral.
 - Resulta ideal para autónomos.
+- Con certificación FSC, que garantiza que ha sido fabricada con papel proveniente de bosques gestionados de manera responsable.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DQ5FM3HF{{</world>}}

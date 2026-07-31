@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Camiseta de uso diario
 - Tiene detalles distintivos de la marca
+- Camiseta de uso diario
 - Prenda para mujeres adultas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

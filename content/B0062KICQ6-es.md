@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - enhanced damage and weather effects and much more
+- New weapons, vehicles and activities
 - new foliage system
 - additional wildlife
 - Denser traffic
-- New weapons, vehicles and activities
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0062KICQ6{{</world>}}

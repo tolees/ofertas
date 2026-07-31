@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Skech-Air
 - Ajuste de cuña
 - MF refrigerado por aire
-- Skech-Air
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FDMLK3PC{{</world>}}

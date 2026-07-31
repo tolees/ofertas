@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela de tracción flexible
 - Parte superior de malla con panel frontal de encaje elástico
+- Suela de tracción flexible
 - Entresuela ligera y flexible que absorbe los golpes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

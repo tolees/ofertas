@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Crema evanescente
 - Protege de la oxidación
+- Crema evanescente
 - Puede aplicarse bajo el protector solar para una acción antioxidante
 - Piel suave y radiante
 

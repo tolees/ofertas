@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Panel frontal estructurado
 - 100% poliéster
 - Panel trasero de malla de poliéster reciclado
+- Panel frontal estructurado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07V391RRN{{</world>}}

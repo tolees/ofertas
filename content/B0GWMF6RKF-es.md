@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Rutina de Glow Nocturno en Casa: Paso 1) Aplica el PDRN Serum para aportar luminosidad a la piel. Paso 2) Aplica la Deep Vitamin C Cream y mezcla las cápsulas antes de usarla.
-- ADN DE SALMÓN PDRN: El ADN de salmón PDRN es una forma de ADN extraído del salmón. Estimula la renovación y reparación de la piel, dando a tu piel una tez más clara y luminosa. Promueve un tono de piel más uniforme y un brillo natural mejorando la salud de la piel.
-- Vitamina C Concentrada - Formulado con un 50% de extracto de espino amarillo, 5% de niacinamida y vitamina C pura, encapsulados para mantener la máxima frescura y eficacia sin oxidación.
-- Pop & Blend - Potencia la absorción profunda de la vitamina C en la piel con cápsulas de liposomas estabilizados, ayudando a mejorar visiblemente la piel con un uso constante.
 - SÉRUM DE PIEL CON brillo de vidrio coreano: Este suero de brillo rosado se dirige a la piel opaca y aumenta la elasticidad, ayudando a prevenir futuras erupciones mientras mejora el brillo y la resistencia de la piel.
+- Rutina de Glow Nocturno en Casa: Paso 1) Aplica el PDRN Serum para aportar luminosidad a la piel. Paso 2) Aplica la Deep Vitamin C Cream y mezcla las cápsulas antes de usarla.
+- Vitamina C Concentrada - Formulado con un 50% de extracto de espino amarillo, 5% de niacinamida y vitamina C pura, encapsulados para mantener la máxima frescura y eficacia sin oxidación.
+- ADN DE SALMÓN PDRN: El ADN de salmón PDRN es una forma de ADN extraído del salmón. Estimula la renovación y reparación de la piel, dando a tu piel una tez más clara y luminosa. Promueve un tono de piel más uniforme y un brillo natural mejorando la salud de la piel.
+- Pop & Blend - Potencia la absorción profunda de la vitamina C en la piel con cápsulas de liposomas estabilizados, ayudando a mejorar visiblemente la piel con un uso constante.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GWMF6RKF{{</world>}}

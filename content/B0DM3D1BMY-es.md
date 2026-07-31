@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela con patrón de punta de flecha para transiciones rápidas
 - Amortiguación reactiva para una conducción cómoda.
+- Suela con patrón de punta de flecha para transiciones rápidas
 - Parte superior de malla transpirable con diseño moderno.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

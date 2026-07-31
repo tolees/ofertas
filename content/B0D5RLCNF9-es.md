@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- marca HEY DUDE
-- color GRIS
 - Talla: 43
+- color GRIS
+- modelo PAUL CANVAS
 - Forro de Textil. Exterior de Textil. Tipo de construcción: Pegado. Fabricado en Vietnam.
 - Informales Hombre
-- modelo PAUL CANVAS
+- marca HEY DUDE
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D5RLCNF9{{</world>}}

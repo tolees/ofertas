@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior: sintética
-- Cierre: cordones
 - Suela: goma
+- Cierre: cordones
+- Parte superior: sintética
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FBX8TS1D{{</world>}}

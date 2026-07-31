@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- LIMPIEZA FÁCIL: Disfruta de una limpieza sencilla gracias al diseño apto para lavavajillas de esta freidora de aire fácil de limpiar, con bandeja crujiente (bandeja) y separador aptos para lavavajillas.
-- CESTA FLEXIBLE DE 9.6L: Cocine pizzas de 30 cm hasta platos principales y acompañamientos con la cesta flexible de 9,6 L, que se divide en dos compartimentos de 4,8 L para una cocción dual
-- 360°: Con doble calentamiento superior e inferior y un potente ventilador, esta gran freidora de aire ofrece una cocción uniforme, una textura crujiente y una tierna jugosidad
 - 8 MENÚS: Freidora de aire doble con 8 menús intuitivosque incluyendo freír con aire, asar, hornear, pizza, asar a la parrilla, recalentar, descongelar y fermentar
+- LIMPIEZA FÁCIL: Disfruta de una limpieza sencilla gracias al diseño apto para lavavajillas de esta freidora de aire fácil de limpiar, con bandeja crujiente (bandeja) y separador aptos para lavavajillas.
+- 360°: Con doble calentamiento superior e inferior y un potente ventilador, esta gran freidora de aire ofrece una cocción uniforme, una textura crujiente y una tierna jugosidad
+- CESTA FLEXIBLE DE 9.6L: Cocine pizzas de 30 cm hasta platos principales y acompañamientos con la cesta flexible de 9,6 L, que se divide en dos compartimentos de 4,8 L para una cocción dual
 - VENTANA DE VISUALIZACIÓN GRANDE: Vigila tu comida sin abrir la cesta con la gran ventana de visualización y la luz de esta freidora de aire compacta
 - VAPOR SUAVE: Disfrute de platos saludables, crujientes y jugosos con la función de vapor suave de este horno freidora de aire que cocina los alimentos de forma rápida y uniforme
 

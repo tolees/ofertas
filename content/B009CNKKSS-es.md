@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Nota de cata (boca): burbujas finas y equilibrada acidez
-- Nota de cata (nariz): aromas primarios propios de las variedades utilizadas (manzana, cítricos, flor de almendro) complementados con los aromas de crianza, como la miel, el pan tostado, etcétera
+- Varietales: Macabeo, Parellada, Xare lo
 - Pack de 6 botellas de 75 cl
 - Nota de cata (vista): color amarillo pajizo pálido; burbuja fina y bien integrada en el vino
-- Varietales: Macabeo, Parellada, Xare lo
+- Nota de cata (nariz): aromas primarios propios de las variedades utilizadas (manzana, cítricos, flor de almendro) complementados con los aromas de crianza, como la miel, el pan tostado, etcétera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B009CNKKSS{{</world>}}

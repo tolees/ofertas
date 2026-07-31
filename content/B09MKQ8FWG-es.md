@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - GRAN CAPACIDAD: Con una capacidad de 26 litros, la caja aislante ofrece suficiente espacio para mantener frías y frescas las botellas, las latas, los alimentos, los bocadillos y mucho más durante días
 - REFRIGERACIÓN POTENTE: Gracias al aislamiento de espuma de poliuretano de alta calidad, mantiene las bebidas y los alimentos fríos hasta 3 días; ideal para acampadas, picnics o festivales
-- EQUIPAMIENTO DE PRIMERA: Gracias a su diseño robusto, la nevera también puede utilizarse como asiento; la tapa también cuenta con cavidades para colocar latas o botellas
 - MATERIALES ROBUSTOS: La nevera está fabricada en polietileno de alta densidad e impresiona por su diseño moderno; el asa firme facilita su transporte
 - Interior: 31 x 20 x 33 cm, exterior: 47 x 31 x 43 cm; peso: 2,1 kg; refrigeración hasta 3 días; peso máx. asiento: 113 kg; capacidad: 26 l; material exterior: PEAD; aislante: PU
+- EQUIPAMIENTO DE PRIMERA: Gracias a su diseño robusto, la nevera también puede utilizarse como asiento; la tapa también cuenta con cavidades para colocar latas o botellas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09MKQ8FWG{{</world>}}

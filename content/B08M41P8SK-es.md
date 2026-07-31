@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- A estrenar y genuina; somos un vendedor autorizado de vans
 - Brand: Vans
+- A estrenar y genuina; somos un vendedor autorizado de vans
 - Ver descripción del producto para obtener más información
 - Vans negro zapatillas filmore decon suede canvas
 

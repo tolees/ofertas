@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Punto redondo
 - Sin tacon
+- Punto redondo
 - Cierre con tirador
 
 [🛒 Visítala!!!]({{< param buyurl >}})

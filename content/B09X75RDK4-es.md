@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño ajustado
 - Pantalón corto deportivo
-- Fabricado en poliéster y elastano
 - Logo de la marca en el frente
+- Fabricado en poliéster y elastano
+- Diseño ajustado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09X75RDK4{{</world>}}

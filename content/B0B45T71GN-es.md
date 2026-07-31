@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Compartimento transpirable para el calzado
 - Tejido técnico 100% poliéster reciclado
-- Bolsillo lateral de malla
 - Dos asas de mano
+- Bolsillo lateral de malla
 - Dimensiones: 25 cm x 50 cm x 25 cm
 - Correa ajustable con refuerzo acolchado para el hombro
 

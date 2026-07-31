@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ACONDICIONADOR: Un acondicionador nutritivo y limpiador para cabello seco y grueso.
-- NUTRICIÓN: Acondicionador formulado con nuestro Complejo Nourish-In con propiedades limpiadoras para nutrir suavemente el cabello.
-- FÓRMULA HIDRATANTE: Enriquecido con aceite de jojoba y pantenol hidratante para ayudar a equilibrar la hidratación de las fibras capilares.
 - ONDAS SUAVES: Vitaminas, minerales y ácidos grasos esenciales cuidan delicadamente el cabello y mejoran su manejabilidad.
+- FÓRMULA HIDRATANTE: Enriquecido con aceite de jojoba y pantenol hidratante para ayudar a equilibrar la hidratación de las fibras capilares.
 - CUIDADO CAPILAR: Un acondicionador ligero que deja el cabello radiante. El regalo perfecto para el cuidado del cabello.
+- NUTRICIÓN: Acondicionador formulado con nuestro Complejo Nourish-In con propiedades limpiadoras para nutrir suavemente el cabello.
+- ACONDICIONADOR: Un acondicionador nutritivo y limpiador para cabello seco y grueso.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07PXNSJZV{{</world>}}

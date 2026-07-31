@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 98% algodón, 2% elastano
-- Pierna afilada para un ajuste óptimo en la cintura
 - Auténtico denim elástico azul medio
+- Pierna afilada para un ajuste óptimo en la cintura
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DTJD3BYR{{</world>}}

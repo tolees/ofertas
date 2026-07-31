@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color duradero y labio sedoso
-- Colores intensos que llaman la atención
 - Color intenso hasta 8 horas
 - Tecnología Color Protect para proteger el color
+- Colores intensos que llaman la atención
+- Color duradero y labio sedoso
 - Fórmula suave y cremosa para un uso cómodo durante todo el día
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

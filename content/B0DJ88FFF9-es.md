@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fácil de limpiar: lavar a máquina en frío, colgar en seco, No usar lejía ni secar en la secadora
-- Fácil de instalar: la cortina de ducha incluye 12 ganchos de plástico para cortinas y 12 ojales de metal reforzado, fáciles de instalar y deslizar
-- Material: La cortina de ducha está hecha de tela 100% poliéster, suaves al tacto, antimoho, impermeable y lavable en la lavadora
 - Tamaño: 180 x 180 cm (72 x 72 pulgadas), adecuado para la mayoría de baños o tinas familiares
+- Fácil de limpiar: lavar a máquina en frío, colgar en seco, No usar lejía ni secar en la secadora
+- Material: La cortina de ducha está hecha de tela 100% poliéster, suaves al tacto, antimoho, impermeable y lavable en la lavadora
+- Fácil de instalar: la cortina de ducha incluye 12 ganchos de plástico para cortinas y 12 ojales de metal reforzado, fáciles de instalar y deslizar
 - Design: Esta cortina de ducha tiene un diseño tropical de flores y hojas que le da la sensación de estar en una selva tropical, para que pueda sentir la naturaleza mientras se baña
 
 [🛒 Comprar!!!]({{< param buyurl >}})

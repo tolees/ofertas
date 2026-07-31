@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Vestido
-- Composición del material: 100 % algodón orgánico
 - Mangas 3/4
 - Cuello en V
+- Vestido
+- Composición del material: 100 % algodón orgánico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C9XQ8SMT{{</world>}}

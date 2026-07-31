@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Regleta Maclean Cable alargador de 5 Tomas con interruptores 250VAC/10A 1 5m MCE204 R/W'
-date: 2026-07-28 17:29:11
+date: 2026-07-30 13:20:51
 image: 'https://m.media-amazon.com/images/I/41ItBNCkrIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BRB5MFK9/?tag=tolees-21'
 descuento: '44.64'
-average: '9.09'
+average: '9.06'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- ▶ Con interruptores iluminados ▶ Ideal para usar en la oficina, el salón o el estudio ▶ Longitud del cable: 1,5 m (3G x 1,00 mm²)
 - ▶ Fusible de seguridad infantil integrado que garantiza la máxima seguridad.
+- ▶ Interruptor iluminado independiente para cada toma
 - ▶ 5 tomas E francesas (no Schuko) dispuestas a 45° - para facilitar el acceso - Apta para uso universal
 - ▶ Regleta de alta calidad para conectar hasta cinco aparatos eléctricos
-- ▶ Con interruptores iluminados ▶ Ideal para usar en la oficina, el salón o el estudio ▶ Longitud del cable: 1,5 m (3G x 1,00 mm²)
-- ▶ Interruptor iluminado independiente para cada toma
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BRB5MFK9{{</world>}}

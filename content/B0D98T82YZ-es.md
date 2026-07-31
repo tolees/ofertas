@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Artículo : Shorts
-- Detalles : Cordón de ajuste en la cintura, Cinturilla elástica
-- Cintura : Talle medio
-- Corte : Corte relaxed
-- Modo de vida : Aptitud, Corriente
 - Bolsillos : Bolsillos delanteros
+- Detalles : Cordón de ajuste en la cintura, Cinturilla elástica
+- Corte : Corte relaxed
+- Artículo : Shorts
+- Modo de vida : Aptitud, Corriente
+- Cintura : Talle medio
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D98T82YZ{{</world>}}

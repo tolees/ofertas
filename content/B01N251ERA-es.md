@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Amortigua el sonido
-- Metálico con apagador de plástico
 - Sordina para violín
+- Metálico con apagador de plástico
 - Se puede montar fácilmente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

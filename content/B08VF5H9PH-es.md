@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Protector solar corporal de alta protección contra los rayos UVA/UVB, el estrés oxidativo y la polución. Se absorbe al instante, sin dejar marcas blancas, y es resistente al agua, al sudor y a la arena.
 - Aplicar antes de la exposición solar y renovar frecuentemente, después de nadar, sudar o secarse con una toalla.
+- Protector solar corporal de alta protección contra los rayos UVA/UVB, el estrés oxidativo y la polución. Se absorbe al instante, sin dejar marcas blancas, y es resistente al agua, al sudor y a la arena.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08VF5H9PH{{</world>}}

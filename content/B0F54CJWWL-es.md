@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillos sin cierre divididos
 - Material Principal: 100% Poliéster(100% Reciclado) / Forro: 100% Poliéster(100% Reciclado) / Acolchado: 100% Poliuretano / Acolchado: 100% Polietileno
+- Bolsillos sin cierre divididos
 - Capacidad: 32 L
 - Dimensiones: 36 cm × 40 cm
 

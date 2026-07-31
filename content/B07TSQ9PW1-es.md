@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte de malla de diseño atlético
-- Entresuela altamente flexible y suela de tracción de goma
 - Ajuste relajado para un ajuste cómodo y espacioso en los dedos y el antepié
+- Entresuela altamente flexible y suela de tracción de goma
+- Parte de malla de diseño atlético
 - Diseño deportivo cómodo y sin cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

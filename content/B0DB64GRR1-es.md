@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Esta batería de alta capacidad de 1950 mAh está diseñada para soportar bajas temperaturas y funcionar a temperaturas de −20 a 45 °C.
-- Capacidad: 1950 mAh ; Temperatura de funcionamiento: de −20 a 45 °C
 - Peso: 34 g ; Dimensiones: 44.2 x 34.4 x 12.1 mm (la. x an. x al.)
-- Solo es compatible con el estuche multifuncional para baterías 2 Osmo Action. No es compatible con el estuche multifuncional para baterías Osmo Action.
 - Compatibilidad: Osmo Action 6, Osmo 360, Osmo Action 5 Pro, Osmo Action 4, Osmo Action 3.
+- Capacidad: 1950 mAh ; Temperatura de funcionamiento: de −20 a 45 °C
+- Solo es compatible con el estuche multifuncional para baterías 2 Osmo Action. No es compatible con el estuche multifuncional para baterías Osmo Action.
+- Esta batería de alta capacidad de 1950 mAh está diseñada para soportar bajas temperaturas y funcionar a temperaturas de −20 a 45 °C.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DB64GRR1{{</world>}}

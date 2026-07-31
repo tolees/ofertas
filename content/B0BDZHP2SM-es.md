@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Apto lavavajillas
 - Tape cierre conserva
 - Tape cierre conserva
 - Reciclable , Ecológico , 100% higiénico
-- Apto lavavajillas
 - 11x11x25,5CM-2L
 
 [🛒 Visítala!!!]({{< param buyurl >}})

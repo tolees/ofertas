@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Plantilla termoformada y extraíble y logotipo clásico en el lateral
 - London Bet G - Tenis para correr con combinaciones de materiales y colores
 - Talonera de contraste de color, cómoda entresuela de EVA bicolor, suela de goma personalizada, estabilizador de color, rayas laterales icónicas de la marca
+- Plantilla termoformada y extraíble y logotipo clásico en el lateral
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DTJNDW8S{{</world>}}

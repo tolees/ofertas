@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tomaia en lienzo
-- Zapato de estilo de vida
 - cuello polo
+- Zapato de estilo de vida
+- Tomaia en lienzo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B6JCNBXH{{</world>}}

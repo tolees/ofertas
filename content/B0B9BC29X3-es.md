@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Running
-- Unisex - Calentador de cuello
 - 96% Poliéster - 4% Elastano
+- Unisex - Calentador de cuello
+- Running
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B9BC29X3{{</world>}}

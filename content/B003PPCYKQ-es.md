@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Alto 165 cm, Ancho 23 cm, Fondo 85 cm
 - En nuestra gama de colores Marine
 - El compartimento principal dispone de un bolsillo trasero con cierre de cremallera
-- Alto 165 cm, Ancho 23 cm, Fondo 85 cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B003PPCYKQ{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La siguiente información se aplica a cada unidad del paquete
-- Protege de la rotura del cabello
 - Deja el cabello suave
+- Protege de la rotura del cabello
 - Fórmula enriquecida con arginina, biotina y vitamina B5
+- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DP4WTJL2{{</world>}}

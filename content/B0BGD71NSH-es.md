@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste regular
-- Cierre: Cordones
-- Material exterior: Cuero
-- Estética vintage
 - Forro textil
+- Ajuste regular
+- Estética vintage
+- Material exterior: Cuero
+- Cierre: Cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BGD71NSH{{</world>}}

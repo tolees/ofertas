@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Unidad de consumo 1 litro
 - Aporta el 50% de la cantidad diaria recomendada de Omega 3
 - A partir de leche desnatada, eliminando la grasa saturada e incorporando ácido oleico procedente del aceite de oliva, ácidos grasos Omega-3 (EPA y DHA), vitamina E, ácido fólico y un toque de avena
 - Ayuda a mantener el corazón sano y a regular el colesterol
 - Contribuye a mantener el equilibrio en la ingesta de grasa desde el punto de vista cualitativo
-- Unidad de consumo 1 litro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01HTBCGRW{{</world>}}

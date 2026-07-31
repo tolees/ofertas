@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Forro textil
+- Parte superior en piel de pleno grano
 - Cierre con cordones
 - Entresuela y suela de goma
-- Parte superior en piel de pleno grano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB7TCY1D{{</world>}}

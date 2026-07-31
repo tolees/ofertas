@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- FABRICADO DE FORMA SOSTENIBLE: una vez llegue este juguete a tus manos, el bambú que se haya utilizado para fabricarlo ya habrá vuelto a crecer.
+- EL MUNDO A TRAVÉS DE UNA LENTE: permite aprender sobre las lentes y cómo funcionan los telescopios y las cámaras.
 - ENFOCA LA NATURALEZA: el ocular blando se gira para ajustar el enfoque.
 - DE VUELTA A LA NATURALEZA: anima a los niños y niñas a jugar al aire libre y despierta su curiosidad por la naturaleza.
-- EL MUNDO A TRAVÉS DE UNA LENTE: permite aprender sobre las lentes y cómo funcionan los telescopios y las cámaras.
-- FABRICADO DE FORMA SOSTENIBLE: una vez llegue este juguete a tus manos, el bambú que se haya utilizado para fabricarlo ya habrá vuelto a crecer.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07B4YTYMM{{</world>}}

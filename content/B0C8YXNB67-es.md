@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Para uso diario
-- Gorra con visera
 - Tiene detalles distintivos de la marca
+- Gorra con visera
+- Para uso diario
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C8YXNB67{{</world>}}

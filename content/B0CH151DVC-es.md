@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Película Animación Japonesa
 - Género: Acción y Aventuras
+- Película Animación Japonesa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CH151DVC{{</world>}}

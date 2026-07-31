@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Contiene detalles distintivos de la marca "Levis"
 - Para uso diario
 - Pantalón corto
+- Contiene detalles distintivos de la marca "Levis"
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DHW48PYQ{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 2. La caja y el brazalete del reloj están hechos de acero duradero, tratados con pulido cepillado mate a mano, y equipados con un movimiento de cuarzo japonés importado, que garantiza una marcha precisa y estable, así como durabilidad y resistencia a impactos.
 - 1. El reloj de hombre SAPPHERO cuenta con un bisel octogonal distintivo, una esfera de damero, así como una caja y un brazalete angulares, con un diseño clásico, elegante y único, adecuado para el uso diario y las ocasiones formales.
 - 4. Reloj de hombre versátil, adecuado para llevar al salir, y adaptado al trabajo empresarial, ocio, viajes y uso diario, siendo una elección ideal de regalo para ocasiones especiales.
+- 2. La caja y el brazalete del reloj están hechos de acero duradero, tratados con pulido cepillado mate a mano, y equipados con un movimiento de cuarzo japonés importado, que garantiza una marcha precisa y estable, así como durabilidad y resistencia a impactos.
 - 3. Impermeabilidad de 30 metros, apta para lavarse la cara y las manos; no usar en duchas calientes, saunas ni actividades acuáticas profundas.
 - 5. El brazalete de 42 mm es regulable y se puede ajustar con la herramienta incluida; si tiene algún problema con el brazalete, nosotros lo resolveremos para usted.
 

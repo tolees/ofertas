@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- INCLUYE TODO LO NECESARIO PARA LA BATALLA: El juego viene con 2 maletines, 10 barcos de juguete (5 por jugador) y clavijas rojas y blancas, todo perfectamente diseñado para que no falte nada durante la partida.
-- UN REGALO DIVERTIDO Y PARA TODA LA FAMILIA: Es un acierto seguro para regalar en cumpleaños, vacaciones o como detalle especial para niños y niñas de 7 años o más.
-- UN CLÁSICO EN FORMATO MINI: Redescubre el mítico Hundir la Flota de Hasbro en un práctico formato portátil que conserva toda la emoción del original, ideal para jugar en cualquier lugar sin perder intensidad.
 - LISTO PARA JUGAR: El maletín de batalla se convierte en tablero y además permite guardar barcos y clavijas en su interior, evitando que se pierdan piezas y facilitando el transporte.
+- UN REGALO DIVERTIDO Y PARA TODA LA FAMILIA: Es un acierto seguro para regalar en cumpleaños, vacaciones o como detalle especial para niños y niñas de 7 años o más.
+- INCLUYE TODO LO NECESARIO PARA LA BATALLA: El juego viene con 2 maletines, 10 barcos de juguete (5 por jugador) y clavijas rojas y blancas, todo perfectamente diseñado para que no falte nada durante la partida.
+- UN CLÁSICO EN FORMATO MINI: Redescubre el mítico Hundir la Flota de Hasbro en un práctico formato portátil que conserva toda la emoción del original, ideal para jugar en cualquier lugar sin perder intensidad.
 - TOCA, HUNDE, ACIERTA, GANA: Igual que en el juego de mesa original, deberás colocar tu flota estratégicamente y adivinar la posición del rival para hundir sus barcos antes de que él hunda los tuyos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

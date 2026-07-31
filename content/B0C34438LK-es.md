@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Comodidad
 - Ligeras
+- Comodidad
 - Suela de CMEVA moldeada
 
 [🛒 Aquí!!!]({{< param buyurl >}})

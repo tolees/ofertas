@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Amortiguación LIGHTMOTION
-- Forro textil
 - Horma clásica
 - Parte de malla acolchada
+- Forro textil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C3JZZ41C{{</world>}}

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Detalles de la marca PUMA
-- Parte superior de piel y materiales mixtos
 - Ancho regular
 - Suela de goma
+- Parte superior de piel y materiales mixtos
 - Puma Formstrip en los laterales
 
 [🛒 Visítala!!!]({{< param buyurl >}})

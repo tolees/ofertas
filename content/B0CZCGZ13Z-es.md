@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 100% poliéster (reciclado)
-- Talla única
 - Visera curvada de tamaño medio
+- Talla única
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CZCGZ13Z{{</world>}}

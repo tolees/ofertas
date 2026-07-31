@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material Principal: 100% Poliéster(71% Reciclado)
-- CLIMACOOL
-- Corte clásico
 - Media cremallera y cuello corto
+- Material Principal: 100% Poliéster(71% Reciclado)
+- Corte clásico
+- CLIMACOOL
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F37VHQ2P{{</world>}}

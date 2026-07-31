@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Producto apto para horno
 - Esta hecho con material antiadherente
 - Material de calidad
-- Producto apto para horno
 - Se puede limpiar en el lavavajillas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

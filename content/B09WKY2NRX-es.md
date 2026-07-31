@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Detalles exteriores: bolsillos traseros y delanteros con Cremallera
-- Detalles interiores: bolsillo trasero con Cremallera, 2 bolsillos delanteros con Cremallera
 - Material exterior: cuero
+- Detalles interiores: bolsillo trasero con Cremallera, 2 bolsillos delanteros con Cremallera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09WKY2NRX{{</world>}}

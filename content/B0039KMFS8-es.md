@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Libre de PFOA y baja en emisiones de Co2
 - Diámetro inducción max. recomendado : 14,5 cm
-- Fabricado en Aluminio y mango de baquelita
 - Especial para vitrocerámica e inducción y apto para todo tipo de cocinas
+- Libre de PFOA y baja en emisiones de Co2
+- Fabricado en Aluminio y mango de baquelita
 - 2 capas de antiadherente de calidad
 - Diametro: 14 cms
 

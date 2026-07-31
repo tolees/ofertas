@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- FIGURA OFICIAL DE GERALD ROBOTNIK – Añade a tu colección al legendario científico creador de Shadow, con un diseño fiel al personaje
 - IDEAL PARA COLECCIONISTAS Y FANS DE SONIC – Un personaje clave en la historia de Sonic the Hedgehog, perfecto para completar tu colección
-- DISEÑO DETALLADO Y REALISTA – Esculpida con precisión para capturar la apariencia única de Gerald Robotnik, con acabados premium
+- FIGURA OFICIAL DE GERALD ROBOTNIK – Añade a tu colección al legendario científico creador de Shadow, con un diseño fiel al personaje
 - 18 PUNTOS DE ARTICULACIÓN – Posiciona la figura en diferentes posturas para recrear escenas icónicas del universo de Sonic
+- DISEÑO DETALLADO Y REALISTA – Esculpida con precisión para capturar la apariencia única de Gerald Robotnik, con acabados premium
 - FABRICACIÓN DE ALTA CALIDAD – Materiales resistentes y pintura duradera para garantizar una figura de colección excepcional
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Material: Hecho de una mezcla de viscosa, poliamida, poliéster reciclado y lana, lo que lo hace duradero y suave al tacto
 - Tipo de manga: Mangas largas que proporcionan cobertura y comodidad en climas fríos
 - Patrón sólido: Diseño liso y elegante que combina con cualquier outfit
-- Material: Hecho de una mezcla de viscosa, poliamida, poliéster reciclado y lana, lo que lo hace duradero y suave al tacto
 - Estilo de cuello: Suéter de tortuga gris clásico con cuello cerrado para mantener el calor en los días fríos
 - Talla: Disponible en talla M, diseñada para un ajuste estándar en mujeres de complexión regular
 - Cierre: Suéter pullover fácil de poner y quitar, sin necesidad de cierres complicados

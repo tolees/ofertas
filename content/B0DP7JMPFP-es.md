@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Lavable a máquina
 - Cierre adaptable
+- Lavable a máquina
 - Ligeras
 - Plantilla de espuma viscoelástica refrigerada por aire
 - Tenis bajos con correa y superposiciones onduladas

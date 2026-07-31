@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior de material sintético y tela
-- Material de la suela: Goma
-- Tipo de tacón: Plano
-- Material: Sintético
 - Mediasuela de EVA ligera
+- Tipo de tacón: Plano
+- Parte superior de material sintético y tela
+- Material: Sintético
+- Material de la suela: Goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BGC6YJDV{{</world>}}

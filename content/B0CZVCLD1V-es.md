@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Capucha con cordón ajustable
 - 55% algodón / 36% poliéster (reciclado) / 9% viscosa
-- Bolsillo canguro
 - Corte clásico
+- Bolsillo canguro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZVCLD1V{{</world>}}

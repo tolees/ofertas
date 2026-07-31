@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estructura ligera y flexible
 - Material resistente
 - Comodidad y estilo
+- Estructura ligera y flexible
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DVCFH9JD{{</world>}}

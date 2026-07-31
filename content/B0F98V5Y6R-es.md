@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido del embalaje: Receptor DJI Mic 3 × 1, Adaptador de teléfono móvil (USB-C) DJI Mic 3 × 1, Cable de datos USB-C a USB-C × 1, Cable adaptador de audio con bloqueo DJI Mic 3 (3.5 mm TRS a TRS) × 1, Funda de transporte compacta DJI Mic 3 × 1.
 - Especificaciones: Dimensiones: 53.85 × 28.69 × 22.00 mm (la. × an. × al.).
 - Consejos: No es compatible con DJI Mic, DJI Mic 2 o DJI Mic Mini.
+- Contenido del embalaje: Receptor DJI Mic 3 × 1, Adaptador de teléfono móvil (USB-C) DJI Mic 3 × 1, Cable de datos USB-C a USB-C × 1, Cable adaptador de audio con bloqueo DJI Mic 3 (3.5 mm TRS a TRS) × 1, Funda de transporte compacta DJI Mic 3 × 1.
 - Compatibilidad: DJI Mic 3.
 - DJI Mic 3 es compacto y portátil, por lo que ofrece un audio nítido y detallado. Con 4TX+8RX, control de ganancia adaptativo y preajustes de tono de voz, destaca en cualquier escenario.
 

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Altura del tacón: 1 3/4 pulgadas
-- Moda deportiva con cordones
 - Parte superior de malla con detalles termofusibles recortados con purpurina
+- Moda deportiva con cordones
+- Altura del tacón: 1 3/4 pulgadas
 - Suela de tracción flexible
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

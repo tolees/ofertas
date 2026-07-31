@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Parche con logotipo en la lengüeta. Entresuela FuelFoam
 - Cuello y lengüeta acolchados. Plantilla OrthoLite moldeada
 - Cierre con cordones
-- Parche con logotipo en la lengüeta. Entresuela FuelFoam
 - Forro textil. Suela de goma con ranuras
 - Parte superior de malla con superposiciones sintéticas. Lengüeta en el talón de grogrén
 

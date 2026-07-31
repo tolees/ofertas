@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ligeras
 - No es resistente al agua
+- Ligeras
 - Cierre de cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})

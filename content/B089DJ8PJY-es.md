@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El glamuroso estuche está hecho de Alta calidad, azul Titanio con recubrimiento IP. Mide 8mm de ancho y el diámetro es de 39mm
-- La correa es de de alta calidad, azul Correa de titanio chapado en IP con eslabones de titanio. Mide 170mm de largo y 21mm de ancho
-- Resistente al agua hasta 10 ATM / 100 metros. Protegido contra la lluvia, salpicaduras de agua, duchas y natación
 - Los relojes SOLAR COLLECTION pueden usar cualquier tipo de luz, los cargará y, cuando estén completamente cargados, durarán entre 6 y 12 meses y con un movimiento solar.
+- El glamuroso estuche está hecho de Alta calidad, azul Titanio con recubrimiento IP. Mide 8mm de ancho y el diámetro es de 39mm
+- Resistente al agua hasta 10 ATM / 100 metros. Protegido contra la lluvia, salpicaduras de agua, duchas y natación
+- La correa es de de alta calidad, azul Correa de titanio chapado en IP con eslabones de titanio. Mide 170mm de largo y 21mm de ancho
 - El reloj de BERING minimalista tiene un cristal de zafiro plano y altamente resistente a los rayones. Con un azul marqué
 
 [🛒 Aquí!!!]({{< param buyurl >}})

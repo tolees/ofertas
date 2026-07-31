@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Componentes incluidos: Hervidor mini ColoursPlus
 - Capacidad de 1 Litro - Hervidor mini de acero inoxidable en color rojo con capacidad para 1 litro
-- Interruptor Luminoso - Dispone de interruptor luminoso de encendido y apaga
 - Potencia de 2400 W - Hierve una taza de agua en poco más de 50 segundos y ahorra un 66% de electricidad
+- Interruptor Luminoso - Dispone de interruptor luminoso de encendido y apaga
 - Filtro Extraíble - El filtro del hervidor es extraíble y lavable
+- Componentes incluidos: Hervidor mini ColoursPlus
 - Indicador del Nivel de Agua - El hervidor cuenta con indicador lateral del nivel de agua, tapa abatible, boquilla de vertido perfecto y base de 360
 
 [🛒 Aquí!!!]({{< param buyurl >}})

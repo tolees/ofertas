@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Chaqueta entre-tiempo con las siguientes características:
-- Chaqueta Mujer || Ajuste normal || Cuello Redondo || Puños de canalé
-- Ajuste : Normal
 - Básicos, Ropa casual, Ropa de Calle
+- Ajuste : Normal
+- Chaqueta Mujer || Ajuste normal || Cuello Redondo || Puños de canalé
+- Chaqueta entre-tiempo con las siguientes características:
 - Descubre todas las marcas de EMP!
 
 [🛒 Aquí!!!]({{< param buyurl >}})

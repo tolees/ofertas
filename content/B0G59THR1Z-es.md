@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elaboradas en España por Galletas Gullón
-- elaboradas con aceite de girasol alto oleico SIN aceite de palma
+- La siguiente información se aplica a cada unidad del paquete
 - en 4 cómodas bolsitas para llevar donde quieras
+- Elaboradas en España por Galletas Gullón
 - Sin gluten, sin lactosa, sin proteínas de la leche, sin frutos secos y sin huevo.
 - veganas
-- La siguiente información se aplica a cada unidad del paquete
+- elaboradas con aceite de girasol alto oleico SIN aceite de palma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G59THR1Z{{</world>}}

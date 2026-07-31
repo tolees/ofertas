@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Refrigeración de la CPU simple y precisa: La refrigeración potente y silenciosa ayuda a su CPU a alcanzar todo su potencial, mientras que la pantalla LCD personalizable agrega un toque de estilo a su sistema
-- Ventiladores RS120: Los ventiladores RS crean un fuerte flujo de aire con la alta presión estática necesaria para impulsar el aire a través del radiador. La tecnología AirGuide de CORSAIR y los rodamientos de cúpula magnética garantizan un gran rendimiento de refrigeración y un bajo nivel sonoro
 - Bomba eficiente y silenciosa: Mantiene el refrigerante circulando a un elevado caudal mientras genera un ruido de tan solo 20 dBA
+- Ventiladores RS120: Los ventiladores RS crean un fuerte flujo de aire con la alta presión estática necesaria para impulsar el aire a través del radiador. La tecnología AirGuide de CORSAIR y los rodamientos de cúpula magnética garantizan un gran rendimiento de refrigeración y un bajo nivel sonoro
+- Refrigeración de la CPU simple y precisa: La refrigeración potente y silenciosa ayuda a su CPU a alcanzar todo su potencial, mientras que la pantalla LCD personalizable agrega un toque de estilo a su sistema
 - Placa refrigerante convexa con pasta térmica aplicada de fábrica: La forma ligeramente convexa garantiza el máximo contacto con el disipador de calor integrado de la CPU, mientras que la pasta térmica aplicada acelera la instalación
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte regular para mayor versatilidad
 - Diseño versátil de cinco bolsillos
+- Corte regular para mayor versatilidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BKGYYTX6{{</world>}}

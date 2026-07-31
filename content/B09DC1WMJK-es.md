@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Capucha con borde de piel sintética
-- KIDS ONLY - Parka de color liso
-- Color liso
 - Composición: 100% poliéster
+- Color liso
+- KIDS ONLY - Parka de color liso
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09DC1WMJK{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- AJUSTE PERFECTO: Pantalón de chándal original de Tommy Jeans de diseño informal. Este pantalón informal convence por su material suave y su corte clásico.
+- MATERIAL Y CUIDADO: Pantalón de chándal confeccionado con 80 % algodón regenerativo y 20 % poliéster reciclado. Se puede lavar a máquina y secar en secadora.
 - ELEGANTE Y VERSÁTIL: Los pantalones de chándal de corte estrecho destacan por su corte cómodo ajuste y su confort máximo. Es perfecto para relajarse en casa o usar a diario.
+- AJUSTE PERFECTO: Pantalón de chándal original de Tommy Jeans de diseño informal. Este pantalón informal convence por su material suave y su corte clásico.
 - MODA URBANA REINTERPRETADA: Para acercar las populares prendas de los 90 a las nuevas generaciones, Tommy Jeans se inspira en los iconos del hip-hop de aquella época. Apostando por prendas de alta calidad y diseños modernos con mucho denim.
 - CLÁSICOS CÓMODOS: Los pantalones de chándal cuentan con un cordón en la cintura y dos bolsillos y convencen por su gran comodidad. La bandera de Tommy Jeans en el muslo, así como la cintura y el bajo de canalé completan el look del pantalón.
-- MATERIAL Y CUIDADO: Pantalón de chándal confeccionado con 80 % algodón regenerativo y 20 % poliéster reciclado. Se puede lavar a máquina y secar en secadora.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DSWLFPBC{{</world>}}

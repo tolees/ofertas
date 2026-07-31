@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillo canguro
-- Corte clásico
-- Puños y dobladillo de canalé
-- 70% algodón / 30% poliéster (reciclado)
 - Hombros con la costura caída
+- Puños y dobladillo de canalé
+- Corte clásico
 - Capucha con cordón ajustable
+- Bolsillo canguro
+- 70% algodón / 30% poliéster (reciclado)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZP775VD{{</world>}}

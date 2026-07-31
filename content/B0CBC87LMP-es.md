@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Estructura robusta de termoplástico. Certificado GS. Enrollacables destinado al uso en países que utilizan el estándar eléctrico alemán: Alemania, Austria, Escandinavia, área balcánica, España, Portugal, Países Bajos…
+- Alargador eléctrico con enrollacables. Enrollacables de 16A con 4 salidas universales y interruptor de protección.
 - Seguridad. Protección contra sobrecalentamiento: en caso de sobrecalentamiento y/o sobrecarga, el interruptor de seguridad desconecta la corriente cuando la potencia supera el límite de capacidad.
 - Todas las tomas están equipadas con protección infantil que impide la introducción de objetos extraños en el enchufe energizado.
 - Carrete de cable de 10 metros, 4 enchufes y clavijas estándar alemanas, sección de cable 3G1,0 mm², longitud de 10 metros.
-- Estructura robusta de termoplástico. Certificado GS. Enrollacables destinado al uso en países que utilizan el estándar eléctrico alemán: Alemania, Austria, Escandinavia, área balcánica, España, Portugal, Países Bajos…
-- Alargador eléctrico con enrollacables. Enrollacables de 16A con 4 salidas universales y interruptor de protección.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CBC87LMP{{</world>}}

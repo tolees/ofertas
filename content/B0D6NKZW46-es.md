@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Transpirables y flexibles
 - Ajuste cómodo
+- Transpirables y flexibles
 - Con detalles distintivos de la marca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

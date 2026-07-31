@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Un acabado repelente al agua duradero brinda protección contra la humedad ligera y la saturación de la tela.
 - Ajuste del dobladillo inferior
+- Un acabado repelente al agua duradero brinda protección contra la humedad ligera y la saturación de la tela.
 - Bolsillo interno en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})

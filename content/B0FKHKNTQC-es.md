@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bóxer abierto. Apertura frontal.
 - Patrón clásico, con bragueta con cierre de botón y cinturilla con goma recubierta.
+- Bóxer abierto. Apertura frontal.
 - 100% algodón.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Merch para fans y divertido
-- ¡Funko Pop! con las siguientes características:
 - Disney, Fan merch, Series TV
+- ¡Funko Pop! con las siguientes características:
 - ¡Un auténtico destacado para tu casa!
 - Tu artículo favorito de EMP!
 

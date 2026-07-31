@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Detalle de logo en purpurina
 - Cintura con goma
 - Fit: Flare
-- Color: Liso
-- Largo: Largo
 - Desigual
+- Color: Liso
+- Detalle de logo en purpurina
+- Largo: Largo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DVCBT4LR{{</world>}}

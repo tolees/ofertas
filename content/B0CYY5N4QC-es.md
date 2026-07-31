@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Puños y dobladillo de canalé
+- Corte clásico
 - Contiene al menos un 70% de materiales reciclados y renovables
-- Bolsillo canguro
 - Contiene al menos un 70% de materiales reciclados y renovables
 - Capucha con cordón ajustable
-- Corte clásico
+- Puños y dobladillo de canalé
 - Interior cepillado
 - 70% algodón / 30% poliéster (reciclado)
+- Bolsillo canguro
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CYY5N4QC{{</world>}}

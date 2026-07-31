@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- EK30Y, 30 años
-- Soporte para botellas de bebidas laterales
 - Tela repelente al agua
+- Soporte para botellas de bebidas laterales
+- EK30Y, 30 años
 - Tamaño de cabina para la mayoría de las principales aerolíneas
 - Funda acolchada para portátil para la mayoría de los dispositivos de 17 pulgadas
 

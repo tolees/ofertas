@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material: nailon
 - Cierre: cremallera
 - Correa de hombro ajustable y extraíble
 - Dimensiones: 11.5 pulgadas de largo x 9 pulgadas de alto x 5 pulgadas de profundidad
+- Material: nailon
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CD1PJH5R{{</world>}}

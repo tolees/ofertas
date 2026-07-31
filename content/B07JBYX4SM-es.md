@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Clasico botón tipo “donut”
 - Cintura flexible
+- Clasico botón tipo “donut”
 - Tejido elástico
 
 [🛒 Comprar!!!]({{< param buyurl >}})

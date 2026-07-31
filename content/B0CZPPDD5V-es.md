@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiro medio
 - Bolsillos frontales en la chaqueta y el pantalón
 - Corte clásico
-- Cierre de cremallera y cuello alzado
-- 100% poliéster (reciclado)
 - Cintura elástica con cordón
+- Cierre de cremallera y cuello alzado
+- Tiro medio
+- 100% poliéster (reciclado)
 - Puños y dobladillo de canalé
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

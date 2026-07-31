@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Ha sido probado dermatológicamente
 - Proporciona un cuidado en profundidad de la piel.
 - Especialmente indicado para pieles secas
 - Este supremo baño de aceite hidratante se deleitará con la suave fragancia
-- Ha sido probado dermatológicamente
 - Sin ingredientes nocivos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Para los niños
-- RC
 - Diversión única en las carreras en casa
+- RC
 - Para grandes y pequeños
 - Carrera RC
 

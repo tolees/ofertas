@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Esterillas, Juego De Alfombrillas De Suelo, Esterilla, Alfombra, Alfombrilla, Alfombras: compatible con TESLA Model Y (5YJY)
 - AutoStyle Alfombrillas /Lado de montaje = delante y detrás
+- Esterillas, Juego De Alfombrillas De Suelo, Esterilla, Alfombra, Alfombrilla, Alfombras: compatible con TESLA Model Y (5YJY)
 - Elija su vehículo en el selector para comprobar su compatibilidad con el producto.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

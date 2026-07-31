@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre de cremallera y capucha
 - WIND.RDY
 - Detalles reflectantes
-- Bolsillo con cremallera en el pecho
-- Corte entallado
 - Ripstop 1% poliéster reciclado
+- Corte entallado
+- Bolsillo con cremallera en el pecho
+- Cierre de cremallera y capucha
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C5481VNY{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ritual del afeitado: el aftershave Proraso para hombre es ideal para el uso diario y completa el ritual del afeitado, aliviando la piel de inmediato.
-- Hidratante: enriquecido con aceite de sándalo y de karité, este bálsamo de Proraso alivia al instante e hidrata la piel, dejándola suave y nutrida.
 - Un referente en el mundo del afeitado: Proraso es la elección de los barberos desde 1948. Productos para la barba y el afeitado probados dermatológicamente.
-- Nutritivo: la fórmula con ingredientes naturales y refrescantes de esta loción para el cuidado barba calma e hidrata la piel y la alivia después del afeitado.
 - Fórmula tradicional: esta loción para el cuidado barba hombre no contiene parabenos, ftalatos, siliconas, aceites minerales ni SLS; dermatológicamente probada.
+- Hidratante: enriquecido con aceite de sándalo y de karité, este bálsamo de Proraso alivia al instante e hidrata la piel, dejándola suave y nutrida.
+- Nutritivo: la fórmula con ingredientes naturales y refrescantes de esta loción para el cuidado barba calma e hidrata la piel y la alivia después del afeitado.
+- Ritual del afeitado: el aftershave Proraso para hombre es ideal para el uso diario y completa el ritual del afeitado, aliviando la piel de inmediato.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01GFYWYC6{{</world>}}

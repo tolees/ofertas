@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido suave
 - Adecuado para uso diario
+- Tejido suave
 - Se adapta a tu silueta
 
 [🛒 Comprar!!!]({{< param buyurl >}})

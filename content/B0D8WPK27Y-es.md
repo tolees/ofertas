@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Side pockets
-- Back welt pockets
 - Zip & button closure
 - Provides comfort
+- Back welt pockets
 - An original look
 
 [🛒 Visítala!!!]({{< param buyurl >}})

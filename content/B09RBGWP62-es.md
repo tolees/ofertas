@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Formato 15 x 20,5 cm, 80 páginas, primera página personalizada con Eyelike Chiara Ferragni
+- Cubierta de cartón de 150 g, papel interior de 80 g; FSC (FSC-C002810); el papel de los cuadernos Maxi Chiara Ferragni x Pigna está fabricado con materias primas procedentes de bosques gestionados de forma correcta y responsable, según los estrictos estándares de la certificación internacional FSC (FSC-C002810); la marca FSC (FSC-C002810) tutela y salvaguarda el medio ambiente
 - Pack de 4 cuadernos
 - Cubiertas con tratamientos especiales surtidos: spot UV grueso + acabado Soft Touch + nuevos colores flúor
-- Cubierta de cartón de 150 g, papel interior de 80 g; FSC (FSC-C002810); el papel de los cuadernos Maxi Chiara Ferragni x Pigna está fabricado con materias primas procedentes de bosques gestionados de forma correcta y responsable, según los estrictos estándares de la certificación internacional FSC (FSC-C002810); la marca FSC (FSC-C002810) tutela y salvaguarda el medio ambiente
 - Fantasías cubiertas variadas con los protagonistas del mundo de Chiara Ferragni y espirales de colores
+- Formato 15 x 20,5 cm, 80 páginas, primera página personalizada con Eyelike Chiara Ferragni
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09RBGWP62{{</world>}}

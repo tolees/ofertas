@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- ESTRUCTURA PARA EXTERIOR: Fabricado en acero galvanizado con recubrimiento en polvo, resistente al sol, la lluvia y el óxido. El set de jardín tiene patas con almohadillas antideslizantes para mayor estabilidad
 - MEDIDAS TOTALES: Las sillas miden 56x63x83 cm (ANxPxAL) y la mesa mide 150x80x74 cm (LxANxAL). Medidas del asiento: 50x46 cm (ANxP). Altura del asiento: 43 cm. Carga máxima: 120 kg (cada silla), 50 kg (mesa). Este juego de muebles de jardín requiere montaje
 - CONJUNTO DE JARDÍN DE SIETE PIEZAS: Este conjunto de jardín exterior incluye mesa rectangular y seis sillas con reposabrazos, ideal para comidas diarias, reuniones o celebraciones con familia y amigos en el jardín o la terraza
 - COMODIDAD TRANSPIRABLE: Este conjunto de terraza cuenta con asientos amplios de malla, respaldo inclinado y reposabrazos que ofrecen apoyo cómodo y ventilación, manteniendo la frescura incluso en días calurosos
 - TABLERO DE PLÁSTICO IMITACIÓN MADERA: Superficie de plástico PSPC con apariencia natural, sin mantenimiento. Resistente al agua, a las grietas y a la decoloración, fácil de limpiar tras cada comida al aire libre
-- ESTRUCTURA PARA EXTERIOR: Fabricado en acero galvanizado con recubrimiento en polvo, resistente al sol, la lluvia y el óxido. El set de jardín tiene patas con almohadillas antideslizantes para mayor estabilidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GPPRSRG1{{</world>}}

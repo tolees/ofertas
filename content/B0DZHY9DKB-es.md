@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Manga : Manga larga
 - Cuello : De cuello vuelto
-- Corte : Corte relaxed
 - Artículo : Jersey de punto
+- Manga : Manga larga
+- Corte : Corte relaxed
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DZHY9DKB{{</world>}}

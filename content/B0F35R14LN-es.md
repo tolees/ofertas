@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- UA Tech es nuestro equipo de entrenamiento original: suelto, ligero y te mantiene fresco
 - La tecnología de control de olores minimiza el olor
 - Tejido UA Tech de secado rápido, ultrasuave y de tacto más natural
+- UA Tech es nuestro equipo de entrenamiento original: suelto, ligero y te mantiene fresco
 - Material que capilariza el sudor y se seca rápidamente
 
 [🛒 Comprar!!!]({{< param buyurl >}})

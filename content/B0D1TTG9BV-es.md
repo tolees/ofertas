@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CALIDAD DEMOSTRADA: Desde 1985, esta marca de diseñador lleva demostrando por todo el mundo la calidad y la ligereza mediante una gran variedad de diseños en los míticos colores azul oscuro, blanco y rojo.
 - SENCILLO Y ELEGANTE: Esta moderna camiseta con cuello clásico destaca por su gran comodidad. Los dos botones y la discreta bandera en el pecho completan el look de la prenda.
+- CALIDAD DEMOSTRADA: Desde 1985, esta marca de diseñador lleva demostrando por todo el mundo la calidad y la ligereza mediante una gran variedad de diseños en los míticos colores azul oscuro, blanco y rojo.
 - MATERIAL Y CUIDADO: Polo confeccionado con 96 % algodón orgánico y 4 % elastano. Se puede lavar a máquina.
-- AJUSTE PERFECTO: Este polo minimalista de algodón orgánico tiene un diseño depurado y favorece tu figura.
 - DISEÑO PREMIUM: El estilo atemporal de este top es la base de cualquier conjunto smart-casual. Esta moderna camiseta también es perfecta como regalo.
+- AJUSTE PERFECTO: Este polo minimalista de algodón orgánico tiene un diseño depurado y favorece tu figura.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D1TTG9BV{{</world>}}

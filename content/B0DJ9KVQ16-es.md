@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Modelo con plataforma
 - Horma estándar
+- Suela de goma rugosa
 - Exterior de piel
 - Plantilla SOFTFOAM
-- Suela de goma rugosa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJ9KVQ16{{</world>}}

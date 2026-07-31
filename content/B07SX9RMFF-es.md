@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Gorra con diseño de Skye y Marshall.
 - Disponible en varios colores y tamaños.
+- Gorra con diseño de Skye y Marshall.
 - Con cierre de velcro en la parte trasera.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

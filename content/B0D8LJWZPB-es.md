@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CONEXIÓN POR USB: Conexión directa con tus dispositivos Windows, Mac y Android mediante un cable USB.
-- CONEXIÓN POR BLUETOOTH: El mando Luna funciona como mando de juego en cualquier dispositivo compatible con Bluetooth.
-- CONEXIÓN POR WIFI: Se conecta directamente a los servidores de juegos personalizados de Amazon gracias a la tecnología Cloud Direct para gameplay de baja latencia.
-- COMPATIBLE CON TODOS TUS DISPOSITIVOS: Ordenadores Windows y Mac, Fire TV, tablet Fire, iPhone, iPad, Chromebook, dispositivos Android y televisores inteligentes Samsung y LG (solo dispositivos compatibles).
 - DISEÑADO PARA JUGAR: Cuenta con sticks asimétricos, botones superiores de fácil acceso, gatillos precisos, botones de acción rápidos y una cruceta de cuatro direcciones.
+- CONEXIÓN POR USB: Conexión directa con tus dispositivos Windows, Mac y Android mediante un cable USB.
 - DISEÑADO PARA AMAZON LUNA: Creado para disfrutar de una experiencia ideal en Luna, el servicio de juegos en la nube de Amazon.
+- CONEXIÓN POR WIFI: Se conecta directamente a los servidores de juegos personalizados de Amazon gracias a la tecnología Cloud Direct para gameplay de baja latencia.
+- CONEXIÓN POR BLUETOOTH: El mando Luna funciona como mando de juego en cualquier dispositivo compatible con Bluetooth.
+- COMPATIBLE CON TODOS TUS DISPOSITIVOS: Ordenadores Windows y Mac, Fire TV, tablet Fire, iPhone, iPad, Chromebook, dispositivos Android y televisores inteligentes Samsung y LG (solo dispositivos compatibles).
 - CAMBIO DE PANTALLA SENCILLO: Al jugar en Luna, puedes pausar la partida en una pantalla y reanudarla desde donde lo dejaste en otra pantalla.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Suela intermedia de doble densidad para mayor sujeción y confort ligero
-- Soporte para el arco anatómico
 - Separador de dedos doble
+- Soporte para el arco anatómico
 - Correa con forro de suave poliéster
 - Parte superior en loneta lavada con bordes deshilachados
 

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello con cierre de botones
 - Corte clásico
-- Material Principal: 100% Poliéster(100% Reciclado)
 - Confección en tejido de punto
+- Material Principal: 100% Poliéster(100% Reciclado)
+- Cuello con cierre de botones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F3NS9F6B{{</world>}}

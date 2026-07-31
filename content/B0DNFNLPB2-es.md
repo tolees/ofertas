@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - TOP TIPO ATAQUE COURAGE DRAN S 6-60V CX DE ROTACIÓN DERECHA CON HOJA TIPO ATAQUE: Incluye top y lanzador Beyblade X con diseño Takara Tomy hechos con auténticas piezas de metal fundido. La hoja principal de Courage Dran cuenta con una poderosa fuerza descendente, y la hoja auxiliar tiene un centro de gravedad bajo
 - PIEZAS FÁCILES DE ENSAMBLAR: La hoja, el trinquete y el piñón intercambiables de los tops Beyblade se montan y desmontan con facilidad para que estés listo para lanzarte a la batalla
-- SISTEMA DE ACELERACIÓN X: Compite a gran velocidad con el Sistema de Aceleración X. Cuando los engranajes del piñón entran en contacto con el riel de Aceleración X, los tops se propulsan alcanzando grandes velocidades que permiten explosiones impresionantes y choques colosales (Solo compatible con el Sistema Beyblade X)
 - TOPS CX CON PERSONALIZACIÓN AUMENTADA: ¡Beyblade X incrementa tus posibilidades en la batalla con los tops CX que cuentan con hojas que se separan en 3 piezas para aumentar tus opciones de personalización! Las hojas CX se separan en un chip, una hoja principal y una hoja auxiliar
 - ¡DEMUÉSTRALO EN LA BATALLA!: Beyblade X trae la emoción de la competencia con intensas batallas de tops que motivarán a los aspirantes a maestros de Beyblade a mejorar su juego. Arma tus tops, carga tus lanzadores y... 3, 2, 1 Let it rip! (Requiere Beystadium Beyblade X, se vende por separado)
+- SISTEMA DE ACELERACIÓN X: Compite a gran velocidad con el Sistema de Aceleración X. Cuando los engranajes del piñón entran en contacto con el riel de Aceleración X, los tops se propulsan alcanzando grandes velocidades que permiten explosiones impresionantes y choques colosales (Solo compatible con el Sistema Beyblade X)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DNFNLPB2{{</world>}}

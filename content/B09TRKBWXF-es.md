@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 11 milimetros calendario Sin cierre a presion plegable
 - Seiko Modelo RELOGIO SEIKO
+- 11 milimetros calendario Sin cierre a presion plegable
 - Analógico para Unisex Adulto
 
 [🛒 Comprar!!!]({{< param buyurl >}})

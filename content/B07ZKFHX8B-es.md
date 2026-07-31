@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Zapatillas casual para hombre
 - NEGRO
 - 55% POLYESTER 45% PU
+- Zapatillas casual para hombre
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07ZKFHX8B{{</world>}}

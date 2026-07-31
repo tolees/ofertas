@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido del envío: 1 crema de manos Sante Intensive Repair (75 ml), 1 aceite de uñas y cutículas Sante (15 ml)
 - Cuidado intensivo para las manos más exigentes: el set de cuidado Sante proporciona a las manos secas y estresadas una hidratación rica e intensa y las suaviza inmediatamente.
-- VITAMINA E & F PARA PIEL SANA: promueve la regeneración celular y apoya la barrera cutánea para una piel sana y protegida.
 - Con manteca de karité y aceite de macadamia: la crema de manos contiene valiosos ingredientes naturales que cuidan intensamente la piel y protegen contra la deshidratación.
-- Cuidado natural y vegano: certificado por NaTrue, vegano y sin aditivos sintéticos, para un cuidado sostenible con ingredientes puramente naturales.
+- VITAMINA E & F PARA PIEL SANA: promueve la regeneración celular y apoya la barrera cutánea para una piel sana y protegida.
 - Fortalece las uñas y la piel de las uñas: el aceite de uñas y cutículas con 7 aceites orgánicos y vitamina E nutre las uñas y las cutículas, promueve su regeneración y garantiza unas uñas saludables.
+- Cuidado natural y vegano: certificado por NaTrue, vegano y sin aditivos sintéticos, para un cuidado sostenible con ingredientes puramente naturales.
+- Contenido del envío: 1 crema de manos Sante Intensive Repair (75 ml), 1 aceite de uñas y cutículas Sante (15 ml)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DSCDBRDS{{</world>}}

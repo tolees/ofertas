@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Limpie puntualmente con jabón suave y agua
 - Use limpiador de cuero o jabón suave
 - Secar al aire únicamente
-- Limpie puntualmente con jabón suave y agua
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DMT2XKSQ{{</world>}}

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Protección contra rayos UVA/UVB/IR-A y polución. Acabado invisible, sin manchas blancas. Textura ligera.
-- Aplicar el protector solar justo antes de exponerse al sol y renovar varias veces al día.
+- Aplicar el protector solar antes de exponerse al sol. Reaplicar regularmente,.
 - Protege contra rayos UVB, UVA +UVA ultra largos. No deja marcas blancas,
 - Protector solar corporal y facial de muy alta protección UV para la piel sensible de los niños. Protege de los rayos UVB y UVA +UVA ultra largos. Fórmula resistente al agua, arena y sudor. Apta para pieles con tendencia atópica.
-- Aplicar el protector solar antes de exponerse al sol. Reaplicar regularmente,.
 - Protector solar fluido SPF50+ de amplio espectro para proteger la piel de los rayos UVA/UVB/IR-A/polución y prevenir la aparición de manchas y el fotoenvejecimiento. Apto para todo tipo de pieles.
+- Aplicar el protector solar justo antes de exponerse al sol y renovar varias veces al día.
+- Protección contra rayos UVA/UVB/IR-A y polución. Acabado invisible, sin manchas blancas. Textura ligera.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F9LBNBCB{{</world>}}

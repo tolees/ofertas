@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Disponen de un diseño ligero
 - Detalles distintivos de la marca
+- Disponen de un diseño ligero
 - Ofrecen un ajuste cómodo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

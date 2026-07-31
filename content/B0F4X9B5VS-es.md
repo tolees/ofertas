@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Puños y bajo acanalados
 - Cuello redondo
 - Estampado de nido de abeja con textura
-- Puños y bajo acanalados
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F4X9B5VS{{</world>}}

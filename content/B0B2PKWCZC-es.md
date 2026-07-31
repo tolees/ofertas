@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - ¡Sumérgete en el increíble mundo de Flextreme con Spidey!
-- El vehículo de Spidey se agarra a la pista y se lanza a una carrera loca: subidas, bajadas, pasajes al revés, giros, bucles, ¡es capaz de todo!
 - El pack incluye 4,4 m de pista, 1 vehículo Spidey con iluminación electrónica y 1 lienzo de montaje con abrazadera Incluye 3 pilas LR03 – A partir de 4 años
 - La red de Spidey está montada en una abrazadera de montaje y se puede instalar en muchos soportes
+- El vehículo de Spidey se agarra a la pista y se lanza a una carrera loca: subidas, bajadas, pasajes al revés, giros, bucles, ¡es capaz de todo!
 - Imagina y construye multitud de circuitos con total libertad, gracias a las pistas flexibles, aprovechando tu entorno y los objetos que te rodean
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plain
 - materialFabricComposition: Main fabric: 58% Polyester, 42% Cotton
-- Sweat shorts
 - Regular Fit
+- Plain
+- Sweat shorts
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D99B1TYY{{</world>}}

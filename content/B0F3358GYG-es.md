@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela de goma de aspecto vulcanizado
 - Empeine de nobuk sintético
 - La parte superior contiene al menos un 50% de material reciclado
 - Horma clásica
 - Cierre de cordones
+- Suela de goma de aspecto vulcanizado
 - Tirador de tela en el talón
 
 [🛒 Aquí!!!]({{< param buyurl >}})

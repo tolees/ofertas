@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Etiqueta G-STAR en la parte trasera
 - Bragueta de cremallera
 - Proporciona comodidad
+- Etiqueta G-STAR en la parte trasera
 - Cinco bolsillos
 - Una mirada original
 

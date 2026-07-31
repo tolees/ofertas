@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- 98 % algodón, 2 % elastano
 - Auténtica mezclilla elástica negra lavada
 - El estilo de 5 bolsillos se ajusta ajustado
-- 98 % algodón, 2 % elastano
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DTJBTD37{{</world>}}

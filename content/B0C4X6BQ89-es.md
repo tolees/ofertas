@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cremallera
-- Corte ajustado
 - Pantalones chinos
 - Composición: 64% viscosa, 31% poliéster, 5% elastano
+- Corte ajustado
+- Cremallera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C4X6BQ89{{</world>}}

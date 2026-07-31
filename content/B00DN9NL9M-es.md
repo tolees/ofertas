@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Informacion nutricional por 1 comprimado: Tiamina (B1) 1,1mg (100%); Riboflavina (B2) 1,4mg (100%); Vitamina B6 1,4mg (100%); Magnesio 300mg (80%). %VRN
-- Formato: 24 comprimidos efervescentes sin azúcar de 2,8g en dos tubos de plástico
-- FAES FARMA, S.A. Máximo Aguirre, 14 48940 Leioa Bizkaia España
-- Modo de empleo: Tomar 1 comprimido al día, disuelto en agua, preferentemente al levantarse o a primera hora de la tarde
 - Magnesio+ Vitaminas B, Complemento alimenticio
-- Indicaciones: Funcionamiento del sistema nervioso y muscular
+- FAES FARMA, S.A. Máximo Aguirre, 14 48940 Leioa Bizkaia España
+- Formato: 24 comprimidos efervescentes sin azúcar de 2,8g en dos tubos de plástico
 - Ingredientes principales: Magnesio y vitaminas del grupo B: B1, B2 y B6
+- Informacion nutricional por 1 comprimado: Tiamina (B1) 1,1mg (100%); Riboflavina (B2) 1,4mg (100%); Vitamina B6 1,4mg (100%); Magnesio 300mg (80%). %VRN
+- Modo de empleo: Tomar 1 comprimido al día, disuelto en agua, preferentemente al levantarse o a primera hora de la tarde
+- Indicaciones: Funcionamiento del sistema nervioso y muscular
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00DN9NL9M{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Delgado y resistente
 - Denim Stretch
+- Delgado y resistente
 - Spade Pocket
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

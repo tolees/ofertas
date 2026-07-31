@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Sportware
 - Training
 - Nike
-- Sportware
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07WC4GKLY{{</world>}}

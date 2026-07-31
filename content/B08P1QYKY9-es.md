@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- DETALLES: Cierre oculto con bragueta de cremallera y botón, bolsillos delanteros oblicuos, trabillas para cinturón y funcionales bolsillos traseros de ojal.
 - SARGA DE ALGODÓN ELÁSTICA: Este tejido de sarga de algodón se ha lavado para darle mayor suavidad, es transpirable por naturaleza y tiene un poco de elasticidad para mayor comodidad y flexibilidad.
+- DETALLES: Cierre oculto con bragueta de cremallera y botón, bolsillos delanteros oblicuos, trabillas para cinturón y funcionales bolsillos traseros de ojal.
 - AJUSTE CEÑIDO: Ajuste ceñido en cintura y cadera, con ligera holgura en toda la pierna. Talle medio, queda por debajo de la cintura natural.
 - BERMUDAS CLÁSICAS: Estos clásicos pantalones cortos chinos presentan un corte elegante y más largo de lo habitual, y son perfectos tanto para ir al trabajo en primavera/verano, como para salir a pasear el fin de semana o hacer recados. Completa tu look con unas deportivas o unas sandalias de Amazon Essentials para mujer.
 

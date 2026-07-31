@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Fácil de colocar en cualquier lugar con instalación inalámbrica:
+- IP65 resistente a la intemperie
 - Visión nocturna colorida
 - Imágenes superiores de 2K y 3 MP
 - Mayor duración de la batería
-- IP65 resistente a la intemperie
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6W5XMBQ{{</world>}}

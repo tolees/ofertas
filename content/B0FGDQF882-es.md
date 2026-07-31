@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Agita el frasco hasta mezclar las capas. Aplica 1-2 pulsaciones sobre el cabello seco o húmedo, evitando raíces.
 - Repara el daño del cabello, proporciona brillo y controla el frizz sin apelmazar.
 - Absolut Repair Molecular repara 2 años de daños, aporta brillo, controla el frizz y nutre sin apelmazar. Cabello más fuerte, suave y con movimiento.
+- Agita el frasco hasta mezclar las capas. Aplica 1-2 pulsaciones sobre el cabello seco o húmedo, evitando raíces.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FGDQF882{{</world>}}

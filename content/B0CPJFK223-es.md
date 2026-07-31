@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Suela de tracción súper flexible
 - Altura del tacón: 1 1/4 pulgadas
 - Parte superior de malla y sintética con cordones frontales
-- Suela de tracción súper flexible
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CPJFK223{{</world>}}

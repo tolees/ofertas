@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Taylor Basic W - Tenis vulcanizados de corte bajo con parte superior de diseño monocolor, algodón fino sostenible
-- Cordones de colores a juego con el color superior, suela de goma personalizada y logotipo clásico en el lateral
 - Cuello acolchado, talón y puntera de goma reforzados, ojales metálicos
+- Cordones de colores a juego con el color superior, suela de goma personalizada y logotipo clásico en el lateral
+- Taylor Basic W - Tenis vulcanizados de corte bajo con parte superior de diseño monocolor, algodón fino sostenible
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FGJW6QYH{{</world>}}

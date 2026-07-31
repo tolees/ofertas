@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Libro interactivo que combina la fascinación por los dinosaurios y los animales salvajes modernos.
 - El sistema OID utiliza puntos invisibles impresos en las imágenes que, al ser leídos con el lápiz óptico, activan sonidos o animaciones. Esto permite que libros y materiales impresos interactúen de forma dinámica con el niño.
+- Libro interactivo que combina la fascinación por los dinosaurios y los animales salvajes modernos.
 - En cada lámina hay unos 20 puntos interactivos sobre 10-20 imágenes (puede haber más de un punto sobre una misma imagen).
-- Dos modalidades diferentes: modo aprendizaje y modo juego. 30 minutos de contenido por libro y 20 locuciones por lámina.
 - ¿Y si cada página tuviera algo que contar? Con EducaPen… cada página esconde un secreto… cada historia cobra vida… cada descubrimiento se convierte en aprendizaje.
+- Dos modalidades diferentes: modo aprendizaje y modo juego. 30 minutos de contenido por libro y 20 locuciones por lámina.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F5WYBCF6{{</world>}}

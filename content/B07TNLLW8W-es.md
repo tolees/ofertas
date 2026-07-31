@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Leggings ajustados y cómodos para mujer, diseño de cuadros
 - El patrón de cuadros blancos en la tela negra hace de estos leggings sencillos un verdadero punto de atracción
+- Leggings ajustados y cómodos para mujer, diseño de cuadros
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07TNLLW8W{{</world>}}

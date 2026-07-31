@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con trabillas para cinturón
-- Estilo casual
 - Este producto es original Levis
+- Estilo casual
+- Con trabillas para cinturón
 - Ofrecen una comodidad óptima
 
 [🛒 Visítala!!!]({{< param buyurl >}})

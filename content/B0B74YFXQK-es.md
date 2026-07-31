@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Solo hazlo gráficos
-- Tela Suave
 - Ajuste regular
+- Tela Suave
+- Solo hazlo gráficos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B74YFXQK{{</world>}}

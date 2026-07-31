@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Chaqueta Shell, con superficie mate y cremallera completa
 - Protector de viento ligero y resistente al agua
 - Bolsillos laterales con cremallera, bolsillo interior
-- Chaqueta Shell, con superficie mate y cremallera completa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B091TVM42Z{{</world>}}

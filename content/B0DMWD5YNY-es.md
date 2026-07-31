@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Necesitas invitadas para que se alojen en el hotel? Echa un vistazo a la escalofriante colección de Monster High para conseguir muñecas que den vida a este conjunto de juego. Las muñecas se venden por separado y están sujetas a disponibilidad.
 - ¡Pero la diversión y los sustos no acaban aquí! Las muñecas pueden dormir boca abajo en la cama ataúd, ¡el sueño de una vampiresa hecho realidad! Además, hay un balcón exterior perfecto para aullar a la luna.
-- ¡Descubre las sorpresas una a una! Abre la nevera de la cocina para descubrir una mano de esqueleto y la tapa del váter para descubrir un divertido monstruo.
 - En el salón hay un espejo embrujado: ¡tira de la palanca para ver un fantasma! Además, en el dormitorio hay una cama oculta en la que pueden dormir las monstruitas... ¡y una cama para mascotas bajo el tejado!
+- Necesitas invitadas para que se alojen en el hotel? Echa un vistazo a la escalofriante colección de Monster High para conseguir muñecas que den vida a este conjunto de juego. Las muñecas se venden por separado y están sujetas a disponibilidad.
 - ¡No hay mejor lugar para pasar un fin de semana de miedo que el Hotel Buuuutique de Monster High! Accesorios como mesas, sillas y utensilios de cocina inspirarán todo tipo de historias terroríficas.
+- ¡Descubre las sorpresas una a una! Abre la nevera de la cocina para descubrir una mano de esqueleto y la tapa del váter para descubrir un divertido monstruo.
 - ¡Descubre espeluznantes sorpresas en cada habitación del Hotel Buuuutique de Monster High! Esta casa de muñecas cuenta con 5 zonas de juego en 360 grados y más de 13 piezas de mobiliario y accesorios.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

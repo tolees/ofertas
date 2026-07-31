@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Collab
 - MF refrigerado por aire
 - Skech-Air
 - Goldcrown
-- Collab
 - Ajuste de cuña
 
 [🛒 Aquí!!!]({{< param buyurl >}})

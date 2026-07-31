@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Encantadoras velas. Gran aroma y se puede usar en el interior, ¡elimine a los "invitados" no deseados! La vela de citronela brinda ambiente y mantiene las noches tranquilas.
 - Use las velas de citronela en la mesa del jardín, el alféizar de la ventana de la cocina, etc. Las velas de citronela mantienen alejados a los "invitados" no deseados cuando cocina en la cocina con las ventanas abiertas.
-- Latas de velas con un olor agradable, use las velas de citronela colocadas en las noches para alejar a los "invitados" no deseados. Siéntase seguro con esta quema afuera en las noches para mantener a raya a los "invitados" no deseados.
 - Buen efecto, agrega un olor agradable a su espacio al aire libre, olor a limón débil, huele a aceite / cera con un ligero toque de limón, emite un aroma fuerte muy agradable, que aleja una nube de "invitados" no deseados del exterior espacio vital, cada vez.
+- Latas de velas con un olor agradable, use las velas de citronela colocadas en las noches para alejar a los "invitados" no deseados. Siéntase seguro con esta quema afuera en las noches para mantener a raya a los "invitados" no deseados.
+- Encantadoras velas. Gran aroma y se puede usar en el interior, ¡elimine a los "invitados" no deseados! La vela de citronela brinda ambiente y mantiene las noches tranquilas.
 - Buena fuerza de aroma y larga duración. Con la adición de nuestras velas de citronela, su familia puede disfrutar plenamente de estar al aire libre. ¡Mantenga alejados a los "invitados" no deseados!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

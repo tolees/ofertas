@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La siguiente información se aplica a cada unidad del paquete
 - FREGONA EN MANO: Para que cualquier suelo quede impoluto y brillante en sólo una pasada, vierte el contenido de 3 tapones por cada 5 litros de agua. Sin complicaciones y sin necesidad de aclarado. ¡Y que no te pisen lo fregado!
+- La siguiente información se aplica a cada unidad del paquete
 - PODER CONCENTRADO: Con el envase industrial de 5 litros, tienes fregasuelos Asevi para rato y también la posibilidad de rellenar tu botella de 1 litro. Su fórmula concentrada asegura un gran rendimiento, mientras reduces tu consumo de plástico. Además, estarás cuidando del medio ambiente y de los animales, gracias a su formulación vegana y no testada en animales.
 - ASÍ SOMOS: En Asevi, los clientes sois nuestra razón de ser, y lleva siendo así desde nuestros inicios en Xàbia (Alacant) en 1952. Como empresa familiar especializada en productos de limpieza y cuidado del hogar, estamos dedicados a crear ambientes limpios y frescos, con un firme compromiso con la sostenibilidad. En Asevi trabajamos cada día para ofrecerte productos de calidad, siempre enfocados en la tecnología y la innovación.
 - EFICACIA CON DELICADEZA: Gracias a su formulación con pH neutro, nuestro fregasuelos es apto para todo tipo de suelos, incluso los más delicados. Respeta las superficies de tu hogar, dejándolas tan limpias y relucientes que hasta podrás ver tu reflejo en ellas.

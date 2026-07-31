@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CON CALCIO: el calcio es crucial para la construcción ósea y contribuye a un esqueleto óseo saludable
 - PUDDING CON QUESO: Ofrece a tu gato un regalo cremoso especial para
-- Contenido del envío: 1 bolsa de GimCat Pudding con queso – Snack cremoso para entre medias con calcio – Fabricado en Alemania (1 x 100 g)
 - Fabricado en Alemania
+- Contenido del envío: 1 bolsa de GimCat Pudding con queso – Snack cremoso para entre medias con calcio – Fabricado en Alemania (1 x 100 g)
+- CON CALCIO: el calcio es crucial para la construcción ósea y contribuye a un esqueleto óseo saludable
 - Reducido a la lactato y de leche entera al 90%
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

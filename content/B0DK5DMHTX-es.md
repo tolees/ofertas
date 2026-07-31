@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aberturas laterales
-- Cuello y puños acanalados
 - La modelo mide 191 cm y lleva una talla L (pecho 92 cm, cintura 80 cm, cadera 99 cm)
+- Cuello y puños acanalados
 - Cuello de polo
+- Aberturas laterales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DK5DMHTX{{</world>}}

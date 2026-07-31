@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Respeta la luminosidad del color
 - Aplicación de tacto de seda creando una película fina y cómoda
 - Color intenso
-- Espejo incorporado para retoques durante todo el día
-- Respeta la luminosidad del color
 - Nueva fórmula Best in class: formulación altamente avanzada
+- Espejo incorporado para retoques durante todo el día
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B082MX4MNX{{</world>}}

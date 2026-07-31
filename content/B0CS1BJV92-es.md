@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Zip closure
+- G-Star Originals label at the chest
 - Padded and quilted design
 - Stand-up collar
-- G-Star Originals label at the chest
-- Zip closure
 - Provides comfort
 
 [🛒 Visítala!!!]({{< param buyurl >}})

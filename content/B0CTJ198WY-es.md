@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Calidad desde 1872: la marca Westcott es sinónimo desde hace 140 años de productos para el hogar y la oficina con un diseño inconfundible y una relación calidad-precio incomparable.
-- Alta calidad y respetuoso con el medio ambiente: sus notas se pueden guardar de forma sostenible en el resistente papel de 80 g/m² procedente de bosques gestionados de forma responsable con certificación FSC.
 - Espacio para ideas: 800 hojas de 9 x 9 cm en un paquete de recambio para dispensador que ofrecen un nuevo espacio para sus ideas, notas y bocetos.
+- Alta calidad y respetuoso con el medio ambiente: sus notas se pueden guardar de forma sostenible en el resistente papel de 80 g/m² procedente de bosques gestionados de forma responsable con certificación FSC.
+- Calidad desde 1872: la marca Westcott es sinónimo desde hace 140 años de productos para el hogar y la oficina con un diseño inconfundible y una relación calidad-precio incomparable.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CTJ198WY{{</world>}}

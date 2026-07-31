@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mid waist
+- Regular Fit
 - Care Label:
 - materialFabricComposition: 64% Cotton, 22% Polyester, 12% Viscose, 2% Elastane
-- Regular Fit
+- Mid waist
 - Slim fit jeans
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 📅PARA 5 MESES: Cada bote contiene 150 cápsulas con una administración diaria de 1 comprimido al día, durante 5 meses.
-- ⚖️ ALTA CONCENTRACIÓN DE MACA: Cada cápsula aporta 500 mg de extracto seco de maca 10:1, equivalente a 5.000 mg de raíz de maca.
-- 🌿 FÓRMULA A BASE DE PLANTAS: Complemento alimenticio elaborado con extracto seco de maca y extracto seco de ginseng.
 - 🧬 CON GINSENG ESTANDARIZADO: Incluye 50 mg de extracto seco de ginseng 25:1, equivalente a 1.250 mg de planta, con un contenido del 30 % en ginsenósidos. El ginseng contribuye al rendimiento físico y al bienestar general.
+- 📅PARA 5 MESES: Cada bote contiene 150 cápsulas con una administración diaria de 1 comprimido al día, durante 5 meses.
+- 🌿 FÓRMULA A BASE DE PLANTAS: Complemento alimenticio elaborado con extracto seco de maca y extracto seco de ginseng.
+- ⚖️ ALTA CONCENTRACIÓN DE MACA: Cada cápsula aporta 500 mg de extracto seco de maca 10:1, equivalente a 5.000 mg de raíz de maca.
 - 🌱 SIN GLUTEN Y SIN LACTOSA: Apto para dietas veganas. Fabricado en España.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

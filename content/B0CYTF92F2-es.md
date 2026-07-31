@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Hombre Urban Court Shoes Core Black/FTWR White/FTWR White 42 EU'
-date: 2026-07-27 09:17:06
+date: 2026-07-30 15:20:28
 image: 'https://m.media-amazon.com/images/I/21MVuuhLsnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CYTF92F2/?tag=tolees-21'
 descuento: '44.02'
-average: '33.382'
+average: '32.4833333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Forro sintético
+- Empeine sintético
 - Suela de goma
 - Horma clásica
-- Forro sintético
 - Cierre de cordones
-- Empeine sintético
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CYTF92F2{{</world>}}

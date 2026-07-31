@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Material de alta calidad: Fabricado en un material de alta calidad, suave para la piel, transpirable, lavable a máquina, nunca se decolora. El tejido súper suave, cómodo y transpirable es perfecto para un sueño reparador.
 - MANCHAS MODERNAS: La cómoda funda de edredón presenta un elegante y sencillo motivo geométrico de cuadros. Su estilo simple y elegante crea un ambiente relajante para dormir. Magnífico juego de edredón con motivos geométricos en diferentes tamaños y colores para una perfecta comodidad al dormir.
-- TALLA: El juego de ropa de cama incluye 1 funda nórdica de 200 x 200 cm con cremallera + 2 fundas de almohada de 65 x 65 cm con cremallera (el juego no incluye edredón ni almohadas.) para cama doble. Fabricado según el estándar OEKO-TEX Standard 100, respetuoso con el medio ambiente, sin sustancias nocivas.
 - ATTACHES DE CORNER Y CREMALLERA OCULTA: La cremallera oculta cosida te permite poner y quitar la ropa de cama más fácilmente y rápidamente, 4 sujetadores de esquina mantienen la edredón en su lugar en todo momento.
 - Fácil mantenimiento: lavable a máquina, lavar a 40 °C, secar en secadora a baja temperatura, planchar a baja temperatura. Recomendamos lavar antes del primer uso, ya que algunas fibras pueden caer al cortar el producto.
+- TALLA: El juego de ropa de cama incluye 1 funda nórdica de 200 x 200 cm con cremallera + 2 fundas de almohada de 65 x 65 cm con cremallera (el juego no incluye edredón ni almohadas.) para cama doble. Fabricado según el estándar OEKO-TEX Standard 100, respetuoso con el medio ambiente, sin sustancias nocivas.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DT15SJVX{{</world>}}

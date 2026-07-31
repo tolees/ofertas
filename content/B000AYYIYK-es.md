@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Carcasa
-- - Función de la Luneta: -
 - - Material de la Carcasa: Metal
-- - Color de la caja: Oro
+- Carcasa
 - - Forma de la Carcasa: Redondo
+- - Color de la caja: Oro
+- - Función de la Luneta: -
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000AYYIYK{{</world>}}

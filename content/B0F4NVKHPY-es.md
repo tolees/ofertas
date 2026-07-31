@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre de cremallera
-- Acabado impermeable
 - Capucha opcional en el cuello
+- Acabado impermeable
+- Cierre de cremallera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4NVKHPY{{</world>}}

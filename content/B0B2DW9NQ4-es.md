@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Sabor intenso y afrutado
 - De color rojo cereza con ribete púrpura
 - Crianza de 6 meses en barricas y 6 meses en botella
-- Elaborado con uvas de la variedad Tempranillo
 - Marida con arroces y pasta, pollo y aves, ternera, setas, embutidos, carnes a la brasa, cordero, cerdo, quesos semi curados
+- Elaborado con uvas de la variedad Tempranillo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B2DW9NQ4{{</world>}}

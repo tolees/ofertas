@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello redondo
 - Bordes con volantes
+- Cuello redondo
 - Top de manga corta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

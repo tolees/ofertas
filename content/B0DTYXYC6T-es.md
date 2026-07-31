@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Altura tacón: 3 cm
-- planta acolchada
 - Zapato de salón serpiente
+- Altura tacón: 3 cm
 - punta afilada
+- planta acolchada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DTYXYC6T{{</world>}}

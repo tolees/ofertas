@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dimensiones: 6 cm x 25 cm x 12,5 cm
+- Correa ajustable
 - Bolsillo interior de malla
 - Compartimento principal con cremallera
 - Exterior: 100% poliéster (reciclado); Interior: 100% elastómero termoplástico
-- Correa ajustable
+- Dimensiones: 6 cm x 25 cm x 12,5 cm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZTMXJRX{{</world>}}

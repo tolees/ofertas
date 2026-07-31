@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Altura del tacón: 1 3/4 pulgadas
 - Suela de tracción flexible
 - Moda deportiva con cordones
-- Altura del tacón: 1 3/4 pulgadas
 - Parte superior de malla cerrada con detalles de superposición termofusible
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

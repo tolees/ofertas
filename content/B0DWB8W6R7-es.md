@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Desigual
-- Estampado diseñado por Monsieur Christian Lacroix.
 - Color liso
+- Estampado diseñado por Monsieur Christian Lacroix.
 - Manga: Larga
+- Desigual
 - Cuello: Tortuga
 - Confeccionado con materiales sostenibles
 

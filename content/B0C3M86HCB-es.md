@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Fuente de alimentación
-- Incluye accesorios de montaje
 - Puertos frontales de fácil acceso
+- Incluye accesorios de montaje
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C3M86HCB{{</world>}}

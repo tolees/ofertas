@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Entresuela de espuma
 - Superior de cuero
+- Entresuela de espuma
 - Banda de rodadura de goma
 
 [🛒 Visítala!!!]({{< param buyurl >}})

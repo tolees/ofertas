@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gestión de cables interna que mantiene el montaje ordenado y mejora el flujo de aire.
-- Pantalla LCD de 8" personalizable para monitorizar el sistema o mostrar efectos visuales.
-- Puertos frontales USB-C, USB 3.0, USB 2.0 y audio HD, para conexión rápida de periféricos.
-- Espacio para hasta 11 ventiladores, incluyendo soporte para refrigeración líquida frontal y superior.
-- Compatible con placas ATX, Micro ATX y Mini ITX, ideal para setups gaming avanzados.
-- Compatible con tarjetas gráficas de gran tamaño y disipadores de CPU de hasta 170 mm.
 - Panel frontal Metal Mesh y lateral de cristal templado, que combina estética y ventilación eficiente.
+- Gestión de cables interna que mantiene el montaje ordenado y mejora el flujo de aire.
+- Compatible con placas ATX, Micro ATX y Mini ITX, ideal para setups gaming avanzados.
+- Espacio para hasta 11 ventiladores, incluyendo soporte para refrigeración líquida frontal y superior.
+- Puertos frontales USB-C, USB 3.0, USB 2.0 y audio HD, para conexión rápida de periféricos.
+- Compatible con tarjetas gráficas de gran tamaño y disipadores de CPU de hasta 170 mm.
+- Pantalla LCD de 8" personalizable para monitorizar el sistema o mostrar efectos visuales.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DTPXJF5P{{</world>}}

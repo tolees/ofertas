@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Operación idéntica en posición vertical y horizontal
-- Utilizable para ILCE-9 con espacio para dos baterías Z
 - Forma de agarre vertical para una sujeción segura
 - Alimentado por USB para ayudar al cuerpo de la cámara
+- Utilizable para ILCE-9 con espacio para dos baterías Z
+- Operación idéntica en posición vertical y horizontal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B071YZG4TP{{</world>}}

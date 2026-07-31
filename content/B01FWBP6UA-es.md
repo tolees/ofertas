@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Restaura fácilmente cualquier pintura, sea cual sea su acabado
 - Marca turtle wax
+- Restaura fácilmente cualquier pintura, sea cual sea su acabado
 - Elimina arañazos en pasta 100 ml
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

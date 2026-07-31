@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Suela de tracción de goma flexible
 - Parte superior sintética Durabuck
 - Suela de tracción flexible
 - Entresuela acolchada de aire visible Skech-Air
-- Suela de tracción de goma flexible
 - Plantilla cómoda de espuma viscoelástica refrigerada por aire
 
 [🛒 Aquí!!!]({{< param buyurl >}})

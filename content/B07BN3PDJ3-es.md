@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- VEGANO: no contiene ingredientes de origen animal.
 - COMBATE LOS BRILLOS: este espray fijador le otorga a la piel un acabado mate, ¡lo que ayuda a combatir los brillos no deseados!
+- CRUELTY FREE (SIN CRUELDAD ANIMAL): Aprobado por PETA como «No testado en animales».
+- VEGANO: no contiene ingredientes de origen animal.
 - CÓMO SE USA: pulverizar sobre el look terminado para obtener la máxima fijación.
 - ESPRAY FIJADOR DE LARGA DURACIÓN: el espray fijador Sport Fix dura todo el día o la noche, y aguanta hasta con los entrenamientos más exigentes.
-- CRUELTY FREE (SIN CRUELDAD ANIMAL): Aprobado por PETA como «No testado en animales».
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07BN3PDJ3{{</world>}}

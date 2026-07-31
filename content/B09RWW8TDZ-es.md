@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- De poliacrílico, viscosa y nailon
 - Corte ajustado
-- Chaleco corto de punto para mujer en diseño clásico
-- Puños y dobladillo sin puños
+- De poliacrílico, viscosa y nailon
 - Cuello de pico con puños y tira de botones
+- Puños y dobladillo sin puños
+- Chaleco corto de punto para mujer en diseño clásico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09RWW8TDZ{{</world>}}

@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - El perro debe ser supervisado en todo momento mientras se alimenta.
-- Snack en forma de rollito, hechos con piel de bacalao 100% naturales.
-- Utilizar como un regalo o recompensa en cualquier momento, dentro de una dieta equilibrada.
-- Cantidad: 70 gr
 - Con un alto contenido en proteína animal y con pocas grasas (Producto Light). Alimento complementario para su perro, muy rico en nutrientes.
+- Cantidad: 70 gr
+- Utilizar como un regalo o recompensa en cualquier momento, dentro de una dieta equilibrada.
+- Snack en forma de rollito, hechos con piel de bacalao 100% naturales.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07SKBVRKS{{</world>}}

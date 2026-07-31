@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela de goma inyectada
 - Parte superior de lona
+- Suela de goma inyectada
 - Plantilla de lona
 
 [🛒 Comprar!!!]({{< param buyurl >}})

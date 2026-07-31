@@ -30,11 +30,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Tecnología Green Ethernet, que ahorra energía y prolonga la vida útil del producto
 - Función de seguridad para evitar sobrecargas PoE y proteger tanto el Switch como los dispositivos PoE conectados
-- 8 puertos Gigabit a 10/100/1000 Mbps y 4 puertos PoE que soportan el estándar 802.3af/802.3at
-- Funcionamiento Plug and Play
-- Función de diagnóstico del cableado para ayudar en la solución de problemas relacionados con los cables
 - Quality of Service (QoS) para priorización de datos
 - Precio mínimo ofrecido por este vendedor en los 30 días anteriores a la oferta: 54.94 euros
+- Función de diagnóstico del cableado para ayudar en la solución de problemas relacionados con los cables
+- 8 puertos Gigabit a 10/100/1000 Mbps y 4 puertos PoE que soportan el estándar 802.3af/802.3at
+- Funcionamiento Plug and Play
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B004FJSST2{{</world>}}

@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - FUNCIÓN ECO PARA AHORRAR ENERGÍA Y AGUA. Reduce el consumo energético un 25% y el de agua un 27%* manteniendo un excelente rendimiento.
 - DEPÓSITO EXTRAÍBLE DE 1,5 L CON CALENTAMIENTO RÁPIDO. Listo en solo 2 minutos para sesiones de planchado largas y eficientes.
-- AUTONOMÍA ILIMITADA PARA PLANCHAR SIN PARAR. Gracias al sistema de llenado continuo, podrás planchar durante más tiempo sin interrupciones.
 - PRESIÓN DE BOMBA 6,5 BAR PARA RESULTADOS RÁPIDOS. El vapor potente penetra en las fibras y elimina arrugas difíciles en menos pasadas.
+- AUTONOMÍA ILIMITADA PARA PLANCHAR SIN PARAR. Gracias al sistema de llenado continuo, podrás planchar durante más tiempo sin interrupciones.
 - MANTENIMIENTO FÁCIL CON CALC CLEANING. El sistema anti-cal ayuda a preservar la vida útil del aparato. Probado antes del embalaje, puede contener restos de agua.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

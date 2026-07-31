@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- [Seguro y Económico]: La luz nocturna infantil está fabricada con material de PC ignífugo, robusto y resistente a la temperatura, garantizar un uso seguro. Consumo de energía ultra bajo de 1,5 W, ¡también es muy económico
 - [Amplia Aplicación]: La luz lámpara quitamiedos es ideal para iluminar lugares interiores, ya sea el pasillo, el dormitorio, la habitación de los niños o las escaleras, la cocina o cualquier otro lugar. Lo que garantiza que no haya más tropiezos en la oscuridad, agregando comodidad a su vida
-- [Luz Suave y Blanca Cálida]: Esta luz nocturna con sensor de movimiento emite un cálido resplandor blanco, lo suficientemente brillante como para iluminar el camino por la noche. El exclusivo portalámparas inclinado de la luz nocturna utiliza el principio de refracción de la luz para evitar la luz directa sobre los ojos, de modo que la luz es suave y no deslumbra para proteger mejor los ojos y no perturbar el sueño de las familias
-- [Brillo Regulable]: Puedes ajustar continuamente el brillo de la luz de noche con Enchufe entre el 15% y el 100% pulsando el botón, puede hacer que la luz nocturna sea más oscura o más brillante, es más fácil satisfacer sus necesidades que atenuar por nivel
 - [Pasos para la Solución de Problemas]: Si la luz de noche no se enciende, 1) Confirme que el voltaje y la corriente utilizados sean correctos o no. 2) Intente utilizar otros enchufes. 3) Asegúrese de que la conexión entre el enchufe de la luz de noche y el enchufe sea firme.
 - [3 Modos de Iluminación]: ON: Siempre iluminado; AUTO: Incorporar sensor crepuscular y sensor de movimiento por infrarrojos, esta luz nocturna LED se encenderá automáticamente durante 30 segundos cuando la luz sea tenue y pasen personas o mascotas. El rango de detección es de 4 metros y 120°; OFF: Apagar la luz nocturna
+- [Brillo Regulable]: Puedes ajustar continuamente el brillo de la luz de noche con Enchufe entre el 15% y el 100% pulsando el botón, puede hacer que la luz nocturna sea más oscura o más brillante, es más fácil satisfacer sus necesidades que atenuar por nivel
+- [Seguro y Económico]: La luz nocturna infantil está fabricada con material de PC ignífugo, robusto y resistente a la temperatura, garantizar un uso seguro. Consumo de energía ultra bajo de 1,5 W, ¡también es muy económico
+- [Luz Suave y Blanca Cálida]: Esta luz nocturna con sensor de movimiento emite un cálido resplandor blanco, lo suficientemente brillante como para iluminar el camino por la noche. El exclusivo portalámparas inclinado de la luz nocturna utiliza el principio de refracción de la luz para evitar la luz directa sobre los ojos, de modo que la luz es suave y no deslumbra para proteger mejor los ojos y no perturbar el sueño de las familias
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09BYZQY6S{{</world>}}

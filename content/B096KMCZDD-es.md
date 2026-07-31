@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Media suela contorneada con absorción de impactos
 - Talón de 3,2 cm
+- Media suela contorneada con absorción de impactos
 - Suela de goma flexible con tracción
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

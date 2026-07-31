@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Horma estándar
-- Cierre de cordones
-- Suela de goma
 - Textura gruesa en la entresuela
+- Cierre de cordones
 - Revestimiento de ante
+- Suela de goma
+- Horma estándar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F637MPSK{{</world>}}

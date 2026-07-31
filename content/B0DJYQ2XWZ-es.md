@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Fabricado con contenido reciclado
 - Bolsillos con cremallera
 - Ribete elástico en puños y dobladillo.
-- Fabricado con contenido reciclado
 - Ribete elástico en el cuello
 
 [🛒 Visítala!!!]({{< param buyurl >}})

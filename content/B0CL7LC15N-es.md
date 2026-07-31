@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte ajustado
 - Vaqueros Ajustados
+- Corte ajustado
 - Composición: 71% algodón, 22% poliéster, 5% algodón reciclado, 2% elastano
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

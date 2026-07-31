@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dimensiones del producto: altura=20 x alto=12cm
-- Reloj programable (luz + timbre) - Diferentes tonos de timbre
-- El personaje en 3D está situado en la parte superior del despertador y se ilumina desde abajo mediante una luz LED con 2 intensidades
-- El despertador funciona con 3 pilas LR03 (no incluidas) o con un cable de alimentación USB/micro-USB (incluido).
 - El despertador tiene una pantalla LCD retroiluminada que muestra digitalmente la hora (12/24h), la fecha y la temperatura ambiente
+- El despertador funciona con 3 pilas LR03 (no incluidas) o con un cable de alimentación USB/micro-USB (incluido).
+- Dimensiones del producto: altura=20 x alto=12cm
+- El personaje en 3D está situado en la parte superior del despertador y se ilumina desde abajo mediante una luz LED con 2 intensidades
+- Reloj programable (luz + timbre) - Diferentes tonos de timbre
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BKTZ66HY{{</world>}}

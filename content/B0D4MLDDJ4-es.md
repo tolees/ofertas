@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Horma clásica
-- Cierre de cordones
-- Suela de goma
 - Empeine sintético
+- Horma clásica
+- Suela de goma
 - Suela con plataforma
+- Cierre de cordones
 - Plantilla de EVA
 - Forro textil
 

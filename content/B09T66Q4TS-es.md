@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte clásico
 - Tecnología transpirable AEROREADY
+- Corte clásico
 - Interlock 100% poliéster reciclado
 - Bolsillos en las costuras laterales
 

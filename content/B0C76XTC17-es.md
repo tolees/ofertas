@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Ligeras
-- Skechers Detalle del logotipo
 - Skechers Espuma viscoelástica refrigerada por aire
+- Skechers Detalle del logotipo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C76XTC17{{</world>}}

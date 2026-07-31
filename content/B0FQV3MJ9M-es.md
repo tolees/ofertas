@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Celdas sin pestaña y de alta potencia: Menos resistencia interna para una gran potencia y una densidad de energía sobresaliente
 - INCLUYE: EXBA 18V-40
-- Alta potencia: Hasta 2000 W de potencia máxima para aplicaciones exigentes.
-- Una batería para todas las herramientas: Compatible con el sistema Bosch Professional 18V System y con la alianza de baterías multimarca AMPShare.
 - Larga vida útil: Diseño robusto, carcasa reforzada y excelente gestión del calor con COOLPACK 2.0 y con la tecnología de celdas sin pestaña
+- Alta potencia: Hasta 2000 W de potencia máxima para aplicaciones exigentes.
+- Celdas sin pestaña y de alta potencia: Menos resistencia interna para una gran potencia y una densidad de energía sobresaliente
+- Una batería para todas las herramientas: Compatible con el sistema Bosch Professional 18V System y con la alianza de baterías multimarca AMPShare.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FQV3MJ9M{{</world>}}

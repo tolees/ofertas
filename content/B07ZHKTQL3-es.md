@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Protege y cuida
-- Agradable sensación en el pelo
 - Fácil de aplicar
+- Agradable sensación en el pelo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07ZHKTQL3{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con Paul McCoy
-- Ir debajo
-- Mi Inmortal
 - Tráeme a la vida
 - Todo el mundo es tonto
+- Ir debajo
+- Con Paul McCoy
+- Mi Inmortal
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B06Y5RZGTT{{</world>}}

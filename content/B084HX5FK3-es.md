@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Las brocas son ideales para el uso con casi cualquier tipo de material en acabados en interiores
-- Las puntas de atornillar impact control son especialmente adecuadas para el uso con taladros de impacto
 - Las brocas multiuso cuentan con aristas de corte afiladas con diamante que otorgan una gran resistencia al desgaste en materiales de todo tipo o materiales multicapa, con y sin percusión
+- Las brocas son ideales para el uso con casi cualquier tipo de material en acabados en interiores
 - Puntas de atornillar muy resistentes de acero modificado s2 con zona de torsión especial, ideal para un trabajo continuo
+- Las puntas de atornillar impact control son especialmente adecuadas para el uso con taladros de impacto
 - Sistema pick and click encastre seguro y rápido de los contenidos en las ranuras con solo un clic, simplemente presionando la lengüeta de desbloqueo para retirar o sustituir los contenidos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

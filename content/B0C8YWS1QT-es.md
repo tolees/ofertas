@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cotton twill fabric
 - Raised embroidery on centre front
 - Adjustable plastic snap closure
+- Cotton twill fabric
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C8YWS1QT{{</world>}}

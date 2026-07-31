@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Potencia máxima 3,5kW. 1 Quemador Wok: 3,5kW.
-- Sistema de seguridad de las válvulas. Los quemadores cuentan con un sistema que corta automáticamente el suministro de gas si se apaga la llama del quemador.
-- 1 Fuego, acabado en cristal negro con parrillas individuales circulares de hierro fundido. Los acabados de alta calidad hacen que el rendimiento y la durabilidad de estas parrillas resisten cualquier tipo de cocinado.
-- Accesorio para la conversión a GLP. La placa viene preparada para su instalación a gas natural pero puede ser adaptada gracias a la inclusión de inyectores. (Esta adaptación debe ser realizada por un técnico especializado).
 - Quemador WOK triple corona. Consigue el máximo sabor, con una llama de alta intensidad, ofreciendo una potencia adicional. Encendido electrónico. Integrado para disfrutar de forma rápida y sencilla.
+- Sistema de seguridad de las válvulas. Los quemadores cuentan con un sistema que corta automáticamente el suministro de gas si se apaga la llama del quemador.
+- Accesorio para la conversión a GLP. La placa viene preparada para su instalación a gas natural pero puede ser adaptada gracias a la inclusión de inyectores. (Esta adaptación debe ser realizada por un técnico especializado).
+- 1 Fuego, acabado en cristal negro con parrillas individuales circulares de hierro fundido. Los acabados de alta calidad hacen que el rendimiento y la durabilidad de estas parrillas resisten cualquier tipo de cocinado.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GYNY1KYD{{</world>}}

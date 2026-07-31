@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo icónico: Con el icónico logotipo de The North Face transferido por calor en la parte delantera y trasera
 - Never Stop Exploring: Todos los productos The North Face están diseñados para la vida al aire libre pensando en la calidad y el estilo
 - Resistente: Tejido 94% nailon, 6% elastán
+- Logotipo icónico: Con el icónico logotipo de The North Face transferido por calor en la parte delantera y trasera
 - 91% poliéster, 9% elastano / Tejido / Tejido doble / 242,0 g/m132
 - Elástico y de apoyo: Cómodo pantalón de senderismo con cintura de botones automáticos, ajuste en el dobladillo y dos bolsillos laterales delanteros con cremallera
 

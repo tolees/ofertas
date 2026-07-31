@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre: cordones
-- Ancho: estándar
 - Tipo de puntera: redondeada
+- Ancho: estándar
+- Cierre: cordones
 - Tipo de talón: plano
 - Detalles de la marca PUMA
 

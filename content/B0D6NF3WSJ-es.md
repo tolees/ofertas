@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- asegura un ajuste óptimo
 - Este es un producto auténtico y original Geox
+- asegura un ajuste óptimo
 - Cómodo de llevar
 - Este estilo ha sido producido de manera sostenible
 

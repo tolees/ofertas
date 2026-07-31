@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - La fórmula contiene esferas de ácido hialurónico
 - Barra de labios cremosa para un acabado brillante y un color intenso
-- El color se aplica con extrema facilidad, el resultado son unos labios suaves y tersos
 - La textura cremosa proporciona sensualidad a la sonrisa con una pigmentación brillante e intensa
+- El color se aplica con extrema facilidad, el resultado son unos labios suaves y tersos
 - Dermatológicamente testado, no comedogénico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

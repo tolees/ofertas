@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CAPTURA LA VIDA SALVAJE: usa la cámara para hacer fotos de animales, plantas y otros descubrimientos, y guárdalas en tu diario, ya que te servirán de ayuda en las misiones
-- JUEGA COMO BARBIE: toma las riendas como Barbie "Brooklyn" Roberts o Barbie "Malibu" Roberts
 - CUIDA A TU CABALLO: cepilla y pon accesorios a Lucky para afianzar una bonita amistad con ella
+- JUEGA COMO BARBIE: toma las riendas como Barbie "Brooklyn" Roberts o Barbie "Malibu" Roberts
 - FÓRMATE COMO GUARDA FORESTAL: aprende a cuidar el parque de Canterbury Trails con la ayuda de expertos de la naturaleza
 - EXPLORA EL MUNDO ABIERTO: ve al paso, al trote o al galope con Lucky y descubre la belleza del parque
+- CAPTURA LA VIDA SALVAJE: usa la cámara para hacer fotos de animales, plantas y otros descubrimientos, y guárdalas en tu diario, ya que te servirán de ayuda en las misiones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FLK6L6PR{{</world>}}

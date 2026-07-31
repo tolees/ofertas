@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 100 % algodón
-- Puños estrechos y dobladillo inferior; etiqueta de marca en la manga
 - Cuello redondo con textura especial
+- Puños estrechos y dobladillo inferior; etiqueta de marca en la manga
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DTJBZ1ZB{{</world>}}

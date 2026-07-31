@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Amortiguación Air Zoom para una excelente capacidad de respuesta.
 - Diseño ligero que promueve la libertad de movimiento.
+- Amortiguación Air Zoom para una excelente capacidad de respuesta.
 - Parte superior sintética para mayor durabilidad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

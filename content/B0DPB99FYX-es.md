@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Beanie
 - Headwear
+- Beanie
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DPB99FYX{{</world>}}

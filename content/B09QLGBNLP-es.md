@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans PMS30839 Zapatillas para Hombres en Color Blanco cómodas Cordones y Piso de Goma Antideslizante Hombre Zapatillas Blanco 42'
-date: 2026-07-25 19:59:38
+date: 2026-07-30 17:46:12
 image: 'https://m.media-amazon.com/images/I/31yRn2Ox+vL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09QLGBNLP/?tag=tolees-21'
 descuento: '48.60'
-average: '36.355111111111'
+average: '36.2953191489361'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

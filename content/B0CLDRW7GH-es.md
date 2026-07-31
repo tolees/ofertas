@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Composición: 55% poliéster, 40% lana reciclada, 5% otras fibras
 - Corte estándar
+- Composición: 55% poliéster, 40% lana reciclada, 5% otras fibras
 - Cerrado alto
 
 [🛒 Visítala!!!]({{< param buyurl >}})

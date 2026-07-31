@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Formulado para limitar el picor ocular. Invisible en todos los fototipos. Sin marcas blancas.
-- Nuevo Sérum solar Anthelios UVAIR SPF50+ de La Roche Posay, tan ligero como el aire con una cobertura natural ligera que se funde perfectamente con la piel.
-- Con ácido hialurónico, niacinamida y vitamina E, una combinación de activos dermatológicos que hidratan la piel, protegen contra el estrés oxidativo gracias a sus propiedades antioxidantes y equilibran el sebo.
 - Para todo tipo de pieles, hipoalergénico, testado dermatológica y oftalmológicamente.
+- Con ácido hialurónico, niacinamida y vitamina E, una combinación de activos dermatológicos que hidratan la piel, protegen contra el estrés oxidativo gracias a sus propiedades antioxidantes y equilibran el sebo.
+- Nuevo Sérum solar Anthelios UVAIR SPF50+ de La Roche Posay, tan ligero como el aire con una cobertura natural ligera que se funde perfectamente con la piel.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0GHP7WPN7{{</world>}}

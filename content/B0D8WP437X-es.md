@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estampado gráfico de G-Star RAW en la parte trasera
 - Gráfico de G-STAR RAW en el pecho
 - Proporciona comodidad
-- Extremos de las mangas con vuelta fija
 - Cuello acanalado
+- Estampado gráfico de G-Star RAW en la parte trasera
+- Extremos de las mangas con vuelta fija
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D8WP437X{{</world>}}

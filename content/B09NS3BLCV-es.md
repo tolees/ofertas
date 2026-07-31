@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Olor intenso y duradero
 - Fragancia dulce, floral y frutal
+- Olor intenso y duradero
 - Fragancia adecuada para uso diario
 
 [🛒 Aquí!!!]({{< param buyurl >}})

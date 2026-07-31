@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Panel en los hombros
 - Cierre de botón sin ojales
-- Bolsillos en las costuras laterales
-- Aberturas laterales
 - Cuello acanalado
+- Aberturas laterales
+- Bolsillos en las costuras laterales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D8WLQ6VR{{</world>}}

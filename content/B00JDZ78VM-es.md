@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Practicas asas para transporte
+- Termostato de regulación continua
+- Placa eléctrica de 180 mm de diámetro y 1500 W
 - Indicador luminoso
 - Acabado resistente al calor
-- Placa eléctrica de 180 mm de diámetro y 1500 W
-- Termostato de regulación continua
 - Componentes incluidos: 1 Hornillo Eléctrico
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - El Ferrari SF90 de Hot Wheels RC a escala 1:64 funciona con una frecuencia de 2,4GHz para evitar interferencias al competir con otros coches teledirigidos.
-- Este coche teledirigido puede correr tanto dentro como fuera de las pistas de Hot Wheels para disfrutar de aventuras y acrobacias sin límites. (Las pistas de Hot Wheels se venden por separado).
 - Pulsa el botón de aceleración del mando de control remoto para entrar en los loopings a toda velocidad o para recibir una ventaja extra y ser el primero en cruzar la línea de meta.
 - Presenta detalles auténticos que son fieles al mundialmente famoso fabricante de automóviles y un rendimiento que es fiel a Hot Wheels.
 - Experimenta la velocidad y el estilo con el coche teledirigido Ferrari SF90 Stradale Assetto Fiorano a escala 1
+- Este coche teledirigido puede correr tanto dentro como fuera de las pistas de Hot Wheels para disfrutar de aventuras y acrobacias sin límites. (Las pistas de Hot Wheels se venden por separado).
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DLDTPFPB{{</world>}}

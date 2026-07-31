@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Indicador de nivel de la cisterna de agua: Si
-- Dimensiones (alto x ancho x fondo) 448 x 388 x 450 mm
 - Peso neto: 5 Kg
+- Capacidad de la depósito de residuos: 21 L
+- Dimensiones (alto x ancho x fondo) 448 x 388 x 450 mm
+- Indicador de nivel de la cisterna de agua: Si
 - Sistema de descarga de la cisterna: Eléctrico
+- Tamaño: Grande lujo
 - Capacidad de la cisterna de agua: 15 L
 - Indicador de nivel del depósito de residuos: Si
-- Tamaño: Grande lujo
-- Capacidad de la depósito de residuos: 21 L
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B006DAHSF6{{</world>}}

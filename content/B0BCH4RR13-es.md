@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Mayor autonomía: atornilla hasta 190 tornillos con una sola carga gracias a la batería mejorada de litio de 2,0 Ah
 - IXO: la 7.ª generación de una icónica herramienta eléctrica
-- Incluye: IXO 7, 1 adaptador de atornillado en ángulo IXO, 1 adaptador excéntrico IXO, 10 puntas de atornillado estándar, cable micro USB, caja de almacenaje
-- Atornillado flexible: con adaptadores de atornillado en ángulo y excéntricos para atornillar en bordes e incluso alrededor de esquinas
 - Un 20 % más de par si se compara con su predecesor gracias al excelente rendimiento del motor
+- Atornillado flexible: con adaptadores de atornillado en ángulo y excéntricos para atornillar en bordes e incluso alrededor de esquinas
+- Incluye: IXO 7, 1 adaptador de atornillado en ángulo IXO, 1 adaptador excéntrico IXO, 10 puntas de atornillado estándar, cable micro USB, caja de almacenaje
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BCH4RR13{{</world>}}

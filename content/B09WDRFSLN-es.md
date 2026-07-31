@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Piel hidratada, calmada, reparada y reforzada. Microbioma reequilibrado. Imperfecciones reducidas. No comedogénico.
 - Crema hidratante de día que calma y repara la piel fragilizada por tratamientos antiacné y actúa en imperfecciones. Con extracto de Orellana, Aqua Posae Filiformis y Niacinamida. Para piel grasa con tendencia acnéica.
+- Piel hidratada, calmada, reparada y reforzada. Microbioma reequilibrado. Imperfecciones reducidas. No comedogénico.
 - Aplicar mañana y noche sobre rostro limpio. Hacer espuma y extender con los dedos. Aclarar y secar sin frotar.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

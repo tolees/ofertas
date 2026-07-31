@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - 2 ANNI DI GARANZIA PER LA BATTERIA - Da Greenworks, leader mondiale negli attrezzi elettrici e della tecnologia a batterie, con una reputazione globale per design intelligente, prestazioni elevate e un servizio clienti eccezionale
 - POTENCIA DE LARGA DURACIÓN Y CONSISTENCIA - la batería conserva su carga incluso fuera de uso, por lo que estará lista para tus herramientas siempre que la necesites
-- COMPATIBLE CON LAS HERRAMIENTAS GREENWORKS DE 40V - esta avanzada batería, resistente y fiable, alimenta cualquier herramienta Greenworks de 40V, reduciendo considerablemente el desperdicio y ahorrando en dinero y espacio de almacenaje
 - POTENTE BATERÍA DE LITIO 40V 2Ah DE NUEVA GENERACIÓN - diseñada con precisión gracias a una avanzada tecnología de litio para ofrecer un rendimiento excepcional en potencia, durabilidad y desempeño
+- COMPATIBLE CON LAS HERRAMIENTAS GREENWORKS DE 40V - esta avanzada batería, resistente y fiable, alimenta cualquier herramienta Greenworks de 40V, reduciendo considerablemente el desperdicio y ahorrando en dinero y espacio de almacenaje
 - RECARGA RÁPIDA Y FÁCIL - simplemente colócala en un cargador de baterías Greenworks para recargarla por completo en 30-60 min. Además, la batería cuenta con una brillante pantalla LED que muestra su nivel de energía actual mientras se está cargando
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tinte de prenda
+- Parches
+- 2 % elastano
 - Composición: 98 % algodón
 - Cierre de cremallera y botón
-- 2 % elastano
-- Parches
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DKY1NYH2{{</world>}}

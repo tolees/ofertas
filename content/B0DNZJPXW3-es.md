@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La tecnología Vulc IMPACT-I Inflexion de DC
-- Material exterior: material exterior textil [algodón]
 - El logotipo de la estrella de DC
 - Plantilla de EVA para acolchado
+- La tecnología Vulc IMPACT-I Inflexion de DC
+- Material exterior: material exterior textil [algodón]
 - Cordones Ghillie
 
 [🛒 Aquí!!!]({{< param buyurl >}})

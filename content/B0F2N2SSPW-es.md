@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fórmula vegana, 75 % sostenible, enriquecida con aceite de aguacate sostenible, ácido hialurónico y vitamina C
-- Con un 94 % de ingredientes derivados de materias primas de origen natural
 - Cremoso, envolvente, cómodo en el rostro y fácil de difuminar para un brillo a medida
+- Con un 94 % de ingredientes derivados de materias primas de origen natural
+- Fórmula vegana, 75 % sostenible, enriquecida con aceite de aguacate sostenible, ácido hialurónico y vitamina C
 - Una textura de acabado brillante se funde pasada tras pasada con la piel, que resplandece de belleza. Sofisticados juegos de luz, preciosos destellos y un formato supercómodo para un rostro y unos rasgos realzados
 - Dermatológicamente testado No comedogénico Sin ingredientes de origen animal
 

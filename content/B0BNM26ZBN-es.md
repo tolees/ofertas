@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Bolsillos laterales
 - Fabricados en material cómodo
 - Cintura elástica con cordón
-- Bolsillos laterales
 - Pantalones largos deportivos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

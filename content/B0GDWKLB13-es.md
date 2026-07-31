@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 48 hojas de papel en blanco.
 - Libreta A4 encolada (sin grapas) y tapa flexible.
-- Cubierta de cartón flexible con dos acabados distintos, brillante y mate.
 - Color azul. Colección MILAN nata 624 since 1918, inspirada en los colores y diseño originales de las gomas de borrar MILAN, fabricadas en España desde 1918.
 - La siguiente información se aplica a cada unidad del paquete
 - Papel de 95 gr/m² de alta calidad, microperforado.
+- Cubierta de cartón flexible con dos acabados distintos, brillante y mate.
+- 48 hojas de papel en blanco.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0GDWKLB13{{</world>}}

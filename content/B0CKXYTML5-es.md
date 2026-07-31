@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- La parte superior contiene al menos un 50% de material reciclado
 - Parte superior de nobuk sintético
 - Horma clásica
-- La parte superior contiene al menos un 50% de material reciclado
 - Suela de goma de aspecto vulcanizado
 - Tirador de tela en el talón
 

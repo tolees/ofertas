@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Regleta eléctrica Eco-Line con 6 enchufes colocados en un ángulo de 45° - la disposición de las tomas le permite conectar enchufes angulares
 - Regleta de enchufes con 6 tomas con cable de 5m de longitud H05VV-F 3G1,5 y mayor protección de los contactos
-- Regleta enchufes con protección contra sobretensiones: El protector sobretensión protege los aparatos valiosos de sobretensiones con una corriente de fuga máx. de hasta 13.500A (protección ante tormentas eléctricas, picos de tensión, etc.)
-- Base enchufe múltiple para uso en interiores con interruptor de seguridad iluminado para encendido y apagado (bipolar) con un cable extra largo de 5m de longitud
 - Regleta de enchufes con protección contra el contacto accidental incorporada: Unas pequeñas placas de plástico cierran los contactos de la toma de corriente
+- Base enchufe múltiple para uso en interiores con interruptor de seguridad iluminado para encendido y apagado (bipolar) con un cable extra largo de 5m de longitud
+- Regleta enchufes con protección contra sobretensiones: El protector sobretensión protege los aparatos valiosos de sobretensiones con una corriente de fuga máx. de hasta 13.500A (protección ante tormentas eléctricas, picos de tensión, etc.)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00EPR5EDW{{</world>}}

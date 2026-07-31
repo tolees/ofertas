@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Denim jacket
+- Regular Fit
 - Care Label:
 - Long Sleeves
-- Regular Fit
-- Denim jacket
 - materialFabricComposition: 100% Cotton
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- ● Gestiona las relaciones: toma decisiones que afectarán a tus relaciones.
 - ● Minijuegos Chompette: ¡disfruta de interacciones especiales con los Chompettes!
 - ● Novela visual de terror psicológico: una experiencia de terror aparentemente adorable, pero inquietante.
-- ● Gestiona las relaciones: toma decisiones que afectarán a tus relaciones.
 - ● Comedia negra: una mezcla de terror perturbador y humor retorcido.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

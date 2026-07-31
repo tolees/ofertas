@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Libreta A4 con encuadernación grapada, con 48 hojas pautadas en su interior.
-- Cuenta con la certificación FSC, que garantiza que ha sido fabricada con papel proveniente de bosques gestionados de forma responsable.
 - En la parte interior de la portada encontramos una cuadrícula pensada para anotar en ella el horario del curso escolar.
+- Cuenta con la certificación FSC, que garantiza que ha sido fabricada con papel proveniente de bosques gestionados de forma responsable.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FCFXG28P{{</world>}}

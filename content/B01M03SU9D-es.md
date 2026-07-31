@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Da estilo a tu escritorio con este y otros artículos de la serie leitz dual colour
-- Los cajón es se deslizan fácilmente y los topes evitan que se salgan por completo
-- Se puede apilar verticalmente para ordenar tu escritorio de forma sencilla: papeles, carpetas, grapadoras, accesorios móviles, etc
 - Contents: 1x Leitz Buc de 4 cajón es Dual Colour, 52521095, AnxAlxPr: 28,7 x 27 x36,3 cm, Peso: 3,59 kg, Color: Negro/Gris
 - Buc de 4 cajón es en combinación dual de color negro y gris y acabado brillante, ordena el espacio de trabajo según tus necesidades, para casa o la oficina
+- Los cajón es se deslizan fácilmente y los topes evitan que se salgan por completo
+- Se puede apilar verticalmente para ordenar tu escritorio de forma sencilla: papeles, carpetas, grapadoras, accesorios móviles, etc
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01M03SU9D{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Parte superior en piel revestida
 - Zapatillas de Reebok diseñadas para el deporte
 - Ajuste regular
+- Parte superior en piel revestida
 - Forro textil
 - Con detalles visibles de la marca Reebok
 - Suela exterior de goma resistente al desgaste

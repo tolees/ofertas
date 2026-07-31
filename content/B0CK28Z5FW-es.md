@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Clarks Shoes, Howard Over, Black Leather, 8 (Men)
 - Presentan detalles distintivos de la marca
+- Clarks Shoes, Howard Over, Black Leather, 8 (Men)
 - Los zapatos pueden combinar con multitud de conjuntos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

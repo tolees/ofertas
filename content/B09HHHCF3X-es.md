@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Lengüeta de cuero
-- Suela ligera de EVA
-- Forro reciclado para mascotas
 - Refuerzo elástico
+- Suela ligera de EVA
+- Lengüeta de cuero
+- Forro reciclado para mascotas
 - Altura del tacón: 5,4 cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})

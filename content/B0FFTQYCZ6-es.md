@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Paquete de 3 calzoncillos de algodón y elastano, ajuste regular
 - Sin costuras laterales; uno impreso y dos colores lisos
 - Cintura de la marca con el logotipo de la firma; con un embalaje de cartón
+- Paquete de 3 calzoncillos de algodón y elastano, ajuste regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FFTQYCZ6{{</world>}}

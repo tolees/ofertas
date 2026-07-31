@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- MEDIDAS: 9 x 24 x 5.6 cm
-- LIBRE DE BP: Hecho de Propileno de calidad
 - DISEÑO MINIMALISTA: Encaja con todo tipo de decoraciones gracias a su estilo minimalista
+- MEDIDAS: 9 x 24 x 5.6 cm
 - FABRICADO EN ESPAÑA: Por la marca TATAY
+- LIBRE DE BP: Hecho de Propileno de calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07KSPF1S2{{</world>}}

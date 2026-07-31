@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tenis para correr con combinaciones de materiales y colores
 - Detalles de fantasía, plantilla extraíble, suela de plataforma de espuma y suela de goma, estabilizador
+- Tenis para correr con combinaciones de materiales y colores
 - Logotipo clásico en el lateral
 
 [🛒 Comprar!!!]({{< param buyurl >}})

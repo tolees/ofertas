@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ropa sin manchas, limpia y con un extra de luminosidad
-- Elimina las manchas más difíciles de tu ropa incluso en agua fría
 - Con todo el poder antimanchas de Vanish
+- Ropa sin manchas, limpia y con un extra de luminosidad
 - Detergente para la lavadora en formato gel con poder quitamanchas
+- Elimina las manchas más difíciles de tu ropa incluso en agua fría
 - Descubre el resto de detergentes y limpialavadoras de Colon para una colada buena
 
 [🛒 Comprar!!!]({{< param buyurl >}})

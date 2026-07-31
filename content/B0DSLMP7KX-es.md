@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Serie especial Roller 2, una colección con un diseño inspirado en los patines retro de 4 ruedas.
-- Material incluido: 2 gomas de borrar (4024 y Nata blue), 1 sacapuntas AFILA, 1 lápiz de grafito HB, 1 bolígrafo P1 tinta azul, 1 regla triangular de 15 cm, 12 lápices de colores triangulares y 18 rotuladores de punta cónica.
-- Un estampado creado con una paleta de tonalidades azules, mostaza y rosa.
 - Estuche plumier de 2 pisos que permite mantener el material escolar siempre ordenado y de fácil acceso.
+- Material incluido: 2 gomas de borrar (4024 y Nata blue), 1 sacapuntas AFILA, 1 lápiz de grafito HB, 1 bolígrafo P1 tinta azul, 1 regla triangular de 15 cm, 12 lápices de colores triangulares y 18 rotuladores de punta cónica.
 - Composición tejido: poliéster. Medidas: 19,5 x 13 x 5 cm.
+- Un estampado creado con una paleta de tonalidades azules, mostaza y rosa.
+- Serie especial Roller 2, una colección con un diseño inspirado en los patines retro de 4 ruedas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DSLMP7KX{{</world>}}

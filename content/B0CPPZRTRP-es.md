@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Rápido y fácil de poner
 - Cómodo y ligero
+- Rápido y fácil de poner
 - Plantilla extraíble
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

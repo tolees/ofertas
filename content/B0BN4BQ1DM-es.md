@@ -29,12 +29,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Alarma de sonido y luz: active efectos de luz y sonido para ahuyentar a los visitantes no deseados.
-- Modo de privacidad física: mantenga la privacidad con la lente bloqueada por la carcasa cuando el modo de privacidad física esté habilitado.
-- Pan and Tilt: proporciona un campo de visión horizontal de 360°. Smart Motion Tracking-Tracks y sigue un sujeto, manteniéndolo dentro del campo de visión de la cámara.
-- Audio bidireccional: permite la comunicación a través de un micrófono y un altavoz incorporados.
-- Detección y notificación de IA inteligente: la IA inteligente identifica personas, mascotas y vehículos al tiempo que reconoce sonidos anormales, notificando a los usuarios según sea necesario.
-- Fácil configuración: siga las instrucciones en la aplicación para configurar fácilmente en cuestión de minutos.
 - Sensor Starlight: el sensor Starlight de alta sensibilidad captura imágenes de mayor calidad incluso en condiciones de poca luz.
+- Pan and Tilt: proporciona un campo de visión horizontal de 360°. Smart Motion Tracking-Tracks y sigue un sujeto, manteniéndolo dentro del campo de visión de la cámara.
+- Modo de privacidad física: mantenga la privacidad con la lente bloqueada por la carcasa cuando el modo de privacidad física esté habilitado.
+- Detección y notificación de IA inteligente: la IA inteligente identifica personas, mascotas y vehículos al tiempo que reconoce sonidos anormales, notificando a los usuarios según sea necesario.
+- Audio bidireccional: permite la comunicación a través de un micrófono y un altavoz incorporados.
+- Fácil configuración: siga las instrucciones en la aplicación para configurar fácilmente en cuestión de minutos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BN4BQ1DM{{</world>}}

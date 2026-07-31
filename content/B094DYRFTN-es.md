@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Se puede llevar en la cintura, cruzando el cuerpo o sobre el hombro
 - Tejido duradero
+- Se puede llevar en la cintura, cruzando el cuerpo o sobre el hombro
 - Riñonera deportiva
 - Correa cómoda y fácil de ajustar
 

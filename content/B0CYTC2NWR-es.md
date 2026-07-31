@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Suela de goma
-- Cierre de cordones
-- Plantilla de EVA
-- Horma clásica
 - Suela con plataforma
+- Cierre de cordones
+- Horma clásica
+- Plantilla de EVA
 - Empeine sintético
 - Forro textil
 

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logo de HH bordado en la manga
-- Tapeta con botones en la parte delantera
-- Piqué de algodón
-- Artículos entregados: 1x Helly Hansen Mens Crew Polo - SS Polo EBONY S
 - Cuello y puños de canalé
+- Artículos entregados: 1x Helly Hansen Mens Crew Polo - SS Polo EBONY S
+- Logo de HH bordado en la manga
+- Piqué de algodón
+- Tapeta con botones en la parte delantera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B095L8THDQ{{</world>}}

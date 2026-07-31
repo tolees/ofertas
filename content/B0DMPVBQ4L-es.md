@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuentan con un diseño ligero
 - Ofrecen una comodidad óptima
+- Cuentan con un diseño ligero
 - Detalles distintivos de la marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})

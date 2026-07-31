@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Empeine de malla
-- Suela Adiwear
-- Drop de la mediasuela: 10 mm (talón: 35 mm, antepié: 25 mm)
+- Cierre de cordones
 - Horma clásica
-- Mediasuela Bounce 2.0
+- Suela Adiwear
 - Forro textil
-- Peso: 324 g (talla 42 1/2)
+- Mediasuela Bounce 2.0
+- Drop de la mediasuela: 10 mm (talón: 35 mm, antepié: 25 mm)
 - Plantilla OrthoLite
 - Drop: 10 mm (talón: 35 mm / antepié: 25 mm)
-- Cierre de cordones
+- Peso: 324 g (talla 42 1/2)
+- Empeine de malla
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKRZFFPL{{</world>}}

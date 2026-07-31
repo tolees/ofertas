@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sistemas de combate por turnos con funciones nuevas y mejoradas.
 - Es Game Key Card
+- Sistemas de combate por turnos con funciones nuevas y mejoradas.
 - Impresionantes gráficos HD-2D que hacen que el juego cobre vida como nunca.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

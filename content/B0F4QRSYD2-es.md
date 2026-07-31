@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ofrece comodidad
 - Cuello redondo
+- Ofrece comodidad
 - Camiseta de manga corta
 
 [🛒 Visítala!!!]({{< param buyurl >}})

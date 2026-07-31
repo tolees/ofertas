@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 3 ranuras CC/1 cremallera interior
-- Herrajes plateados brillantes
 - 10 x 3 x 6 pulgadas
+- Herrajes plateados brillantes
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FTTGKNPX{{</world>}}

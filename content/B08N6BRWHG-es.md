@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre: cordones
-- Suela: Caucho
 - Material interior: sintético
+- Suela: Caucho
 - Material exterior: nubuck
+- Cierre: cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08N6BRWHG{{</world>}}

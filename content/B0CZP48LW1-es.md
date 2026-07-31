@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte entallado
 - 100% algodón
+- Corte entallado
 - Cuello redondo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

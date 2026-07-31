@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Esta versión cuenta con una fina capa de aceite que se aplica profesionalmente a los componentes internos del switch para que cada pulsación sea fluida y suene igual que recién estrenado. Además, se ha prestado especial atención a no reducir la tactilidad del switch, que se mantiene intacta para ofrecer su icónica respuesta háptica.
+- Sensación táctil legendaria: Los switches Glorious Panda, forjados a partir de un molde particular que hace las delicias de los entusiastas de los teclados, presentan una protuberancia táctil redondeada que, al pulsarlos, confieren una sensación única, ágil y sensible. Esta satisfactoria respuesta háptica los hace perfectos tanto para trabajar como para jugar.
 - Medidas del switch: Su muelle interno de 67 gramos proporciona a los Panda una resistencia a la presión intermedia para suavizar cada pulsación sin comprometer la velocidad. Distancia de acción: 2,52 mm. Fuerza de acción: 49 g. Distancia de salida inferior: 3,25 mm. Fuerza de salida: 60 g. Cada medida tiene en cuenta una leve variación por motivos de fabricación.
+- Esta versión cuenta con una fina capa de aceite que se aplica profesionalmente a los componentes internos del switch para que cada pulsación sea fluida y suene igual que recién estrenado. Además, se ha prestado especial atención a no reducir la tactilidad del switch, que se mantiene intacta para ofrecer su icónica respuesta háptica.
 - Acústica de primera: Los materiales prémium y las estrictas tolerancias de fabricación de los Panda producen un sonido rico y completo, sin pitidos ni chirridos nada más sacarlos de la caja. Su nivel de ruido medio los hace aptos para su uso en casa o en espacios compartidos.
 - Compatibilidad universal: Los switches Panda tienen un diseño tipo MX de 3 pines, con lo que encajan prácticamente con todos los teclados mecánicos con hot swap sin tener que modificarlos. Su forma en cruz (+) acepta todos los sets de keycaps de Glorious y otros más. La apertura para LED permite el acceso de la iluminación RGB en los teclados retroiluminados para alcanzar la máxima luminosidad.
-- Sensación táctil legendaria: Los switches Glorious Panda, forjados a partir de un molde particular que hace las delicias de los entusiastas de los teclados, presentan una protuberancia táctil redondeada que, al pulsarlos, confieren una sensación única, ágil y sensible. Esta satisfactoria respuesta háptica los hace perfectos tanto para trabajar como para jugar.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B096DF64NS{{</world>}}

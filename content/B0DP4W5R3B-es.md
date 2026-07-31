@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Certificado GOTS: cumple con los estándares globales más rigurosos para textiles orgánicos
+- Certificado OEKO-TEX: testado y libre de sustancias nocivas, cumple con los más altos estándares de seguridad y medioambientales
 - Lavable a máquina y se vuelve más suave con cada lavado
 - Fabricado en 100% algodón orgánico con tejido percal para una suavidad excepcional, tacto sedoso y larga durabilidad
-- Certificado OEKO-TEX: testado y libre de sustancias nocivas, cumple con los más altos estándares de seguridad y medioambientales
 - El set incluye funda nórdica (100 x 135 cm) y funda de almohada (40 x 60 cm) en gris suave
 
 [🛒 Aquí!!!]({{< param buyurl >}})

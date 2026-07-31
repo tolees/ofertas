@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tacón apilado de 3 pulgadas
-- Elaborado en piel con relieve de serpiente y suela.
 - El 100% del cuero de este producto proviene de curtidurías que reciben la certificación Leather Working Group Gold o Silver
+- Elaborado en piel con relieve de serpiente y suela.
+- Tacón apilado de 3 pulgadas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DPD58XB1{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aplicar sobre rostro, cuello, escote y manos, 2-3 gotas, por la mañana y/o noche, después de limpiar la piel.
 - Crema que alivia el enrojecimiento, picor y sensibilidad de la piel alérgica o intolerante. Hidrata y protege la barrera cutánea. Fórmula con Neurosensina y Spingobioma. Adecuada para pieles intolerantes, reactivas o con alergia.
 - Piel más cuidada, hidratada y protegida. Alivio inmediato de las irritaciones. Acción anti-rojeces.
+- Aplicar sobre rostro, cuello, escote y manos, 2-3 gotas, por la mañana y/o noche, después de limpiar la piel.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09DPGJC3B{{</world>}}

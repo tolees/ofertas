@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Para borrar una amplia gama de lápices de grafito sobre toda clase de papeles.
-- Con dibujos infantiles y colores surtidos.
-- Medidas goma: 3,1 x 2,3 x 0,9 cm.
 - Goma suave de caucho sintético tipo "miga de pan" rectangular.
+- Para borrar una amplia gama de lápices de grafito sobre toda clase de papeles.
+- Medidas goma: 3,1 x 2,3 x 0,9 cm.
+- Con dibujos infantiles y colores surtidos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B006LB78AW{{</world>}}

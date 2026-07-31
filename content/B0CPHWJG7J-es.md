@@ -28,16 +28,16 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Piloto indicador de parada trasera para montaje horizontal en superficie (derecha) - Con aprobación ECE
-- sin lámparas
-- Cantidad funciones iluminación: 3
-- Homologación: E1 53253, E1 130
 - El piloto trasero tiene 3 funciones lumínicas: luz de freno / luz trasera / luz indicadora
 - Funciones iluminación: 3 - Con luz intermitente/Con luz de freno/Con luz trasera
-- Lado de montaje: derecha
-- La siguiente información se aplica a cada unidad del paquete
-- Encaja, p.e. Fendt (verifique la aplicación exacta del vehículo) - Tipo de luces: Halógena - Tipo de lámpara: P21W/R10W
+- Piloto indicador de parada trasera para montaje horizontal en superficie (derecha) - Con aprobación ECE
+- Homologación: E1 53253, E1 130
 - Tipo de lámpara: P21W/R10W, Con junta, luz trasera y luz de freno rojas, luz indicadora amarilla, 2 tornillos de fijación B3.9 x 16
+- Encaja, p.e. Fendt (verifique la aplicación exacta del vehículo) - Tipo de luces: Halógena - Tipo de lámpara: P21W/R10W
+- Cantidad funciones iluminación: 3
+- La siguiente información se aplica a cada unidad del paquete
+- sin lámparas
+- Lado de montaje: derecha
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CPHWJG7J{{</world>}}

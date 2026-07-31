@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 79% poliéster (reciclado) / 21% elastano
-- Cintura elástica
-- Corte ajustado
 - Bolsillos laterales sin cierre
+- Corte ajustado
+- Cintura elástica
+- 79% poliéster (reciclado) / 21% elastano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZ9T4PKM{{</world>}}

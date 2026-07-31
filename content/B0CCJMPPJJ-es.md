@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sandalia deportiva con cuña
 - Garantía certificada Global Recycled Standard (GRS)
-- Plantilla acolchada para asegurar el mayor confort
 - La suela combina una parte forrada en rafia y EVA
+- Sandalia deportiva con cuña
+- Plantilla acolchada para asegurar el mayor confort
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CCJMPPJJ{{</world>}}

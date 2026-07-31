@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tipo de producto: Polvos de talco
 - Marca: Calber
 - Género: Unisex Adulto
-- Tipo de producto: Polvos de talco
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00J2V2VIW{{</world>}}

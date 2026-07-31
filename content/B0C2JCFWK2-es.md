@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pepe Jeans Logotipo destacado
 - Cuello redondo
+- Pepe Jeans Logotipo destacado
 - Corte regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})

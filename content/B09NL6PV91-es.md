@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Panel acolchado en el tobillo
-- Parte superior de piel sintética
 - Forro textil
-- Mediasuela con amortiguación para una pisada más cómoda
+- Parte superior de piel sintética
 - Suela de goma
+- Panel acolchado en el tobillo
+- Mediasuela con amortiguación para una pisada más cómoda
 - Horma clásica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

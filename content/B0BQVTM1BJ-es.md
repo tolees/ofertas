@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El sun stick utiliza polvo de sílice de control de sebo para regular la producción de aceite, manteniendo un acabado mate suave
 - Protege contra estímulos externos (SPF50+ PA++++)
+- El sun stick utiliza polvo de sílice de control de sebo para regular la producción de aceite, manteniendo un acabado mate suave
 - Aplica por la mañana como paso final en tu rutina de cuidado de la piel. Fácil de reaplicar en cualquier momento y lugar, ya sea en casa o cuando estás fuera, gracias a su presentación en barra
 - Adecuado para todo tipo de piel
 - El polvo de sílice de control de sebo regula el sebo en la piel, proporcionando una sensación suave y rodante sin sensación grasosa

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Medidas perfectas: esta taza térmica con agarre suave para mayor seguridad permite beber fácil y cómodamente y cabe en la mayoría de soportes para vasos de coche: 7,5 x 7,5 x 21,5 cm; 470 ml; 340 g
 - 100% sellada: la tecnología Autoseal sella la taza automáticamente tras cada sorbo para evitar fugas y derrames; la tapa CleanGuard gira para bloquear el botón AUTOSEAL y evitar accidentes
 - Fría o caliente: al desplazarse, en la oficina o cuando salga, el aislamiento al vacío de doble pared Thermalock mantiene las bebidas calientes hasta 5 horas y frías hasta 12 horas
+- Medidas perfectas: esta taza térmica con agarre suave para mayor seguridad permite beber fácil y cómodamente y cabe en la mayoría de soportes para vasos de coche: 7,5 x 7,5 x 21,5 cm; 470 ml; 340 g
 - Resistente: taza de gran calidad con tapa de plástico ; cuerpo de acero inoxidable aislado al vacío con diseño anticondensación que mantiene el líquido en el interior y evita derrames
 - Limpieza fácil: la tapa de apertura total con bisagra se lava en lavavajillas (monobloque, sin piezas que desmontar o que pueda montar mal); el cuerpo del vaso antigoteo, a mano
 

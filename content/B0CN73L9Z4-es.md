@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Zapatillas de running de hombre
-- Corte de nylon y micro PU
-- Mediasuela de phylon de alta calidad, flexibilidad y amortiguación
 - Suela de caucho DURABILITY
+- Zapatillas de running de hombre
+- Mediasuela de phylon de alta calidad, flexibilidad y amortiguación
+- Corte de nylon y micro PU
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CN73L9Z4{{</world>}}

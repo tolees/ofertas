@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detalles distintivos de Tommy Hilfiger
 - Diseño de corte bajo
+- Detalles distintivos de Tommy Hilfiger
 - Plantilla extraíble
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

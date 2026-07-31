@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño moderno con suela elevada para un toque de estilo.
 - Plantilla LiteRide para una amortiguación superior.
+- Diseño moderno con suela elevada para un toque de estilo.
 - Correa ajustable para un ajuste personalizado y seguro.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

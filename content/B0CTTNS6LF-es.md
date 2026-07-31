@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Bolso tipo shopper color negro metalizado con asa con cadena
 - cierre Cremallera y magnético
-- medidas Largo 34 ancho 13 alto 28cm Centímetros
 - asa con cadena
+- medidas Largo 34 ancho 13 alto 28cm Centímetros
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CTTNS6LF{{</world>}}

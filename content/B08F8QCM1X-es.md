@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Prepara la famosa ensalada griega mezclando tomates frescos, pepino, queso feta y las aceitunas verdes. Termina cubriendo con aceite de oliva griego y orégano.
 - Ricas en polifenoles, grasas saludables y fibra. Son una gran fuente de energía, vitaminas y antioxidantes.
-- Las aceitunas verdes de Chalkidiki son unas de las aceitunas de mesa griegas más famosas del mundo y combinan a la perfección con muchos platos famosos de la cocina griega. Tienen mucho cuerpo y una textura suave y carnosa.
-- Producto 100% natural | Producto 100% griego | Sin aditivos | Apto para vegetarianos
 - Pruebe este delicioso regalo mediterráneo en un plato con queso amarillo y pan fresco acompañado de ouzo o cerveza. ¡Disfrute de este Meze griego en buena compañía!
+- Producto 100% natural | Producto 100% griego | Sin aditivos | Apto para vegetarianos
+- Las aceitunas verdes de Chalkidiki son unas de las aceitunas de mesa griegas más famosas del mundo y combinan a la perfección con muchos platos famosos de la cocina griega. Tienen mucho cuerpo y una textura suave y carnosa.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08F8QCM1X{{</world>}}

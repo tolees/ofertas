@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Componente ideal para espaciar las aplicaciones de fertilizantes
-- Vermiculita
-- Fuente de alimentación: CA
-- La vermiculita además de retención de agua fácilmente asimilable aporta una excelente relación de retención de nutrientes fácilmente asimilables
 - Fabricado en España
+- La vermiculita además de retención de agua fácilmente asimilable aporta una excelente relación de retención de nutrientes fácilmente asimilables
+- Vermiculita
+- Componente ideal para espaciar las aplicaciones de fertilizantes
+- Fuente de alimentación: CA
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01C7JN54Y{{</world>}}

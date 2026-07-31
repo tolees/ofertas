@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Material Principal: 100% Poliéster(100% Reciclado)
-- Confección en tejido calado
 - Corte clásico
+- Confección en tejido calado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F54VFBFD{{</world>}}

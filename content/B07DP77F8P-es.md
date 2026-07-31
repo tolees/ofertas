@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cremallera principal
 - Diseño de un solo compartimento
 - Logotipo frontal
-- Cremallera principal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07DP77F8P{{</world>}}

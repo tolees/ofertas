@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Impresión de goma de la marca PUMA
 - Corte regular
+- Impresión de goma de la marca PUMA
 - Cuello redondo acanalado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

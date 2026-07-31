@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con placa adhesiva y clip para fijar al casco
-- INTERPHONE Kit de audio de 40 mm – Kit de repuesto completo de altavoces profesionales estéreo de alta fidelidad – Intercomunicadores Avant, Tour, Sport, Urban, Link
 - Kit de audio con auriculares estéreo de 40 mm
+- INTERPHONE Kit de audio de 40 mm – Kit de repuesto completo de altavoces profesionales estéreo de alta fidelidad – Intercomunicadores Avant, Tour, Sport, Urban, Link
+- Con placa adhesiva y clip para fijar al casco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CYH1FNSL{{</world>}}

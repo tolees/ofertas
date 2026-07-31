@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El té es el regalo perfecto cuando se combina con una bonita lata de recuerdos.
-- Lata de té grande de inspiración vintage que contiene 240 bolsitas de té English Afternoon
-- English Afternoon es un té negro de cuerpo medio. Mejor servido con un chorrito de leche.
 - Solo una de las latas disponibles en la gama New English Teas de latas de té, caddies y regalos.
+- Lata de té grande de inspiración vintage que contiene 240 bolsitas de té English Afternoon
+- El té es el regalo perfecto cuando se combina con una bonita lata de recuerdos.
+- English Afternoon es un té negro de cuerpo medio. Mejor servido con un chorrito de leche.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B081SNGBV2{{</world>}}

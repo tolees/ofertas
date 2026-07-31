@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Punto doble 100% poliéster reciclado
-- Interior del cuello en contraste
-- Puños y dobladillo del mismo tejido
 - Cuello alzado y cierre de cremallera hasta el pecho
-- Corte clásico
+- Punto doble 100% poliéster reciclado
 - Tejido suave y ligero
+- Puños y dobladillo del mismo tejido
+- Interior del cuello en contraste
+- Corte clásico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CQRPRDR7{{</world>}}

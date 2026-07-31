@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Costuras en los hombros hacia delante
-- Costura vertical en la espalda
 - Mangas con dobladillo, fijo
+- Costura vertical en la espalda
 - G-Star RAW bordado en el pecho
 - Cuello acanalado
 

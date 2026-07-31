@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hecha y pintada a mano.
 - Patrón inspirado en el pueblo con colores intensos.
+- Figura tradicional de Disney.
 - Caja de regalo de marca.
 - Diseñado por Jim Shore.
-- Figura tradicional de Disney.
+- Hecha y pintada a mano.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B083SJJX93{{</world>}}

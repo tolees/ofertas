@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior de cuero
 - Detalle del logotipo de Skechers
 - Suela de tracción flexible
+- Parte superior de cuero
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BYB7P295{{</world>}}

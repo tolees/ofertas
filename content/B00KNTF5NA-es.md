@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Grasera Inox
 - Capacidad : 0,5 l
-- Altura: 12 cm
 - Apta para lavavajillas
+- Altura: 12 cm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00KNTF5NA{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compatible con Wv Classic, WV 50-75, WV2, WV5, WVP10
 - Para una limpieza sin marcas de todo tipo de superficies lisas
+- Compatible con Wv Classic, WV 50-75, WV2, WV5, WVP10
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B006GQAUJI{{</world>}}

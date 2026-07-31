@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material de la suela: Sintético
 - Composición: Nobuck
-- Tipo de tacón: Plano
 - Anchura del zapato: Normal
-- Cierre: Cordones
-- Revestimiento: Tela
+- Material de la suela: Sintético
 - Material exterior: Cuero
+- Revestimiento: Tela
+- Cierre: Cordones
+- Tipo de tacón: Plano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01BZ4CS3G{{</world>}}

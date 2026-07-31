@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Exterior: 90% poliamida, 10% elastán
 - Diseñados para caminatas largas y exigentes, estos pantalones ofrecen libertad de movimientos gracias a su elasticidad en 4 direcciones; afronta las condiciones meteorológicas impredecibles con un tratamiento repelente al agua para tu protección; este producto está fabricado con materiales certificados bluesign
 - Artículos entregados: 1x Helly Hansen Hombre Pantalón Softshell Brono,M,Ébano
 - Pantalón softshell elástico en 4 direcciones, duradero y flexible para largas caminatas
-- Exterior: 90% poliamida, 10% elastán
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08YRN9RXP{{</world>}}

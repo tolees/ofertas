@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Característica interior: cepillada
-- Ajuste: __ normal
-- Material: algodón, poliéster
 - Bolsos: __ Ribbed Collar, Cuff and Bottom Hem
+- Material: algodón, poliéster
+- Ajuste: __ normal
+- Característica interior: cepillada
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FCSG43Q3{{</world>}}

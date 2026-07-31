@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- adecuado para un paspartú
 - Marco de plástico de gran valor con el perfil rectangular
-- perfil ligeramente redondeado
-- en muchos bellos colores y muchos formatos
 - con el soporte hasta el tamaño 20 x 25 cm
+- en muchos bellos colores y muchos formatos
+- perfil ligeramente redondeado
+- adecuado para un paspartú
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0029N5EFW{{</world>}}

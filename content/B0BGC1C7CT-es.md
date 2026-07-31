@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Puntera reforzada
 - Parte superior en piel
-- Suela exterior de goma resistente al desgaste que proporciona una respuesta duradera
-- Perforación en la puntera
 - Cuello y lengüeta acolchados en el tobillo
+- Perforación en la puntera
+- Suela exterior de goma resistente al desgaste que proporciona una respuesta duradera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BGC1C7CT{{</world>}}

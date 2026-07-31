@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cuello de camisa
-- Bajo ligeramente redondeado
 - Botón a presión en la manga para fijar la vuelta si se desea acortar el largo
+- Bajo ligeramente redondeado
 - Panel en el hombro, trabilla tejida
 - Bolsillos con solapa en el pecho
 

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Puños y dobladillo elásticos
+- Tecnología transpirable AEROREADY
 - Corte entallado
 - Puños y dobladillo elásticos
-- Tecnología transpirable AEROREADY
 - Bolsillos frontales de ojal
 - 100% poliéster (reciclado)
 

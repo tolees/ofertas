@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Las dimensiones de los focos ajustables son de 190 mm de diámetro y 90mm de altura. La distancia entre los agujeros de montaje es de 90 mm.
-- Este producto es un producto continente. Los productos continentes son luminarias que pueden desmontarse para permitir la verificación independiente de las fuentes luminosas que contienen.
-- Moderna luz de techo con tres focos giratorios y inclinables, para una iluminación individual en sus habitaciones.
 - Lámpara de techo de 3 llamas, fabricado en metal negro mate, adecuada para la sala de estar, dormitorio o pasillo.
-- La entrega incluyen 2 tacos, 2 tornillos, 1 soporte de montaje, asi como las instrucciones de montaje. Las bombillas no incluyen en la entrega.
+- Moderna luz de techo con tres focos giratorios y inclinables, para una iluminación individual en sus habitaciones.
+- Este producto es un producto continente. Los productos continentes son luminarias que pueden desmontarse para permitir la verificación independiente de las fuentes luminosas que contienen.
 - Los casquillos GU10 están fabricados para LEDs con un máximo de 5 vatios. Se pueden sustituir las bombillas fácilmente.
+- Las dimensiones de los focos ajustables son de 190 mm de diámetro y 90mm de altura. La distancia entre los agujeros de montaje es de 90 mm.
+- La entrega incluyen 2 tacos, 2 tornillos, 1 soporte de montaje, asi como las instrucciones de montaje. Las bombillas no incluyen en la entrega.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08P3PVGC8{{</world>}}

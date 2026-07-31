@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - CUBOS MULTIACTIVIDAD: Cuatro cubos coloridos con actividades en cada lado para estimular la creatividad, la lógica y la motricidad fina; Juego evolutivo que acompaña el crecimiento del niño
-- CONSEJOS DE LOS EXPERTOS: fue creado por Chicco en colaboración con los pedagogos de la ANPE que recomiendan experimentar libremente con los bloques y probar con los padres otras actividades
-- APILA LOS CUBOS: Los cubitos se pueden apilar para formar una torre. En los lados están grabados en relieve los números del 1 al 4 y las caras del dado para ayudar a reconocer cifras y contar
 - ACTIVIDADES MANUALES: Cada lado de los cubos ofrece actividades que estimulan la imaginación; Presiona el sonajero en forma de flor, gira la manivela, abre y cierra la ventanita para ver al conejito
 - JUEGO DE ASOCIACIÓN: En los lados del cubo hay muchos amigos, encuentra las ilustraciones de los animales y forma parejas: gallina con pollito y gato con gatito
+- APILA LOS CUBOS: Los cubitos se pueden apilar para formar una torre. En los lados están grabados en relieve los números del 1 al 4 y las caras del dado para ayudar a reconocer cifras y contar
+- CONSEJOS DE LOS EXPERTOS: fue creado por Chicco en colaboración con los pedagogos de la ANPE que recomiendan experimentar libremente con los bloques y probar con los padres otras actividades
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CWRXWXYT{{</world>}}

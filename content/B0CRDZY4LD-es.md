@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El efecto 2D aporta relieve a las ilustraciones.
-- Las ilustraciones brillan en la oscuridad gracias al gel fosforescente.
-- A partir de 7 años
 - 1 Pixelo mecánico, 6 illlustraciones, 5 cartuchos de gel fosforescente, 1 prospecto
+- A partir de 7 años
+- Las ilustraciones brillan en la oscuridad gracias al gel fosforescente.
+- El efecto 2D aporta relieve a las ilustraciones.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CRDZY4LD{{</world>}}

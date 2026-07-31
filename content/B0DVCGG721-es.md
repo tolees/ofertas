@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estructura ligera y flexible
 - Material resistente
+- Estructura ligera y flexible
 - Comodidad y estilo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

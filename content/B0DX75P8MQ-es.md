@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 📦 *Gestión de fábrica*: administra tu almacén de manera eficiente.
-- 🏬 *Amplía tus tiendas*: abre nuevos outlets de moda y minimercados.
-- 🚀 *Controles sencillos*: juego de administración simple pero atractivo.
 - 🛒 *Juego de magnate inactivo*: gana dinero mientras estás fuera.
-- 👗 *Mercado de moda*: vende atuendos y accesorios elegantes.
-- 🛍 *Construye y administra*: crea tu imperio de compras paso a paso.
 - 🎯 *Desafíos diarios*: completa misiones para obtener recompensas emocionantes.
 - 💰 *Gana y mejora*: desbloquea mejoras para maximizar las ganancias.
+- 👗 *Mercado de moda*: vende atuendos y accesorios elegantes.
+- 📦 *Gestión de fábrica*: administra tu almacén de manera eficiente.
+- 🏬 *Amplía tus tiendas*: abre nuevos outlets de moda y minimercados.
+- 🛍 *Construye y administra*: crea tu imperio de compras paso a paso.
+- 🚀 *Controles sencillos*: juego de administración simple pero atractivo.
 - 🎨 *Gráficos 3D impresionantes*: disfruta de un mundo de juego visualmente agradable.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

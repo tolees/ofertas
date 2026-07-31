@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Aplicación – Aplicar unas 4 o 5 gotas del retinol puro para la cara una vez al día, por la noche, y extender masajeándolo con las yemas de los dedos. Aplicar una crema solar con FPS alto
 - Clínicamente comprobado – Desarrollado por dermatólogos, se recomienda introducir el retinol de Neutrogena poco a poco en la rutina de skincare, según la tolerancia de la piel
-- Alta concentración de retinol – Este nutritivo sérum facial mujer, de textura nutritiva, tiene nuestra mayor concentración de retinol puro, un 0,23%, y actúa como rellenador de arrugas profundas
 - Cuidado antiedad – El sérum facial de noche de rápida absorción libera retinol en la superficie de la piel, combate los signos visibles del envejecimiento en 7 días* y reduce las manchas de la edad
 - Detalles del envío – Neutrogena Retinol Boost+ Sérum intenso de noche, sérum reafirmante de Neutrogena facial, tratamiento antiedad de alta concentración, sin perfume, textura nutritiva, 1x30 ml
+- Aplicación – Aplicar unas 4 o 5 gotas del retinol puro para la cara una vez al día, por la noche, y extender masajeándolo con las yemas de los dedos. Aplicar una crema solar con FPS alto
+- Alta concentración de retinol – Este nutritivo sérum facial mujer, de textura nutritiva, tiene nuestra mayor concentración de retinol puro, un 0,23%, y actúa como rellenador de arrugas profundas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CXTKW2LW{{</world>}}

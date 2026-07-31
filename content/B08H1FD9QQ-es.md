@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Utilizar después del champú Bain Régénérant de Chronologiste. Retirar el exceso de agua y aplicar sobre el cabello. Repartir de medios a puntas, evitando las raíces. Dejar actuar 5-10 minutos. Emulsionar. Aclarar abundantemente con agua
 - Mascarilla regeneradora que previene de los signos de la edad tanto en el pelo como el cuero cabelludo. Proporciona hidratación gracias al ácido hialurónico que rellena la fibra, control del encrespamiento, suavidad y un brillo saludable. Fortalece el pelo
 - Hidrata y rellena en profundidad la fibra capilar y calma el cuero cabelludo a la vez que controla el encrespamiento
+- Utilizar después del champú Bain Régénérant de Chronologiste. Retirar el exceso de agua y aplicar sobre el cabello. Repartir de medios a puntas, evitando las raíces. Dejar actuar 5-10 minutos. Emulsionar. Aclarar abundantemente con agua
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08H1FD9QQ{{</world>}}

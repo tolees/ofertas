@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Pantalón largo
 - Ofrece comodidad
 - Tiene detalles distintivos de la marca
-- Pantalón largo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D2R5LWFH{{</world>}}

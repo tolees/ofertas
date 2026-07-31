@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Nivel de amortiguación: medio
-- Detalles esculpidos
 - Puma Espuma ligera para mayor comodidad
+- Detalles esculpidos
 - PUMA Detalles de la marca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño ligero y cómodo
 - Detalles distintivos de la marca
 - Con detalles moldeados
+- Diseño ligero y cómodo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DJ8Y9VVF{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Los colores evocan los distintos tonos de este fenómeno geológico y se combinan con dorados que generan un efecto visual sofisticado.
 - Color azul. Composición tejido: poliéster.
-- Estuche portatodo con 3 amplios compartimentos que permiten repartir el contenido.
 - Medidas: 22 x 11 x 6,5 cm.
+- Los colores evocan los distintos tonos de este fenómeno geológico y se combinan con dorados que generan un efecto visual sofisticado.
+- Estuche portatodo con 3 amplios compartimentos que permiten repartir el contenido.
 - La serie Lava está inspirada en las erupciones volcánicas y en el movimiento de la roca fundida.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

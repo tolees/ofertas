@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Ligeresa Original salsa bocabajo 250 ml
+- Apta para vegetarianos
 - La siguiente información se aplica a cada unidad del paquete
 - Salsa fuente natural de Omega 3
 - Salsa sin lactosa
-- Ligeresa Original salsa bocabajo 250 ml
-- Apta para vegetarianos
 - Salsa sin conservantes
 
 [🛒 Visítala!!!]({{< param buyurl >}})

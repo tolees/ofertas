@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aberturas laterales
 - Proporciona comodidad
+- Aberturas laterales
 - Bordado de G-STAR en el pecho
-- Cuello y puños acanalados
 - Cuello de polo
+- Cuello y puños acanalados
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C33KPWP9{{</world>}}

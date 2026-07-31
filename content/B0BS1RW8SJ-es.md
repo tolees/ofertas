@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Fórmula natural a base de Lactobacillus gasseri KS-13, Bifidobacterium bifidum G9-1, Bifidobacterium longum MM-2 y complejo enzimático (proteasa, lactasa, amilasa y lipasa)
 - Enzimas digestivas que facilitan la digestión de los alimentos y la absorción de los nutrientes junto a los probióticos que favorecen la digestión y ayuda a regenerar la flora intestinal beneficiosa.
-- Ayuda a prevenir y reducir la diarrea, repoblar el intestino y disminuir el estreñimiento
 - Combate problemas digestivos como gases, reflujo, náuseas, vómitos, diarrea, pesadez, malas digestiones, hinchazón abdominal con una fórmula natural
 - Enzimas digestivas y probióticos para facilitar la digestión y ayudar a regenerar la flora intestinal
+- Ayuda a prevenir y reducir la diarrea, repoblar el intestino y disminuir el estreñimiento
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BS1RW8SJ{{</world>}}

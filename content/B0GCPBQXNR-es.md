@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CARGA AUTOMÁTICA & LUZ NOCTURNA: Las luces solares se cargan automáticamente durante el día y se encienden de noche. Inalámbricas, ahorran energía y ecológicas. Perfectas para jardín, terraza o balcón - no se necesita enchufe.
-- DECORACIÓN VERSÁTIL PARA TODAS LAS OCASIONES: Lámparas de piña tropicales que aportan diversión y color a jardín, patio, balcón, bodas, fiestas o festivales. Modos regulables para ajustar la atmósfera - romántica o alegre.
 - DISEÑO TROPICAL & LUZ ACOGEDORA: Luces solares de 6 metros con 40 LED (distancia 15cm) y 10 lámparas de piña (distancia 45cm) que proporcionan luz cálida y agradable. IP67 protege de lluvia, nieve y salpicaduras. Ideal para noches románticas o fiestas.
+- DECORACIÓN VERSÁTIL PARA TODAS LAS OCASIONES: Lámparas de piña tropicales que aportan diversión y color a jardín, patio, balcón, bodas, fiestas o festivales. Modos regulables para ajustar la atmósfera - romántica o alegre.
+- CARGA AUTOMÁTICA & LUZ NOCTURNA: Las luces solares se cargan automáticamente durante el día y se encienden de noche. Inalámbricas, ahorran energía y ecológicas. Perfectas para jardín, terraza o balcón - no se necesita enchufe.
 - INSTALACIÓN FLEXIBLE – USABLE EN CUALQUIER LUGAR: Panel solar montable en suelo, pared, mesa o colgado. Instalación rápida sin cables enredados. Ideal para jardín, terraza, balcón o bodas.
 - 8 MODOS DE LUZ & CONTROL REMOTO: 8 modos como luz continua, desvanecimiento suave o parpadeo. Ajuste de brillo y temporizador mediante control remoto. Perfecto para luces solares de exterior o iluminación de balcón.
 

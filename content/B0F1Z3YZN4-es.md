@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Preparado para PC con IA optimizada: Diseñado para el futuro de la informática con IA, con la potencia y la conectividad necesarias para aplicaciones de IA exigentes
-- Zócalo AMD AM5: Preparado para el zócalo AMD AM5 para procesadores de sobremesa AMD Ryzen series 9000, 8000 y 7000
+- Compatible con M.2 de última generación: una ranura M.2 PCIe 5.0 integrada y dos ranuras M.2 PCIe 4.0
 - Conectividad rápida: Wi-Fi 6E, ranura PCIe 5.0 x16, Realtek 2.5Gb Ethernet, conector USB 20Gbps Tipo-C frontal y puerto USB 10Gbps Tipo-C trasero compatibles
 - Solución de alimentación mejorada: etapas de alimentación DrMOS de 80 A 8+2+1, PCB de 8 capas, conectores de alimentación ProCool de 8+4 pines, bobinas de aleación y condensadores duraderos para un suministro de energía estable
-- Compatible con M.2 de última generación: una ranura M.2 PCIe 5.0 integrada y dos ranuras M.2 PCIe 4.0
+- Preparado para PC con IA optimizada: Diseñado para el futuro de la informática con IA, con la potencia y la conectividad necesarias para aplicaciones de IA exigentes
+- Zócalo AMD AM5: Preparado para el zócalo AMD AM5 para procesadores de sobremesa AMD Ryzen series 9000, 8000 y 7000
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F1Z3YZN4{{</world>}}

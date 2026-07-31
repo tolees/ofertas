@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura elástica con cordón
-- Dobladillo elástico
-- Corte clásico
-- Contiene al menos un 70 % de material reciclado y renovable
-- 55 % algodón, 36 % poliéster (reciclado), 9 % viscosa
 - Bolsillos delanteros
+- Cintura elástica con cordón
 - Talle medio
+- 55 % algodón, 36 % poliéster (reciclado), 9 % viscosa
+- Contiene al menos un 70 % de material reciclado y renovable
+- Corte clásico
+- Dobladillo elástico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZPB86B5{{</world>}}

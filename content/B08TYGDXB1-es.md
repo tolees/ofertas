@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tamaño S: 18 x 0,3 cm. Tamaño M: 28 x 0,3 cm. Tamaño: L: 38 x 0,3 cm. Material: rosel. Peso del producto: 0,23 kg
 - Atmosphera - Set de 3 adornos de pared de Seagrass D 38 – 28 y 18 cm
 - Modelo: beige
-- Tamaño S: 18 x 0,3 cm. Tamaño M: 28 x 0,3 cm. Tamaño: L: 38 x 0,3 cm. Material: rosel. Peso del producto: 0,23 kg
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08TYGDXB1{{</world>}}

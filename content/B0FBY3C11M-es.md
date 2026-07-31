@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tejido de algodón suave para comodidad diaria
-- Corte entallado
 - Diseño clásico de cuello redondo y manga corta
+- Corte entallado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FBY3C11M{{</world>}}

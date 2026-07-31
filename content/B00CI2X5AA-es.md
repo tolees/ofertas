@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Normativas: RoHS
-- El producto está 100% testado
 - Cumple las normas ANSI/TIA/EIA 568-B, 2 Cat.5e, ISO/IEC 11801 (2da edición), CENELEC EN 50173-1, IEN 61156-5, CENELEC EN 50288-3-1, IEC 61156-6, CENELEC EN 50288-3-2. Resistencia a la propagación de las llamas según IEC 60332-1-2
 - Cable de red latiguillo Cat.5e UTP AWG24 con conector tipo RJ45 en ambos extremos
+- El producto está 100% testado
+- Normativas: RoHS
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00CI2X5AA{{</world>}}

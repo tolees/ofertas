@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Formulada con CICA – Esta crema hidratante con protección solar está enriquecida con CICA (Centella asiática), y cuenta con una fórmula nutritiva que hidrata y calma la piel sensible
-- Protección solar de amplio espectro: Con su textura ligera, esta crema solar facial con SPF30 ayuda a proteger la barrera de hidratación de la piel de los rayos UVA/UVB sin obstruir los poros
 - Detalles del envío – Neutrogena Ultra Gentle Crema Hidratante Facial de Uso Diario SPF 30, crema Neutrogena con protección solar y CICA, piel calmada, suave e hidratada, de uso diario, 1 x 100 ml
+- Protección solar de amplio espectro: Con su textura ligera, esta crema solar facial con SPF30 ayuda a proteger la barrera de hidratación de la piel de los rayos UVA/UVB sin obstruir los poros
 - De uso diario – Esta crema centella asiática con protección solar, desarrollada con dermatólogos, es adecuada para usar y calmar a diario las pieles normales a sensibles
 - Textura ligera – La crema de sol con protección SPF30 tiene una textura ligera que se absorbe rápidamente y es no comedogénica, por lo que es ideal para proteger la piel sin obstruir los poros
 

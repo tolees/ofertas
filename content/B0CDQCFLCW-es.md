@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Horma clásica
+- Cierre de cordones
 - Forro sintético
 - El empeine contiene al menos un 50% de material reciclado
-- Cierre de cordones
-- Empeine sintético
+- Horma clásica
 - Suela de goma
+- Empeine sintético
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CDQCFLCW{{</world>}}

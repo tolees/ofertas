@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste delgado en las nalgas y los muslos con libertad de movimiento justo debajo de la cintura
-- Dos bolsillos delanteros reforzados ligeramente en sesgo
 - Rugged Flex – Facilita los movimientos
+- Dos bolsillos delanteros reforzados ligeramente en sesgo
+- Ajuste delgado en las nalgas y los muslos con libertad de movimiento justo debajo de la cintura
 - Tela elástica de micro-arena
 - Pantalones largos
 

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CONECTIVIDAD PREMIUM: El panel de E/S superior incluye un puerto USB 3.2 Gen2x2 tipo C (20Gbps), 2 puertos USB 3.2 Gen1 tipo A (5Gbps), audio jacks y botón de ciclo ARGB p/ la iluminación del sistema; Incluye tablero de control LED ARGB de 1 a 6 (interno)
-- EXPOSICIÓN ARGB: La MPG VELOX 100R cuenta con paneles frontales de vidrio templado y puertas con bisagras, así como 4 ventiladores de caja ARGB 120mm preinstalados y una tira de iluminación compatible con software Mystic Light o el controlador integrado
 - AMPLIA CAPACIDAD: La MPG VELOX 100R puede alojar placas base, ATX, Micro-ATX y Mini-ITX; Admite tarjetas GPU de hasta 380mm de largo, disipadores de hasta 175mm de altura y PSUs ATX estándares de hasta 220mm de longitud (sin caja HDD 3,5")
 - SOPORTE DE GPU VERTICAL: La caja viene con un soporte de GPU vertical (cable riser no incluido) para exhibir configuraciones de hardware; El panel posterior se compone de 7 ranuras de expansión; 2x2.5" SSD / 2x3.5" HDD drive bays disponibles internamente
 - REFRIGERACIÓN VERSÁTIL: Los paneles front & top pueden albergar radiadores 360mm (3 fans 120mm) p/liquid cooling; La ventilación lateral 120x240mm ofrece opciones de cooling alternativas (requiere reubicación de fans frontales); Filtros de polvo incluidos
+- CONECTIVIDAD PREMIUM: El panel de E/S superior incluye un puerto USB 3.2 Gen2x2 tipo C (20Gbps), 2 puertos USB 3.2 Gen1 tipo A (5Gbps), audio jacks y botón de ciclo ARGB p/ la iluminación del sistema; Incluye tablero de control LED ARGB de 1 a 6 (interno)
+- EXPOSICIÓN ARGB: La MPG VELOX 100R cuenta con paneles frontales de vidrio templado y puertas con bisagras, así como 4 ventiladores de caja ARGB 120mm preinstalados y una tira de iluminación compatible con software Mystic Light o el controlador integrado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B097B13PWV{{</world>}}

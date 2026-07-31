@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Lleva 2 modos de operación permitiendo potenciar la velocidad de aire o el volumen de aire expulsado
-- Diseño innovador compacto y muy ligero con máxima potencia
-- Nueva tecnología Leafjet Siphon que aporta un mayor volumen de aire para una mayor rendimiento
-- Plataforma PowerShare. Batería extraíble e intercambiable con todas las herramientas eléctricas y de jardín de la gama 20V y 40V (2x20V) de Worx
-- Dos velocidades para optimizar el tiempo de utilización o el rendimiento.
-- Indicador de carga de nivel de batería
 - Motor Brushless (sin escobillas), que proporciona mayor potencia, autonomía y vida útil del motor
+- Diseño innovador compacto y muy ligero con máxima potencia
+- Dos velocidades para optimizar el tiempo de utilización o el rendimiento.
+- Lleva 2 modos de operación permitiendo potenciar la velocidad de aire o el volumen de aire expulsado
+- Plataforma PowerShare. Batería extraíble e intercambiable con todas las herramientas eléctricas y de jardín de la gama 20V y 40V (2x20V) de Worx
+- Nueva tecnología Leafjet Siphon que aporta un mayor volumen de aire para una mayor rendimiento
+- Indicador de carga de nivel de batería
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B098XPP8QQ{{</world>}}

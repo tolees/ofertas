@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Construcción vulcanizada
 - Parte superior de doble costura para mayor durabilidad
+- Construcción vulcanizada
 - Vans Marca Sidestripe
 - Suela original de gofre
 - Estilo de plataforma

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuatro posiciones para llevar al bebé
 - Resistente y cómoda
 - 3.5–15 kg, 53–100 cm
 - 0-3 años
+- Cuatro posiciones para llevar al bebé
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CVH1R35N{{</world>}}

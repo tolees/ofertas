@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Compatible con la App ESmart Connect para configurar y personalizar tus auriculares.
-- Sensor de proximidad (Proximity sensor) para el control de la reproducción, simplemente quitándote o poniéndote los auriculares
 - Encuentra lo que buscas gracias a comandos de voz con Voice Assistant
 - Disfruta de tu música y llamadas y olvídate de la batería con sus 25 horas de autonomía (5 horas por cada carga de los auriculares y 20 horas adicionales en el charging case)
+- Sensor de proximidad (Proximity sensor) para el control de la reproducción, simplemente quitándote o poniéndote los auriculares
+- Compatible con la App ESmart Connect para configurar y personalizar tus auriculares.
 - Diseño ergonómico, compacto y ligero para adaptarse a tu oído
 
 [🛒 Visítala!!!]({{< param buyurl >}})

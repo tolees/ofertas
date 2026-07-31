@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cuello en V
+- Corte ajustado
+- Tejer costilla
 - Malla fina
 - Manga larga
-- Cuello en V
-- Tejer costilla
-- Corte ajustado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07V2HCMVR{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tiene la capacidad de cargar utilizando canales de carga individuales, y el proceso de carga se detiene automáticamente tan pronto como las pilas están completamente cargadas para evitar la sobrecarga.
+- Amplias funciones de seguridad para mejorar la fiabilidad: protección contra cortocircuitos, detección de células defectuosas, protección contra polaridad incorrecta.
 - El LCD Multi Charger + puede cargar pilas AA/ AAA/ 9V y un dispositivo USB simultáneamente.
 - Incluye cable de carga USB tipo C a USB tipo C de 1 m.
-- Amplias funciones de seguridad para mejorar la fiabilidad: protección contra cortocircuitos, detección de células defectuosas, protección contra polaridad incorrecta.
+- Tiene la capacidad de cargar utilizando canales de carga individuales, y el proceso de carga se detiene automáticamente tan pronto como las pilas están completamente cargadas para evitar la sobrecarga.
 - La pantalla LCD simplificada muestra el progreso de carga en porcentaje.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

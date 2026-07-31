@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ayuda a restaurar el blanco natural de tus dientes y a prevenir las manchas
 - No recomendado para niños menores de 12 años, excepto por dentista o médico
-- Proporciona alivio y protección duradera frente a la sensibilidad dental cuando se utiliza regularmente dos veces al día
+- Ayuda a restaurar el blanco natural de tus dientes y a prevenir las manchas
 - Protege de las caries
+- Proporciona alivio y protección duradera frente a la sensibilidad dental cuando se utiliza regularmente dos veces al día
 - Ayuda a reparar en profundidad las áreas sensibles de los dientes gracias a su tecnología NOVAMIN
 
 [🛒 Aquí!!!]({{< param buyurl >}})

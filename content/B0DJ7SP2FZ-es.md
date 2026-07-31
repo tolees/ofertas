@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte clásico
 - Cuello de polo con cierre de botón
+- Corte clásico
 - 65% poliéster (reciclado) / 35% algodón
 
 [🛒 Visítala!!!]({{< param buyurl >}})

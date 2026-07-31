@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre de botón
 - Composición del material: 98% algodón, 2% elastano
 - Tipo de ajuste: corte muy delgado
+- Cierre de botón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00WWPZWPE{{</world>}}

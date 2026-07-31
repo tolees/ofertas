@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fabricado en una mezclilla a rayas inspirada en el archivo, lavada en un lavado ligero con tinte suave
-- Corte recto de inspiración vintage con un talle ultra alto y un ajuste espacioso a través de las piernas con detalles de bolsillo frontal parchado
 - 100% algodón
+- Corte recto de inspiración vintage con un talle ultra alto y un ajuste espacioso a través de las piernas con detalles de bolsillo frontal parchado
+- Fabricado en una mezclilla a rayas inspirada en el archivo, lavada en un lavado ligero con tinte suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FFTRHMX4{{</world>}}

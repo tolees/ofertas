@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Si su colchón no tiene las medidas exactas indicadas, se puede utilizar si varía en menos de 3 cm cada lado
-- Pack de 2 bajeras para colchón de cuna de 60x120cm
-- El tipo de tejido es algodón liso color blanco,transpirable, lavar en frío y secado al aire, debido a la composición de algodón natural no utilice temperaturas altas
 - Grosor profundidad de colchón, estas sábanas se pueden usar para colchones con un grosor de entre 5-10 cm, gracias a su goma elástica en la parte posterior se ajusta perfectamente al colchón
+- Pack de 2 bajeras para colchón de cuna de 60x120cm
 - Material: 100% Algodón, fabricado en España
+- El tipo de tejido es algodón liso color blanco,transpirable, lavar en frío y secado al aire, debido a la composición de algodón natural no utilice temperaturas altas
+- Si su colchón no tiene las medidas exactas indicadas, se puede utilizar si varía en menos de 3 cm cada lado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B084BXPMT6{{</world>}}

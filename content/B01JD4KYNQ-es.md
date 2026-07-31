@@ -29,15 +29,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 🍃 Cuidado del Cabello: Mascarilla reparadora de cabellos secos o dañados. Anti frizz, Hidratante cuero cabelludo, Efecto curly y definición de rizos, Limpieza e hidratación de la barba.
-- Aloe Vera Puro Orgánico. Gel de aloe vera orgánico, sin aditivos ni conservantes, ideal para hidratar y cuidar tu piel de manera natural.
-- 🍃 Preparación de Cosmetica Casera Natural: Crema hidratante, locion corporal antiestrias, balsamo reparador, gel del ducha, jabon, serum facial antiarrugas, mascarilla capilar y facial, exfoliante de la piel, crema antiedad...
-- 🍃 Caracterísitcas: Rápida absorción. No pegajoso. No deja residuo. Aroma fresco y natural. Textura agradable para la piel. Respetuoso con todo tipo de pieles.
-- Gel Calmante Aloe Vera. Alivia la piel irritada y reduce las rojeces con este gel calmante de aloe vera, ideal para quemaduras solares y piel sensible.
-- 🍃 Gel Hidratante de la Piel: 6 veces más hidratante, Reafirmante de la piel, Aporta elasticidad, Mantiene la humedad, Repara la piel después de afeitar, depilacion IPL y laser, cera. Reduce el cicatrices, acne y puntos negros.
-- Crema Post Laser Aloe Vera. Esta crema está especialmente formulada para calmar y regenerar la piel después de tratamientos láser, proporcionando alivio y ayudando a la recuperación.
 - Aloe Vera Puro para Quemaduras Solares. Gel especializado en el tratamiento de quemaduras solares, aliviando el dolor y acelerando la recuperación de la piel.
 - Gel de Aloe Puro. Disfruta de la pureza del aloe vera con este gel que hidrata y refresca tu piel, ideal para todo tipo de pieles.
+- Gel Calmante Aloe Vera. Alivia la piel irritada y reduce las rojeces con este gel calmante de aloe vera, ideal para quemaduras solares y piel sensible.
 - 🍃 Aloe Vera Natural. Sin conservantes artificiales. Vegano. Cruelty-Free. No testado en animales. Libre de parabenos. Libre de químicos. Cultivo de Aloe Vera organico.
+- Aloe Vera Puro Orgánico. Gel de aloe vera orgánico, sin aditivos ni conservantes, ideal para hidratar y cuidar tu piel de manera natural.
+- Crema Post Laser Aloe Vera. Esta crema está especialmente formulada para calmar y regenerar la piel después de tratamientos láser, proporcionando alivio y ayudando a la recuperación.
+- 🍃 Caracterísitcas: Rápida absorción. No pegajoso. No deja residuo. Aroma fresco y natural. Textura agradable para la piel. Respetuoso con todo tipo de pieles.
+- 🍃 Preparación de Cosmetica Casera Natural: Crema hidratante, locion corporal antiestrias, balsamo reparador, gel del ducha, jabon, serum facial antiarrugas, mascarilla capilar y facial, exfoliante de la piel, crema antiedad...
+- 🍃 Gel Hidratante de la Piel: 6 veces más hidratante, Reafirmante de la piel, Aporta elasticidad, Mantiene la humedad, Repara la piel después de afeitar, depilacion IPL y laser, cera. Reduce el cicatrices, acne y puntos negros.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01JD4KYNQ{{</world>}}

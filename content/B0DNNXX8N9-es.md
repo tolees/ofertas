@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estilo de 5 bolsillos
 - Corte ajustado desde la cadera hasta el tobillo
+- Estilo de 5 bolsillos
 - Diseño cómodo de llevar todo el día
 
 [🛒 Comprar!!!]({{< param buyurl >}})

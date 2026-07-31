@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Marca: JACK&JONES
 - Modelo: 12136668 JJEPAULOS POLO SS NOOS
 - Polo de manga corta de color azul. Cierre con botones. Corte slim fit. Detalle bordado.
+- Marca: JACK&JONES
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08L48S8PJ{{</world>}}

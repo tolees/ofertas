@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- FLUJO DE AIRE DE ALTO RENDIMIENTO - La malla ultrafina de la parte superior, frontal y paneles crea un flujo de aire máximo y filtra el polvo.
-- REFRIGERACIÓN EXCEPCIONAL DE LA GPU - La cubierta de la fuente de alimentación está perforada en los laterales y en la parte inferior, lo que permite una entrada de aire óptima de dos ventiladores de 120 mm (no incluidos).
 - GRAN SOPORTE DE RADIADOR - Admite hasta un radiador de 360 mm en la parte frontal y un radiador de 240 mm en la parte superior para un potente potencial de refrigeración líquida.
+- REFRIGERACIÓN EXCEPCIONAL DE LA GPU - La cubierta de la fuente de alimentación está perforada en los laterales y en la parte inferior, lo que permite una entrada de aire óptima de dos ventiladores de 120 mm (no incluidos).
 - GESTIÓN DE CABLES SIN FISURAS - Enruta y oculta los cables sin esfuerzo utilizando los anchos canales, ganchos y correas.
+- FLUJO DE AIRE DE ALTO RENDIMIENTO - La malla ultrafina de la parte superior, frontal y paneles crea un flujo de aire máximo y filtra el polvo.
 - VENTILADORES PREINSTALADOS* - Equipado con dos ventiladores Quiet Airflow de 120 mm, uno en la parte frontal y otro en la parte trasera, para un rendimiento sólido desde el primer momento.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estos cómodos calzoncillos BOSS están hechos de una mezcla de algodón suave con porcentaje de elastano
-- Cintura media
 - Cintura elástica visible
+- Cintura media
+- Estos cómodos calzoncillos BOSS están hechos de una mezcla de algodón suave con porcentaje de elastano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D9KFJSRL{{</world>}}

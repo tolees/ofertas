@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- MELATONINA: La melatonina contribuye a disminuir el tiempo necesario para conciliar el sueño. El efecto beneficioso se obtiene con una ingesta de 1 mg. de melatonina poco antes de irse a dormir.
+- MODO DE EMPLEO: Retirar el obturador del frasco y dosificar con la ayuda de la jeringa suministrada: 0,5 ml (equivalente a 1,95 mg de melatonina) media hora antes de ir a dormir. Mantener el líquido bajo la lengua. Niños a partir de 3 años: 0,1 ml a 0,25 ml. Se recomienda tomar Melanoctina siempre a la misma hora.
+- PLAMECA: comprometidos con tu bienestar desde 1984. Ponemos a tu alcance productos naturales, seguros, innovadores, eficaces y de calidad porque nos apasiona la fitoterapia y porque queremos mejorar día a día para ser más sostenibles y mejores para ti, para todos y para nuestro planeta.
 - COMPRIMIDOS SUBLINGUALES: alta concentración de melatonina (1.95 mg) en gotas sublinguales para una rápida absorción. Con sabor limón y apto a partir de 3 años.
 - DEBES SABER: Los complementos alimenticios no deben utilizarse como sustitutos de una dieta variada y equilibrada. Es importante seguir una dieta variada y equilibrada y un estilo de vida saludable. No superar la dosis diaria recomendada. Manténgase fuera del alcance de los niños más pequeños. Conservar en lugar fresco y seco.
-- MELATONINA: La melatonina contribuye a disminuir el tiempo necesario para conciliar el sueño. El efecto beneficioso se obtiene con una ingesta de 1 mg. de melatonina poco antes de irse a dormir.
-- PLAMECA: comprometidos con tu bienestar desde 1984. Ponemos a tu alcance productos naturales, seguros, innovadores, eficaces y de calidad porque nos apasiona la fitoterapia y porque queremos mejorar día a día para ser más sostenibles y mejores para ti, para todos y para nuestro planeta.
-- MODO DE EMPLEO: Retirar el obturador del frasco y dosificar con la ayuda de la jeringa suministrada: 0,5 ml (equivalente a 1,95 mg de melatonina) media hora antes de ir a dormir. Mantener el líquido bajo la lengua. Niños a partir de 3 años: 0,1 ml a 0,25 ml. Se recomienda tomar Melanoctina siempre a la misma hora.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00PYABNQQ{{</world>}}

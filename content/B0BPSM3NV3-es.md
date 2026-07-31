@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Puños de canalé
-- Amortiguación en la planta, el talón y la puntera
 - Tres pares por paquete
-- Refuerzo en el arco plantar
-- Costuras anatómicas en la puntera
 - Largo hasta el tobillo
+- Amortiguación en la planta, el talón y la puntera
+- Refuerzo en el arco plantar
+- Puños de canalé
+- Costuras anatómicas en la puntera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BPSM3NV3{{</world>}}

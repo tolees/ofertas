@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Disponen de un diseño cómodo
 - Ligeras y transpirables
+- Disponen de un diseño cómodo
 - Con una amortiguación óptima
 
 [🛒 Visítala!!!]({{< param buyurl >}})

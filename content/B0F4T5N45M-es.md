@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La siguiente información se aplica a cada unidad del paquete
 - Las piedras de la parrilla de lava son fáciles de limpiar calentándolas durante un período de tiempo más largo, lo que quema la grasa y los residuos de comida en las piedras.
-- Las piedras de lava para parrilla de gas no deben colocarse demasiado juntas para lograr una circulación óptima del aire en la parrilla.
-- Las piedras de lava para parrilla proporcionan una distribución uniforme del calor en la superficie de la parrilla y, al mismo tiempo, absorben eficazmente la grasa que gotea.
 - Estas piedras de lava son adecuadas para todas las parrillas de gas de piedra de lava de diferentes fabricantes.
+- Las piedras de lava para parrilla proporcionan una distribución uniforme del calor en la superficie de la parrilla y, al mismo tiempo, absorben eficazmente la grasa que gotea.
 - Contenido del paquete: 3 kg de piedras de lava, suficientes para una superficie de parrilla de hasta 1.500 cm²
+- Las piedras de lava para parrilla de gas no deben colocarse demasiado juntas para lograr una circulación óptima del aire en la parrilla.
 - The information below is per-pack only
+- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F4T5N45M{{</world>}}

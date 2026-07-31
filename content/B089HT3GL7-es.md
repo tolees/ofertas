@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Acondicionar de calidad profesional que regenera, fortaleza y nutre el cabello​
 - Acondicionador apto para el uso diario​; Botella 100% reciclable​
 - Fórmula con biotina y pro bond complex​
 - Globalmente TRESemmé no testa en animales
-- Acondicionar de calidad profesional que regenera, fortaleza y nutre el cabello​
 - Repara hasta 7 daños en 1 uso*
 - Acondicionar para cabellos secos y dañados​
 

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con la tecnología WhirlTech, que permite extraer el máximo sabor del café
-- Para 10 tazas grandes o 15 pequeñas con función de pausa para servir y de mantenimiento de calor durante 40 minutos
 - Elegante máquina cafetera de acero inoxidable cepillado con jarra de cristal con capacidad de 1,25 litros
+- Con la tecnología WhirlTech, que permite extraer el máximo sabor del café
 - Incluye cuchara de medición para una taza de café y soporte de filtro extraíble y lavable
+- Para 10 tazas grandes o 15 pequeñas con función de pausa para servir y de mantenimiento de calor durante 40 minutos
 - Dispone indicador del nivel de agua e interruptor luminoso de encendido y apagado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

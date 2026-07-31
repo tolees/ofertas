@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- forro piel y licra
 - Bota de piel serraje
+- forro piel y licra
 - Cierre cremallera interna
 - suela tipo track 3 cm
 

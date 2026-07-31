@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Toalla de playa impresa
 - Material de esponja
+- Toalla de playa impresa
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CHBLNSBQ{{</world>}}

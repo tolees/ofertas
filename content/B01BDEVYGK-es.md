@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 4️⃣ [ LIBRE DE METALES PESADOS Y CONTAMINANTES ] El aceite de pescado es sometido a un proceso avanzado de purificación que ayuda a eliminar mercurio, plomo, PCBs y otros contaminantes marinos, garantizando un suplemento seguro y de alta calidad.
-- 2️⃣ [ OMEGA-3 EN FORMA NATURAL DE TRIGLICÉRIDOS (TG) ] Los ácidos grasos Omega-3 se presentan en forma de triglicéridos naturales, una estructura que favorece una mejor biodisponibilidad y estabilidad frente a otras formas utilizadas en suplementos de aceite de pescado.
-- 1️⃣ [ ALTA CONCENTRACIÓN DE OMEGA-3 ] Cada perla aporta 1000mg de aceite de pescado con 600mg de Omega-3 activos, incluyendo 350mg de EPA y 250mg de DHA. Cantidades reales indicadas en miligramos para ofrecer una información clara y transparente sobre la dosis.
 - 5️⃣ [ BENEFICIOS RESPALDADOS POR EFSA ] El EPA y DHA contribuyen al funcionamiento normal del corazón. El DHA también contribuye al mantenimiento de la función cerebral y de la visión en condiciones normales (efecto beneficioso con 250mg diarios).
 - 3️⃣ [ CERTIFICADO IFOS 5 ESTRELLAS ] Nuestro Ultra Omega-3 cuenta con certificación IFOS (International Fish Oil Standards) otorgada por Nutrasource, que verifica pureza, estabilidad y contenido de Omega-3 conforme a los estándares internacionales más exigentes.
+- 4️⃣ [ LIBRE DE METALES PESADOS Y CONTAMINANTES ] El aceite de pescado es sometido a un proceso avanzado de purificación que ayuda a eliminar mercurio, plomo, PCBs y otros contaminantes marinos, garantizando un suplemento seguro y de alta calidad.
+- 1️⃣ [ ALTA CONCENTRACIÓN DE OMEGA-3 ] Cada perla aporta 1000mg de aceite de pescado con 600mg de Omega-3 activos, incluyendo 350mg de EPA y 250mg de DHA. Cantidades reales indicadas en miligramos para ofrecer una información clara y transparente sobre la dosis.
+- 2️⃣ [ OMEGA-3 EN FORMA NATURAL DE TRIGLICÉRIDOS (TG) ] Los ácidos grasos Omega-3 se presentan en forma de triglicéridos naturales, una estructura que favorece una mejor biodisponibilidad y estabilidad frente a otras formas utilizadas en suplementos de aceite de pescado.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01BDEVYGK{{</world>}}

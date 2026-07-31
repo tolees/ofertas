@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Desigual
-- Fit: Regular
-- Estampado Arty
 - Cuello: Redondo
-- Detalle de logo bordado
+- Fit: Regular
+- Desigual
 - Manga: Larga
+- Detalle de logo bordado
+- Estampado Arty
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DWB7WCM8{{</world>}}

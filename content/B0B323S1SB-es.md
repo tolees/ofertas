@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta en paquete de 3 unidades
 - Composición: 100% algodón
-- Corte estándar
+- Camiseta en paquete de 3 unidades
 - Cuello redondo
+- Corte estándar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B323S1SB{{</world>}}

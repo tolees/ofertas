@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forro textil
-- Empeine de malla
-- Suela de goma que no deja marcas para pista cubierta
 - Horma clásica
+- Suela de goma que no deja marcas para pista cubierta
+- Empeine de malla
+- Forro textil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DHSNFQ73{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Formulado con Ácido Salicílico y Mandélico para una exfoliación suave pero eficaz que mejora la luminosidad sin irritar. Gracias a la Niacinamida, reduce la inflamación, equilibra la producción de grasa y atenúa visiblemente las manchas, dejando la piel más uniforme y lisa
 - Exfoliante intensivo en formato loción diseñado para combatir el acné y renovar la textura cutánea. Su acción seborreguladora y queratolítica elimina impurezas y células muertas, siendo el tratamiento coadyuvante ideal para pieles con imperfecciones o marcas post-acnéicas.
 - Aplicar sobre el rostro limpio 1 o 2 veces al día, evitando el contorno de los ojos. En el cuerpo, aplicar directamente sobre zonas localizadas como espalda o escote. Fórmula hipoalergénica y no comedogénica, sin alcohol ni perfumes, apta para las pieles más sensibles
+- Formulado con Ácido Salicílico y Mandélico para una exfoliación suave pero eficaz que mejora la luminosidad sin irritar. Gracias a la Niacinamida, reduce la inflamación, equilibra la producción de grasa y atenúa visiblemente las manchas, dejando la piel más uniforme y lisa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09T6TCFCW{{</world>}}

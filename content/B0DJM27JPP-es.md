@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cierre de cremallera
+- Corte clásico
 - CLIMAWARM
 - 100 % poliéster (reciclado)
-- Corte clásico
-- Cierre de cremallera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DJM27JPP{{</world>}}

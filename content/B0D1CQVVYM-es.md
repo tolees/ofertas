@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte : Ajuste regular con cintura media, muslo regular y parte baja regular
-- Klavado/acabado : Rasgaduras sutiles con arreglos
-- Bolsillos : Bolsillos traseros, Bolsillo relojero, Bolsillos delanteros
-- Cintura : Talle medio
 - Artículo : Shorts de ajuste regular
+- Bolsillos : Bolsillos traseros, Bolsillo relojero, Bolsillos delanteros
+- Klavado/acabado : Rasgaduras sutiles con arreglos
 - Cierre : Bragueta de botones
+- Corte : Ajuste regular con cintura media, muslo regular y parte baja regular
+- Cintura : Talle medio
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D1CQVVYM{{</world>}}

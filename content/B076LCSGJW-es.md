@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Artemisa'
-date: 2026-04-05 21:49:18
+date: 2026-07-30 05:43:52
 image: 'https://m.media-amazon.com/images/I/41-ycK7ujnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B076LCSGJW-es Artemisa'
 sku: 'B076LCSGJW-es'
 tags: [ '🇪🇸', ]
-actualPrice: 2.37 EUR
+actualPrice: 2.49 EUR
 currency: EUR
-price: 2.37
-comparePrice: 8.99 EUR
+price: 2.49
+comparePrice: 12.95 EUR
 prodname: 'Artemisa'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B076LCSGJW/?tag=tolees-21'
-descuento: '73.64'
-average: '2.37'
+descuento: '80.77'
+average: '2.43'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

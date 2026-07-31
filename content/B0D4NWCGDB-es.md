@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Plantilla de espuma viscoelástica refrigerada por aire
-- Goldcrown - Tenis de moda con estampado de entresuela
 - Colaboración James Goldcrown
+- Goldcrown - Tenis de moda con estampado de entresuela
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D4NWCGDB{{</world>}}

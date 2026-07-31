@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - DETALLES: Cintura elástica y cordón de ajuste con costura lateral y bolsillos traseros.
-- SARGA DE GRAMAJE MEDIO: Sarga de verano, perfecta para los días más cálidos. Estrechamente entretejida y lavada para mayor suavidad.
-- AJUSTE NORMAL: ajuste cómodo y sencillo por la cadera y el muslo, con pernera recta. Se ajusta a la cintura.
 - TIRO DEL PANTALÓN: La talla M mide 15,2 cm.
+- AJUSTE NORMAL: ajuste cómodo y sencillo por la cadera y el muslo, con pernera recta. Se ajusta a la cintura.
+- SARGA DE GRAMAJE MEDIO: Sarga de verano, perfecta para los días más cálidos. Estrechamente entretejida y lavada para mayor suavidad.
 - PANTALONES CORTOS SIN CIERRE: Estos clásicos pantalones cortos no son elásticos y se convertirán en una prenda muy versátil y abrigada para tu fondo de armario.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

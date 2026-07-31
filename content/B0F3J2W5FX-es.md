@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsa en formato familiar de 242 gramos
 - Se puede compartir con amigos o familiares
-- Las Lays campesinas con aromas vegetales
+- Bolsa en formato familiar de 242 gramos
 - Snack de patatas fritas
+- Las Lays campesinas con aromas vegetales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F3J2W5FX{{</world>}}

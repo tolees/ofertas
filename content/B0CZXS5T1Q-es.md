@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puños de canalé
-- Bolsillos laterales
-- Corte clásico
-- Bolsillos tipo cargo
-- Contiene al menos un 70% de material reciclado y renovable
 - Cierre de cordones
-- 70% algodón / 30% poliéster (reciclado)
+- Bolsillos laterales
+- Puños de canalé
 - Perneras ajustadas
+- Corte clásico
+- Contiene al menos un 70% de material reciclado y renovable
+- 70% algodón / 30% poliéster (reciclado)
+- Bolsillos tipo cargo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZXS5T1Q{{</world>}}

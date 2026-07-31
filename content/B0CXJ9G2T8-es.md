@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 🍉 Crema Corporal Sandía The Fruit Company Efecto Seda
+- 🍉 Fórmula vegana y cruelty free.
 - 🍉 Hidratación profunda con aceite de aguacate, manteca de karité y vitamina E.
 - 🍉 Pack de 3 cremas corporales de 200 ml cada una.
-- 🍉 Fórmula vegana y cruelty free.
+- 🍉 Crema Corporal Sandía The Fruit Company Efecto Seda
 - 🍉 Descripción olfativa: Salida a frutal sandía, plátano y cereza, cuerpo a dulce caramelo con un toque de anís, muguet y acordes lácteos, para finalizar con un fondo almizclado a vainilla y frambuesas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

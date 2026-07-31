@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Fragancia personal
-- Modelo: 1170395
 - Agradable sensación en la piel
+- Modelo: 1170395
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08WKFBWH4{{</world>}}

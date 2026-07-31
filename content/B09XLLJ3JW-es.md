@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La acción del producto se obtiene gracias al conjunto de sustancias naturales presentes que actúan sobre las múltiples funciones utilizadas normalmente por los intestinos para regular el tránsito. Alivio FisioLax actúa por lo tanto con un mecanismo de acción fisiológico y no farmacológico.
 - Modo de empleo: se recomienda tomar de 1 a 3 comprimidos por la noche, cuando se avise su utilidad, con un vaso abundante de agua. La dosis correcta es la mínima suficiente para favorecer el tránsito intestinal fisiológico sin producir heces líquidas, por lo que es personalizable según las necesidades individuales. El producto se recomienda a partir de los 12 años. En general, para favorecer el tránsito intestinal, se recomienda beber durante todo el día, tomar la cantidad adecuada de fibra y hacer ejercicio.
 - Alivio FisioLax es un dispositivo médico 100% natural indicado para el tratamiento del estreñimiento.
+- La acción del producto se obtiene gracias al conjunto de sustancias naturales presentes que actúan sobre las múltiples funciones utilizadas normalmente por los intestinos para regular el tránsito. Alivio FisioLax actúa por lo tanto con un mecanismo de acción fisiológico y no farmacológico.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09XLLJ3JW{{</world>}}

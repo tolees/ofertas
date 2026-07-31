@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Contenido de alcohol (alc/vol): 12.0 percent by volume
 - Cava muy bien estructurado en boca, seco y elegante
 - Cava de gran calidad Brut nature clásico
-- Contenido de alcohol (alc/vol): 12.0 percent by volume
+- Finos e intensos aromas de crianza. Sobresalen los aromas de frutas maduras mezclados con sutiles tonos cítricos muy bien combinados con notas de levadura de panificación.
 - Las variedades que se utilizan para la elaboración del vino base para este cava son, Macabeo, Xarel.lo y Parellada.
 - Cava Gran Reserva de color amarillo debido a la crianza superior a 30 meses
-- Finos e intensos aromas de crianza. Sobresalen los aromas de frutas maduras mezclados con sutiles tonos cítricos muy bien combinados con notas de levadura de panificación.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00PFP0T1U{{</world>}}

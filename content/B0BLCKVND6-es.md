@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Perforaciones en la puntera
 - Suela de goma
 - PUMA Marca en el talón
 - Entresuela de goma
-- Perforaciones en la puntera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BLCKVND6{{</world>}}

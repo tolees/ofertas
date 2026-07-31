@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Alta duración
 - Lápiz de cejas con cepillo integrado
-- Aplicación rápida y precisa
-- Acabado natural
 - Intensifica y define tus cejas
+- Alta duración
+- Acabado natural
+- Aplicación rápida y precisa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09MJK5YB9{{</world>}}

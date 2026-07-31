@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material interior: sintético
-- Suela: goma
-- Material exterior: piel
 - Cordones
+- Material interior: sintético
+- Material exterior: piel
+- Suela: goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08GPP31WW{{</world>}}

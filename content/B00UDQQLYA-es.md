@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fórmula de larga duración.
-- Fragancia White Jasmine
+- Retira el embellecedor de madera y quita el obturador de plástico, manteniendo la botella en vertical y con cuidado de no derramar líquido ambientador; no pongas tu ambientador mikado en superficies delicadas (barnizadas, pintadas o sintéticas) que puedan sufrir daños; pon de nuevo el cuello de madera e inserta las varillas en la botella, colocándolas en forma de abanico; deja transcurrir unas horas para que se impregnen de fragancia y voltéalas, volviendo a colocarlas en forma de abanico; para aumentar la intensidad del aroma en la estancia, basta con da la vuelta a las varillas tantas veces como se desee
 - Las varillas naturales de ratán del ambientador mikado están especialmente indicadas para la ambientación y propician la difusión de las esencias durante semanas
 - Fabricado en españa
-- Retira el embellecedor de madera y quita el obturador de plástico, manteniendo la botella en vertical y con cuidado de no derramar líquido ambientador; no pongas tu ambientador mikado en superficies delicadas (barnizadas, pintadas o sintéticas) que puedan sufrir daños; pon de nuevo el cuello de madera e inserta las varillas en la botella, colocándolas en forma de abanico; deja transcurrir unas horas para que se impregnen de fragancia y voltéalas, volviendo a colocarlas en forma de abanico; para aumentar la intensidad del aroma en la estancia, basta con da la vuelta a las varillas tantas veces como se desee
+- Fórmula de larga duración.
+- Fragancia White Jasmine
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00UDQQLYA{{</world>}}

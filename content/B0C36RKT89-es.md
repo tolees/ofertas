@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuentan con un estilo casual
 - Presentan trabillas para cinturón
 - Con bolsillos delanteros y traseros
+- Cuentan con un estilo casual
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C36RKT89{{</world>}}

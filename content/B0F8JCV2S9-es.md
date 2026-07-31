@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La parte superior se suaviza y adquiere un toque vintage con el uso.
 - Diseñado originalmente para el baloncesto de alto rendimiento, la amortiguación Nike Air agrega comodidad liviana.
+- La parte superior se suaviza y adquiere un toque vintage con el uso.
 - Suela de goma con dibujo de estrellas para mayor durabilidad y tracción.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

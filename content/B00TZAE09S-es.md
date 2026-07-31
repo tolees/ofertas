@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillo en el pecho con cremallera
 - A prueba de viento, Soft-Shell
+- Bolsillo en el pecho con cremallera
 - Material poliéster
 - Suave vellón en el interior
 - Repelente al agua superior en el exterior

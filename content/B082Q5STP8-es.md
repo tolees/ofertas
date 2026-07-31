@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Colección de 12+2 sirenitas que viven dentro de una concha
-- Cada perla contiene el objeto favorito de tu shellie; además está relacionado con su personalidad
-- Las shellies tienen un cinturón especial para llevar su perla a todas partes
 - Descubre todos los accesorios; saca el mapa de la botella para resolver el laberinto y libera la perla
 - La concha se abre de forma mágica dentro del agua
+- Las shellies tienen un cinturón especial para llevar su perla a todas partes
+- Cada perla contiene el objeto favorito de tu shellie; además está relacionado con su personalidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B082Q5STP8{{</world>}}

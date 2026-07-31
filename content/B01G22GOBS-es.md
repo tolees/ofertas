@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- TAN DULCE - Rocas caramelos duros con corazón, delicioso dulce, con gran sabor, cuatro colores diferentes
+- ARTESANÍA – Envase de 500 g, aprox. 4,2-4,4 g/unidad de caramelos hechos a mano y envueltos individualmente con un motivo de corazón, calidad superior
 - EFICIENCIA TOTAL - Decoración ideal para la mesa festiva, como regalo de invitados, para decorar productos de panadería y regalos
 - QUERIDO - Imprescindible para bodas, bautizos, confirmaciones y muchas otras ocasiones festivas, perfecto para el Candy-Bar
 - DELICIAS POPULARES - Llama la atención con un sabor delicioso, un bonito extra en las festividades o simplemente para picar
-- TAN DULCE - Rocas caramelos duros con corazón, delicioso dulce, con gran sabor, cuatro colores diferentes
-- ARTESANÍA – Envase de 500 g, aprox. 4,2-4,4 g/unidad de caramelos hechos a mano y envueltos individualmente con un motivo de corazón, calidad superior
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01G22GOBS{{</world>}}

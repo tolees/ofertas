@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- En color blanco
 - Sombrero de vestimento
 - Para mujeres
+- En color blanco
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B06WVF7J7F{{</world>}}

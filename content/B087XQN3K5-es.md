@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manguera súper suave de alta presión muy flexible, fácil de manejar y de enrollar una vez terminado el trabajo
-- Conexión rápida de entrada de agua con filtro inspeccionable que atrapa las impurezas y garantiza el perfecto funcionamiento de la hidrolimpiadora
-- Se incluyen 6 accesorios (pistola, manguera de alta presión, extensión de la lanza, lanza con chorro giratorio, lanza con chorro ajustable, kit de espuma) que pueden ser enganchados después de su uso en la parte posterior de la máquina
-- Hidrolimpiadora de alta presión para uso doméstico diseñada y desarrollada por Annovi Reverberi S.p.A: Black Edition con equipamiento y diseño exclusivos
 - Presión (bar) máx. 100; consumo de energía (kW) 1,3; caudal (l/h) máx. 390; temperatura de alimentación (°C) máx. 50
+- Conexión rápida de entrada de agua con filtro inspeccionable que atrapa las impurezas y garantiza el perfecto funcionamiento de la hidrolimpiadora
+- Manguera súper suave de alta presión muy flexible, fácil de manejar y de enrollar una vez terminado el trabajo
+- Hidrolimpiadora de alta presión para uso doméstico diseñada y desarrollada por Annovi Reverberi S.p.A: Black Edition con equipamiento y diseño exclusivos
 - Hidrolimpiadora de alta presión de agua fría ideal para la limpieza ocasional de la suciedad superficial en superficies domésticas exteriores, puertas, muebles de jardín, bicicletas
+- Se incluyen 6 accesorios (pistola, manguera de alta presión, extensión de la lanza, lanza con chorro giratorio, lanza con chorro ajustable, kit de espuma) que pueden ser enganchados después de su uso en la parte posterior de la máquina
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B087XQN3K5{{</world>}}

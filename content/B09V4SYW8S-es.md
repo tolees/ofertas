@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalla Retina HD de 4,7 pulgadas
-- Sistema avanzado de una sola cámara de 12 Mpx (gran angular), HDR Inteligente 4, Estilos Fotográficos, modo Retrato y grabación de vídeo en 4K hasta 60 f/s
-- Botón de inicio con Touch ID para autenticarse de forma segura
-- Hasta 15 horas de reproducción de vídeo
 - Cámara FaceTime HD de 7 Mpx con HDR Inteligente 4, Estilos Fotográficos, modo Retrato y grabación de vídeo en 1080p
-- iOS 15 con nuevas prestaciones que sacan más partido al iPhone
-- Diseño robusto y resistencia al agua IP6
+- Sistema avanzado de una sola cámara de 12 Mpx (gran angular), HDR Inteligente 4, Estilos Fotográficos, modo Retrato y grabación de vídeo en 4K hasta 60 f/s
 - Redes 5G
+- Hasta 15 horas de reproducción de vídeo
+- Botón de inicio con Touch ID para autenticarse de forma segura
 - Chip A15 Bionic para un rendimiento increíble
+- Diseño robusto y resistencia al agua IP6
+- iOS 15 con nuevas prestaciones que sacan más partido al iPhone
+- Pantalla Retina HD de 4,7 pulgadas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09V4SYW8S{{</world>}}

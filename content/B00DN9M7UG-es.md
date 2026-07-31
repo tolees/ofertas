@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Los complementos alimenticios no deben utilizarse como sustitutos de una dieta variada y equilibrada. Es importante seguir una dieta variada y equilibrada y un estilo de vida saludable
 - 5 suplementos en uno: germen de trigo, levadura de cerveza, lecitina de soja, polen y algas marinas. Con vitamina C
+- Los complementos alimenticios no deben utilizarse como sustitutos de una dieta variada y equilibrada. Es importante seguir una dieta variada y equilibrada y un estilo de vida saludable
 - Santiveri Vigor Total - 400 Gr
 - De 2 a 3 cucharadas soperas disueltas en una vaso de zumo, preferentemente en ayunas.
 

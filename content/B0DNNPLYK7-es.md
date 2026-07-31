@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tejido ligero y suave
 - Con un estilo casual
 - Detalles distintivos de la marca
+- Tejido ligero y suave
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DNNPLYK7{{</world>}}

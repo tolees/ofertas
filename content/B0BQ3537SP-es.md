@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estilo de meter con cordones elásticos
 - Entresuela que absorbe los golpes
+- Estilo de meter con cordones elásticos
 - Suela de tracción flexible
 
 [🛒 Visítala!!!]({{< param buyurl >}})

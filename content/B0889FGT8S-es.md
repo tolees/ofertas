@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Boquilla de acero inox, con función antigoteo
-- Exprimidor profesional de cítricos con mango a presión de aluminio con 2 conos de diferente tamaño: cono grande anticorrosivo de acero inox; cono pequeño con mecanismo para bloquear la fruta
 - Con ventosas para mayor estabilidad
 - Recogecable
+- Boquilla de acero inox, con función antigoteo
+- Exprimidor profesional de cítricos con mango a presión de aluminio con 2 conos de diferente tamaño: cono grande anticorrosivo de acero inox; cono pequeño con mecanismo para bloquear la fruta
 - Potencia: 85 W, motor silencioso
 
 [🛒 Aquí!!!]({{< param buyurl >}})

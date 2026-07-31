@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- DISEÑO ATEMPORAL: Se presenta en el clásico tarro de cristal con tapa para preservar la fragancia; etiqueta despegable para personalizar su aspecto
-- CLEAN COTTON: Algodón secado al sol combinado con notas verdes, flores blancas y un toque de limón
 - VELAS DE LARGA DURACIÓN: Hasta 150 horas; 17 cm de alto x 10 cm de ancho (623 g)
-- AROMA ENVOLVENTE: Los ingredientes auténticos y la cera de primera calidad proporcionan una fragancia duradera y uniforme
 - COMBUSTIÓN LIMPIA Y UNIFORME: Mecha 100 % algodón de fibra natural enderezada y centrada
+- AROMA ENVOLVENTE: Los ingredientes auténticos y la cera de primera calidad proporcionan una fragancia duradera y uniforme
+- CLEAN COTTON: Algodón secado al sol combinado con notas verdes, flores blancas y un toque de limón
+- DISEÑO ATEMPORAL: Se presenta en el clásico tarro de cristal con tapa para preservar la fragancia; etiqueta despegable para personalizar su aspecto
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00W8NNH34{{</world>}}

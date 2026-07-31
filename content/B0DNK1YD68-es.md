@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Alimenta, interactúa y crea vínculos con los animales para conseguir huevos y leche.
 - Cuida de tus plantas, crea abono y vende los productos de tu granja.
-- Personaliza el aspecto de tu personaje para crear tu personalidad perfecta.
 - Ponle nombre a las mascotas, interactúa con ellas y deja que te sigan por la isla.
+- Personaliza el aspecto de tu personaje para crear tu personalidad perfecta.
+- Alimenta, interactúa y crea vínculos con los animales para conseguir huevos y leche.
 - Vende objetos en tu tienda y negocia los precios con la Gente del Bosque.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Logotipo bordado
-- Banda lateral con inscripción
 - Bolsillos laterales
+- Banda lateral con inscripción
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B56FL12Z{{</world>}}

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 4 Packs de 6 botellas de 50 cl PET; total: 24 botellas
-- Optima para refrescarse en cualquier momento del día; servir bien fría
 - Una alternativa saludable a los refrescos
 - 0% azúcares, 0% edulcorantes, solo aromas naturales
+- Optima para refrescarse en cualquier momento del día; servir bien fría
 - Una deliciosa fusión de intensas burbujas y aroma natural a limón para un sabor muy refrescante
 
 [🛒 Aquí!!!]({{< param buyurl >}})

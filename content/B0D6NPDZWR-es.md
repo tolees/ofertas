@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Suela suave para movimientos suaves
 - Fabricado con materiales sostenibles
 - Adecuado para todo el año
-- Suela suave para movimientos suaves
 - Zapatillas de la marca Geox
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

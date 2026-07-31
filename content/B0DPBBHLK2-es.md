@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tejido suave y ligero
 - Con un bolsillo en el pecho
+- Tejido suave y ligero
 - Detalles distintivos de la marca
 
 [🛒 Visítala!!!]({{< param buyurl >}})

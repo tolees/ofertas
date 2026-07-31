@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 28 x 14 x 9
 - Cierre de cremallera.
+- 28 x 14 x 9
 - Bolsillo interior de fuelle.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

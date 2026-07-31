@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 70% poliéster (reciclado) / 30% algodón
 - Corte ajustado
 - AEROREADY
+- 70% poliéster (reciclado) / 30% algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BQWJ3JLF{{</world>}}

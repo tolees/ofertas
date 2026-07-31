@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Caucho
-- Punta redonda
-- Tanga
-- Adjuntar
 - Sintético
+- Punta redonda
+- Adjuntar
+- Tanga
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BGQ6HKY2{{</world>}}

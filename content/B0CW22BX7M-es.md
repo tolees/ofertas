@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- INTENSIDAD 6 - Café en grano 100 % arábica de tueste natural con sabor dulce y tostado
+- DULCE Y TOSTADO - La mezcla de estos granos y su proceso de tueste confieren al café un aroma suave pero duradero con notas a caramelo.
+- CAFÉ ESPRESSO, RISTRETTO O LUNGO - Con este café podrás preparar un espresso, café negro corto que se disfruta solo o con base de leche como el capuchino o el latte; un ristretto, una versión más concentrada de un espresso, con menos agua y la misma cantidad de café; o un café lungo, la misma cantidad de café pero el doble de agua que un espresso.
 - MARCILLA RECOMIENDA - Una vez abierto el paquete, después de su utilización, guárdalo en un recipiente hermético en un lugar fresco y seco.
 - 1 PAQUETE DE 400 GRAMOS - Café en grano listo para ser molido en tu máquina de café superautomática (o en tu molinillo de café); una vez molido, podrá ser utilizado en cualquier cafetera.
-- INTENSIDAD 6 - Café en grano 100 % arábica de tueste natural con sabor dulce y tostado
-- CAFÉ ESPRESSO, RISTRETTO O LUNGO - Con este café podrás preparar un espresso, café negro corto que se disfruta solo o con base de leche como el capuchino o el latte; un ristretto, una versión más concentrada de un espresso, con menos agua y la misma cantidad de café; o un café lungo, la misma cantidad de café pero el doble de agua que un espresso.
-- DULCE Y TOSTADO - La mezcla de estos granos y su proceso de tueste confieren al café un aroma suave pero duradero con notas a caramelo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CW22BX7M{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Libre de colorantes, potenciadores de sabor y aromas artificiales
 - Fresco, en empaque resellable que protege y conserva el aroma
 - Azafrán en hebras color rojo intenso 3g Sargol en Calidad-Premium (Categoría -ISO 3632-2)
+- Libre de colorantes, potenciadores de sabor y aromas artificiales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08VNBG9RD{{</world>}}

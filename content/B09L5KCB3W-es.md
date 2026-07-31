@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela y suela de goma
-- Líneas verticales anchas en el talón
 - Parte de cuero con empeine perforado
+- Líneas verticales anchas en el talón
+- Suela y suela de goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09L5KCB3W{{</world>}}

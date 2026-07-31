@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Es importante realizar mantenimiento y un uso responsable del producto, para garantizar su correcto funcionamiento.
+- La vida útil de los consumibles depende de sus condiciones de uso y limpieza, por regla general, hay que proceder a su sustitución cuando se encuentren en mal estado.
+- Pack de 5 bolsas para Conga Y100
 - Los consumibles originales garantizan la máxima calidad y el mejor rendimiento. Se recomienda realizar mantenimiento para alargar la vida útil del producto.
 - Se recomienda la no manipulación del producto siempre y cuando él mismo tenga la garantía en vigor. Debido a que la manipulación del equipo supone la finalización de la garantía. Siendo el cliente responsable de la reparación y de los daños o averías que la incorrecta manipulación del equipo puedan suponer.
-- La vida útil de los consumibles depende de sus condiciones de uso y limpieza, por regla general, hay que proceder a su sustitución cuando se encuentren en mal estado.
-- Es importante realizar mantenimiento y un uso responsable del producto, para garantizar su correcto funcionamiento.
-- Pack de 5 bolsas para Conga Y100
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GXFXQWTC{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Extension mínima: 140 cm
-- Plataforma superior con conexión estándar para rótulas de 3/8"
 - Extension máxima: 170 cm
-- Columna abatible a 90º. Distancia mínima al suelo 9 cm
+- Plataforma superior con conexión estándar para rótulas de 3/8"
 - Trípode de fibra de carbono de 3 secciones. Capacidad de carga hasta 20 Kg
+- Columna abatible a 90º. Distancia mínima al suelo 9 cm
+- Extension mínima: 140 cm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00ICFIRZU{{</world>}}

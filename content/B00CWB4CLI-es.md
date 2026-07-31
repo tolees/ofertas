@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material exterior: Lona
 - Cierre: Cordones
-- Tipo de tacón: Plano
 - Composición: Textil
-- Revestimiento: Tela
 - Material de la suela: Caucho
-- Anchura del zapato: Normal
+- Revestimiento: Tela
+- Tipo de tacón: Plano
 - Tipo de talla: Talla estándar
+- Anchura del zapato: Normal
+- Material exterior: Lona
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00CWB4CLI{{</world>}}

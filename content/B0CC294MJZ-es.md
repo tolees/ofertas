@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Piso flexible
-- Plantilla acolchada de piel curtida
 - Forro de piel
+- Plantilla acolchada de piel curtida
 - Cierre con hebilla ajustable al tobillo
+- Piso flexible
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CC294MJZ{{</world>}}

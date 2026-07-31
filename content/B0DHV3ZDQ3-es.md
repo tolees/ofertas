@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mediasuela de EVA
-- Forro textil
-- Horma clásica
-- Suela de goma para moqueta
 - Empeine de Fiberskin con estampado Sprintgrid
+- Forro textil
+- Mediasuela de EVA
+- Suela de goma para moqueta
+- Horma clásica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DHV3ZDQ3{{</world>}}

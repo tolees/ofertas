@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Una poderosa experiencia de cuidado.
 - Esta fórmula multiusos suaviza y acondiciona las cerdas para un afeitado perfecto.
+- Una poderosa experiencia de cuidado.
 - Aceite de aseo de triple acción de ESPA: un aceite facial, de barba y de afeitado 3 en 1 para un afeitado apurado y nutritivo.
 - Este triple aceite es apto para todo tipo de pieles y nutre tanto la piel como el vello facial.
 

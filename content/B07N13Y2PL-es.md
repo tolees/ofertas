@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Forro: Textil
 - Fijación: Slip On
 - Suela: Sintética
 - Código Fabricante: 15901
-- Forro: Textil
 - Parte superior: Textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})

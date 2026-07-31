@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Etiqueta tejida
+- Forro de malla
 - Logotipo PUMA en el lateral
 - Plantilla de espuma blanda
-- Forro de malla
 - Formstrip de PUMA sintética
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

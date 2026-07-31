@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Una mirada original
-- Etiqueta trasera de G-STAR hecha de un tejido de papel que imita a la piel
 - Bragueta de cremallera
 - Proporciona comodidad
+- Etiqueta trasera de G-STAR hecha de un tejido de papel que imita a la piel
+- Una mirada original
 - Cinco bolsillos, incluido un bolsillo para monedas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

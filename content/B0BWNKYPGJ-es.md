@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- SIMON: Con origen en Olot y presencia internacional, SIMON suma más de 100 años de evolución en el sector eléctrico. Su compromiso con la funcionalidad y la estética de los espacios ha consolidado a la marca como una opción sólida y fiable para la gestión de energía en el hogar.
-- MODERNO Y RESISTENTE: Estilo minimalista y vanguardista con acabado mate en color negro. Bastidor de polipropileno flexible que facilita el manejo durante la instalación y proporciona mayor aislamiento y seguridad. Garras metálicas que aseguran una sujeción firme y acople perfecto a la pared. Montaje mediante embornamiento con tornillo.
-- INTEGRACIÓN ELEGANTE: La serie Simon 10 destaca por su profundidad muy reducida y líneas rectas, logrando una estética elegante y poco intrusiva que se integra de forma fluida en cualquier estancia del hogar u oficina.
 - FUNCIONAMIENTO: Mientras que los interruptores desconectan un circuito eléctrico, los conmutadores redirigen la corriente a otro conductor para conectar un circuito diferente. Ideal para pasillos, escaleras o estancias con dos accesos.
+- SIMON: Con origen en Olot y presencia internacional, SIMON suma más de 100 años de evolución en el sector eléctrico. Su compromiso con la funcionalidad y la estética de los espacios ha consolidado a la marca como una opción sólida y fiable para la gestión de energía en el hogar.
+- INTEGRACIÓN ELEGANTE: La serie Simon 10 destaca por su profundidad muy reducida y líneas rectas, logrando una estética elegante y poco intrusiva que se integra de forma fluida en cualquier estancia del hogar u oficina.
 - CONMUTADOR SIMON: CONMUTADOR SIMON: Permite controlar un punto de luz desde dos ubicaciones distintas. También funciona como interruptor convencional. Incluye marco, tapa y mecanismo listos para instalar. Apto para interiores (IP20).
+- MODERNO Y RESISTENTE: Estilo minimalista y vanguardista con acabado mate en color negro. Bastidor de polipropileno flexible que facilita el manejo durante la instalación y proporciona mayor aislamiento y seguridad. Garras metálicas que aseguran una sujeción firme y acople perfecto a la pared. Montaje mediante embornamiento con tornillo.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BWNKYPGJ{{</world>}}

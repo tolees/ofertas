@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - FÁCIL DE MOVER: Con 4 ruedas giratorias, 2 de ellas con freno, este carrito de cocina con ruedas ofrece una gran movilidad y estabilidad. También dispone de un asa para facilitar su transporte de un lugar a otro
-- CARRITO AUXILIAR MODERNO: Este carrito de cocina blanco destaca por su diseño moderno y minimalista, fácil de integrar en cualquier estilo de decoración. Ideal para cocinas, baños u otras estancias donde se requiera espacio extra de almacenamiento
-- MEDIDAS TOTALES: 45x31x79,4 cm (LxANxAL). Medidas de las cestas: 39,4x29,1x6,5 cm (superior), 40,6x29,6x7 cm (central) y 41,6x30,6x7,5 cm (inferior). Peso máximo soportado: 22 kg (total), 6 kg (cada cesta) y 4 kg (encimera). Requiere montaje
 - GRAN ESPACIO DE ALMACENAMIENTO: Este carrito auxiliar tiene 3 grandes estantes, ideales para guardar botellas, alimentos, cubiertos y mucho más. Cuenta con una encimera de MDF de color madera que, hace de encimera y tapa a la vez
+- MEDIDAS TOTALES: 45x31x79,4 cm (LxANxAL). Medidas de las cestas: 39,4x29,1x6,5 cm (superior), 40,6x29,6x7 cm (central) y 41,6x30,6x7,5 cm (inferior). Peso máximo soportado: 22 kg (total), 6 kg (cada cesta) y 4 kg (encimera). Requiere montaje
+- CARRITO AUXILIAR MODERNO: Este carrito de cocina blanco destaca por su diseño moderno y minimalista, fácil de integrar en cualquier estilo de decoración. Ideal para cocinas, baños u otras estancias donde se requiera espacio extra de almacenamiento
 - RESISTENTE Y COMPACTO: Este carrito multiuso combina una sólida estructura de acero con encimera de madera y ruedas de PP, ofreciendo gran estabilidad y durabilidad. Su diseño compacto lo hace perfecto para aprovechar al máximo espacios pequeños
 
 [🛒 Aquí!!!]({{< param buyurl >}})

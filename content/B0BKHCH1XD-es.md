@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material exterior: 98% algodón, 2% elastán
-- Confección Flexfit ajustada para una sensación elástica pero segura
 - Gorra estructurada de perfil alto que mantiene su forma y es espaciosa detrás de la visera, paneles traseros de malla que dejan pasar el aire, diseño de bandera de pez de Columbia
 - Contenido: 1x Columbia Gorra Unisex PFG Fish Flag Mesh, Color: Titanium, White (Gris), Talla: XXL
+- Material exterior: 98% algodón, 2% elastán
 - PFG Fish Flag Mesh Ball Cap con una parte posterior de malla transpirable para mayor comodidad y ventilación, esta gorra luce un diseño único de bandera de pez, lo que la hace perfecta para viajes de pesca o salidas informales.
+- Confección Flexfit ajustada para una sensación elástica pero segura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BKHCH1XD{{</world>}}

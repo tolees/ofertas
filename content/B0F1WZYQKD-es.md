@@ -28,16 +28,16 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Peso: 256 g (talla 38 1/2)
-- Drop de la mediasuela: 6 mm (talón: 28 mm, antepié: 22 mm)
-- Mediasuela Bounce 2.0
-- Empeine de malla
-- Suela de goma
-- Peso: 256 g (talla 38 2/3)
-- Drop: 6 mm (talón: 28 mm / antepié: 22 mm)
 - Forro textil
-- Cierre de cordones
+- Drop de la mediasuela: 6 mm (talón: 28 mm, antepié: 22 mm)
 - Horma clásica
+- Cierre de cordones
+- Peso: 256 g (talla 38 2/3)
+- Empeine de malla
+- Mediasuela Bounce 2.0
+- Peso: 256 g (talla 38 1/2)
+- Drop: 6 mm (talón: 28 mm / antepié: 22 mm)
+- Suela de goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F1WZYQKD{{</world>}}

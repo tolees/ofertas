@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La piel queda limpia, suave, fresca y reconfortada. No pican los ojos. Textura leche-gel fresca. Sin acabado graso.
 - Desmaquillante 3 en 1 para limpiar las impurezas y partículas de contaminación, eliminar eficazmente el maquillaje del rostro y los ojos y conseguir una piel tonificada y cómoda sin secarla. Adecuado para pieles sensibles.
 - Aplicar el producto con un disco desmaquillante en rostro, ojos y labios para limpiar. Sin aclarado.
+- La piel queda limpia, suave, fresca y reconfortada. No pican los ojos. Textura leche-gel fresca. Sin acabado graso.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0041MKPBW{{</world>}}

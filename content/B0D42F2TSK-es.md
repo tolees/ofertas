@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Straight Fit
 - materialFabricComposition: 100% Cotton
+- Straight Fit
 - Straight fit jeans
 
 [🛒 Visítala!!!]({{< param buyurl >}})

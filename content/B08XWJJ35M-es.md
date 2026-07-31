@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Instrucciones de cuidado: lavar a 30 °C, ciclo normal, no usar lejía, no secar en secadora, no planchar en caliente (110 °C), precaución al planchar con vapor, no limpiar en seco
-- Gorilla Wear, La marca para culturismo, fitness, estilo de vida y artes marciales
 - Ajuste: corte ajustado
 - Pantalones de chándal cómodos y ajustados.
 - Color: rojo y negro
+- Gorilla Wear, La marca para culturismo, fitness, estilo de vida y artes marciales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08XWJJ35M{{</world>}}

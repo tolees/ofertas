@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Refuerzo de goma en el talón
-- Amortiguación LIGHTMOTION
-- Horma clásica
 - Cierre de cordones con correa superior autoadherente
+- Amortiguación LIGHTMOTION
 - Forro textil
+- Horma clásica
+- Refuerzo de goma en el talón
 - Empeine de malla
 
 [🛒 Visítala!!!]({{< param buyurl >}})

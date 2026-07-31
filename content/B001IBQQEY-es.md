@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Longitud de trabajo (L1) mm: 200
 - Diámetro (D) mm: 5,00
 - Longitud total (L2) mm: 265
-- Longitud de trabajo (L1) mm: 200
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B001IBQQEY{{</world>}}

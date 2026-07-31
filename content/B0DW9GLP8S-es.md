@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello: de Camisa
-- Manga: Larga
-- Fit: Regular
-- Desigual
-- Bolsillos delanteros
 - Cierre: de Botón
+- Cuello: de Camisa
+- Fit: Regular
+- Bolsillos delanteros
+- Desigual
+- Manga: Larga
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DW9GLP8S{{</world>}}

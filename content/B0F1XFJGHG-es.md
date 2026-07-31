@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cordones
 - Plantilla textil
-- Empeine de piel y material sintético
 - Suela de goma
+- Empeine de piel y material sintético
 - Horma clásica
+- Cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F1XFJGHG{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Adecuado para el entrenamiento
+- Producto de marca Leone 1947
 - Capacidad: 70 litros
 - Cierre con cremallera
-- Producto de marca Leone 1947
-- Adecuado para el entrenamiento
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07GZ593SK{{</world>}}

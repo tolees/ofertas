@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Spade Pocket
 - Denim Stretch
+- Spade Pocket
 - Slim STRAIGHT
 
 [🛒 Visítala!!!]({{< param buyurl >}})

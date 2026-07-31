@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste entallado
 - Bonito estampado en dos tonos en el pecho
+- Cómodo bolsillo tipo canguro
 - Sudadera con capucha de Lonsdale
 - Hecho de tela mixta de alta calidad
-- Cómodo bolsillo tipo canguro
+- Ajuste entallado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CQBLHJZP{{</world>}}

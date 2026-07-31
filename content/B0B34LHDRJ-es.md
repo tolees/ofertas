@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 1 temática, 1 letra, 12 segundos... ¡y encuentra la palabra que corresponda!
-- Como más rápidamente contestes, más puntos ganarás.
 - 3000 preguntas de todo tipo.
+- 1 temática, 1 letra, 12 segundos... ¡y encuentra la palabra que corresponda!
 - Pueden jugar personas de diferentes edades, el juego se adapta a las habilidades de cada uno.
+- Como más rápidamente contestes, más puntos ganarás.
 - Recomendado a partir de 7 años.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

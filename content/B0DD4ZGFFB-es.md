@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Optimiza la carga para que tengas una batería cargada en el menor tiempo posible
-- Qué incluye: Cargador de batería dual, 2 baterías Enduro para HERO13 Black, Cable USB-C-C
 - Los dos LED te permiten ver el estado de carga de las baterías de la cámara al insertarlas
 - Compatibilidad: HERO13 Black
+- Qué incluye: Cargador de batería dual, 2 baterías Enduro para HERO13 Black, Cable USB-C-C
 - La comprobación rápida de la batería te permite ver el estado de carga de las baterías incluso cuando el cargador no está conectado a la alimentación
 
 [🛒 Comprar!!!]({{< param buyurl >}})

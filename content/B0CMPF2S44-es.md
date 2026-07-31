@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El producto es fácil de aplicar y de difuminar, gracias a la rotación de su nuevo aplicador: el producto se aplica con la punta y se extiende con un simple gesto
 - La nueva fórmula fluida disimula las imperfecciones y las ojeras, garantizando una cobertura media y un óptimo difuminado
+- El producto es fácil de aplicar y de difuminar, gracias a la rotación de su nuevo aplicador: el producto se aplica con la punta y se extiende con un simple gesto
 - Corrector fluido alisador con acabado natural, de uso diario para un maquillaje impecable
 - Se adaptan a todo tipo de pieles y de tez
 - El resultado es un maquillaje nude

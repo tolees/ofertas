@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Horma clásica
 - Empeine de malla con refuerzos de piel sintética
-- Suela de goma
-- Forro textil
-- Mediasuela Cloudfoam
 - Cierre de cordones
+- Suela de goma
+- Mediasuela Cloudfoam
+- Horma clásica
+- Forro textil
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D47MRBR4{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- IDEAL PARA PICAR ENTRE HORAS: Estas tortitas de harina de lentejas (82%) te aportarán un potente efecto saciante y son el alimento perfecto para consumirlas en cualquier momento del día. ¡Disfruta del momento snack y del picoteo entre horas!
+- SOBRE NOSOTROS: Desde 1982, el Granero Integral apuesta por una alimentación saludable al alcance de todos. Somos empresa BCorp certificada y cumplimos con los estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
 - TORTITAS BIO: Nuestras deliciosas y crujientes tortas destacan por ser 100% orgánicas y por tener un alto valor nutritivo. Podrás disfrutarlas solas, como alternativa al pan o como base para canapés dulces o salados.
 - MÚLTIPLES BENEFICIOS: Las lentejas son una rica fuente de proteínas y fibra. Como resultado, te proporcionarán un fuerte efecto antioxidante y te ayudarán a regular el nivel de glucosa en sangre y el tránsito intestinal.
+- IDEAL PARA PICAR ENTRE HORAS: Estas tortitas de harina de lentejas (82%) te aportarán un potente efecto saciante y son el alimento perfecto para consumirlas en cualquier momento del día. ¡Disfruta del momento snack y del picoteo entre horas!
 - SIN GLUTEN: Se trata de un complemento totalmente saludable, libre de gluten y huevo, con bajo contenido en azúcares y apto para veganos. Al ser una rica fuente en hidratos de carbono y fitonutrientes, te proporcionará una dosis extra de energía.
-- SOBRE NOSOTROS: Desde 1982, el Granero Integral apuesta por una alimentación saludable al alcance de todos. Somos empresa BCorp certificada y cumplimos con los estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D7W4QVSK{{</world>}}

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tiene detalles distintivos de la marca
-- Tejido transpirable
-- Ofrece comodidad y libertad de movimiento
 - Pantalones térmicos
+- Ofrece comodidad y libertad de movimiento
+- Tejido transpirable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07G9P8S8C{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Masilla blanca resistente para rellenar juntas de azulejos una vez colocados o restaurar juntas en mal estado
-- No aconsejable para usar en zonas inmersas en agua permanentemente
-- Tiempo de secado 24 horas
-- Resistente a la humedad y a productos de limpiezas
 - Lista para usar en interiores. Con tapón dosificador
+- Masilla blanca resistente para rellenar juntas de azulejos una vez colocados o restaurar juntas en mal estado
+- Resistente a la humedad y a productos de limpiezas
+- Tiempo de secado 24 horas
+- No aconsejable para usar en zonas inmersas en agua permanentemente
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00XAMK2BM{{</world>}}

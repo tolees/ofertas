@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Ajuste regular a ancho
 - Líneas de malla elevadas
 - Juega con o sin cordones
-- Ajuste regular a ancho
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D1YHM3L7{{</world>}}

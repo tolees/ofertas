@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 92% poliéster (reciclado) / 8% elastano
 - Visera curvada
+- 92% poliéster (reciclado) / 8% elastano
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DB2FVS5L{{</world>}}

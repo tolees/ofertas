@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Formulado a base de ingredientes de origen natural que contiene: Frescolat X-Cool, conocido por su inmediato y agradable efecto refrescante,Glicina, un aminoácido natural conocido por sus propiedades calmantes e hidratantes y extracto de avena, un ingrediente calmante de origen natural
 - Gracias a su exclusiva formulación proporciona, no solo un agradable efecto refrescante inmediato, sino también una sensación calmante e hidratación de la zona íntima sensible
-- Gel-Crema que ayuda a aliviar la irritación vulvar producida por causas no infecciosas como el ejercicio, la ropa ajustada, salvaslips o compresas, la depilación o las relaciones sexuales
 - Para un uso adecuado se recomienda aplicar según necesidad para ayudar a calmar y refrescar la zona vulvar sensible; aplicar externamente en la zona vulvar; no aclarar con agua
 - Sin fragancia; hipoalergénico; ginecológicamente testado
+- Formulado a base de ingredientes de origen natural que contiene: Frescolat X-Cool, conocido por su inmediato y agradable efecto refrescante,Glicina, un aminoácido natural conocido por sus propiedades calmantes e hidratantes y extracto de avena, un ingrediente calmante de origen natural
+- Gel-Crema que ayuda a aliviar la irritación vulvar producida por causas no infecciosas como el ejercicio, la ropa ajustada, salvaslips o compresas, la depilación o las relaciones sexuales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07V6BQRQR{{</world>}}

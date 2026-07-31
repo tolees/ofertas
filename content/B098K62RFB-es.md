@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Flaco
 - 17% poliéster
 - PEPE JEANS FINSBURY DENIM Men 32
+- Flaco
 - 80% algodón
 
 [🛒 Visítala!!!]({{< param buyurl >}})

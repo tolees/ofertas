@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Temperatura de funcionamiento: -10...+70°C, número de cables: 2, longitud del cable: ~15 cm
 - Sunon, MF60151V31000UA99
 - Potencia: 0,58 W
 - Ventilador axial, dimensiones: 60 x 60 x 15 mm
-- Voltaje: 12 V CC, potencia: 0,58 W, consumo de corriente: 0,048 A
-- Temperatura de funcionamiento: -10...+70°C, número de cables: 2, longitud del cable: ~15 cm
 - Velocidad de rotación: 3000 rpm, flujo de aire: 29,9 m³/h, desarrollo de ruido: 21,3 dB (A), vapostock
+- Voltaje: 12 V CC, potencia: 0,58 W, consumo de corriente: 0,048 A
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0748LVVD2{{</world>}}

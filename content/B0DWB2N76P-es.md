@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fit: Slim
-- Color: Liso
-- Desigual
-- Estampado diseñado por Monsieur Christian Lacroix.
 - Cintura elástica
+- Fit: Slim
 - Largo: Midi
+- Desigual
+- Color: Liso
+- Estampado diseñado por Monsieur Christian Lacroix.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DWB2N76P{{</world>}}

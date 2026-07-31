@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cremallera completa
+- Forro polar interior
 - Ajuste regular
 - Chaqueta acolchada de corte regular
-- Forro polar interior
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07LFGBVZL{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【Sincronización con música y micrófono】Esta función permite que la luces led habitacion cambie de color al ritmo de la música y el sonido. Ya sea para fiestas, vacaciones u otras necesidades de decoración, crean un ambiente maravilloso
-- 【Control Inteligente】Hay 3 métodos de control: por mando a distancia, controlador USB o APP para smartphone. Ajusta el color y el modo de la tira de luz en cualquier momento y lugar para satisfacer tus diferentes necesidades
 - 【Alimentación segura a través de USB】Utilizando la fuente de alimentación USB de bajo voltaje, puede utilizar cualquier dispositivo USB compatible para alimentar la tira led rgbic, como: ordenador, smartfono, cargador, etc.
 - 【Impermeable y flexible】La tira led cocina tiene la clasificación de impermeabilidad IP67 y se puede utilizar para decoración de interiores y exteriores (Nota: El controlador USB no es impermeable. No sumerja el producto en agua). Su suave textura se puede doblar 360°, ofreciendo infinitas posibilidades de bricolaje
+- 【Sincronización con música y micrófono】Esta función permite que la luces led habitacion cambie de color al ritmo de la música y el sonido. Ya sea para fiestas, vacaciones u otras necesidades de decoración, crean un ambiente maravilloso
+- 【Control Inteligente】Hay 3 métodos de control: por mando a distancia, controlador USB o APP para smartphone. Ajusta el color y el modo de la tira de luz en cualquier momento y lugar para satisfacer tus diferentes necesidades
 - 【Tira LED Neón RGBIC】Nuestra tira led exterior adopta la última tecnología RGB-IC para presentar colores ricos. Se puede cambiar a voluntad de acuerdo a sus preferencias y estado de ánimo, refrescando su espacio
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

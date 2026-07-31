@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Aroma fresco con fragancia Flor Azul
 - Con 30 aceites esenciales
 - Liquido
-- Aroma fresco con fragancia Flor Azul
 - Elimina olor y perfumador
 
 [🛒 Comprar!!!]({{< param buyurl >}})

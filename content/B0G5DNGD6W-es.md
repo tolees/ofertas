@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tapa cierre rosca
-- Reciclable , Ecológico , 100% higiénico
-- La siguiente información se aplica a cada unidad del paquete
 - Recomendado lavar a mano
+- Tapa cierre rosca
+- La siguiente información se aplica a cada unidad del paquete
+- Reciclable , Ecológico , 100% higiénico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G5DNGD6W{{</world>}}

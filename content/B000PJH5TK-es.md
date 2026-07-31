@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vida al aire libre
 - Estufa portátil
+- Vida al aire libre
 - Hornillo para acampada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

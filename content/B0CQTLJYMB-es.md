@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - CREA TU PROPIA ESCENA: ¡Busca otras figuras de la línea The Black Series de Star Wars para armar tu propia colección de proporciones galácticas! (Se venden por separado. Sujeto a disponibilidad)
-- ACCESORIO INSPIRADO EN LA SERIE: Esta figura de Darth Maul viene con su emblemático sable de luz doble, el cual puedes separar
 - UNA FATÍDICA MISIÓN: Enviado por el malvado Darth Sidious, Darth Maul propinó una estocada fatal a Qui-Gon Jinn con su sable de luz doble durante la Batalla de Naboo
 - EMBALAJE TIPO CAJA CON VENTANA: Exhibe la figura Star Wars en tu colección con su embalaje de tipo caja con ventana, el cual cuenta con un diseño elegante inspirado en el personaje
-- STAR WARS: LA AMENAZA FANTASMA: Esta figura de acción está inspirada en la primera película de la trilogía de precuelas y es un excelente regalo para coleccionistas y fans a partir de 4 años
 - ARTICULACIÓN Y DISEÑO PREMIUM: Los coleccionistas y fans de Star Wars podrán exhibir en sus colecciones esta figura de 15 cm, la cual cuenta con diseño premium y múltiples puntos de articulación
+- STAR WARS: LA AMENAZA FANTASMA: Esta figura de acción está inspirada en la primera película de la trilogía de precuelas y es un excelente regalo para coleccionistas y fans a partir de 4 años
+- ACCESORIO INSPIRADO EN LA SERIE: Esta figura de Darth Maul viene con su emblemático sable de luz doble, el cual puedes separar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CQTLJYMB{{</world>}}

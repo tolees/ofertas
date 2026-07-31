@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Efecto de retroiluminación: la lámpara de baño combina la iluminación directa del techo con un efecto de retroiluminación que realza visualmente la habitación y proporciona una distribución agradable y uniforme de la luz
-- Diseño plano: con unas dimensiones de 980 x 200 x 30 mm, esta lámpara de oficina encaja especialmente bien en habitaciones con techos bajos y, gracias a su diseño plano, se integra armoniosamente en el conjunto.
 - Panel LED en negro: esta moderna lámpara de techo está equipada con LED de 36 W y 4800 lm y, con una luz blanca neutra de 4000 K, ofrece una iluminación uniforme para diferentes estancias.
+- Diseño plano: con unas dimensiones de 980 x 200 x 30 mm, esta lámpara de oficina encaja especialmente bien en habitaciones con techos bajos y, gracias a su diseño plano, se integra armoniosamente en el conjunto.
+- Efecto de retroiluminación: la lámpara de baño combina la iluminación directa del techo con un efecto de retroiluminación que realza visualmente la habitación y proporciona una distribución agradable y uniforme de la luz
 - Versátil: esta sencilla lámpara LED se puede integrar de forma flexible en zonas de estar o de trabajo y ofrece una luz blanca neutra para una iluminación funcional en el día a día.
 - Diseño resistente a las salpicaduras: gracias a su clase de protección IP44, esta lámpara de baño es ideal para habitaciones húmedas, como el cuarto de baño o el aseo de invitados, y ofrece una iluminación fiable en condiciones de elevada humedad
 

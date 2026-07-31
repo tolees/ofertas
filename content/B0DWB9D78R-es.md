@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Combinación de tejidos
-- Confeccionado con materiales sostenibles
-- Fit: Regular
-- Cuello: Barco
 - Manga: Larga
+- Cuello: Barco
+- Confeccionado con materiales sostenibles
+- Combinación de tejidos
+- Fit: Regular
 - Desigual
 
 [🛒 Aquí!!!]({{< param buyurl >}})

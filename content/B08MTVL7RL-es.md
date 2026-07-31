@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela de tracción flexible
 - Entresuela flexible que absorbe los golpes
+- Suela de tracción flexible
 - Plantilla acolchada y cómoda
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre con velcro
 - Tiene tacón plano
 - Parte superior de material sintético
+- Cierre con velcro
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B096HK9SDK{{</world>}}

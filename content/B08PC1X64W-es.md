@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Bombilla LED de bajo consumo con tecnología SMD de 4000K (luz blanca)
+- Tiene un IRC mayor de 80, lo cual hacen que reproduzcan los colores de las cosas fielmente tal y como son ( la luz de sol tiene un IRC de 100 )
 - Estilo clásico y decorativo
 - Garantía de 2 años
-- 240º de ángulo de iluminación
 - Bombillas indicadas solamente para uso de interior
+- Medidas: 11 x 6 x 6 cm
 - Casquillo E27, 20W y 2500 Lúmenes
-- Tiene un IRC mayor de 80, lo cual hacen que reproduzcan los colores de las cosas fielmente tal y como son ( la luz de sol tiene un IRC de 100 )
 - Su luz te acompañará durante 50.000 horas
 - Ideales para crear o mejorar diferentes estilos decorativos
-- Medidas: 11 x 6 x 6 cm
-- Bombilla LED de bajo consumo con tecnología SMD de 4000K (luz blanca)
+- 240º de ángulo de iluminación
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08PC1X64W{{</world>}}

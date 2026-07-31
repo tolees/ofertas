@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Memoria de 3 llaves, marcadores de coma de 3 dígitos y clave para cambiar signo +
 - Tecla de retroceso, raíz cuadrada y clave de doble cero
 - Cálculo de tiempo y cálculo de impuestos
 - Cálculo porcentual profesional y margen de beneficio a través de la tecla
+- Memoria de 3 llaves, marcadores de coma de 3 dígitos y clave para cambiar signo +
 - Pantalla lc de 12 dígitos, solar funcionamiento con batería
 
 [🛒 Comprar!!!]({{< param buyurl >}})

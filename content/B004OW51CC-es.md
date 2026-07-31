@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Táctil
-- Sistema luminoso
 - Molinillo de pimienta
+- Sistema luminoso
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B004OW51CC{{</world>}}

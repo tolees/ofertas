@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cintura totalmente elástica con cordón ajustable
-- Corte clásico
+- Confección en tejido técnico
 - Tecnología CLIMACOOL
+- Corte clásico
 - Logotipos de adidas
 - 100% poliéster (100% reciclado)
-- Confección en tejido técnico
 - Bolsillos laterales con cremallera
 
 [🛒 Visítala!!!]({{< param buyurl >}})

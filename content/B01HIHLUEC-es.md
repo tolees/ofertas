@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pack de 50 cartulinas en color crema
 - CERTIFICADO FSC: Folios con Certificado FSC, proveniente de bosques de tala controlada y respetuosos con el medioambiente. Además, libre de cloro elemental y con colorantes biodegradables
-- PAPEL BRISTOL: Fabricadas con papel Bristol, con superficie lisa y alto gramaje, lo que la hace ideal para dibujo, ilustración, acuarela o tinta
 - CARACTERÍSTICAS: Papel de alta calidad con 180 g/m² y tamaño A4 (21x29,7 cm)
+- Pack de 50 cartulinas en color crema
 - UTILIDADES: Idea para hacer manualidades, trabajos y tareas escolares, encuadernaciones, fotocopias, inyección de tinta e impresión láser
+- PAPEL BRISTOL: Fabricadas con papel Bristol, con superficie lisa y alto gramaje, lo que la hace ideal para dibujo, ilustración, acuarela o tinta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01HIHLUEC{{</world>}}

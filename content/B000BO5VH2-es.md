@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Playmate Elite 15,2 L
 - Tipo de deporte: Futbol
+- Playmate Elite 15,2 L
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B000BO5VH2{{</world>}}

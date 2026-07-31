@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 2 compartimentos principales
 - Gran logotipo serigrafiado en la parte delantera o impresión de superficie completa
 - Tejido de poliéster reciclado 600D
+- 2 compartimentos principales
 - Mochila de día
 - Organizador de accesorios en el interior
 

@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Sirena de alarma integrada de 110 dB y mando a distancia para activar/desactivar la alarma
+- Con 2 puertos de carga USB con potencia de salida 5V/1A cada uno
+- Alarma de coche recargable integrada 12/24V para la toma de coche, de 450 mAh con autonomía de 6 días en espera
 - Activación automática de alarma en detección de movimiento
 - Ndicador de estado LED
-- Alarma de coche recargable integrada 12/24V para la toma de coche, de 450 mAh con autonomía de 6 días en espera
-- Con 2 puertos de carga USB con potencia de salida 5V/1A cada uno
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B078JKJXQ7{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Lavar del revés. Lavar a máquina en agua fría con prendas de colores similares. Utilizar exclusivamente lejía sin cloro si es necesario;Secar en secadora a baja temperatura. No planchar. No utilizar suavizantes. No limpiar en seco
-- Tejido muy suave de mezcla de algodón que proporciona comodidad durante todo el día
-- Sisas amplias y más bajas para un rango de movimiento completo
-- Cuello acanalado
 - Confección con material elástico en 4 direcciones que permite una mayor movilidad en cualquier dirección
+- Sisas amplias y más bajas para un rango de movimiento completo
+- Lavar del revés. Lavar a máquina en agua fría con prendas de colores similares. Utilizar exclusivamente lejía sin cloro si es necesario;Secar en secadora a baja temperatura. No planchar. No utilizar suavizantes. No limpiar en seco
+- Cuello acanalado
+- Tejido muy suave de mezcla de algodón que proporciona comodidad durante todo el día
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CN2D9PGZ{{</world>}}

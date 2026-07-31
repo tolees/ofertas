@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Productos de Maquillaje para Unisex adulto
 - Maquillaje Very Rose - Baume Lèvres à la Rose de Nuxe
+- Productos de Maquillaje para Unisex adulto
 - Los productos de la marca Nuxe están fabricados con ingredientes de la mejor calidad.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Consulte la siguiente guía de tallas
-- Empeine de piel
-- Plantilla moldeada
-- Suela sintética
-- Diseño sin cordones
 - Mediasuela Cloudfoam
+- Empeine de piel
+- Diseño sin cordones
+- Suela sintética
+- Plantilla moldeada
+- Consulte la siguiente guía de tallas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CYLYZDTG{{</world>}}

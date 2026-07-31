@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Óptima comodidad
-- Ajuste regular
 - Cinturilla elástico cómoda
+- Ajuste regular
 - Los bordes de las perneras se mantienen en su sitio
 
 [🛒 Aquí!!!]({{< param buyurl >}})

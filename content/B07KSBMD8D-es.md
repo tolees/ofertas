@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Futter: default
-- Gattung: Hose
-- Extras: Kordelzug
 - Mannschaft: default
+- Extras: Kordelzug
+- Futter: default
 - Ausschnitt: default
+- Gattung: Hose
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07KSBMD8D{{</world>}}

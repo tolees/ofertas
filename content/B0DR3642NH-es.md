@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Ajuste: corte de bota regular original
+- Instrucciones de cuidado: lavable a máquina
 - Composición: 100% algodón
 - Cierre: cremallera y botón
-- Instrucciones de cuidado: lavable a máquina
-- Ajuste: corte de bota regular original
 - Jeans Pantalones Largos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

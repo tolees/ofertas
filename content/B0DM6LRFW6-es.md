@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cierre con cordones
 - Tobillo y lengüeta acolchados
 - Parte superior en ante y nailon
-- Cierre con cordones
 - Con detalles distintivos de la marca
 - Puntera reforzada
 

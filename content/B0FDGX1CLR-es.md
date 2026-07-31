@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - MATERIAL: 100% BOVINE
-- Un elegante card case
 - DISEÑO CLÁSICO LEVIS: Elegante y simple, nuestro Portatarjetas de Cuero guarda todos tus artículos esenciales con un diseño clásico de cuero.
 - Fabricado con cuero genuino
+- Un elegante card case
 - ETIQUETA ROJA LEVIS: Existen diferentes variaciones de nuestra conocida etiqueta roja. Algunas dicen LEVIS, otras dicen Levis, algunas no muestran la marca en absoluto. Para ediciones especiales, a veces incluso cambiamos el color.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

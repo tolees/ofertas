@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- absoluto de hibisco
-- Orquídea danzante
 - extracto de vainilla y almizcles
+- Orquídea danzante
+- absoluto de hibisco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FXMKGR1P{{</world>}}

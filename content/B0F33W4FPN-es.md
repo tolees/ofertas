@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cordones
-- Logotipos de adidas
 - Empeine de ante y material sintético
-- Horma clásica
 - Suela de goma
 - Plantilla textil
+- Horma clásica
+- Logotipos de adidas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F33W4FPN{{</world>}}

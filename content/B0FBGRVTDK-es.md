@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Instalación a pared o techo.
 - Mecanismo y cadena de PVC. Regulación mediante mecanismo de cadena con seguridad infantil
 - Fácil limpieza con un trapo ligeramente húmedo. Estor enrollable de estética elegante
-- Cortina enrollable 100% Poliéster
+- Instalación a pared o techo.
 - El ancho del producto Incluye los soportes, es decir, es la medida total del estor. La tela medirá siempre entre 3 y 4 cm menos tanto de ancho como de largo.
+- Cortina enrollable 100% Poliéster
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FBGRVTDK{{</world>}}

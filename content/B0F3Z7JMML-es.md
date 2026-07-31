@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Lavable a máquina
-- Vegano
-- Espuma viscoelástica refrigerada por aire
 - Ultra Go
+- Vegano
+- Lavable a máquina
+- Espuma viscoelástica refrigerada por aire
 - Slip-Ins
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Base de enchufe múltiple con 3 tomas de corriente con protección contra el contacto accidental y un cable extra largo de 5m (H05VV-F 3G1,5)
 - Regleta de enchufes en color blanco para un uso discreto, práctico y compacto en el ámbito interior
-- Regleta eléctrica Eco-Line con 3 tomas de corriente colocados en un disposición de 45° para un mejor acceso
-- Regleta enchufe múltiple para el uso en interiores con un interruptor de seguridad iluminado (indicador LED) para encendido y apagado todas las tomas de corriente (bipolar)
 - Regleta de enchufes con protección contra el contacto accidental incorporada: Unas pequeñas placas de plástico cierran los contactos de la toma de corriente
+- Regleta enchufe múltiple para el uso en interiores con un interruptor de seguridad iluminado (indicador LED) para encendido y apagado todas las tomas de corriente (bipolar)
+- Regleta eléctrica Eco-Line con 3 tomas de corriente colocados en un disposición de 45° para un mejor acceso
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000KJOFAC{{</world>}}

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 【Casquillo GU10 estándar】El foco de techo tiene un casquillo GU10. La bombilla se puede cambiar según sea necesario (máx. 50 W) y es compatible con bombillas regulables. No se suministra fuente de luz
-- 【Aplicación multiescenario】El foco de 4 luces puede usarse como foco, tanto de pared como de techo. Es ideal para cocinas, pasillos, salones y otros espacios.
 - 【Iluminación multiángulo】El foco de techo negro puede girar 350° a izquierda y derecha. También se puede ajustar 90° hacia arriba y hacia abajo para iluminar diferentes áreas según sus necesidades de iluminación.
 - 【Fácil instalación】El foco de techo incluye instrucciones de instalación y accesorios para una fácil instalación.
+- 【Aplicación multiescenario】El foco de 4 luces puede usarse como foco, tanto de pared como de techo. Es ideal para cocinas, pasillos, salones y otros espacios.
 - 【Material excelente】El foco de techo LED de 4 luces está fabricado en hierro de alta calidad con un revestimiento antioxidante negro mate. Es resistente a la humedad y al polvo y tiene una larga vida útil.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

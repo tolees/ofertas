@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CAPACIDAD DE DESHUMIDIFICACIÓN: el deshumidificador Pleasant Unique es capaz de deshumidificar hasta 22 litros en 24 horas. Cuenta con un depósito de 4 litros que te avisará cuando esté lleno y se apagará automáticamente para ser vaciado.
 - ECOLÓGICO: el deshumidificador Pleasant Unique funciona con gas refrigerante R290, más natural, ecológico, económico y eficiente. Gracias a su bajo impacto ambiental, este hidrocarburo se utiliza en los refrigeradores de uso comercial, otorgando, además, beneficios como aumento en la eficiencia energética, reducción de emisiones directas y ahorro de energía.
+- CAPACIDAD DE DESHUMIDIFICACIÓN: el deshumidificador Pleasant Unique es capaz de deshumidificar hasta 22 litros en 24 horas. Cuenta con un depósito de 4 litros que te avisará cuando esté lleno y se apagará automáticamente para ser vaciado.
 - IDEAL HASTA 45M2: el deshumidificador Pleasant Unique trabaja adecuadamente en cualquier habitación de tu estancia de hasta 45 m2
 - FÁCIL MANTENIMIENTO: el deshumidificador Pleasant Unique cuenta con control automático de descongelación, indicador de llenado del depósito y filtros totalmente desmontables y lavables. También cuenta con ruedas para un fácil transporte.
 - DETECTA EL NIVEL DE HUMEDAD: El deshumidificador Pleasant detecta el nivel de humedad ambiental de la habitación y trabaja hasta llegar al nivel de humedad deseado. Eliminando así el exceso de humedad y la aparación de hongos, moho y ácaros.

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Goldcrown
-- Espuma viscoelástica refrigerada por aire
 - Skech-Air
+- Espuma viscoelástica refrigerada por aire
+- Goldcrown
 - Collab
 
 [🛒 Visítala!!!]({{< param buyurl >}})

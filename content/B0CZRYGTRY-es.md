@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Corte clásico
+- CLIMACOOL
 - 100% poliéster (reciclado)
 - Cuello redondo
-- CLIMACOOL
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZRYGTRY{{</world>}}

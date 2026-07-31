@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Pañuelos adecuados para todos los días
 - Cantidad per paquete: 24 unidades
 - Garantizan una optima absorción
-- Pañuelos adecuados para todos los días
 - Prácticos y suaves en contacto con la piel
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

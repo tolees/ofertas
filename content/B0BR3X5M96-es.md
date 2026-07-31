@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- para sellar juntas en mamparas, elementos prefabricados, juntas en suelos con selladores elastoméricos
-- Ahorra material de relleno y garantiza un buen aislamiento acústico y té
 - rollo sellado espuma, polietileno PE
+- Ahorra material de relleno y garantiza un buen aislamiento acústico y té
+- para sellar juntas en mamparas, elementos prefabricados, juntas en suelos con selladores elastoméricos
 - para juntas (puerta, ventana ...)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

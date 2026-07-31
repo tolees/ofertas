@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte clásico
 - 100% poliamida (reciclada)
 - Cintura elástica con cordón
 - Bolsillos laterales
+- Corte clásico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZ9RF4KS{{</world>}}

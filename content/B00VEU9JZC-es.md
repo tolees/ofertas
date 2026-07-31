@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Potente y ligero: el martillo ofrece una velocidad variable para cualquier tipo de perforaciones en piedra, ladrillo y hormigón, con un máximo de 1,3 J de energía de impacto. Gracias a su peso ligero de sólo 1,7 kg, es ideal para trabajos en altura
-- Sistema 18V ONE+: alimenta este modelo y todas tus herramientas con la misma batería (más de 200 herramientas). A prueba de golpes, cuenta con las tecnologías Lithium+ e IntelliCell que previenen la sobrecarga y el sobrecalentamiento
 - Versátil y cómodo: con sus 4 modos (taladrar, perforar, cincelar, cincelar flotante) el martillo se adapta a todas las situaciones. El mango GripZone ofrece un agarre firme y cómodo y la luz LED proporciona una iluminación óptima, incluso en la oscuridad
 - Contenido de la caja: 1 martillo combinado 18V ONE+ con portabrocas SDS+, mango antivibración GripZone y luz LED. Velocidad variable, inversor del sentido de rotación y freno eléctrico incorporado. Se entrega sin batería ni cargador
+- Potente y ligero: el martillo ofrece una velocidad variable para cualquier tipo de perforaciones en piedra, ladrillo y hormigón, con un máximo de 1,3 J de energía de impacto. Gracias a su peso ligero de sólo 1,7 kg, es ideal para trabajos en altura
+- Sistema 18V ONE+: alimenta este modelo y todas tus herramientas con la misma batería (más de 200 herramientas). A prueba de golpes, cuenta con las tecnologías Lithium+ e IntelliCell que previenen la sobrecarga y el sobrecalentamiento
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00VEU9JZC{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela de goma
 - Ranuras flexibles que siguen el movimiento del pie
+- Suela de goma
 - Ajuste estructurado y de apoyo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

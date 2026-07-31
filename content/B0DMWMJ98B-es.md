@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- FIGURA DE ACCIÓN DE STAR WARS: Este set de Star Wars viene con una figura de Luke Skywalker de 10 cm y 9 puntos de articulación, además del emblemático traje de vuelo de Luke
-- LANZA LOS PROYECTILES: Introduce un proyectil en el puerto frontal de la nave y presiona el botón para lanzarlo por los aires
 - 3 ACCESORIOS PARA LA FIGURA DE ACCIÓN: Incluye un bláster que cabe en la mano de Luke y 2 proyectiles rojos
 - ALA-X FORCE STRIKE DE LUKE SKYWALKER: Imagina aventuras con Luke Skywalker y su emblemático Ala-X, el cual cuenta con efectos azules de la Fuerza que se despliegan al mover unas palancas
 - NAVE DE STAR WARS DE 35 CM DE LARGO: Este vehículo de Star Wars mide 35 cm de largo e incluye una cabina que permite introducir la figura de Luke y una cabeza giratoria de R2-D2 que sobresale de la parte superior de la nave
+- FIGURA DE ACCIÓN DE STAR WARS: Este set de Star Wars viene con una figura de Luke Skywalker de 10 cm y 9 puntos de articulación, además del emblemático traje de vuelo de Luke
+- LANZA LOS PROYECTILES: Introduce un proyectil en el puerto frontal de la nave y presiona el botón para lanzarlo por los aires
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DMWMJ98B{{</world>}}

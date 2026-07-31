@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detalles bordados
-- Desigual
-- Colección AW25
-- Cuello: Redondo
 - Manga: Larga
+- Cuello: Redondo
+- Detalles bordados
 - Detalles en glitter
+- Colección AW25
+- Desigual
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DVCCPFPQ{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Una historia entrañable con una narrativa simplificada
 - Viaja a través de la historia para restaurar el presente
 - Un diorama que cobra vida
+- Una historia entrañable con una narrativa simplificada
 - ¡Sube de nivel dos vocaciones al mismo tiempo con el pluriempleo!
 
 [🛒 Aquí!!!]({{< param buyurl >}})

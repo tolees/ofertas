@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material: acero inoxidable Cromargan 18/10. Revestimiento antiadherente Durit Protect libre de PFOA
-- Base Transtherm full induction patentada permite una repartición uniforme del calor y un calentamiento rápido. Ideal para para cocinar con ahorro de energía.
-- Apto para todo tipo de cocinas, incluido inducción. Resistente al horno hasta 180°C. Apto para lavavajillas
-- Antiadherente Durit Protect permite preparaciones bajas en grasas y facilita la limpieza
 - Amplio borde de vertido para que no gotee. Manejo seguro gracias al mango ergonómico de acero inoxidable.
+- Material: acero inoxidable Cromargan 18/10. Revestimiento antiadherente Durit Protect libre de PFOA
+- Apto para todo tipo de cocinas, incluido inducción. Resistente al horno hasta 180°C. Apto para lavavajillas
+- Base Transtherm full induction patentada permite una repartición uniforme del calor y un calentamiento rápido. Ideal para para cocinar con ahorro de energía.
+- Antiadherente Durit Protect permite preparaciones bajas en grasas y facilita la limpieza
 - Resistente a la corrosión de los ácidos de los alimentos y a las rayaduras
 - Contenido: 1x cacerola para asar/estofar/servir de 38 cm y altura 7 cm. Ideal para placas de cocina con un diámetro de 22 cm, 1x tapa de vidrio 38 cm - Número de artículo: 0761506380
 

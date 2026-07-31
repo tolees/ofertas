@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Textura gruesa en la media suela
 - Cuentan con un estilo informal
+- Textura gruesa en la media suela
 - Plantilla cómoda que proporciona una suave amortiguación
 
 [🛒 Comprar!!!]({{< param buyurl >}})

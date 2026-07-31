@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Camiseta algodón manga larga
 - Cuello redondo
 - Ajuste regular
+- Camiseta algodón manga larga
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B06XT3KHNF{{</world>}}

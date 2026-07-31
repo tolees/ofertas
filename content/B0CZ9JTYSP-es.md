@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CLIMACOOL
 - Protección contra los rayos UV
 - Contiene al menos un 70% de material reciclado y renovable
 - Refuerzos bajo las sisas
 - Corte clásico
-- 100% poliéster (71% reciclado)
-- Tejido Twistknit
+- CLIMACOOL
 - Cremallera hasta el pecho y cuello corto
+- Tejido Twistknit
 - Tecnología Freshrite Polygiene que evita el mal olor
+- 100% poliéster (71% reciclado)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZ9JTYSP{{</world>}}

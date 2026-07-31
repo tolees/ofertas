@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tarjetas disponible en capacdades de 4GB, 8GB, 16GB, 32GB, 64GB y 128 GB
 - Tarjeta MicroSD con una tasa de transferencia de hasta 25 MB/s
+- Adecuado para tabletas y smartphones
 - Contenido: Intenso MicroSD Card Class 10 con SD Adaptador
 - Class 10 (Velocidad mínima garantizada de transferencia : 10 MB/s)
-- Adecuado para tabletas y smartphones
+- Tarjetas disponible en capacdades de 4GB, 8GB, 16GB, 32GB, 64GB y 128 GB
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B088MK26WL{{</world>}}

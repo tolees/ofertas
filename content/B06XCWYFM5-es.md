@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Área de jardín: Patio trasero/Patio delantero, terraza, balcón
-- Diseño moderno y alta calidad
-- IP44, resistente a la intemperie: desarrollado especialmente para entornos de humedad al aire libre
-- Fácil montaje en la pared
 - Apto para bombillas de las clases: A++,A+,A,B,C,D,E
-- Efecto de luz dirigida hacia arriba y abajo
+- Área de jardín: Patio trasero/Patio delantero, terraza, balcón
+- IP44, resistente a la intemperie: desarrollado especialmente para entornos de humedad al aire libre
 - El fabricante recomienda una bombilla Philips led E27 con 60W
+- Efecto de luz dirigida hacia arriba y abajo
+- Fácil montaje en la pared
+- Diseño moderno y alta calidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B06XCWYFM5{{</world>}}

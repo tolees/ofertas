@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello acolchado, lengüeta de talón de color en contraste
 - Tenis básicos vulcanizados de corte bajo con un diseño clásico y concepto neutro
+- Cuello acolchado, lengüeta de talón de color en contraste
 - Logotipo clásico impreso y grabado en el lateral
 
 [🛒 Aquí!!!]({{< param buyurl >}})

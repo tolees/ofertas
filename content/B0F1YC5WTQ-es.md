@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aplicar mañana y noche sobre el rostro, cuello y escote. Formato recarga para rellenar tu bote.
 - Crema facial antiedad, antiarrugas y anti-UV con acción reafirmante y rellenadora, que combina 2 formas complementarias de ácido hialurónico, vitamina B5 y ectoína. Hidrata la piel, repara y fortalece la barrera cutánea.
 - Hidratación intensa durante 72 horas. Protege la piel de los rayos UVB y UVA.
+- Aplicar mañana y noche sobre el rostro, cuello y escote. Formato recarga para rellenar tu bote.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F1YC5WTQ{{</world>}}

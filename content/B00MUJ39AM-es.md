@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Adecuado para uso profesional
 - Herramienta manual
+- Adecuado para uso profesional
 - Mango ergonómico
 
 [🛒 Comprar!!!]({{< param buyurl >}})

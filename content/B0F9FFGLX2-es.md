@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ligereza
-- Amortiguación
 - Máximo confort
+- Amortiguación
+- Ligereza
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F9FFGLX2{{</world>}}

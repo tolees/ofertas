@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CHICCO: Siempre al lado de las familias, escuchando sus historias y necesidades. Con nuestros productos innovadores, siempre respondemos a las nuevas necesidades de los padres y de quienes cuidan de los niños
-- A LA MODA: Estas prendas para niña están decoradas con patrones y colores a la moda, y confeccionadas en tejido suave. Ideales para llevar dentro o fuera de casa
 - SE LAVAN EN LA LAVADORA: Estas prendas Chicco se pueden lavar en la lavadora y están pensadas para una buena higiene
+- A LA MODA: Estas prendas para niña están decoradas con patrones y colores a la moda, y confeccionadas en tejido suave. Ideales para llevar dentro o fuera de casa
+- CHICCO: Siempre al lado de las familias, escuchando sus historias y necesidades. Con nuestros productos innovadores, siempre respondemos a las nuevas necesidades de los padres y de quienes cuidan de los niños
 - CÓMODOS Y PRÁCTICOS: Estos leggings Chicco permiten una vestibilidad fácil y relajada. Llevan con una cómoda cintura elástica, muy práctica
 - LEGGINGS NIÑA: Pack de 3 leggings estilo Capri de algodón, ideales para el vestuario primavera-verano de tu niña
 

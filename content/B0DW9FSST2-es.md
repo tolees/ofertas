@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Color: Liso
-- Cuello: Redondo
 - Largo: Midi
 - Fit: Regular
-- Manga: Larga
 - Desigual
+- Manga: Larga
+- Cuello: Redondo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DW9FSST2{{</world>}}

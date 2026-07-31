@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Resultado instantáneo, duradero, con vitaminas, color intenso
 - Fácil de aplicar y duradero
 - Vegano, resistente al agua, sin micropartículas de plástico, sin nanopartículas, sin perfume, sin aceite, sin alcohol, sin parabenos, sin gluten, sin acetona
-- Decimos no a los ensayos con animales. Cosnova está listado internacionalmente con essence y CATRICE tanto en PETA Alemania como en PETA.
-- Resultado instantáneo, duradero, con vitaminas, color intenso
 - Sombra de ojos mono con textura supersuave
 - Emocionante color para un look creativo de maquillaje de ojos
+- Decimos no a los ensayos con animales. Cosnova está listado internacionalmente con essence y CATRICE tanto en PETA Alemania como en PETA.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CQKHBPZ2{{</world>}}

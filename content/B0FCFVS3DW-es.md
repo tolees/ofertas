@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Nuestros jeans Ribcage favoritos
 - LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
-- Trasero ajustado y pierna entallada desde el muslo hasta la rodilla para un confort sin concesiones
 - Confeccionados con un tiro muy alto
+- Trasero ajustado y pierna entallada desde el muslo hasta la rodilla para un confort sin concesiones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FCFVS3DW{{</world>}}

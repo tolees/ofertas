@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ballgewicht: Standard (420-450g)
 - Ausschnitt: default
 - Gattung: Ball
-- Extras: default
 - Futter: default
+- Ballgewicht: Standard (420-450g)
+- Extras: default
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKTFFHKB{{</world>}}

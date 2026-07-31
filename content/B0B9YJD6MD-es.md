@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🍻 ¡NOCHE LOCA! 400 preguntas sinvergüenzas y 80 cartas de acciones salvajes que convierten cualquier reunión en un festival de humor.
-- 😜 ¡EDICIÓN MÁS ATREVIDA! La versión más salvaje del éxito nacional. 480 cartas nuevas con desafíos extremos para revelar secretos y provocar carcajadas.
 - 🎉 ¡PLANAZO ASEGURADO! De 2 a 10 jugadores, +16 años y partidas de 15–60 min. El regalo perfecto para cumpleaños y fiestas.
 - 😂 ¡RISAS ASEGURADAS! Tienes solo 8 segundos para responder las preguntas más locas. El juego ideal para romper el hielo en cualquier fiesta.
+- 😜 ¡EDICIÓN MÁS ATREVIDA! La versión más salvaje del éxito nacional. 480 cartas nuevas con desafíos extremos para revelar secretos y provocar carcajadas.
 - 🌱 ¡ECOFRIENDLY! Juego de mesa y cartas impresas en la Unión Europea con papel de bosques gestionados de forma sostenible.
+- 🍻 ¡NOCHE LOCA! 400 preguntas sinvergüenzas y 80 cartas de acciones salvajes que convierten cualquier reunión en un festival de humor.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B9YJD6MD{{</world>}}

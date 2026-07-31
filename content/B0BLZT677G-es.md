@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Concentrador y difusor: incluye 1 concentrador y 1 difusor que añade volumen al pelo y acentúa el rizo
-- 3 temperaturas y 2 velocidades: para crear peinados personalizados y ráfaga de aire frío para fijar el peinado
-- Rejilla trasera desmontable: la rejilla trasera del secador es desmontable para que sea fácil de limpiar, cuenta un práctico gancho para colgar
 - Potente secador de 2200 w: el secador ionic dry incorpora un motor de 2200 w potente que ofrece un secado óptimo y eficiente
+- Concentrador y difusor: incluye 1 concentrador y 1 difusor que añade volumen al pelo y acentúa el rizo
+- Rejilla trasera desmontable: la rejilla trasera del secador es desmontable para que sea fácil de limpiar, cuenta un práctico gancho para colgar
+- 3 temperaturas y 2 velocidades: para crear peinados personalizados y ráfaga de aire frío para fijar el peinado
 - Secador de pelo iónico: acondicionamiento iónico para reducir el encrespamiento y aportar a tu cabello una textura brillante y sedosa
 
 [🛒 Visítala!!!]({{< param buyurl >}})

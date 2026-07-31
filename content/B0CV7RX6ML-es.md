@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dermatológicamente probado y seguro para pieles sensibles: clínicamente probado que no irrita la piel, nuestras almohadillas exfoliantes faciales mantienen un pH suave para la piel de 3,5 a 5,5. Sin colorantes ni fragancias artificiales, están diseñados pensando en la salud de tu piel.
-- Control específico del acné: formuladas especialmente para la piel de adolescentes y adultos, estas almohadillas exfoliantes tratan el acné en la fuente con una mezcla de ácido succínico, ácido salicílico (BHA) y ácido glicólico (AHA), reduciendo los brotes y promoviendo una piel más clara.
 - Calmante y reparador: infundidas con pantenol y niacinamida, nuestras almohadillas no solo luchan contra el acné, sino que también alivian la irritación y el enrojecimiento, apoyando la reparación de la piel y promoviendo un tono de piel equilibrado y más uniforme.
+- Control específico del acné: formuladas especialmente para la piel de adolescentes y adultos, estas almohadillas exfoliantes tratan el acné en la fuente con una mezcla de ácido succínico, ácido salicílico (BHA) y ácido glicólico (AHA), reduciendo los brotes y promoviendo una piel más clara.
 - Suave pero eficaz: experimenta los beneficios dobles de exfoliar y rejuvenecer la piel. Nuestra fórmula suave garantiza una eliminación eficaz de las células muertas de la piel mientras que es suave con la piel, por lo que es adecuada para el uso diario.
+- Dermatológicamente probado y seguro para pieles sensibles: clínicamente probado que no irrita la piel, nuestras almohadillas exfoliantes faciales mantienen un pH suave para la piel de 3,5 a 5,5. Sin colorantes ni fragancias artificiales, están diseñados pensando en la salud de tu piel.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CV7RX6ML{{</world>}}

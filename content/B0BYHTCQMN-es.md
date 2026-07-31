@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye packaging de cajita blanca.
 - Taza de cerámica apata para microondas y lavavajillas.
+- Incluye packaging de cajita blanca.
 - Taza de regalo original para cualquier ocasión: San Valentín, Cumpleaños, Amigo Invisible con diseño divertido de UO.
 - Capacidad: 350 ml
 

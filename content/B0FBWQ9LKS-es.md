@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 【Múltiples Modos de Iluminación】1. Inteligente: luz tenue al anochecer, se vuelve brillante al detectar personas y regresa a tenue tras 20 s. 2. Seguro: solo se enciende con movimiento. 3. Automático: se enciende de noche y se apaga al amanecer
-- 【Alta Sensibilidad de Detección】Lampara solar exterior cuenta con sensor de movimiento que detecta con precisión en un rango de 5-8 m y ángulo de 120°. Al percibir movimiento, la luz se enciende automáticamente, ofreciendo iluminación inmediata para entradas o salidas nocturnas
-- 【Energía Solar Eficiente】Luz solar exterior jardin equipada con batería de iones de litio de 1200 mAh y panel solar monocristalino con 22% de eficiencia, garantiza carga y descarga estables. Con luz solar suficiente, ofrece 8–12 h de iluminación LED continua por la noche
 - 【Fácil instalación】Lamparas luz solar sin cableado ni herramientas profesionales. Incluye todos los accesorios necesarios para que cualquier persona pueda instalarla fácilmente. En el paquete: 2 luces solares exteriores, 2 tornillos de montaje y 1 manual de instrucciones
+- 【Alta Sensibilidad de Detección】Lampara solar exterior cuenta con sensor de movimiento que detecta con precisión en un rango de 5-8 m y ángulo de 120°. Al percibir movimiento, la luz se enciende automáticamente, ofreciendo iluminación inmediata para entradas o salidas nocturnas
 - 【Excelente Impermeabilidad】La serie solar lights outdoor cuenta con protección IP65 y diseño resistente al polvo y al agua, garantizando estabilidad y durabilidad. Resiste lluvias intensas, nieve y condiciones extremas, y funciona toda la noche con suficiente luz solar durante el día
+- 【Múltiples Modos de Iluminación】1. Inteligente: luz tenue al anochecer, se vuelve brillante al detectar personas y regresa a tenue tras 20 s. 2. Seguro: solo se enciende con movimiento. 3. Automático: se enciende de noche y se apaga al amanecer
+- 【Energía Solar Eficiente】Luz solar exterior jardin equipada con batería de iones de litio de 1200 mAh y panel solar monocristalino con 22% de eficiencia, garantiza carga y descarga estables. Con luz solar suficiente, ofrece 8–12 h de iluminación LED continua por la noche
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FBWQ9LKS{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PARTE SUPERIOR DE MALLA Y CUERO: Malla transpirable con refuerzos de cuero.
 - IDEAL PARA USO DIARIO: Cómodo y versátil para el día a día.
-- ENTRESUELA EVA Y SUELA DE GOMA: Amortiguación ligera con tracción duradera en una silueta icónica de running heritage.
 - DISEÑO ESSENTIALS: Estilo limpio y clásico, un básico imprescindible.
+- PARTE SUPERIOR DE MALLA Y CUERO: Malla transpirable con refuerzos de cuero.
+- ENTRESUELA EVA Y SUELA DE GOMA: Amortiguación ligera con tracción duradera en una silueta icónica de running heritage.
 - AJUSTE REGULAR: Talla real con ajuste regular para comodidad durante todo el día.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

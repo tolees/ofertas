@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Loción hidratante de noche para el rostro que restaura la barrera protectora y reduce rojeces e inflamación. Con ceramidas, Niacinamida, Ácido Hialurónico y Tecnología MVE. Para piel normal a seca. Apta para pieles sensibles.
-- Desbloquear dispensador con giro a izquierda, presionar. Aplicar en rostro y cuello limpios y secos hasta absorber.
 - Piel intensamente hidratada, suave y calmada. Textura de rápida absorción. No comedogénico, sin perfume ni aceites.
+- Desbloquear dispensador con giro a izquierda, presionar. Aplicar en rostro y cuello limpios y secos hasta absorber.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07C5XYT19{{</world>}}

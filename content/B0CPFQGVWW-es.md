@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Con un estampado único
+- Una gorra básica perfecta para el día a día
 - Completa tus looks con esta gorra Lazy Girl Logo. Está confeccionada en algodón resistente y presenta un estampado único.
 - Con cierre ajustable
 - LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
-- Una gorra básica perfecta para el día a día
-- Con un estampado único
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CPFQGVWW{{</world>}}

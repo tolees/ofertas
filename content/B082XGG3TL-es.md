@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Modelo: Zapatillas De Deporte
-- Color: negro
 - Artículo: 12615
 - Material: tela
 - Marca: Skechers
+- Color: negro
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B082XGG3TL{{</world>}}

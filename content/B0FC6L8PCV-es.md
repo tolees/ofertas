@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Slim fit
-- Flexible waistband for added stretch and extra comfort
-- Refined chino pant with water- repellent, stain-proof, no-iron technology
-- Wrinkle-free stretch cotton fabric with water- and stain-repellent protection
 - Welt pockets
+- Flexible waistband for added stretch and extra comfort
+- Wrinkle-free stretch cotton fabric with water- and stain-repellent protection
+- Refined chino pant with water- repellent, stain-proof, no-iron technology
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FC6L8PCV{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La cubierta antiarañazos protege la superficie del producto de daños; Y con la placa plana integrada se puede acceder a los ajustes de temperatura y volumen
 - Con la llave GROHE QuickSpanner la instalación es sencilla; El tamaño grande es para fijar la grifería a las conexiones, y el pequeño para ajustar las uniones en S o quitar y colocar el aireador
+- La cubierta antiarañazos protege la superficie del producto de daños; Y con la placa plana integrada se puede acceder a los ajustes de temperatura y volumen
 - Al desarrollar el acabado GROHE Long-Life, hemos perfeccionado nuestra tecnología de recubrimiento multicapa, consiguiendo una superficie resistente, fácil de limpiar y duradera
 - Confía en la tecnología de cartuchos GROHE LongLife para controlar el caudal y la temperatura del agua con suavidad y precisión, para un grifo en el que puede confiar a largo plazo
 

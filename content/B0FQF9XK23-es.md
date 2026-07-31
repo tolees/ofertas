@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - La funda incluye un práctico cordón extraíble que se convierte fácilmente en un soporte para ver el dispositivo en modo horizontal sin necesidad de sujetarlo con las manos. Para usar el soporte, solo tienes que abrir el adaptador que está en el extremo del cordón y fijarlo a un punto magnético que está en el lateral de la funda.
-- La funda Beats con soporte, MagSafe y Control de cámara para iPhone 17 Pro Max está diseñada para proteger tu dispositivo de arañazos y caídas, y ha superado miles de horas de pruebas durante todo el proceso de diseño y fabricación.
 - La funda incluye un práctico cordón extraíble que se convierte fácilmente en un soporte para ver el dispositivo en modo horizontal sin necesidad de sujetarlo con las manos. Para usar el soporte, solo tienes que abrir el adaptador que está en el extremo del cordón y fijarlo a un punto magnético que está en el lateral de la funda.
+- La funda Beats con soporte, MagSafe y Control de cámara para iPhone 17 Pro Max está diseñada para proteger tu dispositivo de arañazos y caídas, y ha superado miles de horas de pruebas durante todo el proceso de diseño y fabricación.
 - La funda incluye un práctico cordón extraíble que se convierte fácilmente en un soporte para ver el dispositivo en modo horizontal sin necesidad de sujetarlo con las manos. Para usar el soporte, solo tienes que abrir el adaptador que está en el extremo del cordón y fijarlo a un punto magnético que está en el lateral de la funda.
 - La funda incluye un práctico cordón extraíble que se convierte fácilmente en un soporte para ver el dispositivo en modo horizontal sin necesidad de sujetarlo con las manos. Para usar el soporte, solo tienes que abrir el adaptador que está en el extremo del cordón y fijarlo a un punto magnético que está en el lateral de la funda.
 

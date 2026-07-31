@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Camisa oxford
 - Camisa de manga larga con cuello y plumón
 - Ribete a rayas en la parte interior del cuello
-- Tejido oxford 100% algodón
-- camisa bordada
 - Árbol bordado en contraste
+- Tejido oxford 100% algodón
 - Botón nacarado
+- camisa bordada
+- Camisa oxford
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FCMYS3P8{{</world>}}

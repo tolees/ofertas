@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Talla única
 - Diseño clásico
-- Tacto suave
 - Borde con vuelta
 - Punto 53% poliéster reciclado / 47% acrílico
+- Talla única
+- Tacto suave
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CZCD9NP7{{</world>}}

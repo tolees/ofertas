@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Manga de separación interna
 - Correa ajustable
+- Manga de separación interna
 - Bolsillo delantero para accesorios.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

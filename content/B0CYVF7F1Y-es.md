@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dolce & Gabbana Q Intense Eau de Parfum Intense 100ml'
-date: 2026-07-26 13:05:48
+date: 2026-07-30 14:07:44
 image: 'https://m.media-amazon.com/images/I/31FL7asARAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CYVF7F1Y/?tag=tolees-21'
 descuento: '53.25'
-average: '65.23'
+average: '62.5166666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cuidado de la piel: Hidratantes, limpiadores, exfoliantes y sérums para una piel saludable.
+- Fragancias: Perfumes y colonias que ofrecen aromas únicos y atractivos.
 - Maquillaje: Bases, sombras, labiales y delineadores para realzar la belleza.
 - Accesorios de belleza: Brochas, esponjas y herramientas para la aplicación de maquillaje.
-- Fragancias: Perfumes y colonias que ofrecen aromas únicos y atractivos.
-- Cuidado de la piel: Hidratantes, limpiadores, exfoliantes y sérums para una piel saludable.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CYVF7F1Y{{</world>}}

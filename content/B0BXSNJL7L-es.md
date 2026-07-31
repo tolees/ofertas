@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con las burbujas finas de San Pelegrino
-- Refresco elaborado a partir de ingredientes naturales
-- Agua mineral con gas sabor limón
 - Sabor elegante y sofisticado, un estilo de vida italiano
+- Con las burbujas finas de San Pelegrino
+- Agua mineral con gas sabor limón
+- Refresco elaborado a partir de ingredientes naturales
 - Cada pack contiene 6 latas de 33 cl
 
 [🛒 Visítala!!!]({{< param buyurl >}})

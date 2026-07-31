@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Acabados vintage y combinaciones de colores de archivo
 - Diseño retro inspirado en los modelos de running de los años 70.
+- Acabados vintage y combinaciones de colores de archivo
 - Entresuela de espuma y suela exterior tipo gofre para una comodidad clásica
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cierre de cordones
-- Ancho normal
 - Puma Detalles de la marca
+- Ancho normal
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D1YKHR2Y{{</world>}}

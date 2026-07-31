@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Desigual
-- Largo: Corto
 - Cuello: Tortuga
-- Degradado de colores
+- Largo: Corto
 - Manga: Larga
+- Desigual
+- Degradado de colores
 - Fit: Regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})

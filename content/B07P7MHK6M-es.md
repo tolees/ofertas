@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Omini Kappa
-- Pantalones cortos de tenis
 - Máxima comodidad para el juego
+- Pantalones cortos de tenis
 - Pantalón con bolsillos
+- Omini Kappa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07P7MHK6M{{</world>}}

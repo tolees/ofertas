@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Top minimalista
 - Silueta de perfil bajo
+- Top minimalista
 - Construcción ligera de gamuza/malla
 
 [🛒 Visítala!!!]({{< param buyurl >}})

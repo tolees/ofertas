@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Marca: FILA
 - Fila
+- Marca: FILA
 - Fabricante: FILA
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Beneficios adicionales: la textura concentrada permite controlar la intensidad de los colores y crear efectos únicos, mientras que el diseño compacto y el pincel incluido hacen que cada sesión de pintura sea más eficiente. ideal para estimular la creatividad, practicar técnicas de acuarela y lograr acabados llamativos en obras personales o regalos artísticos.
 - Alta calidad y durabilidad: cada pigmento está formulado con materiales de alta calidad que aseguran colores vivos, secado rápido y buena adherencia al papel. el acabado metalizado mantiene su brillo incluso después del secado, garantizando resultados profesionales y duraderos en cualquier proyecto creativo.
 - Colores intensos y metalizados: este set incluye 20 colores sólidos de acuarela con acabado metalizado brillante, que permite lograr degradados suaves y efectos luminosos. cada color se puede aplicar en capas finas para un efecto transparente o en capas gruesas para un cubrimiento más sólido, ideal para ilustraciones, lettering y arte creativo.
+- Beneficios adicionales: la textura concentrada permite controlar la intensidad de los colores y crear efectos únicos, mientras que el diseño compacto y el pincel incluido hacen que cada sesión de pintura sea más eficiente. ideal para estimular la creatividad, practicar técnicas de acuarela y lograr acabados llamativos en obras personales o regalos artísticos.
 - Formato práctico y portátil: los pigmentos vienen en un estuche compacto, ligero y fácil de transportar, perfecto para llevar a clases, talleres o viajes. incluye una tarjeta de colores y un pincel fino que facilita mezclar y aplicar los colores de manera precisa, ofreciendo comodidad y versatilidad en cualquier lugar.
 - Versatilidad para múltiples técnicas: además de acuarela tradicional, estas pinturas se adaptan a caligrafía, scrapbooking, pintura sobre uñas, manualidades y proyectos escolares. los artistas principiantes y avanzados pueden explorar técnicas como degradados, mezclas, veladuras y detalles finos sin limitaciones.
 

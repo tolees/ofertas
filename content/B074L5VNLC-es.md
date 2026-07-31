@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Modelo de zapatilla deportiva sin cordones
 - Media suela ligera y flexible con absorción de impactos
+- Modelo de zapatilla deportiva sin cordones
 - Parte superior de malla de knit suave con cordo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

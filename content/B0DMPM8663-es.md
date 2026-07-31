@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Silueta limpia
-- Cierre de cordones
 - Logotipo en relieve en el talón
+- Cierre de cordones
+- Silueta limpia
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DMPM8663{{</world>}}

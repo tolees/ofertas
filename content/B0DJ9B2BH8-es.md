@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Caída del talón a la punta
-- Tipo de superficie: correr por carretera
 - Recomendado para: pronadores neutros
+- Tipo de superficie: correr por carretera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DJ9B2BH8{{</world>}}

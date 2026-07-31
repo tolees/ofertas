@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Básicos atemporales
-- Consigue el look NEXT
 - La marca inglesa para toda la familia
+- Básicos atemporales
 - Looks a la última
+- Consigue el look NEXT
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F8ZLDDLB{{</world>}}

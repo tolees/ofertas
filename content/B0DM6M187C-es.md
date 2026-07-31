@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Ancho estándar
+- Zapatillas pensadas para entrenar
 - Comodidad y ligereza para que sólo tengas que preocuparte de rendir al máximo
 - Entresuela de espuma EVA
 - Forro textil
 - Con detalles visibles de la marca Reebok
-- Zapatillas pensadas para entrenar
-- Ancho estándar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DM6M187C{{</world>}}

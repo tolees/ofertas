@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- No aplica
 - VIDRIO MINERAL
 - Movimiento QUARTZ CHRONOGRAPH, Calibre VD53 TIME MODULE
 - Caja de ACERO, Diámetro 42MM, forma RUND
-- No aplica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CH3P3J62{{</world>}}

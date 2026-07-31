@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Incluye estuche portalentes Deseche la solución sobrante una vez que el envase lleve abierto 90 días
-- Indicada para la limpieza diaria, eliminación de depósitos de proteínas, aclarado, desinfección química y conservación de sus lentes de contacto blandas (hidrofílicas), según recomienda el profesional del cuidado de la visión
 - Puede guardar las lentes de contacto en el estuche portalentes, sin abrirlo, hasta un máximo de 30 días sin utilizarlas
+- Indicada para la limpieza diaria, eliminación de depósitos de proteínas, aclarado, desinfección química y conservación de sus lentes de contacto blandas (hidrofílicas), según recomienda el profesional del cuidado de la visión
 - Siga siempre las recomendaciones de uso y reemplazo proporcionadas por su profesional de la visión
+- Incluye estuche portalentes Deseche la solución sobrante una vez que el envase lleve abierto 90 días
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07RK9GZB8{{</world>}}

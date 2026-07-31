@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Dragones, unicornios… Deja volar tu imaginación con los extraordinarios animalitos de la edición Mascotas Fantásticas y hazte con toda la colección
 - Además de tus Washimals, el set contiene varios rotuladores lavables para personalizar a tus mascotas y un cepillo y una bañera para lavarlos
 - Los juguetes Washimals son unas adorables mascotas que los peques pueden personalizar una y otra vez gracias a los rotuladores lavables de Crayola
-- Dragones, unicornios… Deja volar tu imaginación con los extraordinarios animalitos de la edición Mascotas Fantásticas y hazte con toda la colección
 - Desde lunares y corazones a un pelaje multicolor, crea divertidos diseños para tus Washimals y lávalos con agua para empezar a personalizarlos de nuevo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

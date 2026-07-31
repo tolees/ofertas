@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con certificación FSC, que garantiza que ha sido fabricada con papel proveniente de bosques gestionados de manera responsable.
 - Libreta de tamaño A5 con encuadernación en espiral, tapas duras y un simpático tiburón Mr. Wonderful squishy (de memory foam) en su portada.
-- Incluye 1 hoja de pegatinas.
 - Con 160 páginas blancas.
+- Incluye 1 hoja de pegatinas.
+- Con certificación FSC, que garantiza que ha sido fabricada con papel proveniente de bosques gestionados de manera responsable.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DR2H2V4B{{</world>}}

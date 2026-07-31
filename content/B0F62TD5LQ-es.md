@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - EK30Y, 30 años
-- Tejido resistente al agua
 - Tela repelente al agua
+- Tejido resistente al agua
 - Funda acolchada para portátil para la mayoría de los dispositivos de 14 pulgadas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

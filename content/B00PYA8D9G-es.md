@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 💚 COMPOSICIÓN: Caramelos masticables de sabor a fresa que por su aporte de glucomanano, contribuye a la pérdida de peso* *El glucomanano, en el contexto de una dieta hipocalórica, contribuye a la pérdida de peso. El efecto beneficioso se obtiene con una ingesta diaria de 3 g de glucomanano en tres dosis de 1 g cada una, junto con 1 o 2 vasos de agua, antes de las comidas y en el contexto de una dieta de bajo valor energético.
-- 🚨 COMO TOMAR: Para reducir el apetito, tomar 2 cápsulas de SACIA-T, una hora antes de la comida o cena; la toma de SACIA-T debe formar parte de un esquema dietético controlado y supervisado por un especialista
 - 🥇 MÁXIMA CALIDAD: NEOVITAL HEALTH es una compañía nacional con proyección internacional comprometida en desarrollar soluciones naturales para mejorar la salud de las personas. NEOVITAL HEALTH centra todos sus esfuerzos en la innovación de sus productos y en la eficacia de sus preparados naturales con el principal objetivo de ayudar y mejorar la calidad de vida. Neovital lleva más de 30 años como líder del sector de los complementos alimenticios y está presente en miles de farmacias españolas
 - 📝 CARACTERÍSTICAS y MODO DE EMPLEO: Sin azúcar. Gluten. Sin Derivados Lácteos. Tomar 2-4 gummies, 30 min antes de cada comida, con 1-2 vasos de agua. Dosis diaria máxima: 12 gummies.
+- 🚨 COMO TOMAR: Para reducir el apetito, tomar 2 cápsulas de SACIA-T, una hora antes de la comida o cena; la toma de SACIA-T debe formar parte de un esquema dietético controlado y supervisado por un especialista
 - ⭐⭐⭐⭐⭐ En Neovital podrás encontrar una magnífica gama de productos para tu salud y la de tus pequeños. Nuestras marcas, marcas como Neo Peques, Mico Neo o Reishi Neo; son sinónimo de calidad y millones de personas disfrutan de la mejor calidad cada año. Fabricamos una amplia variedad de remedios naturales que trabajan de forma específica según cada necesidad. Busca en Amazon nuestras marcas y encontrarás lo que necesitas para ser Feliz.
+- 💚 COMPOSICIÓN: Caramelos masticables de sabor a fresa que por su aporte de glucomanano, contribuye a la pérdida de peso* *El glucomanano, en el contexto de una dieta hipocalórica, contribuye a la pérdida de peso. El efecto beneficioso se obtiene con una ingesta diaria de 3 g de glucomanano en tres dosis de 1 g cada una, junto con 1 o 2 vasos de agua, antes de las comidas y en el contexto de una dieta de bajo valor energético.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00PYA8D9G{{</world>}}

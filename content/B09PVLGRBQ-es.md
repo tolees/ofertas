@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste: ajuste cómodo
-- Longitud de la manga: manga larga
 - Ribete de volantes
+- Longitud de la manga: manga larga
+- Ajuste: ajuste cómodo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09PVLGRBQ{{</world>}}

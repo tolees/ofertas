@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este diseño de Court & Classics cuenta con una parte superior superpuesta de cuero duradero y gamuza con cordones frontales
-- Detalle de entresuela metálica, suela de tracción flexible, altura del talón de 3/4 pulgadas
-- Conoce el estilo clásico con la comodidad moderna que anhelarás en Skechers Hotshot - Living Luxe.
-- Skechers Plantilla acolchada de espuma viscoelástica refrigerada por aire
 - Logotipo S en contraste y bigote en el talón
+- Conoce el estilo clásico con la comodidad moderna que anhelarás en Skechers Hotshot - Living Luxe.
+- Este diseño de Court & Classics cuenta con una parte superior superpuesta de cuero duradero y gamuza con cordones frontales
+- Skechers Plantilla acolchada de espuma viscoelástica refrigerada por aire
+- Detalle de entresuela metálica, suela de tracción flexible, altura del talón de 3/4 pulgadas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FDCYRH5Z{{</world>}}

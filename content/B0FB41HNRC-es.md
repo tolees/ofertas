@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela de goma
-- Cierre de cordones
+- Horma clásica
 - Refuerzo y estabilizador del talón de TPU
 - Forro textil
-- Horma clásica
+- Suela de goma
+- Cierre de cordones
 - Empeine de malla
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

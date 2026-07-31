@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Esta figura de pato de Madame Morrible es imprescindible para los fans del merchandising Wicked For Good y los coleccionables de cultura pop.
-- Mide aproximadamente 9 cm de alto fuera del embalaje, un tamaño ideal para estanterías, escritorios o el salpicadero del coche.
-- Destaca con estos divertidos patos coleccionables disfrazados, ideales para añadir un toque original al “jeep ducking”.
-- Colecciona personajes de películas, videojuegos, bandas y series de televisión, reinventados como patos disfrazados.
 - Presentado en la icónica bañera apilable con el logotipo de Wicked , perfecta para exponer.
+- Destaca con estos divertidos patos coleccionables disfrazados, ideales para añadir un toque original al “jeep ducking”.
+- Mide aproximadamente 9 cm de alto fuera del embalaje, un tamaño ideal para estanterías, escritorios o el salpicadero del coche.
+- Colecciona personajes de películas, videojuegos, bandas y series de televisión, reinventados como patos disfrazados.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FGQ7VQ3T{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tamaño plegado: 59 cm
-- Altura máxima (columna desplegada) 160 cm
 - Peso: 2 kg
+- Altura máxima (columna desplegada) 160 cm
 - Altura mínima: 9 cm
 - Peso soportado: 15 kg
+- Tamaño plegado: 59 cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00MIB7D3G{{</world>}}

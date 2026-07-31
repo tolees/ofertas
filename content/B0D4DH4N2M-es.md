@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Luces con botón de encendido/apagado
-- Tenis iluminados con correa y suela técnica
 - Cierre adaptable
+- Tenis iluminados con correa y suela técnica
+- Luces con botón de encendido/apagado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D4DH4N2M{{</world>}}

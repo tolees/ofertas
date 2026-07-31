@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Suero para la piel
-- Previene el envejecimiento prematuro de la piel
 - Corrector de arrugas
+- Previene el envejecimiento prematuro de la piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09FG8TJDD{{</world>}}

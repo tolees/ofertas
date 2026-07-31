@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Dermocosméticos de la Farmacia (PZN: 17293319)
-- Fabricante: Pierre Fabre Pharma GmbH, Deutschland
 - para la protección de la piel contra los rayos UV
 - protector solar médico de alta calidad
+- Fabricante: Pierre Fabre Pharma GmbH, Deutschland
 - Crema para uso en la piel
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

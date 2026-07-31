@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela caucho DURABILITY
 - Corte con mesh transpirable VTS
+- Suela caucho DURABILITY
 - Corte con sistema de ajuste termosellado SPORTECH
 - Mediasuela de phylon de diferentes densidades DUAL REACTIVE
 

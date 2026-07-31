@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Material exterior: piel
-- Suela: goma
 - Cierre: cremallera
 - Los productos internacionales tienen términos separados, se venden desde el extranjero y pueden diferir de los productos locales, incluidos el ajuste, las clasificaciones de edad y el idioma del producto, el etiquetado o las instrucciones.
+- Suela: goma
 - Material interior: no aplicable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

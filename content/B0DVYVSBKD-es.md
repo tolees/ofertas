@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ADVERTENCIAS: Manipule con cuidado el producto, ya que no se trata de una bombilla, sino de una lámpara decorativa con baterías recargables alimentadas mediante un cable USB tipo C, por lo que no se puede insertar en ningún tipo de portalámparas.
-- Tenemos un mundo de mundos para que lo explores; creamos objetos de calidad, siempre diferentes, coloridos, positivos y divertidos, adecuados para cada persona y cada estado de ánimo; en Legami, siempre encontrarás tu mundo óptimo, para descubrir y explorar día tras día: un mundo de felicidad cuando estés un poco deprimido, un mundo de sorpresas cuando estés aburrido, un mundo de inspiración cuando estés falto de ideas, un mundo de emociones en constante cambio
-- DIMENSIONES : 6.8x10.3 cm
 - Quiere ver su día bajo una luz diferente; la lámpara de mesa Bulb Fiction - Flamingo de Legami es la forma más brillante de cambiar el aspecto de tu oficina y darle un toque especial de luz y diseño
-- MATERIAL: vidrio, metal
+- DIMENSIONES : 6.8x10.3 cm
+- Tenemos un mundo de mundos para que lo explores; creamos objetos de calidad, siempre diferentes, coloridos, positivos y divertidos, adecuados para cada persona y cada estado de ánimo; en Legami, siempre encontrarás tu mundo óptimo, para descubrir y explorar día tras día: un mundo de felicidad cuando estés un poco deprimido, un mundo de sorpresas cuando estés aburrido, un mundo de inspiración cuando estés falto de ideas, un mundo de emociones en constante cambio
 - CARACTERÍSTICAS: Sin cable; recargable con cable de carga; USB tipo C incluido
+- MATERIAL: vidrio, metal
+- ADVERTENCIAS: Manipule con cuidado el producto, ya que no se trata de una bombilla, sino de una lámpara decorativa con baterías recargables alimentadas mediante un cable USB tipo C, por lo que no se puede insertar en ningún tipo de portalámparas.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DVYVSBKD{{</world>}}

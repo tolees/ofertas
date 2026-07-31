@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre de cremallera y cuello alzado
-- Pantalón: Cintura elástica con cordón
 - 100% poliéster (reciclado)
-- Chaqueta y pantalón: Puños y dobladillo de canalé
+- Pantalón: Cintura elástica con cordón
 - Corte clásico con talle medio
+- Cierre de cremallera y cuello alzado
+- Chaqueta y pantalón: Puños y dobladillo de canalé
 - Chaqueta y pantalón: Bolsillos frontales
 
 [🛒 Comprar!!!]({{< param buyurl >}})

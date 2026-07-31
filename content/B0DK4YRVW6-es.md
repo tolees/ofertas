@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre de cordones
-- Forro textil
 - Contiene al menos un 20% de material reciclado
-- Empeine de ante
+- Forro textil
+- Cierre de cordones
 - Horma clásica
+- Empeine de ante
 - Suela de goma cosida
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

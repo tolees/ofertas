@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre con cordones
 - Estilo deportivo
+- Cierre con cordones
 - Ofrece comodidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

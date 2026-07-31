@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Instrucciones de cuidado: todos los líquidos, incluso el vino, se pueden limpiar rápidamente con un paño húmedo o una servilleta. Lavable a máquina, no usar lejía. No se arruga después del planchado.
-- Material y apariencia: estos manteles están hechos de tela de poliéster 100% resistente de alta calidad, pero con aspecto de lino. Son perfectos para proteger y embellecer tus mesas.
 - Práctico y decorativo: estos manteles con aspecto de lino son adecuados para todas las ocasiones en interiores y exteriores, ya sea para fines decorativos o funcionales. (Cafés, cenas, brunchs, buffets, picnics, bodas, fiestas y más)
-- Efecto impermeable: con el tejido de poliéster resistente a la luz y a las salpicaduras, este mantel es resistente al agua y a la suciedad como una hoja de loto. (La larga estancia del líquido en la superficie puede permitir que el agua pase)
 - Tamaño del mantel: el tamaño de este mantel con aspecto de lino es de aproximadamente 135 x 200 cm. Cada paquete contiene 1 mantel. Por favor, considera un saliente de 20 a 30 cm a cada lado para medir la mesa.
+- Efecto impermeable: con el tejido de poliéster resistente a la luz y a las salpicaduras, este mantel es resistente al agua y a la suciedad como una hoja de loto. (La larga estancia del líquido en la superficie puede permitir que el agua pase)
+- Material y apariencia: estos manteles están hechos de tela de poliéster 100% resistente de alta calidad, pero con aspecto de lino. Son perfectos para proteger y embellecer tus mesas.
+- Instrucciones de cuidado: todos los líquidos, incluso el vino, se pueden limpiar rápidamente con un paño húmedo o una servilleta. Lavable a máquina, no usar lejía. No se arruga después del planchado.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C2YLG4SK{{</world>}}

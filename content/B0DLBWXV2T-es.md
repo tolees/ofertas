@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Logotipo de la marca Strong Debossed.
-- Ojales hexagonales.
 - Robusto ankle-boot.
+- Ojales hexagonales.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DLBWXV2T{{</world>}}

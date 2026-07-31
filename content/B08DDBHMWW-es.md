@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Modelo: 568498C
 - Color del fabricante: blanco, marfil natural, negro
+- Material exterior: textil
 - Color: blanco
 - Descripción: Chuck Taylor All Star Move HI
-- Modelo: 568498C
-- Material exterior: textil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08DDBHMWW{{</world>}}

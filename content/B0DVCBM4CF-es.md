@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fit: Regular
+- Manga: Larga
+- Desigual
 - Cuello: Redondo
 - Confeccionado con materiales sostenibles
-- Desigual
+- Fit: Regular
 - Combinación de tejidos
-- Manga: Larga
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DVCBM4CF{{</world>}}

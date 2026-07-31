@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Composición: 95 por ciento de poliéster y 5 por ciento de elastano
-- Tipo de estiramiento: baja elasticidad
-- Ajuste: regular
 - Instrucciones de cuidado: lavable a máquina
+- Composición: 95 por ciento de poliéster y 5 por ciento de elastano
+- Ajuste: regular
 - Chaqueta sin mezclilla
+- Tipo de estiramiento: baja elasticidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DR34BGCR{{</world>}}

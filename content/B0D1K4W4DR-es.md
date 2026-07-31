@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camisa de manga larga para mujer, cuello de camisa, botones, puños abotonados
 - Corte regular
+- Camisa de manga larga para mujer, cuello de camisa, botones, puños abotonados
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D1K4W4DR{{</world>}}

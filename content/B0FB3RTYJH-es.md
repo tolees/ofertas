@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sandalia de mujer con tiras cruzadas
 - Fabricada en material efecto piel y tejido
+- Sandalia de mujer con tiras cruzadas
 - Cómoda cuña
 
 [🛒 Aquí!!!]({{< param buyurl >}})

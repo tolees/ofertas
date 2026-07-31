@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca: Helly Hansen
-- Producto de alta calidad
 - Ajuste moderno
 - Gran comodidad
 - Libertad de movimiento
+- Marca: Helly Hansen
+- Producto de alta calidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MSY6MSM{{</world>}}

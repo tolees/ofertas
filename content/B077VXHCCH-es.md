@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Las lentes antivaho fogbuster para un control fantástico de la humedad
-- Diseñado para niños de entre 6-14 years-old
 - Puente de nariz ajustable
+- Diseñado para niños de entre 6-14 years-old
+- Las lentes antivaho fogbuster para un control fantástico de la humedad
 - Protección uv
 - Ideal para uso en interiores y al aire libre natación
 

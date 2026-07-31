@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte en una cómoda mezclilla gris elástica en un lavado medio a la piedra
 - 99% algodón, 1% elastano
 - Un recto moderno con un talle ultra alto y un ajuste espacioso a través de las piernas que llega justo a la longitud del tobillo
+- Corte en una cómoda mezclilla gris elástica en un lavado medio a la piedra
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DKFT94KG{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tipo de producto - Moldeador
-- Producto de buena calidad
 - Género - Unisex
+- Producto de buena calidad
+- Tipo de producto - Moldeador
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B06XCK7CVD{{</world>}}

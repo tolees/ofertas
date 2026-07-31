@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Empeine de piel
 - Horma clásica
+- Cordones elásticos y cierre autoadherente
 - Forro textil
+- Suela de goma
 - Forro textil
 - Puntera de ante
-- Cordones elásticos y cierre autoadherente
-- Empeine de piel
-- Suela de goma
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CKS2VLFL{{</world>}}

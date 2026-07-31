@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Un renderizado 3D avanzado que ofrece una iluminación y unos efectos atmosféricos mejorados
 - Acceso a la “Cámara acorazada”. Disfruta de una colección de materiales y recursos de desarrollo seleccionados cuidadosamente para adentrarte en la increíble historia de este clásico
-- Durante el combate, el jugador puede usar sus puños, minas explosivas y detonadores termales, así como blasters y otras armas de fuego
+- Un renderizado 3D avanzado que ofrece una iluminación y unos efectos atmosféricos mejorados
 - El jugador dispone de una variedad de potenciadores que incluyen salud, armadura, amas y munición
+- Durante el combate, el jugador puede usar sus puños, minas explosivas y detonadores termales, así como blasters y otras armas de fuego
 - Un fascinante combate terrestre que incluye diez armas y veinte tipos de enemigos diferentes
 
 [🛒 Aquí!!!]({{< param buyurl >}})

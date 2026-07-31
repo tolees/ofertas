@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Perneras ajustadas
-- Bolsillos laterales con cremallera
 - 100% poliéster (reciclado)
+- Bolsillos laterales con cremallera
 - AEROREADY
+- Perneras ajustadas
 - Corte clásico
 
 [🛒 Visítala!!!]({{< param buyurl >}})

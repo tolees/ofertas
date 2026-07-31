@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Imágenes en 2K HD de día y de noche: Vea la señal en directo y las grabaciones en modo de visión nocturna en color de alta definición de 2K para que no se le escape ni un detalle. La visión nocturna a color garantiza que las grabaciones se puedan ver con claridad y nitidez, aunque estén las luces apagadas.
 - Cámara y luz de pared todo en uno: Vigile el exterior de su hogar con esta cámara y foco de luz perfectamente integrados e ilumine todos los rincones con un brillo de 300 lúmenes. La luz es brillante a la vez que cómoda, ya que no le molestará a usted ni a sus vecinos por la noche. Además, la luz se enciende automáticamente con la activación por movimiento.
-- Detección inteligente por IA: La cámara cuenta con un sensor de infrarrojos que detecta movimientos a 7,5 m de distancia y le envía un aviso en tiempo real. También puede usar la aplicación eufy Security para hablar con las personas mediante audio bidireccional, hacer sonar la alarma de 105 dB y activar las luces brillantes para ahuyentar a los intrusos, esté donde esté.
-- Sin cuotas mensuales: solo hay que comprar una vez la cámara y luz de pared eufy, por lo que no incluye mensualidades ni costes adicionales. Todo se hace en el dispositivo para garantizar una seguridad total. Almacena imágenes de eventos localmente durante hasta 60 días. Amplíe su almacenamiento local hasta 16 TB con HomeBase 3 para guardar años de grabaciones (compatible en octubre).
+- Imágenes en 2K HD de día y de noche: Vea la señal en directo y las grabaciones en modo de visión nocturna en color de alta definición de 2K para que no se le escape ni un detalle. La visión nocturna a color garantiza que las grabaciones se puedan ver con claridad y nitidez, aunque estén las luces apagadas.
 - Carga solar inalámbrica de energía inagotable: Con sólo 2 horas de suficiente luz solar, el panel solar integrado puede suministrar más de un día de energía para la cámara. La batería incorporada proporciona hasta 60 días de duración cuando está en modo de ahorro de energía.
+- Sin cuotas mensuales: solo hay que comprar una vez la cámara y luz de pared eufy, por lo que no incluye mensualidades ni costes adicionales. Todo se hace en el dispositivo para garantizar una seguridad total. Almacena imágenes de eventos localmente durante hasta 60 días. Amplíe su almacenamiento local hasta 16 TB con HomeBase 3 para guardar años de grabaciones (compatible en octubre).
+- Detección inteligente por IA: La cámara cuenta con un sensor de infrarrojos que detecta movimientos a 7,5 m de distancia y le envía un aviso en tiempo real. También puede usar la aplicación eufy Security para hablar con las personas mediante audio bidireccional, hacer sonar la alarma de 105 dB y activar las luces brillantes para ahuyentar a los intrusos, esté donde esté.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C9ZYHLBZ{{</world>}}

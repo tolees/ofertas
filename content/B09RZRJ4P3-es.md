@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- FUENTE 650W MODULAR: El diseño modular de la fuente te permite una gestión del cableado más eficiente y a tu gusto, permitiendo un flujo de aire superior para una refrigeración optimizada
 - VENTILADOR 120MM OPTIMIZADO: El ventilador silencioso de 120mm de la fuente de alimentación dispone de un control térmico inteligente que lo mantiene en funcionamiento a la velocidad de arranque antes de alcanzar el 60% de carga a temperaturas de 40ºC
+- FUENTE 650W MODULAR: El diseño modular de la fuente te permite una gestión del cableado más eficiente y a tu gusto, permitiendo un flujo de aire superior para una refrigeración optimizada
 - DISEÑO RGB INFINITY MIRROR: La fuente MIRAGE GOLD cuenta con una tira RGB que consigue un efecto infinito RGB y te hace disfrutar de una experiencia de iluminación única; Accede hasta 16.8 millones de colores controlables mediante botón LED RGB o placa base ARGB
 - FUENTE ALIMENTACIÓN 80 PLUS GOLD: La fuente para PC con certificado 80 Plus te asegura una eficiencia de hasta el 90% y una durabilidad prolongada de tu dispositivo; Cuenta con condensadores japoneses integrados de 105ºC que aseguran un buen funcionamiento incluso bajo las condiciones más exigentes
 

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Elásticos y duraderos
-- Pantalones cortos chinos Billabong cómodos
 - Ajuste: corte central
 - Longitud regular
+- Pantalones cortos chinos Billabong cómodos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BGQ3T6PJ{{</world>}}

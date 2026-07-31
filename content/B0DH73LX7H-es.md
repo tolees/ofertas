@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 100% Poliéster
-- Training
 - Mujeres - Shorts
+- Training
+- 100% Poliéster
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DH73LX7H{{</world>}}

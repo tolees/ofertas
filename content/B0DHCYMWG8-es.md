@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Pestañas con altura: longitud sin límites y volumen redefinido
+- Nuevo tono Cherry Sky
+- Cepillo cónico y flexible que alcanza todas tus pestañas
 - Dosificador con proporción óptima del producto
 - Fórmula infusionada con extracto de bambú
-- Cepillo cónico y flexible que alcanza todas tus pestañas
-- Nuevo tono Cherry Sky
-- Pestañas con altura: longitud sin límites y volumen redefinido
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DHCYMWG8{{</world>}}

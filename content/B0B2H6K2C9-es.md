@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseñada exclusivamente para tu nuevo Kindle Scribe: solo compatible con los modelos de 2022 y 2024 del Kindle Scribe.
 - Más funcional: la cubierta frontal se transforma en un soporte integrado con dos posiciones que te permite leer sin tener que sujetar el dispositivo.
-- Diseño elegante: el dispositivo se fija a la parte posterior de la funda, muy fina, gracias a los imanes integrados. No se fija a presión como las fundas para Kindle tradicionales. Lee y escribe durante horas con total comodidad.
-- Acople sencillo del lápiz digital: el lápiz prémium puede dejarse en el sujetalápices incluido en la funda, además de poder fijarse al lateral de tu Kindle Scribe gracias a los imanes integrados en el dispositivo.
+- Diseñada exclusivamente para tu nuevo Kindle Scribe: solo compatible con los modelos de 2022 y 2024 del Kindle Scribe.
 - Embalaje sostenible: el 99 % del embalaje del producto está fabricado con materiales a base de fibra de madera procedente de bosques gestionados responsablemente o materiales reciclados.
-- Protección: el forro de microfibra protege la pantalla de arañazos.
 - Materiales de gran calidad: la funda se ha fabricado con piel natural proveniente de proveedores con un certificado Gold proporcionado por el Leather Working Group.
+- Acople sencillo del lápiz digital: el lápiz prémium puede dejarse en el sujetalápices incluido en la funda, además de poder fijarse al lateral de tu Kindle Scribe gracias a los imanes integrados en el dispositivo.
 - Ponle el broche de oro a tu experiencia de lectura: la funda se abre y se cierra, y activa o pone en suspensión el Kindle Scribe automáticamente. El acople magnético mantiene la funda firmemente cerrada.
+- Diseño elegante: el dispositivo se fija a la parte posterior de la funda, muy fina, gracias a los imanes integrados. No se fija a presión como las fundas para Kindle tradicionales. Lee y escribe durante horas con total comodidad.
+- Protección: el forro de microfibra protege la pantalla de arañazos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B2H6K2C9{{</world>}}

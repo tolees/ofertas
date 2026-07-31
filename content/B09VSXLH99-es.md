@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre de cordones
 - Suela de goma cosida
 - Horma clásica
+- Cierre de cordones
 - Forro sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})

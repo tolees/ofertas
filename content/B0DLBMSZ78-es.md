@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Webbing as lace-loops, and nice, round laces.
-- Una zapatilla con puntera asimétrica y capa superior.
 - Logotipo de FILA sellado en el panel lateral.
+- Una zapatilla con puntera asimétrica y capa superior.
+- Webbing as lace-loops, and nice, round laces.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DLBMSZ78{{</world>}}

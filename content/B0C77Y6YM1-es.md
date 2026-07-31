@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Trabilla en el talón
-- Puntera perforada
 - Logotipo en el talón deportivo inspirado en los archivos
 - Rayas laterales
 - Un modelo distintivo
+- Puntera perforada
+- Trabilla en el talón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C77Y6YM1{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela de goma duradera
 - Tenis con puntera en T con cordones y cisne S
+- Suela de goma duradera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D79ZJ6PB{{</world>}}

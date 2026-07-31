@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material exterior: Lona
-- Composición: Lona
-- Cierre: Cordones
-- Revestimiento: Tela
 - Tipo de tacón: Plano
 - Material de la suela: Sintético
+- Composición: Lona
+- Revestimiento: Tela
+- Material exterior: Lona
+- Cierre: Cordones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00HXFRSZA{{</world>}}

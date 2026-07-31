@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte entallado
 - Longitud estándar
 - Material Principal: 100% Poliéster(100% Reciclado)
+- Corte entallado
 - Cierre de cremallera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

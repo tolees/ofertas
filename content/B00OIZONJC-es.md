@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- EO14902.W
-- Dimensiones: 52,5 x 43,5 cm, 31 cm
 - 220-240V 50-60Hz 1400W
+- Dimensiones: 52,5 x 43,5 cm, 31 cm
+- EO14902.W
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00OIZONJC{{</world>}}

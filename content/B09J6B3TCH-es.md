@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Aditivo curativo y preventivo que se añade al carburante, Para todos los motores diésel de inyección directa o indirecta, atmosféricos o turboalimentados, Para todos los tipos de diésel y biodiésel
 - Fácil de usar: Vierta directamente en el depósito antes de repostar (una botella de 300 ml es suficiente para tratar hasta 60 L en modo preventivo)
-- Contenido: 1x Aditivo limpiador de filtros de partículas diésel, Cantidad: 300 ml, Marca: Motul
 - Mejora el rendimiento de regeneración del DPF, Reduce la formación de depósitos y mantiene limpio el DPF para un rendimiento óptimo del motor
+- Contenido: 1x Aditivo limpiador de filtros de partículas diésel, Cantidad: 300 ml, Marca: Motul
 - Beneficios: Rendimiento del motor restaurado, Aumento de la potencia (mejora del arranque, aceleración y ralentí), Reducción del consumo de combustible y de las emisiones contaminantes (ideal antes de las inspecciones técnicas como la ITV)
 
 [🛒 Aquí!!!]({{< param buyurl >}})

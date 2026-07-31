@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apoya a Better Cotton Initiative
-- Puños y dobladillo de canalé
-- Bolsillo canguro
-- Apoya a Better Cotton Initiative
 - Corte clásico
+- Puños y dobladillo de canalé
+- Apoya a Better Cotton Initiative
+- Bolsillo canguro
 - 70% algodón / 30% poliéster (reciclado)
+- Apoya a Better Cotton Initiative
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09H6TZCCF{{</world>}}

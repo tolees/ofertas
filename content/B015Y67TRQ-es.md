@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - SOBRE NOSOTROS: En Dixie llevamos más de 60 años investigando, formulando y fabricando soluciones de calidad superior para el cuidado de perros y gatos en España, brindando soluciones efectivas y seguras para satisfacer el cuidado de nuestras mascotas.
 - PRECAUCIONES: Revisar que el animal no tenga ningún tipo de herida abierta antes de lavarle. Al aplicar el champú sobre el animal, deberá tener cuidado de que el champú no entre en contacto con las mucosas del animal, especialmente en ojos, nariz y boca.
-- FACILITA EL CEPILLADO: Este champú repelente, además de limpiar y proteger a las mascotas de los parásitos externos, facilita el cepillado del pelaje del animal gracias a su acción acondicionadora. Además, este champú es adecuado para todo tipo de pelajes.
-- CHAMPÚ REPELENTE PERROS Y GATOS: El champú repelente para perros y gatos sin insecticidas repele y protege de manera eficaz a las mascotas de las infestaciones de pulgas, garrapatas, mosquitos, piojos, ácaros y otros insectos. Limpia y protege a tu mascota.
 - MODO DE EMPLEO: Agita el champú antes de usar. Para aplicarlo correctamente, humedece todo el cuerpo del animal, extiende una cantidad de champú y frota enérgicamente. Aclara y repite la operación, dejando actuar durante 5 min. Aclara con abundante agua.
+- CHAMPÚ REPELENTE PERROS Y GATOS: El champú repelente para perros y gatos sin insecticidas repele y protege de manera eficaz a las mascotas de las infestaciones de pulgas, garrapatas, mosquitos, piojos, ácaros y otros insectos. Limpia y protege a tu mascota.
+- FACILITA EL CEPILLADO: Este champú repelente, además de limpiar y proteger a las mascotas de los parásitos externos, facilita el cepillado del pelaje del animal gracias a su acción acondicionadora. Además, este champú es adecuado para todo tipo de pelajes.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B015Y67TRQ{{</world>}}

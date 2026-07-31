@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Estilo: Universal
+- Lubricante multiusos; lubrica y desbloquea
 - Elimina chirridos; protege contra la humedad
 - 1 unidad. 200 ml
-- Lubricante multiusos; lubrica y desbloquea
-- Estilo: Universal
 - Estilo: Universal Fit
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

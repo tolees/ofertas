@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Proporciona comodidad
-- Una mirada original
 - Cuello redondo
 - Aberturas laterales
+- Una mirada original
 - Manga corta
 
 [🛒 Aquí!!!]({{< param buyurl >}})

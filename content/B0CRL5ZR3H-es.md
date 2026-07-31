@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Presenta detalles distintivos de la marca
-- Cuenta con un estilo casual
 - Ajuste regular
+- Cuenta con un estilo casual
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CRL5ZR3H{{</world>}}

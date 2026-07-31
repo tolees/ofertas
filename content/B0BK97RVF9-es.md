@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte superior de piel sintética
 - Entresuela de goma, suela exterior
+- Parte superior de piel sintética
 - PUMA Detalles de la marca en la parte superior, talón y lengüeta
 - PUMA Tira en los lados lateral y medial
 

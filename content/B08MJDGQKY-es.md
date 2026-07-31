@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- [Diseño] Diseño minimalista y atemporal que se adapta a cualquier escritorio o mesita de noche.
-- [Compatibilidad] Compatible con iPhone 17/16/15/14/13/12, AirPods Pro 3/2/1, AirPods 4/3.
-- [Estabilidad] Base estable pero antiadherente forrada con tecnología Nanotac
-- [Acabado] Acabado suave que deja el teléfono absolutamente limpio y sin imperfecciones.
 - [Portabilidad] Ligero y hecho para caber en el cargador como un guante.
+- [Compatibilidad] Compatible con iPhone 17/16/15/14/13/12, AirPods Pro 3/2/1, AirPods 4/3.
+- [Acabado] Acabado suave que deja el teléfono absolutamente limpio y sin imperfecciones.
+- [Estabilidad] Base estable pero antiadherente forrada con tecnología Nanotac
+- [Diseño] Diseño minimalista y atemporal que se adapta a cualquier escritorio o mesita de noche.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08MJDGQKY{{</world>}}

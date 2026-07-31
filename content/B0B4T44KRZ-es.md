@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tipo de tacón: plano. Tipo de caña: caña corta
 - Vegano, lavable a máquina, MF refrigerado por aire, almohada para el talón, espuma viscoelástica, sin cordones
-- Material exterior: sintético. Material interior: textil. Suela: EVA
+- Tipo de tacón: plano. Tipo de caña: caña corta
 - Anchura: normal, cierre: liberación rápida
+- Material exterior: sintético. Material interior: textil. Suela: EVA
 - Tipo de producto: mocasines sin cordones, zapatos sin cordones, zapatos casuales, zapatos abiertos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

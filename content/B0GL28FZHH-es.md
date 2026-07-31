@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Limpieza a fondo que abarca todos los rincones: Con alcance de 180° en horizontal, flexibilidad de giro de 90° y limpieza por los dos bordes, el M50 se desliza sin esfuerzo por espacios estrechos y limpia a la perfección bordes de paredes y zócalos, manteniendo una intensa potencia de succión.
 - Experiencia excepcional: El peso de manipulación de 610 g al deslizarlo, la separación de residuos sólidos y líquidos, la pantalla LED y los avisos de vox, y la autonomía de 46 min te permiten controlar y cuidar el dispositivo más cómodamente y te ofrecen una experiencia simple y agradable.
-- Autolimpieza y secado a alta temperatura: Experimenta una autolimpieza profunda con lavado del cepillo a 85℃ que elimina eficazmente las manchas delcepillo de rodillo, seguida de secado con aire caliente a 85 °C, que seca hábilmente el cepillo para mantenerlo suave y limpio.
 - Potente succión y presión descendente: La potente succión de 22.000 Pa con 20 N de presión descendente puede retirar y eliminar fácilmente las manchas difíciles.
 - Sin enredos: El raspador dentado de alta densidad, con gran cantidad de púas cerca del cepillo, minimiza las posibilidades de que se escapen pelos y aumenta la eficiencia al interceptarlos. Incluso puede capturar eficazmente grandes cantidades de pelos de mascotas y evitar que se enreden
+- Limpieza a fondo que abarca todos los rincones: Con alcance de 180° en horizontal, flexibilidad de giro de 90° y limpieza por los dos bordes, el M50 se desliza sin esfuerzo por espacios estrechos y limpia a la perfección bordes de paredes y zócalos, manteniendo una intensa potencia de succión.
+- Autolimpieza y secado a alta temperatura: Experimenta una autolimpieza profunda con lavado del cepillo a 85℃ que elimina eficazmente las manchas delcepillo de rodillo, seguida de secado con aire caliente a 85 °C, que seca hábilmente el cepillo para mantenerlo suave y limpio.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0GL28FZHH{{</world>}}

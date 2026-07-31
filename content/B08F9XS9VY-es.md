@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño ligero de tenis sin cordones
-- Plantilla acolchada y cómoda
-- Malla transpirable y parte sintética
 - Suela de tracción flexible
+- Malla transpirable y parte sintética
 - Parte delantera elástica con cordones y correa de velcro
+- Plantilla acolchada y cómoda
+- Diseño ligero de tenis sin cordones
 - Entresuela visible con amortiguación de aire
 
 [🛒 Comprar!!!]({{< param buyurl >}})

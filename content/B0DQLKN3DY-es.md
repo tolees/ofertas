@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tenis con combinaciones de materiales
-- Banda en contraste con logotipo clásico
 - Suela de espuma ligera
+- Banda en contraste con logotipo clásico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DQLKN3DY{{</world>}}

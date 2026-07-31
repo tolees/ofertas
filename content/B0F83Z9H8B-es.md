@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Detalles de la marca PUMA
-- Corte: holgado
 - Talle: medio
+- Corte: holgado
 - Material principal: felpa
 - Largo: estándar
 

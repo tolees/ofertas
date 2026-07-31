@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Funciona tanto con alimentación como con baterías
-- Con micrófono incluido
 - El reproductor de CD es compatible con MP3 y tiene una conexión USB
+- Con micrófono incluido
 - Fácil de llevar con su práctico mango plegable
 
 [🛒 Aquí!!!]({{< param buyurl >}})

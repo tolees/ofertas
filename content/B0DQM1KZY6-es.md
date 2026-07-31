@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Artículo : Chaqueta
-- Forro : Forro de poliéster para una sensación cómoda
-- Manga : Manga larga
 - Cuello : Capucha
-- Cierre : Cierre de cremallera
-- Puños : Puños acanalados
 - Acolchado : Acolchado ligero y adecuado para las temporadas intermedias
+- Manga : Manga larga
+- Forro : Forro de poliéster para una sensación cómoda
+- Artículo : Chaqueta
+- Puños : Puños acanalados
+- Cierre : Cierre de cremallera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQM1KZY6{{</world>}}

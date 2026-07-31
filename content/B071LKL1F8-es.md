@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Care Label:
+- Hood
 - Long Sleeves
 - materialFabricComposition: Outer: 85% Polyester, 15% Cotton; Lining: 85% Polyester, 15% Cotton
+- Care Label:
 - Coat
-- Hood
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B071LKL1F8{{</world>}}

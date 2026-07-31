@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Decimos no a las pruebas con animales. Junto con Essence y Catrice, Cosnova está inscrita tanto en PETA Alemania como en PETA Internacional.
-- Con aplicador de esponja suave.
-- Resultado exprés, secado rápido, natural, para todo tipo de pieles.
 - Fácil de difuminar y aplicar.
-- Colorete líquido con resultado natural.
+- Decimos no a las pruebas con animales. Junto con Essence y Catrice, Cosnova está inscrita tanto en PETA Alemania como en PETA Internacional.
 - Vegano, sin aceite, parabenos, partículas microplásticas, nanopartículas, gluten, ni acetona.
+- Con aplicador de esponja suave.
+- Colorete líquido con resultado natural.
+- Resultado exprés, secado rápido, natural, para todo tipo de pieles.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CQKGG6DS{{</world>}}

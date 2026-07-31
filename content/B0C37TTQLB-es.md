@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Embalaje: caja
-- Totalmente forrado
 - Cordones
+- Totalmente forrado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C37TTQLB{{</world>}}

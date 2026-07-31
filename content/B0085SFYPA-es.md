@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello en V, longitud en la cadera, corte recto, color liso, fácil de combinar
-- Un gran modelo para muchas ocasiones, perfecto para el trabajo o el tiempo libre, para llevar debajo o simplemente así, súper cómodo de llevar
 - Moderna camiseta básica de la marca de moda. Jack & Jones
+- Un gran modelo para muchas ocasiones, perfecto para el trabajo o el tiempo libre, para llevar debajo o simplemente así, súper cómodo de llevar
+- Cuello en V, longitud en la cadera, corte recto, color liso, fácil de combinar
 - Excelente relación calidad-precio, muy buena calidad, excelente mano de obra
 - Ajuste: se adapta a la mayoría de las tallas
 

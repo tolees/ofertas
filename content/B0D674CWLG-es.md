@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - TRATAMIENTO REPARADOR DEL CABELLO: Facilita la reparación de fibras capilares con una intensa nutrición y un tratamiento acondicionador profundo. Hasta un 99% menos de rotura del cabello* (*En comparación con un champú con poco acondicionador).
-- CÓMO SE UTILIZA: Aplicar el champú sobre el cabello húmedo, hacer espuma y enjuagar para conseguir un cabello hasta 20 veces más fuerte* (*contra la rotura en comparación con un champú con poco acondicionador, cuando se utiliza como sistema).
-- CHAMPÚ: El Champú Reparador de Fibras Capilares NO.BREAKER funciona como un champú con propiedades de acondicionador profundo, ayudando a fortalecer y reparar el cabello seco y dañado.
 - PRODUCTOS ANTI-ENCRESPAMIENTO PARA EL CABELLO: Se equilibra el pH y el cabello queda suave, liso y resistente. Hasta 72 horas sin encrespamiento usando el tratamiento reparador del cabello Sebastian Professional al completo.
 - CUIDADO PROFESIONAL DEL CABELLO: Diseñado para un cuidado intenso sin dejar de lado el estilo. Prueba el champú NO.BREAKER, la mascarilla pelo, el espray de tratamiento y el acondicionador sin aclarado.
+- CHAMPÚ: El Champú Reparador de Fibras Capilares NO.BREAKER funciona como un champú con propiedades de acondicionador profundo, ayudando a fortalecer y reparar el cabello seco y dañado.
+- CÓMO SE UTILIZA: Aplicar el champú sobre el cabello húmedo, hacer espuma y enjuagar para conseguir un cabello hasta 20 veces más fuerte* (*contra la rotura en comparación con un champú con poco acondicionador, cuando se utiliza como sistema).
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D674CWLG{{</world>}}

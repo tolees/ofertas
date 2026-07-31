@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior de malla especialmente diseñada con superposiciones de TPU
 - Suela exterior de goma
+- Parte superior de malla especialmente diseñada con superposiciones de TPU
 - Entresuela FuelFoam
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

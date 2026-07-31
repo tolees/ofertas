@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- INCLUYE: nivel láser GLL 20-22 G, soporte LB 10, placa reflectora del láser, bolsa protectora, 4 pilas LR6 de 1,5 V, trípode BT 150.
 - DOS LÍNEAS LÁSER: el nivel láser GLL 20-22 G permite un alineado más fácil. Gracias a la ventana en forma de U, la línea horizontal puede proyectarse a mayor distancia todavía.
 - RESULTADOS PRECISOS: el medidor láser ofrece la máxima precisión, con un margen de error de solo ± 0,3 mm/m *
-- MUY ROBUSTO: carcasa duradera con refuerzo de goma y protección IP65 contra polvo y agua.
-- INCLUYE: nivel láser GLL 20-22 G, soporte LB 10, placa reflectora del láser, bolsa protectora, 4 pilas LR6 de 1,5 V, trípode BT 150.
 - DOBLE FUENTE DE ALIMENTACIÓN: para una mayor flexibilidad y evitar interrupciones, la herramienta puede utilizarse con una batería recargable de iones de litio de 3,7 V o con pilas AA por medio del adaptador.
+- MUY ROBUSTO: carcasa duradera con refuerzo de goma y protección IP65 contra polvo y agua.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DFHP4CL8{{</world>}}

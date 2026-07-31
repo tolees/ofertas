@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - ✈️ IDEAL PARA VIAJAR: La barrera cama 150 cm de Asalvo incluye una bolsa de transporte para llevarla donde necesites. Úsala en casa de los abuelos, hoteles o segundas residencias. Ofrece la seguridad que buscas para tu hijo.
 - 🔒 DISEÑO ESTABLE Y FIABLE: Evita preocupaciones con nuestra barrera de seguridad para cama. Gracias a sus correas ajustables y estructura robusta, la barandilla se mantiene firme incluso en colchones gruesos y camas nido. ¡Descanse tranquilo sabiendo que su pequeño está seguro!
-- 🧽 LAVABLE Y DESMONTABLE: La malla transpirable y el material desmontable permiten una limpieza sencilla, evitando acumulación de polvo y manchas. Mantén la barandilla cama para niños siempre en perfectas condiciones para el uso diario, sin esfuerzo.
 - 🛠️ INSTALACIÓN RÁPIDA Y SENCILLA: Montar y desmontar la barrera nunca ha sido tan fácil. Ideal para padres ocupados, la barandilla de cama niño se adapta perfectamente a diferentes tipos de camas, sin herramientas adicionales. ¡Olvídate de montajes engorrosos y complejos!
+- 🧽 LAVABLE Y DESMONTABLE: La malla transpirable y el material desmontable permiten una limpieza sencilla, evitando acumulación de polvo y manchas. Mantén la barandilla cama para niños siempre en perfectas condiciones para el uso diario, sin esfuerzo.
 - 🛏️ PREVENCIÓN CONTRA CAÍDAS: Diseñada para ofrecer una protección óptima en colchones altos, nuestra barrera cama niños tiene una altura perfecta para evitar caídas, sin dejar espacio para que el niño pueda escalarla.
 - ✅FÁCIL ACCESO A LA CAMA: Con un mecanismo abatible, facilita el acceso a la cama y permite a los padres una instalación y retirada rápida cuando sea necesario.
 

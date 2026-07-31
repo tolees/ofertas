@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con la indicación de conservar refrigerado a 8º C una vez abierto, esta salsa garantiza su frescura durante un máximo de 4 semanas, permitiendo disfrutar de aproximadamente 30 raciones.
-- ALÉRGENOS: No.
 - Salsa Dip con un toque picante, elaborada con tomate, jalapeño, cebolla y especias, proporcionando un equilibrio perfecto de sabores para aquellos que buscan una experiencia de dipeo única.
 - INGREDIENTES: Tomate 70%, azúcar, vinagre, cebolla 6%, pimiento rojo 6%, pimiento verde 6%, almidón modificado de maíz, sal, jalapeño 0,5% (origen fuera UE), cilantro, especias.
 - Diseñada como la salsa preferida para dipear con nachos, esta deliciosa mezcla de ingredientes ofrece un acompañamiento sabroso y versátil, ideal para diversos platillos y snacks.
+- Con la indicación de conservar refrigerado a 8º C una vez abierto, esta salsa garantiza su frescura durante un máximo de 4 semanas, permitiendo disfrutar de aproximadamente 30 raciones.
+- ALÉRGENOS: No.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CQ5HNT4Q{{</world>}}

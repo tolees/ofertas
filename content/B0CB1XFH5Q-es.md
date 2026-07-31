@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Etiqueta trasera de G-STAR hecha de tejido de papel imitando al cuero
 - Cierre de botón sin ojales
-- Bolsillos estilo Oeste en el pecho con botones sin ojales
+- Etiqueta trasera de G-STAR hecha de tejido de papel imitando al cuero
 - Cuello plano, trabilla en el interior
 - Bolsillos con ribete en la cintura
+- Bolsillos estilo Oeste en el pecho con botones sin ojales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB1XFH5Q{{</world>}}

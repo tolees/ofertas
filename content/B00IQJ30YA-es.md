@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Características incluyen: corte con vuelo
-- Pantalón de lino con pata ancha para mujer
 - Tejido en lino de algodón con lavado suavizante a la silicona
+- Pantalón de lino con pata ancha para mujer
 - Cintura elástica y bordado con corazón Roxy en el bolsillo derecho trasero
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- PCF = Pro Comfort Foam Insock.
 - Side-panel design-lines inspired by the iconic FILA flag.
 - Upper in a rich mix of colors and materials.
+- PCF = Pro Comfort Foam Insock.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D2KVRL72{{</world>}}

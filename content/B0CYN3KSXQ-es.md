@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mediasuela Bounce
+- Horma clásica
+- Suela de goma
 - Empeine textil y sintético
 - Cierre de cordones
-- Suela de goma
-- Horma clásica
+- Mediasuela Bounce
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CYN3KSXQ{{</world>}}

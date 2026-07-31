@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Grúa móvil y giratoria en 360 grados
+- Gancho magnético y cabrestante manual
 - Estimula el razonamiento lógico y ayuda las habilidades motoras en un escenario reconocible
 - Siéntate en esta grúa y controla todas las operaciones de elevación y carga
 - Maniobra los contenedores de madera con precisión
-- Gancho magnético y cabrestante manual
-- Grúa móvil y giratoria en 360 grados
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09DGMX59W{{</world>}}

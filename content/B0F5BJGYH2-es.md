@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Suela duradera para entrenamientos diarios.
 - Parte superior de malla ligera y transpirable.
-- Ideal para correr y caminar
 - GEL en el talón para absorción de impactos
+- Ideal para correr y caminar
 - AMPLIFOAM mejorado para mayor comodidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

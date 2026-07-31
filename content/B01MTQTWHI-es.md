@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cascara cacao, canela, regaliz, algarroba, cebada malteada cacao magro, cardamomo, jengibre, clavo, pimienta negra, ext. Vainilla
 - Mezcla de especias chai tradicional con cascara de cacao
 - Union del cacao con dulce regaliz, jenjibre picante
+- Cascara cacao, canela, regaliz, algarroba, cebada malteada cacao magro, cardamomo, jengibre, clavo, pimienta negra, ext. Vainilla
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MTQTWHI{{</world>}}

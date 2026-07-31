@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fragancia de té verde matcha
 - Para unos labios suaves
+- Fragancia de té verde matcha
 - Exfoliante nutritivo para labios
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Peso ligero
-- Resistente al agua
 - Skechers Detalle del logotipo
+- Resistente al agua
+- Peso ligero
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CB1TMQ7M{{</world>}}

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compatible con filtros de 77mm
-- Enfoque manual
 - Montura para Sony E
 - Incluye parasol extraíble
+- Enfoque manual
 - Para cámaras con sensor Full Frame
 - Con revestimiento UMC anti-reflectante
+- Compatible con filtros de 77mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00TS9FUN6{{</world>}}

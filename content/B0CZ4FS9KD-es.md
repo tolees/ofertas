@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 78% poliamida (reciclada) / 22% elastano
+- Corte ajustado
 - Cintura elástica con cordón
 - Tejido Infinitex
-- Corte ajustado
+- 78% poliamida (reciclada) / 22% elastano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZ4FS9KD{{</world>}}

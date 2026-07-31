@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Puños acanalados, dobladillo y escote
-- Gant bordado gráfico en el pecho
 - Cuello redondo
+- Gant bordado gráfico en el pecho
+- Puños acanalados, dobladillo y escote
 - Corte estándar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

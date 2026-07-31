@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PDP Mando Gaming Inalámbrico Victrix Pro BFG Blanco'
-date: 2026-06-18 15:19:46
+date: 2026-07-30 18:45:04
 image: 'https://m.media-amazon.com/images/I/41+xQ+0KiKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CRZ7KFKZ/?tag=tolees-21'
 descuento: '49.53'
-average: '124.017826086957'
+average: '123.6164'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

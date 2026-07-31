@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Parte superior de cuero
 - Etiqueta tejida en la lengüeta
+- Parte superior de cuero
 - Tobillo acolchado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

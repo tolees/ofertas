@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Reduce granos, puntos negros, marcas de acné e hiperpigmentación. Acabado no graso. Para pieles sensibles.
-- Aplicar sobre el rostro por la mañana y/o por la noche y antes de maquillarse. Evitar el contorno de ojos.
-- Sérum que microexfolia diariamente, combate imperfecciones, desobstruye poros y difumina marcas. Con alta concentración en complejo triácido (Ácido Glicólico, Ácido Salicílico y LHA). Para pieles adultas con tendencia acneica.
-- Agitar antes usar. Aplicar 3 gotas por la noche sobre el rostro, masajear suavemente y evitar la zona de los ojos.
 - Piel protegida de los rayos UVA/UVB/IR-A y la polución. Acabado invisible, efecto matificante. Textura ligera.
-- Reduce imperfecciones, marcas y poros, actúa como peeling diario. Difumina marcas y unifica el tono de la piel.
 - Aplicar el protector solar antes de exponerse al sol. Reaplicar regularmente,.
-- Protector solar fluido SPF50+ de amplio espectro para proteger la piel de los rayos UVA/UVB/IR-A/polución y prevenir la aparición de manchas y el fotoenvejecimiento. Para piel sensible y grasa.
 - Tratamiento que corrige imperfecciones, marcas de acné y previene su reaparición gracias al ingrediente activo Phylobioma, la Niacinamida y la Procerad. Para pieles grasas con tendencia acneica.
+- Aplicar sobre el rostro por la mañana y/o por la noche y antes de maquillarse. Evitar el contorno de ojos.
+- Protector solar fluido SPF50+ de amplio espectro para proteger la piel de los rayos UVA/UVB/IR-A/polución y prevenir la aparición de manchas y el fotoenvejecimiento. Para piel sensible y grasa.
+- Agitar antes usar. Aplicar 3 gotas por la noche sobre el rostro, masajear suavemente y evitar la zona de los ojos.
+- Reduce granos, puntos negros, marcas de acné e hiperpigmentación. Acabado no graso. Para pieles sensibles.
+- Sérum que microexfolia diariamente, combate imperfecciones, desobstruye poros y difumina marcas. Con alta concentración en complejo triácido (Ácido Glicólico, Ácido Salicílico y LHA). Para pieles adultas con tendencia acneica.
+- Reduce imperfecciones, marcas y poros, actúa como peeling diario. Difumina marcas y unifica el tono de la piel.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FKMLJH19{{</world>}}

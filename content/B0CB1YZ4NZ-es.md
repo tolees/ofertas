@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Una mirada original
-- Bolsillos con ribete fino en la parte trasera
 - Bolsillos insertados
+- Bolsillos con ribete fino en la parte trasera
+- Una mirada original
 - Proporciona comodidad
 - Costuras verticales por delante y por detrás de las perneras
 

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Refresco de pomelo con un sabor intenso y muy refrescante
+- Bebida refrescante elaborada 100% con extractos de origen natural
 - Ideal para consumirla sola o mezclada con alcohol con mucho hielo y una rodaja de pomelo. Perfecta para cualquier momento del día. En tu aperitivo en el bar, con los amigos después del trabajo y con tu copa los fines de semana
 - El refresco con sabor pomelo Schweppes sin colorantes
-- Bebida refrescante elaborada 100% con extractos de origen natural
 - Sabor pomelo con la genuina burbuja Schweppes, con la que disfrutarás de una explosión de sabor
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

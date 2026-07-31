@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Teddy jacket
-- materialFabricComposition: 100% Polyester
 - Long Sleeves
+- materialFabricComposition: 100% Polyester
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DD7SG5F5{{</world>}}

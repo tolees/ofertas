@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Suela de goma
 - Entresuela de goma
 - Franja característica PUMA en los lados lateral y medial
 - Elásticos y cierre de velcro.
-- Suela de goma
 - Parte superior de cuero sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

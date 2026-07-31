@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Empeine Hybridfeel con elementos Strikescale
 - Suela Controlplate multisuperficie
-- Forro textil
-- Lengüeta plegable
 - Horma clásica
+- Lengüeta plegable
+- Forro textil
+- Empeine Hybridfeel con elementos Strikescale
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHV46PQM{{</world>}}

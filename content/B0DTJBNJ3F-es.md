@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 100 % algodón
 - Detalle de logotipo bordado en la parte delantera e intarsia de bandera en la manga del puño izquierdo
+- 100 % algodón
 - Suéter de cuello redondo en punto de algodón básico de calidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

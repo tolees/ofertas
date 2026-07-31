@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Materiales: tejido de Poliéster Oxford 600D con estructura de acero resistente a la intemperie
 - Balancín de jardín color marfil con capacidad para 3 personas Aktive Garden
 - Cómodo y seguro: respaldo y asiento acolchados; con reposabrazos; estructura estable con topes antideslizantes en las patas
-- Medidas: 180 cm de ancho, 107 cm de largo y 160 cm de alto; peso soportado 200 kg
 - Toldo inclinable: se puede colocar con mayor o menor inclinación para protegerse de los rayos del sol
+- Materiales: tejido de Poliéster Oxford 600D con estructura de acero resistente a la intemperie
+- Medidas: 180 cm de ancho, 107 cm de largo y 160 cm de alto; peso soportado 200 kg
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B3SBPLB3{{</world>}}

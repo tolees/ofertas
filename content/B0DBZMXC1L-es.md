@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre de cordones
 - Plantilla extraíble
 - Zapatillas unisex
+- Cierre de cordones
 - Horma comfort
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dos bolsillos laterales
-- Con cintura elástica y cordón
 - Dos bolsillos traseros
+- Con cintura elástica y cordón
+- Dos bolsillos laterales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CM54VB9W{{</world>}}

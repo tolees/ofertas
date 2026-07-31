@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Calcetines versátiles
 - Pack de 5 unisex
 - Algodón suave
 - Costura de los dedos plana para evitar la irritación
-- Calcetines versátiles
 - Contiene tela reciclada
 
 [🛒 Aquí!!!]({{< param buyurl >}})

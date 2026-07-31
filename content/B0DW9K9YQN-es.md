@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estampado estilo collage
-- Maga: Corta
 - Estampado Arty
 - Desigual
+- Estampado estilo collage
 - Cuello: Redondo
+- Maga: Corta
 - Fit: Regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})

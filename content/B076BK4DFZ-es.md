@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Facilita la ingesta de medicamentos
 - Muy efectivo como premio
 - 110 Gr
-- Facilita la ingesta de medicamentos
 - TRIXIE MARCA LÍDER : La marca alemana es líder en Europa desde hace casi 50 años. Con más de 7.000 artículos para perros, gatos, roedores, conejos, pájaros, reptiles y peces para convivir con ellas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

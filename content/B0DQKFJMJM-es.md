@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 27 pulgadas WQHD, 300 HZ RAPID VA: Un panel de definición 2560 x 1440 Rapid VA 16:9 cuenta con una tasa de refresco de 300 Hz para un seguimiento fluido del movimiento; un tiempo de respuesta muy bajo de 0.5 ms GtG, Min es óptimo para eSports
+- CONECTIVIDAD HDMI CEC: las opciones de interfaz para consolas de PC y portátiles incluyen puertos DisplayPort 1.4a, HDMI 2.1 CEC; la parte posterior del monitor incorpora un navegador con joystick de 5 direcciones
 - AMPLIA GAMA DE COLOR: El MAG 274QPF X30MV admite hasta 1.070 millones de colores a 152% sRGB para imágenes y detalles más envolventes; cuenta con menos luz azul y emplea tecnología antiparpadeo para reducir la fatiga ocular
 - CONTRASTE DINÁMICO Y AI VISION: El panel Rapid VA viene con un excelente contraste nativo de 4500:1 y soporta contraste dinámico 100M:1; mSI AI Vision enriquece los detalles en áreas oscuras y optimiza el brillo y los colores
 - PANTALLA MINI-LED: El monitor gaming MSI MAG 274QPF X30MV cuenta con una pantalla Mini-LED con 1.152 zonas de atenuación local de matriz completa para un contraste superior y negros profundos; claridad visual mejorada y mayor precisión del color
-- CONECTIVIDAD HDMI CEC: las opciones de interfaz para consolas de PC y portátiles incluyen puertos DisplayPort 1.4a, HDMI 2.1 CEC; la parte posterior del monitor incorpora un navegador con joystick de 5 direcciones
+- 27 pulgadas WQHD, 300 HZ RAPID VA: Un panel de definición 2560 x 1440 Rapid VA 16:9 cuenta con una tasa de refresco de 300 Hz para un seguimiento fluido del movimiento; un tiempo de respuesta muy bajo de 0.5 ms GtG, Min es óptimo para eSports
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQKFJMJM{{</world>}}

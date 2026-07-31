@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Regular Fit
-- Long Sleeves
-- Faux Suede Jacket
 - Care Label:
+- Faux Suede Jacket
+- Long Sleeves
 - materialFabricComposition: Outer: 88% Polyester, 12% Viscose; Lining: 100% Polyester; Padding: 100% Polyester
 
 [🛒 Comprar!!!]({{< param buyurl >}})

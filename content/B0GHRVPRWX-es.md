@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Potencia que elimina hasta la suciedad más difícil: Su motor con 3000 Pa de succión aspira polvo, pelos y restos con gran eficacia, mientras la boca sin cepillo evita enredos y reduce al mínimo el mantenimiento.
-- Control total desde tu móvil: La app permite programar la limpieza, seleccionar modos de aspiración y fregado, y personalizar el plan según tus necesidades. Además, sus 3 sensores anticaídas garantizan una navegación segura en todo momento.
 - Máxima eficacia en los bordes: Sus dos cepillos laterales recogen la suciedad de forma precisa, alcanzando esquinas y bordes con mayor eficiencia.
 - Autonomía para hogares grandes: Con una batería de 2000 mAh y hasta 150 minutos de funcionamiento, el robot cubre superficies de hasta 150 m² sin interrupciones.* *Según las pruebas realizadas en el laboratorio. El rendimiento real varía según la distribución del hogar.
+- Control total desde tu móvil: La app permite programar la limpieza, seleccionar modos de aspiración y fregado, y personalizar el plan según tus necesidades. Además, sus 3 sensores anticaídas garantizan una navegación segura en todo momento.
+- Potencia que elimina hasta la suciedad más difícil: Su motor con 3000 Pa de succión aspira polvo, pelos y restos con gran eficacia, mientras la boca sin cepillo evita enredos y reduce al mínimo el mantenimiento.
 - Limpieza ordenada en cada rincón: Gracias a su navegación giroscópica y diseño compacto (300 mm de diámetro y 80 mm de alto), el robot recorre cada estancia de forma eficaz y accede sin dificultad debajo de los muebles y en espacios estrechos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

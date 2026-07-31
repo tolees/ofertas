@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- materialFabricComposition: Outer: 88% Polyester, 12% Viscose; Lining: 100% Polyester; Padding: 100% Polyester
 - Faux Suede Jacket
 - Care Label:
-- Regular Fit
 - Long Sleeves
-- materialFabricComposition: Outer: 88% Polyester, 12% Viscose; Lining: 100% Polyester; Padding: 100% Polyester
+- Regular Fit
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07JZXLYZB{{</world>}}

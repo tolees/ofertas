@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Desigual
-- Estampado Arty
-- Cintura elástica
 - Largo: Midi
-- Tejido elástico
 - Fit: Regular
+- Tejido elástico
+- Desigual
+- Cintura elástica
+- Estampado Arty
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DWBGTXX6{{</world>}}

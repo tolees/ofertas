@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- INCLUYE BOLSA DE ALMACENAMIENTO - Viene con una práctica bolsa de almacenamiento en la parte posterior para guardar notas, marcadores y otros pequeños objetos, manteniendo tus herramientas e inspiraciones organizadas.
 - TAMAÑO PORTÁTIL - El tamaño de 3,5 x 5,5 pulgadas lo hace fácil de llevar, perfecto para viajar y capturar inspiración en cualquier lugar.
-- PAPEL SIN ÁCIDO - Fabricado con papel sin ácido para asegurar que tus obras de arte se mantengan vibrantes e intactas con el tiempo, sin amarillearse ni deteriorarse.
+- INCLUYE BOLSA DE ALMACENAMIENTO - Viene con una práctica bolsa de almacenamiento en la parte posterior para guardar notas, marcadores y otros pequeños objetos, manteniendo tus herramientas e inspiraciones organizadas.
 - DISEÑO ELEGANTE - El cuaderno de acuarela Funto cuenta con una cubierta de tela verde que es a la vez estéticamente agradable y duradera para un uso prolongado.
+- PAPEL SIN ÁCIDO - Fabricado con papel sin ácido para asegurar que tus obras de arte se mantengan vibrantes e intactas con el tiempo, sin amarillearse ni deteriorarse.
 - PAPEL DE DOBLE CARA PRENSADO EN FRÍO - Papel de alta calidad prensado en frío que no se traspasa y puede usarse en ambos lados, proporcionando más espacio para tu creatividad.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

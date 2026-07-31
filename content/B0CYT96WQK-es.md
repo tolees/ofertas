@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - La parte superior contiene al menos un 50% de material reciclado
+- Horma clásica
+- Mediasuela de aspecto vulcanizado
 - Suela de goma
 - Parte superior de nobuk sintético
 - Forro textil
-- Mediasuela de aspecto vulcanizado
-- Horma clásica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CYT96WQK{{</world>}}

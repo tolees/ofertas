@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela: goma
+- Suela intermedia: Altra EGO
+- Peso: 212 g
 - Altura de la pila: 28 mm
 - Cojín: moderado
-- Peso: 212 g
-- Suela intermedia: Altra EGO
+- Suela: goma
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D482BNYK{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Enormes características: Escaneo, TOT, Vox, Aviso de voz, DTMF, Dual Standby, Actualización de Firmware, Sonido Roger beep Frog. Incluye cargador USB-C y certificado CE.
-- Copia de frecuencia con una tecla (captura automática de frecuencia): Esta función significa que la radio puede copiar la frecuencia de otra radio y el tono CTCSS/DCS y hacer que se comuniquen inmediatamente sin programación (radio y radio dentro de 1 metro de distancia )
-- Rango de frecuencias: Doble Banda TX/RX 144-146/430-40Mhz Banda Amateur, Recepción de Escaneo de Banda Completa, Recepción de Banda Aérea, Recepción de RADIO FM.
 - Doble PTT Soporte NOAA U.S Weather Channel Recepción y cargador tipo C, Alta/Media/Baja potencia Soporte escucha frecuencia de banda aérea AM y también recibe señal de radio CB portátil de 27mhz
 - Esta radio tribanda con 256 canales de almacenamiento (128x2 grupos）y Función de codificador de voz de apoyo, VOX de transmisión de voz.
+- Rango de frecuencias: Doble Banda TX/RX 144-146/430-40Mhz Banda Amateur, Recepción de Escaneo de Banda Completa, Recepción de Banda Aérea, Recepción de RADIO FM.
+- Copia de frecuencia con una tecla (captura automática de frecuencia): Esta función significa que la radio puede copiar la frecuencia de otra radio y el tono CTCSS/DCS y hacer que se comuniquen inmediatamente sin programación (radio y radio dentro de 1 metro de distancia )
+- Enormes características: Escaneo, TOT, Vox, Aviso de voz, DTMF, Dual Standby, Actualización de Firmware, Sonido Roger beep Frog. Incluye cargador USB-C y certificado CE.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C9XF7SBY{{</world>}}

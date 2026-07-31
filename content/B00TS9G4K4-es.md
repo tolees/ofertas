@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Compatible con filtros de 72mm
-- Enfoque manual
-- Incluye parasol extraíble
-- Montura para Fuji X
 - Para cámaras con sensor Full Frame como APS-C
+- Incluye parasol extraíble
+- Compatible con filtros de 72mm
+- Montura para Fuji X
 - Con revestimiento UMC anti-reflectante
+- Enfoque manual
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00TS9G4K4{{</world>}}

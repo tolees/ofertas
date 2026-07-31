@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Las patillas están decoradas con el logotipo ampliado y muestran el alambre metálico central en colores transparentes.
-- La estructura redonda modificada con puente clave está fabricada con materiales ecológicos, para una opción sostenible
 - Ajuste L general
 - Bisagra integrada de alta calidad con espacio entre la parte delantera y las patillas
+- Las patillas están decoradas con el logotipo ampliado y muestran el alambre metálico central en colores transparentes.
+- La estructura redonda modificada con puente clave está fabricada con materiales ecológicos, para una opción sostenible
 - La montura RXable permite la aplicación de lentes oftálmicas.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

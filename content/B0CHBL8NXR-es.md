@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Toalla de playa lisa
 - Material de esponja
+- Toalla de playa lisa
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CHBL8NXR{{</world>}}

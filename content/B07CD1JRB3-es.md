@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Brand: Skechers
 - Talla/Tamaño: 42.5 EU
+- Brand: Skechers
 - Color: Negro (Black 52631/Bbk)
 
 [🛒 Aquí!!!]({{< param buyurl >}})

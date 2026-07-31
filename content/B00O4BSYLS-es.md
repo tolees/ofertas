@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Monoprotéico y hipoalergénico
-- Pienso natural , sino conservantes , colorantes o saborizantes
 - Cuidara la piel de su perro
+- Pienso natural , sino conservantes , colorantes o saborizantes
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00O4BSYLS{{</world>}}

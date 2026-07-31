@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se puede usar de manera sin cables durante 15 minutos y también es muy adecuado para acampadas.
 - Práctico de usar gracias a su depósito de polvo de 0,55 litros y filtro lavable
-- La batería NiMH se carga sola cuando se cuelga el aspirador de mano en el soporte de pared.
+- Se puede usar de manera sin cables durante 15 minutos y también es muy adecuado para acampadas.
 - El aspirador de mano Tristar se puede utilizar tanto para aspirado seco como húmedo.
+- La batería NiMH se carga sola cuando se cuelga el aspirador de mano en el soporte de pared.
 - Con diversos accesorios, entre otros, un cepillo y una boquilla para líquidos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Espuma viscoelástica
-- Detalle del logotipo
 - Peso ligero
+- Detalle del logotipo
+- Espuma viscoelástica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C15FLP8L{{</world>}}

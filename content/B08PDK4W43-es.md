@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hombres
-- Hombre UA ABC Camo Boxed Logo Short Sleeve
 - 1361673-011-XS
+- Hombre UA ABC Camo Boxed Logo Short Sleeve
+- Hombres
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08PDK4W43{{</world>}}

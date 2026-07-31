@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Medidas: 19 cm
 - Color: Tri-tone
-- Acabado: pulido
 - Tipo de cierre: cierre de langosta
+- Medidas: 19 cm
+- Acabado: pulido
 - Material: Acero inoxidable
 
 [🛒 Comprar!!!]({{< param buyurl >}})

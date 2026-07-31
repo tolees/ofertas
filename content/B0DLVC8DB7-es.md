@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Parte superior en material sintético
 - entresuela de EVA
 - Inserto NB Comfort
+- Parte superior en material sintético
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DLVC8DB7{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- EMOCIONANTE Y CLARO: La marca de moda Calvin Klein, fundada en 1968, es conocida por su singular look y lleva conquistando el mundo de la moda desde entonces. La marca americana apuesta por una estética minimalista.
-- AJUSTE PERFECTO: La cazadora se ajusta perfectamente a tu figura y garantiza una óptima libertad de movimientos. La prenda dispone de cremallera y te protege del viento y la intemperie.
 - PARA CUALQUIER OCASIÓN: Esta cazadora es muy versátil y especialmente cómoda. Se puede combinar de manera informal con vaqueros y sneakers o con un estilo más business, esta cazadora acolchada es el compañero ideal para cualquier ocasión.
 - ICÓNICO Y ATEMPORAL: La cazadora acolchada original de Calvin Klein con dos bolsillos y cuello alto convence por su diseño atemporal. Los detalles distintivos de Calvin Klein en el pecho completan el look de esta prenda.
+- EMOCIONANTE Y CLARO: La marca de moda Calvin Klein, fundada en 1968, es conocida por su singular look y lleva conquistando el mundo de la moda desde entonces. La marca americana apuesta por una estética minimalista.
+- AJUSTE PERFECTO: La cazadora se ajusta perfectamente a tu figura y garantiza una óptima libertad de movimientos. La prenda dispone de cremallera y te protege del viento y la intemperie.
 - MATERIAL Y CUIDADO: Cazadora de nailon reciclado 100 %. Se puede lavar a máquina.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

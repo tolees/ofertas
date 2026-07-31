@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Clásica puntera con forma de T
-- Empeine de ante y nailon
 - Suela de goma
-- Mediasuela con amortiguación para una pisada más cómoda
 - Cierre de cordones
+- Empeine de ante y nailon
+- Mediasuela con amortiguación para una pisada más cómoda
 - Horma clásica
 
 [🛒 Comprar!!!]({{< param buyurl >}})

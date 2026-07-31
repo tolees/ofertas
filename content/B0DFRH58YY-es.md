@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hecho de algodón puro
 - Corte entallado
-- Con discreto logotipo bordado en el pecho tono sobre tono
 - Polo clásico liso
+- Con discreto logotipo bordado en el pecho tono sobre tono
+- Hecho de algodón puro
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DFRH58YY{{</world>}}

@@ -28,16 +28,16 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Personaliza cada trabajo - SmartScrub friega 2 veces más a en profundidad*; elige entre 1 y 2 pasadas de limpieza, 4 niveles de potencia de succión y 3 niveles de fregado con agua o solución*. * En comparación con el modo de aspirado y fregado estándar para café.
 - Limpieza a fondo de bordes y esquinas - una mopa de fregado extendida y un cepillo lateral para bordes se combinan para limpiar a lo largo de rodapiés y esquinas que otros robots pasan por alto.
-- Limpieza localizada en segundos - se centra en los accidentes del día a día, como derrames o huellas de barro, sin tener que limpiar toda la habitación.
-- Vuelve a la base y se prepara para la próxima limpieza - cuando termina con la limpieza o la batería empieza a agotarse, el robot vuelve a la base para recargarse, listo para la siguiente tarea o para reanudar un trabajo de la limpieza que hubiera pausado.
-- Fregado fácil y eficaz - la mopa de microfibra lavable elimina suavemente las huellas y las manchas ligeras en suelos. Además, puedes configurar Zonas de no Fregado para proteger las alfombras y que no se mojen mientras friegas.
 - ClearView LiDAR mapea las habitaciones - el robot limpia en filas ordenadas, incluso con poca luz y se mueve con soltura por los espacios de varias habitaciones, incluidos pasillos y espacios abiertos.
-- Controla la limpieza a tu manera - por voz o usando la aplicación Roomba Home o pulsando el botón del robot; la configuración solo tarda unos minutos (requiere una conexión Wi-Fi de 2,4 GHz). Funciona con dispositivos compatibles con Alexa, Siri y el Asistente de Google.
+- Fregado fácil y eficaz - la mopa de microfibra lavable elimina suavemente las huellas y las manchas ligeras en suelos. Además, puedes configurar Zonas de no Fregado para proteger las alfombras y que no se mojen mientras friegas.
+- Limpieza localizada en segundos - se centra en los accidentes del día a día, como derrames o huellas de barro, sin tener que limpiar toda la habitación.
+- Ideal para familias con mascotas - los cepillos antienredos resisten el pelo de mascotas, lo que ayuda a mantener limpios los hogares con mascotas y niños.
+- Personaliza cada trabajo - SmartScrub friega 2 veces más a en profundidad*; elige entre 1 y 2 pasadas de limpieza, 4 niveles de potencia de succión y 3 niveles de fregado con agua o solución*. * En comparación con el modo de aspirado y fregado estándar para café.
 - Aspira y friega en una sola pasada - aspira con 15.000 Pascales de potencia para recoger los restos y el polvo fino cubriendo hasta 83 m‌‌2‌‌ por carga, ideal para hogares pequeños y medianos, mientras que la mopa de fregado limpia la suciedad del día a día,.
 - Mantenimiento mínimo - lava la mopa de fregado según sea necesario y sustituye los filtros y los cepillos cada 3 o 6 meses para mantener un rendimiento de limpieza óptimo.
-- Ideal para familias con mascotas - los cepillos antienredos resisten el pelo de mascotas, lo que ayuda a mantener limpios los hogares con mascotas y niños.
+- Vuelve a la base y se prepara para la próxima limpieza - cuando termina con la limpieza o la batería empieza a agotarse, el robot vuelve a la base para recargarse, listo para la siguiente tarea o para reanudar un trabajo de la limpieza que hubiera pausado.
+- Controla la limpieza a tu manera - por voz o usando la aplicación Roomba Home o pulsando el botón del robot; la configuración solo tarda unos minutos (requiere una conexión Wi-Fi de 2,4 GHz). Funciona con dispositivos compatibles con Alexa, Siri y el Asistente de Google.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0GQVBWMN8{{</world>}}

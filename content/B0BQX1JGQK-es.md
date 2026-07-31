@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Amortiguación en la planta, el talón y la puntera
 - Costuras anatómicas en la puntera
+- Amortiguación en la planta, el talón y la puntera
 - Largo clásico
 - Seis pares por paquete
 - Refuerzo en el arco plantar

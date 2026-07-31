@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Largo: normal
-- Material principal: punto plano
 - Corte: normal
 - Talle: media
+- Material principal: punto plano
+- Largo: normal
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJDGMWSJ{{</world>}}

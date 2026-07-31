@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pack They Call Me Trinity & Trinity Is Still My Name (Blu-ray)
 - Pack Le Llamaban Trinidad & Le Seguian Llamando Trinidad (Blu-ray)
+- Pack They Call Me Trinity & Trinity Is Still My Name (Blu-ray)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07W8LLRBX{{</world>}}

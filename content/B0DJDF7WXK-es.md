@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Pantalones deportivos
-- Cómodo de llevar
 - Mejora tu experiencia deportiva
+- Cómodo de llevar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DJDF7WXK{{</world>}}

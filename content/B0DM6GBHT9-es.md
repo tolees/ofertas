@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Plano tipo de tacón
 - Casual
+- material de suela: Caucho
+- no es resistente al agua
+- Plano tipo de tacón
+- Material interno: sintético
 - Cordones cierre
 - Sin tiras.
-- Material interno: sintético
-- no es resistente al agua
-- material de suela: Caucho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DM6GBHT9{{</world>}}

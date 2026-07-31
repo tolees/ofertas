@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño ligero y cómodo
-- Con una suela duradera
 - Detalles distintivos de la marca
+- Con una suela duradera
+- Diseño ligero y cómodo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D1YLGSM3{{</world>}}

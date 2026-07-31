@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compatibles con Robot Conga 15090 / 16090 / 20090.
 - Incluye 4 Mopas.
+- Compatibles con Robot Conga 15090 / 16090 / 20090.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DXPWV2J1{{</world>}}

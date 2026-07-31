@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Suela: Material sintético
 - Material superior: piel de oveja
 - Revestimiento: Tela
-- Suela: Material sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DHQ8KRRH{{</world>}}

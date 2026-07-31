@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Manga larga
-- Cuello con gruñido
 - 2 bolsillos
 - Malla fina
+- Cuello con gruñido
+- Manga larga
 - Chaqueta recta larga
 
 [🛒 Comprar!!!]({{< param buyurl >}})

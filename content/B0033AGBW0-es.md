@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alta capacidad: La báscula pesa hasta 150 kg
 - Báscula de baño fácil de usar: Pantalla LCD clara con botones sencillos, instrucciones claras y legibles.- Báscula de baño fácil de usar: pantalla LCD clara con botones simples, instrucciones claras y de fácil lectura
 - Báscula de composición corporal total: Esta báscula pesa el peso corporal y mide con precisión el porcentaje de grasa corporal, el índice de masa corporal (IMC), la masa muscular, los niveles de grasa visceral y la tasa metabólica en reposo, siendo ideal como báscula grasa corporal y muscular
+- Alta capacidad: La báscula pesa hasta 150 kg
 - Báscula de composición corporal avanzada: mide con precisión el peso, porcentaje de grasa corporal, IMC, masa muscular, grasa visceral y tasa metabólica en reposo; cuenta con pantalla LCD clara, y soporte para hasta 4 perfiles de usuario para un seguimiento personalizado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estuche de 22cm x 7 cm x 3 cm fabricado en Poliéster.
 - De Joumma Bags.
-- Tamaño perfecto para llevarlo en la mochila, carterón o bolso.
+- Estuche de 22cm x 7 cm x 3 cm fabricado en Poliéster.
 - Perfecto para organizar y llevar recogidos los lapices y bolígrafos.
+- Tamaño perfecto para llevarlo en la mochila, carterón o bolso.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B4DHZVGQ{{</world>}}

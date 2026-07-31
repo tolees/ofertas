@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Confección con material elástico en 4 direcciones que permite una mayor movilidad en cualquier dirección
+- Lave la prenda del revés con colores similares
+- Use solo blanqueador sin cloro cuando sea necesario
 - Cuello acanalado
 - Tejido muy suave de mezcla de algodón que proporciona comodidad durante todo el día
-- Lave la prenda del revés con colores similares
-- Confección con material elástico en 4 direcciones que permite una mayor movilidad en cualquier dirección
-- Use solo blanqueador sin cloro cuando sea necesario
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CN2BWDQY{{</world>}}

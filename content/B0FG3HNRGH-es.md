@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Descubre los alrededores de Villa Quién
-- Nuevos desafios, más recompensas
 - Haz acrobacias, planea o deslumbra con piruetas
+- Nuevos desafios, más recompensas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FG3HNRGH{{</world>}}

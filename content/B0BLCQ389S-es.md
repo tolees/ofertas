@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Perforaciones en la puntera
 - Tacón extragrueso
 - Plantilla cómoda diseñada para proporcionar una amortiguación suave
-- Perforaciones en la puntera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BLCQ389S{{</world>}}

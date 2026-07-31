@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'medicube Crema De Gelatina De Colágeno Niacinamida Y Colágeno Hidrolizado Liofilizado Que Aumentan La Hidratación Protectora De La Piel Collagen 1.69 fl.oz'
-date: 2026-07-28 13:00:41
+date: 2026-07-30 00:20:59
 image: 'https://m.media-amazon.com/images/I/31wI2d5fOoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DGPSZVW3/?tag=tolees-21'
 descuento: '45.03'
-average: '11.936923076923'
+average: '11.7557142857142'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

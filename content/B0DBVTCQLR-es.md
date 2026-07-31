@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Leggings deportivos
 - Tecnología Dri-Fit
 - Logotipo de Nike
+- Leggings deportivos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DBVTCQLR{{</world>}}

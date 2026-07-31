@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Este pack neceser incluye diferentes productos AXE para la higiene y cuidado personal del hombre. After Shave Axe Dark Temptation 100ml. Axe Body Spray Dark Temptation 150ml. Axe Shower Gel Dark Temptation 250ml.
 - ¡Prueba toda la gama de productos masculinos Axe!
+- Este pack neceser incluye diferentes productos AXE para la higiene y cuidado personal del hombre. After Shave Axe Dark Temptation 100ml. Axe Body Spray Dark Temptation 150ml. Axe Shower Gel Dark Temptation 250ml.
 - Con combinación de notas frutales de mandarina y membrillo con aromas frescos y masculinos, como el sándalo, la salvia y el ámbar líquido, le da el aura de un héroe legendario.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

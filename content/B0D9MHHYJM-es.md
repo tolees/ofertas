@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Bolsillo exterior trasero con cremallers
-- Efecto piel
-- Patchwork
 - Cierre: de cremallera
+- Patchwork
+- Efecto piel
 - Cintura elástica
 
 [🛒 Comprar!!!]({{< param buyurl >}})

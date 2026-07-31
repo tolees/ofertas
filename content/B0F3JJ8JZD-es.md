@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 70% algodón, 30% poliéster (100% reciclado)
-- Tejido de felpa
 - Corte clásico
+- Tejido de felpa
+- 70% algodón, 30% poliéster (100% reciclado)
 - Capucha
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sudadera con capucha y cremallera completa
+- Ajuste regular
 - 26% poliéster
 - Felpa francesa en color índigo
 - Dos bolsillos
-- Ajuste regular
+- Sudadera con capucha y cremallera completa
 - Corte regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})

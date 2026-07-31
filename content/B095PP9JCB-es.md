@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Under Armour La misión es hacer que todos los atletas sean mejores a través de la pasión, el diseño y la búsqueda implacable de la innovación
-- ¿Dónde empezamos? Todo comenzó con la idea de confeccionar una camiseta superior
 - La tecnología detrás de la variada gama de productos de Under Armour para hombres, mujeres y jóvenes es compleja, pero el programa para cosechar los beneficios es simple: usa HeatGear cuando haga calor, ColdGear cuando haga frío y AllSeasonGear entre los extremos.
+- ¿Dónde empezamos? Todo comenzó con la idea de confeccionar una camiseta superior
+- Under Armour La misión es hacer que todos los atletas sean mejores a través de la pasión, el diseño y la búsqueda implacable de la innovación
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B095PP9JCB{{</world>}}

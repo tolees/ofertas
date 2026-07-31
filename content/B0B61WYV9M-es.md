@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido transpirable
 - Ajustado
+- Tejido transpirable
 - Cintura elástica con cordón
 
 [🛒 Comprar!!!]({{< param buyurl >}})

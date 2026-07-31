@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- G-Star Bordado RAW en el pecho
 - Un ajuste cómodo
-- Borde en el cuello
 - Costura vertical en la parte delantera
+- G-Star Bordado RAW en el pecho
+- Borde en el cuello
 - Etiqueta tejida G-Star Originals en la parte inferior de la parte delantera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

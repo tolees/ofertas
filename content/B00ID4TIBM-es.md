@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Guisante con vaina gruesa, color verde oscuro y semilla rugosa
 - Ciclo de maduración alrededor de 75 días
 - Se siembran de septiembre a marzo según zonas
+- Guisante con vaina gruesa, color verde oscuro y semilla rugosa
 - Cultivo a chorrillo en líneas separadas 50-60 cm y a golpes de 2-3 semillas a una profundidad de 3-4 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})

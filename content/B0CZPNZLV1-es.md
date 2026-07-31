@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalón: cintura elástica
-- Corte clásico
-- Contiene al menos un 70% de material reciclado y renovable
 - Sudadera: cuello redondo
 - 70% algodón / 30% poliéster (reciclado)
+- Contiene al menos un 70% de material reciclado y renovable
+- Pantalón: cintura elástica
+- Corte clásico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZPNZLV1{{</world>}}

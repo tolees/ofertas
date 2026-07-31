@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Tejido Cómodo: Los Shorts ligeros para hombres de COOFANDY están compuestos de 70 % de rayón y 30 % de poliéster. Suaves, ligeros y respetuosos con la piel, son agradables de llevar y siempre frescos
 - Diseño: Los Shorts de verano para hombres están equipados con un cordón de ajuste elástico, ofreciendo máximo confort en la cintura. Hay bolsillos inclinados a ambos lados para guardar gafas de sol, teléfonos móviles y otros pequeños objetos
+- Nota: Lavado a mano o a máquina hasta 40 ℃. Por favor, elige tu talla según nuestra tabla de tallas en las imágenes
 - Ocasiones: Estos Shorts casuales para hombres son adecuados no solo para el ocio, vacaciones, correr, viajar, el día a día, la playa, fiestas, sino que también pueden ser un regalo para tu padre, hijo o amigo
 - Combinación de Moda: Combina estos Shorts para hombres con una camiseta o una camisa de mezclilla para un look casual diario, o combínalos con una camisa hawaiana y zapatos de playa para un look de vacaciones. Cualquiera que sea el estilo que elijas, estos shorts de verano para hombres son la elección ideal
-- Tejido Cómodo: Los Shorts ligeros para hombres de COOFANDY están compuestos de 70 % de rayón y 30 % de poliéster. Suaves, ligeros y respetuosos con la piel, son agradables de llevar y siempre frescos
-- Nota: Lavado a mano o a máquina hasta 40 ℃. Por favor, elige tu talla según nuestra tabla de tallas en las imágenes
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DK5K2K4D{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La base para look
-- De secado rápido
 - Tela elástica
+- La base para look
 - Rematado con la icónica marca PUMA
+- De secado rápido
 - Pack de 1 para hombre
 
 [🛒 Comprar!!!]({{< param buyurl >}})

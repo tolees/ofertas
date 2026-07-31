@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Entresuela de espuma
-- Cuello acolchado
 - Parte superior de cuero
+- Cuello acolchado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DP2X4DWW{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño con aros.
 - Tirantes ajustables.
+- Diseño con aros.
 - Copas push-up con relleno.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

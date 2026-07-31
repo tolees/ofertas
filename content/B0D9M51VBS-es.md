@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Interruptores izquierdo y derecho duraderos: Los interruptores mecánicos ultrarrápidos están garantizados para 60 millones de clics
 - Agarres laterales con textura: Los agarres laterales texturizados con patrón tri-hex le proporcionan el control adicional que necesita para salir triunfante de los aprietos
 - Sensor óptico preciso de hasta 16.000 ppp: El sensor óptico admite hasta 16.000 ppp para seguir con precisión los movimientos y los objetivos; además, se ajusta sobre la marcha con un botón de PPP específico
 - 55 g. Ligereza y dinamismo en el juego: El M55 vuela por su escritorio con agilidad y precisión gracias a su ligereza
-- Interruptores izquierdo y derecho duraderos: Los interruptores mecánicos ultrarrápidos están garantizados para 60 millones de clics
 - Forma simétrica compacta: Su diseño optimizado se adapta a una amplia variedad de tamaños de mano y estilos de agarre, lo que facilita su control incluso durante un juego trepidante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

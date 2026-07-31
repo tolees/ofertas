@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100 % poliéster (reciclado)
 - CLIMAWARM
-- Bolsillos con cremallera
 - Corte clásico
 - Cortavientos y con acabado hidrófugo
+- Bolsillos con cremallera
+- 100 % poliéster (reciclado)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJGZLGF6{{</world>}}

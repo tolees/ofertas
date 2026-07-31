@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'adidas VL Court 3.0 Shoes Kids  Zapatilla de Deporte Unisex niños  Core Black Cloud White Gum  30.5 EU'
-date: 2025-08-05 11:07:11
-image: 'https://m.media-amazon.com/images/I/21ydAyZjkiL._SL500_._SL400_.jpg'
+title: 'adidas Unisex Kids VL Court 3.0 Core Black/Cloud White/Gum 12 UK Child 30.5 EU'
+date: 2026-07-30 15:26:48
+image: 'https://m.media-amazon.com/images/I/21S4asKTPWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0CKLXLXHD-es adidas VL Court 3.0 Shoes Kids Zapatilla de Deporte Unisex...'
+slug: 'B0CKLXLXHD-es adidas Unisex Kids VL Court 3.0 Core Black/Cloud White/Gum...'
 sku: 'B0CKLXLXHD-es'
-tags: [ 'Moda','Moda Niño','Zapatillas casual para niño','Zapatillas deportivas y de moda para niños','Zapatos de niño','adidas','🇪🇸', ]
-actualPrice: 20.1 EUR
+tags: [ '🇪🇸', ]
+actualPrice: 31.41 EUR
 currency: EUR
-price: 20.1
+price: 31.41
 comparePrice: 50.0 EUR
-prodname: 'adidas VL Court 3.0 Shoes Kids  Zapatilla de Deporte Unisex niños  Core Black Cloud White Gum  30.5 EU'
+prodname: 'adidas Unisex Kids VL Court 3.0 Core Black/Cloud White/Gum 12 UK Child 30.5 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: 'adidas'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CKLXLXHD/?tag=tolees-21'
-descuento: '59.80'
-average: '20.1'
+descuento: '37.18'
+average: '25.755'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior de ante
-- Forro textil
+- Empeine de ante
+- Cierre de cordones
 - Horma clásica
-- Contiene al menos un 20% de material reciclado
-- Suela de goma vulcanizada
-- Mediasuela con amortiguación
+- Forro textil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKLXLXHD{{</world>}}

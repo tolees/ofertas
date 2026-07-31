@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Los productos de la marca Rimmel London están fabricados con ingredientes de la mejor calidad.
 - Maquillaje Rimmel London Lasting Finish Lipstick 084 Amethyst Shimmer 4 g de Rimmel London
+- Los productos de la marca Rimmel London están fabricados con ingredientes de la mejor calidad.
 - Productos de Maquillaje para Mujer
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ojal técnico y lengüeta en el talón con división de costura, logotipo de 1973 en el talón, pieza reflectante en el lateral, cómoda entresuela de EVA con dos líneas de color diferentes en el talón, suela de goma bicolor personalizada y logotipo clásico impreso en el lateral
 - Zapatillas de running Bexley South M fabricadas con una combinación de colores y materiales, forro de cuello en contraste
 - 75% poliuretano, 25% poliamida
+- Ojal técnico y lengüeta en el talón con división de costura, logotipo de 1973 en el talón, pieza reflectante en el lateral, cómoda entresuela de EVA con dos líneas de color diferentes en el talón, suela de goma bicolor personalizada y logotipo clásico impreso en el lateral
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DTPP27DG{{</world>}}

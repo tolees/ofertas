@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Color liso
-- Corte holgado
 - Pantalón
+- Corte holgado
 - Composición del material: 78% algodón, 20% algodón reciclado, 2% elastano
+- Color liso
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CZVLHG53{{</world>}}

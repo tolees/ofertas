@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Forro textil
+- Suela para césped natural seco/multisuperficie
 - Horma clásica
 - Lengüeta perforada
 - Empeine sintético con textura Strikeprint
-- Forro textil
-- Suela para césped natural seco/multisuperficie
 - Cierre de cordones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

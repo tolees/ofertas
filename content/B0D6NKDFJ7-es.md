@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pantalones vaqueros, pantalones largos
-- Composición: 78% algodón, 20% poliéster, 2% elastano
 - Cierre: cremallera y botón
+- Composición: 78% algodón, 20% poliéster, 2% elastano
+- Pantalones vaqueros, pantalones largos
 - Ajuste: recto
 - Instrucciones de cuidado: lavable a máquina
 

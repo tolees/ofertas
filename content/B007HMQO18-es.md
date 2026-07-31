@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Diámetro de la placa aprox. 18.5 cm.
-- Potencia: 1500 W
 - Medidas: 25 x 8,5 x 29 cm.
+- Potencia: 1500 W
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B007HMQO18{{</world>}}

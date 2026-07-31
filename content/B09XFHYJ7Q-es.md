@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- FORMULACIÓN: Formulado con ácido hialurónico, que hidrata profundamente; vitamina E, con potente acción antioxidante; y aloe vera, que calma y suaviza la piel
+- OCEAN RESPECT: Tiene fórmula Ocean Respect, lo que hace que este producto sea respetuoso con tu piel y con el planeta
 - TEXTURA Y COLOR: Este protector solar es de textura ultra ligera, sedosa y de rápida absoricón. Tiene un color transparente con acabado invisible no graso; además, no se pega la arena
 - BODY SPRAY DRY TOUCH: Es un protector solar en formato spray de alta protección contra los rayos UVB y UVA con acabado invisible. Es apto para todo tipo de pieles, mojadas o secas, y especialmente fototipos II y III
-- FORMULACIÓN: Formulado con ácido hialurónico, que hidrata profundamente; vitamina E, con potente acción antioxidante; y aloe vera, que calma y suaviza la piel
 - MODO DE EMPLEO: Aplica el fotoprotector 30 minutos antes de ir a la piscina o playa, ya que los filtros suelen tardar entre 20 y 30 minutos en actuar. Reaplicar en caso de exposición prolongada, sudor o después de mojarse
-- OCEAN RESPECT: Tiene fórmula Ocean Respect, lo que hace que este producto sea respetuoso con tu piel y con el planeta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09XFHYJ7Q{{</world>}}

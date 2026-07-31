@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Surgit létranger, un chasseur de primes grand, sombre et énigmatique. Il capture les fauteurs de troubles et autres fripouilles et les ramène dans le monde civilisé pour quils soient incarcérés
 - Mais létranger a un secret. Pour survivre, il lui faut une opération très coûteuse
 - Pour gagner les moolahs dont il a désespérément besoin, il accepte la chasse ultime proposée par le propriétaire de la rivière mongo. Et laventure prend un tour inattendu
-- Surgit létranger, un chasseur de primes grand, sombre et énigmatique. Il capture les fauteurs de troubles et autres fripouilles et les ramène dans le monde civilisé pour quils soient incarcérés
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0847WWP3T{{</world>}}

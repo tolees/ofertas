@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con un ajuste cómodo
 - Tejido ligero y suave
+- Con un ajuste cómodo
 - Detalles distintivos de la marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})

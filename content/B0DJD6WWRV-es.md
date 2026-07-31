@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - 10 años de energía almacenada, VARTA Consumer Batteries GmbH está certificada según las normas internacionales DIN EN ISO 9001 y DIN EN ISO 14001
 - Ideal para dispositivos con alto consumo de energía como juguetes teledirigidos, mando a distancia, ratón de ordenador, linterna, báscula de baño, dispositivos médicos, termómetro electrónico con gran demanda de energía.
-- Pilas de calidad superior, que proporcionan energía potente y duradera para dispositivos con alto consumo de energía.
 - Pila alcalina potente y estanca, calidad "Made in Germany"
+- Pilas de calidad superior, que proporcionan energía potente y duradera para dispositivos con alto consumo de energía.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJD6WWRV{{</world>}}

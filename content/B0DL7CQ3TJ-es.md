@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Empeine perforado
-- Horma clásica
-- Suela de goma
-- Forro textil
 - Cierre de cordones
+- Horma clásica
 - Empeine de piel y material sintético
+- Forro textil
+- Suela de goma
+- Empeine perforado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DL7CQ3TJ{{</world>}}

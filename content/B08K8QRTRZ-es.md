@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Manga de 3/4
+- Composición: 79% poliéster, 16% viscosa, 5% elastano, forro: 100% poliéster
 - Detalles plisados en las mangas
 - Con un tejido ligero
 - Blazer para mujer de la marca danesa PIECES
-- Composición: 79% poliéster, 16% viscosa, 5% elastano, forro: 100% poliéster
-- Manga de 3/4
 - Chaqueta de corte regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})

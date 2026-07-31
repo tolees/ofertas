@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Artículos entregados: 1x Helly Hansen Womens W All Mountain Glove - Gloves BLACK XS
-- Guantes All Mountain Unisex
 - Helly Techprofessional
 - Diseñado para personas activas que trabajan duro o juegan duro en la montaña
+- Artículos entregados: 1x Helly Hansen Womens W All Mountain Glove - Gloves BLACK XS
+- Guantes All Mountain Unisex
 - Inserto impermeable/transpirable
 
 [🛒 Aquí!!!]({{< param buyurl >}})

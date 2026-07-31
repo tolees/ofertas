@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🏠【 Puerto USB-C】Con su puerto USB-C podrás cargar tus dispositivos electrónicos como: moviles, auriculares Bluetooth….
-- 📐【 Detalles 】Dimensiones: Alto 34 cm. Largo 12,50 cm. Ancho 18 cm; Voltaje: 12V.; Frecuencia 50/60 Hz
-- ✨【 Interruptor Touch 】Cuenta con un interruptor táctil para encender y apagar la lámpara, cambiar la temperatura de color (3 colores) y las intensidades de luz.
-- 💡【 iIluminación LED 】1 fuente de luz de intensidad regulable y 3 CCT (3000-4000-6000K)
 - ⭐【 Articulable】Flexo de escritorio moderno blanco articulable para poder orientar la luz hacia donde lo necesites.
+- 📐【 Detalles 】Dimensiones: Alto 34 cm. Largo 12,50 cm. Ancho 18 cm; Voltaje: 12V.; Frecuencia 50/60 Hz
+- 🏠【 Puerto USB-C】Con su puerto USB-C podrás cargar tus dispositivos electrónicos como: moviles, auriculares Bluetooth….
+- 💡【 iIluminación LED 】1 fuente de luz de intensidad regulable y 3 CCT (3000-4000-6000K)
+- ✨【 Interruptor Touch 】Cuenta con un interruptor táctil para encender y apagar la lámpara, cambiar la temperatura de color (3 colores) y las intensidades de luz.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4KJLHRY{{</world>}}

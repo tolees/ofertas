@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Empeine de malla
-- Cierre de cordones
-- Suela Adiwear
-- Peso: 245 g (talla 38 2/3)
-- Plantilla OrthoLite
-- Drop: 9 mm (talón: 31 mm / antepié: 22 mm)
-- Forro textil
 - Mediasuela Cloudfoam
 - Horma clásica
+- Suela Adiwear
+- Plantilla OrthoLite
+- Drop: 9 mm (talón: 31 mm / antepié: 22 mm)
+- Peso: 245 g (talla 38 2/3)
+- Empeine de malla
+- Forro textil
+- Cierre de cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F1XKK2W6{{</world>}}

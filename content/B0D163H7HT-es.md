@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Lo hacemos con innovación de rendimiento y zapatos, camisas y herramientas digitales que cambian el juego, que empujan los límites de lo que creías posible.
 - Under Armour La misión de los zapatos es simple: hacerte mejor.
 - Eso significa que si estableces un objetivo, te ayudaremos a alcanzarlo.
+- Lo hacemos con innovación de rendimiento y zapatos, camisas y herramientas digitales que cambian el juego, que empujan los límites de lo que creías posible.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D163H7HT{{</world>}}

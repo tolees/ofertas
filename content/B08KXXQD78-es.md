@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Regular Fit
-- Zip Hoodie
-- materialFabricComposition: 76% Cotton, 15% Polyester, 9% Viscose
 - Care Label:
+- materialFabricComposition: 76% Cotton, 15% Polyester, 9% Viscose
+- Zip Hoodie
 - Long Sleeves
 
 [🛒 Aquí!!!]({{< param buyurl >}})

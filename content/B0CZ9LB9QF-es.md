@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Freshrite Polygiene que evita el mal olor
+- Cuello redondo
 - Corte clásico
-- Refuerzos en la sisa
-- Tejido Twistknit
+- Tecnología transpirable
 - 100 % poliéster (71 % reciclado)
 - Contiene al menos un 70 % de material reciclado y renovable
-- Cuello redondo
-- Tecnología transpirable
-- Freshrite Polygiene que evita el mal olor
+- Tejido Twistknit
+- Refuerzos en la sisa
 - Factor de protección solar (FPS)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

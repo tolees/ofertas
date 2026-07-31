@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- APTO PARA TODO TIPO DE RAZAS: Esta pipeta se puede usar en todo tipo de razas de perros, independientemente de su peso. En caso de bañar al perro se recomienda volver a aplicar una pipeta.
-- CALMA Y RELAJA al PERRO: Las pipetas calmantes para perros sirven para solucionar situaciones de ladridos excesivos, marcaje de orina, malas conductas en el hogar, visitas al veterinario, fuegos artificiales, tormentas.
 - Con VALERIANA: la valeriana es una planta con propiedades calmantes y relajantes que reduce los problemas de comportamiento no deseados en perros de una forma natural y muy efectiva.
+- APTO PARA TODO TIPO DE RAZAS: Esta pipeta se puede usar en todo tipo de razas de perros, independientemente de su peso. En caso de bañar al perro se recomienda volver a aplicar una pipeta.
 - MODO DE EMPLEO: Aplicar el contenido de la pipeta entre las dos orejas, se puede aplicar una vez a la semana. El extracto de valeriana comenzara a realizar su efecto aproximadamente 1 hora después de la aplicación de la pipeta.
+- CALMA Y RELAJA al PERRO: Las pipetas calmantes para perros sirven para solucionar situaciones de ladridos excesivos, marcaje de orina, malas conductas en el hogar, visitas al veterinario, fuegos artificiales, tormentas.
 - Apto para su uso en cachorros de más de 3 meses.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

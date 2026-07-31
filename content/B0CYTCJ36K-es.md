@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Cierre de cordones con detalles textiles
 - Empeine de malla con mezcla de materiales
-- Horma clásica
 - Amortiguación LIGHTMOTION
+- Horma clásica
 - Forro textil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

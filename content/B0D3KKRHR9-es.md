@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Certificado de seguridad -- fabricado según las normas de calidad alemanas. La espuma de confort en frío cuenta con el certificado CertiPUR, el tejido respetuoso con la piel ha superado las pruebas Oeko-Tex y la producción es respetuosa con el medio ambiente.
-- Temperatura de sueño de máximo confort -- La adición de fibras de bambú aumenta la transpirabilidad del colchón Novilla en un 30%, haciéndolo más transpirable que la espuma tradicional. La exclusiva espuma con memoria de gel regula la temperatura corporal, y la espuma de corte ondulado acelera la circulación del aire para un sueño seco.
 - Colchón enrollable - el colchón está envasado al vacío y listo para desenrollar en unos minutos; alcanza su tamaño máximo al cabo de 72 horas; Novilla le ofrece 10 años de servicio, así que si tiene alguna pregunta, no dude en ponerse en contacto con nosotros
-- Lavable a 60 grados -- Colchón reversible 2 en 1 (H3 & H4). Funda de colchón de fácil cuidado con cremallera, extraíble y lavable a 60 grados para un entorno de descanso siempre limpio.
+- Temperatura de sueño de máximo confort -- La adición de fibras de bambú aumenta la transpirabilidad del colchón Novilla en un 30%, haciéndolo más transpirable que la espuma tradicional. La exclusiva espuma con memoria de gel regula la temperatura corporal, y la espuma de corte ondulado acelera la circulación del aire para un sueño seco.
+- Certificado de seguridad -- fabricado según las normas de calidad alemanas. La espuma de confort en frío cuenta con el certificado CertiPUR, el tejido respetuoso con la piel ha superado las pruebas Oeko-Tex y la producción es respetuosa con el medio ambiente.
 - 4 capas de espuma - La capa superior contiene espuma con memoria de gel que absorbe y libera activamente el calor corporal. Capa intermedia de espuma Comfort Bamboo + espuma Bamboo Wave para ventilación. La capa inferior de espuma de alta densidad proporciona un fuerte apoyo.
+- Lavable a 60 grados -- Colchón reversible 2 en 1 (H3 & H4). Funda de colchón de fácil cuidado con cremallera, extraíble y lavable a 60 grados para un entorno de descanso siempre limpio.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D3KKRHR9{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tecnología Dri-Fit
 - Camisa de manga larga
+- Tecnología Dri-Fit
 - Ajuste estándar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

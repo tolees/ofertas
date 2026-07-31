@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello de polo con 4 botones
 - 100% poliéster (reciclado)
+- Cuello de polo con 4 botones
 - Corte clásico
 
 [🛒 Visítala!!!]({{< param buyurl >}})

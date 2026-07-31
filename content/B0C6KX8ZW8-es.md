@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ✅Downlight LED 220cm de 20W y 2000 Lúmenes con driver incluido de 3 años de Garantía .
-- ✅La solución perfecta para crear un ambiente elegante, en obra nueva o rehabilitación, para sustituir los actuales focos, para el hogar, oficinas, recepciones, museos, bares, etc.
-- ✅Ideal para sustituir a los tradicionales halógenas, llegando a ahorros de hasta el 90% y a downlight de bajo consumo convencionales, llegando a ahorros de hasta el 60% con lo que se consigue una alta eficiencia energética.
 - ✅Este downlight de empotrar tiene un grado de protección IP20 apto para interiores, además dispone de unas grapas de alta resistencia para realizar una fijación optima.
 - ✅ Esta luminaria está disponible en blanco frío (6000°K).La temperatura de color indicada puede sufrir oscilaciones correspondientes a una tolerancia del 7%, dispone de una vida de alta duración de hasta 30.000 horas.
+- ✅Downlight LED 220cm de 20W y 2000 Lúmenes con driver incluido de 3 años de Garantía .
+- ✅Ideal para sustituir a los tradicionales halógenas, llegando a ahorros de hasta el 90% y a downlight de bajo consumo convencionales, llegando a ahorros de hasta el 60% con lo que se consigue una alta eficiencia energética.
+- ✅La solución perfecta para crear un ambiente elegante, en obra nueva o rehabilitación, para sustituir los actuales focos, para el hogar, oficinas, recepciones, museos, bares, etc.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C6KX8ZW8{{</world>}}

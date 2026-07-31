@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fit estándar
-- El rey de los polos se actualiza. Nuestro polo Sweater Knit cuenta con una tapeta clásica de dos botones, cuello de polo y bordes ribeteados.
 - Un polo supersuave
+- Fit estándar
 - Aireado. Transpirable. Ligero. Esta prenda está confeccionada con una mezcla de lino y algodón que queda genial y resulta siempre cómoda.
+- El rey de los polos se actualiza. Nuestro polo Sweater Knit cuenta con una tapeta clásica de dos botones, cuello de polo y bordes ribeteados.
 - Con tapeta de dos botones
 
 [🛒 Visítala!!!]({{< param buyurl >}})

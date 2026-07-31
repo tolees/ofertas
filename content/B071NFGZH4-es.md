@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- BENEFICIOS: Frena la caída del cabello en hombres y mujeres; Fortalece el cabello; Estimula el crecimiento del cabello; Aumenta el volumen y la densidad de cabellos; Retrasa la aparición de las canas; Ayuda a regular la glándula sebácea
 - ACTIVOS: Extracto de Cebolla Roja. Glucógeno Marino. Sales del Mar Muerto
 - CAMBIO IMAGEN: Es posible que reciba este producto con un cambio de imagen renovada, dado que estamos en proceso de transición hacia un nuevo diseño. Excepto por el diseño, el producto es completamente el mismo.
 - CHAMPÚ ANTI-CAÍDA PARA HOMBRE Y MUJER: El Champú Nº1 Fuerza y Volumen con Extracto de Cebolla Roja y Glucógeno Marino es un champú de uso diario que fortalece el cabello y estimula su crecimiento desde la raíz. Además, en un reciente estudio clínico con voluntarios, bajo control dermatológico demostró su PODER ANTI-CAÍDA, ya que después del uso del tratamiento durante 60 días y con una frecuencia mínima de lavado de 3 días por semana, se concluyó que se reduce la caída del cabello en hasta un 70%. Además, promueve el crecimiento de cabellos nuevos.
+- BENEFICIOS: Frena la caída del cabello en hombres y mujeres; Fortalece el cabello; Estimula el crecimiento del cabello; Aumenta el volumen y la densidad de cabellos; Retrasa la aparición de las canas; Ayuda a regular la glándula sebácea
 - INDICADO PARA: Todos los cabellos. Especialmente graso, débil, seco y quebradizo. Es muy importante seguir las indicaciones de uso ya que se debe emulsionar antes de aplicar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

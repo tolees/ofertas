@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Diseño inspirado en las siluetas clásicas de Jordan para una apariencia icónica.
 - Suela de goma para un agarre óptimo en diferentes superficies.
 - La combinación de cuero y tela asegura durabilidad y transpirabilidad.
-- Diseño inspirado en las siluetas clásicas de Jordan para una apariencia icónica.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0G2Y8LNST{{</world>}}

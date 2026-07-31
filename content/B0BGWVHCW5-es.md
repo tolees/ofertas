@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puntera sin costuras
-- Refuerzo en el arco plantar
 - No asoman por encima de la zapatilla
+- Refuerzo en el arco plantar
+- Puntera sin costuras
 - Tres pares por paquete
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

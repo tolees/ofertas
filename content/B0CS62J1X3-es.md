@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - SAL MARINA Y MENTA: Gel de ducha que te cuida y refresca con sal marina y menta
-- Cómo usarlo: Aplicar el gel en las palmas húmedas o una esponja, luego masajear y aclarar
 - PAQUETE DE 2 X 500 ML DE JABÓN DE DUCHA
+- Cómo usarlo: Aplicar el gel en las palmas húmedas o una esponja, luego masajear y aclarar
 - DERMATOLÓGICAMENTE PROBADO: Indicado para todo tipo de pieles.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fórmula con 75% de ingredientes que cuidan tus labios
-- Fácil aplicación gracias a su textura cremosa que evita que se corra el labial
 - Descubre el perfilador de labios de color riche para el contorno de tus labios e intensificar el color de tu labial
+- Fácil aplicación gracias a su textura cremosa que evita que se corra el labial
 - Consigue un acabado con un color intenso
+- Fórmula con 75% de ingredientes que cuidan tus labios
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08CVRFFBJ{{</world>}}

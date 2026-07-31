@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- EFICIENCIA ENERGÉTICA: Funcionando con 12V, la nevera es ideal para su uso en coche o camping.
 - PRÁCTICO EN EL DÍA A DÍA: El mini-refrigerador robusto y eficiente es ideal para el ocio, las compras, las carreras, el camping, los festivales y las vacaciones.
 - USO VERSÁTIL: Perfecta para salidas, picnics o como refrigeración adicional para fiestas y eventos.
+- EFICIENCIA ENERGÉTICA: Funcionando con 12V, la nevera es ideal para su uso en coche o camping.
 - CONSTRUCCIÓN BIEN PENSADA: El asa sirve como soporte para la tapa cuando está abierta, y los dos cables de conexión están guardados de manera compacta en la tapa.
 - DISEÑO ELEGANTE: El color gris le da a la nevera un aspecto moderno y atractivo.
 

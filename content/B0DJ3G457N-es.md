@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Corte clásico
+- 100% poliéster (reciclado)
 - Cintura elástica con cordón
 - AEROREADY
-- 100% poliéster (reciclado)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DJ3G457N{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apto para lavavajillas
 - El resistente acero inoxidable
+- Apto para lavavajillas
 - Gruesos, finos y nuez moscada / ralladura caras de rejilla
 - Material: acero inoxidable
 

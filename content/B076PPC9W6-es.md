@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Equipado con botón ON/OFF y una conexión de 6,3 mm que ofrece una calidad de sonido profesional.
 - Impedancia 600 Ohms ± 30%, sensibilidad -73 ± 3dB y respuesta de frecuencia 80Hz-12000Hz.
 - El micrófono perfecto para karaokes, actuaciones, conferencias, charlas, etc.
-- Micrófono de tipo dinámico con diseño unidireccional.
 - Micrófono de voz con cable de 3 metros de longitud compatible con múltiples dispositivos.
+- Equipado con botón ON/OFF y una conexión de 6,3 mm que ofrece una calidad de sonido profesional.
+- Micrófono de tipo dinámico con diseño unidireccional.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B076PPC9W6{{</world>}}

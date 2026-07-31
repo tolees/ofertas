@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Vístete con buena conciencia Nuestros altos estándares de sostenibilidad reducen nuestra huella ambiental y garantizan la mejora de las condiciones de los trabajadores del sector de la confección
 - Smart 360 Flex Chino Tapered
+- Vístete con buena conciencia Nuestros altos estándares de sostenibilidad reducen nuestra huella ambiental y garantizan la mejora de las condiciones de los trabajadores del sector de la confección
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07SPFYPSW{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- FORMATO CONVENIENTE: Bolsa resellable de 330 gramos, perfecta para compartir en familia, fiestas, reuniones o disfrutar como snack en cualquier momento
-- INFORMACIÓN NUTRICIONAL: Cada porción de 40g aporta 210 kcal, con 11g de grasas, 24g de hidratos de carbono y 3.9g de proteínas
 - SABOR PEANUT: M&Ms de chocolate con leche rellenos de cacahuete, cubiertos con una capa crujiente de azúcar en colores vibrantes para una experiencia deliciosa
 - ADVERTENCIA DE ALÉRGENOS: Contiene cacahuetes, leche, soja, almendras y avellanas. Ideal para quienes buscan un dulce clásico con sabor a cacahuete
+- FORMATO CONVENIENTE: Bolsa resellable de 330 gramos, perfecta para compartir en familia, fiestas, reuniones o disfrutar como snack en cualquier momento
+- INFORMACIÓN NUTRICIONAL: Cada porción de 40g aporta 210 kcal, con 11g de grasas, 24g de hidratos de carbono y 3.9g de proteínas
 - INGREDIENTES PRINCIPALES: Elaborados con azúcar, cacahuetes, pasta de cacao, leche entera en polvo y manteca de cacao, combinando chocolate con leche de calidad y cacahuetes crujientes
 
 [🛒 Aquí!!!]({{< param buyurl >}})

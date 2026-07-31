@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Aplicar en cabello húmedo, repartiendo de forma uniforme. Emulsionar y aclarar.
 - Champú Reparador y fortalecedor de las áreas más dañadas del cabello con proteína de quínoa dorada para cabello muy dañado y debilitado. El cabello queda instantáneamente reconstruido y transformado desde el interior.
 - Para un cabello gris neutralizado y brillante. Neutraliza los tonos amarillentos indeseados.
-- Aplicar en cabello húmedo, repartiendo de forma uniforme. Emulsionar y aclarar.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09C5XQPCS{{</world>}}

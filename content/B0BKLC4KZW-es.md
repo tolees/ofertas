@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - CÓMODO Y DURADERO — Este cepillo iónico, está equipado con un cable giratorio de 2.5m para mayor libertad de movimiento, y respaldado por una garantía de 2 años para una fiabilidad y rendimiento duradero.
 - SECADO FÁCIL Y RÁPIDO — Con 1000 W de potencia, este cepillo secador garantiza un secado y peinado rápido, lo que lo hace perfecto para las rutinas diarias de cabello.
-- CONSEJOS PARA EL CUIDADO DEL CABELLO — Para cabello delicado, fino, decolorado o teñido, usa baja temperatura para evitar daños. El cabello grueso o con textura puede necesitar más calor. Usa siempre un spray protector antes de peinar.
 - HERRAMIENTA DE PEINADO 4 EN 1 — Este cepillo secador tiene 4 accesorios intercambiables: una boquilla de secado, un cepillo alisador, un cepillo suavizante y un cepillo cerámico ovalado grande, para secar, peinar, suavizar y agregar volumen sin esfuerzo.
+- CONSEJOS PARA EL CUIDADO DEL CABELLO — Para cabello delicado, fino, decolorado o teñido, usa baja temperatura para evitar daños. El cabello grueso o con textura puede necesitar más calor. Usa siempre un spray protector antes de peinar.
 - TECNOLOGÍA AVANZADA PLASMA — Combina iones positivos y negativos para hidratar y equilibrar la humedad, eliminando el encrespamiento mientras deja el cabello suave, acondicionado y con un brillo.
 - AJUSTES DE TEMPERATURA PERSONALIZABLES — El cepillo de aire cuenta con 2 ajustes de calor y una opción de aire frío, para un peinado flexible que se adapta a tu tipo de cabello y al estilo que deseas.
 

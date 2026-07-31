@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - PROTECCIÓN PARA PLANTAS Y ÁRBOLES - puede variar la velocidad para un recorte más suave alrededor de plantas delicadas, y un protector de plantas integrado le permite proteger la corteza en la base de los árboles colocándolo contra el tronco mientras corta
-- GARANTÍA DE 3 AÑOS - por Greenworks, líder mundial en herramientas eléctricas y tecnología de baterías, con una reputación global por su diseño inteligente, alto rendimiento y excelente servicio al cliente.
-- CABEZAL DE CORTE GIRATORIO PARA RECORTAR Y DELIMITAR - el cabezal de corte se ajusta con un simple botón, para que pueda pasar rápidamente y fácilmente desde el recorte debajo de setos y arbustos colgantes hasta la definición de los bordes del césped
-- RECORTADORA DE CÉSPED POTENTE, LIGERA Y BIEN EQUILIBRADA - con un asa de bucle ajustable en altura en el eje para un excelente control - ideal para recortar el césped donde su cortacésped no puede llegar
 - USO CON CUALQUIER BATERÍA GREENWORKS 24V - este es un paquete especial de solo herramientas que viene sin batería. Si ya tiene una herramienta Greenworks 24V, puede usar la misma batería para ahorrar espacio, reducir costos y desperdicios
+- GARANTÍA DE 3 AÑOS - por Greenworks, líder mundial en herramientas eléctricas y tecnología de baterías, con una reputación global por su diseño inteligente, alto rendimiento y excelente servicio al cliente.
+- RECORTADORA DE CÉSPED POTENTE, LIGERA Y BIEN EQUILIBRADA - con un asa de bucle ajustable en altura en el eje para un excelente control - ideal para recortar el césped donde su cortacésped no puede llegar
+- CABEZAL DE CORTE GIRATORIO PARA RECORTAR Y DELIMITAR - el cabezal de corte se ajusta con un simple botón, para que pueda pasar rápidamente y fácilmente desde el recorte debajo de setos y arbustos colgantes hasta la definición de los bordes del césped
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F21MTN1P{{</world>}}

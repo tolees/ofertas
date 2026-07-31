@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adaptador para toma de corriente
 - Para adaptar los productos Thule
+- Adaptador para toma de corriente
 - Permite adaptar la toma eléctrica de 7 pines a las de 13 pines
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

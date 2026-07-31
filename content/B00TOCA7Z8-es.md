@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Para piel madura
 - Hidratante y reafirmante
 - Nutritiva
-- Para piel madura
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00TOCA7Z8{{</world>}}

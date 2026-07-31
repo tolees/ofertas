@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Colleccion ICE boliday
 - Descubra el ICE boliday - Negro con su elegante brazalete jubilee de acero inoxidable dorado, un reloj chic y sofisticado Su diseño refinado, con una pulsera y una esfera lisa, garantiza un estilo atemporal adecuado para quienes buscan un reloj a la vez elegante y es adecuado para todas las ocasiones, desde la oficina hasta la noche
+- Colleccion ICE boliday
 - Resistente al agua hasta 5 ATM : resistente a la inmersión y a los deportes acuáticos (natación, natación deportiva) pero no al submarinismo
 - Reloj para Mujer con Correa de Acero Inoxidable: Small (38mm)
 - Enviado con instrucciones e caja de presentación

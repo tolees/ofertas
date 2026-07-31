@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantilla acolchada y cómoda
 - Entresuela Flex Lite que absorbe los golpes
 - Suela de tracción flexible
+- Plantilla acolchada y cómoda
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6PXCPH6{{</world>}}

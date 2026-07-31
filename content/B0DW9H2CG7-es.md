@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste de cuña
-- Skech-Air
 - Espuma viscoelástica refrigerada por aire
+- Skech-Air
+- Ajuste de cuña
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DW9H2CG7{{</world>}}

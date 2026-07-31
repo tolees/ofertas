@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ingredientes seleccionados
-- Brand: Marnys
-- Alta calidad
 - Vitamina c 1000 20vial marnys
+- Alta calidad
+- Brand: Marnys
+- Ingredientes seleccionados
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08QZ78HGB{{</world>}}

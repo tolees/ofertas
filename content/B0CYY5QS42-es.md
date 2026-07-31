@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tobilleras integradas
 - Exterior: 80% polipropileno / 20% polipropileno reciclado moldeado por inyección
+- Tobilleras integradas
 - Refuerzo interior acolchado de EVA
 - Cierre autoadherente ajustable
 - Placa protectora rígida

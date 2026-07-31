@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - La prenda interior técnica de manga larga de Helly Hansen con un icónico diseño a rayas
-- Artículos entregados: 1x Helly Hansen Hombre Camiseta Térmica HH Lifa Stripe Crew,L,Negro
 - La capa básica técnica de Helly Hansen nunca ha tan buen aspecto; nos hemos inspirado en la icónica franja marinera para esta tripulación de manga larga; nuestra capa base técnica proporciona calor transpirable, control de la humedad y comodidad durante cualquier actividad aeróbica; es óptimo para navegar, hacer senderismo, entrenar, escalar, esquiar y mucho más; llevamos 40 años destacando en la tecnología de capas base HH LIFA; por eso nuestras capas base son la elección preferida de los atletas profesionales
+- Artículos entregados: 1x Helly Hansen Hombre Camiseta Térmica HH Lifa Stripe Crew,L,Negro
 - Exterior: 100% polipropileno
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- AEROREADY
 - Bolsillo oculto en el muslo
 - Mínima cantidad de costuras
-- Talle alto
-- Tejido transpirable
-- Interlock 85% poliéster reciclado / 15% elastán
-- Corte ajustado
 - Diseño estilizado
+- AEROREADY
+- Corte ajustado
+- Talle alto
+- Interlock 85% poliéster reciclado / 15% elastán
+- Tejido transpirable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DJFVZGD4{{</world>}}

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Horma clásica
-- Empeine de piel sintética y ante
-- Cierre de cordones
 - Suela de goma
+- Empeine de piel sintética y ante
 - Clásica puntera con forma de T
 - Forro textil
+- Horma clásica
+- Cierre de cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DK51GK1G{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dibujar permite a los más pequeños dejar volar su imaginación
 - Gramaje del papel: 90g
 - Bloc de dibujo para niños A4
+- Dibujar permite a los más pequeños dejar volar su imaginación
 - Ideal a partir de los 5 años
 
 [🛒 Comprar!!!]({{< param buyurl >}})

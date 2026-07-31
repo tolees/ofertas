@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- 36 COCHES PARA COLECCIONAR– Podrás encontrar uno de los 24 modelos diferentes en este one pack. Además, puedes aumentar tu colección con los 12 coches diferentes del three pack. Cada uno con su propio diseño súper detallado
 - SISTEMA MIX´N RACE – Descubre los únicos vehículos coleccionables que ofrecen una jugabilidad única: el sistema Mix‘N Race. Elige las partes del coche y cambia las ruedas para crear el vehículo más increíble, y hacerlo correr a toda velocidad. No compatibles con T-Racers anteriores (de la serie 1 a la 6)
 - COCHES ‘MOST WANTED’ - Encuentra los coches exclusivos ‘Most wanted’, los coches más buscados con un acabado especial. ¿Serás el afortunado?
 - MILES DE COMBINACIONES POSIBLES – Personaliza tu vehículo como quieras: del diseño más urbano y “cool”, al más fantasioso y atrevido. ¡Los T-Racers pueden ser como tú quieras! ¿Estás listo o lista para el Mix‘N Race?
-- 36 COCHES PARA COLECCIONAR– Podrás encontrar uno de los 24 modelos diferentes en este one pack. Además, puedes aumentar tu colección con los 12 coches diferentes del three pack. Cada uno con su propio diseño súper detallado
-- ¡CORRE A TODA VELOCIDAD! – Horas de diversión para niños y niñas montando su propio vehículo, combinando piezas y haciendo carreras. ¿Cuál T-Racer será el más rápido, el más potente o el más atrevido?
 - DESCUBRE LOS NUEVOS T-RACERS MIX´N RACE– ¡Los nuevos T-Racers Mix´N Race han llegado! Mix: intercambia las partes y las ruedas de los T-Racers para crear tus propios diseños increíbles. Race: hechos para la velocidad, ¡listos para correr!
+- ¡CORRE A TODA VELOCIDAD! – Horas de diversión para niños y niñas montando su propio vehículo, combinando piezas y haciendo carreras. ¿Cuál T-Racer será el más rápido, el más potente o el más atrevido?
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CTMZMV3D{{</world>}}

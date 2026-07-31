@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Auténtico denim elástico negro lavado
 - El estilo de 5 bolsillos se adapta al corte flaco
+- Auténtico denim elástico negro lavado
 - 98% algodón, 2% elastano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

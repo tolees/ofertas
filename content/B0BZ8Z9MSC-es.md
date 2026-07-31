@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Tecnología DryVent
-- Ideal para trekking, escalada, montañismo y otras actividades donde limitar el peso es importante.
 - Suela exterior de goma
+- Ideal para trekking, escalada, montañismo y otras actividades donde limitar el peso es importante.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BZ8Z9MSC{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- AEROREADY
-- Bolsillos con cremallera
 - 100% poliéster (reciclado)
 - Corte clásico
+- AEROREADY
+- Bolsillos con cremallera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZ7H15QW{{</world>}}

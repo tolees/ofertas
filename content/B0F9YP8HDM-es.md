@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cobertura total; Serum antiedad e hidratante; SPF 50; Acabado natural.
-- La base de maquillaje con SPF Nº1 en EEUU*: CC+ Cream de iT COSMETICS. Desarrollada con cirujanos estéticos y dermatólogos, CC+ Cream de IT Cosmetics ofrece una cobertura total proporcionando a tu piel un acabado natural, cuida tu piel con un tratamiento antiedad e hidratante y la protege gracias a su filtro solar de amplio espectro con SPF 50+ UVA/UVB. Para todo tipo de mujeres, sea cual sea tu edad o tipo de piel. Disponible en 12 tonos.
 - Aplica de 1 a 2 dosis sobre la piel limpia en el rostro, cuello y escote con tu brocha Heavenly Luxe Complexion Perfection Brush #7 en movimientos circulares proporcionando un acabado natural y una hidratación hasta 24h. También puedes utilizarlo como crema hidratante diaria y sérum antiedad.
+- La base de maquillaje con SPF Nº1 en EEUU*: CC+ Cream de iT COSMETICS. Desarrollada con cirujanos estéticos y dermatólogos, CC+ Cream de IT Cosmetics ofrece una cobertura total proporcionando a tu piel un acabado natural, cuida tu piel con un tratamiento antiedad e hidratante y la protege gracias a su filtro solar de amplio espectro con SPF 50+ UVA/UVB. Para todo tipo de mujeres, sea cual sea tu edad o tipo de piel. Disponible en 12 tonos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F9YP8HDM{{</world>}}

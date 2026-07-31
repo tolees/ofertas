@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El cuidado facial puede aplicarse como crema de día, cuidado de noche o como cuidado 24h
 - Para el cuidado intensivo de la piel
+- El cuidado facial puede aplicarse como crema de día, cuidado de noche o como cuidado 24h
 - Aplicar en rostro, cuello y escote
 - Crema nutritiva con aceite de argán para pieles secas que necesitan regenerarse
 

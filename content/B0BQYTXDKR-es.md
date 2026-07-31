@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Velocidad máxima de hasta 9 km/h>
-- FUNCIÓN COMPLETA control hacia adelante atrás izquierda derecha con tecnología de 2 4 GHz sin interferencias
-- MODELO CON LICENCIA DE NINTENDO: conocido por los populares videojuegos
 - Vehículo Mario Kart a control remoto del Carrera RC en escala 1:18
 - Control del juego de niños
+- MODELO CON LICENCIA DE NINTENDO: conocido por los populares videojuegos
+- Velocidad máxima de hasta 9 km/h>
+- FUNCIÓN COMPLETA control hacia adelante atrás izquierda derecha con tecnología de 2 4 GHz sin interferencias
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQYTXDKR{{</world>}}

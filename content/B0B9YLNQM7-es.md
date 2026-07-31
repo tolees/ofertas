@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 🎉 ¡480 CARTAS DE LOCURA! Momentazos, combinaciones infinitas y humor atrevido para noches épicas. Risas garantizadas en cada ronda.
 - 😂 ¡RESPONDE Y GANA! Rellena el hueco con la opción más divertida y sorprende a todos. Un juego de cartas ideal para reír en grupo.
+- 🎉 ¡480 CARTAS DE LOCURA! Momentazos, combinaciones infinitas y humor atrevido para noches épicas. Risas garantizadas en cada ronda.
+- 🌱 ¡ECOFRIENDLY! Juego de mesa y cartas impresas en la Unión Europea con papel de bosques gestionados de forma sostenible.
 - 🎁 ¡REGALO ORIGINAL! Ideal para hombres y mujeres. Un juego original para ambientar cualquier fiesta y sorprender a tus amigos.
 - ⚡ ¡PARTIDAS INFINITAS! De 3 a 10 jugadores, 15–60 min. Millones de combinaciones para crear noches únicas e inolvidables.
-- 🌱 ¡ECOFRIENDLY! Juego de mesa y cartas impresas en la Unión Europea con papel de bosques gestionados de forma sostenible.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B9YLNQM7{{</world>}}

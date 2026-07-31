@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Solapa con 3 botones con el logotipo de Skechers y cuello de punto plano
-- Corte clásico
-- Skechers GO DRI Piqué es un tejido de mezcla de algodón transpirable y ligero con elástico cómodo
 - 55 % piqué de algodón orgánico, 44 % poliéster
 - Logotipo bordado de Skechers con diamantes
+- Corte clásico
+- Skechers GO DRI Piqué es un tejido de mezcla de algodón transpirable y ligero con elástico cómodo
+- Solapa con 3 botones con el logotipo de Skechers y cuello de punto plano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CBQL1YYQ{{</world>}}

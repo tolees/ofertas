@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Excelente base de maquillaje
-- Crema solar facial con muy alta fotoproteccion SPF50+ anti-envejecimiento con color que hidrata y reafirma la piel
 - Gracias a la ectoina ofrece una protección frente a los rayos UVA-UVB y proteje de la luz azul e infreroja
-- Para piel sensible, normal y seca. Resistente al agua y antioxidante
-- Aporta elasticidad gracias al extracto de Schizandra Chinensis y acción hidratante gracias al Ácido Hialurónico
+- Crema solar facial con muy alta fotoproteccion SPF50+ anti-envejecimiento con color que hidrata y reafirma la piel
 - Contiene Age-Repair Complex y Pro-DNA Complex, que ayudan al fotoenvejecimiento de la piel del rostro, favoreciendo la elasticidad natural y dejándola suave y tersa
+- Aporta elasticidad gracias al extracto de Schizandra Chinensis y acción hidratante gracias al Ácido Hialurónico
+- Para piel sensible, normal y seca. Resistente al agua y antioxidante
+- Excelente base de maquillaje
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CXF1PG6C{{</world>}}

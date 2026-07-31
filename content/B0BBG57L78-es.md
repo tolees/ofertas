@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ÁCIDO HIALURÓNICO: crema solar con efecto luminoso e hidratante pues esta enriquecida con ácido hialurónico para mantener la piel hidratada todo el día. ¡Un imprescindible en tu rutina facial!
-- COMO SI NO LLEVASES NADA: fórmula ligera de fácil absorción que no deja residuo blanquecino. Aplicar dos dedos de longitud para cara y cuello, después de la crema hidratante y antes del maquillaje.
-- VEGANO Y CRUELTY FREE: 3INA es una marca de maquillaje española que fabrica en Europa. Todos nuestros productos son veganos, libres de parabenos y sin crueldad animal.
 - PROTECTOR FACIAL: crema solar vegana hidratante con alta protección frente a los rayos UVA-UVB y la luz azul de las pantallas. Protector solar ideal para uso diario y apto para todo tipo de pieles.
+- COMO SI NO LLEVASES NADA: fórmula ligera de fácil absorción que no deja residuo blanquecino. Aplicar dos dedos de longitud para cara y cuello, después de la crema hidratante y antes del maquillaje.
+- ÁCIDO HIALURÓNICO: crema solar con efecto luminoso e hidratante pues esta enriquecida con ácido hialurónico para mantener la piel hidratada todo el día. ¡Un imprescindible en tu rutina facial!
 - CADA DÍA: protector de fragancia neutra que prepara tu piel para ofrecer una apariencia saludable. Espera unos minutos hasta su completa absorción para aplicar tu The 24h Foundation de 3INA.
+- VEGANO Y CRUELTY FREE: 3INA es una marca de maquillaje española que fabrica en Europa. Todos nuestros productos son veganos, libres de parabenos y sin crueldad animal.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BBG57L78{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Un modelo imprescindible para diario
 - Caña baja
 - Logotipo en el talón en bajo relieve
-- Un modelo imprescindible para diario
 - Silueta sencilla
 - Detalles distintivos de la marca
 

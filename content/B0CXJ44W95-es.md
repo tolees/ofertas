@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estética retro
 - Sistema de amortiguación de última generación
+- Estética retro
 - Diseño híbrido de camino/sendero
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

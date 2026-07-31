@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Entresuela y suela de goma
-- Puma Tira de forma en los lados lateral y medial
 - Parte superior de piel sintética
+- Puma Tira de forma en los lados lateral y medial
+- Entresuela y suela de goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DJC2TFR8{{</world>}}

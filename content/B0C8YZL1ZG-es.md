@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Varios colores disponibles
 - De la marca Quiksilver
 - Se anudan mediante un cordón
-- Varios colores disponibles
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C8YZL1ZG{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Puños acanalados, bajo redondeado
 - Proporciona comodidad
 - Cuello redondo de canalé con pieza triangular insertada
-- Paneles laterales y cintura acanalados
-- Puños acanalados, bajo redondeado
 - Bordado de G-STAR en el pecho
+- Paneles laterales y cintura acanalados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B098XSP6ZN{{</world>}}

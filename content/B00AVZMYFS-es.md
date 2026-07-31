@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Composición: Textil
-- Cierre: Cordones
-- Tipo de talla: Talla estándar
-- Material de la suela: Caucho
-- Revestimiento: Tela
 - Tipo de tacón: Plano
+- Tipo de talla: Talla estándar
+- Revestimiento: Tela
 - Material exterior: Lona
+- Cierre: Cordones
+- Material de la suela: Caucho
+- Composición: Textil
 - Anchura del zapato: Normal
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Manga corta
 - Marca: Billabong
 - Cuello redondo
-- Manga corta
 - Diseño ligero
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

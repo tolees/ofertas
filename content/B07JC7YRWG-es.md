@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CONFORT: Las zapatillas para la playa y la piscina Chicco son flexibles, ligeras y prácticas
 - CIABATTA: Zapatilla Chicco, ideal para la playa y la piscina
+- CONFORT: Las zapatillas para la playa y la piscina Chicco son flexibles, ligeras y prácticas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07JC7YRWG{{</world>}}

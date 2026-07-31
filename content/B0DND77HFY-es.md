@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hecho de acetato de vinilo de etileno
 - Cierre sin cordones
+- Hecho de acetato de vinilo de etileno
 - Chanclas casuales para mujer de la marca Crocs
 
 [🛒 Visítala!!!]({{< param buyurl >}})

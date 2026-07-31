@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Este vestido corto tiene un diseño atemporal y es muy cómodo
-- Diseño desenfadado
 - Cuello redondo
+- Diseño desenfadado
+- Este vestido corto tiene un diseño atemporal y es muy cómodo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4NWTKNL{{</world>}}

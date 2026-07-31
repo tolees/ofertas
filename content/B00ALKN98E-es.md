@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - isAutographed : false
 - packageQuantity : 1
-- productGroup : Personal Computer
 - Brand : Asus
+- productGroup : Personal Computer
 - isMemorabilia : false
 
 [🛒 Aquí!!!]({{< param buyurl >}})

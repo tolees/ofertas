@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Corte holgado
+- Bolsillo protegido por cremallera
 - Estampado reflectante en zonas clave
 - Culote interior extraíble con badana
-- Bolsillo protegido por cremallera
-- Corte holgado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08VJ27TL6{{</world>}}

@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Chándal de dos piezas formado por chaqueta con cuello alto y pantalón largo con bolsillos y cintura elástica ajustable. Logotipo estampado.
 - Pantalón con cordones
-- Rib en puños y bajo
 - Chaqueta con cremallera
+- Rib en puños y bajo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08Y3NHMW9{{</world>}}

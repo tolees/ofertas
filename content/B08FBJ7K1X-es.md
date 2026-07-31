@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Forro de tela suave
-- Material: cuero nubuck
 - Suela flexible
+- Material: cuero nubuck
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08FBJ7K1X{{</world>}}

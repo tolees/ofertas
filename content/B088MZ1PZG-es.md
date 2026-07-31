@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se compone de los siguientes cuchillos:
-- 1 cuchillo de Chef de 20 cms de filo; 1 cuchillo Santoku o asiático (con filo alveolado) de 17,5 cms; 1 cuchillo multiusos de 12,5 cms. de filo; y 1 cuchillo pelador de 8,75 cms de filo.
-- Cómodas empuñaduras ergonómicas, con detalles en las defensas a juego con la colección, en efecto martilleado.
 - Espectacular colección de 4 cuchillos de cocina de la colección Origen de San Ignacio.
+- Se compone de los siguientes cuchillos:
+- Cómodas empuñaduras ergonómicas, con detalles en las defensas a juego con la colección, en efecto martilleado.
+- 1 cuchillo de Chef de 20 cms de filo; 1 cuchillo Santoku o asiático (con filo alveolado) de 17,5 cms; 1 cuchillo multiusos de 12,5 cms. de filo; y 1 cuchillo pelador de 8,75 cms de filo.
 - Están fabricados en acero inoxidable, con revestimiento satinado en los filos, y detalles de martilleado en los mangos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

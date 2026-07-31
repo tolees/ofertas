@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color: blanco
 - Personaliza tus combinaciones de luces con NZXT CAM. Puedes sincronizarlo fácilmente con todos tus accesorios de iluminación compatibles.
 - El diseño de las aspas del ventilador ofrece un equilibrio extraordinario entre presión estática y flujo de aire, y hace que funcione de manera tan silenciosa como un susurro.
+- Color: blanco
 - Ilumina tu ordenador para jugar, con 18.luces LED RGB personalizables por separado para disfrutar de efectos de luz armonizados.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

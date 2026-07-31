@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo frontal
 - Cremallera principal
+- Logotipo frontal
 - Diseño de un solo compartimento
 
 [🛒 Comprar!!!]({{< param buyurl >}})

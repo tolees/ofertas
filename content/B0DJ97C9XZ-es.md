@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Ancho estándar
+- Empeine textil
 - Recomendado para: pisada neutra
 - Con cordones
-- Ancho estándar
 - Detalles de la marca PUMA
-- Empeine textil
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DJ97C9XZ{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Origen Exclusivo: Los granos de café de esta mezcla provienen de las mejores plantaciones de América Central y Meridional, garantizando un café de origen trazable y de carácter único.
 - NUEVA LÍNEA TOSCANA ARTESANAL 2024: Descubre la última creación de Caffè Corsini, una mezcla exclusiva de Café en Grano 100% Arábica, diseñada para una experiencia de sabor innovadora e inolvidable.
-- Aromático y Suave: Mezcla de Café en Grano 100% Arábica, con notas de caramelo y chocolate. Las fragancias frutales se combinan con toques de caramelo, creando un perfil aromático distintivo y pronunciado.
 - Sabor Pleno y con Cuerpo: Con un cuerpo de 3/6, una dulzura de 3/6 y una intensidad de 9/13, esta mezcla de café en grano 100% Arábica ofrece un sabor equilibrado, con cuerpo y agradablemente balanceado, perfecto para quienes buscan un café con un sabor rico y armonioso.
 - Tostado Medio: El tostado medio está diseñado para resaltar las características naturales del café en granos, proporcionando al café un perfil aromático equilibrado y un cuerpo sedoso que envuelve el paladar.
+- Origen Exclusivo: Los granos de café de esta mezcla provienen de las mejores plantaciones de América Central y Meridional, garantizando un café de origen trazable y de carácter único.
+- Aromático y Suave: Mezcla de Café en Grano 100% Arábica, con notas de caramelo y chocolate. Las fragancias frutales se combinan con toques de caramelo, creando un perfil aromático distintivo y pronunciado.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DHCRJC2H{{</world>}}

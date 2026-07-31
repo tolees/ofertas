@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- SIEMPRE DE MODA - Un maletín transparente en el que identificarás todos los productos desde fuera fácilmente. Con los bordes exteriores y el asa metalizados para darle un toque chic de contraste
+- UN REGALO ESPECIAL PARA TUS AMIGOS - Un atrevido embalaje con un diseño especial para un colorido kit de maquillaje: el regalo perfecto para todos los amantes de la belleza que quieren viajar con todo
 - SEGURO - El maquillaje The Color Workshop es apto para todo tipo de pieles y cumple con las normas EU. Siempre hemos cuidado la seguridad y la calidad de nuestros productos
 - NO FALTA NADA - Un mega maletín que incluye 20 tonos de sombras de ojos, 2 brillos labiales y 3 barras de labios, 1 lápiz de ojos, 4 coloretes, 4 bronceadores, 3 polvos compactos y ¡mucho más!
-- UN REGALO ESPECIAL PARA TUS AMIGOS - Un atrevido embalaje con un diseño especial para un colorido kit de maquillaje: el regalo perfecto para todos los amantes de la belleza que quieren viajar con todo
-- SIEMPRE DE MODA - Un maletín transparente en el que identificarás todos los productos desde fuera fácilmente. Con los bordes exteriores y el asa metalizados para darle un toque chic de contraste
 - UNA LARGA HISTORIA - Hace más de tres décadas que The Color Workshop ofrece una amplia gama de artículos de belleza innovadores y asequibles, inspirados en las últimas tendencias de belleza y moda
 
 [🛒 Comprar!!!]({{< param buyurl >}})

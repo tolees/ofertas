@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillos altos: Bolsillo canguro
 - Mango largo
+- Bolsillos altos: Bolsillo canguro
 - Con capucha
 - Corte casual
 

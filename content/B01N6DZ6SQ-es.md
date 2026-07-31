@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- NO INDICADA PARA SUPERFICIES POROSAS NI USO EXTERIOR – No se recomienda sobre superficies porosas ni en aplicaciones exteriores. Usar sobre materiales no absorbentes, secos y limpios para asegurar un sellado eficaz.
 - SELLADOR BLANCO PARA BAÑOS CON PROTECCIÓN ANTIMOHO – Silicona acética de alta calidad, formulada para baños y cocinas. Previene eficazmente el moho, proporcionando juntas limpias, duraderas y resistentes al envejecimiento.
 - COMPATIBLE CON SUPERFICIES DE BAÑO Y COCINA – Excelente adherencia sobre vidrio, cerámica, materiales vitrificados, aluminio anodizado y superficies pintadas. Ideal para mamparas, bañeras, fregaderos y cámaras frigoríficas.
+- NO INDICADA PARA SUPERFICIES POROSAS NI USO EXTERIOR – No se recomienda sobre superficies porosas ni en aplicaciones exteriores. Usar sobre materiales no absorbentes, secos y limpios para asegurar un sellado eficaz.
 - FORMATO DE 300ML CON SECADO RÁPIDO Y ACCIÓN FUNGICIDA – El tubo de 300 ml contiene silicona blanca de curado rápido con efecto fungicida, que impide la aparición de hongos y elimina los existentes en zonas húmedas.
 - APLICACIÓN LIMPIA Y RÁPIDA EN ENTORNOS HÚMEDOS – Se aplica fácilmente con pistola de silicona. Para un sellado óptimo, alisar con espátula antes del curado superficial. Limpieza sencilla con paño seco o disolvente.
 

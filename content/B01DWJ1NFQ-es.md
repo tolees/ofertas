@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Diseño protegido por copyright mopec. Todos los derechos reservados.
+- Detalle bodas de oro, 50 aniversario
+- Tiene una base estable
 - Figura para tartas de boda de oro original
 - Producto de poli resina pintada a mano más ligera y menos frágil que la cerámica o la porcelana
-- Detalle bodas de oro, 50 aniversario
-- Diseño protegido por copyright mopec. Todos los derechos reservados.
-- Tiene una base estable
 - Figura para tarta Bodas de Oro, pareja en sofá dorado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dimensiones del producto: 8,5 x 8,5 x 7 cm
 - Perfecta para tomar notas, hacer listas de tareas o escribir ideas creativas
+- Dimensiones del producto: 8,5 x 8,5 x 7 cm
 - Caja de notas práctica
 
 [🛒 Comprar!!!]({{< param buyurl >}})

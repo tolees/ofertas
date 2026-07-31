@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Difusión de Luz Suave y Sutil – Su diseño invertido genera reflejos en capas tipo radar y transiciones de luz suaves. Produce sombras más blandas con menor intensidad general. Paneles exteriores con Velcro para colocar faldones opcionales (no incluidos).
-- Montaje en un Solo Paso – Con estructura de apertura rápida que permite plegar o desplegar con un solo clic, ahorrando hasta un 80 % de tiempo frente a los softboxes tradicionales. Ideal para rodajes en estudio y exteriores.
-- Portabilidad Ultra Compacta – Solo pesa 630 g y plegado mide 61×20×6,5 cm. Su estructura optimizada reduce el volumen hasta un 40 % frente a los softboxes esféricos, ideal para estudios de techo bajo o espacios reducidos.
 - Usos Versátiles – Ideal para retratos, sesiones de belleza, luz ambiental o cenital y simulación de luz natural. Perfecto para entrevistas, directos, fotografía de recién nacidos y trabajos en estudio o en locación.
+- Portabilidad Ultra Compacta – Solo pesa 630 g y plegado mide 61×20×6,5 cm. Su estructura optimizada reduce el volumen hasta un 40 % frente a los softboxes esféricos, ideal para estudios de techo bajo o espacios reducidos.
 - Compatibilidad Amplia – Montura Bowens estándar de aluminio duradero, compatible con flashes, luces continuas y lámparas COB. El diseño desmontable permite intercambiar fácilmente otros anillos adaptadores.
+- Montaje en un Solo Paso – Con estructura de apertura rápida que permite plegar o desplegar con un solo clic, ahorrando hasta un 80 % de tiempo frente a los softboxes tradicionales. Ideal para rodajes en estudio y exteriores.
+- Difusión de Luz Suave y Sutil – Su diseño invertido genera reflejos en capas tipo radar y transiciones de luz suaves. Produce sombras más blandas con menor intensidad general. Paneles exteriores con Velcro para colocar faldones opcionales (no incluidos).
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DT71KRYK{{</world>}}

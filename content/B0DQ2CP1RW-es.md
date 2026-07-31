@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño compacto y versátil para cualquier ocasión.
 - Bolsillo exterior y compartimento principal con cremallera.
 - Cuero martillado con acabado elegante.
+- Diseño compacto y versátil para cualquier ocasión.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQ2CP1RW{{</world>}}

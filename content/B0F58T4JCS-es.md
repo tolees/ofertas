@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 100 % poliéster
 - Negro/Verde oscuro/Blanco/Escarlata
 - adidas Conjunto completo de pantalones de punto de 3 rayas
+- 100 % poliéster
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F58T4JCS{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Unisex - Braga de cuello
 - 95% poliéster reciclado - 5% Elastano
+- Unisex - Braga de cuello
 - Running
 
 [🛒 Visítala!!!]({{< param buyurl >}})

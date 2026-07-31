@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tejido reciclado: Tejido Repreve trazable de poliéster reciclado, elástico en 4 direcciones, fabricado a base de botellas de plástico
-- Cintura: Cintura con cordón totalmente elástica
-- corte:diseño más corto
 - Logo serigrafiado en la pierna izquierda
+- Cintura: Cintura con cordón totalmente elástica
+- Tejido reciclado: Tejido Repreve trazable de poliéster reciclado, elástico en 4 direcciones, fabricado a base de botellas de plástico
+- corte:diseño más corto
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08PFZVGWJ{{</world>}}

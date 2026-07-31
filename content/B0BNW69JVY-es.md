@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- BILLABONG - Talla única, color gris
-- Suministros escolares
 - Accesorios pequeños
+- Suministros escolares
+- BILLABONG - Talla única, color gris
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BNW69JVY{{</world>}}

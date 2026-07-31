@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Fit: Skater
-- Cuello: Redondo
 - Estampado Arty
 - Manga: Larga
-- Desigual
 - Largo: Corto
+- Desigual
+- Cuello: Redondo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DVCCP1L9{{</world>}}

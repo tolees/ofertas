@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alerta Sonora y Visual: Al detectar voltaje, el tester comprobador emite luz roja y un pitido, cuanto mayor sea el voltaje o más cerca de la fuente, más rápida será la frecuencia. La pantalla se pone roja para alta tensión/fase y verde para baja tensión/neutro, haciendo la indicación más clara.
+- Portátil y Eficiente: Incluye luz LED para ambientes oscuros; alerta para batería baja por debajo de 2.3V; apagado automático tras 3 minutos sin uso. Funciona con 2 pilas AAA (no incluidas), ligero y fácil de transportar.
 - Doble Rango de Sensibilidad: Soporta detección de voltaje AC en rangos 12-1000V o 48-1000V. Cuando en la pantalla aparece la “S” está en modo alta sensibilidad (12-1000V); sin “S” es modo baja sensibilidad (48-1000V). Ajusta fácilmente según necesidad. Para voltajes superiores a 48V y contacto cercano, se recomienda usar baja sensibilidad para evitar falsas alarmas.
+- Portátil y Eficiente: Incluye luz LED para ambientes oscuros; alerta para batería baja por debajo de 2.3V; apagado automático tras 3 minutos sin uso. Funciona con 2 pilas AAA (no incluidas), ligero y fácil de transportar.
+- Alerta Sonora y Visual: Al detectar voltaje, el tester comprobador emite luz roja y un pitido, cuanto mayor sea el voltaje o más cerca de la fuente, más rápida será la frecuencia. La pantalla se pone roja para alta tensión/fase y verde para baja tensión/neutro, haciendo la indicación más clara.
 - Medición Sin Contacto: Usa tecnología de inducción NCV, solo acerca la punta del tester a enchufes, cables o líneas eléctricas para saber si hay corriente y detectar automáticamente fase y neutro. También soporta búsqueda de puntos de ruptura.
-- Portátil y Eficiente: Incluye luz LED para ambientes oscuros; alerta para batería baja por debajo de 2.3V; apagado automático tras 3 minutos sin uso. Funciona con 2 pilas AAA (no incluidas), ligero y fácil de transportar.
-- Portátil y Eficiente: Incluye luz LED para ambientes oscuros; alerta para batería baja por debajo de 2.3V; apagado automático tras 3 minutos sin uso. Funciona con 2 pilas AAA (no incluidas), ligero y fácil de transportar.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DZMXR95Y{{</world>}}

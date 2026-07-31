@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- SUPERPOSICIÓN EN EL TALÓN: Proporciona soporte y un área sutil para acentos de color.
 - SILUETA INSPIRADA EN LA CANCHA: Diseño clásico de tenis para un look elegante y atemporal.
+- SUPERPOSICIÓN EN EL TALÓN: Proporciona soporte y un área sutil para acentos de color.
 - CIERRE DE CORDONES: Ajuste seguro con cordones tradicionales para comodidad durante todo el día.
 - UPPER LIMPIO: Diseño minimalista que combina fácilmente con cualquier atuendo.
 

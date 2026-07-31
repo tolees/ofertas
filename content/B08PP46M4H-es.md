@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte clásico
 - Cintura elástica con cordón
+- Corte clásico
 - Interlock 100% poliéster reciclado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

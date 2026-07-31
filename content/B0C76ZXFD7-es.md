@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ligeras
 - Skechers Detalle del logotipo
+- Ligeras
 - Cómodos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

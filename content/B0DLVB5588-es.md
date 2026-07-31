@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Inserto NB Comfort
 - Parte superior en material sintético
+- Inserto NB Comfort
 - entresuela de EVA
 
 [🛒 Aquí!!!]({{< param buyurl >}})

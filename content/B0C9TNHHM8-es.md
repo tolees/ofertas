@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste: corte regular
-- Composición: 100% algodón
 - Color: negro
+- Composición: 100% algodón
+- Ajuste: corte regular
 - Camiseta informal
 - Instrucciones de cuidado: lavable a máquina
 

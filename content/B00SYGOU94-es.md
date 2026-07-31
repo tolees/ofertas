@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- No se mancha, no coge olores, no se deforma.
-- 100% hermético gracias a sus 4 puntos de anclaje y junta estanca.
 - Hecho en nuestra fábrica de Reus.
-- Apto para microondas, lavavajillas y congelador (-20ºC hasta 200ºC).
+- No se mancha, no coge olores, no se deforma.
 - Termoplástico (PBT) adecuado para contacto con alimentos, libre de BPA.
+- Apto para microondas, lavavajillas y congelador (-20ºC hasta 200ºC).
+- 100% hermético gracias a sus 4 puntos de anclaje y junta estanca.
 - Tapa translúcida con ventana para ver claramente el interior.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

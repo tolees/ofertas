@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño con amortiguación
-- Media caña
-- 59% algodón, 37% poliéster, 3% elastano, 1% PA6 (100% reciclado)
 - Tres pares por paquete
+- Diseño con amortiguación
+- 59% algodón, 37% poliéster, 3% elastano, 1% PA6 (100% reciclado)
+- Media caña
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F5B9NK9P{{</world>}}

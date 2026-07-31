@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Chaqueta: cremallera completa
 - Cuerpo: 100% poliéster
+- Chaqueta: cremallera completa
 - Lavar a máquina
 - Pantalones: cintura elástica con cordón.
 

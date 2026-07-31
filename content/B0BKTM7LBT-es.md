@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tecnología de chip marca Intel
 - Ordenador portátil
+- Tecnología de chip marca Intel
 - Diseño compacto y moderno
 
 [🛒 Visítala!!!]({{< param buyurl >}})

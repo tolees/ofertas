@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La siguiente información se aplica a cada unidad del paquete
 - Efecto refrescante
-- Fórmula hidratante
+- La siguiente información se aplica a cada unidad del paquete
 - Fácil aplicación
+- Fórmula hidratante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GZK1PKQQ{{</world>}}

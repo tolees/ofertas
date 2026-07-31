@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Placas Antiadherentes Acanaladas: Superficie de teflón que evita que los alimentos se peguen y facilita una limpieza extraordinariamente sencilla. Ideales para marcar el efecto grill.
-- Potencia Superior (1000W): Garantiza un calentamiento rápido y una cocción eficiente para que tus comidas estén listas en minutos.
 - Juste Automático del Grosor: La placa superior basculante se adapta a la altura del alimento (paninis rellenos, tostadas gruesas, carne) asegurando una cocción uniforme.
 - Diseño Compacto: Ideal para cocinas pequeñas, permite el almacenamiento vertical, ahorrando espacio en la encimera o armario.
+- Potencia Superior (1000W): Garantiza un calentamiento rápido y una cocción eficiente para que tus comidas estén listas en minutos.
 - Grill electrico para la preparación de sándwiches, panini, hamburguesas o brochettes
 
 [🛒 Comprar!!!]({{< param buyurl >}})

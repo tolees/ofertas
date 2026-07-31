@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ve a la lava
-- Material: plástico
-- La siguiente información se aplica a cada unidad del paquete
 - Dimensiones (cada una): 7,5 x 7,5 x 6,1 cm
+- La siguiente información se aplica a cada unidad del paquete
 - vajilla.
+- Material: plástico
+- Ve a la lava
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0G5FSFF7C{{</world>}}

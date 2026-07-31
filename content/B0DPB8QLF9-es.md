@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fabric:__ Faded Canvas
 - Dobladores ajustables en la parte posterior
+- Fabric:__ Faded Canvas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DPB8QLF9{{</world>}}

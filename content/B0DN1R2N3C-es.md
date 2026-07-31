@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Signature Khaki Straight
-- Straight fit
-- Welt pockets
-- Zip fly
-- Refined chino pants with no wrinkle technology
 - Wrinkle-free stretch cotton blend fabric
+- Straight fit
+- Refined chino pants with no wrinkle technology
+- Welt pockets
+- Signature Khaki Straight
+- Zip fly
 - Flexible Comfort Waistband
 
 [🛒 Aquí!!!]({{< param buyurl >}})

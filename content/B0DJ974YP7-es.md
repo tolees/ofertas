@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Puma branding details
 - Softfoam+ sockliner
+- Puma branding details
 - Zoned rubber traction
 
 [🛒 Visítala!!!]({{< param buyurl >}})

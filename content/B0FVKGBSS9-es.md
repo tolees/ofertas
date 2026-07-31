@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 【Control remoto con pantalla LCD integrada】 El dron para adultos está equipado con tecnología de transmisión de imágenes que puede transmitir las imágenes captadas por la cámara del dron RC a la pantalla del control remoto en tiempo real. Crea una experiencia de vuelo inmersiva, con control en tiempo real del estado del vuelo y la captura de imágenes.
 - 【Cámara motorizada ajustable en 90°】 El dron para principiantes está equipado con una cámara flexible con ángulo ajustable, lo que le permite capturar momentos emocionantes desde diferentes perspectivas. Satisfaga sus diversas necesidades de grabación y grabe imágenes increíbles.
-- 【Compatible con tarjetas SD de 32 GB】 El drone con motor sin escobillas está equipado con una ranura para tarjetas SD que admite tarjetas SD con una capacidad máxima de 32 GB, lo que le proporciona un amplio espacio de almacenamiento para tomar muchas fotos y vídeos de alta resolución sin preocuparse por la falta de espacio.
 - 【Equipo de atención al cliente】 Descubra el funcionamiento perfecto y la emoción de los drones con motor sin escobillas y cámara, que abren innumerables posibilidades de exploración e innovación desde el aire. Si encuentra algún problema al utilizar su dron, nuestro equipo estará siempre a su disposición.
+- 【Control remoto con pantalla LCD integrada】 El dron para adultos está equipado con tecnología de transmisión de imágenes que puede transmitir las imágenes captadas por la cámara del dron RC a la pantalla del control remoto en tiempo real. Crea una experiencia de vuelo inmersiva, con control en tiempo real del estado del vuelo y la captura de imágenes.
+- 【Compatible con tarjetas SD de 32 GB】 El drone con motor sin escobillas está equipado con una ranura para tarjetas SD que admite tarjetas SD con una capacidad máxima de 32 GB, lo que le proporciona un amplio espacio de almacenamiento para tomar muchas fotos y vídeos de alta resolución sin preocuparse por la falta de espacio.
 - 【Posicionamiento por flujo óptico】 El dron con cámara está equipado con un sistema de posicionamiento por flujo óptico que, mediante el reconocimiento y el análisis de la textura del terreno, logra un posicionamiento y un vuelo estacionario precisos del dron cuando vuela a baja altitud, lo que mejora eficazmente la estabilidad del vuelo. Incluso en entornos complejos, como condiciones de viento o en interiores.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

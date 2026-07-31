@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- - Bandeja inclinable: 39 x 29 cm.
+- Trípode extremadamente resistente.
 - Altura regulable, fácil de transportar.
+- - Bandeja inclinable: 39 x 29 cm.
 - - Diámetro del trípode: 35 mm.
 - Color: negro.
-- Trípode extremadamente resistente.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B006RH6P7W{{</world>}}

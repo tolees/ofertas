@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste regular
-- Cuello redondo
 - 40% poliéster
+- Cuello redondo
+- Ajuste regular
 - Manga corta
 
 [🛒 Aquí!!!]({{< param buyurl >}})

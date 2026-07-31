@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Polo de manga corta con doble botón en piqué con coloración y lavado pesado
-- Pepe jeans Logotipo de Script en el pecho.
 - Jersey de punto medio con estampado de la marca interior; d.T.M; botones
+- Pepe jeans Logotipo de Script en el pecho.
+- Polo de manga corta con doble botón en piqué con coloración y lavado pesado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FFTR1XRH{{</world>}}

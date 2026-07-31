@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Nuestra icónica cintura media, ajuste delgado en una mezclilla elástica azul oscuro hecha con prácticas y materiales sostenibles
-- Fabricado con prácticas y materiales sostenibles
 - Azul medio
+- Fabricado con prácticas y materiales sostenibles
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B649WG6L{{</world>}}

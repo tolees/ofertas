@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Switches ópticos Razer: Ofrece un accionamiento rápido, ligero y fluido que los switches mecánicos, así como óptima durabilidad ya que necesita menos piezas móviles que funcionan con menos fricción; Disponible en dos variantes: lineal y con sonido click
-- Memoria integrada y preajustes de iluminación: Guarda y activa hasta 5 perfiles de teclado sin necesidad de software, mientras lo personalizas más con un paquete de efectos de iluminación
+- Cable tipo C desmontable: Conecta tu teclado y juega al instante sin líos para tus LAN parties y torneos; Un cierre de seguridad mantiene el cable conectado durante toda la partida
 - Teclas de PBT de doble inyección con funciones secundarias impresas en el lateral: Diseñado para una óptima durabilidad, no se va a deteriorar nunca con un acabado brillante ni se van a desgastar las etiquetas por el uso intenso; Funciones secundarias impresas en el lateral para facilitar la referencia
 - Diseño compacto 60 %: óptimo para escritorios pequeños o minimalistas en los que el espacio es primordial; Su diseño compacto significa que te lo puedes llevar sin problemas y es fácil de colocar para jugar, lo que te permite que juegues con comodidad
-- Cable tipo C desmontable: Conecta tu teclado y juega al instante sin líos para tus LAN parties y torneos; Un cierre de seguridad mantiene el cable conectado durante toda la partida
+- Switches ópticos Razer: Ofrece un accionamiento rápido, ligero y fluido que los switches mecánicos, así como óptima durabilidad ya que necesita menos piezas móviles que funcionan con menos fricción; Disponible en dos variantes: lineal y con sonido click
+- Memoria integrada y preajustes de iluminación: Guarda y activa hasta 5 perfiles de teclado sin necesidad de software, mientras lo personalizas más con un paquete de efectos de iluminación
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08GM91TCC{{</world>}}

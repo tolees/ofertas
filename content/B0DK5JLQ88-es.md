@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillos traseros
-- Bolsillos reforzados con remaches, bolsillo oculto en la cintura
 - G-STAR Etiqueta de material de papel similar al cuero en la parte trasera
 - Proporciona comodidad
+- Bolsillos reforzados con remaches, bolsillo oculto en la cintura
+- Bolsillos traseros
 - Bragueta con cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

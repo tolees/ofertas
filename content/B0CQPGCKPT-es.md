@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Calcetines y forro de piel de oveja suave y transpirable
 - La lengüeta acolchada del talón proporciona comodidad duradera
 - Parte superior de cuero de origen responsable
-- Calcetines y forro de piel de oveja suave y transpirable
 - Cordones ajustables que ofrecen un ajuste seguro
 - Suela de goma duradera y antideslizante
 

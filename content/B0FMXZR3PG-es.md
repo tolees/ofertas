@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 💡 DISEÑO ESTILIZADO: Este aplique solar de exterior tiene un diseño elegante, sencillo, estilizado y generoso, las partes superior e inferior de la salida de luz tienen alas ocultas, y la superior e inferior se pueden ajustar 120° a voluntad. Puede utilizarse tanto como luz de iluminación como decorativa. La luz cálida añade un ambiente romántico y cálido a su hogar y está llena de moda y arte.
-- 💖 SERVICIO AL CLIENTE DE CALIDAD: Si tiene alguna pregunta o inquietud durante el uso del producto, no dude en contactarnos por correo electrónico, le brindamos un servicio al cliente las 24 horas y una garantía de 12 meses.
-- 🌎 AHORRO DE ENERGÍA Y RESPETUOSO CON EL MEDIO AMBIENTE: Este aplique está equipado con paneles solares, no requiere cableado ni electricidad, fácil de instalar, se apaga automáticamente durante el día para utilizar la energía solar para cargar y se enciende automáticamente por la noche. Alta eficiencia, ahorro de energía y protección del medio ambiente y ahorrar dinero.
 - 🏡 AMPLIA APLICACIÓN: Este aplique solar de alta eficiencia tiene una amplia gama de aplicaciones y es muy adecuado para patio, villa, jardín, pasillo, escalera, restaurante, balcón, hotel, decoración, pared de parque, etc., creando un ambiente hermoso, cálido y elegante.
+- 💡 DISEÑO ESTILIZADO: Este aplique solar de exterior tiene un diseño elegante, sencillo, estilizado y generoso, las partes superior e inferior de la salida de luz tienen alas ocultas, y la superior e inferior se pueden ajustar 120° a voluntad. Puede utilizarse tanto como luz de iluminación como decorativa. La luz cálida añade un ambiente romántico y cálido a su hogar y está llena de moda y arte.
+- 🌎 AHORRO DE ENERGÍA Y RESPETUOSO CON EL MEDIO AMBIENTE: Este aplique está equipado con paneles solares, no requiere cableado ni electricidad, fácil de instalar, se apaga automáticamente durante el día para utilizar la energía solar para cargar y se enciende automáticamente por la noche. Alta eficiencia, ahorro de energía y protección del medio ambiente y ahorrar dinero.
+- 💖 SERVICIO AL CLIENTE DE CALIDAD: Si tiene alguna pregunta o inquietud durante el uso del producto, no dude en contactarnos por correo electrónico, le brindamos un servicio al cliente las 24 horas y una garantía de 12 meses.
 - ☔ IMPERMEABLE Y DURADERO: Fabricado con materias primas de alta calidad con nivel de protección IP65, resistente a la corrosión, oxidación y herrumbre, apto para cualquier clima como lluvia, nieve y alta temperatura, robusto y duradero.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

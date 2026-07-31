@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Running
 - 100% Poliéster
+- Running
 - Unisex - Gorra
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

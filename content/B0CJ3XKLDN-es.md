@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ¡El escenario está listo para que vivas mil aventuras en el Teatro Esplendor, donde encontrarás un buen puñado de obras que debes salvar a toda costa!
-- ¡ESTA PRINCESA NO NECESITA QUE LA SALVEN! Una misteriosa y malvada figura enmascarada se ha apoderado del Teatro Esplendor, ¡y solo la princesa Peach puede restaurar el orden y salvar la función! Irrumpe en escena con todo un repertorio de transformaciones formidables en Princess Peach: Showtime!
 - Peach cuenta con la ayuda de la inestimable Lucy, la guardiana del Teatro Esplendor. Gracias a la cinta de Lucy, Peach puede interactuar con el escenario, animar a los actores y usar distintas transformaciones que le confieren habilidades únicas.
+- ¡El escenario está listo para que vivas mil aventuras en el Teatro Esplendor, donde encontrarás un buen puñado de obras que debes salvar a toda costa!
 - Transfórmate y usa habilidades sensacionales para frustrar los siniestros planes de Grape. ¿Qué transformaciones te esperan entre bambalinas?
+- ¡ESTA PRINCESA NO NECESITA QUE LA SALVEN! Una misteriosa y malvada figura enmascarada se ha apoderado del Teatro Esplendor, ¡y solo la princesa Peach puede restaurar el orden y salvar la función! Irrumpe en escena con todo un repertorio de transformaciones formidables en Princess Peach: Showtime!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CJ3XKLDN{{</world>}}

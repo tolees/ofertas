@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ancho regular
-- Detalles de la marca PUMA
-- Puma Formstrip en los laterales
 - Suela de goma
+- Puma Formstrip en los laterales
+- Detalles de la marca PUMA
 - Parte superior de piel y materiales mixtos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

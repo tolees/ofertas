@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Empeine textil y sintético
-- Suela de goma y TPU para todo tipo de superficies
-- Peso: 270 g (talla 42 2/3)
-- Contiene al menos un 20% de material reciclado
-- Amortiguación Lightstrike
-- Forro textil y sintético
-- Cierre de cordones
-- Horma clásica
 - Drop: 6,5 mm (talón: 34,9 mm / antepié: 28,4 mm)
+- Cierre de cordones
+- Forro textil y sintético
+- Contiene al menos un 20% de material reciclado
+- Empeine textil y sintético
+- Amortiguación Lightstrike
+- Horma clásica
+- Peso: 270 g (talla 42 2/3)
+- Suela de goma y TPU para todo tipo de superficies
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DHXFYT99{{</world>}}

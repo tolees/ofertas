@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Forro textil
-- Refuerzo de goma en el talón
-- Horma clásica
-- Cierre de cordones
 - Empeine sintético y textil
+- Refuerzo de goma en el talón
+- Cierre de cordones
+- Horma clásica
+- Forro textil
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DHVW9SPQ{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Juego PS5 Horizon Zero Dawn Remastered'
-date: 2026-07-27 20:21:51
+date: 2026-07-30 10:09:49
 image: 'https://m.media-amazon.com/images/I/51w1gmV+TTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DHYJKW6J/?tag=tolees-21'
 descuento: '60.19'
-average: '25.3914285714286'
+average: '24.9139130434783'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,13 +29,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Juego completo de Horizon Zero Dawn Remastered
-- Pack de viaje Banuk
-- Nora Keeper Paquete de
-- Juego completo de Horizon Zero Dawn Remastered
-- Pack de comerciante Carja
-- Libro de ilustraciones digital
-- Atuendo de Guardabosques Tormenta Carja y arco Carja poderoso
 - Atuendo de Pionero Banuk y arco de sacrificio Banuk
+- Pack de comerciante Carja
+- Pack de viaje Banuk
+- Atuendo de Guardabosques Tormenta Carja y arco Carja poderoso
+- Libro de ilustraciones digital
+- Juego completo de Horizon Zero Dawn Remastered
+- Nora Keeper Paquete de
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHYJKW6J{{</world>}}

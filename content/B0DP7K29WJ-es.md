@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ultra-Go
-- Tecnología Comfort Pillar
 - Ajuste de arco
+- Tecnología Comfort Pillar
+- Ultra-Go
 - Doble densidad
 - Skechers Manos libres sin cordones para un ajuste fácil. Exclusiva almohada para el talón que mantiene tu pie en su lugar de forma segura
 

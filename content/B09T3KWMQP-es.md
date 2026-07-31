@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- De Joumma Bags.
-- Estuche de 22 cm x 12 cm x 5 cm fabricado en Poliéster.
 - Asa lateral.
 - Tres compartimentos cerrados con cremallera para mejorar la organización.
+- Estuche de 22 cm x 12 cm x 5 cm fabricado en Poliéster.
+- De Joumma Bags.
 - Tamaño perfecto para llevarlo en la mochila, carterón o bolso.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Logotipo de PUMA Cat en la parte superior
 - Resistente al agua
 - Plantilla texturizada para mayor comodidad con ranuras inferiores para agarre
+- Logotipo de PUMA Cat en la parte superior
 - Construcción de EVA moldeada de doble densidad para un ajuste cómodo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

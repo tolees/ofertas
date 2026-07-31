@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Escenas de usos múltiples: hay tamaños personalizados disponibles, no dude en preguntar los tamaños que desee. Decoración perfecta para dormitorio, sala de estar, sala de estudio, comedor, cocina, guardería, etc.
 - Color llamativo: artesanía exquisita, patrones impresos delicados con tecnología de impresión por transferencia de calor digital, el color y el patrón son brillantes.
-- Material y tamaño: 100 % poliéster lino. Dos paneles por paquete. Cada uno mide 117x183 cm. Vertical natural, ecológico y respetuoso con el medio ambiente.
 - Lavado y mantenimiento: lavar a máquina con agua fría o a mano. No usar blanqueador. No secar en secadora. Planchar la parte posterior con plancha a vapor a baja temperatura.
 - Función principal: Decora la habitación. 3 opciones para colgar: bolsillo para varilla, pestaña trasera o prepara los clips tú mismo.
+- Material y tamaño: 100 % poliéster lino. Dos paneles por paquete. Cada uno mide 117x183 cm. Vertical natural, ecológico y respetuoso con el medio ambiente.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DZ1P6VD5{{</world>}}

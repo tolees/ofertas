@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Interfaz USB 3.2 Gen 2x2 con el soporte de UASP (protocolo SCSI conectado por USB)
+- Funda de goma de silicona resistente en un verde militar
 - Velocidades de transferencia de hasta 2.000 MB/s
 - Memoria flash 3D NAND
-- Funda de goma de silicona resistente en un verde militar
+- Interfaz USB 3.2 Gen 2x2 con el soporte de UASP (protocolo SCSI conectado por USB)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B3LPF1YG{{</world>}}

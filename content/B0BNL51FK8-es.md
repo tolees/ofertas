@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 100 % algodón
 - Corte clásico
 - Camiseta de manga corta para mujer de 150 g con logotipo serigrafiado
+- 100 % algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BNL51FK8{{</world>}}

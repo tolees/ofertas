@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Color: Liso
-- Cuello: Redondo
+- Fit: Regular
 - Aplique de logo deshilachado
 - Desigual
-- Fit: Regular
+- Color: Liso
+- Cuello: Redondo
 - Manga: Corta
 
 [🛒 Comprar!!!]({{< param buyurl >}})

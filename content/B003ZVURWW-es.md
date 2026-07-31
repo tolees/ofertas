@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Adecuado para hacer tarjetas, álbumes de recortes, proyectos de manualidades y muchos más
-- Cartulina de colores surtidos
 - Disponible en paquete de 75 unidades
 - Número de modelo: PMA 1641400
+- Cartulina de colores surtidos
+- Adecuado para hacer tarjetas, álbumes de recortes, proyectos de manualidades y muchos más
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B003ZVURWW{{</world>}}

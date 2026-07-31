@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Lleva tu juego al extremo: El ratón Lenovo Legion M410 te ofrece hasta 30 millones de clics (botón izquierdo/derecho), hasta 3 millones de clics (botón lateral/DPI) y hasta 50 mil clics (botón central)
-- Setup gaming: La luz RGB ajustable de dos zonas optimiza el ambiente de juego y es compatible con la iluminación dinámica de Microsoft
-- Ergonómico: El Lenovo Legion M410 cuenta 6 botones: izquierda, derecha, rueda, DPI+ y lateral x2; además, su diseño simétrico y tamaño mediano te proporciona óptimo agarre y mayor confort
 - Conectividad dual: Su conexión inalámbrica 2.4G y por medio de cable de carga USB-A a USB-C, te ofrece versatilidad inigualable para cualquier escenario de juego
 - Precisión: Sus impresionantes 16.000 DPI, 400 IPS y frecuencia de sondeo de 1.000 Hz, ofrecen un control rápido elevando tus habilidades de juego a niveles óptimos
+- Ergonómico: El Lenovo Legion M410 cuenta 6 botones: izquierda, derecha, rueda, DPI+ y lateral x2; además, su diseño simétrico y tamaño mediano te proporciona óptimo agarre y mayor confort
+- Setup gaming: La luz RGB ajustable de dos zonas optimiza el ambiente de juego y es compatible con la iluminación dinámica de Microsoft
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6R4R8D1{{</world>}}

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cremallera completa con solapa, Ligero y compacto, Bolsillo Napoleón con cremallera
-- Talle cómodo específico para ciclismo para mayor libertad de movimiento, Detalles reflectantes
-- GORE-TEX INFINIUM con tecnología WINDSTOPPER: cortaviento, altamente resistente al agua y extremadamente transpirable
 - GORE WEAR Spirit Vest, Talla: M, Color: Negro,100719
+- GORE-TEX INFINIUM con tecnología WINDSTOPPER: cortaviento, altamente resistente al agua y extremadamente transpirable
+- Talle cómodo específico para ciclismo para mayor libertad de movimiento, Detalles reflectantes
 - Ligero chaleco de ciclismo para hombre, Adecuado para todas las condiciones climáticas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

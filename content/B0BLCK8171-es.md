@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ojales de doble capa
 - Perforaciones en la puntera
+- Ojales de doble capa
 - Entresuela de goma
 - Suela de goma
 

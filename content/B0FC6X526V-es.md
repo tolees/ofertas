@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
-- Confeccionada con un tejido de punto suave
 - Una camiseta de manga larga para diario
+- LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
 - Diseñada con un fit relajado inspirado en la moda urbana
+- Confeccionada con un tejido de punto suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FC6X526V{{</world>}}

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Un Shot de exosomas para calma y recuperación diaria: una sola dosis entrega 15 M exosomas, ácido azelaico y 5% niacinamida para reducir la rojez visible causada por sequedad y apoyar la textura después de manchas.
-- Acabado ligero, rápida absorción; tinte verde natural de extractos botánicos, sin colorantes artificiales.
+- Resultados clínicos: tras 2 semanas, sebo −10,3%; tras 1 uso, rojez por sequedad −2,8% y textura +4,9%.
 - Pre-cuidado para piel reactiva o propensa a problemas: úselo antes de que aparezcan las preocupaciones visibles; ayuda a equilibrar la piel desajustada y promueve un aspecto más claro con ácido azelaico.
 - Post-cuidado para tono y textura: exosomas de 30 μm — *25 veces más pequeños que los poros* — para una absorción profunda; mejora tono desigual y textura áspera.
-- Resultados clínicos: tras 2 semanas, sebo −10,3%; tras 1 uso, rojez por sequedad −2,8% y textura +4,9%.
+- Acabado ligero, rápida absorción; tinte verde natural de extractos botánicos, sin colorantes artificiales.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F9PCLQ39{{</world>}}

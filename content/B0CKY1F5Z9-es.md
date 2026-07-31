@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Suela de goma
 - Cierre de cordones
-- Horma clásica
-- Forro textil
 - Empeine textil y sintético
+- Forro textil
+- Horma clásica
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CKY1F5Z9{{</world>}}

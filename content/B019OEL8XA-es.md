@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre central con cremallera
+- Cinturilla elástica lateral
 - Dos bolsillos de parche con cremallera
 - Puños de canalé
-- Cinturilla elástica lateral
+- Cierre central con cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B019OEL8XA{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Altura: 5 cm, diámetro : 2.5 cm
+- Material: Cromargan inoxidable mate 18/10 de acero inoxidable
 - 1 x pimienta agitador , agitador de 1 x sal
 - Diseñador: Akantus
-- Material: Cromargan inoxidable mate 18/10 de acero inoxidable
+- Altura: 5 cm, diámetro : 2.5 cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00008XVWU{{</world>}}

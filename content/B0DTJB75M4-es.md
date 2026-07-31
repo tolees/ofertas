@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 99 % algodón, 1 % elastano
 - El estilo de 5 bolsillos se ajusta ajustado
+- 99 % algodón, 1 % elastano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DTJB75M4{{</world>}}

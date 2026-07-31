@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - ALMOHADILLADO 3D PRO: Nuestros pantalones cortos de ciclismo ofrecen un ajuste ceñido y cómodo que reduce la resistencia al aire y proporciona libertad de movimiento. El acolchado ergonómico 3D garantiza una comodidad excepcional, ideal para recorridos largos.
+- MATERIALES PREMIUM: Fabricados con 80 % poliamida (reciclada) y 20 % elastano. Certificados con el estándar OEKO-TEX 100 y libres de sustancias nocivas. Lavado a máquina a un máximo de 30 °C (86 °F). No aptos para secadora.
 - TRANSPIRABLES Y ABSORBENTES DE HUMEDAD: Una mezcla de poliamida y elastano de alta calidad mantiene tu piel seca y garantiza una excelente transpirabilidad. La ligera compresión, las pinzas de silicona y las bandas elásticas aseguran un ajuste firme y cómodo.
 - COMODIDAD Y SUJECIÓN ÓPTIMAS: Las bandas de silicona en las perneras mantienen los pantalones en su sitio sin apretar ni subirse, para que puedas moverte con total libertad en las subidas, los sprints y las salidas largas
-- MATERIALES PREMIUM: Fabricados con 80 % poliamida (reciclada) y 20 % elastano. Certificados con el estándar OEKO-TEX 100 y libres de sustancias nocivas. Lavado a máquina a un máximo de 30 °C (86 °F). No aptos para secadora.
 - CORTE AJUSTADO: Este estilo tiene un ajuste ceñido para alto rendimiento. Por favor, mídete y elige una talla mayor al hacer tu pedido si prefieres un corte menos ajustado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

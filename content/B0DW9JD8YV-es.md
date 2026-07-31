@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Fit: Regular
-- Estampado floral
+- Abotonadura frontal
 - Desigual
 - Manga: Larga
+- Estampado floral
 - Cuello: de Camisa
-- Abotonadura frontal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DW9JD8YV{{</world>}}

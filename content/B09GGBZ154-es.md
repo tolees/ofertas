@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producido en Dinamarca
-- Origen natural
-- Con certificado orgánico del estándar Ecocert Cosmos
-- Vegano
 - Envases a base de plantas elaborados a partir de residuos de caña de azúcar
+- Vegano
+- Con certificado orgánico del estándar Ecocert Cosmos
+- Origen natural
+- Producido en Dinamarca
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09GGBZ154{{</world>}}

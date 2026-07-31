@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Forro textil
 - Parte superior sintética suave
 - Cierre de cordones
-- Forro textil
 - Horma clásica
 - Suela de goma
 

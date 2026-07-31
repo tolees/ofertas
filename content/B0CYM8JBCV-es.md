@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Empeine de malla acolchada
+- Contiene al menos un 20% de material reciclado
 - Horma clásica
 - Cierre de cordones
-- Contiene al menos un 20% de material reciclado
 - Suela de goma
 - Amortiguación LIGHTMOTION
 

@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Talla: 95 cm
 - Instrucciones de cuidado: no lavar
-- Producto adecuado para : unisex adulto
-- Material interior: cuero
-- Composición del material: 100% cuero
 - Material exterior: cuero
 - Color: negro
+- Talla: 95 cm
+- Producto adecuado para : unisex adulto
+- Composición del material: 100% cuero
+- Material interior: cuero
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00BBS7A8K{{</world>}}

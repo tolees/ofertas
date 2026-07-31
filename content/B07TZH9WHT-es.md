@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño moderno
 - Jersey de punto
-- Hecho de material duradero y ligero
+- Diseño moderno
 - Ajuste cómodo
+- Hecho de material duradero y ligero
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07TZH9WHT{{</world>}}

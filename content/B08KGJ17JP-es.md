@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - NOOS - Ajuste ceñido con zonas de cobertura, perfecto para todos los estilos.
-- TEJIDO - Tejido elástico y ligero hecho de 95% algodón y 5% elastano.
 - FORMA - Diseño de corte entallado con cierre de botones oculto en la parte inferior.
+- TEJIDO - Tejido elástico y ligero hecho de 95% algodón y 5% elastano.
 - DETALLES - Manga larga con cuello redondo. Detalles de encaje transpirables.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

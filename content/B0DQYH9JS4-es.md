@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tipo de estiramiento: no elástico
 - Instrucciones de cuidado: lavable a máquina
-- Camiseta
 - Composición: 100% algodón
+- Tipo de estiramiento: no elástico
 - Ajuste: Slim
+- Camiseta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DQYH9JS4{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El gel exfolia suavemente la piel, eliminando eficazmente las impurezas más leves. Este proceso afina y unifica rápidamente la textura de la piel, para un cutis radiante y fresco.
-- Este gel micelar está enriquecido con extracto de alga dorada L. Saccharina y Life Plankton para una limpieza y exfoliación diarias en armonía con todo tipo de pieles, incluso las más sensibles.
 - Este gel micelar es óptimo para la exfoliación diaria.Aplicar sobre la piel húmeda y masajear suavemente con pequeños movimientos circulares, evitando el contorno de los ojos. Aclarar con agua tibia.
+- Este gel micelar está enriquecido con extracto de alga dorada L. Saccharina y Life Plankton para una limpieza y exfoliación diarias en armonía con todo tipo de pieles, incluso las más sensibles.
+- El gel exfolia suavemente la piel, eliminando eficazmente las impurezas más leves. Este proceso afina y unifica rápidamente la textura de la piel, para un cutis radiante y fresco.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00R4VS78A{{</world>}}

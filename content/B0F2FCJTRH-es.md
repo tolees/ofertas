@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Cordones elásticos y correa autoadherente
 - Horma clásica
-- Forro textil
 - Suela de goma vulcanizada
 - Empeine de ante
+- Forro textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F2FCJTRH{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tu artículo favorito de EMP!
-- Anime, Fan merch, Series TV
 - ¡Un auténtico destacado para tu casa!
 - ¡Funko Pop! con las siguientes características:
+- Anime, Fan merch, Series TV
+- Tu artículo favorito de EMP!
 - Merch para fans y divertido
 
 [🛒 Comprar!!!]({{< param buyurl >}})

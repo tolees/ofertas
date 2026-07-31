@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Extras: Schild gebogen
-- Futter: default
-- Ausschnitt: default
-- Mannschaft: default
 - Gattung: Mütze
+- Ausschnitt: default
+- Extras: Schild gebogen
+- Mannschaft: default
+- Futter: default
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09WD3CDGY{{</world>}}

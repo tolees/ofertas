@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Jeans with beautiful blue washing.
 - JJIMIKE JJORIGINAL AM 814 by JACK & JONES.
+- Jeans with beautiful blue washing.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07GSN8DKF{{</world>}}

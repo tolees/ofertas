@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Empeine de gamuza
-- Cierre de cordones
 - Suela de goma
+- Cierre de cordones
+- Empeine de gamuza
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D2KNFNCM{{</world>}}

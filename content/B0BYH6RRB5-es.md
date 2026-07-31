@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- CACAO DE LABIOS CON VITAMINA C: este bálsamo labial contiene Vitamina C para una máxima hidratación, que mejora el glow natural de tus labios y los mantiene hidratados durante todo el día y noche.
+- BÁLSAMO LABIAL MULTIUSOS: mascarilla de labios para día y noche. Combina los beneficios de un bálsamo labial, nutre y realza el glow de tus labios, y una mascarilla, reparando la piel durante la noche
 - CACAO DE LABIOS HIDRATANTE: usa este bálsamo para hidratar tus labios antes de aplicar The Lipstick, aportando suavidad y creando la base perfecta para tu makeup, o usarlo solo para un glow natural
 - VEGANO Y CRUELTY FREE: 3INA es una marca de maquillaje española que fabrica en Europa. Todos nuestros productos son veganos, libres de parabenos y sin crueldad animal.
-- CACAO DE LABIOS CON VITAMINA C: este bálsamo labial contiene Vitamina C para una máxima hidratación, que mejora el glow natural de tus labios y los mantiene hidratados durante todo el día y noche.
 - BÁLSAMO LABIAL REPARADOR: lip balm con Aceite de Jojoba para mejorar la elasticidad, suavizando la piel y reparando tus labios, para que tengan un aspecto suave y jugoso.
-- BÁLSAMO LABIAL MULTIUSOS: mascarilla de labios para día y noche. Combina los beneficios de un bálsamo labial, nutre y realza el glow de tus labios, y una mascarilla, reparando la piel durante la noche
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BYH6RRB5{{</world>}}

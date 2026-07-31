@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- A comfortable fit
-- Button closure
-- An original look
 - Provides comfort
+- An original look
+- A comfortable fit
 - Chest pockets
+- Button closure
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C2ZRRT69{{</world>}}

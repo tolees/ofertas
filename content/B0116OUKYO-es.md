@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tacos largos: el elemento de expansión largo con varias profundidades de anclaje garantiza una distribución uniforme de la carga y valores de sujeción óptimos en materiales sólidos y materiales de construcción perforada
+- Materiales de construcción: aprobado para hormigón ≧ C12/15, ladrillos perforados, bloque hueco de hormigón ligero, piedra calcárea, hormigón poroso, ladrillo macizo, ladrillo macizo. Adecuado para piedra natural con estructura densa, placas de yeso
 - Montaje: apto para montaje a presión. No perfores con ladrillos perforados. Con tornillo hexagonal con disco en U moldeado, ideal para construcciones de metal
 - Contenido del envío: 50 tacos SXRL 10X140 con tornillos
-- Materiales de construcción: aprobado para hormigón ≧ C12/15, ladrillos perforados, bloque hueco de hormigón ligero, piedra calcárea, hormigón poroso, ladrillo macizo, ladrillo macizo. Adecuado para piedra natural con estructura densa, placas de yeso
+- Tacos largos: el elemento de expansión largo con varias profundidades de anclaje garantiza una distribución uniforme de la carga y valores de sujeción óptimos en materiales sólidos y materiales de construcción perforada
 - Aplicaciones: para fijación de, por ejemplo, fachadas, techos y subestructuras de madera, escuadras, ventanas, puertas y puertas, por ejemplo, en hormigón hasta máx. 198 kg
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

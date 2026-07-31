@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Color: Puma negro-puma blanco
 - individualRISE Pantalones cortos
+- Color: Puma negro-puma blanco
 - Número de modelo: 658998
 
 [🛒 Comprar!!!]({{< param buyurl >}})

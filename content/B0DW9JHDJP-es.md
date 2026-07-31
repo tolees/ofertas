@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fit: Balloon
-- Cuello: en V
-- Abotonadura frontal
-- Color: Liso
 - Manga: Larga
+- Color: Liso
+- Abotonadura frontal
+- Cuello: en V
 - Desigual
+- Fit: Balloon
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DW9JHDJP{{</world>}}

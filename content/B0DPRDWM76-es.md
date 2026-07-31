@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Empeine de piel y material sintético
 - Horma clásica
 - Forro textil
 - Cierre de cordones
-- Empeine de piel y material sintético
 - Empeine perforado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

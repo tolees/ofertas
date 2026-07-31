@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Taza para beber
-- Para líquidos fríos o calientes
 - Tiene detalles distintivos de la marca "MR WONDERFUL"
+- Para líquidos fríos o calientes
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DR2CTW9W{{</world>}}

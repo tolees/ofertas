@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- BRILLO: Con una fórmula energizante de Caviar de Lima y Vitamina E para proteger el color de las fibras capilares y aportar brillo.
-- COLOR INTENSO: El purificador de metales protege el cabello de los metales nocivos presentes en el agua y ayuda a mantener su vitalidad
-- PROTECCIÓN DEL TINTE: Su fórmula de bajo pH cierra la cutícula despúes de la coloración para fijar el color y mantener las fibras capilares del cabello vivas y brillantes.
 - CHAMPÚ: Fija el tinte y potencia el brillo de las fibras capilares de tu cabello con este champú protector de Wella que intensifica el color -formulado especialmente para pelos finos y normales, teñidos, secos y dañados.
+- PROTECCIÓN DEL TINTE: Su fórmula de bajo pH cierra la cutícula despúes de la coloración para fijar el color y mantener las fibras capilares del cabello vivas y brillantes.
+- COLOR INTENSO: El purificador de metales protege el cabello de los metales nocivos presentes en el agua y ayuda a mantener su vitalidad
+- BRILLO: Con una fórmula energizante de Caviar de Lima y Vitamina E para proteger el color de las fibras capilares y aportar brillo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CGRZPSP6{{</world>}}

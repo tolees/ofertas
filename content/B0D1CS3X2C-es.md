@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cintura : Talle medio
+- Cierre : Bragueta de botones
 - Bolsillos : Bolsillos traseros, Bolsillo relojero, Bolsillos delanteros
 - Corte : Ajuste regular con cintura media, muslo regular y parte baja regular
-- Cierre : Bragueta de botones
-- Cintura : Talle medio
 - Artículo : Shorts de ajuste regular
 - Klavado/acabado : Rasgaduras sutiles con arreglos
 

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela de tracción flexible
 - Plantilla ligera y acolchada y cómoda
+- Suela de tracción flexible
 - Estilo de meter con un cierre de empeine ajustable
 
 [🛒 Aquí!!!]({{< param buyurl >}})

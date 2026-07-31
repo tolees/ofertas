@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mezclilla cómoda lavada con enzimas azul medio
 - 99 % algodón, 1 % elastano
 - Jeans cónicos con cintura alta
+- Mezclilla cómoda lavada con enzimas azul medio
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FGJSL4G3{{</world>}}

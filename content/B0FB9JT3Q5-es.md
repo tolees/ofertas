@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolso Tous
 - Bolso
+- Jane Puffy Bear
 - Bolso bowling mediano
 - Bolso bowling mediano negro Tous 2002132351 Jane Puffy Bear
-- Jane Puffy Bear
+- Bolso Tous
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FB9JT3Q5{{</world>}}

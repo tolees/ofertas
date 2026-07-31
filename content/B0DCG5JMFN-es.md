@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【Escenarios multiusos】Las E14 luz de pared de interior tienen un diseño moderno y minimalista, y las lámparas de pared industria son adecuadas para su uso en una amplia gama de espacios interiores: salones, dormitorios, pasillos, cocinas y mucho más
-- 【Casquillo E14】Puede elegir su bombilla E14 favorita para la instalación. La potencia máxima recomendada de la lámpara de pared con interruptor para cada bombilla no supera los 40W. Las bombillas E14 no están incluidas.
+- 【Decoración de la cubierta de tela】El chasis de la lámpara foco pared está decorado con virutas de madera. La pantalla de la lámpara es de tela blanca translúcida. La combinación de piezas de madera, metal y pantalla está diseñada con elegante sencillez
 - 【Fácil de instalar】La luminaria vintage spot mural con un cable de 1,3 m de longitud; la luminaria incluye un interruptor y un enchufe. El paquete incluye un kit de montaje e instrucciones
 - 【Diseño orientable】Cada cabezal de la aplique de pared E14 puede girar individualmente 350° de lado a lado y ajustarse 90° hacia arriba y hacia abajo, para que pueda iluminar diferentes zonas de la habitación según sus necesidades
-- 【Decoración de la cubierta de tela】El chasis de la lámpara foco pared está decorado con virutas de madera. La pantalla de la lámpara es de tela blanca translúcida. La combinación de piezas de madera, metal y pantalla está diseñada con elegante sencillez
+- 【Casquillo E14】Puede elegir su bombilla E14 favorita para la instalación. La potencia máxima recomendada de la lámpara de pared con interruptor para cada bombilla no supera los 40W. Las bombillas E14 no están incluidas.
+- 【Escenarios multiusos】Las E14 luz de pared de interior tienen un diseño moderno y minimalista, y las lámparas de pared industria son adecuadas para su uso en una amplia gama de espacios interiores: salones, dormitorios, pasillos, cocinas y mucho más
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DCG5JMFN{{</world>}}

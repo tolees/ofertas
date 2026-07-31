@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Medida: 120x120 cm.
 - Muselinas de gran tamaño extra suaves, de tejido vaporoso, suave y transpirable.
 - Muselina de la colección Eco Collection de Interbaby.
-- Medida: 120x120 cm.
 - Muselina multifunción: arrullo de verano, como toalla, arropar al bebé en los primeros meses, cubrirte mientras das el pecho, proteger al bebé mientras duerme al aire libre del sol, viento o mosquitos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

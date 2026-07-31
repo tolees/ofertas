@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- adidas Pantalones cortos tejidos de 3 rayas para entrenamiento Essentials
 - 100 % poliéster
+- adidas Pantalones cortos tejidos de 3 rayas para entrenamiento Essentials
 - azul oscuro/blanco
 
 [🛒 Aquí!!!]({{< param buyurl >}})

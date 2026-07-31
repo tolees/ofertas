@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- entresuela de EVA
 - Logotipo N grande
+- entresuela de EVA
 - Parte superior de gamuza y malla sin estructura
 
 [🛒 Comprar!!!]({{< param buyurl >}})

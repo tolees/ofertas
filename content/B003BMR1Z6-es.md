@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de producto: Jabon
 - Productos de belleza y el cuidado personal
+- Tipo de producto: Jabon
 - Marca: Clinique
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

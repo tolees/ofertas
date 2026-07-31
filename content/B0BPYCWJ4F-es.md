@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- A LA MODA: Las camisetas presentan divertidos estampados, coloridos y a la moda, adecuadas para todo tipo de looks
 - CAMISETAS NIÑA: Set de 3 camisetas de manga corta de algodón, ideales para primavera y verano. Estas prendas Chicco son lavables a máquina, para una higiene elevada
+- A LA MODA: Las camisetas presentan divertidos estampados, coloridos y a la moda, adecuadas para todo tipo de looks
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BPYCWJ4F{{</world>}}

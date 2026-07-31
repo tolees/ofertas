@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Talla única
 - 100% acrílico
+- Talla única
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DK95X8BF{{</world>}}

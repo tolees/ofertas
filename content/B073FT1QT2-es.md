@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tipo de bombilla: LED
 - Clase de eficiencia energética A+
+- Temperatura del color: 2700 Kelvin
 - Philips - Una marca que conoces y en la que confías. Descubre una tecnología LED avanzada que diferencia nuestras bombillas.
 - Durabilidad media: 15000 horas
-- Temperatura del color: 2700 Kelvin
+- Tipo de bombilla: LED
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B073FT1QT2{{</world>}}

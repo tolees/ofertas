@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Color: verde oscuro
 - Forro: 76% tejido (65% lana - 35% poliéster reciclado), 24% poliéster reciclado
-- Material exterior: 100% piel de vacuno
+- Color: verde oscuro
 - Suela: 80% EVA, 20% EVA reciclado
 - Better Leather,Better Linings,Better Outsoles
+- Material exterior: 100% piel de vacuno
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CRBL7SGM{{</world>}}

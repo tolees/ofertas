@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Compatible with ASUS AURA, Gigabyte Fusion, MSI Mystic Light, ASRock Polychrome and Razer Chroma
-- 6 individually addressable hub-mounted RGB LEDs
-- Less turbulence thanks to aerodynamic stator struts
-- Rifle bearings – more efficient than standard sleeve
-- Trip Wire technology introduces a micro-turbulent layer for enhanced blade efficiency
 - Supports chaining for both power and RGB wires to simplify cable management
+- Less turbulence thanks to aerodynamic stator struts
+- 6 individually addressable hub-mounted RGB LEDs
+- Trip Wire technology introduces a micro-turbulent layer for enhanced blade efficiency
+- Rifle bearings – more efficient than standard sleeve
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08KW82H7Y{{</world>}}

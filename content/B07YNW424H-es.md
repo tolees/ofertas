@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Productos para cuidar tu cuerpo y sentirte bien contigo mismo
-- Producto oficial del laboratorio Halibut
 - Halibut Dermoh crema pañal pack duplo 2x45gr
+- Producto oficial del laboratorio Halibut
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07YNW424H{{</world>}}

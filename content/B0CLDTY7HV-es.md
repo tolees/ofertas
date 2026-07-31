@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Spread collar
 - Regular Fit
 - materialFabricComposition: Outer: 55% Polyester, 40% Recycled Wool, 5% Other Fibres; Lining: 100% Polyester
+- Spread collar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CLDTY7HV{{</world>}}

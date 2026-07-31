@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Lavable a máquina
 - Cierre adaptable
 - Tenis de malla Gore And Strap con superposiciones
-- Lavable a máquina
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D79ZB37Y{{</world>}}

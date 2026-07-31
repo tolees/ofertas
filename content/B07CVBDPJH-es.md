@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Consigue un acabado impactante, efecto pestañas postizas, multiplicándolas de lado a lado y sin grumos
-- La máscara de pestañas más dramática, diseñada para lograr un volumen intenso y con un efecto de pestañas postizas
 - Aplica desde la raíz a las puntas en un movimiento de zig-zag y girando el cepillo en diagonal para alargar los extremos con facilidad
+- La máscara de pestañas más dramática, diseñada para lograr un volumen intenso y con un efecto de pestañas postizas
 - Su cepillo curvo atrapa y abarca todas las pestañas para un color mucho más definido, aplicando desde la raíz a las puntas
 - Su fórmula con prokeratina y fibra consigue de una sola pasada unas pestañas más densas, voluminosas y largas
 

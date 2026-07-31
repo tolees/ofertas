@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Una unidad
 - 1.4 3.8 2.1 juego de adaptadores, 6 unid.
 - Producto de alta calidad
-- Una unidad
 - Numero de piezas: 1.0
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 5 zonas vitrocerámicas
-- Programación de tiempo de cocción para cada zona y avisador acústico
 - Dimensiones aparato (alto, ancho, fondo): 4,4 x 81,6 x 52,7 cm
+- 5 zonas vitrocerámicas
 - Control DirectSelect Premium con 17 niveles de cocción
 - Función Clean: bloqueo temporal del control
+- Programación de tiempo de cocción para cada zona y avisador acústico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B017INIQ4I{{</world>}}

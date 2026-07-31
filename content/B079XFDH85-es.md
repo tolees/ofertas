@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gusto: En boca es muy amable y cálido, con poca acidez. Con poder en estructura, cuerpo y persistencia.
-- Tipo de uva: Elaborado con las variedades Syrah 50% - Cabernet sauvignon 40% - Petit verdot 10%, la vinificación se realiza, tras pasar por la despalilladora y con la uva casi intacta, en depósitos de acero inoxidable horizontales y rotativos.
-- Consumo: Para disfrutar de sus cualidades óptimas recomendamos su consumo entre 16ºC y 18ºC.
-- Aroma: Perfil aromático intenso con notas a fruta negra madura, ciruelas pasas, arándanos negros en mermelada y toques de café y chocolate negro amargo.
 - Maridaje: En un vino óptima para tomar en el aperitivo, así como en barbacoas con carnes a la parrilla y también con tartas de queso.
+- Tipo de uva: Elaborado con las variedades Syrah 50% - Cabernet sauvignon 40% - Petit verdot 10%, la vinificación se realiza, tras pasar por la despalilladora y con la uva casi intacta, en depósitos de acero inoxidable horizontales y rotativos.
+- Gusto: En boca es muy amable y cálido, con poca acidez. Con poder en estructura, cuerpo y persistencia.
 - Apariencia: Vino tinto de color cereza picota muy intenso.
+- Aroma: Perfil aromático intenso con notas a fruta negra madura, ciruelas pasas, arándanos negros en mermelada y toques de café y chocolate negro amargo.
+- Consumo: Para disfrutar de sus cualidades óptimas recomendamos su consumo entre 16ºC y 18ºC.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B079XFDH85{{</world>}}

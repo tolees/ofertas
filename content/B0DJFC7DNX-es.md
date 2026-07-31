@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 55% algodón / 36% poliéster (reciclado) / 9% viscosa
-- Contiene al menos un 70% de material reciclado y renovable
-- Puños y dobladillo de canalé
 - Bolsillo canguro
+- Contiene al menos un 70% de material reciclado y renovable
 - Corte clásico
 - Diseño con capucha
+- Puños y dobladillo de canalé
+- 55% algodón / 36% poliéster (reciclado) / 9% viscosa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DJFC7DNX{{</world>}}

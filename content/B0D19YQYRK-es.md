@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 93% algodón / 7% elastano
-- Cintura elástica
 - Corte ajustado
+- Cintura elástica
+- 93% algodón / 7% elastano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D19YQYRK{{</world>}}

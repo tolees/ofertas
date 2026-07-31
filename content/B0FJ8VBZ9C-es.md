@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ofrece comodidad
 - Cierre con botones
 - Camisa de manga larga
+- Ofrece comodidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FJ8VBZ9C{{</world>}}

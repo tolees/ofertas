@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puños y bajo acanalados
 - Bolsillos con vivo
+- Puños y bajo acanalados
 - Adecuada para estar por casa o para días de ocio
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

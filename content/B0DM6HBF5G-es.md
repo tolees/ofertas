@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ancho estándar
 - Forro textil
+- Ancho estándar
 - Con detalles visibles de la marca Reebok
 - Comodidad y ligereza para que sólo tengas que preocuparte de rendir al máximo
 - Zapatillas pensadas para entrenar

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- COMPATIBLE CON TELÉFONOS Y CÁMARAS: trípode para cámara con bolsa de almacenamiento; compatible con teléfonos de hasta 8,4cm de ancho y la mayoría de las cámaras digitales
 - ROTACIÓN DE 360 GRADOS: el cabezal panorámico de tres direcciones permite una rotación horizontal de 360° y una inclinación vertical de 180° para sacar fotos desde distintos ángulos
-- DISEÑO PORTÁTIL: el diseño ligero hace que sea fácil de llevar y transportar; incluye bolsa de almacenamiento para su protección
 - ALTURA AJUSTABLE: ofrece una extensión de 41,4cm a 127cm gracias a su pata telescópica de aleación de aluminio con cuatro secciones y sistemas de bloqueo que proporcionan estabilidad
+- COMPATIBLE CON TELÉFONOS Y CÁMARAS: trípode para cámara con bolsa de almacenamiento; compatible con teléfonos de hasta 8,4cm de ancho y la mayoría de las cámaras digitales
 - CONTROL INALÁMBRICO: mando a distancia desmontable con un alcance de 9,14m; compatible con dispositivos Android e iOS
+- DISEÑO PORTÁTIL: el diseño ligero hace que sea fácil de llevar y transportar; incluye bolsa de almacenamiento para su protección
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DZ5GJ9VC{{</world>}}

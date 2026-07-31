@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello, puños y dobladillo acanalados
 - Algodón peinado puro
 - Cinta icónica en el interior del cuello
+- Cuello, puños y dobladillo acanalados
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4KG4GP9{{</world>}}

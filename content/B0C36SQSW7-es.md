@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cintura con trabillas para cinturón
-- Bolsillos laterales y bolsillo ribeteado en la parte trasera
 - Tejido de sarga con elástico
+- Bolsillos laterales y bolsillo ribeteado en la parte trasera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C36SQSW7{{</world>}}

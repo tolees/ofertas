@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Resistencia a tracción por cizalla (según norma EN 1465): 130 kg/cm2 (12 horas, 23ºC, acero)
+- De color blanco
+- Resistencia a la temperatura: desde -30ºC hasta +150ºC
 - Resistencia a líquidos: resistente al agua, al aceite y a los disolventes usuales. También resiste a los ácidos y álcalis diluidos
 - No contiene disolventes y no altera su volumen al endurecer
-- Resistencia a la temperatura: desde -30ºC hasta +150ºC
-- De color blanco
+- Resistencia a tracción por cizalla (según norma EN 1465): 130 kg/cm2 (12 horas, 23ºC, acero)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00H2YAY1W{{</world>}}

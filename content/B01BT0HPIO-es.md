@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apto para lavavajillas
 - Vidrio sin plomo para un producto 100% reciclable
+- Material: vidrio de cal sodada
+- Apto para lavavajillas
 - Perfecto para servir agua, jugos y licores en las rocas o con una batidora
 - Vaso con dibujos geométricos
-- Material: vidrio de cal sodada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01BT0HPIO{{</world>}}

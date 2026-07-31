@@ -28,17 +28,17 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Zip fly
-- Pantalones chinos refinados con tecnología antiarrugas
+- Slim fit
 - Signature Khaki Slim
-- Cuenta con un bolsillo de seguridad con cremallera oculto y un compartimento para monedas
-- Wrinkle-free stretch cotton blend fabric
+- Pantalones chinos refinados con tecnología antiarrugas
 - Refined chino pants with no wrinkle technology
+- Wrinkle-free stretch cotton blend fabric
+- Signature Khaki Slim
+- Zip fly
 - Slim fit
-- Slim fit
+- Cuenta con un bolsillo de seguridad con cremallera oculto y un compartimento para monedas
 - Bragueta con cremallera
 - Tejido de mezcla de algodón elástico sin arrugas
-- Signature Khaki Slim
 - Welt pockets
 
 [🛒 Comprar!!!]({{< param buyurl >}})

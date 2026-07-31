@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Protector solar con protección SPF 50+ en formato de gel - crema que hidrata, refresca y protege la piel de la exposición solar
-- Apto para pieles sensibles. Producto hipoalergénico, no comedógenico con fórmula Vegan Friendly
-- Formulado con Hierba Santa que aporta un efecto antiedad, Alantoina que ofrece un efecto calmante y la Vitamina E posee una acción antioxidante
-- Brinda hidratación como una crema y refresca como un gel, además de protegerte contra los rayos UVA
 - Fotoprotector con efecto antiedad, que protege de los rayos UVB y UVA y cuenta con un acabado sedoso y sin residuo graso
+- Formulado con Hierba Santa que aporta un efecto antiedad, Alantoina que ofrece un efecto calmante y la Vitamina E posee una acción antioxidante
+- Protector solar con protección SPF 50+ en formato de gel - crema que hidrata, refresca y protege la piel de la exposición solar
+- Brinda hidratación como una crema y refresca como un gel, además de protegerte contra los rayos UVA
+- Apto para pieles sensibles. Producto hipoalergénico, no comedógenico con fórmula Vegan Friendly
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09XFHRW6Q{{</world>}}

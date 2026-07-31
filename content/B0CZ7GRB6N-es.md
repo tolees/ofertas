@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Capucha
 - Corte clásico
 - Bolsillos frontales
 - 70% algodón / 30% poliéster (reciclado)
-- Capucha
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZ7GRB6N{{</world>}}

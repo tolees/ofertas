@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro de malla
-- Tiro medio
-- N/D
 - Cintura elástica con cordón
-- Puños elásticos
+- Forro de malla
 - Corte clásico
+- Puños elásticos
 - 100% poliéster (reciclado)
+- N/D
+- Tiro medio
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJ2GVK1C{{</world>}}

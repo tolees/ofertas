@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Máxima comodidad
 - Suela de goma para tracción
 - Plantilla OrthoLite
-- Máxima comodidad
 - Cierre de cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

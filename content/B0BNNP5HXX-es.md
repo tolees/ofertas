@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Detalles interiores: 3 ranuras para tarjetas, bolsillo delantero
 - Apliques plateados
-- Detalles exteriores: bolsillo trasero con botón a presión
 - Cierre con botón a presión
+- Detalles exteriores: bolsillo trasero con botón a presión
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BNNP5HXX{{</world>}}

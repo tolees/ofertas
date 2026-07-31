@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillos: bolsillo exterior para monedas sueltas Compartimentos internos para tarjetas Dimensiones: 8,8 x 16,7 x 4 cm. Logotipo: placa metálica ROXY
 - Billetera triple para mujer con impresión de color liso y coloblock. Material: piel sintética 100% poliuretano con impresión.
+- Bolsillos: bolsillo exterior para monedas sueltas Compartimentos internos para tarjetas Dimensiones: 8,8 x 16,7 x 4 cm. Logotipo: placa metálica ROXY
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CDHKZQF4{{</world>}}

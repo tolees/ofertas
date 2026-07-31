@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ropa interior para hombre
 - Tiro regular
 - Calzoncillos de ajuste regular para una cobertura lateral cómoda. Cintura suave de 38 mm, cosida en el lateral. Información de cuidado impresa en el interior de la espalda para evitar etiquetas rayadas. Punto de cruz plano en la entrepierna
+- Ropa interior para hombre
 - Camiseta individual
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Davidoff COOL WATER MAN After Shave ; Con fragancia de notas marinas y efectos calmantes para la piel ; 75ml'
-date: 2026-07-28 23:45:13
+date: 2026-07-30 05:20:57
 image: 'https://m.media-amazon.com/images/I/31IiCiZdMwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

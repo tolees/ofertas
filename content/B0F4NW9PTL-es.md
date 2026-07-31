@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cerraduras con botones
 - Cuello de encaje
+- Cerraduras con botones
 - Bordado con monograma
 - Mangas largas
 

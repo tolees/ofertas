@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DISEÑO DE 360° - El diseño de 360° permite beber por cualquier parte del borde. El vaso está preparado para evitar derrames gracias a la válvula de silicona que genera un efecto ventosa.
 - TAPA PROTECTORA - Tapa que mantiene la taza para sorber siempre limpia.
+- DISEÑO DE 360° - El diseño de 360° permite beber por cualquier parte del borde. El vaso está preparado para evitar derrames gracias a la válvula de silicona que genera un efecto ventosa.
 - SUJECIÓN CÓMODA - 2 asas ergonómicas que el bebé puede agarrar fácilmente.
 - A PRUEBA DE DERRAMES - Cierre automático cuando se deja de beber para evitar manchas.
 - DETALLES DE PRODUCTO - 1 paquete contiene 1x Twistshake 360 ​​Cup. Dimensión & Peso: 11 x 8,6 x 11 cm, 110g. Material: Polipropileno, Elastómero Termoplástico, Silicona. Color: Blanco.

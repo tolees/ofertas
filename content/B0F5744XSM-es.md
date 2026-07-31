@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre de cremallera y cuello alzado
-- Cintura elástica con cordón
-- 100% poliéster (reciclado)
-- CLIMACOOL
 - Pantalón con puños elásticos
 - Cintura elástica con cordón
+- CLIMACOOL
+- Cierre de cremallera y cuello alzado
 - Corte clásico con talle medio
+- 100% poliéster (reciclado)
+- Cintura elástica con cordón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F5744XSM{{</world>}}

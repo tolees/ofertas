@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ideal para compartir
+- Caramelos con palo sabores surtidos
 - Conservar en lugar fresco y seco
 - Vienen envueltos individualmente,
+- Ideal para compartir
 - De textura dura
-- Caramelos con palo sabores surtidos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07DVLWCGS{{</world>}}

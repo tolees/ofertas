@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- No Strap
+- Casual
+- Caucho de goma
 - Cordones cierre
 - Plano tipo de tacón
-- Caucho de goma
 - no es resistente al agua
-- Casual
-- No Strap
 - material de suela: Caucho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

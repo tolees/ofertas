@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 18 rollos x 80 hojas de 3 capas por rollo
 - Papel 100 % libre de cloro
 - Diseño con más hojas por rollo en comparación con los rollos habituales, que tienen entre 40 y 60 hojas
 - Resistente y absorbente
+- 18 rollos x 80 hojas de 3 capas por rollo
 - Fabricado en Alemania
 
 [🛒 Visítala!!!]({{< param buyurl >}})

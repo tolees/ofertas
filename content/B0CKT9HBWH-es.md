@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Tobillo acolchado
 - Etiqueta tejida en la lengüeta
 - Parte superior de cuero
-- Tobillo acolchado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CKT9HBWH{{</world>}}

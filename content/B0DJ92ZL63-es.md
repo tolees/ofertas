@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre con cordón
 - Parte superior textil
-- Ancho normal
 - Detalles de la marca PUMA
+- Cierre con cordón
+- Ancho normal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DJ92ZL63{{</world>}}

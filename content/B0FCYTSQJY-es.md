@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hidratante ; Mejora el ánimo. ; Sin género. ; Ligera ; Fácil de aplicar, no pegajoso ni graso. ;
-- Enriquecido con un acorde de segunda piel de almizcle, cachemira y notas de ámbar gris.
-- Almizcle sensual
 - Flores solares blancas
 - Musgo de roble
+- Enriquecido con un acorde de segunda piel de almizcle, cachemira y notas de ámbar gris.
+- Almizcle sensual
+- Hidratante ; Mejora el ánimo. ; Sin género. ; Ligera ; Fácil de aplicar, no pegajoso ni graso. ;
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FCYTSQJY{{</world>}}

@@ -29,12 +29,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 6 vasos bajos con relieve 26cl transparentes
-- 26CL
-- Ecológico , Material 100% saludable , 100% higiénico , No poroso , Larga duración , Material 100% reciclado
-- Fácil de limpiar
-- Con relieve
-- Apto Frigorífico , No Apto Microondas
 - Apto lavavajillas
+- Con relieve
+- Ecológico , Material 100% saludable , 100% higiénico , No poroso , Larga duración , Material 100% reciclado
+- 26CL
+- Apto Frigorífico , No Apto Microondas
+- Fácil de limpiar
 - Fácil de limpiar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

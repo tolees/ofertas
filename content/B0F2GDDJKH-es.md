@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Empeine textil con puntera reforzada
-- Forro textil
-- Horma clásica
 - Mediasuela de EVA
+- Forro textil
+- Empeine textil con puntera reforzada
 - Cierre de cordones
+- Horma clásica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F2GDDJKH{{</world>}}

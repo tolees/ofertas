@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de talón: plano
 - Puntera redondeada
-- Detalles de la marca PUMA
+- Tipo de talón: plano
 - Suela de goma que envuelve el talón
 - Ancho estándar
+- Detalles de la marca PUMA
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F6335FFG{{</world>}}

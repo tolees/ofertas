@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Salsa dulce y salada con un equilibrio perfecto
 - Rápidas, fáciles de preparar y con auténtico sabor asiático
+- Salsa dulce y salada con un equilibrio perfecto
 - Disfruta del auténtico sabor asiático con MAGGI Teriyaki
 
 [🛒 Comprar!!!]({{< param buyurl >}})

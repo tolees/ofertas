@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Top de punto
 - Tops
+- Top de punto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DP9FXM2Z{{</world>}}

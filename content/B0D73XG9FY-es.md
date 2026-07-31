@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido suave y fresco
-- AEROREADY
-- Corte ajustado
 - 91% poliéster (reciclado) / 9% elastano
 - Escote redondeado
+- Corte ajustado
+- AEROREADY
+- Tejido suave y fresco
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D73XG9FY{{</world>}}

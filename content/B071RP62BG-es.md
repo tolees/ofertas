@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Función atrapa polvo con paños electrostáticos
 - Funciona sin detergentes
+- Función atrapa polvo con paños electrostáticos
 - Depósito de 0.7 litros
 
 [🛒 Visítala!!!]({{< param buyurl >}})

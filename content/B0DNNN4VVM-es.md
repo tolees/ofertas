@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con un tejido suave
 - Detalles distintivos de la marca
 - Dobladillo y puños acanalados
+- Con un tejido suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DNNN4VVM{{</world>}}

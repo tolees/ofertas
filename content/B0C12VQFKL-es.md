@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Prenda deportiva de vestir
-- Tiene detalles distintivos de la marca "UNDER ARMOUR"
 - Para uso diario
+- Tiene detalles distintivos de la marca "UNDER ARMOUR"
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C12VQFKL{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- nan colonia premium con toque elegante.
 - Disfruta de una experiencia de frescura con cada aplicación.
-- nan Yankee Candle A Calm Quiet Place Candle 623 Gr – Other Beauty auténtico y reconocido.
 - Presentación compacta de alta calidad, fácil de usar y llevar contigo.
+- nan colonia premium con toque elegante.
+- nan Yankee Candle A Calm Quiet Place Candle 623 Gr – Other Beauty auténtico y reconocido.
 - Ideal para viajes, aporta beneficio inmediata.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

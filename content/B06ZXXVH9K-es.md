@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Polo marino de estilo marinero de aspecto clásico
-- El tejido piqué Tactel es liviano y suave y se seca rápido
-- Protección solar con UPF 40+
 - Tapeta con botones en la parte delantera
+- Protección solar con UPF 40+
+- El tejido piqué Tactel es liviano y suave y se seca rápido
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B06ZXXVH9K{{</world>}}

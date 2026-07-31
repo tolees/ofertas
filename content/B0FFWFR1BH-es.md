@@ -29,13 +29,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Haz que tus fotos luzcan como nunca con Lightroom (para sobremesa, móvil y web) y Lightroom Classic (para sobremesa).
-- Da vida a tus ideas con instrucciones de texto sencillas. 250 créditos mensuales de IA generativa incluidos en la suscripción.
-- Elimina cualquier cosa con un clic. Haz desaparecer las distracciones con la herramienta Eliminación generativa, basada en IA.
-- Modula la luz y el color, añade ajustes y efectos, recorta imágenes y más. Aplica cambios a toda la imagen o en puntos específicos.
-- 1 TB de almacenamiento en la nube y sincronización entre dispositivos.
-- Mejore las imágenes de Lightroom en Adobe Firefly mediante la edición basada en indicaciones, o convierta imágenes en vídeos.
 - Las Acciones rápidas te dan consejos que se adaptan a tu foto al momento para que consigas el aspecto que buscas.
+- 1 TB de almacenamiento en la nube y sincronización entre dispositivos.
+- Modula la luz y el color, añade ajustes y efectos, recorta imágenes y más. Aplica cambios a toda la imagen o en puntos específicos.
+- Mejore las imágenes de Lightroom en Adobe Firefly mediante la edición basada en indicaciones, o convierta imágenes en vídeos.
+- Elimina cualquier cosa con un clic. Haz desaparecer las distracciones con la herramienta Eliminación generativa, basada en IA.
 - Aumento de escala generativa, con tecnología de Topaz Labs, le ayuda a mejorar la resolución y nitidez de la imagen sin perder detalles.
+- Da vida a tus ideas con instrucciones de texto sencillas. 250 créditos mensuales de IA generativa incluidos en la suscripción.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FFWFR1BH{{</world>}}

@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - REFRIGERACIÓN ÓPTIMIZADA DE LA CPU: La serie E de MAG CORELIQUID utiliza una placa de cobre amplia para los puntos calientes descentrados de la CPU, así como más microcanales internos para óptimizar la disipación del calor
-- COMPATIBLE CON ZÓCALOS AMD E INTEL: Totalmente compatible con los zócalos de CPU AMD: AM5, AM4 e Intel: LGA 1700, 1200, 1156, 1155, 1151, 1150; incluye pasta térmica
-- VENTILADORES DUAL FDB ARGB: 2 ventiladores ARGB de 120 mm con cojinetes fluidodinámicos: 600-1800 RPM, PWM Presión estática elevada: 0,31-2,52 mmH2O y un caudal de aire: 25,5-75,04 CFM con un ruido moderado: 11,2-32,5 dBA
 - CÁMARA DUAL, FLUJO DIVIDIDO: La bomba de doble cámara separa los flujos caliente y frío para preservar la diferencia de temperatura para una refrigeración óptima; el radiador de flujo dividido 277 x 119.2 x 27mm, emplea el mismo principio
+- COMPATIBLE CON ZÓCALOS AMD E INTEL: Totalmente compatible con los zócalos de CPU AMD: AM5, AM4 e Intel: LGA 1700, 1200, 1156, 1155, 1151, 1150; incluye pasta térmica
 - ILUMINACIÓN Y RENDIMIENTO PERSONALIZABLES: el cabezal de bloque: giratorio 270° y los ventiladores del radiador incorporan efectos Mystic Light personalizables: cabezal ARGB de 3 patillas y 5 V en la placa base
+- VENTILADORES DUAL FDB ARGB: 2 ventiladores ARGB de 120 mm con cojinetes fluidodinámicos: 600-1800 RPM, PWM Presión estática elevada: 0,31-2,52 mmH2O y un caudal de aire: 25,5-75,04 CFM con un ruido moderado: 11,2-32,5 dBA
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CC5FT1LH{{</world>}}

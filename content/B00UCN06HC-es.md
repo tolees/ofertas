@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- RECOMENDACIONES: Si no supiesen instalarlo, aconsejamos que contacten con un electricista certificado
+- INSTALACIÓN: Aseguramos una instalación rápida de cada una de las cajas gracias a su configuración con entradas de fácil rotura.
 - ESPECIFICACIONES: Caja estanca Minibox | Estanqueidad IP55 | 75x75x39 mm | Gris | Tapa a presión | Gris
 - ESTANQUEIDAD IP55: Este producto es perfecto para instalaciones en las que debemos garantizar grados elevados de protección al agua.
-- INSTALACIÓN: Aseguramos una instalación rápida de cada una de las cajas gracias a su configuración con entradas de fácil rotura.
-- RECOMENDACIONES: Si no supiesen instalarlo, aconsejamos que contacten con un electricista certificado
 - SEGURIDAD: Fabricadas en material termoplástico de alta resistencia al impacto, a la protección de rayos ultravioletas y libre de halógenos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

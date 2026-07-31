@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Duramax es la marca líder en el mercado con más de 25 años de historia ofrece 15 años de garantía y cuenta con el Certificado TÜV GS Alemán a la calidad de fabricación en PVC y METAL​
 - La caseta de jardin es en PVC de la calidad más alta y duradera, con tratamiento ignífugo, es inalterable al paso del tiempo y está diseñado para durar toda la vida.
-- Esta caseta es una de los mejores modelos de la gama Duramax y uno de los más vendido!. Es imprescindible para dar organizaciòn a su jardín, optimizando el espacio ya que sirve como armario exterior.
 - Incluye el kit de estructura para suelo, se trata de la estructura metálica sobre la que colocar un suelo posteriormente. El kit incluye esta estructura, no el suelo. El montaje de la caseta es rápido y sencillo, además se aconseja la instalación de esta sobre una base de hormigón.
+- Duramax es la marca líder en el mercado con más de 25 años de historia ofrece 15 años de garantía y cuenta con el Certificado TÜV GS Alemán a la calidad de fabricación en PVC y METAL​
+- Esta caseta es una de los mejores modelos de la gama Duramax y uno de los más vendido!. Es imprescindible para dar organizaciòn a su jardín, optimizando el espacio ya que sirve como armario exterior.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B006E9JGBU{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Figura oficial de Pokémon – Características Lucario, uno de los Pokémon más populares, perfecto para fans y coleccionistas
 - Diseño detallado y dinámico: cuidadosamente elaborado con características precisas de juego y una postura lista para la batalla
-- Ideal gift for Pokémon Fans - A great Choice for birthdays, holidays, or as an addition to any Pokémon collection
 - PERFECT for play and collecting - Great for recreating Pokémon battles or displaying alongside other figures
+- Figura oficial de Pokémon – Características Lucario, uno de los Pokémon más populares, perfecto para fans y coleccionistas
+- Ideal gift for Pokémon Fans - A great Choice for birthdays, holidays, or as an addition to any Pokémon collection
 - Built for everyday play - Durable construction suitable for children ages 4 and up
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte clásico
-- Cuello redondo
 - Material Principal: 100% Algodón / Parte Del Cordoncillo: 95% Algodón / 5% Elastano
+- Cuello redondo
+- Corte clásico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZP5C84Y{{</world>}}

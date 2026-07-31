@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta esencial de cuello redondo
 - Manga corta y corte entallado
 - Logotipo impreso en posición en la parte delantera
+- Camiseta esencial de cuello redondo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FFTPTHGY{{</world>}}

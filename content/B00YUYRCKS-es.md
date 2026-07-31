@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Producto adecuado para regalar, decorar o coleccionar
-- La estatuilla es pintada a mano
-- Medidas: 10.2 x 8.9 x 15.2 cm
 - Figurilla decorativa creada por el artista Suzan Lordi
 - Nombre de la colección: Willow Tree
+- Medidas: 10.2 x 8.9 x 15.2 cm
+- La estatuilla es pintada a mano
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00YUYRCKS{{</world>}}

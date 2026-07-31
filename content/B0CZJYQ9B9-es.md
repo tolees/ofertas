@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Media caña
 - 56% poliéster (reciclado), 40% algodón, 3% elastano, 1% poliamida (reciclada)
 - Tres pares por paquete
-- Media caña
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZJYQ9B9{{</world>}}

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Los premios para gatos CATISFACTIONS SHAKE UPS están disponibles en 2 deliciosos sabores: Aves a la Brasa con pato y catnip y Fiesta del Mar con salmón, atún y camarones.
-- Snack para gatos deliciosamente crujientes por fuera y suaves por dentro.
 - Solo 2 kcal en cada snack para gatos!
+- Snack para gatos deliciosamente crujientes por fuera y suaves por dentro.
 - Los premios para gatos CATISFACTIONS SHAKE UPS con multivitaminas contienen vitaminas y minerales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

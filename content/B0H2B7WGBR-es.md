@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 📏MEDIDAS y TRANSPORTE | Las medidas de la tumbona son de 133 x 56 x 86 cm. Dispone también de una bolsa de transporte con asas tipo mochila.
-- 💆​AGUJERO CABEZA y BRAZOS | Incluye una almohada, agujeros para los brazos y un orificio acolchado para la cabeza, lo que permite tumbarse boca abajo cómodamente. Además, cuenta con un bolsillo lateral con compartimento para el móvil y posavasos.
 - 💺​RESPALDO AJUSTABLE | Dispone de 5 posiciones de reclinado que permiten adaptarla fácilmente a diferentes necesidades, desde sentarse cómodamente hasta tumbarse para descansar o tomar el sol.
 - 🏋️MATERIAL y RESISTENCIA | Fabricada con estructura de aluminio ligera y resistente y tejido de poliéster, impermeable y resistente. Soporta un peso máximo de 160 kg, ofreciendo firmeza y seguridad.
+- 📏MEDIDAS y TRANSPORTE | Las medidas de la tumbona son de 133 x 56 x 86 cm. Dispone también de una bolsa de transporte con asas tipo mochila.
+- 💆​AGUJERO CABEZA y BRAZOS | Incluye una almohada, agujeros para los brazos y un orificio acolchado para la cabeza, lo que permite tumbarse boca abajo cómodamente. Además, cuenta con un bolsillo lateral con compartimento para el móvil y posavasos.
 - ⛱️​PARASOL UPF 50+ | Incorpora un parasol ajustable que puede colocarse en la posición deseada para protegerte del sol. Ofrece protección UPF 50+ para mayor seguridad durante la exposición solar en la playa o piscina.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

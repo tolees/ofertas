@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Bolsillos: laterales
+- Cremallera inversa
 - Corte: estándar
 - Largo: estándar
 - Material principal: felpa francesa
-- Cremallera inversa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F83YQZM7{{</world>}}

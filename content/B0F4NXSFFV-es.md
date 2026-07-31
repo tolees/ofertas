@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Manga corta
 - Ajuste regular
+- Manga corta
 - Cuello redondo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

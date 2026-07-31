@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Masajear el gel sobre la piel húmeda. Dejar reposar 30 segundos y aclarar. Complementar con otros productos CeraVe.
-- Gel limpiador para rostro y cuerpo que limpia suavemente e hidrata la piel sin alterar su barrera natural. Con Ácido Hialurónico, 3 ceramidas esenciales y Tecnología MVE. Para piel normal a seca. Desarrollado con dermatólogos.
 - Piel protegida de rayos UVA y UVB y de partículas contaminantes. Textura no grasa. No comedogénica, sin perfume.
+- Loción ligera para rostro y cuello con alta protección solar SPF 50. Protege, hidrata y ayuda a restaurar la barrera cutánea. Con 3 ceramidas esenciales, Niacinamida, Vitamina E y Tecnología MVE. Para piel normal a seca.
 - Aplicar cada mañana en piel limpia y seca de rostro y cuello. Para exposición solar intensa, usar protector solar.
 - Piel limpia, fresca e hidratada durante 24h, sin sensación de tirantez ni sequedad. No comedogénico, sin perfume.
-- Loción ligera para rostro y cuello con alta protección solar SPF 50. Protege, hidrata y ayuda a restaurar la barrera cutánea. Con 3 ceramidas esenciales, Niacinamida, Vitamina E y Tecnología MVE. Para piel normal a seca.
+- Masajear el gel sobre la piel húmeda. Dejar reposar 30 segundos y aclarar. Complementar con otros productos CeraVe.
+- Gel limpiador para rostro y cuerpo que limpia suavemente e hidrata la piel sin alterar su barrera natural. Con Ácido Hialurónico, 3 ceramidas esenciales y Tecnología MVE. Para piel normal a seca. Desarrollado con dermatólogos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F9L89WDP{{</world>}}

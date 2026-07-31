@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logo de la marca en el pecho
 - Ribete en contraste en el cuello y los puños
+- Logo de la marca en el pecho
 - Con tapeta de 2 botones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

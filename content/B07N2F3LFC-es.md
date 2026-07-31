@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Resistente al agua hasta 50 m: se puede usar para nadar en aguas poco profundas
 - Correa de piel negra auténtica
+- Resistente al agua hasta 50 m: se puede usar para nadar en aguas poco profundas
 - Caja de 44 mm, pulsera de 22 mm de ancho, cristal mineral, movimiento de cuarzo con pantalla analógica con cronógrafo, importado
 - Caja redonda de acero inoxidable con esfera negra
 

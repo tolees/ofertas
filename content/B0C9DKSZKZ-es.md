@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Impresionante acción musou
-- La historia completa
 - Dulce victoria
+- La historia completa
+- Impresionante acción musou
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C9DKSZKZ{{</world>}}

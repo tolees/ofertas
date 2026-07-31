@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tienen detalles distintivos de la marca
 - Están hechos de neopreno
+- Tienen detalles distintivos de la marca
 - Guantes de entrenamiento de natación
 - Fáciles de usar
 

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuenta con la tecnología DRY Mix que aleja el sudor de la piel
-- Ideal para la práctica de deporte a nivel profesional
-- Logotipo de Joma en la pierna izquierda
 - Fabricados de poliéster 100%
+- Ideal para la práctica de deporte a nivel profesional
+- Cuenta con la tecnología DRY Mix que aleja el sudor de la piel
+- Logotipo de Joma en la pierna izquierda
 - Tiene una cintura elástica
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Lavar a máquina
-- Material de calidad
-- Sudadera con capucha para hombre
 - Material: 64% algodón y 36% acrílico
+- Sudadera con capucha para hombre
+- Material de calidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B28YDLPW{{</world>}}

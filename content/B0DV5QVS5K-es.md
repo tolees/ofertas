@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Básicos encantadores
-- ROPA ESENCIAL PARA MUJER: No te compliques a la hora de escoger ropa cada día. Te presentamos Twenty Days Edit, nuestros básicos cuidadosamente seleccionados para crear el armario cápsula perfecto.
 - REGALOS PARA MUJER: ¿Buscas un regalo para ella? Este versátil pack de 4 leggings es el regalo perfecto para tu novia o para ti misma.
 - Prácticos multipacks
+- ROPA ESENCIAL PARA MUJER: No te compliques a la hora de escoger ropa cada día. Te presentamos Twenty Days Edit, nuestros básicos cuidadosamente seleccionados para crear el armario cápsula perfecto.
+- Básicos encantadores
 - Siempre fáciles de conjuntar y combinar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

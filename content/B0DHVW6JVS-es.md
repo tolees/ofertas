@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Empeine de tejido ripstop con refuerzos
-- Cordones
-- Plantilla OrthoLite y membrana de GORE-TEX
 - Mediasuela de EVA LIGHTMOTION
-- Peso: 440 g (talla 42 2/3)
+- Plantilla OrthoLite y membrana de GORE-TEX
 - Drop de la mediasuela: 10 mm (talón: 32 mm, antepié: 22 mm)
+- Empeine de tejido ripstop con refuerzos
 - Suela de goma
+- Cordones
 - Horma clásica
+- Peso: 440 g (talla 42 2/3)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHVW6JVS{{</world>}}

@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - An Easy-Breezy New Life - Harness the power of the wind! Catch a breeze to effortlessly drift across the town on your glider, and use windmills to gather those gusts to create new goodies to sell at the bazaar.
-- Love is in the Air- Meet the cherished community of Zephyr Town with a colourful cast of characters, from friendly townsfolk to magical nature sprites. Find friendship, fall in love, and maybe even start a family with one of twelve charming individuals ready to share this new chapter with you.
-- Breathe the refreshing alpine air! - Begin your idyllic new life on a farm and enjoy the daily rhythms of rural living. Nurture a variety of crops and care for adorable animals in the picturesque mountainside settlement of Zephyr Town.
-- Limited Edition Contents: A copy of STORY OF SEASONS: Grand Bazaar, An adorable plush Suffolk sheep, Poster, Physical art book with over 115 pages of cosy art & Original soundtrack CD
 - Soar to Success in the Weekly Bazaar - Sell your farms produce and goods at the lively weekly bazaar. Customise your stall and take charge of your sales to build buzz, power up profits and put Zephyr Town’s Grand Bazaar back on the map.
+- Limited Edition Contents: A copy of STORY OF SEASONS: Grand Bazaar, An adorable plush Suffolk sheep, Poster, Physical art book with over 115 pages of cosy art & Original soundtrack CD
+- Breathe the refreshing alpine air! - Begin your idyllic new life on a farm and enjoy the daily rhythms of rural living. Nurture a variety of crops and care for adorable animals in the picturesque mountainside settlement of Zephyr Town.
+- Love is in the Air- Meet the cherished community of Zephyr Town with a colourful cast of characters, from friendly townsfolk to magical nature sprites. Find friendship, fall in love, and maybe even start a family with one of twelve charming individuals ready to share this new chapter with you.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F2SYY2ZG{{</world>}}

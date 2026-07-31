@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Con 120 páginas pautadas con certificación FSC, que garantiza que ha sido fabricado con papel proveniente de bosques gestionados de manera responsable.
 - Libreta de tamaño A5 con encuadernación cosida y cubiertas rígidas.
 - En su portada incorpora dos gomas elásticas, una de ellas pensada para acoplar el teléfono móvil y la otra para insertar un bolígrafo, lo que la vuelve una libreta ideal para asistir a reuniones.
-- Con 120 páginas pautadas con certificación FSC, que garantiza que ha sido fabricado con papel proveniente de bosques gestionados de manera responsable.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQ59P6L5{{</world>}}

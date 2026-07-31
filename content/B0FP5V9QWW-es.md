@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo Lacoste ampliado en ambas patillas para un look más sofisticado.
-- Forma redonda fácil de llevar.
-- Longitud de la patilla: 145 milímetros; Ancho del puente: 21 milímetros
-- Perfiles muy finos
 - Nueva interpretación del concepto de rayas y ribetes con rayas de colores muy finas en ambas patillas, que encarnan verdaderamente el ADN de Lacoste.
+- Logotipo Lacoste ampliado en ambas patillas para un look más sofisticado.
+- Longitud de la patilla: 145 milímetros; Ancho del puente: 21 milímetros
+- Forma redonda fácil de llevar.
+- Perfiles muy finos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FP5V9QWW{{</world>}}

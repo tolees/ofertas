@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- RECORRIDO DE CANICAS: ¡Juega a las canicas de otra forma! Cada cual en su turno, los jugadores lanzan la canica a través de los 6 pasos numerados y señalizan su avance con los vehículos. El primero que toque el cascabel gana la partida.
-- INGENIOSO Y EDUCATIVO: Este juguete de habilidad de madera FSC ayuda a los niños a ejercitar la motricidad fina y la coordinación mano-ojo. Los 6 pasajes independientes permiten crear distintos itinerarios, de diferente largura y dificultad.
 - EL PODER DEL JUEGO: Con unas colecciones atrevidas e innovadoras, Janod acompaña a los niños en su mejor aventura: ¡crecer! Unos bonitos juguetes para aprender sin darse cuenta, explorar el mundo, soñar y compartir... ¡Eso es jugar bien!
-- SUPERDIVERSIÓN CON APPLEPOP: Risas y buen humor están garantizados con los divertidos y originales juegos de la gama Applepop de Janod, inspirada en el alegre y colorido mundo de la feria para animar a los niños a crecer divirtiéndose todo el día.
+- INGENIOSO Y EDUCATIVO: Este juguete de habilidad de madera FSC ayuda a los niños a ejercitar la motricidad fina y la coordinación mano-ojo. Los 6 pasajes independientes permiten crear distintos itinerarios, de diferente largura y dificultad.
 - CARACTERÍSTICAS: Incluye 2 canicas de vidrio, 6 pasos y 4 fichas de madera FSC - Pintura al agua - Juego Janod para niños de 3 a 6 años - Dimensiones: 20 x 5 x 20 cm - De 1 a 4 jugadores para divertirse en solitario o en grupo en el interior o al aire libre
+- RECORRIDO DE CANICAS: ¡Juega a las canicas de otra forma! Cada cual en su turno, los jugadores lanzan la canica a través de los 6 pasos numerados y señalizan su avance con los vehículos. El primero que toque el cascabel gana la partida.
+- SUPERDIVERSIÓN CON APPLEPOP: Risas y buen humor están garantizados con los divertidos y originales juegos de la gama Applepop de Janod, inspirada en el alegre y colorido mundo de la feria para animar a los niños a crecer divirtiéndose todo el día.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CTKLML7T{{</world>}}

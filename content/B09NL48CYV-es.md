@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Forro textil
+- Parte superior de piel sintética
+- Cierre de cordones
 - Horma clásica
 - Panel acolchado en el tobillo
-- Cierre de cordones
-- Parte superior de piel sintética
-- Forro textil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09NL48CYV{{</world>}}

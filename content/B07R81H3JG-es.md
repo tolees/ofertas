@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Business-look pants
 - Elegant Chino pants
+- Business-look pants
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07R81H3JG{{</world>}}

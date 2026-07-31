@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Baja temperatura de funcionamiento.
+- Proporcione un entorno brillante para la foto del producto a continuación.
+- Vida útil de hasta 8000 horas.
 - Scoket E27 se adapta a la mayoría de accesorios fotográficos estándar.
 - Compacto y fácil de configurar.
-- Vida útil de hasta 8000 horas.
-- Proporcione un entorno brillante para la foto del producto a continuación.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B015IKDICS{{</world>}}

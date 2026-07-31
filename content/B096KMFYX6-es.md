@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Suela de goma flexible con tracción
-- Media suela contorneada con absorción de impactos
 - Talón de 3,2 cm
+- Media suela contorneada con absorción de impactos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B096KMFYX6{{</world>}}

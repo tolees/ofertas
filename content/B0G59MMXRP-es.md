@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Capacidad: 22 l
 - Correas acolchadas y ajustables para los hombros
+- Capacidad: 22 l
 - Cierre: apertura con cremallera bidireccional
 - Dimensiones: 53 cm (alt.) x 45 cm (an.) x 19,5 cm (prof.)
 - Tipos de bolsillos: bolsillo frontal, bolsillo sin cremallera, bolsillos laterales, bolsillo para botella de agua, bolsillo interior con cremallera, compartimento principal

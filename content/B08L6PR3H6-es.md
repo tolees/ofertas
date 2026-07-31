@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Dimensions Los kits de punto de cruz son una artesanía divertida y gratificante para adultos.
-- Simple pero cautivador, este diseño de punto de cruz de gato es colorido y detallado, perfecto para exhibir.
-- Múltiples tipos de puntadas dan a este patrón una profundidad adicional.
 - El patrón de punto de cruz acabado mide 5 x 7 pulgadas.
 - El juego de punto de cruz cuenta incluye hilo preseleccionado, Aida negro de 14 hilos con fondo impreso, aguja e instrucciones (idioma español no garantizado).
+- Múltiples tipos de puntadas dan a este patrón una profundidad adicional.
+- Simple pero cautivador, este diseño de punto de cruz de gato es colorido y detallado, perfecto para exhibir.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08L6PR3H6{{</world>}}

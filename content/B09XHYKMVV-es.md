@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Medidas: sillas.49,5 x.49.x.84 cm; mesa 100 x 100 x 75 cm
 - Materiales: muebles fabricados de ratán sintético, resistente al agua y a la intemperie;.cojines de poliéster (180 gr)
 - Piezas: cuatro sillas con respaldo y reposabrazos y una mesa cuadrada central con cristal
-- Conjunto de muebles para jardín color negro y crema con capacidad para 4 personas Aktive Garden
 - Incluye: 4 cojines acolchados.color crema para colocar en cada asiento y topes de protección en las patas
-- Medidas: sillas.49,5 x.49.x.84 cm; mesa 100 x 100 x 75 cm
+- Conjunto de muebles para jardín color negro y crema con capacidad para 4 personas Aktive Garden
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09XHYKMVV{{</world>}}

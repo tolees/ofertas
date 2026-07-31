@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantilla de espuma viscoelástica refrigerada por aire
+- Lavable a máquina
 - Cremallera lateral
 - Tenis monocromáticos con cordones y detalle de cremallera de un cuarto
-- Lavable a máquina
+- Plantilla de espuma viscoelástica refrigerada por aire
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C4RTFHC1{{</world>}}

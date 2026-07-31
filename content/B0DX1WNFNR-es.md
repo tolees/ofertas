@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MÁXIMA COMODIDAD: Este conjunto de terraza exterior incluye cojines con espuma de alta densidad y fundas de poliéster de 200 g/m², proporcionando el soporte ideal y comodidad para relajarse al aire libre
-- CONJUNTO PARA JARDÍN COMPLETO: Este conjunto de jardín elegante incluye un sofá de dos plazas, dos sillones y una mesa de centro combinada. Es ideal para disfrutar de un tiempo de calidad en el jardín con estilo y funcionalidad
 - MEDIDAS TOTALES: Sofá de dos plazas: 125x64x75 cm (LxANxAL). Sillones: 71,5x64x75 cm (LxANxAL). Mesa de centro: 65x45x45 cm (LxANxAL). Carga máxima: 260 kg (sofá), 130 kg (sillón) y 50 kg (mesa). Requiere montaje
+- CONJUNTO PARA JARDÍN COMPLETO: Este conjunto de jardín elegante incluye un sofá de dos plazas, dos sillones y una mesa de centro combinada. Es ideal para disfrutar de un tiempo de calidad en el jardín con estilo y funcionalidad
 - RESISTENTE Y ESTABLE: Estructura de metal, resina trenzada PE y vidrio templado de 5 mm, resistentes a los rayos UV, humedad y calor. Fácil de limpiar con un paño húmedo. Sillones y mesa con pies antideslizantes para protección y estabilidad
+- MÁXIMA COMODIDAD: Este conjunto de terraza exterior incluye cojines con espuma de alta densidad y fundas de poliéster de 200 g/m², proporcionando el soporte ideal y comodidad para relajarse al aire libre
 - MESA DE CENTRO A JUEGO: Este conjunto de sofá de jardín exterior incluye una mesa de centro amplia con encimera de vidrio templado. Su superficie es fácil de limpiar con un paño húmedo, garantizando practicidad en el día a día
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

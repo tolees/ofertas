@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Inserciones de encaje con borde festoneado en el escote, en la espalda y en las mangas
+- El modelo mide 1 m75 y lleva una talla S/36
 - Manga corta
 - Cuello en V
-- El modelo mide 1 m75 y lleva una talla S/36
 - Corte recto
+- Inserciones de encaje con borde festoneado en el escote, en la espalda y en las mangas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09KC1XF7W{{</world>}}

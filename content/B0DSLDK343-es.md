@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Aplicar una cantidad de champú del tamaño de un tapón de botella. Masajear y aclarar abundantemente.
 - Prolonga la duración del color. Potencia el brillo y la luminosidad. Nutrición y suavidad inmediata.
 - Champú azul neutralizador para cabello coloreado que elimina tonos cálidos no deseados en cabello castaño claro.
-- Aplicar una cantidad de champú del tamaño de un tapón de botella. Masajear y aclarar abundantemente.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DSLDK343{{</world>}}

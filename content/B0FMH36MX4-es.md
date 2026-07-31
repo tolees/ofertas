@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Actúa como escudo protector contra las manchas blancas y amarillentas
-- La frescura duradera que todos quieren
 - Old Spice Captain, con aroma a mar abierto, sándalo y notas cítricas, te hará inolvidable: te convertirás prácticamente en el centro del universo
+- Actúa como escudo protector contra las manchas blancas y amarillentas
 - Dile adiós a los malos olores durante 48 horas
+- La frescura duradera que todos quieren
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FMH36MX4{{</world>}}

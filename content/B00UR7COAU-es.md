@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Vaqueros Mujer || Merch para fans y divertido || Patrón: Liso
-- Descubre todas las marcas de EMP!
-- Básicos, Ropa casual, Ropa de Calle
 - Medidas: tamaño estándar
+- Básicos, Ropa casual, Ropa de Calle
 - Tejanos con las siguientes características:
+- Descubre todas las marcas de EMP!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00UR7COAU{{</world>}}

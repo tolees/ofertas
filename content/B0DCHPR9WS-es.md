@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 9 claves de modularidad: su diseño altamente modular hace que sea fácil cambiar las partes del GMMK 3, personalizando su aspecto, sonido y tacto totalmente a tu gusto.
-- Distribuciones de teclado: QWERTY estadounidense. La distribución puede variar de las imágenes del producto
-- Rueda programable: Gírala para ajustar rápidamente el volumen de tu dispositivo, púlsala para pausar o reproducir el contenido multimedia, silenciar el sonido al instante o programa una acción personalizada con el software Glorious CORE.
-- Sistema de juntas modulares: Personaliza fácilmente las juntas internas del GMMK 3 con un diseño simple, inspirado en bloques de construcción, para ajustar el tacto al teclear de más flexible a más firme.
 - Teclas GPBT de doble inyección: estas teclas son especialmente duraderas y no perderán color ni lustre con el tiempo, dejando pasar tu luz RGB con claridad.
+- 9 claves de modularidad: su diseño altamente modular hace que sea fácil cambiar las partes del GMMK 3, personalizando su aspecto, sonido y tacto totalmente a tu gusto.
+- Rueda programable: Gírala para ajustar rápidamente el volumen de tu dispositivo, púlsala para pausar o reproducir el contenido multimedia, silenciar el sonido al instante o programa una acción personalizada con el software Glorious CORE.
+- Distribuciones de teclado: QWERTY estadounidense. La distribución puede variar de las imágenes del producto
+- Sistema de juntas modulares: Personaliza fácilmente las juntas internas del GMMK 3 con un diseño simple, inspirado en bloques de construcción, para ajustar el tacto al teclear de más flexible a más firme.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DCHPR9WS{{</world>}}

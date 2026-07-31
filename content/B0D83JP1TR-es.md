@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cuello redondo
+- Tejido transpirable
+- Tejido transpirable
 - Costuras en zonas estratégicas que favorecen la silueta
-- Diseño optimizado para una total libertad de movimiento
-- 70% poliéster (reciclado) / 30% rayón
 - Corte clásico
+- Diseño optimizado para una total libertad de movimiento
 - AEROREADY
 - Costuras en zonas estratégicas que favorecen la silueta
-- Tejido transpirable
-- Tejido transpirable
-- Cuello redondo
+- 70% poliéster (reciclado) / 30% rayón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D83JP1TR{{</world>}}

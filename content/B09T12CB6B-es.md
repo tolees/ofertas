@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Es 100% natural y vegetal, para contribuir a un planeta sostenible
-- No contiene gluten ni lactosa, por lo que es apto para personas celíacas e intolerantes al lácteo
-- Naturalmente baja en grasas saturadas
 - Contiene nutrientes esenciales y es fuente de calcio y vitaminas B2, B12 y D2
 - Bebida de soja con calcio y vitaminas añadidas
+- Naturalmente baja en grasas saturadas
+- No contiene gluten ni lactosa, por lo que es apto para personas celíacas e intolerantes al lácteo
+- Es 100% natural y vegetal, para contribuir a un planeta sostenible
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09T12CB6B{{</world>}}

@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cuello: Tortuga
-- Desigual
-- Acabados rib
-- Fit: Regular
 - Manga: Larga
+- Desigual
+- Fit: Regular
+- Acabados rib
 - Color: Liso
 
 [🛒 Visítala!!!]({{< param buyurl >}})

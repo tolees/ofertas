@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Capucha extraíble
-- Color: Liso
-- Desigual
-- Manga: Larga
 - Fit: Regular
+- Manga: Larga
+- Color: Liso
 - Bolsillos delanteros
+- Desigual
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DW9HTN6L{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Principales ventajas: el tornillo ULTRACUT FBS II 8x55 5/- US TX de acero galvanizado de alta calidad permite ahorro de tiempo debido a la instalación a través, la no necesidad de limpiar el orificio de la broca y el uso del atornillador de impacto. Tamibén permite uso de menos fijaciones debido a la alta capacidad de carga, a su certificado ETA Opción 1 para hormigón, y certificados C1 y C2 para cargas sísmicas. Además es un anclaje certificado para su reutilización.
-- Modo de empleo: Realizar agujero en el hormigón con broca de 8 mm de diámetro, limpiar el agujero (si hacemos el agujero 3 cm más profundo no haría falta y en el techo tampoco haría falta), para finalizar introducir el anclaje con un atornillador de impacto y un vaso SW13 o punta TX 40. No requiere de par de apriete sino que su hilo de rosca hace un recorrido en el hormigón para que quede fijado.
 - Información del producto: 8 mm es el diámetro del agujero (la broca), 100 mm es la longitud total del anclaje. 5 mm sería el espesor máximo que podríamos fijar para la carga máxima del anclaje
-- Aplicaciones: para la fijación en hormigón de estructuras metálicas, barandillas, soportes, escaleras de mano, bandejas de cables, máquinas, escaleras mecánicas, prebabricados de hormigón, fachadas, carpintería metálica, construcciones de madera.
+- Principales ventajas: el tornillo ULTRACUT FBS II 8x55 5/- US TX de acero galvanizado de alta calidad permite ahorro de tiempo debido a la instalación a través, la no necesidad de limpiar el orificio de la broca y el uso del atornillador de impacto. Tamibén permite uso de menos fijaciones debido a la alta capacidad de carga, a su certificado ETA Opción 1 para hormigón, y certificados C1 y C2 para cargas sísmicas. Además es un anclaje certificado para su reutilización.
 - Contenido: Caja con 50 unidades de Tornillo ULTRACUT FBS II 8x55 5/- US TX.
+- Modo de empleo: Realizar agujero en el hormigón con broca de 8 mm de diámetro, limpiar el agujero (si hacemos el agujero 3 cm más profundo no haría falta y en el techo tampoco haría falta), para finalizar introducir el anclaje con un atornillador de impacto y un vaso SW13 o punta TX 40. No requiere de par de apriete sino que su hilo de rosca hace un recorrido en el hormigón para que quede fijado.
+- Aplicaciones: para la fijación en hormigón de estructuras metálicas, barandillas, soportes, escaleras de mano, bandejas de cables, máquinas, escaleras mecánicas, prebabricados de hormigón, fachadas, carpintería metálica, construcciones de madera.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01LO20PKM{{</world>}}

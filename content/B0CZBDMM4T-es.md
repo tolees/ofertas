@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cintura plana elástica
 - 85% poliéster (reciclado) / 15% elastano
-- Costuras que favorecen la silueta
-- Tacto seco
-- CLIMACOOL
-- Diseño transpirable
 - Corte ajustado de talle alto
+- Tacto seco
+- Cintura plana elástica
+- Diseño transpirable
+- Costuras que favorecen la silueta
+- CLIMACOOL
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZBDMM4T{{</world>}}

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- 47% algodón / 43% poliéster reciclado / 8% nailon reciclado / 2% elastán
 - Costuras anatómicas en la puntera
 - Tres pares por paquete
 - Refuerzo en el arco plantar
-- Puños de canalé
 - Calcetines tobilleros que apenas asoman por encima de las zapatillas
-- 47% algodón / 43% poliéster reciclado / 8% nailon reciclado / 2% elastán
+- Puños de canalé
 - Tejido fino y ligero
 
 [🛒 Comprar!!!]({{< param buyurl >}})

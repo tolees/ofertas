@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantilla OrthoLite
 - Cierre de cordones
+- Plantilla OrthoLite
 - Suela de goma para tracción
 - Máxima comodidad
 

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Empaque puede variar
 - BARBERO PANASONIC ERGB86 0,5-30mm BARBA LARGA
+- Empaque puede variar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B079YX8PLJ{{</world>}}

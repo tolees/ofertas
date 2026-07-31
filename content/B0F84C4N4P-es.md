@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Largo: estándar
-- Manga corta
 - Material principal: punto simple
 - Corte: estándar
+- Largo: estándar
+- Manga corta
 - Cuello: cuello redondo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

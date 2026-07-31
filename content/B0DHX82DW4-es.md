@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Drop: 6 mm (talón: 28 mm / antepié: 22 mm)
-- Forro textil
-- Contiene al menos un 20% de material reciclado
-- Empeine de malla
 - Suela de goma
 - Fiel a la talla
-- Peso: 256 g (talla 38 2/3)
+- Forro textil
+- Contiene al menos un 20% de material reciclado
 - Mediasuela Bounce 2.0
+- Empeine de malla
+- Drop: 6 mm (talón: 28 mm / antepié: 22 mm)
+- Peso: 256 g (talla 38 2/3)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DHX82DW4{{</world>}}

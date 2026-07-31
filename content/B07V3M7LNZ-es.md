@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Repele el agua
-- 0,27 kg de peso y 6 L de volumen
 - 20,5 cm de alto x 23 cm de ancho x 12,5 cm de profundidad
-- Fiambrera
+- Repele el agua
 - 100% poliamida
+- 0,27 kg de peso y 6 L de volumen
+- Fiambrera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07V3M7LNZ{{</world>}}

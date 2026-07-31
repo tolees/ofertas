@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gama de 18 colores
 - De madera certificada PEFC
+- Gama de 18 colores
 - Punta de 10 mm
 - Pinta sobre diversas superficies: cartón, cristal, metal…
 

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El juego es un cupón Code in a Box, no incluye un cartucho/ disco.
 - Shred! 2 Ft. Sam Pilgim: Montarás como la leyenda del ciclismo de montaña Sam Pilgrim y utilizarás el avanzado sistema de trucos para realizar combos increíbles en más de 40 niveles hechos a mano.
-- Desarrollado en colaboración con Sam Pilgrim, campeón FMB del mundo y un don general del MTB.
 - El diseño de nivel "fluido" basado en la mecánica de "bomba" hace que la experiencia de juego MTB sea divertida, adictiva y auténtica.
+- El juego es un cupón Code in a Box, no incluye un cartucho/ disco.
 - Un remake total de “Shred! 1” rehecho con amor, desde cero.
+- Desarrollado en colaboración con Sam Pilgrim, campeón FMB del mundo y un don general del MTB.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJDD9TB1{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forro textil
-- Suela Controlplate para todo tipo de superficies
 - Horma clásica
+- Suela Controlplate para todo tipo de superficies
+- Forro textil
 - Empeine Hybridfeel con elementos Strikescale
 
 [🛒 Aquí!!!]({{< param buyurl >}})

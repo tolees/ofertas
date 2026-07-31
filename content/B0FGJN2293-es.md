@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mezclilla blanca elástica cómoda
 - 98 % algodón, 2 % elastano
+- Mezclilla blanca elástica cómoda
 - Jeans cónicos con cintura alta
 
 [🛒 Aquí!!!]({{< param buyurl >}})

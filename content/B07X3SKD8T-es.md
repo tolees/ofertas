@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Instrucciones de cuidado: lavable a máquina
 - Ajuste: llamarada
-- Composición: 80% algodón, 18% poliéster, 2% elastano
+- Instrucciones de cuidado: lavable a máquina
 - Tipo de estiramiento: elasticidad media
 - Jeans Pantalones Largos
+- Composición: 80% algodón, 18% poliéster, 2% elastano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07X3SKD8T{{</world>}}

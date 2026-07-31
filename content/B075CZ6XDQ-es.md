@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Colchoneta hinchable INTEX de la línea Camping Mats, medidas: 127 cm (ancho) x 193 cm (profundidad) y altura de 24 cm
-- Construcción única con 2 capas laminadas extraresistentes, color: superficie gris y base azul
 - Superficie aterciopela y ondeada de 10 láminas verticales con bordes redondeados
+- Construcción única con 2 capas laminadas extraresistentes, color: superficie gris y base azul
 - Peso del colchón: 3.25 kg
 - Colchoneta hinchable doble; peso máximo que soporta: 272 kg
 

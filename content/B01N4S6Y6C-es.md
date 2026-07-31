@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material de aislamiento Poliuretano (PU) Funda exterior material del forro interior Polietileno de alta densidad (HDPE)
 - Capacidad Litros 90 L Peso del producto 7, 4 kg
 - Capacidad de conservación 5 Días Dimensiones interiores (cm) 79 x 33 x 29 Dimensiones exteriores (cm) 92 x 42 x 44
+- Material de aislamiento Poliuretano (PU) Funda exterior material del forro interior Polietileno de alta densidad (HDPE)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01N4S6Y6C{{</world>}}

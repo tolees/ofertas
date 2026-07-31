@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Empeine de ante y material sintético
-- Plantilla textil
-- Suela de goma
-- Logotipos de adidas
 - Horma clásica
+- Empeine de ante y material sintético
 - Cordones
+- Logotipos de adidas
+- Suela de goma
+- Plantilla textil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F33JCX45{{</world>}}

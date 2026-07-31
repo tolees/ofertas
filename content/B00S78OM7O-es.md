@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CONCENTRACIÓN GARANTIZADA DE METILGLIOXAL (MGO) - Se trata de la molécula parcialmente responsable de la actividad única de la miel de Manuka; Nuestra miel IAA15+ presenta un nivel mínimo de metilglioxal de 514 mg/kg; Compruebe la actividad de su miel con el código QR presente en el producto;
-- DIRECTO DEL PRODUCTOR - Desde hace más de 10 años, Comptoirs et Compagnies colabora directamente con los apicultores de Nueva Zelanda para ofrecerle la auténtica miel de Manuka de la más alta calidad;
 - ORIGEN NUEVA ZELANDA - Auténtica Miel de Manuka Monofloral elaborada con el néctar de las flores de Manuka silvestre (Leptospermum Scoparium); La Manuka es una de las plantas más activas de la farmacopea tradicional;
+- DIRECTO DEL PRODUCTOR - Desde hace más de 10 años, Comptoirs et Compagnies colabora directamente con los apicultores de Nueva Zelanda para ofrecerle la auténtica miel de Manuka de la más alta calidad;
+- CONCENTRACIÓN GARANTIZADA DE METILGLIOXAL (MGO) - Se trata de la molécula parcialmente responsable de la actividad única de la miel de Manuka; Nuestra miel IAA15+ presenta un nivel mínimo de metilglioxal de 514 mg/kg; Compruebe la actividad de su miel con el código QR presente en el producto;
 - USO - Nuestra miel de Manuka IAA15+ presenta un nivel de actividad óptimo; Es ideal para un uso preventivo antes del invierno;
 - IAA: GARANTÍA DE LA ACTIVIDAD - La actividad única de la miel de Manuka se conoce con el nombre de actividad no peróxida; El índice IAA le ofrece la garantía de una actividad única sometida a mediciones científicas;
 

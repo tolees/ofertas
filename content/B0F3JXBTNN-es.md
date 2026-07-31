@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - COLORETE LÍQUIDO: Fórmula líquida para un acabado fresco y jugoso en las mejillas.
 - ACABADO LUMINOSO: Glossy que aporta brillo y efecto jugoso natural.
-- COLOR INTENSO: Alta pigmentación que proporciona un rubor vibrante y duradero.
-- COBERTURA MODULABLE: Fórmula que permite aplicar varias capas sin apelmazar.
 - HIDRATACIÓN PROLONGADA: Hasta 24h de hidratación para una piel flexible y cómoda.
+- COBERTURA MODULABLE: Fórmula que permite aplicar varias capas sin apelmazar.
+- COLOR INTENSO: Alta pigmentación que proporciona un rubor vibrante y duradero.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F3JXBTNN{{</world>}}

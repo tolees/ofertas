@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Barra de labios de color mate
-- Dermatológicamente testado
 - Muy fácil de aplicar, la liberación del color es inmediata, para un resultado de larga duración
+- Dermatológicamente testado
+- Barra de labios de color mate
 - Toda una experiencia sensorial durante la aplicación, con una agradable sensación de confort
 - Su cremosa y fundente textura viste los labios con un efecto mate intenso
 

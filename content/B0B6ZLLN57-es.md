@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Marca: Under Armour
 - Extras: cordón
+- Marca: Under Armour
+- Equipo: default
 - Forro: por defecto
 - Género: Pantalones
-- Equipo: default
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B6ZLLN57{{</world>}}

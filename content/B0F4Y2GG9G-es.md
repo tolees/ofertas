@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Helly Hansen Unisex HH Duffel Bag 2 50L Ebony One Size'
-date: 2026-07-25 00:26:41
+date: 2026-07-30 17:24:13
 image: 'https://m.media-amazon.com/images/I/41K7k8v7MIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

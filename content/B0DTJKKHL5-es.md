@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Polo de manga corta con doble botón de piqué con tinte en la prenda y acabado heavy wash
 - Pepe jeans Logotipo bordado en el pecho
 - Material: 100% algodón
+- Polo de manga corta con doble botón de piqué con tinte en la prenda y acabado heavy wash
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DTJKKHL5{{</world>}}

@@ -31,8 +31,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - Materias primas de alta calidad y un procesamiento respetuoso, convierte la Nocciolata en una deliciosa y cremosa pasta creando una receta armoniosa y equilibrada en sabor y textura.
 - La posible formación de grumos es debido a un proceso natural a causa a la solidificación de la manteca de cacao que se da a bajas temperaturas. Para eliminarlos poner el envase durante unas horas a 25ºC.
 - Nocciolata es una crema untable de cacao y avellana de cultivo orgánico, hecha de ingredientes cuidadosamente seleccionados.
-- Incluye avellanas (variedad Tonda Romana), la más alta calidad de cacao y manteca de cacao, azúcar de caña, leche desnatada en polvo, aceite de girasol prensado en frío, lecitina de soja y extracto natural de vainilla borbón.
 - Porciones por envase: aproximadamente 18 / 15 g = 3 cucharaditas.
+- Incluye avellanas (variedad Tonda Romana), la más alta calidad de cacao y manteca de cacao, azúcar de caña, leche desnatada en polvo, aceite de girasol prensado en frío, lecitina de soja y extracto natural de vainilla borbón.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C7VXLRRL{{</world>}}

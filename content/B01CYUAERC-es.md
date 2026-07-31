@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tejido impermeable y cortaviento de poliéster
 - Cremallera delantera YKK Metaluxe, Aislamiento PrimaLoft Black de 100 gm2 en las mangas
 - Aislamiento PrimaLoft Black de 133 gm2 en el cuerpo Tratamiento DWR
-- Tejido impermeable y cortaviento de poliéster
 - Ribete en otro color alrededor del cuello y en el bolsillo del pecho, Bolsillo en el pecho y para las manos con cierre de cremallera YKK, Metaluxe
 - Logotipo de Helly Hansen estampado en la parte trasera del cuello, Canesú con detalle de cinta en otro color
 

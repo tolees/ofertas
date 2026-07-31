@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Polo de rugby de manga larga y corte cuadrado
-- Tapeta oculta
 - Texto decorativo
 - Rayas cortadas y cosidas
+- Tapeta oculta
+- Polo de rugby de manga larga y corte cuadrado
 - Tejido piqué 100% algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})

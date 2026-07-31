@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Desigual
-- Cierre: de Cremallera
-- Con capucha
-- Manga: Larga
-- Largo: Corta
 - Fit: Regular
+- Largo: Corta
+- Manga: Larga
+- Con capucha
+- Cierre: de Cremallera
+- Desigual
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DTV72MQG{{</world>}}

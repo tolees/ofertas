@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- EYELINER MARRÓN WATERPROOF: Un delineador líquido waterproof que proporciona una duración a prueba de agua, corridas y lágrimas hasta 16 horas
 - PIGMENTACIÓN INTENSA RESISTENTE AL AGUA: Supera cualquier situación con un aspecto espléndido gracias a su pigmento marrón de alta concentración resistente al agua, que se mantiene durante todo el día
 - STAY WILD: Somos el destino de confianza para los amantes de la belleza de todas las edades, etnias y niveles económicos. No importa quién seas o dónde te encuentres en la vida, ¡tenemos un producto para ti!
-- FÁCIL DE APLICAR: Se desliza con suavidad y fluidez gracias a su sistema de depósito que permite un flujo de color ricamente pigmentado en cada aplicación para mayor precisión, exactitud y facilidad de aplicación.
 - PINCEL DE PUNTA FINA: La punta fina del pincel te permite crear cualquier look, desde líneas finas y delicadas al llamativo cat eye con gran precisión
+- FÁCIL DE APLICAR: Se desliza con suavidad y fluidez gracias a su sistema de depósito que permite un flujo de color ricamente pigmentado en cada aplicación para mayor precisión, exactitud y facilidad de aplicación.
+- EYELINER MARRÓN WATERPROOF: Un delineador líquido waterproof que proporciona una duración a prueba de agua, corridas y lágrimas hasta 16 horas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CQMTLM9J{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello camisero
 - Punto jacquard con diseño de rayas de cebra
-- Fit: Oversize
+- Cuello camisero
 - Largo: Largo
+- Fit: Oversize
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B8F7TKRH{{</world>}}

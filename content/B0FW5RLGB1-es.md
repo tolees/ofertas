@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - CALIDAD DE LA MARCA M&S: Marks & Spencer, una marca británica icónica, fundada en 1884, conocida por sus básicos atemporales. Combina comodidad, durabilidad y calidad. El estilo clásico se une a materiales de alta calidad y a una excelente artesanía para el día a día.
-- AJUSTE Y DISEÑO: capucha ajustada para una silueta favorecedora
 - CALIDAD PREMIUM: Fabricado en suave tejido polar para una sensación acogedora y confortable
+- AJUSTE Y DISEÑO: capucha ajustada para una silueta favorecedora
 - FÁCIL CUIDADO: lavable a máquina y apto para secadora – diseñado para un mantenimiento sin complicaciones
 - CARACTERÍSTICAS PENSADAS: tejido polar acogedor; diseño con capucha; cierre de cinturón de lazo
 

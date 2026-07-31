@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- [PEGAMENTO EXTRAFUERTE] El kit de fijación Glu&Fix cuenta con un pegamento universal con base de polímero Flextec proporcionando una fuerte adhesión a materiales prosos y no porosos. Además, el pegamento extra fuerte cuenta con una fórmula antigoteo de gel transparente.
 - [FABRICADO EN ABS] Los materiales para la sujeción de los productos de la colección Slim están fabricados en ABS. La carga máxima de sujeción de cada placa mural es de 5 kg.
+- [PEGAMENTO EXTRAFUERTE] El kit de fijación Glu&Fix cuenta con un pegamento universal con base de polímero Flextec proporcionando una fuerte adhesión a materiales prosos y no porosos. Además, el pegamento extra fuerte cuenta con una fórmula antigoteo de gel transparente.
 - [IMPERMEABLE] Esta cola es impremeable por lo que es ideal para usar en el baño, pero antes de aplicar el pegamento y enganchar la placa recomendamos que limpie y seque la superficie, evitando que haya polvo y grasa para que funcione correctamente.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

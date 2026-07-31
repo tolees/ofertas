@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Closure: encaje
-- Outer material: sintético
-- Lining: sintético
-- Shoe width: normale
 - Sole material: sintético
+- Shoe width: normale
+- Closure: encaje
+- Lining: sintético
+- Outer material: sintético
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07VGMT67D{{</world>}}

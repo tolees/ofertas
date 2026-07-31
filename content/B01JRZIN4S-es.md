@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Zona de ebullición rápida con indicador de 1/2/3 tazas, hierve una taza en 55 segundos y ahorra hasta un 66 % de electricidad
-- Hervidor de acero inoxidable con impresionantes adornos retro
 - Dispone de indicador de temperatura, indicador del nivel de agua e interruptor luminoso de encendido y apagado
-- Capacidad de 1,7 litros con una base de 360º, 2400 vatios de potencia
+- Zona de ebullición rápida con indicador de 1/2/3 tazas, hierve una taza en 55 segundos y ahorra hasta un 66 % de electricidad
 - Incluye de filtro extraíble y lavable, tapa de fácil extracción, boquilla para un vertido perfecto y asa ergonómica de tacto suave
+- Hervidor de acero inoxidable con impresionantes adornos retro
+- Capacidad de 1,7 litros con una base de 360º, 2400 vatios de potencia
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01JRZIN4S{{</world>}}

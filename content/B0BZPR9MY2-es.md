@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - One Piece
+- Manga
 - Shonen
 - Luffy
 - Zoro
-- Manga
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BZPR9MY2{{</world>}}

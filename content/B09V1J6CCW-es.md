@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- RESPETUOSO CON EL MEDIO AMBIENTE: La fórmula inocua está hecha a base de agua, tiene un olor ligero y no contiene VOC, de manera que se puede usar en cualquier contexto. Es fácil de usar y se limpia fácilmente solo con agua.
 - ÚSALO CON: Después de la aplicación, el tinte es resistente a la luz y al agua, pero puedes mejorar el acabado sellando el tinte con una de nuestras ceras, barnices o aceites. Estos acentuarán más el color del tinte, darán una mayor protección y se pueden usar para cambiar el acabado mate a satinado o brillante.
-- SECADO RÁPIDO: Nuestro Tinte para madera está especialmente formulado para teñir de forma uniforme la madera, garantizando una penetración del color homogénea por toda la superficie. El tinte tiene un acabado mate, se seca en solo 10 minutos y tiene una cobertura excelente.
 - DIFERENTES USOS: Nuestro Tinte para madera se puede usar en cualquier tipo de madera (roble, pino, teca, etc.) y en cualquier objeto, como muebles, armarios, puertas, suelos, juguetes y demás artículos de madera.
+- RESPETUOSO CON EL MEDIO AMBIENTE: La fórmula inocua está hecha a base de agua, tiene un olor ligero y no contiene VOC, de manera que se puede usar en cualquier contexto. Es fácil de usar y se limpia fácilmente solo con agua.
+- SECADO RÁPIDO: Nuestro Tinte para madera está especialmente formulado para teñir de forma uniforme la madera, garantizando una penetración del color homogénea por toda la superficie. El tinte tiene un acabado mate, se seca en solo 10 minutos y tiene una cobertura excelente.
 - COLOR EN UNA CAPA: Nuestro Tinte para madera está altamente concentrado y colorea la madera en profundidad con una sola aplicación. Disponible en 12 colores, se puede usar para teñir cualquier tipo de madera para interior o exterior. Hay disponible un kit de muestras de 15 ml.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

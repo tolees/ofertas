@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte normal, clásico, cómodo
 - Punto canalé en el cuello
 - Punto jersey de algodón ligero
-- Bajo en curva y mangas enrollables
 - Cuello con escote redondo abierto
+- Bajo en curva y mangas enrollables
+- Corte normal, clásico, cómodo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0825PWDNH{{</world>}}

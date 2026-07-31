@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Jean
 - Alto porcentaje de algodón
+- Jean
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CRL6NGYY{{</world>}}

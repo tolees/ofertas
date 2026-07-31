@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Tamaño: 200 ml
+- Marca: ESI
 - los mejores productos para el cuidado y la salud personal.
 - aloe vera gel puro al 100%
-- Marca: ESI
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B084MKKKHX{{</world>}}

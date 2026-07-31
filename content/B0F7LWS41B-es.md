@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 2 USB PARA LA REPRODUCCIÓN MULTIMEDIA
-- SINTONIZADOR HD DVB-T/T2/C/S/S2 (MPEG4 + HEVC/H.265 (10 bits))
-- TV CON CAPACIDAD HD
 - TAMAÑO DE LA PANTALLA 60 cm (24”)
+- 2 USB PARA LA REPRODUCCIÓN MULTIMEDIA
+- TV CON CAPACIDAD HD
+- SINTONIZADOR HD DVB-T/T2/C/S/S2 (MPEG4 + HEVC/H.265 (10 bits))
 - 3 ENTRADAS HDMI
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

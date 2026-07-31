@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalón corto clásico
 - Mezcla de viscosa elástica
+- Pantalón corto clásico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01MZ9IYZC{{</world>}}

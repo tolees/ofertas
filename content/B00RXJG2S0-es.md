@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Caja de regalo
 - Disney Tradiciones de Jim Shore
 - Resina pintada a mano
-- Caja de regalo
-- Las esculturas tienen el efecto de ser talladas en madera
 - Altura: 12,5 cm
+- Las esculturas tienen el efecto de ser talladas en madera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00RXJG2S0{{</world>}}

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Entresuela sintética
+- Superposiciones de gamuza
 - Suela de goma
 - Cierre de cordones
-- Superposiciones de gamuza
 - Ajuste regular;Parte superior de nailon
 
 [🛒 Comprar!!!]({{< param buyurl >}})

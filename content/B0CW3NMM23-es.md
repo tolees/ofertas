@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Bolígrafo con tinta borrable
 - Color de la tinta: azul
 - Cuenta con un personaje Mr. Wonderful en uno de sus extremos
-- Bolígrafo con tinta borrable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CW3NMM23{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Puños acanalados
 - Cuello redondo
+- Puños acanalados
 - Manga larga
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela de caucho DURABILITY
 - Corte en material sintético (Fibertech)
+- Suela de caucho DURABILITY
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FH6KSXQX{{</world>}}

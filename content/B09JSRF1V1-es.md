@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estilo clásico de cinco bolsillos
 - Cintura muy alta
 - Denim de algodón con mucho carácter y sensación de vaquero real
+- Estilo clásico de cinco bolsillos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09JSRF1V1{{</world>}}

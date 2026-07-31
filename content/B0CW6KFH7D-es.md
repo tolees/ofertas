@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bolsa, 1 x 2,5Kg
 - Deliciosas barritas Snickers, en versión minis, de chocolate con leche rellena de crema de cacahuete, suave caramelo y crujientes trozos de cacahuete, ideales como bombones para regalar o regalo navidad.
-- Sin colorantes ni conservantes artificiales. Vegetariano
 - También puede disfrutar de estas barras SNICKERS minis como un snack de media mañana o por la tarde
+- Bolsa, 1 x 2,5Kg
+- Sin colorantes ni conservantes artificiales. Vegetariano
 - Estas barras de chocolate de tamaño pequeño son perfectas para fiestas de cumpleaños, fiestas de oficina o reuniones, ideales también como regalo navidad.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

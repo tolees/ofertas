@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillos canguro
+- Tecnología Dri-Fit
 - Capucha con cordón
 - Ajuste regular
-- Tecnología Dri-Fit
+- Bolsillos canguro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08QZ8H1HG{{</world>}}

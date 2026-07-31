@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Snoop Dogg
 - Espuma viscoelástica refrigerada por aire
 - Slip-Ins
-- Snoop Dogg
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CVQQFC53{{</world>}}

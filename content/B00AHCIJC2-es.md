@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- DISEÑO ATEMPORAL: Se presenta en el clásico tarro de cristal con tapa para preservar la fragancia; etiqueta despegable para personalizar su aspecto
 - VELAS DE LARGA DURACIÓN: Hasta 150 horas; 17 cm de alto x 10 cm de ancho (623 g)
+- BLACK COCONUT: Puesta de sol en el paraíso… el coco, la madera de cedro y las flores isleñas prometen una velada de lujosa tranquilidad
 - AROMA ENVOLVENTE: Los ingredientes auténticos y la cera de primera calidad proporcionan una fragancia duradera y uniforme
 - COMBUSTIÓN LIMPIA Y UNIFORME: Mecha 100 % algodón de fibra natural enderezada y centrada
-- BLACK COCONUT: Puesta de sol en el paraíso… el coco, la madera de cedro y las flores isleñas prometen una velada de lujosa tranquilidad
-- DISEÑO ATEMPORAL: Se presenta en el clásico tarro de cristal con tapa para preservar la fragancia; etiqueta despegable para personalizar su aspecto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00AHCIJC2{{</world>}}

@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - La olla con escala es compatible con todo tipo de cocinas: inducción, gas, eléctricas y vitrocerámicas. Gracias a su óptima distribución del calor, no se quema nada.
-- La tapa de vidrio, apta para lavavajillas, se puede colocar en 4 posiciones marcadas: agujeros grandes/pequeños, abierto/cerrado para escurrir o cocinar. Las asas remachadas no se calientan durante la cocción.
 - Contenido: 1 cacerola con tapa de 16 cm (volumen 1,4 l, altura 7,5 cm) - ideal para cocinas con un diámetro de 14,5 cm - número de artículo: 0763166380
-- Material: Acero inoxidable Cromargan 18/10, pulido y sin revestimiento: inoxidable, apto para lavavajillas, resistente al calor y apto para horno hasta 250 °C (con tapa, 70 °C). Vidrio. Silicona.
 - La construcción de la base garantiza una retención de calor uniforme y duradera, ahorrando energía y tiempo durante la cocción.
+- Material: Acero inoxidable Cromargan 18/10, pulido y sin revestimiento: inoxidable, apto para lavavajillas, resistente al calor y apto para horno hasta 250 °C (con tapa, 70 °C). Vidrio. Silicona.
+- La tapa de vidrio, apta para lavavajillas, se puede colocar en 4 posiciones marcadas: agujeros grandes/pequeños, abierto/cerrado para escurrir o cocinar. Las asas remachadas no se calientan durante la cocción.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0015ZCL6U{{</world>}}

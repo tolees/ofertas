@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La funda Bumper también te permite usar el Control de Cámara sin problemas.
-- El nuevo diseño de los botones permite pulsarlos y sentir su respuesta con la máxima precisión. Y gracias a su fantástico acabado, esta funda realza el diseño delgado del iPhone Air.
 - Viene con dos enganches para poner una correa cruzada y llevar el iPhone Air con total seguridad.
 - La funda Bumper es fina, ligera y está hecha de policarbonato reforzado para dar un extra de protección a los bordes del dispositivo.
+- La funda Bumper también te permite usar el Control de Cámara sin problemas.
+- El nuevo diseño de los botones permite pulsarlos y sentir su respuesta con la máxima precisión. Y gracias a su fantástico acabado, esta funda realza el diseño delgado del iPhone Air.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FQF5NZCG{{</world>}}

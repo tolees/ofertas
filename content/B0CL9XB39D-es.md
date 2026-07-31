@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ideal para compartir
-- Con delicioso chocolate con leche
 - Mantener en un lugar fresco y seco
+- Con delicioso chocolate con leche
 - Cubiertas con una cáscara crujiente
 - Cacahuetes seleccionados de alta calidad
 - La siguiente información se aplica a cada unidad del paquete

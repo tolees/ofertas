@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Traje de baño
-- Tiene detalles distintivos de la marca
 - Prenda para varones adultos
+- Tiene detalles distintivos de la marca
+- Traje de baño
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B6CGN4BL{{</world>}}

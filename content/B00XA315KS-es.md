@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Presentados en una conveniente bolsa de 1 kilo, estos caramelos sueltos son fáciles de llevar y disfrutar en el hogar, la oficina, o mientras viajas
+- Disfruta de los beneficios de Halls Respiral, brindando un momento de frescor en tu garganta en cualquier momento
 - Respiral, marca con gran historia desde 1962, sigue fabricando sus caramelos de inigualable sabor con aroma de mentol
 - Con ingredientes de calidad, Halls garantiza un sabor intenso y delicioso; este caramelo de eucalipto proporciona una experiencia refrescante para los sentidos
-- Presentados en una conveniente bolsa de 1 kilo, estos caramelos sueltos son fáciles de llevar y disfrutar en el hogar, la oficina, o mientras viajas
 - Halls Respiral Caramelos Refrescantes sin gluten es la elección para quienes buscan un delicioso sabor a eucalipto
-- Disfruta de los beneficios de Halls Respiral, brindando un momento de frescor en tu garganta en cualquier momento
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XA315KS{{</world>}}

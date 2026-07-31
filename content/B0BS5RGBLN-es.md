@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camisa clásica de mezclilla entallado
 - 100% algodón duradero
 - Fabricado con tecnología de lavado más inteligente para un uso responsable del agua
+- Camisa clásica de mezclilla entallado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BS5RGBLN{{</world>}}

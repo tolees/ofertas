@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Viene con calcomanías exclusivas de Entertainment Earth y Diamond Collection
-- Entertainment Earth Exclusive Pop! ¡Figura de vinilo!
 - ¡Puntada brilla con una decoración de purpurina de diamante!
+- Entertainment Earth Exclusive Pop! ¡Figura de vinilo!
+- Viene con calcomanías exclusivas de Entertainment Earth y Diamond Collection
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B098C6ZJJ8{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Construcción de bota media
+- PUMA Logotipo de gato en el talón
 - Cuello acolchado
 - Empeine de gamuza
-- PUMA Logotipo de gato en el talón
-- Construcción de bota media
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BLCMGPNF{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Bepanthol Crema es una emulsión para pieles secas e irritadas, que calma y refresca la piel
+- Usar en casos de irritaciones por uso prolongado de mascarillas o guantes, lavado frecuente de manos o uso de antisépticos, enrojecimiento por contacto con superficies calientes, frío o deshidratación tras la exposición solar, piel sana sensibilizada por tratamientos de estética o piel áspera o reseca
+- Alto contenido en Pantenol (5%) y bajo contenido lipídico (10%) que favorece la regeneración de la piel y estabilización de la función barrera de la misma
 - Esta crema no contiene perfume ni colorantes
 - Aplicar la crema sobre la piel limpia y seca con un suave masaje tantas veces al día como sea necesario
-- Usar en casos de irritaciones por uso prolongado de mascarillas o guantes, lavado frecuente de manos o uso de antisépticos, enrojecimiento por contacto con superficies calientes, frío o deshidratación tras la exposición solar, piel sana sensibilizada por tratamientos de estética o piel áspera o reseca
-- Bepanthol Crema es una emulsión para pieles secas e irritadas, que calma y refresca la piel
-- Alto contenido en Pantenol (5%) y bajo contenido lipídico (10%) que favorece la regeneración de la piel y estabilización de la función barrera de la misma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B006IS4FD6{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- INGREDIENTES por comprimido: Vitamina B12 (cianocobalamina)
-- DISEÑADO: Favorece el funcionamiento normal del sistema nervioso. Estimula la formación normal de glóbulos rojos. Aporta energía, equilibrio psicológico y reduce el cansancio
-- DOSIS DIARIA RECOMENDADA: Para adultos, tomar un (1) comprimido diario, preferentemente con las comidas. Puede ponerse entre la mejilla y la encía o debajo de la lengua y esperar a que se disuelva. Este comprimido también puede masticarse o tragarse entero. No debe superarse la dosis diaria recomendada para este producto.
 - Apto para Vegetarianos, Veganos y Kosher PARVE
 - Sin azúcares ni sal. Sin gluten. No contiene almidón, levadura, trigo, soja ni derivados lácteos, Está formulado sin conservadores, edulcorantes, aromatizantes ni colorantes artificiales.
+- DISEÑADO: Favorece el funcionamiento normal del sistema nervioso. Estimula la formación normal de glóbulos rojos. Aporta energía, equilibrio psicológico y reduce el cansancio
+- DOSIS DIARIA RECOMENDADA: Para adultos, tomar un (1) comprimido diario, preferentemente con las comidas. Puede ponerse entre la mejilla y la encía o debajo de la lengua y esperar a que se disuelva. Este comprimido también puede masticarse o tragarse entero. No debe superarse la dosis diaria recomendada para este producto.
+- INGREDIENTES por comprimido: Vitamina B12 (cianocobalamina)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00020IAPA{{</world>}}

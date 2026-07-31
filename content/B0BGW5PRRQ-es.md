@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 80 % algodón/20 % poliéster
 - Lavar a máquina en agua fría con prendas de colores similares. No usar lejía. Secar en secadora a baja temperatura. No planchar. No utilizar suavizantes. No limpiar en seco
 - Este diseño resulta perfecto para cualquier actividad, ya que es cálido, ligero y cómodo, y cuenta con un interior supersuave
 - Tejido Fleece de mezcla de algodón ultrasuave con interior cepillado para una mayor calidez
 - Cuello, puños y bajo acanalados
-- 80 % algodón/20 % poliéster
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BGW5PRRQ{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tacón de 1 1/4 pulgadas
 - Skechers Plantilla acolchada de espuma viscoelástica refrigerada por aire
 - Parte superior de punto diseñada con cordones decorativos
-- Tacón de 1 1/4 pulgadas
 - Suela de tracción flexible
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

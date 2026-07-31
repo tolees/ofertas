@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillos para las manos con cremallera YKK
-- Polartec
 - Abertura frontal con cremallera helicoidal YKK completa
+- Polartec
+- Bolsillos para las manos con cremallera YKK
 - CREMALLERA YKK
 - Costuras planas para poco volumen.
 

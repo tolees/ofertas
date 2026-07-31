@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cierre ajustable en la nuca
 - Diseño ligero
+- Dimensiones: 16 cm x 29 cm x 9,5 cm
 - Paneles de malla
 - CLIMACOOL
-- Dimensiones: 16 cm x 29 cm x 9,5 cm
-- Cierre ajustable en la nuca
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHCVSHLB{{</world>}}

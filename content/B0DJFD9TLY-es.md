@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Tecnología transpirable
 - Fiel a la talla
 - AEROREADY
-- Tecnología transpirable
-- Detalles reflectantes
 - 86% poliéster (reciclado) / 14% elastán
+- Detalles reflectantes
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DJFD9TLY{{</world>}}

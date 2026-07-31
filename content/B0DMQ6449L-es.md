@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material superior: nailon con revestimiento de gamuza
 - Material de la entresuela: espuma EVA
-- Material de la plantilla: plantilla Insite LuxComfort
 - Material de la suela: goma
+- Material de la plantilla: plantilla Insite LuxComfort
+- Material superior: nailon con revestimiento de gamuza
 - Cierre: cierre de cordón
 
 [🛒 Comprar!!!]({{< param buyurl >}})

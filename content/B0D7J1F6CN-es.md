@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ojales de metal lacado
 - Forro de sarga de algodón
+- Ojales de metal lacado
 - Calvin Klein Logotipo en el talón, lengüeta y lateral
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

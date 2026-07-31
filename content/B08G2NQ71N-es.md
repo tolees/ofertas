@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Polo versátil y elegante con tecnología de secado rápido y protección contra los rayos UV para largas jornadas en el mar
-- Artículos entregados: 1x Helly Hansen Hombre Polo Manga Larga Crewline,L,Azul marino
 - Puedes mantenerte activo al aire libre todo el día con este polo, fabricado con material Tactel de secado rápido y un índice UPF de 50+, lo que significa que el tejido bloquea el 98% de los rayos UV del sol; este polo no sólo protege, sino que su tejido de piqué gofrado, cuello de canalé y tapeta delantera abotonada quedan bien en el mar o en tierra
+- Artículos entregados: 1x Helly Hansen Hombre Polo Manga Larga Crewline,L,Azul marino
 - Exterior: 100% poliamida
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Una ración contiene aproximadamente 28 g de carbohidratos (de los cuales unos 10 g son azúcares), unos 10 g de proteínas y alrededor de 0,9 g de grasas, sin promesas específicas sobre sus efectos o funciones.
+- Mezclar 44 g de polvo en agua y beber según sea necesario. Una ración aporta aproximadamente 693 kJ (165 kcal), así como las cantidades indicadas de carbohidratos, proteínas y grasas. Los ingredientes pueden variar ligeramente según el sabor.
 - Por cada 100 g, el polvo aporta alrededor de 1575 kJ (376 kcal), así como carbohidratos, proteínas y pequeñas cantidades de grasa; una ración de 44 g equivale a aproximadamente 693 kJ (165 kcal). La composición puede variar ligeramente según el sabor.
 - Es posible que existan diferencias en el aroma, el color y la solubilidad según la variedad; todos los datos son orientativos.
-- Mezclar 44 g de polvo en agua y beber según sea necesario. Una ración aporta aproximadamente 693 kJ (165 kcal), así como las cantidades indicadas de carbohidratos, proteínas y grasas. Los ingredientes pueden variar ligeramente según el sabor.
-- Una ración contiene aproximadamente 28 g de carbohidratos (de los cuales unos 10 g son azúcares), unos 10 g de proteínas y alrededor de 0,9 g de grasas, sin promesas específicas sobre sus efectos o funciones.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07NC8BK2W{{</world>}}

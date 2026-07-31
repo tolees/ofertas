@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cierre adaptable
+- Ligeras
 - Almohada para el talón
 - Tenis sin cordones con cincha en la lengüeta
-- Ligeras
-- Cierre adaptable
 - Skechers Sin cordones manos libres
 
 [🛒 Visítala!!!]({{< param buyurl >}})

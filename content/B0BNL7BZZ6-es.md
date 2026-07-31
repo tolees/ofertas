@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un par por paquete
 - Totalmente acolchados con almohadillas adicionales
-- No asoman por encima de la zapatilla
+- Un par por paquete
 - FORMOTION
+- No asoman por encima de la zapatilla
 - AEROREADY
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

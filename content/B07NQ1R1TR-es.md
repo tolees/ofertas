@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Material de calidad
 - Ofrece comodidad y libertad de movimiento
-- Lavar a máquina
 - Detalles distintivos de la marca
+- Lavar a máquina
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07NQ1R1TR{{</world>}}

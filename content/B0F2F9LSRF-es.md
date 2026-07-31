@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Horma clásica
-- Plantilla de espuma con memoria
 - Cordones
+- Plantilla de espuma con memoria
 - Suela de goma
 - Empeine de material sintético
 - Plantilla textil
+- Horma clásica
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F2F9LSRF{{</world>}}

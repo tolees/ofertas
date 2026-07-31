@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una colección para los más pequeños, con la paleta de colores The Fun. Las distintas formas de un collage y un divertido hipopótamo en relieve se convierten en el estampado de esta colección.
-- Serie Fun Animals, en tonos de color azul/turquesa.
 - Contenido: 2 gomas de borrar (4024 y Nata blue), 1 sacapuntas AFILA, 1 lápiz de grafito HB, 1 bolígrafo CAPSULE negro, 1 regla triangular de 15 cm, 12 lápices de colores triangulares, 18 rotuladores de punta cónica.
-- Composición tejido: exterior y forro interior de poliéster. Medidas: 19,5 x 13 x 5 cm.
 - Plumier de 2 pisos que permite mantener el material escolar siempre ordenado y de fácil acceso.
+- Composición tejido: exterior y forro interior de poliéster. Medidas: 19,5 x 13 x 5 cm.
+- Serie Fun Animals, en tonos de color azul/turquesa.
+- Una colección para los más pequeños, con la paleta de colores The Fun. Las distintas formas de un collage y un divertido hipopótamo en relieve se convierten en el estampado de esta colección.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C6XXKVYX{{</world>}}

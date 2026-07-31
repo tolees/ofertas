@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Paquete de dos pares
 - Logotipo de adidas
+- Paquete de dos pares
 - Calcetines elásticos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

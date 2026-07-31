@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Un ajuste cómodo
-- Sutil detalle estampado
 - Bajo recto
 - Cierre de botones
+- Un ajuste cómodo
+- Sutil detalle estampado
 - Cuello de polo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

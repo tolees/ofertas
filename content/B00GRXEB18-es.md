@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Elaboradas con café sostenible bajo el programa de Sostenibilidad Common Grounds que garantiza un Origen Responsable.
 - CAFÉ ESPRESSO, RISTRETTO O LUNGO - Con este café podrás preparar un espresso, café negro corto que se disfruta solo o con base de leche como el capuchino o el latte. Un ristretto, una versión más concentrada de un espresso, con menos agua y la misma cantidad de café. O un café lungo, la misma cantidad de café pero el doble de agua que un espresso.
 - INTENSIDAD 9 - Café en grano 100 percent arábica de tueste natural con sabor intenso y profundo.
 - 4 PAQUETES DE 500 GRAMOS - 2 Kilos de café en grano perfecto para ser molido en tu máquina de café superautomática. Una vez molido, podrá ser utilizado en cualquier cafetera.
 - INTENSO, CREMOSO Y CON CUERPO - La mezcla de estos granos y su proceso de tueste confieren al café un aroma intenso, con cuerpo que deja un retrogusto tostado.
+- Elaboradas con café sostenible bajo el programa de Sostenibilidad Common Grounds que garantiza un Origen Responsable.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00GRXEB18{{</world>}}

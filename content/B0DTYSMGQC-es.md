@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- bailarina plana con perfodados y tachas
 - a la moda
-- Material : piel
+- bailarina plana con perfodados y tachas
 - flexible y ligero
+- Material : piel
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DTYSMGQC{{</world>}}

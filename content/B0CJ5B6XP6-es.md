@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto 2: 20.5 Alto x 14 Ancho x 2.5 Fondo cm
 - Producto 1: 20.5 Alto x 14 Ancho x 2.5 Fondo cm
-- Producto 2: Logo de metal de Kipling
+- Producto 2: 20.5 Alto x 14 Ancho x 2.5 Fondo cm
 - Producto 1: 100% Poliamida
 - Producto 1: Bolsito bandolera con correa ajustable para el hombro
+- Producto 2: Logo de metal de Kipling
 - Producto 2: Compartimento principal con cremallera con bolsillo con cremallera y 2 bolsillos abiertos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

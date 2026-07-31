@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillos laterales
-- Fabricados en 100% nylon con revestimiento y forro interior
-- Capucha extraíble retráctil
 - Logos bordados
+- Capucha extraíble retráctil
+- Fabricados en 100% nylon con revestimiento y forro interior
+- Bolsillos laterales
 - Cremallera completa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

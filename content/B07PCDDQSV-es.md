@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Papel Optik Paper: un papel exclusivo de Oxford único por su opacidad, lisura y satinado. La tinta no traspasa de un lado a otro ni se dispersa, resistente a la presión del lápiz y al borrado.
+- 80 hojas con rayado 5x5
 - Recuadro de color a juego con la tapa malva pastel
 - Formato a4+
+- Papel Optik Paper: un papel exclusivo de Oxford único por su opacidad, lisura y satinado. La tinta no traspasa de un lado a otro ni se dispersa, resistente a la presión del lápiz y al borrado.
 - Tapa extradura, máxima resistencia y protección de las hojas, y con un tacto suave
-- 80 hojas con rayado 5x5
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07PCDDQSV{{</world>}}

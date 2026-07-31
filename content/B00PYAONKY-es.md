@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- COMPLEMENTOS, PESO SALUDABLE. Cola de caballo, alcachofa, té verde, L-carnitina, Vitaminas B1, B2, B3 B6 y B12, ácido fólico. Sin colorantes
-- PROPIEDADES: Combina la acción de 12 extractos vegetales, 6 vitaminas, fibra y un aminoácido. En el total de la fórmula, el 70% corresponde a la utilización de extractos vegetales
-- MODO DE USO: Agitar antes de usar. Tomar 20 ml en ayunas, usando el vaso dosificador. Por dosis diaria se obtiene lo referente al 100% del Valor de Referencia Nutricional de Vitaminas B3, B6, B2, B1 y B12
-- La Slimina tiene una gran combinación de extractos vegetales muy eficaces para eliminar los líquidos y las toxinas acumuladas de forma natural
-- ETIQUETAS: Este producto es apto para veganos y celíacos. Además, no contiene colorantes
 - BENEFIFCIOS: Ayuda al correcto metabolismo energético normal, tiene propiedades diuréticas, de acción depurativa y, también, acción quemagrasa
+- MODO DE USO: Agitar antes de usar. Tomar 20 ml en ayunas, usando el vaso dosificador. Por dosis diaria se obtiene lo referente al 100% del Valor de Referencia Nutricional de Vitaminas B3, B6, B2, B1 y B12
+- ETIQUETAS: Este producto es apto para veganos y celíacos. Además, no contiene colorantes
+- COMPLEMENTOS, PESO SALUDABLE. Cola de caballo, alcachofa, té verde, L-carnitina, Vitaminas B1, B2, B3 B6 y B12, ácido fólico. Sin colorantes
+- La Slimina tiene una gran combinación de extractos vegetales muy eficaces para eliminar los líquidos y las toxinas acumuladas de forma natural
+- PROPIEDADES: Combina la acción de 12 extractos vegetales, 6 vitaminas, fibra y un aminoácido. En el total de la fórmula, el 70% corresponde a la utilización de extractos vegetales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00PYAONKY{{</world>}}

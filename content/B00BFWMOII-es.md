@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- POSITIVO A LA DERECHA
 - INTENSIDAD DE ARRANQUE (CCA): 450 A (EN)
+- CAPACIDAD: 50Ah
 - LONGITUD: 207MM ANCHO: 175 MM ALTURA: 190 MM
 - VOLTAJE: 12V
-- POSITIVO A LA DERECHA
-- CAPACIDAD: 50Ah
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00BFWMOII{{</world>}}

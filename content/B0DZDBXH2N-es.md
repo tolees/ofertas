@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Botas
-- Poliuretano
 - Composición del material: 100 % malla
 - Parte superior alta
+- Botas
+- Poliuretano
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DZDBXH2N{{</world>}}

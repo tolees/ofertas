@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Material: 280 g/m2 doble de franela hecha de algodón y poliéster reciclado
 - Woven label
 - Billabong Arch logo embroidery at chest
-- Material: 280 g/m2 doble de franela hecha de algodón y poliéster reciclado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DPG77RSN{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Costuras decorativas delanteras
 - Pantalones cortos de natación de hilo para playa bien ajustados
+- Costuras decorativas delanteras
 - Cintura media
 
 [🛒 Aquí!!!]({{< param buyurl >}})

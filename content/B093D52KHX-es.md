@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte clásico
-- Tejido transpirable y suave
 - Camiseta deportiva de manga corta
+- Tejido transpirable y suave
+- Corte clásico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B093D52KHX{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Textil
 - Adultos
 - Plástico (sintético)
 - Azul
 - Hombre
-- Textil
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CFN32B9M{{</world>}}

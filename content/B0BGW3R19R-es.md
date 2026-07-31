@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Under Armour La misión es simple: hacer una mejor
 - Puños acanalados, cuello y dobladillo inferior
 - Eso significa que si uno establece un objetivo, ayudaremos a aplastarlo
+- Under Armour La misión es simple: hacer una mejor
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BGW3R19R{{</world>}}

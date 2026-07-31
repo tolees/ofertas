@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fleur De Figuier Savon Parfumé 100 Gr
 - Los mejores productos de belleza y perfumería para sentirte guapa en todo momento.
 - Disfruta cuidando de tu belleza con los productos más exclusivos.
+- Fleur De Figuier Savon Parfumé 100 Gr
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00BUTDIHW{{</world>}}

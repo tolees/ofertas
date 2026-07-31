@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene detalles distintivos de la marca
 - De secado rápido
+- Tiene detalles distintivos de la marca
 - Traje de baño de diseño moderno
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

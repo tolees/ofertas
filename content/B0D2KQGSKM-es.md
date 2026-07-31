@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela de goma
 - Cierre de cordones
+- Suela de goma
 - Empeine de gamuza
 
 [🛒 Visítala!!!]({{< param buyurl >}})

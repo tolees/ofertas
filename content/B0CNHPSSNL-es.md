@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los shorts de corte recto originales
-- Un lienzo en blanco para personalizarlo y expresar tu estilo
-- Fabricados con nuestro elástico cómodo que cuenta con la cantidad de elasticidad necesaria para ir cómodamente durante todo el día
 - Auténtico estilo americano
+- Los shorts de corte recto originales
+- Fabricados con nuestro elástico cómodo que cuenta con la cantidad de elasticidad necesaria para ir cómodamente durante todo el día
+- Un lienzo en blanco para personalizarlo y expresar tu estilo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CNHPSSNL{{</world>}}

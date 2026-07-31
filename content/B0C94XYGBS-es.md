@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- APLICACIÓN: El regalo para cualquier persona... Desde tu sobrina preadolescente hasta tu amiga, ¡Lip Smacker tiene lo que necesitas! Aplica generosamente en los labios las veces que quieras
-- SABOR: Sacia tu sed con este bálsamo labial sabor a Sprite inspirado en Coca-Cola. Sumerge tus sentidos en el mundo de Coca-Cola con tus labios suaves y luminosos
 - SABOR AUTÉNTICO: Sabe a Sprite y ofrece una hidratación prolongada a tus labios. Hidratación suavizante y refrescante en un solo producto
+- SABOR: Sacia tu sed con este bálsamo labial sabor a Sprite inspirado en Coca-Cola. Sumerge tus sentidos en el mundo de Coca-Cola con tus labios suaves y luminosos
 - SONRISAS DULCES: Desde 1973, Lip Smacker endulza sonrisas por todo el mundo. Nuestros sabores auténticos, aromas y productos llenos de vida te harán brillar
+- APLICACIÓN: El regalo para cualquier persona... Desde tu sobrina preadolescente hasta tu amiga, ¡Lip Smacker tiene lo que necesitas! Aplica generosamente en los labios las veces que quieras
 - COLECCIÓN COCA-COLA: Una Coca-Cola, una sonrisa. Disfruta de los bálsamos labiales Coca-Cola.Estos irresistibles sabores se deslizan sobre los labios y proporcionan una hidratación duradera
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- LED lámparas profesionales para tensión en línea
-- Buena reproducción cromática (Ra ≥ 80) y estabilidad de color durante toda la vida útil de la lámpara
 - No apto para el uso con reguladores
-- Lámparas libres de mercurio
 - Casquillo: E14, B22d
+- Lámparas libres de mercurio
+- Buena reproducción cromática (Ra ≥ 80) y estabilidad de color durante toda la vida útil de la lámpara
+- LED lámparas profesionales para tensión en línea
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08C5HGB8M{{</world>}}

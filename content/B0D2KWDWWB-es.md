@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bold PU overlays, mesh underlays. Suela exterior detallada con mango.
 - Base extraíble con soporte para suela.
+- Bold PU overlays, mesh underlays. Suela exterior detallada con mango.
 - Diseño contemporáneo con una sensación de 90s.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

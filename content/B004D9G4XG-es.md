@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material exterior: Cuero
 - Revestimiento: Malla
+- Material exterior: Cuero
 - Cierre: Velcro
 
 [🛒 Comprar!!!]({{< param buyurl >}})

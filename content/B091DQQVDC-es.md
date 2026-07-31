@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- no polarizado
 - Prada PR 17WS Negro/Gris Oscuro Talla Única
 - Negro
+- no polarizado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B091DQQVDC{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Plantilla OrthoLite
-- Forro textil
-- Empeine de malla
-- Cierre de cordones
 - Corte clásico
+- Forro textil
+- Cierre de cordones
+- Plantilla OrthoLite
+- Empeine de malla
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CKS2FCZZ{{</world>}}

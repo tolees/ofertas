@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Manga larga
+- Con capucha
 - Corte: normal
+- Manga larga
 - Largo: normal
 - Material principal: felpa
-- Con capucha
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D2L627ZG{{</world>}}

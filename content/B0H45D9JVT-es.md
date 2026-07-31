@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La siguiente información se aplica a cada unidad del paquete
-- Diluye 2-3 ml en agua tibia para higiene externa diaria (mañana y noche), especialmente tras deportes o baños de espuma. Enjuaga abundantemente con agua limpia, seca sin frotar con una toalla individual. Ideal desde los primeros cambios hormonales hasta la primera menstruación
-- Respeta el equilibrio bacteriano natural de niñas en desarrollo, previene irritaciones por ropa sintética o actividades deportivas, calma pieles sensibles propensas a eccemas íntimos. Su fórmula sin jabón agresivo ni perfumes irritantes, ha sido testada pediátricamente y ginecológicamente para máxima seguridad
 - Gel limpiador íntimo Pediatrics de Cumlaude Lab formulado para niñas y preadolescentes, con pH neutro fisiológico y extractos calmantes de caléndula, malva, peonía y tilo que limpian suavemente previniendo las irritaciones, picor y enrojecimiento propios del desarrollo hormonal temprano
+- La siguiente información se aplica a cada unidad del paquete
+- Respeta el equilibrio bacteriano natural de niñas en desarrollo, previene irritaciones por ropa sintética o actividades deportivas, calma pieles sensibles propensas a eccemas íntimos. Su fórmula sin jabón agresivo ni perfumes irritantes, ha sido testada pediátricamente y ginecológicamente para máxima seguridad
+- Diluye 2-3 ml en agua tibia para higiene externa diaria (mañana y noche), especialmente tras deportes o baños de espuma. Enjuaga abundantemente con agua limpia, seca sin frotar con una toalla individual. Ideal desde los primeros cambios hormonales hasta la primera menstruación
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0H45D9JVT{{</world>}}

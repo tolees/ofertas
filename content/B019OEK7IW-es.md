@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello y bajo de la manga de canalé
 - Cierre central con botones
+- Cuello y bajo de la manga de canalé
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B019OEK7IW{{</world>}}

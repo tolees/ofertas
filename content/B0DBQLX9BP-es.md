@@ -29,12 +29,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Mantén tu fiscalización al día sin coste adicional: Centraliza tus procesos fiscales desde la aplicación SumUp sin necesidad de dispositivos adicionales ni informes manuales. Con la fiscalización en la nube, tu sistema TPV envía automáticamente cada transacción en efectivo o con tarjeta a la agencia tributaria para mantener tu fiscalidad al día.
-- Portátil. Empareja tu datáfono elegante y ligero con tu smartphone mediante Bluetooth para aceptar pagos en el establecimiento o sobre la marcha
 - Creemos en el héroe cotidiano: Damos acceso a servicios financieros a los millones de negocios que la mayoría de proveedores consideran demasiado pequeños. Son 10 veces más pequeños que los negocios más pequeños a los que se dirigirían los bancos y los proveedores tradicionales. Lo que empezó con un datáfono se ha convertido en una serie de datáfonos, varias soluciones de pago remoto, como Facturas, Tarjetas regalo o Enlaces de pago, y mucho más.
-- Acepta todo tipo de pagos: Acepta todas las formas de pago principales, desde chip y PIN o contactless hasta Google Pay y Apple Pay
 - Pago por uso: 1,49% Comisión por transacción. 0 € Coste mensual, sin contrato vinculante
 - Mejor juntos: Compatible con una amplia gama de herramientas de SumUp, desde una estación de carga hasta una configuración de TPV avanzada. El socio perfecto para tu negocio.
 - Batería de larga duración: procesa más de 1000 transacciones con una sola carga.
+- Acepta todo tipo de pagos: Acepta todas las formas de pago principales, desde chip y PIN o contactless hasta Google Pay y Apple Pay
+- Portátil. Empareja tu datáfono elegante y ligero con tu smartphone mediante Bluetooth para aceptar pagos en el establecimiento o sobre la marcha
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DBQLX9BP{{</world>}}

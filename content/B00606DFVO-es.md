@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mecanismo en acero al carbono para la pimienta y en cerámica para la sal, con ajuste de la molienda gracias a la pequeña rueda en la parte superior del molinillo: de muy fino a triturado.
-- Molino de pimienta de madera de haya teñida oscura de primera calidad; Madera procedente de bosques gestionados de forma sostenible.
+- Para limpiar, limpie con un paño húmedo y use un paño limpio para secar; Recomendamos no utilizar productos de limpieza ya que esto puede afectar el acabado del producto; No sumerja en agua ni coloque en el lavavajillas.
 - Los molinillos de la gama Precision+ cuentan con un mecanismo accionado por resorte, que permite un molido totalmente ajustable de fino a grueso.
 - Todos los molinillos de sal y pimienta Cole & Mason están respaldados por nuestra garantía de por vida; Si su molinillo no cumple con los altos estándares y expectativas de los productos Cole & Mason, estaremos encantados de reemplazar su molinillo con una alternativa de igual valor; La rotura accidental, el cuidado inadecuado y los daños causados ​​por el mal uso no están cubiertos.
-- Para limpiar, limpie con un paño húmedo y use un paño limpio para secar; Recomendamos no utilizar productos de limpieza ya que esto puede afectar el acabado del producto; No sumerja en agua ni coloque en el lavavajillas.
+- Mecanismo en acero al carbono para la pimienta y en cerámica para la sal, con ajuste de la molienda gracias a la pequeña rueda en la parte superior del molinillo: de muy fino a triturado.
+- Molino de pimienta de madera de haya teñida oscura de primera calidad; Madera procedente de bosques gestionados de forma sostenible.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00606DFVO{{</world>}}

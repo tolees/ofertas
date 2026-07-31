@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pure Encapsulations, el magnesio es un mineral esencial presente en los huesos y en la mayor parte de los tejidos humanos
 - Complemento alimenticio a base de Magnesio para adultos
+- Pure Encapsulations, el magnesio es un mineral esencial presente en los huesos y en la mayor parte de los tejidos humanos
 - Complemento alimenticio 90 cápsulas vegetales
 - Interviene en numerosas reacciones bioquímicas
 

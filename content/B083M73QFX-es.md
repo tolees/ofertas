@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Manga corta
-- Largo regular
-- Proporciona comodidad
-- Bajo curvado
 - Corte relajado
+- Largo regular
+- Manga corta
+- Bajo curvado
+- Proporciona comodidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B083M73QFX{{</world>}}

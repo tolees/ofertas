@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Tejido transpirable
-- Corte clásico
 - Cierre de cremallera y cuello alzado
+- Corte clásico
 - Tejido técnico 100% poliéster reciclado
 - Bolsillos frontales con cremallera
 

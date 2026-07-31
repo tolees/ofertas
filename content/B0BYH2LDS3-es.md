@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- GEL LIMPIADOR FACIAL: Elimina las impurezas que quedan en la piel. Al entrar en contacto con agua, el gel se activa y se convierte en espuma. ¡Limpiador diario perfecto para rutina de mañana o noche!
-- DOBLE LIMPIEZA: Gel limpiador facial perfecto para una limpieza suave por la mañana y como segundo paso en rutinas de noche con doble limpieza: paso 1: The Yellow Cleanser y paso 2: The Blue Cleanser.
 - VEGANO Y CRUELTY FREE: 3INA es una marca de maquillaje española que fabrica en Europa. Todos nuestros productos son veganos, libres de parabenos y sin crueldad animal.
-- 2% DE NIACINAMIDA: Regula la producción de sebo a la vez que mejora la apariencia de los poros y textura, para una piel con mejor aspecto. Jabón facial con ingredientes acivos de alta calidad.
 - 1 % DE PANTENOL: Ayuda a calmar y reparar la barrera cutánea. Con surfactantes delicados que limpian la piel sin resecarla o irritarla, dejándola suave y calmada con cada uso.
+- 2% DE NIACINAMIDA: Regula la producción de sebo a la vez que mejora la apariencia de los poros y textura, para una piel con mejor aspecto. Jabón facial con ingredientes acivos de alta calidad.
+- DOBLE LIMPIEZA: Gel limpiador facial perfecto para una limpieza suave por la mañana y como segundo paso en rutinas de noche con doble limpieza: paso 1: The Yellow Cleanser y paso 2: The Blue Cleanser.
+- GEL LIMPIADOR FACIAL: Elimina las impurezas que quedan en la piel. Al entrar en contacto con agua, el gel se activa y se convierte en espuma. ¡Limpiador diario perfecto para rutina de mañana o noche!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BYH2LDS3{{</world>}}

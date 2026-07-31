@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Correa ajustable para el hombro
-- Funda interior de forro suave
-- Compartimento principal con cremallera bidireccional
 - Dimensiones: 50 cm (anchura) / 21,5 cm (profundidad) / 29 cm (altura)
+- Compartimento principal con cremallera bidireccional
+- Funda interior de forro suave
+- Correa ajustable para el hombro
 - Bolsillo delantero con cremallera
 
 [🛒 Comprar!!!]({{< param buyurl >}})

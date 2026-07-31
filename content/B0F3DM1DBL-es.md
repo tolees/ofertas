@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre ajustable en la nuca
-- Estructura de cinco paneles
 - Visera curvada
 - CLIMACOOL
+- Cierre ajustable en la nuca
 - Talla única
+- Estructura de cinco paneles
 - 100% poliéster (reciclado)
 - Cinta transpirable para el sudor de la frente
 

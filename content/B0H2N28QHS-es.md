@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La siguiente información se aplica a cada unidad del paquete
-- 1.La Tapo C113 ofrece resolución 2K de 3MP para imágenes nítidas y detalladas, facilitando la identificación precisa de personas y objetos en el área de vigilancia.
 - 4.Tecnología de visión nocturna en color con iluminación integrada, que permite capturar imágenes claras y a todo color incluso en ambientes con poca luz.
+- La siguiente información se aplica a cada unidad del paquete
 - 3.Incluye detección inteligente AI de figuras humanas para reducir falsas alarmas y reconocimiento de llanto de bebé para monitorear el bienestar infantil en tiempo real.
+- 1.La Tapo C113 ofrece resolución 2K de 3MP para imágenes nítidas y detalladas, facilitando la identificación precisa de personas y objetos en el área de vigilancia.
 - 2.Cuenta con certificación IP65 resistente al agua y polvo, ideal para uso en interiores y exteriores, funcionando confiablemente en condiciones climáticas adversas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

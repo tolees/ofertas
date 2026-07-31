@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cinta distintiva en el interior del cuello
 - Algodón peinado puro
-- Tejido texturizado
-- Cuello redondo
+- Cinta distintiva en el interior del cuello
 - Cuello, puños y dobladillo de punto acanalado
+- Cuello redondo
+- Tejido texturizado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4KFMJV4{{</world>}}

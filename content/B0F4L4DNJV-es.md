@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- No contiene alérgenos. Conservar en lugar fresco y seco. No congelar.
 - Licor Mono Sarao de Hierbas 70cl
+- No contiene alérgenos. Conservar en lugar fresco y seco. No congelar.
 - NOTAS DE CATA Vista: Tonalidades hierbabuena y esmeralda clara. Aroma: Intensos y complejos, con una predominancia de notas frescas, herbales, bitter y especiadas. Se destacan notas de hierbas amargas como la genciana, el ruibarbo y la quina, junto con especias y ligeros toques cítricos. Sabor: Amargo y complejo, con una explosión de sabores herbales y especiados. Un amargo amable con matices dulces y balsámicos.
 - RECOMENDACION DE CONSUMO: Tómalo muy frío, en chupito helado o con una piedra de hielo.
 

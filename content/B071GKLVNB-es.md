@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- RENDIMIENTO WIFI 6 DE GRAN VELOCIDAD: La velocidad del AX1800 (hasta 1,8 Gbps) con tecnología WiFi de doble banda (hasta 600 + 1200 Mbps) y 4 flujos de datos simultáneos aumenta la capacidad para que más dispositivos puedan usar la red WiFi al mismo tiempo.
 - COMPATIBILIDAD UNIVERSAL: Funciona con cualquier router inalámbrico o cable módem con WiFi y está optimizado para todos los routers WiFi 6. Compatible con los dispositivos WiFi existentes y los nuevos dispositivos WiFi 6 como, por ejemplo, los smartphones Apple iPhone 12 y Samsung Galaxy S20
-- COBERTURA INALÁMBRICA AMPLIADA: Añade a la cobertura de la red WiFi hasta 100 m2 y conecta hasta más de 20 dispositivos como portátiles, smartphones, altavoces, cámaras IP, tablets, dispositivos IoT y mucho más.
-- PUERTO ETHERNET POR CABLE: Conecte un ordenador, una consola de juegos, un reproductor de streaming u otro dispositivo con cable al puerto de 1 Gigabit para obtener la máxima velocidad
 - ITINERANCIA INTELIGENTE Y PERFECTA: Conéctelo a cualquier toma de corriente y utilice el nombre SSID de la red existente para que nunca se desconecte mientras se desplaza por la casa o la oficina
 - CONFIGURACIÓN SENCILLA Configuración rápida y sencilla con la aplicación Nighthawk
+- COBERTURA INALÁMBRICA AMPLIADA: Añade a la cobertura de la red WiFi hasta 100 m2 y conecta hasta más de 20 dispositivos como portátiles, smartphones, altavoces, cámaras IP, tablets, dispositivos IoT y mucho más.
+- RENDIMIENTO WIFI 6 DE GRAN VELOCIDAD: La velocidad del AX1800 (hasta 1,8 Gbps) con tecnología WiFi de doble banda (hasta 600 + 1200 Mbps) y 4 flujos de datos simultáneos aumenta la capacidad para que más dispositivos puedan usar la red WiFi al mismo tiempo.
+- PUERTO ETHERNET POR CABLE: Conecte un ordenador, una consola de juegos, un reproductor de streaming u otro dispositivo con cable al puerto de 1 Gigabit para obtener la máxima velocidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B071GKLVNB{{</world>}}

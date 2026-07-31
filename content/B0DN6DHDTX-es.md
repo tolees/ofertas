@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material: aluminio, PC, ABS
 - ¡Tenemos un universo de mundos a tu disposición! Creamos artículos de calidad siempre diferentes, coloridos, positivos y divertidos, perfectos para cada persona y para cada estado de ánimo. En Legami siempre puedes encontrar tu mundo ideal para descubrir y explorar día a día: un mundo de felicidad para cuando estás algo deprimido, mundo de sorpresas para cuando te aburres, un mundo de inspiraciones para cuando te faltan ideas, un mundo de emociones diferentes en constante evolución.
+- Material: aluminio, PC, ABS
 - Características: Base magnética, mosquetón, soporte trasero, orificio para trípode y abrebotellas. Recargable. Cable de carga USB - Tipo-C incluido.
 - Detalles: Temperatura de la luz: 6500-7000 K. Hasta 3 horas de autonomía. Ilumina hasta 100 metros.
 - En los momentos más oscuros, lleva siempre contigo tu luz. La de tu alma pero, aún más importante, la luz LED COB recargable de Legami: una mini linterna de bolsillo y recargable para fijar al llavero para iluminar incluso la más oscura de las noches.

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Peso: 278 g / 9,8 oz
-- Grosor de la suela: 30 mm
 - Drop: 0 mm
-- Entresuela: Altra EGO MAX
-- Amortiguación: adecuado
 - Suela: FootPod
+- Amortiguación: adecuado
+- Grosor de la suela: 30 mm
+- Peso: 278 g / 9,8 oz
+- Entresuela: Altra EGO MAX
 - Palas: malla técnica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

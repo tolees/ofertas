@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ancho: estándar
 - Obermaterial: Synthetik; Futter: Textil; Einlegesohle: Textil; Laufsohle: Gummi
-- Cierre: de cordones
 - Tipo de puntera: redondeada
+- Cierre: de cordones
+- Ancho: estándar
 - Tipo de talón: plano
 
 [🛒 Visítala!!!]({{< param buyurl >}})

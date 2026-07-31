@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste personalizado: el sistema de ajuste Zoom Ace con rueda de ajuste permite adaptar el casco a la circunferencia de la cabeza; el ajuste de altura deja espacio para una coleta.
-- ACTIVAR LA PROTECCIÓN DEL CASCO: puede iniciar el seguro gratuito con Allianz utilizando el código de activación que figura en el folleto adjunto; si falta el folleto, puede encontrar información en el sitio web del fabricante.
-- FlowStraps: correas ligeras que se ajustan completamente a la cara, por lo que no aletean y ofrecen más aerodinámica.
 - Buena protección para la cabeza: la seguridad se une a la funcionalidad y el diseño - casco de bicicleta de carretera ligero y estable con una duradera combinación de EPS (espuma dura) y carcasa exterior de policarbonato.
-- Diseño multiposición: aerodinámica óptima en cualquier posición y ángulo de la cabeza - Tecnología de refrigeración por aire forzado para un clima agradable en la cabeza
+- FlowStraps: correas ligeras que se ajustan completamente a la cara, por lo que no aletean y ofrecen más aerodinámica.
 - ALLIANZ HELMET PROTECTION: después de recibir su casco, puede beneficiarse de una cobertura de seguro para su casco de bicicleta - opcional, 12 meses gratuita y sin renovación automática.
+- Ajuste personalizado: el sistema de ajuste Zoom Ace con rueda de ajuste permite adaptar el casco a la circunferencia de la cabeza; el ajuste de altura deja espacio para una coleta.
+- Diseño multiposición: aerodinámica óptima en cualquier posición y ángulo de la cabeza - Tecnología de refrigeración por aire forzado para un clima agradable en la cabeza
+- ACTIVAR LA PROTECCIÓN DEL CASCO: puede iniciar el seguro gratuito con Allianz utilizando el código de activación que figura en el folleto adjunto; si falta el folleto, puede encontrar información en el sitio web del fabricante.
 - Detalles: Casco unisex para adultos - la talla en centímetros corresponde al perímetro craneal del usuario
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

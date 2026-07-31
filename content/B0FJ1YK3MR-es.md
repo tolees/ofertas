@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Al elegir nuestros productos de algodón, estás apoyando nuestra inversión en la iniciativa Better Cotton
 - Diseñada para ofrecer cobertura completa y comodidad
 - Braga ancha de rib de algodón, con goma personalizada a tono
-- Al elegir nuestros productos de algodón, estás apoyando nuestra inversión en la iniciativa Better Cotton
 - Combínala con su sujetador a juego para hacerte con el conjunto completo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

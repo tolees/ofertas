@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre central delantero con cremallera y velcro
 - Forro de la mentonera y del cuello en tejido cepillado
+- Cierre central delantero con cremallera y velcro
 - DryVent 2L impermeable, transpirable y con costuras totalmente selladas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

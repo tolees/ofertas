@@ -29,13 +29,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - ALERTAS DE PAQUETES: Recibe notificaciones en tiempo real cuando llega un paquete con la funcionalidad de alertas de paquetes, disponible con tu suscripción Ring Protect.
+- COMUNICACIÓN BIDIRECCIONAL: Habla con cualquiera que esté delante de tu puerta.
 - VÍDEO HD 1536p: Videotimbre inalámbrico con cámara con visión ampliada y vídeo HD 1536p que te permite tener una visión más completa de quién pasa por tu casa.
+- DETECCIÓN DE MOVIMIENTO 3D Y ZONAS DE VISTA PANORÁMICA: Conoce con exactitud cuándo y dónde ha comenzado un evento de movimiento en el mapa de vista aérea.
+- COMPATIBLE CON ALEXA: Vincúlalo con un Ring Chime o con un dispositivo con Alexa para escuchar notificaciones de audio en casa.
+- MÁS VISIÓN,MÁS INFORMACIÓNY MÁS PROTECCIÓN: guarda las grabaciones de tus vídeos hasta 180 días para volver a verlas en cualquier momento, recibe alertas cuando se detecte a una persona y mucho más con una suscripción a Ring Home (a la venta por separado)*.
 - VÍDEO DE CUERPO ENTERO: Comprueba si te han dejado un paquete en la puerta de casa y ten una imagen más completa de las visitas.
 - VISIÓN CON POCA LUZ: Ve claramente qué pasa en la puerta de tu casa conforme va cayendo la noche o incluso después de que anochezca.
-- COMPATIBLE CON ALEXA: Vincúlalo con un Ring Chime o con un dispositivo con Alexa para escuchar notificaciones de audio en casa.
-- DETECCIÓN DE MOVIMIENTO 3D Y ZONAS DE VISTA PANORÁMICA: Conoce con exactitud cuándo y dónde ha comenzado un evento de movimiento en el mapa de vista aérea.
-- COMUNICACIÓN BIDIRECCIONAL: Habla con cualquiera que esté delante de tu puerta.
-- MÁS VISIÓN,MÁS INFORMACIÓNY MÁS PROTECCIÓN: guarda las grabaciones de tus vídeos hasta 180 días para volver a verlas en cualquier momento, recibe alertas cuando se detecte a una persona y mucho más con una suscripción a Ring Home (a la venta por separado)*.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B2BNM4PV{{</world>}}

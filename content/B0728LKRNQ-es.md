@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello y bajo de la manga de canalé
 - Cierre central con botones
+- Cuello y bajo de la manga de canalé
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0728LKRNQ{{</world>}}

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Proteccion solar: 50.0 sun protection factor
-- Producto formulado sin perfume, sin parabenos; no comedogénico
 - Difumina imperfecciones y evita la acumulación del producto gracias a sus pigmentos siliconados
-- Modo de empleo: Aplicar generosamente en cara, cuello y escote antes de salir de casa o de cualquier exposición solar; renovar regularmente durante la exposición
-- Dermatológicamente testado
+- Producto formulado sin perfume, sin parabenos; no comedogénico
 - Foto-maquillaje en emulsión con color indicado para la zona de rostro, cuello y escote de alta fotoprotección facial
+- Modo de empleo: Aplicar generosamente en cara, cuello y escote antes de salir de casa o de cualquier exposición solar; renovar regularmente durante la exposición
+- Proteccion solar: 50.0 sun protection factor
+- Dermatológicamente testado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08XR3FFV4{{</world>}}

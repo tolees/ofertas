@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- materialFabricComposition: 85% Cotton, 15% Polyester
-- Long Sleeves
 - Zip Hoodie
-- Care Label:
 - Regular Fit
+- Long Sleeves
+- Care Label:
+- materialFabricComposition: 85% Cotton, 15% Polyester
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08KXY28KD{{</world>}}

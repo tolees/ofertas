@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Kenton Campus W Low Cut Basic - Zapatillas de tenis vulcanizadas con parte superior clásica
-- 85% poliuretano, 15% piel de vacuno
 - Cuello acolchado, ojal personalizado, plantilla cómoda termoformada y extraíble, logotipo clásico en el lateral
+- 85% poliuretano, 15% piel de vacuno
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FFTMGVLQ{{</world>}}

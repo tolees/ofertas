@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 3 TONOS DISPONIBLES: Lust Clear es un aceite para labios con un brillo transparente. También disponible en Pink Glam y Terracotta
 - Vegano y Sin Crueldad Animal: Estos aceites para labios no contienen ingredientes de origen animal y han sido aprobados por PETA como Libres de Pruebas en Animales
-- ACEITE NUTRITIVO: Este aceite labial les da una apariencia brillante mientras nutre tus labios
+- 3 TONOS DISPONIBLES: Lust Clear es un aceite para labios con un brillo transparente. También disponible en Pink Glam y Terracotta
 - CONTIENE ÁCIDO HIALURÓNICO: Con Ácido Hialurónico, Vitamina E, Aceite de Jojoba y manteca de karité para nutrir tus labios
+- ACEITE NUTRITIVO: Este aceite labial les da una apariencia brillante mientras nutre tus labios
 - AROMA A CEREZAS: Formulado con Aceite de Semillas de Cereza para darle un aroma a Cerezas Dulces
 
 [🛒 Visítala!!!]({{< param buyurl >}})

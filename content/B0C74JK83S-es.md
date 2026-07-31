@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Material muy cómodo, ligero, de secado rápido y duradero
 - Bolsillo canguro y manga larga
 - Ajuste regular
-- Material muy cómodo, ligero, de secado rápido y duradero
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C74JK83S{{</world>}}

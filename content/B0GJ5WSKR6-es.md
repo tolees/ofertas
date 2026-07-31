@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Microondas Digital de 20l con diseño compacto que se adapta a cualquier cocina y 700 W de potencia para calentar y cocinar cualquier alimento.
 - 5 niveles de potencia para ajustarse a todas las necesidades y modo de descongelación adaptable para cualquier alimento.
 - Avisador de final de cocción que te avisa cuando la comida está lista.
+- Microondas Digital de 20l con diseño compacto que se adapta a cualquier cocina y 700 W de potencia para calentar y cocinar cualquier alimento.
 - Pantalla con reloj que muestra el tiempo de cocinado y la hora para conseguir un uso más sencillo.
 - Tecnología 3DWave con un sistema de ondas más eficiente que envuelve al 100 % los alimentos y temporizador hasta 30 minutos para programar el tiempo necesario para cada comida.
 

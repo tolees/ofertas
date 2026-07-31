@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ligera y confortable
 - Zapatilla deportiva
+- Ligera y confortable
 - Se adapta la forma del pie
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

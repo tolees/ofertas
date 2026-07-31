@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Largo por el tobillo
 - Refuerzo en el arco plantar
+- Largo por el tobillo
 - Tres pares por paquete
 - Amortiguación en el talón y la puntera
 - Costuras anatómicas en la puntera

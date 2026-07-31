@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con tecnología Amino Acid Strenght Complex y Menta que penetra en el interior del cabello para combatir su alcalinidad y para reequilibrar el ciclo sebáceo
 - Usar como champú habitual y aplicar una cantidad entre 10ml/15ml, activar masajeando el producto entre las manos y repartir por las diferentes áreas del cuero cabelludo y longitud del cabello. Repartir con movimientos circulares hasta crear espuma y aclarar con agua de manera abundante.
 - Champú profesional de menta ideal para limpiar y refrescar el cabello y las raíces grasas y para eliminar la acumulación de residuos sin aportar peso
+- Con tecnología Amino Acid Strenght Complex y Menta que penetra en el interior del cabello para combatir su alcalinidad y para reequilibrar el ciclo sebáceo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09LYWXD3Q{{</world>}}

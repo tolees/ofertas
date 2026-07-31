@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cordones
-- Horma clásica
-- Suela de goma
 - Empeine de material sintético
+- Suela de goma
+- Horma clásica
 - Forro textil
+- Cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DHZVB28C{{</world>}}

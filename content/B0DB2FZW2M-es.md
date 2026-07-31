@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Logotipo del equipo de Fórmula 1 Mercedes - AMG Petronas
-- 100% poliéster (reciclado)
 - Cierre ajustable en la nuca
+- 100% poliéster (reciclado)
+- Logotipo del equipo de Fórmula 1 Mercedes - AMG Petronas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DB2FZW2M{{</world>}}

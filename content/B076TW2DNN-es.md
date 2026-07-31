@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- De las mujeres
-- Bajo-Top
-- Cumbres
 - Primavera verano
+- Bajo-Top
+- De las mujeres
+- Cumbres
 - Lona
 
 [🛒 Visítala!!!]({{< param buyurl >}})

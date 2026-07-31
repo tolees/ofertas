@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Stretch Oxford Shirt
-- Long sleeves
-- Tapered through the body
-- Slim Fit
-- Fitted in the shoulders
-- Button-down collar
 - Spade patch pocket
+- Long sleeves
+- Slim Fit
+- Button-down collar
+- Tapered through the body
+- Fitted in the shoulders
+- Stretch Oxford Shirt
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FC6P25G5{{</world>}}

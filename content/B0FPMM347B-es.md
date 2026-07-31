@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Las láminas para cada uno de los meses están troqueladas con forma de gato y cada uno de los meses tiene un diseño de gato distinto.
-- Se indican los festivos internacionales.
-- Ideal como regalo o autorregalo irresistible
 - Pequeño calendario de sobremesa para el año 2026, con peana de madera.
 - Certificado FSC, lo que garantiza que ha sido fabricado con papel proveniente de bosques gestionados de forma responsable.
+- Ideal como regalo o autorregalo irresistible
+- Se indican los festivos internacionales.
+- Las láminas para cada uno de los meses están troqueladas con forma de gato y cada uno de los meses tiene un diseño de gato distinto.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FPMM347B{{</world>}}

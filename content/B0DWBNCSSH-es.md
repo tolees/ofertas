@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Desigual
 - Estampado a rayas
-- Cierre: de Botón
 - Fit: Regular
-- Cuello: en V
 - Manga: Larga
+- Cuello: en V
+- Cierre: de Botón
+- Desigual
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DWBNCSSH{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Jersey Básico
 - Jersey Jersey
+- Jersey Básico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FCSPCJ3R{{</world>}}

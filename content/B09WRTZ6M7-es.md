@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La talla es ajustable. Para obtener información detallada sobre las tallas, consulta la guía de tallas al final de la galería de imágenes. En caso de duda, recomendamos pedir una talla más grande.
-- Garantía de calidad TCA + devoluciones de 365 días. ¿Notas un problema? Lo resolveremos en 24 horas. ¿Necesita devolver o cambiar? Te damos 365 días.
-- La tecnología TCA D.R.Y. expulsa el sudor de la piel, permitiendo que se evapore rápidamente en la superficie del tejido, manteniéndote seco, ligero y cómodo en todo momento.
 - 2x bolsillos con cremallera soldados por fusión proporcionan un almacenamiento seguro para objetos de valor. Lo suficientemente grandes como para que quepa cualquier modelo de smartphone actual. Diseñados con un perfil delgado y una profundidad de bolsillo óptima para eliminar el rebote y los movimientos mientras entrenas.
+- La tecnología TCA D.R.Y. expulsa el sudor de la piel, permitiendo que se evapore rápidamente en la superficie del tejido, manteniéndote seco, ligero y cómodo en todo momento.
+- Garantía de calidad TCA + devoluciones de 365 días. ¿Notas un problema? Lo resolveremos en 24 horas. ¿Necesita devolver o cambiar? Te damos 365 días.
+- La talla es ajustable. Para obtener información detallada sobre las tallas, consulta la guía de tallas al final de la galería de imágenes. En caso de duda, recomendamos pedir una talla más grande.
 - #1 más vendido durante más de 4 años. Pantalones cortos funcionales para correr, fabricados con un tejido de alto rendimiento ligero y transpirable. Ideal para correr, entrenar o hacer ejercicio en el gimnasio. Avalado por atletas profesionales.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

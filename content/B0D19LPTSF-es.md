@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Bolsillo canguro
-- Corte clásico
 - 55% algodón / 36% poliéster (reciclado) / 9% viscosa
+- Corte clásico
 - Capucha con cordón ajustable
 
 [🛒 Comprar!!!]({{< param buyurl >}})

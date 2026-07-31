@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La boquilla para coche es compatible con todos los aspiradores multiusos Home & Garden de Kärcher (con DN 35).
 - El juego de accesorios es adecuado para varias aspiradoras Kärcher Home & Garden
 - Juego compuesto por un tubo de extensión de 1,5 m, una boquilla para hendiduras extralarga, una boquilla para automóviles, un cepillo de succión con cerdas duras, un cepillo de succión con cerdas suaves y un paño de microfibra para superficies lisas y áreas de ventanas
-- Kit de limpieza interior de vehículos
 - Útil para limpiar lugares de difícil acceso, como grietas, y para superficies sensibles
+- La boquilla para coche es compatible con todos los aspiradores multiusos Home & Garden de Kärcher (con DN 35).
+- Kit de limpieza interior de vehículos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0854Z6PNG{{</world>}}

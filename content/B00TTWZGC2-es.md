@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Camomila y Alantóina: Calman y reparan, ideales para piel sensible.
 - Rápida absorción: Fórmula no grasa, confort inmediato tras usar.
-- Hidratación diaria: Sebamed Leche 750ml para pieles normales y sensibles.
-- Sebamed es una marca de confianza que se esfuerza continuamente para proporcionar productos que cuidan la piel de manera efectiva. Garantía sello ECARF.
 - pH 5,5: Respeto al pH natural de la piel, promueve barrera protectora.
+- Sebamed es una marca de confianza que se esfuerza continuamente para proporcionar productos que cuidan la piel de manera efectiva. Garantía sello ECARF.
+- Hidratación diaria: Sebamed Leche 750ml para pieles normales y sensibles.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00TTWZGC2{{</world>}}

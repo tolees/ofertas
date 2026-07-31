@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Protector solar
-- Vida al aire libre
 - Protección solar avanzada para la piel
+- Vida al aire libre
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C63V8VC4{{</world>}}

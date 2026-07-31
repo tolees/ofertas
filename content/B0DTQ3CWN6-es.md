@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Entresuela con tecnología de amortiguación ABZORB y parte superior de piel y tejido de primera calidad.
 - Inicialmente pensadas para correr, su diseño ahora se usa para looks cotidianos que influyen en la moda urbana.
+- Entresuela con tecnología de amortiguación ABZORB y parte superior de piel y tejido de primera calidad.
 - zapatillas versátiles
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

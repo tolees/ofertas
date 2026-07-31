@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Sombra de ojos Maquillaje Unisex Adulto
 - Lancome life proof setting powder deep (3614272126015)
 - Ojos (Maquillaje) Lancome
-- Sombra de ojos Maquillaje Unisex Adulto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07JCJNF15{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Para uso diario
 - Pantalón largo
 - Tiene detalles distintivos de la marca "KAPPA"
-- Para uso diario
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DN1RBX1Z{{</world>}}

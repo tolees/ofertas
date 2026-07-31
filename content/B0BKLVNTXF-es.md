@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Polartec
-- Logotipo de HH bordado en el pecho
-- Construcción de 1/2 cremallera
 - Costuras planas para poco volumen.
+- Construcción de 1/2 cremallera
+- Logotipo de HH bordado en el pecho
+- Polartec
 - CREMALLERA YKK
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

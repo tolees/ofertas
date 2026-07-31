@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Ajuste manual de la profundidad y la distorsión del hierro
 - Bloque de tope de aluminio lacado
-- Base lacada de negro
 - Para modeladores, manualidades y todos los trabajos ligeros
+- Base lacada de negro
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0001IW4ZA{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ballena hinchable INTEX con forma de ballena. Medidas ballena hinchada: 193x119 cm
 - Kit de parches para reparar pequeños poros o pinchazos
 - Color de la ballena: blanca y negra con ojos azules
 - La colchoneta está diseñada para que sea utilizada por niños a partir de 3 años de edad
 - Lleva incorporadas 2 resistentes asas para una mayor sujeción y estabilidad en el agua.
+- Ballena hinchable INTEX con forma de ballena. Medidas ballena hinchada: 193x119 cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B000PGRXG8{{</world>}}

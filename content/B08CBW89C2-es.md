@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tipo de fábrica: 100% Poliéster Interlock
 - Logo J serigrafiado
 - Camiseta de manga larga con cuello redondo y con cortes a contraste en las mangas
-- Tipo de fábrica: 100% Poliéster Interlock
 - 100% Poliéster interlock; 145 grms
 
 [🛒 Visítala!!!]({{< param buyurl >}})

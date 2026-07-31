@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- VitaDock+ App: Puedes conectar tu tensiómetro de brazo a nuestra VitaDock+ App a través de Bluetooth. Con la ayuda de la aplicación, puedes leer, evaluar y guardar tus datos y, si es necesario, enviarlos a tu médico.
+- Latidos irregulares: El BU 584 connect puede indicar posibles arritmias del pulso. Sólo su médico puede evaluar el tipo y la gravedad de una arritmia.
 - Dispositivo médico: Para la monitorización independiente de la presión arterial con escala de colores de semáforo para una fácil clasificación de los resultados de la medición. Además de la medición de la presión arterial propiamente dicha, también se realiza una medición del pulso.
 - Sensor de movimiento: Para garantizar un uso adecuado, el BU 584 connect está equipado con un sensor de movimiento que le avisa de los errores en la aplicación y garantiza unos resultados de medición más precisos.
 - Funcional: Pantalla LCD extraplana y extragrande. Además, recibirá una bolsa de almacenamiento con la que podrá guardar y transportar fácilmente el tensiómetro.
-- VitaDock+ App: Puedes conectar tu tensiómetro de brazo a nuestra VitaDock+ App a través de Bluetooth. Con la ayuda de la aplicación, puedes leer, evaluar y guardar tus datos y, si es necesario, enviarlos a tu médico.
-- Latidos irregulares: El BU 584 connect puede indicar posibles arritmias del pulso. Sólo su médico puede evaluar el tipo y la gravedad de una arritmia.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09T6YPGGD{{</world>}}

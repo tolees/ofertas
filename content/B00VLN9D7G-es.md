@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Corte regular
-- Ajuste regular
-- Cómoda capucha para proteger de la lluvia y el viento
 - Cuello alto con cierre a presión
+- Cómoda capucha para proteger de la lluvia y el viento
+- Ajuste regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00VLN9D7G{{</world>}}

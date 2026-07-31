@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PACK COLECCIONABLE Incluye varias figuras Polican de 6 cm
-- DETALLES AUTÉNTICOS Diseños inspirados en la Serie 2
 - REGALO PERFECTO Para fans y coleccionistas de Polican
-- TAMAÑO PRÁCTICO Con 6 cm son fáciles de transportar y exhibir
 - DIVERSIÓN ASEGURADA Ideales para juegos imaginativos y escenas
+- DETALLES AUTÉNTICOS Diseños inspirados en la Serie 2
+- TAMAÑO PRÁCTICO Con 6 cm son fáciles de transportar y exhibir
+- PACK COLECCIONABLE Incluye varias figuras Polican de 6 cm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DPNKJJHV{{</world>}}

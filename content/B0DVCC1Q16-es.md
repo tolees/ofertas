@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Manga: Larga
-- Apliques de lentejuelas
-- Largo: Corto
 - Desigual
-- Cuello: Redondo
+- Apliques de lentejuelas
 - Color: Liso
+- Cuello: Redondo
+- Largo: Corto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DVCC1Q16{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Escudo de metal de doble cara
 - Producto de calidad óptima
+- Escudo de metal de doble cara
 - Retenedores de acero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

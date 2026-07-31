@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tenis monocromáticos con cordones y detalle de cierre de un cuarto
-- Refrigerado por aire MF
 - cierre lateral
+- Refrigerado por aire MF
+- Tenis monocromáticos con cordones y detalle de cierre de un cuarto
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C4RTJSYR{{</world>}}

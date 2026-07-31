@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 46 EU
 - 84,28% piel, 9,08% sintético, 6,64% poliéster
+- 46 EU
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F32ZRF7C{{</world>}}

@@ -31,9 +31,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - El 70 % del plástico de este cabezal de cepillado es de base biológica³ y el embalaje es de papel reciclable⁴
 - Sabrás cuándo es el momento de cambiar el cabezal de cepillado gracias al recordatorio de sustitución BrushSync (mangos compatibles), que registra la frecuencia y la intensidad del cepillado, y a las cerdas azules, que se volverán blancas
 - Elimina hasta un 100 % más de manchas dentales en tres días²: el cabezal de limpieza profunda utiliza un grupo de cerdas densas y rígidas en su centro con forma pentagonal para blanquear y dar brillo a los dientes
-- La tecnología probada de Sonicare limpia de forma suave pero eficaz con hasta 62 000 movimientos de cerdas. La acción dinámica de los fluidos facilita la limpieza al dirigir el líquido entre los dientes y a lo largo de la línea de las encías
 - Diseño de montaje en un clic: los cabezales de cepillado Philips Sonicare C3 Premium Plaque Defence se adaptan a todos los mangos de Philips Sonicare⁵.
 - Elimina hasta 10 veces más placa que un cepillo dental manual: disfruta de una limpieza a fondo con un cabezal de cepillado de tacto suave que mejora el movimiento de las cerdas para una mayor cobertura y una limpieza más profunda
+- La tecnología probada de Sonicare limpia de forma suave pero eficaz con hasta 62 000 movimientos de cerdas. La acción dinámica de los fluidos facilita la limpieza al dirigir el líquido entre los dientes y a lo largo de la línea de las encías
 - El set 6 cabezales de cepillado C3 Premium Plaque Defence en blanco
 
 [🛒 Visítala!!!]({{< param buyurl >}})

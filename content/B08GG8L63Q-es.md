@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Soporte óptimo gracias a los 4 pomos antideslizantes, ajustable a 5 ángulos
-- Robusto soporte para libros fabricado en metal resistente y duradero
-- Dimensiones plegadas (ancho x fondo x alto): aprox. 19,8 x 22,2 x 3,3 cm
-- Ideal para la escuela, la cocina, la oficina, los libros de cocina, las tabletas, el iPad y los niños
 - Dimensiones abiertas (ancho x fondo x alto): aprox. 19,8 x 15,7 x 19 cm
+- Dimensiones plegadas (ancho x fondo x alto): aprox. 19,8 x 22,2 x 3,3 cm
+- Robusto soporte para libros fabricado en metal resistente y duradero
+- Soporte óptimo gracias a los 4 pomos antideslizantes, ajustable a 5 ángulos
+- Ideal para la escuela, la cocina, la oficina, los libros de cocina, las tabletas, el iPad y los niños
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08GG8L63Q{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Equipo de bajo mantenimiento, apto para jardineros de todos los niveles
+- Difícil de sobrevivir en condiciones de humedad
 - Rizomas de hosta a la venta
 - Época de floración: Florece de verano a otoño
-- Difícil de sobrevivir en condiciones de humedad
-- Equipo de bajo mantenimiento, apto para jardineros de todos los niveles
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0G29M7DDQ{{</world>}}

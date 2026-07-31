@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Controla tu limpieza o deja que tu robot Dyson lo haga por ti; Elige entre cuatro modos de potencia: Automático, Boost, Rápido y Silencioso; En el modo Automático, el robot aspirador 360 Vis Nav ajusta automáticamente la potencia de succión según la cantidad de suciedad presente³
 - A diferencia de los cepillos laterales que solo desplazan la suciedad, Dyson aspira hasta el borde de la pared; Un conducto lateral extensible redirige la succión con suficiente potencia para capturar la suciedad hasta el borde de la pared
-- Limpia a fondo; Limpia rápido; Un de cepillo de 29,8 cm de ancho abarca más superficie con cada pasada, y el modo Rápido optimiza la velocidad para limpiezas rápidas; Hasta 65 minutos de autonomía⁴, después de los cuales se recarga automáticamente y está listo para seguir limpiando
 - El robot aspirador más potente; Seis veces más succión que cualquier otro robot aspirador;¹ Aspira más que cualquier otro robot en todo tipo de suelos;² Limpia a fondo todos los tipos de suelo y debajo de los muebles bajos; El primer cepillo Dyson de triple acción combina tres formas de limpiar a fondo simultáneamente
+- Controla tu limpieza o deja que tu robot Dyson lo haga por ti; Elige entre cuatro modos de potencia: Automático, Boost, Rápido y Silencioso; En el modo Automático, el robot aspirador 360 Vis Nav ajusta automáticamente la potencia de succión según la cantidad de suciedad presente³
+- Limpia a fondo; Limpia rápido; Un de cepillo de 29,8 cm de ancho abarca más superficie con cada pasada, y el modo Rápido optimiza la velocidad para limpiezas rápidas; Hasta 65 minutos de autonomía⁴, después de los cuales se recarga automáticamente y está listo para seguir limpiando
 - Inteligente; Independiente; Detecta dónde necesita limpiar y recuerda por dónde ha pasado, igual que tú lo harías; Con 26 sensores, navegación 360°, un diseño de perfil bajo y suspensión de doble brazo para llegar a todos los rincones
 
 [🛒 Aquí!!!]({{< param buyurl >}})

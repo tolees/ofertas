@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- La siguiente información se aplica a cada unidad del paquete
+- Sin azúcares añadidos
 - Alimento complementario para perros
 - Recompensa óptima durante el entrenamiento
-- Sin azúcares añadidos
-- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DS2948FH{{</world>}}

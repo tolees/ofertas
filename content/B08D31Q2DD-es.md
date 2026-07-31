@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ALTA PIGMENTACIÓN: Con sus tonos altamente pigmentados crearas looks atrevidos. ¡No tengas miedo! Prueba y mezcla los tonos que más te gusten. Crearás make-ups diferentes cada vez que la uses.
-- EFECTO DURADERO: Fórmula de larga duración y fácil de aplicar, diseñada para permanecer intacta durante todo el día. Llévala a cualquier parte y crea un total make-up de ojos en cuestión de segundos.
-- PALETA DE NUEVE SOMBRAS: Elige un tono diferente cada día con The Eyeshadow Palette de 3INA. ¡Los 9 tonos te dan una gran versalidad para crear make-ups originales y diferentes!
 - VEGANO Y CRUELTY FREE: 3INA es una marca de maquillaje española que fabrica en Europa. Todos nuestros productos son veganos, libres de parabenos y sin crueldad animal.
 - TOTAL LOOK: aplica los colores más claros desde la esquina interior hasta el centro del párpado. Delinea la línea de las pestañas con el color más oscuro y aplícalo en la esquina exterior.
+- EFECTO DURADERO: Fórmula de larga duración y fácil de aplicar, diseñada para permanecer intacta durante todo el día. Llévala a cualquier parte y crea un total make-up de ojos en cuestión de segundos.
+- ALTA PIGMENTACIÓN: Con sus tonos altamente pigmentados crearas looks atrevidos. ¡No tengas miedo! Prueba y mezcla los tonos que más te gusten. Crearás make-ups diferentes cada vez que la uses.
+- PALETA DE NUEVE SOMBRAS: Elige un tono diferente cada día con The Eyeshadow Palette de 3INA. ¡Los 9 tonos te dan una gran versalidad para crear make-ups originales y diferentes!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08D31Q2DD{{</world>}}

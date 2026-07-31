@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Entresuela acolchada de aire visible Skech-Air
-- Piel sintética
 - Suela de tracción de goma flexible
 - Empeine sintético suave y perforado Durabuck
+- Piel sintética
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B3KZ3K67{{</world>}}

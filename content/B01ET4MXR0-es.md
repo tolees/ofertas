@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Waterproof, windproof and breathable
 - Helly Tech construction
-- Packable hood
 - Primaloft Black Eco 60g quilted insulation coat
+- Packable hood
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01ET4MXR0{{</world>}}

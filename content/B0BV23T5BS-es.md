@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diámetro caja: 36mm
-- Movimiento Cuarzo
 - Caja Acero inoxidable, esfera Plateado
 - Resistente al agua: 50m
 - Brazalete Plateado Acero inoxidable
+- Diámetro caja: 36mm
+- Movimiento Cuarzo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BV23T5BS{{</world>}}

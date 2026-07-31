@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mid waist
 - Regular Fit
-- Wide leg trousers
 - Care Label:
+- Mid waist
+- Wide leg trousers
 - materialFabricComposition: 95% Polyester, 5% Elastane
 
 [🛒 Comprar!!!]({{< param buyurl >}})

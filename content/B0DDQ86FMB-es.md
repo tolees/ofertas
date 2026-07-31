@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lavable a máquina
-- Vegano
 - Espuma de lujo
+- Vegano
+- Lavable a máquina
 - Slip-Ins
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

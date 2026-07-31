@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Silueta limpia
 - Logotipo en relieve en el talón
 - Cierre de cordones
-- Silueta limpia
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DMPL8J4G{{</world>}}

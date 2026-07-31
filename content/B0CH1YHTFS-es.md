@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Etiqueta tejida en la lengüeta
 - Tobillo acolchado
+- Etiqueta tejida en la lengüeta
 - Parte superior de cuero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

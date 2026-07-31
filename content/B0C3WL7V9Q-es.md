@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Compra una talla más grande
 - Parte de piel con puntera de ante
+- Compra una talla más grande
 - Forro textil
 
 [🛒 Comprar!!!]({{< param buyurl >}})

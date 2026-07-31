@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- De alta calidad
 - Taladro atornillador 12v cxt 1/4"
+- De alta calidad
 - Producto de la marca Makita
 
 [🛒 Comprar!!!]({{< param buyurl >}})

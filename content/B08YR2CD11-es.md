@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuidado solar adecuado para las condiciones de luz solar más intensa
-- producto de alta calidad
-- Invisible
 - Para las pieles más vulnerables
+- Cuidado solar adecuado para las condiciones de luz solar más intensa
+- Invisible
+- producto de alta calidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08YR2CD11{{</world>}}

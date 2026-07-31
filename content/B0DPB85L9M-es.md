@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Adecuada para múltiples ocasiones
 - Estilo informal
 - Camiseta de manga corta
+- Adecuada para múltiples ocasiones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DPB85L9M{{</world>}}

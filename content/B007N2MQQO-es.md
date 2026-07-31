@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cada pieza varía en tamaño aprox. 2,5 cm
 - Con adornos de madera "Casas"
-- 1 caja que contiene 45 adornos de madera en forma de casa
 - Natural, se puede pintar y teñir
+- Cada pieza varía en tamaño aprox. 2,5 cm
 - Viene en caja de tamaño 10,5 cm x 10,5 cm
+- 1 caja que contiene 45 adornos de madera en forma de casa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B007N2MQQO{{</world>}}

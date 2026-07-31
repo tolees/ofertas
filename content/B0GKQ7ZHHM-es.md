@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Protección solar diaria ultraligera: Un fluido facial diario ultratranspirable con SPF50 que proporciona una protección invisible y ligera
-- Adecuado para pieles mixtas a grasas: Especialmente formulado para pieles con imperfecciones y con tendencia acneica, con propiedades no comedogénicas
 - Textura superligera y sin residuos: Fórmula que no deja restos blancos y no es pegajosa ni grasa tras la absorción, adecuada para llevarlo bajo el maquillaje
+- Protección solar diaria ultraligera: Un fluido facial diario ultratranspirable con SPF50 que proporciona una protección invisible y ligera
 - Fluido hidratante matificante: Fórmula con SPF50 que reduce visiblemente el exceso de brillo y ayuda a controlar las imperfecciones mientras protege del fotoenvejecimiento
+- Adecuado para pieles mixtas a grasas: Especialmente formulado para pieles con imperfecciones y con tendencia acneica, con propiedades no comedogénicas
 - Tecnología de protección avanzada: Combina Full Light Technology que protege contra rayos UVB, UVA, luz visible y luz azul, junto con Tecnología AIR-O₂ que reenergiza las células de la piel
 
 [🛒 Visítala!!!]({{< param buyurl >}})

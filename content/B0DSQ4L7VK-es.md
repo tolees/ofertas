@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - POLLING RATE 4K - Haz que cada movimiento cuente. El Pulsefire Saga Pro está equipado con auténtica tasa de sondeo inalámbrico 4K, capaz de reportar su posición hasta 4000 veces por segundo. Captura cada movimiento con precisión y exactitud.
-- MODO DUAL - Conéctate mediante la banda de 2.4GHz de alta velocidad con el dongle USB o cambia al modo Bluetooth para enlazar con dispositivos compatibles. El Pulsefire Saga Pro es compatible con Instant Pair, lo que te permite vincularlo a portátiles OMEN sin necesidad de dongle.
-- ULTRALIGERO - Con solo 72 gramos, el Pulsefire Saga Pro es liviano en cualquier configuración de fábrica. Sea cual sea tu estilo de juego, este ratón es lo suficientemente ligero para realizar movimientos rápidos y reactivos o amplios barridos con facilidad.
-- BATERÍA DE LARGA DURACIÓN - Enfrenta largas sesiones de juego como un profesional. El Pulsefire Saga Pro puede funcionar hasta 90 horas con una sola carga en modo estándar de 1 kHz. Cambia al modo de sondeo 4K para disfrutar de hasta 30 horas de rendimiento de nivel profesional.
 - CARCASA MODULAR - El Pulsefire Saga Pro utiliza componentes magnéticos intercambiables para adaptarse a distintos estilos de agarre. Cambia de botones suaves a ergonómicos, reemplaza las carcasas y ajusta los botones laterales de forma fácil, sin necesidad de herramientas.
+- MODO DUAL - Conéctate mediante la banda de 2.4GHz de alta velocidad con el dongle USB o cambia al modo Bluetooth para enlazar con dispositivos compatibles. El Pulsefire Saga Pro es compatible con Instant Pair, lo que te permite vincularlo a portátiles OMEN sin necesidad de dongle.
+- BATERÍA DE LARGA DURACIÓN - Enfrenta largas sesiones de juego como un profesional. El Pulsefire Saga Pro puede funcionar hasta 90 horas con una sola carga en modo estándar de 1 kHz. Cambia al modo de sondeo 4K para disfrutar de hasta 30 horas de rendimiento de nivel profesional.
+- ULTRALIGERO - Con solo 72 gramos, el Pulsefire Saga Pro es liviano en cualquier configuración de fábrica. Sea cual sea tu estilo de juego, este ratón es lo suficientemente ligero para realizar movimientos rápidos y reactivos o amplios barridos con facilidad.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DSQ4L7VK{{</world>}}

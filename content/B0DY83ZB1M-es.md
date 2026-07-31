@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Dos compartimentos y tres bolsillos interiores, uno de ellos con cremallera, para llevar perfectamente ordenados los accesorios de aseo y los productos de belleza.
 - Neceser de 21 cm x 13,5 cm x 11 cm fabricado en poliéster y con detalles en piel sintética.
-- Asa para colgarlo o llevarlo de la mano cómodamente
 - De Joumma Bags.
+- Asa para colgarlo o llevarlo de la mano cómodamente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DY83ZB1M{{</world>}}

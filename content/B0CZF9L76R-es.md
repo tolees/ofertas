@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- UNA FRAGANCIA FRESCA: Descubre una fragancia limpia, fresca e invernal que dejará tu piel fresca y lista para afrontar el día
-- PROTECCIÓN DE LUBRICANTES ADICIONALES*: lubricación extra de polímeros para un afeitado sin esfuerzo, *comparados con el gel Gillette Classic
-- La siguiente información se aplica a cada unidad del paquete
 - LOS ALIADOS PERFECTOS: Saca el máximo partido a tu afeitado con la gama Gillette Series, que ayuda a reducir la irritación tras el afeitado
 - PROTECCIÓN COMPLETA CONTRA LA IRRITACIÓN: La gama Gillette Series protege la piel sensible de cortes, ardor, escozor, enrojecimiento y tirantez
 - REFRESCA PARA CALMAR: El gel de afeitar refrescante Gillette Series tiene un efecto refrescante para calmar tu piel mientras te afeitas
+- UNA FRAGANCIA FRESCA: Descubre una fragancia limpia, fresca e invernal que dejará tu piel fresca y lista para afrontar el día
+- PROTECCIÓN DE LUBRICANTES ADICIONALES*: lubricación extra de polímeros para un afeitado sin esfuerzo, *comparados con el gel Gillette Classic
+- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZF9L76R{{</world>}}

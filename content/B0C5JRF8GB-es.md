@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Gattung: Socken
+- Mannschaft: default
 - Extras: default
 - Futter: default
-- Mannschaft: default
 - Ausschnitt: default
 
 [🛒 Aquí!!!]({{< param buyurl >}})

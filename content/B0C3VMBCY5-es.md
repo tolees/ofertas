@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Simplicidad: centrada en las funciones esenciales e importantes como el portahoja SDS, la luz LED, el péndulo en 4 niveles, el soplador de polvo y la velocidad ajustable
-- Diseño robusto y motor Brushless sin escobillas: aseguran una excelente autonomía y una mayor vida útil de la herramienta
 - AMPShare: Las baterías y cargadores son 100 % compatibles con el sistema Bosch Professional 18V System y con muchas otras herramientas de la alianza de batería multimarca AMPShare.
 - La placa base de la GST 18V-125 S Professional se puede ajustar hasta 45° para realizar cortes biselados
 - Incluye: GST 18V-125 S, 1 hoja de sierra T 144 D, adpatador de aspiración de polvo, protector antiastillas, maletín L-BOXX (batería y cargador no incluidos)
+- Diseño robusto y motor Brushless sin escobillas: aseguran una excelente autonomía y una mayor vida útil de la herramienta
+- Simplicidad: centrada en las funciones esenciales e importantes como el portahoja SDS, la luz LED, el péndulo en 4 niveles, el soplador de polvo y la velocidad ajustable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C3VMBCY5{{</world>}}

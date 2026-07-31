@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Bolsillos traseros, bolsillo para monedas, bolsillos delanteros
-- Con cintura baja
 - Aberturas estrechas de rodillas y piernas
+- Con cintura baja
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CL7VKY3J{{</world>}}

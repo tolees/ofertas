@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Las camisas Western de Levis, vestidas por numerosas generaciones, siguen definiendo los códigos de vestimenta modernos
 - LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
-- El testamento de un estilo americano atemporal
 - Dos bolsillos con botón en el pecho
+- El testamento de un estilo americano atemporal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C6M7RQV8{{</world>}}

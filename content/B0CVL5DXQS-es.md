@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Proporciona comodidad
+- Paquete de dos
+- Bordado de G-Star RAW en el pecho
 - Una mirada original
 - Cuello acanalado
-- Paquete de dos
-- Proporciona comodidad
-- Bordado de G-Star RAW en el pecho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CVL5DXQS{{</world>}}

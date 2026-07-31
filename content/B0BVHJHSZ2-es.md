@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Apto Microondas
-- Apto lavavajillas
 - Material cálido y natural para tu dia a dia , Diseñado en España
+- Apto lavavajillas
+- Apto Microondas
 - 6 TAZAS DE 8CL
 
 [🛒 Visítala!!!]({{< param buyurl >}})

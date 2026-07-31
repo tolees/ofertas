@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Incluye 56 cartas (6.35 x 8.9cm), caja, e instrucciones (todo escrito en inglés). Esta caja, como el 99.9% de todas las cajas, no dice miau.
-- Exploding Kittens Edición NSFW es un juego de cartas para los que les gustan los gatitos, las explosiones, los magos viviendo entre las tetas, y alguno que otro culo.
 - Compruebe el holograma para garantizar la autenticidad.
-- Ha sido el proyecto más respaldado en toda la historia de Kickstarter (la plataforma de micromecenazgo más grande del mundo), con ilustraciones hechas por el artista The Oatmeal.
+- Incluye 56 cartas (6.35 x 8.9cm), caja, e instrucciones (todo escrito en inglés). Esta caja, como el 99.9% de todas las cajas, no dice miau.
 - Un juego de mesa PARA ADULTOS en grupo de 2 a 5 jugadores (hasta 9 jugadores al combinar otro mazo de cartas).
+- Ha sido el proyecto más respaldado en toda la historia de Kickstarter (la plataforma de micromecenazgo más grande del mundo), con ilustraciones hechas por el artista The Oatmeal.
+- Exploding Kittens Edición NSFW es un juego de cartas para los que les gustan los gatitos, las explosiones, los magos viviendo entre las tetas, y alguno que otro culo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B010TU7LP2{{</world>}}

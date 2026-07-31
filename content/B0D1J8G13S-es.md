@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Entresuela acolchada cargada
 - Parte superior de malla ligera y transpirable
+- Entresuela acolchada cargada
 - Plantilla de EVA que proporciona suavidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

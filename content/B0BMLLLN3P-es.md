@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Los que parecían que te quedaban adecuados
+- Este producto es original Levis
 - De tiro medio con un fit holgado óptimo
 - Para un fit más estilizado, prueba con una talla menos y, para un fit menos holgado, prueba los 501 Original
 - Jeans azules originales desde 1873
-- Este producto es original Levis
+- Los que parecían que te quedaban adecuados
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BMLLLN3P{{</world>}}

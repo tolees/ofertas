@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre autoadherente ajustable en la nuca
 - Talla única
-- 100% poliéster (reciclado)
 - Cinta transpirable para el sudor de la frente
-- Visera curvada
+- 100% poliéster (reciclado)
 - CLIMACOOL
+- Cierre autoadherente ajustable en la nuca
+- Visera curvada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F3DKLR6B{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Capacidad: xxx cl
-- Indicaciones: apta para microondas. Se recomienda lavarla a mano para que su diseño se mantenga intacto durante más tiempo.
 - Taza de cerámica con mensaje dirigido a hermanos.
+- Indicaciones: apta para microondas. Se recomienda lavarla a mano para que su diseño se mantenga intacto durante más tiempo.
+- Capacidad: xxx cl
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DD4XKC6Q{{</world>}}

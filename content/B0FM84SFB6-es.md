@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - 【Pantalla Digital Intuitiva】Controla fácilmente el nivel de batería y la velocidad seleccionada gracias a su pantalla LCD. Todo bajo control con este soplador de aire potente profesional.
 - 【Compacto y Portátil】Más pequeño que una teléfono móvil, este aire comprimido limpieza pc cabe en cualquier bolso o maletín. ¡Llévalo contigo a la oficina, taller o donde lo necesites!
-- 【4 Velocidades Ajustables】Elige entre 4 niveles de potencia según tus necesidades: desde una limpieza suave para componentes delicados hasta máxima potencia para áreas difíciles. El soplador de aire para pc perfecto!
 - 【3 Modos LED & Luz Frontal】La luz LED ajustable en la parte inferior del ventilador eléctrico para eliminar el polvo (linterna, luz estroboscópica, SOS) lo convierte en un compañero ideal para actividades al aire libre. Además, las luces auxiliares bajo la rejilla de ventilación le permiten ver y eliminar por fin cada partícula de polvo oculta.
+- 【4 Velocidades Ajustables】Elige entre 4 niveles de potencia según tus necesidades: desde una limpieza suave para componentes delicados hasta máxima potencia para áreas difíciles. El soplador de aire para pc perfecto!
 - 【Motor sin Escobillas de Alta Potencia】Este soplador de polvo eléctrico cuenta con un potente motor brushless de 130.000 RPM, mucho más eficaz que los tradicionales spray aire comprimido. Ideal para eliminar polvo de PCs, teclados y componentes electrónicos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

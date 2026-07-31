@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye todos los herrajes necesarios para su montaje.
-- Incluye 1 cajón organizador para armarios y vestidores, con 10 apartados perfecto para guardar joyas y otros accesorios. Con una anchura de 440 mm y profundidad de 420 mm, incluye 4 soportes de plástico para la fijación. Fabricado con materiales de alta calidad como la piel ecológica y la madera, con un elegante acabado color titanio que combina la durabilidad y diseño.
 - Kit compuesto por un cajón organizador y un bastidor de guías de ancho regulable para módulos de 60 cm.
-- Bastidor con guías de cierre suave y extracción total que soporta hasta 30 kg de peso. Fabricado en plástico y aluminio de alta calidad con un elegante acabado titanio (RAL 7039). Se ensambla de manera sencilla y eficiente, solo hay que atornillar en el lateral del armario. Está pensado para ajustarse a diferentes anchos de armarios, gracias a una regulación de hasta 13 mm en cada una de sus guías y sus distanciadores incluidos.
+- Incluye 1 cajón organizador para armarios y vestidores, con 10 apartados perfecto para guardar joyas y otros accesorios. Con una anchura de 440 mm y profundidad de 420 mm, incluye 4 soportes de plástico para la fijación. Fabricado con materiales de alta calidad como la piel ecológica y la madera, con un elegante acabado color titanio que combina la durabilidad y diseño.
 - Válido para un hueco de interior de armario de 562 - 588 mm con profundidad mínima de 460 mm. Dispone de una regulación de hasta 13 mm que posee cada una de sus guías, asegurando una instalación perfecta en cualquier espacio de armario.
+- Bastidor con guías de cierre suave y extracción total que soporta hasta 30 kg de peso. Fabricado en plástico y aluminio de alta calidad con un elegante acabado titanio (RAL 7039). Se ensambla de manera sencilla y eficiente, solo hay que atornillar en el lateral del armario. Está pensado para ajustarse a diferentes anchos de armarios, gracias a una regulación de hasta 13 mm en cada una de sus guías y sus distanciadores incluidos.
+- Incluye todos los herrajes necesarios para su montaje.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FBWXNZL6{{</world>}}

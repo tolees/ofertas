@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- CARGA INALÁMBRICA - A nosotros tampoco nos gustan los cables. Sencillamente, son un estorbo. Gracias a la carga inalámbrica, es muy fácil darles un empujoncito a los Major V cuando lo necesiten.
 - 100 HORAS DE REPRODUCCIÓN INALÁMBRICA - Tu próxima aventura te espera, y los Major V están deseando acompañarte. Con más de 100 horas de reproducción inalámbrica, podrás estar fuera varios días.
 - EL SONIDO CARACTERÍSTICO DE MARSHALL - Bajos atronadores, medios suaves y agudos brillantes. Los Major V te ofrecen el sonido característico de Marshall que ya conoces y adoras.
-- CARGA INALÁMBRICA - A nosotros tampoco nos gustan los cables. Sencillamente, son un estorbo. Gracias a la carga inalámbrica, es muy fácil darles un empujoncito a los Major V cuando lo necesiten.
 - DISEÑO RESISTENTE Y PLEGABLE - Resistentes para que duren. Plegables para que ocupen poco espacio. Por quinta vez consecutiva, los Major son un clásico instantáneo.
 - BOTÓN M PERSONALIZABLE - Accede al instante a tus funciones favoritas a través del botón M de los Major V y la aplicación Marshall Bluetooth.
 

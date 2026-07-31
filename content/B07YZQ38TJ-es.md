@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Low rise
-- Skinny fit jeans
-- Skinny Fit
 - materialFabricComposition: 70% Cotton, 28% Polyester, 2% Elastane
+- Skinny Fit
+- Skinny fit jeans
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07YZQ38TJ{{</world>}}

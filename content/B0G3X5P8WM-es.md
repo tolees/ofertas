@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalla de policarbonato larga, transparente, resistente a arañazos y a los rayos UV Sistema de pantalla de liberación rápida (QRS)
 - Aprobado según la norma ECE 22.06
-- Viene con una pantalla de humo oscuro adicional.
+- Pantalla de policarbonato larga, transparente, resistente a arañazos y a los rayos UV Sistema de pantalla de liberación rápida (QRS)
 - Interior fabricado en tejido hipoalergénico, totalmente desmontable y lavable a mano.
+- Viene con una pantalla de humo oscuro adicional.
 - Fabricado en policarbonato, reconocido por su resistencia y ligereza EPS multidensidad para una absorción de impactos optimizada Cierre de correa de barbilla con hebilla micrométrica rápido y eficiente
 
 [🛒 Aquí!!!]({{< param buyurl >}})

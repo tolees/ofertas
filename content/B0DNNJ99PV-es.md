@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cómodo de llevar
 - Logotipo en el pecho
+- Cómodo de llevar
 - Dos bolsillos laterales
 
 [🛒 Comprar!!!]({{< param buyurl >}})

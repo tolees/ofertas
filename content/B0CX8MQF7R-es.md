@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Amplia selección: obtén acceso de manera instantánea a millones de títulos con la Tienda Kindle o suscríbete a Kindle Unlimited para obtener acceso ilimitado incluso más contenido.
+- Una experiencia completamente nueva: la pantalla del Kindle Colorsoft está optimizada para la lectura a color y es diferente a la del Kindle Paperwhite, optimizada para la lectura en blanco y negro.
+- Resistente al agua para que no te preocupes por nada: lee junto a la piscina, en la bañera o donde tú quieras.
 - Prueba a usar la funcionalidad de Color de página en tus libros para invertir el color del fondo de la página a negro y el del texto a blanco. Aunque no es igual que el modo oscuro de otros Kindle, te permite leer con total comodidad, mientras sigues viendo las imágenes y las portadas de tus libros a color.
+- Añade un toque de color a la página: resalta tus escenas favoritas de amarillo, naranja, azul o rosa.
 - Lee bajo cualquier luz: regula el tono de la pantalla desde una luz blanca hasta una cálida luz ámbar y lee tanto bajo la luz solar directa como a oscuras.
 - Listo para sesiones de lectura maratonianas: una sola carga por USB-C dura hasta 8 semanas.
-- Resistente al agua para que no te preocupes por nada: lee junto a la piscina, en la bañera o donde tú quieras.
-- Una experiencia completamente nueva: la pantalla del Kindle Colorsoft está optimizada para la lectura a color y es diferente a la del Kindle Paperwhite, optimizada para la lectura en blanco y negro.
 - Lee a todo color: la nueva pantalla Colorsoft de 7" te proporciona un alto contraste y una gran comodidad visual para su lectura. El color de la pantalla es similar al que se apreciaría sobre papel impreso, lo que hace que las portadas y el contenido de tus libros cobren vida.
-- Amplia selección: obtén acceso de manera instantánea a millones de títulos con la Tienda Kindle o suscríbete a Kindle Unlimited para obtener acceso ilimitado incluso más contenido.
-- Añade un toque de color a la página: resalta tus escenas favoritas de amarillo, naranja, azul o rosa.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CX8MQF7R{{</world>}}

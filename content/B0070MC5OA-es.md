@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Información del producto: 80 mm es la longitud total del taco, 50 mm es la parte de taco que tendría que atravesar la pared cómo mínimo y 30 mm sería el espesor máximo del elemento a fijar.
 - Principales ventajas: el anclaje SXR con tornillo avellanado de acero galvanizado es una fijación certificada para mampostería y hormigón en fijaciones múltiples no estructurales, con clase de resistencia al fuego F90.
 - Contenido: 1 x Caja con tornillo hexagonal SXR 8x100 con 100 unidades, premontados, de fischer.
-- Aplicaciones: estructuras metálicas, aplacados de piedra, tendederos, toldos, parabólicas, barandillas, soportes, escaleras de mano, bandejas de cables, escaleras mecánicas, carpintería metálica, construcciones de madera.
+- Información del producto: 80 mm es la longitud total del taco, 50 mm es la parte de taco que tendría que atravesar la pared cómo mínimo y 30 mm sería el espesor máximo del elemento a fijar.
 - Modo de empleo: realizar agujero con broca de 10 mm de diámetro, limpiar el agujero, introducir el anclaje ayudándose de un martillo, apretar el tornillo; el taco y tornillo atraviesan el material a fijar.
+- Aplicaciones: estructuras metálicas, aplacados de piedra, tendederos, toldos, parabólicas, barandillas, soportes, escaleras de mano, bandejas de cables, escaleras mecánicas, carpintería metálica, construcciones de madera.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0070MC5OA{{</world>}}

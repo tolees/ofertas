@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Corte holgado
 - __Tejido:__ doble gasa de algodón
 - Placa metálica con la marca
-- Corte holgado
 - Cuello con base
 - Placa metálica con la marca
 

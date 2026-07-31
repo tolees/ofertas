@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para la limpieza rápida o eliminación de virutas y otros cuerpos extraños
-- Larga vida útil gracias a la robusta carcasa de aluminio resistente a los impactos y a los golpes
 - Incl. Adaptador de conexión para mangueras con diámetro interior de 8 mm
+- Para la limpieza rápida o eliminación de virutas y otros cuerpos extraños
 - Dispositivo de suspensión integrado | con 3 boquillas: 25 - 100 - 200 mm
 - Presión de trabajo: 8 bar | material: fundición de aluminio
+- Larga vida útil gracias a la robusta carcasa de aluminio resistente a los impactos y a los golpes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B000VWT71K{{</world>}}

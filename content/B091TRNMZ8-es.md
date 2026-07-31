@@ -29,13 +29,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Mangas : Sisa en disminución
+- Cierre : Cierre de cremallera
+- Puños : Puños acanalados
 - Bolsillos : Bolsillos frontales con cierre de cremallera
 - Largo/talla : Corto
+- Artículo : Chaqueta bomber
 - Cuello : Cuello levantado
 - Manga : Manga larga
-- Artículo : Chaqueta bomber
-- Puños : Puños acanalados
-- Cierre : Cierre de cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B091TRNMZ8{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Skechers Detalle del logotipo
 - Parte superior de cuero
+- Skechers Detalle del logotipo
 - Suela de tracción flexible
 
 [🛒 Comprar!!!]({{< param buyurl >}})

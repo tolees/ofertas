@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elegante parte superior y entresuela ligera
 - Parte superior en malla panelada con superposiciones
+- Elegante parte superior y entresuela ligera
 - Trabilla con logotipo en el talón y la lengüeta
 - Entresuela FuelFoam Suela con toda la superficie en goma
 - Cuello del tobillo en textil acolchado

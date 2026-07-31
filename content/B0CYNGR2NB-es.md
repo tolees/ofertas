@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Puntera de ante
-- Empeine de piel sintética
 - Suela de goma
-- Panel alrededor del tobillo y forro de malla
+- Puntera de ante
 - Horma clásica
+- Empeine de piel sintética
+- Panel alrededor del tobillo y forro de malla
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CYNGR2NB{{</world>}}

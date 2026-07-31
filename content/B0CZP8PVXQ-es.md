@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillo canguro
 - Corte holgado
 - Puños y dobladillo de canalé
-- Capucha con cordón ajustable
 - 55% algodón / 36% poliéster (reciclado) / 9% viscosa
+- Capucha con cordón ajustable
+- Bolsillo canguro
 - Contiene al menos un 70% de material reciclado y renovable
 
 [🛒 Aquí!!!]({{< param buyurl >}})

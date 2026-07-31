@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte: holgado
-- Material principal: felpa
 - Talle: media
-- Largo: normal
 - Bolsillos: bolsillos laterales
+- Material principal: felpa
+- Corte: holgado
+- Largo: normal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DJDFGMH4{{</world>}}

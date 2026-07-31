@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100% Compuesto
-- Lavar a mano
 - Manga corta
+- Lavar a mano
+- 100% Compuesto
 - Marca: Nike
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

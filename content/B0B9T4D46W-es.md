@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Notas de fondo: Burbon de vainilla, miel Accord, vetiver
 - Forma del elemento: líquido
 - Notas de corazón: flor de azahar, corazón de lavanda Diva, corazón de lavandín
 - Libre Le Parfum
+- Notas de fondo: Burbon de vainilla, miel Accord, vetiver
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B9T4D46W{{</world>}}

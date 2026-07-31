@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 👨‍👩‍👧‍👦 ¡PARA TODA LA FAMILIA! De 4 a 8 jugadores, +10 años y partidas de 30 min. Regalo Original para reuniones, y fiestas con amigos.
-- 🌱 ¡ECOFRIENDLY! Juego de mesa y cartas impresas en la Unión Europea con papel de bosques gestionados de forma sostenible.
 - 🖼️ ¡IMÁGENES CON PISTAS! Cada jugador muestra ilustraciones ligadas a una palabra secreta mientras el periodista intenta descubrirla sin ser detectado.
 - ⚡ ¡ENGAÑA O DESCUBRE! Rápido, dinámico y lleno de intriga. Intenta pasar desapercibido mientras averiguas quién oculta la verdad. Diversión asegurada.
+- 🌱 ¡ECOFRIENDLY! Juego de mesa y cartas impresas en la Unión Europea con papel de bosques gestionados de forma sostenible.
+- 👨‍👩‍👧‍👦 ¡PARA TODA LA FAMILIA! De 4 a 8 jugadores, +10 años y partidas de 30 min. Regalo Original para reuniones, y fiestas con amigos.
 - 🕵️‍♂️ ¡DEDUCCIÓN Y MISTERIO! Juego de pistas, imágenes y código secreto. Usa tus cartas para descubrir al impostor… o engañar al resto.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Apropiado para jugar al futbol
 - De la marca Nike
 - Diseñado para infantes
-- Apropiado para jugar al futbol
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B59FD7CL{{</world>}}

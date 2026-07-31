@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Puntadas tono-en-tono en los acabados
 - Cuello redondo en contraste
 - Corte holgado
 - Camiseta con texto usado en la parte delantera
+- Puntadas tono-en-tono en los acabados
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09RB4MN2C{{</world>}}

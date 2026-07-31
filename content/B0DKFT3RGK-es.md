@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 93 % algodón, 5 % poliéster, 2 % elastano
 - Fabricado en un característico denim elástico lavado en auténtico gris medio
+- 93 % algodón, 5 % poliéster, 2 % elastano
 - Jeans ajustados clásicos con uno de nuestros bajos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

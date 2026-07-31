@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye: GCU 18V-30, 3 pinzas sujeción 3,17 mm (1/8″)/3,96 mm (5/32″)/6,35 mm (1/4″), 1 adaptador de aspiración, 1 broca espiral centradora para panel yeso, 1 broca multiuso, 1 gancho para cinturón
 - Rendimiento para toda la jornada: adecuada para corte empotrado en panel de yeso, corte en madera contrachapada, OSB y falsos techos. Es compatible con pinzas de sujeción de 3 mm, 6 mm, 1/8, 5/32 y 1/4.
-- Calidad profesional: Motor Brushless sin escobillas, interruptor con sellado contra el polvo IP5X y recogida eficiente del polvo para una vida útil máxima en obras donde se genera mucho polvo
 - Las baterías y cargadores son 100 % compatibles con el sistema Bosch Professional 18V System y con muchas otras herramientas de la alianza de batería multimarca AMPShare
 - Diseño ergonómico: Diseño ligero, compacto y cilíndrico para un agarre cómodo
+- Calidad profesional: Motor Brushless sin escobillas, interruptor con sellado contra el polvo IP5X y recogida eficiente del polvo para una vida útil máxima en obras donde se genera mucho polvo
+- Incluye: GCU 18V-30, 3 pinzas sujeción 3,17 mm (1/8″)/3,96 mm (5/32″)/6,35 mm (1/4″), 1 adaptador de aspiración, 1 broca espiral centradora para panel yeso, 1 broca multiuso, 1 gancho para cinturón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BTZ3HM5L{{</world>}}

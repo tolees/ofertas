@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Resistentes pantalones cortos cargo para exteriores confeccionados en tejido ripstop de secado rápido; un pantalón versátil que sirve para cualquier aventura tanto en agua como en tierra
 - Resistentes pantalones cortos cargo diseñados para todas tus aventuras al aire libre
 - Artículos entregados: 1x Helly Hansen Hombre Pantalón Corto HH Cargo Secado Rápido,42,Azul marino
+- Resistentes pantalones cortos cargo para exteriores confeccionados en tejido ripstop de secado rápido; un pantalón versátil que sirve para cualquier aventura tanto en agua como en tierra
 - Exterior: 92% poliamida, 8% elastán
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

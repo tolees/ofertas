@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tejido duro sin estiramiento
 - JACK & JONES JUNIOR Jjiglenn Jjoriginal MF 070 NOOS JNR Vaqueros, Azul Denim, 128 para Niños
+- Tejido duro sin estiramiento
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B693MPGM{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Flexible y duradera.
-- Longitud x ancho: 30 metros x 25 mm.
 - La cinta está fabricada en material de pvc.
+- Longitud x ancho: 30 metros x 25 mm.
 - Adhesivo de alta calidad.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

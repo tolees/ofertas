@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'American Tourister Soundbox - Spinner S Expandible Maleta de Cabina 55 cm 35.5/41 L Amarillo Golden Yellow'
-date: 2026-05-04 13:30:30
-image: 'https://m.media-amazon.com/images/I/41PS0gLRKqL._SL500_._SL400_.jpg'
+date: 2026-07-30 03:49:53
+image: 'https://m.media-amazon.com/images/I/41ELrSNAEWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B079M59MSH-es American Tourister Soundbox - Spinner S Expandible Maleta...'
 sku: 'B079M59MSH-es'
 tags: [ '🇪🇸', ]
-actualPrice: 88.99 EUR
+actualPrice: 97.83 EUR
 currency: EUR
-price: 88.99
+price: 97.83
 comparePrice: 165.0 EUR
 prodname: 'American Tourister Soundbox - Spinner S Expandible Maleta de Cabina 55 cm 35.5/41 L Amarillo Golden Yellow'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B079M59MSH/?tag=tolees-21'
-descuento: '46.07'
-average: '99.4638095238098'
+descuento: '40.71'
+average: '99.321739130435'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

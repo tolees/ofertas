@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi S Sudadera con Capucha The Original Hm para Hombre Mid Tono Grey Heathe M'
-date: 2026-07-20 03:57:46
+date: 2026-07-30 18:10:10
 image: 'https://m.media-amazon.com/images/I/31bXONq0oFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CNQBG169/?tag=tolees-21'
 descuento: '50.00'
-average: '34.225'
+average: '33.65'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

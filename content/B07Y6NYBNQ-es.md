@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elija su vehículo en el selector para comprobar su compatibilidad con el producto.
 - ATERA Bolsa universal para patinetes y bicicletas
+- Elija su vehículo en el selector para comprobar su compatibilidad con el producto.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07Y6NYBNQ{{</world>}}

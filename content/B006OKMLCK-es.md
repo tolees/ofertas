@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Festival, Ropa casual
-- Pantalones || Longitud: Normal || altura de la cintura: Talla Mediana
 - Pantalones Cargo con las siguientes características:
 - Ajuste : Ancho
+- Pantalones || Longitud: Normal || altura de la cintura: Talla Mediana
 - Descubre todas las marcas de EMP!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

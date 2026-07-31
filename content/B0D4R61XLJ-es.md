@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Kit de manualidad para realizar diecinueve flores silvestres de papel sin necesidad de pegamento, ni tijeras.
-- Cada flor tiene hojas decorativas de altura y posicion regulable para poder personalizar el ramo. Recomendado a partir de 14 años.
-- Contenido: - Cartón troquelado, hojas de papel pretoqueladas impresas a dos caras, tubo de plástico cortado a diferentes medidas, parrilla de plástico de color verde, parrilla plástico color amarillo.
 - Un set perfecto para regalar, que una vez realizado, resulta muy decorativo. Con materiales sostenibles, papel y cartón.
+- Cada flor tiene hojas decorativas de altura y posicion regulable para poder personalizar el ramo. Recomendado a partir de 14 años.
 - 💐La caja incluye todos los elementos necesarios para crear tu ramo de flores silvestres de nuestra nueva serie Floral Art. Con 6 modelos de flores: peonia, lavanda, gerbera, lirio, margarita y campanilla.
+- Kit de manualidad para realizar diecinueve flores silvestres de papel sin necesidad de pegamento, ni tijeras.
+- Contenido: - Cartón troquelado, hojas de papel pretoqueladas impresas a dos caras, tubo de plástico cortado a diferentes medidas, parrilla de plástico de color verde, parrilla plástico color amarillo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D4R61XLJ{{</world>}}

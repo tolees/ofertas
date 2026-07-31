@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de cierre: cordones
 - Material exterior: sintético
-- Material interior: textil
-- Material único: goma
 - Material de la plantilla: goma
+- Tipo de cierre: cordones
+- Material único: goma
 - Tipo de tacón: plano
+- Material interior: textil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C33RVJ1G{{</world>}}

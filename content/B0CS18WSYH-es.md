@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre de botones
-- Cuello de camisa
 - Puños ajustables con cierre de botón
 - Panel en los hombros con detalle de trabilla debajo
+- Cierre de botones
+- Cuello de camisa
 - Bolsillos con solapa en el pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})

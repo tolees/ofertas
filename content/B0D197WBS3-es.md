@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cuello redondo
 - Hombros con la costura caída
 - Corte clásico
 - Dobladillo trasero ligeramente más corto
-- Contiene al menos un 70% de material reciclado y renovable
-- Cuello redondo
-- Puños y dobladillo de canalé
 - 70% algodón / 30% poliéster (reciclado)
+- Contiene al menos un 70% de material reciclado y renovable
+- Puños y dobladillo de canalé
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D197WBS3{{</world>}}

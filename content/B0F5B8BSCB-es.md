@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material Principal: 56% Algodón / 40% Poliéster(100% Reciclado) / 3% Elastano / 1% Poliamida(100% Reciclado)
-- Media caña
 - Tres pares por paquete
+- Media caña
+- Material Principal: 56% Algodón / 40% Poliéster(100% Reciclado) / 3% Elastano / 1% Poliamida(100% Reciclado)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F5B8BSCB{{</world>}}

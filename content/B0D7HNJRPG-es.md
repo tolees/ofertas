@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 2 juegos clásicos en un solo producto.
-- Con tapa para guardar tus fichas en un lugar seguro.
 - Óptima superficie de juego en formato de viaje.
 - Recomendado a partir de 3 años.
+- Con tapa para guardar tus fichas en un lugar seguro.
+- 2 juegos clásicos en un solo producto.
 - Al pulsar la caja del dado, este se mueve automáticamente.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

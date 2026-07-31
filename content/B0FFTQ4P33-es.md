@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Polo de manga corta con doble botón en piqué con tinte de prenda y acabado lavado pesado
-- Media luna de punto único con la marca interior impresa; d.T.M; botones
 - Pepe jeans Logotipo totalmente bordado en el pecho.
+- Media luna de punto único con la marca interior impresa; d.T.M; botones
+- Polo de manga corta con doble botón en piqué con tinte de prenda y acabado lavado pesado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FFTQ4P33{{</world>}}

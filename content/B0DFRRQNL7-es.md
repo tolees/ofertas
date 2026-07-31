@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Zapatilla deportiva clásica
 - Ofrece comodidad
+- Zapatilla deportiva clásica
 - Parte superior de ante
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuenta con la certificación FSC, que garantiza que ha sido fabricada con papel proveniente de bosques gestionados de forma responsable.
-- Libreta de tamaño A5 con encuadernación en espiral y nuestra seta Matilda en relieve en la portada. En su interior encontramos 160 páginas blancas. Incluye 1 hoja de pegatinas.
 - Características: Encuadernación en espiral. Certificación FSC. Contiene 160 páginas blancas. Incluye 1 hoja de pegatinas.
+- Libreta de tamaño A5 con encuadernación en espiral y nuestra seta Matilda en relieve en la portada. En su interior encontramos 160 páginas blancas. Incluye 1 hoja de pegatinas.
+- Cuenta con la certificación FSC, que garantiza que ha sido fabricada con papel proveniente de bosques gestionados de forma responsable.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DH4XZXLK{{</world>}}

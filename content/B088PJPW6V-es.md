@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ALLIANZ HELMET PROTECTION: Después de recibir tu casco, puedes beneficiarte de un seguro para tu casco de moto - opcional, 12 meses gratis y sin renovación automática.
 - Detalles: Casco unisex para adultos - las tallas en centímetros corresponden al perímetro craneal del usuario
-- Buena visibilidad en la moto: gracias a los reflectores brillantes, el casco también se puede ver desde lejos - disponible en muchos colores modernos
-- ACTIVAR LA PROTECCIÓN DEL CASCO: puede iniciar el seguro gratuito con Allianz utilizando el código de activación que figura en el folleto adjunto; si falta el folleto, puede encontrar información en el sitio web del fabricante.
-- Sistema de ventilación finamente ajustado: buena ventilación gracias a 7 entradas y 16 salidas de aire - Tecnología de refrigeración por aire forzado para un agradable clima en la cabeza
 - Seguro en cada carrera: Casco de ciclismo de carretera ligero pero sólido con combinación duradera de EPS y carcasa de PC: ajuste personalizado gracias al sistema de ajuste Zoom Ace con rueda de ajuste preciso.
+- ACTIVAR LA PROTECCIÓN DEL CASCO: puede iniciar el seguro gratuito con Allianz utilizando el código de activación que figura en el folleto adjunto; si falta el folleto, puede encontrar información en el sitio web del fabricante.
+- ALLIANZ HELMET PROTECTION: Después de recibir tu casco, puedes beneficiarte de un seguro para tu casco de moto - opcional, 12 meses gratis y sin renovación automática.
+- Sistema de ventilación finamente ajustado: buena ventilación gracias a 7 entradas y 16 salidas de aire - Tecnología de refrigeración por aire forzado para un agradable clima en la cabeza
+- Buena visibilidad en la moto: gracias a los reflectores brillantes, el casco también se puede ver desde lejos - disponible en muchos colores modernos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B088PJPW6V{{</world>}}

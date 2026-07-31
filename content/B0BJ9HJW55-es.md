@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tejido calado 100% poliéster reciclado
-- Diseño que favorece la libertad de movimiento
 - AEROREADY
+- Diseño que favorece la libertad de movimiento
 - Corte clásico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

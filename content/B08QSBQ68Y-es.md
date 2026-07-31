@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El área de actuación puede ser en espacios de hasta 50 metros cuadrados
-- Puede utilizarse mientras hay personas en el espacio en el que se está usando
-- Está pensado para purificar el aire de locales comerciales, industriales, zonas públicas y centros de trabajo
 - Es de fácil colocación y no requiere de mantenimiento
+- Está pensado para purificar el aire de locales comerciales, industriales, zonas públicas y centros de trabajo
 - Purificador de aire con lámparas germicidas UVC con una eficacia testada del 99% del aire filtrado. Consigue limpiar los espacios cerrados de virus y bacterias
+- Puede utilizarse mientras hay personas en el espacio en el que se está usando
+- El área de actuación puede ser en espacios de hasta 50 metros cuadrados
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08QSBQ68Y{{</world>}}

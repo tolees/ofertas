@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Empeine: Piel vacuna
+- Plantilla: Ortholite para mayor amortiguación
+- Suela/Características: EVA para mayor ligereza
 - Costura a lo largo de todo el borde para mayor durabilidad
 - Color: negro
-- Plantilla: Ortholite para mayor amortiguación
-- Empeine: Piel vacuna
-- Suela/Características: EVA para mayor ligereza
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08B3YGSCN{{</world>}}

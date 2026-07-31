@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Entresuela ligera compuesta de EVA moldeada por inyección que garantiza una amortiguación ligera
 - Suela exterior de goma
+- Entresuela ligera compuesta de EVA moldeada por inyección que garantiza una amortiguación ligera
 - Parte superior en material sintético
 
 [🛒 Visítala!!!]({{< param buyurl >}})

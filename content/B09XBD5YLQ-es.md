@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Alfombrilla de tela con base de goma y superficie suave
-- Ratón optico de diseño ergonómico con 6 niveles de DPI ajustables On-The-Fly e iluminación LED RGB
 - Teclado de membrana retroiluminado RGB con 19 teclas anti-ghosting y 10 teclas multimedia
+- Ratón optico de diseño ergonómico con 6 niveles de DPI ajustables On-The-Fly e iluminación LED RGB
 - Pack teclado, ratón y alfombrilla edición Hot Wheels
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

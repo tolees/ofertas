@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Prenda confeccionada de manera sostenible con poliéster de 600 D duradero y elaborado con plástico
-- Un compartimento principal con cremallera
 - LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
+- Un compartimento principal con cremallera
 - Bandolera ajustable realzada con hebilla de apertura rápida
 
 [🛒 Aquí!!!]({{< param buyurl >}})

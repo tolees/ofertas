@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tipo de talón: plano
 - Tipo de puntera: redondeada
 - Empeine de malla ligera
+- Tipo de talón: plano
 - Cierre: de cordones
 - Ancho: estándar
 

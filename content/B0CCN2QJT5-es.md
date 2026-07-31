@@ -29,12 +29,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Entrada TRS de 3,5 mm para conectar micrófonos lavalier externos o VideoMics
-- Transmisión digital Serie IV de 2.4 GHz para grabaciones nítidas con un rango de más de 100 metros.
-- La tecnología Intelligent GainAssist ajusta automáticamente los niveles de volumen sobre la marcha
 - Requiere un receptor RØDE Series IV para funcionar (incluyendo Wireless ME RX, Wireless GO II RX, RØDECaster Pro II, RØDECaster Duo o Streamer X)
-- Micrófono omnidireccional de alta calidad incorporado
 - Batería de iones de litio recargable incorporada: hasta 7 horas de duración de la batería
+- La tecnología Intelligent GainAssist ajusta automáticamente los niveles de volumen sobre la marcha
+- Micrófono omnidireccional de alta calidad incorporado
 - Transmisor inalámbrico fácil de usar para el sistema inalámbrico RØDE Series IV
+- Transmisión digital Serie IV de 2.4 GHz para grabaciones nítidas con un rango de más de 100 metros.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CCN2QJT5{{</world>}}

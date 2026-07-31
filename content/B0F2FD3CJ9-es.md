@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Plantilla textil
-- Suela de goma
 - 3 bandas con volantes
 - Horma clásica
-- Plantilla CLOUDFOAM PLUS
+- Suela de goma
 - Cordones
+- Plantilla textil
+- Plantilla CLOUDFOAM PLUS
 - Empeine de piel y material sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})

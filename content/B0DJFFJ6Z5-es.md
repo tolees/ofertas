@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo de las 3 bandas
+- AEROREADY
 - Detalles reflectantes
+- Logotipo de las 3 bandas
+- Fiel a la talla
 - 86% poliéster (reciclado) / 14% elastán
 - Detalles reflectantes
-- Fiel a la talla
-- AEROREADY
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJFFJ6Z5{{</world>}}

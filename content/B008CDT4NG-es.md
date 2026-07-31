@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillos para manos con cremallera
 - Con cremallera
+- Bolsillos para manos con cremallera
 - Dobladillo ajustable con ceñidor
 
 [🛒 Comprar!!!]({{< param buyurl >}})

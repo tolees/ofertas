@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'XTI Sneakers 143645 Mujer Blanco'
-date: 2026-07-26 18:38:19
+date: 2026-07-30 08:45:37
 image: 'https://m.media-amazon.com/images/I/31gwcnxiZML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sneakers Xti 143645 Mujer Blanco
-- MUJER
-- SNEAKERS
 - BLANCO
+- Sneakers Xti 143645 Mujer Blanco
+- SNEAKERS
+- MUJER
 - V-25
 
 [🛒 Visítala!!!]({{< param buyurl >}})

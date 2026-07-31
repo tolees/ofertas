@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Enfoque manual
+- Incluye parasol extraíble
 - Recubrimiento de alta calidad anti-reflexión NCS de nanocristales
 - Ultra gran angular para cámaras con sensor Full Frame, Ojo de pez
-- Montura para Micro Cuatro Tercios
+- Enfoque manual
 - Campo de visión en diagonal de 180 grados en sensores de formato completo (formato 24 x 36mm)
-- Incluye parasol extraíble
+- Montura para Micro Cuatro Tercios
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00TS9BD5U{{</world>}}

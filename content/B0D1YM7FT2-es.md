@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Detalles distintivos de la marca
 - Diseño ligero y transpirable
+- Detalles distintivos de la marca
 - Ofrecen una comodidad óptima
 
 [🛒 Visítala!!!]({{< param buyurl >}})

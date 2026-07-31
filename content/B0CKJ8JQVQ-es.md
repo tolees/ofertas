@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Bastidor de soporte que estabiliza el pie
 - Suela ligera con tacos
 - Diseño de corte bajo
-- Bastidor de soporte que estabiliza el pie
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CKJ8JQVQ{{</world>}}

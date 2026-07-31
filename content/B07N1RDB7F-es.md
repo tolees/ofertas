@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tipo de vidrio: cristal mineral con esfera plateada y caja de acero inoxidable plateada
-- Material de la correa: tono plateado de acero inoxidable, circunferencia interior de la correa: 175 +/- 5 mm, hebilla desplegable tipo cierre
 - Resistente al agua: 5 ATM
+- Material de la correa: tono plateado de acero inoxidable, circunferencia interior de la correa: 175 +/- 5 mm, hebilla desplegable tipo cierre
+- Tipo de vidrio: cristal mineral con esfera plateada y caja de acero inoxidable plateada
 - Espesor de la caja: 7 mm, Tamaño de la caja: 38 mm, Ancho de la correa: 18 mm
 
 [🛒 Visítala!!!]({{< param buyurl >}})

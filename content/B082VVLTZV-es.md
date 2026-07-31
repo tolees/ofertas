@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Una vez abierto, guárdalo en un recipiente hermético en un lugar fresco y seco
+- Aromático, rico en notas dulces y afrutadas, redondo y con baja acidez
 - Elaborado con la mejor selección de cafés
 - Adecuada para tomar sólo o con leche
-- Aromático, rico en notas dulces y afrutadas, redondo y con baja acidez
 - Café molido para cafetera tradicional o de filtro
 
 [🛒 Visítala!!!]({{< param buyurl >}})

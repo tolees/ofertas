@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de manga: Manga larga
 - Número de modelo: 12195449
 - Instrucciones de cuidado: Lavar a máquina
-- Estilo: Traje
 - Composición del material: 74 % poliéster, 23 % viscosa, 3 % elastano
+- Estilo: Traje
+- Tipo de manga: Manga larga
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09FLX4S6D{{</world>}}

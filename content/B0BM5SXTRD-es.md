@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre: cremallera
 - Parte superior: cuero
+- Cierre: cremallera
 - Suela: poliuretano termoplástico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

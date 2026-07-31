@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Combínala con lo que quieras para un estilo atemporal
-- Pestañas ajustables en la parte posterior de la cinturilla
 - Este producto es original Levis
+- Pestañas ajustables en la parte posterior de la cinturilla
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08BR1VLN8{{</world>}}

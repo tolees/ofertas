@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Suelas flexibles y mayor comodidad
 - Botas para mujer
-- REMOVABLE MICROFIBER INSOLE
 - Forro de Microfibra
+- REMOVABLE MICROFIBER INSOLE
 - CHROME FREE INTERIOR
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Lavable a máquina
 - Manga larga
 - Moda asequible
-- Lavable a máquina
 - Elástico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

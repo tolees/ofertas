@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Alto contenido de lana
 - Logo
+- Alto contenido de lana
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CRL5HXB4{{</world>}}

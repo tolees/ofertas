@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Paquete de dos tangas con logotipo icónico
 - Cintura elástica
 - Paquete de dos tangas de algodón elástico con cintura con logotipo
 - 232 juego de piezas
+- Paquete de dos tangas con logotipo icónico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B083YJN64S{{</world>}}

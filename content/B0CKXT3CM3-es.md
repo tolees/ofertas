@@ -29,14 +29,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Horma clásica
-- Suela de goma
 - Plantilla Cloudfoam Plus
-- Drop: 5 mm (talón: 29 mm / antepié: 24 mm)
-- Empeine de malla
-- Forro textil
-- Contiene al menos un 20% de material reciclado
 - Peso: 306 g (talla 42 2/3)
+- Suela de goma
+- Contiene al menos un 20% de material reciclado
+- Empeine de malla
+- Drop: 5 mm (talón: 29 mm / antepié: 24 mm)
 - Mediasuela Bounce 2.0
+- Forro textil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CKXT3CM3{{</world>}}

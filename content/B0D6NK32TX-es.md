@@ -31,8 +31,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - Composición: 92 por ciento de algodón 6 por ciento elastomultiéster 2 por ciento de elastano
 - Jeans Pantalones Largos
 - Tipo de estiramiento: baja elasticidad
-- Instrucciones de cuidado: apto para lavadora
 - Ajuste: Slim Tapered
+- Instrucciones de cuidado: apto para lavadora
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D6NK32TX{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño híbrido de camino/sendero
 - Estética retro
 - Sistema de amortiguación de última generación
+- Diseño híbrido de camino/sendero
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D2Y92JBC{{</world>}}

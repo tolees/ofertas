@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manga : Manga larga
 - Corte : Corte regular
+- Manga : Manga larga
 - Cuello : Cuello redondo
 - Artículo : Jersey de punto
 

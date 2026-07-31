@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- [ Conexión Dual ] Dispone de conectores AUX y RCA de 3,5 mm y admite salida de audio simultánea. Puede conectar simultáneamente dos sistemas estéreo, altavoces, etc. con entradas AUX de 3,5 mm o RCA. Disfrute de la belleza de la música.
-- [ Bluetooth 5.1 ] La tecnología Bluetooth 5.1 soporta una conexión estable y sin fisuras, permitiendo que la música cubra su entorno en todas las direcciones, con un rango de transmisión de hasta 10m, permitiéndole disfrutar de música de alta calidad.
 - [ Receptor Bluetooth ] El Receptor de Audio Bluetooth puede añadir la función Bluetooth a su antiguo equipo estéreo, amplificador sin Bluetooth y disfrutar de música inalámbrica sin la molestia de otros hilos o cables. Nota: es sólo un receptor Bluetooth, no un transmisor.
+- [ Bluetooth 5.1 ] La tecnología Bluetooth 5.1 soporta una conexión estable y sin fisuras, permitiendo que la música cubra su entorno en todas las direcciones, con un rango de transmisión de hasta 10m, permitiéndole disfrutar de música de alta calidad.
+- [ Conexión Dual ] Dispone de conectores AUX y RCA de 3,5 mm y admite salida de audio simultánea. Puede conectar simultáneamente dos sistemas estéreo, altavoces, etc. con entradas AUX de 3,5 mm o RCA. Disfrute de la belleza de la música.
 - [ Tecnología aptX ] Este Receptor de Audio Bluetooth es compatible con las tecnologías aptX HD, aptX, AAC y SBC. El último formato de descodificación garantiza la mejor calidad de audio, lo que le permite disfrutar de una calidad de sonido sin pérdidas y admite la transmisión de datos de audio LPCM de 48 kHz / 24 bits.
 - [ Diseño Inteligente ] El indicador LED permite ver fácilmente el estado de funcionamiento de este receptor Bluetooth. El módulo de aislamiento de alimentación garantiza una mayor seguridad, prolonga la vida útil del dispositivo y mejora la capacidad antiinterferencias.
 

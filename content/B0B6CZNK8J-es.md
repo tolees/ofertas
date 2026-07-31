@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- HH Max-Vent
 - HH Quick Dry
-- HH Pro-Guard
 - HH Power-Stride
+- HH Pro-Guard
+- HH Max-Vent
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B6CZNK8J{{</world>}}

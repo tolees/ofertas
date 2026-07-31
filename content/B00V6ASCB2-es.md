@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Uso diario
 - En su composición incluye aceite de olea europea
-- Jabón elaborado de forma natural
+- Uso diario
 - Con propiedades calmantes y nutritivas
+- Jabón elaborado de forma natural
 - Libre de grasa animal o industrial
 
 [🛒 Visítala!!!]({{< param buyurl >}})

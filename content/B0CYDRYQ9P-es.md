@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con ácido hialurónico, péptidos y Vitamina E, combina con el colorete y el bronceador para un efecto hidratado.
 - Glow With Confidence Sun Blush Colorete y Bronceador en Crema es un producto 2 en 1 que ofrece un acabado luminoso y natural, ideal para un look glow.
+- Con ácido hialurónico, péptidos y Vitamina E, combina con el colorete y el bronceador para un efecto hidratado.
 - Modo de empleo: Aplicar sobre piel limpia o base para resaltar CC+ Nude Glow SPF 40 y lograr efecto "sun kissed".
 
 [🛒 Comprar!!!]({{< param buyurl >}})

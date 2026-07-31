@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Luz LED: La luz LED hace que el martillo perforador sea ideal para trabajar en zonas y rincones oscuros. Con la luz LED, no se requiere iluminación adicional.
-- Práctico: Este martillo es compatible con todas las brocas sds plus y puntas del mercado. La empuñadura con diseño ergonómico es ideal para trabajos de larga duración, máxima comodidad durante su uso.
-- WX390.1:PowerShare: La batería de 20V de la plataforma PowerShare, se puede utilizar con cualquier otro dispositivo de Worx de 20V. Quiere decir, que puedes comprar herramientas sin batería ni cargador y utilizar las que ya tengas. De esta forma ahorrarás dinero.
 - Martillo 3 en 1: El martillo H3 de 20V tiene todo lo que necesitas. 3 funciones - Martillo, taladro y atornillador, cambia de aplicación rápido y sin esfuerzo
+- Luz LED: La luz LED hace que el martillo perforador sea ideal para trabajar en zonas y rincones oscuros. Con la luz LED, no se requiere iluminación adicional.
+- WX390.1:PowerShare: La batería de 20V de la plataforma PowerShare, se puede utilizar con cualquier otro dispositivo de Worx de 20V. Quiere decir, que puedes comprar herramientas sin batería ni cargador y utilizar las que ya tengas. De esta forma ahorrarás dinero.
+- Práctico: Este martillo es compatible con todas las brocas sds plus y puntas del mercado. La empuñadura con diseño ergonómico es ideal para trabajos de larga duración, máxima comodidad durante su uso.
 - Gatillo de encendido y apagado con velocidad variable. La velocidad variablse aplica en el gatillo. Perfecto para ahorrar batería.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

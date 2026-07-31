@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Confeccionado en piel granulada
 - Logo de Calvin Klein grabado en la hebilla
 - Hebilla de metal cepillado rectangular
-- Confeccionado en piel granulada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4DCFRYC{{</world>}}

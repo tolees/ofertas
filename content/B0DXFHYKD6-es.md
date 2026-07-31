@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 5-Year Warranty
-- 550W 80 PLUS BRONZE Certified Power Supply
 - Ease-of-use Flat Cable
 - Compact Chassis design 140mm x 150mm x 86mm
+- 5-Year Warranty
+- 550W 80 PLUS BRONZE Certified Power Supply
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DXFHYKD6{{</world>}}

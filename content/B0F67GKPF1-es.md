@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color: negro.
-- Material: madera.
-- Tamaño del producto: 80 x 32 x 24 cm aprox.
-- La siguiente información se aplica a cada unidad del paquete
-- Instrucciones de limpieza: limpiar con un paño seco.
 - Marca: Home Discount.
+- Color: negro.
+- Tamaño del producto: 80 x 32 x 24 cm aprox.
+- Instrucciones de limpieza: limpiar con un paño seco.
+- Material: madera.
+- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F67GKPF1{{</world>}}

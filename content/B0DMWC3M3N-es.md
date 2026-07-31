@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- En el modo infinito, los coches se saltan los desviadores y dan vueltas a toda máquina.
 - El conjunto Circuito de carreras a gran velocidad de Formula 1 y Hot Wheels Racing combina lo mejor del automovilismo con el legendario fabricante de coches de juguete para pilotos a partir de 5 años.
 - En el modo carrera, utiliza el propulsor para lanzar los coches a la zona de adelantamiento y decidir quién es el vencedor de la carrera. Quién llegará primero a la meta?
-- Carga los vehículos en la pista y elige uno de los dos modos: infinito o carrera.
-- Incluye tres vehículos a escala 1:64 que cuentan con piezas metálicas y decoraciones de tres importantes equipos de carreras de Fórmula 1: McLaren Formula 1 Team, BWT Alpine F1 Team y Visa Cash App RB Formula One Team.
 - Adéntrate en el emocionante mundo de Hot Wheels y las carreras de Fórmula 1 con el conjunto Circuito de carreras a gran velocidad de Fórmula 1 y Hot Wheels Racing.
-- En el modo infinito, los coches se saltan los desviadores y dan vueltas a toda máquina.
+- Incluye tres vehículos a escala 1:64 que cuentan con piezas metálicas y decoraciones de tres importantes equipos de carreras de Fórmula 1: McLaren Formula 1 Team, BWT Alpine F1 Team y Visa Cash App RB Formula One Team.
+- Carga los vehículos en la pista y elige uno de los dos modos: infinito o carrera.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DMWC3M3N{{</world>}}

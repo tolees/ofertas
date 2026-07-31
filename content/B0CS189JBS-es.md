@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre de cremallera
-- Trabilla para colgarla en el interior
-- Ribete elástico en las mangas y el bajo
 - Bolsillos con ribete en la cintura, botón a presión oculto
 - Capucha desmontable con la parte delantera alzada y cordones ajustables
+- Cierre de cremallera
+- Ribete elástico en las mangas y el bajo
+- Trabilla para colgarla en el interior
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CS189JBS{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vaqueros || Merch para fans y divertido || Patrón: Liso
-- Básicos, Ropa de Calle
-- Descubre todas las marcas de EMP!
-- Medidas: tamaño estándar
 - Tejanos con las siguientes características:
+- Medidas: tamaño estándar
+- Básicos, Ropa de Calle
+- Vaqueros || Merch para fans y divertido || Patrón: Liso
+- Descubre todas las marcas de EMP!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08BKV86DY{{</world>}}

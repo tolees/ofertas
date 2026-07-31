@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Suela: goma
-- Cierre: con cordones
 - Zapatillas transpirables para mujer
+- Cierre: con cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D6NF4P3Q{{</world>}}

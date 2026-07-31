@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Puma Logotipo n.º 2 en el lateral
 - Suela de goma para mayor agarre
+- Puma Logotipo n.º 2 en el lateral
 - Puma Logotipo de gato en la parte trasera del talón en la suela
 
 [🛒 Aquí!!!]({{< param buyurl >}})

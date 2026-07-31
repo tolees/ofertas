@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido transpirable
-- Ofrece comodidad y libertad de movimiento
 - Tela suave
+- Ofrece comodidad y libertad de movimiento
+- Tejido transpirable
 - Tiene detalles distintivos de la marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})

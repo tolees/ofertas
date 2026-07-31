@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela de goma cosida
-- Empeine de ante
-- Contiene al menos un 20% de material reciclado
-- Horma clásica
-- Forro textil
 - Cierre de cordones
+- Horma clásica
+- Empeine de ante
+- Suela de goma cosida
+- Forro textil
+- Contiene al menos un 20% de material reciclado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DK53HVQ7{{</world>}}

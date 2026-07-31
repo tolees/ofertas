@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ideal para pasear al sol, un día en la piscina al aire libre o para las vacaciones.
-- Sombrero base super cool en diseño Minion
 - Disponible en tallas 52 o 54 y en azul o rojo.
-- Material principal: 100% algodón, material de presión: 100% poliéster.
+- Ideal para pasear al sol, un día en la piscina al aire libre o para las vacaciones.
 - Instrucciones de cuidado: Lavar a máquina a 30ºC. No apto para el secador!
+- Sombrero base super cool en diseño Minion
+- Material principal: 100% algodón, material de presión: 100% poliéster.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07RJSG9WN{{</world>}}

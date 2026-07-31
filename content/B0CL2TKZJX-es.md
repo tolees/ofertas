@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- 73% poliéster (reciclado) / 27% elastano
+- Cintura elástica
+- Corte ajustado de talle alto
 - Diseño estilizado y ajustado
 - AEROREADY
-- 73% poliéster (reciclado) / 27% elastano
-- Corte ajustado de talle alto
-- Cintura elástica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CL2TKZJX{{</world>}}

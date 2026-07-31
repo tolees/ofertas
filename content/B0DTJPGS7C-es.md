@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- London Mood M - Tenis para correr con material y combinación de colores en la parte superior con piezas de piel de vaca, pieza de talón de color de contraste con logotipo de 1973
-- 45 % poliamida, 45 % gamuza de vaca, 5 % poliéster, 5 % poliuretano
 - Cómoda entresuela de EVA bicolor, suela de goma personalizada, estabilizador de color de marca, rayas laterales icónicas de marca, plantilla termoformada y extraíble con espuma bidensity y logotipo clásico en el lateral
+- 45 % poliamida, 45 % gamuza de vaca, 5 % poliéster, 5 % poliuretano
+- London Mood M - Tenis para correr con material y combinación de colores en la parte superior con piezas de piel de vaca, pieza de talón de color de contraste con logotipo de 1973
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DTJPGS7C{{</world>}}

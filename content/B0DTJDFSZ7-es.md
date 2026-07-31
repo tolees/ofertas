@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Contenido: 1 Star Wars – The Mandalorian Perplexus, 1 soporte
 - El pulsador interactivo conecta las piezas y gira los pasajes del laberinto incluyendo la mini nave espacial integrada. También incluye: 1 soporte para la bola de perplexo
+- 80 obstáculos del Ejército Imperial que hay que superar sin que la pequeña bola de metal se caiga
 - Perplexus Star Wars - The Mandalorian: Sigue el camino del Mandalore, navega por el laberinto de bolas tridimensional y encuentra a Grogu nuevamente
 - Aventuras galácticas y momentos épicos de Star Wars: el juego de bolas también promueve la motricidad fina, el equilibrio y la concentración. Recomendado a partir de 8 años
-- 80 obstáculos del Ejército Imperial que hay que superar sin que la pequeña bola de metal se caiga
+- Contenido: 1 Star Wars – The Mandalorian Perplexus, 1 soporte
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DTJDFSZ7{{</world>}}

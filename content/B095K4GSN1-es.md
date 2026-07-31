@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aspecto elegante
 - La pieza se puede vestir fácilmente de manera formal o informal
+- Aspecto elegante
 - La cintura es media alta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

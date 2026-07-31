@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cómodo de llevar
-- Hombros superpuestos
 - Jersey para mujer en estándar de la marca danesa. ONLY
 - Composición: 50% viscosa, 27% nailon, 23% poliéster
+- Cómodo de llevar
+- Hombros superpuestos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BMFYCSPB{{</world>}}

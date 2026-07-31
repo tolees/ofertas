@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido del envío: champú suave y neutro NIVEA Baby sin sulfatos, silicona parabenos para bebés y niños, 1 unidad (1 x 200 ml, número de artículo: 80503)
-- Ingredientes activos: enriquecido con leche de almendras 100 % natural y vitaminas B5, C y E, el detergente para bebés fortalece el cabello y el cuero cabelludo y apoya el desarrollo natural
 - Cuidado de la piel y el planeta: la nueva fórmula hipoalergénica, vegana y biodegradable del champú sin lágrimas no contiene parabenos, sulfatos, silicona, talco, colorantes y microplásticos
 - Sin enredos: la ducha NIVEA Baby Baby cuida el cabello y el cuero cabelludo de tu recién nacido y limpia suavemente, desenreda los nudos y deja el cabello suave
+- Contenido del envío: champú suave y neutro NIVEA Baby sin sulfatos, silicona parabenos para bebés y niños, 1 unidad (1 x 200 ml, número de artículo: 80503)
+- Ingredientes activos: enriquecido con leche de almendras 100 % natural y vitaminas B5, C y E, el detergente para bebés fortalece el cabello y el cuero cabelludo y apoya el desarrollo natural
 - Sin lágrimas: la fórmula de este champú natural Nivea Baby protege los ojos de los bebés de las lágrimas para un baño seguro para su bebé
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

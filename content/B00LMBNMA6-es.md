@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ✔️ Con el caño giratorio de 90°, el grifo de cocina puede girarse cómodamente hacia un lado y facilita la limpieza del fregadero. Este grifo es ideal para su uso en fregaderos dobles.
-- ✔️ La batidora de cocina dispone de un cartucho silencioso de calidad con juntas cerámicas duraderas. Si es necesario, el cartucho puede sustituirse fácilmente.
-- ✔️La ducha para vajilla extraíble y de doble ajuste permite utilizar el grifo de forma flexible en la cocina. Por ejemplo, el lavado de frutas y verduras o la limpieza previa antes de que los platos se coloquen en el lavavajillas.
 - ✔️El volumen de suministro incluye un juego de montaje completo y un manual de montaje multilingüe e ilustrado. La manguera de conexión resistente a la corrosión (400 mm) para el sistema de agua doméstica dispone de una rosca metálica flexible y es fácil de montar.
+- ✔️ La batidora de cocina dispone de un cartucho silencioso de calidad con juntas cerámicas duraderas. Si es necesario, el cartucho puede sustituirse fácilmente.
+- ✔️ Con el caño giratorio de 90°, el grifo de cocina puede girarse cómodamente hacia un lado y facilita la limpieza del fregadero. Este grifo es ideal para su uso en fregaderos dobles.
+- ✔️La ducha para vajilla extraíble y de doble ajuste permite utilizar el grifo de forma flexible en la cocina. Por ejemplo, el lavado de frutas y verduras o la limpieza previa antes de que los platos se coloquen en el lavavajillas.
 - ✔️ Gracias al flexo de ducha extraíble (120 cm), tiene un amplio radio de acción y facilita el trabajo en la cocina.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Buckle closure
-- Minimalistic design
 - A comfortable fit
+- Minimalistic design
 - An original look
 - Provides comfort
 

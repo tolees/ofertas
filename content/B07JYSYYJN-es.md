@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ultimate Chino Straight
-- Dockers Herren ULTIMATE CHINO STRAIGHT PANTS
-- Features a Hidden Security Pocket with a concealed zipper and coin compartment
 - Flexible waistband for added stretch and extra comfort
-- Ultra-stretch cotton fabric for maximum flexibility and comfort
-- Straight fit
+- Features a Hidden Security Pocket with a concealed zipper and coin compartment
 - Casual chino pants made with Smart 36 Flex 4-way stretch fabric for maximum flexibility and comfort
+- Straight fit
+- Dockers Herren ULTIMATE CHINO STRAIGHT PANTS
+- Ultra-stretch cotton fabric for maximum flexibility and comfort
+- Ultimate Chino Straight
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07JYSYYJN{{</world>}}

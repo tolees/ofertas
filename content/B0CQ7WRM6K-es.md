@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gama Reparación con keratina hidrolizada y néctar floral, protege la fibra capilar y embellece la superficie del cabello
-- Aplicación: usar sobre el cabello húmedo desde raíces a puntas antes o después del champú y dejar actuar durante 2-3 minutos; enjuagar bien; usar 2-3 veces a la semana
-- Hasta un 90% menos de rotura del cabello; cabello Suave y óptimo; 96% de ingredientes de origen natural incluyendo agua
 - La mascarilla 2 en 1 Total Repair de Gliss es adecuada para cabello seco
+- Aplicación: usar sobre el cabello húmedo desde raíces a puntas antes o después del champú y dejar actuar durante 2-3 minutos; enjuagar bien; usar 2-3 veces a la semana
 - Proporciona hasta un 90% menos de rotura del cabello, un cabello intensamente nutrido, suave y lleno de brillo, una textura cremosa y cuidado intenso
+- Gama Reparación con keratina hidrolizada y néctar floral, protege la fibra capilar y embellece la superficie del cabello
+- Hasta un 90% menos de rotura del cabello; cabello Suave y óptimo; 96% de ingredientes de origen natural incluyendo agua
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CQ7WRM6K{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Herramienta de la plataforma Powershare
-- Alcance útil de 80m en modo linterna
 - Diseño telescópico para almacenamiento compacto y posición de trabajo múltiple (antorcha/linterna, foco 360º, luz de mesa o luz SOS)
 - Linterna con 4 funciones en 1: antorcha, foco 360º, luz SOS y lámpara. Muy sencilla de manejar, perfecta para llevar a cualquier sitio.
+- Herramienta de la plataforma Powershare
+- Alcance útil de 80m en modo linterna
 - Cabeza giratoria de ± 72 ° para una iluminación perfecta para todas las tareas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
