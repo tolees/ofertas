@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- producto 1: El ABC del cabello sano: repara, hidrata y progete. Aporta mayor protección de puentes y un cabello más resistente, x11 veces más suave, brillante y protegido ante el encrespamiento
-- producto 1: Usar como sistema completo con el acondicionador Acidic Bonding Concentrate. Aplicar sobre cabello húmedo, hacer espuma y aclarar. Seguir con el acondicionador de Acidic Bonding Concentrate. En caso de contacto con los ojos, aclarar inmediatamente.
 - producto 2: Tipo de cabello: Normal
-- producto 1: Champú sin sulfatos, una solución profesional para reparar, proteger, transformar y nutrir el cabello. Recomendado para todo tipo de cabellos
 - producto 2: Diseñado para ofrecer una excelente experiencia al cliente
-- producto 2: Diseño funcional
 - producto 2: Creado siguiendo los más altos estándares de la marca Redken
+- producto 1: El ABC del cabello sano: repara, hidrata y progete. Aporta mayor protección de puentes y un cabello más resistente, x11 veces más suave, brillante y protegido ante el encrespamiento
+- producto 2: Diseño funcional
+- producto 1: Champú sin sulfatos, una solución profesional para reparar, proteger, transformar y nutrir el cabello. Recomendado para todo tipo de cabellos
+- producto 1: Usar como sistema completo con el acondicionador Acidic Bonding Concentrate. Aplicar sobre cabello húmedo, hacer espuma y aclarar. Seguir con el acondicionador de Acidic Bonding Concentrate. En caso de contacto con los ojos, aclarar inmediatamente.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BJDCXHPM{{</world>}}

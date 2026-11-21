@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela: 70% EVA, 30% goma
 - Material superior: cuero de vaca
+- Suela: 70% EVA, 30% goma
 - Color: multicolor
 
 [🛒 Aquí!!!]({{< param buyurl >}})

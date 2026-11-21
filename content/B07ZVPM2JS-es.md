@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bolsillos de parche en el pecho con solapa y cierre de botón automático
 - Manga larga con cierre de botón en los puños
+- Bolsillos de parche en el pecho con solapa y cierre de botón automático
 - Bajo ajustable en el lateral
 - Este producto es original Levis
 

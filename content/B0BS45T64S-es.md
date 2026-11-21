@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Varios colores disponibles
 - 93% Poliéster, 7% Elastano
+- Varios colores disponibles
 - De camales cortos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

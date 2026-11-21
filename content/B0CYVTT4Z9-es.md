@@ -29,15 +29,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Suela Traxion con tacos
-- Mediasuela de EVA
-- Membrana GORE-TEX
-- Peso: 312 g (talla 38 2/3)
-- Forro textil
-- Contiene al menos un 20% de material reciclado
-- Empeine textil con refuerzos sintéticos
-- Cierre de cordones
-- Drop: 6 mm (talón: 21 mm / antepié: 15 mm)
 - Horma clásica
+- Forro textil
+- Mediasuela de EVA
+- Cierre de cordones
+- Empeine textil con refuerzos sintéticos
+- Drop: 6 mm (talón: 21 mm / antepié: 15 mm)
+- Peso: 312 g (talla 38 2/3)
+- Membrana GORE-TEX
+- Contiene al menos un 20% de material reciclado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CYVTT4Z9{{</world>}}

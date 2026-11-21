@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Empeine de malla sintética y textil
-- Horma clásica
-- Cierre de cordones
 - Amortiguación LIGHTMOTION
+- Horma clásica
+- Empeine de malla sintética y textil
+- Cierre de cordones
 - Forro textil y sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Modo cooperativo caótico
 - Escapadas de infarto
 - Gallinas, reuníos
 - Sigilo con un toque divertivo
-- Modo cooperativo caótico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FFHBDDVC{{</world>}}

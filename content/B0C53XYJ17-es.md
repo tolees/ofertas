@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Parte de ante
 - Mediasuela con amortiguación
 - Forro textil
 - Horma clásica
-- Parte de ante
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C53XYJ17{{</world>}}

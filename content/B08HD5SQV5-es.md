@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VOYOR Irrigador Bucal Portátil Mini Inalámbrico recargable y removedor de placa impermeable IPX7 para dientes con 2 tanques desmontables para uso en viajes y en el hogar WF500'
-date: 2026-11-20 15:56:04
+date: 2026-11-20 16:00:00
 image: 'https://m.media-amazon.com/images/I/41K-jQubE-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

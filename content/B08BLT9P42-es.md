@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseñados con un corte vintage y cómodo
 - Ajuste regular
 - Lo Cómodos posible sin perder ni una pizca de estilo
+- Diseñados con un corte vintage y cómodo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08BLT9P42{{</world>}}

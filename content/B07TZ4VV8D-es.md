@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tiene detalles distintivos de la marca
-- Cuenta con un diseño ligero
 - Ofrece comodidad y libertad de movimiento
 - Capucha forrada con cordón de ajuste y tope de cordón
+- Tiene detalles distintivos de la marca
+- Cuenta con un diseño ligero
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07TZ4VV8D{{</world>}}

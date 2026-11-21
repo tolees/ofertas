@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - estilo retro
-- Amortiguación
 - zapatos de baloncesto
+- Amortiguación
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08Q8SR9PC{{</world>}}

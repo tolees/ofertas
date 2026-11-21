@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre de cordones
 - Horma clásica
+- Cierre de cordones
 - Forro textil
 - Parte superior de piel
 

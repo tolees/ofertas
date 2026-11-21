@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - A través de detalles de diseño únicos, este zapato no sacrifica la comodidad o el estilo
-- EHUI / PEQUEÑAS PARTICLE GLITTER 0.8mm YH8001 X5 2TONE / 170.1 g CANVAS / HUACHANG LUCKY R-51
 - Una raya lateral cosida decorativa resalta nuestro identificador único de marca
+- EHUI / PEQUEÑAS PARTICLE GLITTER 0.8mm YH8001 X5 2TONE / 170.1 g CANVAS / HUACHANG LUCKY R-51
 - Puntera y cuello acolchados
 
 [🛒 Aquí!!!]({{< param buyurl >}})

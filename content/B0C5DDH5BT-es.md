@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Artículo de marca Only
 - Tiene un estilo óptimo y ofrece un ajuste cómodo
+- Artículo de marca Only
 - Tiene detalles distintivos de la marca
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sandalia deportiva con cuña
 - La suela combina una parte forrada en rafia y EVA
+- Sandalia deportiva con cuña
 - Garantía certificada Global Recycled Standard (GRS)
 - Plantilla acolchada para asegurar el mayor confort
 

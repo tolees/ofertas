@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'POP Funko Star Wars: Darth Vader | Merchandising Oficial de Ciencia Ficción - Figura de Vinilo Coleccionable para Decoración - Regalo Friki de Cumpleaños'
-date: 2026-11-12 12:01:08
+date: 2026-11-21 00:57:58
 image: 'https://m.media-amazon.com/images/I/4169Dmsz+nL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BBYX1H6C/?tag=tolees-21'
 descuento: '37.56'
-average: '12.372173913043435'
+average: '11.948275862068932'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

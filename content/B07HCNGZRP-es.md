@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Los gatos quieren encontrar un sitio calentito y agradable para descansar y poder dejar las calles.
-- Pero es difícil encontrar el camino a través de los interminables canalones, tan parecidos entre sí.
-- De 1 a 4 jugadores a partir de 6 años
 - Desenreda este laberinto urbano colocando o girando canalones para formar un recorrido libre de obstáculos
+- De 1 a 4 jugadores a partir de 6 años
 - así los gatos podrán encontrar un techo acogedor.
+- Pero es difícil encontrar el camino a través de los interminables canalones, tan parecidos entre sí.
+- Los gatos quieren encontrar un sitio calentito y agradable para descansar y poder dejar las calles.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07HCNGZRP{{</world>}}

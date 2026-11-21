@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Para un rendimiento óptimo, se recomienda genuino Zippo premium encendedor líquido, pedernal y mechas
-- Tiene un diseño a prueba de viento
 - El encendedor viene sin llenar
+- Tiene un diseño a prueba de viento
 - Con una construcción totalmente metálica
 - Recargable para una vida de uso
 

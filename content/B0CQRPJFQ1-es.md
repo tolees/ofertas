@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Presentan detalles distintivos de la marca
 - Con una suela alta
+- Presentan detalles distintivos de la marca
 - Ofrecen una comodidad óptima
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

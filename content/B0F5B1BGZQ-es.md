@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Pastillas para el lavavajillas para uso profesional
+- Apto para ciclos cortos de 1-5 minutos
 - Limpieza en profundidad
 - Eficaz contra la grasa
 - Eficaz en manchas difíciles de comida como carne picada, yema de huevo, zumos de fruta, vino
-- Apto para ciclos cortos de 1-5 minutos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F5B1BGZQ{{</world>}}

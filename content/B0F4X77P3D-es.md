@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Talle medio
-- Bolsillos frontales
-- Corte clásico
-- Puños de canalé
 - Contiene al menos un 70% de material reciclado y renovable
+- Bolsillos frontales
+- Puños de canalé
+- Corte clásico
+- Talle medio
 - Cintura elástica con cordón
 - 55% algodón / 36% poliéster (reciclado) / 9% viscosa
 

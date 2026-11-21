@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Descubre todas las marcas de EMP!
 - Básicos, Ropa casual, Ropa de Calle
 - Ajuste : Pitillo
 - Leggins con las siguientes características:
-- Descubre todas las marcas de EMP!
 - Leggings || Longitud: Normal || altura de la cintura: Talla Mediana
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Horma clásica
 - Amortiguación LIGHTMOTION
 - Suela Adiwear
+- Forro textil
 - Empeine de malla
 - Refuerzo de goma en el talón
-- Forro textil
+- Horma clásica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DHZGD8JB{{</world>}}

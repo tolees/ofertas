@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Edifier G1000 II Altavoces Gaming de Escritorio con iluminación RGB，Blanco | Driver full-range de 2 5" 9 modos de luz RGB dinámica Bluetooth 5.4 USB-C AUX para PC PS5 y Switch'
-date: 2026-11-17 20:39:21
+date: 2026-11-21 13:44:17
 image: 'https://m.media-amazon.com/images/I/41O8gYsr3iL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F8QQP1FL/?tag=tolees-21'
 descuento: '57.15'
-average: '34.99'
+average: '34.434444444444445'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

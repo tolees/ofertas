@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- 0% alcohol; dermatológicamente probado
 - -32% de sudor después de 24h*
 - Perfume de Borotalco
-- 0% alcohol; dermatológicamente probado
 - Eficacia 48 h
 
 [🛒 Aquí!!!]({{< param buyurl >}})

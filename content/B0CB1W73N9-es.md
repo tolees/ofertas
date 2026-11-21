@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello de solapa con cierre a presión
-- Lengüetas en los hombros con botones a presión
 - Manga larga con cierre de cremallera
 - Proporciona comodidad
+- Cuello de solapa con cierre a presión
+- Lengüetas en los hombros con botones a presión
 - Bolsillos con cremallera en la cintura
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Uso informal
 - Corte regular
 - Resistente al agua
-- Uso informal
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CB1T7CCV{{</world>}}

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Carcasa de plástico resistente y duradera // Mayor protección de contacto // Interruptor de encendido/apagado iluminado
-- Ideal para jardín, terraza, balcón, sótano, lavadero, garaje, etc.
-- Para uso en interiores y exteriores // Resistente a salpicaduras IP44
 - Tensión nominal: 230 voltios (V) // Corriente nominal: 16 amperios (A) // Consumo máximo de energía: 3500 vatios (W)
 - Regleta de enchufes exterior deleyCON de 4 tomas // 4 enchufes con conexión a tierra
+- Ideal para jardín, terraza, balcón, sótano, lavadero, garaje, etc.
+- Para uso en interiores y exteriores // Resistente a salpicaduras IP44
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BTZ7VQ8G{{</world>}}

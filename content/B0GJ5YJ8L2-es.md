@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La modelo mide 185 cm, Cintura 31", Lleva una talla M
-- MATERIAL: 100% ALGODÓN
-- DISEÑO CLÁSICO LEVIS: Un clásico atemporal que puedes combinar con todo
-- Acabado con un gráfico llamativo
 - ETIQUETA ROJA LEVIS: Existen diferentes variaciones de nuestra conocida etiqueta roja. Algunas dicen LEVIS, otras dicen Levis, algunas no muestran la marca en absoluto. Para ediciones especiales, a veces incluso cambiamos el color.
+- DISEÑO CLÁSICO LEVIS: Un clásico atemporal que puedes combinar con todo
+- La modelo mide 185 cm, Cintura 31", Lleva una talla M
+- Acabado con un gráfico llamativo
+- MATERIAL: 100% ALGODÓN
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0GJ5YJ8L2{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material de la suela: EVA
 - Tipo de tacón: Plano
 - Cierre: Sin cordones
+- Material de la suela: EVA
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BMW2Q629{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Empeine de piel
 - Suela de goma
+- Empeine de piel
 - Entresuela sintética
 
 [🛒 Comprar!!!]({{< param buyurl >}})

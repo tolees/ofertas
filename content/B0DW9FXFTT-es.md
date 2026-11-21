@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sin mangas
 - Fit: Regular
+- Estampado en la parte frontal
+- Sin mangas
 - Estampado de paisaje marino
 - Desigual
-- Estampado en la parte frontal
 - Cuello: Redondo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

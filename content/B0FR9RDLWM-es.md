@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colgate Max White Sérum Morado Blanqueador Dental 40ml | Sérum blanqueador dental Doble acción para dientes blancos al instante Minerales micropulidores Uso diario Sabor menta'
-date: 2026-11-15 20:08:57
+date: 2026-11-20 17:03:32
 image: 'https://m.media-amazon.com/images/I/41S0VHwMT+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FR9RDLWM/?tag=tolees-21'
 descuento: '52.53'
-average: '10.30571428571424'
+average: '10.290467289719581'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

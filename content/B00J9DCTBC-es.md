@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pack de 2 unidades
 - Recambio de filtro de carbono para Campana Dometic CK2000
+- Pack de 2 unidades
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00J9DCTBC{{</world>}}

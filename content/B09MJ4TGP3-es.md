@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Ofrece una comodidad óptima
 - Adecuada para días calurosos
 - Presenta el logotipo de la marca en el pecho
-- Ofrece una comodidad óptima
 - Este producto es original Levis
 
 [🛒 Aquí!!!]({{< param buyurl >}})

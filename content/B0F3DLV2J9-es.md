@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Visera curvada de tamaño medio
-- Talla única
 - 100% poliéster (reciclado)
+- Talla única
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F3DLV2J9{{</world>}}

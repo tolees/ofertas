@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'PUMA Women Softride Remi Slip-on Knit Wn s Zapatillas para correr en carretera Ash Gray White Rose Gold Metallic 38 EU'
-date: 2026-10-14 17:14:16
+title: 'PUMA Zapatillas de Running Softride Remi Knit Ash Gray 38 EU'
+date: 2026-11-20 18:46:33
 image: 'https://m.media-amazon.com/images/I/317hZ2ApSGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0C33ZRLM6-es PUMA Women Softride Remi Slip-on Knit Wn s Zapatillas para...'
+slug: 'B0C33ZRLM6-es PUMA Zapatillas de Running Softride Remi Knit Ash Gray 38 EU'
 sku: 'B0C33ZRLM6-es'
 tags: [ '🇪🇸', ]
-actualPrice: 32.5 EUR
+actualPrice: 30.83 EUR
 currency: EUR
-price: 32.5
+price: 30.83
 comparePrice: 54.95 EUR
-prodname: 'PUMA Women Softride Remi Slip-on Knit Wn s Zapatillas para correr en carretera Ash Gray White Rose Gold Metallic 38 EU'
+prodname: 'PUMA Zapatillas de Running Softride Remi Knit Ash Gray 38 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0C33ZRLM6/?tag=tolees-21'
-descuento: '40.86'
-average: '28.9733333333333'
+descuento: '43.89'
+average: '29.437499999999975'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

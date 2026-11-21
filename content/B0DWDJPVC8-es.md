@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Speeder de Nieve Force Burner 75414 | Juguetes para niños de 7+ años nave con 3 minifiguras espadas láser moto de juguete regalo de cumpleaños 349 piezas'
-date: 2026-11-20 00:43:38
+date: 2026-11-21 03:50:30
 image: 'https://m.media-amazon.com/images/I/51V8fUqbWXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DWDJPVC8/?tag=tolees-21'
 descuento: '40.01'
-average: '34.969000000000044'
+average: '34.731904761904801'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

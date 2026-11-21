@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MUESTRA DEL MODELO: Ajuste relajado. Úselo en talla S (pecho: 31 4/5 pulgadas, longitud de hombros: 16 1/5 pulgadas)
-- Esta capa de encaje se compone de varios puntos de diseño: top corto, frente abierto, encaje transparente, ribete de volantes, manga 3/4.
-- Combínalo con tu vestido con hombros descubiertos o cualquier vestido de fiesta de noche para lograr un look elegante y encantador.
-- El bolero de encaje es agradable para todos y una práctica cobertura para bodas, aniversarios, cócteles, vestidos de baile, accesorios de fotografía, actuaciones. Un gran regalo para sus días especiales como el Día de San Valentín, el Día de la Madre, el cumpleaños.
 - Detalles de la tela: 90% poliéster, 10% spandex; Lavar a máquina en frío con colores similares.
+- Esta capa de encaje se compone de varios puntos de diseño: top corto, frente abierto, encaje transparente, ribete de volantes, manga 3/4.
+- El bolero de encaje es agradable para todos y una práctica cobertura para bodas, aniversarios, cócteles, vestidos de baile, accesorios de fotografía, actuaciones. Un gran regalo para sus días especiales como el Día de San Valentín, el Día de la Madre, el cumpleaños.
+- MUESTRA DEL MODELO: Ajuste relajado. Úselo en talla S (pecho: 31 4/5 pulgadas, longitud de hombros: 16 1/5 pulgadas)
+- Combínalo con tu vestido con hombros descubiertos o cualquier vestido de fiesta de noche para lograr un look elegante y encantador.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FCFSP6XW{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DJI Osmo Pocket 3 cámara con CMOS 1 y vídeo 4K/120 fps | estabilización en 3 ejes enfoque rápido seguimiento de caras/objetivos pantalla táctil giratoria de 2" pequeña cámara'
-date: 2026-11-18 12:27:08
+date: 2026-11-20 22:05:19
 image: 'https://m.media-amazon.com/images/I/31HSfH1VceL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CG19QXWD/?tag=tolees-21'
 descuento: '40.56'
-average: '336.67177215189969'
+average: '334.6551851851861'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

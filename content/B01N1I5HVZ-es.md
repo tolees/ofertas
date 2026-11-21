@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Degustar con las carnes de ternera y buey, los pescados, las salsas especiadas. Servir a 17 º C.
 - Color cereza. Aromas de mora, balsámicas, eucalipto. Elegante con taninos dulces con matices de cuero, especias.
+- Origen: Central Valley Regions
 - Puede disfrutarlo desde ahora, bien conservado aguantará 5 - 7 años.
 - Graduación: 13,5% vol.
-- Origen: Central Valley Regions
-- Degustar con las carnes de ternera y buey, los pescados, las salsas especiadas. Servir a 17 º C.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01N1I5HVZ{{</world>}}

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Confección en ripstop
-- Dimensiones: 330 mm × 629 mm
-- Capacidad: 60,6 L
 - Refuerzos para mayor resistencia al desgaste en zonas estratégicas
+- Capacidad: 60,6 L
 - Material Principal: 100% Poliéster(100% Reciclado) / Forro: 100% Poliéster(100% Reciclado) / Acolchado: 100% Polietileno
+- Dimensiones: 330 mm × 629 mm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F4DX1Y18{{</world>}}

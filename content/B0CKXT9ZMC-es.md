@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Forro textil
-- Forro textil
-- Cierre con correas autoadherentes
-- Horma clásica
 - Empeine sintético
+- Forro textil
+- Horma clásica
+- Cierre con correas autoadherentes
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CKXT9ZMC{{</world>}}

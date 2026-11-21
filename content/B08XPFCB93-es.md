@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Puma Hombre Shirt Puma Red-Puma Black-Puma White M'
-date: 2026-11-20 06:28:42
+date: 2026-11-21 13:17:13
 image: 'https://m.media-amazon.com/images/I/31I9b+rdPhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08XPFCB93/?tag=tolees-21'
 descuento: '35.54'
-average: '12.047499999999925'
+average: '11.994444444444378'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

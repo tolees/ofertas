@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Parte superior de malla ligera
-- Suela exterior de TPU SPEEDPLATE para tracción y propulsión
 - Zapatilla de fútbol
+- Suela exterior de TPU SPEEDPLATE para tracción y propulsión
 - Cuello de punto de corte bajo para un ajuste ceñido alrededor del tobillo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Parte inferior de la visera de color liso.
 - Patrón de cuadros.
 - Parte frontal estable.
-- Parte inferior de la visera de color liso.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00NLLNLFQ{{</world>}}

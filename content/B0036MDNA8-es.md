@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Pintadas a mano
 - Modelo 53012
 - Replicas de animales reales que desarrollan la imaginación de los niños
 - Figuras para jugar y coleccionar y descubrir el mundo
-- Pintadas a mano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0036MDNA8{{</world>}}

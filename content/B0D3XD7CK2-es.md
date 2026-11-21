@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Forro textil
+- Cierre de cordones
 - Horma clásica
 - Empeine de ante
-- Cierre de cordones
+- Forro textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D3XD7CK2{{</world>}}

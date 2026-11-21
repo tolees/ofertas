@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Puños : Puños acanalados
-- Manga : Manga larga
-- Artículo : Chaqueta bomber
-- Cierre : Cierre de cremallera
 - Cuello : Cuello béisbol
+- Cierre : Cierre de cremallera
+- Puños : Puños acanalados
+- Artículo : Chaqueta bomber
+- Manga : Manga larga
 - Bolsillos : Bolsillos delanteros
 
 [🛒 Visítala!!!]({{< param buyurl >}})

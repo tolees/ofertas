@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cordones frontales con ojales de metal
-- Cuello acolchado
-- Forro textil con plantilla acolchada
-- Zapatos de skate de perfil bajo
 - Parte superior de lona
+- Cuello acolchado
+- Zapatos de skate de perfil bajo
+- Cordones frontales con ojales de metal
+- Forro textil con plantilla acolchada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07VCLGWJG{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Arcos Cuchillo Jamonero 250 mm Acero Inoxidable Serie Latina | Cuchillo afilado para un corte preciso de jamón y carne. Mango de madera comprimida color marrón.'
-date: 2026-11-08 14:03:08
+date: 2026-11-20 22:54:58
 image: 'https://m.media-amazon.com/images/I/21zt1m7vysL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00J3ZTXAG/?tag=tolees-21'
 descuento: '44.44'
-average: '5.3526315789473795'
+average: '5.3300000000000107'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

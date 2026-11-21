@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre con dos botones
 - Cinta firmada en el interior del cuello
 - Cuello y puños de punto acanalado
+- Cierre con dos botones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BBJQ1P8B{{</world>}}

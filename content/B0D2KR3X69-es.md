@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Superposiciones de gamuza
-- Cierre de cordones
 - Puma Tira en el lateral
+- Cierre de cordones
+- Superposiciones de gamuza
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D2KR3X69{{</world>}}

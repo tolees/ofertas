@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Comodidad
+- Tecnología Color Protect para un color inalterable
 - La siguiente información se aplica a cada unidad del paquete
 - Larga duración, hasta 8h
-- Tecnología Color Protect para un color inalterable
-- Comodidad
 - Color intenso
 - Textura cremosa y suave
 

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Mediasuela de EVA
-- Horma clásica
 - Empeine de malla transpirable y material sintético
 - Cierre de cordones
+- Horma clásica
 - Paneles acolchados en la lengüeta y alrededor del tobillo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

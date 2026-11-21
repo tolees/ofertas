@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Presentada en un frasco elegante, transparente y azul aqua, esta bruma refleja la energía de Britney y su estilo personal audaz
-- Como la primera fragancia de Britney, esta bruma corporal floral y refrescante captura la emoción de la aventura y la radiante personalidad atrevida de Britney
-- Un rastro de Almizcle de Vainilla, Maderas Rubias y Sándalo deja una estela envolvente que potencia la feminidad con una sensualidad atrevida y segura de sí misma
 - Esta fragancia floral blanca se abre con notas aromáticas de Magnolia, Pera Anjou Dorada y Loto de Agua, envueltas en un corazón de Nardo, Jazmín y Ciclamen Rosa
 - ¿Te atreves? La bruma Curious es una fragancia vibrante para mujeres extrovertidas que, como Britney, se atreven a correr riesgos y a buscar nuevas aventuras
+- Como la primera fragancia de Britney, esta bruma corporal floral y refrescante captura la emoción de la aventura y la radiante personalidad atrevida de Britney
+- Un rastro de Almizcle de Vainilla, Maderas Rubias y Sándalo deja una estela envolvente que potencia la feminidad con una sensualidad atrevida y segura de sí misma
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0156Y7KZW{{</world>}}

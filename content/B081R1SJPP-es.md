@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Empeine de piel sintética con TPU
 - Plantilla SoftFoam que proporciona comodidad y amortiguación
 - Caña media
-- Empeine de piel sintética con TPU
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B081R1SJPP{{</world>}}

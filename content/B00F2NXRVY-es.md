@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Perfecto acabado barnizado
 - Mango de madera de primera calidad, ligeros y agradables al tacto
 - Diseño ergonómico adaptado a la geometría de la herramienta
+- Perfecto acabado barnizado
 - Mango de haya certificado PEFC que garantiza la cadena de custodia de la madera que utilizamos para fabricar los mangos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

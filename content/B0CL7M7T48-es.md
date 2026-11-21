@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre : Bragueta con cremallera
-- Corte : Corte loose
-- Artículo : Pantalones de ajuste relajado
 - Bolsillos : Bolsillos traseros, Bolsillos delanteros, Bolsillos laterales
+- Artículo : Pantalones de ajuste relajado
+- Corte : Corte loose
 - Cintura : Talle medio
+- Cierre : Bragueta con cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CL7M7T48{{</world>}}

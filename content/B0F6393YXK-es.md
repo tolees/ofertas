@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ofrece comodidad
 - Detalles de la marca Puma
+- Ofrece comodidad
 - Zapatilla deportiva
 
 [🛒 Aquí!!!]({{< param buyurl >}})

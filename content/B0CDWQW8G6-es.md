@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Old Spice Night Panther Desodorante en Barra para Hombre 6x50ml | Frescura Durante 24 Horas Fragancia Duradera Invisible en Ropa Blanca y Negra'
-date: 2026-11-14 22:11:51
+date: 2026-11-20 16:48:00
 image: 'https://m.media-amazon.com/images/I/41XxPK7QgJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manga larga
 - Un ajuste cómodo
-- Cierre de botones
-- Contiene detalles gráficos
 - Cuello Granddad
+- Cierre de botones
+- Manga larga
+- Contiene detalles gráficos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FJS6SLKF{{</world>}}

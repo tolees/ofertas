@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Ajuste regular a estrecho
 - Construcción de corte bajo sin cordones
 - Puma Detalles de la marca
-- Ajuste regular a estrecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D1YKNV23{{</world>}}

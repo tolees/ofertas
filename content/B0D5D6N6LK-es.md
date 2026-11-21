@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Entresuela FuelFoam
 - Suela exterior de goma
 - Parte superior de malla especialmente diseñada con superposiciones de TPU
-- Entresuela FuelFoam
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D5D6N6LK{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela exterior de goma que aporta tracción y durabilidad con ranuras flexibles estratégicamente colocadas para ayudar en el despegue
-- La ligereza y la flexibilidad son cruciales. Póntelas y corre cuanto quieras
-- Parte superior de malla transpirable en 2 tonos que proporciona ligereza, sujeción y comodidad en cada pisada
 - Amortiguación Charged+ en la mediasuela para una suavidad y una comodidad inigualables, y un retorno de energía que permite correr más kilómetros
+- La ligereza y la flexibilidad son cruciales. Póntelas y corre cuanto quieras
+- Suela exterior de goma que aporta tracción y durabilidad con ranuras flexibles estratégicamente colocadas para ayudar en el despegue
+- Parte superior de malla transpirable en 2 tonos que proporciona ligereza, sujeción y comodidad en cada pisada
 - Plantilla de espuma Deluxe que se adapta al pie para una mayor comodidad al pisar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

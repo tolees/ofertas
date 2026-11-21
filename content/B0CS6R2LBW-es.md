@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tiene la posibilidad de incoporar kit óptico para lentes graduadas (se vende por separado)
-- El kit incluye una funda de microfibra
-- Diseño deportivo. Ofrece una visión total gracias a su única lente, y sus patillas autoblocantes facilitan su puesta y quita durante la marcha
-- Gafas deportivas de ciclismo
 - Pantalla inastillable con protección UV400nm 100%UV con efecto espejo. Incluye una segunda pantalla de recambio transparente
+- Gafas deportivas de ciclismo
+- Tiene la posibilidad de incoporar kit óptico para lentes graduadas (se vende por separado)
+- Diseño deportivo. Ofrece una visión total gracias a su única lente, y sus patillas autoblocantes facilitan su puesta y quita durante la marcha
+- El kit incluye una funda de microfibra
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CS6R2LBW{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- PARA HOMBRE: Un aceite para cabello y barba para hombre que cuida todo tipo de cabello.
 - HIDRATACIÓN Y PROTECCIÓN: Ultra hidratante y ultra protector con el cabello, para una creatividad sin límites.
-- ACEITE PARA CABELLO Y BARBA: Sebastian Professional Groom es un aceite de cabello y barba para hombre que suaviza, define y aporta brillo.
-- EN CABELLO HÚMEDO O SECO: Aceite versátil que realza la textura del cabello y la barba en seco o húmedo.
 - AROMA ENERGIZANTE: Formulado con una estimulante fragancia de bergamota y pimienta rosa para hombre.
+- ACEITE PARA CABELLO Y BARBA: Sebastian Professional Groom es un aceite de cabello y barba para hombre que suaviza, define y aporta brillo.
+- PARA HOMBRE: Un aceite para cabello y barba para hombre que cuida todo tipo de cabello.
+- EN CABELLO HÚMEDO O SECO: Aceite versátil que realza la textura del cabello y la barba en seco o húmedo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0GFF16V2P{{</world>}}

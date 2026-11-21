@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Indicación del estado de la batería y función de memoria para el cambio de batería
 - Selección del día de la semana y determinación del momento y duración de cada ciclo de riego
 - Función de seguridad: cuando la batería se agota, cierra la válvula y se detiene el caudal de agua
 - Conexión de agua que gira libremente
+- Indicación del estado de la batería y función de memoria para el cambio de batería
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00QM9TW70{{</world>}}

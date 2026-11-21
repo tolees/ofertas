@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro textil
 - Cordones
 - Suela de goma tipo copa elevada
-- Corte clásico
+- Forro textil
 - Empeine de piel sintética
+- Corte clásico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F332WD1L{{</world>}}

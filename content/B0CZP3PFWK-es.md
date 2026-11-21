@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte entallado
 - 100% algodón
 - Cuello redondo
+- Corte entallado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CZP3PFWK{{</world>}}

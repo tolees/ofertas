@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Caramelos con palo de sabores variados y Mini Manzana
-- Chicle Center Shock Cola, caramelo comprimido Look-o-Look Dextrosa
+- Caramelo masticable Mentos Mini Fresa y Fruittella
 - Optimo para llevar en la mochila, fiestas de cumpleaños y piñatas
 - Todos los caramelos y chicles vienen protegidos individualmente
-- Caramelo masticable Mentos Mini Fresa y Fruittella
+- Chicle Center Shock Cola, caramelo comprimido Look-o-Look Dextrosa
+- Caramelos con palo de sabores variados y Mini Manzana
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08CMHF21T{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Con detalle de etiqueta decorativa a tono con el logo en la cinturilla.
 - Solo se admiten cambios o devoluciones con precinto o en productos defectuosos o con taras
 - Short liso sin costuras, diseñado para ofrecer comodidad y ligereza.
-- Con detalle de etiqueta decorativa a tono con el logo en la cinturilla.
 - Ideal para llevar debajo de vestidos o faldas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tejido de algodón elástico: Hecho de 95 % algodón y 5 % elastano para comodidad, flexibilidad y retención de forma.
 - Colección Pepe Jeans London: Parte de la colección SS27, combinando estilo esencial con comodidad diaria.
-- Estilo de manga corta: Ideal para uso diario y clima cálido.
-- Cuello redondo clásico: Escote atemporal para un estilo versátil.
+- Tejido de algodón elástico: Hecho de 95 % algodón y 5 % elastano para comodidad, flexibilidad y retención de forma.
 - Diseño Slim Fit: Silueta ceñida para un aspecto favorecedor y moderno.
+- Cuello redondo clásico: Escote atemporal para un estilo versátil.
+- Estilo de manga corta: Ideal para uso diario y clima cálido.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09QLFF898{{</world>}}

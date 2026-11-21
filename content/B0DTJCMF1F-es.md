@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 57% acrílico, 35% nailon, 6% lana, 2% elastano
 - Logotipo bordado y diseño de cable en todas partes, acabado con acanalado en puños, dobladillo y cuello
+- 57% acrílico, 35% nailon, 6% lana, 2% elastano
 - Cuello redondo de punto de manga larga con bandera de Union Jack en la parte delantera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

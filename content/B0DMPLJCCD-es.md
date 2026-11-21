@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo lateral
 - 100% Algodón
+- Logotipo lateral
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DMPLJCCD{{</world>}}

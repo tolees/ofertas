@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- FÓRMULA ENRIQUECIDA: Combina queratina hidrolizada y aceite de marula, para nutrir en profundidad e hidratar cada mechón sin apelmazar. ¿El resultado? Cabello suave, brillante y sin encrespamiento
 - CABELLO BRILLANTE SIN EFECTO FRIZZ 72H: Disfruta un cabello liso, suave y luminoso como de peluquería. El aceite nutritivo Keratin Smooth combate el encrespamiento 72 horas, para un pelo sedoso
 - DISEÑADO PARA CABELLO LISO: Este aceite nutritivo TRESemmé ha sido creado para el pelo liso. La fórmula anti frizz ayuda a domar el cabello indisciplinado, para una melena hidratada y fácil de peinar.
-- RUTINA PROFESIONAL EN CASA: Aplica el aceite en el pelo seco tras el peinado, para un toque extra de brillo. Completa la rutina Keratin Smooth con champú, acondicionador, mascarilla y spray térmico
 - CONTENIDO: 2x TRESemmé Keratin Smooth Aceite Nutritivo, Todo Tipo de Cabello, Pelo Brillante y Suave, Acción Anti Frizz Hasta 72 Horas, con Queratina Hidrolizada y Aceite de Marula, 75 ml
+- FÓRMULA ENRIQUECIDA: Combina queratina hidrolizada y aceite de marula, para nutrir en profundidad e hidratar cada mechón sin apelmazar. ¿El resultado? Cabello suave, brillante y sin encrespamiento
+- RUTINA PROFESIONAL EN CASA: Aplica el aceite en el pelo seco tras el peinado, para un toque extra de brillo. Completa la rutina Keratin Smooth con champú, acondicionador, mascarilla y spray térmico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FKVQ5QDY{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B Pro CrossAction Cabezales de Recambio Originales Blanco Pack de 16 | Recambios para Cepillo Eléctrico Oral B Pro con Indicador de Uso y Filamentos en Forma de X para Una Limpieza Profunda'
-date: 2026-11-20 15:57:37
+date: 2026-11-20 16:08:05
 image: 'https://m.media-amazon.com/images/I/51HMfObwFgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GNMNVZZ3/?tag=tolees-21'
 descuento: '49.30'
-average: '38.066521739130472'
+average: '37.853333333333367'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

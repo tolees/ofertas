@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'La Roche-Posay Hyalu B5 Sérum de Ojos Serum Anti-arrugas 15 ml | Corrige y rellena ojeras y arrugas con efecto reparador y revitalizante del contorno de ojos en 2 semanas.'
-date: 2026-11-14 19:45:28
+date: 2026-11-21 00:11:28
 image: 'https://m.media-amazon.com/images/I/41RriTx+BlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BSVPTKL4/?tag=tolees-21'
 descuento: '45.22'
-average: '25.195555555555512'
+average: '25.047999999999963'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

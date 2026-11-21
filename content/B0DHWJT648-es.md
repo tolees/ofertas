@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Sin cordones
 - Suela sintética
+- Empeine de material sintético
 - Forro de material sintético
 - Horma clásica
-- Sin cordones
-- Empeine de material sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DHWJT648{{</world>}}

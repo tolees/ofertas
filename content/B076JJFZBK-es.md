@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Fijación nivel 2
-- Aplicar sobre el cabello húmedo, enrollar los mechones en el cepillo y secar con secador
 - Proporciona un brillo óptimo y añadiendo cuerpo al peinado
+- Aplicar sobre el cabello húmedo, enrollar los mechones en el cepillo y secar con secador
 - Proporciona protección frente al calor
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

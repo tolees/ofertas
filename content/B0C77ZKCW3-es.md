@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logotipo en el talón en bajo relieve
-- Silueta sencilla
 - Un modelo imprescindible para diario
 - REEBOK REEBOK COURT CLEAN FTWWHT/FTWWHT/BLACK 45.5 UNISEX
+- Logotipo en el talón en bajo relieve
+- Silueta sencilla
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C77ZKCW3{{</world>}}

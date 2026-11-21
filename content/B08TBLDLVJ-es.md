@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Se puede colocar en el suelo, colgar en la cama o en el patio de juegos gracias a sus 6 lazos
 - Una cara con colores de contraste, rojo, blando y negro y otra cara con muchos colores para estimular el sentido de la vista del bebé
 - Incluye un sonajero y un anillo de dentición como accesorios en el libro desplegable
+- Se puede colocar en el suelo, colgar en la cama o en el patio de juegos gracias a sus 6 lazos
 - Lavable
 - Contiene 12 páginas ilustradas con múltiples actividades
 

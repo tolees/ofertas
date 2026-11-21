@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Comodidad y ligereza para que sólo tengas que preocuparte de rendir al máximo
+- Ancho estándar
 - Forro textil
 - Entresuela de espuma EVA
-- Ancho estándar
 - Con detalles visibles de la marca Reebok
 - Zapatillas pensadas para entrenar
 

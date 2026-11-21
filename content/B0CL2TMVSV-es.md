@@ -28,15 +28,15 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Talle alto
-- Bolsillos laterales
-- Detalles reflectantes
-- Corte ajustado
 - AEROREADY
-- 85% poliéster (reciclado) / 15% elastán
-- Elegante tejido Adiflex con fibra LYCRA ADAPTIV
 - Bolsillos laterales
+- Corte ajustado
+- Bolsillos laterales
+- 85% poliéster (reciclado) / 15% elastán
 - Detalles reflectantes
+- Elegante tejido Adiflex con fibra LYCRA ADAPTIV
+- Detalles reflectantes
+- Talle alto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CL2TMVSV{{</world>}}

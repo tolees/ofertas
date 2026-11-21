@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Paquete de 3 unidades
 - Logotipo clásico de Vans a cuadros
+- Paquete de 3 unidades
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F94KR9MW{{</world>}}

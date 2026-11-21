@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Plantilla de goma texturizada
 - Material superior: __ Parte superior multicolor con degradado y pin ROXY
 - Suela exterior: suela de goma
+- Plantilla de goma texturizada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B097NFRD9W{{</world>}}

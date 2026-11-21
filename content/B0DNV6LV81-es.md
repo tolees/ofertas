@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Skech-Air
 - Cierre adaptable
 - Tenis ligeros Gore & Strap con pieza tecnológica en la entresuela
+- Skech-Air
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DNV6LV81{{</world>}}

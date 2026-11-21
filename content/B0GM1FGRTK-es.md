@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Fieles a la tradición de Mugler en el ámbito de las fragancias gourmand, nuestros perfumistas han creado una fórmula que resulta deliciosa.
 - ¡ATENCIÓN! ALTAMENTE ADICTIVAS, DISFRUTAR CON MODERACIÓN. Descubre Berry Licorice, una fragancia gourmand afrutada y ambarina con delicadas notas de fresa y frambuesa chispeante. Una fragancia gourmand creada para sentirse como un bocado delicioso.
 - 3 eau de toilette inspiradas en los mocktails más tentadores, para no ser nada menos que extraordinarios.
-- Fieles a la tradición de Mugler en el ámbito de las fragancias gourmand, nuestros perfumistas han creado una fórmula que resulta deliciosa.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GM1FGRTK{{</world>}}

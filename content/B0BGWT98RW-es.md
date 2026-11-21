@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Largo hasta el tobillo
 - Tres pares por paquete
+- Largo hasta el tobillo
 - Refuerzo en el arco plantar
 - Puntera sin costuras
 

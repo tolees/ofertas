@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Dobladillo enrollable y etiqueta tejida insertada con logotipo en la costura lateral
-- 100 % algodón
 - Suéter de cuello redondo de algodón básico con puños y cuello de punto acanalado
+- 100 % algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F57F8BKQ{{</world>}}

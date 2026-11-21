@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Construcción híbrida de manga raglan para mayor rango de movimiento y comodidad
 - Material que capilariza el sudor y se seca rápidamente
-- Tejido HeatGear superligero que ofrece una protección superior sin añadir peso
-- Paneles de malla en las axilas y la parte trasera para una ventilación estratégica
 - Diseño ergonómico que mantiene las costuras alejadas de las zonas de mayor abrasión y aumenta la durabilidad
+- Paneles de malla en las axilas y la parte trasera para una ventilación estratégica
+- Tejido HeatGear superligero que ofrece una protección superior sin añadir peso
+- Construcción híbrida de manga raglan para mayor rango de movimiento y comodidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0874XS1TG{{</world>}}

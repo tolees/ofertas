@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bolsillos laterales abiertos
-- Con el logotipo de la marca visible en el lateral
 - Con cintura elástica
+- Con el logotipo de la marca visible en el lateral
+- Bolsillos laterales abiertos
 - Pantalones cortos de la marca Under Armour
 - Material que capilariza el sudor y se seca rápidamente
 

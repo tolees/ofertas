@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 28mm lente fija de enfoque y Enfoque: 1m - ∞
 - Formato de película: 135 película (24x36mm)
-- ISO 400 y 27 fotogramas
 - Cámara sumergible desechable de 27 disparos
+- ISO 400 y 27 fotogramas
 - Sumergible hasta 3 metros
+- 28mm lente fija de enfoque y Enfoque: 1m - ∞
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000TEDQAI{{</world>}}

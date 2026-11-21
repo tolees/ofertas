@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Empeine textil y sintético
 - Horma clásica
-- Amortiguación Lightstrike
 - Forro textil y sintético
+- Amortiguación Lightstrike
+- Empeine textil y sintético
 - Cierre de cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})

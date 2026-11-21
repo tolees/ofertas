@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Acabado metalizado
 - Cintura con goma ajustable
 - Con capucha
-- Desigual
-- Manga: Larga
+- Acabado metalizado
 - Color: Liso
+- Manga: Larga
+- Desigual
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DVCCH7DZ{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela de goma muy resistente a la abrasión Forro textil
 - Parte superior de piel
 - Entresuela de EVA
+- Suela de goma muy resistente a la abrasión Forro textil
 - Cierre con cordón
 
 [🛒 Comprar!!!]({{< param buyurl >}})

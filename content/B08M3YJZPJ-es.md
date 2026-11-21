@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Materiales resistentes
 - De la marca Vans
+- Materiales resistentes
 - Diseno funcional
 - Alta calidad
 

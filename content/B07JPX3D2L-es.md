@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte ajustado
-- Cierre de pantalón: botón con cremallera
-- Con trabillas
-- Corte delgado en el muslo sin que quede demasiado apretado
-- Material: 98% algodón, 2% elastano
 - Bolsillos: dos bolsillos laterales; dos bolsillos traseros
+- Con trabillas
+- Cierre de pantalón: botón con cremallera
+- Material: 98% algodón, 2% elastano
+- Corte ajustado
+- Corte delgado en el muslo sin que quede demasiado apretado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07JPX3D2L{{</world>}}

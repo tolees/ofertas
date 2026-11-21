@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Empeine de ante
-- Cierre de cordones
 - Forro textil
+- Cierre de cordones
 - Horma clásica
+- Empeine de ante
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FT43DBHK{{</world>}}

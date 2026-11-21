@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Botas para mujer
-- Suelas flexibles y mayor comodidad
 - Forro de Microfibra
+- Suelas flexibles y mayor comodidad
 - Softlight
+- Botas para mujer
 - Plantilla extraíble
 
 [🛒 Comprar!!!]({{< param buyurl >}})

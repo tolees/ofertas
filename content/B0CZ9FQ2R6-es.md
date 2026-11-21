@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 100 % poliéster (71 % reciclado)
 - Tecnología transpirable
 - Cuello redondo
 - Corte clásico
-- 100 % poliéster (71 % reciclado)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZ9FQ2R6{{</world>}}

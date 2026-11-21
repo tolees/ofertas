@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Horno de cocina
-- En color blanco
 - Requiere instalación
+- En color blanco
+- Horno de cocina
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08X2FPF4R{{</world>}}

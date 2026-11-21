@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Horma clásica
 - Empeine de ante
-- Suela de goma vulcanizada
 - Cordones elásticos y correa autoadherente
+- Horma clásica
 - Forro textil
+- Suela de goma vulcanizada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F2FCJTRH{{</world>}}

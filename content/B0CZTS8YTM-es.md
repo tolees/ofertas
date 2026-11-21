@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Contiene al menos un 70% de material reciclado y renovable
+- Cierre de cordón
 - 55% algodón / 36% poliéster (reciclado) / 9% viscosa
 - Corte clásico
-- Cierre de cordón
-- Contiene al menos un 70% de material reciclado y renovable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CZTS8YTM{{</world>}}

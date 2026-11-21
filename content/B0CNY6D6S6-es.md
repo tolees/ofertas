@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers - Uno Lite Zapatillas Chicas White'
-date: 2026-11-14 09:17:00
+date: 2026-11-21 11:07:37
 image: 'https://m.media-amazon.com/images/I/31JJtz6mjdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CNY6D6S6/?tag=tolees-21'
 descuento: '36.04'
-average: '28.070588235294093'
+average: '28.478947368421029'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello: capucha
 - Estampado jersey con capucha
+- Cuello: capucha
 - Tejido de algodón, poliéster brushed fleece [280 g/m2]
 - Bolsa de bolsillo
 

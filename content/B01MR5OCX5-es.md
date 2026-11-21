@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 4. Diameter tolerance +/- 0.02mm
 - 3. Recommended temperature: 180-210 ℃;
+- 5. Environmental-friendly, Made from starch raw materials derived from renewable plant resources
 - 2. No impurities, no clogging
 - 1. 1kg spool 1.75mm filament PLA in vacuum packing
-- 4. Diameter tolerance +/- 0.02mm
-- 5. Environmental-friendly, Made from starch raw materials derived from renewable plant resources
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MR5OCX5{{</world>}}

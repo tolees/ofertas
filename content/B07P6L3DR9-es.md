@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Joma Cleo II Pantalon Largo Deportivo Hombre Marino XXL'
-date: 2026-11-17 19:50:57
+date: 2026-11-20 17:38:28
 image: 'https://m.media-amazon.com/images/I/31OQ+dWOlOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P6L3DR9/?tag=tolees-21'
 descuento: '45.45'
-average: '16.181562500000077'
+average: '15.967352941176543'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Silueta de dos correas con dos puntos de ajuste
 - Revolucionaria espuma Lite Ride
+- Silueta de dos correas con dos puntos de ajuste
 - Base ligera Croslite
 
 [🛒 Comprar!!!]({{< param buyurl >}})

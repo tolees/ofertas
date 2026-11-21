@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marvel Legends Series Máscara Premium de Lobezno para Juego de rol | Marvel Legends Gears - Máscara de Wolverine réplica de Deadpool y Wolverine'
-date: 2026-11-19 00:07:31
+date: 2026-11-21 02:17:47
 image: 'https://m.media-amazon.com/images/I/41YHiI8WYjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DK7NZMGM/?tag=tolees-21'
 descuento: '43.60'
-average: '80.155833333333334'
+average: '79.412307692307692'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

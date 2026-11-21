@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Polyurethane
 - materialFabricComposition: Upper: 100% Polyester; Sole: 100% Rubber; Inner: 100% Polyester; Insole: 100% Polyester
 - Sneaker
+- Polyurethane
 - Detail
 
 [🛒 Aquí!!!]({{< param buyurl >}})

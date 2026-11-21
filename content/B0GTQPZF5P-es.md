@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Monopoly: Super Mario Galaxy La Película Juego de Mesa I Divertidos Juegos Familiares para niños Adolescentes y Adultos | De 2 a 6 Jugadores | Edad: 8+ - Versión en español'
-date: 2026-11-19 08:53:50
+date: 2026-11-21 10:08:47
 image: 'https://m.media-amazon.com/images/I/51+YJ9l43jL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GTQPZF5P/?tag=tolees-21'
 descuento: '50.01'
-average: '24.114999999999967'
+average: '23.799523809523777'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

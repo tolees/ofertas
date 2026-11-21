@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Protección contra los rayos UV
-- Refuerzos bajo las sisas
-- 100% poliéster (71% reciclado)
-- Tejido Twistknit elástico
-- Cuello redondo
-- Contiene al menos un 70% de material reciclado y renovable
-- Tecnología de control de olores Polygiene (ingrediente activo: cloruro de plata)
 - Corte clásico
-- CLIMACOOL
+- Protección contra los rayos UV
+- Tejido Twistknit elástico
 - Costuras de los hombros desplazadas hacia atrás
+- 100% poliéster (71% reciclado)
+- Tecnología de control de olores Polygiene (ingrediente activo: cloruro de plata)
+- Cuello redondo
+- Refuerzos bajo las sisas
+- Contiene al menos un 70% de material reciclado y renovable
+- CLIMACOOL
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZ9HDBCS{{</world>}}

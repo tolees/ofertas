@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Plantilla cómoda
 - Entresuela acolchada
 - Suela de tracción flexible
-- Plantilla cómoda
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CL7BGG59{{</world>}}

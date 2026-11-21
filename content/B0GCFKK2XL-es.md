@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DREAME Ecceluxe Slim Cafetera Espresso Automática | Diseño Delgado de 18 cm Fácil de Limpiar 5 Tipos de Café 9 Niveles de Molienda Pantalla Táctil a Color Espumado Cremoso'
-date: 2026-11-13 11:31:48
+date: 2026-11-21 01:56:22
 image: 'https://m.media-amazon.com/images/I/316yehUPVAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GCFKK2XL/?tag=tolees-21'
 descuento: '40.07'
-average: '388.99999999999909'
+average: '382.99999999999915'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre: de cordones
-- Ancho: estándar
 - La estructura de soporte ligero estabiliza el pie dentro de la bota para permitir cambios de dirección rápidos
-- Tipo de puntera: redondeada
+- Cierre: de cordones
 - Tipo de talón: plano
+- Tipo de puntera: redondeada
+- Ancho: estándar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DJ8ZTQ64{{</world>}}

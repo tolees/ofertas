@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Carcasa
+- - Color de la caja: Oro
 - - Cristal: Cristal Mineral
 - - Forma de la Carcasa: Redondo
 - - Material de la Carcasa: Acero inoxidable
-- - Color de la caja: Oro
-- Carcasa
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CQXSPCCX{{</world>}}

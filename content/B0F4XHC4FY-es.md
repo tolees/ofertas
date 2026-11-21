@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Detalle gráfico en la parte delantera
 - Bajo recto
 - Cuello redondo
+- Detalle gráfico en la parte delantera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4XHC4FY{{</world>}}

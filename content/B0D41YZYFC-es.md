@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dragon Ball Sparking Zero'
-date: 2026-11-19 14:21:23
+date: 2026-11-21 00:58:39
 image: 'https://m.media-amazon.com/images/I/5172dL53YUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0D41YZYFC/?tag=tolees-21'
 descuento: '41.15'
-average: '39.530000000000072'
+average: '38.471428571428639'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Lencería
 - Para mujer
+- Lencería
 - Pure Micro N Café Latte
 
 [🛒 Aquí!!!]({{< param buyurl >}})

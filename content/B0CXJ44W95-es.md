@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Diseño híbrido de camino/sendero
-- Sistema de amortiguación de última generación
 - Estética retro
+- Sistema de amortiguación de última generación
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CXJ44W95{{</world>}}

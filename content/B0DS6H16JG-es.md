@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cuello y puños en tejido de concha
-- Polo de manga larga con doble botón en piqué con tinte para prendas
 - Marca bordada en el pecho en contraste
+- Polo de manga larga con doble botón en piqué con tinte para prendas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DS6H16JG{{</world>}}

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fit: Regular
-- Detalle de lazo en la cintura
-- Sin mangas
 - Cuello: Redondo
-- Desigual
+- Sin mangas
 - Estampado floral
+- Desigual
+- Detalle de lazo en la cintura
+- Fit: Regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DW9JGD46{{</world>}}

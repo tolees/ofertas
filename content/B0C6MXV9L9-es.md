@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PRÁCTICO y FUNCIONAL: La parte inferior de esta jaula para pájaros está equipada con 2 bandejas extraíbles para facilitar la limpieza; Los comederos rotativos BRAVA son únicos e innovadores porque se pueden llenar sin quitarlos.
 - DIMENSIONES TOTALES: 72 x 44 x h 75,5 cm. ESPACIO BARRA: 16,5 mm. DIÁMETRO BARRA: 2 - 3,5 mm.
+- PRÁCTICO y FUNCIONAL: La parte inferior de esta jaula para pájaros está equipada con 2 bandejas extraíbles para facilitar la limpieza; Los comederos rotativos BRAVA son únicos e innovadores porque se pueden llenar sin quitarlos.
 - DISEÑO ITALIANO: Ferplast es una empresa italiana y esta Jaula fue diseñada íntegramente en Italia con el máximo cuidado y esa atención al detalle que distingue al Made in Italy.
 - ACCESORIOS INCLUIDOS: 2 comederos giratorios BRAVA garantizan constantemente el alimento y agua necesarios para varios ejemplares, 3 perchas ofrecen espacio suficiente para el descanso. Soporte disponible por separado.
 - HÁBITAT IDEAL: jaula para pájaros con espacio entre barras de 17,2 mm y mayor diámetro, adecuada para periquitos, loros, cacatúas, loros pequeños y medianos; resistente y espacioso para un entorno protegido y seguro.

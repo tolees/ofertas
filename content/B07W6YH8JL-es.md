@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Nike
 - Sportware
 - Training
+- Nike
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07W6YH8JL{{</world>}}

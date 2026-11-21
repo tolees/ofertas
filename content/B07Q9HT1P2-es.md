@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Protege la piel del fotoenvejecimiento.
 - hidratante
+- Protege la piel del fotoenvejecimiento.
 - Crema BB ultraligera
 
 [🛒 Visítala!!!]({{< param buyurl >}})

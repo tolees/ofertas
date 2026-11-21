@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cintura elástica
-- Corte ajustado
 - Cintura de talle medio
+- Corte ajustado
 - Largo ciclista
 - Punto 93% algodón / 7% elastán
 

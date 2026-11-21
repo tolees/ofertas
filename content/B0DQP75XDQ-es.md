@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material de joyería: acero inoxidable
 - Plataforma Logo
 - Cierre de joyería: hebilla
-- Tipo de joyería - Pulsera
 - Color de la joyería de plata
+- Material de joyería: acero inoxidable
+- Tipo de joyería - Pulsera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQP75XDQ{{</world>}}

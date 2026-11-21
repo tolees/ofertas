@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Under Armour Mujer HG Armour Hi Capri Shorts'
-date: 2026-11-19 19:47:26
+date: 2026-11-21 04:06:13
 image: 'https://m.media-amazon.com/images/I/21sZDriXiiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0874XS1WF/?tag=tolees-21'
 descuento: '41.36'
-average: '26.4709090909091'
+average: '26.458461538461545'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

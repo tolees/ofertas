@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillos : Bolsillo en la pechera
 - Cuello : Cuello abotonado
+- Bolsillos : Bolsillo en la pechera
 - Artículo : Camisa informal
-- Corte : Corte regular
 - Cierre : Cierre de botones
+- Corte : Corte regular
 - Manga : Manga larga
 
 [🛒 Comprar!!!]({{< param buyurl >}})

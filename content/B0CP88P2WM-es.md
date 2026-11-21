@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- La cámara interior está fabricada con un tejido mixto de poliéster y una mosquitera de alta densidad
 - Tienda de campaña
 - Vida al aire libre
-- La cámara interior está fabricada con un tejido mixto de poliéster y una mosquitera de alta densidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CP88P2WM{{</world>}}

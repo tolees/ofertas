@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Detalles distintivos de la marca
 - Tejido ligero y cómodo
 - Con un estilo informal
-- Detalles distintivos de la marca
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DPB9H5BL{{</world>}}

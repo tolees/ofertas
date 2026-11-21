@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Regular Fit
 - Versatilidad para el día a día
+- Regular Fit
 - Hecho con materiales y construcción duraderos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

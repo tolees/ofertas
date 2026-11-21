@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ✅ Accesorios incluidos: 4x tornillo M4, 4x tornillo M6 L12 mm, 4x tornillo M6 L16 mm.
 - ✅ Medidas VESA soportadas: desde 75 x 75 hasta 400 x 400 mm.
 - ✅ Soporte de mesa tipo peana fijo.
-- ✅ Tamaños de televisores recomendados: desde 32 hasta 50 pulgadas.
+- ✅ Accesorios incluidos: 4x tornillo M4, 4x tornillo M6 L12 mm, 4x tornillo M6 L16 mm.
 - ✅ Carga máxima soportada: 30 kg.
+- ✅ Tamaños de televisores recomendados: desde 32 hasta 50 pulgadas.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DMSTBLQJ{{</world>}}

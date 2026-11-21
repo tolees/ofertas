@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Correa de piel negra
 - Esfera negra con efecto de rayo de sol
+- 3 ATM de resistencia al agua; el agua del grifo o la lluvia no daña los relojes siempre y cuando la caja, la corona y el cristal permanezcan intactos
 - Grosor de la caja de 6.20 mm
 - Dos manecillas
-- 3 ATM de resistencia al agua; el agua del grifo o la lluvia no daña los relojes siempre y cuando la caja, la corona y el cristal permanezcan intactos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07ND9N75K{{</world>}}

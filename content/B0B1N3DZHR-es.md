@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Zapatillas deportivas para tenis
 - Práctico y cómodo
 - Microburbujas DMX en la entresuela
 - Calzado deportivo de la marca Reebok
-- Zapatillas deportivas para tenis
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B1N3DZHR{{</world>}}

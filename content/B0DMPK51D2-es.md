@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Empeine de piel
 - Suela de goma duradera
 - Perfil de corte bajo
 - Logotipo de archivo y caja de ventana
-- Empeine de piel
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DMPK51D2{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Empeine textil y sintético
 - Forro textil
+- Empeine textil y sintético
 - Horma clásica
-- Mediasuela CLOUDFOAM
 - Cordones elásticos y cierre autoadherente
+- Mediasuela CLOUDFOAM
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F1X519TK{{</world>}}

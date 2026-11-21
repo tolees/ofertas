@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Logo Árbol
 - Regular Fit
+- Logo Árbol
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DNKC6T62{{</world>}}

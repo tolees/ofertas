@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sistema operativo: Android 13.0
-- Descripción de la cámara: frontal
-- Tecnología de red inalámbrica: CDMA
 - Restricciones de transporte: {modes:["NONE"],eval attrs:{{4AEA6u6jgYPen4a+nN6ahI6RaGF6bWF0U3ltYm9sVGFibGWFIQGIIV7eoabdskg/8Cj1wo9cKbNxXa9xOKXdskhdh.com AMQAA. xxNA ==}}}}
-- Tecnología de conectividad: USB
-- Proveedor inalámbrico: todos los operadores
-- Dimensiones del artículo: 0 cm
-- Capacidad de almacenamiento de memoria: 512.0 GB
+- Sistema operativo: Android 13.0
+- Tecnología de red inalámbrica: CDMA
 - Tamaño de la pantalla: 7.6 pulgadas
+- Capacidad de almacenamiento de memoria: 512.0 GB
+- Descripción de la cámara: frontal
+- Dimensiones del artículo: 0 cm
+- Proveedor inalámbrico: todos los operadores
+- Tecnología de conectividad: USB
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CJJYWMRR{{</world>}}

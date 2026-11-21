@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Driver 5” polipropileno mineral
 - Potencía admisible 10-100 watts rms
+- Driver 5” polipropileno mineral
+- Respuesta: 60-25 khz
 - Tweeter 1” cúpula de aluminio
 - Altavoces intemperie 2 vías
-- Respuesta: 60-25 khz
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00378KMFU{{</world>}}

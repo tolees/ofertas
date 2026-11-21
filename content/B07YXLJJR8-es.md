@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello acanalado
 - Tejido de mezcla de algodón súper suave que proporciona comodidad durante todo el día
+- Cuello acanalado
 - La tecnología detrás de la variada gama de productos de Under Armour para hombres, mujeres y jóvenes es compleja, pero el programa para cosechar los beneficios es simple: usa HeatGear cuando haga calor, ColdGear cuando haga frío y AllSeasonGear entre los extremos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

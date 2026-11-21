@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tela Suave
 - Corte normal
+- Tela Suave
 - Logotipo de Nike en el frente
 
 [🛒 Aquí!!!]({{< param buyurl >}})

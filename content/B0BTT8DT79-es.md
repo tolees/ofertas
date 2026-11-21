@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Plantilla extraible
-- Suela Softlight
-- Altura de 3 cm
-- Cierre con cordones
 - Forro textil
+- Suela Softlight
+- Cierre con cordones
+- Altura de 3 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BTT8DT79{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Secador de Pelo Iónico Profesional Hair Dryer Negativos Portátil con 3 Temperaturas 2 Velocidades Botón de Aire Frío Incluye 1 Difusor y 2 Concentradores'
-date: 2026-11-19 09:28:12
+date: 2026-11-20 18:56:18
 image: 'https://m.media-amazon.com/images/I/41BmUb4yzmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GV3S2Q8T/?tag=tolees-21'
 descuento: '71.43'
-average: '92.842857142857142'
+average: '85.98625'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

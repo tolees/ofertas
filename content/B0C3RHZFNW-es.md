@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Orificio del grifo: no
-- Profundidad del fregadero: 90 mm
 - Orificio de desbordamiento: no
 - Diámetro del orificio de drenaje: 45 mm
+- Profundidad del fregadero: 90 mm
 - Método de montaje: independiente
 
 [🛒 Aquí!!!]({{< param buyurl >}})

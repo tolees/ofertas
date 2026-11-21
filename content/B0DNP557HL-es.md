@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi S Vaqueros para Mujer 728 HR Wide Leg Sweet Success 27W / 30L'
-date: 2026-11-20 11:26:15
+date: 2026-11-21 13:05:16
 image: 'https://m.media-amazon.com/images/I/31hcAbu3M-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

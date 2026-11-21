@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido: 1x NYX Professional Makeup Crema de Labios Smooth Whip, Colores vibrantes, Acabado mate, Tono: Parfait
-- Fórmula con manteca de karité y cacao, Aplicador envolvente, Fórmula vegana*, Disponible en 12 tonos vibrantes
 - Pintalabios líquido cremoso y ligera de alta pigmentación y acabado mate; Tonos vibrantes y suaves que aportan la máxima intensidad de color y suavidad en una sola pasada.
+- Contenido: 1x NYX Professional Makeup Crema de Labios Smooth Whip, Colores vibrantes, Acabado mate, Tono: Parfait
 - Aplícalo sobre los labios con su aplicador envolvente y la cuantas veces como desees, para conseguir un resultado ultra pigmentado.
 - Su formula ultra pigmentada tiene una texura mantequilla para una sensación suave a la vez que nutre tus labios para una sensación agradable
+- Fórmula con manteca de karité y cacao, Aplicador envolvente, Fórmula vegana*, Disponible en 12 tonos vibrantes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BL8G86XW{{</world>}}

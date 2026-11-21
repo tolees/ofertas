@@ -30,12 +30,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - INSTÁLALA EN CUALQUIER ESPACIO EXTERIOR: gracias al soporte fácil de instalar y al diseño resistente a la intemperie, puedes colocar tu Cámara exterior Pro exactamente donde más la necesites.
 - MÁXIMA PROTECCIÓN PARA EXTERIORES: la tecnología Retinal 4K ofrece una calidad de imagen de nivel superior con un zoom de hasta 10 aumentos para que puedas observar hasta los pequeños detalles con una definición ultranítida en cualquier tipo de luz.
-- OBTÉN IMÁGENES CLARAS A TODO COLOR POR LA NOCHE: la visión con poca luz te ofrece una visión nítida y colorida incluso en condiciones cercanas a la oscuridad.
 - VINCÚLALA CON ALEXA: escucha notificaciones personalizadas desde Echo Dot, accede al vídeo con Echo Show y mantén tu hogar protegido en modo manos libres con una selección de dispositivos compatibles con Alexa.
-- OBSERVA LOS DETALLES EN LA OSCURIDAD: la visión nocturna adaptable equilibra los tonos blancos y negros intensos cuando no hay luz para mostrar lo que el ojo humano no puede percibir.
-- MÁS VISIÓN, MÁS INFORMACIÓN Y MÁS PROTECCIÓN: guarda las grabaciones de tus vídeos hasta 180 días para verlas de nuevo en cualquier momento, recibe alertas cuando se detecten personas y mucho más con un plan de suscripción Ring (a la venta por separado).
 - RECIBE ALERTAS PRECISAS, NO FALSAS ALARMAS: con la detección de movimiento 3D mediante radar, recibirás alertas precisas y personalizadas para tu hogar.
+- OBSERVA LOS DETALLES EN LA OSCURIDAD: la visión nocturna adaptable equilibra los tonos blancos y negros intensos cuando no hay luz para mostrar lo que el ojo humano no puede percibir.
+- OBTÉN IMÁGENES CLARAS A TODO COLOR POR LA NOCHE: la visión con poca luz te ofrece una visión nítida y colorida incluso en condiciones cercanas a la oscuridad.
 - AMPLIA 10x: captura detalles a distancia con hasta 10x de zoom mejorado.
+- MÁS VISIÓN, MÁS INFORMACIÓN Y MÁS PROTECCIÓN: guarda las grabaciones de tus vídeos hasta 180 días para verlas de nuevo en cualquier momento, recibe alertas cuando se detecten personas y mucho más con un plan de suscripción Ring (a la venta por separado).
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DDR84NWZ{{</world>}}

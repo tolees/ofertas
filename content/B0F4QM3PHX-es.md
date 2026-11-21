@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estilo elegante
 - Cierre con botones
+- Estilo elegante
 - Camisa de manga larga
 
 [🛒 Aquí!!!]({{< param buyurl >}})

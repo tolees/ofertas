@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Color: nero
 - Ilumina tu ordenador para jugar, con 18.luces LED RGB personalizables por separado para disfrutar de efectos de luz armonizados.
-- Personaliza tus combinaciones de luces con NZXT CAM. Puedes sincronizarlo fácilmente con todos tus accesorios de iluminación compatibles.
 - El diseño de las aspas del ventilador ofrece un equilibrio extraordinario entre presión estática y flujo de aire, y hace que funcione de manera tan silenciosa como un susurro.
+- Personaliza tus combinaciones de luces con NZXT CAM. Puedes sincronizarlo fácilmente con todos tus accesorios de iluminación compatibles.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B3R2MV6T{{</world>}}

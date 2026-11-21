@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Flexibles
 - Aspecto y tacto clásicos
 - Clarks Sandals, Tuscan Cross, Mauve Suede, 3 (Women)
+- Flexibles
 - Alta calidad
 - Cojín suave
 

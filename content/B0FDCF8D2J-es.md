@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Vegano
-- Espuma viscoelástica refrigerada por aire
-- Flex
 - Slip-Ins integrados
+- Flex
+- Espuma viscoelástica refrigerada por aire
 - Almohada para el talón
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- El secreto de Zacapa es su lento añejamiento de solera en las tierras frías del altiplano de Guatemala y la utilización únicamente del jugo concentrado del primer prensado de la caña de azúcar
+- Para disfrutarlo solo en vaso bajo de base pesada
 - Graduación alcohólica: 40 %
 - En enero de 2012, la marca Zacapa fue reconocida por la asociación mundial del lujo como una de las cien marcas más valoradas e influyentes a nivel mundial
-- El secreto de Zacapa es su lento añejamiento de solera en las tierras frías del altiplano de Guatemala y la utilización únicamente del jugo concentrado del primer prensado de la caña de azúcar
-- Prolongado, suave y dulce con notas de chocolate de picotas e intensos aromas de frutas deshidratadas como sultanas, dátiles y ciruelas; madera y caramelo quemados, frutos secos tostados y naranja
-- Para disfrutarlo solo en vaso bajo de base pesada
-- Ron Zacapa envejece a 2300 metros sobre el nivel del mar, en la llamada Casa por encima de las nubes; aquí nuestro ron se añeja mediante el exclusivo Sistema Solera, guiado por la maestra ronera Lorena Vásquez, quien selecciona los diferentes barriles por los que pasan todas nuestras variedades
 - Zacapa XO es un ron de gran lujo elaborado a partir de una mezcla de rones añejados entre 6 y 25 años con un añejamiento adicional en barricas de roble francés que previamente han contenido coñac
+- Prolongado, suave y dulce con notas de chocolate de picotas e intensos aromas de frutas deshidratadas como sultanas, dátiles y ciruelas; madera y caramelo quemados, frutos secos tostados y naranja
+- Ron Zacapa envejece a 2300 metros sobre el nivel del mar, en la llamada Casa por encima de las nubes; aquí nuestro ron se añeja mediante el exclusivo Sistema Solera, guiado por la maestra ronera Lorena Vásquez, quien selecciona los diferentes barriles por los que pasan todas nuestras variedades
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01FJPV2RU{{</world>}}

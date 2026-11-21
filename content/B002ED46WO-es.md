@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tapa de regalo para beber tu café
-- Libre de BPA
 - Lavado en parte superior de lavavajillas solamente
+- Libre de BPA
+- Tapa de regalo para beber tu café
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B002ED46WO{{</world>}}

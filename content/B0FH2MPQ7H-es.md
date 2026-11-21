@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte ajustado
 - Corte recto
+- Corte ajustado
 - Composición: 77% algodón 21% poliéster 2% elastano
 
 [🛒 Visítala!!!]({{< param buyurl >}})

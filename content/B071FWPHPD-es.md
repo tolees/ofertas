@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'ONLY Live Love Life Leggings Mujer Leggins Negro 95% algodón 5% elastán Estrechos'
-date: 2026-07-14 17:40:29
+title: 'ONLY Leggins para mujer negros opacos para ocio deporte yoga o fitness 95% algodón 15209151 XL'
+date: 2026-11-20 22:05:26
 image: 'https://m.media-amazon.com/images/I/31LC9BLpG-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B071FWPHPD-es ONLY Live Love Life Leggings Mujer Leggins Negro 95%...'
+slug: 'B071FWPHPD-es ONLY Leggins para mujer negros opacos para ocio deporte...'
 sku: 'B071FWPHPD-es'
 tags: [ '🇪🇸', ]
-actualPrice: 5.49 EUR
+actualPrice: 5.48 EUR
 currency: EUR
-price: 5.49
+price: 5.48
 comparePrice: 14.99 EUR
-prodname: 'ONLY Live Love Life Leggings Mujer Leggins Negro 95% algodón 5% elastán Estrechos'
+prodname: 'ONLY Leggins para mujer negros opacos para ocio deporte yoga o fitness 95% algodón 15209151 XL'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B071FWPHPD/?tag=tolees-21'
-descuento: '63.38'
-average: '6.855'
+descuento: '63.44'
+average: '6.58'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,6 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste : Estrechos
-- Descubre todas las marcas de EMP!
-- Básicos, Ropa casual, Ropa de Calle
-- Leggins con las siguientes características:
-- Leggings || Longitud: Largo || altura de la cintura: Talla Mediana
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B071FWPHPD{{</world>}}

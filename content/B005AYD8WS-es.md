@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Protección del daño oxidativo
 - Complejo que refuerza el sistema inmunitario
 - Incluye quercitina y bromelina
-- Protección del daño oxidativo
 - Utiliza una forma de vitamina C patentada que no produce molestias gastrointestinales
 
 [🛒 Aquí!!!]({{< param buyurl >}})

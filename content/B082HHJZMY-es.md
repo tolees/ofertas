@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tofu instantáneo para sopa de miso de S&B
-- De la marca S&B
-- País de origen: Japón
 - Contenido: 1 x 30 gram
+- De la marca S&B
+- Tofu instantáneo para sopa de miso de S&B
+- País de origen: Japón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B082HHJZMY{{</world>}}

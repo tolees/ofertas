@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Care Label:
-- Long Sleeves
-- materialFabricComposition: Outer: 100% Polyester; Padding: 100% Polyester; Lining: 100% Polyester
 - Regular Fit
+- Care Label:
+- materialFabricComposition: Outer: 100% Polyester; Padding: 100% Polyester; Lining: 100% Polyester
+- Long Sleeves
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CLDR5NW9{{</world>}}

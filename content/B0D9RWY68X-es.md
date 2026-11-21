@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Caja material/color: Resina / Gris
-- Correa material/color: Acero inoxidable / Gris
-- Diámetro caja: 32MM
 - Espectacular producto de la marca CASIO, modelo AQ-800EB-2AEF.
+- Diámetro caja: 32MM
+- Correa material/color: Acero inoxidable / Gris
+- Caja material/color: Resina / Gris
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D9RWY68X{{</world>}}

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cuello alzado
-- Cuello alzado
 - Bragueta de cremallera
+- Cuello alzado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F4XL12HV{{</world>}}

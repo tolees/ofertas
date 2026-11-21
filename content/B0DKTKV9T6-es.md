@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Con 192 páginas cuadriculadas de papel reciclado de 70 g/m
-- Tapa dura de PU reciclado en color verde oscuro
-- Cuaderno con práctico bolsillo interior, marcapáginas y cierre con goma elástica
-- Cuaderno de 13 x 21 cm, para apuntes, aprendizaje o visualización
 - Cuaderno sostenible para el colegio, la universidad y la oficina
+- Tapa dura de PU reciclado en color verde oscuro
+- Cuaderno de 13 x 21 cm, para apuntes, aprendizaje o visualización
+- Cuaderno con práctico bolsillo interior, marcapáginas y cierre con goma elástica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DKTKV9T6{{</world>}}

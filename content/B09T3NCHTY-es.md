@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Puños ajustados
-- Logo de la marca en el frente
-- Cintura elástica
 - Cordón de ajuste
+- Cintura elástica
+- Logo de la marca en el frente
+- Puños ajustados
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09T3NCHTY{{</world>}}

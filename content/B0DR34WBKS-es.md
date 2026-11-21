@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La montura RXable permite la adaptación de lentes graduadas.
-- La sofisticada forma cat-eye proporciona un look femenino y distintivo
-- Diseñado con acetato sensible a los rayos UV, el color cambia cuando se expone a la luz ultravioleta.
 - Este modelo es M
+- Diseñado con acetato sensible a los rayos UV, el color cambia cuando se expone a la luz ultravioleta.
+- La sofisticada forma cat-eye proporciona un look femenino y distintivo
 - Las lentes combinan con los colores de la montura.
+- La montura RXable permite la adaptación de lentes graduadas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DR34WBKS{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Costuras decorativas delanteras
-- Pantalones cortos de natación de hilo para playa bien ajustados
 - Cintura media
+- Pantalones cortos de natación de hilo para playa bien ajustados
+- Costuras decorativas delanteras
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B696KFY6{{</world>}}

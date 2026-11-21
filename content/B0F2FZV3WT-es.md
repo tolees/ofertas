@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Horma clásica
-- Plantilla textil
 - Cordones
+- Plantilla textil
+- Horma clásica
 - Mediasuela DREAMSTRIKE
 - Empeine textil
 

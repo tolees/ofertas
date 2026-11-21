@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Suela de goma resistente a la abrasión y forro textil
-- Entresuela de EVA
 - Empeine de piel
+- Entresuela de EVA
 - Cierre de cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

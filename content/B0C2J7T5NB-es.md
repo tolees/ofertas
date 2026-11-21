@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte regular
 - Pepe Jeans Logotipo destacado
+- Corte regular
 - Cuello redondo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Consumirla entre 0 y 3 grados C para obtener sus máximas cualidades
-- Ingredientes: agua, malta de CEBADA, lúpulo, maiz y levadura
-- La siguiente información se aplica a cada unidad del paquete
 - Con 4.8% de alcohol en volumen
 - De color rubio pajizo y espuma consistente Con ligero aroma frutal y sabor balanceado de dulce de malta y amargor suave
+- La siguiente información se aplica a cada unidad del paquete
 - Cerveza estilo pilsen
+- Ingredientes: agua, malta de CEBADA, lúpulo, maiz y levadura
+- Consumirla entre 0 y 3 grados C para obtener sus máximas cualidades
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DP4YVSDX{{</world>}}

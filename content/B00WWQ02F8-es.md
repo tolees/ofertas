@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Algodón
 - Sudadera con capucha
 - Cordón en la capucha
-- Algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00WWQ02F8{{</world>}}

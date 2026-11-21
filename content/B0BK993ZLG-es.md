@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Entresuela de goma
 - PUMA No.1 Logo en la lengüeta
 - Suela de goma
-- Entresuela de goma
 - PUMA Formstrip en los lados medial y lateral
 
 [🛒 Aquí!!!]({{< param buyurl >}})

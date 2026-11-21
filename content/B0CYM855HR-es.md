@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Horma clásica
+- Forro textil
+- Forro textil
 - Cordones elásticos con correa superior autoadherente
 - Empeine textil
-- Forro textil
-- Forro textil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CYM855HR{{</world>}}

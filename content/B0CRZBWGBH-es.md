@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una mirada original
 - Cinco bolsillos
+- Una mirada original
 - Bragueta de cremallera
 - Etiqueta de G-STAR en la parte trasera, hecha de un tejido de papel que imita a la piel
 - Proporciona comodidad

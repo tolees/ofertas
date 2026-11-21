@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cordones
 - Forro textil
 - Empeine textil
-- Cordones
 - Horma clásica
 
 [🛒 Visítala!!!]({{< param buyurl >}})

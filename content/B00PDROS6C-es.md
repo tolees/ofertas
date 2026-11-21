@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Gran calidad y durabilidad
-- Realizada en polipropileno de color transparente
-- Tamaño A5
 - Con 13 departamentos
+- Tamaño A5
 - Carpeta clasificadora de fuelle
+- Realizada en polipropileno de color transparente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00PDROS6C{{</world>}}

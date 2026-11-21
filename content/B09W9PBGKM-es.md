@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Se trata de una equipación deportiva
-- Apropiada para formar un equipo amateur de futbol
-- Consta de mangas cortas
 - Marca: Kappa
+- Consta de mangas cortas
+- Apropiada para formar un equipo amateur de futbol
+- Se trata de una equipación deportiva
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09W9PBGKM{{</world>}}

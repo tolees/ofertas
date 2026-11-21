@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - marca converse
-- Parte superior de cuero
 - zapato bajo
+- Parte superior de cuero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D1QNTW1V{{</world>}}

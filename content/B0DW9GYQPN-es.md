@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Detalle de volante en el cuello
-- Manga: Larga
-- Color: Liso
 - Desigual
+- Color: Liso
 - Fit: Loose
 - Escote en V
+- Manga: Larga
+- Detalle de volante en el cuello
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DW9GYQPN{{</world>}}

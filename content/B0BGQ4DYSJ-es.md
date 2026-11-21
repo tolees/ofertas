@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sudadera con capucha
 - Bolsillos tipo canguro en la parte delantera
+- Sudadera con capucha
+- RIB en las mangas y en la parte inferior
 - Logotipo ROXY en lámina en la parte delantera
 - Cómodo jersey de algodón y poliéster
-- RIB en las mangas y en la parte inferior
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BGQ4DYSJ{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tijeras ligeras y con mango cómodo
-- Tamaño: 15 cm - 8"
-- Tijera multiusos, para cocina, manualidades y otras aplicaciones
 - Material: acero inoxidable
+- Tijeras ligeras y con mango cómodo
+- Tijera multiusos, para cocina, manualidades y otras aplicaciones
+- Tamaño: 15 cm - 8"
 - Mangos tpr soft grip de color rojo y negro
 
 [🛒 Aquí!!!]({{< param buyurl >}})

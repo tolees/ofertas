@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La familia Chrisanthidis ha conseguido mantener vivo este sabor único y apreciado a través de las generaciones y promoverlo en todo el mundo utilizando sólo los ingredientes griegos más puros, sin conservantes y únicamente métodos de producción artesanales.
-- La combinación de almendras enteras, aroma inconfundible y auténtico sabor a mantequilla hacen de estas galletas Kourabie una experiencia única de sabor y gusto.
-- Premio al Sabor Superior 2021
-- Un delicioso shortbread para disfrutar solo, con una taza de café, té o leche.
 - La kourabie, también conocida como galletas de mantequilla, galletas de almendra o galletas griegas, es un postre tradicional, muy apreciado en toda Grecia, que deja su dulce aroma y sabor en todas las casas griegas durante las fiestas navideñas.
+- La combinación de almendras enteras, aroma inconfundible y auténtico sabor a mantequilla hacen de estas galletas Kourabie una experiencia única de sabor y gusto.
+- La familia Chrisanthidis ha conseguido mantener vivo este sabor único y apreciado a través de las generaciones y promoverlo en todo el mundo utilizando sólo los ingredientes griegos más puros, sin conservantes y únicamente métodos de producción artesanales.
+- Un delicioso shortbread para disfrutar solo, con una taza de café, té o leche.
+- Premio al Sabor Superior 2021
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B075GMPDVG{{</world>}}

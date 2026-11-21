@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Recommended uses for product: Hogar
 - Producto oficial: disfruta de tu infusión matutina con la taza con forma de cara de Beetlejuice, con una capacidad extra grande de 650 ml, con esta taza de cerámica con forma de cabeza icónica de poltergeist.
-- Specific uses for product: Bebidas frías y calientes
-- Item weight: 0.99 pounds
 - Capacity: 650.0 milliliters
-- Reusability: Reutilizable
+- Pattern type: Sólido
 - Included components: Asa
 - Occasion type: Cualquier
+- Specific uses for product: Bebidas frías y calientes
+- Reusability: Reutilizable
+- Item weight: 0.99 pounds
+- Recommended uses for product: Hogar
 - Care instructions: Lavado a mano
-- Pattern type: Sólido
 - Theme: Superhéroe, película
 
 [🛒 Comprar!!!]({{< param buyurl >}})

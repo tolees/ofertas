@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Oftalmológicamente probado y adecuado para ojos sensibles y usuarios de lentes de contacto
 - Punta precisa de 0.4mm de grosor, permite una buena precisión para conseguir un trazo definido
 - Delinea un trazo a ras de las pestañas superiores terminando con el rabillo del ojo
-- Formato rotulador. No se corre, no mancha y es Waterproof
+- Oftalmológicamente probado y adecuado para ojos sensibles y usuarios de lentes de contacto
 - Eyeliner rotulador con punta precisa y duración 24h
+- Formato rotulador. No se corre, no mancha y es Waterproof
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0067VKMFO{{</world>}}

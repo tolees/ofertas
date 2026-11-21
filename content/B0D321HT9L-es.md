@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre de cordones
-- Forro textil
-- Empeine de ante
 - Horma clásica
+- Forro textil
+- Cierre de cordones
+- Empeine de ante
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D321HT9L{{</world>}}

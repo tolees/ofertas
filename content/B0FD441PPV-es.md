@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100 % poliéster
 - Camiseta de cuello redondo de pelo suave con estampado bordado y aplicaciones en la parte delantera. Hombros bajos, mangas largas con muñeca.
+- 100 % poliéster
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FD441PPV{{</world>}}

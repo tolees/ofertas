@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- 5 bolsillos
 - Pantalón casual
 - Hecho de la mejor sarga
-- 5 bolsillos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BKH3WTHL{{</world>}}

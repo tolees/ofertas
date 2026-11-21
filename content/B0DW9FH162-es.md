@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Espuma viscoelástica refrigerada por aire
 - Slip-Ins
-- Lavable a máquina
 - Vegano
+- Lavable a máquina
+- Espuma viscoelástica refrigerada por aire
 - Glide-Step
 
 [🛒 Visítala!!!]({{< param buyurl >}})

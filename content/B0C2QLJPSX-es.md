@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Forro textil
 - Parte superior de lona
 - Horma clásica
 - Compra una talla más grande
-- Forro textil
 - Cierre de cordones
 - Plantilla Cloudfoam
 

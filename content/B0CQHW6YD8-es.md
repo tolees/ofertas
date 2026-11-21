@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips OneBlade 360 Auténtico Barbero Afeitadora y recortadora eléctrica facial y corporal Conectado cuchilla 360 cuchilla original peine ajustable 5en1 kit corporal estuche de viaje QP4631/65'
-date: 2026-11-19 10:29:32
+date: 2026-11-20 17:58:03
 image: 'https://m.media-amazon.com/images/I/413J4xRut1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CQHW6YD8/?tag=tolees-21'
 descuento: '40.01'
-average: '50.020192307692213'
+average: '49.833888888888794'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

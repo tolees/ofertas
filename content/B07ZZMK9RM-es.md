@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Jack & Jones Jfwstellar Mesh Majolica Blue Noos Zapatillas Hombre Azul Majolica Blue 42 EU'
-date: 2026-05-24 18:36:33
+title: 'Jack & Jones Male Jfwstellar Mesh Majolica Blue Noos Majolica Blue 42 | Punta redonda suela resistente cierre con cordones estilo Casual para uso diario'
+date: 2026-11-21 12:47:20
 image: 'https://m.media-amazon.com/images/I/21Qd9oAwMwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07ZZMK9RM-es Jack & Jones Jfwstellar Mesh Majolica Blue Noos Zapatillas...'
+slug: 'B07ZZMK9RM-es Jack & Jones Male Jfwstellar Mesh Majolica Blue Noos...'
 sku: 'B07ZZMK9RM-es'
 tags: [ '🇪🇸', ]
-actualPrice: 35.05 EUR
+actualPrice: 33.19 EUR
 currency: EUR
-price: 35.05
+price: 33.19
 comparePrice: 59.99 EUR
-prodname: 'Jack & Jones Jfwstellar Mesh Majolica Blue Noos Zapatillas Hombre Azul Majolica Blue 42 EU'
+prodname: 'Jack & Jones Male Jfwstellar Mesh Majolica Blue Noos Majolica Blue 42 | Punta redonda suela resistente cierre con cordones estilo Casual para uso diario'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZZMK9RM/?tag=tolees-21'
-descuento: '41.57'
-average: '37.3923728813557'
+descuento: '44.67'
+average: '37.254590163934203'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre: Cordones
-- Material exterior: Sintético
-- Material de la suela: Material Sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07ZZMK9RM{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior de malla transpirable para una ventilación óptima.
 - Suela de goma de alta resistencia para una tracción superior.
+- Parte superior de malla transpirable para una ventilación óptima.
 - Amortiguación de gel para una óptima absorción de impactos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

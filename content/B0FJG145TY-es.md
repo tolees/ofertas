@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Diseño corto
 - Malla en el interior
 - Bolsillos laterales
-- Cierre con cordón para un ajuste a medida
 - Diseño de color fijo
-- Diseño corto
+- Cierre con cordón para un ajuste a medida
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FJG145TY{{</world>}}

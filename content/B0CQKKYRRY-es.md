@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- materialFabricComposition: 100% Polyester
-- Hood
 - Long Sleeves
+- Hood
+- materialFabricComposition: 100% Polyester
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CQKKYRRY{{</world>}}

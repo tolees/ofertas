@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste: corte normal
-- Forro de poliéster para un uso cómodo
 - Cuello: cuello de solapa
-- Blazer
 - Bolsillos: bolsillos delanteros
+- Forro de poliéster para un uso cómodo
+- Ajuste: corte normal
+- Blazer
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CNGWGLXT{{</world>}}

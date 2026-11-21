@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- TEJIDO: Punto de poliéster reciclado sedoso (100% poliéster reciclado) para sensación ligera y comodidad transpirable
-- DISEÑO Y ESTILO: Top cropped ligero que ofrece rendimiento transpirable con enfoque sostenible
 - CARACTERÍSTICAS: Acabado negro elegante con silueta cropped estilizada para un look de alto rendimiento que favorece el movimiento con confianza
 - MEJOR PARA: Entrenamientos de alta intensidad y sesiones de rendimiento
+- DISEÑO Y ESTILO: Top cropped ligero que ofrece rendimiento transpirable con enfoque sostenible
+- TEJIDO: Punto de poliéster reciclado sedoso (100% poliéster reciclado) para sensación ligera y comodidad transpirable
 - AJUSTE: Slim / cropped para ajuste favorecedor y seguro
 
 [🛒 Aquí!!!]({{< param buyurl >}})

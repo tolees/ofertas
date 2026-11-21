@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Listo para cualquier uso culinario : ideal para untar, hummus, salsas, aderezos, repostería o bowls energéticos, sin necesidad de refrigeración.
-- 100% ecológico y sin aditivos : sin azúcares añadidos, su textura integral conserva todos los nutrientes y ofrece un sabor auténtico y versátil.
-- Fuente natural de energía : rico en proteínas vegetales, fibra y grasas saludables, aporta energía sostenida y ayuda a mantener una alimentación equilibrada.
-- Tahini integral ecológico : elaborado con semillas de sésamo 100% trituradas, cremoso y natural, listo para consumir directamente o añadir a tus recetas dulces y saladas.
 - Semillas de sésamo integral seleccionadas : procedentes de agricultura ecológica, garantizando calidad; puede contener trazas de frutos de cáscara por fabricación compartida.
+- Tahini integral ecológico : elaborado con semillas de sésamo 100% trituradas, cremoso y natural, listo para consumir directamente o añadir a tus recetas dulces y saladas.
+- Listo para cualquier uso culinario : ideal para untar, hummus, salsas, aderezos, repostería o bowls energéticos, sin necesidad de refrigeración.
+- Fuente natural de energía : rico en proteínas vegetales, fibra y grasas saludables, aporta energía sostenida y ayuda a mantener una alimentación equilibrada.
+- 100% ecológico y sin aditivos : sin azúcares añadidos, su textura integral conserva todos los nutrientes y ofrece un sabor auténtico y versátil.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0G3Y4XY4N{{</world>}}

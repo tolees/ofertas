@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- PUMA Detalles de la marca
 - Cierre de cordones
+- PUMA Detalles de la marca
 - Parte superior de cuero y material mixto
 
 [🛒 Aquí!!!]({{< param buyurl >}})

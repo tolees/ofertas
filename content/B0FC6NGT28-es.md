@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - La jugabilidad clásica que todos adoran
-- Un nuevo modo de juego golfantástico
 - Juega en solitario o con amigos
+- Un nuevo modo de juego golfantástico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FC6NGT28{{</world>}}

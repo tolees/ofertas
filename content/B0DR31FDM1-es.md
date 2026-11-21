@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Garantía internacional de 2 años
 - Talla 56/17/140
+- Garantía internacional de 2 años
 - Silver
 - NO
 

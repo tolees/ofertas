@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Disfruta de su delicioso sabor, proveniente de ingredientes naturales. Este producto es sin azúcar y sin gluten.
-- Ideal para cualquier ocasión: antes de una cita o reunión, después de una comida, en el coche o en su escritorio.
-- Si hay algo que caracteriza a Smint es la forma triangular de sus pequeños y potentes caramelos comprimidos con golpe de frescor instantáneo.
 - El envase práctico cabe en cualquier bolso o bolsillo del pantalón. Fácil de usar y listo para darte ese golpe de frescor y sabor que necesitas.
+- Si hay algo que caracteriza a Smint es la forma triangular de sus pequeños y potentes caramelos comprimidos con golpe de frescor instantáneo.
+- Disfruta de su delicioso sabor, proveniente de ingredientes naturales. Este producto es sin azúcar y sin gluten.
 - Caramelo comprimido Smint Sours sin azúcar con sabor a Fresa Ácida. El producto contiene 6x49g de caramelos comprimidos.
+- Ideal para cualquier ocasión: antes de una cita o reunión, después de una comida, en el coche o en su escritorio.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C6B4LQ5P{{</world>}}

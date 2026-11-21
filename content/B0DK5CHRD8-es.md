@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Costura vertical en la parte delantera
 - Etiqueta tejida G-Star Originals en la parte inferior de la parte delantera
+- Un ajuste cómodo
 - Borde en el cuello
 - G-Star Bordado RAW en el pecho
-- Un ajuste cómodo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DK5CHRD8{{</world>}}

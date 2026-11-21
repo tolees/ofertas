@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Bolsillos de parche en la cintura, botón a presión oculto
 - Puños y cintura acanalados
 - Cierre de cremallera
-- Cuello acanalado
-- Bolsillos de parche en la cintura, botón a presión oculto
 - Bolsillo interior
+- Cuello acanalado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D8WNBKHM{{</world>}}

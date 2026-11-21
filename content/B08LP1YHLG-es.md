@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Artículos entregados: 1x Helly Hansen Unisex Sea Gear Beanie - Beanies OFFWHITE STD
 - Logotipo de equipo de mar
 - tejido gofrado
-- Artículos entregados: 1x Helly Hansen Unisex Sea Gear Beanie - Beanies OFFWHITE STD
 - Un gorro de inspiración retro
 - Gorro Sea Gear
 

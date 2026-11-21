@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Parte superior de poliuretano
-- Suela TPR
 - Entresuela de EVA troquelada
+- Suela TPR
+- Parte superior de poliuretano
 - Ribete en color de contraste
 
 [🛒 Visítala!!!]({{< param buyurl >}})

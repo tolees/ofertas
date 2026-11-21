@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Horma clásica
-- Suela específica para campos de césped artificial de 2.ª y 3.ª generación
-- Forro textil
 - Empeine de Fiberskin con estampado Sprintgrid
+- Forro textil
+- Suela específica para campos de césped artificial de 2.ª y 3.ª generación
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHSPQBGH{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Utensilio de cocina
-- Marca de Lacor
 - Hecho de acero inoxidable
-- Tamaño: 12 x 27 cm
+- Marca de Lacor
 - Apto para lavado en lavavajillas
+- Tamaño: 12 x 27 cm
+- Utensilio de cocina
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B017LU1DD4{{</world>}}

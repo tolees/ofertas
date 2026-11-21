@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Garantía de por vida en el motor y el compresor* de la aspiradora. Cobertura de 30 años (3 de garantía legal + 27 comercial) sobre el costo de la pieza. La cobertura ofrecida excede la vida útil media del producto (8 años según 3º independiente). Promoción válida por tiempo limitado. Es necesario registrar la compra en el plazo de 1 año para activar la garantía. +info: tuserviciolg.com/promociones/garantiadeporvida
+- Doble batería: Proporciona hasta 2 horas de autonomía para una limpieza más prolongada.
 - Tecnología LG Kompressor: Comprime el polvo y el pelo en el depósito, ofreciendo hasta 2,4 veces más capacidad.
 - Alta eficiencia de filtrado: Atrapa hasta el 99,97% de las partículas de polvo para un aire más limpio.
 - Filtros y sistema ciclónico lavables: Fácil de mantener con filtros y sistema lavables.
-- Garantía de por vida en el motor y el compresor* de la aspiradora. Cobertura de 30 años (3 de garantía legal + 27 comercial) sobre el costo de la pieza. La cobertura ofrecida excede la vida útil media del producto (8 años según 3º independiente). Promoción válida por tiempo limitado. Es necesario registrar la compra en el plazo de 1 año para activar la garantía. +info: tuserviciolg.com/promociones/garantiadeporvida
-- Doble batería: Proporciona hasta 2 horas de autonomía para una limpieza más prolongada.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DGQVKRN5{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tejido repelente al agua
 - Tamaño de equipaje de mano* (para la mayoría de las aerolíneas)
+- Tejido repelente al agua
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CP5LXT3N{{</world>}}

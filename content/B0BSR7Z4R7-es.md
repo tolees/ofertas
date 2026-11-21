@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Drasanvi, S.L. Pol. Villadangos, Calle 1, parcela 99 24392 Villadangos del Paramo - Leon - Espana
-- BENEFICIOSO PARA LA DIGESTIÓN: La avena (Avena sativa) afecta beneficiosamente a la digestión y promueve los procesos de desintoxicación del cuerpo. El Boldo colabora en la mejora de las molestias estomacales
 - BALANCE HORMONAL: La Rhodiola ayuda al balance hormonal y a mejorar el estado de ánimo, así como a reducir la fatiga física
 - COMPLEMENTO ALIMENTICIO EN FORMATO JARABE: El formato jarabe mejora la asimilación de los principios activos en el cuerpo con respecto a otros formatos
-- CONTIENE NOPAL: El Nopal ayuda a mejorar el síndrome metabólico, tiene propiedades saciantes y neuroprotectoras
 - POTENTE DETOXIFICANTE: La acción de la Ulmaria, que tiene una función depurativa y hepatoprotectora y el Cardo Mariano con acción antihepatotóxica y antioxidante lo convierten en un importante detoxificante
-- VITAMINAS DEL GRUPO B: Enriquecido con vitaminas B1, B3 y B6 necesarias para llevar a cabo las reacciones de detoxificación del cuerpo.FÁCIL DE TOMAR: Tomar 20 ml directamente del vasito dosificador o diluirlo en un litro de agua para tomarlo durante el día
 - DIURÉTICO: Perfecta combinación de Alcachofa, Vara de Oro y Sauco que contribuyen a la pérdida de líquidos
+- BENEFICIOSO PARA LA DIGESTIÓN: La avena (Avena sativa) afecta beneficiosamente a la digestión y promueve los procesos de desintoxicación del cuerpo. El Boldo colabora en la mejora de las molestias estomacales
+- VITAMINAS DEL GRUPO B: Enriquecido con vitaminas B1, B3 y B6 necesarias para llevar a cabo las reacciones de detoxificación del cuerpo.FÁCIL DE TOMAR: Tomar 20 ml directamente del vasito dosificador o diluirlo en un litro de agua para tomarlo durante el día
+- Drasanvi, S.L. Pol. Villadangos, Calle 1, parcela 99 24392 Villadangos del Paramo - Leon - Espana
+- CONTIENE NOPAL: El Nopal ayuda a mejorar el síndrome metabólico, tiene propiedades saciantes y neuroprotectoras
 - FÓRMULA COMPLETA PARA UN PESO SALUDABLE: Formulado con extracto seco de Ulmaria, Boldo, Rhodiola, Avena, Te Rojo, Vara de oro, Alcahofa, Nopal, Saúco, Cardo Mariano y Vitaminas del grupo B
 - TERMOGÉNICO: El Te Rojo es un poderoso termogénico que colabora tanto en la retención de líquidos como en la pérdida de peso
 

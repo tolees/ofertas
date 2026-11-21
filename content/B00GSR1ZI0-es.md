@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Item_shape : Eckig
-- Calendar_type : Sin función fecha
 - Watch_movement_type : Sin
+- Calendar_type : Sin función fecha
+- Item_shape : Eckig
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00GSR1ZI0{{</world>}}

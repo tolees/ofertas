@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Helly Hansen Herren Milford Jacket Marineblau M'
-date: 2026-10-21 10:47:29
+date: 2026-11-20 22:12:44
 image: 'https://m.media-amazon.com/images/I/31dU7FIncSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0FDR32MRK-es Helly Hansen Herren Milford Jacket Marineblau M'
 sku: 'B0FDR32MRK-es'
 tags: [ '🇪🇸', ]
-actualPrice: 74.57 EUR
+actualPrice: 67.5 EUR
 currency: EUR
-price: 74.57
+price: 67.5
 comparePrice: 149.99 EUR
 prodname: 'Helly Hansen Herren Milford Jacket Marineblau M'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FDR32MRK/?tag=tolees-21'
-descuento: '50.28'
-average: '74.57'
+descuento: '55.00'
+average: '71.035'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

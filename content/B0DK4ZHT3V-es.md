@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Empeine de piel sintética y ante
 - Clásica puntera con forma de T
+- Empeine de piel sintética y ante
+- Suela de goma
 - Cierre de cordones
 - Horma clásica
-- Suela de goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DK4ZHT3V{{</world>}}

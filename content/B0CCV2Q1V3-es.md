@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Conservar en un lugar fresco y seco. Una vez abierto, volver a cerrar herméticamente
-- Los niños pequeños se pueden atragantar con las semillas
-- Apto para dietas vegetarianas y veganas
-- No apto para alérgicos a los frutos de cáscara, los cacahuetes, el sésamo y la soja, ni para celíacos, debido al método de producción
-- Envasado en atmósfera protectora para mantener su frescura
 - Puede contener ocasionalmente trozos de cáscara
+- Envasado en atmósfera protectora para mantener su frescura
+- No apto para alérgicos a los frutos de cáscara, los cacahuetes, el sésamo y la soja, ni para celíacos, debido al método de producción
+- Conservar en un lugar fresco y seco. Una vez abierto, volver a cerrar herméticamente
+- Apto para dietas vegetarianas y veganas
+- Los niños pequeños se pueden atragantar con las semillas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CCV2Q1V3{{</world>}}

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Forro textil
+- Empeine textil
 - Horma clásica
 - Cierre de cordones
-- Empeine textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FRN1PYG2{{</world>}}

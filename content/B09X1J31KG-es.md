@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Medidas: cada sillón mide 54,5 x 59 x 79 cm y la mesita mide 43,5 x 43,5 x 39 cm
 - El tablero de la mesita de centro es de cristal para una mejor limpieza
 - Incluye: 2 cojines acolchados de poliéster en color beige (1 para cada asiento)
-- Materiales: muebles fabricados de ratán sintético, resistente al agua y a la intemperie
+- Medidas: cada sillón mide 54,5 x 59 x 79 cm y la mesita mide 43,5 x 43,5 x 39 cm
 - Conjunto muebles de jardín Aktive Garden compuesto por dos sillones y mesita central color negro
+- Materiales: muebles fabricados de ratán sintético, resistente al agua y a la intemperie
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09X1J31KG{{</world>}}

@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Plantilla textil
+- Horma clásica
+- Suela de goma
 - Empeine de ante y material sintético
 - Logotipos de adidas
 - Cordones
-- Plantilla textil
-- Suela de goma
-- Horma clásica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F33R97GL{{</world>}}

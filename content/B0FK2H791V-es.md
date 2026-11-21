@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Entrenador ligero de velcro con plantilla de espuma viscoelástica refrigerada por aire
 - Lavable a máquina
+- Entrenador ligero de velcro con plantilla de espuma viscoelástica refrigerada por aire
 - Glide-Step
 - Plantilla de espuma viscoelástica refrigerada por aire
 

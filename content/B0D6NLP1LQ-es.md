@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Composición: 99 por ciento algodón 1 por ciento elastano
 - Jeans Pantalones Largos
+- Tipo de estiramiento: baja elasticidad
 - Instrucciones de cuidado: apto para lavadora
 - Ajuste: recto regular
-- Tipo de estiramiento: baja elasticidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6NLP1LQ{{</world>}}

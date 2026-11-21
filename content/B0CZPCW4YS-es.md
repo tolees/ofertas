@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte clásico
 - Cintura elástica
+- Corte clásico
 - 100% algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})

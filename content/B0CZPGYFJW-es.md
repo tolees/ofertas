@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura elástica con cordón ajustable
-- Bolsillos en las costuras laterales
-- CLIMACOOL
-- Corte clásico
 - 100% poliéster (reciclado)
+- Bolsillos en las costuras laterales
+- Cintura elástica con cordón ajustable
+- Corte clásico
+- CLIMACOOL
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZPGYFJW{{</world>}}

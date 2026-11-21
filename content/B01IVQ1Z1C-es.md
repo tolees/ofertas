@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Número de modelo del producto: WGU.101143
 - convierte el entrenamiento en tu forma de vida
-- 60 Gummies
 - Complemento nutricional clínicamente testado
+- 60 Gummies
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01IVQ1Z1C{{</world>}}

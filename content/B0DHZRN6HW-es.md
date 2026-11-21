@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro textil
-- Cordones
-- Horma clásica
 - Empeine sintético y de piel
+- Cordones
 - Suela de goma cosida
+- Forro textil
+- Horma clásica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHZRN6HW{{</world>}}

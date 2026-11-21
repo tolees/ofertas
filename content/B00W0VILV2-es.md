@@ -31,8 +31,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - DISEÑO ITALIANO - El mayor fabricante europeo de productos para mascotas con más de 50 años de experiencia. Desde el diseño innovador hasta la orientación al cliente, Ferplast apuesta por la sostenibilidad, la innovación de vanguardia y el máximo confort para sus mascotas.
 - FIABLE Y SEGURA: La correa para perros Ergofluo está fabricada con nylon robusto de alta calidad.
 - MEDIDAS: Largo de la correa: 120 cm, ancho 2,5 cm.
-- PARA TODOS LOS PERROS - Gama con diferentes tamaños y colores para elegir según el tamaño y peso de su perro y sus preferencias.
 - ASA CÓMODA: La forma ergonómica del asa de la correa perro Ergofluo junto con el suave acolchado hacen que esta correa sea cómoda y práctica.
+- PARA TODOS LOS PERROS - Gama con diferentes tamaños y colores para elegir según el tamaño y peso de su perro y sus preferencias.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00W0VILV2{{</world>}}

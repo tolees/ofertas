@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- De máxima duración
 - Excelente calidad
 - Exclusiva fragancia
 - Con aroma muy agradable
-- De máxima duración
 - Buen olor
 
 [🛒 Comprar!!!]({{< param buyurl >}})

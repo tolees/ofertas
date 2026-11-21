@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - EH Safe rated ASTM F2413-05. Removable memory foam cushioned insole for extreme comfort.
-- Rubber traction sole. Electrical hazard safe design.
-- Smooth solid leather upper. Lace up work shoe.
 - Slip resistant outsole. Slip resistant sole tested with ASTM F1677-96 Mark II standards to meet or exceed a .5 coefficient even on wet and oily surfaces.
+- Smooth solid leather upper. Lace up work shoe.
+- Rubber traction sole. Electrical hazard safe design.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01M4KT1DO{{</world>}}

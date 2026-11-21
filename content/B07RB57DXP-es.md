@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Empuñadura auxiliar de 2 posiciones para mayor comodidad de agarre
 - Carcasa de engranaje de metal para mayor durabilidad de la herramienta
 - Plataforma powershare: batería extraíble e intercambiable con todas las herramientas eléctricas y de jardín de la gama 20v de worx
+- Empuñadura auxiliar de 2 posiciones para mayor comodidad de agarre
 - Bloqueo del husillo para facilitar el cambio de disco
 - Diseño estrecho y compacto para un manejo optimo y seguro
 

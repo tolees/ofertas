@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Promedio de kilómetros: 800 km
 - Diseñado para: running
+- Promedio de kilómetros: 800 km
+- Cierre: cordones
 - Pronación: neutra
 - Ajuste: estándar
-- Cierre: cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FV93JJQZ{{</world>}}

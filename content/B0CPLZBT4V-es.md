@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Paleta de maquillaje con texturas ligeras, cremosas y duraderas para colorete, bronceador y resaltador
-- Vegano, sin perfume, sin alcohol, sin parabenos, sin micropartículas plásticas, nanopartículas, sin gluten, sin acetona
 - Resultado instantáneo, color único, definitivo, natural, brillante, para todos los tipos de piel
+- Decimos no a los ensayos con animales. cosnova está enumerado internacionalmente con essence y Catrice tanto en PETA Deutschland como en PETA.
+- Vegano, sin perfume, sin alcohol, sin parabenos, sin micropartículas plásticas, nanopartículas, sin gluten, sin acetona
 - Fácil de aplicar, mezclar y combinar
 - Paleta de maquillaje todo en uno fácil de viajar
-- Decimos no a los ensayos con animales. cosnova está enumerado internacionalmente con essence y Catrice tanto en PETA Deutschland como en PETA.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CPLZBT4V{{</world>}}

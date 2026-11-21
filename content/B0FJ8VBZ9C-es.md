@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camisa de manga larga
 - Cierre con botones
 - Ofrece comodidad
+- Camisa de manga larga
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FJ8VBZ9C{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony WH-1000XM4C Auriculares inalambricos con cancelación de Ruido -Lavanda | Auriculares de diadema bluetooth Hi-Res Procesador Noise Cancelling QN1 Batería 34h Conexión multipunto iOS y Android'
-date: 2026-11-20 13:06:38
+date: 2026-11-21 13:13:50
 image: 'https://m.media-amazon.com/images/I/319mJiViLdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0HBXHB1TL/?tag=tolees-21'
 descuento: '35.36'
-average: '194.4975'
+average: '191.796'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

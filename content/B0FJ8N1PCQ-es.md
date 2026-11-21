@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tira ajustable con cierre de clip
-- Etiqueta G-STAR Originals en la parte delantera
 - Cierre de clip
 - Espalda de malla transpirable
+- Etiqueta G-STAR Originals en la parte delantera
+- Tira ajustable con cierre de clip
 - Parte delantera con paneles
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

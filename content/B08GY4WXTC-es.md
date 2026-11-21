@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste : Regular
-- Básicos
-- Manga Larga con las siguientes características:
-- Camisa Mujer || Ajuste normal || Color intenso || Material duradero
 - Descubre todas las marcas de EMP!
+- Ajuste : Regular
+- Manga Larga con las siguientes características:
+- Básicos
+- Camisa Mujer || Ajuste normal || Color intenso || Material duradero
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08GY4WXTC{{</world>}}

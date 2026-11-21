@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Zapatillas de tenis Carina 2.0 (385849-02)
 - Las Zapatillas de tenis de la marca Puma están diseñadas con la última tecnología y la mejor calidad para que se adapten perfectamente a tu pie sin dejar de la lado el estilo
 - Zapatillas de tenis ideales para Tenis de Mujer
 - Practica tu deporte favorito gracias a las Zapatillas de tenis de Puma. Comodidad y ligereza para que sólo tengas que preocuparte de rendir al máximo
+- Zapatillas de tenis Carina 2.0 (385849-02)
 - Calzado deportivo de la marca Puma
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

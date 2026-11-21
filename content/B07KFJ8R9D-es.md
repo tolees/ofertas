@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Proporciona comodidad
-- Una mirada original
 - Cierre de botones
 - Un ajuste cómodo
+- Una mirada original
+- Proporciona comodidad
 - Cuello de polo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- LLEVÁTELAS CONTIGO 🎒🍪: 12 Packs de 6 galletas (120g), ideales para una merienda rápida, un antojo dulce o para llevar a cualquier parte y disfrutar en cualquier momento.
-- SIN ACEITE DE PALMA 🚫🌿: Disfruta de estas galletas sin preocupaciones. Están elaboradas sin aceite de palma, garantizando un sabor delicioso con ingredientes de calidad.
-- NOCILLEAR EN CADA BOCADO 😍🍫: Convierte cualquier momento en una experiencia deliciosa con el inconfundible sabor de Nocilla. Perfectas para disfrutar solo o compartir.
 - NOCILLA ORIGINAL 🍪🍫: Galletas con gotas de chocolate rellenas de la clásica crema de cacao con avellanas de Nocilla, perfectas para los amantes del chocolate.
 - ALÉRGENOS ⚠️🥛🌰: Contiene trigo, mantequilla, soja, avellanas, huevo, leche y lactosa. Consérvalas en un lugar fresco y seco para mantener su frescura y textura crujiente.
+- SIN ACEITE DE PALMA 🚫🌿: Disfruta de estas galletas sin preocupaciones. Están elaboradas sin aceite de palma, garantizando un sabor delicioso con ingredientes de calidad.
+- NOCILLEAR EN CADA BOCADO 😍🍫: Convierte cualquier momento en una experiencia deliciosa con el inconfundible sabor de Nocilla. Perfectas para disfrutar solo o compartir.
+- LLEVÁTELAS CONTIGO 🎒🍪: 12 Packs de 6 galletas (120g), ideales para una merienda rápida, un antojo dulce o para llevar a cualquier parte y disfrutar en cualquier momento.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08YHP4SVG{{</world>}}

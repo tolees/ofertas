@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cintura elástica con cordón
+- 100% poliéster (reciclado)
 - Corte clásico
 - Aberturas laterales
-- 100% poliéster (reciclado)
-- Cintura elástica con cordón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZ9SLLWS{{</world>}}

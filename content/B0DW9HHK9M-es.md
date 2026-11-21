@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Desigual
-- Sin mangas
+- Estampado Arty
 - Cuello: Barco pronunciado
 - Escote pronunciado
+- Sin mangas
+- Desigual
 - Fit: Slim
-- Estampado Arty
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DW9HHK9M{{</world>}}

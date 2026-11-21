@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Fácil de borrar
 - Envoltura de papel
 - No producen polvo ni arena
-- Fácil de borrar
 - Tizas para pizarra de colores intensos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Horma clásica
 - Empeine de malla con mezcla de materiales
-- Amortiguación LIGHTMOTION
-- Refuerzo de goma en el talón
-- Cierre de cordones con detalles textiles
 - Forro textil
+- Cierre de cordones con detalles textiles
+- Refuerzo de goma en el talón
+- Amortiguación LIGHTMOTION
+- Horma clásica
 - Suela Adiwear
 
 [🛒 Visítala!!!]({{< param buyurl >}})

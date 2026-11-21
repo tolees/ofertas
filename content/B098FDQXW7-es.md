@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Mezcla de tejido premium: Hecho de 100% algodón para comodidad, flexibilidad y durabilidad.
 - Estilo distintivo: Zapatilla Brady Men Basic clásica icónica de Pepe Jeans plimsole hecha en sarga de algodón fina y sostenible, logo en el cuarteón, tacón contrastante y bajo perfil bicolor en el foxing y la suela.
-- Estilo distintivo: Zapatilla Brady Men Basic clásica icónica de Pepe Jeans plimsole hecha en sarga de algodón fina y sostenible, logo en el cuarteón, tacón contrastante y bajo perfil bicolor en el foxing y la suela.
 - Múltiples tallas y entrepiernas: Disponible en tallas 40-46 y entrepiernas para un ajuste a medida.
+- Estilo distintivo: Zapatilla Brady Men Basic clásica icónica de Pepe Jeans plimsole hecha en sarga de algodón fina y sostenible, logo en el cuarteón, tacón contrastante y bajo perfil bicolor en el foxing y la suela.
 - Colección SS27MC: Parte de la colección.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

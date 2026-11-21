@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior baja
 - Hombres
-- SUMMITS FORTON
 - 52813 NVY
+- Parte superior baja
+- SUMMITS FORTON
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07FJWCFC5{{</world>}}

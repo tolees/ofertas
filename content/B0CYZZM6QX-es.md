@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre de cordones
-- Horma clásica
-- Empeine de piel sintética y malla
 - Diseño transpirable
+- Empeine de piel sintética y malla
+- Horma clásica
+- Cierre de cordones
 - Puntera Adituff
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

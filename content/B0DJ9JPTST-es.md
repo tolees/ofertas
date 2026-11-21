@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tipo de puntera: redondeada
-- Suela de interior de perfil bajo en goma que no deja marcas y entresuela de EVA
-- Tipo de talón: plano
 - Cierre: de cordones
+- Suela de interior de perfil bajo en goma que no deja marcas y entresuela de EVA
+- Tipo de puntera: redondeada
 - Ancho: estándar
+- Tipo de talón: plano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DJ9JPTST{{</world>}}

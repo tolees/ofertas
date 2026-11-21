@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Textura semitransparente con partículas holográficas
-- Se adapta a cualquier tono de piel y potencia el color natural de los labios
 - La siguiente información se aplica a cada unidad del paquete
-- Increíble barra de labios que cambia de color para un increíble acabado personalizado
+- Se adapta a cualquier tono de piel y potencia el color natural de los labios
 - Nos oponemos a los experimentos con animales; cosnova aparece internacionalmente con essence y CATRICE tanto en PETA Alemania como en PETA
+- Textura semitransparente con partículas holográficas
+- Increíble barra de labios que cambia de color para un increíble acabado personalizado
 - Adaptación al color, efecto tinte, natural, translúcido
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

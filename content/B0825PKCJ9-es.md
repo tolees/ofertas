@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido: tejido ligero con caída mezcla de viscosa poliéster
 - Corte normal
+- Tejido: tejido ligero con caída mezcla de viscosa poliéster
 - Clásico
 - Cómodo
 - Cuello con escote redondo abierto y serigrafía en parte delantera

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste de cuña con tacón oculto de 1 pulgada
-- Suela de tracción de goma flexible
 - Tacón de 1 1/2 pulgadas
+- Suela de tracción de goma flexible
+- Ajuste de cuña con tacón oculto de 1 pulgada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6PLSPTS{{</world>}}

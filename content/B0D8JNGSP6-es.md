@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Talón rígido.
 - Punta redondeada y suave.
+- Talón rígido.
 - Suela acanalada.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

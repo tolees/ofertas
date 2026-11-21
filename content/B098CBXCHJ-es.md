@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tratamiento acondicionador intensivo
 - Aroma increíble y energizante
 - Mascarilla para el pelo Bear Fruits, tratamiento de hasta 30 minutos
-- Gorro de ducha de unicornio mágico extraordinariamente adorable
 - El aloe vera y el aceite de argán hidratan el cabello en profundidad
-- Tratamiento acondicionador intensivo
+- Gorro de ducha de unicornio mágico extraordinariamente adorable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B098CBXCHJ{{</world>}}

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Peso del paquete del artículo: 0.29 kg
-- Ancho del paquete del artículo: 215 mm
 - Altura del paquete del artículo: 130 mm
 - Longitud del paquete del artículo: 360 mm
+- Ancho del paquete del artículo: 215 mm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01GWX239E{{</world>}}

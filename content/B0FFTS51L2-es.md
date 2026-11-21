@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Parte superior triangular sólida, acolchado extraíble
-- Estampado Pepe en el lado izquierdo, hecho de suave tejido de poliéster reciclado de secado rápido
 - Correas ajustables, forro frontal
+- Estampado Pepe en el lado izquierdo, hecho de suave tejido de poliéster reciclado de secado rápido
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FFTS51L2{{</world>}}

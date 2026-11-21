@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Slim fit
-- business shirt poplin
 - Button closure, a good shirt for any occasion
+- business shirt poplin
+- Slim fit
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B18CTQJV{{</world>}}

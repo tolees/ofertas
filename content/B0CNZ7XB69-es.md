@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Escote cuadrado contemporáneo
-- Sin aros, costuras ni etiquetas
-- Copas transpirables y extraíbles
 - Acabado satinado para una sensación más suave al tacto
+- Sin aros, costuras ni etiquetas
+- Escote cuadrado contemporáneo
+- Copas transpirables y extraíbles
 - Sujetador sin corchetes
-- Sujeción ligera
 - Tirante ancho
+- Sujeción ligera
 - Varios colores y tallas disponibles
 
 [🛒 Comprar!!!]({{< param buyurl >}})

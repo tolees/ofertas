@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 87% poliéster (reciclado) / 13% elastano
+- Puños con cordón elástico ajustable
 - Corte clásico
 - Cintura elástica con cordón
-- Puños con cordón elástico ajustable
 - Bolsillos laterales con cremallera
 
 [🛒 Visítala!!!]({{< param buyurl >}})

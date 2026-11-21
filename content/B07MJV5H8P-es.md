@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- DC Shoes es un nombre de marca reconocido
-- Visera curva
 - Logo DC bordado en la parte delantera
-- Tipo de fábrica: 98% Algodón, 2% Elastano
+- Visera curva
 - X-fit flexfit
+- DC Shoes es un nombre de marca reconocido
+- Tipo de fábrica: 98% Algodón, 2% Elastano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07MJV5H8P{{</world>}}

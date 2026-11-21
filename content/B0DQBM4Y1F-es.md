@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Espuma reactiva para una amortiguación estable
 - Refuerzos en la puntera, laterales y talón para mayor durabilidad.
+- Espuma reactiva para una amortiguación estable
 - Parte superior de malla ligera para mayor transpirabilidad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

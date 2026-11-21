@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Duradera
 - Material de alta calidad
+- Duradera
 - Te mantiene fresco y cómodo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

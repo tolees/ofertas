@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material exterior: Cuero
-- Cierre: Sin cordones
 - Material de la suela: Caucho
+- Cierre: Sin cordones
+- Material exterior: Cuero
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00LMKL9LQ{{</world>}}

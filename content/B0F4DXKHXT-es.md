@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Perforaciones centrales para mayor transpirabilidad
+- Lengüeta y caña acolchadas con espuma para mayor comodidad
 - Eje de malla
 - __Tela:__ Parte superior de cuero, nobuck o gamuza
+- Perforaciones centrales para mayor transpirabilidad
 - Suela exterior: __ perfil protegido por DC "Pill Pattern"
-- Lengüeta y caña acolchadas con espuma para mayor comodidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4DXKHXT{{</world>}}

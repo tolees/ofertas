@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Manga : Manga larga
 - Artículo : Jersey de punto
-- Cuello : De cuello vuelto
 - Corte : Corte knit
+- Cuello : De cuello vuelto
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CL7Y3PM9{{</world>}}

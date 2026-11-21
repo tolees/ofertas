@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tipo de talón: plano
-- Obermaterial: Synthetik; Futter: Textil; Einlegesohle: Textil; Laufsohle: Gummi
 - Cierre: de cordones
+- Tipo de talón: plano
 - Tipo de puntera: redondeada
+- Obermaterial: Synthetik; Futter: Textil; Einlegesohle: Textil; Laufsohle: Gummi
 - Ancho: estándar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

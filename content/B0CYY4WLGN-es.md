@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Puños y dobladillo con ribete elástico
 - 100% poliéster (reciclado)
+- Cierre de cremallera y cuello alzado
 - Bolsillos laterales con cremallera
 - Corte clásico
-- Puños y dobladillo con ribete elástico
-- Cierre de cremallera y cuello alzado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CYY4WLGN{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo de archivo y caja de ventana
 - Suela de goma duradera
+- Logotipo de archivo y caja de ventana
 - Empeine de piel
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una mirada original
-- Manga corta
 - Detalles gráficos en el pecho
+- Manga corta
 - Un ajuste cómodo
 - Cuello redondo
+- Una mirada original
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FJS546Y5{{</world>}}

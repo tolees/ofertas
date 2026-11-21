@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Empeine de ante
-- Horma clásica
-- Cierre de cordones
 - Forro textil
+- Cierre de cordones
+- Horma clásica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FT44G1JZ{{</world>}}

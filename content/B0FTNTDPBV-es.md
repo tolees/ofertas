@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Textura gruesa en la entresuela
-- Cierre de cordones
 - Horma estándar
+- Cierre de cordones
 - Suela de goma
 - Revestimiento de ante
 

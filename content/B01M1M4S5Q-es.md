@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PRÁCTICA: la cámara se acopla rápidamente gracias al sistema de bloqueo lateral, además el monopié está equipado con Easy Link para conectar accesorios adicionales y una placa Manfrotto de 500PLONG
 - FILMACIÓN ÓPTIMA Power Quick Lock bloquea con fuerza la palanca en el lado plano del tubo del monopié, eliminando los movimientos bruscos no deseados
 - RESISTENCIA ANTI-ROTACIÓN: los tubos de aluminio en forma de D mejoran la resistencia anti-rotación, especialmente al realizar movimientos rápidos
 - PORTÁTIL: los tres pies extraíbles hacen que el monopié sea portátil cuando se pliega y te permite llevarlo a cualquier lugar
+- PRÁCTICA: la cámara se acopla rápidamente gracias al sistema de bloqueo lateral, además el monopié está equipado con Easy Link para conectar accesorios adicionales y una placa Manfrotto de 500PLONG
 - MOVIMIENTOS FLUIDOS: la base de FLUIDTECH permite un movimiento fluido en 3D, paneo, inclinación y giro, con la máxima suavidad y un mayor rango de perspectivas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

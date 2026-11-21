@@ -28,16 +28,16 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Encolado instantáneo pasado el tiempo de evaporación (10min, 18ºc -20ºc)
 - Resiste a temperaturas desde -40º C hasta +70º C
-- Resulta especialmente adecuada para realizar uniones en las que la parte encolada permanezca visible y para unir materiales transparentes
-- Proporciona uniones transparentes
 - Es indicada para realizar limpiamente trabajos de bricolaje y reparación en grandes y pequeñas superficies
 - Resistente al agua y soluciones ácidas y básicas diluidas
-- Encolado flexible: mantiene las tensiones de cada material
-- Pattex transparente pega de forma rápida segura y resistente
+- Encolado instantáneo pasado el tiempo de evaporación (10min, 18ºc -20ºc)
 - Encolado instantáneo pasado el tiempo de evaporación (10 min, 18º C -20º C)
+- Pattex transparente pega de forma rápida segura y resistente
+- Resulta especialmente adecuada para realizar uniones en las que la parte encolada permanezca visible y para unir materiales transparentes
 - Resiste a temperaturas desde -40ºc hasta +70ºc resistente al agua y soluciones ácidas y básicas diluidas
+- Encolado flexible: mantiene las tensiones de cada material
+- Proporciona uniones transparentes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00FEJT0K8{{</world>}}

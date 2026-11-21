@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Llave fijas dobles 6x7 - 8x9 - 10x11 - 12x13 - 14x15 - 16x17 - 18x19 - 20x22 mm
+- Hecho de acero al cromo vanadio
 - Cromado, cabezas pulidas
 - Din 3110
 - En bolsa enrollable de vinilo
-- Hecho de acero al cromo vanadio
+- Llave fijas dobles 6x7 - 8x9 - 10x11 - 12x13 - 14x15 - 16x17 - 18x19 - 20x22 mm
 - Forjado en caliente
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Incluyen unas medias de compresión
 - Refuerzo interior de EVA moldeada
-- Placa protectora flexible
 - Exterior: 100% resina moldeada por inyección
+- Placa protectora flexible
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CP8K3NCK{{</world>}}

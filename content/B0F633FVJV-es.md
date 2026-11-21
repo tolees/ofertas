@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Solapa de gamuza en el tal
-- Perforación en la puntera
 - Parte superior de piel sintética
+- Perforación en la puntera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F633FVJV{{</world>}}

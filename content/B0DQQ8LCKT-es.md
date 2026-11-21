@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Base ligera que calma la piel sensible, con acabado mate y control de brillo todo el día
 - DiIfumina las imperfecciones y reduce las rojeces
 - Ideal para pieles de mixtas a grasas
 - Con extracto de flor de Loto, Vitamina E, y complejo de cica, que ayuda asuavizar y calmar la piel sensible
-- Base ligera que calma la piel sensible, con acabado mate y control de brillo todo el día
 - Fórmula clean y 100% vegana
 
 [🛒 Aquí!!!]({{< param buyurl >}})

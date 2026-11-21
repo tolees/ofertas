@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela gruesa de goma
-- Rayas en grosgrain en el talón
 - Etiqueta del logo en la lengüeta
-- Tejido transpirable
 - Tobillo acolchado
+- Rayas en grosgrain en el talón
 - Zapatillas de Reebok diseñadas para el deporte
+- Suela gruesa de goma
+- Tejido transpirable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DMT4833M{{</world>}}

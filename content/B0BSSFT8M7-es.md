@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans Accent Maleta de cabina Azul 40x55x20 cms Rígida ABS Cierre TSA integrado 37L 2 74 kgs 4 Ruedas dobles Extensible Equipaje de Mano'
-date: 2026-11-16 08:02:48
+date: 2026-11-21 08:07:02
 image: 'https://m.media-amazon.com/images/I/318JsnvFuIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

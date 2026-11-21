@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Malla fina
-- Manga larga
 - Cuello con gruñido
 - 2 bolsillos
+- Manga larga
 - Chaqueta recta larga
+- Malla fina
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0869WFMDB{{</world>}}

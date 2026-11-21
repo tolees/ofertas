@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '1880 Turrón Chocolates de Autor Avellana Boníssim 200 g | Recubrimiento con leche hecho en España ideal para regalar para compartir o como capricho dulce navideño'
-date: 2026-11-18 09:21:53
+date: 2026-11-20 22:13:26
 image: 'https://m.media-amazon.com/images/I/410BAn3BkiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

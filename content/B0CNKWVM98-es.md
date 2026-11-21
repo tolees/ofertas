@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Alpro Bebida Vegetal de Soja Barista - Pack de 8 x 1L'
-date: 2026-11-10 11:20:32
+date: 2026-11-21 02:37:13
 image: 'https://m.media-amazon.com/images/I/41XuI7lYdRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CNKWVM98/?tag=tolees-21'
 descuento: '58.57'
-average: '9.2296551724137359'
+average: '9.1238709677418814'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

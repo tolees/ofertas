@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MARCA LÍDER DE CULTURA POP - Confía en la experiencia de Funko, el principal creador de productos de cultura pop que incluye figuras de vinilo, juguetes de acción, peluches, ropa, juegos de mesa y mucho más.
-- COLECCIONABLES DIMINUTOS Y DETALLADOS - Cada figura Bitty Pop! mide aproximadamente 0,9 pulgadas (2,3 cm) de altura; Advertencia: no apto para niños menores de 3 años, peligro de asfixia.
 - MEZCLA, COMBINA Y EXHIBE - Combínalos con otras figuras Bitty Pop!, Rides, Towns y sets de juego (cada uno se vende por separado) para construir y exhibir tu propio mundo Bitty en miniatura
-- UNA ESCENA EN UNA CAJA - Este set Bitty Boxes de Star Wars se abre para revelar una detallada escena en miniatura, completa con sus propias figuras Bitty Pop! para exhibir en su interior
+- COLECCIONABLES DIMINUTOS Y DETALLADOS - Cada figura Bitty Pop! mide aproximadamente 0,9 pulgadas (2,3 cm) de altura; Advertencia: no apto para niños menores de 3 años, peligro de asfixia.
 - REGALO PERFECTO PARA FANS DE SCI-FI - Ideal para los amantes de los cómics, el cine y las series, estos Bitty Pops! coleccionables traen emoción y alegría a cualquier ocasión, atrayendo tanto a niños como a adultos.
+- MARCA LÍDER DE CULTURA POP - Confía en la experiencia de Funko, el principal creador de productos de cultura pop que incluye figuras de vinilo, juguetes de acción, peluches, ropa, juegos de mesa y mucho más.
+- UNA ESCENA EN UNA CAJA - Este set Bitty Boxes de Star Wars se abre para revelar una detallada escena en miniatura, completa con sus propias figuras Bitty Pop! para exhibir en su interior
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FTPDC8S6{{</world>}}

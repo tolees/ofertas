@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre de cordones
 - Tirador de tela en el talón
+- Cierre de cordones
 - Empeine de nobuk sintético
 - Horma clásica
 

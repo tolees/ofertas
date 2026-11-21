@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CLIF BAR Peanut Butter Banana Dark Chocolate Barrita Energéticas 12 x 68 g | con 10 g de Proteína Para Correr Entrenar para Maratones Ciclismo y Deportes de Resistencia Snack Energético'
-date: 2026-11-16 19:44:58
+date: 2026-11-20 21:49:36
 image: 'https://m.media-amazon.com/images/I/41UYNvsafsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

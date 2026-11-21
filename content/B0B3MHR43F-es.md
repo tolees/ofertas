@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 1/2-inch flatform midsole
-- Canvas upper with decorative laces
 - BOBS from Skechers logo detail
+- Canvas upper with decorative laces
 - Flexible traction outsole
 
 [🛒 Aquí!!!]({{< param buyurl >}})

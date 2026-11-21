@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aporta suavidad
-- Para uso médico, hipoalergénico y dermatológicamente probado
 - Producto de calidad óptima
+- Para uso médico, hipoalergénico y dermatológicamente probado
+- Aporta suavidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07H8MW9XF{{</world>}}

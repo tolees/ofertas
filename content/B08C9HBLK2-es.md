@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Los profesionales usan y confían en los equipos Helly Hansen en océanos, montañas y lugares de trabajo.
-- TAMAÑO: EE. UU. Y1/UE 31
+- Color: Negro/gris claro
 - Tecnología impermeable y transpirable Helly Tech
 - Nuevo estándar de protección, durabilidad y rendimiento
-- Color: Negro/gris claro
+- TAMAÑO: EE. UU. Y1/UE 31
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08C9HBLK2{{</world>}}

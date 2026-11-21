@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- RAIN.RDY
+- Horma clásica
+- Empeine textil con puntera reforzada
 - Cierre de cordones
 - Mediasuela de EVA
-- Empeine textil con puntera reforzada
-- Horma clásica
-- RAIN.RDY
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F2GD8XKJ{{</world>}}

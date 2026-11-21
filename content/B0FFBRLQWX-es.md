@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nos oponemos a los experimentos con animales; cosnova aparece internacionalmente con essence y CATRICE tanto en PETA Alemania como en PETA
-- Mejora la fijación y duración del maquillaje
-- Formato en stick para una aplicación fácil y sin complicaciones
-- Hidrata y nutre la piel
 - Hidratar, humectar; de larga duración
+- Mejora la fijación y duración del maquillaje
+- Hidrata y nutre la piel
+- Formato en stick para una aplicación fácil y sin complicaciones
+- Nos oponemos a los experimentos con animales; cosnova aparece internacionalmente con essence y CATRICE tanto en PETA Alemania como en PETA
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FFBRLQWX{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forro textil
-- Empeine textil y sintético
-- Amortiguación Cloudfoam
 - Contiene al menos un 20% de material reciclado
+- Amortiguación Cloudfoam
+- Empeine textil y sintético
+- Forro textil
 - Horma clásica
 - Suela sintética
 

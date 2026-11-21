@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Set de tazas
-- Aptas café e infusiones
 - Con asa inoxidable
+- Aptas café e infusiones
+- Set de tazas
 - Fabricadas en vidrio
 
 [🛒 Visítala!!!]({{< param buyurl >}})

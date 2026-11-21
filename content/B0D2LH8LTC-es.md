@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ofrece comodidad
 - Tiene detalles distintivos de la marca
+- Ofrece comodidad
 - Protector de espinillas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

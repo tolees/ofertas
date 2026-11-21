@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela de goma para agarre y durabilidad.
 - Parte superior en piel, tejido sintético y malla que garantiza durabilidad y un look deportivo.
+- Suela de goma para agarre y durabilidad.
 - Cierre de cordones ajustable para un ajuste personalizado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

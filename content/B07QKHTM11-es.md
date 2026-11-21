@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fullstar Pro - Mandolina de Cocina Cortador en Juliana y Rallador 6-en-1 | Espiralizador Cortador y Rallador de Verduras y Queso Profesional con Guante Protector y Protector Dedos 6-en-1 Blanco'
-date: 2026-11-20 02:25:23
+date: 2026-11-21 06:49:20
 image: 'https://m.media-amazon.com/images/I/41X1GJFCU4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QKHTM11/?tag=tolees-21'
 descuento: '36.68'
-average: '19.732857142857146'
+average: '19.567777777777778'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

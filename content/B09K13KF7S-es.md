@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Complemento alimenticio
 - Producto de calidad óptima
 - Combinación de Omega 3 y Omega 6 para adultos y niños
-- Complemento alimenticio
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09K13KF7S{{</world>}}

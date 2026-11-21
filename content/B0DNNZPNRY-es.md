@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ELASTICIDAD: 36%-45% - Provides noticeable stretch for enhanced comfort while retaining structure. Ideal for a fitted yet non-restrictive feel.
-- ETIQUETA ROJA LEVIS: Existen diferentes variaciones de nuestra conocida etiqueta roja. Algunas dicen LEVIS, otras dicen Levis, algunas no muestran la marca en absoluto. Para ediciones especiales, a veces incluso cambiamos el color.
-- Hold the H2O: This garment is made using recycled water, which helps us to reduce our impact on this finite resource
+- MATERIAL: 80% COTTON, 19% POLYESTER, 1% ELASTANE
 - Authentic denim character enhanced with supersoft stretch. Thanks to excellent built-in recovery, these jeans champion your curves and move with you.
 - DISEÑO CLÁSICO LEVIS: The perfect skinny jeans
-- MATERIAL: 80% COTTON, 19% POLYESTER, 1% ELASTANE
+- Hold the H2O: This garment is made using recycled water, which helps us to reduce our impact on this finite resource
+- ELASTICIDAD: 36%-45% - Provides noticeable stretch for enhanced comfort while retaining structure. Ideal for a fitted yet non-restrictive feel.
 - La talla es una talla más grande de lo esperado.
+- ETIQUETA ROJA LEVIS: Existen diferentes variaciones de nuestra conocida etiqueta roja. Algunas dicen LEVIS, otras dicen Levis, algunas no muestran la marca en absoluto. Para ediciones especiales, a veces incluso cambiamos el color.
 - Shapes through the hip and thigh
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

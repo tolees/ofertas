@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cuello: Redondo
+- Manga: Larga
 - Desigual
 - Acabados deshilachados
 - Fit: Loose
-- Cuello: Redondo
 - Fit: Regular
-- Manga: Larga
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DW9J19MF{{</world>}}

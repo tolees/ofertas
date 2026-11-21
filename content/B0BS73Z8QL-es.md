@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillos: 2 antideslizantes, 4 con cremallera, 4 exteriores
 - Material: nailon
+- Bolsillos: 2 antideslizantes, 4 con cremallera, 4 exteriores
 - Cierre: cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

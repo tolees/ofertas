@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Panel acolchado en el tobillo
-- Horma clásica
-- Cierre de cordones
 - Parte superior de piel sintética
 - Forro textil
+- Panel acolchado en el tobillo
+- Cierre de cordones
+- Horma clásica
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09NL4CDZK{{</world>}}

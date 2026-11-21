@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - OrthoLite - Plantilla acolchada
-- Entresuela Unilite para una comodidad y apoyo ligeros
 - Parte superior de piel nobuck y malla
+- Entresuela Unilite para una comodidad y apoyo ligeros
 - Botones de goma en la suela exterior para mayor agarre
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre : Bragueta con cremallera
-- Bolsillos : Bolsillos traseros, Bolsillo relojero, Bolsillos frontales
-- Artículo : Jeans de corte slim
-- Klavado/acabado : Color oscuro con aspe suavemente lavado, Lavado a la piedra para un acabado desgastado y desteñido
-- Cintura : Tiro bajo
 - Corte : Vaqueros ajustados con talla media, muslo fino, rodilla fina, apertura ajustada en la pierna
+- Cierre : Bragueta con cremallera
+- Cintura : Tiro bajo
+- Klavado/acabado : Color oscuro con aspe suavemente lavado, Lavado a la piedra para un acabado desgastado y desteñido
+- Artículo : Jeans de corte slim
+- Bolsillos : Bolsillos traseros, Bolsillo relojero, Bolsillos frontales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQMRVRKV{{</world>}}

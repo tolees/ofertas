@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Puntera en T y talón de gamuza
 - PUMA Logotipo en la lengüeta
 - PUMA Tira en los laterales
+- Puntera en T y talón de gamuza
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DJ9K79XG{{</world>}}

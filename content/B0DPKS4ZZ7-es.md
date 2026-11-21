@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cordones cierre
+- material de suela: Caucho
 - Plano tipo de tacón
-- Casual
 - Caucho de goma
 - no es resistente al agua
+- Casual
 - No Strap
-- material de suela: Caucho
-- Cordones cierre
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DPKS4ZZ7{{</world>}}

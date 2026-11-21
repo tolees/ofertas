@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela gruesa de goma
-- Zapatillas de Reebok diseñadas para el deporte
-- Tobillo acolchado
 - Etiqueta del logo en la lengüeta
 - Rayas en grosgrain en el talón
+- Zapatillas de Reebok diseñadas para el deporte
+- Suela gruesa de goma
+- Tobillo acolchado
 - Tejido transpirable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

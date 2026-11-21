@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre: goma
 - Piel: charol
+- Cierre: goma
 - Transpirable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño bajo
 - Cierre con cordones
+- Diseño bajo
 - Suela de goma
 
 [🛒 Comprar!!!]({{< param buyurl >}})

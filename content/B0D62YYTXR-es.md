@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - FOR ALL SKIN TYPES - This lip plumper does more than just enhance lip volume - it also keeps lips healthy by maintaining the skin barrier and retaining moisture. The clear lip balm adds a natural sheen and can be worn alone or over a lip colour for a glossy finish. Its suitable for everyone, but especially for those with dry, cracked, or damaged lips who want fuller lips and better overall lip health.
+- HOW TO USE - For best results we recommend using at least 3 times per day for 4 weeks. Apply a small amount to clean, dry lips.
 - POWERFUL INGREDIENTS - Formulated with 6% Tripeptide Complex, to visibly increase lip volume over time for plumper-looking, more defined lips, together with 2% Ultra Filling Spheres which deliver Hyaluronic Acid to the lip to plump, retain moisture and help to fill fine lines, Tripeptide Lip Balm enhances fullness, defines lip contours, and reduces the appearance of fine lines and creasing around the mouth.
 - TINTED PLUMPING LIP BALM - Clinically proven to visibly plump lips in four weeks, Tripeptide Plumping Lip Balm hydrates, repairs and smooths for naturally fuller and healthier-looking lips. Specially formulated for maximum fullness without any tingle or irritation, the plumping balm works overtime to visibly increase lip volume. An ideal non-sticky alternative to lip gloss, the tinted lip plumping balm leaves a sheer warm red berry hue on the lips which can be easily layered to increase the vibrancy of the colour.
-- HOW TO USE - For best results we recommend using at least 3 times per day for 4 weeks. Apply a small amount to clean, dry lips.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D62YYTXR{{</world>}}

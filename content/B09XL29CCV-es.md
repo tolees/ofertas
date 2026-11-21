@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estos coloridos pendientes son sencillos pero
 - Una forma de hacer tu estilo
+- Estos coloridos pendientes son sencillos pero
 - Los elementos colgantes están diseñados para moverse cada vez que giras la cabeza, y reflejan la luz en todas las direcciones
 - Cada pieza incorpora un cristal de talla redonda de color rosa colgado de un pequeño aro, que a su vez está bellamente adornado en pavé rosa
 

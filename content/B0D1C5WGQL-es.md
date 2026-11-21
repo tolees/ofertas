@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte normal
 - Ideal para uso diario
+- Corte normal
 - Ofrece una gran comodidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

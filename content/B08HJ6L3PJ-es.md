@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'POP Funko Disney: Lilo & Stitch - Stitch in Robe | Merchandising Oficial de Cartoon/Animation - Figura de Vinilo Coleccionable para Decoración - Regalo Friki de Cumpleaños'
-date: 2026-11-17 19:56:09
+date: 2026-11-21 00:24:14
 image: 'https://m.media-amazon.com/images/I/41CBI8tO5VL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08HJ6L3PJ/?tag=tolees-21'
 descuento: '50.00'
-average: '9.907499999999974'
+average: '9.5259999999999803'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

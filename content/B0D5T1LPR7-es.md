@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tecnología Natural Rocker
 - Plantilla Air Cooled Goga Mat
+- Tecnología Natural Rocker
 - Amortiguación ultraligera
 - Zancada suave
 - Máxima amortiguación:

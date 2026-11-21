@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantilla cómoda con amortiguación
 - Media suela contorneada con absorción de impactos
+- Plantilla cómoda con amortiguación
 - Presentan detalles distintivos de la marca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

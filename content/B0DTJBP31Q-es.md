@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 98% algodón, 2% elastano
 - Nuestro corte de arranque clásico de cintura baja con una silueta delgada que se abre sobre un abogeo sutil
+- 98% algodón, 2% elastano
 - Denim elástico negro limpio
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

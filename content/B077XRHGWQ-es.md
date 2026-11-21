@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'UA Tech 2.0 SS Tee'
-date: 2026-11-19 19:44:09
+date: 2026-11-21 04:16:05
 image: 'https://m.media-amazon.com/images/I/41biFISrjyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B077XRHGWQ-es UA Tech 2.0 SS Tee'
 sku: 'B077XRHGWQ-es'
 tags: [ '🇪🇸', ]
-actualPrice: 16.09 EUR
+actualPrice: 15.0 EUR
 currency: EUR
-price: 16.09
+price: 15.0
 comparePrice: 30.0 EUR
 prodname: 'UA Tech 2.0 SS Tee'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XRHGWQ/?tag=tolees-21'
-descuento: '46.37'
-average: '18.647692307692161'
+descuento: '50.00'
+average: '18.38714285714272'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

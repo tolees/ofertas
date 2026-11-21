@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Chunky Shoe-laces (plus one additional set of contrast colour shoelaces).
 - Logotipo de la marca.
+- Chunky Shoe-laces (plus one additional set of contrast colour shoelaces).
 - Tongue y cuello acolchados.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

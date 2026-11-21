@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Roc Tech 5 Pocket Pant Pantalones De Senderismo Y Trekking para Hombre Collegiate Navy Talla 32W / 32L'
-date: 2026-11-19 16:06:35
+date: 2026-11-21 03:33:35
 image: 'https://m.media-amazon.com/images/I/31fZjmL21NL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Unisex Adulto Real Madrid Home Club Ball Recreation Ball White/Aurora Ivy 5'
-date: 2026-11-20 00:42:09
+date: 2026-11-21 02:19:21
 image: 'https://m.media-amazon.com/images/I/41HNcRP4mCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FVJ5DJZN/?tag=tolees-21'
 descuento: '41.70'
-average: '15.103333333333334'
+average: '14.68'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

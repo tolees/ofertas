@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin disolventes.
 - Lavable a 30º.Dermatologicamente testado.
 - El tubo extrablando con boquilla de precisión permite decorar de forma limpia y precisa, y es ideal para las manos pequeñas.
+- Sin disolventes.
 - Brillantina creativa para numerosos materiales. Para crear fotos, tarjetas de felicitación, papel de envolver, marcos de fotos y mucho más con brillantes efectos centelleantes.
 - No gotea ni deja hilos
 

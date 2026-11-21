@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Visera con curvatura media
-- Tejido de sarga
 - Material Principal: 100% Algodón / (muñequera ) Banda De Transpiracion: 100% Poliéster(100% Reciclado) / Visera (lam): 100% Polietileno(100% Reciclado)
+- Tejido de sarga
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FW4FBTGW{{</world>}}

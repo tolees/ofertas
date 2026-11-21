@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste : Regular
-- Descubre todas las marcas de EMP!
-- Camiseta || Mangas Normales || Cuello Redondo Sin cuello || Material duradero
 - Camiseta con las siguientes características:
+- Camiseta || Mangas Normales || Cuello Redondo Sin cuello || Material duradero
+- Descubre todas las marcas de EMP!
+- Ajuste : Regular
 - Festival, Ropa de Calle
 
 [🛒 Comprar!!!]({{< param buyurl >}})

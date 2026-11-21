@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Proporciona comodidad
 - G-STAR Etiqueta de material de papel similar al cuero en la parte trasera
 - Bolsillos traseros
 - Bragueta con cremallera
+- Proporciona comodidad
 - Bolsillos reforzados con remaches, bolsillo oculto en la cintura
 
 [🛒 Aquí!!!]({{< param buyurl >}})

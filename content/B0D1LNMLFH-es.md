@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Longitud del cable 1,5 Metros. Dimensiones del cubo 76x76x80 mm.
 - Incluye un soporte para fijar la Regleta a mesa, pared, muebles.. mediante adhesivos incluidos o mediante tornillos. Una vez fijado el soporte la regleta cubo puede ser removida cuantas veces se necesite mediante un giro.
-- Ideal para mesa de trabajo, estudio, viajes. Tamaño reducido. Capacidad de conectar varios dispositivos simultáneamente aportando gran potencia de carga.
+- Longitud del cable 1,5 Metros. Dimensiones del cubo 76x76x80 mm.
 - Protección infaltil. Fabricado con materiales ignífugos resistente a altas temperaturas. Dotado de protección frente a sobrecargas.
+- Ideal para mesa de trabajo, estudio, viajes. Tamaño reducido. Capacidad de conectar varios dispositivos simultáneamente aportando gran potencia de carga.
 - Regleta enchufe cubo, 7 Dispositivos en 1: - 4 Enchufes 220V 3680W 16A - 2 USB Tipo A 5V 3.1A - 1 USB Tipo C 5V 3.1ª - Pulsador de encendido/apagado - Led indicador encendido
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

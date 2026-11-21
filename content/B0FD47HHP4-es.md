@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Tela: tela de sarga de algodón
 - Tamaño: 56 cm de diámetro
-- __Marca: __ Parche de cuero con logotipo.
 - Visera: Ala curvada
+- __Marca: __ Parche de cuero con logotipo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FD47HHP4{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- A prueba de derrames
 - Botella de agua
 - Boca con tapón a rosca
-- A prueba de derrames
 - Tapa abatible transparente abierta con solo presionar un botón
 
 [🛒 Comprar!!!]({{< param buyurl >}})

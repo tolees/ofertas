@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Slip-Ins
-- Collab
 - Snoop Dogg
+- Collab
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FDCKD2B1{{</world>}}

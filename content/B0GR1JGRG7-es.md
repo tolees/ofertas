@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- 🫧 MANTENIMIENTO: Lavar a máquina con programa delicado y temperatura máxima de 40º. No usar secadora. No usar lejía. Planchar a baja temperatura. Lavar en seco
+- 🛏️ PRODUCTO: Colcha de Jacquard reversible, con una textura que marca diferentes volúmenes en color trigo, con lineas verticales de pespuntes en color blanco, reverso con el mismo diseño pero en color blanco.
 - 📏 MEDIDAS DEL CONJUNTO: Una colcha de 250x270 cm..Dos cuadrantes de 50x70 cm. Disponible en más medidas.
 - ✅ CARACTERÍSTICAS: Tacto suave.Ángulos inferiores confeccionados con forma redondeada para un mejor aspecto de la prenda sobre la cama y evitar vuelo excesivo.Larga duración.No necesita plancha. Incluye un cuadrante en la medida de 90 y 105cm y dos para el resto de medidas. Exterior microfibra y relleno de 360grs/m2. 100% Poliéster
 - 🧵 MATERIAL: Tejido exterior microfibra y relleno de 140gr/m2. 100% Poliéster. Acabado "Cotton touch"
-- 🛏️ PRODUCTO: Colcha de Jacquard reversible, con una textura que marca diferentes volúmenes en color trigo, con lineas verticales de pespuntes en color blanco, reverso con el mismo diseño pero en color blanco.
-- 🫧 MANTENIMIENTO: Lavar a máquina con programa delicado y temperatura máxima de 40º. No usar secadora. No usar lejía. Planchar a baja temperatura. Lavar en seco
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0GR1JGRG7{{</world>}}

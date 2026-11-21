@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Relleno adicional en la pestaña
 - Tecnología de Flywire
 - Tecnología Nike React
-- Relleno adicional en la pestaña
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B6G1V4PY{{</world>}}

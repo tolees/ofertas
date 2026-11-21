@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Los dos puertos USB-A suministran 12 vatios cada uno, incluso cuando se utilizan simultáneamente
-- Optimización de la carga para proteger la batería
 - Total output: 24W
-- Circuito de protección contra sobrecargas y cortocircuitos
 - 2 puertas USB-A
+- Circuito de protección contra sobrecargas y cortocircuitos
+- Optimización de la carga para proteger la batería
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CNKQ4J8Z{{</world>}}

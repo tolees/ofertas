@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Made in Germany
 - Manejo intuitivo, gracias al cómodo botón de frenado y a la empuñadura ergonómica
+- Made in Germany
 - Respuesta rápida y fiable gracias al sistema cómodo de frenado con una sola mano
 
 [🛒 Comprar!!!]({{< param buyurl >}})

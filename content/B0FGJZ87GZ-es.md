@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Color: Negro
-- Hecho en: China
 - Vestido manga larga de la colección mujer
 - Colección primavera-verano
+- Hecho en: China
 - 100 % viscosa
+- Color: Negro
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FGJZ87GZ{{</world>}}

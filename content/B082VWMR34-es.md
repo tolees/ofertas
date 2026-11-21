@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Regular
 - Ajuste: normal
+- Regular
 - Longitud: hasta el tobillo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

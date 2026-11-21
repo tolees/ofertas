@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pull On
-- Suela: goma
-- Material exterior: sintético
 - Material interior: sintético
+- Suela: goma
+- Pull On
+- Material exterior: sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08CN1FMHJ{{</world>}}

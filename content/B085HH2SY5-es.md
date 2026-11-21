@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- BMW M4 Racing 2016
 - Marca: SIKU
+- BMW M4 Racing 2016
 - Producto en color Multicolor
 - Duradera y resistente
 

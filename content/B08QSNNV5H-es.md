@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Concentrador USB de dos puertos: Los puertos USB con una práctica ubicación proporcionan conexiones sencillas para periféricos adicionales, como un ratón o auriculares CORSAIR
 - 12 perfiles de iluminación RGB integrados: El sencillo control de botón permite pasar por los 12 perfiles para disfrutar de una iluminación inmediata en cuanto se conecta
 - Personalización completa de la iluminación mediante el software CORSAIR iCUE: Aproveche el control de iluminación RGB avanzado a través de iCUE y sincronice su iluminación
-- Concentrador USB de dos puertos: Los puertos USB con una práctica ubicación proporcionan conexiones sencillas para periféricos adicionales, como un ratón o auriculares CORSAIR
 - Estructura de goma de 4 mm de grosor: Juegue más tiempo con la comodidad de la goma afelpada que ayuda a alisar las superficies de escritorio irregulares
 - Iluminación RGB dinámica en tres zonas y 360°: Sumerja su área de juego en iluminación RGB con control directo integrado o a través del software CORSAIR iCUE
 - Gran superficie de 930 x 400 mm: Cubra toda su área de juego con una alfombrilla de tela de 930 x 400 mm (36.6 x 15.8"), que proporciona espacio de sobra para su ratón, teclado y otros accesorios

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Parte superior de ante
-- Cierre de cordones
 - Horma clásica
+- Cierre de cordones
 - Forro textil
+- Parte superior de ante
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C53WMTJY{{</world>}}

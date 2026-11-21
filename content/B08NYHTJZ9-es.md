@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ofrece comodidad y libertad de movimiento
 - Material resistente y duradero
+- Ofrece comodidad y libertad de movimiento
 - Cinturilla de tiro medio con cordón
 - Tejido transpirable
 

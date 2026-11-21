@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Empeine de piel sintética
+- Horma clásica
 - Empeine perforado
 - Cierre de cordones
 - Forro textil
-- Horma clásica
+- Empeine de piel sintética
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D5J3DJ99{{</world>}}

@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Plantilla Cloudfoam Comfort
-- Horma clásica
+- Empeine de malla
 - Forro textil
 - Forro textil
 - Suela sintética
-- Empeine de malla
+- Horma clásica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CKY2HRBH{{</world>}}

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Hood with String Regulation
-- Jacket
-- Long Sleeves
-- Care Label:
 - materialFabricComposition: 98% Cotton, 2% Elastane
+- Long Sleeves
+- Jacket
+- Care Label:
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BTYWHFYV{{</world>}}

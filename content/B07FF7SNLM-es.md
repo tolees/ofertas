@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre: Cordones
-- Material exterior: Sintético
-- Revestimiento: Sintético
-- Tipo de tacón: Plano
-- Altura del tacón: 3 centímetros
 - Anchura del zapato: Medium
-- Composición: Textil
+- Tipo de tacón: Plano
+- Material exterior: Sintético
+- Altura del tacón: 3 centímetros
+- Revestimiento: Sintético
+- Cierre: Cordones
 - Material de la suela: Caucho
+- Composición: Textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07FF7SNLM{{</world>}}

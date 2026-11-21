@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela de goma
 - Fabricado con materiales de alta calidad.
+- Suela de goma
 - Logotipo de New Balance en el lateral y la espalda.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

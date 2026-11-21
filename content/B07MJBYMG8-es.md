@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Básicos, Ropa de Calle
-- Descubre todas las marcas de EMP!
 - Leggins con las siguientes características:
 - Ajuste : Normal
 - Leggings || Longitud: Normal || altura de la cintura: Talla Grande
+- Descubre todas las marcas de EMP!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07MJBYMG8{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Conectividad para Smartphones: CarPlay y Android Auto
-- Pantalla multimedia de 7" y Doble DIN
 - Reproducción formatos audio y video FullHD desde USB
+- Pantalla multimedia de 7" y Doble DIN
+- Conectividad para Smartphones: CarPlay y Android Auto
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B075FKSK43{{</world>}}

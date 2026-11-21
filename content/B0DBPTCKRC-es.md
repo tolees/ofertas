@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - APTO PARA VIAJES: tamaño pequeño y ultracompacto; admite un voltaje de entrada universal de 100 a 240 voltios
-- COMPATIBILIDAD: teléfonos, tabletas, incluidos iPhone, Samsung, iPad/iPad Pro y más
 - CONTENIDO DE LA CAJA: solo el cargador de pared de 20W de Amazon Basics. El cable de carga se vende por separado DIMENSIONES: 3,0cm x 3,0cm x 3,3cm (largo x ancho x alto)
-- CARGA DE ALTA VELOCIDAD: cargador de pared USB-C GaN de 1 puerto (nano 20W) en negro con PD 3.1 para una carga rápida
+- COMPATIBILIDAD: teléfonos, tabletas, incluidos iPhone, Samsung, iPad/iPad Pro y más
 - SEGURIDAD FIABLE: certificación USB-IF. Protege los dispositivos conectados para una carga segura; fabricado con materiales ignífugos y resistentes al calor
+- CARGA DE ALTA VELOCIDAD: cargador de pared USB-C GaN de 1 puerto (nano 20W) en negro con PD 3.1 para una carga rápida
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DBPTCKRC{{</world>}}

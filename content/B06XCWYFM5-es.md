@@ -29,12 +29,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - El fabricante recomienda una bombilla Philips led E27 con 60W
-- Apto para bombillas de las clases: A++,A+,A,B,C,D,E
+- IP44, resistente a la intemperie: desarrollado especialmente para entornos de humedad al aire libre
 - Área de jardín: Patio trasero/Patio delantero, terraza, balcón
+- Diseño moderno y alta calidad
 - Efecto de luz dirigida hacia arriba y abajo
 - Fácil montaje en la pared
-- IP44, resistente a la intemperie: desarrollado especialmente para entornos de humedad al aire libre
-- Diseño moderno y alta calidad
+- Apto para bombillas de las clases: A++,A+,A,B,C,D,E
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B06XCWYFM5{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Faux uni design pattern
-- Shirt collar
 - Long sleeves
+- Faux uni design pattern
 - G-Star Originals label at the chest
 - Button closure
+- Shirt collar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CB1Y7CTQ{{</world>}}

@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lona
-- Cordón
 - Plataforma de
 - Correa T
 - Caucho
-- Zapatillas de bajo nivel
-- Textil
 - Punta cerrada
+- Textil
+- Zapatillas de bajo nivel
+- Lona
+- Cordón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08BLS6RDS{{</world>}}

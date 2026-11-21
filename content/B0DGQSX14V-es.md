@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Beneficio: Evita que se corra el labial.
-- Contenido: 1 x LOréal Paris Color Riche Perfilador de labios 570 Worth It Int
 - Modo de uso: Dibuja el contorno de tus labios con el perfilador de labios y rellenalos con las barras de labios de la gama Color Riche.
-- Perfilador de labios que perfecciona el contorno e intensifica el color de tu labial.
 - Lápiz de labios textura cremosa, color intenso, contorno más perfeccionado.
+- Perfilador de labios que perfecciona el contorno e intensifica el color de tu labial.
+- Contenido: 1 x LOréal Paris Color Riche Perfilador de labios 570 Worth It Int
+- Beneficio: Evita que se corra el labial.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DGQSX14V{{</world>}}

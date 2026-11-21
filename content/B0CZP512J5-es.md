@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte holgado
 - Sisas y hombros con la costura caída
+- Corte holgado
 - Cuello redondo de canalé
 - 100% algodón
 

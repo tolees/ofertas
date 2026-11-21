@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Agitar bien el producto. En una zona abierta, aplicar de manera uniforme por todo el cuerpo antes de la exposición solar. Repetir la aplicación con frecuencia para mantener la protección*. * Ningún producto de protección solar puede proporcionar una protección completa contra los rayos solares. La sobreexposición al sol es una grave amenaza para la salud.
-- La bruma corporal SPF30 Lancaster Sun Beauty es tu mejor aliado como protección contra el fotoenvejecimiento. Esta bruma corporal con crema solar ultraligera, transparente y de secado rápido se absorbe rápidamente en la piel y aporta un efecto refrescante instantáneo.
 - Para todo tipo de pieles. Fórmula resistente al agua. Textura ligera. Fácil de aplicar.
+- La bruma corporal SPF30 Lancaster Sun Beauty es tu mejor aliado como protección contra el fotoenvejecimiento. Esta bruma corporal con crema solar ultraligera, transparente y de secado rápido se absorbe rápidamente en la piel y aporta un efecto refrescante instantáneo.
+- Agitar bien el producto. En una zona abierta, aplicar de manera uniforme por todo el cuerpo antes de la exposición solar. Repetir la aplicación con frecuencia para mantener la protección*. * Ningún producto de protección solar puede proporcionar una protección completa contra los rayos solares. La sobreexposición al sol es una grave amenaza para la salud.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DWN46L9G{{</world>}}

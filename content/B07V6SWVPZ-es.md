@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kipling Freedom Estuche Mediano Estuches Marine Navy Azul'
-date: 2026-11-20 02:46:46
+date: 2026-11-21 08:57:11
 image: 'https://m.media-amazon.com/images/I/31P8trQBXEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V6SWVPZ/?tag=tolees-21'
 descuento: '39.76'
-average: '15.971052631578983'
+average: '15.87857142857146'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

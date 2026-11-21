@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura : Talle medio
-- Bolsillos : Bolsillos traseros, Bolsillo relojero, Bolsillos delanteros
-- Cierre : Bragueta de botones
-- Klavado/acabado : Lavado a la piedra para un acabado desgastado y desteñido
 - Artículo : Shorts de ajuste regular
 - Corte : Ajuste regular con cintura media, muslo regular y parte baja regular
+- Klavado/acabado : Lavado a la piedra para un acabado desgastado y desteñido
+- Cierre : Bragueta de botones
+- Cintura : Talle medio
+- Bolsillos : Bolsillos traseros, Bolsillo relojero, Bolsillos delanteros
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D1CPXB5C{{</world>}}

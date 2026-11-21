@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Under Armour Tech SSC- Twist'
-date: 2026-11-19 20:19:03
+date: 2026-11-21 06:09:57
 image: 'https://m.media-amazon.com/images/I/41UgZS6f0PL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0D1612YGZ/?tag=tolees-21'
 descuento: '37.03'
-average: '18.276666666666667'
+average: '18.43'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

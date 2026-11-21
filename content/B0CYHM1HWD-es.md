@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Capucha con cordón ajustable
 - Sisas y hombros con la costura caída
 - 55% algodón / 36% poliéster (reciclado) / 9% viscosa
-- 95% algodón / 5% elastano
-- Corte clásico
 - Contiene al menos un 70% de material reciclado y renovable
 - Bolsillo canguro
-- Dobladillo trasero ligeramente más corto
+- Capucha con cordón ajustable
 - Puños y dobladillo de canalé
+- Dobladillo trasero ligeramente más corto
+- Corte clásico
+- 95% algodón / 5% elastano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CYHM1HWD{{</world>}}

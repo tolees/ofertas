@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Manga corta
-- Polo
 - Cierre a presión
 - Material: 100% algodón
+- Polo
 - Mapa polo
 - Lavar a máquina
 

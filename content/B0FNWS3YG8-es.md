@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Ajuste holgado para comodidad y versatilidad, lavar con agua fría y no usar blanqueador
 - Combina con tus jeans o pantalones cortos favoritos para un aspecto casual y elegante
 - Muy suave, cómoda y cerca de tu piel
 - Es cómoda de llevar todo el día
-- Ajuste holgado para comodidad y versatilidad, lavar con agua fría y no usar blanqueador
 - Camiseta de manga larga con cuello en V tipo suéter presenta un ajuste cómodo y holgado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

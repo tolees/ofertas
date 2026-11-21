@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CARACTERÍSTICAS - Este macetero redondo tiene un tamaño de 12,5 cm de largo y 13 cm de alto. Su diámetro es de 11 cm así que cualquier maceta de esa medida quedará genial y, al no incluir la planta podrás ponerle la que más te guste y darle una personalidad única.
 - FISURA - Descubre nuestros productos divertidos de hogar y decoración. Cuando necesites hacer un regalo piensa en FISURA. Originalidad y diseños únicos nos caracterizan. Otros productos disponibles en nuestra tienda.
 - 🌿 Con su diámetro de 12 cm se convertirá tu accesorio para plantas, flores y hierbas aromáticas favorito. Además, gracias a sus patas podrás dejarlo en el suelo sin preocuparte de que tus plantas sufran. ¡Pon la que más te guste y dale a tu casa un aire fresco y natural!
+- CARACTERÍSTICAS - Este macetero redondo tiene un tamaño de 12,5 cm de largo y 13 cm de alto. Su diámetro es de 11 cm así que cualquier maceta de esa medida quedará genial y, al no incluir la planta podrás ponerle la que más te guste y darle una personalidad única.
 - 🎁 Es un regalo original para amigos y familiares apasionados por las plantas. Regálaselo a aquellos que adoran lo atrevido y lo fuera de lo común. ¡Les encantará!
 - 💛Dale un toque de alegría y positividad a cualquier rincón de tu hogar con este macetero amarillo con ojos. Colócalo en tu escritorio y dale vida a tu oficina, en tu sala de estar para crear un ambiente acogedor, o incluso en tu jardín para darle aún más personalidad a tus plantas.
 

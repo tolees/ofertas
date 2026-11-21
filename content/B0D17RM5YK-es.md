@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela: 100% caucho
 - Material exterior: 90% poliéster reciclado - 10% sintético (80% TPU - 20% PU)
+- Suela: 100% caucho
 - Better Linings,Recicled Synthetics
 - Color: negro
 - Forro: 100% poliéster reciclado

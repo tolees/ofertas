@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Suela: 80% EVA, 20% EVA reciclado
 - Forro: 63% piel de cerdo - 37% tela (100% poliéster reciclado)
 - Material exterior: 100% piel de vacuno
 - Color: negro
-- Suela: 80% EVA, 20% EVA reciclado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DR2XW33L{{</world>}}

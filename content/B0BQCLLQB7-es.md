@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tapicería de gamuza
-- Logotipo "N" de gran tamaño aplicado de forma asimétrica
 - Parte superior de malla
 - El cierre tradicional con cordones ofrece un ajuste regulable y un aspecto clásico.
+- Logotipo "N" de gran tamaño aplicado de forma asimétrica
+- Tapicería de gamuza
 - Suela de tanque envolvente inspirada en el senderismo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

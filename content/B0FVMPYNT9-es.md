@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bajo recto
-- Estampado gráfico en el pecho
 - Largo regular
-- Corte regular
+- Estampado gráfico en el pecho
 - Cuello redondo
+- Corte regular
+- Bajo recto
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FVMPYNT9{{</world>}}

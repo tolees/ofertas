@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tienen ajuste regular
-- Pantalones cortos para hombre
 - Cinturilla elástica con cordón
+- Pantalones cortos para hombre
 - Con tejido Nike Dry
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estilo retro
 - Combinación de colores de contraste
 - Fabricado con prácticas sostenibles y un mínimo de 30% de materiales reciclados
+- Estilo retro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CSPVFRXD{{</world>}}

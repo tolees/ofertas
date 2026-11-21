@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Apto para todo tipo de piel
 - Producto de cuidado personal
 - Marca: COTTAGE
 - Proporciona una limpieza óptima
-- Apto para todo tipo de piel
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08CMFM9WR{{</world>}}

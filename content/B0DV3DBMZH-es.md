@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Länge (mm): Breite (mm): Höhe (mm):
 - Paletero
+- Länge (mm): Breite (mm): Höhe (mm):
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DV3DBMZH{{</world>}}

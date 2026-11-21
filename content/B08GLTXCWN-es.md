@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fabricado en España
 - Panama Jack Botas Chelsea para mujer, color negro y negro
-- Altura del tacón: 3,00 cm
 - Principal Material: napa impermeable, material de revestimiento: natural Fur/Real Fur Sole. Material: caucho natural interior de la sola. Insert: sí
 - Resistente al agua
+- Altura del tacón: 3,00 cm
+- Fabricado en España
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08GLTXCWN{{</world>}}

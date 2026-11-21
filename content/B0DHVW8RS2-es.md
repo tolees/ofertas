@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Horma clásica
 - Mediasuela de EVA
-- Membrana GORE-TEX
 - Sistema de lazada rápida
 - Empeine textil y sintético con refuerzos de gran resistencia al desgaste
+- Membrana GORE-TEX
+- Horma clásica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DHVW8RS2{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Maquillaje
 - Rostro
+- Maquillaje
 - Coloretes Compactos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

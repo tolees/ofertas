@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Para uso diario
-- Tiene detalles distintivos de la marca
 - Gorra con visera
+- Tiene detalles distintivos de la marca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D15WYZ1V{{</world>}}

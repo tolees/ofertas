@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Núcleo de espuma perfilado HRC con puntos de presión adaptativos que aportan firmeza y resistencia al conjunto.
-- Tecnología MorphoAdapt, que se adapta a la forma del cuerpo para ofrecer comodidad y frescor. Espuma Viscoelástica, que distribuye la presión de manera uniforme para mantener la columna en la posición óptima.
 - Colchón doblado y envasado al vacío para facilitar el transporte a tu hogar en las mejores condiciones. La composición del colchón permite prevenir la aparición de ácaros, bacterias y hongos.
+- Tecnología MorphoAdapt, que se adapta a la forma del cuerpo para ofrecer comodidad y frescor. Espuma Viscoelástica, que distribuye la presión de manera uniforme para mantener la columna en la posición óptima.
 - Funda exterior transpirable Fresh & EasyClean que favorece la regulación térmica para una temperatura ideal durante todo el año, además de poder lavarse.
 - Colchón con firmeza alta. Altura total de 25 cm. Combinación de 3 capas para ofrecerte la mejor sensación de descanso.
 

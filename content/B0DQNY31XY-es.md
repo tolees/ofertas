@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de joyería - Pulsera
-- Color de la joyería de oro
 - Material de joyería: latón
+- Tipo de joyería - Pulsera
 - Cierre joya - Cierre langosta
+- Color de la joyería de oro
 - Ocasión- Casual
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

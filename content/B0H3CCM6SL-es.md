@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STAR WARS Zero Company Standard Edition PlayStation 5 | Disco | Videojuegos | Idioma: Multilingüe'
-date: 2026-11-19 22:14:38
+date: 2026-11-21 00:24:32
 image: 'https://m.media-amazon.com/images/I/51XuUx0xdfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0H3CCM6SL/?tag=tolees-21'
 descuento: '47.79'
-average: '45.622500000000009'
+average: '44.033333333333339'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

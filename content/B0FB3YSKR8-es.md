@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Zapatilla deportiva
 - Flexible y dinámica
+- Zapatilla deportiva
 - Destaca por su ajuste sencillo y rápido sin necesidad de usar las manos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ring Cámara exterior con batería Stick Up Cam y Cámara interior gratis | Descuento aplicado en ambos artículos al finalizar la compra. Equivale a recibir la Cámara interior sin coste adicional.'
-date: 2026-11-18 16:51:29
+date: 2026-11-21 09:27:14
 image: 'https://m.media-amazon.com/images/I/21dxVzMohiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CL5KN4KD/?tag=tolees-21'
 descuento: '73.08'
-average: '64.487999999999985'
+average: '61.806363636363628'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

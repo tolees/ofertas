@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Capacidad de 100 gramos
-- Aroma frutas
 - Ambientador en lata tipo gel
+- Aroma frutas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MTRVB86{{</world>}}

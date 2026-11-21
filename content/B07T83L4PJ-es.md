@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - POTENTE MOTOR DE 400W: Proporciona una eficiencia y rendimiento para cortes precisos y rápidos en una variedad de materiales
-- VELOCIDAD DE 3600 RPM: Velocidad de rotación que permite realizar cortes limpios y precisos con discos de 85mm
 - SISTEMA DE EXTRACCIÓN DE POLVO: Incluye adaptador para aspirador y guía de corte paralela, manteniendo el área de trabajo limpia y mejorando la precisión del corte
+- VELOCIDAD DE 3600 RPM: Velocidad de rotación que permite realizar cortes limpios y precisos con discos de 85mm
 - PROFUNDIDAD MÁXIMA DE CORTE 27MM: Permite realizar cortes profundos y precisos, para proyectos de bricolaje y carpintería
 - INCLUYE 2 DISCOS: Viene con un disco TCT 24T de 85x10mm y un disco HSS 44T de 85x10mm, proporcionando versatilidad para diferentes aplicaciones
 

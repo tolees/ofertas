@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Panama Jack Botas negras para mujer
-- Fabricado en España
 - Altura del tacón: 3,00 cm
+- Fabricado en España
 - Resistente al agua
+- Panama Jack Botas negras para mujer
 - Material principal: napa resistente al agua Greased, Material del forro: Faux Shearling Material de la suela: goma natural Interior de la suela extraíble Inserto: sí
 
 [🛒 Comprar!!!]({{< param buyurl >}})

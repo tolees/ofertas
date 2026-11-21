@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Respuesta en frecuencia: 20 Hz a 20 kHz
 - Impedancia: <680 ohmios
-- Tipo: Condensador back electret
 - Tipo de producto: Micrófono de diadema
+- Respuesta en frecuencia: 20 Hz a 20 kHz
 - Sensibilidad: -44 ±2 dB (a 1 kHz)
+- Tipo: Condensador back electret
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0073CZW1K{{</world>}}

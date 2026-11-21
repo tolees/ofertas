@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logotipo S en el lateral
 - Suela con tracción flexible
+- Logotipo S en el lateral
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07VWKQ28F{{</world>}}

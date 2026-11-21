@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Low crown design
 - Adjustable snapback closure
 - Cotton fabric
 - 3D logo embroidery on front
+- Low crown design
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C8YXTPW9{{</world>}}

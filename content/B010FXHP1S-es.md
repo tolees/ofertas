@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Equipación deportiva de la marca Joma
 - El diseño otorga libertad a los movimientos
 - Tiene detalles distintivos de la marca
+- Equipación deportiva de la marca Joma
 - Adecuado para niños
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

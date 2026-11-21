@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'UGREEN Nexode 65W Cargador USB C Carga Rápida Múltiple Puertos Gris | 3 Puertos PD 3.0 PPS 45W Compatible con MacBook Air Neo iPhone Duo 18 Pro Max 17 16 15 14 13 Galaxy S26 25 Pixel 11 Pro iPad'
-date: 2026-11-19 11:52:17
+date: 2026-11-20 17:39:49
 image: 'https://m.media-amazon.com/images/I/3103U0AJkhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B091BRJSRN/?tag=tolees-21'
 descuento: '37.35'
-average: '23.848888888888855'
+average: '23.633617021276564'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

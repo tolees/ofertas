@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Tiene una rápida absorción
 - Leche hidratante reparadora
-- No contiene parabenos
 - Hidrata y mantiene el bronceado
+- No contiene parabenos
 - Es un producto testado dermatologicamente
 
 [🛒 Comprar!!!]({{< param buyurl >}})

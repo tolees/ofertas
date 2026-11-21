@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Calzado fácil de poner
 - Cinta adhesiva única
+- Calzado fácil de poner
 - Plantilla extraíble
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

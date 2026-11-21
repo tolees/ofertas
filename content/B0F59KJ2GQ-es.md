@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La siguiente información se aplica a cada unidad del paquete
 - Aplicar cada mañana en piel limpia y seca de rostro y cuello. Para exposición solar intensa, usar protector solar.
+- La siguiente información se aplica a cada unidad del paquete
 - Piel protegida de rayos UVA y UVB y de partículas contaminantes. Textura no grasa. No comedogénica, sin perfume.
 - Loción ligera para rostro y cuello con alta protección solar SPF 50. Protege, hidrata y ayuda a restaurar la barrera cutánea. Con 3 ceramidas esenciales, Niacinamida, Vitamina E y Tecnología MVE. Para piel normal a seca.
 

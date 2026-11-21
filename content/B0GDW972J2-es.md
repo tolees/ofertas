@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Caldo Gourmet de Pollo con Jamón Enrique Tomás 100% Natural Gallina Blanca 1 l
 - La siguiente información se aplica a cada unidad del paquete
+- Caldo Gourmet de Pollo con Jamón Enrique Tomás 100% Natural Gallina Blanca 1 l
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0GDW972J2{{</world>}}

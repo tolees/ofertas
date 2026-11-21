@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manga : Manga larga
 - Artículo : Sudadera con capucha
 - Mangas : Sisa en disminución
-- Corte : Corte relaxed
-- Estampado : Estampa en la parte delantera del producto
 - Cuello : Capucha
+- Estampado : Estampa en la parte delantera del producto
+- Manga : Manga larga
 - Bolsillos : Bolsillo canguro
+- Corte : Corte relaxed
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C36RRSHN{{</world>}}

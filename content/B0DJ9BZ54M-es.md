@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Dobladillos con las costuras laterales abiertas
 - Corte clásico
 - 100% poliéster (reciclado)
-- Dobladillos con las costuras laterales abiertas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DJ9BZ54M{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Recompensa óptima durante el entrenamiento
 - Sin azúcares añadidos
 - Alimento complementario para perros
-- Recompensa óptima durante el entrenamiento
 - La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Logotipo del PUMA estampado por transferencia de calor en la pierna izquierda
 - dryCELL: La denominación de PUMA para las propiedades repelentes de la humedad que ayudan a que la piel permanezca seca y cómoda
-- Corte normal
 - Cinturilla elástica con cordón de ajuste
 - Poliéster 100 %
+- Corte normal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08Z3LJWDM{{</world>}}

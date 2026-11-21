@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto de poli resina pintada a mano más ligera y menos frágil que la cerámica o la porcelana
 - Figura para tartas de boda de oro original
-- Figura para tarta Bodas de Oro, pareja en sofá dorado
-- Diseño protegido por copyright mopec. Todos los derechos reservados.
 - Tiene una base estable
 - Detalle bodas de oro, 50 aniversario
+- Figura para tarta Bodas de Oro, pareja en sofá dorado
+- Diseño protegido por copyright mopec. Todos los derechos reservados.
+- Producto de poli resina pintada a mano más ligera y menos frágil que la cerámica o la porcelana
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01DWJ1NFQ{{</world>}}

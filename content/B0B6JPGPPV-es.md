@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ideal para yoga, entrenamiento o ropa relajada
+- Leggings cómodos para ocio y deporte
 - Varios colores y patrones para elegir
 - Combinable con camisas largas y sudaderas con capucha
-- Leggings cómodos para ocio y deporte
+- Ideal para yoga, entrenamiento o ropa relajada
 - Materiales suaves y elásticos para mayor libertad de movimiento
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

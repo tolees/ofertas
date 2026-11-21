@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mahou Clásica Cerveza Lager Dorada Pack 24 Latas x 33cl'
-date: 2026-11-17 14:00:07
+date: 2026-11-20 20:52:17
 image: 'https://m.media-amazon.com/images/I/41s7qlro6RL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0711RMXF6/?tag=tolees-21'
 descuento: '36.17'
-average: '12.928232558139467'
+average: '12.914976958525276'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

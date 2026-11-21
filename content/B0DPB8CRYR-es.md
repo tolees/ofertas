@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tiene detalles distintivos de la marca
 - Sudadera con capucha
+- Tiene detalles distintivos de la marca
 - Estilo informal
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lee - Vaqueros: vaqueros para hombre ventajosos y fiables, ideales para el día a día, un complemento atemporal para cualquier armario, para un aspecto moderno y clásico al mismo tiempo
-- Vaqueros de corte moderno para el día a día: hechos de algodón duradero, lavable a máquina en frío, girar del revés antes de lavar, se puede teñir al frotar sobre telas claras
 - Composición: 99 por ciento algodón 1 por ciento elastano
 - Vaqueros informales con cintura de corte normal y características únicas: 5 bolsillos, cremallera, 5 trabillas clásicas y botones metálicos
+- Lee - Vaqueros: vaqueros para hombre ventajosos y fiables, ideales para el día a día, un complemento atemporal para cualquier armario, para un aspecto moderno y clásico al mismo tiempo
+- Vaqueros de corte moderno para el día a día: hechos de algodón duradero, lavable a máquina en frío, girar del revés antes de lavar, se puede teñir al frotar sobre telas claras
 - Cómodos vaqueros Lee, corte en el muslo y se estrecha hacia abajo hasta un ancho de pie estrecho, vaqueros geniales y contemporáneos para cualquier situación de la vida
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

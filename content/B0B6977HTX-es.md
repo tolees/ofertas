@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Prenda para mujeres adultas
 - Tiene detalles distintivos de la marca
+- Prenda para mujeres adultas
 - Camiseta de uso diario
 
 [🛒 Visítala!!!]({{< param buyurl >}})

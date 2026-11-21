@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Se adapta a esos pequeños aparatos que hacen la vida diaria mas cómoda
-- Especial: Cámara
 - Pilas de litio de larga duración
 - mandos a distancia
+- Se adapta a esos pequeños aparatos que hacen la vida diaria mas cómoda
+- Especial: Cámara
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0748QVV4B{{</world>}}

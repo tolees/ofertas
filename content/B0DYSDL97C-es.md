@@ -29,12 +29,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - DISEÑO FUNCIONAL: tabla de cortar de madera apta para cuchillos con asa integrada y ranura para recoger los jugos que se escurren
-- DOS CARAS: una cara plana, una cara plana con ranura para recoger el jugo
-- LAVAR ÚNICAMENTE A MANO: lavar a mano y secar con una toalla inmediatamente; no remojar ni meter en el lavavajillas; añadir aceite para mantener el brillo
 - Vajilla, utensilios de cocina y similares con certificación FSC (FSC N004130). Producto fabricado con materiales procedentes de bosques gestionados de manera responsable, materiales reciclados u otras fuentes de madera controladas
 - MADERA DE ACACIA: tabla de cortar de madera de acacia con un patrón único de vetas de madera La superficie ya está tratada previamente con aceite para alimentos, lo que la hace lisa y sin rebabas, y no es fácil de romper
-- VARIOS TAMAÑOS: dimensiones: 38,1cm x 25,4cm, 30,5cm x 20,3cm y 22,9cm x 15,2cm; apto para diversas tareas de cocina
 - 3 TABLAS DE CORTAR: juego de 3 tablas de cortar de madera de diferentes tamaños para preparar comidas, servir, picar, cortar en rodajas o presentar embutidos, quesos, frutas, verduras, carnes y más
+- LAVAR ÚNICAMENTE A MANO: lavar a mano y secar con una toalla inmediatamente; no remojar ni meter en el lavavajillas; añadir aceite para mantener el brillo
+- DOS CARAS: una cara plana, una cara plana con ranura para recoger el jugo
+- VARIOS TAMAÑOS: dimensiones: 38,1cm x 25,4cm, 30,5cm x 20,3cm y 22,9cm x 15,2cm; apto para diversas tareas de cocina
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DYSDL97C{{</world>}}

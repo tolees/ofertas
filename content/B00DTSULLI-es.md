@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Manga Larga con las siguientes características:
-- Camisa || Mangas Enrollables || Cuello Redondo Cuello Camiseta || Material duradero
-- Ropa Rockera
 - Descubre todas las marcas de EMP!
 - Ajuste : Estrechos
+- Ropa Rockera
+- Camisa || Mangas Enrollables || Cuello Redondo Cuello Camiseta || Material duradero
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00DTSULLI{{</world>}}

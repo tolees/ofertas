@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fit: Regular
 - Cuello: Redondo
-- Color: Liso
 - Ligeramente largo
+- Color: Liso
+- Fit: Regular
 - Manga: Larga
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

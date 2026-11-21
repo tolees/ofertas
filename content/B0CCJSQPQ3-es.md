@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CLÁSICO Y CÓMODO
 - GAFAS DE SOL RECTANGULARES DE PLÁSTICO
+- CLÁSICO Y CÓMODO
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CCJSQPQ3{{</world>}}

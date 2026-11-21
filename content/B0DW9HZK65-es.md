@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Manga: Larga
-- Largo: Midi
-- Estampado Arty
-- Desigual
 - Fit: Straight
 - Cuello: Redondo
+- Desigual
+- Estampado Arty
+- Largo: Midi
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DW9HZK65{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Indicado para deportistas que buscan la máxima comodidad, sea cual sea el deporte que practiquen, y máxima transpirabilidad Idea
-- Logotipo de Joma bordado en la pierna izquierda
-- Pantalón corto que se caracteriza por su resistencia y elasticidad
 - Presenta los dos lados del pantalón, interior y exterior, con el mismo tejido
+- Indicado para deportistas que buscan la máxima comodidad, sea cual sea el deporte que practiquen, y máxima transpirabilidad Idea
 - Cintura elástica con cordón de tracción, 100% de poliéster
+- Pantalón corto que se caracteriza por su resistencia y elasticidad
+- Logotipo de Joma bordado en la pierna izquierda
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01E5NDY6E{{</world>}}

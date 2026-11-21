@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estilo icónico: zapatilla Brady Men Chambray clásica emblemática de Pepe Jeans, fabricada en fino sarga de algodón, logotipo en la puntera, talón contrastante y suela bicolor de perfil bajo.
-- Estilo icónico: zapatilla Brady Men Chambray clásica emblemática de Pepe Jeans, fabricada en fino sarga de algodón, logotipo en la puntera, talón contrastante y suela bicolor de perfil bajo.
 - Colección SS27MC: parte de la colección.
+- Estilo icónico: zapatilla Brady Men Chambray clásica emblemática de Pepe Jeans, fabricada en fino sarga de algodón, logotipo en la puntera, talón contrastante y suela bicolor de perfil bajo.
+- Estilo icónico: zapatilla Brady Men Chambray clásica emblemática de Pepe Jeans, fabricada en fino sarga de algodón, logotipo en la puntera, talón contrastante y suela bicolor de perfil bajo.
 - Múltiples tallas y entrepiernas: disponible en tallas 40-46 y entrepiernas para un ajuste a medida.
 - Mezcla de tejido premium: hecha de 100% algodón para comodidad, flexibilidad y durabilidad.
 

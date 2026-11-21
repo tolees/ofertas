@@ -29,12 +29,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Plantilla Cloudfoam Comfort
-- Suela de goma
 - Horma clásica
 - Tacto suave
-- Cierre de cordones
 - Empeine de piel sintética
 - Contiene al menos un 20% de materiales reciclados y renovables
+- Cierre de cordones
+- Suela de goma
 - Forro textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})

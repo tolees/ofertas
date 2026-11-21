@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- COMODIDAD: Tecnología dryCELL que absorbe el sudor para mantenerte seco y cómodo
 - Escudo del Manchester City en la pierna derecha
-- 100 % poliéster
 - Producto con licencia oficial
 - Corte normal
+- COMODIDAD: Tecnología dryCELL que absorbe el sudor para mantenerte seco y cómodo
+- 100 % poliéster
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FDB9THVR{{</world>}}

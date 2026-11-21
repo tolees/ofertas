@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Construcción sin cordones
-- Suela firme
-- ¡Nota! Es pequeño. Según los datos de devolución, te recomendamos una talla más. (Si por lo contrario usas talla 40, mejor pide 40 2/3)
 - Corte regular
+- ¡Nota! Es pequeño. Según los datos de devolución, te recomendamos una talla más. (Si por lo contrario usas talla 40, mejor pide 40 2/3)
+- Suela firme
 - Parte superior textil revestida
 
 [🛒 Visítala!!!]({{< param buyurl >}})

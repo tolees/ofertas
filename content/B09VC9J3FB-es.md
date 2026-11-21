@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dimensiones: 32 x 24 x 16 cm
-- Mochila urbana de un compartimento
 - Interior con forro y bolsillo
 - Cuerpo exterior acolchado con bolsillo delantero cerrado con cremallera
+- Mochila urbana de un compartimento
+- Dimensiones: 32 x 24 x 16 cm
 - Dos bolsillos laterales abiertos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Uso seguro en suelos que necesitan un cuidado especial como mármol y madera
 - Un brillo excepcional y duradero
-- Fórmula diseñada para uso profesional, formato de 15L (3 x 5L)
 - Verter 60ml (2 tapones o bombas de dosificación) en 5 L de agua. No precisa aclarado.
+- Uso seguro en suelos que necesitan un cuidado especial como mármol y madera
+- Fórmula diseñada para uso profesional, formato de 15L (3 x 5L)
 - Limpieza profesional que disuelve la grasa y la suciedad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

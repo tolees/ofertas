@@ -29,12 +29,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Suela con plataforma
+- Suela de goma
 - Forro textil
 - Plantilla de EVA
-- Empeine sintético
 - Horma clásica
-- Suela de goma
 - Cierre de cordones
+- Empeine sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D4MJCMY4{{</world>}}

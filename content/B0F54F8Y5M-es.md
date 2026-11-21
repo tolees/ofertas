@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido técnico
-- Cintura totalmente elástica
-- Tecnología CLIMACOOL
-- Bolsillos laterales con cremallera
-- Corte clásico
 - 100% poliéster (100% reciclado)
+- Cintura totalmente elástica
+- Bolsillos laterales con cremallera
+- Tecnología CLIMACOOL
+- Corte clásico
+- Tejido técnico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F54F8Y5M{{</world>}}

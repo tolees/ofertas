@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Champú + acondicionador
-- Con ALOE VERA,
-- pH 5.5
 - CAMOMILA Y VITAMINA E
+- pH 5.5
+- Con ALOE VERA,
+- Champú + acondicionador
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B34MLMNX{{</world>}}

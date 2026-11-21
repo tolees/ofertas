@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tamaño A4 (30 Hojas)
-- Este papel presenta un grano fino y es libre de ácido
 - Su formulación en superficie asegura una excelente capacidad de borrado en húmedo
-- Ideal para una amplia variedad de técnicas húmedas
+- Este papel presenta un grano fino y es libre de ácido
 - Álbum XL Acuarela 300 g/m², de calidad óptima para el estudiante
+- Ideal para una amplia variedad de técnicas húmedas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00L8JFILS{{</world>}}

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - SEGURIDAD ANTE TODO: Quad fabricado con metal y polipropileno resistente, garantizando una estructura duradera y segura. Ideal para el uso continuo, ofrece confianza y estabilidad a los pequeños conductores en sus aventuras
-- QUAD ELÉCTRICO: Ideal para pequeños pilotos, este quad eléctrico ofrece una experiencia emocionante y segura, permitiendo que los niños se sientan como auténticos conductores
 - FÁCIL DE USAR: Su manejo es sencillo, con interruptor de encendido/apagado, pedal de aceleración, botón de avance/retroceso y control de velocidad (máx. 2,5 km/h). Proporciona una autonomía de hasta 50 minutos tras una carga completa (8-12 horas máximo)
+- QUAD ELÉCTRICO: Ideal para pequeños pilotos, este quad eléctrico ofrece una experiencia emocionante y segura, permitiendo que los niños se sientan como auténticos conductores
 - MEDIDAS TOTALES: 70x41,5x48,5 cm (LxANxAL). Medidas del asiento: 28x10 cm. Adecuado para niños de 18 a 36 meses. Cumple con la normativa EN71-1-2-3 y EN62115. Este quad infantil es fácil de montar con instrucciones incluidas
 - MÁXIMA COMODIDAD: Quad para niños de color azul con asiento y manillar antideslizante para mayor seguridad y comodidad. Suspensión y cuatro ruedas de plástico para una conducción suave y estable en distintos tipos de terreno
 

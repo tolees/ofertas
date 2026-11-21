@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Entresuela de EVA
-- Cierre de cordones
 - Suela de goma resistente a la abrasión y forro textil
 - Empeine de piel
+- Cierre de cordones
+- Entresuela de EVA
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DMSX3Z67{{</world>}}

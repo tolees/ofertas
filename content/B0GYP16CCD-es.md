@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PACK 6 x 500 ml: CADA BOTELLA INCLUYE SPRAY Y TAPÓN: Doble cierre en cada unidad — úsala directamente con la pistola pulverizadora integrada o cambia al tapón para verter sobre un paño o microfibra o robot limpiacristales. Sin herramientas, sin adaptadores: flexibilidad total para cualquier método de limpieza en el mismo pack.
-- LISTO PARA USAR SIN DILUCIÓN CON EL FORMATO SPRAY: fórmula profesional lista para aplicar directamente, ideal para limpieza rápida y eficiente sin preparación previa.
-- BOTELLA DE PET 100% RECICLADO: Certificado ECO oficial de la UE. Tensioactivos de origen vegetal renovable, envase de PET 100% reciclado y packaging reciclable. Alto rendimiento con mínimo impacto ambiental.
-- COMPATIBLE CON ROBOT LIMPIADOR DE CRISTALES SIN DILUIR: Simplemente dosifica un tapón de contenido dentro del depósito del robot limpiacristales y deja que el robot haga el resto.
 - LISTO PARA USAR SIN DILUIR — SIN RAYAS EN UNA PASADA: Fórmula RTU (ready-to-use) que se aplica directamente sobre la superficie y seca al instante sin dejar rayas, huellas ni residuos. No requiere enjuague. Consumo de solo 5 ml/m². Eficaz en vidrio, ventanas, espejos, vitrinas, acrílico y superficies resistentes al agua, incluyendo plástico y materiales delicados.
+- COMPATIBLE CON ROBOT LIMPIADOR DE CRISTALES SIN DILUIR: Simplemente dosifica un tapón de contenido dentro del depósito del robot limpiacristales y deja que el robot haga el resto.
+- LISTO PARA USAR SIN DILUCIÓN CON EL FORMATO SPRAY: fórmula profesional lista para aplicar directamente, ideal para limpieza rápida y eficiente sin preparación previa.
+- PACK 6 x 500 ml: CADA BOTELLA INCLUYE SPRAY Y TAPÓN: Doble cierre en cada unidad — úsala directamente con la pistola pulverizadora integrada o cambia al tapón para verter sobre un paño o microfibra o robot limpiacristales. Sin herramientas, sin adaptadores: flexibilidad total para cualquier método de limpieza en el mismo pack.
+- BOTELLA DE PET 100% RECICLADO: Certificado ECO oficial de la UE. Tensioactivos de origen vegetal renovable, envase de PET 100% reciclado y packaging reciclable. Alto rendimiento con mínimo impacto ambiental.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GYP16CCD{{</world>}}

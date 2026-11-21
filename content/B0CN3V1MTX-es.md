@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Woodburn II Waterproof Zapatillas De Senderismo Y Trekking para Hombre Cordovan/Cinnamon - 232 talla 43 EU'
-date: 2026-11-19 14:54:07
+date: 2026-11-21 11:05:27
 image: 'https://m.media-amazon.com/images/I/31gO-XrS-pL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CN3V1MTX/?tag=tolees-21'
 descuento: '42.69'
-average: '60.624545454545448'
+average: '60.348333333333329'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

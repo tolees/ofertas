@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Empeine de piel
+- Mediasuela Cloudfoam
 - Plantilla moldeada
 - Diseño sin cordones
 - Consulte la siguiente guía de tallas
-- Mediasuela Cloudfoam
 - Suela sintética
 
 [🛒 Aquí!!!]({{< param buyurl >}})

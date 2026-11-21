@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tela suave
 - Amplia libertad de movimiento
+- Tela suave
 - Detalles distintivos de la marca
 - Ajuste regular
 

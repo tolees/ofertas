@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Construcción de cobre para mayor resistencia.
 - Zapatillas ligeras en colores vivos con detalles de ante.
+- Archivo de hummel.
 - Detalles de ante para el look
 - Aspecto monocromático para un estilo versátil.
-- Archivo de hummel.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01MPYH7RU{{</world>}}

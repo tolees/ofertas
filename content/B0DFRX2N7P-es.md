@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Espuma viscoelástica refrigerada por aire
-- Almohada para el talón
 - Slip-Ins
+- Almohada para el talón
+- Espuma viscoelástica refrigerada por aire
 - Ajuste sin atar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

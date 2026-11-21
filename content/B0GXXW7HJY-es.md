@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- PIEL SUAVE, TERSA Y UNIFORME: Textura ligera con partículas exfoliantes que mejoran la textura de la piel y afinan su apariencia tras cada uso.
-- La siguiente información se aplica a cada unidad del paquete
 - ELIMINA IMPUREZAS Y CÉLULAS MUERTAS: Exfoliación suave para una limpieza profunda sin irritar. Exfoliante Facial Hombre y Mujer Perfecto para mantener el rostro libre de impurezas.
-- FÓRMULA VEGANA. Utilízalo 1 o 2 veces por semana. Peeling facial ideal para piel seca, mixta o grasa.
-- HIDRATACIÓN INTENSA: Formulado con Aloe Vera y biosacáridos biotecnológicos, el gel exfoliante facial de Babaria hidrata mientras exfolias, dejando la piel nutrida y fresca.
+- La siguiente información se aplica a cada unidad del paquete
 - PROTEGE LA PIEL DE LA CONTAMINACIÓN: Cuidado facial hombre y mujer que actúa como una barrera natural contra los agentes externos, ayudando a prevenir el daño causado por la polución y el estrés ambiental con este limpiador facial.
+- FÓRMULA VEGANA. Utilízalo 1 o 2 veces por semana. Peeling facial ideal para piel seca, mixta o grasa.
+- PIEL SUAVE, TERSA Y UNIFORME: Textura ligera con partículas exfoliantes que mejoran la textura de la piel y afinan su apariencia tras cada uso.
+- HIDRATACIÓN INTENSA: Formulado con Aloe Vera y biosacáridos biotecnológicos, el gel exfoliante facial de Babaria hidrata mientras exfolias, dejando la piel nutrida y fresca.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0GXXW7HJY{{</world>}}

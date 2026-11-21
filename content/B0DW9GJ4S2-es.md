@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Goldcrown
+- Collab
 - Ajuste de cuña
 - Skech-Air
-- Collab
 - Espuma viscoelástica refrigerada por aire
-- Goldcrown
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DW9GJ4S2{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Figura de Campanilla - Sentado en Acebo
+- Resina de piedra pintada a mano con efecto tallado de madera
 - Jim Shore - Tradiciones de Disney
 - Dimensiones aproximadas: 13 cm de altura
+- Figura de Campanilla - Sentado en Acebo
 - Número de artículo: 6010874
-- Resina de piedra pintada a mano con efecto tallado de madera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09SSYZPJ7{{</world>}}

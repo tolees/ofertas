@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ribete con logotipo
 - Cordones y cierre de velcro
+- Ribete con logotipo
 - Plantillas suaves y cómodas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

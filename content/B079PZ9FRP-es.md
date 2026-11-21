@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Producto Para El Cuidado Y La Belleza De Tu Cuerpo
+- Producto oficial de la marca Vichy
 - Vichy Sol Eau Hydr Spf30 200Ml
 - 0
-- Producto oficial de la marca Vichy
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B079PZ9FRP{{</world>}}

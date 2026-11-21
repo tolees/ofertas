@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- London Soft M - Tenis para correr con combinaciones de materiales y colores, talón de contraste de color
 - Rayas laterales de marca icónica, plantilla termoformada y extraíble y logotipo clásico en el lateral
 - Cómoda entresuela de EVA bicolor, suela de goma personalizada, estabilizador de color
+- London Soft M - Tenis para correr con combinaciones de materiales y colores, talón de contraste de color
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FGJRX7SJ{{</world>}}

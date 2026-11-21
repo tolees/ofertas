@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NOX XTREME PRODUCTS HUMMER ASTRA - Semitorre Micro ATX;ATX lateral y frontal de cristal templado ventiladores EASYLINK LED ARGB hasta 10 ventiladores gráficas gran tamaño USB 3.0 color blanco'
-date: 2026-11-16 09:11:45
+date: 2026-11-21 09:32:19
 image: 'https://m.media-amazon.com/images/I/419qwhCo0lL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BHDV452V/?tag=tolees-21'
 descuento: '60.22'
-average: '56.559999999999995'
+average: '55.674'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

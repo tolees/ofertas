@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ligero y fácil de cuidar
-- Comodidad y ajuste
-- Estilo versátil
 - Suela antideslizante
+- Ligero y fácil de cuidar
+- Estilo versátil
+- Comodidad y ajuste
 - Materiales de alta calidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

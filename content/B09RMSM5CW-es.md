@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Colección Pepe Jeans London: Parte de la colección, combinando cortes modernos con esenciales cotidianos.
-- Cuello redondo clásico: Escote atemporal para un estilo versátil diario.
 - Camiseta Slim Fit: Diseñada con una silueta ajustada para un aspecto moderno y aerodinámico.
-- Tejido de algodón elástico: Fabricado con 95% algodón y 5% elastano para comodidad, flexibilidad y retención de forma.
+- Cuello redondo clásico: Escote atemporal para un estilo versátil diario.
 - Diseño de manga corta: Ideal para uso casual o capas en distintas estaciones.
+- Tejido de algodón elástico: Fabricado con 95% algodón y 5% elastano para comodidad, flexibilidad y retención de forma.
+- Colección Pepe Jeans London: Parte de la colección, combinando cortes modernos con esenciales cotidianos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09RMSM5CW{{</world>}}

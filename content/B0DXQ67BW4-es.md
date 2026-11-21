@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Echo Dot 5.ª generación | Antracita + Tapo L530EA Bombilla LED Inteligente E27 Compatible con Alexa - Kit de inicio de Hogar digital'
-date: 2026-09-30 05:26:06
+date: 2026-11-21 10:31:16
 image: 'https://m.media-amazon.com/images/I/41dNsoLi7oL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0DXQ67BW4-es Echo Dot 5.ª generación | Antracita + Tapo L530EA Bombilla...'
 sku: 'B0DXQ67BW4-es'
 tags: [ '🇪🇸', ]
-actualPrice: 34.99 EUR
+actualPrice: 44.99 EUR
 currency: EUR
-price: 34.99
-comparePrice: 109.98 EUR
+price: 44.99
+comparePrice: 108.99 EUR
 prodname: 'Echo Dot 5.ª generación | Antracita + Tapo L530EA Bombilla LED Inteligente E27 Compatible con Alexa - Kit de inicio de Hogar digital'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DXQ67BW4/?tag=tolees-21'
-descuento: '68.19'
-average: '46.99'
+descuento: '58.72'
+average: '46.656666666666673'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

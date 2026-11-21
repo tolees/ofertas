@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillos con ribete inclinados en los laterales
 - Acabado resistente al agua
+- Bolsillos con ribete inclinados en los laterales
 - Ofrece una comodidad óptima
 
 [🛒 Aquí!!!]({{< param buyurl >}})

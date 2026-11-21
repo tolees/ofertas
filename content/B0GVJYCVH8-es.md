@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OPPO Watch S Smartwatch ECG Acero 10Días 3000Nits Silver Gleam | Pantalla 1 46" AMOLED 100+ deportes 5ATM+IP68 seguimiento sueño/FC/SpO2 doble emparejamiento Batería de 10 Días.'
-date: 2026-11-19 00:27:04
+date: 2026-11-21 12:45:24
 image: 'https://m.media-amazon.com/images/I/51noOlzPHcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GVJYCVH8/?tag=tolees-21'
 descuento: '35.62'
-average: '161.28'
+average: '157.815'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

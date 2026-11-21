@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Clarks Shoes, Clarkwood Low, Beeswax Leather, 8 (Men)
 - Suela ligera y flexible con efecto crepé TR (goma termoplástica)
+- Clarks Shoes, Clarkwood Low, Beeswax Leather, 8 (Men)
 - Plantilla acolchada de contorno que ofrece comodidad duradera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

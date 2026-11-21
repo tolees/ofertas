@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Entresuela de EVA
 - Cierre con cordón
+- Entresuela de EVA
 - Parte superior de piel
 - Suela de goma muy resistente a la abrasión Forro textil
 

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Empeine de piel
 - Suela de tracción flexible
+- Empeine de piel
 - Skechers Detalle del logotipo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

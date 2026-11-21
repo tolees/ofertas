@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los productos Cotton in PUMA provienen de granjas con un enfoque en la agricultura sostenible como la eficiencia del agua y la protección de la salud del suelo
 - Tecnología de rendimiento diseñada para absorber la humedad del cuerpo y mantenerte libre de sudor durante el ejercicio
+- Los productos Cotton in PUMA provienen de granjas con un enfoque en la agricultura sostenible como la eficiencia del agua y la protección de la salud del suelo
 - Combinando materiales de alto rendimiento y diseño moderno, esta camiseta es el equipo de viaje para llevar a tu equipo al siguiente nivel
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

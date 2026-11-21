@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Comodidad para el uso diario
 - Diseño de estilo de vida deportivo
-- Amortiguación ligera de EVA
 - Parte superior transpirable
+- Amortiguación ligera de EVA
 - Suela resistente para uso urbano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

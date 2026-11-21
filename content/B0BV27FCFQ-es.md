@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Candy Idea FIDC N100 Horno Eléctrico 70L 1 Bandeja y 1 Rejilla Limpieza Aquactiva 4 Funciones 2 Mandos Mecánicos Puerta Doble Cristal Negro'
-date: 2026-11-18 20:47:53
+date: 2026-11-21 09:01:36
 image: 'https://m.media-amazon.com/images/I/41KoVXUR-lL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BV27FCFQ/?tag=tolees-21'
 descuento: '38.28'
-average: '160.55983606557211'
+average: '159.5579365079349'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

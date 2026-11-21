@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Effeet 10 Pares Calcetines Tobilleros Hombre Mujer Calcetines Cortos Algodón Transpirables Ideales para Deporte Correr Casa Trabajo Verano Negro 43-46'
-date: 2026-11-19 21:38:29
+date: 2026-11-21 06:02:40
 image: 'https://m.media-amazon.com/images/I/41nIvoOqdML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DPQPNJ8P/?tag=tolees-21'
 descuento: '59.02'
-average: '14.583488372093035'
+average: '14.536222222222234'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

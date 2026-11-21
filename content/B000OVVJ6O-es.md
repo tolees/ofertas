@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fáciles de limpiar.
-- Incluye pinceles de los siguientes tamaños: Serie 111 n°1, nº4, nº6 y Serie 666 nº10
-- Fuerte, resistente y duradero.
 - Filamentos suaves con buen control de flujo, excelente capacidad de carga de pintura del resorte y la punta.
+- Fáciles de limpiar.
+- Fuerte, resistente y duradero.
+- Incluye pinceles de los siguientes tamaños: Serie 111 n°1, nº4, nº6 y Serie 666 nº10
 - Los pinceles para acuarela Cotman de Winsor & Newton son pinceles en pura fibra sintética de la más alta calidad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

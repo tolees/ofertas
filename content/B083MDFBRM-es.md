@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Casco de ciclismo muy compacto y de excelente ventilación
-- Concebido para sesiones de intensidad alta o altas temperaturas
 - Visera extraíble y juego extra de almohadillas anti-insectos; carcasa cerrada disponible por separado
+- Concebido para sesiones de intensidad alta o altas temperaturas
 - Estructura supercage que permite una mayor entrada frontal de aire
 - Tecnología conehead de doble densidad de espuma que mejora la absorción de impactos
 

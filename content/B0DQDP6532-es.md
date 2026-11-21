@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 100 % algodón
 - Suéter básico de algodón con cuello redondo en hilo teñido pigmentado con costuras lisas con acanalado en cuello, puños y dobladillo
+- 100 % algodón
 - Marca bordada en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})

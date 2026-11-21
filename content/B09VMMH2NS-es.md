@@ -28,18 +28,18 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuerda
-- Material: Synthetic
-- Material exterior: Cuero
-- material de suela: Nailon
-- Patrón Liso
-- tipo_ocasión Fiesta.
-- Cordones cierre
-- no es resistente al agua
-- Material interno: Caucho
-- Caucho de goma
 - Sin tacón
+- Material: Synthetic
+- Caucho de goma
+- Material exterior: Cuero
+- Material interno: Caucho
+- Cordones cierre
 - informal
+- no es resistente al agua
+- material de suela: Nailon
+- tipo_ocasión Fiesta.
+- Patrón Liso
+- Cuerda
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09VMMH2NS{{</world>}}

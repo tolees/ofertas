@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tipo de tacón: Plano
-- Material exterior: Cuero
 - Cierre: Cordones
+- Material exterior: Cuero
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01L4N33DW{{</world>}}

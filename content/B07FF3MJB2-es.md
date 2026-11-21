@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Clip de acero con resorte y esquina de PP garantiza un agarre seguro; la pinza de bajo perfil permite apilar fácilmente varios portapapeles juntos
-- Lazo colgante retráctil con orificio de 1,27 cm de diámetro; el lazo se extiende desde la parte superior para su uso y se guarda cuando no es necesario
 - Las superficies lisas y los bordes y esquinas redondeados proporcionan una sujeción cómoda
+- Lazo colgante retráctil con orificio de 1,27 cm de diámetro; el lazo se extiende desde la parte superior para su uso y se guarda cuando no es necesario
 - El portapapeles tamaño carta (pack de 12) con base de tablero de fibra marrón ofrece una superficie de escritura dura y portátil; admite hasta 100 hojas de papel de 75 g/m²
 - Medidas: 31.75 x 22.86 x 1.27 cm(largo x ancho x alto)
 

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tirantes anchos con diseño de encaje
-- Tejido suave al tacto y cómodo
 - Cierre de corchete para una sujeción óptima
 - Sujetador confeccionado en encaje de tul y microfibra
+- Tejido suave al tacto y cómodo
+- Tirantes anchos con diseño de encaje
 - Laterales anchos que ofrecen sujeción adicional
 
 [🛒 Visítala!!!]({{< param buyurl >}})

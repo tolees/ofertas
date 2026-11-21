@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sustitución fácil de las bombillas estándar, sustitución genuina de una bombilla convencional de 60 W (uso en exteriores sólo en lámparas adecuadas)
 - Luz blanca fría para aumentar la concentración y la agudeza visual, en cocinas, baños u oficinas
-- Inmediatamente a plena potencia, sin tiempo de calentamiento
-- Larga vida útil: hasta 15.000 horas y hasta 100.000 ciclos de conmutación
 - Consumo de energía 9 kWh/1000h a 806 lm
+- Larga vida útil: hasta 15.000 horas y hasta 100.000 ciclos de conmutación
+- Sustitución fácil de las bombillas estándar, sustitución genuina de una bombilla convencional de 60 W (uso en exteriores sólo en lámparas adecuadas)
+- Inmediatamente a plena potencia, sin tiempo de calentamiento
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09QGVGKHR{{</world>}}

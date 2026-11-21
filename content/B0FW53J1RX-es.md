@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Hombre Dropset Control Training Shoes Core Black/halo Silver/Pure Purple 42 EU'
-date: 2026-11-19 21:39:06
+date: 2026-11-21 03:12:31
 image: 'https://m.media-amazon.com/images/I/215wkFCKbbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

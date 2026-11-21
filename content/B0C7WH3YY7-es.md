@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Para un color construible que puedes controlar, añade capas para intensidad
-- Fórmula nutritiva e hidratante
-- Descubre los 5 tonos disponibles
 - Fórmula 100% vegana, respetuosas con los animales y con el planeta, libre de fragancias, aceites e ingredientes de origen animal
+- Fórmula nutritiva e hidratante
 - Fácil de aplicar en párpados, mejillas y labios
+- Para un color construible que puedes controlar, añade capas para intensidad
+- Descubre los 5 tonos disponibles
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C7WH3YY7{{</world>}}

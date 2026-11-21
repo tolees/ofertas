@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste de cuña
 - MF refrigerado por aire
+- Ajuste de cuña
 - Skech-Air
 
 [🛒 Aquí!!!]({{< param buyurl >}})

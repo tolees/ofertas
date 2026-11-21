@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura elástica ajustable
 - Adecuado para correr o para cualquier otra actividad deportiva
 - Diseño ligero que ofrece comodidad
+- Cintura elástica ajustable
 - Modelo con un diseño simple
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

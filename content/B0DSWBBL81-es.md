@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Button fly
 - An original look
+- Button fly
 - A comfortable fit
 - Provides comfort
 - Inset pockets, including coin pocket

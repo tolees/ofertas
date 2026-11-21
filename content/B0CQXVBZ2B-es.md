@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Carcasa
-- - Cristal: Cristal Mineral
 - - Forma de la Carcasa: Redondo
-- - Color de la caja: Negro
+- - Cristal: Cristal Mineral
+- Carcasa
 - - Material de la Carcasa: Metal (rodinizado) & nilón
+- - Color de la caja: Negro
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CQXVBZ2B{{</world>}}

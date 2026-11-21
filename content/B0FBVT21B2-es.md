@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- 【Nota】 No compatible con modelos de impresora con «e». No compatible con el servicio HP+.
 - Tóner W1420a con chip Impresoras compatibles: para tóner HP LaserJet MFP M140w M140, para tóner HP LaserJet M110w M110, para impresora HP LaserJet MFP M139w M139.
 - iNKPAD 142A W1420A Tóner CON CHIP Compatible con tóner HP LaserJet 142A (no original). Contenido del paquete para tóner HP 142A: 1 paquete de cartucho de tóner negro 142a w1420a con chip, para tóner HP LaserJet MFP M140w, tóner HP M110w
-- 【Nota】 No compatible con modelos de impresora con «e». No compatible con el servicio HP+.
 - 【Alta calidad】 El cartucho de tóner iNKPAD 142A cuenta con las certificaciones ISO9001, ISO14001 y MSDS. Podrá disfrutar de una experiencia de impresión nítida, viva y perfectamente legible.
 - Alto rendimiento por página: 950 páginas por tóner negro 142A (con una cobertura del 5 %).
 

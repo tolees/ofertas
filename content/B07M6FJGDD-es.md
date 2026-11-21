@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Práctica Asa Para Una Cómoda Sujeción, Color : Atractivo, Tamaño Óptimo Para Lavavajillas Pequeño, Óptimo Para Regalar
 - Tazas De Expreso Para Disfrutar De Un Buen Café Durante El Día O Después De Comer
 - Contenido : 1x Taza Espresso 100 ml de cerámica de gres, Material: Cerámica de gres, Dimensiones: 6, 22 x 8, 75 x 6, 5 cm, Peso: 0, 15 kg, Color: Negro Mate, 70305100000099
+- Práctica Asa Para Una Cómoda Sujeción, Color : Atractivo, Tamaño Óptimo Para Lavavajillas Pequeño, Óptimo Para Regalar
 - Resistente De -18 °C A +260 °C, No Apto Para Calor Directo, Limpieza Fácil Gracias Al Esmalte, Apto Para Lavavajillas Y Microondas
 - Cerámica de gres resistente y duradera para un uso diario: resistente a arañazos y cortes, ácidos y manchas, no absorbe olores ni sabores
 

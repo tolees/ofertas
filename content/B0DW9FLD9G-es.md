@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tecnología Natural Rocker
 - Tecnología Goga Mat
-- Amortiguación ultraligera
 - Máxima amortiguación
+- Amortiguación ultraligera
+- Tecnología Natural Rocker
 - Lavable a máquina
 
 [🛒 Comprar!!!]({{< param buyurl >}})

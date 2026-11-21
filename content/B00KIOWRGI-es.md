@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Memoria USB
-- Capacidad de 16 GB
 - Negro
+- Capacidad de 16 GB
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00KIOWRGI{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillos laterales
-- Ideal para cualquier ocasión
 - Cinturón en la cintura
+- Ideal para cualquier ocasión
+- Bolsillos laterales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09T9DQPZ1{{</world>}}

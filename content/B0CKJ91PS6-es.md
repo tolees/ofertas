@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Forro de Textil. Exterior de Sintético. Tipo de construcción: Pegado. Fabricado en Vietnam.
+- Talla: 20
+- marca PUMA
 - Zapatillas Niña
 - modelo SMASH 3.0 HOLO 2.0 V
 - color BLANCO
-- Talla: 20
-- marca PUMA
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKJ91PS6{{</world>}}

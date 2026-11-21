@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tipo de fábrica: Metal
-- Tamaño 18 mm
-- Caja de 1
 - Producto que combina tradición e innovación
+- Tipo de fábrica: Metal
 - Longitud 70 mm
+- Caja de 1
+- Tamaño 18 mm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B002Z8F4YC{{</world>}}

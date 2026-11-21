@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre de cremallera y cuello alzado
 - Bolsillos laterales con cremallera
 - Corte clásico
-- 100% poliéster (reciclado)
+- Cierre de cremallera y cuello alzado
 - Puños y dobladillo con ribete elástico
+- 100% poliéster (reciclado)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CYY6K9W3{{</world>}}

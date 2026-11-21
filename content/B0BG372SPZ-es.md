@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Etiqueta tejida sobre el bolsillo ribeteado en la nalga
 - Modelo de corte regular con cintura media y pierna recta
-- Hecho de sarga de algodón con elástico cómodo
 - Fácil de combinar con diferentes atuendos
+- Hecho de sarga de algodón con elástico cómodo
 - Los pantalones chinos REGULAR TWILL CHINOS de Gant
 
 [🛒 Visítala!!!]({{< param buyurl >}})

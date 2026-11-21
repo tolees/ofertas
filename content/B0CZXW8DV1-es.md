@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Puños de canalé
-- Cuerpo: 55% Algodón / 36% Poliéster(100% Reciclado) / 9% Viscosa
 - Corte clásico
 - Cierre de cordón
+- Cuerpo: 55% Algodón / 36% Poliéster(100% Reciclado) / 9% Viscosa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZXW8DV1{{</world>}}

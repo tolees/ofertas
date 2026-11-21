@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- De la marca Nike
-- Diseñado para infantes
 - Apropiado para jugar al futbol
+- Diseñado para infantes
+- De la marca Nike
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B59BMDQ6{{</world>}}

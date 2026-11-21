@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene detalles distintivos de la marca
-- Ofrece comodidad y libertad de movimiento
 - Malla larga con cintura elástica y cordón ajustable
+- Ofrece comodidad y libertad de movimiento
+- Tiene detalles distintivos de la marca
 - Tejido transpirable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

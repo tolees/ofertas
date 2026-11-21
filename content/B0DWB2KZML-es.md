@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Desigual
+- Color: Liso
+- Tejido ligero
+- Cuello: Redondo
 - Fit: Regular
 - Manga: Larga
-- Color: Liso
-- Cuello: Redondo
-- Tejido ligero
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DWB2KZML{{</world>}}

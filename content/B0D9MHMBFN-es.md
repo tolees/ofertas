@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Confeccionada con materiales reciclados
-- Color: Multicolor
 - Diseñado en Barcelona
+- Confeccionada con materiales reciclados
 - bordado a contraste
+- Color: Multicolor
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D9MHMBFN{{</world>}}

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello: de Camisa
 - Color: Liso
-- Bolsillos delanteros
+- Desigual
 - Fit: Straight
 - Manga: Larga
-- Desigual
+- Cuello: de Camisa
+- Bolsillos delanteros
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DW9HBPPW{{</world>}}

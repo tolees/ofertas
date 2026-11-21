@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Conductor OFC (Oxygen Free Copper), pureza 99,9% con diámetro AWG26 que garantiza la transferencia de datos
-- Compatible con versiones anteriores (CAT6A, CAT6, CAT5e, CAT5, Cat3 etc.)
 - Cable de red latiguillo CAT.7 S/FTP PIMF AWG26 100% cobre con conector RJ45 en ambos extremos
 - Este cable Ethernet de gran calidad ha sido diseñado para redes Ethernet de 10/100/1000/1000/10000 MBit (10 Gigabit/s), es capaz de transferir datos a velocidades de hasta 10 Gbit/s, diez veces más rápido que gigabit Ethernet. Alta velocidad de transmisión mediante una frecuencia de trabajo de hasta 600 MHz.
+- Compatible con versiones anteriores (CAT6A, CAT6, CAT5e, CAT5, Cat3 etc.)
 - Cumple las Normativas ANSI / TIA / EIA 568-B-1, ISO/IEC 11801:2002 Categoría7/ClaseF. Resistencia a la propagación de las llamas según IEC 60332-1-2.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

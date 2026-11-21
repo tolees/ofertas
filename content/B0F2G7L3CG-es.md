@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Empeine de piel sintética
 - Cordones
 - Plantilla textil
+- Empeine de piel sintética
 - Horma clásica
 - Suela cosida de goma
 

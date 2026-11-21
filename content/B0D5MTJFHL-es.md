@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 100% poliéster
 - Under Armour La misión es simple: hacer que uno sea mejor.
 - Esto significa que si uno establece un objetivo, ayuda a aplastarlo.
-- 100% poliéster
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D5MTJFHL{{</world>}}

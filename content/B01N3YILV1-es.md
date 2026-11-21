@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Certificación NF y CE
-- Indicador protección
-- Protector de sobretensión triplite y protección de sobrecarga
 - Protege sus dispositivos de los la rayos y sobretensiones
+- Indicador protección
 - appareillage eléctrica doméstica
+- Certificación NF y CE
+- Protector de sobretensión triplite y protección de sobrecarga
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01N3YILV1{{</world>}}

@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Resistencia a la presión de aqua de 10 bares
 - Esta modelo funciona con un movimiento de Cuarzo preciso
-- 2 años de garantía Invicta
 - El Invicta 16010 tiene una caja de acero inoxidable de 48 millimetros con una esfera plata
 - Este modelo es parte de la colección Invicta S1 Rally
+- 2 años de garantía Invicta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00IUGI91S{{</world>}}

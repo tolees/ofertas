@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dimension de 5 cm
 - Cortaúñas con recogeuñas
+- Dimension de 5 cm
 - Producto de alta calidad
 - Con lima cromada
 

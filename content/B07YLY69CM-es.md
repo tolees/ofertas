@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Confort: material de calidad para un confort óptimo
 - Rick And Morty : Afraid, Space, Navette et Laser
 - Cinturón elástico: para un ajuste perfecto
 - Composición : 92% Poliéster 8% Elastano / Forro 100% Algodón
+- Confort: material de calidad para un confort óptimo
 - Soporte y flexibilidad: libertad de movimiento y ajuste garantizado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

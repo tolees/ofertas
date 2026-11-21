@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Abrigo extralargo.
 - Gabardina.
+- Abrigo extralargo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08NK6S2KL{{</world>}}

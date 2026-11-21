@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Enchufe múltiple para uso en interiores con 2 interruptores de seguridad iluminados para encendido y apagado (bipolar)
 - Base de enchufe múltiple con 10 tomas de corriente y con cable de 2m (H05VV-F 3G1,5)
-- Regleta de enchufes con toma a tierra y protección contra el contacto accidental incorporada: Unas pequeñas placas de plástico cierran los contactos de la toma de corriente
-- Regleta eléctrica Primera-Line con 10 enchufes colocados en un ángulo de 45° - la disposición de las tomas le permite conectar enchufes angulares
 - La posición de la salida del cable es variable y posible en ambos lados, además la regleta tiene la posibilidad del montaje y fijación, p. ej. en pared
+- Regleta eléctrica Primera-Line con 10 enchufes colocados en un ángulo de 45° - la disposición de las tomas le permite conectar enchufes angulares
+- Regleta de enchufes con toma a tierra y protección contra el contacto accidental incorporada: Unas pequeñas placas de plástico cierran los contactos de la toma de corriente
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B001NKYR5U{{</world>}}

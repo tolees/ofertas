@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- __Construcción: __ Construcción de 6 paneles
 - __Tejido: __ Tejido mezcla de poliéster y algodón
 - __Visera: __ visera curva
+- __Construcción: __ Construcción de 6 paneles
 - __Cierre: __cierre a presión
 
 [🛒 Aquí!!!]({{< param buyurl >}})

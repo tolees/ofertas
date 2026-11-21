@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Nuestro planeta importa: reciclado
-- Espuma viscoelástica refrigerada por aire
 - Lavable a máquina
+- Espuma viscoelástica refrigerada por aire
 - Ajuste relajado
 - Vegano
+- Nuestro planeta importa: reciclado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CPJS3XXZ{{</world>}}

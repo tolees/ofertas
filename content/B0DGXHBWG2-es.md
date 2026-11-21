@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MAONO Microfono Gaming Dinámico: Micrófono USB/XLR para Streaming y Podcasting Microphone con Software botón de Silencio y Ganancia para Grabación de PC Gaming PS4 PS5 PD100X'
-date: 2026-11-19 09:10:30
+date: 2026-11-20 18:13:48
 image: 'https://m.media-amazon.com/images/I/31Wwm1fPWPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalones cortos sostenibles
 - Cinturón
+- Pantalones cortos sostenibles
 - chino
 
 [🛒 Comprar!!!]({{< param buyurl >}})

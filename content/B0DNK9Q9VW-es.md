@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Correa trasera icónica para mayor funcionalidad
-- Suela de goma para mayor agarre
 - Cómodas plantillas para hundirse
+- Suela de goma para mayor agarre
+- Correa trasera icónica para mayor funcionalidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DNK9Q9VW{{</world>}}

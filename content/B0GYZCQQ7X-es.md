@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- PIES SUAVES Y SENSACIÓN DE CONFORT: Ayuda a alisar, suavizar y refrescar la piel de los pies, proporcionando una agradable sensación de alivio y bienestar tras la rutina de cuidado.
-- BETER: empresa familiar española con más de 85 años de historia, líder en accesorios de belleza y cuidado personal gracias a la innovación constante y compromiso medioambiental.
-- FORMATO VIAJE TRAVEL FRIENDLY: Su presentación en sobres individuales es cómoda, ligera y fácil de llevar en el neceser, bolso o maleta, perfecta para viajes, escapadas o para disfrutar de una pedicura en casa.
 - KIT PEDICURA EN 3 PASOS: Tratamiento práctico para el cuidado de los pies que combina exfoliación, hidratación y frescor en un formato todo en uno, ideal para una rutina de pedicura cómoda y rápida.
+- BETER: empresa familiar española con más de 85 años de historia, líder en accesorios de belleza y cuidado personal gracias a la innovación constante y compromiso medioambiental.
+- PIES SUAVES Y SENSACIÓN DE CONFORT: Ayuda a alisar, suavizar y refrescar la piel de los pies, proporcionando una agradable sensación de alivio y bienestar tras la rutina de cuidado.
+- FORMATO VIAJE TRAVEL FRIENDLY: Su presentación en sobres individuales es cómoda, ligera y fácil de llevar en el neceser, bolso o maleta, perfecta para viajes, escapadas o para disfrutar de una pedicura en casa.
 - EXFOLIA, HIDRATA Y REFRESCA: Incluye 3 pasos complementarios para dejar los pies suaves y revitalizados: 1. Exfoliante con partículas de sal pura, 2. Hidratante ligera con glicerina y aceite de menta, 3. Tratamiento refrescante con mentol y hamamelis.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

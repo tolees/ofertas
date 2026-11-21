@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Tecnología transpirable
+- 86% poliéster (reciclado) / 14% elastán
 - Fiel a la talla
 - AEROREADY
-- 86% poliéster (reciclado) / 14% elastán
-- Tecnología transpirable
 - Detalles reflectantes
 
 [🛒 Comprar!!!]({{< param buyurl >}})

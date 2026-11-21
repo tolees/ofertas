@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte : Ajuste regular con cintura media, muslo regular y parte baja regular
 - Bolsillos : Bolsillos traseros, Bolsillo relojero, Bolsillos delanteros
 - Cierre : Bragueta con cremallera
 - Klavado/acabado : Rasgaduras abiertas
-- Cintura : Talle medio
 - Artículo : Shorts de ajuste regular
+- Corte : Ajuste regular con cintura media, muslo regular y parte baja regular
+- Cintura : Talle medio
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZS29SLL{{</world>}}

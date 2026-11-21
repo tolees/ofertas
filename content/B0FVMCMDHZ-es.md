@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Hombre Stadium Loose Open Hem Pants Dark Blue L'
-date: 2026-11-19 21:43:40
+date: 2026-11-21 00:11:20
 image: 'https://m.media-amazon.com/images/I/31MBKDKlSVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

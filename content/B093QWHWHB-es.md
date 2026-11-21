@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mejor servido frío entre 8-10 °C
-- Por su frescura armoniza con todo tipo de arroces, pastas, ensaladas tibias, cremas y parrilladas de verduras
-- Alcohol: 13%
 - Producto de calidad
+- Alcohol: 13%
+- Por su frescura armoniza con todo tipo de arroces, pastas, ensaladas tibias, cremas y parrilladas de verduras
+- Mejor servido frío entre 8-10 °C
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B093QWHWHB{{</world>}}

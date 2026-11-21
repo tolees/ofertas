@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Composición tejido: exterior y forro interior de poliéster.
 - Estuche escolar doble que permite mantener el material escolar siempre ordenado y de fácil acceso.
-- Contenido: 2 gomas de borrar (4024 y Nata blue), 1 sacapuntas AFILA, 1 lápiz de grafito HB, 1 bolígrafo P1 Look tinta azul, 1 regla triangular de 15 cm, 12 lápices de colores triangulares y 18 rotuladores de punta cónica.
 - Medidas: 19,5 x 13 x 5 cm.
 - Serie especial Aliens multicolor, con un alegre estampado de alienígenas apilados, con los mismos personajes que el juguete educativo de madera Aliens Tower, con forro interior de color negro.
+- Contenido: 2 gomas de borrar (4024 y Nata blue), 1 sacapuntas AFILA, 1 lápiz de grafito HB, 1 bolígrafo P1 Look tinta azul, 1 regla triangular de 15 cm, 12 lápices de colores triangulares y 18 rotuladores de punta cónica.
+- Composición tejido: exterior y forro interior de poliéster.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D2RJVKV8{{</world>}}

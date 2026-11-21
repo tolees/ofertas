@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Incluye mejoras sustanciales de la experiencia de juego y una mecánica de combate ágil y dinámica, así como monstruos totalmente nuevos, nuevas zonas de caza y un nuevo nivel de dificultad en forma de misiones de rango maestro.
-- Monster Hunter Rise: Sunbreak es una expansión del juego original Monster Hunter Rise.
 - Tras haber salvado a Kamura de la calamidad, deberás ahora viajar a la lejana tierra de Elgado, un puesto cerca de un reino asediado por un siniestro enemigo: ¡el dragón anciano Malzeno!
+- Monster Hunter Rise: Sunbreak es una expansión del juego original Monster Hunter Rise.
+- Incluye mejoras sustanciales de la experiencia de juego y una mecánica de combate ágil y dinámica, así como monstruos totalmente nuevos, nuevas zonas de caza y un nuevo nivel de dificultad en forma de misiones de rango maestro.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DY1NPP3V{{</world>}}

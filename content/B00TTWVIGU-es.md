@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sebamed es una marca de confianza que se esfuerza continuamente para proporcionar productos que cuidan la piel de manera efectiva. Garantía sello ECARF.
 - Absorción rápida: Textura ligera, no grasa, perfecta para el uso diario y rápida absorción.
-- Calma la piel: Con Camomila y Alantíona para reparar y mitigar la irritación cutánea.
 - Hidratación intensiva: Sebamed Leche Corporal 400ml calma y suaviza pieles sensibles.
+- Calma la piel: Con Camomila y Alantíona para reparar y mitigar la irritación cutánea.
 - pH 5,5: Respeto al pH natural de la piel, promueve barrera protectora.
+- Sebamed es una marca de confianza que se esfuerza continuamente para proporcionar productos que cuidan la piel de manera efectiva. Garantía sello ECARF.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00TTWVIGU{{</world>}}

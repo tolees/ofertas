@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Horma clásica
 - Puntera de ante
 - Cordones elásticos y cierre autoadherente
+- Horma clásica
 - Forro textil
 - Empeine de piel
 

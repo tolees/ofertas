@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- __TECNOLOGÍA DE LA PARTE EXTERIOR:__ La construcción de In-Mold fusiona la carcasa y la espuma EPS para un diseño de una sola pieza, ligero y duradero.
 - M / 56-58 cm
-- __Talla:__ S / 53-55 cm
 - __Corte:__ sistema ajustable integrado en el interior del cuello para máxima comodidad
+- __Talla:__ S / 53-55 cm
+- __TECNOLOGÍA DE LA PARTE EXTERIOR:__ La construcción de In-Mold fusiona la carcasa y la espuma EPS para un diseño de una sola pieza, ligero y duradero.
 - __PROTECCIÓN:__
 
 [🛒 Visítala!!!]({{< param buyurl >}})

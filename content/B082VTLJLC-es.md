@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Compatible para utilizarse en interiores
 - Acaba con el hormiguero: el cebo es recogido por las hormigas obreras y transportado al hormiguero donde mata a la colonia entera, incluyendo las larvas y la hormiga reina
 - Formato en cebos: cebo comestible que se coloca en el suelo para eliminar las hormigas
-- Utilice los biocidas de forma segura. Lea siempre la etiqueta y la información sobre el biocida antes de usarlo
 - Área de protección hasta 58 m3
-- Producto apto para el público general (no uso exclusivo profesional)
+- Utilice los biocidas de forma segura. Lea siempre la etiqueta y la información sobre el biocida antes de usarlo
 - Acción continua: 2-3 semanas, las 24 horas del día
+- Producto apto para el público general (no uso exclusivo profesional)
+- Compatible para utilizarse en interiores
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B082VTLJLC{{</world>}}

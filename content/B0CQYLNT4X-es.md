@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre adaptable
-- John Deere Gore and Strap - Tenis con pared lateral temática
 - Collab x John Deere
+- John Deere Gore and Strap - Tenis con pared lateral temática
 - Temático
+- Cierre adaptable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CQYLNT4X{{</world>}}

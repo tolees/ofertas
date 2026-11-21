@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - En un resistente maletín de plástico
-- 6 cantos
 - Satinado mate
-- Perfil FlankTraction
+- 6 cantos
 - Cromo vanadio
+- Perfil FlankTraction
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00DEGW6D6{{</world>}}

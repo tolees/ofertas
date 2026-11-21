@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Composición: 100 % algodón
-- Ajuste: recto regular
 - Pantalones vaqueros, pantalones largos
-- Instrucciones de cuidado: lavable a máquina
 - Tipo elástico: no elástico
+- Ajuste: recto regular
+- Instrucciones de cuidado: lavable a máquina
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D6NKJ7LL{{</world>}}

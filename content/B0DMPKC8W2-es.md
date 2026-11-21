@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- EVA midsole
-- Leather upper
-- High-abrasion-resistant rubber outsole Textile lining
 - Lace closure
+- High-abrasion-resistant rubber outsole Textile lining
+- Leather upper
+- EVA midsole
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DMPKC8W2{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puños y dobladillo de canalé
 - Corte clásico
 - 70% algodón / 30% poliéster (reciclado)
 - Capucha con cordón ajustable
+- Puños y dobladillo de canalé
 - Bolsillo canguro
 - Hombros con la costura caída
 

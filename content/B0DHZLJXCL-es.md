@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Corte clásico
 - Empeine de tejido ripstop con refuerzos sintéticos
+- CLIMAWARM+
 - Membrana impermeable
 - Cierre de cordón elástico con tiras de velcro
-- Corte clásico
-- CLIMAWARM+
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHZLJXCL{{</world>}}

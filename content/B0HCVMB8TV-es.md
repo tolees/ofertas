@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec Cepillo moldeador de pelo con aire AirGlisse 8in1 CottonCandy | Tecnología coanda Todo tipo de peinados con aire 8 accesorios 110.000 RPM 1400W'
-date: 2026-11-16 12:50:03
+date: 2026-11-21 08:09:41
 image: 'https://m.media-amazon.com/images/I/313cDKd82BL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reebok Glide Zapatillas Unisex adulto Ftwr White Cold Grey 2 Ftwr White 44 EU'
-date: 2026-11-16 21:04:40
+date: 2026-11-21 02:49:06
 image: 'https://m.media-amazon.com/images/I/31xTQlzdK5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0B1N2WRC4/?tag=tolees-21'
 descuento: '52.87'
-average: '41.645'
+average: '38.760000000000005'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

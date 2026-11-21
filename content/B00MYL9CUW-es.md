@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Volumen panorámico: Consigue una mirada hasta 1,4x más grande* para un look impactante, Volumen panorámico de esquina a esquina
-- Aplicación: Desliza el cepillo con cerdas multinivel por la base de las pestañas, Moviéndolo en zigzag hacia arriba para una cobertura homogénea de la raíz a la punta, Desde el interior hacia el exterior del ojo
 - Fórmula suave: Testeada oftamológicamente, Apta para ojos sensibles
 - Larga duración: Acabado resistente a grumos hasta 24H**, Aspecto impecable durante todo el día
+- Aplicación: Desliza el cepillo con cerdas multinivel por la base de las pestañas, Moviéndolo en zigzag hacia arriba para una cobertura homogénea de la raíz a la punta, Desde el interior hacia el exterior del ojo
 - Contenido: 1x LOréal Paris Máscara de Pestañas Volume Million, Volumen Panorámico, Duración hasta 24h, Panorama Chromatics, Bleu Suede
 
 [🛒 Comprar!!!]({{< param buyurl >}})

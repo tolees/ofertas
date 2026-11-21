@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ventilación lateral
 - Solapa de botones
+- Ventilación lateral
 - Cuello con punta de punto plano
 
 [🛒 Visítala!!!]({{< param buyurl >}})

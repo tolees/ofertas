@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con un ajuste estrecho
-- Corte delgado en el muslo sin que quede demasiado apretado
-- Pantalones chinos para hombre
 - Forma de pierna cónica
+- Corte delgado en el muslo sin que quede demasiado apretado
+- Con un ajuste estrecho
+- Pantalones chinos para hombre
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09Y8YP66W{{</world>}}

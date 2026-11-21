@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Trabillas para cinturón
-- Proporciona comodidad
 - Etiqueta de G-Star Originals tejida en la cadera
+- Proporciona comodidad
 - Bolsillos con solapa en el muslo con botones a presión ocultos
+- Trabillas para cinturón
 - Bragueta de cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

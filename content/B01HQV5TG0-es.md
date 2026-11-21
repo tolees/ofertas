@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pieles Sensibles y secas
-- 0
 - Hidrata 24h & penetra al instante
 - Bebés, niños, adultos
+- 0
+- Pieles Sensibles y secas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01HQV5TG0{{</world>}}

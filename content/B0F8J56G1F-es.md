@@ -28,16 +28,16 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Manga : Manga larga
 - Composición de accesorios : Algodón
 - Bolsillos : Bolsillo canguro
-- Artículo : Sudadera con capucha
-- Dimensiones del accesorio : 20.0
-- Corte : Corte regular
-- Cuello : Capucha
 - Mangas : Sisa en disminución
 - Estampado : Estampado de goma para un tacto suave
 - Tipo de accesorio : Cinturón fijo
-- Manga : Manga larga
+- Corte : Corte regular
+- Cuello : Capucha
+- Artículo : Sudadera con capucha
+- Dimensiones del accesorio : 20.0
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F8J56G1F{{</world>}}

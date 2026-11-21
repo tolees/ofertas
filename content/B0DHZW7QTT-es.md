@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela de goma
-- Empeine textil y de piel
-- Cordones
 - Forro textil
+- Cordones
+- Empeine textil y de piel
 - Horma clásica
+- Suela de goma
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DHZW7QTT{{</world>}}

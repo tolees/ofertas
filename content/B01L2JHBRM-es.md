@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Movimiento de cuarzo de tres manecillas
-- Esfera blanca
-- Correa de silicona blanca con diseño petit piqué
-- 3 ATM de resistencia al agua; el agua del grifo o la lluvia no daña los relojes siempre y cuando la caja, la corona y el cristal permanezcan intactos
 - Grosor de la caja de 10.45 mm; diámetro de la caja: 38 mm
+- Movimiento de cuarzo de tres manecillas
+- Correa de silicona blanca con diseño petit piqué
+- Esfera blanca
+- 3 ATM de resistencia al agua; el agua del grifo o la lluvia no daña los relojes siempre y cuando la caja, la corona y el cristal permanezcan intactos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01L2JHBRM{{</world>}}

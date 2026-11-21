@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo de las 3 bandas
 - Cuello redondo
-- 100% algodón
 - Corte holgado
+- Logotipo de las 3 bandas
+- 100% algodón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZP1YJXM{{</world>}}

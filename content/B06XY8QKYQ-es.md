@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lékué Set 2 Escalfador de Huevos poché Silicona+acero inoxidable Naranja'
-date: 2026-11-18 23:03:14
+date: 2026-11-21 12:03:33
 image: 'https://m.media-amazon.com/images/I/31pfTiaBeIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XY8QKYQ/?tag=tolees-21'
 descuento: '45.93'
-average: '12.03'
+average: '11.7125'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

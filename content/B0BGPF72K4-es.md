@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Movimiento Cuarzo
-- Diámetro caja: 35mm
 - Caja Acero inoxidable, esfera Gris
 - Brazalete Negro Acero inoxidable
+- Movimiento Cuarzo
+- Diámetro caja: 35mm
 - Resistente al agua: 50m
 
 [🛒 Comprar!!!]({{< param buyurl >}})

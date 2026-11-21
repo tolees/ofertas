@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Refuerzo de doble capa.
 - Dobladillo acampanado.
-- Cintura de doble capa de compresión con diseño de espalda en V y tiro alto.
 - Costuras planas para una experiencia sin rozaduras.
+- Cintura de doble capa de compresión con diseño de espalda en V y tiro alto.
 - Bolsillos exteriores laterales y traseros.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

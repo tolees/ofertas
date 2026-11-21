@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro Gaming Juego de Mesa electrónico Operación con Estuche Todo en uno - Versión español-portugués'
-date: 2026-11-20 01:02:59
+date: 2026-11-21 11:52:24
 image: 'https://m.media-amazon.com/images/I/51RMJDeupvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0D8B7ZPCG/?tag=tolees-21'
 descuento: '40.01'
-average: '19.077999999999843'
+average: '19.009999999999852'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

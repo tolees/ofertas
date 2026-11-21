@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Empeine textil y sintético
 - Horma clásica
 - Plantilla OrthoLite
-- Empeine textil y sintético
 - Mediasuela CLOUDFOAM
 - Cordones
 

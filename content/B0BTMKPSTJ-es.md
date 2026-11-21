@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Estuche de 22 cm x 12 cm x 5 cm fabricado en Poliéster
 - Tamaño óptimo para llevarlo en la mochila, carterón o bolso
 - Tres compartimentos cerrados con cremallera para optimizar la organización
-- Estuche de 22 cm x 12 cm x 5 cm fabricado en Poliéster
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BTMKPSTJ{{</world>}}

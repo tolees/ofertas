@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ace Combat 8: Wings Of Theve'
-date: 2026-11-19 11:18:25
+date: 2026-11-20 19:21:29
 image: 'https://m.media-amazon.com/images/I/41P3JhlT7PL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0H418D6GM/?tag=tolees-21'
 descuento: '40.63'
-average: '68.801'
+average: '66.971818181818179'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

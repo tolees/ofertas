@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camisa tejida
 - Tipo de estiramiento: baja elasticidad
-- Ajuste: regular
 - Composición: 100% algodón
+- Camisa tejida
+- Ajuste: regular
 - Instrucciones de cuidado: lavable a máquina
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

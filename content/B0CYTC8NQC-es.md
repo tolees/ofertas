@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Empeine de piel
 - Forro textil
-- Horma clásica
 - Cierre de cordones
+- Empeine de piel
+- Horma clásica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CYTC8NQC{{</world>}}

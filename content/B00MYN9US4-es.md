@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Carcasa de aluminio de alta calidad y resistente
-- Velocidad de transferencia de hasta 5.0 Gbps
-- Velocidad de HDD soportada: 4200 rpm/ 5400 rpm / 7200 rpm
 - Conexión USB 3.0
+- Velocidad de HDD soportada: 4200 rpm/ 5400 rpm / 7200 rpm
+- Velocidad de transferencia de hasta 5.0 Gbps
+- Carcasa de aluminio de alta calidad y resistente
 - Caja externa de aluminio para discos duros SATA de 2.5"
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo PUMA n.º 1 en la lengüeta
-- Cierre de cordones para un ajuste perfecto
-- Cuello acolchado y pespunteado
-- Exterior de ante
 - Ojetera de diseño actualizado
+- Cuello acolchado y pespunteado
+- Cierre de cordones para un ajuste perfecto
+- Logotipo PUMA n.º 1 en la lengüeta
+- Exterior de ante
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DS49CLTL{{</world>}}

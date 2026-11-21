@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Medio ambiente: Omino Bianco ha decidido adherirse voluntariamente al programa europeo A.I.S.E Prep L2 para lograr una mayor sostenibilidad medioambiental en el cuidado de la ropa
+- Dosis: las nuevas fórmulas más concentradas de Omino Bianco desarrolladas por el Laboratorio de Investigación garantizan un mayor poder de limpieza en cada gota del producto, siendo necesarios 40ml por lavado
 - Producto: Omino Bianco Rosa Floral es adecuado para dar un toque mas fresco a tus prendas gracias al aroma de Flor de Loto
 - Acción: El producto fabricado con jabón 100% natural limpia en profundidad, eliminando incluso las manchas más difíciles, respetando los tejidos en cada lavado
-- Dosis: las nuevas fórmulas más concentradas de Omino Bianco desarrolladas por el Laboratorio de Investigación garantizan un mayor poder de limpieza en cada gota del producto, siendo necesarios 40ml por lavado
 - Fórmula: gracias a su nueva fórmula dermatológicamente testada, es adecuado para el lavado de toda la familia; respeta la piel y ayuda a prevenir el riesgo de irritación
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

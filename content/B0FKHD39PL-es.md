@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Calidad de imagen superior con QLED 4K UHD: Disfruta de imágenes ultra definidas y colores intensos gracias a la tecnología QLED y resolución 4K, ideal para contenidos de alta calidad
-- Dimensiones: sin peana 122,6 x 71,9 x 8,8 cm; con peana 122,6 x 77,7 x 27,7 cm; compatible con montaje VESA 300 x 300 mm
-- Google TV y Smart Remote: Accede de forma rápida y sencilla a tus apps favoritas, series y películas gracias a Google TV y el mando inteligente incluido
-- Audio envolvente Dolby Atmos y Dolby Vision IQ: Vive una experiencia audiovisual inmersiva con sonido tridimensional y mejora automática de imagen según el entorno
 - Ideal para gaming de nueva generación: Vive una experiencia de juego fluida, rápida y competitiva gracias a una tasa de refresco de GAMING 120 Hz DLG ACCELERATOR. Ofrece una mayor nitidez en movimiento y mejor respuesta en 2K, optimizando la entrega de fotogramas para videojuegos de última generación.
+- Google TV y Smart Remote: Accede de forma rápida y sencilla a tus apps favoritas, series y películas gracias a Google TV y el mando inteligente incluido
+- Dimensiones: sin peana 122,6 x 71,9 x 8,8 cm; con peana 122,6 x 77,7 x 27,7 cm; compatible con montaje VESA 300 x 300 mm
+- Calidad de imagen superior con QLED 4K UHD: Disfruta de imágenes ultra definidas y colores intensos gracias a la tecnología QLED y resolución 4K, ideal para contenidos de alta calidad
+- Audio envolvente Dolby Atmos y Dolby Vision IQ: Vive una experiencia audiovisual inmersiva con sonido tridimensional y mejora automática de imagen según el entorno
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FKHD39PL{{</world>}}

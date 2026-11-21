@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Etiqueta tejida en la lengüeta
-- Marca "New Balance" en el cuello del talón
 - punta perforada
+- Marca "New Balance" en el cuello del talón
+- Etiqueta tejida en la lengüeta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FFN3BBJH{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tenis sin cordones con espuma viscoelástica refrigerada por aire, perfectos para el regreso a la escuela
-- Lavable a máquina
-- Zapato de regreso a clases
-- Slip-Ins
 - Plantilla de espuma viscoelástica refrigerada por aire
+- Lavable a máquina
+- Tenis sin cordones con espuma viscoelástica refrigerada por aire, perfectos para el regreso a la escuela
+- Slip-Ins
+- Zapato de regreso a clases
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D3HYT747{{</world>}}

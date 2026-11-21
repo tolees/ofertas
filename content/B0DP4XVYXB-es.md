@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Tomates de cultivo local procedentes de las Vegas del Guadiana (Extremadura)
 - El Tomate Frito Solís está elaborado con ingredientes 100% naturales
 - Salsa de tomate frito Solís sin aditivos ni conservantes y sin gluten
-- La siguiente información se aplica a cada unidad del paquete
 - Disponible en formato brick reciclable
+- La siguiente información se aplica a cada unidad del paquete
 - Salsa de tomate frito Solís para la base de tus recetas favoritas: almejas a la marinera, paella o empanada de atún o acompañar tus platos de pasta, arroz, albóndigas, etc.
-- Tomates de cultivo local procedentes de las Vegas del Guadiana (Extremadura)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DP4XVYXB{{</world>}}

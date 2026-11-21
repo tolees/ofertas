@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Accesorio Perfecto – Fiable y versátil: tu taza termo café te acompaña de viaje, en el coche o en el trabajo. Una taza térmica café para llevar que sustituye a las tazas de café de un solo uso, con bebidas calientes o frías.
 - Diseño Atemporal – Nuestra pasión es diseñar el mejor vaso térmico café. Por eso cada taza térmica destaca por su diseño estético y su funcionalidad inteligente: un termo café para llevar que te acompaña cada día.
-- Calidad Premium – Tu vaso termo está hecho de acero inoxidable de calidad alimentaria: resistente a la oxidación, sin BPA y conforme a las normas de la UE. Un termo para café en el que puedes confiar cada día.
-- Siempre a mano – Tu taza térmica de café reutilizable cabe en la mayoría de los portavasos del coche o del cochecito: para disfrutar de ese pequeño momento de café o té, estés donde estés. Se recomienda lavar a mano.
 - Alto Rendimiento – Uno de los vasos térmicos frío y calor más eficientes: este vaso térmico acero inoxidable de doble pared mantiene tus bebidas calientes hasta 4 h y frías hasta 16 h. Un travel mug para cada día.
+- Siempre a mano – Tu taza térmica de café reutilizable cabe en la mayoría de los portavasos del coche o del cochecito: para disfrutar de ese pequeño momento de café o té, estés donde estés. Se recomienda lavar a mano.
+- Calidad Premium – Tu vaso termo está hecho de acero inoxidable de calidad alimentaria: resistente a la oxidación, sin BPA y conforme a las normas de la UE. Un termo para café en el que puedes confiar cada día.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CW9FYMKB{{</world>}}

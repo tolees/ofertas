@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Recortadora todo en uno de 23 en 1 Serie 9000 + OneBlade - Afeitadora y cortapelos hombre para rostro cabeza y cuerpo 27 longitudes 0 2-20 mm recargable MG9561/30'
-date: 2026-11-17 18:03:06
+date: 2026-11-20 19:43:18
 image: 'https://m.media-amazon.com/images/I/51XMBcRssOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FJM331JN/?tag=tolees-21'
 descuento: '50.00'
-average: '94.908333333333331'
+average: '93.376153846153841'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

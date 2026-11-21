@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño actualizado de eyestay
 - Cuello cosido y acolchado
 - Parte superior sintética y de cuero
+- Diseño actualizado de eyestay
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F63B9Q3Y{{</world>}}

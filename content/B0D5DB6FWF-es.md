@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Poliéster reciclado
-- Corte normal
 - Tecnología Bee Cool
 - Impresión a base de agua
+- Poliéster reciclado
+- Corte normal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D5DB6FWF{{</world>}}

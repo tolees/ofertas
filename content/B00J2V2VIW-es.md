@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - FÓRMULA HIPOALERGÉNICA · SIN CONSERVANTES — Dermoprotector. Mantiene la hidratación natural de la piel. Calma irritaciones. Apto para pieles sensibles y delicadas, incluida la del bebé. Refrescante. Más de un siglo de perfeccionamiento
-- 200 G — FORMATO DE USO DIARIO — El bote de 200 g para el cuidado diario de toda la familia. Disponible también en 100 g y en bote familiar de 500 g. Espolvorear sobre piel limpia y seca. Conservar en lugar fresco y seco. CALBER: el talco de España.
-- PROTEGE CONTRA LAS ROZADURAS — La fórmula dermoprotectora CALBER absorbe la humedad y reduce la fricción en muslos, axilas y pliegues. Piel seca y sin irritaciones. Ideal tras el baño, el deporte o en cualquier zona de roce.
 - PARA EL BEBÉ, LA MADRE Y EL PADRE — A TODOS — Suave para las pieles más delicadas. Refrescante para el adulto tras el baño o el deporte. Ideal como cuidado postdepilación. Un solo talco para toda la familia, desde 1900.
 - LA MARCA ORIGINAL DESDE 1900 — CALBER nació en San Sebastián hace más de 120 años. El talco de siempre, con la fórmula de confianza de generaciones. Ningún talco genérico tiene esta historia ni esta garantía.
+- 200 G — FORMATO DE USO DIARIO — El bote de 200 g para el cuidado diario de toda la familia. Disponible también en 100 g y en bote familiar de 500 g. Espolvorear sobre piel limpia y seca. Conservar en lugar fresco y seco. CALBER: el talco de España.
+- PROTEGE CONTRA LAS ROZADURAS — La fórmula dermoprotectora CALBER absorbe la humedad y reduce la fricción en muslos, axilas y pliegues. Piel seca y sin irritaciones. Ideal tras el baño, el deporte o en cualquier zona de roce.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00J2V2VIW{{</world>}}

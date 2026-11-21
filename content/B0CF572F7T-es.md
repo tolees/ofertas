@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - El acolchado en el cuello y en la zona del empeine proporcionan un extra de amortiguación
-- Modelo confeccionado con piel de nobuk encerada elaborada en nuestras propias curtidurías
 - Plantilla moldeada extraíble de tela
+- Modelo confeccionado con piel de nobuk encerada elaborada en nuestras propias curtidurías
 - La ligera suela aporta amortiguación y flexibilidad gracias a la innovadora tecnología ECCO FLUIDFORM Direct Comfort
 - Entrepiezas elásticas en los laterales para calzarse y descalzarse con facilidad
 

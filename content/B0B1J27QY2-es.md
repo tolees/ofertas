@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Productos de Perfumes y fragancias para Hombre
-- Los productos de la marca Guerlain están fabricados con ingredientes de la mejor calidad.
 - Perfumes y fragancias Guerlain Vetiver Edt 150 Ml de Guerlain
+- Los productos de la marca Guerlain están fabricados con ingredientes de la mejor calidad.
+- Productos de Perfumes y fragancias para Hombre
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B1J27QY2{{</world>}}

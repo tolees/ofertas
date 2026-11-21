@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material que capilariza el sudor y se seca rápidamente
 - Tejido de punto texturizado ligero, resistente y transpirable
 - Orificios para los pulgares para mantener las mangas en su sitio
+- Material que capilariza el sudor y se seca rápidamente
 - Parte delantera con cremallera de ¼ para combinar fácilmente con otras prendas
 - ¼ cremallera está diseñada para mantenerte ligero y sentirte rápido en el campo
 

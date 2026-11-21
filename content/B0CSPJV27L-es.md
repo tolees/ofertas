@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pierna ajustada
 - PEPE JEANS SLIM JEANS LW DENIM Ladies 27
+- Pierna ajustada
 - Cierre de cremallera
 
 [🛒 Visítala!!!]({{< param buyurl >}})

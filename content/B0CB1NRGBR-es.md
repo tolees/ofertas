@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Horma clásica
-- Cierre de cordones
 - Forro textil
+- Cierre de cordones
 - Mediasuela de aspecto vulcanizado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

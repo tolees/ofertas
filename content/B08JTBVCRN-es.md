@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tetera Clásica De Uso Diario Teabloom - Tetera de Cristal Apta para Fogones - 1200 ml de Capacidad - Infusor Extraíble de Acero Inoxidable'
-date: 2026-11-20 04:05:29
+date: 2026-11-21 10:20:45
 image: 'https://m.media-amazon.com/images/I/41cIQZKgE7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08JTBVCRN/?tag=tolees-21'
 descuento: '43.21'
-average: '32.8125'
+average: '30.792'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

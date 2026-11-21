@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cintura baja
 - Elástico indicador en la cintura
+- Cintura baja
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D9KJKS84{{</world>}}

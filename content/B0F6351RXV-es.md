@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Obermaterial: Synthetik; Futter: Textil; Einlegesohle: Textil; Laufsohle: Gummi
-- Cierre: de cordones
+- Ancho: estándar
 - Tipo de talón: plano
 - Tipo de puntera: redondeada
-- Ancho: estándar
+- Obermaterial: Synthetik; Futter: Textil; Einlegesohle: Textil; Laufsohle: Gummi
+- Cierre: de cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F6351RXV{{</world>}}

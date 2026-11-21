@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Construcción de EVA moldeada de doble densidad para un ajuste cómodo
-- Ligeras
 - PUMA Logotipo de gato en la parte superior
+- Ligeras
 - Plantilla texturizada con ranuras inferiores para mayor agarre
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

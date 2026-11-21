@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Brit Prints M - Tenis retro para correr con combinaciones de materiales y colores, plantilla extraíble y termoformada
 - 55 % poliamida, 40 % gamuza de vaca, 5 % poliuretano
 - Cómoda entresuela de EVA bicolor, suela de goma personalizada, estabilizador y ojal personalizados, isotipo lateral icónico impreso, logotipo de 1973 en la lengüeta del talón y logotipo clásico lateral
+- Brit Prints M - Tenis retro para correr con combinaciones de materiales y colores, plantilla extraíble y termoformada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DTJNN87Q{{</world>}}

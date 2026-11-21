@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Longitud de tiro: 15.5cm
 - Talle: cintura de talle Median elástica con cordón de ajuste
 - Tejido: tejido ligero vaquero de algodón (187 g)
-- Corte relajado casual y cómodo
 - Longitud: 38.4cm
+- Corte relajado casual y cómodo
+- Longitud de tiro: 15.5cm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0825PT7TS{{</world>}}

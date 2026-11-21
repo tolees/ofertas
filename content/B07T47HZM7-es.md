@@ -31,8 +31,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - BOO SENTADO MINI HUCHA 13,5 CM PVC DRAGON BALL
 - BOO SENTADO MINI HUCHA 13,5 CM PVC DRAGON BALL
 - BOO SENTADO MINI HUCHA 13,5 CM PVC DRAGON BALL
-- BOO SENTADO MINI HUCHA 13,5 CM PVC DRAGON BALL
 - HUCHA MONSTRUO BU 16CM
+- BOO SENTADO MINI HUCHA 13,5 CM PVC DRAGON BALL
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07T47HZM7{{</world>}}

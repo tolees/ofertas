@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Horma clásica
 - Forro textil
-- Cordones
+- Horma clásica
 - Suela de goma
-- Suela de goma cosida
-- Parte superior sintética suave
 - La parte superior contiene al menos un 50% de material reciclado
+- Cordones
+- Parte superior sintética suave
+- Suela de goma cosida
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CJTYK9FH{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste ergonómico
 - Adecuado para bañeras adultas
-- Se puede colgar
 - Desde el nacimiento hasta los seis meses
+- Ajuste ergonómico
+- Se puede colgar
 - Higiénico y resistente al moho
 
 [🛒 Visítala!!!]({{< param buyurl >}})

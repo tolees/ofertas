@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- GORE C3 Maillot, Talla: XL, Color: negro, 100608
 - GORE Selected Fabrics: Transporte rápido de la humedad y extremadamente transpirable
 - Corte ajustado/Específico para ciclismo, Detalles reflectantes
-- GORE C3 Maillot, Talla: XL, Color: negro, 100608
 - Zona lumbar extendida, Bolsillo en la espalda con 3 compartimentos, Bolsillo con cremallera, Cremallera completa
 - Ligero maillot de ciclista para hombre para clima templado
 

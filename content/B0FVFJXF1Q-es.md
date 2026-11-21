@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- FÓRMULA RESISTENTE: ayuda a mantener el maquillaje sin manchas durante el día
 - LARGA DURACIÓN: conserva la intensidad del color durante horas
 - DIFUMINADO FÁCIL: permite trabajar el color con los dedos o pincel
 - COLOR INTENSO: aporta pigmentación rica y profunda desde la primera pasada
-- FÓRMULA RESISTENTE: ayuda a mantener el maquillaje sin manchas durante el día
 - TEXTURA CREMOSA: se desliza suavemente sobre el párpado sin tirantez
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

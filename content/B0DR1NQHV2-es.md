@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Ajuste: recto regular
+- Jeans Pantalones Largos
+- Tipo de estiramiento: baja elasticidad
 - Instrucciones de cuidado: lavable a máquina
 - Composición: 99 por ciento algodón 1 por ciento elastano
-- Tipo de estiramiento: baja elasticidad
-- Jeans Pantalones Largos
-- Ajuste: recto regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DR1NQHV2{{</world>}}

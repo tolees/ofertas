@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Con logotipo gráfico de Champion en la pierna
 - Bolsillos laterales
 - Fabricado con materiales duraderos y de calidad
-- Con logotipo gráfico de Champion en la pierna
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0814WKKLJ{{</world>}}

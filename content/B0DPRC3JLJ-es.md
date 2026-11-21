@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Empeine de piel y material sintético
 - Forro textil
 - Empeine perforado
-- Empeine de piel y material sintético
-- Cierre de cordones
 - Horma clásica
+- Cierre de cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DPRC3JLJ{{</world>}}

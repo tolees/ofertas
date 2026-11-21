@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Plantilla de espuma de poliuretano parcialmente reciclada
 - Cuero duradero de origen responsable
 - Suela y goma acanalada flexible
+- Plantilla de espuma de poliuretano parcialmente reciclada
 - Forro antibacteriano
 - Cremallera interior para poner y quitar fácilmente
 

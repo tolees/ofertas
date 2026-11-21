@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Apoya el metabolismo y puede ayudar en un estilo de vida activo.
 - Té de hierbas refrescante con mate y manzana: estimulante y con un sabor afrutado.
 - Producto de calidad de SELEN con ingredientes naturales y equilibrados.
 - Cada porción está envasada por separado para mantener la frescura y el aroma completo.
 - Naturalmente con cafeína gracias al mate, ideal como alternativa ligera al café.
-- Apoya el metabolismo y puede ayudar en un estilo de vida activo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FYQVGBC6{{</world>}}

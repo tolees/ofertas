@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Axe All Over Body Coconut 100ml x6'
-date: 2026-11-20 15:57:13
+date: 2026-11-20 16:05:39
 image: 'https://m.media-amazon.com/images/I/41aGoXTLDeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GN3XCYF4/?tag=tolees-21'
 descuento: '57.98'
-average: '15.397692307692308'
+average: '15.261428571428572'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

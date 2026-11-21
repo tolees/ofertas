@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Sabor: Eucalipto
+- Producto apto para veganos. Sin lactosa ni soja. Contiene Vitamina C. Halal
 - Caja de 12 bolsas de 135g
 - Caramelo balsámico con aceite esencial de eucalipto y mentol
-- Producto apto para veganos. Sin lactosa ni soja. Contiene Vitamina C. Halal
-- Sabor: Eucalipto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D5RC5KNH{{</world>}}

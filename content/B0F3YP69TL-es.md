@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Anillo con Madreperla Blanca acabado oro 18k - Yaran
 - Material: Aleacion de metal●Acabado: Oro amarillo de 18k●Piedra: Madreperla blanca● Ancho: 13,8mm
+- Anillo con Madreperla Blanca acabado oro 18k - Yaran
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F3YP69TL{{</world>}}

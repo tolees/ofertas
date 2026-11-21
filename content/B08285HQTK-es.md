@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Slip interior de malla y cordón de ajuste en la cintura
-- Bolsillos de acceso lateral
-- Longitud 38 cm - corto
-- Bolsillo trasero
 - Short de natación para hombre
+- Bolsillo trasero
+- Bolsillos de acceso lateral
 - Tipo de fábrica: 100% Poliéster
+- Longitud 38 cm - corto
+- Slip interior de malla y cordón de ajuste en la cintura
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08285HQTK{{</world>}}

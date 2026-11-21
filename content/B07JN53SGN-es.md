@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mueble de fabricación nacional y artesanal. Mueble montado, sólo hay que instalar las 4 patas. MEDIDAS: ANCHO: 140 cm x ALTO: 40 cm x FONDO: 30 cm.
-- Dispone de dos prácticos huecos
-- Acabado encerado realizado a mano
 - Mesa televisión/ Mueble TV Madera maciza de pino 100% natural
+- Acabado encerado realizado a mano
+- Dispone de dos prácticos huecos
+- Mueble de fabricación nacional y artesanal. Mueble montado, sólo hay que instalar las 4 patas. MEDIDAS: ANCHO: 140 cm x ALTO: 40 cm x FONDO: 30 cm.
 - Estilo escandinavo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela de goma
-- Ancho regular
-- Parte superior de piel y materiales mixtos
 - Puma Formstrip en los laterales
+- Suela de goma
+- Parte superior de piel y materiales mixtos
 - Detalles de la marca PUMA
+- Ancho regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DJC48YPX{{</world>}}

@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Pantalón de chándal corto, regular fit. KIAMON ofrece comodidad y libertad de movimiento. El icónico logotipo de Kappa se encuentra impreso en alta intensidad en el lateral dando un diseño elegante.
 - Lavar a máquina con colores similares a 30º máximo, no usar lejía. Se puede meter en la lavadora sin miedo a que se deforme o encoja.
-- Colección de Kappa para la temporada primavera/verano 2024
 - Cintura elástica con cordón de ajuste exterior para mayor confort. Cierre: Pull on
+- Colección de Kappa para la temporada primavera/verano 2024
 - El pantalón KIAMON es de material polidiamante 100% poliéster (105 gms). Su diseño otorga mayor comodidad al permitir mantenerse fresco y ofrecer movilidad máxima. Este pantalón corto tiene ADN 100% deportivo gracias a los materiales con los que ha sido fabricado.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

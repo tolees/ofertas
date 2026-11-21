@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Olvídate de la descongelación manual con el Congelador Bosch, su Tecnología NoFrost lo hace de forma automática.
-- El Congelador de una puerta tiene un interior flexible. Podrás almacenar tus alimentos en el interior de los cajones o, si te resulta más cómodo, sobre las bandejas de cristal.
 - Si quieres congelar alimentos de gran tamaño, el cajón BigBox del Congelador Integrable será tu mejor aliado por su gran capacidad.
+- El Congelador de una puerta tiene un interior flexible. Podrás almacenar tus alimentos en el interior de los cajones o, si te resulta más cómodo, sobre las bandejas de cristal.
 - El Congelador Integrable tiene unas dimensiones de 177,2 x 55,8 x 54,5 centímetros (alto x ancho x fondo). Su capacidad útil es de 212 litros y la puerta es reversible.
 - La Tecnología Inverter del Congelador Blanco ajusta de forma continua la temperatura del interior y del exterior, manteniéndola siempre estable y mejorando la eficiencia.
 

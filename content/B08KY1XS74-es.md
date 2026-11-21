@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sin fluidos: tecnología seca
-- Programación diaria y semanal
 - Display LCD
+- Programación diaria y semanal
 - Temperatura ajustable de 5 a 35°C
 - 6 elementos
 - Incluye ruedas y soporte de pared
-- Bloqueo del selector
-- Emisor térmico con 1200W de potencia
+- Sin fluidos: tecnología seca
 - Interruptor marcha/paro
 - 4 modos de funcionamiento: confort, económico, anti hielo, standby
+- Emisor térmico con 1200W de potencia
+- Bloqueo del selector
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08KY1XS74{{</world>}}

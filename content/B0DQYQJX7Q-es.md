@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con tira y detalle de gallon y lacitos
 - Braga clásica confeccionada en plumeti con detalle de encaje
+- Con tira y detalle de gallon y lacitos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DQYQJX7Q{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Frenos delantero/traseros
-- Diseñados para bicicletas de montaña con barra plana
 - Requiere montaje
+- Diseñados para bicicletas de montaña con barra plana
+- Frenos delantero/traseros
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08R5TVZY8{{</world>}}

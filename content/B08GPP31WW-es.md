@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cordones
-- Material interior: sintético
 - Suela: goma
+- Material interior: sintético
 - Material exterior: piel
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

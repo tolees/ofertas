@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Diseño gráfico en la parte posterior
+- Una mirada original
 - Manga corta
 - Un ajuste cómodo
-- Una mirada original
-- Diseño gráfico en la parte posterior
 - Cuello redondo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

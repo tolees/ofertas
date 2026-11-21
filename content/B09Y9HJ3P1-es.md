@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillos oblicuos con cremallera en el pecho
-- Cuello de camisa
-- Manga corta con borde con vuelta
-- Bajo recto con cordón en el interior
 - Largo acortado
+- Bajo recto con cordón en el interior
+- Manga corta con borde con vuelta
+- Cuello de camisa
+- Bolsillos oblicuos con cremallera en el pecho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09Y9HJ3P1{{</world>}}

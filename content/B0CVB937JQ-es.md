@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PC de Sobremesa PcCom Ultimate Nvidia Geforce RTX 4090 i9-13900K 64 GB RAM 2 TB SSD'
-date: 2026-11-17 20:33:39
+date: 2026-11-20 22:14:01
 image: 'https://m.media-amazon.com/images/I/41ZdiO2jZvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material: metal
-- Altura del producto: 35.5 Centímetros
 - Ancho del producto: 31.5 Centímetros
 - Longitud del producto: 18.5 Centímetros
+- Altura del producto: 35.5 Centímetros
+- Material: metal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00XN4X9QW{{</world>}}

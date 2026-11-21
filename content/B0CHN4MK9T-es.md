@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Puedes guardar y compartir grabaciones en la nube con la prueba gratuita de 30 días del plan de suscripción de Blink o localmente con el Sync Module 2 y la unidad USB (ambos se venden por separado).
 - Configúralo todo en cuestión de minutos: enchufa el dispositivo, conéctalo a la red wifi y sigue las instrucciones en la app de Blink.
+- Recibe notificaciones de movimiento en tiempo real en tu móvil para poder reaccionar e intervenir desde cualquier lugar.
 - Compatible con Alexa: con la Blink Mini conectada, podrás transmitir vídeo HD en directo
 - Ve lo que ocurre en cualquier habitación, de esquina a esquina con una cobertura de 360°, desde tu móvil, tablet o dispositivo Alexa compatible.
-- Recibe notificaciones de movimiento en tiempo real en tu móvil para poder reaccionar e intervenir desde cualquier lugar.
 - Este lote incluye 1 Blink Mini Pan-Tilt Cámara y 1 Blink Mini Cámara
-- Puedes guardar y compartir grabaciones en la nube con la prueba gratuita de 30 días del plan de suscripción de Blink o localmente con el Sync Module 2 y la unidad USB (ambos se venden por separado).
 - Orienta la cámara a la izquierda o a la derecha e inclínala hacia arriba o hacia abajo desde la app de Blink para visualizar más zonas de tu casa tanto con la vista diurna en HD como con la vista nocturna por infrarrojos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

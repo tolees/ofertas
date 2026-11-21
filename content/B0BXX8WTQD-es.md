@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - ✔ COLORES FLUOR: Divisores con pestañas en 6 colores flúor surtidos
 - ✔ MEDIDAS DIN A4: 21x29,7cm
-- ✔ ALTA CALIDAD Y RESISTENCIA: Fabricados en polipropileno opaco de 500μ
 - ✔ 12 POSICIONES: Pack de 12 separadores de plástico
+- ✔ ALTA CALIDAD Y RESISTENCIA: Fabricados en polipropileno opaco de 500μ
 - ✔ CARPETAS DE ANILLAS: 11 Taladros, perfectos para organizar tus asignaturas por colores en carpetas de anillas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

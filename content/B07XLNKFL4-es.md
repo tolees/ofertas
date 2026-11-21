@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Professional Set mixto con 11 brocas para martillo y cinceles SDS plus para hormigón y mampostería accesorios de martillo perforador'
-date: 2026-11-20 10:33:40
+date: 2026-11-21 14:26:39
 image: 'https://m.media-amazon.com/images/I/41wpFUs9jOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XLNKFL4/?tag=tolees-21'
 descuento: '57.78'
-average: '19.835714285714314'
+average: '19.992500000000025'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

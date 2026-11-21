@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Empeine de malla técnica y superposición hotmelt con cordones ajustables
-- Suela de tracción súper flexible
 - Skechers Logo detallado
+- Suela de tracción súper flexible
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CWS8GPQM{{</world>}}

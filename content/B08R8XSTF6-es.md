@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Inset pockets
-- Back pocket
-- An original look
-- Drawstring closure
 - Provides comfort
+- Inset pockets
+- Drawstring closure
+- An original look
+- Back pocket
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08R8XSTF6{{</world>}}

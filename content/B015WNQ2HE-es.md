@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estructura ligera y estable haya y PVC
-- Dimensiones abierto: H121 P112 A112 cm Dimensiones cerrado: H171 P17 A14 cm
-- Tendedero radial con base de tres patas extraíbles que garantizan su estabilidad
-- Cerrado, ocupa muy poco espacio
 - Provisto de 18 radios independientes y extraíbles
+- Dimensiones abierto: H121 P112 A112 cm Dimensiones cerrado: H171 P17 A14 cm
+- Estructura ligera y estable haya y PVC
+- Cerrado, ocupa muy poco espacio
+- Tendedero radial con base de tres patas extraíbles que garantizan su estabilidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B015WNQ2HE{{</world>}}

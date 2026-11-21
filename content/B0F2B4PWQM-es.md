@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estructura Cold Cement
-- Empeine textil y sintético
-- 3 bandas laterales
-- Plantilla textil
 - Logotipo lineal en el refuerzo del talón y la lengüeta
-- Suela de goma
-- Cordones
 - Horma clásica
+- 3 bandas laterales
+- Estructura Cold Cement
+- Cordones
+- Empeine textil y sintético
+- Plantilla textil
+- Suela de goma
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F2B4PWQM{{</world>}}

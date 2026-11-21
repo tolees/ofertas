@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- LEATHER STRAP WITH BUCKLE CLOSURE
-- Embroidered Levi Branding
 - 100% algodón
 - Construcción para relajar la vendimia
+- Embroidered Levi Branding
+- LEATHER STRAP WITH BUCKLE CLOSURE
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B3N6KRC1{{</world>}}

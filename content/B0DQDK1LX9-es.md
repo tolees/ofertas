@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Suéter básico de algodón con cuello redondo en hilo teñido pigmentado con costuras lisas con acanalado en cuello, puños y dobladillo
-- Marca bordada en el pecho
 - 100 % algodón
+- Marca bordada en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DQDK1LX9{{</world>}}

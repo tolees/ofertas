@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'fischer Tacos para yeso Duotec H con ojal abierto Gris 10 mm con gancio'
-date: 2026-10-21 17:24:00
+date: 2026-11-21 07:56:39
 image: 'https://m.media-amazon.com/images/I/412HU5MzFwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

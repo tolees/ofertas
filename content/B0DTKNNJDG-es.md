@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Chaqueta: cremallera completa
 - Cuerpo: 100% poliéster
 - Lavar a máquina
+- Chaqueta: cremallera completa
 - Pantalones: cintura elástica con cordón.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

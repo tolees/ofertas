@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vino Tinto Gran Reserva DO Ribera del Duero
-- 24 meses de crianza en barricas y posteriormente 3 en botella
 - Elaborado a partir de uvas tintas Tempranillo, procedentes de viñas viejas
+- 24 meses de crianza en barricas y posteriormente 3 en botella
+- Vino Tinto Gran Reserva DO Ribera del Duero
 - Servir entre 17 y 18ºC. Es aconsejable decantar este vino o servir media hora después de abrir la botella
 - Vino complejo que armoniza a la perfección con todo tipo de carnes rojas, de caza, guisos o quesos
 

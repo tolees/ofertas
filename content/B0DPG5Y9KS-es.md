@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- __Coating:__ PFC free hydrophobic treatment
+- Material: 100% poliéster reciclado
 - Resistente al agua:
 - Este producto se fabrica desde la producción de raspados y el tejido retirado waste, un paso a paso para fabricar circulares
-- Material: 100% poliéster reciclado
-- __Coating:__ PFC free hydrophobic treatment
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DPG5Y9KS{{</world>}}

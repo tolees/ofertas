@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Rayado nítido para una escritura cómoda
-- 80 hojas
+- Cantos romos para evitar que las tapas se deterioren y sean seguras, codificación de color en la tapa, una tapa de cada color para cada asignatura
 - Rayado cuadrícula 4 x 4 con margen
 - Espiral de color blanco con cierre coilock para no dañar al usuario y para evitar que se enganche con otra espiral
-- Cantos romos para evitar que las tapas se deterioren y sean seguras, codificación de color en la tapa, una tapa de cada color para cada asignatura
+- 80 hojas
+- Rayado nítido para una escritura cómoda
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CGXF2G4X{{</world>}}

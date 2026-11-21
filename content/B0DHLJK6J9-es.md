@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- DOBLE SUSPENSIÓN DUO SHOCK DELANTERA Y TRASERA - La doble suspensión DUO Shock delantera y la suspensión trasera garantizan la comodidad y seguridad durante la conducción de nuestro patín eléctrico en vías mal pavimentadas o adoquinadas.
-- REGENERACIÓN AL FRENAR = MÁXIMA AUTONOMÍA - Con una batería de 12.5Ah con celdas de alto rendimiento (HPB) y el sistema de regeneración de energía al frenar (AER), nuestro scooter electrico recorre hasta 45 km. Motor de tracción trasera de 1200W potencia máxima, 600W de potencia nominal, y 25km/h de velocidad punta.
 - LLAVE NFC PARA DESBLOQUEAR - Nuestro trotinete eléctrico cuenta con la tecnología Unlock & Go, que te permite bloquear y desbloqear el patinete con una llave NFC o con nuestra aplicación móvil. ¡Máxima seguridad sin depender de la batería del móvil!
 - HOMOLGADO DGT & INTERMITENTES - Nuestro patinete electrico para adultos cumple con la homologación exigida por la DGT y viene con intermitentes. Olvídate de multas con un patinete único 100% homologado.
+- DOBLE SUSPENSIÓN DUO SHOCK DELANTERA Y TRASERA - La doble suspensión DUO Shock delantera y la suspensión trasera garantizan la comodidad y seguridad durante la conducción de nuestro patín eléctrico en vías mal pavimentadas o adoquinadas.
+- REGENERACIÓN AL FRENAR = MÁXIMA AUTONOMÍA - Con una batería de 12.5Ah con celdas de alto rendimiento (HPB) y el sistema de regeneración de energía al frenar (AER), nuestro scooter electrico recorre hasta 45 km. Motor de tracción trasera de 1200W potencia máxima, 600W de potencia nominal, y 25km/h de velocidad punta.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DHLJK6J9{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cordones
-- Horma clásica
-- Forro textil
 - Empeine de material sintético
+- Forro textil
+- Horma clásica
+- Cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DHZSLS8Z{{</world>}}

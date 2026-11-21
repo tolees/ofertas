@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puntera redondeada
 - Talón y ojal moldeados
+- Puntera redondeada
 - Goma de longitud completa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Símbolo del equilibrio: El dije del árbol de la vida en estas pulseras es un símbolo de equilibrio y armonía. Diseñado para inspirar, representa el crecimiento, la fuerza y ​​el ciclo duradero de la vida, lo que lo convierte en un poderoso recordatorio de resiliencia y crecimiento personal
-- Elige tu talla: Encuentra la talla perfecta para tu muñeca con tres tamaños disponibles: 6,7 pulgadas, 7,3 pulgadas y 8,2 pulgadas. Ten en cuenta que los colores y patrones pueden variar de la imagen mostrada debido a la singularidad de cada piedra
 - Belleza única: Cada piedra preciosa de estas pulseras de cuentas para mujer es distinta, lo que garantiza que cada pulsera sea exclusiva. Las variaciones naturales de color añaden un toque personal, haciendo que su pulsera tenga una belleza única
 - Regalo con significado: esta pulsera viene en una bonita caja de Farfume y se puede regalar. Estas pulseras de cuentas de amazonita son perfectas para celebrar Navidades, cumpleaños, San Valentín, aniversarios o cualquier ocasión especial, ya que ofrecen buena suerte y energía positiva a quien las lleva.
+- Elige tu talla: Encuentra la talla perfecta para tu muñeca con tres tamaños disponibles: 6,7 pulgadas, 7,3 pulgadas y 8,2 pulgadas. Ten en cuenta que los colores y patrones pueden variar de la imagen mostrada debido a la singularidad de cada piedra
+- Símbolo del equilibrio: El dije del árbol de la vida en estas pulseras es un símbolo de equilibrio y armonía. Diseñado para inspirar, representa el crecimiento, la fuerza y ​​el ciclo duradero de la vida, lo que lo convierte en un poderoso recordatorio de resiliencia y crecimiento personal
 - Aprovecha la Suerte y la Serenidad: Las cuentas de Amazonita canalizan la suerte y la serenidad, invitando a la positividad y la calma a tu vida. Perfecto para aquellos que buscan un equilibrio armonioso de fortuna y paz
 
 [🛒 Comprar!!!]({{< param buyurl >}})

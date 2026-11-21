@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - FF BLAST para un mayor retorno de energía
 - Ideal para entrenamientos diarios y distancias medias.
-- Suela exterior AHAR+ duradera
 - Parte superior transpirable y ligera.
+- Suela exterior AHAR+ duradera
 - PureGEL evolucionado para una comodidad superior
 
 [🛒 Comprar!!!]({{< param buyurl >}})

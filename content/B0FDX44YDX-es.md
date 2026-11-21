@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Armani Exchange Men s Zipped Pockets Elastic Cuss Waist Windbreaker Deep Navy XL'
-date: 2026-11-18 12:40:16
+date: 2026-11-21 14:48:03
 image: 'https://m.media-amazon.com/images/I/31KxHXQo9jL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

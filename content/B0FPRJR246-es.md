@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Mejora sustancial del sistema de combate para suavizar la experiencia jugable
-- Modelados de fondos y personajes renovados
 - Gráficos completamente remasterizados en HD
+- Modelados de fondos y personajes renovados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FPRJR246{{</world>}}

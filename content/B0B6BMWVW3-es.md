@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste regular
 - Camiseta individual
+- Ajuste regular
 - Ropa interior para hombre
 
 [🛒 Aquí!!!]({{< param buyurl >}})

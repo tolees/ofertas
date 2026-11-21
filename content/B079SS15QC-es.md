@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Proporciona libertad de movimiento
-- Omini Kappa bordado el pecho y Kappa impreso en la pierna izquierda
-- Ajuste óptimo
 - Elástico en la cintura y puños acanalados en las mangas
+- Ajuste óptimo
+- Omini Kappa bordado el pecho y Kappa impreso en la pierna izquierda
+- Proporciona libertad de movimiento
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B079SS15QC{{</world>}}

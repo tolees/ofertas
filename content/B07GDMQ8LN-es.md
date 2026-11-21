@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fórmula ultra ligera para construir volumen capa tras capa
 - Eleva tus pestañas de lado a lado
-- Volumen al instante con el lado en forma de ala
-- Libera tu wow
 - Define y alarga con el lado curvo
+- Fórmula ultra ligera para construir volumen capa tras capa
+- Libera tu wow
+- Volumen al instante con el lado en forma de ala
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07GDMQ8LN{{</world>}}

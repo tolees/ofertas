@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Lavable a máquina
 - Cojín del talón
 - Slip-Ins
+- Lavable a máquina
 - Espuma viscoelástica
 - Sin nudos
 

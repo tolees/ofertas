@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ingredientes: triglicéridos, aceite de oliva, aceite de canola y lanolina
-- Edad recomendada a partir de 3 meses y mayores
-- Recomendado para labios, manos, codos, rodillas y talones
 - Ungüento de Oliva para la piel seca, muy seca y propensa a la atopia
+- Edad recomendada a partir de 3 meses y mayores
+- Ingredientes: triglicéridos, aceite de oliva, aceite de canola y lanolina
+- Recomendado para labios, manos, codos, rodillas y talones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B006MR0VJA{{</world>}}

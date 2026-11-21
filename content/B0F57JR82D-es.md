@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Camiseta delgada de manga corta
-- 95% algodón, 5% elastano
 - Logotipo impreso en la parte delantera
+- 95% algodón, 5% elastano
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F57JR82D{{</world>}}

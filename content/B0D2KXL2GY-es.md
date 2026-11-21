@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Zapatillas maxi con líneas de diseño debossed.
 - Zapatos gordos.
 - Suela exterior de doble densidad.
+- Zapatillas maxi con líneas de diseño debossed.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D2KXL2GY{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JLab Go Lux ANC Auriculares Bluetooth - Cancelación Ruido Grafito | Cancelación Activa de Ruido Cascos con Micrófono 70h+ Audio Espacial y Modo Consciente'
-date: 2026-11-14 12:16:22
+date: 2026-11-21 10:59:58
 image: 'https://m.media-amazon.com/images/I/31TMW1XxWGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DRDPJRL9/?tag=tolees-21'
 descuento: '54.13'
-average: '28.755'
+average: '28.508'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

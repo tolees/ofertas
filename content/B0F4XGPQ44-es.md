@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Slip interior de malla
-- Bolsillo con cremallera para el móvil en la parte trasera
-- Material Externo: 100% Poliéster(100% Reciclado) / Ropa Interior: 100% Poliéster(100% Reciclado)
 - Cintura elástica con cordón
 - Corte clásico
+- Bolsillo con cremallera para el móvil en la parte trasera
+- Slip interior de malla
+- Material Externo: 100% Poliéster(100% Reciclado) / Ropa Interior: 100% Poliéster(100% Reciclado)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4XGPQ44{{</world>}}

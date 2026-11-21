@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- GAFAS DE SOL RECTANGULARES DE SUPERFICIE PLANA
 - FRESCO Y A LA MODA
+- GAFAS DE SOL RECTANGULARES DE SUPERFICIE PLANA
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DGGRQCPL{{</world>}}

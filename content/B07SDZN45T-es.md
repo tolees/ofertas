@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca PUMA en la lengüeta
-- Entresuela de EVA para mayor comodidad
 - Suela exterior de goma que no deja marcas para mayor agarre.
 - Bota baja
+- Marca PUMA en la lengüeta
+- Entresuela de EVA para mayor comodidad
 - Parte superior textil con base de malla
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

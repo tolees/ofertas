@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beyblade X Brush Fox J 9-70GR CX Kit Inicial con Top y Lanzador'
-date: 2026-11-20 01:17:17
+date: 2026-11-21 01:55:29
 image: 'https://m.media-amazon.com/images/I/417B8s0KpnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

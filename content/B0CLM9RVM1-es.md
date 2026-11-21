@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Composición: 67% algodón, 32% lyocell, 1% elastano
 - Apertura regular de la pierna
+- Instrucciones de cuidado: lavable a máquina
+- Número de modelo: L70W
 - Ajuste: recto relajado
 - Cierre: cremallera y botón
-- Instrucciones de cuidado: lavable a máquina
 - Ajuste relajado en muslos y rodillas
-- Costuras doradas
 - Jean; pantalones; largo
-- Composición: 67% algodón, 32% lyocell, 1% elastano
-- Número de modelo: L70W
+- Costuras doradas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CLM9RVM1{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lavable a máquina
 - Vegano
+- Lavable a máquina
+- Ajuste de arco
 - Malla diseñada
 - Refrigerado por aire
-- Ajuste de arco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6PH1QQY{{</world>}}

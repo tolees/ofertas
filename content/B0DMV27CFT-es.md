@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material superior: Material textil
-- Carretera
 - Zapatilla trail
 - Material suela: Rubber
+- Carretera
+- Material superior: Material textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DMV27CFT{{</world>}}

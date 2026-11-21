@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Impresiones llamativas en el pecho
+- Cuello redondo clásico
+- Elegante camiseta de Lonsdale
 - Corte regular
 - Hecho de tela mixta de alta calidad
-- Impresiones llamativas en el pecho
-- Elegante camiseta de Lonsdale
-- Cuello redondo clásico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CSF6777P{{</world>}}

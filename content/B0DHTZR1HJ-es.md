@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Horma clásica
 - Suela específica para campos de césped artificial de 2.ª y 3.ª generación
+- Talón acolchado
 - Empeine de material sintético con textura
 - Lengüeta perforada y acolchada
-- Talón acolchado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHTZR1HJ{{</world>}}

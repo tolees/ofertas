@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Para uso diario
 - Pantalón corto
+- Para uso diario
 - Estilo deportivo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

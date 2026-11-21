@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior: sintética
 - Suela: goma
+- Parte superior: sintética
 - Cierre: cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

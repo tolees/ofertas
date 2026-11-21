@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Camiseta básico
 - Medidas: tamaño estándar
-- Estilo informal
 - Ajuste regular
+- Camiseta básico
+- Estilo informal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B083YG1XW8{{</world>}}

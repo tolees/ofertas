@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- liso
-- Algodón de 57 hilos/m2
 - Sábana bajera TPR de algodón 57 hilos 2x70x190 cm UNI verde agua
-- Lavable a máquina a 60 °C
+- Algodón de 57 hilos/m2
+- liso
 - Gorro de 30 cm
+- Lavable a máquina a 60 °C
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C9TYJ6P7{{</world>}}

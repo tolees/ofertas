@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 1,4 ml
-- Sus extractos de fucus y girasol remineralizan y acondicionan
 - Purifica y regenera las pieles sensibles y cansadas
 - Exfolia y purifica la piel cansada y apagada. No abrasivo. La piel queda suave, revitalizada y radiante
+- Sus extractos de fucus y girasol remineralizan y acondicionan
 - Marca británica para el cuidado de la piel y spa, con terapias y productos clínicamente testados para la cara y el cuerpo
+- 1,4 ml
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B002OLQAQG{{</world>}}

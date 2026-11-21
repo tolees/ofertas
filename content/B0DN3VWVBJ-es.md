@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Primegreen
+- Corte ajustado
+- Sin relleno
+- Espalda en forma de U
 - Sin relleno
 - Infinitex
-- Espalda en forma de U
-- Primegreen
-- Sin relleno
 - 78% poliamida (reciclada) / 22% elastano
-- Corte ajustado
 - Pernera de corte medio
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para navidad y otras ocasiones
 - Luz de cadena
+- Para navidad y otras ocasiones
 - Requiere instalación
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Horma clásica
-- Forro textil
 - Suela de goma que no deja marcas
 - Parte de piel sintética
+- Forro textil
 - Cierre de cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tiene una banda que absorbe la humedad
-- Gorra de béisbol para niños
-- Cuenta con cierre ajustable y seis orificios de aire
-- Con el logotipo de New Era bordado
 - Esta fabricada en algodón
+- Cuenta con cierre ajustable y seis orificios de aire
+- Gorra de béisbol para niños
+- Tiene una banda que absorbe la humedad
+- Con el logotipo de New Era bordado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00DI9RSFK{{</world>}}

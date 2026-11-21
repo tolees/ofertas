@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Testado bajo control dermatológico y oftalmológico
 - Fragancia agradable y ligera para el cuidado contra el sol
-- Niebla fresca, de rápida absorción con acabado seco e invisible
-- Hipoalergénico, libre de parabeno y resistente al agua
 - Adecuado para la piel sensible al sol o intolerante
+- Niebla fresca, de rápida absorción con acabado seco e invisible
+- Testado bajo control dermatológico y oftalmológico
+- Hipoalergénico, libre de parabeno y resistente al agua
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01N7H0PYQ{{</world>}}

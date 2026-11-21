@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Set: estos 2 marcos de fotos de diseño clásico de color negro son perfectos para todos los espacios
-- Para colocar de pie: portarretratos para exponer fotografías, postales, dibujos sobre estantes
-- Para la pared: estos portafotos también se pueden colgar tanto apaisados como en formato vertical
 - Detalles: el marco mide 14 x 19, viene con paspartú de 9 x 13 cm y sirve para fotos de 13 x 18 cm
+- Para la pared: estos portafotos también se pueden colgar tanto apaisados como en formato vertical
+- Para colocar de pie: portarretratos para exponer fotografías, postales, dibujos sobre estantes
+- Set: estos 2 marcos de fotos de diseño clásico de color negro son perfectos para todos los espacios
 - Recuerdos siempre a la vista: te hacen revivir los momentos más memorables con tus seres queridos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

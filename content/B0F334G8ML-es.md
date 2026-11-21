@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Empeine de material sintético
-- Suela de goma
-- Horma clásica
-- Plantilla textil
 - Cordones elásticos
+- Suela de goma
+- Plantilla textil
+- Horma clásica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F334G8ML{{</world>}}

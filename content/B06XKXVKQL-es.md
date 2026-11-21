@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Extensible: guía fabricada en aluminio
-- Fabricado en aluminio anodizado mate.
 - Dispone de 2 brazos de 440mm de largo que pueden pivotar 90°.
-- Fácil instalación (tornillos de montaje incluidos).
+- Fabricado en aluminio anodizado mate.
 - Puede fijarse tanto en el lateral del mueble como debajo de la encimera
+- Fácil instalación (tornillos de montaje incluidos).
+- Extensible: guía fabricada en aluminio
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B06XKXVKQL{{</world>}}

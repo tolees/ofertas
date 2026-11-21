@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Crestwood Waterproof Zapatillas De Senderismo Y Trekking para Hombre Black/Columbia Grey talla 44 EU'
-date: 2026-11-20 01:41:45
+date: 2026-11-21 03:16:28
 image: 'https://m.media-amazon.com/images/I/31x-Iu-BA-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

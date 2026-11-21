@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Lenovo L27-4e Monitor IPS Full HD de 27" 100 Hz HDMI VGA Negro | 27" 1920 × 1080 Full HD 16:9 IPS 4 ms GtG 178°/178° antirreflejos 100 Hz 99 % sRGB HDMI 1.4 VGA color negro'
-date: 2026-11-20 03:21:22
-image: 'https://m.media-amazon.com/images/I/41vVV9HlTAL._SL500_._SL400_.jpg'
+date: 2026-11-21 09:39:32
+image: 'https://m.media-amazon.com/images/I/41tcgVpB6EL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0HK11FH9N/?tag=tolees-21'
 descuento: '39.29'
-average: '89.49'
+average: '89.080909090909088'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

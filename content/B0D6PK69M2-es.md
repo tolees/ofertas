@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste de cuña con tacón oculto de 1 pulgada
 - Suela de tracción de goma flexible
+- Ajuste de cuña con tacón oculto de 1 pulgada
 - Tacón de 1 1/2 pulgadas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

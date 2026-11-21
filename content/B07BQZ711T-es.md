@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Skechers Plantilla acolchada de espuma viscoelástica refrigerada por aire
-- Entresuela que absorbe los golpes
 - Oxford casual con cordones de cuero suave
+- Entresuela que absorbe los golpes
 - Panel frontal elástico con cordones elásticos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

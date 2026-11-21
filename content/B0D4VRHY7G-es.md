@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mid Rise
 - Diseño de 5 bolsillos
 - Programa Core
+- Mid Rise
 - Tira de botones
 - Corte recto
 

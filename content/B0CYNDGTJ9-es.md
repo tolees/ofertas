@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Suela Controlplate para césped natural seco/multisuperficie
-- Horma clásica
-- Cierre de cordones
 - Empeine Hybridfeel con inserciones Strikescale
+- Cierre de cordones
+- Horma clásica
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CYNDGTJ9{{</world>}}

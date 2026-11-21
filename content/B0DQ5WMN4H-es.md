@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Split Fiction PS5 | Disco |Videojuegos | Castellano'
-date: 2026-11-18 10:12:42
+date: 2026-11-21 00:07:26
 image: 'https://m.media-amazon.com/images/I/51UHV3NZL4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0DQ5WMN4H-es Split Fiction PS5 | Disco |Videojuegos | Castellano'
 sku: 'B0DQ5WMN4H-es'
 tags: [ '🇪🇸', ]
-actualPrice: 25.73 EUR
+actualPrice: 23.88 EUR
 currency: EUR
-price: 25.73
+price: 23.88
 comparePrice: 49.99 EUR
 prodname: 'Split Fiction PS5 | Disco |Videojuegos | Castellano'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DQ5WMN4H/?tag=tolees-21'
-descuento: '48.53'
-average: '30.794754098360812'
+descuento: '52.23'
+average: '30.575238095238245'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

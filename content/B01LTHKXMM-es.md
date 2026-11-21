@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Rimmel Lasting Finish barra de labios 002 (53338)
 - Pintalabios Rimmel London
 - Pintalabios maquillaje mujer
+- Rimmel Lasting Finish barra de labios 002 (53338)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01LTHKXMM{{</world>}}

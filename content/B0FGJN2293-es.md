@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Jeans cónicos con cintura alta
 - Mezclilla blanca elástica cómoda
 - 98 % algodón, 2 % elastano
-- Jeans cónicos con cintura alta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FGJN2293{{</world>}}

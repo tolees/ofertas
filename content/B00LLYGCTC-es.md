@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Básicos, Ropa de Calle
-- Chaqueta || Ajuste normal || Color intenso || Bolsillos laterales, cordón ajustable
 - Ajuste : Normal
-- Descubre todas las marcas de EMP!
 - Chaqueta entre-tiempo con las siguientes características:
+- Chaqueta || Ajuste normal || Color intenso || Bolsillos laterales, cordón ajustable
+- Descubre todas las marcas de EMP!
+- Básicos, Ropa de Calle
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00LLYGCTC{{</world>}}

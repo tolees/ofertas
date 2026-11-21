@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rowenta Brush Activ Premium Care cepillo de aire secado rápido CF9540 | Movimiento giratorio automático con dos controles de rotación secado simultáneo doble emisor de iones Color: Blanco/Rosa'
-date: 2026-11-17 15:51:19
+date: 2026-11-20 22:47:05
 image: 'https://m.media-amazon.com/images/I/31vkqFnr9pL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XXGZRHF/?tag=tolees-21'
 descuento: '45.34'
-average: '48.31641025641018'
+average: '47.959024390243833'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

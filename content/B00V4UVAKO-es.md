@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- materialFabricComposition: 85% Polyester, 15% Cotton
-- Long Sleeves
-- Care Label:
 - Leather look biker jacket
+- Long Sleeves
 - Biker Collar
+- Care Label:
+- materialFabricComposition: 85% Polyester, 15% Cotton
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00V4UVAKO{{</world>}}

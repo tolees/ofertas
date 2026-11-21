@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Casquillo E27, 20W y 2500 Lúmenes
 - 240º de ángulo de iluminación
 - Medidas: 11 x 6 x 6 cm
+- Estilo clásico y decorativo
+- Casquillo E27, 20W y 2500 Lúmenes
 - Ideales para crear o mejorar diferentes estilos decorativos
 - Bombilla LED de bajo consumo con tecnología SMD de 4000K (luz blanca)
-- Garantía de 2 años
-- Tiene un IRC mayor de 80, lo cual hacen que reproduzcan los colores de las cosas fielmente tal y como son ( la luz de sol tiene un IRC de 100 )
 - Su luz te acompañará durante 50.000 horas
-- Estilo clásico y decorativo
+- Tiene un IRC mayor de 80, lo cual hacen que reproduzcan los colores de las cosas fielmente tal y como son ( la luz de sol tiene un IRC de 100 )
 - Bombillas indicadas solamente para uso de interior
+- Garantía de 2 años
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08PC1X64W{{</world>}}

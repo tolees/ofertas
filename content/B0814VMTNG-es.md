@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con logotipo de Champion en la pierna
 - Bolsillos laterales
 - Longitud más corta, generalmente llega a la mitad del muslo
+- Con logotipo de Champion en la pierna
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0814VMTNG{{</world>}}

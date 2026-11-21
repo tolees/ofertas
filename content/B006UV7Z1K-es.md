@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Presentación: caja individual/regalo
-- Libre de BPA
 - Recipiente en cristal borosilicato
 - Fabricación europea
+- Libre de BPA
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B006UV7Z1K{{</world>}}

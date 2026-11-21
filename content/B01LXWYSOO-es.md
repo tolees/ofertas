@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TEKA Campana Extractora Integrada 60 cm 3 Velocidades Motor Doble Sistema de Recirculación de Aire Filtro de Carbón de Acero Inoxidable CNL 6415'
-date: 2026-11-14 19:05:49
+date: 2026-11-21 00:23:59
 image: 'https://m.media-amazon.com/images/I/31KcVJMnzzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LXWYSOO/?tag=tolees-21'
 descuento: '39.40'
-average: '115.12636363636362'
+average: '112.55249999999998'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

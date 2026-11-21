@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Parte de cuero con empeine perforado
 - Líneas verticales anchas en el talón
 - Suela y suela de goma
-- Parte de cuero con empeine perforado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09L5KCB3W{{</world>}}

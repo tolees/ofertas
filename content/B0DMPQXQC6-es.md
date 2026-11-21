@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Secar al aire únicamente
 - Use limpiador de cuero o jabón suave
+- Secar al aire únicamente
 - Limpie puntualmente con jabón suave y agua
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

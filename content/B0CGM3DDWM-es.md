@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Capacidad de 46 litros, peso máximo 25 kg
-- Bolsa desmontable y lavable
 - Manillar con espuma antideslizante
+- Bolsa desmontable y lavable
+- Capacidad de 46 litros, peso máximo 25 kg
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CGM3DDWM{{</world>}}

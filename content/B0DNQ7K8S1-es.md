@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este producto contiene un 80% de poliéster reciclado certificado según el Estándar Global de Reciclaje (GRS)
+- Dimensiones del producto: 127 x 152 cm (largo x ancho)
 - Ultrasuave, transpirable y fuerte para una comodidad fiable y longevidad; peso adecuado para todas las estaciones
 - Diseño reversible en ciruela con franela aterciopelada de 220 g/m² en un lado y sherpa de felpa de 260 g/m² en el reverso
+- Este producto contiene un 80% de poliéster reciclado certificado según el Estándar Global de Reciclaje (GRS)
 - Manta acogedora para una capa extra de calidez; se puede utilizar como colcha o manta
-- Dimensiones del producto: 127 x 152 cm (largo x ancho)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DNQ7K8S1{{</world>}}

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cierre de Snap Back
+- Visor:__ Flat bill
 - Tela de algodón
 - Marca: __ Embroidery logo
-- Visor:__ Flat bill
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FCMVBL6K{{</world>}}

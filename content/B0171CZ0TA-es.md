@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Medidas: 343mm de ancho x 372mm de alto x 475mm de profundo.
-- Está formado por dos cubos de 16L de capacidad, cada uno.
 - Incorpora un acompañador para la apertura automática de la puerta del mueble de cocina.
+- Está formado por dos cubos de 16L de capacidad, cada uno.
+- Medidas: 343mm de ancho x 372mm de alto x 475mm de profundo.
 - Cubo de basura y reciclaje extraíble de alta capacidad, fabricado en polipropileno.
 - Se ajusta a un ancho exterior de mueble mínimo de 450mm.
 

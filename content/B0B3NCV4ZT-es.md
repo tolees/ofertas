@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tecnología transpirable AEROREADY
-- Tejido elegante
-- Corte ajustado con talle alto
 - 85% poliéster (reciclado) / 15% elastán
 - Diseño con menos costuras
+- Tecnología transpirable AEROREADY
+- Corte ajustado con talle alto
 - Bolsillo para las llaves en el interior de la cintura
+- Tejido elegante
 - Diseño con menos costuras
 
 [🛒 Comprar!!!]({{< param buyurl >}})

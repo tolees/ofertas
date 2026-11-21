@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Plantilla OrthoLite
-- Suela de goma para tracción
 - Cierre de cordones
+- Suela de goma para tracción
 - Máxima comodidad
+- Plantilla OrthoLite
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DQ1HG4CM{{</world>}}

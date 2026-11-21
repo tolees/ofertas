@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Chándal fabricado en tejido suave
 - Ofrece comodidad y libertad de movimiento
-- Ajuste ligero
 - Detalles distintivos de la marca
+- Ajuste ligero
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BTDHRYDL{{</world>}}

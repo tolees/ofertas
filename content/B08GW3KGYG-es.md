@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Arena para Gatos Aglomerante de Cascara de Guisante Go Natural Lavanda'
-date: 2026-11-18 21:25:15
+date: 2026-11-21 06:20:33
 image: 'https://m.media-amazon.com/images/I/41ll+IrrmiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GW3KGYG/?tag=tolees-21'
 descuento: '38.44'
-average: '17.123076923076965'
+average: '16.678666666666704'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'H&S Menthol Fresh Champú Anticaspa Anti-picor Efecto Refrescante 2x1L | Actúa desde el Primer Lavado Hasta 100% de Protección contra la Caspa Clínicamente Probado'
-date: 2026-11-15 09:17:37
+date: 2026-11-20 16:13:59
 image: 'https://m.media-amazon.com/images/I/41BVxe60wwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CRHK7TVB/?tag=tolees-21'
 descuento: '41.11'
-average: '17.965666666666589'
+average: '17.762187499999925'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- De tirantes
 - Color liso
 - Múltpiles bolsillos interiores
-- Cuello: de camisa
-- De tirantes
 - Cierre de cremallera
+- Cuello: de camisa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D9MF72L4{{</world>}}

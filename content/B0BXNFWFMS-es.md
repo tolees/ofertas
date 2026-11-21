@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'SONGMICS Burro de Ropa Estructura de Acero 92 5 x 33 5 x 153 cm'
-date: 2026-10-07 12:31:03
-image: 'https://m.media-amazon.com/images/I/31-0BdQdG0L._SL500_._SL400_.jpg'
+title: 'SONGMICS Burro de Ropa Estructura de Acero 92 5 x 33 5 x 153 cm | Perchero Burro con Barra Colgante y Estante para Dormitorio Vestuario Lavandería Blanco Mate PATAYE HSR023W01'
+date: 2026-11-21 10:52:07
+image: 'https://m.media-amazon.com/images/I/41QpyAQ-16L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B0BXNFWFMS-es SONGMICS Burro de Ropa Estructura de Acero 92 5 x 33 5 x...'
 sku: 'B0BXNFWFMS-es'
 tags: [ '🇪🇸', ]
-actualPrice: 20.18 EUR
+actualPrice: 19.17 EUR
 currency: EUR
-price: 20.18
+price: 19.17
 comparePrice: 47.99 EUR
-prodname: 'SONGMICS Burro de Ropa Estructura de Acero 92 5 x 33 5 x 153 cm'
+prodname: 'SONGMICS Burro de Ropa Estructura de Acero 92 5 x 33 5 x 153 cm | Perchero Burro con Barra Colgante y Estante para Dormitorio Vestuario Lavandería Blanco Mate PATAYE HSR023W01'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BXNFWFMS/?tag=tolees-21'
-descuento: '57.95'
-average: '22.1366666666667'
+descuento: '60.05'
+average: '21.395000000000024'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

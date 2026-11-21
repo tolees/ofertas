@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Consulte la siguiente guía de tallas
 - Suela de EVA
 - Plantilla Cloudfoam suave
+- Consulte la siguiente guía de tallas
 - Banda de EVA moldeada de una sola pieza
 - Diseño ligero; material de secado rápido
 - Diseño sin cordones

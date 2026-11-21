@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- holgado
 - Botones
-- Cárdigan
 - Tejido grueso
+- Cárdigan
+- holgado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08KD4RT9B{{</world>}}

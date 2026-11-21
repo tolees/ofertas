@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte clásico
-- AEROREADY
-- Bolsillos laterales
 - Tejido principal: tejido técnico 100% poliéster reciclado
+- Bolsillos laterales
+- Corte clásico
 - Forro: malla 100% poliéster reciclado
+- AEROREADY
 - Cintura elástica de talle medio con cordón ajustable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

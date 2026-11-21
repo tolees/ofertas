@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - 🫧 MANTENIMIENTO: Lavar a máquina con programa delicado y temperatura máxima de 40º. Secado a máquina, ciclo normal. No usar lejía. Planchar a temperatura media. No limpiar en seco
 - 📏 MEDIDAS DEL CONJUNTO: Una encimera de 240x270 cm. . Una funda de almohada de 45x170 cm. . Una sábana bajera ajustable de 150x190/200cm. Disponible en más medidas.
-- 🛏️ PRODUCTO: Juego de sábanas con estampado XL de cuadro vichy acuarelado en color nude pastel , sobre un fondo blanco. Encimera con pespunte en embozo de color nude claro. Almohada con el mismo diseño y con aplicación en azul claro . Bajera confección ajustable en color azul claro.
 - 🧵 MATERIAL: Tejido de algodón y de poliéster, que se plancha estupendo y ofrece un tacto súper agradable. Son las cualidades de este juego de sábanas, con 144 hilos, que aporta además una gran duración. La calidad de la estampación hace que su aspecto permanezca inalterable tras múltiples lavados, siempre y cuando se observen las indicaciones contenidas tanto en el envoltorio como en la etiqueta cosida a la prenda. Se recomienda un lavado ligero en tiempo y detergente previamente al primer uso.
+- 🛏️ PRODUCTO: Juego de sábanas con estampado XL de cuadro vichy acuarelado en color nude pastel , sobre un fondo blanco. Encimera con pespunte en embozo de color nude claro. Almohada con el mismo diseño y con aplicación en azul claro . Bajera confección ajustable en color azul claro.
 - ✅ CARACTERÍSTICAS: Tacto suave.Planchado rápido y fácil.Larga duración.No hace bolas.Alto colchón 32cm..Estampación a una sola cara.Es recomendable lavar antes del primer uso.Disponible en funda nórdica.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

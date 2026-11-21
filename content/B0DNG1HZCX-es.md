@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 10 microfiguras: incluye diez microfiguras cada una de 4 cm de alto (el tamaño varía ligeramente según el carácter).
-- Juego y estuche: navega los siete mares en el confiable barco del sombrero de paja, el Going Merry, que funciona como juego y estuche de transporte.
 - Alta calidad: hecho de material duradero y de alta calidad, con detalles fieles y colores vibrantes.
-- Personajes favoritos de los fanáticos: estas microfiguras cuentan con los siguientes personajes favoritos de los fanáticos: Monkey D. Luffy, Roronoa Zoro, Sanji, Nami, Shanks, Usopp, Buggy, Dracule Hihawk, Arlong y Axe-Hand Morgan.
 - Producto oficial: producto original de One Piece de PhatMojo.
+- Juego y estuche: navega los siete mares en el confiable barco del sombrero de paja, el Going Merry, que funciona como juego y estuche de transporte.
+- 10 microfiguras: incluye diez microfiguras cada una de 4 cm de alto (el tamaño varía ligeramente según el carácter).
+- Personajes favoritos de los fanáticos: estas microfiguras cuentan con los siguientes personajes favoritos de los fanáticos: Monkey D. Luffy, Roronoa Zoro, Sanji, Nami, Shanks, Usopp, Buggy, Dracule Hihawk, Arlong y Axe-Hand Morgan.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DNG1HZCX{{</world>}}

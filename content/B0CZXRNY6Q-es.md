@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100% poliéster (reciclado)
-- Talle medio
 - Cintura elástica con cordón
 - Corte clásico
+- 100% poliéster (reciclado)
+- Talle medio
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZXRNY6Q{{</world>}}

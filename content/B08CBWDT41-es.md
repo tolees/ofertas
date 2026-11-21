@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ofrece comodidad y libertad de movimiento
 - Cuenta con el logotipo bordado
+- Ofrece comodidad y libertad de movimiento
 - Mallas deportivos
 - Sin bolsillos
 

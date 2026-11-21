@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tenis Ball Pattent W con suela de copa con isotipo icónico en el lateral
 - Cuello acolchado, plantilla extraíble y termoformada, ojal personalizado con monograma "P"
+- Tenis Ball Pattent W con suela de copa con isotipo icónico en el lateral
 - Logotipo de 1973 en la lengüeta del talón, logotipo clásico en el lateral y suela de goma de la marca
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

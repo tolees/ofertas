@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello alzado acanalado en el interior y lengüeta desmontable para cubrir la garganta
-- Botones a presión ocultos y solapa cortavientos debajo
 - Lengüeta ajustable en la manga con botón a presión oculto
 - Bolsillo oculto con entrada lateral
 - Bolsillos en la cintura, botón a presión oculto
+- Botones a presión ocultos y solapa cortavientos debajo
+- Cuello alzado acanalado en el interior y lengüeta desmontable para cubrir la garganta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CRZTZ83Q{{</world>}}

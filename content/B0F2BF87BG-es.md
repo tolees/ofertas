@@ -28,15 +28,15 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Horma clásica
-- Mediasuela LIGHTMOTION
-- Cordones
 - Empeine de malla técnica
 - Empeine textil y sintético
 - Logotipo de Sportswear en la lengüeta
 - Plantilla textil
-- Suela de goma
 - Refuerzos de ante
+- Horma clásica
+- Mediasuela LIGHTMOTION
+- Cordones
+- Suela de goma
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F2BF87BG{{</world>}}

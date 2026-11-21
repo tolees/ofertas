@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Colores diversos
-- Material: 100% poliéster
 - Tamaños diversos
+- Material: 100% poliéster
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B004M8AYMU{{</world>}}

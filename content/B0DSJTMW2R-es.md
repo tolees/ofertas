@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CONTROL: Con su panel de control en la parte trasera y su pantalla digital, puedes controlar los graves, los agudos, el volumen general, el eco y el volumen de entrada del micrófono/guitarra. El altavoz también tiene una función VOX (ajuste automático del volumen de la música cuando se utiliza el micrófono).
 - TU COMPAÑERO IDEAL: Ya sea para fiestas, actuaciones urbanas, bodas, terrazas, bailes, presentaciones, bares, restaurantes, clubes deportivos y juveniles, encuentra tu uso y disfrútalo al máximo.
+- CONTROL: Con su panel de control en la parte trasera y su pantalla digital, puedes controlar los graves, los agudos, el volumen general, el eco y el volumen de entrada del micrófono/guitarra. El altavoz también tiene una función VOX (ajuste automático del volumen de la música cuando se utiliza el micrófono).
 - CONECTIVIDAD: conecta todos tus dispositivos con su amplia gama de conexiones (Bluetooth, USB, SD, AUX-IN (3,5 mm), LINE-IN, MIX-OUT y 2 entradas MIC/guitarra (6,35 mm). Se pueden conectar micrófonos y guitarras. Con la función TWS, puedes conectar dos unidades PORT8UHF-MKII-TWS entre sí de forma inalámbrica y duplicar la potencia de sonido.
 - FÁCIL DE USAR: El PORT8UHF-MKII-TWS te acompañará a todas partes. Con una batería recargable incorporada, 2 ruedas y un asa telescópica, conviértelo en tu accesorio imprescindible. Duración de la batería: 6-8 horas dependiendo del volumen.
 - PORT8UHF-MKII-TWS: Altavoz portátil alimentado por batería con reproductor USB, Bluetooth, 1 micrófono de mano UHF, 1 micrófono de mano con cable, 200 W RMS de potencia y 400 W máx. Explora la gama y elige el altavoz que mejor se adapte a tus necesidades.

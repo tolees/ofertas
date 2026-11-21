@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior de malla ligera
-- MG: Césped artificial/suelo duro
 - Cuello escotado de punto
-- Piel GripControl
+- Parte superior de malla ligera
 - Suela exterior ligera de TPU con múltiples tachuelas
+- Piel GripControl
+- MG: Césped artificial/suelo duro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09YHZ8XJ6{{</world>}}

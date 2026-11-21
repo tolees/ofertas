@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Scott Pilgrim EX - Switch'
-date: 2026-11-19 22:07:57
+date: 2026-11-21 07:57:28
 image: 'https://m.media-amazon.com/images/I/51+zYu2mL2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GY9R3Q7M/?tag=tolees-21'
 descuento: '36.13'
-average: '31.265'
+average: '29.356666666666669'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

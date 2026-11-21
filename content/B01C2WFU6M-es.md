@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Rango de medición por infrarrojos: -50 °C a +380 °C
-- Resolución óptica (D:S): 10:1
 - Alarma sonora y visual para valores encima y abajo de la diferencia de temperatura preseleccionada
+- Resolución óptica (D:S): 10:1
+- Rango de medición por infrarrojos: -50 °C a +380 °C
 - Precisión máx.: ±2.0 °C o ± 2 °C de la lectura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Instrucciones de cuidado: lavable a máquina
 - Jeans Pantalones Largos
-- Composición: 78% algodón, 20% poliéster, 2% elastano
 - Tipo de estiramiento: alta elasticidad
 - Ajuste: corte bootcut
+- Composición: 78% algodón, 20% poliéster, 2% elastano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C9MSH4W8{{</world>}}

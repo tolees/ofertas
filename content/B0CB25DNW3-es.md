@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Suela de tracción flexible
+- Altura del tacón: 1 1/4 pulgadas
 - Amortiguación de espuma de vapor ultraligera
 - Tejido diseñado y parte superior sintética con cordones frontales
-- Altura del tacón: 1 1/4 pulgadas
-- Suela de tracción flexible
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CB25DNW3{{</world>}}

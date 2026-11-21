@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Forro de material sintético
 - Empeine de piel
-- Corte clásico
 - Cierre de cordones
 - Suela de goma
+- Forro de material sintético
+- Corte clásico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F2GNTSSG{{</world>}}

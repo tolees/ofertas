@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Colección primavera-verano
+- Camiseta manga corta de la colección mujer
 - 100 % algodón
+- Colección primavera-verano
 - Hecho en: Portugal
 - Color: Blanco
-- Camiseta manga corta de la colección mujer
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FGPHY3M9{{</world>}}

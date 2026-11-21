@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Necesita 3 pilas AAA (incluidas).
-- ¡Pulsa la oreja izquierda de Pua y mira cómo resopla y camina!
-- ¡Un regalo fenomenal para cualquier fan de Disney!
-- Fabricado con tejido súper suave con detalles bordados.
-- ¡Pua está lista para despegar en una emocionante aventura!
-- A partir de 3 años
 - Mide 20,3 cm de alto.
+- ¡Un regalo fenomenal para cualquier fan de Disney!
+- Necesita 3 pilas AAA (incluidas).
+- A partir de 3 años
+- Fabricado con tejido súper suave con detalles bordados.
+- ¡Pulsa la oreja izquierda de Pua y mira cómo resopla y camina!
+- ¡Pua está lista para despegar en una emocionante aventura!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08S45MY4L{{</world>}}

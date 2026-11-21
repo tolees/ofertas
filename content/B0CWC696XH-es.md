@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Empeine de piel
 - Forro textil
 - Cierre de cordones
-- Empeine de piel
 - Horma clásica
 - Suela de goma
 

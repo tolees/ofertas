@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Conservar en un lugar fresco y seco. Para la fecha de consumo preferente, ver la parte inferior de la caja.
 - Cómo preparar la taza perfecta de cappuccino: Poner el contenido de un sobre en una taza. Añadir 150 ml de agua caliente pero no hirviendo o leche. Remover bien. Esperar 30 segundos y ¡disfrutar!
-- Café certificado Rainforest Alliance. Más información en ra.org.
+- Conservar en un lugar fresco y seco. Para la fecha de consumo preferente, ver la parte inferior de la caja.
 - Apto para dietas vegetarianas.
+- Café certificado Rainforest Alliance. Más información en ra.org.
 - La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Aquí!!!]({{< param buyurl >}})

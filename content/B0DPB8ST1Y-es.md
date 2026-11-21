@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 18 horas de duración
-- Hidratar/humectar; de larga duración; cuidado; cubriente; iluminador; luminoso
-- Enriquecido con ácido hialurónico y niacinamidas
 - Nos oponemos a los experimentos con animales; cosnova aparece internacionalmente con essence y CATRICE tanto en PETA Alemania como en PETA
 - Acabado resplandeciente de aspecto natural y cobertura media
+- Enriquecido con ácido hialurónico y niacinamidas
+- Hidratar/humectar; de larga duración; cuidado; cubriente; iluminador; luminoso
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DPB8ST1Y{{</world>}}

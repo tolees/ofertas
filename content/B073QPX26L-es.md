@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Para todo tipo de insectos.
 - Acción larga duración, gracias a su fórmula micro-encapsulée.
 - Listo para su uso
 - Es adecuado también para un uso exterior.
-- Para todo tipo de insectos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B073QPX26L{{</world>}}

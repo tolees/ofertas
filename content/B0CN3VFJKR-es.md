@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Delta Ridge II Down Hooded Jacket Chaqueta De Plumas Acolchada Con Capucha para Mujer Collegiate Navy talla L'
-date: 2026-11-19 15:04:25
+date: 2026-11-21 00:11:36
 image: 'https://m.media-amazon.com/images/I/416kVZeJPLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Empeine textil con puntera reforzada
 - Cierre de cordones
 - Mediasuela de EVA
-- Peso: 330 g (talla 38 2/3)
-- Drop: 9 mm (talón: 26 mm / antepié: 17 mm)
-- RAIN.RDY
-- Horma clásica
-- Lengüeta reforzada
-- Contiene al menos un 20% de material reciclado y renovable
 - Suela Traxion
+- RAIN.RDY
+- Lengüeta reforzada
+- Horma clásica
+- Empeine textil con puntera reforzada
+- Contiene al menos un 20% de material reciclado y renovable
+- Drop: 9 mm (talón: 26 mm / antepié: 17 mm)
+- Peso: 330 g (talla 38 2/3)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKXTRSSX{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Corte clásico
 - Cierre de cremallera y cuello alzado
 - 100% poliéster (reciclado)
-- Corte clásico
 - AEROREADY
 - Bolsillos con cremallera
 

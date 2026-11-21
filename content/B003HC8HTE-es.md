@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 4 palas JOOLA Spirit
 - 1 bolsa
 - 5 pelotas blancas 1 y 5 naranjas 1
+- 4 palas JOOLA Spirit
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B003HC8HTE{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El controlador del ventilador y la iluminación son compatibles con NZXT web cam
-- Ventilador PWM para ajustes de refrigeración optimizados
-- El buen diseño del marco con esquinas de goma que amortiguan las vibraciones reduce el nivel de ruido
-- Rodamiento liso hidrodinámico patentado
 - Ajuste de la iluminación RGB mediante NZXT web cam
+- El buen diseño del marco con esquinas de goma que amortiguan las vibraciones reduce el nivel de ruido
+- Ventilador PWM para ajustes de refrigeración optimizados
+- El controlador del ventilador y la iluminación son compatibles con NZXT web cam
+- Rodamiento liso hidrodinámico patentado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B3R39SY7{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACK & JONES Jjiglenn Jjoriginal SQ 260 Noos Slim Fit Jeans Azul Denim. 34W / 32L'
-date: 2026-11-19 17:52:36
+date: 2026-11-20 18:32:16
 image: 'https://m.media-amazon.com/images/I/31CobHRLweL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CL7QZQS9/?tag=tolees-21'
 descuento: '50.18'
-average: '15.651538461538459'
+average: '15.556666666666665'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec Centro de Planchado Horizontal IronHero H-2800 Station. 2800W Vapor 135g/m Golpe 360g/m Suela Cerámica Antical Auto Off Precisión Ajuste Temperatura Sin Interrupciones Eficiencia'
-date: 2026-11-18 07:22:41
+date: 2026-11-20 20:56:12
 image: 'https://m.media-amazon.com/images/I/312Is7xqfDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FKT5TSCR/?tag=tolees-21'
 descuento: '45.87'
-average: '46.865625'
+average: '45.980555555555554'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

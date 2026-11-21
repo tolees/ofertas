@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forro de cuero transpirable
-- Neumático para bici
 - Requiere instalación
+- Neumático para bici
+- Forro de cuero transpirable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08WLW8RGT{{</world>}}

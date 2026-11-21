@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Plantilla extraíble
-- Rápido y fácil de poner
 - Con práctico cierre de velcro doble
+- Rápido y fácil de poner
+- Plantilla extraíble
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D6NPZ19H{{</world>}}

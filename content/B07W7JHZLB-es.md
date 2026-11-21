@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Certificación ergonómica
 - Feel the Wave: Gana en comodidad con Wave Keys
+- Certificación ergonómica
 - Días más fluidos, a tu manera
 - Más soporte para las palmas, menos presión
 - Escribe cómodamente todo el día

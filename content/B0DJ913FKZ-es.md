@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ligeros y acolchados
-- Ancho regular; parte superior textil; cierre de cordón; caída del talón a la punta: 6 mm; recomendado para: pronadores neutros; detalles de la marca PUMA
 - Materiales transpirables
+- Ancho regular; parte superior textil; cierre de cordón; caída del talón a la punta: 6 mm; recomendado para: pronadores neutros; detalles de la marca PUMA
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DJ913FKZ{{</world>}}

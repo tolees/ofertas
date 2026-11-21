@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Samsonite Intuo - Spinner XL Maleta expandible 81 cm 132/144 L Olive Green'
-date: 2026-07-28 10:24:10
+title: 'Samsonite Intuo Maleta trolley grande 81 cm | Verde maleta blanda ampliable 81H x 54W x 33D cm 132/144 L 4.1 kg con candado TSA y correas cruzadas interiores'
+date: 2026-11-21 14:30:39
 image: 'https://m.media-amazon.com/images/I/41qfyzjusbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0CX4YZCHS-es Samsonite Intuo - Spinner XL Maleta expandible 81 cm...'
+slug: 'B0CX4YZCHS-es Samsonite Intuo Maleta trolley grande 81 cm | Verde maleta...'
 sku: 'B0CX4YZCHS-es'
 tags: [ '🇪🇸', ]
-actualPrice: 170.98 EUR
+actualPrice: 143.89 EUR
 currency: EUR
-price: 170.98
+price: 143.89
 comparePrice: 290.0 EUR
-prodname: 'Samsonite Intuo - Spinner XL Maleta expandible 81 cm 132/144 L Olive Green'
+prodname: 'Samsonite Intuo Maleta trolley grande 81 cm | Verde maleta blanda ampliable 81H x 54W x 33D cm 132/144 L 4.1 kg con candado TSA y correas cruzadas interiores'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CX4YZCHS/?tag=tolees-21'
-descuento: '41.04'
-average: '162.352'
+descuento: '50.38'
+average: '157.07714285714286'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,11 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El interior tiene un divisor fijo con 2 bolsillos con cremallera y correas ajustables empotradas que aseguran que tus pertenencias no se resbalen
-- Las ruedas dobles suaves garantizan un transporte cómodo + todos los tamaños disponen de la función de ampliación
-- Spinner 81 extensible (maleta grande: viaje de dos semanas): 54 x 33 x 81 cm, 132/144 L, 4,10 kg
-- Cerradura TSA
-- El Intuo está fabricado en polipropileno ligero y resistente a los arañazos e interior parcialmente fabricado con materiales reciclados
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CX4YZCHS{{</world>}}

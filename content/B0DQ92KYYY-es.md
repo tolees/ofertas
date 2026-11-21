@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Algodón elástico
 - Ajuste cómodo
+- Algodón elástico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DQ92KYYY{{</world>}}

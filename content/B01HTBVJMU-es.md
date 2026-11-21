@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ideal para toda la familia
 - Brik UHT 1L con tapón atado (para evitar que acabe en la naturaleza)
-- Fuente natural de calcio y vitaminas
 - Sin azúcar añadido ni gluten
 - El Castillo, desde 1932
+- Fuente natural de calcio y vitaminas
+- Ideal para toda la familia
 - Leche entera de Bienestar Animal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

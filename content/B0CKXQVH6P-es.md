@@ -28,16 +28,16 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela de goma
-- Cierre de cordones
 - Peso: 306 g (talla 42 1/2)
 - Plantilla Cloudfoam Plus
-- Corte clásico
-- Drop de la mediasuela: 5 mm (talón: 29 mm, antepié: 24 mm)
+- Empeine de malla
 - Forro textil
 - Drop: 5 mm (talón: 29 mm / antepié: 24 mm)
+- Suela de goma
+- Cierre de cordones
+- Corte clásico
 - Mediasuela Bounce 2.0
-- Empeine de malla
+- Drop de la mediasuela: 5 mm (talón: 29 mm, antepié: 24 mm)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKXQVH6P{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste regular cómodo
 - Cierres abotonados
 - Dos bolsillos delanteros para chaqueta
+- Ajuste regular cómodo
 - Mangas con puños
 - Una camisa vaquera ligera
 

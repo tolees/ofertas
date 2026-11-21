@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cuello de pico
-- Elástico cómodo
 - Proporciona comodidad
 - Manga corta
+- Elástico cómodo
 - Una mirada original
 
 [🛒 Visítala!!!]({{< param buyurl >}})

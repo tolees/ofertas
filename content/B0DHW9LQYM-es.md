@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela de goma para moqueta artificial
 - Horma clásica
 - Forro textil
+- Suela de goma para moqueta artificial
 - Empeine de Fiberskin con estampado Sprintgridcarcasa
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Horma clásica
 - Forro textil
+- Suela de goma cosida
 - Cierre de cordones
 - Contiene al menos un 20% de material reciclado
-- Suela de goma cosida
 - Empeine de ante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

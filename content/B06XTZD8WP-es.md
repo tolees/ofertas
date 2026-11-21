@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Duración hasta 16 horas clínicamente testado
-- Gracias a su particular forma de espiral, el maxiaplicador con elastómeros captura cada una de las pestañas
 - Oftalmológicamente testado, sin fragancia
+- Gracias a su particular forma de espiral, el maxiaplicador con elastómeros captura cada una de las pestañas
 - Máscara de pestañas efecto volumen y definición extra
+- Duración hasta 16 horas clínicamente testado
 - Desde el primer uso, las pestañas adquieren una definición y un volumen extraordinarios para lucir un acabado impecable de larga duración
 
 [🛒 Aquí!!!]({{< param buyurl >}})

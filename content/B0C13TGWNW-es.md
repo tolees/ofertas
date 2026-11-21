@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Geles dulces
-- Deliciosas piezas con forma de tubito con exterior rojo sabor Fresa recubiertos de pica e interior de pasta de azúcar sabor nata.
 - ¡Perfecto para gozar de tu momento Haribo!
+- Deliciosas piezas con forma de tubito con exterior rojo sabor Fresa recubiertos de pica e interior de pasta de azúcar sabor nata.
+- Geles dulces
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C13TGWNW{{</world>}}

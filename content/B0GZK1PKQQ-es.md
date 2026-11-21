@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fórmula hidratante
-- La siguiente información se aplica a cada unidad del paquete
 - Efecto refrescante
+- La siguiente información se aplica a cada unidad del paquete
+- Fórmula hidratante
 - Fácil aplicación
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

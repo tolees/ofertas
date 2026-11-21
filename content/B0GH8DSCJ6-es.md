@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- __Marca:__ parche de cuero con el logo
-- __Tejido:__Tejido en sarga mezcla de 65% poliéster reciclado 35% poliéster
-- Talla única: 55 cm
-- __construcción:__ construcción de 6 paneles con forma de J
 - __Visera:__ visera curva
+- __construcción:__ construcción de 6 paneles con forma de J
+- __Tejido:__Tejido en sarga mezcla de 65% poliéster reciclado 35% poliéster
+- __Marca:__ parche de cuero con el logo
+- Talla única: 55 cm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GH8DSCJ6{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Microburbujas DMX en la entresuela
 - Parte superior en piel
+- Microburbujas DMX en la entresuela
 - REEBOK REEBOK COURT ADVANCE FTWWHT/CDGRY2/FTWWHT 44.5 UNISEX
 - Plantilla OrthoLite
 - Suela resistente de goma

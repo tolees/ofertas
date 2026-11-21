@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sujeción espiral: apertura 180º para más comodidad y facilidad para escribir
-- Compatible con Scribzee para sincronizar tus citas y deberes con tu teléfono
-- 2 Hojas de pegatinas para poder personalizar la agenda
-- Interior NUDE azul: un interior limpio y depurado para poder planificar y organizar el curso
 - Agenda con Pizarra Blanca en el interior de las 2 tapas: ideal para cálculos, esquemas, dictados,… ¡Escribe, borra y vuelve a escribir!.
+- Sujeción espiral: apertura 180º para más comodidad y facilidad para escribir
+- Interior NUDE azul: un interior limpio y depurado para poder planificar y organizar el curso
+- 2 Hojas de pegatinas para poder personalizar la agenda
+- Compatible con Scribzee para sincronizar tus citas y deberes con tu teléfono
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0GXZBBDC9{{</world>}}

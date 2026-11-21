@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela: poliuretano termoplástico
 - Cierre: cremallera
 - Parte superior: cuero
+- Suela: poliuretano termoplástico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BM5SXTRD{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tapa de cierre hermético
-- Se puede lavar en lavavajillas
 - Tarro de conservación y almacenamiento
+- Se puede lavar en lavavajillas
 - Características de manga completo cuidado
+- Tapa de cierre hermético
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B007FT5C5W{{</world>}}

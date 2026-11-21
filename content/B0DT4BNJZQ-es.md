@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- repelentes al agua
-- plantilla acolchada
 - Bota australiana
+- plantilla acolchada
+- repelentes al agua
 - forro pelo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

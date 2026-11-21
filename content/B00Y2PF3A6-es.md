@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con cabezal regulable; la altura se puede ajustar según la necesidad, hasta más de 2 metros
-- Ducha de jardín ligera y manejable, ideal para piscina o patio, con acople de conexión rápida a toma de agua
 - Soporte en trípode, con 3 soportes opcionales para clavar en el suelo o en el césped
+- Ducha de jardín ligera y manejable, ideal para piscina o patio, con acople de conexión rápida a toma de agua
 - Estructura de aluminio de alta calidad, con componentes plásticos en abs; resistente al agua y a la corrosión
+- Con cabezal regulable; la altura se puede ajustar según la necesidad, hasta más de 2 metros
 - Con llave de corte y caudal de agua regulable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

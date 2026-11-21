@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Incorpora inyector antigoteo y tapón enroscable
-- Tecnología de impresión: chorro de tinta
 - Hasta 6.500 páginas
+- Tecnología de impresión: chorro de tinta
 - Tipo de consumible: frasco de tinta para recarga
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

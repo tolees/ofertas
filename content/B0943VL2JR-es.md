@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cooler Master MP511 XL Gaming Mouse Pad - Premium Mat Optimised for Accuracy with Durable CORDURA Fabric Splash-Resistant Surface Anti-Fray Stitching Black - 900 x 400 x 3mm'
-date: 2026-11-20 01:41:09
+date: 2026-11-21 02:02:22
 image: 'https://m.media-amazon.com/images/I/21sP9eT-MEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0943VL2JR/?tag=tolees-21'
 descuento: '51.50'
-average: '15.408888888888889'
+average: '15.332727272727274'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 1× Puerto PoE de Gigabits y diseño compacto para una instalación flexible.
 - Compatible con PoE 802.3af y alimentación por DC (adaptador de corriente incluido) para una instalación sencilla.
 - Hasta 1.3 Gbps de velocidad WiFi 5: 450 Mbps en 2.4 GHz y 867 Mbps en 5 GHz.
-- 1× Puerto PoE de Gigabits y diseño compacto para una instalación flexible.
 - Gestión centralizada en la nube gratuita a través de la aplicación Festa o la web.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

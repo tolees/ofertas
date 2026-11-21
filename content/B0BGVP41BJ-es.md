@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Buena calidad y rendimiento
 - Bolsillos abiertos para las manos
+- Buena calidad y rendimiento
 - Puños y dobladillo inferior acanalados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

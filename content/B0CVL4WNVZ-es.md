@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Etiqueta con el logotipo por detrás
 - Esta versión de los jeans 3301 ofrece una cintura alta para un aspecto femenino.
 - Skinny Fit Jeans 3301 es un jean clásico de 5 bolsillos, que ofrece un ajuste apretado de arriba a abajo.
-- Etiqueta con el logotipo por detrás
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CVL4WNVZ{{</world>}}

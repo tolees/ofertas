@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Presión de trabajo 6 bar
-- Resistente a la degradación solar
 - Medida: 25 mm, longitud: 25 m
+- Resistente a la degradación solar
+- Presión de trabajo 6 bar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00WIMU1OS{{</world>}}

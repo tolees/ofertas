@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Cuece huevos Serie 3000 Tamaño familiar hasta 6 huevos blandos medios duros escalfados Fácil de limpiar Bandeja para escalfar y perforador de huevos 400 W Diseño compacto HD9137/90'
-date: 2026-11-19 08:22:33
+date: 2026-11-20 18:24:31
 image: 'https://m.media-amazon.com/images/I/319A3ClwkYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CGB21CTD/?tag=tolees-21'
 descuento: '53.61'
-average: '18.8862790697675'
+average: '18.7064444444445'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

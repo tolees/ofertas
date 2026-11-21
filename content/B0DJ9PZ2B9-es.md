@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Puma Logotipo de gato en la puntera y la lengüeta
 - Bota baja
 - Suela de goma para mayor agarre
+- Puma Logotipo de gato en la puntera y la lengüeta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DJ9PZ2B9{{</world>}}

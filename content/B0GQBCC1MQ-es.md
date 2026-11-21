@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - VEGANO Y NO PROBADO EN ANIMALES : Este producto Revolution no contiene ingredientes de origen animal. Todos los productos Revolution están respaldados por PETA
-- FÓRMULA NUTRITIVA : La manteca de karité y la vitamina E mantienen los labios hidratados y suaves, ayudando a prevenir la sequedad
 - CÓMO USAR : Desliza uniformemente sobre los labios para una capa ligera o intensifica para un acabado más brillante
+- FÓRMULA NUTRITIVA : La manteca de karité y la vitamina E mantienen los labios hidratados y suaves, ayudando a prevenir la sequedad
 - LABIOS RELLENOS : Gloss con ácido hialurónico para labios más voluminosos e hidratados
 - COLOR JUGOSO : Tonos afrutados con acabado fresco y modulable
 

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Hecho de algodón suave
-- Durabilidad con material sostenible
-- De manga corta
 - Camiseta con cuello dividido para hombre
+- De manga corta
+- Durabilidad con material sostenible
 - Tela elástica para mayor comodidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

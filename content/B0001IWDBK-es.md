@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuerpo en material sintético
 - Marca: Stanley
-- Rasca vidrios de plástico
 - Suministrado con una hoja 1992 y un protector de hoja
+- Cuerpo en material sintético
+- Rasca vidrios de plástico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0001IWDBK{{</world>}}

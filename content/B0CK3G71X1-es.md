@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Skechers Espuma viscoelástica refrigerada por aire
 - Parte superior de malla y sintética con cordones elásticos
+- Skechers Espuma viscoelástica refrigerada por aire
 - Skechers Detalle del logotipo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Plantilla textil
-- Horma clásica
-- Cordones
-- Suela de goma
 - Empeine textil
+- Horma clásica
+- Suela de goma
+- Cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F2GDX16G{{</world>}}

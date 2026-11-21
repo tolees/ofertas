@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Mujer Chaleco Benton Springs | Chaleco de forro polar cálido para aislamiento y capas. Color: negro talla: XL'
-date: 2026-11-19 14:27:44
+date: 2026-11-21 03:55:41
 image: 'https://m.media-amazon.com/images/I/41kfl6SCN9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B003NX8DIC/?tag=tolees-21'
 descuento: '35.93'
-average: '24.067500000000024'
+average: '24.380000000000017'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

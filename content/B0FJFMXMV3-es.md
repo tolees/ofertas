@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tiro medio
 - Una mirada original
+- Cierre de botones
+- Tiro medio
 - Un ajuste cómodo
 - Tiras anchas
-- Cierre de botones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FJFMXMV3{{</world>}}

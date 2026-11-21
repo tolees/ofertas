@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Hombre Grand Court Base 00S Shoes Core Black/FTWR White/Gum 3 42 EU'
-date: 2026-11-19 21:55:22
+date: 2026-11-21 14:22:14
 image: 'https://m.media-amazon.com/images/I/212rqjj3aqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DK4ZM518/?tag=tolees-21'
 descuento: '40.02'
-average: '40.49'
+average: '39.99'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

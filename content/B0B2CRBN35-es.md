@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto de calidad
 - Camiseta masculina
+- Producto de calidad
 - Color: negro
 - Cuello redondo
 

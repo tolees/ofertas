@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - - Material de la Carcasa: Acero Inoxidable (bruñido)
-- - Forma de la Carcasa: Redondo
+- - Cristal: Cristal Mineral
 - Carcasa
 - - Color de la caja: Oro
-- - Cristal: Cristal Mineral
+- - Forma de la Carcasa: Redondo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B006IWDWGS{{</world>}}

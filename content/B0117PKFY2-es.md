@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Irresistible mix de sabores
-- Deliciosas y esponjosas nubes
-- Sin gluten
-- Espumas dulces
 - Un aperitivo divertido para personas de todas las edades
+- Sin gluten
+- Deliciosas y esponjosas nubes
+- Espumas dulces
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0117PKFY2{{</world>}}

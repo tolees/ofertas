@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Logotipo de metal
 - Cordones redondos
 - Mezcla de piel nobuck y nailon balístico
 - Ojales de
 - Forro Shearling
-- Logotipo de metal
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07DGGL7QM{{</world>}}

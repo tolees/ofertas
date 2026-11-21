@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Care Label:
-- Polyester lining for a comfortable feel
 - materialFabricComposition: Outer: 100% Polyester; Lining: 100% Polyester; Padding: 100% Polyester
+- Polyester lining for a comfortable feel
 - Detachable Hood
+- Care Label:
 - Puffer jacket
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Corte clásico
 - Tejido de punto doble
 - 100 % poliéster (100 % reciclado)
-- Corte clásico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F54GCBQY{{</world>}}

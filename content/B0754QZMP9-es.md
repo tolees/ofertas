@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Posibilidad de tendido sobre la superficie o bajo tierra
 - Se puede combinar con todas las luminarias y los accesorios de la serie Plug & Shine
 - Cable de conexión de 24 V
 - Protección IP: IP68 - protección contra la inmersión permanente
+- Posibilidad de tendido sobre la superficie o bajo tierra
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0754QZMP9{{</world>}}

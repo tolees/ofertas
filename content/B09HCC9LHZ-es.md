@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Entresuela de EVA cortada para una amortiguación ligera
-- Suela de goma helada para una tracción y agarre en varias ficies
 - Parte de cuero
+- Suela de goma helada para una tracción y agarre en varias ficies
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09HCC9LHZ{{</world>}}

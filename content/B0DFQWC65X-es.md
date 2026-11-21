@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Modo de vida : Playa, Fiesta
-- Cuello : Cuello cubano
 - Artículo : Camisa
+- Modo de vida : Playa, Fiesta
 - Manga : Manga corta
-- Cierre : Cierre de botones
 - Corte : Corte relaxed
+- Cierre : Cierre de botones
+- Cuello : Cuello cubano
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DFQWC65X{{</world>}}

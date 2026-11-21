@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NEO PEQUES Probiotic | 8 Viales | Complemento Alimenticio a Base de Probióticos y Prebióticos | Para Mejora del Bienestar Digestivo en Niños | Sabor Tutti Frutti'
-date: 2026-09-16 19:13:12
+date: 2026-11-20 18:34:42
 image: 'https://m.media-amazon.com/images/I/41nPAhJLdgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PYA85JE/?tag=tolees-21'
 descuento: '35.82'
-average: '7.66'
+average: '7.792'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

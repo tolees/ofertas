@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Limpieza y cuidados: A las zapatillas Munich no les gusta ni la lavadora ni la secadora porque las estropean
-- 60% PU 30% poliéster 10%goma
 - Zapatillas casual para hombre y mujer
+- Limpieza y cuidados: A las zapatillas Munich no les gusta ni la lavadora ni la secadora porque las estropean
 - Con la X de Munich visible
 - Cierre: Cordones
+- 60% PU 30% poliéster 10%goma
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CPPR47QF{{</world>}}

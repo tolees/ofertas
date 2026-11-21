@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Exterior de piel
 - Horma estándar
+- Exterior de piel
 - Suela de goma rugosa
 - Modelo con plataforma
 - Plantilla SOFTFOAM

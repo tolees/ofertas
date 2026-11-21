@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Compatible con Scribzee para sincronizar tus citas y deberes con tu teléfono
 - Interior NUDE azul: un interior limpio y depurado para poder planificar y organizar el curso
-- Agenda con Pizarra Blanca en el interior de las 2 tapas: ideal para cálculos, esquemas, dictados,… ¡Escribe, borra y vuelve a escribir!.
 - 2 Hojas de pegatinas para poder personalizar la agenda
+- Agenda con Pizarra Blanca en el interior de las 2 tapas: ideal para cálculos, esquemas, dictados,… ¡Escribe, borra y vuelve a escribir!.
 - Distribución: Día página
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

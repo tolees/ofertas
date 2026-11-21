@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Amortiguación ultraligera
+- Plantilla Air Cooled Goga Mat
 - Zancada suave
 - Máxima amortiguación:
-- Plantilla Air Cooled Goga Mat
 - Tecnología Natural Rocker
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

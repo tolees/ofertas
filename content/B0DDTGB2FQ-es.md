@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Ajuste de cuña
+- Skech-Air
 - Goldcrown
 - Collab
 - MF refrigerado por aire
-- Skech-Air
-- Ajuste de cuña
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DDTGB2FQ{{</world>}}

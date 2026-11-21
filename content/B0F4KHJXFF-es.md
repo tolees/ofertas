@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Popelina de algodón melocotón
-- Puños redondos de un botón
-- Tecnología Flex
-- Cuello abotonado
 - Pliegues en la parte trasera
+- Cuello abotonado
+- Tecnología Flex
+- Puños redondos de un botón
+- Popelina de algodón melocotón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4KHJXFF{{</world>}}

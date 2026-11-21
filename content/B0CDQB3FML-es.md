@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Forro sintético
-- Empeine sintético
 - Horma clásica
-- Suela de goma
 - El empeine contiene al menos un 50% de material reciclado
 - Cierre de cordones
+- Suela de goma
+- Empeine sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CDQB3FML{{</world>}}

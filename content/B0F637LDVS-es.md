@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre de cordones
-- PUMA Tira en los laterales
-- Empeine de gamuza
-- Suela de goma
 - Ancho normal
+- Empeine de gamuza
+- PUMA Tira en los laterales
+- Cierre de cordones
+- Suela de goma
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F637LDVS{{</world>}}

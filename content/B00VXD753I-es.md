@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Reduce los engrosamientos anómalos de la epidermis, devolviendo la elasticidad fisiológica de la piel
 - Formulado con lactato sódico al 18%
+- Clínicamente testado. No comedogénico, hipoalergénico, sin sulfatos ni parabenos ni derivados del trigo. Desarrollado y fabricado en Milano. Excelencia dermatológica italiana desde 1972
 - Tratamiento en crema suavizante y alisante, se puede utilizar para la hiperqueratosis folicular y plantar
 - Bálsamo hidratante indicado para zonas localizadas con sequedad extrema o con tendencia a la hiperqueratosis
-- Clínicamente testado. No comedogénico, hipoalergénico, sin sulfatos ni parabenos ni derivados del trigo. Desarrollado y fabricado en Milano. Excelencia dermatológica italiana desde 1972
+- Reduce los engrosamientos anómalos de la epidermis, devolviendo la elasticidad fisiológica de la piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00VXD753I{{</world>}}

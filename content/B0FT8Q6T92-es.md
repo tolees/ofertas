@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Añade un acabado brillante con profundidad a cualquier look
 - brillante; escarchado
-- Nos oponemos a los experimentos con animales. Cosnova aparece internacionalmente con essence y CATRICE tanto en PETA Alemania como en PETA.
-- Polvo translúcido con un vibrante efecto holográfico violeta
 - Textura sedosa y fácil de difuminar para una aplicación uniforme
+- Añade un acabado brillante con profundidad a cualquier look
+- Polvo translúcido con un vibrante efecto holográfico violeta
+- Nos oponemos a los experimentos con animales. Cosnova aparece internacionalmente con essence y CATRICE tanto en PETA Alemania como en PETA.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FT8Q6T92{{</world>}}

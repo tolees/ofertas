@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Amortiguación Ultra Go ligera y sensible
 - Botas de senderismo impermeables de nobuk con cordones y forro sherpa
-- Skechers Plantilla acolchada de espuma viscoelástica refrigerada por aire
 - Suela de tracción flexible
+- Skechers Plantilla acolchada de espuma viscoelástica refrigerada por aire
 - Ligeras
 
 [🛒 Aquí!!!]({{< param buyurl >}})

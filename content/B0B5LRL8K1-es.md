@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- La receta contiene 90 % de proteína animal (sobre el contenido total de proteína); los ingredientes taurina y DHA fomentan una visión sana y el desarrollo cerebral saludable
 - Sin saborizantes artificiales, sin colorantes, sin OGM ni ingredientes de relleno; sin trigo (elaborado en una planta que procesa trigo)
 - Minerales esenciales y vitamina D para favorecer huesos fuertes y un crecimiento sano; mezcla antioxidante con vitamina E para ayudar al sistema inmunitario
-- IAMS for Vitality con pescado azul para gatitos es un alimento 100 % completo y equilibrado que aporta vitalidad a su gatito
-- La receta contiene 90 % de proteína animal (sobre el contenido total de proteína); los ingredientes taurina y DHA fomentan una visión sana y el desarrollo cerebral saludable
 - Mezcla de fibras adaptada, con prebióticos y pulpa de remolacha para una digestión sana ; contiene ácidos Omega 3 y 6 para mantener una piel y un pelo sanos
+- IAMS for Vitality con pescado azul para gatitos es un alimento 100 % completo y equilibrado que aporta vitalidad a su gatito
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B5LRL8K1{{</world>}}

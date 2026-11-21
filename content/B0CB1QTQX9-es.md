@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Forro textil
+- Horma clásica
 - Cierre de cordones
 - Mediasuela de aspecto vulcanizado
-- Horma clásica
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CB1QTQX9{{</world>}}

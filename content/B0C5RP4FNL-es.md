@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Puños acanalados
-- Calcetines elásticos
 - logotipo de adidas
+- Calcetines elásticos
+- Puños acanalados
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C5RP4FNL{{</world>}}

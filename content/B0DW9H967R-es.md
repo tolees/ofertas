@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Manga: Larga
-- Acabados rib
 - Fit: Regular
 - Cuello: Tortuga
+- Acabados rib
 - Desigual
+- Manga: Larga
 - Color: Liso
 
 [🛒 Visítala!!!]({{< param buyurl >}})

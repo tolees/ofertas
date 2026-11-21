@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cooler Master MM712 RGB-LED Ratón Gaming Inalámbrico Híbrido Ultraligero 59g – Sensor Óptico PAW3370 19K dpi Switches Ópticos 70 Mill Clics Sistema On-The-Fly MasterPlus+ 38K dpi Solo PC Negro'
-date: 2026-11-17 11:53:38
+date: 2026-11-21 10:14:05
 image: 'https://m.media-amazon.com/images/I/31FykxVoBqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0B9HGKSVD/?tag=tolees-21'
 descuento: '51.62'
-average: '38.400285714285708'
+average: '37.405135135135133'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Fabricado con Omni Freeze Zero: tecnología de refrigeración activada por el sudor para mantenerte fresco y seco.
 - Ajuste activo que garantiza una amplitud de movimiento completa, Se ajusta a la talla, Longitud de la espalda 28", 100% poliéster
-- Contenido: 1x Columbia Polo Zero Rules Light para Hombre, Color: City Grey (Gris), Talla: XXL
 - Confort elástico para facilitar el movimiento, paneles laterales Omni-Wick para el control de la humedad y un diseño ligero hacen de este polo la prenda ideal para la actividad física.
+- Contenido: 1x Columbia Polo Zero Rules Light para Hombre, Color: City Grey (Gris), Talla: XXL
 - El polo Zero Rules es un polo ligero que absorbe el sudor y te mantiene frío en condiciones cálidas, luce bien en el sendero y en salidas informales
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 30,5 x 15 x 9 centímetros
-- Tamaño de la bolsa: Pequeña (no cabe en tamaño A4)
 - Cierre del compartimento: Con cremallera
+- Tamaño de la bolsa: Pequeña (no cabe en tamaño A4)
+- 30,5 x 15 x 9 centímetros
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DNRBS2L3{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pijama camisero corto confeccionado con tejido de viscosa,con estampado allover de hojas multicolor
 - Ideal para estar en casa súper cómoda y con estilo
+- Pijama camisero corto confeccionado con tejido de viscosa,con estampado allover de hojas multicolor
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQVHP5ZM{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Soundcore C50i de Anker Auriculares Abiertos con Clip diseño FlexiClip | Drivers de 12 mm con Graves potentes Llamadas nítidas con IA 28 h de Uso Ajuste Seguro IP55 Bluetooth 6.0'
-date: 2026-11-19 23:41:50
+date: 2026-11-20 23:48:05
 image: 'https://m.media-amazon.com/images/I/21VEbGAq3QL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FKSV2GW2/?tag=tolees-21'
 descuento: '45.72'
-average: '40.724090909090727'
+average: '40.605217391304173'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

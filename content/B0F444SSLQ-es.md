@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillos : Bolsillos delanteros
-- Largo/talla : Corto
 - Puños : Puños de velcro
-- Funcionalidad : Resistente al viento
-- Modo de vida : Al aire libre
-- Cuello : Capucha con cordón de ajuste
-- Manga : Manga larga
 - Forro : Forro de poliéster para una sensación cómoda
-- Cierre : Cierre con cordón
 - Artículo : Chaqueta
+- Largo/talla : Corto
+- Manga : Manga larga
+- Cierre : Cierre con cordón
+- Cuello : Capucha con cordón de ajuste
+- Modo de vida : Al aire libre
+- Bolsillos : Bolsillos delanteros
+- Funcionalidad : Resistente al viento
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F444SSLQ{{</world>}}

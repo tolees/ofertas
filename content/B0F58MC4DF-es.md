@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Hombre Workout Essentials All-Set 3-Stripes Knit Pants Dark Blue/White S'
-date: 2026-11-18 08:06:45
+date: 2026-11-21 14:02:13
 image: 'https://m.media-amazon.com/images/I/31wdBqZWAML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F58MC4DF/?tag=tolees-21'
 descuento: '44.47'
-average: '27.17'
+average: '26.443333333333335'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

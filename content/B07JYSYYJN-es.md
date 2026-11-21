@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Casual chino pants made with Smart 36 Flex 4-way stretch fabric for maximum flexibility and comfort
-- Features a Hidden Security Pocket with a concealed zipper and coin compartment
 - Ultra-stretch cotton fabric for maximum flexibility and comfort
 - Straight fit
 - Dockers Herren ULTIMATE CHINO STRAIGHT PANTS
+- Features a Hidden Security Pocket with a concealed zipper and coin compartment
+- Casual chino pants made with Smart 36 Flex 4-way stretch fabric for maximum flexibility and comfort
 - Flexible waistband for added stretch and extra comfort
 - Ultimate Chino Straight
 

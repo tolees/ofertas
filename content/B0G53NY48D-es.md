@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Recolección: Se recogen las hojas desde Junio a Agosto
+- Anual; altura 70 cm; utilización: Se emplean las hojas y las semillas para perfumar los platos
 - La siguiente información se aplica a cada unidad del paquete
 - Tiene un sabor entre el hinojo y la menta, también se utiliza para condimentar conservas y vinagres
 - Siembra: Directa desde Abril a Mayo
-- Anual; altura 70 cm; utilización: Se emplean las hojas y las semillas para perfumar los platos
+- Recolección: Se recogen las hojas desde Junio a Agosto
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0G53NY48D{{</world>}}

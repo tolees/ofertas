@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Control Nature Preservativos Clásicos de Látex Natural - 24 Preservativos'
-date: 2026-11-15 11:44:20
+date: 2026-11-21 12:29:16
 image: 'https://m.media-amazon.com/images/I/41mU9yOOOdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S84RXCK/?tag=tolees-21'
 descuento: '38.95'
-average: '7.8893750000000527'
+average: '7.8715168539326363'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

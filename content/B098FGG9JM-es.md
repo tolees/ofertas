@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Forma del talón: plano
 - Material exterior: lona
 - Cierre: goma
-- Forma del talón: plano
-- Ancho del zapato: medio
 - Material interior: textil
+- Ancho del zapato: medio
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B098FGG9JM{{</world>}}

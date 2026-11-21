@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Líneas y proporciones voluminosas en el tallo
-- Suela de goma
 - Plantilla textil
+- Suela de goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D2KNZ1JR{{</world>}}

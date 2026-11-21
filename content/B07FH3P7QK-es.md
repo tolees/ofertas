@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fórmula ultra suave; color intenso para todos los tonos de piel
-- Aplicador duo para crear múltiples looks para un acabado preciso
-- Perfecto para esculpir, sombrear y definir
 - Todo en uno, sombra de ojos, delineador y iluminador
 - 12 sombras complementarias perfectas para hacer contouring
+- Aplicador duo para crear múltiples looks para un acabado preciso
+- Fórmula ultra suave; color intenso para todos los tonos de piel
+- Perfecto para esculpir, sombrear y definir
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07FH3P7QK{{</world>}}

@@ -31,8 +31,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - AMPLIA GAMA DE ACCESORIOS – Además de la bandeja de horno estándar, este versátil horno de convección incluye una rejilla para asar, una cesta para freír y un espeto para pollo asado; todos los accesorios son aptos para lavado en lavavajillas
 - HORNO Y FREIDORA DE AIRE CALIENTE COMBINADOS – Con una capacidad de 25 litros e interior iluminado, podrás hornear fácilmente grandes cantidades de patatas fritas, asados o panecillos, sin necesidad de un horno convencional.
 - FREIDORA DE AIRE CALIENTE – Gracias a la innovadora tecnología de aire caliente, se puede preparar una amplia variedad de deliciosos platos de forma rápida y sencilla, ahorrando energía y sin añadir aceite ni grasa; el tiempo de precalentamiento es excepcionalmente corto.
-- FÁCIL DE USAR – Gracias a una gran pantalla táctil, 12 programas automáticos para platos como patatas fritas, pizza, pollo a la parrilla, verduras y mucho más, así como cuatro niveles de rejilla, una amplia variedad de platos queda perfectos
 - DETALLES – Horno tostador «Bake & Fry» n.º 9579 (negro-plata) para todos los procesos de horneado estándar, capacidad de 25 l, 12 programas automáticos / temporizador, acabado resistente a altas temperaturas, potencia de 2000 W, dimensiones del producto: 41 x 45 x 42 cm, peso neto: 10,3 kg
+- FÁCIL DE USAR – Gracias a una gran pantalla táctil, 12 programas automáticos para platos como patatas fritas, pizza, pollo a la parrilla, verduras y mucho más, así como cuatro niveles de rejilla, una amplia variedad de platos queda perfectos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DDY2MPFL{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Joma Combi M/C T-Shirt Hombre Gris Oscuro L'
-date: 2026-11-17 17:50:30
+date: 2026-11-20 18:25:56
 image: 'https://m.media-amazon.com/images/I/31U-T72nIOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ERZ7VUA/?tag=tolees-21'
 descuento: '35.86'
-average: '7.5256862745098054'
+average: '7.5318867924528314'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

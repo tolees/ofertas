@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Para multilijadoras de diferentes marcas con placa base de 102 x 62,93 mm
-- Dimensiones del envase: 170 x 98 x 20 mm
-- Set de 25 hojas de lija, aptas para madera, masilla, yeso, pintura y esmalte
-- Dimensiones de la hoja: 102 x 62 mm; 5 unidades de grano 40/120/180, 10 unidades de grano 80
-- Fabricado en Suiza
 - Papel de lija universal con sistema autoadhesivo para una sujeción segura y un cambio rápido de hoja
+- Fabricado en Suiza
+- Para multilijadoras de diferentes marcas con placa base de 102 x 62,93 mm
+- Dimensiones de la hoja: 102 x 62 mm; 5 unidades de grano 40/120/180, 10 unidades de grano 80
+- Set de 25 hojas de lija, aptas para madera, masilla, yeso, pintura y esmalte
+- Dimensiones del envase: 170 x 98 x 20 mm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0053PUN2C{{</world>}}

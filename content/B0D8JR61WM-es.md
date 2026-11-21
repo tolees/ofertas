@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100% algodón
-- Con nuestro diseño vintage Batwing
-- Lavable a máquina
-- Camiseta clásica con diseño gráfico
-- Corte casual
 - Cuello redondo
+- Con nuestro diseño vintage Batwing
+- 100% algodón
+- Lavable a máquina
+- Corte casual
+- Camiseta clásica con diseño gráfico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D8JR61WM{{</world>}}

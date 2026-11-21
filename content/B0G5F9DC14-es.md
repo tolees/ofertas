@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pulsador eléctrico: datos eléctricos: 6a, 230v
 - Pulsador: interruptor pulsador iluminable de superficie de la gama forix en color blanco
 - Pulsador pared: medidas: 65 x 65 x 34,5 mm. (ancho, alto, fondo)
-- Pulsador empotrable: la instalación se hace directamente sobre el muro, sin necesidad de hacer agujero para su montaje
-- La siguiente información se aplica a cada unidad del paquete
 - Seguridad: protección contra goteo de agua
+- Pulsador empotrable: la instalación se hace directamente sobre el muro, sin necesidad de hacer agujero para su montaje
+- Pulsador eléctrico: datos eléctricos: 6a, 230v
+- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0G5F9DC14{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El cuaderno monocromo A5 está fabricado con papel certificado FSC (FSC-C002810). Comprar un producto certificado significa hacer una elección consciente, ayudando a proteger el medio ambiente.
-- Los cuadernos monocromos A5 de Pigna son perfectos para uso escolar y profesional. Cada cuaderno contiene 80 páginas de papel de 80 g/m². Las cubiertas añaden un toque de color y vitalidad, haciendo que cada cuaderno sea único y reconocible. 10 paquetes
 - Pigna, fundada en 1839, es una excelencia en papelería. Con casi dos siglos de experiencia, combina tradición e innovación. Además de cuadernos, ofrece productos para la escuela, la oficina y el ocio, con diseño, sostenibilidad y calidad Made in Italy.
 - Los cuadernos monocromos A5 de Pigna mejoran el estudio y el trabajo. Las tapas de colores facilitan la organización, mientras que la calidad garantiza la durabilidad. Ideales para el día a día escolar y profesional.
 - La línea Monochrome ofrece una amplia gama de productos diseñados para colorear y organizar la vida cotidiana. Esta colección está diseñada para inspirar y apoyar la expresión personal y el aprendizaje, con materiales de calidad y sostenibles.
+- El cuaderno monocromo A5 está fabricado con papel certificado FSC (FSC-C002810). Comprar un producto certificado significa hacer una elección consciente, ayudando a proteger el medio ambiente.
+- Los cuadernos monocromos A5 de Pigna son perfectos para uso escolar y profesional. Cada cuaderno contiene 80 páginas de papel de 80 g/m². Las cubiertas añaden un toque de color y vitalidad, haciendo que cada cuaderno sea único y reconocible. 10 paquetes
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00ABJTKY2{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Transpirable
 - Flexibilidad
 - Material exterior: Sintético
 - Fácil de llevar para un confort optimo
+- Transpirable
 - Revestimiento: Sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})

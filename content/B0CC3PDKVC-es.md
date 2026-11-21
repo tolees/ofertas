@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- B0CC3PDKVC
-- Composición del material: 74 % algodón, 25 % lino, 1 % elastano
 - Temperatura máxima de 30 °C, proceso suave, no usar lejía, secado posible, secado a baja temperatura, secado a baja temperatura, secado irreversible, no lavar en seco
 - Pantalones cortos chinos para hombre de la marca danesa. ONLY & SONS
+- B0CC3PDKVC
+- Composición del material: 74 % algodón, 25 % lino, 1 % elastano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CC3PDKVC{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalón pirata de equipamiento
 - Tiene detalles distintivos de la marca
 - Hecho de 100 poliéster
+- Pantalón pirata de equipamiento
 - Cintura elástica con cordón para un ajuste óptimo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Puffect III Full Zip Jacket Chaqueta Acolchada para Mujer Black talla M'
-date: 2026-11-19 15:19:24
+date: 2026-11-20 22:46:47
 image: 'https://m.media-amazon.com/images/I/414CkLCLyML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

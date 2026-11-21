@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Brazalete Dorado Acero inoxidable
-- Caja Acero inoxidable, esfera Plateado
 - Resistente al agua: 30m
+- Caja Acero inoxidable, esfera Plateado
 - Movimiento Cuarzo
 - Diámetro caja: 28mm
 

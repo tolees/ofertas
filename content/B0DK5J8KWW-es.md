@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'G-STAR Dakota - Vaqueros Rectos Regulares para Hombre Azul Vintage Platinum Blue D23691-d943-h133 31W / 30L'
-date: 2026-11-19 13:12:12
+date: 2026-11-20 23:26:51
 image: 'https://m.media-amazon.com/images/I/31QU+MN--EL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

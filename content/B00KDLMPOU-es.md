@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Para la fijación de elementos ligeros en falsos techos
 - Recomendado para usar en: hormigón hueco, cartón yeso
 - Hecho en acero; recubrimiento cincado
-- Para la fijación de elementos ligeros en falsos techos
 - Brand: Index Fixing Systems
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

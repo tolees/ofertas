@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- no es resistente al agua
-- Caucho de goma
-- material de suela: Caucho
-- Plano tipo de tacón
-- Casual
-- Cordones cierre
 - No Strap
+- material de suela: Caucho
+- Caucho de goma
+- Casual
+- no es resistente al agua
+- Cordones cierre
+- Plano tipo de tacón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DTPVM7W3{{</world>}}

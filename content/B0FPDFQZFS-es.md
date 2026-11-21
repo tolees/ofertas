@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Color: Multicolor
-- Manga: Larga
 - Largo: Largo
-- Cuello: Redondo
 - Fit: Slim
+- Manga: Larga
+- Cuello: Redondo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FPDFQZFS{{</world>}}

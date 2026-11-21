@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Amortiguación ultraligera
 - Máxima amortiguación
+- Lavable a máquina
 - Tecnología Natural Rocker
 - Tecnología Goga Mat
-- Lavable a máquina
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DW9H76YM{{</world>}}

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Martiderm cover dsp stick
-- Corrector para la cara
 - SPF 50+
+- Corrector para la cara
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00M75ET2Q{{</world>}}

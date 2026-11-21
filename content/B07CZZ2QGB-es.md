@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ingredientes clave: 10000 ppm de Ceramida NP, 50% de Centella Asiatica agua de la hoja, y 500 ppm de extracto de Centella Asiatica grado médico
-- Estándares de COSRX: todos los productos de COSRX se elaboran con ingredientes respetuosos que calman la piel irritada. Son hipoalergénicos, se someten a pruebas dermatológicas, no están probados en animales y no tienen parabenos, ni sulfatos, ni ftalatos
 - Bueno para seca, mixta, y la piel sensible. Proporciona calmante, cicatrizante, hidratante, y beneficios de protección.
 - Una crema hidratante facial ligera que suaviza la piel irritada, mientras que la protección de barrera de la piel
+- Ingredientes clave: 10000 ppm de Ceramida NP, 50% de Centella Asiatica agua de la hoja, y 500 ppm de extracto de Centella Asiatica grado médico
+- Estándares de COSRX: todos los productos de COSRX se elaboran con ingredientes respetuosos que calman la piel irritada. Son hipoalergénicos, se someten a pruebas dermatológicas, no están probados en animales y no tienen parabenos, ni sulfatos, ni ftalatos
 - Adecuado para todo tipo de piel (grasa, seca, deshidratada, combinación, piel sensible)
 
 [🛒 Visítala!!!]({{< param buyurl >}})

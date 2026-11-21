@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Empeine de ante
 - Cierre de cordones
+- Empeine de ante
 - Forro textil
 - Horma clásica
 

@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mediasuela Cloudfoam
+- Cierre de cordones
 - Horma clásica
+- Suela de TPU
+- Mediasuela Cloudfoam
 - Peso: 319 g (talla 42 2/3)
+- Forro textil
 - Drop: 6 mm (talón: 35 mm / antepié: 29 mm)
 - Empeine textil
-- Forro textil
-- Cierre de cordones
-- Suela de TPU
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DHXGF3VF{{</world>}}

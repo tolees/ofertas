@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- piel
-- Plano
 - Scratch
 - Medio
+- Plano
+- piel
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07ST2HJ9X{{</world>}}

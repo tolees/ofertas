@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fit: Loose
-- Cuello: en V
-- Manga: Larga
 - Desigual
-- Estampado floral
+- Fit: Loose
 - Largo: Corto
+- Estampado floral
+- Manga: Larga
+- Cuello: en V
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DW9H1RRX{{</world>}}

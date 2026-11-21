@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Este producto es original Levis
 - Con su emblemático corte recto y su característica bragueta con botones
 - Jeans azules originales desde 1873
-- Este producto es original Levis
 - Un lienzo en blanco para la expresión propia
 
 [🛒 Visítala!!!]({{< param buyurl >}})

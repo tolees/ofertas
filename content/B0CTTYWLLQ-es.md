@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Doble voltaje (100/110 V y 220/240 V) - Uso en todos los países
 - Placa de acero inoxidable de 1000 W - Golpe de vapor de 80 g - Depósito de 50 cl
 - Compacto y ligero pesa sólo 560 g - Ideal para llevar de viaje
+- Doble voltaje (100/110 V y 220/240 V) - Uso en todos los países
 - Práctico maletín de viaje incluido
 - Asa plegable - Ocupa muy poco espacio
 

@@ -30,12 +30,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Plantilla OrthoLite y membrana de GORE-TEX
 - Peso: 430,1 g (talla 38 2/3)
-- Corte clásico
-- Mediasuela de EVA LIGHTMOTION
-- Desnivel de la mediasuela: 12 mm (talón: 32 mm, antepié: 20 mm)
-- Suela con compuesto de caucho Continental
 - Cierre de cordones
+- Suela con compuesto de caucho Continental
 - Empeine de tejido ripstop con refuerzos
+- Corte clásico
+- Desnivel de la mediasuela: 12 mm (talón: 32 mm, antepié: 20 mm)
+- Mediasuela de EVA LIGHTMOTION
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DHVRN769{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Disponible en 5 tonos diferentes
 - Fórmula con péptidos, Vitamina C y ácido hialurónico para un cuidado espectacular
-- Reduce la apariencia de arrugas e ilumina la piel
 - Corrector que disimula y cuida la piel
 - Óptima hidratación para un acabado suave y visiblemente radiante
-- Disponible en 5 tonos diferentes
+- Reduce la apariencia de arrugas e ilumina la piel
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B36JRYXL{{</world>}}

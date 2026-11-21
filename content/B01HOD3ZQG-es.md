@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- TU RUTINA FORTALECEDORA: Aplica la mascarilla en el pelo húmedo o seco y déjala actuar 30 min, luego aclara. Úsalo junto con el champú, acondicionador Leave-In y la mascarilla Strengthen & Restore
-- FÓRMULA ÉTICA Y NATURAL: Enriquecida con aceite de ricino negro jamaicano, manteca de Karité orgánica y aceite de menta piperita. Sin pruebas en animales, no contiene siliconas ni sulfatos
-- CABELLO RIZADO TRATADO: Si tu pelo está debilitado por tratamientos y calor, o si lo tienes rizado u ondulado seco, esta mascarilla es la solución. Suaviza, da elasticidad y facilita el peinado
 - CONTENIDO: 1x SheaMoisture Mascarilla Strengthen & Restore, Cabello Tratado y Debilitado, Fortalece y Repara, Hidratación Intensa, Aceite de Ricino Negro Jamaicano y Manteca de Karité, 355 ml
+- FÓRMULA ÉTICA Y NATURAL: Enriquecida con aceite de ricino negro jamaicano, manteca de Karité orgánica y aceite de menta piperita. Sin pruebas en animales, no contiene siliconas ni sulfatos
+- TU RUTINA FORTALECEDORA: Aplica la mascarilla en el pelo húmedo o seco y déjala actuar 30 min, luego aclara. Úsalo junto con el champú, acondicionador Leave-In y la mascarilla Strengthen & Restore
 - CABELLO SUAVE Y FÁCIL DE PEINAR: La mascarilla Strengthen & Restore de SheaMoisture refuerza el pelo poroso y dañado, reduce la rotura para un pelo más sano, hidratado, fuerte y fácil de peinar
+- CABELLO RIZADO TRATADO: Si tu pelo está debilitado por tratamientos y calor, o si lo tienes rizado u ondulado seco, esta mascarilla es la solución. Suaviza, da elasticidad y facilita el peinado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01HOD3ZQG{{</world>}}

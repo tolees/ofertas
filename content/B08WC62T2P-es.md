@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'POP Funko Disney Villains: Maleficent | Merchandising Oficial de Cartoon/Animation - Figura de Vinilo Coleccionable para Decoración - Regalo Friki de Cumpleaños'
-date: 2026-11-19 06:12:14
+date: 2026-11-21 02:59:16
 image: 'https://m.media-amazon.com/images/I/51x4RqTVwjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08WC62T2P/?tag=tolees-21'
 descuento: '40.75'
-average: '12.542222222222177'
+average: '11.985454545454509'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apto para pieles sensibles. No incluye conservantes, parabenos ni ftalatos. Producto no comedogénico.
 - Gel textura aceite no graso para cuerpo y rostro, hidratante, reparador y regenerador de la piel seca. Uso indicado para mujer y hombre.
+- Apto para pieles sensibles. No incluye conservantes, parabenos ni ftalatos. Producto no comedogénico.
 - Uso diario, en cuerpo y rostro. Puedes aplicarlo las veces que sean necesarias.
 - Favorece el tratamiento de la sequedad que causa la dermatitis atópica, psoriasis, ictiosis, eccemas, etc.
 - Para una máxima absorción, debe aplicarse sobre la piel limpia después de la ducha.

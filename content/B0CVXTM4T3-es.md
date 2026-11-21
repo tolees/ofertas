@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Extras: default
+- Ausschnitt: default
+- Mannschaft: default
 - Futter: default
 - Gattung: Handschuh
-- Mannschaft: default
-- Ausschnitt: default
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CVXTM4T3{{</world>}}

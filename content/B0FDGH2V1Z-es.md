@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Camiseta de cuello redondo, con el bajo ajustable
 - El tejido principal contiene al menos un 50% de fibras de poliéster reciclado
-- Conjunto de camisa de manga larga y pantalón
 - Pantalón largo tipo skinny, con cinturilla elástica y puños en los bajos
+- Conjunto de camisa de manga larga y pantalón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FDGH2V1Z{{</world>}}

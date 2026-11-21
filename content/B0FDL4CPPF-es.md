@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cinta distintiva en la parte interior del cuello
 - Piqué de algodón elástico
 - Tapeta de dos botones
+- Cinta distintiva en la parte interior del cuello
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FDL4CPPF{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Camiseta de manga corta
 - Adecuada para un look relajado
 - Con un discreto logo en la parte izquierda del pecho
+- Camiseta de manga corta
 - Cuello redondo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

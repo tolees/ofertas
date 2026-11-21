@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Número de modelo: 1505222
 - Chino
+- Número de modelo: 1505222
 - Cierre: gancho y ojal
 - Alto porcentaje de algodón
 

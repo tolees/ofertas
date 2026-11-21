@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantilla acolchada
-- Botin piel trenzada
 - moda y confort
+- Botin piel trenzada
+- Plantilla acolchada
 - piel trenzada artesanalmente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

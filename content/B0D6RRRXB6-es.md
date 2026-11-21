@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Composición: 81 por ciento algodón 18 por ciento poliéster 1 por ciento elastano
+- Tipo de estiramiento: Medium Stretch
 - Instrucciones de cuidado: lavable a máquina
+- Composición: 81 por ciento algodón 18 por ciento poliéster 1 por ciento elastano
 - Ajuste: Slim
 - Jeans Pantalones Largos
-- Tipo de estiramiento: Medium Stretch
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6RRRXB6{{</world>}}

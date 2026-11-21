@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Prenda de vestimenta
-- Tiene destalles distintivos de la marca
 - Para uso diario
+- Tiene destalles distintivos de la marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B019OEKMGE{{</world>}}

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Punta redonda
-- Ligeras
 - No es resistente al agua
+- Ligeras
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CB22LRKY{{</world>}}

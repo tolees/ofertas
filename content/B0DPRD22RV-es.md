@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Horma clásica
-- Cierre de cordones
-- Empeine de piel y material sintético
 - Forro textil
+- Empeine de piel y material sintético
 - Empeine perforado
+- Cierre de cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DPRD22RV{{</world>}}

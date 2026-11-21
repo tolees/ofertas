@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Electrolux Horno Multifunción Pirólisis Inox S5000 EOF6P54TX | Horno SurroundCook de 9 funciones 3 ciclos de pirólisis de gran capacidad con pantalla LED blanca y mandos escamoteables'
-date: 2026-11-17 18:07:17
+date: 2026-11-21 00:33:56
 image: 'https://m.media-amazon.com/images/I/41UIhHroAzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CVHHY1F9/?tag=tolees-21'
 descuento: '39.24'
-average: '306.33499999999953'
+average: '282.84421052631541'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

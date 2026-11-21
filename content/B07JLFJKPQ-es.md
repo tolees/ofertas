@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL Family Fun 70088 Caravana de Verano A Partir de 4 años'
-date: 2026-11-19 07:13:23
+date: 2026-11-20 17:17:28
 image: 'https://m.media-amazon.com/images/I/51yTaSuK-fL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JLFJKPQ/?tag=tolees-21'
 descuento: '49.69'
-average: '45.967760736196127'
+average: '45.880701219512005'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

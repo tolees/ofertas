@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Respirable
 - Corte normal
+- Respirable
 - Tecnología Dri-Fit
 
 [🛒 Comprar!!!]({{< param buyurl >}})

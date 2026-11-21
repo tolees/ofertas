@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- SET DÚO SOLAR: combina el Aceite Solar Sedoso SPF30 150 ml, con protección alta UVB/UVA, y el Gel Refrescante Aftersun75 ml REGALO, hidratante, calmante y sublimador del bronceado. Un dúo para rostro y cuerpo para una piel radiante todo el verano.
+- BENEFICIOS: El Aceite Solar Sedoso SPF30 protege la piel de los rayos UV, actúa como tratamiento antiedad y sublima el bronceado gracias a su textura satinada. El Gel Refrescante Aftersun hidrata intensamente, calma la piel y ayuda a preservar la luminosidad del bronceado día tras día.
 - APLICACIÓN: El Aceite Solar Sedoso SPF30: Aplicar generosamente sobre todo el cuerpo antes de cada exposición al sol. Renovar cada 2 horas o después de nadar, sudar o secarse. El Gel Refrescante Aftersun: Tras la exposición, aplicar sobre piel limpia y seca. Prestar especial atención a los hombros, el escote y todas las zonas que se quieran realzar.
 - FÓRMULA AVANZADA: El Aceite Solar Sedoso SPF30 combina un sistema de filtros de amplio espectro y flavonoides vegetales para combatir el fotoenvejecimiento. Enriquecido con alga parda y aceites vegetales (macadamia, jojoba, girasol), nutre y protege la piel. El Gel Refrescante Aftersun, con alga roja y hamamelis, calma, hidrata y prolonga el bronceado al mismo tiempo que preserva la juventud de la piel.
-- BENEFICIOS: El Aceite Solar Sedoso SPF30 protege la piel de los rayos UV, actúa como tratamiento antiedad y sublima el bronceado gracias a su textura satinada. El Gel Refrescante Aftersun hidrata intensamente, calma la piel y ayuda a preservar la luminosidad del bronceado día tras día.
+- SET DÚO SOLAR: combina el Aceite Solar Sedoso SPF30 150 ml, con protección alta UVB/UVA, y el Gel Refrescante Aftersun75 ml REGALO, hidratante, calmante y sublimador del bronceado. Un dúo para rostro y cuerpo para una piel radiante todo el verano.
 - MARCA VANGUARDISTA: Desde 1975, Lierac combina ciencia, experiencia y sensorialidad, consolidándose como pionera en dermocosmética.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

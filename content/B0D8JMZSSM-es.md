@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Una prenda supersuave con cuello en pico que combina bien con todo
 - LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
+- Una prenda supersuave con cuello en pico que combina bien con todo
 - Con la marca característica de Levis
 
 [🛒 Aquí!!!]({{< param buyurl >}})

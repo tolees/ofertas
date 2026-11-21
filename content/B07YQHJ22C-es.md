@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Importado
-- Cordones de Zapatos
 - Suave de Llevar
+- Cordones de Zapatos
+- Importado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07YQHJ22C{{</world>}}

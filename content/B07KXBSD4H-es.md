@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con ingredientes de origen natural
 - Aporta energía extra y favorece el rendimiento físico e intelectual
+- Indicada en adultos y niños mayores de 14 años
 - Sin gluten y sin lactosa
 - Con vitaminas B1, B3, B6 y B12
-- Indicada en adultos y niños mayores de 14 años
+- Con ingredientes de origen natural
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07KXBSD4H{{</world>}}

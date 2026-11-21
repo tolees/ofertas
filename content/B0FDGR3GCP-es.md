@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Un bolso cruzado funcional para el día a día
 - ETIQUETA ROJA LEVIS: Existen diferentes variaciones de nuestra conocida etiqueta roja. Algunas dicen LEVIS, otras dicen Levis, algunas no muestran la marca en absoluto. Para ediciones especiales, a veces incluso cambiamos el color.
-- Lo diseñamos con cierre de cremallera y correa de hombro ajustable.
+- Un bolso cruzado funcional para el día a día
 - Presenta un interior espacioso con cierre de cremallera
+- Lo diseñamos con cierre de cremallera y correa de hombro ajustable.
 - Completo con capacidad de 1L
 - MATERIAL: 100% POLYAMIDE
 - Con una correa de hombro ajustable

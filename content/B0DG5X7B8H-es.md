@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mango de rueda de doble tubo
 - Cuatro ruedas
+- Mango de rueda de doble tubo
 - Logotipo en la parte delantera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

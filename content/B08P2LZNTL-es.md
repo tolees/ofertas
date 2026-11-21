@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Puzzle de 1000 piezas
-- Edad recomendada: a partir de 12 años
 - Rompecabezas SCHMIDT SPIELE Premium – con una calidad que puedes ingresar
 - Dimensiones del rompecabezas: 69,3 x 49,3 cm
+- Puzzle de 1000 piezas
+- Edad recomendada: a partir de 12 años
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08P2LZNTL{{</world>}}

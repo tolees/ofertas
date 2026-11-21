@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cierre: Cordones
 - Material de la suela: Goma
-- Tipo de tacón: Plano
 - Revestimiento: Tela
 - Anchura del zapato: Mediano
+- Tipo de tacón: Plano
 - Material exterior: Malla
-- Cierre: Cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07FBR11GV{{</world>}}

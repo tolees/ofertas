@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para decorar y escribir sobre tejidos, por ejemplo sobre camisetas infantiles, cojines o bolsas de tela; la punta redonda de 2-3 mm es ideal para colorear
-- Tinta resistente a la luz y a lavados de hasta 60 °C. Se puede fijar con calor utilizando la plancha (sin vapor). Casi inodora, de secado rápido
-- Los marcadores de textiles de edding están disponibles en 20 colores brillantes; para líneas más precisas prueba el rotulador textil delgado edding 4600
 - El blíster contiene 4 marcadores textiles en naranja, verde pálido, violeta y rosa
 - Rotulador textil para obtener resultados duraderos y resistentes al lavado sobre la mayoría de tejidos de color claro, como algodón, seda y lino
+- Los marcadores de textiles de edding están disponibles en 20 colores brillantes; para líneas más precisas prueba el rotulador textil delgado edding 4600
+- Tinta resistente a la luz y a lavados de hasta 60 °C. Se puede fijar con calor utilizando la plancha (sin vapor). Casi inodora, de secado rápido
+- Para decorar y escribir sobre tejidos, por ejemplo sobre camisetas infantiles, cojines o bolsas de tela; la punta redonda de 2-3 mm es ideal para colorear
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07CPP6TSB{{</world>}}

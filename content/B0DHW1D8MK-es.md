@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Horma clásica
-- Empeine de tejido ripstop con refuerzos
 - Cierre de cordones
 - Plantilla OrthoLite
+- Horma clásica
+- Empeine de tejido ripstop con refuerzos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DHW1D8MK{{</world>}}

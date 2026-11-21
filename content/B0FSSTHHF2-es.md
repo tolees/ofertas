@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Empeine de piel
-- Cierre de cordones
-- Horma clásica
 - Forro textil
+- Empeine de piel
+- Horma clásica
+- Cierre de cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FSSTHHF2{{</world>}}

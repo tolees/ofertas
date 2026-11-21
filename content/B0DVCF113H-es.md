@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Detalles en glitter
-- Detalles bordados
+- Cuello: Redondo
 - Desigual
+- Detalles bordados
 - Manga: Larga
 - Colección AW25
-- Cuello: Redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DVCF113H{{</world>}}

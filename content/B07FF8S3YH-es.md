@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Diseño de tenis de entrenamiento atlético con cordones
 - Tacón de 1 pulgada
-- Parte superior de cuero liso, sintético y malla
 - Suela de tracción de goma flexible
+- Parte superior de cuero liso, sintético y malla
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07FF8S3YH{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Piel de cerdo y parte superior de malla
-- La lengüeta de fuelle mantiene fuera los desechos
 - MERRELL MOAB 3 GTX BLACK PARA MUJER TALLA 36
+- La lengüeta de fuelle mantiene fuera los desechos
+- Piel de cerdo y parte superior de malla
 - Cordones 100% reciclados, correas y forro de malla
 - Puntera protectora y suela de goma Vibram TC5+
 

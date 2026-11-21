@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Superabsorbente – La microfibra absorbente de esta funda para mopa profesional llega a espacios microscópicos para limpiar toda la suciedad y absorber el agua.
 - Lavable a máquina – El recambio para mopa Leifheit puede lavarse a 60 °C hasta 200 veces sin perder sus propiedades limpiadoras, por lo que siempre está listo para usar.
 - Fácil de colocar – Para mayor comodidad de uso, la funda lavable se coloca de forma fácil y rápida mediante dos bolsillos y queda perfectamente fijada a la mopa.
-- Limpieza completa – Gracias al sistema de dos fibras, el recambio para mopa friegasuelos disuelve la suciedad absorbiendo al mismo tiempo el agua sucia.
 - Envío – Leifheit Recambio para mopas de limpieza Easy Spray XL micro dúo, apto para todo tipo de suelos lisos, con una anchura de pasada de 42 cm, número de artículo: 57501
+- Limpieza completa – Gracias al sistema de dos fibras, el recambio para mopa friegasuelos disuelve la suciedad absorbiendo al mismo tiempo el agua sucia.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B003A5LDXA{{</world>}}

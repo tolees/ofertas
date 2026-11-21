@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cada pack incluye 24 latas de 330 ml, para que puedas compartir con amigos o disfrutar de momentos tranquilos en casa
-- Coca-Cola Zero Azúcar Sabor Cherry es la bebida ideal para quienes quieren disfrutar del clásico sabor de Coca-Cola sin agregar azúcar
 - Disfruta el refrescante sabor de Coca-Cola Zero sabor cherry, sin azúcar ni calorías, con fenilalanina y el inconfundible sabor de Coca-Cola Original
 - Desde 2006 Coca-Cola Zero Azúcar ha refrescado el mundo con su sabor único, disfruta cada momento con una bebida sin calorías y siente la chispa de la felicidad
+- Coca-Cola Zero Azúcar Sabor Cherry es la bebida ideal para quienes quieren disfrutar del clásico sabor de Coca-Cola sin agregar azúcar
+- Cada pack incluye 24 latas de 330 ml, para que puedas compartir con amigos o disfrutar de momentos tranquilos en casa
 - Nos preocupa el medio ambiente tanto como a ti, por eso nuestros envases son 100% reciclables, tíralos al contenedor amarillo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

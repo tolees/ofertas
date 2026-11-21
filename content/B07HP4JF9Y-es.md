@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Básicos, Festival
 - Ajuste : Normal
 - Chaleco || Ajuste normal || Color intenso || Material duradero
-- Descubre todas las marcas de EMP!
-- Básicos, Festival
 - Chaleco con las siguientes características:
+- Descubre todas las marcas de EMP!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07HP4JF9Y{{</world>}}

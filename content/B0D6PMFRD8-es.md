@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela de tracción flexible
 - Entresuela de cuña oculta
+- Suela de tracción flexible
 - Skechers Detalle del logotipo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

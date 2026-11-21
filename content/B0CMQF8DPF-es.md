@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño moderno
 - Se ajustan de manera óptima
+- Diseño moderno
 - Tiene detalles distintivos de la marca
 
 [🛒 Aquí!!!]({{< param buyurl >}})

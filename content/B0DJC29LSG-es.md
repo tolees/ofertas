@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Entresuela y suela de goma
 - Puma Tira de forma en los lados lateral y medial
 - Parte superior de piel sintética
-- Entresuela y suela de goma
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DJC29LSG{{</world>}}

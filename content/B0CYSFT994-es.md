@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela de goma
 - Amortiguación Lightstrike
-- Empeine de malla transpirable
-- Horma clásica
-- Plantilla moldeada
-- Cierre de cordones
 - Estabilizador de TPU en el talón
+- Cierre de cordones
+- Suela de goma
 - Contiene al menos un 20% de material reciclado
+- Horma clásica
+- Empeine de malla transpirable
+- Plantilla moldeada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CYSFT994{{</world>}}

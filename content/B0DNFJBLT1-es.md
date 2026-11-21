@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CORTE ESTÁNDAR: Ajuste regular a través de la abertura de la cadera, el muslo y la pierna. Se ajusta por debajo de la cintura natural
 - DETALLES: cintura elástica para una mayor flexibilidad y con cordón (cordón falso para la talla infantil)
 - JERSEY DE ALGODÓN: el diseño de 100% algodón proporciona transpirabilidad natural para un uso cómodo
 - JERSEY DE ALGODÓN: el diseño de 100% algodón proporciona transpirabilidad natural para un uso cómodo
+- CORTE ESTÁNDAR: Ajuste regular a través de la abertura de la cadera, el muslo y la pierna. Se ajusta por debajo de la cintura natural
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DNFJBLT1{{</world>}}

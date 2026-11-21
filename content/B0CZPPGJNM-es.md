@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Material Principal: 93% Algodón / 7% Elastano
+- Corte ajustado
 - Talle medio
 - Cintura elástica
-- Corte ajustado
-- Material Principal: 93% Algodón / 7% Elastano
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZPPGJNM{{</world>}}

@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Manga : Manga corta
 - Artículo : Polo
 - Corte : Corte regular
-- Cuello : Polo
-- Modo de vida : Tradicional
-- Manga : Manga corta
 - Detalles : Insignia
+- Modo de vida : Tradicional
+- Cuello : Polo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F8JW37V2{{</world>}}

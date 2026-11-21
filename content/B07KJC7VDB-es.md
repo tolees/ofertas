@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Descubre todas las marcas de EMP!
 - Jersey de Punto || Ajuste normal || Color intenso || Material duradero
-- Jersey de punto con las siguientes características:
-- Básicos
 - Ajuste : Regular
+- Jersey de punto con las siguientes características:
+- Descubre todas las marcas de EMP!
+- Básicos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07KJC7VDB{{</world>}}

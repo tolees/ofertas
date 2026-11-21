@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño de ojal actualizado
-- Superior de cuero
 - Cuello acolchado y cosido
+- Diseño de ojal actualizado
 - Cierre de cordones para un ajuste cómodo
+- Superior de cuero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BLCYV546{{</world>}}

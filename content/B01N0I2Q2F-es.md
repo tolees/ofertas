@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir - Sushi Go Party Juego de Mesa de Cartas con Amigos para Fiestas 8 años Edición Expandida del Juego Sushi Go BGSGPARTY'
-date: 2026-11-17 09:53:22
+date: 2026-11-21 14:27:40
 image: 'https://m.media-amazon.com/images/I/519o8H6hODL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N0I2Q2F/?tag=tolees-21'
 descuento: '38.46'
-average: '19.935714285714234'
+average: '19.756818181818133'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

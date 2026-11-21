@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Desarrolla la memoria
-- Un kit de juegos para aprender formas, colores, números, y desarrollar la memoria y el pensamiento lógico
-- A través de las distintas fichas, podrán aprender y practicar con distintos conceptos
-- Aprende los colores, las formas, los números de una forma divertida
-- 8 juegos diferentes, con distintos materiales didácticos
-- Estimula el pensamiento lógico
 - Juego en español, a partir de 3 años
 - Desarrolla la capacidad de concentración
+- A través de las distintas fichas, podrán aprender y practicar con distintos conceptos
+- Estimula el pensamiento lógico
+- Desarrolla la memoria
+- 8 juegos diferentes, con distintos materiales didácticos
+- Aprende los colores, las formas, los números de una forma divertida
+- Un kit de juegos para aprender formas, colores, números, y desarrollar la memoria y el pensamiento lógico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00LO5VLN0{{</world>}}

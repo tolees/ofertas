@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bizak Desafío Everest 25 Años Escalada en el Hielo +5 Años 35001943'
-date: 2026-11-19 13:10:33
+date: 2026-11-20 18:13:59
 image: 'https://m.media-amazon.com/images/I/51eKirpAsQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

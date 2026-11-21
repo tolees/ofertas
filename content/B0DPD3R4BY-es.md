@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- zapato de tacón alto
 - Cierre de hebilla
+- zapato de tacón alto
 - 100% cuero
 
 [🛒 Comprar!!!]({{< param buyurl >}})

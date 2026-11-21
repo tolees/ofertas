@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'G-STAR Vaqueros Pleated Chino Relaxed Tapered para Hombre Multicolor india ink/ganache hb D24543-D731-H615 30W / 32L'
-date: 2026-11-19 13:25:05
+date: 2026-11-20 23:45:24
 image: 'https://m.media-amazon.com/images/I/31qAWT+WU9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

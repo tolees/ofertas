@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Lámpara de advertencia de alta temperatura
-- Función antireinicio
-- Base cuadrada de plástico transparente para una visión clara del borde a recortar; 82 x 90 mm y carcasa de plástico
 - Lámpara LED para indicar el desbloqueo
-- Ajuste de profundidad suave y preciso, mecanismo de cremallera y piñón
-- Botón de bloqueo/desbloqueo con modo de espera de encendido/apagado
 - Interruptor de encendido de botón
+- Botón de bloqueo/desbloqueo con modo de espera de encendido/apagado
+- Lámpara de advertencia de alta temperatura
+- Ajuste de profundidad suave y preciso, mecanismo de cremallera y piñón
+- Base cuadrada de plástico transparente para una visión clara del borde a recortar; 82 x 90 mm y carcasa de plástico
 - Portabrocas de 6 / 6,35 mm / ¼"
+- Función antireinicio
 - Capacidad de inmersión de 0 a 42 mm
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Punta de fibra cónica. Flujo de tinta constante gracias al sistema TPF
 - Color negro
 - No es necesario bombearlo
+- Punta de fibra cónica. Flujo de tinta constante gracias al sistema TPF
 - Rotulador para pizarra blanca. Realizado con materiales reciclados
 
 [🛒 Visítala!!!]({{< param buyurl >}})

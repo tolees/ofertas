@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Letras impresas en la parte delantera del pecho
-- Camiseta deportiva de Lonsdale
-- Corte regular
 - Fabricada con tejido mixto de alta calidad con elastano
 - Estampado integral
+- Corte regular
+- Camiseta deportiva de Lonsdale
+- Letras impresas en la parte delantera del pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F43VMDMS{{</world>}}

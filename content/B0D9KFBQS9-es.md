@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cintura elástica visible
 - Cintura media
+- Cintura elástica visible
 - Cómodo jersey de algodón con porcentaje de elastano
 
 [🛒 Comprar!!!]({{< param buyurl >}})

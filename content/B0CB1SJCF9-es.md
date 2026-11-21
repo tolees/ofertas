@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela flexible de tracción
 - Punta redonda
 - Cómodos
+- Suela flexible de tracción
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CB1SJCF9{{</world>}}

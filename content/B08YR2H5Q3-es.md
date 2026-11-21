@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Cesta no incluida
 - Baterías: 2xaa (no incluidas)
-- 8 tornillos incluidos
 - En pausa para el café desafía a tus colegas con magia shot, la canasta sonora de lazos! arruga el papel, prepárate para el lanzamiento, tira y cesta! cada canasta se reproducirá el efecto sonoro de una multitud que aclama
+- 8 tornillos incluidos
 - Enganche el juego a casi cesta con borde plano
 
 [🛒 Aquí!!!]({{< param buyurl >}})

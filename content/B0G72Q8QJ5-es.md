@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Batman: El Legado del Caballero Oscuro - PS5'
-date: 2026-11-19 10:35:15
+date: 2026-11-20 22:48:48
 image: 'https://m.media-amazon.com/images/I/51rommoKl0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0G72Q8QJ5/?tag=tolees-21'
 descuento: '36.24'
-average: '56.254615384615462'
+average: '55.514814814814883'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

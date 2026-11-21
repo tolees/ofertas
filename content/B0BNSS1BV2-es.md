@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Horma clásica
+- Forro sintético
 - Suela de goma
 - Cierre de cordones
-- Forro sintético
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BNSS1BV2{{</world>}}

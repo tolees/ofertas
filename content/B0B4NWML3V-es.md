@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forma del tacón: sin tacón
 - Material interior: sintético
+- Forma del tacón: sin tacón
 - Suela: Caucho
 - Material exterior: poliéster
 

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido: tejido suave, elástico y resistente
-- De secado rápido
 - Serigrafía estampada en el pecho
+- Tejido: tejido suave, elástico y resistente
 - Tiene manga corta
+- De secado rápido
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08R129HZV{{</world>}}

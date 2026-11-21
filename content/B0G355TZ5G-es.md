@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este modelo tiene un tallaje pequeño. Recomendamos comprar una o dos tallas más de lo habitual.
 - Con Wide Leg recta
-- Un corte holgado en la cadera y el muslo
 - El tiro bajo ha llegado para quedarse y nuestros favorecedores jeans Low Loose lo demuestran. Con un versátil tiro bajo y una pierna recta y ancha, son un estilo Y2K retro que resulta lo bastante sutil para llevar a diario.
+- Un corte holgado en la cadera y el muslo
+- Este modelo tiene un tallaje pequeño. Recomendamos comprar una o dos tallas más de lo habitual.
 - Jeans de tiro bajo inspirados en el estilo de antaño
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

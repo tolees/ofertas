@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Una deliciosa fusión de intensas burbujas y aroma natural a limón para un sabor muy refrescante
+- Optima para refrescarse en cualquier momento del día; servir bien fría
 - 0% azúcares, 0% edulcorantes, solo aromas naturales
 - 4 Packs de 6 botellas de 50 cl PET; total: 24 botellas
 - Una alternativa saludable a los refrescos
-- Optima para refrescarse en cualquier momento del día; servir bien fría
-- Una deliciosa fusión de intensas burbujas y aroma natural a limón para un sabor muy refrescante
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CYTF8GDC{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crimson Desert Standard Edition - PS5'
-date: 2026-11-19 11:20:17
+date: 2026-11-20 19:06:41
 image: 'https://m.media-amazon.com/images/I/51lgW5QPv-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0H4GBLFW6/?tag=tolees-21'
 descuento: '42.26'
-average: '44.7'
+average: '43.269999999999996'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

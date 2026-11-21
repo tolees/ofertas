@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte superior de lona 170 g
-- Construcción vulcanizada
 - Logotipo impreso HD
+- Construcción vulcanizada
+- Parte superior de lona 170 g
 - Suela de goma pegajosa resistente a la abrasión
 
 [🛒 Comprar!!!]({{< param buyurl >}})

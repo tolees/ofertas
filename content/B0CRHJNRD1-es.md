@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'H&S Apple Fresh Champú Anticaspa Todo Tipo de Pelo y Cuero Cabelludo 2x1L | Con Dispensador Hasta 100% de Protección contra la Caspa Apto para Uso Diario'
-date: 2026-11-20 15:57:36
+date: 2026-11-20 16:07:51
 image: 'https://m.media-amazon.com/images/I/4113ZANSOdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CRHJNRD1/?tag=tolees-21'
 descuento: '37.99'
-average: '16.911025641025564'
+average: '16.875499999999924'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

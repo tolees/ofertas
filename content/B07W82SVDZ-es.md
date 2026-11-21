@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Training
 - Nike
 - Sportware
-- Training
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07W82SVDZ{{</world>}}

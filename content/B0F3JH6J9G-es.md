@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre de cremallera
 - 100% poliéster (100% reciclado)
+- Cierre de cremallera
 - Corte entallado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

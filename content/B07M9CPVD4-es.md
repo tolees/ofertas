@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Soporte de pared; para una colocación limpia en la pared
+- Cargador rápido; carga la batería de 18 V/2.5 Ah Kärcher baterías Power hasta el 80 % en 44 minutos; carga la batería de 18 V/5.0 Ah Kärcher baterías Power hasta el 80 % en 94 minutos
 - Uso versátil
 - Compatible con la batería de 18 V/2.5 Ah y la batería de 18 V/5.0 Ah de la plataforma de baterías de 18 V Kärcher baterías Power
-- Cargador rápido; carga la batería de 18 V/2.5 Ah Kärcher baterías Power hasta el 80 % en 44 minutos; carga la batería de 18 V/5.0 Ah Kärcher baterías Power hasta el 80 % en 94 minutos
+- Soporte de pared; para una colocación limpia en la pared
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07M9CPVD4{{</world>}}

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cierre de cordones
-- Ancho regular
 - Tira PUMA Formstrip en los lados laterales
-- Puntera en T y talón de gamuza
+- Ancho regular
 - Suela de goma
+- Puntera en T y talón de gamuza
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DJ9KK8ZG{{</world>}}

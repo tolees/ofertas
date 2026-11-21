@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - __Fit:__ Snug fit
 - __UV protection:__ UPF 50 sun protection
-- Moisture wicking
 - Chlorine resistant
+- Moisture wicking
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B6PX491K{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'REDMI Note 17 Pro 5G Smartphone 8+512GB Negro batería de 8340mAh | Cámara OIS de 50 MP carga de 67 W Snapdragon® 6s Gen 4 pantalla flagship de 3500 nits HyperAI'
-date: 2026-11-18 16:34:28
+date: 2026-11-21 04:11:07
 image: 'https://m.media-amazon.com/images/I/41AyjXDEy3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0H4H89QXV/?tag=tolees-21'
 descuento: '36.37'
-average: '384.14095238095183'
+average: '382.58454545454492'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

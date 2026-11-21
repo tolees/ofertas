@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte holgado
 - Bolsillo trasero con solapa
+- Corte holgado
 - Perneras anchas
-- 100% poliamida (reciclada)
 - Cintura elástica con cierre de cordón elástico
+- 100% poliamida (reciclada)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZPCFMCF{{</world>}}

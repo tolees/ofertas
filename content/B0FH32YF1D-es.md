@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mangas : Sisa en disminución
-- Detalles : Detalles de bordado
-- Manga : Manga corta
-- Cuello : Cuello redondo
 - Modo de vida : Tradicional
-- Artículo : Camiseta
+- Mangas : Sisa en disminución
 - Corte : Corte relaxed
+- Artículo : Camiseta
+- Detalles : Detalles de bordado
+- Cuello : Cuello redondo
+- Manga : Manga corta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FH32YF1D{{</world>}}

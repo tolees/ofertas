@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte ajustado
 - 87% poliéster (reciclado) / 13% elastano
-- Cintura elástica con cordón
 - Bolsillos laterales con cremallera
 - Puños con cordón elástico ajustable
+- Corte ajustado
+- Cintura elástica con cordón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZPD1LVS{{</world>}}

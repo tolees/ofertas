@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Un juego de cartas tipo Rummy con un toque desafiante y emocionante
 - Edad 8 +
 - De los creadores de UNO
+- Un juego de cartas tipo Rummy con un toque desafiante y emocionante
 - Gran juego de la familia
 - 2-6 Jugadores
 

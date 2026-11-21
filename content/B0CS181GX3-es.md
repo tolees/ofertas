@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ancho ajustable, cordón elástico en el interior
 - Cierre de cremallera con cortavientos debajo
-- Puño con acabado interior elástico
 - Bolsillos con cremallera detrás de los bolsillos de la cintura con botones a presión
 - Capucha ampliada con parte delantera alzada y cordones ajustables
+- Puño con acabado interior elástico
+- Ancho ajustable, cordón elástico en el interior
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CS181GX3{{</world>}}

@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Escote redondeado
-- Diseño estilizado con ajuste de compresión
-- AEROREADY
-- Copas extraíbles con puntos antideslizantes
 - Corte ajustado
 - Compresión baja/media
+- AEROREADY
+- Diseño estilizado con ajuste de compresión
+- Copas extraíbles con puntos antideslizantes
+- Escote redondeado
 - Tirante central en la espalda
-- 73% poliéster (reciclado) / 27% elastano
 - Bolsillo interior en la parte trasera
+- 73% poliéster (reciclado) / 27% elastano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CL3P8LPM{{</world>}}

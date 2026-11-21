@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- con capacidad para 200 fotos en el formato 11,5 x 15,5 cm
+- con el bolsillo archivo para un CD o las tiras de negativos
 - con cubierta de alta calidad
 - espacio para etiquetado
-- diseño moderno
+- con capacidad para 200 fotos en el formato 11,5 x 15,5 cm
 - álbum para enchufar de gran valor
-- con el bolsillo archivo para un CD o las tiras de negativos
+- diseño moderno
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0045NYI4W{{</world>}}

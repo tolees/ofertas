@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- ❄️ Máxima eficiencia térmica – Radiador de 360 mm con excelente capacidad de disipación para CPUs de alto rendimiento.
 - 🔇 Silencio garantizado – Ventiladores PWM de alto rendimiento con bajo nivel de ruido, incluso bajo carga.
 - 🖥️ Compatibilidad total – Soporte para Intel LGA 1700/1200/115X y AMD AM5/AM4, preparado para el futuro.
-- ❄️ Máxima eficiencia térmica – Radiador de 360 mm con excelente capacidad de disipación para CPUs de alto rendimiento.
+- 🌈 Iluminación ARGB espectacular – Tres ventiladores con efectos personalizables compatibles con Mystic Light.
 - 🤍 Diseño blanco premium – Perfecto para configuraciones blancas, setups minimalistas o estéticos.
 - 🔧 Instalación sencilla y sin complicaciones – Diseño modular optimizado para un montaje rápido en cualquier chasis.
-- 🌈 Iluminación ARGB espectacular – Tres ventiladores con efectos personalizables compatibles con Mystic Light.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FBRVSR1P{{</world>}}

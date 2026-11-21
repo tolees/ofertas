@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ranura elástica
 - Guantes de jugador de campo con perfil Micro-Grip
+- Ranura elástica
 - Composición: 100% poliéster
 - Cómodos de llevar
 

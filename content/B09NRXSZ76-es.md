@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Maquillaje perfeccionador, los beneficios de 4 productos en un solo paso para un acabado mate natural
 - Para un acabado natural aplica la base de maquillaje con los dedos por todo el rostro, resultados instantáneos; fácil y rápido como un filtro
 - Su textura en formato mousse aireada y tono auto modulable proporciona un acabado mate natural con una cobertura ligera
-- Maquillaje perfeccionador, los beneficios de 4 productos en un solo paso para un acabado mate natural
 - Aporta los resultados de un primer, un corrector, una BB cream y un polvo en solo 1 paso: borra poros, corrige visiblemente las imperfecciones, unifica el tono, y matifica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

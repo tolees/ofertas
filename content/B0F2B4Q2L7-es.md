@@ -29,12 +29,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Suela de goma, estructura Cold Cement
-- Logotipo lineal en la lengüeta y refuerzo del talón
 - Horma clásica
+- Logotipo lineal en la lengüeta y refuerzo del talón
 - Plantilla textil
-- Cordones
 - Empeine de material sintético
 - Diseño de perfil fino
+- Cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F2B4Q2L7{{</world>}}

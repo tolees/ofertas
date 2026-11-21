@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material: semiprecioso
 - De color negro
-- Acabado: mate
 - Tipo de cierre: control deslizante
+- Acabado: mate
+- Material: semiprecioso
 - Medidas: 16.5cm-25 cm
 
 [🛒 Visítala!!!]({{< param buyurl >}})

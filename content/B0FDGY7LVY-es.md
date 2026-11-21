@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre de cremallera
 - Acabado granulado
 - Bandolera extraíble
+- Cierre de cremallera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FDGY7LVY{{</world>}}

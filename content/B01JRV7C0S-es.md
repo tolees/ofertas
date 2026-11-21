@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tipo de deporte: No aplicable (colecciones de temporada)
+- Nombre del departamento: Unisex
 - Corona contorneada ajustada con visera curvada frontal
 - 100% poliéster tejido en marrón del equipo oficial
-- Nombre del departamento: Unisex
-- Tipo de deporte: No aplicable (colecciones de temporada)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01JRV7C0S{{</world>}}

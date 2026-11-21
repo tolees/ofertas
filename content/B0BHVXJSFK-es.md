@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Capacidad: 270 ml
 - Apta para microondas y lavavajillas
+- Capacidad: 270 ml
 - Taza divertida de cerámica con forma de unicornio.
 - Alta calidad
 

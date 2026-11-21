@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fabricado con materiales sostenibles
 - Construcción duradera
+- Fabricado con materiales sostenibles
 - Estilo clásico
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mediasuela Cloudfoam
 - Forro textil
 - Horma clásica
+- Mediasuela Cloudfoam
 - Suela de EVA
 - Empeine de piel y material sintético
 

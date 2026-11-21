@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño con amortiguación
 - Tres pares por paquete
+- Diseño con amortiguación
 - Media caña
 - Material principal: 59% algodón, 37% poliéster (100% reciclado), 3% elastano, 1% poliamida (100% reciclado)
 

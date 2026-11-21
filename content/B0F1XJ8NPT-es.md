@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Plantilla textil
 - Empeine de piel sintética
 - Suela de goma
-- Plantilla textil
 - Corte clásico
 
 [🛒 Aquí!!!]({{< param buyurl >}})

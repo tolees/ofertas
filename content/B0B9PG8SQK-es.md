@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tela: elástica, softshell en 4 direcciones
-- Bolsillo: bolsillos para las manos
-- Características: trabillas para cinturón
-- Artículos entregados: 1 x Helly Hansen Brono Softshell Shorts - Short Pebble M
 - Obra de arte - Logotipo de impresión HH
+- Bolsillo: bolsillos para las manos
+- Artículos entregados: 1 x Helly Hansen Brono Softshell Shorts - Short Pebble M
+- Características: trabillas para cinturón
+- Tela: elástica, softshell en 4 direcciones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B9PG8SQK{{</world>}}

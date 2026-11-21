@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Recomendamos una talla más grande
 - Ajuste: delgado
-- La combinación perfecta de deportividad y feminidad: los jeggings de ONLY Evoca una silueta bien formada con una calidad elástica brillante. La elasticidad garantiza un alto nivel de comodidad y resalta las piernas.
 - Flaco
+- La combinación perfecta de deportividad y feminidad: los jeggings de ONLY Evoca una silueta bien formada con una calidad elástica brillante. La elasticidad garantiza un alto nivel de comodidad y resalta las piernas.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00JIRYCNW{{</world>}}

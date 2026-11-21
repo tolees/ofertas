@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 1 gran compartimento principal con cremallera y correa de fijación (22 cm x 14 cm x 9 cm) - 1 bolsillo lateral con cremallera - 1 bolsillo trasero oculto con velcro
+- Medidas: Aprox. 31CM X 17CM X 10CM
+- Robusto 600DEN Poliéster Material - Disponible También en Muchos( Tarn Colores
 - Un accesorio práctico y elegante para actividades al aire libre, camping, senderismo, etc. Un complemento perfecto para los demás productos para exteriores de Brandit
 - Trabillas del sistema Molle - Cremalleras de alta calidad con tiradores - Gran superficie de velcro para parches - Cinturón de cadera ajustable y desmontable (máx. 135 cm), cinturón de muslo ajustable y desmontable (máx. 80 cm)
-- Robusto 600DEN Poliéster Material - Disponible También en Muchos( Tarn Colores
-- Medidas: Aprox. 31CM X 17CM X 10CM
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B084G81RKH{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre: cierre de cremallera y botón
-- Composición: 69 por ciento Bci Cotton 31 por ciento Lyocell
-- Instrucciones de cuidado: apto para lavadora
 - Ajuste: corte de pierna ancha
+- Instrucciones de cuidado: apto para lavadora
+- Composición: 69 por ciento Bci Cotton 31 por ciento Lyocell
 - Vaqueros Pantalones Largos
+- Cierre: cierre de cremallera y botón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BZTHT6R4{{</world>}}

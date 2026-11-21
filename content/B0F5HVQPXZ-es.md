@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PRESERVATIVOS EXTRA LUBRICADOS: Extra lubricado de silicona, los más lubricados de Durex
-- ADECUADO PARA SEXO ANAL: Los preservativos Perfect Connection son adecuados para sexo anal
 - TALLA GRANDE: Anchura nominal de 56 mm. Todos somos diferentes, pero la talla correcta debe hacerte sentir cómodo y seguro siempre.
+- PRESERVATIVOS EXTRA LUBRICADOS: Extra lubricado de silicona, los más lubricados de Durex
 - FORMA RECTA: Preservativos con forma recta, suave y con depósito
+- ADECUADO PARA SEXO ANAL: Los preservativos Perfect Connection son adecuados para sexo anal
 - GROSOR ELEVADO: Preservativos de grosor elevado
 - La siguiente información se aplica a cada unidad del paquete
 

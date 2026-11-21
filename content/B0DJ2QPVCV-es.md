@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- MUJER
-- Sneakers Xti 143645 Mujer Blanco
-- SNEAKERS
 - V-25
+- SNEAKERS
+- Sneakers Xti 143645 Mujer Blanco
 - BLANCO
+- MUJER
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DJ2QPVCV{{</world>}}

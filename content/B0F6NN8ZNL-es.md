@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Adecuada para superficie interior
 - Puntera redondeada
 - Cierre de cordones
-- Adecuada para superficie interior
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F6NN8ZNL{{</world>}}

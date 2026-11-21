@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Estilo retro
-- zapatos de skate
 - Diseño ligero
+- zapatos de skate
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08QBF4FG1{{</world>}}

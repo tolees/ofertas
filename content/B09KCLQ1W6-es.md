@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo "C" impreso en la costada
-- Bolsillos de rosca
-- Puños elásticos
 - Cintura ajustable con cordón
+- Logotipo "C" impreso en la costada
+- Puños elásticos
+- Bolsillos de rosca
 - Instrucciones de cuidado: lavado a máquina a 30 °c, no apto para secadora
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

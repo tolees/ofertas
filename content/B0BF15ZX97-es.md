@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Maquillaje I Heart Revolution – Máscara de pestañas waterproof Tasty Watermelon de I Heart Revolution
 - Productos de Maquillaje para Unisex Adulto
+- Maquillaje I Heart Revolution – Máscara de pestañas waterproof Tasty Watermelon de I Heart Revolution
 - Los productos de la marca I Heart Revolution están fabricados con ingredientes de la mejor calidad.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

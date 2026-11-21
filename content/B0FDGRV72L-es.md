@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- DISEÑO CLÁSICO LEVIS: El toque final para cualquier atuendo, nuestro Dillon Cinturon Estrecho presenta un diseño delgado y elegante.
-- Al comprar este producto, estás apoyando la manufactura responsable de cuero a través del Leather Working Group, que certifica las curtiembres contra su estándar de auditoría evaluando environmental, social, y governance performance.
 - MATERIAL: 100% BOVINE
 - Un cinturón de cuero de grano completo de alta calidad
 - Con un diseño angosto
+- Al comprar este producto, estás apoyando la manufactura responsable de cuero a través del Leather Working Group, que certifica las curtiembres contra su estándar de auditoría evaluando environmental, social, y governance performance.
+- DISEÑO CLÁSICO LEVIS: El toque final para cualquier atuendo, nuestro Dillon Cinturon Estrecho presenta un diseño delgado y elegante.
 - ETIQUETA ROJA LEVIS: Existen diferentes variaciones de nuestra conocida etiqueta roja. Algunas dicen LEVIS, otras dicen Levis, algunas no muestran la marca en absoluto. Para ediciones especiales, a veces incluso cambiamos el color.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

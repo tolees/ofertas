@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Amortiguación Cloudfoam
-- Contiene al menos un 20% de material reciclado
-- Suela sintética
 - Horma clásica
+- Amortiguación Cloudfoam
 - Empeine textil y sintético
 - Forro textil
+- Suela sintética
+- Contiene al menos un 20% de material reciclado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHVXNSS6{{</world>}}

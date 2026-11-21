@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Talla del zapato: Medium
 - Cierre: goma
-- Forma del talón: plano
+- Talla del zapato: Medium
 - Material exterior: textil
+- Forma del talón: plano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B005B1VY6C{{</world>}}

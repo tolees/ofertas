@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello redondo
 - Detalle delantero con logotipo
+- Cuello redondo
 - Corte relajado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

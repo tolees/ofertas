@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elegante maceta cuadrada con un bonito diseño y fácil de limpiar.
 - Es una maceta de alta calidad y resistente a las condiciones meteorológicas y rayos ultravioleta.
-- Color Mocca
+- Elegante maceta cuadrada con un bonito diseño y fácil de limpiar.
 - Es una maceta decorativa y llamativa.
+- Color Mocca
 - Destaca por su moderno aspecto a ratán y bonitos colores.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

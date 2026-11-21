@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 97 % poliéster, 3 % elastano
 - Colección primavera-verano
-- Color: Negro
+- 97 % poliéster, 3 % elastano
 - Vestido sin mangas de la colección mujer
 - Hecho en: Marruecos
+- Color: Negro
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FGK3CFQR{{</world>}}

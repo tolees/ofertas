@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Confeccionado con materiales sostenibles
+- Cuello: Barco
 - Manga: Larga
-- Desigual
 - Fit: Regular
 - Combinación de tejidos
-- Cuello: Barco
-- Confeccionado con materiales sostenibles
+- Desigual
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DW9HCHCS{{</world>}}

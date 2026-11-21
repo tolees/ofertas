@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Acabado efecto de madera
-- Cuadrada
-- Explora nuestra gama de productos
-- Tarima ducha plástico, acabado efecto madera; antideslizante
-- Protección anti-uva, tambien apta para exterior; multiusos
 - Antideslizante
+- Acabado efecto de madera
+- Tarima ducha plástico, acabado efecto madera; antideslizante
+- Explora nuestra gama de productos
+- Protección anti-uva, tambien apta para exterior; multiusos
+- Cuadrada
 - Tacos de goma en la base, mayor estabilidad y fijación
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

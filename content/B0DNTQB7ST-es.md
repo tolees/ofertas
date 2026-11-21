@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre de piel ajustable
-- Lavado a mano
 - Una gorra básica perfecta para el día a día
+- Lavado a mano
+- Cierre de piel ajustable
 - Levis 004BS-0001 Summer 100CO WVN Gorra para hombre, talla única
 
 [🛒 Visítala!!!]({{< param buyurl >}})

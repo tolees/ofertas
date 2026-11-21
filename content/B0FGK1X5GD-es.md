@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color: Azul
-- Vestido sin mangas de la colección mujer
-- Colección primavera-verano
 - Hecho en: Marruecos
+- Color: Azul
 - 92 % poliéster, 8 % elastano
+- Colección primavera-verano
+- Vestido sin mangas de la colección mujer
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FGK1X5GD{{</world>}}

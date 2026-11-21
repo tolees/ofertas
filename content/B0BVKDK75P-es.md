@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - El serúm efecto lifting contiene extracto de Rosa de Té italiana, para una acción lifting y reafirmante.
-- Tens-Activ: produce un efecto tensor inmediato.
 - HD+ Complex: estimula la síntesis de Colágeno y Elastina.
+- Tens-Activ: produce un efecto tensor inmediato.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BVKDK75P{{</world>}}

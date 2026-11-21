@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Marca "New Balance" en el cuello del talón
 - Etiqueta tejida en la lengüeta
+- Marca "New Balance" en el cuello del talón
 - punta perforada
 
 [🛒 Visítala!!!]({{< param buyurl >}})

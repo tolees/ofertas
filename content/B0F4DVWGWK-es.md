@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Capacidad: 83,6 l
-- Dimensiones: 33,5 x 69 cm
-- Material Principal: 100% Poliéster(100% Reciclado) / Forro: 100% Poliéster(100% Reciclado) / Acolchado: 100% Polietileno
 - Tejido técnico resistente
+- Material Principal: 100% Poliéster(100% Reciclado) / Forro: 100% Poliéster(100% Reciclado) / Acolchado: 100% Polietileno
+- Dimensiones: 33,5 x 69 cm
+- Capacidad: 83,6 l
 - Cierre con cremallera
 
 [🛒 Comprar!!!]({{< param buyurl >}})

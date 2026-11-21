@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CALOR Y DIVERSIÓN: Durex lubricante Calor y Diversión
-- COMPATIBLE CON PRESERVATIVOS DE LÁTEX: únicamente compatible con preservativos de látex de caucho natural y poliisopreno
 - ALIVIAR LA SEQUEDAD VAGINAL: Destinado para aliviar la sequedad vaginal y las molestias íntimas
-- La siguiente información se aplica a cada unidad del paquete
-- ¿CÓMO USARLO?: abrir el tapón y apretar suavemente para aplicarlo
 - APTO PARA SEXO VAGINAL, ANAL Y ORAL: lubricante apto para sexo vaginal, anal y oral
+- ¿CÓMO USARLO?: abrir el tapón y apretar suavemente para aplicarlo
+- COMPATIBLE CON PRESERVATIVOS DE LÁTEX: únicamente compatible con preservativos de látex de caucho natural y poliisopreno
+- CALOR Y DIVERSIÓN: Durex lubricante Calor y Diversión
+- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CN2Q29N9{{</world>}}

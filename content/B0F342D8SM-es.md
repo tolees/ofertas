@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela: Otros Materiales
-- Empeine: Otros Materiales / Textil
-- Sin cordones
 - Forro Y Plantilla: Textil
 - Corte clásico
+- Suela: Otros Materiales
+- Sin cordones
+- Empeine: Otros Materiales / Textil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F342D8SM{{</world>}}

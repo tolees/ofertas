@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Arshiner Vestido Niña Elegante Una Línea Princesa Vestido Casual Vestido de Manga Larga Vestido de Fiesta Festivo Boda Cuello con Volantes Vestido Informal para Niñas Beige 140
-- Tamaño: 9-10 años
 - Marca: Arshiner
+- Tamaño: 9-10 años
 - Color: Beige
 
 [🛒 Comprar!!!]({{< param buyurl >}})

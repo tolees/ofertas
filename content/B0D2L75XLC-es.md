@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Corte: normal
-- Manga larga
-- Con capucha
-- Material principal: felpa
 - Largo: normal
+- Manga larga
+- Material principal: felpa
+- Con capucha
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D2L75XLC{{</world>}}

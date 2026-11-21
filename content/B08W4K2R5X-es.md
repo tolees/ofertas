@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Figura de papel maché
 - Color; marrón
 - Forma; letra T
-- Figura de papel maché
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08W4K2R5X{{</world>}}

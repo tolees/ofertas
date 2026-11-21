@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cierre de cordones
-- No es resistente al agua
 - Ligeras
+- No es resistente al agua
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CL72BTZP{{</world>}}

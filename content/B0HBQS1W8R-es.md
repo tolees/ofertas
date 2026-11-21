@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ✅ FORMULACIÓN DE PRECISIÓN: Citratos y cloruros minerales seleccionados por su alta solubilidad y buena tolerancia digestiva. Sin grumos, sin sabores raros: electrolitos limpios listos para tu bidón antes, durante o después del entreno.
 - ✅ FÁCIL DISOLUCIÓN Y USO VERSÁTIL: Formato en polvo con alta solubilidad, perfecto para mezclar en agua antes, durante o después del entrenamiento. Se adapta a diferentes rutinas deportivas y niveles de intensidad.
-- ✅ HIDRATACIÓN QUE NO TE FALLA: Repón sodio, cloruro, calcio y magnesio en cada sesión larga o con calor. El magnesio contribuye a la disminución del cansancio y la fatiga, para que sigas dando el 100% hasta el final. Fórmula soluble y sin estimulantes.
 - ✅ CALIDAD HSN GARANTIZADA: fórmula vegana, sin estimulantes, apta para cualquier hora del día. Complemento alimenticio elaborado bajo estrictos controles de calidad europeos, para que confíes en lo que le das a tu cuerpo.
+- ✅ FORMULACIÓN DE PRECISIÓN: Citratos y cloruros minerales seleccionados por su alta solubilidad y buena tolerancia digestiva. Sin grumos, sin sabores raros: electrolitos limpios listos para tu bidón antes, durante o después del entreno.
+- ✅ HIDRATACIÓN QUE NO TE FALLA: Repón sodio, cloruro, calcio y magnesio en cada sesión larga o con calor. El magnesio contribuye a la disminución del cansancio y la fatiga, para que sigas dando el 100% hasta el final. Fórmula soluble y sin estimulantes.
 - ✅ PENSADO PARA RESISTENCIA: Ideal para runners, ciclistas y triatletas que entrenan en climas cálidos o sudan mucho. El calcio contribuye al metabolismo energético normal y a la función muscular normal, sesión tras sesión.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

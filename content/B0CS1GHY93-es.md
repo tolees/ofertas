@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Bordado de G-STAR en el pecho
-- Aberturas laterales
 - Cierre de botones
+- Aberturas laterales
 - Cuello de polo
 - Cuello y puños acanalados
 

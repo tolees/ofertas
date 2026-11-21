@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tensión de entrada: 110-240V 50-60Hz 0.2A
 - Está fabricado con material ignífugo y con múltiples protecciones contra sobrecarga, cortocircuito, lo que puede garantizar la máxima seguridad para tu dispositivo.
+- Tensión de entrada: 110-240V 50-60Hz 0.2A
 - Tensión de salida: DC 5V 2.1A. 10.5W(MAX)
-- Cantidad de puertos USB: 1
 - Potencia: 10.5W.
+- Cantidad de puertos USB: 1
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D362B1NJ{{</world>}}

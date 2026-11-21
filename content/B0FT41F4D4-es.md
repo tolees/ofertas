@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Hombre Terrex Anylander Hiking Shoes Core Black/Carbon/Collegiate Green 44 EU'
-date: 2026-11-19 21:54:30
+date: 2026-11-21 06:38:00
 image: 'https://m.media-amazon.com/images/I/21mXZSBbUQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

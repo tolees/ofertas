@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La última bomba Asetek de 8a generación con motor trifásico ofrece un rendimiento de refrigeración óptimo, mayor caudal y menor impedancia
-- Ventilador integrado mejorado en la carcasa de la bomba para refrigerar el VRM de la placa base
 - Nuevas funciones de software: control de las velocidades de la bomba y del ventilador integrado, y una copia gratuita de AIDA 64
+- La última bomba Asetek de 8a generación con motor trifásico ofrece un rendimiento de refrigeración óptimo, mayor caudal y menor impedancia
 - Pantalla LCD de 3.5" que muestra al instante la frecuencia del reloj, el voltaje, la temperatura, la velocidad del ventilador, el caudal de agua o una animación GIF personalizada por el usuario
+- Ventilador integrado mejorado en la carcasa de la bomba para refrigerar el VRM de la placa base
 - Los ventiladores ARGB personalizables se encajan rápidamente mediante imanes especiales para ahorrar tiempo de instalación
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

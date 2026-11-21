@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Lomo de 70 mm con una capacidad de 56 mm: puede contener hasta 560 hojas.
 - Pack surtido de colores pastel: rosa pastel, azul pastel y verde pastel.
-- Tamaño A4, ideal para archivar informes o guardar documentos.
 - Archivador de Palanca en colores pastel, fabricado con cartón laminado recubierto de papel laminado para mayor durabilidad.
+- Tamaño A4, ideal para archivar informes o guardar documentos.
 - Etiqueta en el lomo para consultar el contenido de forma rápida y sencilla.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

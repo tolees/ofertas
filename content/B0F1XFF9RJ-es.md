@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Horma clásica
-- Mediasuela CLOUDFOAM
-- Plantilla OrthoLite
-- Cordones
 - Empeine textil y sintético
+- Mediasuela CLOUDFOAM
+- Horma clásica
+- Cordones
+- Plantilla OrthoLite
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F1XFF9RJ{{</world>}}

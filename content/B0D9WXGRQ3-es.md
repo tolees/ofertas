@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre : Bragueta de botones
-- Klavado/acabado : Lavado a la piedra para un acabado desgastado y desteñido
-- Cintura : Tiro alto
-- Artículo : Pantalones cortos extra holgados
 - Bolsillos : Bolsillos traseros, Bolsillo relojero, Bolsillos delanteros
 - Corte : Pantalones cortos vaqueros extra holgados con entrepierna caída y abertura suelta en la pierna
+- Cierre : Bragueta de botones
+- Artículo : Pantalones cortos extra holgados
+- Cintura : Tiro alto
+- Klavado/acabado : Lavado a la piedra para un acabado desgastado y desteñido
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D9WXGRQ3{{</world>}}

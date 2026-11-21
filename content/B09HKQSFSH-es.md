@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 70% algodón / 30% poliéster (reciclado)
+- Apoya a Better Cotton Initiative
 - Puños de canalé
-- Apoya a Better Cotton Initiative
 - Corte clásico con cintura de talle medio
-- Apoya a Better Cotton Initiative
+- 70% algodón / 30% poliéster (reciclado)
 - Bolsillos en las costuras laterales
+- Apoya a Better Cotton Initiative
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09HKQSFSH{{</world>}}

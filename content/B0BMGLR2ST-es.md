@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte : Corte regular
 - Artículo : Jersey de punto
+- Corte : Corte regular
 - Puños : Puños acanalados
 - Cuello : Cuello redondo
 - Manga : Manga larga

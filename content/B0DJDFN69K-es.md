@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material muy cómodo, ligero, de secado rápido y duradero
 - Ajuste regular
+- Material muy cómodo, ligero, de secado rápido y duradero
 - Bolsillo canguro y manga larga
 
 [🛒 Comprar!!!]({{< param buyurl >}})

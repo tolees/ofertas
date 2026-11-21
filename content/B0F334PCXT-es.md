@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cordones
-- Corte clásico
-- Suela de goma tipo copa elevada
-- Empeine de piel sintética
 - Forro textil
+- Cordones
+- Empeine de piel sintética
+- Suela de goma tipo copa elevada
+- Corte clásico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F334PCXT{{</world>}}

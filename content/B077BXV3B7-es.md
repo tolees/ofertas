@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '226ERS Sub9 Salts Electrolytes Sales Electrolitos 1 x 100 Cápsulas | repone electrolitos en esfuerzos largos jengibre que cuida la digestión sin gluten sin lactosa sin azúcares añadidos'
-date: 2026-11-19 12:02:39
+date: 2026-11-21 03:06:40
 image: 'https://m.media-amazon.com/images/I/21k43zlVFQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B077BXV3B7/?tag=tolees-21'
 descuento: '43.54'
-average: '24.200000000000003'
+average: '22.931428571428572'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

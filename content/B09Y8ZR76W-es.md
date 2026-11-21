@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte ajustado
-- Bolsillos: dos bolsillos laterales; dos bolsillos traseros
-- Corte delgado en el muslo sin que quede demasiado apretado
 - Cierre de pantalón: botón con cremallera
-- Con trabillas
+- Bolsillos: dos bolsillos laterales; dos bolsillos traseros
 - Material: 98% algodón, 2% elastano
+- Corte delgado en el muslo sin que quede demasiado apretado
+- Con trabillas
+- Corte ajustado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09Y8ZR76W{{</world>}}

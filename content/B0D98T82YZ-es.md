@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Modo de vida : Aptitud, Corriente
-- Cintura : Talle medio
 - Bolsillos : Bolsillos delanteros
+- Modo de vida : Aptitud, Corriente
 - Corte : Corte relaxed
+- Cintura : Talle medio
 - Detalles : Cordón de ajuste en la cintura, Cinturilla elástica
 - Artículo : Shorts
 

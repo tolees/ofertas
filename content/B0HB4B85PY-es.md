@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bizak Star Wars Yoda Puppetronic by RealFX Interactivo +8 Años 64081113'
-date: 2026-11-19 06:36:45
+date: 2026-11-21 12:05:31
 image: 'https://m.media-amazon.com/images/I/51mq-ONhrsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

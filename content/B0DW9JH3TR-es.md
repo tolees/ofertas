@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Maga: Corta
 - Fit: Regular
 - Estampado Arty
-- Maga: Corta
-- Cuello: Redondo
 - Detalles en strass
+- Cuello: Redondo
 - Desigual
 
 [🛒 Aquí!!!]({{< param buyurl >}})

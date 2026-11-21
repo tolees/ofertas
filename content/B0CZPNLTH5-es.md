@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Hombre Sportswear Basic 3 Stripes Tricot Track Suit Black S'
-date: 2026-07-21 17:59:51
+date: 2026-11-21 03:16:40
 image: 'https://m.media-amazon.com/images/I/31YfPF9MjpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0CZPNLTH5-es adidas Hombre Sportswear Basic 3 Stripes Tricot Track Suit...'
 sku: 'B0CZPNLTH5-es'
 tags: [ '🇪🇸', ]
-actualPrice: 37.45 EUR
+actualPrice: 33.75 EUR
 currency: EUR
-price: 37.45
+price: 33.75
 comparePrice: 75.0 EUR
 prodname: 'adidas Hombre Sportswear Basic 3 Stripes Tricot Track Suit Black S'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CZPNLTH5/?tag=tolees-21'
-descuento: '50.07'
-average: '39.22'
+descuento: '55.00'
+average: '38.438571428571429'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre de cremallera y cuello alzado
-- Corte clásico con talle medio
-- 100% poliéster (reciclado)
-- Chaqueta y pantalón: Bolsillos frontales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZPNLTH5{{</world>}}

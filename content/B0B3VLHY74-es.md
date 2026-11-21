@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Paquete de 2 camisetas
 - Manga corta
 - Cuello redondo
-- Paquete de 2 camisetas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B3VLHY74{{</world>}}

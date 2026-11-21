@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Modo de empleo: Aplicar generosamente sobre la piel del rostro de manera uniforme al menos 30 minutos antes de la exposición solar. Repita con frecuencia
-- Formulado sin perfume. Producto hipoalergénico
 - Primer fotoprotector corporal infantil respetuoso con el medio ambiente de textura aterciopelado. Sin efecto blanco
-- Tiene una acción hidratante y elastizante para devolver el máximo confort a la piel corporal de los niños
 - Clínicamente testado bajo control pediátrico y dermatológico. Testado en Níquel, Cobalto, Cromo, Paladio y Mercurio
+- Tiene una acción hidratante y elastizante para devolver el máximo confort a la piel corporal de los niños
+- Formulado sin perfume. Producto hipoalergénico
+- Modo de empleo: Aplicar generosamente sobre la piel del rostro de manera uniforme al menos 30 minutos antes de la exposición solar. Repita con frecuencia
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08XQXPDC2{{</world>}}

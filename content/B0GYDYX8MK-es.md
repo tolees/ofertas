@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Aplicación Design Space gratuita y fácil de aprender.
-- Corta diseños complejos con precisión.
 - Funciona con más de 300 materiales, incluidos vinilo, Iron-on y cartulina, además de cuero, cartulina para póster y más.
 - Sube y corta tus propios diseños o elige de la biblioteca Cricut Design Space.
+- Corta diseños complejos con precisión.
 - Compatible con tu impresora de inyección de tinta doméstica para imprimir y luego cortar diseños a todo color.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

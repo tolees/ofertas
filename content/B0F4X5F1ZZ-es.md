@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cuello redondo
-- Diseño de punto de nido de abeja texturizado
 - Bajo recto
+- Diseño de punto de nido de abeja texturizado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F4X5F1ZZ{{</world>}}

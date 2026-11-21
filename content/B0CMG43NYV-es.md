@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Una combinación impermeable de gamuza y parte superior con detalles de cincha de primera calidad e impresión 3D elevada
-- Construcción transpirable impermeable Omni-Tech
 - Nota: los cordones y cremalleras incorporados en el calzado de Columbia Sportswear Company no son impermeables.
-- Forro reflectante Omni-Heat Infinity
 - Entresuela ligera Techlite para una comodidad duradera, amortiguación superior y alto retorno de energía
+- Forro reflectante Omni-Heat Infinity
+- Construcción transpirable impermeable Omni-Tech
+- Una combinación impermeable de gamuza y parte superior con detalles de cincha de primera calidad e impresión 3D elevada
 - Goma de tracción Omni-Grip que no deja marcas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

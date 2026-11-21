@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - modelo KNU SKOOL
-- Talla: 37
-- Sneakers Hombre
+- Forro de Textil. Exterior de Piel. Tipo de construcción: Vulcanizado. Fabricado en Vietnam.
 - marca VANS
 - color AZUL
-- Forro de Textil. Exterior de Piel. Tipo de construcción: Vulcanizado. Fabricado en Vietnam.
+- Talla: 37
+- Sneakers Hombre
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C9V3Q3MC{{</world>}}

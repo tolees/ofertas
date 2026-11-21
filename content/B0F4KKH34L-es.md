@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camisa de manga larga
 - Estilo informal
 - Cierre de botones
+- Camisa de manga larga
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4KKH34L{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Empeine de ante
-- Con cordones
 - Suela de goma
+- Con cordones
+- Empeine de ante
 - Formstrip de PUMA en el lado exterior
 - Ajuste normal
 

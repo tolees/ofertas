@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PAPEL BRISTOL: Fabricadas con papel Bristol, con superficie lisa y alto gramaje, lo que la hace ideal para dibujo, ilustración, acuarela o tinta
 - CERTIFICADO FSC: Folios con Certificado FSC, proveniente de bosques de tala controlada y respetuosos con el medioambiente. Además, libre de cloro elemental y con colorantes biodegradables
 - UTILIDADES: Idea para hacer manualidades, trabajos y tareas escolares, encuadernaciones, fotocopias, inyección de tinta e impresión láser
 - CARACTERÍSTICAS: Papel de alta calidad con 180 g/m² y tamaño A4 (21x29,7 cm)
+- PAPEL BRISTOL: Fabricadas con papel Bristol, con superficie lisa y alto gramaje, lo que la hace ideal para dibujo, ilustración, acuarela o tinta
 - Pack de 50 cartulinas en color crema
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

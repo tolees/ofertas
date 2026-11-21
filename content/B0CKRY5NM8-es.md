@@ -30,11 +30,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Elevación de gas nivel 4
 - Base de nailon de alta calidad (350mm)
+- Giro de 360 grados con base sólida sobre 5 ruedas
 - Las almohadillas son extraíbles
 - Altura e inclinación ajustables
-- Producto de alta calidad con peso recomendado hasta 130kg
-- Giro de 360 grados con base sólida sobre 5 ruedas
 - Reposabrazos fijos
+- Producto de alta calidad con peso recomendado hasta 130kg
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CKRY5NM8{{</world>}}

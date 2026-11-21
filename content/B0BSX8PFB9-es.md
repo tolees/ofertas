@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ravensburger - GraviTrax Junior Planet | Juego Construcción 3 Años 200 Pzs | Juego construcción con 200 piezas y circuito canicas para crear 4 mundos. Ideal entre los juegos para niños de 3 años.'
-date: 2026-11-20 00:03:42
+date: 2026-11-21 14:44:10
 image: 'https://m.media-amazon.com/images/I/51d07DJoKyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BSX8PFB9/?tag=tolees-21'
 descuento: '43.50'
-average: '75.981818181818156'
+average: '72.983076923076894'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

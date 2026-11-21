@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Helly Hansen Unisex Bolsa de lona HH 2 30L Negro 2.0 STD'
-date: 2026-11-20 05:49:14
+date: 2026-11-21 08:37:35
 image: 'https://m.media-amazon.com/images/I/41QU4a8oFKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00N9QH5XW/?tag=tolees-21'
 descuento: '35.91'
-average: '46.974000000000025'
+average: '47.290000000000021'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

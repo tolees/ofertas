@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Costuras anatómicas en la puntera
 - Tres pares por paquete
+- Costuras anatómicas en la puntera
 - Refuerzo en el arco plantar
 - Largo clásico
 - Paneles acolchados en la puntera y el talón

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Difusión de una luz blanca natural
-- Botón on/off que posibilita un consumo eficiente de energía
 - 2 niveles de intensidad luminosa
 - No se calienta (LED fría) lo que evita quemaduras
+- Botón on/off que posibilita un consumo eficiente de energía
+- Difusión de una luz blanca natural
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00G062HPO{{</world>}}

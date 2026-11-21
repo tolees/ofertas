@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - ACCIONES INTELIGENTES - Controla la intensidad/brillo creando diferentes escenas para cada ocasión
-- IMPORTANTE * - Se requiere de una hub como H100 para integrarlo todo desde esta centralta
-- MONTAjE FLEXILE - Cambia tu antiguo interruptor por éste nuevo que puedes colocarlo a la pared con adhesivos que viene incluido
-- CONTROL A DISTANCIA -Puedes activar los dispositivos conectados de la app Tapo desde cualquier lugar, incuso desde otra casa un solo click. Activa fácil y rápidamente la alarma o avisa a emergencias en caso de necesidad
-- CONTROL PERSONALIZADO - Establece hasta 4 acciones distintas acciones dando un toque, doble toque y rotando el botón. Tú decides.
 - PILA DE LARGA DURACIÓN - Olvídate de cambiar la batería durante todo un añoPuedes activar los dispositivos conectados Tapo desde cualquier lugar, incuso desde otra casa
+- CONTROL A DISTANCIA -Puedes activar los dispositivos conectados de la app Tapo desde cualquier lugar, incuso desde otra casa un solo click. Activa fácil y rápidamente la alarma o avisa a emergencias en caso de necesidad
+- IMPORTANTE * - Se requiere de una hub como H100 para integrarlo todo desde esta centralta
+- CONTROL PERSONALIZADO - Establece hasta 4 acciones distintas acciones dando un toque, doble toque y rotando el botón. Tú decides.
+- MONTAjE FLEXILE - Cambia tu antiguo interruptor por éste nuevo que puedes colocarlo a la pared con adhesivos que viene incluido
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BJQVQ49Q{{</world>}}

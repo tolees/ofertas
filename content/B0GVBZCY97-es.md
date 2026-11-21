@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Disponible en 3 colores.
 - Mide 1.72 cm de largo.
 - Toalla unisex de rayas confeccionada en algodón combinada con dos colores.
+- Disponible en 3 colores.
 - Cuenta con detalle de colgador a contraste en lateral.
 - Perfecta para la piscina o la playa.
 

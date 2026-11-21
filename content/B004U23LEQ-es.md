@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Raglan sleeves
-- Dri-Fit Technology
 - Tipo de deporte: Fitness y ejercicio
+- Dri-Fit Technology
 - Stretch fabric
 
 [🛒 Aquí!!!]({{< param buyurl >}})

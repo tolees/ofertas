@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Unisex Adulto F50 Messi League Turf Football Shoes Ivory/Semi Blue Burst/Icey Blue 40 EU'
-date: 2026-11-19 21:27:00
+date: 2026-11-21 00:28:14
 image: 'https://m.media-amazon.com/images/I/216OGMmB9TL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

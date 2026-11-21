@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【Soporte EVF-11 Desmontable】 Diseñado para estabilizar el visor electrónico EVF-11 para una visualización de alta definición, este soporte se fija a la jaula de la cámara mediante un tornillo de 1/4" y se puede quitar fácilmente con la llave magnética debajo de la jaula.
-- 【Montajes de Accesorios Múltiples】 Múltiples orificios roscados de 1/4" y 3/8", así como zapatas frías, le permiten montar varios accesorios para mejorar la calidad de disparo o conectar la jaula a un trípode para un disparo estable. Los soportes de zapata fría son compatibles con DJI Mic System; compatible con Rode Wireless Go 2 II micrófonos
-- 【Compatible con SIGMA fp/fp L】 Esta jaula para cámara es compatible con SIGMA fp y fp L cámaras sin espejo, con acceso completo a todos los botones de control, compartimiento de batería y pantalla LCD. Fabricado con una aleación de aluminio robusta pero liviana, este accesorio para soporte de cámara es ideal para filmar y grabar videos en exteriores.
 - 【Agarre de Silicona Suave y Antideslizante】 Para mejorar el uso portátil, la jaula está equipada con un agarre de silicona antideslizante que ofrece comodidad y estabilidad al mismo tiempo.
 - 【Placa de Liberación Rápida Tipo Arca】 Además de una amplia gama de cabezales de video para trípode y rótulas de bola, la placa de liberación rápida tipo Arca también es compatible con DJI RS4 Pro RS4 RS3 PRO RS3 RS2 RSC2, lo que le permite realizar una transición perfecta de la cámara de un trípode a un estabilizador de mano para capturar imágenes fluidas con gimbal
+- 【Compatible con SIGMA fp/fp L】 Esta jaula para cámara es compatible con SIGMA fp y fp L cámaras sin espejo, con acceso completo a todos los botones de control, compartimiento de batería y pantalla LCD. Fabricado con una aleación de aluminio robusta pero liviana, este accesorio para soporte de cámara es ideal para filmar y grabar videos en exteriores.
+- 【Montajes de Accesorios Múltiples】 Múltiples orificios roscados de 1/4" y 3/8", así como zapatas frías, le permiten montar varios accesorios para mejorar la calidad de disparo o conectar la jaula a un trípode para un disparo estable. Los soportes de zapata fría son compatibles con DJI Mic System; compatible con Rode Wireless Go 2 II micrófonos
+- 【Soporte EVF-11 Desmontable】 Diseñado para estabilizar el visor electrónico EVF-11 para una visualización de alta definición, este soporte se fija a la jaula de la cámara mediante un tornillo de 1/4" y se puede quitar fácilmente con la llave magnética debajo de la jaula.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DM1CQGLW{{</world>}}

@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Adecuado para válvulas de doble enjuague viejas y nuevas de Roca.
 - Contenido del envío: solo anillo de sellado.
-- Producto de alta calidad
 - La siguiente información se aplica a cada unidad del paquete
+- Producto de alta calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0G4ZXZ7VG{{</world>}}

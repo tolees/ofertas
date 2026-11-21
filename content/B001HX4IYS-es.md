@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El vaso térmico de doble pared, original de Bodum
 - Presentación: caja individual/regalo, con 2 vasos
+- El vaso térmico de doble pared, original de Bodum
 - Apto para lavavajillas
 - Apto para microondas
 

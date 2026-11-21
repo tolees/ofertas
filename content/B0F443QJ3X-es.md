@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Artículo : Sudadera
 - Estampado : Estampa en la parte delantera del producto, Estampado con pigmentos para un acabado delicado en los tejidos más ligeros
-- Corte : Corte relaxed
-- Mangas : Sisa en disminución
+- Artículo : Sudadera
 - Manga : Manga larga
+- Mangas : Sisa en disminución
+- Corte : Corte relaxed
 - Cuello : Cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

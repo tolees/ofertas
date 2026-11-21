@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjiglenn Jjoriginal Am 815 Noos Vaqueros slim Hombre Black 33W / 32L'
-date: 2026-11-19 17:20:15
+date: 2026-11-20 22:39:38
 image: 'https://m.media-amazon.com/images/I/31yKm5JU2AL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Colocación rápida y sencilla mediante imanes en la parte posterior de la cubierta
-- Encendido y apagado automático de la pantalla al abrir y cerrar la tapa
-- Soporte para S Pen integrado para llevar cómodamente la pluma S
 - Dos prácticas posiciones para ver fotos y vídeos
+- Encendido y apagado automático de la pantalla al abrir y cerrar la tapa
+- Colocación rápida y sencilla mediante imanes en la parte posterior de la cubierta
+- Soporte para S Pen integrado para llevar cómodamente la pluma S
 - Diseño delgado para un aspecto elegante
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

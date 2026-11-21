@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Iluminación: lámpara led integrada con 3 tonalidades de luz ajustables entre cálida, neutra y fría
-- Control: mando a distancia para gestionar todas las funciones y temporizador programable hasta 8 horas
-- Versatilidad: función verano e invierno con sistema de inversión de giro para redistribución eficiente del aire
 - Instalación: diámetro total de 132 cm con aspas de 64 cm, adecuado para habitaciones de 20-27 metros cuadrados
 - Motor: incorpora motor dc, con funcionamiento silencioso y 6 velocidades ajustables para confort
+- Versatilidad: función verano e invierno con sistema de inversión de giro para redistribución eficiente del aire
+- Iluminación: lámpara led integrada con 3 tonalidades de luz ajustables entre cálida, neutra y fría
+- Control: mando a distancia para gestionar todas las funciones y temporizador programable hasta 8 horas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CV859YSZ{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Suela de EVA
-- Diseño sin cordones
 - Banda de EVA moldeada de una sola pieza
+- Diseño sin cordones
 - Plantilla Cloudfoam suave
 - Horma clásica
 

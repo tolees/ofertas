@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Solgar Vitamina B12 1000 mcg Cianocobalamina | 250 Comprimidos | Sublinguales sabor cereza · Reduce el cansancio · Favorece el sistema nervioso'
-date: 2026-11-17 15:00:14
+date: 2026-11-21 03:50:22
 image: 'https://m.media-amazon.com/images/I/41vwOr82ExL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00020IAPA/?tag=tolees-21'
 descuento: '41.32'
-average: '24.356969696969649'
+average: '24.035428571428525'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

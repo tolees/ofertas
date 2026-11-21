@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - ¡Sirve platos divertidos con Bluey en el set de juego Camión de comida!
-- Personaliza el Camión de comida con la hoja de pegatinas incluida.
 - Eleva el techo del camión para mostrar los deliciosos platos.
 - El set de juego Camión de comida de Bluey se transforma en una cafetería con zona de comedor y sillas.
+- Personaliza el Camión de comida con la hoja de pegatinas incluida.
 - El set de juego Camión de comida incluye una figura exclusiva de Bluey de 7,6 cm con delantal y visera.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- REEBOK CLUB C GROUNDS UK CBLACK/CHALK/RBKLE2 43 UNISEX
-- Estética vintage
 - Forro textil
 - Ajuste regular
+- Estética vintage
+- REEBOK CLUB C GROUNDS UK CBLACK/CHALK/RBKLE2 43 UNISEX
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BGD4WYQS{{</world>}}

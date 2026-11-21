@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Las Zapatillas deportivas de la marca Puma están diseñadas con la tecnología y calidad para que se adapten a tu pie sin dejar de la lado el estilo
 - Zapatillas deportivas óptimas para Fitness y ejercicio de Hombre
-- Calzado deportivo de la marca Puma
 - Zapatillas deportivas Puma Caven 20 SD 392315 01
+- Calzado deportivo de la marca Puma
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BLCLVSNM{{</world>}}

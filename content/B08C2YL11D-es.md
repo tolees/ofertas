@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Flexible storage option supporting one 3.5” drive and three 2.5”
+- Top panel effortlessly swaps from solid steel to filtered ventilation
+- New removable top panel design opens up to fully expose the case interior for effortless installation and cable routing
 - Compact yet spacious interior accommodates any Mini ITX and Mini-DTX motherboard
 - Room for GPU up to 306 mm with a 25 mm front fan
 - Silence-optimized construction with industrial sound-damped front, top, and side panels
-- Top panel effortlessly swaps from solid steel to filtered ventilation
-- New removable top panel design opens up to fully expose the case interior for effortless installation and cable routing
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08C2YL11D{{</world>}}

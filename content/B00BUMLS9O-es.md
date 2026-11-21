@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sujetador de microfibra con aros y sin relleno
 - Tiene tirantes ajustables
+- Sujetador de microfibra con aros y sin relleno
 - La forma de los laterales permite equilibrar el volumen del pecho y reducir su volumen
 
 [🛒 Comprar!!!]({{< param buyurl >}})

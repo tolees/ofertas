@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte entallado
-- Largo por encima de la cintura
 - Escote redondo
-- Punto 93% algodón / 7% elastán
+- Largo por encima de la cintura
+- Corte entallado
 - 3 bandas estampadas
+- Punto 93% algodón / 7% elastán
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CKFGLGK2{{</world>}}

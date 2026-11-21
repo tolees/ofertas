@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- COLECCIÓNALAS TODAS: Encuentra las 6 y embárcate en una aventura con tu nuevo amigo axolotl.
-- SORPRESA Y DELEITE: ¡Cada uno tiene 10 sorpresas axolotl por descubrir para brindar alegría y diversión sin fin!
-- CORAZÓN MÁGICO: Pélalo para descubrir su corazón mágico.
 - ABRÁZALO PARA ROMPER EL CASCARÓN: Abre tu huevo mágico con un abrazo enorme y descubre a tu nuevo mejor amigo axolotl.
+- COLECCIÓNALAS TODAS: Encuentra las 6 y embárcate en una aventura con tu nuevo amigo axolotl.
+- CORAZÓN MÁGICO: Pélalo para descubrir su corazón mágico.
+- SORPRESA Y DELEITE: ¡Cada uno tiene 10 sorpresas axolotl por descubrir para brindar alegría y diversión sin fin!
 - BOO-BOOCORN INCLUIDO: ¿Puedes encontrar el bebé coleccionable?
 
 [🛒 Visítala!!!]({{< param buyurl >}})

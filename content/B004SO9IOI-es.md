@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tubo Bora HD
-- Máscara Salina
 - Para snorkeling
+- Máscara Salina
+- Tubo Bora HD
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B004SO9IOI{{</world>}}

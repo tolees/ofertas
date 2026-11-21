@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Comodidad
-- Amortiguación
 - Zapatos deportivos
+- Amortiguación
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B078BMX92L{{</world>}}

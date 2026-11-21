@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Parodontax Refuerza Y Protege Encías Enjuague Bucal Diario 500 ml | Enjuague bucal diario cuidado encías sensibles ayuda a reducir placa aliento fresco uso tras cepillado formato 500 ml'
-date: 2026-11-13 18:39:02
+date: 2026-11-20 16:30:44
 image: 'https://m.media-amazon.com/images/I/41zsUIwYaFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F9FKP5KN/?tag=tolees-21'
 descuento: '39.65'
-average: '6.1966666666666752'
+average: '6.1900000000000075'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillos con solapa y un solo bolsillo en el pecho
 - Blazer de un solo pecho con solapa que cae
+- Bolsillos con solapa y un solo bolsillo en el pecho
 - Se cierra con dos botones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

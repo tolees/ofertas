@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Un ajuste cómodo
 - Bolsillos traseros de parche
 - G-Star Etiqueta RAW trasera, fabricada con material de papel similar a la piel
-- Bolsillos reforzados con remaches, bolsillo oculto en la cintura
 - Un aspecto original
+- Bolsillos reforzados con remaches, bolsillo oculto en la cintura
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DK5FFSGH{{</world>}}

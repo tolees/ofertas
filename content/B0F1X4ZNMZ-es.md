@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela de goma
-- Corte clásico
 - Empeine de piel sintética
+- Corte clásico
 - Plantilla textil
+- Suela de goma
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F1X4ZNMZ{{</world>}}

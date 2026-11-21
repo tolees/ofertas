@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - - Función de la Luneta: -
-- - Forma de la Carcasa: Redondo
-- - Material de la Carcasa: Metal
 - Carcasa
+- - Material de la Carcasa: Metal
+- - Forma de la Carcasa: Redondo
 - - Color de la caja: Oro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

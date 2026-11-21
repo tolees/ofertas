@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Una marca de Amazon
 - Tenga en cuenta que la talla que se encuentra en la etiqueta de cuidado de esta prenda corresponde al tamaño de EE. UU. Utilice las tablas de tallas que se encuentran en la página de detalles del producto para encontrar el tamaño equivalente.
+- Una marca de Amazon
 - Misto cotone e jersey leggero ed elasticizzato
 - Corte ligeramente entallado en la cintura
 

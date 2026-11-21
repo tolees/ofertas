@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Fabricado con material de resina de piedra de calidad
+- Distintamente diseñado por el artista popular Jim Shore para Disney !
 - Medidas aproximadas: 3.5 x 6.5 x 7.75 pulgadas de alto
 - Título: "Ohana significa familia
-- Distintamente diseñado por el artista popular Jim Shore para Disney !
-- Fabricado con material de resina de piedra de calidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0077SVN5O{{</world>}}

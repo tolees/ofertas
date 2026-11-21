@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fácil de usar
 - UA Rival - Sudadera con capucha de forro polar, color negro, talla 3XL
+- Fácil de usar
 - Buena calidad con rendimiento
 
 [🛒 Comprar!!!]({{< param buyurl >}})

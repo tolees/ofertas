@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Correa trasera ajustable de
 - Pin de metal con el logotipo de PUMA Cat
 - 6 paneles con ojales bordados
-- Corte regular
+- Correa trasera ajustable de
 - Gorra estructurada
+- Corte regular
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJDJKMJP{{</world>}}

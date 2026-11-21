@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color: negro
-- Fabricado en:- China
-- ge recomendado por el fabricante: 14 años o más
 - Coche miniatura de la colección
+- Fabricado en:- China
+- Color: negro
+- ge recomendado por el fabricante: 14 años o más
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07LBK56HD{{</world>}}

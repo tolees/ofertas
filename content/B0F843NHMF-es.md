@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Manga larga
-- Material principal: Tricot
 - Corte: estándar
+- Material principal: Tricot
 - Cierre: Con cremallera
 - Cuello: cuello alto
 

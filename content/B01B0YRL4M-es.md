@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye 2 vasos de 600 mililitros de capacidad y 2 tapas de vaso que permiten beber directamente, los vasos caben en los portavasos estándar del coche
-- El batido se inicia presionando el vaso
-- Mini batidora de acero inoxidable cepillado, 300 vatios de potencia
 - Fácil limpieza y piezas aptas para el lavavajillas, los vasos son de plástico libre de BPA
+- Incluye 2 vasos de 600 mililitros de capacidad y 2 tapas de vaso que permiten beber directamente, los vasos caben en los portavasos estándar del coche
+- Mini batidora de acero inoxidable cepillado, 300 vatios de potencia
+- El batido se inicia presionando el vaso
 - Cuchillas para hielo que permiten preparar bebidas frías y pies antideslizantes
 
 [🛒 Comprar!!!]({{< param buyurl >}})

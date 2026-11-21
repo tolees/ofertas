@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Google TV Proyector Portátil 1200 ANSI Decodificación 4K Dolby Audio 36W | X5Pro Proyector Inteligente 1080P Nativo WiFi y Bluetooth Control por Voz Enfoque Automático IA 125% sRGB HDR10+ 200"'
-date: 2026-11-19 14:26:59
+date: 2026-11-21 00:50:44
 image: 'https://m.media-amazon.com/images/I/51ZTRYT+DuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0H1M9GBWB/?tag=tolees-21'
 descuento: '48.03'
-average: '191.37750000000003'
+average: '189.74555555555557'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

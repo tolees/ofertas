@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Russell Hobbs Robot de Cocina Cook@Home 5L 11 Programas 900W 21850-56 | Cocción Lenta Vapor Arroz Pan Yogur y Más Temporizador de 24h Mantiene Caliente y Tapa Anticondensación'
-date: 2026-11-19 09:26:34
+date: 2026-11-20 21:34:47
 image: 'https://m.media-amazon.com/images/I/41Sb1BmP9FL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00U65CWOG/?tag=tolees-21'
 descuento: '45.95'
-average: '93.187647058823629'
+average: '92.838275862069068'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Helly Tech Performance fabric - WATERPROOF, windproof and Breathable
-- Construcción de 2 capas: costura completamente sellada
 - Tejido Helly Tech Performance: impermeable, resistente al viento y transpirable
+- Construcción de 2 capas: costura completamente sellada
 - Vela costera protección total cintura
 - Waterproof, windproof and Breathable
 

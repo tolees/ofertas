@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Interfaz super speed us3.0
 - Velocidades de lectura de hasta 320mb/s
-- Compacto y ligero: dimensiones del producto 9 x 5,4 x 0,9 cm
 - Contenido: intenso 1,8" external ssd premium edition 512 g
 - Bajo consumo de energía; resistente a los golpes, funcionamiento silencioso (0db)
+- Compacto y ligero: dimensiones del producto 9 x 5,4 x 0,9 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07VC2TJK4{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Olaplex N°4P Blonde Enhancer Toning Shampoo 250ml
-- Nombre de la fragancia: Cítrico
 - Ingredientes: Olaplex N°4P Blonde Enhancer Toning Shampoo 250ml
+- Olaplex N°4P Blonde Enhancer Toning Shampoo 250ml
 - Para el cabello: Dañado
+- Nombre de la fragancia: Cítrico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09GYH2NP8{{</world>}}

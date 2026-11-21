@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cremallera frontal y capucha oculta
 - Bolsillos frontales con cremallera
-- Corte clásico
-- Tejido técnico impermeable 100% poliéster reciclado
 - Puños semielásticos
+- Tejido técnico impermeable 100% poliéster reciclado
+- Cremallera frontal y capucha oculta
+- Corte clásico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B8NNMFX6{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 232 juego de piezas
 - Paquete de dos tangas de algodón elástico con cintura con logotipo
+- 232 juego de piezas
 - Cintura elástica
 - Paquete de dos tangas con logotipo icónico
 

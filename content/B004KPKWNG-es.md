@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bonito vestido satinado con volantes y detalles reales
 - Vestido confeccionado con materiales resistentes, lavables en la lavadora.
+- Bonito vestido satinado con volantes y detalles reales
 - Conjunto de 3 piezas, incluye corona y cetro plateados
 - Traje lavable en lavadora y accesorios que se limpian en la superficie
 

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño cómodo de llevar todo el día
 - Corte ajustado desde la cadera hasta el tobillo
 - Estilo de 5 bolsillos
+- Diseño cómodo de llevar todo el día
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DNNXX8N9{{</world>}}

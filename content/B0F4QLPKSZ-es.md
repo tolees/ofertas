@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Algodón suave
-- Corte delgado para líneas ajustadas
 - Escote en V
+- Corte delgado para líneas ajustadas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4QLPKSZ{{</world>}}

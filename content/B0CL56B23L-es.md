@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Manga corta
 - PEPE JEANS MINA MOUSSE Ladies S
+- Manga corta
 - Botón
 
 [🛒 Aquí!!!]({{< param buyurl >}})

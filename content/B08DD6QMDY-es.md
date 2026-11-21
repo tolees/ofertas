@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Máxima calidad
 - Muy bien valorado
-- Brand: Nuxe
 - No se arrepentirá
+- Brand: Nuxe
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08DD6QMDY{{</world>}}

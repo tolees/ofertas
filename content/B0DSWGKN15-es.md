@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un ajuste cómodo
 - Cuello con borde acanalado
 - Un aspecto original
-- G-Star RAW bordado en el pecho
 - Proporciona comodidad
+- Un ajuste cómodo
+- G-Star RAW bordado en el pecho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DSWGKN15{{</world>}}

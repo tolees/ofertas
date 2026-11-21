@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Protección contra funcionamiento en seco/sobrecalentamiento, función automática de cese de la ebullición y opción de apagado manual, indicador externo del nivel de agua con marca de nivel de llenado, interruptor de encendido/apagado con luz indicadora roja
+- Función de ebullición rápida para 1.2 o 3 tazas, boquilla de vertido óptimo que permite verter sin gotear
+- Resistencia oculta, tapa de seguridad con cierre, filtro antical extraíble, sin cable, base de 360°, óptima para personas diestras y zurdas
 - Hierve una taza de agua (235 ml) en poco más de 50 segundos y ahorra hasta un 66 % de energía [al hervir una taza de agua (235 ml) en comparación con 1 litro]
 - Recogecable integrado en la base, capacidad de 1 litro, cuerpo de acero inoxidable pintado de alta calidad con detalles de plástico, 2400 W
-- Protección contra funcionamiento en seco/sobrecalentamiento, función automática de cese de la ebullición y opción de apagado manual, indicador externo del nivel de agua con marca de nivel de llenado, interruptor de encendido/apagado con luz indicadora roja
-- Resistencia oculta, tapa de seguridad con cierre, filtro antical extraíble, sin cable, base de 360°, óptima para personas diestras y zurdas
-- Función de ebullición rápida para 1.2 o 3 tazas, boquilla de vertido óptimo que permite verter sin gotear
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07NDCKT5D{{</world>}}

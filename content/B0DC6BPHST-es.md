@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Rejuvenecido
 - Composición: 64% viscosa, 31% poliéster, 5% elastano
+- Rejuvenecido
 - Pantalones chinos
 - Cierre de gancho y ojal con cremallera
 

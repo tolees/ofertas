@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Prints centered on front chest
 - Herringbone back neck tape
-- Kangaroo Pocket
 - Tejido de algodón/reciclado, algodón, poliéster francés terry [280 g/m2]
+- Kangaroo Pocket
+- Prints centered on front chest
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DP9G4RLM{{</world>}}

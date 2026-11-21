@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Taurus - Secador de Pelo 2400W Plegable Difusor Aire Frío Compacto | 2 velocidades 3 temperaturas mango plegable; concentrador y difusor'
-date: 2026-11-18 21:32:54
+date: 2026-11-21 06:11:12
 image: 'https://m.media-amazon.com/images/I/31+sTLkMl1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0C9DX9PJL/?tag=tolees-21'
 descuento: '37.01'
-average: '17.067857142857204'
+average: '17.064772727272786'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

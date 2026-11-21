@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño Slim Fit: Silueta ceñida para un aspecto favorecedor y moderno.
-- Colección Pepe Jeans London: Parte de la colección SS27, combinando estilo esencial con comodidad cotidiana.
 - Cuello Redondo Clásico: Escote atemporal para un estilo versátil.
+- Colección Pepe Jeans London: Parte de la colección SS27, combinando estilo esencial con comodidad cotidiana.
+- Diseño Slim Fit: Silueta ceñida para un aspecto favorecedor y moderno.
 - Estilo de Manga Corta: Ideal para uso diario y clima cálido.
 - Tejido de Algodón Stretch: Hecho de 95% algodón y 5% elastano para comodidad, flexibilidad y retención de forma.
 

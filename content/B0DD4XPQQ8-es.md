@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Taza de cerámica con mensaje divertido, ideal para regalar o autorregalarse.
 - Indicaciones: apta para microondas. Se recomienda lavarla a mano para que su diseño se mantenga intacto durante más tiempo.
 - Capacidad: xxx cl
+- Taza de cerámica con mensaje divertido, ideal para regalar o autorregalarse.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DD4XPQQ8{{</world>}}

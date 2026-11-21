@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior: cuero
 - Forro: Sintético
+- Parte superior: cuero
 - Suela interior: Sintética
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

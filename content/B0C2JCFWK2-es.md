@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello redondo
-- Pepe Jeans Logotipo destacado
 - Corte regular
+- Pepe Jeans Logotipo destacado
+- Cuello redondo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C2JCFWK2{{</world>}}

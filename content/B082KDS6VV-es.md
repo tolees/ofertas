@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 【FUNCIÓN】: ☸ La conmutación intermedia se usa en instalaciones que requieren tres o más interruptores para controlar una luz, y necesitan usarse junto con dos interruptores de 2 vías.
+- 【Protección de seguridad】: Nuestro interruptor es incombustible e impermeable. Protección contra descargas eléctricas para su familia. Podrá estar libre de preocupaciones de descargas eléctricas.
 - 【Fácil de instalar】:Por favor, conecte el cableado de acuerdo con el método de cableado que se muestra en el diagrama de cableado. Si tiene alguna pregunta o necesita ayuda, no dude en ponerse en contacto con nosotros.
 - 【Certificaciones】: Nuestros enchufes han pasado las certificaciones CE, RoHS.WEEE y TUV, con seguridad alta y confiabilidad.
-- 【Protección de seguridad】: Nuestro interruptor es incombustible e impermeable. Protección contra descargas eléctricas para su familia. Podrá estar libre de preocupaciones de descargas eléctricas.
-- 【FUNCIÓN】: ☸ La conmutación intermedia se usa en instalaciones que requieren tres o más interruptores para controlar una luz, y necesitan usarse junto con dos interruptores de 2 vías.
 - 【Calidad alta】:Panel de cristal de vidrio templado de alta calidad, ofrece una excelente resistencia a los arañazos para el interruptor de pared.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

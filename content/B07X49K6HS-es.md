@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Nueva costura de hombro curvada
 - 52% algodón, 45% poliéster, 3% elastano
+- Cuello y puños de canalé de punto
 - Etiqueta principal tejida en la parte posterior del cuello
 - Ajuste y apariencia contemporáneos
-- Cuello y puños de canalé de punto
-- Nueva costura de hombro curvada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07X49K6HS{{</world>}}

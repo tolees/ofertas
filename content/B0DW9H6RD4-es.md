@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Fit: Regular
+- Largo: Midi
+- Manga: Larga
 - Cuello: Redondo
 - Estampado floral
-- Manga: Larga
-- Fit: Regular
 - Desigual
-- Largo: Midi
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DW9H6RD4{{</world>}}

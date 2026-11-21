@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Firecamp Boot Botas De Nieve para Mujer Black Plum Purple talla 38.5 EU'
-date: 2026-11-19 15:08:57
+date: 2026-11-21 02:18:17
 image: 'https://m.media-amazon.com/images/I/41ihkOmbMKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CLWDLYR9/?tag=tolees-21'
 descuento: '39.12'
-average: '68.649999999999992'
+average: '68.22999999999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Turtle Beach Rematch Core bedrade gamecontroller licentie voor XBOX & PC | Zwart XBOX Series X|S XBOX One audiobediening thumbsticks met Hall-effect trilmotoren en impuls-triggers'
-date: 2026-11-19 02:26:27
+title: 'Turtle Beach Rematch Core Mando de juegos con cable con licencia XBOX & PC | Negro XBOX Series X|S XBOX One control de audio palanca Hall-Effect motor de vibr./gatillo de impulso'
+date: 2026-11-21 01:12:56
 image: 'https://m.media-amazon.com/images/I/412wC9ozKfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0GTBVX67G-es Turtle Beach Rematch Core bedrade gamecontroller licentie...'
+slug: 'B0GTBVX67G-es Turtle Beach Rematch Core Mando de juegos con cable con...'
 sku: 'B0GTBVX67G-es'
 tags: [ '🇪🇸', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99
 comparePrice: 29.99 EUR
-prodname: 'Turtle Beach Rematch Core bedrade gamecontroller licentie voor XBOX & PC | Zwart XBOX Series X|S XBOX One audiobediening thumbsticks met Hall-effect trilmotoren en impuls-triggers'
+prodname: 'Turtle Beach Rematch Core Mando de juegos con cable con licencia XBOX & PC | Negro XBOX Series X|S XBOX One control de audio palanca Hall-Effect motor de vibr./gatillo de impulso'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GTBVX67G/?tag=tolees-21'
 descuento: '43.35'
-average: '20.21222222222222'
+average: '19.889999999999997'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

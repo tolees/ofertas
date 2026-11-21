@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Hombre Vs Pace 2.0 Shoes Grey Three/Core Black/Ftwr White 44 2/3 EU'
-date: 2026-11-19 21:08:52
+date: 2026-11-21 02:18:51
 image: 'https://m.media-amazon.com/images/I/21B82rzB2zL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BJL3MJGD/?tag=tolees-21'
 descuento: '38.67'
-average: '36.11'
+average: '35.316666666666663'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

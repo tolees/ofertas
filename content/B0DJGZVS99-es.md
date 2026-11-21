@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Arena Aglomerante Mix para Muchos Gatos Catit Go Natural'
-date: 2026-11-11 11:20:41
+date: 2026-11-21 03:28:29
 image: 'https://m.media-amazon.com/images/I/41pACDbvAZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DJGZVS99/?tag=tolees-21'
 descuento: '40.22'
-average: '14.786000000000021'
+average: '14.553333333333351'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

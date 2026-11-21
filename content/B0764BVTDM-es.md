@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Lámpara LED jigglypuff de 25 centímetros
-- Luz LED con intensidad fija o progresiva
 - Producto official y de alta calidad
+- Luz LED con intensidad fija o progresiva
 - Fuente de alimentación: baterías
+- Lámpara LED jigglypuff de 25 centímetros
 - Sin hilo y funciona con pilas 3aaa (non incluidas)
 - JIGGLYPUFF LAMPARA LED 25 CM POKEMON
 

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- COLECCIÓN NUOVA: La gama de armarios de empotrar y superficie IP40 Nuova está formada por seis modelos de 4 a 36 módulos con opción puerta opaca y puerta transparente.
 - ESTANQUEIDAD IP40: Este producto es perfecto para instalaciones en las que debemos garantizar grados elevados de protección al agua.
+- CARACTERÍSTICAS: Entradas pretroqueladas para facilitar la instalación de tubos rígidos y de canal eléctrico.
+- COLECCIÓN NUOVA: La gama de armarios de empotrar y superficie IP40 Nuova está formada por seis modelos de 4 a 36 módulos con opción puerta opaca y puerta transparente.
 - RECOMENDACIONES: Si no supiesen instalarlo, aconsejamos que contacten con un electricista certificado
 - ESPECIFICACIONES: Armario Nuova superficie | Estanqueidad IP40 | 18 elementos | 195x350x100 mm | Blanco
-- CARACTERÍSTICAS: Entradas pretroqueladas para facilitar la instalación de tubos rígidos y de canal eléctrico.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00X5SXCM2{{</world>}}

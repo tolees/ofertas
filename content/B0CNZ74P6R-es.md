@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Calzoncillos de cintura alta
-- Cobertura completa con espalda recortada descarada
 - Acabado cepillado para una sensación más suave
+- Cobertura completa con espalda recortada descarada
+- Calzoncillos de cintura alta
 - sloggi ZERO Feel 2.0 - Cintura alta, color azul marino
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

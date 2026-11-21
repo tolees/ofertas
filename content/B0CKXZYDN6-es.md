@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tirador de tela en el talón
-- Horma clásica
-- Empeine de nobuk sintético
 - Cierre de cordones
+- Horma clásica
+- Tirador de tela en el talón
+- Empeine de nobuk sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKXZYDN6{{</world>}}

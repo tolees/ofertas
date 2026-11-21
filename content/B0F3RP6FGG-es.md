@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MUJER
-- SNEAKERS
 - V-26
 - ANCHO
 - VERDE
+- SNEAKERS
+- MUJER
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F3RP6FGG{{</world>}}

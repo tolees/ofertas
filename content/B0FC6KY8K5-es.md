@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Short sleeves
 - Regular fit
+- Dockers Herren GRAPHIC TEE REGULAR FIT SHIRT
 - Dockers Graphic tee in cotton jersey
 - Crew neck
-- Dockers Herren GRAPHIC TEE REGULAR FIT SHIRT
-- Short sleeves
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FC6KY8K5{{</world>}}

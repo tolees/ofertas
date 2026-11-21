@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Shonen
 - Aventuras
 - Serie de animación japonesa
 - Dragon Ball
-- Shonen
 - Acción
 
 [🛒 Aquí!!!]({{< param buyurl >}})

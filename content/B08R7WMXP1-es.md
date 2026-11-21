@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Remaches de refuerzo
-- Correa de piel gruesa
-- Cinturón con hebilla de rodillo
 - Hebilla con el grabado de G-Star RAW
+- Cinturón con hebilla de rodillo
+- Correa de piel gruesa
 - Logotipo estampado en el extremo
+- Remaches de refuerzo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08R7WMXP1{{</world>}}

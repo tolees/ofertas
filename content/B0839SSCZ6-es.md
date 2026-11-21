@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mochila mediana Colorblock, monocolor e impreso. 24 l. 100% poliéster reciclado. En colores impresos: debido a la tecnología de impresión utilizada, cada pieza es única y, por lo tanto, puede diferir de la imagen. Compartimentos/cierre: 3 compartimentos principales con cremallera. Bolsillo acolchado para ordenador de 15" en la parte delantera, 2 bolsillos laterales de malla
-- Reinforcement: parte inferior de goma reforzada
 - Correas: tirantes acolchados ajustables
+- Reinforcement: parte inferior de goma reforzada
+- Mochila mediana Colorblock, monocolor e impreso. 24 l. 100% poliéster reciclado. En colores impresos: debido a la tecnología de impresión utilizada, cada pieza es única y, por lo tanto, puede diferir de la imagen. Compartimentos/cierre: 3 compartimentos principales con cremallera. Bolsillo acolchado para ordenador de 15" en la parte delantera, 2 bolsillos laterales de malla
 - 1 bolsillo delantero y 2 bolsillos laterales de malla
 - Correas de hombro/correas de hombro: correas acolchadas ajustables. Refuerzo: refuerzo de goma en la parte inferior ROXY parche de algodón Dimensiones: 46 [h] x 31 [l] x 16,5 [p] cm
 

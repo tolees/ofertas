@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Construcción: __ 6-panel cap
 - Visor/Brim:__ Curved Brim
-- Marca: __ Domed sonic weld logo en el centro frontal
+- Construcción: __ 6-panel cap
 - Fabric:__ Amphibian fabric
+- Marca: __ Domed sonic weld logo en el centro frontal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B098F9ZWKK{{</world>}}

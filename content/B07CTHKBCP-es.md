@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Boots
 - Leather
 - materialFabricComposition: Upper: 100% Cow Leather; Sole: 100% Rubber; Inner: 100% Cow Leather; Insole: 100% Cow Leather
+- Boots
 - Plain
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillos traseros con solapa, cierre a presión oculto
-- Ancho ajustable con cinta en el interior del dobladillo
 - Bolsillos insertados con ribete y bolsillo para monedas
+- Ancho ajustable con cinta en el interior del dobladillo
+- Bolsillos traseros con solapa, cierre a presión oculto
 - Bolsillos tipo cargo en el muslo y bolsillo con cremallera debajo en un lateral
 - Bragueta de cremallera
 

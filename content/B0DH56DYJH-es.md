@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ring Intercom Audio y Cámara interior gratis | Descuento aplicado en ambos artículos al finalizar la compra. Equivale a recibir la Cámara interior sin coste adicional.'
-date: 2026-11-17 11:47:40
+date: 2026-11-21 04:10:55
 image: 'https://m.media-amazon.com/images/I/21sqv2s+IeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DH56DYJH/?tag=tolees-21'
 descuento: '76.93'
-average: '30.323333333333331'
+average: '30.24'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

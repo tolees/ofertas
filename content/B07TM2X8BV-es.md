@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Apto para todo tipo de piel
 - Ofrece una cobertura óptima
+- Apto para todo tipo de piel
 - Fácil de aplicar
 - Marca: Max Factor
 

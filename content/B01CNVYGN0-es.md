@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Aporta cuerpo
 - Brillo sin apelmazar
-- Aplicar sobre el cabello seco o húmedo
 - Combínalo con el champú Dark Oil, el acondicionador Dark Oil y la mascarilla Dark Oil de Sebastian Professionals
 - Contiene aceites de sándalo, cedro y argán
-- Aceite de peinado ligero
-- Aporta cuerpo
+- Aplicar sobre el cabello seco o húmedo
 - Suaviza el cabello hasta 48 horas
+- Aceite de peinado ligero
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01CNVYGN0{{</world>}}

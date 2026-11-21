@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Etiqueta tejida G-Star RAW en la cadera
-- Bolsillos insertados, reforzados con tachuelas
 - Bolsillo para monedas en la costura
 - Bolsillos traseros ribeteados
+- Bolsillos insertados, reforzados con tachuelas
 - Bragueta con cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Acero inoxidable
-- Garantía : 2 años
-- Bol inox 16 cms.
 - La siguiente información se aplica a cada unidad del paquete
 - Diámetro 16 cm
+- Bol inox 16 cms.
+- Garantía : 2 años
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0G5BLRT64{{</world>}}

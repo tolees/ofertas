@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Descubre todas las marcas de EMP!
-- Camiseta con las siguientes características:
-- Básicos
 - Camiseta Mujer || Ajuste normal || Cuello Redondo || Material duradero
+- Básicos
 - Ajuste : Regular
+- Camiseta con las siguientes características:
+- Descubre todas las marcas de EMP!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09FK6VY9Y{{</world>}}

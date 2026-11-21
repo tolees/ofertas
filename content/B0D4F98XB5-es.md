@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una gorra de algodón clásica para los días informales y las actividades al aire libre
 - Con un ajuste posterior de gancho y bucle para un ajuste versátil y regulable, mantendrá tu cabeza a salvo del sol.
-- 100% algodón
 - Provisions Ball Cap es una gorra clásica sin estructura que nunca pasa de moda, con la marca Columbia y que combina fácilmente con una gran variedad de atuendos.
+- 100% algodón
+- Una gorra de algodón clásica para los días informales y las actividades al aire libre
 - Contenido: 1x Columbia Gorra Unisex Provisions, Color: Stone Green, Logo (Verde), Talla: Talla única
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

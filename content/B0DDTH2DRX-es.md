@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Espuma viscoelástica refrigerada por aire
 - Lavable a máquina
-- Ajuste elástico
 - Slip-Ins
+- Ajuste elástico
+- Espuma viscoelástica refrigerada por aire
 - Vegano
 
 [🛒 Visítala!!!]({{< param buyurl >}})

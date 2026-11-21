@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PUMA S portátil
 - Color: negro puma
+- PUMA S portátil
 - Material: sintético
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

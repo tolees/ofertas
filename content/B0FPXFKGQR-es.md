@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic Coche de Carreras BMW M4 GT3 EVO 42226 | Juguetes para niños de 11+ años maqueta de vehículo con motor V6 dirección y puertas que se abren regalo gamer 747 piezas'
-date: 2026-11-19 14:19:26
+date: 2026-11-21 00:23:35
 image: 'https://m.media-amazon.com/images/I/51ODoWjsccL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FPXFKGQR/?tag=tolees-21'
 descuento: '36.93'
-average: '50.197307692307767'
+average: '49.856296296296364'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

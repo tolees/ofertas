@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior en ante y nailon
-- Tobillo y lengüeta acolchados
-- Parche con logotipo en la lengüeta
-- Con detalles distintivos de la marca
 - Puntera reforzada
+- Con detalles distintivos de la marca
+- Parte superior en ante y nailon
+- Parche con logotipo en la lengüeta
+- Tobillo y lengüeta acolchados
 - Cierre con cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

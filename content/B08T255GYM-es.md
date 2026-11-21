@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Edad 3+. El niño debe jugar bajo supervisión adulta.
-- ¡1 rotulador y 10 hojas de papel para comenzar a crear de nuevo!
-- Diseñado y desarrollado en Europa - Fabricado en China.
 - 10 plantillas que guían al niño mientras dibuja y 4 sellos con temática de Paw Patrol.
-- El proyector se abre para guardar todos los accesorios y llévalo contigo a todas partes.
+- Edad 3+. El niño debe jugar bajo supervisión adulta.
+- Diseñado y desarrollado en Europa - Fabricado en China.
+- ¡1 rotulador y 10 hojas de papel para comenzar a crear de nuevo!
 - ¡Un divertido proyector de dibujo para dibujar tus personajes favoritos!
+- El proyector se abre para guardar todos los accesorios y llévalo contigo a todas partes.
 - ¡Fácil de usar gracias a su pantalla luminosa y práctica disposición!
 - Alimentación: 3 pilas AA/LR6 de 1.5V (no incluidas).
 

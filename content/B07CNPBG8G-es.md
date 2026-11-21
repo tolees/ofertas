@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Con etiquetas para los visores: abecedario, meses y personalizable
+- Con tarjetero interior y tarjeta
 - Tamaño folio con 13 posiciones
 - Carpeta separadora de polipropileno con rayado vertical
 - Color verde con cierre de gomas
-- Con tarjetero interior y tarjeta
-- Con etiquetas para los visores: abecedario, meses y personalizable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07CNPBG8G{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Anker Cargador iPhone Carga Rapida USB C 20W con 2 Puertos | Para iPhone 18/18 Pro Max/18 iPhone Pro17/17 Pro Max 16 Plus 15 Air iPad cable USB C 1 5 m'
-date: 2026-11-17 23:59:04
+date: 2026-11-21 08:21:32
 image: 'https://m.media-amazon.com/images/I/21xhLnTuhBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CF8X4H77/?tag=tolees-21'
 descuento: '43.78'
-average: '9.2900000000000009'
+average: '9.1900000000000013'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

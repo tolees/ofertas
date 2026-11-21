@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Extras y accesorios incluidos: incluye manguera de 6.5 metros antienredos, depósito con cestillo extraíble (1,8 litros) y filtro de malla fina (0,15 mm). Cuenta con giro automático y tracción en las ruedas
+- Uso: el robot se desplaza con la presión del agua a hasta 7 metros por minuto por el suelo y las paredes desincrustando y levantado la suciedad
 - Instalación: se debe conectar desde el interior de la piscina, en el conducto de entrada de agua y tras desenroscar la boquilla (compatible con piscinas con conexiones de Ø38 mm y de Ø32 mm)
 - Depuradoras compatibles: para que funcione correctamente debe estar conectado a una de las siguientes depuradoras 28634, 26646, 26648 y 26652
-- Uso: el robot se desplaza con la presión del agua a hasta 7 metros por minuto por el suelo y las paredes desincrustando y levantado la suciedad
 - Robot hidráulico INTEX modelo ZX300 que funciona por presión y limpia suelo y paredes de piscinas medianas y grandes
+- Extras y accesorios incluidos: incluye manguera de 6.5 metros antienredos, depósito con cestillo extraíble (1,8 litros) y filtro de malla fina (0,15 mm). Cuenta con giro automático y tracción en las ruedas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08DJ8JDMB{{</world>}}

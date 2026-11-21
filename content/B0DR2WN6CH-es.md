@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Composición del material: capa exterior: 60 % poliéster, 40 % nailon. Forro: 100 % poliéster. Relleno: 100 % poliéster
-- Manga larga
-- Cuello alto
 - Chaqueta de plumón
+- Composición del material: capa exterior: 60 % poliéster, 40 % nailon. Forro: 100 % poliéster. Relleno: 100 % poliéster
+- Cuello alto
+- Manga larga
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DR2WN6CH{{</world>}}

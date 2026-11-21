@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- La chaqueta tiene bolsillos con cremallera y puños y bajos en rib para mejorar el ajuste
 - Conjunto de chaqueta y pantalón
+- Cintura ajustable mediante cordón
 - Confeccionado en 100 percent poliéster interlock reciclado
 - Cremallera en el bajo del pantalón para quitar y poner con facilidad
-- Cintura ajustable mediante cordón
-- La chaqueta tiene bolsillos con cremallera y puños y bajos en rib para mejorar el ajuste
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09SZ49CTT{{</world>}}

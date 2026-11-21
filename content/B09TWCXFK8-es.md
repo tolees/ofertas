@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Uso principal: mezclar en recetas cosméticas.
-- Nombre botánico: Lavandula Augustifolia
-- Hidrolato de lavanda certificado por Cosmecert en Cosmos Certified.
 - El agua floral de lavanda Cosmos se compone de un hidrolato 100% puro y natural y un conservante que permite la estabilidad del producto. De calidad cosmética, emite un aroma ligero y delicado.
+- Hidrolato de lavanda certificado por Cosmecert en Cosmos Certified.
+- Nombre botánico: Lavandula Augustifolia
+- Uso principal: mezclar en recetas cosméticas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09TWCXFK8{{</world>}}

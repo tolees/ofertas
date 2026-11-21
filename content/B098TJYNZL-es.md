@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Traje de corte muy ajustado
 - Totalmente forrado
+- Traje de corte muy ajustado
 - Solapas y botones brillan un poco
 
 [🛒 Aquí!!!]({{< param buyurl >}})

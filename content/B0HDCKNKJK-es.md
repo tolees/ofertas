@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Baseus Bass BC2 Auriculares Abiertos Auriculares de Clip | CloudComfort Hi-Res Audio LDAC SuperBass 2.0 Bluetooth 6.0 4 Micrófonos con IA 40 h de autonomía IP55 4 8 g'
-date: 2026-11-19 23:39:01
+date: 2026-11-21 09:29:45
 image: 'https://m.media-amazon.com/images/I/21z3dDK3CzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0HDCKNKJK-es Baseus Bass BC2 Auriculares Abiertos Auriculares de Clip |...'
 sku: 'B0HDCKNKJK-es'
 tags: [ '🇪🇸', ]
-actualPrice: 31.58 EUR
+actualPrice: 29.99 EUR
 currency: EUR
-price: 31.58
+price: 29.99
 comparePrice: 49.99 EUR
 prodname: 'Baseus Bass BC2 Auriculares Abiertos Auriculares de Clip | CloudComfort Hi-Res Audio LDAC SuperBass 2.0 Bluetooth 6.0 4 Micrófonos con IA 40 h de autonomía IP55 4 8 g'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0HDCKNKJK/?tag=tolees-21'
-descuento: '36.83'
-average: '32.41'
+descuento: '40.01'
+average: '31.603333333333332'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

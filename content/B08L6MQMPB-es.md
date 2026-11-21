@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ventilador de mesa ideal para camping o uso doméstico
-- Luz LED útil para camping o interiores
-- 20 W de potencia y 5 niveles de velocidad
-- Batería de 10.000 mAh con función de powerbank
 - Oscilación de 110° para una distribución uniforme del aire
+- Luz LED útil para camping o interiores
+- Ventilador de mesa ideal para camping o uso doméstico
+- Batería de 10.000 mAh con función de powerbank
+- 20 W de potencia y 5 niveles de velocidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08L6MQMPB{{</world>}}

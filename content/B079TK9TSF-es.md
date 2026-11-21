@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Tecnología Anti-Secado STABILO: 4 horas destapado sin secarse
+- 2 anchos de trazo: 2 y 5 mm
 - Colores pastel
 - Modelo plano de bolsillo, ideal para la generacióm móbil
 - Calidad Alemana
-- 2 anchos de trazo: 2 y 5 mm
-- Tecnología Anti-Secado STABILO: 4 horas destapado sin secarse
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B079TK9TSF{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cuchillas de acero inoxidable
 - 3 en 1: batidora, batidora y picadora
 - 2 velocidades de funcionamiento
-- Cuchillas de acero inoxidable
 - Motor de CC
 - Potencia: 400 W
 

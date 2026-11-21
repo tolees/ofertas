@@ -31,9 +31,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Wibo, Pintalabios - 1 unidad
 - Wibo, Pintalabios - 1 unidad
 - Wibo, Pintalabios - 1 unidad
+- Wibo, Pintalabios - 1 unidad
+- Wibo, Pintalabios - 1 unidad
 - Tipo de piel: todos
-- Wibo, Pintalabios - 1 unidad
-- Wibo, Pintalabios - 1 unidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07K5S51KM{{</world>}}

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - additional wildlife
-- enhanced damage and weather effects and much more
 - New weapons, vehicles and activities
+- enhanced damage and weather effects and much more
 - Denser traffic
 - new foliage system
 

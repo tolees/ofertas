@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con aberturas laterales; ajuste regular
-- Polo de rayas estampadas
 - Con una pequeña marca impresa en el pecho
+- Polo de rayas estampadas
+- Con aberturas laterales; ajuste regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FFTR6Y64{{</world>}}

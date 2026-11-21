@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Con 2 asas
-- Con revestimiento antiadherente
 - 30 cm
+- Con revestimiento antiadherente
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B013EBNNJQ{{</world>}}

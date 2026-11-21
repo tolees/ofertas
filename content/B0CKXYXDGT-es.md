@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'adidas Hombre Vs Pace 2.0 Shoes Core Black / Cloud White / Bronze Strata 43 1/3 EU'
-date: 2026-07-12 10:08:21
-image: 'https://m.media-amazon.com/images/I/21zDmocictL._SL500_._SL400_.jpg'
+title: 'adidas Hombre Vs Pace 2.0 Shoes Core Black/Ftwr White/Bronze Strata 43 1/3 EU'
+date: 2026-11-20 18:27:07
+image: 'https://m.media-amazon.com/images/I/21htmXTv7dL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0CKXYXDGT-es adidas Hombre Vs Pace 2.0 Shoes Core Black / Cloud White /...'
+slug: 'B0CKXYXDGT-es adidas Hombre Vs Pace 2.0 Shoes Core Black/Ftwr...'
 sku: 'B0CKXYXDGT-es'
 tags: [ '🇪🇸', ]
-actualPrice: 27.5 EUR
+actualPrice: 32.31 EUR
 currency: EUR
-price: 27.5
+price: 32.31
 comparePrice: 55.0 EUR
-prodname: 'adidas Hombre Vs Pace 2.0 Shoes Core Black / Cloud White / Bronze Strata 43 1/3 EU'
+prodname: 'adidas Hombre Vs Pace 2.0 Shoes Core Black/Ftwr White/Bronze Strata 43 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CKXYXDGT/?tag=tolees-21'
-descuento: '50.00'
-average: '31.48'
+descuento: '41.25'
+average: '31.6875'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre de cordones
-- Horma clásica
-- Tirador de tela en el talón
-- Empeine de nobuk sintético
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKXYXDGT{{</world>}}

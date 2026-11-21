@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Apto para pieles sensibles; no deja químicos abrasivos en la ropa que puedan causar una reacción adversa en pieles sensibles; dermatológicamente testado
-- Detergente para la lavadora ecológico líquido con ingredientes de origen botánico tan efectivo como los productos convencionales
 - Fragancia con aceites esenciales con aroma a jazmín fresco y lavanda silvestre
 - Formulado con un 97 % de ingredientes de origen natural, 0 % colorantes o abrillantadores artificiales; con certificado Ecolabel
+- Apto para pieles sensibles; no deja químicos abrasivos en la ropa que puedan causar una reacción adversa en pieles sensibles; dermatológicamente testado
 - Envases respetuosos con el medio ambiente; pack 100 % reciclable y fabricado con hasta un 50 % de material reciclado
+- Detergente para la lavadora ecológico líquido con ingredientes de origen botánico tan efectivo como los productos convencionales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08JDHYVM9{{</world>}}

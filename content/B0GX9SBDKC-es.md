@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'XIAOMI REDMI Pad 2 4+256GB Tablet de 11" 2.5K Gris Batería de 9000 mAh | Pantalla crystal-clear MediaTek G100-Ultra Xiaomi HyperOS 2 WiFi 5 + Bluetooth 5.3 1 año de garantía Extra'
-date: 2026-11-19 08:52:02
+date: 2026-11-21 02:11:11
 image: 'https://m.media-amazon.com/images/I/41SexRJlRwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GX9SBDKC/?tag=tolees-21'
 descuento: '35.73'
-average: '218.233333333334'
+average: '212.75714285714341'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

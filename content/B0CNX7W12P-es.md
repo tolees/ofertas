@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Detalles de la marca
-- Ajuste normal
-- Puntera redonda
 - Parte superior sintética ligera
+- Detalles de la marca
+- Puntera redonda
+- Ajuste normal
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CNX7W12P{{</world>}}

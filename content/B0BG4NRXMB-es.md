@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- GAFAS DE SOL DE OJO DE GATO DE PLÁSTICO
 - LENTES POLARIZADAS
+- GAFAS DE SOL DE OJO DE GATO DE PLÁSTICO
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BG4NRXMB{{</world>}}

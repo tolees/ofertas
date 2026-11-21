@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Plantilla acolchada
-- Altura tacón: 5cm
 - Material : piel
+- Altura tacón: 5cm
 - adorno flecos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

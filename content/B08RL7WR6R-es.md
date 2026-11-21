@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillos: bolsillos de acceso lateral
 - Longitud : longitud de 33 cm
+- Bolsillos: bolsillos de acceso lateral
 - tejido reciclado: tejido reciclado Super Suede
 - Bolsillos traseros
 - Slip interior de malla

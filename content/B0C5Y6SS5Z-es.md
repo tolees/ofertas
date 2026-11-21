@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Presenta un estilo casual
-- Detalles distintivos de la marca
 - Tejido ligero y transpirable
+- Detalles distintivos de la marca
+- Presenta un estilo casual
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C5Y6SS5Z{{</world>}}

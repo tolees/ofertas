@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bermuda de hombre lisa de tejido 97% algodón y 3% elastán.
 - Tiene dos bolsillos laterales y bolsillos traseros.Trabillas para el cinturón y tiene el chapón del logo cosido encima del bolsillo trasero.
 - Incluye cinturón de canvas.
+- Bermuda de hombre lisa de tejido 97% algodón y 3% elastán.
 - Corte Regular Fit, cierre mediante cremallera oculta por tapeta y botón.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

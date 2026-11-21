@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Peso ligero
-- Parte superior de cuero sintético duradero
 - Parte delantera con cordones anchos
 - Skechers Detalle del logotipo
+- Peso ligero
+- Parte superior de cuero sintético duradero
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C9M1TM3G{{</world>}}

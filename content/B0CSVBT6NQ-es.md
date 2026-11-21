@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Modelo K-250: Cartucho de gas butano de alto rendimiento.
 - Compatibilidad con quemadores, sopletes y cocinas portátiles: Ideal para diversas aplicaciones en camping y actividades al aire libre.
 - Material de óptima calidad: Producto fabricado con materiales duraderos para un uso confiable y seguro.
-- Modelo K-250: Cartucho de gas butano de alto rendimiento.
 - Contenido 100% de gas butano: Garantiza una combustión eficiente y potente.
 - Cartucho desechable con válvula de seguridad: Conexión y desconexión sencillas con una válvula de seguridad incorporada para mayor tranquilidad.
 

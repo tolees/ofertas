@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pequeña y ligera, la mochila JanSport Half Pint Mini es la mochila perfecta para llevar y llevar
-- 100 % poliéster reciclado de 600 denier
-- Correas de hombro ajustables
 - Bolsillo frontal con cremallera
+- Correas de hombro ajustables
+- 100 % poliéster reciclado de 600 denier
+- Pequeña y ligera, la mochila JanSport Half Pint Mini es la mochila perfecta para llevar y llevar
 - Un compartimento principal
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

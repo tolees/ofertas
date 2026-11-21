@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'S&M 321771 - Kit completo butano: Regulador de gas butano + Tubo Goma 1 5 metros + 2 abrazaderas de seguridad | Homologado para España | Apto para cocinas estufas calderas y barbacoas'
-date: 2026-11-18 12:50:42
+date: 2026-11-20 21:00:04
 image: 'https://m.media-amazon.com/images/I/41Y+74I3dXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00U8SA6NA/?tag=tolees-21'
 descuento: '44.84'
-average: '11.109642857142683'
+average: '11.071034482758453'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

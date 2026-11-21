@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Original Housemark V-Neck T-Shirt para Hombre White M'
-date: 2026-11-19 09:49:17
+date: 2026-11-20 20:53:20
 image: 'https://m.media-amazon.com/images/I/31rUuNlHv6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SKWQH38/?tag=tolees-21'
 descuento: '51.00'
-average: '14.953043478260788'
+average: '14.736799999999924'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

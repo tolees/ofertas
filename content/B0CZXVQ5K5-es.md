@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100% poliéster (reciclado)
-- Talle medio
 - Corte clásico
-- Bolsillos frontales
 - Cintura elástica con cordón
+- Talle medio
+- 100% poliéster (reciclado)
+- Bolsillos frontales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZXVQ5K5{{</world>}}

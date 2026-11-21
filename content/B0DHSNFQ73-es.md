@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Empeine de malla
 - Forro textil
 - Suela de goma que no deja marcas para pista cubierta
+- Empeine de malla
 - Horma clásica
 
 [🛒 Aquí!!!]({{< param buyurl >}})

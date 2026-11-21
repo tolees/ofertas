@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cubierta de cartón rígido con dos acabados distintos, brillante y mate. Espiral de plástico flexible y resistente, no se deforma.
 - Papel de 95 gr/m² de alta calidad, microperforado y con 2 taladros. Iniciador de corte para facilitar la separación de cada hoja.
-- 80 hojas de papel pautado a líneas (línea simple de 7 mm).
 - Color verde. Colección MILAN nata 624 since 1918, inspirada en los colores y diseño originales de las gomas de borrar MILAN, fabricadas en España desde 1918.
+- Cubierta de cartón rígido con dos acabados distintos, brillante y mate. Espiral de plástico flexible y resistente, no se deforma.
 - Cuaderno A5 con tapa dura y espiral.
+- 80 hojas de papel pautado a líneas (línea simple de 7 mm).
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DSL9P3XW{{</world>}}

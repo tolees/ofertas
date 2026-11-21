@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tejido principal que contiene, al menos, un 30 % de poliéster reciclado, sin incluir ribetes ni adornos
-- Material que capilariza el sudor y se seca rápidamente
-- Cuello de pico
 - Tejido UA Tech de secado rápido, ultrasuave y de tacto más natural
+- Material que capilariza el sudor y se seca rápidamente
 - La tela principal contiene al menos un 30% de poliéster reciclado, excluyendo los adornos y adornos
+- Cuello de pico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F35DQCTY{{</world>}}

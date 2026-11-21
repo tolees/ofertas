@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- LIMPIA Y DESMAQUILLA: Limpia y desmaquilla de un solo gesto. Elimina maquillaje e impurezas sin alterar la barrera hidrolipídica de la piel. Además, tiene efecto frescor inmediato y su fórmula es hipoalergénica
-- ACTIVOS DESPIGMENTANTES: Aparte de linpiar tu piel, cuenta con activos despigmentantes que atenúan manchas e imperfecciones. Contiene también activos antipolución y calmantes
 - CAMOMILA: Con extracto de camomila que ayuda a calmar la sensación de irritación, desvanece las rojeces y proporciona a la piel un extra de suavidad y confort.
+- ACTIVOS DESPIGMENTANTES: Aparte de linpiar tu piel, cuenta con activos despigmentantes que atenúan manchas e imperfecciones. Contiene también activos antipolución y calmantes
 - MODO DE USO: Aplicar una pequeña cantidad en algodón, limpiar y desmaquillar el rostro, ojos y labios con suavidad. No es necesario aclarar. Evitar el contacto directo con los ojos.
+- LIMPIA Y DESMAQUILLA: Limpia y desmaquilla de un solo gesto. Elimina maquillaje e impurezas sin alterar la barrera hidrolipídica de la piel. Además, tiene efecto frescor inmediato y su fórmula es hipoalergénica
 - PIELES SENSIBLES: Es una agua micelar facial con ingredientes de origen natural para una limpieza profunda de la piel. Para pieles sensibles y delicadas Formulada con un 87% de ingredientes de origen natural
 
 [🛒 Visítala!!!]({{< param buyurl >}})

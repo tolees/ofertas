@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Largo: estándar
-- Corte: estándar
-- Cuello: cuello redondo
 - Material principal: punto simple
+- Largo: estándar
+- Cuello: cuello redondo
 - Manga corta
+- Corte: estándar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F7H6S48Z{{</world>}}

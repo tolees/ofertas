@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Suela de goma Cold Cement
 - Empeine de piel
-- Cordones
 - Plantilla textil sintética
 - Horma clásica
+- Cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F1X121TR{{</world>}}

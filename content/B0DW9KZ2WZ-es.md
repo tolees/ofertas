@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Largo: Midi
-- Sin mangas
-- Fit: Regular
-- Estampado geomñetrico
-- Cuello: Redondo
 - Desigual
+- Fit: Regular
+- Largo: Midi
+- Cuello: Redondo
+- Sin mangas
+- Estampado geomñetrico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DW9KZ2WZ{{</world>}}

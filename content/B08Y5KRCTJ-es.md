@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca: Erborian
-- Apto para todo tipo de piel
 - Proporciona una limpieza óptima
+- Apto para todo tipo de piel
+- Marca: Erborian
 - Producto de cuidado personal
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

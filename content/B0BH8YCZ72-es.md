@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- INSTRUCCIONES: Guardar en el congelador durante más de 2 horas antes de usar.
 - MANTIENE EL FRÍO 5 HORAS: Perfecto para fiestas o eventos, podrás meter botellas sin parar durante 5 horas y siempre las tendrás a la temperatura perfecta.
+- INSTRUCCIONES: Guardar en el congelador durante más de 2 horas antes de usar.
 - ENFRIA LA BOTELLA EN 15 MIN: Enfriador ultra rápido, hecho en plástico libre de BPA con doble pared y en su interior un gel congelante.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

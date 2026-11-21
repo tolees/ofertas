@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sofisticado y chic, este diseño asimétrico de gafas de sol en acero inoxidable combina aros semiredondeados en negro pulido, puente y patillas en color oro rosa, terminales negros y lentes marrones
-- Material de la montura: Metal; Color de la montura: Dorado; Color de la varilla: Dorado
-- Modelo Unisex; Medidas: Frontal 134 mm, Varillas 140 mm, Puente 19 mm, Alto 48 mm
-- Gafas de sol polarizadas: Reduce los reflejos superficiales y la fatiga ocular proporcionando nitidez y contrastes superiores; Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes fabricadas en material bio tac polarizado; protección 100 % UV; Color de la lente: Marrón; Apariencia de la lente: Sólida
 - Producto original Hawkers; la caja incluye funda en microfibra y caja
+- Gafas de sol polarizadas: Reduce los reflejos superficiales y la fatiga ocular proporcionando nitidez y contrastes superiores; Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes fabricadas en material bio tac polarizado; protección 100 % UV; Color de la lente: Marrón; Apariencia de la lente: Sólida
+- Material de la montura: Metal; Color de la montura: Dorado; Color de la varilla: Dorado
+- Sofisticado y chic, este diseño asimétrico de gafas de sol en acero inoxidable combina aros semiredondeados en negro pulido, puente y patillas en color oro rosa, terminales negros y lentes marrones
+- Modelo Unisex; Medidas: Frontal 134 mm, Varillas 140 mm, Puente 19 mm, Alto 48 mm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D3FH7SFP{{</world>}}

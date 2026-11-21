@@ -31,8 +31,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - Forro de piel sintética; suela de goma color caramelo
 - Parte superior de piel granulada con refuerzos de ante y detalles dorados
 - Horma clásica
-- Suela vintage: El dibujo de la suela con punto de pivote se inspira en el calzado de fútbol vintage
 - Diseño auténtico: El auténtico estilo Samba
+- Suela vintage: El dibujo de la suela con punto de pivote se inspira en el calzado de fútbol vintage
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07D72RZZC{{</world>}}

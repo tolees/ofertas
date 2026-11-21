@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Se deslizan cómodamente sobre el papel
-- Set de dos bolis de colores alegres
 - Tienen un diseño elegante
-- Ideal como regalo
+- Set de dos bolis de colores alegres
+- Se deslizan cómodamente sobre el papel
 - Con tinta negra y azul
+- Ideal como regalo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B074MK18DP{{</world>}}

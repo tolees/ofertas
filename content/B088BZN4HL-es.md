@@ -28,18 +28,18 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido de mezcla de algodón elástico sin arrugas
-- Welt pockets
-- Slim fit
-- Cuenta con un bolsillo de seguridad con cremallera oculto y un compartimento para monedas
 - Signature Khaki Slim
-- Bragueta con cremallera
-- Wrinkle-free stretch cotton blend fabric
-- Refined chino pants with no wrinkle technology
+- Tejido de mezcla de algodón elástico sin arrugas
 - Pantalones chinos refinados con tecnología antiarrugas
 - Signature Khaki Slim
-- Zip fly
 - Slim fit
+- Zip fly
+- Wrinkle-free stretch cotton blend fabric
+- Refined chino pants with no wrinkle technology
+- Slim fit
+- Bragueta con cremallera
+- Cuenta con un bolsillo de seguridad con cremallera oculto y un compartimento para monedas
+- Welt pockets
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B088BZN4HL{{</world>}}

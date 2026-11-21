@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Plataforma Powershare. Batería extraíble e intercambiable con todas las herramientas eléctricas y de jardín de la gama 20V y 40V (2x20V) de Worx
-- Corta todo tipo de materiales: ramas, madera, PVC, aluminio, acero,...
+- Compatible con cuchillas de sierra sable estándar
 - Ideal para utilizar tanto en tareas de jardín como para el hogar
 - Cambio de cuchillas fácil sin herramientas para mayor rapidez y comodidad
-- Compatible con cuchillas de sierra sable estándar
+- Corta todo tipo de materiales: ramas, madera, PVC, aluminio, acero,...
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07C7GYSTS{{</world>}}

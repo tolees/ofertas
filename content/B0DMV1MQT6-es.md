@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Capacidad: 20,75 L
-- Tamaño: 15 cm × 29 cm × 40 cm
-- 100% poliéster (reciclado)
 - Correas ajustables para los hombros
+- Tamaño: 15 cm × 29 cm × 40 cm
+- Capacidad: 20,75 L
+- 100% poliéster (reciclado)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DMV1MQT6{{</world>}}

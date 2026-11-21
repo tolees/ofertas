@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PREPARA SUAVEMENTE EL CABELLO: Para un posterior tratamiento reparador y una rutina de cuidado capilar.
-- CHAMPÚ TEXTURA EN CREMA LIGERA: Fórmula espumosa con una textura envolvente y un aroma sutil para el cabello.
 - CON AHA Y OMEGA 9: Fortalece y reconstruye el cabello desde el interior.
-- CUIDADO CAPILAR VEGANO, TESTADO DERMATOLÓGICAMENTE: Comprometido con el no testado en animales.* *Wella Company es miembro de la International Collaboration on Cosmetics Safety.
+- PREPARA SUAVEMENTE EL CABELLO: Para un posterior tratamiento reparador y una rutina de cuidado capilar.
 - TECNOLOGÍA METAL PURIFIER: Formulado para purificar y desintoxicar el cabello de los metales.
+- CHAMPÚ TEXTURA EN CREMA LIGERA: Fórmula espumosa con una textura envolvente y un aroma sutil para el cabello.
+- CUIDADO CAPILAR VEGANO, TESTADO DERMATOLÓGICAMENTE: Comprometido con el no testado en animales.* *Wella Company es miembro de la International Collaboration on Cosmetics Safety.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C4PQKTGP{{</world>}}

@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Transpirable, permeabilidad al vapor de agua 3.000 g/m²/24 h
-- Chaqueta acolchada de invierno para niños con degradado de c
-- Impregnación sin PFA, buena para usted y el medio ambiente
-- puños ajustables con puños de lycra
-- protector de nieve antideslizante, inserción de malla, vario
-- Capucha ajustable, dobladillo ajustable
 - 10.000 mm de columna de agua, repelente al agua, cortaviento
+- Capucha ajustable, dobladillo ajustable
+- Impregnación sin PFA, buena para usted y el medio ambiente
+- Chaqueta acolchada de invierno para niños con degradado de c
+- puños ajustables con puños de lycra
+- Transpirable, permeabilidad al vapor de agua 3.000 g/m²/24 h
+- protector de nieve antideslizante, inserción de malla, vario
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DCZW4ZCW{{</world>}}

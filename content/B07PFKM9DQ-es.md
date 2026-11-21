@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sacapuntas doble
 - Modelo preciso
-- Para lápices formato estándar y formato jumbo
-- Almacenamiento integrado
 - Práctico
+- Sacapuntas doble
+- Almacenamiento integrado
+- Para lápices formato estándar y formato jumbo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07PFKM9DQ{{</world>}}

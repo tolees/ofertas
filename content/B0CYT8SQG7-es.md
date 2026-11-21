@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cerveza estilo lager especial tostada sin alcohol
-- De color dorado oscuro y espuma cremosa; de cuerpo medio y amargor suave
-- Consumirla entre 2° y 4°C para obtener sus óptimas cualidades
-- 0.0 % de alcohol en volumen; maltas tostadas en 3 tiempos: secado, tostación y golpe de fuego
 - Ingredientes: agua tratada, 100% con mexcla de maltas de cebadas claras y oscuras, lúpulo y levadura Amstel
+- De color dorado oscuro y espuma cremosa; de cuerpo medio y amargor suave
+- Cerveza estilo lager especial tostada sin alcohol
+- 0.0 % de alcohol en volumen; maltas tostadas en 3 tiempos: secado, tostación y golpe de fuego
+- Consumirla entre 2° y 4°C para obtener sus óptimas cualidades
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CYT8SQG7{{</world>}}

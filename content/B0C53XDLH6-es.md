@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Horma clásica
-- Parte de piel revestida
 - Mediasuela con amortiguación
 - Forro textil
+- Parte de piel revestida
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C53XDLH6{{</world>}}

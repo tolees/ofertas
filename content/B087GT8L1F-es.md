@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Sistema SDS de cambio de hoja sin herramientas: perfecta cuando en el mismo proyecto necesitas alternar hojas de madera, metal y ramas, cambiando de accesorio en segundos sin buscar llaves Allen ni destornilladores, manteniendo el ritmo de trabajo especialmente en reformas donde el tiempo de ejecución importa
+- Velocidad variable para control preciso del corte: perfecta cuando trabajas en materiales que requieren distinta agresividad, como madera blanda que se puede astillar con mucha velocidad o metal que necesita velocidad controlada para no recalentar la hoja, ajustando la velocidad exacta según el material en todo momento
 - Patín pivotante ajustable para cortes en cualquier ángulo: ideal para derribo y rehabilitación de obras donde necesitas cortar en ángulos difíciles, entre paredes, bajo tuberías o en zonas donde la sierra tiene que ir girada, el patín se adapta a la posición de trabajo sin tener que forzar la muñeca ni el brazo
 - PowerShare 20V sin batería ni cargador: te permite usar las baterías que ya tienes de tu gama WORX, ideal para añadir una sierra de sable al taller sin coste adicional de batería, compatible con más de 200 herramientas de la plataforma de 20V, 40V y 80V para completar el equipo de obra y reforma
 - Mango delantero para menos vibración y mejor agarre: te permite guiar con precisión la sierra en cortes largos y en posiciones donde necesitas dos puntos de apoyo para controlar la herramienta, ideal en trabajos de demolición donde la vibración intensa durante tiempo prolongado fatiga los brazos si no hay agarre frontal
-- Velocidad variable para control preciso del corte: perfecta cuando trabajas en materiales que requieren distinta agresividad, como madera blanda que se puede astillar con mucha velocidad o metal que necesita velocidad controlada para no recalentar la hoja, ajustando la velocidad exacta según el material en todo momento
-- Sistema SDS de cambio de hoja sin herramientas: perfecta cuando en el mismo proyecto necesitas alternar hojas de madera, metal y ramas, cambiando de accesorio en segundos sin buscar llaves Allen ni destornilladores, manteniendo el ritmo de trabajo especialmente en reformas donde el tiempo de ejecución importa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B087GT8L1F{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bolsillos en las costuras laterales
-- Interlock 100% poliéster reciclado
 - Corte clásico
 - Tecnología transpirable AEROREADY
+- Bolsillos en las costuras laterales
+- Interlock 100% poliéster reciclado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BV37CBCK{{</world>}}

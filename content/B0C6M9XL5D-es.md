@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B Pro Series 1 Cepillo de Dientes Eléctrico 1 Cabezal Negro | con Mango Recargable Y 1 Recambio 3 Modos de Cepillado Temporizador Y Sensor de Presión Diseñado por Braun'
-date: 2026-11-20 15:56:57
+date: 2026-11-20 16:04:12
 image: 'https://m.media-amazon.com/images/I/41md742THNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0C6M9XL5D/?tag=tolees-21'
 descuento: '35.96'
-average: '36.255517241379344'
+average: '36.113333333333365'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

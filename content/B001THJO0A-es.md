@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color blanco
-- Potencia 1400.0
 - La anchura de trabajo es de 110 mm. Adecuado para dispositivos: SE 4001, SE 4002, SE 5.100 y SE 6.100
+- Potencia 1400.0
+- Color blanco
 - Esta boquilla se ajusta solo a una gama de inyectores extractores como se menciona en la hoja del producto, no se debe usar en otro dispositivo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

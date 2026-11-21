@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ghd Platinum+ - Plancha de Pelo Profesional Inteligente - Blanca | Tecnología predictiva Ultra-zone más brillo y protección de color - Para todo tipo de cabello - Enchufe Europeo'
-date: 2026-11-19 11:46:02
+date: 2026-11-20 20:58:00
 image: 'https://m.media-amazon.com/images/I/31HY4Rng6LL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CCYSB19S/?tag=tolees-21'
 descuento: '41.47'
-average: '179.59759999999901'
+average: '179.47792207792111'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

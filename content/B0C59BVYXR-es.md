@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cierre de cordones
+- Empeine de piel sintética
 - Horma clásica
 - Mediasuela con amortiguación
-- Empeine de piel sintética
-- Cierre de cordones
 - Suela de goma vulcanizada
 - Forro textil
 

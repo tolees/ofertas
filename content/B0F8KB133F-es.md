@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estampado : Estampa en la parte delantera del producto, Estampado con pigmentos para un acabado delicado en los tejidos más ligeros
+- Mangas : Sisa en disminución
 - Modo de vida : Tradicional
 - Manga : Manga corta
+- Estampado : Estampa en la parte delantera del producto, Estampado con pigmentos para un acabado delicado en los tejidos más ligeros
 - Cuello : Cuello redondo
-- Mangas : Sisa en disminución
 - Artículo : Camiseta
 - Corte : Corte relaxed
 

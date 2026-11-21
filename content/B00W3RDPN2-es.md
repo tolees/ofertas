@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sudadera con cremallera, ajustada en puños y cintura
 - Ofrece resistencia, transpiración y durabilidad
+- Sudadera con cremallera, ajustada en puños y cintura
 - Ideal para prácticas deportivas al aire libre, como running
 - Fabricada en 100% poliéster
 

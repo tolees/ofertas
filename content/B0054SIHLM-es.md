@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 41cl
 - Fabricado en francia
-- Apto frigorífico
 - Facil de limpiar
 - No microondas
+- 41cl
+- Apto frigorífico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0054SIHLM{{</world>}}

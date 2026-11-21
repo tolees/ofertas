@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Detalles de la marca PUMA
+- Peso de la zapatilla: 275 g (talla 42)
 - Drop del talón a los dedos: 8 mm
 - Recomendado para: pisada neutra
 - Empeine de malla técnica
-- Detalles de la marca PUMA
-- Peso de la zapatilla: 275 g (talla 42)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F63BZSFW{{</world>}}

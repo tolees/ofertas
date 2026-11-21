@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 5000 lados
-- Número de páginas impresas: 5000
 - Color magenta
 - Producto de alta calidad marca epson
+- Número de páginas impresas: 5000
+- 5000 lados
 - Dispositivos compatibles: ET7700
 
 [🛒 Comprar!!!]({{< param buyurl >}})

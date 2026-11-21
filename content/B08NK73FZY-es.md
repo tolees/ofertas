@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Abrigo extralargo.
 - Gabardina.
+- Abrigo extralargo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08NK73FZY{{</world>}}

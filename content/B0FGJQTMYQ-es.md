@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tenis clásicos Brady Cute W fabricados en material de fantasía con bordados
-- Etiqueta con logotipo en el cuarto, zorro y suela bicolor personalizados de perfil bajo
 - 100 % poliéster
+- Etiqueta con logotipo en el cuarto, zorro y suela bicolor personalizados de perfil bajo
+- Tenis clásicos Brady Cute W fabricados en material de fantasía con bordados
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FGJQTMYQ{{</world>}}

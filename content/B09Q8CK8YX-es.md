@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nerf Elite 2.0 Commander RD 6'
-date: 2026-11-20 00:52:16
+date: 2026-11-21 04:32:33
 image: 'https://m.media-amazon.com/images/I/41eI+nwF+1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09Q8CK8YX/?tag=tolees-21'
 descuento: '42.34'
-average: '9.8769230769230845'
+average: '9.5586666666666726'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

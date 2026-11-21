@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela de tracción flexible
-- Entresuela flexible que absorbe los golpes
 - Plantilla acolchada y cómoda
+- Entresuela flexible que absorbe los golpes
+- Suela de tracción flexible
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08MTVL7RL{{</world>}}

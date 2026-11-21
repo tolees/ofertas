@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Gorro invernal
 - Prenda para varones adultos
 - Tiene detalles distintivos de la marca
+- Gorro invernal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B6GG73HH{{</world>}}

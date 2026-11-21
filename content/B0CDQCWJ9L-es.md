@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Empeine sintético
 - Forro sintético
+- Empeine sintético
 - Horma clásica
 - Suela de goma
 - Cierre de cordones

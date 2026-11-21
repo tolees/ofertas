@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 3,5- 13kg, desde 53cm
 - Ajustable
+- 3,5- 13kg, desde 53cm
 - De 0 a 2 años
 - Ergonómica
 

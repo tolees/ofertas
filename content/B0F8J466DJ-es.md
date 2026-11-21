@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Diseño retro inspirado en el modelo original de 1972.
 - Suela con patrón de espiga para mayor tracción y durabilidad.
 - Entresuela suave para una comodidad duradera.
-- Diseño retro inspirado en el modelo original de 1972.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F8J466DJ{{</world>}}

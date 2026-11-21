@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fit: Regular
-- Cuello: Redondo
-- Manga: Larga
 - Tejido con textura
 - Estamado floral
+- Manga: Larga
+- Cuello: Redondo
+- Fit: Regular
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DWBGXSKD{{</world>}}

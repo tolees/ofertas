@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Go Walk Flex Vespid Zapatillas para Hombre Black and Red Textile 43.5 EU'
-date: 2026-10-27 18:30:29
+date: 2026-11-21 02:06:30
 image: 'https://m.media-amazon.com/images/I/31xd9pC1YVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Etiqueta del logo en la lengüeta
-- Suela gruesa de goma
 - Rayas en grosgrain en el talón
 - Tobillo acolchado
+- Etiqueta del logo en la lengüeta
+- Suela gruesa de goma
 - Zapatillas de Reebok diseñadas para el deporte
 - Tejido transpirable
 

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dobladillo ajustable y banda integrada
 - Bolsillos cargo en el muslo, cierre de botón a presión oculto, bolsillo trasero con cremallera
+- Dobladillo ajustable y banda integrada
 - Bolsillos traseros con solapa, cierre de botón a presión oculto
 - Bolsillos insertados, cinta tejida a lo largo del borde, bolsillo para monedas oculto en la cintura
 - Cremallera

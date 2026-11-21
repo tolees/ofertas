@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cuenta con tecnología DRY MIX para controlar la humedad corporal
 - Composición de 100 percent poliéster
 - Camiseta diseñada en cuello redondo
-- Cuenta con tecnología DRY MIX para controlar la humedad corporal
 - Material ligero y suave en la piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})

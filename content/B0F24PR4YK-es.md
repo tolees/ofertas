@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Caja y movimiento: caja de 38 mm, correa de 18 mm de ancho, cristal mineral resistente a arañazos, movimiento preciso de cuarzo con pantalla analógica con tres agujas, importado.
 - Michael Kors es un diseñador de accesorios de lujo y prêt-à-porter de renombre mundial y galardonado con numerosos premios, dotado de un sentido innato del glamour y un ojo infalible para la elegancia atemporal.
 - Resistente al agua: Hasta 50 m: Se puede usar durante períodos cortos de natación recreativa y ducha, pero no para bucear ni practicar esnórquel; 5 ATM.
-- Esfera: Caja redonda de acero inoxidable en tono oro rosa con esfera blanca con efecto «rayos de sol».
 - Correa de reloj: Correa de piel auténtica en color rosa autorregulable para un ajuste personalizado.
+- Esfera: Caja redonda de acero inoxidable en tono oro rosa con esfera blanca con efecto «rayos de sol».
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F24PR4YK{{</world>}}

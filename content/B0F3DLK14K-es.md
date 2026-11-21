@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Talla única
 - Contiene al menos un 50% de material reciclado y renovable
 - Visera curvada de tamaño medio
-- Talla única
 - 100% algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})

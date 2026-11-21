@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte : Corte regular
 - Manga : Manga larga
 - Cuello : Cuello redondo
+- Corte : Corte regular
 - Artículo : Jersey de punto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

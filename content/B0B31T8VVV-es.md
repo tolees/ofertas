@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre autoadherente
 - Empeine de material sintético
 - Suela de goma
+- Cierre autoadherente
 - La parte superior contiene al menos un 50% de material reciclado
 - Horma clásica
 - Forro textil

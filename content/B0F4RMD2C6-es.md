@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello redondo
-- Gran inscripción de inspiración universitaria en el pecho
-- Corte clásico
 - 100% algodón
 - Pequeño logotipo debajo
+- Corte clásico
+- Cuello redondo
+- Gran inscripción de inspiración universitaria en el pecho
 - Tejido de punto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

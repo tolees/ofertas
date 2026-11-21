@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aceite capilar ligero ideal para cabellos largos con tendencia al encrespamiento. Enriquecido con aceite de rosa silvestre para un cabello sedoso, suave y ultrabrillante.
 - El cabello queda suave, ultrabrillante y sin encrespamiento durante 4 días.
 - Aplicar unas gotas en largos y puntas. Aplicar sobre el cabello seco o secado con toalla.
+- Aceite capilar ligero ideal para cabellos largos con tendencia al encrespamiento. Enriquecido con aceite de rosa silvestre para un cabello sedoso, suave y ultrabrillante.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DQV1FQ49{{</world>}}

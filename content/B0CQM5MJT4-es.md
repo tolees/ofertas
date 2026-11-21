@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con bolsillos
-- Ofrece una comodidad óptima
-- Sudadera para hombre de la marca danesa JACK & JONES
-- Con cremallera
 - Corte regular
+- Ofrece una comodidad óptima
+- Con bolsillos
+- Con cremallera
+- Sudadera para hombre de la marca danesa JACK & JONES
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CQM5MJT4{{</world>}}

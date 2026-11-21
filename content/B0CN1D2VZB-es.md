@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Óptimo para regalo; el regalo adecuado para los más fanáticos del cine y TV
-- Tamaño optimo para coleccionar; con 12 cm de altura, esta mini figura encaja en tu vitrina o en tu escritorio
-- Figura de 12 cm detallada basada en los personajes de tus películas favoritas
-- Una generación de coleccionables: expande tu colección de Minix
 - Packaging de coleccionista
+- Una generación de coleccionables: expande tu colección de Minix
+- Figura de 12 cm detallada basada en los personajes de tus películas favoritas
+- Tamaño optimo para coleccionar; con 12 cm de altura, esta mini figura encaja en tu vitrina o en tu escritorio
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CN1D2VZB{{</world>}}

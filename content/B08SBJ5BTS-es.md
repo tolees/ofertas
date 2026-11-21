@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Educa - Detectives Piratas Puzzle Infantil de 50 Piezas Móntalo y Busca los Objetos escondidos 4 años 18896'
-date: 2026-11-02 10:04:35
+date: 2026-11-20 22:55:31
 image: 'https://m.media-amazon.com/images/I/51h9E0+GlaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08SBJ5BTS/?tag=tolees-21'
 descuento: '41.70'
-average: '7.75'
+average: '7.6414285714285715'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

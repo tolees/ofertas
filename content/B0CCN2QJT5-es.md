@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Requiere un receptor RØDE Series IV para funcionar (incluyendo Wireless ME RX, Wireless GO II RX, RØDECaster Pro II, RØDECaster Duo o Streamer X)
 - Transmisión digital Serie IV de 2.4 GHz para grabaciones nítidas con un rango de más de 100 metros.
 - Transmisor inalámbrico fácil de usar para el sistema inalámbrico RØDE Series IV
-- Batería de iones de litio recargable incorporada: hasta 7 horas de duración de la batería
-- La tecnología Intelligent GainAssist ajusta automáticamente los niveles de volumen sobre la marcha
 - Micrófono omnidireccional de alta calidad incorporado
+- Requiere un receptor RØDE Series IV para funcionar (incluyendo Wireless ME RX, Wireless GO II RX, RØDECaster Pro II, RØDECaster Duo o Streamer X)
+- La tecnología Intelligent GainAssist ajusta automáticamente los niveles de volumen sobre la marcha
+- Batería de iones de litio recargable incorporada: hasta 7 horas de duración de la batería
 - Entrada TRS de 3,5 mm para conectar micrófonos lavalier externos o VideoMics
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tiene detalles distintivos de la marca
-- Pantalón short con un tejido ligero
 - Cómodos de llevar
+- Pantalón short con un tejido ligero
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BTDVVL17{{</world>}}

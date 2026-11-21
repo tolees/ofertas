@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cordones
-- Suela de goma
 - Empeine de material sintético
+- Suela de goma
 - Plantilla textil
 - Plantilla de espuma con memoria
 - Horma clásica

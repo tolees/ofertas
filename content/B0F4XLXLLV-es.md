@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Ribetes de colores
 - Cintura elástica
-- Mallas interiores de 7,62 cm para mayor cobertura
-- Confección en piqué
-- Cintura de talle medio
 - Estampado bordado de adidas
 - 100% algodón
-- Ribetes de colores
 - Corte clásico
+- Confección en piqué
+- Mallas interiores de 7,62 cm para mayor cobertura
+- Cintura de talle medio
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4XLXLLV{{</world>}}

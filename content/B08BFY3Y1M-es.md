@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Correa de piel vegana respetuosa con el agua con forro de punto acolchado supersuave
 - Suela de esponja de goma ligera y duradera
+- Correa de piel vegana respetuosa con el agua con forro de punto acolchado supersuave
 - Cojín cepillado EVA para tracción húmeda y seca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

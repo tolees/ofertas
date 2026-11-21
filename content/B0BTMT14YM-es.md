@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Tejido ligero y suave
 - Camiseta de manga corta de 100% algodón
-- Amplia libertad de movimiento
 - Detalles distintivos de la marca
+- Amplia libertad de movimiento
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BTMT14YM{{</world>}}

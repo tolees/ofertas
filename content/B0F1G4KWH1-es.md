@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Silent Hill f - Day One Edition - PS5'
-date: 2026-11-19 11:46:10
+date: 2026-11-20 22:55:21
 image: 'https://m.media-amazon.com/images/I/41AaQS77n4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0F1G4KWH1-es Silent Hill f - Day One Edition - PS5'
 sku: 'B0F1G4KWH1-es'
 tags: [ '🇪🇸', ]
-actualPrice: 49.95 EUR
+actualPrice: 39.9 EUR
 currency: EUR
-price: 49.95
+price: 39.9
 comparePrice: 79.99 EUR
 prodname: 'Silent Hill f - Day One Edition - PS5'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F1G4KWH1/?tag=tolees-21'
-descuento: '37.55'
-average: '49.95906976744191'
+descuento: '50.12'
+average: '49.512000000000043'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

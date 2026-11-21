@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La siguiente información se aplica a cada unidad del paquete
-- Campos de aplicación: Respiración - Malestar estacional
 - 12-18 años: 1 cápsula al día durante 14 días en periodos sensibles. Adultos: 2 cápsulas al día durante 14 días a lo largo de todo el periodo sensible. Dejar un descanso de 5 días entre curas
+- Campos de aplicación: Respiración - Malestar estacional
+- La siguiente información se aplica a cada unidad del paquete
 - Sin efectos secundarios (somnolencia), Fácil para tomar, sin sabor, sin olor
 - Con aceites esenciales 100% naturales : Hinojo, Jengibre, Menta piperita, Manzanilla alemana, Limón, Pino silvestre
 - Cápsulas Allergoforce con aceites esenciales 100% naturales que incluyen el de manzanilla alemana, beneficioso en caso de irritaciones

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tope antideslizante: la sierra permanece en la mano sin escurrirse al realizar movimientos de tracción gracias al tope que hay en el extremo del mango
+- Un corte seguro: el preciso dentado hace un corte limpio con movimientos de tracción y el cierre de seguridad del mango combisystem, una conexión segura con la sierra en todo momento
 - Óptima protección anticorrosión: la sierra 300 PP combisystem está protegida contra la corrosión gracias a su recubrimiento especial
 - Altura flexible: para usar como sierra manual a poca altura o como sierra para ramas alargada con un mango telescópico combisystem; con esta sierra podrá cortar ramas hasta a 5 m de altura
-- Tope antideslizante: la sierra permanece en la mano sin escurrirse al realizar movimientos de tracción gracias al tope que hay en el extremo del mango
 - El paquete incluye: 1 sierra curva combisystem 300 P de GARDENA, mango no incluido, se vende por separado, fabricado en Alemania
-- Un corte seguro: el preciso dentado hace un corte limpio con movimientos de tracción y el cierre de seguridad del mango combisystem, una conexión segura con la sierra en todo momento
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00GHE3SHU{{</world>}}

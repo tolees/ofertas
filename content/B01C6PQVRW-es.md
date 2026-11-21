@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tiempo de reproducción: 20+ minutos
-- 2-5 jugadores
 - Juegos de acción y reflejos
+- 2-5 jugadores
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01C6PQVRW{{</world>}}

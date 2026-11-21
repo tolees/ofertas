@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre con hebilla ajustable al tobillo
 - Piso flexible
+- Cierre con hebilla ajustable al tobillo
 - Plantilla acolchada de piel curtida
 - Forro de piel
 

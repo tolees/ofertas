@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puños y bajo acanalados
 - Diseño con capucha y cordones
+- Puños y bajo acanalados
 - Estampado gráfico en la parte delantera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

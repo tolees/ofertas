@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gillette Venus Comfortglide Spa Breeze Cuchillas de Afeitar Mujer Pack 10 | Recambios para Maquinillas de Afeitar Mujer con 3 Hojas Y Barras de Gel Depilación Suave Apurada Y Duradera'
-date: 2026-11-18 17:28:54
+date: 2026-11-20 18:25:29
 image: 'https://m.media-amazon.com/images/I/41BLVcBb9FL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BV6YLYQ5/?tag=tolees-21'
 descuento: '45.96'
-average: '25.008666666666802'
+average: '24.695000000000128'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

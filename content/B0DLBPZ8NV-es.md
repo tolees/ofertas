@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Detailed outsole with TPU shank.
 - Diseño contemporáneo con una sensación de 00s.
+- Detailed outsole with TPU shank.
 - Bold PU overlays, mesh underlays.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

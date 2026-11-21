@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cuello de polo
+- Cierre de botón
 - Aberturas laterales
 - Diseño acanalado en cuello y dobladillos
-- Cierre de botón
 - G-Star RAW Insignia en el pecho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

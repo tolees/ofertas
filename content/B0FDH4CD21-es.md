@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- __Capacidad:__ 6 L
-- __Tejido:__ semi PU y poliéster reciclado [600D]
-- __Dimensiones:__ 15.5 (alto) x 25 (ancho) x 15 (profundidad) cm
 - Gancho para colgar
+- __Dimensiones:__ 15.5 (alto) x 25 (ancho) x 15 (profundidad) cm
+- __Capacidad:__ 6 L
 - __Compartimentos/cierre:__ compartimento principal con cremallera, bolsillo frontal
+- __Tejido:__ semi PU y poliéster reciclado [600D]
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FDH4CD21{{</world>}}

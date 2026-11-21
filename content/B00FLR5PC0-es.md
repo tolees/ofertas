@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Unisex niños
-- Alta calidad
 - Hummel
+- Alta calidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00FLR5PC0{{</world>}}

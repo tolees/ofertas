@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- gorra de béisbol, gorra, gorra de baseball, strapback cap, MLB Cap,
-- con visera
-- Marcas: New Era
 - Un complemento obligatorio para todos los fans del equipo St. Louis Cardinals de la MLB: la intemporal Gorra 9Forty The League Cardinals de la marca New Era.
+- con visera
+- gorra de béisbol, gorra, gorra de baseball, strapback cap, MLB Cap,
 - Talla única (aprox. 54-59 cm),Tamaño ajustable, Largo de la visera: 7 cm,Altura de la cabeza: aprox. 9.5 cm
+- Marcas: New Era
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0060LXEUQ{{</world>}}

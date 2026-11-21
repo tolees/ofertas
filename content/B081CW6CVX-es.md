@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Botanical Origins Suavizante para Ropa Ecológico Apto para Pieles Sensibles Fragancia Jazmín Fresco y Lavanda Silvestre 6x900ml - 270 lavados'
-date: 2026-11-20 08:49:52
+date: 2026-11-21 11:04:12
 image: 'https://m.media-amazon.com/images/I/41OyAJKqFUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B081CW6CVX/?tag=tolees-21'
 descuento: '41.61'
-average: '20.130238095238209'
+average: '20.032954545454654'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

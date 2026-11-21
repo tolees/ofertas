@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Proxxon 2223112, estuche compacto 3/8" 65 PC
-- Llaves de 6.–.24; mm
-- Producto útil y práctico
 - Insertos de lecho profundo para gran saliente rosca pernos 10-13-15 y 17 mm
+- Llaves de 6.–.24; mm
+- Proxxon 2223112, estuche compacto 3/8" 65 PC
+- Producto útil y práctico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B001EQAE46{{</world>}}

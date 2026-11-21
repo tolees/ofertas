@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🌸 Fragancia floral y dulce con elegancia femenina
+- 🧴 Aroma delicado que evoca un jardín en flor
 - 👗 Ideal para un toque sofisticado a cualquier hora del día
 - 🌹 Notas envolventes de jazmín y rosa con fondo empolvado
-- 🧴 Aroma delicado que evoca un jardín en flor
 - 💫 Bruma fresca y ligera para perfumar suavemente la piel
+- 🌸 Fragancia floral y dulce con elegancia femenina
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B082SCR6GN{{</world>}}

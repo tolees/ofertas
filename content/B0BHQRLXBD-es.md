@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kappa DARETO Camiseta Negro/Blanco M'
-date: 2026-11-20 04:21:21
+date: 2026-11-21 11:37:36
 image: 'https://m.media-amazon.com/images/I/21IFD+EQFQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte en material sintético (Fibertech)
 - Suela de caucho DURABILITY
+- Corte en material sintético (Fibertech)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0G1N93KYX{{</world>}}

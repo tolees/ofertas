@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Enfoque manual
-- Campo de visión en diagonal de 180 grados en sensores de formato completo (formato 24 x 36mm)
-- Ultra gran angular para cámaras con sensor Full Frame, Ojo de pez
 - Incluye parasol extraíble
 - Montura para Fuji X
 - Recubrimiento de alta calidad anti-reflexión NCS de nanocristales
+- Ultra gran angular para cámaras con sensor Full Frame, Ojo de pez
+- Campo de visión en diagonal de 180 grados en sensores de formato completo (formato 24 x 36mm)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00TS9B81Y{{</world>}}

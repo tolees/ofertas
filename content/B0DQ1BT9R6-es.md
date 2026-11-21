@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Suela de goma para tracción
 - Cierre de cordones
 - Plantilla OrthoLite
 - Máxima comodidad
-- Suela de goma para tracción
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQ1BT9R6{{</world>}}

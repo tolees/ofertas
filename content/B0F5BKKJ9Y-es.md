@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte superior de malla transpirable con refuerzos
 - Amortiguación AMPLIFOAM para un soporte estable
+- Parte superior de malla transpirable con refuerzos
 - Suela duradera con tracción mejorada
 - Gel en el talón para protección contra impactos
 - Ideal para principiantes y para uso diario.

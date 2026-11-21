@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Proporciona un acabo luminoso y natural
+- BB Cream con una fórmula ligera
 - Con factor de protección solar SPF 15
 - También iguala el tono y matifica los brillos
 - Protege la piel, corrige las manchas y cubre por complete
-- Proporciona un acabo luminoso y natural
-- BB Cream con una fórmula ligera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01MQRG9E4{{</world>}}

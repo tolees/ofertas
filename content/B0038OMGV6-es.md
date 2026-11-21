@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Utilizado como un casual de moda
 - Sensación transpirable
+- Utilizado como un casual de moda
 - Diseño sólido
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

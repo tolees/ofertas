@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Textura cremosa y suave
 - Comodidad
-- Larga duración, hasta 8h
+- Textura cremosa y suave
 - Tecnología Color Protect para un color inalterable
+- Larga duración, hasta 8h
 - Color intenso
 
 [🛒 Comprar!!!]({{< param buyurl >}})

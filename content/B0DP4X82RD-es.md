@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Conservar en lugar fresco y seco
 - Un consumo excesivo puede producir efectos laxantes; Contiene una fuente de fenilalanina
+- Caja de 20 sticks de caramelos con práctico formato bolsillo para tomártelos donde y cuando quieras
+- Conservar en lugar fresco y seco
 - La siguiente información se aplica a cada unidad del paquete
 - Caramelos duros Halls con sabor a eucalipto; Con edulcorantes, sin azúcar
-- Caja de 20 sticks de caramelos con práctico formato bolsillo para tomártelos donde y cuando quieras
 - Su intenso frescor y sabor te ayudará a refrescarte en cualquier momento del día.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

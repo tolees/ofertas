@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Detail
-- Mesh
-- Sneaker
 - materialFabricComposition: Upper: 100% Polyester; Sole: 100% Rubber; Inner: 100% Polyester; Insole: 100% Polyester
+- Mesh
+- Detail
+- Sneaker
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CMR69ZC9{{</world>}}

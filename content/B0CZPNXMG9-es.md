@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cintura elástica con cordón
-- Bolsillos tipo canguro
 - Cierre de cremallera y capucha
+- Bolsillos tipo canguro
 - Contiene al menos un 70% de material reciclado y renovable
-- 70% algodón / 30% poliéster (reciclado)
+- Puños y dobladillo de canalé
 - Corte clásico con talle medio
 - Bolsillos laterales
-- Puños y dobladillo de canalé
+- 70% algodón / 30% poliéster (reciclado)
+- Cintura elástica con cordón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZPNXMG9{{</world>}}

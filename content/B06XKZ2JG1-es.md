@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Joma Championship IV Pantalones Hombre Marino Blanco XL'
-date: 2026-11-18 20:42:32
+date: 2026-11-20 19:12:36
 image: 'https://m.media-amazon.com/images/I/31mfnnGyxCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XKZ2JG1/?tag=tolees-21'
 descuento: '53.87'
-average: '16.647272727272728'
+average: '16.259166666666669'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

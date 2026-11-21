@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Voltaje: 220-240v 50/60Hz ,Indice IP: IP20 , CRI:80
 - Medidas producto: 120mm ,Grosor producto: H 32mm
-- Anulo apertura d la luz :120º Factor Potencia:0.9
 - POTENCIA:6W Lumen: 480Lm
 - MATERIAL: ALUMINIO/PC
+- Anulo apertura d la luz :120º Factor Potencia:0.9
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07NXW4G5Y{{</world>}}

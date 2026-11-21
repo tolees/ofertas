@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ofrece comodidad y libertad de movimiento
-- Cuenta con bolsillos laterales
 - Pantalones largos deportivos
 - Tiene detalles distintivos de la marca
+- Ofrece comodidad y libertad de movimiento
+- Cuenta con bolsillos laterales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01CYOD9MU{{</world>}}

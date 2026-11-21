@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Siembra en primavera
-- Floración en primavera y verano; en climas cálidos florece todo el año
-- La siguiente información se aplica a cada unidad del paquete
 - Planta decorativa y florífera en borduras, arriates y macizos
+- Siembra en primavera
+- La siguiente información se aplica a cada unidad del paquete
+- Floración en primavera y verano; en climas cálidos florece todo el año
 - Empleo: en cultivo de macetas y jardines
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

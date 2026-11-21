@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cintura ancha
 - Dardos delanteros
 - Corte regular
-- Cintura ancha
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0964NVX9F{{</world>}}

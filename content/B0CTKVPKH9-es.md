@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CRECIMIENTO Y GROSOR: La potente combinación de cafeína y Biotinoyl Tripeptide-1 favorece el crecimiento saludable de la barba, promoviendo una barba más completa y espesa.
-- NUTRICIÓN E HIDRATACIÓN: The Mane Event nutre e hidrata profundamente la barba, previniendo la sequedad, descamación y picor, y ayudando a mantener el equilibrio de humedad para que la barba luzca sana y con brillo.
-- ESTILO Y AROMA: Siéntete fresco con nuestra fragancia sutilmente amaderada.
 - VEGANO Y LIBRE DE CRUELDAD: Shakeup es una marca aprobada por PeTA. Por lo tanto, todos nuestros productos son veganos y no se prueban en animales. Están formulados y fabricados en el Reino Unido para garantizar la más alta calidad.
+- ESTILO Y AROMA: Siéntete fresco con nuestra fragancia sutilmente amaderada.
+- NUTRICIÓN E HIDRATACIÓN: The Mane Event nutre e hidrata profundamente la barba, previniendo la sequedad, descamación y picor, y ayudando a mantener el equilibrio de humedad para que la barba luzca sana y con brillo.
+- CRECIMIENTO Y GROSOR: La potente combinación de cafeína y Biotinoyl Tripeptide-1 favorece el crecimiento saludable de la barba, promoviendo una barba más completa y espesa.
 - FUERZA Y RESISTENCIA: El complejo de péptidos fortalece los folículos del vello facial, reduciendo la rotura y mejorando la resistencia general.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

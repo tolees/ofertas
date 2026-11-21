@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello abotonado
 - Ajuste moderno
 - Mezcla de lino fresco
+- Cuello abotonado
 - Botones más grandes a partir de la talla 4 XL
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

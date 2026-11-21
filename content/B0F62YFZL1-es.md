@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tipo de talón: plano
-- Pronación: neutra
-- Tipo de puntera: redondeada
-- Cierre: cordones elásticos
 - Ajuste: estándar
+- Cierre: cordones elásticos
+- Tipo de puntera: redondeada
+- Pronación: neutra
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F62YFZL1{{</world>}}

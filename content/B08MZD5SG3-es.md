@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Viene con dos hermosos paneles de cristal templado de 4 mm a cada lado y tres pequeñas ventanas de cristal templado de 3 mm en la parte delantera, que no sólo ayudan a mostrar los componentes internos sino que también resaltan el concepto del diseño de helicóptero.
 - El sofisticado y especial diseño del espacio interior de la AH T200 proporciona suficiente capacidad para la colocación de los componentes del PC y la gestión de los cables.
 - Las puertas giratorias a la izquierda y a la derecha permiten a los usuarios acceder fácilmente a los componentes internos, así como la posibilidad de retirar las puertas por completo para tener un acceso completo al interior.
 - Puede soportar un disipador de CPU con una altura máxima de 150mm, VGA con una longitud máxima de 320mm, una fuente de alimentación con una longitud de hasta 180mm, y dos 3,5" o tres discos duros de 2,5" (limitación del grosor de los discos duros de 3,5": 22mm).
+- Viene con dos hermosos paneles de cristal templado de 4 mm a cada lado y tres pequeñas ventanas de cristal templado de 3 mm en la parte delantera, que no sólo ayudan a mostrar los componentes internos sino que también resaltan el concepto del diseño de helicóptero.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08MZD5SG3{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- especialmente gruesas para un mayor tiempo de masticado
 - piel natural cubierta de pechuga de pato
+- especialmente gruesas para un mayor tiempo de masticado
 - LO MEJOR PARA EL CUIDADO DE TU MASCOTA : Producto especialmente destinado para cuidar a las mascotas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

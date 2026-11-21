@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- SE puede utilizar en Horno microondas
-- SE pueden lavar en el Lavavajillas.
-- material: Porcelana New de hueso.
-- perfectas para degustar té, infusiones, Café Americano, Marrón
 - en 6 motivos diferentes
+- material: Porcelana New de hueso.
+- SE pueden lavar en el Lavavajillas.
+- perfectas para degustar té, infusiones, Café Americano, Marrón
+- SE puede utilizar en Horno microondas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07MSV31DP{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Parte superior de piel
 - Forro textil
 - Horma clásica
-- Parte superior de piel
 - Cierre de cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

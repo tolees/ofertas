@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido transpirable
-- Diseño de secado rápido
-- Cuello redondo
-- 100% poliéster (reciclado)
 - CLIMACOOL
 - Costuras de los hombros desplazadas hacia atrás
+- Diseño de secado rápido
+- Tejido transpirable
 - Refuerzos bajo las sisas
+- Cuello redondo
 - Corte clásico
+- 100% poliéster (reciclado)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZ9MR366{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello acolchado y cosido
-- Diseño de ojal actualizado
 - Cierre de cordones para un ajuste cómodo
 - Parte superior de gamuza
+- Cuello acolchado y cosido
 - Logotipo de PUMA N° 1 en la lengüeta
+- Diseño de ojal actualizado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09YXNJXJS{{</world>}}

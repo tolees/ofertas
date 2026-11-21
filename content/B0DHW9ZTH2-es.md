@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela Controlplate multisuperficie
+- Horma clásica
 - Forro textil
 - Empeine Hybridfeel con elementos Strikescale
-- Horma clásica
+- Suela Controlplate multisuperficie
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DHW9ZTH2{{</world>}}

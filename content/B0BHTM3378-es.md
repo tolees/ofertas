@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Prenda ajustada de arriba abajo
 - Bolsillos traseros con ribete doble y un botón
 - Costuras con forma en la parte posterior
-- Prenda ajustada de arriba abajo
 - Bolsillos en las costuras laterales
 - Talle superalto
 

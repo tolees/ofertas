@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- púas redondeadas, cuidado delicado del pelo
-- asa plástico, agarre antideslizante de goma
 - 2 cm de longitud de las púas
+- asa plástico, agarre antideslizante de goma
+- púas redondeadas, cuidado delicado del pelo
 - para cuidado especial del subpelo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

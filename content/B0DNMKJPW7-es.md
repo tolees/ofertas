@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Slim fit
 - Mitered patch pocket
-- Long sleeves
 - Dockers Herren ULTIMATE SHIRT SLIM SHIRT
+- Long sleeves
 - Ultimate Shirt Slim
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Compatible con Intel y AMD - Dos ventiladores de 120 mm control PWM
-- Radiador doble de aluminio - Fácil montaje e instalación
 - Bomba con base de cobre cojinete cerámico - Iluminación ARGB
 - Pantalla LCD personalizable (rendimiento, temperatura, hora, vídeo o imagen)
+- Radiador doble de aluminio - Fácil montaje e instalación
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D98G6CRM{{</world>}}

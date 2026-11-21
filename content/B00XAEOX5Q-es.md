@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calgon Gel 4 en 1 - Antical para la lavadora Anticorrosión Elimina Olores y Suciedad en formato gel 45 dosis 2 25L'
-date: 2026-11-11 20:54:10
+date: 2026-11-21 10:10:19
 image: 'https://m.media-amazon.com/images/I/41bI7WruXML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAEOX5Q/?tag=tolees-21'
 descuento: '50.96'
-average: '14.195000000000043'
+average: '14.102307692307733'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

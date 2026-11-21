@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Skech-Lite
-- Cierre adaptable
 - Tenis de malla Gore And Strap
 - Lavable a máquina
+- Cierre adaptable
+- Skech-Lite
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DP7J97GX{{</world>}}

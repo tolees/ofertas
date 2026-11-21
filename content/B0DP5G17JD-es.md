@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Parte superior transpirable y ligera para una comodidad duradera durante carreras largas.
 - Suela de goma con tracción multidireccional para un agarre superior en terrenos difíciles.
+- Parte superior transpirable y ligera para una comodidad duradera durante carreras largas.
 - Entresuela de espuma React para una amortiguación sensible y una pisada suave.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

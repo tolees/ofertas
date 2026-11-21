@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Características: reloj para hombre con función de cronógrafo y movimiento de cuarzo, con brazalete de acero chapado en oro, con cierre desplegable. La caja del reloj mide 42 mm, con un grosor de 11,35 mm. Rodea una esfera azul caracterizada por detalles dorados y monta un resistente cristal mineral.
-- Resistencia al agua: El reloj tiene una resistencia al agua de hasta 10 ATM
 - Maserati LIMITED EDITION, colección EPOCA. Este reloj especial forma parte de una edición limitada disponible exclusivamente online y se caracteriza por líneas clásicas y diseños atemporales que enmarcan los modelos de la icónica colección Epoca.
-- Materiales: acero con acabado pvd oro amarillo, cristal mineral
 - Embalaje: Embalaje especial Maserati y 2 años de garantía
+- Materiales: acero con acabado pvd oro amarillo, cristal mineral
+- Resistencia al agua: El reloj tiene una resistencia al agua de hasta 10 ATM
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C33WWX5Y{{</world>}}

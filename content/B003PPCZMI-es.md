@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Altura: 6.5 cm Ancho: 21.5 cm
 - Peso: 50g
 - ¡Cremallera para no perder los bolis
+- Altura: 6.5 cm Ancho: 21.5 cm
 - Fondo: 7 cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})

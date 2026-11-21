@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fit: Utility
-- Manga: Larga
-- Desigual
-- Bolsillos frontales
 - Con capucha
+- Manga: Larga
+- Bolsillos frontales
+- Fit: Utility
+- Desigual
 - Color: Liso
 
 [🛒 Aquí!!!]({{< param buyurl >}})

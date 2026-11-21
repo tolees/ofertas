@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con un estilo casual
-- Diseño ligero y cómodo
 - Detalles distintivos de la marca
+- Diseño ligero y cómodo
+- Con un estilo casual
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQVHNKVK{{</world>}}

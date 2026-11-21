@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 🤣 Dos juegos de mesa para adultos diseñados para reír sin filtros y animar cualquier reunión.
-- ⚡ Dinámicas rápidas y muy fáciles con preguntas, respuestas absurdas y humor sin vergüenza.
-- 🎁 Regalo original para adultos, ideal para cumpleaños, amigo invisible y Navidad.
 - 🥳 Perfectos para fiestas y noches con amigos, de 3 a 10 jugadores y partidas dinámicas.
+- 🎁 Regalo original para adultos, ideal para cumpleaños, amigo invisible y Navidad.
+- ⚡ Dinámicas rápidas y muy fáciles con preguntas, respuestas absurdas y humor sin vergüenza.
 - 🍑 Humor atrevido y situaciones disparatadas que sacan lo más loco de tus amigos.
 - 🌱 ¡RESPONSABLE Y SOLIDARIO! Fabricado en Europa con papel sostenible. Donamos el 1% de beneficios a causas benéficas.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GANT Camiseta para Hombre REG Shield LS Color Negro estándar Negro M'
-date: 2026-11-20 02:29:15
+date: 2026-11-21 03:34:41
 image: 'https://m.media-amazon.com/images/I/41QWcINQqLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

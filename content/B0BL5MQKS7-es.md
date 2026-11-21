@@ -28,18 +28,18 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Wrinkle-free stretch cotton fabric with water- and stain-repellent protection
+- Bragueta con cremallera
 - Cintura elástica Flex Comfort Waistband para una mayor elasticidad
-- Welt pockets
+- Flexible waistband for added stretch and extra comfort
 - Pantalón chino de vestir sin planchar, repelente al agua y a las manchas
+- Welt pockets
+- Tejido de algodón elástico sin arrugas con tecnología repelente al agua y a las manchas
+- Slim fit
 - Bolsillo ribeteado
 - Refined chino pant with water- repellent, stain-proof, no-iron technology
 - Slim fit
-- Bragueta con cremallera
-- Tejido de algodón elástico sin arrugas con tecnología repelente al agua y a las manchas
 - Signature Stain Defender Khaki Slim
-- Slim fit
-- Flexible waistband for added stretch and extra comfort
-- Wrinkle-free stretch cotton fabric with water- and stain-repellent protection
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BL5MQKS7{{</world>}}

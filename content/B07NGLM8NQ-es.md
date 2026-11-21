@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Estilo del cuello: Club Collar
-- Ajuste y comodidad
-- Cierre: Pull on
-- Gestión efectiva de la humedad
 - Lavar a mano
+- Cierre: Pull on
+- Ajuste y comodidad
+- Gestión efectiva de la humedad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07NGLM8NQ{{</world>}}

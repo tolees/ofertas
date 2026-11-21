@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Vaqueros acampanados
 - Material sostenible
 - Ajuste regular en la cintura
+- Vaqueros acampanados
 - Lavado a maquina
 
 [🛒 Visítala!!!]({{< param buyurl >}})

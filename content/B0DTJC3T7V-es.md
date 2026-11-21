@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 100 % algodón
 - Jersey de algodón con cuello redondo y costuras lisas en calibre 7 con bandera británica jacquard en el pecho con bordado
 - Rayas en los puños y etiqueta tejida insertada en la costura lateral
+- 100 % algodón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DTJC3T7V{{</world>}}

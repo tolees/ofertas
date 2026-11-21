@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Logotipo impreso grande en la parte delantera, con correas laterales fijas; forro frontal
-- Fabricado en un tejido de poliamida brillante de secado rápido
 - Traje de baño sólido
+- Fabricado en un tejido de poliamida brillante de secado rápido
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FFTQGYWW{{</world>}}

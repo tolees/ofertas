@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalón largo
 - Adecuado para múltiples ocasiones
 - Para uso diario
+- Pantalón largo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D9BBFS3J{{</world>}}

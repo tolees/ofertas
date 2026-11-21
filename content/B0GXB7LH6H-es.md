@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sanex Derma Therapy Aceite de Ducha Anti-Irritante Pack 6x425ml | Aceite de ducha piel atópica Reduce irritación en 3 días Hipoalergénico Hidratación 24 horas 90% Natural 0% Sulfatos'
-date: 2026-11-20 15:57:27
+date: 2026-11-20 16:07:10
 image: 'https://m.media-amazon.com/images/I/418amfNYZ7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GXB7LH6H/?tag=tolees-21'
 descuento: '48.33'
-average: '20.144444444444531'
+average: '19.522000000000077'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

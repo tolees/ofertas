@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Material: aluminio prensado.
+- Sartén freidora con tapa de 24x24x9,5 cm.
 - Revestimiento interior de marmol antiadherente.
 - Capacidad: 4,3 litros.
-- Sartén freidora con tapa de 24x24x9,5 cm.
 - 5 funciones en 1: hornear, freír, asar, saltear y estofar.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

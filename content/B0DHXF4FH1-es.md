@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Empeine textil y sintético
-- Forro textil y sintético
 - Horma clásica
 - Amortiguación Lightstrike
+- Forro textil y sintético
+- Empeine textil y sintético
 - Cierre de cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

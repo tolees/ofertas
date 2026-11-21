@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiro medio
 - Bolsillos laterales exteriores y bolsillos traseros de parche
-- Disponible en tallas pequeñas y altas
+- Tiro medio
 - Apertura ligera
 - La tela GOFLEX cuenta con una suave sensación al tacto "similar al algodón" y acabado mate
+- Disponible en tallas pequeñas y altas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08X6GL5DC{{</world>}}

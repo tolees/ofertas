@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Limpiador facial de grano fino a base de enzimas con un ligero efecto exfoliante
 - Su uso regular, deja la piel con un aspecto radiante y unos poros visiblemente afinados
+- Limpiador facial de grano fino a base de enzimas con un ligero efecto exfoliante
 - Aplicar mañana y noche
 - Para pieles grasas, con imperfecciones y mixta
 

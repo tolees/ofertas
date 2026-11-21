@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Es apto para todos los tipos de piel
 - Con pigmentos que reflejan la luz e ocultan las imperfecciones
 - Polvo compacto translucido para un acabado delicado
 - Matiza la piel y fija el maquillaje sin aportar color
-- Es apto para todos los tipos de piel
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B001TDSOFU{{</world>}}

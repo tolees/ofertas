@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Cintura elástica visible de talle bajo con logotipo renovado
 - Material que capilariza el sudor y se seca rápidamente
-- Bolsillos laterales abiertos
 - Bajo contorneado para un ajuste más favorecedor y una mayor libertad de movimiento
+- Bolsillos laterales abiertos
 - Tejido de punto suave y ligero que proporciona una comodidad y transpirabilidad superiores
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

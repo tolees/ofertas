@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cuello de polo
+- Cierre de botones
 - Un ajuste cómodo
 - Una mirada original
-- Cierre de botones
 - Largo regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})

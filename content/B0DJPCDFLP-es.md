@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se adhiere a la piel al instante, ofreciendo una agradable sensación de confort
-- Colorete en polvo con resultado modulable de larga duración
 - Tiene una textura en polvo compacta aterciopelada y ultrapigmentada, que permite realzar el rostro con un toque de color que dura hasta 12 horas
+- Colorete en polvo con resultado modulable de larga duración
 - Dermatológicamente testado, no comedogénico
+- Se adhiere a la piel al instante, ofreciendo una agradable sensación de confort
 - Es perfecto para los retoques en cualquier lugar, gracias a la práctica polvera con espejo integrado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

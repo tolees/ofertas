@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño de corte bajo
 - Suela ligera que ofrece libertad de movimiento
+- Diseño de corte bajo
 - Aptas para superficies naturales firmes y césped artificial
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

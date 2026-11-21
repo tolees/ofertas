@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Super Dux Tech Canvas DWR
 - Ajuste relajado
-- Rain Defender - Acabado duradero repelente al agua
-- Rugged Flex – Facilita el movimiento
 - Tafetán elástico acolchado
+- Rugged Flex – Facilita el movimiento
+- Super Dux Tech Canvas DWR
+- Rain Defender - Acabado duradero repelente al agua
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B092JGCNLR{{</world>}}

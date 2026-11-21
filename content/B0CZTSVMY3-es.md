@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 100% poliéster (reciclado)
-- CLIMACOOL
-- Cintura elástica
-- Corte clásico
-- Bolsillos frontales
 - Refuerzo de malla en la entrepierna
+- CLIMACOOL
+- Corte clásico
+- 100% poliéster (reciclado)
+- Cintura elástica
+- Bolsillos frontales
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CZTSVMY3{{</world>}}

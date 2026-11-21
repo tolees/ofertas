@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ligera y suave: la fórmula de sombra de ojos es ligera y suave para una fácil aplicación.
-- Fácil de usar: la paleta de sombras de ojos viene en un práctico compacto que es fácil de usar sobre la marcha.
-- Vegana y libre de crueldad: esta paleta de sombras de ojos está hecha con ingredientes veganos y libres de crueldad.
 - Vibrante y colorida: esta paleta cuenta con una gama de tonos vibrantes y coloridos para crear una variedad de estilos.
 - Color de larga duración: la sombra de ojos proporciona un color duradero que se mantiene en su lugar todo el día.
+- Vegana y libre de crueldad: esta paleta de sombras de ojos está hecha con ingredientes veganos y libres de crueldad.
+- Ligera y suave: la fórmula de sombra de ojos es ligera y suave para una fácil aplicación.
+- Fácil de usar: la paleta de sombras de ojos viene en un práctico compacto que es fácil de usar sobre la marcha.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B084TVC21B{{</world>}}

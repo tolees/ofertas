@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Helly Hansen Hombres Chaqueta aislante Crew 2.0 Azul Marino L'
-date: 2026-11-20 07:33:04
+date: 2026-11-21 12:05:41
 image: 'https://m.media-amazon.com/images/I/31RF5d1aduL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08LYSF15M/?tag=tolees-21'
 descuento: '47.76'
-average: '102.85473684210528'
+average: '102.01428571428573'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

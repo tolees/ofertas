@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Una mirada original
 - Bordado de G-Star RAW en el pecho
+- Cuello y sisas rematados con un ribete
 - Paquete de dos
 - Proporciona comodidad
-- Cuello y sisas rematados con un ribete
-- Una mirada original
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CVL5VP4F{{</world>}}

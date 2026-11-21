@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Horma clásica
-- Plantilla textil
-- Suela de goma
 - Empeine de material sintético
+- Suela de goma
+- Plantilla textil
 - Cordones
+- Horma clásica
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F1X7L5JP{{</world>}}

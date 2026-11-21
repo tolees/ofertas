@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Contiene 3 pares de ropa interior
-- Cintura clásica con logotipo de Emporio Armani
 - Tejido suave 100% algodón
+- Cintura clásica con logotipo de Emporio Armani
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01FUW4BES{{</world>}}

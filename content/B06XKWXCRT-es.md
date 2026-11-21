@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con aberturas laterales en la cintura
 - Polo para hombre
-- Tiene botones personalizados en el cuello
 - Presenta el logo de la marca en el pecho
+- Tiene botones personalizados en el cuello
+- Con aberturas laterales en la cintura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B06XKWXCRT{{</world>}}

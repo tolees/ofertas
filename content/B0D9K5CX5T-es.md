@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DISEÑO NEUTRO: ¿Te preocupa que no combine con el estilo de tu salón? No te preocupes, su acabado sencillo de inspiración moderna y su tapizado clásico lo convierten en el elemento perfecto para crear un ambiente cálido y acogedor.
+- MEDIDAS Y MATERIALES: Está compuesto por estructura y patas de madera maciza, asiento de espuma de alta densidad y tapizado con poliéster resistente en acabado capitoné. Sus medidas son: 89 (alto) x 88 (profundo) x 189.5 (ancho) cm. Peso: 40 kg. La cama es de 112 x 189.5 cm
+- SOMOS SHIITO: Desde hace más de 15 años, vendemos de forma online todo tipo de mobiliario para tu hogar. Nuestro objetivo es detectar y satisfacer tus necesidades a través de productos de máxima calidad elaborados por nuestra familia de trabajadores.
 - COMODIDAD Y FUNCIONALIDAD: Su respaldo acolchado le proporciona un toque original y además brinda un apoyo perfecto para tu espalda mientras te relajas. Si tienes visitas inesperadas, ¡No te preocupes! Inclina el respaldo y en segundos tendrás una cama que garantiza una experiencia de descanso confortable.
 - SOFÁ CAMA VERSALLES: ¿Buscas un sofá cama con un estilo único? Si es así, el sofá Versalles de Shiito es perfecto para ti. Con un tapizado con detalles capitoné y unas líneas sencillas y elegantes, se convertirá en el centro de atención de tu salón.
-- SOMOS SHIITO: Desde hace más de 15 años, vendemos de forma online todo tipo de mobiliario para tu hogar. Nuestro objetivo es detectar y satisfacer tus necesidades a través de productos de máxima calidad elaborados por nuestra familia de trabajadores.
-- MEDIDAS Y MATERIALES: Está compuesto por estructura y patas de madera maciza, asiento de espuma de alta densidad y tapizado con poliéster resistente en acabado capitoné. Sus medidas son: 89 (alto) x 88 (profundo) x 189.5 (ancho) cm. Peso: 40 kg. La cama es de 112 x 189.5 cm
+- DISEÑO NEUTRO: ¿Te preocupa que no combine con el estilo de tu salón? No te preocupes, su acabado sencillo de inspiración moderna y su tapizado clásico lo convierten en el elemento perfecto para crear un ambiente cálido y acogedor.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D9K5CX5T{{</world>}}

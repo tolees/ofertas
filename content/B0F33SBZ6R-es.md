@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Horma clásica
-- Empeine de piel sintética
 - Cierre autoadherente
 - Plantilla textil
 - Suela de goma
+- Horma clásica
+- Empeine de piel sintética
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F33SBZ6R{{</world>}}

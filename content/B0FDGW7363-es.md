@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Destaca por su elegante diseño
-- Bolso para colgar al hombro
 - Con el monograma CK en la parte delantera
+- Bolso para colgar al hombro
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FDGW7363{{</world>}}

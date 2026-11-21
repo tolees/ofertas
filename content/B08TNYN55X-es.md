@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MF refrigerado por aire
 - Lavable a máquina
+- MF refrigerado por aire
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08TNYN55X{{</world>}}

@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Tejido: poliéster reciclado [600D], pana y lona de algodón
 - Ranuras interiores para tarjetas
+- __Talla:__ Small [10.7 x 7.5 cm]
 - Bolsillos: __ bolsillo para monedas con cremallera exterior
 - Etiqueta tejida
-- __Talla:__ Small [10.7 x 7.5 cm]
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FCFY22B2{{</world>}}

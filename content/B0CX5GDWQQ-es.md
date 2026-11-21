@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Correa trasera acogedora para mayor funcionalidad
 - Cómoda plantilla para hundirse
+- Correa trasera acogedora para mayor funcionalidad
 - Logotipos texturizados en la suela para mayor agarre
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

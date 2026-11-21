@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - El tejido vaquero Wrangler Free-to-Stretch está hecho de un tejido elástico de alto rendimiento que proporciona la máxima libertad de movimiento y retención de la forma
-- Una pierna recta y un corte regular
 - Tiene una cintura media
+- Una pierna recta y un corte regular
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6RV5LMW{{</world>}}

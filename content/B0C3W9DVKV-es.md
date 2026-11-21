@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre de cordón para un fácil acceso
 - PUMA Marca teamGOAL para mayor estilo
-- Bolsa de gimnasio para llevar lo esencial
 - Construcción de tela duradera
+- Cierre de cordón para un fácil acceso
+- Bolsa de gimnasio para llevar lo esencial
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C3W9DVKV{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- MASCARILLA CAPILAR: Fija el color y devuelve la fuerza a tu cabello - diseñada especialmente para pelo teñido, seco y dañado.
-- PURIFICADOR DE METALES: Con purificador de metales para proteger el cabello de los metales dañinos presentes en el agua.
 - PROTECCIÓN DEL COLOR DEL CABELLO: Defiende el cabello de las agresiones del medio ambiente y mantiene el cabello vivo y brillante -Hasta 8 semanas de protección del color.
 - CUIDADO DEL CABELLO: Cuida el cabello mientras lo limpia, manteniendo la suavidad y brillo - Productos Wella Professionals, ¡un regalo perfecto para la mujer y su cabello!
 - SUAVIDAD: Formulado con Tratamiento Recostructor WellaPlex que ayuda a reconstruir los enlaces internos del cabello y a pulir la suferficie para suavizar las cutículas.
+- PURIFICADOR DE METALES: Con purificador de metales para proteger el cabello de los metales dañinos presentes en el agua.
+- MASCARILLA CAPILAR: Fija el color y devuelve la fuerza a tu cabello - diseñada especialmente para pelo teñido, seco y dañado.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CQ8THLGJ{{</world>}}

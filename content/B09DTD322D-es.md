@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Cuello de camisa
 - Manga larga
-- Corte ajustado
 - Con botones
+- Corte ajustado
 - Camisa Oxford clásica con bolsillo en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})

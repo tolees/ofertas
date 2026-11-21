@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips 2000 Airfryer - Freidora de Aire 6 2L 13 opciones Táctil Negro | Ventana de cocción 90% menos grasa tecnología Rapid Air pantalla táctil app de recetas HomeID NA230/00'
-date: 2026-11-19 08:38:20
+date: 2026-11-20 19:13:39
 image: 'https://m.media-amazon.com/images/I/31nlgT47gdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CWP7M17B/?tag=tolees-21'
 descuento: '42.61'
-average: '72.64400000000002'
+average: '71.861176470588248'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

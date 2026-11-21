@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tipo de superficie: Correr por carretera
 - Recomendado para: pronadores neutros
 - Cierre de cordones
+- Tipo de superficie: Correr por carretera
 - Exterior de malla reciclada
 - Drop del talón a los dedos: 12 mm
 

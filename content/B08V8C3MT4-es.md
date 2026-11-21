@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tela: tela anfibia
-- __Marca: __ Logotipo de soldadura sónico abovedado en la parte central delantera
-- Construcción: gorra de 6 paneles
 - Visera/ala: ala curvada
+- Construcción: gorra de 6 paneles
+- __Marca: __ Logotipo de soldadura sónico abovedado en la parte central delantera
+- Tela: tela anfibia
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08V8C3MT4{{</world>}}

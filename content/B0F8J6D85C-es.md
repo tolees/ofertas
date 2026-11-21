@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El icónico tacón acampanado está listo para regresar.
 - Esta edición tradicional del LD-1000 presenta gráficos especiales en la plantilla que rinden homenaje al legendario club de atletismo.
+- El icónico tacón acampanado está listo para regresar.
 - Las telas transpirables se combinan con una suela tipo gofre para crear el estilo de la vieja escuela que te encanta.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

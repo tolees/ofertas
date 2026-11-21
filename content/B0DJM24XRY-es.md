@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CLIMAWARM
 - 100 % poliéster (reciclado)
 - Cierre de cremallera
 - Corte clásico
+- CLIMAWARM
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DJM24XRY{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con cuerpo hecho de 88% de bioplástico
 - Cuerpo triangular de caucho que procura una postura cómoda para escribir relajadamente
 - Punta estable con refuerzo de metal, ancho de trazo de 0.4 mm
+- Con cuerpo hecho de 88% de bioplástico
 - Estuche desplegable hecho a base de residuos de plástico del procesamiento interno
 
 [🛒 Aquí!!!]({{< param buyurl >}})

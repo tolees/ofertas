@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Lo que quieras hacer durante el día: los pantalones de 64% viscosa/31% poliéster/5% elastano son un verdadero estándar de moda y no se pueden excluir de ningún armario
-- Only & Sons Pantalones chinos delgados para hombre en diferentes colores, un pantalón especialmente elegante e informal
 - Pantalones de moda para hombre con cintura normal y cremallera
+- Only & Sons Pantalones chinos delgados para hombre en diferentes colores, un pantalón especialmente elegante e informal
+- Lo que quieras hacer durante el día: los pantalones de 64% viscosa/31% poliéster/5% elastano son un verdadero estándar de moda y no se pueden excluir de ningún armario
 - Un clásico que también da una buena impresión en combinación: los pantalones con aspecto colored también se pueden combinar con un jersey de moda
 - Fabricante: ONLY & SONS – Ajuste: Slim – Género: hombre – Color: varios – más del 2% de porcentaje elástico – Cierre: cremallera
 

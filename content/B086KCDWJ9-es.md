@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '1906 - Reserva Especial Cerveza Lager Extra 24 Latas x 33 cl | Maltas Pilsen y Tostada Lúpulo Perle Notas de Café y Caramelo Color Ámbar 6 5% Volumen de Alcohol'
-date: 2026-11-20 02:16:26
+date: 2026-11-21 15:50:16
 image: 'https://m.media-amazon.com/images/I/51aJrhFEcBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B086KCDWJ9/?tag=tolees-21'
 descuento: '36.55'
-average: '19.492765432098597'
+average: '19.475552825552658'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

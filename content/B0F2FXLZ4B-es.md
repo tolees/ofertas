@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Forro de material sintético
 - Cordones
+- Forro de material sintético
 - Empeine textil y de piel
-- Suela de goma
 - Horma clásica
+- Suela de goma
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F2FXLZ4B{{</world>}}

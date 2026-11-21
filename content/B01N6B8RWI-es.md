@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Exclusivo de nylon punta produce bold, líneas nítidas;
 - Secado rápido de tinta a base de agua;
 - Punta de fuerte para limpiar transparente escritura y dibujo;
+- Exclusivo de nylon punta produce bold, líneas nítidas;
 - Disponible en 24 colores;
 - Línea de 0,8 mm, Ancho Tip; mediano.
 

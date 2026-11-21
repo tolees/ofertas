@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Parte superior de piel impermeable
-- Suela ligera Ortholite con botones de goma para mayor agarre
 - Película para el calor
+- Suela ligera Ortholite con botones de goma para mayor agarre
+- Parte superior de piel impermeable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CLYL8PBC{{</world>}}

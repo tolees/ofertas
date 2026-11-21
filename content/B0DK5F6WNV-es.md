@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello de polo
-- Diseño acanalado en cuello y dobladillos
-- Aberturas laterales
-- G-Star Bordado RAW en el pecho
 - Cierre de botón
+- G-Star Bordado RAW en el pecho
+- Cuello de polo
+- Aberturas laterales
+- Diseño acanalado en cuello y dobladillos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DK5F6WNV{{</world>}}

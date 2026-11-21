@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logo de archivo y logotipo enmarcado
 - Plantilla moldeada para confort
+- Logo de archivo y logotipo enmarcado
 - Parte encima de piel suave
 
 [🛒 Aquí!!!]({{< param buyurl >}})

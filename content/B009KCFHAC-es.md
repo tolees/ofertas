@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Capacidad: cuenco de 2,7 L, cesta de 1,9 L
-- TODO SECO: el tope patentado detiene inmediatamente la cesta con un simple empuje, evitando que se moje la encimera de la cocina
 - MULTIUSOS: también puede utilizar el recipiente transparente como recipiente o tazón para servir, mientras que con la cesta giratoria extraíble puede drenar las verduras recién enjuagadas
-- AHORRO DE ESPACIO: Puede apilar fácilmente la centrífuga y guardarla entre los utensilios de cocina, gracias al práctico bloque de almacenamiento que mantiene la bomba al ras con la tapa
-- PRÁCTICO Y FUNCIONAL: muy fácil de usar incluso con una mano, este práctico utensilio de cocina permite un secado máximo con el mínimo esfuerzo
 - MÁS ESTABILIDAD: La base antideslizante mantiene el tazón estable en la encimera mientras seca la ensalada o la albahaca
+- Capacidad: cuenco de 2,7 L, cesta de 1,9 L
+- AHORRO DE ESPACIO: Puede apilar fácilmente la centrífuga y guardarla entre los utensilios de cocina, gracias al práctico bloque de almacenamiento que mantiene la bomba al ras con la tapa
+- TODO SECO: el tope patentado detiene inmediatamente la cesta con un simple empuje, evitando que se moje la encimera de la cocina
+- PRÁCTICO Y FUNCIONAL: muy fácil de usar incluso con una mano, este práctico utensilio de cocina permite un secado máximo con el mínimo esfuerzo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B009KCFHAC{{</world>}}

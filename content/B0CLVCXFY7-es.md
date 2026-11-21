@@ -28,15 +28,15 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Placa de acero inoxidable
-- Dimensiones: 160 x 275 x 130 mm
-- Planchado en seco y vapor
 - Capacidad: 360 cc.
-- Función de apagado automático
-- Accesorios: cepillo y vaso medidor
-- Listo en 40 segundos, tiempo de funcionamiento 18 minutos
-- Potencia: 1700 W
+- Placa de acero inoxidable
 - Volumen de vapor: 20 g/min
+- Listo en 40 segundos, tiempo de funcionamiento 18 minutos
+- Accesorios: cepillo y vaso medidor
+- Función de apagado automático
+- Dimensiones: 160 x 275 x 130 mm
+- Potencia: 1700 W
+- Planchado en seco y vapor
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CLVCXFY7{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fácil de usar: cabezales de repuesto para escobas de jardín; no se incluye el palo
 - Limpieza efectiva: cepillos de acero con tres filas de cerdas para mayor efectividad
+- Fácil de usar: cabezales de repuesto para escobas de jardín; no se incluye el palo
 - Para el jardín: cepillos alambre para limpiar juntas, aceras, adoquines, bordillos y mucho más
 - Flexible: cerdas de metal dispuestas en forma de V para llegar a los sitios más difíciles
 - Cepillos metálicos: set de dos cepillos limpia juntas para deshacerse de las malas hierbas y el musgo en hendiduras y superficies

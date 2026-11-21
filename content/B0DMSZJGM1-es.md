@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Amortiguación cómoda
 - Inspirada en los modelos de running de los años 70
+- Amortiguación cómoda
 - Para uso cotidiano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logo de TPR moldeado en el panel lateral
-- __Parte superior:__ parte superior con múltiples paneles
 - Tejido interior de malla, mayor confort
+- __Parte superior:__ parte superior con múltiples paneles
 - Lengüeta y cuello acolchados con espuma para mayor confort y sujeción
+- Logo de TPR moldeado en el panel lateral
 - __Parte superior:__ parte superior en cuero, nobuk o malla (dependiendo del color)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

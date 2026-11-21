@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Repele el agua
-- 100% poliamida
-- 45 cm de alto x 39,5 cm de ancho x 0 cm de profundidad
 - 0,24 kg de peso y 15 L de volumen
+- 45 cm de alto x 39,5 cm de ancho x 0 cm de profundidad
+- 100% poliamida
 - Mochila mediana (con cordón)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

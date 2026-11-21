@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Horma clásica
+- Plantilla de EVA
 - Cierre de cordones
+- Horma clásica
 - Forro textil
 - Empeine sintético
-- Plantilla de EVA
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CYTF1G61{{</world>}}

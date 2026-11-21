@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asmodee Unlock! Enchanted Adventures Juego de Mesa A Partir de 10 Años | De 1 a 6 Jugadores 60 Minutos por Partida Español'
-date: 2026-11-18 23:40:59
+date: 2026-11-20 22:46:36
 image: 'https://m.media-amazon.com/images/I/51k-avxLYVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FSLV9MGD/?tag=tolees-21'
 descuento: '44.70'
-average: '19.426666666666669'
+average: '18.992500000000003'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

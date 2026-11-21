@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puma Archivo # 1 logo en la pestaña
 - Puma No 2 logo en el lateral
+- Puma Archivo # 1 logo en la pestaña
 - Puma Formstrip en el lateral
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

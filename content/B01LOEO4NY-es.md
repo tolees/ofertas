@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Marca del producto: Home Discount.
 - Tamaño del producto: 56 x 40 x 36 cm aprox.
-- Material: tablero de densidad media.
 - Color del producto: Negro
+- Marca del producto: Home Discount.
 - Instrucciones de limpieza: limpiar con un paño seco.
+- Material: tablero de densidad media.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01LOEO4NY{{</world>}}

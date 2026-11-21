@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material: Acero inoxidable plata, inoxidable/Superficie brillante
-- Tamaño: 9 cm aprox.
 - Se puede lavar en el lavavajillas.
+- Tamaño: 9 cm aprox.
+- Material: Acero inoxidable plata, inoxidable/Superficie brillante
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B079WXB99Q{{</world>}}

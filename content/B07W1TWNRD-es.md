@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Urgo Quemaduras y Heridas Superficiales - 4 apósitos | Apósitos estériles. Formato grande 10 x 7 cm.'
-date: 2026-10-19 14:06:40
+date: 2026-11-20 22:31:09
 image: 'https://m.media-amazon.com/images/I/41Ndae4yQQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

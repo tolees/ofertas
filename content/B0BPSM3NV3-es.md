@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Costuras anatómicas en la puntera
 - Largo hasta el tobillo
-- Puños de canalé
 - Refuerzo en el arco plantar
+- Costuras anatómicas en la puntera
+- Puños de canalé
 - Amortiguación en la planta, el talón y la puntera
 - Tres pares por paquete
 

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ligeros y fáciles de combinar
 - Cuentan con un estilo informal
+- Ligeros y fáciles de combinar
 - Plantilla desmontable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Color: Liso
-- Manga: Larga
-- Ligeramente largo
 - Fit: Regular
+- Color: Liso
+- Ligeramente largo
+- Manga: Larga
 - Cuello: Redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

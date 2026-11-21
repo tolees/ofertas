@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forro en la entrepierna
-- Tejido Infinitex
 - 78% poliamida (reciclada) / 22% elastano
 - Corte ajustado
+- Forro en la entrepierna
+- Tejido Infinitex
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DJ13SSLB{{</world>}}

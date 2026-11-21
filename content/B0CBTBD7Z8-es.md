@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La siguiente información se aplica a cada unidad del paquete
-- Con Eucalipto y Mentol
-- Ingredientes naturales
 - De la marca Proraso
+- Con Eucalipto y Mentol
 - Hidratante y Tonificante
+- Ingredientes naturales
+- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CBTBD7Z8{{</world>}}

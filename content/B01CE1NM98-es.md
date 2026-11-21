@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Johnnie Walker Green label Whisky escocés blended 700 ml'
-date: 2026-11-19 16:46:52
+date: 2026-11-21 04:29:46
 image: 'https://m.media-amazon.com/images/I/41elkzQebwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CE1NM98/?tag=tolees-21'
 descuento: '40.01'
-average: '36.562499999999972'
+average: '36.545151515151488'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dimensiones: 27 x 35,5 x 12 cm
-- Bandolera ajustable y extraíble de 80 cm
-- Forro interior
-- Dos bolsillos delanteros y una solapa con imanes
 - Bolso bandolera con compartimento principal cerrado con cremallera
+- Forro interior
+- Bandolera ajustable y extraíble de 80 cm
+- Dimensiones: 27 x 35,5 x 12 cm
+- Dos bolsillos delanteros y una solapa con imanes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BW4HS71Q{{</world>}}

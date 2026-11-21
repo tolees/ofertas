@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- MOLINILLO CON 8 AJUSTES - Su molinillo cónico proporciona una gran cantidad de café recién molido para un café espresso simple o doble. Se adapta a todas las variedades de granos de café
 - 3 NIVELES DE TEMPERATURA DE INFUSIÓN, capaces de adecuarse a la variedad de los granos y a su nivel de tueste
 - MANGUERA DE VAPOR MY LATTE - Espuma de leche aterciopelada y suave como la seda. Pon a punto tu técnica de arte del latte y consigue la microespuma perfecta para las bebidas a base de leche
 - CONTROL ACTIVO DE LA TEMPERATURA - Temperatura uniforme para una extracción perfecta del café. Elige entre 3 ajustes de temperatura para distintas mezclas de granos y niveles de tueste
-- MOLINILLO CON 8 AJUSTES - Su molinillo cónico proporciona una gran cantidad de café recién molido para un café espresso simple o doble. Se adapta a todas las variedades de granos de café
 - COMO UN BARISTA - Fácil preparación de café con el juego de accesorios para baristas y su almacenamiento. Este juego completo acaba con el desorden durante el molido y guia el apisonado con precisión
 
 [🛒 Comprar!!!]({{< param buyurl >}})

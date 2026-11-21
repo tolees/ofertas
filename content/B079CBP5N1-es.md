@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- manga corta
 - Composición: 100% algodón
 - Polo
 - Corte ajustado
-- manga corta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B079CBP5N1{{</world>}}

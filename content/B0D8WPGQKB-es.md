@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cuello alzado
-- Una mirada original
 - Cierre de cremallera
+- Una mirada original
 - Tela gruesa
 - Proporciona comodidad
 

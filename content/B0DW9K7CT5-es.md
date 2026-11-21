@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estampado a cuadros
 - Abotonadura frontal
+- Cuello: de Camisa
 - Manga: Larga
 - Fit: Regular
+- Estampado a cuadros
 - Desigual
-- Cuello: de Camisa
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DW9K7CT5{{</world>}}

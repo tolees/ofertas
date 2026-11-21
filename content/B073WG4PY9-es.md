@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolivia
-- No contiene
 - Harina de arroz* (75%), harina de quinoa real* (25%)
+- No contiene
+- Bolivia
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B073WG4PY9{{</world>}}

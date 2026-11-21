@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Vegano
 - Espuma viscoelástica
+- Vegano
 - Ajuste sin atar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

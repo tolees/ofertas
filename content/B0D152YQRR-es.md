@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hecho con 95% de contenido reciclado
 - Tejido que evacua la humedad
+- Hecho con 95% de contenido reciclado
 - Banda interior incorporada para evacuar el sudor y la humedad
 - Protección solar certificada UPF 50; óptima protección para actividad al aire libre en tiempo soleado
 - Óptima elasticidad y comodidad sin costuras para acompañarte

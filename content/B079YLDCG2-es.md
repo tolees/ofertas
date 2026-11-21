@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'RENOVA Papel Higiénico Love & Action 108 Rollos Kraft | 108 rollos doble capa 130 servicios por rollo papel kraft FSC y Ecolabel'
-date: 2026-11-19 14:20:40
+date: 2026-11-21 00:50:59
 image: 'https://m.media-amazon.com/images/I/51IgKZo4d6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B079YLDCG2/?tag=tolees-21'
 descuento: '37.31'
-average: '25.059565217391302'
+average: '24.8492'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

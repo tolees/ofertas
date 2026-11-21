@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'L Oréal Paris Paradise Big Deal Máscara de Pestañas Negro | Volumen Extremo y Longitud Infinita Pestañas Separadas Fórmula Ligera Sin Grumos Paradise Big Deal'
-date: 2026-11-06 06:35:38
+date: 2026-11-20 16:18:53
 image: 'https://m.media-amazon.com/images/I/31nRrhErPlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DHCYVSHG/?tag=tolees-21'
 descuento: '42.96'
-average: '8.0642857142857114'
+average: '8.0537499999999973'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

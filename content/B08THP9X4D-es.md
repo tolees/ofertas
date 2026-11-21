@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Logotipo redondo de Kipling
+- Compartimento principal con cremallera
 - Correa de cintura ajustable
 - Llavero con forma de mono de Kipling
 - Repelente al agua
-- Compartimento principal con cremallera
-- Logotipo redondo de Kipling
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08THP9X4D{{</world>}}

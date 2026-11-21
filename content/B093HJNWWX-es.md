@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Expandable using Multibrackets, trays and cages sold separately
 - Support for radiators up to 360 mm in front, 360 mm up top, or 280 mm in the base
 - Iconic angular mesh design offers airflow with a bold, stealth-inspired aesthetic
 - Includes 2 HDD/SSD trays and 2 SSD brackets for mounting up to 4 drives
 - Spacious interior easily accommodates large motherboards up to and including 285 mm E-ATX
+- Expandable using Multibrackets, trays and cages sold separately
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B093HJNWWX{{</world>}}

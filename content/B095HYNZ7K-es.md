@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cuello acolchado
-- Suelas de goma que no dejan marcas
 - 70% de la parte superior está fabricada con materiales reciclados
+- Suelas de goma que no dejan marcas
 - Zapatillas de senderismo ligeras y protectoras con tracción para terreno
 
 [🛒 Visítala!!!]({{< param buyurl >}})

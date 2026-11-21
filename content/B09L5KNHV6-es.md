@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Entresuela y suela de goma
-- PUMA Tira en los lados medial y lateral
-- Líneas verticales más anchas en el talón
-- PUMA Logotipo de gato en el talón
 - Parte superior de cuero con empeine perforado
+- PUMA Logotipo de gato en el talón
+- Líneas verticales más anchas en el talón
+- PUMA Tira en los lados medial y lateral
+- Entresuela y suela de goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09L5KNHV6{{</world>}}

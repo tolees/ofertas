@@ -30,10 +30,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - 70% algodón / 30% poliéster (reciclado)
 - Bolsillos frontales
-- Puños y dobladillo de canalé
-- Contiene al menos un 70% de material reciclado y renovable
-- Capucha
 - Corte clásico
+- Puños y dobladillo de canalé
+- Capucha
+- Contiene al menos un 70% de material reciclado y renovable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZ7GYYD6{{</world>}}

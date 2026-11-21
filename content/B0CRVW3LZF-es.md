@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro Gaming Juego de Mesa Tragabolas Comilón de 2 a 4 Jugadores - Versión Español-Portuguesa Juguete Infantil para Jugar con Familia y Amigos Niños y Niñas de 4 Años o Más'
-date: 2026-11-19 01:53:31
+date: 2026-11-21 01:39:07
 image: 'https://m.media-amazon.com/images/I/51IGhJg7adL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CRVW3LZF/?tag=tolees-21'
 descuento: '46.68'
-average: '19.860526315789493'
+average: '19.491904761904781'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

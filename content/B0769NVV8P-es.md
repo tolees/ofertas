@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Care Label:
 - Reverse
+- materialFabricComposition: 100% Viscose
 - Faux leather jacket
 - Long Sleeves
-- Care Label:
-- materialFabricComposition: 100% Viscose
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0769NVV8P{{</world>}}

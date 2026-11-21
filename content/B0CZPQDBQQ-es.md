@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalón: Cintura elástica con cordón
-- Chaqueta y pantalón: Bolsillos frontales
 - 100% poliéster (reciclado)
+- Cierre de cremallera y cuello alzado
+- Chaqueta y pantalón: Bolsillos frontales
 - Corte clásico con talle medio
 - Chaqueta y pantalón: Puños y dobladillo de canalé
-- Cierre de cremallera y cuello alzado
+- Pantalón: Cintura elástica con cordón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZPQDBQQ{{</world>}}

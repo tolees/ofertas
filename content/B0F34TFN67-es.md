@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Plantilla textil
-- Corte clásico
-- Suela sintética
-- Cordones
 - Empeine de material sintético
+- Corte clásico
+- Cordones
+- Suela sintética
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F34TFN67{{</world>}}

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Capucha
+- Corte clásico
 - Bolsillos frontales
 - 70% algodón / 30% poliéster (reciclado)
-- Corte clásico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CZ7F8DKB{{</world>}}

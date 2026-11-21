@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MÓVIL
 - Medianoche
+- MÓVIL
 - Apple iPhone 14, 128 GB, color medianoche (renovado)
 - Manzana
 

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sole: goma
-- Material exterior: lona
 - Material interior: sintético
 - Cordones
+- Material exterior: lona
+- Sole: goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08GPRCHBQ{{</world>}}

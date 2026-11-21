@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bolsillos en el pecho con solapa y botones a presión
-- Cuello de camisa
 - Lengüetas en las mangas, que permiten enrollar las mangas para acortarlas.
 - Panel en los hombros, trabilla añadida
+- Bolsillos en el pecho con solapa y botones a presión
+- Cuello de camisa
 - Cierre de botones, botón a presión debajo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

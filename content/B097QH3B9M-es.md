@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Proporciona 24 horas de hidratación para una sensación de confort durante todo el día.
-- Brillo de labios Bourjois de brillo intenso y no pegajoso para unos labios hidratados y deliciosos al instante.
-- Una fórmula ligera y no pegajosa de brillo de labios con un delicioso aroma que combina con tu deslumbrante sonrisa.
-- Su fórmula exclusiva de textura de bálsamo labial contiene aceite de argán y vitamina E.
 - Cómodo de llevar gracias a su efecto de bálsamo, no es pegajoso
-- Contiene aceite de argán y vitamina E
-- Disponible en 9 distintos tonos ponibles: claros o de cobertura más alta
-- Gloss que proporciona 24h de hidratación y brillo duradero
 - Su aplicador es suave y preciso, de fácil aplicación
 - Disponible en 9 tonos brillantes color de labios, con un aplicador de precisión ultrasuave para un brillo de labios que se desliza fácilmente.
+- Gloss que proporciona 24h de hidratación y brillo duradero
+- Contiene aceite de argán y vitamina E
+- Brillo de labios Bourjois de brillo intenso y no pegajoso para unos labios hidratados y deliciosos al instante.
+- Su fórmula exclusiva de textura de bálsamo labial contiene aceite de argán y vitamina E.
+- Una fórmula ligera y no pegajosa de brillo de labios con un delicioso aroma que combina con tu deslumbrante sonrisa.
+- Disponible en 9 distintos tonos ponibles: claros o de cobertura más alta
+- Proporciona 24 horas de hidratación para una sensación de confort durante todo el día.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B097QH3B9M{{</world>}}

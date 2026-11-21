@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño ergonómico que mantiene las costuras alejadas de las zonas de mayor abrasión y aumenta la durabilidad
 - Material que capilariza el sudor y se seca rápidamente
 - Paneles de malla en las axilas y la parte trasera para una ventilación estratégica
 - Tejido HeatGear superligero que ofrece una protección superior sin añadir peso
+- Diseño ergonómico que mantiene las costuras alejadas de las zonas de mayor abrasión y aumenta la durabilidad
 - Diseño híbrido de mangas raglán para ofrecer mayor libertad de movimiento y comodidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

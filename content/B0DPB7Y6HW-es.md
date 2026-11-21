@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cobertura de transparente a ligera y no comedogénica
 - Fórmula con vitamina E nutritiva
 - Textura suave y cremosa para un brillo natural
-- Cobertura de transparente a ligera y no comedogénica
 - Soft focus; luminoso
 - Nos oponemos a los experimentos con animales; cosnova aparece internacionalmente con essence y CATRICE tanto en PETA Alemania como en PETA
 

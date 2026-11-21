@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Curcuma con Jengibre y Pimienta Negra PROBIÓTICOS - 250 cápsulas - 1460mg | BIO Cúrcuma - Curcumina y Piperina - Antiinflamatorio Natural - Fórmula Avanzada - ALDOUS'
-date: 2026-11-17 00:50:23
+date: 2026-11-20 21:41:17
 image: 'https://m.media-amazon.com/images/I/51AWY25S81L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08MYVY82G/?tag=tolees-21'
 descuento: '41.98'
-average: '23.32166666666653'
+average: '23.232499999999867'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro Gaming Juego de Mesa Familiar Cara Splash con Crema Batida'
-date: 2026-11-20 01:04:00
+date: 2026-11-21 15:03:37
 image: 'https://m.media-amazon.com/images/I/51Gnp-7tsVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0D9K9LVPW/?tag=tolees-21'
 descuento: '39.15'
-average: '14.669999999999972'
+average: '14.584999999999974'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 100% algodón
-- Camiseta individual con estampado frontal
 - Camiseta regular de manga corta
+- Camiseta individual con estampado frontal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DKFR11RF{{</world>}}

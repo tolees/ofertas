@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Anker Nano II Cargador Carga Rapida USB C 65W con 3 Puertos PPS | Para MacBook Pro iPad Pro Steam Galaxy S26 25 24 DELL XPS 13 iPhone 18 Pro Max 17 16 15 Air'
-date: 2026-11-19 18:48:00
+date: 2026-11-21 00:15:15
 image: 'https://m.media-amazon.com/images/I/31kq5GAU+mL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09LLRNGSD/?tag=tolees-21'
 descuento: '36.68'
-average: '23.416744186046429'
+average: '23.316136363636282'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

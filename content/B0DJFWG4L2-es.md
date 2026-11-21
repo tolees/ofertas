@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Talle alto
 - Interlock 85% poliéster reciclado / 15% elastán
-- Tejido transpirable
-- Diseño estilizado
-- AEROREADY
-- Mínima cantidad de costuras
-- Corte ajustado
 - Bolsillo oculto en el muslo
+- Corte ajustado
+- Diseño estilizado
+- Mínima cantidad de costuras
+- Talle alto
+- AEROREADY
+- Tejido transpirable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DJFWG4L2{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Plantilla Goga Mat refrigerada por aire
 - Mstrike
 - Amortiguación ultraligera
+- Plantilla Goga Mat refrigerada por aire
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CPJSW9BC{{</world>}}

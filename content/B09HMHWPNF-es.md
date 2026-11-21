@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Manga corta
 - Lavar a mano
 - Marca: Nike
 - Cierre: Botón
-- Manga corta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09HMHWPNF{{</world>}}

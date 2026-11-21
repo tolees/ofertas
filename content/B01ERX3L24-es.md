@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Esta tecnología es capaz de controlar la humedad corporal, trasportándola desde la piel a la cara externa de la prenda para una buena evaporación y de forma rápida
-- DryMX asegura que le deportista permanecerá seco y cómodo, previniéndole del enfriamiento post-ejercicio
-- Fabricada de 100% poliéster interlock
 - Camiseta diseñada en cuello redondo y manga corta
+- Fabricada de 100% poliéster interlock
+- DryMX asegura que le deportista permanecerá seco y cómodo, previniéndole del enfriamiento post-ejercicio
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01ERX3L24{{</world>}}

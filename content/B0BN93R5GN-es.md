@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lavar a máquina
 - 100% algodón
+- Lavar a máquina
 - Hebilla
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

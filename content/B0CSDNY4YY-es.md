@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Composición: 80% algodón, 18% poliéster, 2% elastano
-- Jean; pantalones; largo
-- Instrucciones de cuidado: lavable a máquina
-- Cierre: cremallera y botón
 - Ajuste: ajuste regular
+- Cierre: cremallera y botón
+- Composición: 80% algodón, 18% poliéster, 2% elastano
+- Instrucciones de cuidado: lavable a máquina
+- Jean; pantalones; largo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CSDNY4YY{{</world>}}

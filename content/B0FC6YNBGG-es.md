@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
 - Una camisa de trabajo duradera inspirada en la ropa de trabajo
 - Una versátil prenda de abrigo
 - Incluye bolsillos multiusos
+- LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FC6YNBGG{{</world>}}

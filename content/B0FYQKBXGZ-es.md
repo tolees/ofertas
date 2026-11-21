@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior de malla transpirable para una ventilación superior.
 - Suela AHAR para mayor durabilidad y agarre.
+- Parte superior de malla transpirable para una ventilación superior.
 - Tecnología de amortiguación GEL para una óptima absorción de impactos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

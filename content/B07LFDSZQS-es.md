@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estampado de logotipo integral
 - Chaqueta acolchada de corte cuadrado
-- Ajuste regular
+- Estampado de logotipo integral
 - Cremallera completa
+- Ajuste regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07LFDSZQS{{</world>}}

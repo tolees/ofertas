@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Levi s 511 Slim Vaqueros  Part The Sea LTWT  32W / 32L para Hombre'
-date: 2025-11-05 08:41:09
+title: 'Levi s 511 Slim Vaqueros Part The Sea LTWT 32W / 32L para Hombre'
+date: 2026-11-21 08:33:43
 image: 'https://m.media-amazon.com/images/I/31lMluUS5sL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,7 +13,7 @@ actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95
 comparePrice: 120.0 EUR
-prodname: 'Levi s 511 Slim Vaqueros  Part The Sea LTWT  32W / 32L para Hombre'
+prodname: 'Levi s 511 Slim Vaqueros Part The Sea LTWT 32W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Levis'

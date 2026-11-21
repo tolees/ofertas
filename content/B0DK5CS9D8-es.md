@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- G-Star Insignia RAW en el pecho
 - Aberturas laterales
+- G-Star Insignia RAW en el pecho
 - Cierre de botón
 - Diseño acanalado en cuello y dobladillos
 - Cuello de polo

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Parasol integrado
 - Objetivo fotográfico para Micro 4/3 (Silver)
+- Parasol integrado
+- Campo de visión diagonal de 180°. Con revestimiento UMC anti-reflectante
 - Para cámaras compactas sin espejo de tipo Micro Cuatro Tercios, ojo de pez
 - Enfoque manual
-- Campo de visión diagonal de 180°. Con revestimiento UMC anti-reflectante
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0060G3OTW{{</world>}}

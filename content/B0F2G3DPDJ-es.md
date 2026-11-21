@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Horma clásica
-- Plantilla textil
 - Cordones
 - Suela de goma
+- Plantilla textil
 - Empeine de ante y material sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})

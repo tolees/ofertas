@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Espuma viscoelástica
-- Ligeras
 - Detalle del logotipo
+- Ligeras
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C5TPB7JF{{</world>}}

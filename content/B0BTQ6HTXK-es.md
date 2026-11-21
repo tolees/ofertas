@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tomas schuko: clavijas y tomas tipo E. Todas las tomas están dotadas de un sistema de seguridad para niños que impide la introducción de cuerpos extraños en la toma activa.
-- Cable neopreno 25m H07RN-F 3G2.5mm2. Protector de seguridad: desconecte la alimentación cuando supere el límite de seguridad.
 - Resistente al agua IP44: ideal para el jardín, el bricolaje, las obras o el trabajo profesional.
 - Con interruptor térmico, mango de rebobinado giratorio. Potencia máxima: enrollado: 1100W, desenrollado: 3200W.
 - Enrollador de cable eléctrico profesional, con 4 tomas IP44 y enchufe estándar Schuko - Mango ergonómico y práctico para guantes de trabajo. Marco de acero resistente. Certificado SG.
+- Cable neopreno 25m H07RN-F 3G2.5mm2. Protector de seguridad: desconecte la alimentación cuando supere el límite de seguridad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BTQ6HTXK{{</world>}}

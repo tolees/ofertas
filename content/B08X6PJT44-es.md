@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Para mujer de la marca danesa. ONLY
+- Corte holgado
 - Pantalón de pierna ancha
 - Fabricado con Lenzing Ecovero. Este producto ha sido fabricado con fibras de viscosa de la marca Lenzing Ecovero, para ello se utiliza pulpa derivada de madera procedente de bosques gestionados de forma responsable; la producción de estas fibras de viscosa reduce el impacto en el medio ambiente
-- Corte holgado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08X6PJT44{{</world>}}

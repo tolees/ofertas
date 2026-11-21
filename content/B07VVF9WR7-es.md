@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela/características: suela de TPU con tecnología Contact Earth para una alta resistencia a la abrasión
 - Color: negro
+- Suela/características: suela de TPU con tecnología Contact Earth para una alta resistencia a la abrasión
 - Costuras alrededor para mayor durabilidad
 - Correa elástica para un ajuste cómodo
 - Parte superior: cuero (piel de vacuno)

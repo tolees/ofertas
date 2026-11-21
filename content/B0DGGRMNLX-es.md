@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Havana Palladium/Blue
 - Sin Polarizar
-- Garantía internacional de 2 años
 - Talla 55/19/150
+- Garantía internacional de 2 años
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DGGRMNLX{{</world>}}

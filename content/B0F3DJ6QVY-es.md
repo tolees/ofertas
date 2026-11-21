@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 100% poliéster (reciclado)
+- Visera curvada
 - CLIMACOOL
 - Cinta transpirable para el sudor de la frente
-- Talla única
 - Cierre autoadherente ajustable en la nuca
-- Visera curvada
-- 100% poliéster (reciclado)
+- Talla única
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F3DJ6QVY{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- UN ACEITE DE CALIDAD: Pranarôm utiliza exclusivamente Aceites Vegetales vírgenes, es decir de primera presión en frío; sólo estos Aceites son de calidad terapéutica porque han conservado todos sus compuestos
 - CUÁNDO USARLO: Piel madura (favorece la regeneración cutánea), estrías, grietas, cicatrices, alimentación saludable
 - UN ACEITE VEGETAL PRECIOSO: El Aceite Vegetal BIO de Rosa Mosqueta es uno de los únicos que contiene Omega-3, 6 y 9; utilizado en cuidados anti-envejecimiento, aporta flexibilidad y elasticidad a la epidermis y previene el envejecimiento cutáneo
+- UN ACEITE DE CALIDAD: Pranarôm utiliza exclusivamente Aceites Vegetales vírgenes, es decir de primera presión en frío; sólo estos Aceites son de calidad terapéutica porque han conservado todos sus compuestos
 - PRANARÔM, LA CIENCIA DE LOS ACEITES ESENCIALES: Pranarôm combina su experiencia científica en Aceites Esenciales con su amor por las plantas para ofrecer soluciones específicas para mantener a toda la familia con buena salud cada día
 - CÓMO UTILIZARLO: Vía oral: 1 cucharada al día; uso cosmético: Apto para todo tipo de pieles; conserva del envejecimiento; se utiliza como crema hidratante y nutritiva de día o de noche (aplicar 15 minutos antes del maquillaje o antes de acostarse)
 

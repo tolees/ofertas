@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre de cordones
-- Plantilla de EVA
-- Horma clásica
 - Suela de goma
+- Forro textil
+- Plantilla de EVA
 - Empeine sintético
 - Suela con plataforma
-- Forro textil
+- Cierre de cordones
+- Horma clásica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CYTB9PM3{{</world>}}

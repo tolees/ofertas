@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detalles distintivos de la marca
 - Ofrecen una amortiguación óptima
+- Detalles distintivos de la marca
 - Con un estilo casual
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

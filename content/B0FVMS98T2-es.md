@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'G-Star Raw C.V. Slim Rib Tank T Wmn T-Shirt Verde Lt Orphus D28716-e527-b441 S Mujer'
-date: 2026-11-19 14:00:00
+date: 2026-11-20 20:55:50
 image: 'https://m.media-amazon.com/images/I/31tM6d5EKzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

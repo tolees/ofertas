@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte ajustado
-- Tejido LYCRA ADAPTIV
-- 80% poliéster (reciclado) / 20% elastano
 - Tejido suave Adisoft
-- CLIMACOOL
-- Cintura elástica
+- 80% poliéster (reciclado) / 20% elastano
+- Corte ajustado
 - Talle alto
+- CLIMACOOL
+- Tejido LYCRA ADAPTIV
+- Cintura elástica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F3DFWGJR{{</world>}}

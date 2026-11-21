@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Barbie Muñeca Sirena mágica con detalle de flores | Muñeca de moda con detalle de flor sorpresa incluye diadema de perlas 3+ años JDM72'
-date: 2026-11-19 23:29:12
+date: 2026-11-21 01:45:45
 image: 'https://m.media-amazon.com/images/I/31DnG8MvDxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DMWKY1HH/?tag=tolees-21'
 descuento: '48.54'
-average: '15.671999999999999'
+average: '15.51'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

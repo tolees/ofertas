@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Corte clásico
-- 55% algodón / 36% poliéster (reciclado) / 9% viscosa
-- Puños y dobladillo de canalé
-- Bolsillos frontales
-- Contiene al menos un 70% de material reciclado y renovable
 - Cierre de cremallera y capucha ajustable con cordón
+- Bolsillos frontales
+- Puños y dobladillo de canalé
+- Contiene al menos un 70% de material reciclado y renovable
+- 55% algodón / 36% poliéster (reciclado) / 9% viscosa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZP6QT1L{{</world>}}

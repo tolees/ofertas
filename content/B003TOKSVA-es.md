@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Para felinos
 - Contiene pescado blanco
+- Para felinos
 - Alimentos para mascotas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Horma clásica
 - Plantilla textil
 - Suela sintética
-- Horma clásica
 - Empeine de material sintético
 - Cordones
 

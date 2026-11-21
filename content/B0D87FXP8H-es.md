@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estilo contemporáneo
 - Uso versátil
 - PEPE JEANS RUSPER CLASS COGNAC Ladies 36
+- Estilo contemporáneo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D87FXP8H{{</world>}}

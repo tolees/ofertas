@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- MCF17126
 - 0787926171266
+- MCF17126
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CK4ZYTNP{{</world>}}

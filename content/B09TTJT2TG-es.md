@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fabricado en un proceso de producción sostenible, ecológico y transpirante
 - Malla larga de algodón orgánico
+- Fabricado en un proceso de producción sostenible, ecológico y transpirante
 - 93% Algodón Orgánico - 7% Elastano
 - Libre de pesticidas y solo con agua de lluvia
 

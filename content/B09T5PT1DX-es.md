@@ -28,16 +28,16 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Escala: 1/20. Velocidad máxima: 8km/h.
-- Uso duradero gracias a la batería recargable y el cable USB incluidos. Tiempo de carga: 2-3 horas / Tiempo de reproducción: 15 minutos.
-- ¡Increíbles efectos de luz!
-- Alimentación: 1 batería recargable (incluida) + 2 pilas LR6 / AA (no incluidas).
-- Frecuencia de 2,4 GHz para un alcance optimizado y una gran reducción de los problemas de interferencias.
-- Función de deriva: movimientos laterales y diagonales.
-- Modo demo: deja que el coche te muestre lo que puede hacer.
-- A partir de los 6 años.
 - Un coche teledirigido para todos los terrenos gracias a su tracción a las cuatro ruedas y a sus neumáticos de gran agarre.
+- Alimentación: 1 batería recargable (incluida) + 2 pilas LR6 / AA (no incluidas).
+- A partir de los 6 años.
+- Función de deriva: movimientos laterales y diagonales.
+- Frecuencia de 2,4 GHz para un alcance optimizado y una gran reducción de los problemas de interferencias.
 - 2 posiciones: el coche se transforma girando las ruedas para realizar nuevas y más impresionantes acrobacias.
+- Escala: 1/20. Velocidad máxima: 8km/h.
+- ¡Increíbles efectos de luz!
+- Uso duradero gracias a la batería recargable y el cable USB incluidos. Tiempo de carga: 2-3 horas / Tiempo de reproducción: 15 minutos.
+- Modo demo: deja que el coche te muestre lo que puede hacer.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09T5PT1DX{{</world>}}

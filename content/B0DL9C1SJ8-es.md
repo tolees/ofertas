@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI Minix Collectible Figurines Juego de fútbol Real Madrid Juego con 5 Jugadores Recrea los Mejores Momentos del Fútbol Idea de Regalo para Niños y Adultos Fans de fútbol MN17386'
-date: 2026-11-02 08:28:16
+date: 2026-11-20 18:46:59
 image: 'https://m.media-amazon.com/images/I/31yEEFPC1zL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

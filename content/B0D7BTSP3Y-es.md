@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Horma clásica
 - Forro textil
+- Horma clásica
 - Empeine de ante
 - Cierre de cordones
 

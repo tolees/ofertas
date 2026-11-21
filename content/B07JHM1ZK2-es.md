@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Plongez et explorez les forêts de varech, les plateaux, les récifs et les systèmes de grottes sinueuses, surveillez votre taux doxygène!
 - Playstation 4 - jeu daventure
 - 1X disque de jeu
+- Plongez et explorez les forêts de varech, les plateaux, les récifs et les systèmes de grottes sinueuses, surveillez votre taux doxygène!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07JHM1ZK2{{</world>}}

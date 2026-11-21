@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello: de Camisa
 - Manga: Larga
 - Abotonadura frontal
+- Cuello: de Camisa
 - Estampado floral
 - Fit: Regular
 

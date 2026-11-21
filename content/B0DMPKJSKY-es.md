@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - EVA midsole
-- Lace closure
 - Leather upper
+- Lace closure
 - High-abrasion-resistant rubber outsole Textile lining
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

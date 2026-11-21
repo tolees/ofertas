@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Largo clásico
 - Refuerzo en el arco plantar
+- Largo clásico
 - Tres pares por paquete
 - Costuras anatómicas en la puntera
 - Paneles acolchados en la puntera y el talón

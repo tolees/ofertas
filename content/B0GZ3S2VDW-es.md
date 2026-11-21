@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Eastpak Estuche Individual Benchmark Bolsa compacta de papelería con Cremallera y Gran Compartimento Principal 6 x 20.5 x 7.5 cm - Brize Retro Dark'
-date: 2026-11-20 00:27:21
+date: 2026-11-21 00:34:47
 image: 'https://m.media-amazon.com/images/I/31fuD4TdP5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

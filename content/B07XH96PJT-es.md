@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Evi love ha cogido la varicela; cuídala para que recupere la salud
 - Cambia de color según la temperatura
+- Evi love ha cogido la varicela; cuídala para que recupere la salud
 - Incluye numerosos accesorios, como una camita o un completo equipo médico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

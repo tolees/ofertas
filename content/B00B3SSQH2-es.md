@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Capaz de soportar temperaturas extremas desde -40ºC hasta300ºC
-- Tamaño: 1.9 litros
 - Dimension del producto: 32X20 cm
+- Tamaño: 1.9 litros
+- Capaz de soportar temperaturas extremas desde -40ºC hasta300ºC
 - Material: Vidrio borosilicato
 
 [🛒 Visítala!!!]({{< param buyurl >}})

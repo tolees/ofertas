@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Forro textil
+- Horma clásica
 - Cierre de cordones
 - Mediasuela de aspecto vulcanizado
-- Horma clásica
-- Forro textil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CB1Q83LF{{</world>}}

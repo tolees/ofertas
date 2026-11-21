@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Garnier Vitamina C Sérum AntiManchas Pieles Sensible Nº1 del mundo 30 ml | 4% Niacinamida Vitamina C Ácido Salicílico y Melasyl Reduce el 70% de Manchas Oscuras Unifica el Tono e Ilumina en 3 Días'
-date: 2026-11-19 12:56:46
+date: 2026-11-20 16:50:39
 image: 'https://m.media-amazon.com/images/I/41syHUv6sXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09BD7L35V/?tag=tolees-21'
 descuento: '46.31'
-average: '10.250917431192692'
+average: '10.201171171171202'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Logotipo impreso en el pecho
-- 100% algodón
 - Camiseta de manga corta de algodón lavado
+- 100% algodón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FFTTFVWV{{</world>}}

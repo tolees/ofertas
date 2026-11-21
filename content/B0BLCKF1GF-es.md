@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Parte superior sintética y lengüeta con superposiciones sintéticas.
+- Silueta para correr de perfil bajo
 - entresuela de EVA
 - Forro de malla
 - Suela de goma que no deja marcas
-- Silueta para correr de perfil bajo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BLCKF1GF{{</world>}}

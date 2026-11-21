@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Artículo : Pantalones chinos
-- Cintura : Tiro bajo
-- Bolsillos : Bolsillos traseros, Bolsillos delanteros
-- Corte : Corte slim
 - Cierre : Bragueta con cremallera
+- Bolsillos : Bolsillos traseros, Bolsillos delanteros
+- Cintura : Tiro bajo
+- Artículo : Pantalones chinos
+- Corte : Corte slim
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07JPM8LMK{{</world>}}

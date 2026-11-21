@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Boys UA Blitzing
 - 1376708-001-YMD/YLG
+- Boys UA Blitzing
 - Boys
 
 [🛒 Comprar!!!]({{< param buyurl >}})

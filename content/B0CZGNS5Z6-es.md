@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tecnología Natural Rocker
-- Espuma viscoelástica refrigerada por aire
 - Lavable a máquina
 - Slip-Ins
+- Tecnología Natural Rocker
+- Espuma viscoelástica refrigerada por aire
 - Forro de plantilla con infusión de cobre
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

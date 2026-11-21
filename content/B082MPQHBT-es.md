@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto de alta calidad
 - Fabricado en España
 - Marca: New Balance
+- Producto de alta calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B082MPQHBT{{</world>}}

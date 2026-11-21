@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Desigual
-- Manga: Larga
+- Largo: Corto
 - Cuello: Redondo
 - Estampado Arty
-- Largo: Corto
+- Desigual
+- Manga: Larga
 - Fit: Skater
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cremallera y cuello mao
 - Corte holgado
-- Mangas con puños
 - Cintura elástica
 - Bolsillos frontales
 - Contiene al menos un 70% de material reciclado y renovable
-- Cremallera y cuello mao
 - 55% algodón / 36% poliéster (reciclado) / 9% viscosa
+- Mangas con puños
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZP6YSQ5{{</world>}}

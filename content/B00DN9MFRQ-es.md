@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- HARINA DE CENTENO BIO: nuestra harina de centeno es de grano completo por lo que conserva todos sus nutrientes, perfecta para una dieta saludable. Apta para veganos y de cultivo ecológico pero no apta para personas celiacas.
-- IDEAL PARA COCINAR: Su composición permite un amasado sencillo. La puedes utilizar para elaborar pan, galletas, repostería o papillas y, también, para rebozar o empanar. También es idónea para espesar o preparar salsas. Es una harina panificable por lo que podrás incluso elaborar panes solo con esta harina de color más oscuro y con una miga más densa en comparación con el pan de trigo convencional.
 - SOBRE NOSOTROS: Desde 1982, el Granero Integral apuesta por una alimentación saludable al alcance de todos. Somos empresa BCorp certificada y cumplimos con los estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
+- HARINA DE CENTENO BIO: nuestra harina de centeno es de grano completo por lo que conserva todos sus nutrientes, perfecta para una dieta saludable. Apta para veganos y de cultivo ecológico pero no apta para personas celiacas.
 - MÚLTIPLES BENEFICIOS: gracias a que elaboramos nuestra harina con el grano completo del centeno, es fuente de fibra, antioxidantes, vitaminas del grupo B y minerales como el zinc, el selenio o el hierro. Ideal para reforzar las defensas naturales, contribuir a la fertilidad y con elevado poder antioxidante.
+- IDEAL PARA COCINAR: Su composición permite un amasado sencillo. La puedes utilizar para elaborar pan, galletas, repostería o papillas y, también, para rebozar o empanar. También es idónea para espesar o preparar salsas. Es una harina panificable por lo que podrás incluso elaborar panes solo con esta harina de color más oscuro y con una miga más densa en comparación con el pan de trigo convencional.
 - FORTALECE EL CABELLO Y LAS UÑAS: su equilibrado aporte de selenio y zinc contribuye al mantenimiento del cabello y de las uñas en condiciones normales.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

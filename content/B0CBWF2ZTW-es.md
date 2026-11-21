@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte ajustado
 - Camisa
 - Composición: 100% algodón
+- Corte ajustado
 - Manga larga
 
 [🛒 Visítala!!!]({{< param buyurl >}})

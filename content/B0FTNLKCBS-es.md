@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Horma estándar
 - Revestimiento de ante
-- Cierre de cordones
+- Horma estándar
 - Textura gruesa en la entresuela
+- Cierre de cordones
 - Suela de goma
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

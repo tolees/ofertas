@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela: Caucho
-- Cierre: cordones
 - Material interior: textil
 - Material exterior: lona
+- Suela: Caucho
+- Cierre: cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B098FGCMFG{{</world>}}

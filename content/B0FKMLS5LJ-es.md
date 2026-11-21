@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Absorben el sebo, calman la piel y fortalecen la barrera cutánea. Combaten los signos post-acnéicos.
-- Los parches para granos con niacinamida y ceramidas de CeraVe reducen las imperfecciones y refuerzan la barrera cutánea, combatiendo las manchas y cicatrices post-acné. Disponibles en 2 tamaños.
 - Gel para reducir imperfecciones y puntos negros. Minimiza poros, exfolia y ayuda a eliminar células muertas y sebo. Con Ácido Salicílico, Arcilla, Niacinamida, ceramidas y Tecnología MVE. Para piel con tendencia acneica y grasa.
 - Piel hidratada, marcas e inflamación reducidas. Textura gel a espuma. Sin perfume, no comedogénico, hipoalergénico.
+- Los parches para granos con niacinamida y ceramidas de CeraVe reducen las imperfecciones y refuerzan la barrera cutánea, combatiendo las manchas y cicatrices post-acné. Disponibles en 2 tamaños.
+- Absorben el sebo, calman la piel y fortalecen la barrera cutánea. Combaten los signos post-acnéicos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FKMLS5LJ{{</world>}}

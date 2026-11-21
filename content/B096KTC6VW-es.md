@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 8 a 12 horas en el congelador
-- Capacidad: 2 litros
-- Velocidad del motor: 30 rpm
-- Preparación rápida: 30-40 minutos
-- Apagado automático
-- Cuerpo de acero inoxidable
 - Cuenco extraíble
-- Tapa transparente con apertura
 - Potencia: 12 W
+- Velocidad del motor: 30 rpm
+- Cuerpo de acero inoxidable
+- Preparación rápida: 30-40 minutos
+- Capacidad: 2 litros
+- 8 a 12 horas en el congelador
+- Tapa transparente con apertura
+- Apagado automático
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B096KTC6VW{{</world>}}

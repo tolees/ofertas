@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Empeine de piel sintética con refuerzos de ante
 - Forro de malla
 - Cierre de cordones
 - Horma clásica
+- Empeine de piel sintética con refuerzos de ante
 - Suela de goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Correa marrón de piel
 - Caja redonda de acero inoxidable con esfera blanca de nácar
 - Caja de 36 mm, correa de 16 mm de ancho, cristal mineral, movimiento de cuarzo con pantalla analógica con cronógrafo, importado
-- Correa marrón de piel
 - Resistente al agua hasta 50 m: apto para nadar en aguas poco profundas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

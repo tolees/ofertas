@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- De manga corta
-- Camiseta con cuello dividido para hombre
 - Durabilidad con material sostenible
 - Tela elástica para mayor comodidad
+- De manga corta
+- Camiseta con cuello dividido para hombre
 - Hecho de algodón suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

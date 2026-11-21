@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- conjunto ideal para tu día a día y ocasiones especiales
 - Braga clásica de encaje con detalles de microfibra
+- conjunto ideal para tu día a día y ocasiones especiales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQYNWHCJ{{</world>}}

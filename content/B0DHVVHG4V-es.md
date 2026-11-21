@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contiene al menos un 20% de material reciclado
-- Cierre de cordones
-- Lengüeta reforzada
-- Empeine textil y sintético con refuerzos de gran resistencia al desgaste
 - Horma clásica
-- Peso: 393,5 g (talla 42 2/3)
+- Empeine textil y sintético con refuerzos de gran resistencia al desgaste
 - Mediasuela de EVA
+- Membrana GORE-TEX
+- Cierre de cordones
+- Peso: 393,5 g (talla 42 2/3)
+- Contiene al menos un 20% de material reciclado
+- Lengüeta reforzada
 - Suela con compuesto de caucho Continental
 - Drop: 10 mm (talón: 29 mm / antepié: 19 mm)
-- Membrana GORE-TEX
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DHVVHG4V{{</world>}}

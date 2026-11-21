@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Amortiguación LIGHTMOTION
-- Forro textil
-- Cierre de cordones con detalles textiles
 - Horma clásica
+- Amortiguación LIGHTMOTION
+- Cierre de cordones con detalles textiles
+- Forro textil
 - Empeine de malla con mezcla de materiales
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Prácticas bolsas de té individualmente envueltas para un sabor fresco y una preparación sencilla.
-- Con hierbas cuidadosamente seleccionadas, que tienen un efecto calmante y equilibrante.
 - Ideal después de las comidas o para un estómago sensible.
-- Fabricado por SELEN, reconocido por sus mezclas de té naturales y de alta calidad.
+- Con hierbas cuidadosamente seleccionadas, que tienen un efecto calmante y equilibrante.
+- Prácticas bolsas de té individualmente envueltas para un sabor fresco y una preparación sencilla.
 - Té de hierbas reconfortante para favorecer una sensación agradable en el estómago.
+- Fabricado por SELEN, reconocido por sus mezclas de té naturales y de alta calidad.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FYQW5NF5{{</world>}}

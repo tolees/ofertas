@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- materialFabricComposition: 95% Polyester, 5% Elastane
+- Regular Fit
 - Care Label:
 - Mid waist
-- Regular Fit
 - Wide leg trousers
-- materialFabricComposition: 95% Polyester, 5% Elastane
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B085VSX4DS{{</world>}}

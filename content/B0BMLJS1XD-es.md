@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un polo refinado con estilo, versátil y todo menos aburrido
 - Acabado en una combinación de colores náuticos
-- Textura de piqué clásico
 - Este producto es original Levis
+- Textura de piqué clásico
+- Un polo refinado con estilo, versátil y todo menos aburrido
 - Fit ajustado para un look informal y desenfadado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

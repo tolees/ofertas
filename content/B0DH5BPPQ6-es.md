@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Radio FM + Micro SD Player. Además de su opción Bluetooth 5.4, podrás reproducir música sin necesidad de tener tu smartphone a mano gracias a su radio FM y entrada para tarjetas SD.
 - Materiales reciclados y sostenibles. El altavoz StreetPlay está fabricado con plástico 100% reciclado y cartón certificado FSC. Además, cuenta con 8W de potencia para que lleves la fiesta contigo a cualquier parte.
-- IPX6 + RGB LED. Altavoz resistente al agua con certificación IPX6. Llévalo a cualquier parte gracias a su asa y dale color a la fiesta gracias a su iluminación RGB LED.
 - Batería y portabilidad. Hasta 12 horas de autonomía para disfrutar de tu música sin preocuparte de la batería.
+- IPX6 + RGB LED. Altavoz resistente al agua con certificación IPX6. Llévalo a cualquier parte gracias a su asa y dale color a la fiesta gracias a su iluminación RGB LED.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DH5BPPQ6{{</world>}}

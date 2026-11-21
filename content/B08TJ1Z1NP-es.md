@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Philips Serie 5000 Plancha de Vapor 2400W de Potencia 45g/min Golpe de Vapor 180g Vapor Vertical Suela SteamGlide Plus Negro/Púrpura DST5030/80'
-date: 2026-09-14 09:00:10
+title: 'Philips 5000 Plancha de Vapor Potencia de 2400W depósito 320 ml Púrpura | Vapor continuo de 45 g/min golpe de vapor de 180 g suela SteamGlide depósito de agua de 320 ml DST5030/80'
+date: 2026-11-20 23:46:38
 image: 'https://m.media-amazon.com/images/I/41U9L4yBLSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08TJ1Z1NP-es Philips Serie 5000 Plancha de Vapor 2400W de Potencia...'
+slug: 'B08TJ1Z1NP-es Philips 5000 Plancha de Vapor Potencia de 2400W depósito...'
 sku: 'B08TJ1Z1NP-es'
 tags: [ '🇪🇸', ]
-actualPrice: 34.9 EUR
+actualPrice: 32.99 EUR
 currency: EUR
-price: 34.9
+price: 32.99
 comparePrice: 57.99 EUR
-prodname: 'Philips Serie 5000 Plancha de Vapor 2400W de Potencia 45g/min Golpe de Vapor 180g Vapor Vertical Suela SteamGlide Plus Negro/Púrpura DST5030/80'
+prodname: 'Philips 5000 Plancha de Vapor Potencia de 2400W depósito 320 ml Púrpura | Vapor continuo de 45 g/min golpe de vapor de 180 g suela SteamGlide depósito de agua de 320 ml DST5030/80'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08TJ1Z1NP/?tag=tolees-21'
-descuento: '39.82'
-average: '37.8415094339624'
+descuento: '43.11'
+average: '37.935438596491352'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

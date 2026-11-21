@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sanex Men Invisible Desodorante Antitranspirante Roll-On Hombre 6x50ml | Roll-on antitranspirante hombre 72h Antimanchas 0% Alcohol Recomendado por dermatólogos'
-date: 2026-11-14 17:34:06
+date: 2026-11-20 16:43:57
 image: 'https://m.media-amazon.com/images/I/41A+Ij5JEDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F9YG65KV/?tag=tolees-21'
 descuento: '36.24'
-average: '10.133846153846168'
+average: '10.05214285714287'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

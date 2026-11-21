@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Construcción vulcanizada
 - Suela original de gofre
 - Cierre de cordones
-- Construcción vulcanizada
 - Vans Marca Sidestripe
 
 [🛒 Visítala!!!]({{< param buyurl >}})

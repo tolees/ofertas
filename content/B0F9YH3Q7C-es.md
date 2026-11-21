@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sanex Dermo+ Extra Control Desodorante Antitranspirante Roll-On 6x50ml | Roll-on antitranspirante 72h 0% Alcohol Fórmula anti-irritación Testado dermatológicamente'
-date: 2026-11-19 07:08:00
+date: 2026-11-20 16:49:50
 image: 'https://m.media-amazon.com/images/I/41x0VclK-TL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F9YH3Q7C/?tag=tolees-21'
 descuento: '38.09'
-average: '10.429687499999991'
+average: '10.37818181818181'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

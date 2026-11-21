@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Perfume en espray Youth Dew, 67 ml
-- Producto de marca de Estee Lauder
 - Cuida tu belleza con los productos que mejor se adapten a ti
 - Su cuidado personal e íntimo de las manos con los mejores productos del mercado
+- Perfume en espray Youth Dew, 67 ml
+- Producto de marca de Estee Lauder
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00IMU2RFG{{</world>}}

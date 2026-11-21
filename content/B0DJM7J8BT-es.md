@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Capacidad: 8,8 L
-- Tamaño: 43,5 cm × 39 cm
 - CLIMACOOL
 - Material Principal: 100% Poliéster(100% Reciclado)
+- Tamaño: 43,5 cm × 39 cm
+- Capacidad: 8,8 L
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DJM7J8BT{{</world>}}

@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Horma clásica
 - Forro textil
-- Mediasuela con amortiguación
 - Parte de piel revestida
+- Mediasuela con amortiguación
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C53YF2KY{{</world>}}

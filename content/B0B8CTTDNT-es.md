@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Exterior estructurado, interior de punto plano.
 - Bolsillo en el pecho en G-1000.
+- Exterior estructurado, interior de punto plano.
 - Sudadera polar de dos capas confeccionada 100% poliéster reciclado.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

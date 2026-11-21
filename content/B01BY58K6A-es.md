@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Costura trasera de seguridad
-- Cierre central con cremallera y botón
-- Seis bolsillos: 2 bolsillos franceses, 2bolsillos de parche, con fuelle central, tapeta y velcro y 2 bolsillos traseros de fuelle, con tapeta y velcro
 - Pinzas
+- Costura trasera de seguridad
+- Seis bolsillos: 2 bolsillos franceses, 2bolsillos de parche, con fuelle central, tapeta y velcro y 2 bolsillos traseros de fuelle, con tapeta y velcro
+- Cierre central con cremallera y botón
 - Cinturilla elástica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

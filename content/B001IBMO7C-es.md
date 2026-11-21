@@ -29,12 +29,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Apropiado para todas las marcas de herramientas eléctricas
-- Aviso de seguridad: en función de la aplicación, adoptar las medidas de seguridad laboral adecuadas
-- 5 brocas para piedra con punta de metal duro resistente a la percusión
-- 5 brocas para metal de acero ultrarrápido para obtener orificios precisos
 - Incluye: 5 brocas para metal, Ø 3/4/5/6/8 mm; 5 brocas para piedra, Ø 3/4/5/6/8 mm 5 brocas para madera, Ø 3/4/5/6/8 mm
 - 5 brocas para madera resistentes con punta centradora
+- Aviso de seguridad: en función de la aplicación, adoptar las medidas de seguridad laboral adecuadas
+- 5 brocas para piedra con punta de metal duro resistente a la percusión
 - Práctico depósito de plástico con una buena disposición de los accesorios que contiene
+- 5 brocas para metal de acero ultrarrápido para obtener orificios precisos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B001IBMO7C{{</world>}}

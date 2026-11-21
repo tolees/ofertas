@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El set incluye funda nórdica (100 x 135 cm) y funda de almohada (40 x 60 cm) con estampado de zorro en rosa suave
-- Certificado GOTS: cumple con los estándares globales más rigurosos para textiles orgánicos
-- Certificado OEKO-TEX: testado y libre de sustancias nocivas, cumple con los más altos estándares de seguridad y medioambientales
-- Lavable a máquina y se vuelve más suave con cada lavado
 - Fabricado en 100% algodón orgánico con tejido percal para una suavidad excepcional, tacto sedoso y larga durabilidad
+- El set incluye funda nórdica (100 x 135 cm) y funda de almohada (40 x 60 cm) con estampado de zorro en rosa suave
+- Lavable a máquina y se vuelve más suave con cada lavado
+- Certificado OEKO-TEX: testado y libre de sustancias nocivas, cumple con los más altos estándares de seguridad y medioambientales
+- Certificado GOTS: cumple con los estándares globales más rigurosos para textiles orgánicos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DP4VH2RK{{</world>}}

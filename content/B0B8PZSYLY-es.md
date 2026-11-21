@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cierre con cordones.
 - Punta redonda.
 - Altura 6,5 cm.
-- Corredor en piel mixta.
 - Escritura del logotipo en la parte frontal y lateral.
-- Cierre con cordones.
+- Corredor en piel mixta.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B8PZSYLY{{</world>}}

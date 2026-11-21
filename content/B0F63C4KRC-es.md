@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Puntera redondeada
 - Cierre de cordones
+- Puntera redondeada
 - Diseño minimalista y sencillo con comodidad para todo el día
 
 [🛒 Comprar!!!]({{< param buyurl >}})

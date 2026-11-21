@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Marca: Nivea
 - Tipo de producto: Gel de ducha
 - Género: Unisex Adulto.
+- Marca: Nivea
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00E4L3HVA{{</world>}}

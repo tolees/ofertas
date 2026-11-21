@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Air Wick Freshmatic - Recambios de ambientador spray automático esencia para casa con aroma a nenuco - Azul 250 ml Paquete de 6'
-date: 2026-11-13 22:14:47
+date: 2026-11-21 11:09:39
 image: 'https://m.media-amazon.com/images/I/41Kf80XFAML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J5FJ9XZ/?tag=tolees-21'
 descuento: '42.05'
-average: '16.083020833333315'
+average: '15.999489795918349'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

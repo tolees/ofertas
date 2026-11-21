@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Proporciona comodidad
 - Cuello de polo
-- Una mirada original
 - Proporciona comodidad
 - Cuello y puños acanalados
+- Una mirada original
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB1YGX1V{{</world>}}

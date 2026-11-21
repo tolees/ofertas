@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Ceras redondas y envueltas individualmente con papel protector
+- La siguiente información se aplica a cada unidad del paquete
+- Lavables de tejidos y superficies no porosas
 - 12 tonalidades
 - Fórmula lavable de manos y de la mayor parte de tejidos y superficies no porosas
-- Lavables de tejidos y superficies no porosas
 - Colores vivos y cubrientes
-- La siguiente información se aplica a cada unidad del paquete
-- Ceras redondas y envueltas individualmente con papel protector
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G4XVHRL5{{</world>}}

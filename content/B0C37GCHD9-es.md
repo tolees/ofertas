@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cómodas de llevar
 - Mallas cortas unisex para running
+- Cómodas de llevar
 - Material de calidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

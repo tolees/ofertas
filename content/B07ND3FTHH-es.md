@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Selector rotativo 3 posiciones: ventilación, calor medio y calor máximo
 - Protección contra sobrecalentamiento
-- Termostato regulable de temperatura ambiente
+- Selector rotativo 3 posiciones: ventilación, calor medio y calor máximo
 - 2 potencias de calor: 1.000 2.000 W
 - Asa de transporte
+- Termostato regulable de temperatura ambiente
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07ND3FTHH{{</world>}}

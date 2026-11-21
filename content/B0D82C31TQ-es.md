@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIVEA Repara & Cuida Crema hidratante corporal facial y para manos 1 x 400 ml crema hidratante con glicerina y urea 72 h de hidratación para piel extra seca y áspera'
-date: 2026-11-15 10:21:43
+date: 2026-11-20 16:59:26
 image: 'https://m.media-amazon.com/images/I/41SmxQUtyxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0D82C31TQ/?tag=tolees-21'
 descuento: '37.55'
-average: '6.3137499999999891'
+average: '6.1666666666666572'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

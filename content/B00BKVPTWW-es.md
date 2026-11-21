@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Size #2 dimensions: 2in x .88in
-- Available in 2 sizes with a stainless steel or black finish.
 - High quality stainless steel construction.
 - Secure stainless steel wire gates with SlideLocks to lock gates and secure contents.
 - Gates can be independently locked.
+- Available in 2 sizes with a stainless steel or black finish.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00BKVPTWW{{</world>}}

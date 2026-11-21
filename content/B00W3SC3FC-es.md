@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con DRY MX para control
-- Portátil a dos caras
-- Jersey de baloncesto
 - Hecho 100 % de poliéster
+- Jersey de baloncesto
+- Portátil a dos caras
+- Con DRY MX para control
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00W3SC3FC{{</world>}}

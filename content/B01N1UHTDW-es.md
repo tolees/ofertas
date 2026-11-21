@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Paquete de 3 calzoncillos maxi cómodos y bonitos
 - Microfibra suave y transpirable en combinación con creora de alta calidad
+- Paquete de 3 calzoncillos maxi cómodos y bonitos
 - Cintura plana y bajos de las piernas para el debajo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

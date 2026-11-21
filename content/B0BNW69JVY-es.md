@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- BILLABONG - Talla única, color gris
 - Suministros escolares
+- BILLABONG - Talla única, color gris
 - Accesorios pequeños
 
 [🛒 Comprar!!!]({{< param buyurl >}})

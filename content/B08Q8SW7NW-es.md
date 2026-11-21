@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- estilo retro
 - Amortiguación
+- estilo retro
 - zapatos de baloncesto
 
 [🛒 Visítala!!!]({{< param buyurl >}})

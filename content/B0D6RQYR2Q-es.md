@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Composición: 70% algodón 29 por ciento poliéster 1 por ciento elastano
-- Tipo de estiramiento: Medium Stretch
 - Instrucciones de cuidado: lavable a máquina
+- Composición: 70% algodón 29 por ciento poliéster 1 por ciento elastano
 - Jeans Pantalones Largos
+- Tipo de estiramiento: Medium Stretch
 - Ajuste: llamarada
 
 [🛒 Visítala!!!]({{< param buyurl >}})

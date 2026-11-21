@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Beats Solo Buds — Auriculares intraurales Bluetooth inalámbricos | 18 Horas de autonomía | Compatibilidad con Apple y Android | Micrófono Integrado - Gris tormenta'
-date: 2026-11-17 18:41:56
+title: 'Beats Solo Buds Auriculares inalámbricos - Gris tormenta | Auriculares y estuche magnéticos compatibles con Apple y Android micrófono integrado diseño compacto y portátil'
+date: 2026-11-21 13:28:03
 image: 'https://m.media-amazon.com/images/I/21nioexbxZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0D3JFVGFV-es Beats Solo Buds — Auriculares intraurales Bluetooth...'
+slug: 'B0D3JFVGFV-es Beats Solo Buds Auriculares inalámbricos - Gris tormenta |...'
 sku: 'B0D3JFVGFV-es'
 tags: [ '🇪🇸', ]
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0
 comparePrice: 89.95 EUR
-prodname: 'Beats Solo Buds — Auriculares intraurales Bluetooth inalámbricos | 18 Horas de autonomía | Compatibilidad con Apple y Android | Micrófono Integrado - Gris tormenta'
+prodname: 'Beats Solo Buds Auriculares inalámbricos - Gris tormenta | Auriculares y estuche magnéticos compatibles con Apple y Android micrófono integrado diseño compacto y portátil'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0D3JFVGFV/?tag=tolees-21'
 descuento: '45.53'
-average: '62.110400000000105'
+average: '61.606153846153951'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

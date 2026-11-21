@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Crema hidratante con protección solar de amplio espectro para proteger la piel de los rayos UVA/UVB/IR-A/polución y prevenir la aparición de manchas y el fotoenvejecimiento. Apto para todo tipo de pieles.
 - Piel protegida de los rayos UVA/UVB/IR-A y la polución. Acabado invisible. Sin manchas blancas.
 - Aplicar el protector solar antes de exponerse al sol. Reaplicar regularmente,.
+- Crema hidratante con protección solar de amplio espectro para proteger la piel de los rayos UVA/UVB/IR-A/polución y prevenir la aparición de manchas y el fotoenvejecimiento. Apto para todo tipo de pieles.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09SLDJS9H{{</world>}}

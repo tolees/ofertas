@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Suela de goma para mayor agarre
 - Correa trasera icónica para mayor funcionalidad
 - Cómodas plantillas para hundirse
-- Suela de goma para mayor agarre
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DNK9L7HZ{{</world>}}

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Chaqueta de traje
 - Elástica
 - Corto
-- Chaqueta informal
 - Material: 55% poliéster, 40% poliéster, 5% elastano
 - Cierre: semental
-- Chaqueta de traje
+- Chaqueta informal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07WRTX624{{</world>}}

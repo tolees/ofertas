@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Desigual
-- Manga: Larga
-- Cuello: Redondo
 - Estampado Arty
 - Fit: Regular
+- Manga: Larga
 - Detalle de logo bordado
+- Cuello: Redondo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DWBCS86Z{{</world>}}

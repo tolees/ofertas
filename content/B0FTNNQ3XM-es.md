@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Revestimiento de ante
 - Cierre de cordones
-- Textura gruesa en la entresuela
 - Suela de goma
 - Horma estándar
+- Revestimiento de ante
+- Textura gruesa en la entresuela
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FTNNQ3XM{{</world>}}

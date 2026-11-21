@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Fast Cooling y Fast Freezing. Mayor rapidez en la refrigeración y congelación de los alimentos.
 - Control electrónico. Un sistema electrónico de temperatura asegura el mejor y más precio ajuste en las condiciones de conservación.
-- Frigorífico cíclico con diseño de puertas negras elegantes y modernas.
 - Puerta reversible: no te preocupes por el sitio en el que pongas el frigo, ya que la puerta se podrá situar en la orientación que más se adapte a ti. Luz LED interior: visualiza cada rincón del frigorífico a la perfección.
+- Frigorífico cíclico con diseño de puertas negras elegantes y modernas.
 - Alta capacidad. Sus 262 L de volumen de conservación son posibles gracias a una cavidad interior optimizada hasta el último centímetro.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

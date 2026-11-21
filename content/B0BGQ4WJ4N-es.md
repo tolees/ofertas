@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Caucho
 - Punta redonda
 - Tanga
+- Caucho
 - Sintético
 - Adjuntar
 

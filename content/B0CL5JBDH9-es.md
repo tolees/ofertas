@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillos delanteros
 - Cierre de botón
+- Bolsillos delanteros
 - Puños abotonados
 
 [🛒 Comprar!!!]({{< param buyurl >}})

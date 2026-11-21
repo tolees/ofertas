@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Aspecto melange, cremallera en colores contrastantes.
 - Chaqueta powerstretch para mujer
-- cómodo de llevar gracias al material elástico
 - Bolsillos con cerradura, cremallera frontal con protector de barbilla
+- cómodo de llevar gracias al material elástico
 - elementos reflectantes de moda
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

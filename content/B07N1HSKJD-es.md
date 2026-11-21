@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kipling Miyo Lonchera Grande Bolsas Estuches Bridal Rose Rosa'
-date: 2026-11-20 02:38:33
+date: 2026-11-21 09:16:48
 image: 'https://m.media-amazon.com/images/I/31CWzT8TKcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

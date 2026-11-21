@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko Pop! Vinyl: G.I. Joe - The Baroness - Figura de Vinilo Coleccionable - Idea de Regalo- Mercancia Oficial - Juguetes para Niños y Adultos - TV Fans - Muñeco para Coleccionistas y Exposición'
-date: 2026-11-12 12:15:50
+date: 2026-11-21 12:01:35
 image: 'https://m.media-amazon.com/images/I/41xEPsULarL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08MPXPQP5/?tag=tolees-21'
 descuento: '38.62'
-average: '9.076666666666668'
+average: '9.2625000000000011'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

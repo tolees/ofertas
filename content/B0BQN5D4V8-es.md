@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Elementos con un diseño reflexivo
 - Razón icónico de Nikes V en el frente
 - Tecnología DRI-FI
+- Elementos con un diseño reflexivo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BQN5D4V8{{</world>}}

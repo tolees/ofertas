@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Material interior: sintético
 - Material exterior: sintético
 - Cierre: cordones
-- Material interior: sintético
 - Suela: goma
 - Forma del tacón: plano
 

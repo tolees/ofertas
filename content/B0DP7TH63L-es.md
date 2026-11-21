@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Segundo encaje
-- Skech-Air
 - Espuma viscoelástica refrigerada por aire
+- Skech-Air
+- Segundo encaje
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DP7TH63L{{</world>}}

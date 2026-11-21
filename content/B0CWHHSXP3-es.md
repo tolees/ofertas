@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Electrolux Horno Eléctrico Empotrable de Vapor EOH3H00BX 65 L | Horno multifunción de 7 funciones de gran capacidad con pantalla LED blanca y mandos fijos puerta de 2 cristales clase A'
-date: 2026-10-29 19:53:16
+title: 'Electrolux Serie 300 Horno Multifunción 65 L Clase A EOH3H00BX | Limpieza AquaClean; 65 L 7 funciones clase A'
+date: 2026-11-21 08:26:32
 image: 'https://m.media-amazon.com/images/I/41I5qatiFuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0CWHHSXP3-es Electrolux Horno Eléctrico Empotrable de Vapor EOH3H00BX...'
+slug: 'B0CWHHSXP3-es Electrolux Serie 300 Horno Multifunción 65 L Clase A...'
 sku: 'B0CWHHSXP3-es'
 tags: [ '🇪🇸', ]
-actualPrice: 229.0 EUR
+actualPrice: 204.85 EUR
 currency: EUR
-price: 229.0
+price: 204.85
 comparePrice: 359.0 EUR
-prodname: 'Electrolux Horno Eléctrico Empotrable de Vapor EOH3H00BX 65 L | Horno multifunción de 7 funciones de gran capacidad con pantalla LED blanca y mandos fijos puerta de 2 cristales clase A'
+prodname: 'Electrolux Serie 300 Horno Multifunción 65 L Clase A EOH3H00BX | Limpieza AquaClean; 65 L 7 funciones clase A'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CWHHSXP3/?tag=tolees-21'
-descuento: '36.21'
-average: '233.702222222223'
+descuento: '42.94'
+average: '232.18368421052705'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

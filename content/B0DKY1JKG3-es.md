@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Detalles bordados
 - Botones
-- Ojetes bordados
 - Composición: 100 % algodón
+- Detalles bordados
+- Ojetes bordados
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DKY1JKG3{{</world>}}

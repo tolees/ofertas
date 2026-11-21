@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - ✅ Accesorios incluidos: 4x taco de pared, 4x tornillo de pared, 4x tornillo M4, 4x tornillo M6 L12 mm, 4x tornillo M6 L16 mm.
+- ✅ Tamaños de televisores recomendados: desde 14 hasta 40 pulgadas.
 - ✅ Carga máxima soportada: 30 kg.
 - ✅ Medidas VESA soportadas: desde 75 x 75 hasta 400 x 400 mm.
 - ✅ Soporte de pared articulado doble y inclinable.
-- ✅ Tamaños de televisores recomendados: desde 14 hasta 40 pulgadas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DM8YZ862{{</world>}}

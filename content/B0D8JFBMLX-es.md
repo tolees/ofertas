@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aplicar diariamente en la barba y piel limpia, por la mañana y por la noche.
-- Y calma e hidrata la piel para reducir los signos de sequedad.
-- Suaviza y acondiciona el vello facial para una barba más brillante, cuidada y con un aspecto más denso
 - Masajea suavemente sobre la barba y rostro de manera ascendente, empezando desde el cuello, hasta que el producto se absorba por completo.
+- Aplicar diariamente en la barba y piel limpia, por la mañana y por la noche.
+- Suaviza y acondiciona el vello facial para una barba más brillante, cuidada y con un aspecto más denso
+- Y calma e hidrata la piel para reducir los signos de sequedad.
 - Descubre la crema hidratante para barba y piel, con aceite esencial de madera de cedro creado en colaboración con barberos profesionales para el cuidado diario de la barba y la piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Detalles de la marca Puma
 - Nivel de amortiguación medio
 - Bota baja
+- Detalles de la marca Puma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F63RQPFQ{{</world>}}

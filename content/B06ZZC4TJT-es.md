@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuaderno grueso de 160 páginas (interior en blanco)
 - Formato: 16.5 x 23.5 cm
+- Cuaderno grueso de 160 páginas (interior en blanco)
 - Papel interior de 120 g con ligero tono ahuesado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pepeleria
 - productos de calidad
-- Productos innovadores
+- Pepeleria
 - Diseño y funcionalidad
+- Productos innovadores
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07C1DBCV6{{</world>}}

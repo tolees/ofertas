@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Testado de forma independiente en la UE – Cada lote se analiza en laboratorios europeos certificados – garantizando pureza, seguridad y calidad constante.
+- Suministro de 30 días – Compacto y fácil de dosificar – 60 cápsulas para 30 días (2 al día), proporcionando 200 mg de magnesio elemental y 2 mg de B6 – para el equilibrio diario.
 - Magnesio altamente biodisponible – Máxima absorción – El magnesio bisglicinato se absorbe fácilmente y es suave para el estómago. Ideal en casos de calambres, fatiga, nerviosismo o durante periodos de estrés.
 - Puro, vegano y libre de aditivos innecesarios – Sin estearato de magnesio, gelatina, gluten, lactosa ni conservantes. 100% vegano, ideal para personas sensibles y para quienes valoran la calidad.
-- Suministro de 30 días – Compacto y fácil de dosificar – 60 cápsulas para 30 días (2 al día), proporcionando 200 mg de magnesio elemental y 2 mg de B6 – para el equilibrio diario.
 - Con vitamina B6 – Para nervios, energía y concentración – apoya el sistema nervioso, ayuda a reducir el cansancio y mejora la absorción.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

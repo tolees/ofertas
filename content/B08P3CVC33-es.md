@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Tinte para cejas de larga duración
 - La fórmula pigmentada aporta un tono natural
-- Resultado natural e instantáneo que dura hasta dos días
 - EL aplicador preciso aporta definición a cada pelo y la brocha permite difuminar y dar naturalidad
+- Resultado natural e instantáneo que dura hasta dos días
 - Cejas llenas y de aspecto natural
 
 [🛒 Aquí!!!]({{< param buyurl >}})

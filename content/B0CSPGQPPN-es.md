@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - PEPE JEANS TOMI DK GREY MARL Men S
-- Forro de marca en el cuerpo, forro polar en bolsillos
 - Cuello de embudo de peso medio estilo puffer
+- Forro de marca en el cuerpo, forro polar en bolsillos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CSPGQPPN{{</world>}}

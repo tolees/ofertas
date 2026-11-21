@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - La parte transparente del estuche se puede utilizar como paleta y es muy fácil de limpiar
-- Témperas en tubo de 12 ml de pura creatividad
 - De textura extra fina, disponible en 12 colores luminosos muy cubrientes y de óptimo rendimiento
+- Témperas en tubo de 12 ml de pura creatividad
 - Pigmentos de calidad superior, óptimos para trabajos de ilustración
 
 [🛒 Visítala!!!]({{< param buyurl >}})

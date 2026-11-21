@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Zapatillas de caña alta con plataforma fabricadas en lona para mujer y niña. Parche de victoria impreso en el lateral interior y etiqueta en la lengüeta. Cierre mediante cordones blancos. Suela de goma de 4 cm de altura con refuerzo en la puntera para mayor resistencia y durabilidad.
 - Puedes lavar este modelo en la lavadora, pero es importante que sigas nuestros consejos de lavado: temperatura máxima: 30 grados; centrifugado fuerte o doble centrifugado; secado al aire en posición horizontal, sin exponerlas a los rayos del sol. Con estos sencillos pasos, te quedarán perfectas, pero si no los has seguido y te ha quedado alguna mancha, repite el proceso y vuélvelas a lavar. En modelos con plantilla extraíble, aconsejamos lavarla por separado a mano.
+- Zapatillas de caña alta con plataforma fabricadas en lona para mujer y niña. Parche de victoria impreso en el lateral interior y etiqueta en la lengüeta. Cierre mediante cordones blancos. Suela de goma de 4 cm de altura con refuerzo en la puntera para mayor resistencia y durabilidad.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07DCX4BWN{{</world>}}

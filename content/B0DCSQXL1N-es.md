@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producido según la norma Öko Tex Standard 100
 - Funda de almohada: 40 x 60 cm, funda de edredón de 100 x 135 cm, con cremallera
+- Producido según la norma Öko Tex Standard 100
 - Material: 100% algodón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

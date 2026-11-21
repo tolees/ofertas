@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre: Cremallera
-- Lavado a máquina
 - Chaqueta
-- Manga larga
-- Material Ripstop de alta calidad, forro interior de malla
+- Cierre: Cremallera
 - Capucha con cordón, mangas con puños
+- Material Ripstop de alta calidad, forro interior de malla
+- Manga larga
+- Lavado a máquina
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08HR2BKNY{{</world>}}

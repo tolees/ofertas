@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Light Purple
 - Multilicense Good Vibes
 - Short Sleeves Short Pant Pyjama Light Purple
+- Light Purple
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0GLYMP8J9{{</world>}}

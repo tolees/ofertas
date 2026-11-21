@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Acrobacias para ganar
-- Corre con nuevos personajes
 - Acción en compañía
+- Acrobacias para ganar
 - Monster Trucks
+- Corre con nuevos personajes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FD3K1P1Q{{</world>}}

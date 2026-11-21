@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material de la suela De goma
-- Material principal Sintético
 - Altura Tacón Medio (de 3 A 5 cm)
+- Material principal Sintético
 - Tipo de cierre Cordones
+- Material de la suela De goma
 - Tipo de tacón Plano
 
 [🛒 Aquí!!!]({{< param buyurl >}})

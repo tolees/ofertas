@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño ajustado
 - HEAT.RDY
 - 85% poliéster reciclado / 10% nailon reciclado / 5% elastán
+- Diseño ajustado
 - FORMOTION
 - Largo hasta el tobillo
 

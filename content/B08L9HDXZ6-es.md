@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cremallera oculta y botones de presión ocultos
 - Cuello alto y capucha
 - Alimentación ligera
-- Cremallera oculta y botones de presión ocultos
 - Parka corta, ajustada con cordón
 - Dos bolsillos con ribetes y dos bolsillos delanteros
 

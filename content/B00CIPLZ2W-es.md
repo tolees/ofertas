@@ -31,8 +31,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - Material de la suela: Sintético
 - Cierre: Cordones
 - Material exterior: Cuero
-- Revestimiento: Sintético
 - Tipo de tacón: Plano
+- Revestimiento: Sintético
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00CIPLZ2W{{</world>}}

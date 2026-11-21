@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Longitud: 15 m
 - Microtubo de pe 4 x 6 mm
+- Longitud: 15 m
 - Permite distribuir el agua desde una tuberia principal
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

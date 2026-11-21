@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tiene un aroma cremoso con toques de mantequilla, y un sabor dulce afrutado
+- Sabor a frutas dulces y especias delicadas
+- Se puede servir solo o como base para cócteles
 - Color oro profundo e intenso
 - Adecuado como regalo
-- Tiene un aroma cremoso con toques de mantequilla, y un sabor dulce afrutado
-- Se puede servir solo o como base para cócteles
-- Sabor a frutas dulces y especias delicadas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B003WIEKNA{{</world>}}

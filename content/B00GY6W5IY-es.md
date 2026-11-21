@@ -30,11 +30,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Antideslizante
 - Tarima ducha plástico, acabado efecto madera. Antideslizante
-- Protección anti-uva, tambien apta para exterior. Multiusos
-- Vataje (W): 50.0 watts
-- Acabado efecto de madera
-- Tacos de goma en la base, mayor estabilidad y fijación
 - Rectangular
+- Protección anti-uva, tambien apta para exterior. Multiusos
+- Tacos de goma en la base, mayor estabilidad y fijación
+- Acabado efecto de madera
+- Vataje (W): 50.0 watts
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00GY6W5IY{{</world>}}

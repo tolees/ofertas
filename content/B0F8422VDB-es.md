@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre: de cordones
 - Forro: textil
 - Tipo de talón: plataforma
-- Tipo de puntera: redondeada
+- Cierre: de cordones
 - Ancho: estándar
+- Tipo de puntera: redondeada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F8422VDB{{</world>}}

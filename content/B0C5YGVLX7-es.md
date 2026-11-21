@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dispone de un dobladillo elástico
 - Con bolsillos laterales
+- Dispone de un dobladillo elástico
 - Ofrece una comodidad óptima
 
 [🛒 Visítala!!!]({{< param buyurl >}})

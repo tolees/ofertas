@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillo canguro
-- Hombros con la costura caída
 - Puños y dobladillo de canalé
-- 55% algodón / 36% poliéster (reciclado) / 9% viscosa
-- Contiene al menos un 70% de material reciclado y renovable
-- Capucha con cordón ajustable
+- Hombros con la costura caída
 - Corte clásico
+- Bolsillo canguro
+- Capucha con cordón ajustable
 - Dobladillo trasero ligeramente más corto
+- Contiene al menos un 70% de material reciclado y renovable
+- 55% algodón / 36% poliéster (reciclado) / 9% viscosa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F389ZT1M{{</world>}}

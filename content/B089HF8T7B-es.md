@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Pantalón de Chandal largo
 - Tiene detalles distintivos de la marca
 - Tejido transpirable
-- Pantalón de Chandal largo
 - Ofrece comodidad y libertad de movimiento
 
 [🛒 Visítala!!!]({{< param buyurl >}})

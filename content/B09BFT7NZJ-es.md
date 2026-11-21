@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tapo P110 - Enchufe Inteligente WiFi Medición de Consumo Control App/Voz | Programa Horarios y Temporizadores. Monitorización de Energía. Modo Ausente. Control App Tapo. Control Voz Alexa/Google.'
-date: 2026-11-17 02:20:41
+date: 2026-11-20 20:47:15
 image: 'https://m.media-amazon.com/images/I/41u0EWOYOhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09BFT7NZJ/?tag=tolees-21'
 descuento: '52.42'
-average: '12.400526315789525'
+average: '12.302051282051332'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

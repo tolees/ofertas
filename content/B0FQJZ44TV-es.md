@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tamaño extragrande y ajuste universal
-- La comodidad y el diseño se combinan en el material de resina vegetal, una alternativa más limpia a los plásticos estándar
-- La montura RXable permite montar lentes graduadas
 - Varillas ajustables para un ajuste perfecto
+- La montura RXable permite montar lentes graduadas
+- La comodidad y el diseño se combinan en el material de resina vegetal, una alternativa más limpia a los plásticos estándar
+- Tamaño extragrande y ajuste universal
 - Glamorosa y elegante forma de ojo de gato
 
 [🛒 Comprar!!!]({{< param buyurl >}})

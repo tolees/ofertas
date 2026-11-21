@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Peso: 324 g (talla 42 1/2)
-- Drop de la mediasuela: 10 mm (talón: 35 mm, antepié: 25 mm)
-- Forro textil
-- Drop: 10 mm (talón: 35 mm / antepié: 25 mm)
-- Plantilla OrthoLite
 - Horma clásica
+- Forro textil
 - Cierre de cordones
+- Plantilla OrthoLite
+- Peso: 324 g (talla 42 1/2)
 - Suela Adiwear
 - Empeine de malla
+- Drop de la mediasuela: 10 mm (talón: 35 mm, antepié: 25 mm)
+- Drop: 10 mm (talón: 35 mm / antepié: 25 mm)
 - Mediasuela Bounce 2.0
 
 [🛒 Aquí!!!]({{< param buyurl >}})

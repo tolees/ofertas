@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Piel limpia, fresca y calmada tras cada ducha. Alivia la tirantez y mejora el confort cutáneo
-- Acción: Calmante e hidratante
-- Gel corporal Probiotic Aloe Vera Probiotic con Prebióticos, Probióticos y Aloe Vera
 - Contiene 750 ml
+- Acción: Calmante e hidratante
 - Gel corporal con Prebióticos y Probióticos que fortalecen la barrera cutánea, y Aloe Vera, que calma, regenera y aporta hidratación ligera
+- Gel corporal Probiotic Aloe Vera Probiotic con Prebióticos, Probióticos y Aloe Vera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0GK2ZBD48{{</world>}}

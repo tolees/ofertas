@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hot Wheels - Paquete de 5 autos a escala 1:64 regalo para coleccionistas y niños a partir de 3 años los estilos pueden variar 01806'
-date: 2026-11-19 16:49:57
+date: 2026-11-21 12:26:57
 image: 'https://m.media-amazon.com/images/I/5156FB+DGuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B002ZCZ0F6/?tag=tolees-21'
 descuento: '54.21'
-average: '8.8295070422535353'
+average: '8.7831250000000143'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

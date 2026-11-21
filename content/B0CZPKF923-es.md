@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cintura elástica
-- 90% algodón / 10% elastano
 - Talle alto
+- 90% algodón / 10% elastano
+- Cintura elástica
 - Corte ajustado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

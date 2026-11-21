@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Básicos, Ropa casual, Ropa de Calle
-- Descubre todas las marcas de EMP!
 - Cárdigan con las siguientes características:
-- Cardigan chica || Mangas Normales || Color intenso || Material duradero
+- Descubre todas las marcas de EMP!
 - Ajuste : Regular
+- Básicos, Ropa casual, Ropa de Calle
+- Cardigan chica || Mangas Normales || Color intenso || Material duradero
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07W6TZR4D{{</world>}}

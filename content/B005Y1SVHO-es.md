@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de producto: Locion corporal
 - Marca: Clinique
+- Tipo de producto: Locion corporal
 - Productos de belleza y el cuidado personal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

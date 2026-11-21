@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Largo/talla : Caña alta
 - Forro : Forro de microfibra
-- Cierre : Con cordones
 - Suela : Suela de goma
+- Cierre : Con cordones
 - Puntera : Punta redonda
 - Artículo : Botas
-- Largo/talla : Caña alta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DH89PF3T{{</world>}}

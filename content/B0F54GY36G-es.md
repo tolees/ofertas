@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100% algodón
+- Corte clásico
 - Talle medio
+- 100% algodón
 - Mínima cantidad de costuras
 - Cintura elástica con cordón
-- Corte clásico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F54GY36G{{</world>}}

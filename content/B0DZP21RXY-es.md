@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'UGREEN Cable USB Tipo C 240W Vídeo 8K@60Hz USB4 GEN3 40Gbps 1M | Type C Carga Rápida PD 3.1 Compatible con Macbook HP ASUS iPhone Duo/18 Pro Max/17/16/15 Galaxy S26/S25 Ultra Monitor.'
-date: 2026-11-20 14:27:31
+date: 2026-11-21 15:36:56
 image: 'https://m.media-amazon.com/images/I/41yFZJORxEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

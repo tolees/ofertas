@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela: goma
-- Parte superior: sintética
 - Cierre: cordones
+- Parte superior: sintética
+- Suela: goma
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FBX7YTTM{{</world>}}

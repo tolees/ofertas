@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Manga larga
-- Logotipo Batwing de Levis en el pecho
 - Corte recortado
 - Cuello redondo y puños acanalados
 - Ajuste regular
+- Logotipo Batwing de Levis en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B086Y2J9DJ{{</world>}}

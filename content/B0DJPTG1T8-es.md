@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- PIRÁMIDE OLFATIVA: Notas de salida: melocotón, limón, clavo; Notas de corazón: flor de naranjo, lavanda, rosa; Notas de fondo: sándalo, vainilla, ámbar.
 - FEMENINO Y PRIMAVERAL: Un perfume para mujeres que evoca el amor irresistible y que te conquistará con su olor a ricas notas florales, ideal para mujeres originales.
-- ESTUCHE DE REGALO: Estuche femenino con una pasión secreta, que te traslada directamente a un mundo optimista, colaborativo y original. El pack incluye un perfume, una crema de manos y una crema corporal glow. Colonia con vaporizador.
 - DE LARGA DURACIÓN: Es una fragancia cuya esencia se mantiene en la piel con el paso de las horas. Para que disfrutes de su olor durante todo el día, sin preocuparte por nada más.
 - TENDENCIA OLFATIVA: Este perfume de mujer tiene una tendencia floral oriental amaderada ideal para personas que buscan un mundo mejor.
-- PIRÁMIDE OLFATIVA: Notas de salida: melocotón, limón, clavo; Notas de corazón: flor de naranjo, lavanda, rosa; Notas de fondo: sándalo, vainilla, ámbar.
+- ESTUCHE DE REGALO: Estuche femenino con una pasión secreta, que te traslada directamente a un mundo optimista, colaborativo y original. El pack incluye un perfume, una crema de manos y una crema corporal glow. Colonia con vaporizador.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DJPTG1T8{{</world>}}

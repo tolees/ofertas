@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sudaderas
 - Winner royal-marino
+- Sudaderas
 - Resto textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})

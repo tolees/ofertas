@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- entresuela de EVA
 - Parte superior de gamuza y malla sin estructura
+- entresuela de EVA
 - Logotipo N grande
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FAMIVAC FV5 Aspiradora sin Cable 70kPa/80Min Base de Carga Tubo Plegable | Cepillo Antienredos pantalla LED doble luz verde autolimpieza diseño autoportante Escoba Aspiradora pelo mascotas'
-date: 2026-11-18 21:39:38
+date: 2026-11-20 17:40:33
 image: 'https://m.media-amazon.com/images/I/31wVS9ioSjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0H6GD47Y5/?tag=tolees-21'
 descuento: '50.54'
-average: '152.29187499999949'
+average: '150.89764705882305'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

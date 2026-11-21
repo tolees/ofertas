@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Empeine de piel sintética
-- Empeine perforado
 - Cierre de cordones
+- Empeine perforado
+- Empeine de piel sintética
 - Forro textil
 - Horma clásica
 

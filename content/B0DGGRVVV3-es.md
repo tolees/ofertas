@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- GAFAS DE SOL CAT EYE
 - ASPECTO ESENCIAL Y MODERNO
+- GAFAS DE SOL CAT EYE
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DGGRVVV3{{</world>}}

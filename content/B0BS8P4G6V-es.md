@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Mega Gross Minis son únicamente un producto de parodia de Zuru Inc., y no están fabricados, afiliados ni respaldados por ninguna otra empresa.
 - Almacena y muestra tu colección: cada estuche de coleccionista puede contener hasta 34 minutos. Perfecto para llevar, almacenar y mostrar tu colección Mega Gross.
-- Parodias de la marca: hemos hecho que estos mini juguetes Zuru sean muy divertidos. Son una parodia de todos los grandes productos (incluyendo los nuestros). y esperamos que te hayan hecho sonreír. ¡Disfruta!
 - Completa la colección: desempaqueta más cápsulas Mega Gross Minis para completar la colección y llenar el estuche
+- Parodias de la marca: hemos hecho que estos mini juguetes Zuru sean muy divertidos. Son una parodia de todos los grandes productos (incluyendo los nuestros). y esperamos que te hayan hecho sonreír. ¡Disfruta!
 - 2 Minis exclusivos en el interior: querrás saltarte el almuerzo cuando desempaquetes el dinero de Spit Coin y Stynx Spray
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

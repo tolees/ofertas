@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Colección primavera-verano
 - Hecho en: China
 - 60 % algodón, 40 % acrílico
-- Colección primavera-verano
 - Sweater de la colección mujer
 - Color: Blanco roto
 

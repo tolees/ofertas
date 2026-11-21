@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuaderno en blanco
-- Para tomar notas
 - Set de 5 marcos de fotos magnéticos, realizados en hoja magnética flexible
+- Para tomar notas
+- Cuaderno en blanco
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DQ5DK2BP{{</world>}}

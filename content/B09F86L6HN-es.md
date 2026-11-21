@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adecuado para: clima frío
 - Suéter fabricado por Tommy Hilfiger
 - Atuendo: atuendo casual
+- Adecuado para: clima frío
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09F86L6HN{{</world>}}

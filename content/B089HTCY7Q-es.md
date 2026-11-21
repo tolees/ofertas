@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TRESemmé Champú Hidrata & Purifica para pelo graso con Ácido Hialurónico y Arcilla Blanca limpia e hidrata - Pack de 6 x 685ml'
-date: 2026-11-20 15:56:54
+date: 2026-11-20 16:03:41
 image: 'https://m.media-amazon.com/images/I/41GujrQriEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B089HTCY7Q/?tag=tolees-21'
 descuento: '43.06'
-average: '22.464375000000025'
+average: '22.407058823529436'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

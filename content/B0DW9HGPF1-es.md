@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estampado Arty
 - Sin mangas
-- Confeccionado con materiales sostenibles
+- Cuello: Redondo
 - Detalle 3D con cordón bordado
 - Desigual
-- Cuello: Redondo
+- Estampado Arty
+- Confeccionado con materiales sostenibles
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DW9HGPF1{{</world>}}

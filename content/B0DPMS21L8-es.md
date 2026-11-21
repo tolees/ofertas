@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Casco
 - Gorros técnicos
+- Casco
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DPMS21L8{{</world>}}

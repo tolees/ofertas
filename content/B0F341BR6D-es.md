@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Under Armour UA Ascend Black 41 EU'
-date: 2026-11-19 20:15:10
+date: 2026-11-21 00:05:16
 image: 'https://m.media-amazon.com/images/I/31Kmh21LYKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F341BR6D/?tag=tolees-21'
 descuento: '39.86'
-average: '40.175000000000004'
+average: '39.81333333333334'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

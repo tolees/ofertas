@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Strata Trail Low Waterproof Zapatillas De Senderismo Y Trekking para Hombre Black Elk Talla 41 EU'
-date: 2026-11-19 15:34:47
+date: 2026-11-20 19:21:38
 image: 'https://m.media-amazon.com/images/I/31zYgFU+T+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

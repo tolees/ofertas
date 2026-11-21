@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- materialFabricComposition: 92% Cotton, 6% Elastomultiester, 2% Elastane
 - Belt loops
 - Care Label:
 - Straight Fit
+- materialFabricComposition: 92% Cotton, 6% Elastomultiester, 2% Elastane
 - Straight fit jeans
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

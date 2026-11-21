@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Suela de tracción de goma flexible
-- Parte superior perforada sintética suave Durabuck
-- Tacón de 1 1/2 pulgadas
 - Ajuste de cuña con tacón oculto de 1 pulgada
+- Tacón de 1 1/2 pulgadas
+- Parte superior perforada sintética suave Durabuck
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B075ZXMT14{{</world>}}

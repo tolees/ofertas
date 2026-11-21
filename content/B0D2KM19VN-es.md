@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PUMA Tira en los laterales
 - Ancho normal
 - PUMA Logotipo en la lengüeta
+- PUMA Tira en los laterales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D2KM19VN{{</world>}}

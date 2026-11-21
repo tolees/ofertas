@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Pepe-jeans'
-date: 2026-08-17 19:11:21
+title: 'Pepe Jeans London Eggo N Hombre Camiseta de ajuste regular azul marino'
+date: 2026-11-21 13:43:36
 image: 'https://m.media-amazon.com/images/I/41uqy9fFQzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00EANTW4I-es Pepe-jeans'
+slug: 'B00EANTW4I-es Pepe Jeans London Eggo N Hombre Camiseta de ajuste regular...'
 sku: 'B00EANTW4I-es'
 tags: [ '🇪🇸', ]
-actualPrice: 14.39 EUR
+actualPrice: 10.98 EUR
 currency: EUR
-price: 14.39
+price: 10.98
 comparePrice: 29.9 EUR
-prodname: 'Pepe-jeans'
+prodname: 'Pepe Jeans London Eggo N Hombre Camiseta de ajuste regular azul marino'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EANTW4I/?tag=tolees-21'
-descuento: '51.87'
-average: '16.4534666666667'
+descuento: '63.28'
+average: '16.311298701298732'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- MANGA CORTA: El cuello redondo añade un toque de elegancia y es óptima para cualquier ocasión
-- Materiales sostenibles: fabricada íntegramente en algodón sostenible, esta camiseta no solo es cómoda, sino también respetuosa con el medio ambiente
-- DETALLES DE PEPE JEANS: Distínguete con el maxi logo PEPE JEANS impreso en la parte delantera, para mostrar tu estilo con confianza
-- T-SHIRT REGULAR FIT: Con un ajuste regular, esta camiseta ofrece un ajuste clásico y versátil
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00EANTW4I{{</world>}}

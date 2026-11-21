@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Horma clásica
 - Puntera Adituff
+- Mediasuela con amortiguación
 - Contiene al menos un 20% de material reciclado
+- Horma clásica
+- Suela de goma
 - Diseño transpirable
 - Empeine de piel sintética y malla
-- Mediasuela con amortiguación
-- Suela de goma
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHVWHRVR{{</world>}}

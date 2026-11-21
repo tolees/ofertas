@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillos : Bolsillos delanteros
-- Acolchado : Acolchado de plumón de fibra sintética para una mayor sensación de suavidad y calidez
-- Manga : Manga larga
-- Largo/talla : Corto
-- Forro : Forro de poliéster para mayor comodidad
-- Cierre : Cierre de cremallera
-- Puños : Puños con ribetes elásticos
 - Cuello : Cuello levantado
+- Puños : Puños con ribetes elásticos
+- Forro : Forro de poliéster para mayor comodidad
+- Manga : Manga larga
 - Funcionalidad : Resistente al viento
+- Cierre : Cierre de cremallera
+- Largo/talla : Corto
+- Acolchado : Acolchado de plumón de fibra sintética para una mayor sensación de suavidad y calidez
+- Bolsillos : Bolsillos delanteros
 - Artículo : Abrigo de lana
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Polvos ligeros para un brillo saludable y radiante
+- Textura sedosa y ligera
+- Tono universal, apto para todo tipo de pieles
 - Iluminación libre de imperfecciones
 - Adecuado para todo tipo de pieles
-- Textura sedosa y ligera
-- Polvos ligeros para un brillo saludable y radiante
-- Tono universal, apto para todo tipo de pieles
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08HZY3W1P{{</world>}}

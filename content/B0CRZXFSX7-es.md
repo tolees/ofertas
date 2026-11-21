@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Una mirada original
 - Cierre de botones y cremallera
-- Proporciona comodidad
 - Bolsillos traseros
+- Proporciona comodidad
 - Bolsillos delanteros
 
 [🛒 Visítala!!!]({{< param buyurl >}})

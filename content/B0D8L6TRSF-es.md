@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bandolera cubo pequeña de piel
-- 1 correa bandolera ajustable y extraíble 1 correa de hombro
 - Material interior: poliuretano
+- 1 correa bandolera ajustable y extraíble 1 correa de hombro
+- Bandolera cubo pequeña de piel
 - 184 נ127 נ178 cm (largo נancho נalto)
 - Detalle del interior: 1 bolsillo deslizante
 

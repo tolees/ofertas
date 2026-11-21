@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Especificaciones: Dimensiones: 53.85 × 28.69 × 22.00 mm (la. × an. × al.).
 - DJI Mic 3 es compacto y portátil, por lo que ofrece un audio nítido y detallado. Con 4TX+8RX, control de ganancia adaptativo y preajustes de tono de voz, destaca en cualquier escenario.
-- Compatibilidad: DJI Mic 3.
-- Consejos: No es compatible con DJI Mic, DJI Mic 2 o DJI Mic Mini.
+- Especificaciones: Dimensiones: 53.85 × 28.69 × 22.00 mm (la. × an. × al.).
 - Contenido del embalaje: Receptor DJI Mic 3 × 1, Adaptador de teléfono móvil (USB-C) DJI Mic 3 × 1, Cable de datos USB-C a USB-C × 1, Cable adaptador de audio con bloqueo DJI Mic 3 (3.5 mm TRS a TRS) × 1, Funda de transporte compacta DJI Mic 3 × 1.
+- Consejos: No es compatible con DJI Mic, DJI Mic 2 o DJI Mic Mini.
+- Compatibilidad: DJI Mic 3.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F98V5Y6R{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ¡Cultiva tu propio bonsái espacial con frutas que potencian habilidades!
 - ¡El sistema de combate mezcla piedra, papel y tijeras con cartas!
-- ¡Banda sonora a cargo de la veterana de la industria Shinobu Amayake!
 - ¡Imaginado e ilustrado por la legendaria Takaya Imamura!
+- ¡Banda sonora a cargo de la veterana de la industria Shinobu Amayake!
+- ¡Cultiva tu propio bonsái espacial con frutas que potencian habilidades!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DSW64SNB{{</world>}}

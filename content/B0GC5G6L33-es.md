@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Garnier Fructis Liso Diamante Spray de Brillo & Suavidad 150 ml | Para Pelo Encrespado y Apagado 100h Brillo Intenso Liso sin Frizz Keratina Vegetal Aceite de Argán Fructis Liso Diamante'
-date: 2026-11-18 09:49:50
+date: 2026-11-20 16:59:15
 image: 'https://m.media-amazon.com/images/I/31rU+1TZPNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GC5G6L33/?tag=tolees-21'
 descuento: '42.43'
-average: '5.9619999999999962'
+average: '5.8554545454545419'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

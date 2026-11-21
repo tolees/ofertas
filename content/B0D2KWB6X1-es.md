@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Base extraíble con soporte para suela.
 - Bold PU overlays, mesh underlays. Suela exterior detallada con caña
 - Diseño contemporáneo con una sensación nostálgica.
+- Base extraíble con soporte para suela.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D2KWB6X1{{</world>}}

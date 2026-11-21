@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Levis Blue 501 - Pantalones vaqueros
-- Producto nuevo y auténtico. Somos un vendedor autorizado de Levis.
 - Ver descripción del producto más abajo para más información.
+- Producto nuevo y auténtico. Somos un vendedor autorizado de Levis.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B001BZMHFO{{</world>}}

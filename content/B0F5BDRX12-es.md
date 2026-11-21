@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño ligero
-- Material Externo: 100% Poliéster(100% Reciclado) / (muñequera ) Banda De Transpiracion: 100% Poliéster(100% Reciclado) / Forro: 100% Poliéster(100% Reciclado) / Visera (lam): 100% Polietileno
 - Talla única
+- Material Externo: 100% Poliéster(100% Reciclado) / (muñequera ) Banda De Transpiracion: 100% Poliéster(100% Reciclado) / Forro: 100% Poliéster(100% Reciclado) / Visera (lam): 100% Polietileno
+- Diseño ligero
 - Cordón ajustable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

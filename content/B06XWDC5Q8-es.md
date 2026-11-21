@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Material: polipropileno
+- Tipo de producto: bolsa de cinco bolsillos perforados sobre
 - Colores variados: verde anís, azul, esmerilado, morado, rojo
 - Tipo de cierre: velcro
-- Tipo de producto: bolsa de cinco bolsillos perforados sobre
 - Dimensiones exteriores: 24 x 31.5 cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- No Strap
-- Plano tipo de tacón
-- Cordones cierre
-- Material: Synthetic
-- tipo_ocasión Boda
-- no es resistente al agua
 - material de suela: Caucho
+- Material: Synthetic
 - Casual
+- Cordones cierre
+- no es resistente al agua
+- No Strap
+- tipo_ocasión Boda
+- Plano tipo de tacón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D69RKZV1{{</world>}}

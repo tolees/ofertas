@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La suela de goma elástica añade tracción con un aspecto retro
-- Altura de eje: correa para el tobillo
 - IB4525-001
+- Altura de eje: correa para el tobillo
+- La suela de goma elástica añade tracción con un aspecto retro
 - La parte superior textil es transpirable y duradera
 
 [🛒 Visítala!!!]({{< param buyurl >}})

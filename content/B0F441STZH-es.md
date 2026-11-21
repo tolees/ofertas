@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre : Cierre de botones
 - Detalles : Detalles de bordado
-- Corte : Corte regular
-- Manga : Manga corta
-- Artículo : Polo
 - Cuello : Polo
+- Manga : Manga corta
+- Corte : Corte regular
+- Artículo : Polo
+- Cierre : Cierre de botones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F441STZH{{</world>}}

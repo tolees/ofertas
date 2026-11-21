@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Experiencia científica; aprendizaje de nociones en física y química; observación; Imaginación y creatividad
 - Convierte tu casa en un auténtico laboratorio
-- Más de 50 experimentos científicos en electricidad
 - kit pequeña lámpara, pajitas, tubo de plástico, globos, papel calco, cables alligator, barra de burbujas, bola de poliestireno, charm lupa, tarjetas de experiencia, manual ilustrado
+- Más de 50 experimentos científicos en electricidad
 - Con el encanto lupa exclusivo
+- Experiencia científica; aprendizaje de nociones en física y química; observación; Imaginación y creatividad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09W5RKPPP{{</world>}}

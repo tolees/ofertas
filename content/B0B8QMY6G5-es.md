@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Calma la piel
 - Optimiza la rutina de limpieza y tonifica la piel
 - Deja la piel suave, fresca y radiante
-- Calma la piel
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B8QMY6G5{{</world>}}

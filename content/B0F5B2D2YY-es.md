@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CMF by Nothing Buds Pro 2 Auriculares inalámbricos con Sonido HiFi 50 dB Cancelación Activa de Ruido híbrida 6 micrófonos HD y Efecto Audio Espacial 2025 - Gris Claro'
-date: 2026-11-20 10:46:26
+date: 2026-11-21 13:02:26
 image: 'https://m.media-amazon.com/images/I/312Gw-S4asL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F5B2D2YY/?tag=tolees-21'
 descuento: '43.11'
-average: '43.749999999999986'
+average: '42.616666666666653'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

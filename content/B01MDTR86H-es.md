@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hebilla de metal pintado
-- Una mirada original
-- Proporciona comodidad
 - Correa de piel gruesa
+- Proporciona comodidad
+- Una mirada original
+- Hebilla de metal pintado
 - Logotipo estampado en el extremo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

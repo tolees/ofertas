@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Educa - Puzzle 1000 Piezas La Creación de Adán Michelangelo | 14 Años | Puzzle 1000 piezas. Montado mide 68 x 48 cm. Incluye cola FIX PUZZLE. Desde 14 años. Montaje por zonas. Un puzzle adultos.'
-date: 2026-11-19 07:26:00
+date: 2026-11-21 13:06:39
 image: 'https://m.media-amazon.com/images/I/51UzK8N0qEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

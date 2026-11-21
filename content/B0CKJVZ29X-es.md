@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Puma Logotipo n.º 1 en la lengüeta
 - Puma formstrip en los lados medial y lateral
+- Puma Logotipo n.º 1 en la lengüeta
 - Puma Logotipo de gato en el talón
 
 [🛒 Comprar!!!]({{< param buyurl >}})

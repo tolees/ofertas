@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste holgado
 - Composición del material: 100% algodón
 - Cuello redondo
 - Manga corta
+- Ajuste holgado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CL7ZP8HR{{</world>}}

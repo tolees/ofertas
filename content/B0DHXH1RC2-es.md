@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Empeine de malla
+- Drop: 9 mm (talón: 34 mm / antepié: 25 mm)
 - Suela con inserciones de goma
 - Forro textil
-- Horma clásica
 - Mediasuela Dreamstrike
-- Drop: 9 mm (talón: 34 mm / antepié: 25 mm)
+- Horma clásica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DHXH1RC2{{</world>}}

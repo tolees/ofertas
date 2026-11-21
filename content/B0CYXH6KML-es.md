@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantilla Adifit que mide la longitud del pie para asegurar un ajuste perfecto
-- Suela Traxion con estrías flexibles en el antepié
-- Horma clásica
-- Mediasuela de EVA
-- RAIN.RDY
 - Cierre de cordones
-- Drop: 8,5 mm (talón: 20,5 mm / antepié: 12 mm)
-- Peso: 180 g
+- Suela Traxion con estrías flexibles en el antepié
+- RAIN.RDY
 - Empeine textil con refuerzos de gran resistencia al desgaste
+- Mediasuela de EVA
+- Plantilla Adifit que mide la longitud del pie para asegurar un ajuste perfecto
+- Horma clásica
+- Peso: 180 g
+- Drop: 8,5 mm (talón: 20,5 mm / antepié: 12 mm)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CYXH6KML{{</world>}}

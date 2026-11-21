@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Avent esterilizador y secador de biberones de alta calidad elimina el 99 9% de las bacterias sin productos químicos capacidad para 6 biberones/tetinas/accesorios modelo SCF293/00'
-date: 2026-11-20 00:43:55
+date: 2026-11-21 09:06:58
 image: 'https://m.media-amazon.com/images/I/31XMFaYkoJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DPPY1SC/?tag=tolees-21'
 descuento: '50.00'
-average: '78.658571428571335'
+average: '77.035217391304272'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

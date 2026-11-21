@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ofrece comodidad
 - Adecuado para uso diario
+- Ofrece comodidad
 - Zapatilla deportiva
 
 [🛒 Comprar!!!]({{< param buyurl >}})

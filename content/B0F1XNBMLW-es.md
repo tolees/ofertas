@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Empeine de piel
 - Cierre de cordones
+- Empeine de piel
 - Forro textil
 - Horma clásica
 

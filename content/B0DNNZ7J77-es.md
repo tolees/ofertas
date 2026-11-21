@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Con nuestra emblemática costura Arcuate
+- Diseñados para ajustarse como si estuvieran hechos solo para ti
 - Estos jeans están confeccionados con nuestro denim selvedge
 - Estrechos desde el trasero hasta el muslo
-- Con nuestra emblemática costura Arcuate
 - Los jeans Slim definitivos
-- Diseñados para ajustarse como si estuvieran hechos solo para ti
 - Lavado a máquina
 
 [🛒 Visítala!!!]({{< param buyurl >}})

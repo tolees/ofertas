@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Equipaje
 - Maleta
+- Equipaje
 - Tela repelente al agua
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

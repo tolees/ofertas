@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cierre de botón
-- Perfecto para el trabajo y el tiempo libre
-- Polo clásico de Gant
 - Fácil de combinar
 - Tejido de algodón puro
+- Perfecto para el trabajo y el tiempo libre
+- Polo clásico de Gant
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DB266KFX{{</world>}}

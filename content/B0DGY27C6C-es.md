@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 6 platos de postre de 19 cm
-- 6 platos hondos de 20 cm
 - 6 platos llanos de 27 cm
+- 6 platos hondos de 20 cm
+- 6 platos de postre de 19 cm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DGY27C6C{{</world>}}

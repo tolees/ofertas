@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Corte : Vaqueros holgados de tiro alto, muslo relajado, rodilla holgada, abertura de pierna holgada
-- Artículo : Corte loose
 - Cintura : Tiro alto
-- Bolsillos : Bolsillos traseros, Bolsillo relojero, Bolsillos delanteros
+- Artículo : Corte loose
 - Klavado/acabado : Lavado a la piedra para un acabado desgastado y desteñido
+- Bolsillos : Bolsillos traseros, Bolsillo relojero, Bolsillos delanteros
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C3BNHM3J{{</world>}}

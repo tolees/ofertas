@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tecnología Dri-Fit
-- Ajuste regular
 - Ropa deportiva
+- Ajuste regular
 - Logotipo de Nike en la parte delantera
+- Tecnología Dri-Fit
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07W6YJ2WK{{</world>}}

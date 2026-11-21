@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- DIMENSIONES: diámetro 12 cm, altura máxima 9 cm, capacidad hasta 400 ml.
-- CARACTERÍSTICAS: taza de barro apta para microondas y lavavajillas.
-- Para despertarse con buen pie, también se necesita la taza adecuada. ¿Por qué no pruebas tu desayuno favorito en la taza de barro ¡Buenos días! - Space de Legami? Una taza con una cara sonriente para empezar el día con leche, cereales y alegría.
 - ¡Te traemos un mundo de mundos! Creamos objetos de calidad, siempre diferentes, coloridos, positivos y divertidos, perfectos para cada persona y cada estado de ánimo. En Legami, siempre encontrarás tu mundo ideal para descubrir y explorar día tras día: un mundo de felicidad cuando estás deprimido, un mundo de sorpresas cuando estás aburrido, un mundo de inspiración cuando estás agotado, un mundo de emociones en constante cambio.
+- DIMENSIONES: diámetro 12 cm, altura máxima 9 cm, capacidad hasta 400 ml.
+- Para despertarse con buen pie, también se necesita la taza adecuada. ¿Por qué no pruebas tu desayuno favorito en la taza de barro ¡Buenos días! - Space de Legami? Una taza con una cara sonriente para empezar el día con leche, cereales y alegría.
 - MATERIAL: loza.
+- CARACTERÍSTICAS: taza de barro apta para microondas y lavavajillas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DSWNX19Q{{</world>}}

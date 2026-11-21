@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detalles distintivos de la marca
 - Diseño cómodo y ligero
+- Detalles distintivos de la marca
 - Con una amortiguación óptima
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

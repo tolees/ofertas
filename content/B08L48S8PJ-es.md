@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Polo de manga corta de color azul. Cierre con botones. Corte slim fit. Detalle bordado.
 - Marca: JACK&JONES
+- Polo de manga corta de color azul. Cierre con botones. Corte slim fit. Detalle bordado.
 - Modelo: 12136668 JJEPAULOS POLO SS NOOS
 
 [🛒 Aquí!!!]({{< param buyurl >}})

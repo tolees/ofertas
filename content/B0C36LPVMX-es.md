@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cuello : Cuello redondo
+- Manga : Manga corta
+- Corte : Corte regular
+- Artículo : Camiseta
 - Modo de vida : Tradicional
 - Mangas : Sisa en disminución
-- Manga : Manga corta
-- Artículo : Camiseta
-- Cuello : Cuello redondo
-- Corte : Corte regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C36LPVMX{{</world>}}

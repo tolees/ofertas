@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Al gastar 14 vatios de energía y tan solo € 3,37 de funcionamiento al año, esta bombilla ahorra hasta un 86% al año y € 283,83 durante su vida útil en comparación con una bombilla incandescente equivalente (con un uso de 3 horas al día, 0,22 €/kWh; puede variar dependiendo de las tarifas y el uso).
-- Con una vida útil de 15 000 horas, esta bombilla dura más de 13 años (con un uso de 3 horas al día).
 - Bombilla no regulable, no funciona con reguladores
-- Con una temperatura de color de 2700 kélvines, la bombilla proporciona una luz blanca cálida que crea una atmósfera agradable en cualquier habitación.
-- Proporciona 1521 lúmenes de luz de manera inmediata, sin esperar a que se caliente para un brillo completo.
+- Al gastar 14 vatios de energía y tan solo € 3,37 de funcionamiento al año, esta bombilla ahorra hasta un 86% al año y € 283,83 durante su vida útil en comparación con una bombilla incandescente equivalente (con un uso de 3 horas al día, 0,22 €/kWh; puede variar dependiendo de las tarifas y el uso).
 - El alto índice de reproducción cromática (IRC > 80) ofrece un color vivo y natural; ángulo de haz de 150 grados para una distribución de luz amplia.
+- Con una temperatura de color de 2700 kélvines, la bombilla proporciona una luz blanca cálida que crea una atmósfera agradable en cualquier habitación.
+- Con una vida útil de 15 000 horas, esta bombilla dura más de 13 años (con un uso de 3 horas al día).
+- Proporciona 1521 lúmenes de luz de manera inmediata, sin esperar a que se caliente para un brillo completo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B071NGHJWB{{</world>}}

@@ -1,19 +1,19 @@
 ---
 layout: post
-title: 'Turtle Beach Rematch draadloze gamecontroller Nintendo Switch 2 en Lite | Zwart & rood Nintendo Switch OLED TMR-thumbsticks oplaadbare batterij 40 uur 2 toewijsbare knoppen bewegingsbesturing'
-date: 2026-11-20 02:15:04
+title: 'Turtle Beach Rematch Mando inalámbrico Nintendo Switch 2 Lite | Negro/rojo Nintendo Switch OLED palancas TMR bat. recargable 40 h 2 botones traseros asignables controles de movimiento'
+date: 2026-11-21 15:18:59
 image: 'https://m.media-amazon.com/images/I/31qsNh75xrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0FS225TQW-es Turtle Beach Rematch draadloze gamecontroller Nintendo...'
+slug: 'B0FS225TQW-es Turtle Beach Rematch Mando inalámbrico Nintendo Switch 2...'
 sku: 'B0FS225TQW-es'
 tags: [ '🇪🇸', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99
 comparePrice: 54.99 EUR
-prodname: 'Turtle Beach Rematch draadloze gamecontroller Nintendo Switch 2 en Lite | Zwart & rood Nintendo Switch OLED TMR-thumbsticks oplaadbare batterij 40 uur 2 toewijsbare knoppen bewegingsbesturing'
+prodname: 'Turtle Beach Rematch Mando inalámbrico Nintendo Switch 2 Lite | Negro/rojo Nintendo Switch OLED palancas TMR bat. recargable 40 h 2 botones traseros asignables controles de movimiento'
 country: 'es'
 flag: '🇪🇸'
 brand: ''

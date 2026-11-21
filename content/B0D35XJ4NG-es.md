@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cama con cuatro cajones inferiores.
-- No se incluyen los elementos de decoración que puedan aparecer en las imágenes.
-- Mueble kit de fácil montaje, se entrega con las instrucciones de montaje y sus correspondientes herrajes.
-- Es necesario añadir somier de aro metálico para cama de 190 (largo) x 140 cm (ancho). Fabricado con tablero de 22 mm.
 - Color: Blanco
+- Es necesario añadir somier de aro metálico para cama de 190 (largo) x 140 cm (ancho). Fabricado con tablero de 22 mm.
+- Cama con cuatro cajones inferiores.
+- Mueble kit de fácil montaje, se entrega con las instrucciones de montaje y sus correspondientes herrajes.
+- No se incluyen los elementos de decoración que puedan aparecer en las imágenes.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D35XJ4NG{{</world>}}

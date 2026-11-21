@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🧵 MATERIAL: El tejido sobre el que está confeccionada esta sábana es de 100 %algodón con 144 hilos. Un producto de calidad, avalado por Burrito Blanco. Se recomienda un lavadito suave inicial para que adquiera sus características de tacto y suavidad definitivas.
 - ✅ CARACTERÍSTICAS: Tejido 100% algodón extrasuave.Larga duración. No hace bolas. Estampación a una sola cara.Es recomendable lavar antes de su primer uso.Alto colchón 32cm
-- 📏 MEDIDAS DEL CONJUNTO: Una encimera de 240x270 cm. . Dos fundas de almohadas de 50x85 cm. . Una sábana bajera ajustable de 150-160x190/200cm. Disponible en más medidas.
 - 🛏️ PRODUCTO: Juego de sábanas con un versatil estampado geometrico estilo étnico en color mostaza sobre un fondo blanco . Encimera con pespunte en embozo de color mostaza. Almohada con el mismo diseño y con aplicación en color mostaza . Bajera confección ajustable en color mostaza.
 - 🫧 MANTENIMIENTO: Lavar a máquina con programa delicado y temperatura máxima de 40º. No usar lejía. Planchar a temperatura media. No limpiar en seco. Secado a máquina, ciclo normal
+- 🧵 MATERIAL: El tejido sobre el que está confeccionada esta sábana es de 100 %algodón con 144 hilos. Un producto de calidad, avalado por Burrito Blanco. Se recomienda un lavadito suave inicial para que adquiera sus características de tacto y suavidad definitivas.
+- 📏 MEDIDAS DEL CONJUNTO: Una encimera de 240x270 cm. . Dos fundas de almohadas de 50x85 cm. . Una sábana bajera ajustable de 150-160x190/200cm. Disponible en más medidas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GR1BJXJL{{</world>}}

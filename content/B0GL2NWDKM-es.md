@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wilkinson Sword Intuition Soap & Shave Sensitive Maquinilla mujer 1 rec | 2 en 1 maquinilla para mujer con 4 cuchillas para piel sensible con jabón vegano incorporado y aloe vera. Solo añade agua'
-date: 2026-11-10 15:58:52
+date: 2026-11-21 13:22:01
 image: 'https://m.media-amazon.com/images/I/410cESDO1SL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

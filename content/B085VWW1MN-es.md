@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Artículo: 15213525 FEVER STRETCH
-- Estación: SIEMPRE DISPONIBLE
-- Designer: ONLY
 - Color: BLACK
+- Designer: ONLY
+- Estación: SIEMPRE DISPONIBLE
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B085VWW1MN{{</world>}}

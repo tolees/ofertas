@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Slim Straight Fit
 - Slim straight-fit jeans
 - materialFabricComposition: 75% Cotton, 13% Polyester, 10% Organic Cotton, 2% Elastane
-- Regular rise
 - Care Label:
+- Regular rise
+- Slim Straight Fit
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07FQ92F5J{{</world>}}

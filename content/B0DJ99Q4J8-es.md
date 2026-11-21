@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Upper made with at least 30% recycled materials
 - Lightweight
+- Upper made with at least 30% recycled materials
 - PUMA Cat branding
 
 [🛒 Aquí!!!]({{< param buyurl >}})

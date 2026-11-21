@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aplicar en rostro, cuello y escote
-- Crema nutritiva con aceite de argán para pieles secas que necesitan regenerarse
 - Para el cuidado intensivo de la piel
+- Aplicar en rostro, cuello y escote
 - El cuidado facial puede aplicarse como crema de día, cuidado de noche o como cuidado 24h
+- Crema nutritiva con aceite de argán para pieles secas que necesitan regenerarse
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09YLXSC58{{</world>}}

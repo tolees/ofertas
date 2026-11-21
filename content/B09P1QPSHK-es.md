@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- SHOPPING
+- VALENTINO ALEXIA BIANCO/CUOIO WOMAN
 - WOMAN
 - Bolsa de transporte
-- VALENTINO ALEXIA BIANCO/CUOIO WOMAN
+- SHOPPING
 - BIANCO/CUOIO
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo frontal
-- correa de hombro extraíble
 - Cierre de cremallera
+- correa de hombro extraíble
+- Logotipo frontal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZP4SJ9M{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- [Accesorios y montaje] Se incluyen 4 cuerdas de 2 m. Consejo: Inclina la vela al fijarla para evitar bolsas de agua; distancia entre el punto de fijación y el anillo de acero inoxidable: ≥30 cm. Una vez instalada, ténsala con regularidad
 - [Protección solar óptima] Coloca este toldo rectangular de 2 x 3 m que bloquea más del 93% de los rayos UV, creando un lugar sombreado en el patio, jardín o balcón para relajarte
-- [Impermeable] El tejido recubierto de PU es impermeable con una columna de agua de 665 mm.
+- [Accesorios y montaje] Se incluyen 4 cuerdas de 2 m. Consejo: Inclina la vela al fijarla para evitar bolsas de agua; distancia entre el punto de fijación y el anillo de acero inoxidable: ≥30 cm. Una vez instalada, ténsala con regularidad
 - [Elige el tamaño adecuado] Elige en función de tu espacio y del tamaño de la sombra que desees. Mira los consejos en las imágenes de los productos
+- [Impermeable] El tejido recubierto de PU es impermeable con una columna de agua de 665 mm.
 - [Resistente y duradera] La vela es de poliéster antidesgarro. Los extremos están reforzados con varias capas de tejido bien cosido. La forma cóncava distribuye la fuerza del viento para resistir el desgarro. Las anillas de acero inoxidable son inoxidables
 
 [🛒 Visítala!!!]({{< param buyurl >}})

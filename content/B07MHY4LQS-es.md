@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Slip-on design
 - Roxy logo
+- Slip-on design
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07MHY4LQS{{</world>}}

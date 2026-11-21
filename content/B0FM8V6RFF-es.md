@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Arena para Gatos Aglomerante de Cascara de Guisante Go Natural Sin Aroma | Arena para gatos superior de aglomeración rápida y sin perfume. Pellets de cáscara de guisante tofu 99.9% libres de polvo'
-date: 2026-11-14 05:20:29
+date: 2026-11-21 03:40:24
 image: 'https://m.media-amazon.com/images/I/41+Eje88PuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FM8V6RFF/?tag=tolees-21'
 descuento: '35.18'
-average: '16.123999999999978'
+average: '15.856666666666648'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

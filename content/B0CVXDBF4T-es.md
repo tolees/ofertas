@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Para carracas de 1/2"
-- Acero de cromo-vanadio
 - De 5 etapas (3/8", 7/16", 1/2", 16 y 21 mm)
+- Acero de cromo-vanadio
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CVXDBF4T{{</world>}}

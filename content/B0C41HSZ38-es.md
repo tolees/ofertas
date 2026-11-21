@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El lápiz de ojos Jumbo está disponible en 16 tonos, con una textura cremosa, y además es vegano y libre de crueldad animal
-- Lápiz de maquillaje multiusos para conseguir cualquier look al instante, utilízalo como eyeliner, como sombra o incluso como prebase de maquillaje
-- Elige el color que más te guste de entre los 16 diferentes tonos disponibles y consigue el look perfecto para cada ocasión
 - Modo de empleo: Dibuja el diseño que quieres conseguir con la punta del lápiz y desliza con trazos cortos para añadir sombreado. Aplícalo como base para un maquillaje perfecto o delinea el párpado para un toque más atrevido.
 - Contenido: 1x NYX Professional Makeup Jumbo Lápiz de ojos iluminador, Tono: Lemon Merringue
+- Elige el color que más te guste de entre los 16 diferentes tonos disponibles y consigue el look perfecto para cada ocasión
+- Lápiz de maquillaje multiusos para conseguir cualquier look al instante, utilízalo como eyeliner, como sombra o incluso como prebase de maquillaje
+- El lápiz de ojos Jumbo está disponible en 16 tonos, con una textura cremosa, y además es vegano y libre de crueldad animal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C41HSZ38{{</world>}}

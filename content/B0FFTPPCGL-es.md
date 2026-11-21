@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100% algodón
 - Logotipo calado en la parte delantera
+- 100% algodón
 - Camiseta sin mangas con cuello redondo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

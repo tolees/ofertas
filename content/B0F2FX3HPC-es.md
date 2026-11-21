@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Empeine de piel sintética y ante
 - Horma clásica
 - Clásica puntera con forma de T
 - Cierre de cordones
+- Empeine de piel sintética y ante
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F2FX3HPC{{</world>}}

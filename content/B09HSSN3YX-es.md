@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - RECOMENDACION DE CONSUMO - Solo tienes que sacar cada sobre de jamón una hora antes del frigorífico y dejarlo a temperatura ambiente.
-- CURACION - Superior a dos años y medio en secaderos naturales.
-- FORMATO Y PESO - Sobres de 100 gramos cada uno.
 - INGREDIENTES - Jamón de cerdo ibérico de bellota, sal, dextrosa, azúcar, antioxidantes, E-301 y conservadores y E-252.
 - SABOR Y AROMA - Aroma penetrante y sutil, se funde en boca, sabor intenso, complejo y elegante, con notas dulces y de bellota.
+- CURACION - Superior a dos años y medio en secaderos naturales.
+- FORMATO Y PESO - Sobres de 100 gramos cada uno.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09HSSN3YX{{</world>}}

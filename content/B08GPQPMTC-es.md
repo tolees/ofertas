@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Suela: goma
 - Material interior: sintético
 - Cordones
-- Suela: goma
 - Material exterior: piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Sin Polarizar
 - Garantía internacional de 2 años
-- Striped Black/Blue Shaded
 - Talla 52/21/150
+- Striped Black/Blue Shaded
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CCJTQWPF{{</world>}}

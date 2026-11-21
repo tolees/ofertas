@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Avalon Hill HeroQuest Pack de Misión Wizards of Morcar Requiere el Sistema de Juego HeroQuest - Versión en Español'
-date: 2026-11-19 12:01:21
+date: 2026-11-20 17:44:16
 image: 'https://m.media-amazon.com/images/I/51XzI5AXb5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FTMC64MR/?tag=tolees-21'
 descuento: '42.01'
-average: '43.021999999999892'
+average: '42.144999999999897'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

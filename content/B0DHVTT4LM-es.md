@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Horma clásica
-- La parte superior contiene al menos un 50% de material reciclado
-- Diseño flexible y adaptable
-- Empeine de malla
-- Suela non-marking rubber outsole
-- Mediasuela Bounce
 - Cierre de cordones
 - Suela de goma que no deja marcas
+- Horma clásica
+- Empeine de malla
+- Suela non-marking rubber outsole
+- La parte superior contiene al menos un 50% de material reciclado
+- Mediasuela Bounce
+- Diseño flexible y adaptable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DHVTT4LM{{</world>}}

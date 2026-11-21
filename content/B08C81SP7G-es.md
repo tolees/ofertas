@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tiro medio.
-- Tacto suave, similar al del algodón, y acabado mate.
-- Con bolsillos laterales exteriores y bolsillos traseros.
-- La tela de mezcla de nailon y elastano GO FLEX de Skechers cuenta con un elástico en 4 direcciones, absorbe la humedad y tiene propiedades UPF 40+.
-- Cintura de compresión de doble capa.
 - Dobladillo semiacampanado.
+- La tela de mezcla de nailon y elastano GO FLEX de Skechers cuenta con un elástico en 4 direcciones, absorbe la humedad y tiene propiedades UPF 40+.
+- Tacto suave, similar al del algodón, y acabado mate.
+- Cintura de compresión de doble capa.
+- Con bolsillos laterales exteriores y bolsillos traseros.
 - Costuras planas para una experiencia sin rozaduras.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

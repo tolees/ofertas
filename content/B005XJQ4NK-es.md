@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Eastpak Rusher Bolso Bandolera 1.5 L - Black Negro'
-date: 2026-11-13 15:02:22
+date: 2026-11-21 10:25:25
 image: 'https://m.media-amazon.com/images/I/41aoLDYXzzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B005XJQ4NK/?tag=tolees-21'
 descuento: '56.67'
-average: '16.405'
+average: '15.979375000000001'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

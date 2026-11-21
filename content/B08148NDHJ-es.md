@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Un gorro clásico con estilo de gorra de marinero, Confort fiable para las condiciones más frías en el agua o en la hoguera
 - Dobladillo enrollado en las orejas para comodidad y calor adicional
 - Una ventana a la verdadera tradición náutica, Adecuado para cualquier ocasión de clima frío, Cálido para la cabeza y los oídos
-- Logotipo discreto de Columbia por delante
 - Contenido: 1x Columbia Watch Cap, Gorro Unisex, 96% acrílico, 4% nailon, Color: Verde, Azul (Stone Green, Collegiate Navy Marled), Talla: O/S , Art.No. 1464091
+- Logotipo discreto de Columbia por delante
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08148NDHJ{{</world>}}

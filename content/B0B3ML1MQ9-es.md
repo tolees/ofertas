@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela de tracción flexible
 - Skechers Detalle del logotipo
-- Parte superior de malla y sintética con ribete de estampado floral y cordones frontales
+- Suela de tracción flexible
 - Tacón de 1 1/4 pulgadas
+- Parte superior de malla y sintética con ribete de estampado floral y cordones frontales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B3ML1MQ9{{</world>}}

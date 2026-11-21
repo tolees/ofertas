@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Listerine Mentol Enjuague Bucal con Flúor 750 ml 4 uds | 24 h de Protección Elimina Bacterias Previene Caries Protege Encías Reduce Placa y Sarro Aliento Fresco'
-date: 2026-11-20 15:57:09
+date: 2026-11-20 16:04:52
 image: 'https://m.media-amazon.com/images/I/510e3d3arUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DNTM3V2F/?tag=tolees-21'
 descuento: '38.94'
-average: '13.808421052631576'
+average: '13.770999999999997'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

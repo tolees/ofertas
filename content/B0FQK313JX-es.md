@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Este modelo es una L.
 - La montura RXable permite la aplicación de lentes oftálmicas.
 - La estructura cuadrada está fabricada con resina vegetal.
-- Algunas referencias se caracterizan por sus colores sombreados.
-- Este modelo es una L.
 - Las patillas están realzadas con colores sombreados y pintados que dejan ver el alambre metálico del núcleo.
+- Algunas referencias se caracterizan por sus colores sombreados.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FQK313JX{{</world>}}

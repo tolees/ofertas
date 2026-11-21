@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- punta redondeada
 - Máxima transpirabilidad del pie.
+- punta redondeada
 - Zapatillas bajas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

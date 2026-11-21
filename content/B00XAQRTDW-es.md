@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Conservar en lugar fresco y seco
+- Caramelos de goma
 - Deliciosas piezas con forma de frutas tropicales e intenso sabor a frutas
 - Sin recubrimiento
-- Caramelos de goma
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XAQRTDW{{</world>}}

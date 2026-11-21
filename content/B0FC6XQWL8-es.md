@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Confeccionado en piqué ligero y transpirable
 - Llévalo con una talla más para tener un estilo informal o quédate en tu talla para un estilo clásico
 - Un polo versátil, elegante y holgado para completar tu look
 - LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
+- Confeccionado en piqué ligero y transpirable
 - Este no es un polo cualquiera. Diseñado con tecnología de alto rendimiento, aporta un tacto y un aspecto cool incluso en los días más duros del verano.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

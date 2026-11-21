@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🥉 IDEAL PARA SMOOTHIES, BEBIDAS Y REPOSTERÍA Perfecto para smoothies, yogur, bebidas, postres, helados y repostería. Este spirulina polvo aporta un color vibrante sin alterar el sabor.
-- 🥈 COLORANTE ALIMENTARIO AZUL INTENSO Consigue tonos desde azul claro hasta azul intenso. Una pequeña cantidad de espirulina polvo es suficiente para controlar la intensidad del color en tus recetas.
 - 🌿 ESPIRULINA ECOLÓGICA – NATURAL Y VEGANA Espirulina ecológica de origen vegetal, sin aditivos ni ingredientes artificiales. Ideal para quienes buscan comprar espirulina natural para sus recetas.
-- 🥇 COLORANTE ALIMENTARIO NATURAL Espirulina azul ecológica en polvo, rica en ficocianina. Este blue spirulina powder se utiliza como colorante alimentario azul natural, sin colorantes artificiales para resultados fiables.
+- 🥉 IDEAL PARA SMOOTHIES, BEBIDAS Y REPOSTERÍA Perfecto para smoothies, yogur, bebidas, postres, helados y repostería. Este spirulina polvo aporta un color vibrante sin alterar el sabor.
 - 💧 FÁCIL DE USAR Y MEZCLAR Espirulina en polvo de alta solubilidad, fácil de mezclar en agua o bebidas. Mejores resultados en preparaciones frías o templadas para un color más brillante.
+- 🥈 COLORANTE ALIMENTARIO AZUL INTENSO Consigue tonos desde azul claro hasta azul intenso. Una pequeña cantidad de espirulina polvo es suficiente para controlar la intensidad del color en tus recetas.
+- 🥇 COLORANTE ALIMENTARIO NATURAL Espirulina azul ecológica en polvo, rica en ficocianina. Este blue spirulina powder se utiliza como colorante alimentario azul natural, sin colorantes artificiales para resultados fiables.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GHPCP8S1{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye: 1 x Spray Fosforescente para Trabajos Forestales color rojo. Disponible en una amplia variedad de colores
 - Marcado temporal de árboles hasta 2 años: Gran resistencia a los rayos ultravioleta y las inclemencias del tiempo
-- Secado rápido incluso en superficies mojadas: diseño fiable con flujo de pintura constante. Libre de fluorocarbonos y metales pesados
 - Spray forestal rojo fluorescente. Fácil de usar, su marcaje semipermanente dura hasta 2 años
+- Incluye: 1 x Spray Fosforescente para Trabajos Forestales color rojo. Disponible en una amplia variedad de colores
+- Secado rápido incluso en superficies mojadas: diseño fiable con flujo de pintura constante. Libre de fluorocarbonos y metales pesados
 - Envase de 500 ml: tapón ergonómico y multidireccional, se puede usar al revés y en cualquier condición climática
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

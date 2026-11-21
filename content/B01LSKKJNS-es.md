@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ideal para comida o bebida de tu mascota
-- Comedero de cerámica decorado
 - Capacidad 0.25 litros
+- Comedero de cerámica decorado
+- Ideal para comida o bebida de tu mascota
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01LSKKJNS{{</world>}}

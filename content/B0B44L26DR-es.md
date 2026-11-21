@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto original Mr. Wonderful
-- Nueva colección Back to school Escritura.
 - realizado en PVC y plástico PET.
-- Ideal para la vuelta al cole.
 - Bolígrafo Con un corazón Wonder en su extremo y luz.
+- Nueva colección Back to school Escritura.
+- Producto original Mr. Wonderful
+- Ideal para la vuelta al cole.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B44L26DR{{</world>}}

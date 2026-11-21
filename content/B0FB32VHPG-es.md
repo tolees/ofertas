@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dimensiones: 13,5 cm (alt.) x 22,5 cm (an.) x 10 cm (prof.)
 - Capacidad: 2 l
 - Bolsillo interior con cremallera
 - Correa para el hombro ajustable, asas de transporte con botón a presión
 - Compartimento principal con cremallera bidireccional
+- Dimensiones: 13,5 cm (alt.) x 22,5 cm (an.) x 10 cm (prof.)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FB32VHPG{{</world>}}

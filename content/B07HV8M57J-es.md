@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cintura alta con goma interior
 - Pantalón interior fijo
+- Cintura alta con goma interior
 - Aberturas laterales
 
 [🛒 Visítala!!!]({{< param buyurl >}})

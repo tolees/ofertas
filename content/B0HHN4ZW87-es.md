@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec Freidora de Aire con Cesta de Cristal Cecofry&Glass Crunchy Pro | Cesta de Cristal Resistente Sin Recubrimientos Visión 360º del Cocinado Panel Táctil Digital Cocina Saludable Sin Aceite'
-date: 2026-11-16 10:35:03
+date: 2026-11-21 03:52:09
 image: 'https://m.media-amazon.com/images/I/41hDlgX82uL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Suéter de cuello redondo con costuras lisas de calibre 12
-- 94 % algodón, 3 % lana, 3 % cachemira
 - Hilo de tinte pigmentado con jacquard de pepe jeans en el puño
+- 94 % algodón, 3 % lana, 3 % cachemira
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DTJBF94Y{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Videoportero comunicación bidireccional
-- Color negro moderno
 - Diseño delicado
+- Color negro moderno
+- Videoportero comunicación bidireccional
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00SAODRJO{{</world>}}

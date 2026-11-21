@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Canalón con tres posiciones diferentes
-- Se amplía para poner más piezas cuando sea necesario
-- Escurridor de cubiertos desplazable con ranura para cuchillos
 - Las puntas de drenaje y riel para tabla de cortar antirayado
+- Canalón con tres posiciones diferentes
+- Escurridor de cubiertos desplazable con ranura para cuchillos
+- Se amplía para poner más piezas cuando sea necesario
 - Las nervaduras elevadas evitan que el agua se quede debajo de vasos y tazones
 
 [🛒 Aquí!!!]({{< param buyurl >}})

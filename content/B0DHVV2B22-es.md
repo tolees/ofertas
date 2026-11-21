@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Forro textil
 - Contiene al menos un 20 % de material reciclado
 - Suela de goma cosida
-- Cordones
 - Estructura clásica de puntera en T
+- Forro textil
+- Cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DHVV2B22{{</world>}}

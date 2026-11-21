@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Professional 32 uds. Set de puntas de atornillar puntas PH PZ hexagonal T TH S accesorios para taladro y destornillador'
-date: 2026-11-20 02:25:41
+date: 2026-11-21 12:34:41
 image: 'https://m.media-amazon.com/images/I/41KorOL9b2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IM7BIY0/?tag=tolees-21'
 descuento: '42.14'
-average: '11.145843373493978'
+average: '11.124940476190478'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

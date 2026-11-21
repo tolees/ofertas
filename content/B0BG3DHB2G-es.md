@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ofrece la máxima comodidad
 - Manga corta con puños acanalados para un ajuste óptimo
+- Ofrece la máxima comodidad
 - Corte ajustado que acentúa la figura
 
 [🛒 Visítala!!!]({{< param buyurl >}})

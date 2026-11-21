@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- UPF 50 - Proporciona protección UV conforme a la norma AS/NZ4399:2017. Certificado CE, equipo de protección individual (EPI) contra la radiación UV natural con resultados que alcanzan un UPF >50 (98% de protección UV). La protección puede debilitarse.
-- Etiqueta cosida en el interior de la prenda con espacio para escribir el nombre del propietario.
 - Puede lavarse en lavadoras domésticas sin dañarse
+- Etiqueta cosida en el interior de la prenda con espacio para escribir el nombre del propietario.
+- UPF 50 - Proporciona protección UV conforme a la norma AS/NZ4399:2017. Certificado CE, equipo de protección individual (EPI) contra la radiación UV natural con resultados que alcanzan un UPF >50 (98% de protección UV). La protección puede debilitarse.
 - Banda interior incorporada para evacuar el sudor y la humedad.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

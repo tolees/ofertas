@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello acolchado, ojal personalizado, cómoda plantilla termoformada y extraíble, logotipo clásico en el lateral
-- 85 % poliuretano, 15 % gamuza de vaca
 - Kenton Campus W - Tenis básicos vulcanizados de corte bajo con parte superior clásica
+- 85 % poliuretano, 15 % gamuza de vaca
+- Cuello acolchado, ojal personalizado, cómoda plantilla termoformada y extraíble, logotipo clásico en el lateral
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FFTPF39N{{</world>}}

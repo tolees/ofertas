@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsa de viaje de 40 cm x 25 cm x 20 cm fabricada en poliéster y con detalles en piel sintética.
-- Múltiples formas de llevarla: en la mano con soporte que une sus asas con cierre de cinta por contacto, al hombro o cruzada con la bandolera ajustable.
 - Bolsillo frontal para mejorar la organización.
+- Múltiples formas de llevarla: en la mano con soporte que une sus asas con cierre de cinta por contacto, al hombro o cruzada con la bandolera ajustable.
+- Bolsa de viaje de 40 cm x 25 cm x 20 cm fabricada en poliéster y con detalles en piel sintética.
 - Muy versátil. Se puede utilizar para viajar o como bolsa de deportes.
 - Compartimento principal con cierre cremallera y bolsillo interior para guardar accesorios pequeños.
 

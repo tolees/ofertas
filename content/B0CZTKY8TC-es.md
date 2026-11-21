@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Star Wars Outlaws Limited Edition Exclusive to Amazon.es PS5'
-date: 2026-11-18 23:41:22
+date: 2026-11-20 23:26:31
 image: 'https://m.media-amazon.com/images/I/517vgg9qwPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CZTKY8TC/?tag=tolees-21'
 descuento: '43.18'
-average: '19.942253521126933'
+average: '19.861369863013863'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

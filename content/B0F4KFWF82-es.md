@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tommy Hilfiger Marca:
 - Tommy Hilfiger Bandera bordada en el pecho
+- Tommy Hilfiger Marca:
 - Cinta distintiva en el interior del cuello
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bizak Flybotic Sky Wheels II vehículo Volador radiocontrol 2 en 1 Rueda por Tierra y despega para Volar helicóptero con Ruedas Producto Oficial para niños Desde 8 años 62004569'
-date: 2026-11-19 00:43:30
+date: 2026-11-20 20:57:28
 image: 'https://m.media-amazon.com/images/I/41A08Z2Iu1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GK8DY85N/?tag=tolees-21'
 descuento: '50.40'
-average: '22.163333333333334'
+average: '20.96'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Forro de tela con cierre de cordones
-- Una zapatilla inspirada en nuestros archivos con toques de color
 - Parte de tela con revestimientos sintéticos
+- Una zapatilla inspirada en nuestros archivos con toques de color
+- Forro de tela con cierre de cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08M5YPSW7{{</world>}}

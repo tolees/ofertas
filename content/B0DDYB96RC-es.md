@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Echo Dot 5.ª generación | Blanco + Tapo P100MA - Matter Mini Enchufe Inteligente compatible con Alexa - Kit de inicio de Hogar digital'
-date: 2026-11-18 15:34:37
+date: 2026-11-21 11:18:50
 image: 'https://m.media-amazon.com/images/I/31NNEG9UqcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DDYB96RC/?tag=tolees-21'
 descuento: '61.46'
-average: '39.99'
+average: '41.656666666666666'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

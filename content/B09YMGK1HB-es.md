@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Son el tentempié hecho para cualquier momento del día, la merienda rica o el acompañante imperdible para un café o un rico vaso de leche y galletas
 - El sabor único de las galletas Oreo comienza con el cacao auténtico que define con fuerza el color de la base de la galleta
 - A lo largo de los últimos 100 años, las emblemáticas galletas de chocolate en forma de sándwich Oreo han sido una de las meriendas preferidas por jóvenes y adultos en todo el mundo
+- Son el tentempié hecho para cualquier momento del día, la merienda rica o el acompañante imperdible para un café o un rico vaso de leche y galletas
 - Comparte Oreo con todos tus amigos, compañeros de trabajo, familiares o disfrútalas tú solo en cualquier momento del día
 - Las galletas Oreo Remix están compuestas por dos galletas de cacao y un rico relleno de crema sabor frambuesa y vainilla
 

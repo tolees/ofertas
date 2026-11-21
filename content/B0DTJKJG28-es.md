@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Marca centrada en el pecho
 - Camiseta de manga corta
+- Marca centrada en el pecho
 - 100 % algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})

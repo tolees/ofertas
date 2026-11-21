@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro Nerf 2.0 Commander RC-6 Lanzador de Dardos de Juguete 12 Piezas Juegos al Aire Libre para Niños y Niñas de 8 Años o Más Tambor Giratorio'
-date: 2026-11-19 07:50:17
+date: 2026-11-21 00:07:50
 image: 'https://m.media-amazon.com/images/I/41062qUr-YL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZYCNZTZ/?tag=tolees-21'
 descuento: '53.37'
-average: '10.543206106870466'
+average: '10.516287878788113'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

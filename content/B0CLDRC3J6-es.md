@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sleeveless
-- materialFabricComposition: Outer: 100% Polyester; Padding: 100% Polyester; Lining: 100% Polyester
 - Regular Fit
+- materialFabricComposition: Outer: 100% Polyester; Padding: 100% Polyester; Lining: 100% Polyester
+- Sleeveless
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CLDRC3J6{{</world>}}

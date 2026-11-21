@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kappa Logo MYGIDO 2 Zapatos de Gimnasia'
-date: 2026-11-20 04:23:11
+date: 2026-11-21 13:04:38
 image: 'https://m.media-amazon.com/images/I/31I0yMdWtOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

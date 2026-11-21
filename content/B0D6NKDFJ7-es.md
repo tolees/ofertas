@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pantalones vaqueros, pantalones largos
-- Cierre: cremallera y botón
-- Instrucciones de cuidado: lavable a máquina
 - Ajuste: recto
 - Composición: 78% algodón, 20% poliéster, 2% elastano
+- Cierre: cremallera y botón
+- Pantalones vaqueros, pantalones largos
+- Instrucciones de cuidado: lavable a máquina
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D6NKDFJ7{{</world>}}

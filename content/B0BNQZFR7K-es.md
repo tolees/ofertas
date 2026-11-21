@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- BILLABONG - Talla única, color gris
 - Accesorios pequeños
 - Carreras
-- BILLABONG - Talla única, color gris
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BNQZFR7K{{</world>}}

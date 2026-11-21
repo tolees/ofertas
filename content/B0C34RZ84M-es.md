@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Play-Doh Hasbro Peluquería Manualidades para Niñas y Niños a Partir de 3 Años Set con Herramientas y 6 Botes de Plastilina de Colores Regalo Creativo'
-date: 2026-11-19 08:53:18
+date: 2026-11-21 00:23:12
 image: 'https://m.media-amazon.com/images/I/51A3Q0Ug+dL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0C34RZ84M/?tag=tolees-21'
 descuento: '60.90'
-average: '14.765200000000048'
+average: '14.337407407407451'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Batería de hasta 16 meses de duración dependiendo su uso
-- Conexión inalámbrica de 2,4 GHz de gran fiabilidad,1200 PPP sensor óptico preciso, trabaja sin limitaciones
 - Sistemas operativos compatibles: Windows 7, 8, 10, Mac OS 10.3 o posterior y Chrome
-- Simplemente pon la batería, conecta el receptor USB y estarás listo. No necesitas instalar nada
-- Dimensiones mínimas 101 x 60 x 25,03 mm y peso: 0,05 kg
 - Tres botones estándar y rueda de desplazamiento
+- Conexión inalámbrica de 2,4 GHz de gran fiabilidad,1200 PPP sensor óptico preciso, trabaja sin limitaciones
+- Simplemente pon la batería, conecta el receptor USB y estarás listo. No necesitas instalar nada
+- Batería de hasta 16 meses de duración dependiendo su uso
+- Dimensiones mínimas 101 x 60 x 25,03 mm y peso: 0,05 kg
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07MFZH3F1{{</world>}}

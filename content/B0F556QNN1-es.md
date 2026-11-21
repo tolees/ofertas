@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte clásico
-- Mínima cantidad de costuras
-- Diseño con capucha
 - Bolsillo canguro
+- Diseño con capucha
 - 55% algodón / 36% poliéster (reciclado) / 9% viscosa
+- Mínima cantidad de costuras
+- Corte clásico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F556QNN1{{</world>}}

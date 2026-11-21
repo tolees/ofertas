@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El montaje es fácil y la pieza viene acompañada con un folleto de instrucciones
 - Las terminaciones de goma incluidas ofrecen protección adicional para las rodillas
-- Modelo adecuado para Ducati Monster 1200 2014
+- El montaje es fácil y la pieza viene acompañada con un folleto de instrucciones
 - Ofrece resistencia y seguridad a tu moto con los protectores de motor R19 de Puig
+- Modelo adecuado para Ducati Monster 1200 2014
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00TDCZ5AG{{</world>}}

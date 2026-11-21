@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Piña
-- Hidratante ; Mejora el ánimo. ; Sin género. ; Ligera ; Fácil de aplicar, no pegajoso ni graso. ;
+- Almizcle sensual
 - Leche de Coco
 - Enriquecido con un acorde de segunda piel de almizcle, cachemira y notas de ámbar gris.
-- Almizcle sensual
+- Hidratante ; Mejora el ánimo. ; Sin género. ; Ligera ; Fácil de aplicar, no pegajoso ni graso. ;
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FCYV8693{{</world>}}

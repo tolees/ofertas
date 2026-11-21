@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bandolera ajustable
-- Compartimento principal magnético y con cremallera con
-- Bolsillo con cremallera
 - Compartimentos para teléfonos móviles
+- Compartimento principal magnético y con cremallera con
+- Bandolera ajustable
+- Bolsillo con cremallera
 - Logotipo redondo de Kipling
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

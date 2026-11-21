@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño de cinco bolsillos
 - Este producto es original Levis
+- Diseño de cinco bolsillos
 - Ajuste estándar desde el trasero hasta el muslo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

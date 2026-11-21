@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Plantilla de espuma viscoelástica refrigerada por aire
-- Lavable a máquina
 - Tenis Gore & Strap con detalle de bloque de color
+- Lavable a máquina
+- Plantilla de espuma viscoelástica refrigerada por aire
 - Cierre adaptable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

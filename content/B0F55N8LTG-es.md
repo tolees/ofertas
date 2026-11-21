@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte clásico
-- Primegreen
-- Contiene al menos un 70% de materiales reciclados y renovables
-- Interior cepillado
-- 70% algodón / 30% poliéster (reciclado)
-- Bolsillo canguro
 - Capucha con cordón ajustable
+- Primegreen
+- Corte clásico
+- Interior cepillado
+- Bolsillo canguro
+- 70% algodón / 30% poliéster (reciclado)
+- Contiene al menos un 70% de materiales reciclados y renovables
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F55N8LTG{{</world>}}

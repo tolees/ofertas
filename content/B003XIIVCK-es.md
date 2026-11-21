@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Garantía de 10 años
 - Puntas de destornillador de acero al cromo-vanadio
 - En cartucho de plástico práctico
-- Garantía de 10 años
 - Juego de puntas de destornillador y tornillos de 122 piezas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello redondo
 - Estampado de nido de abeja con textura
+- Cuello redondo
 - Puños y bajo acanalados
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Pantalones cortos de mezclilla sostenibles
-- Elástico
 - Cómoda
+- Elástico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08T9LR7DK{{</world>}}

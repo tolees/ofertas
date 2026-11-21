@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bizak - Ok Boomer - Juego de Cartas a Partir de 14 años Juegos para la Familia también Apto para Adultos Old School vs. New School Trivia Tarjetas de Juego Preguntas para 2 Generaciones 64550284'
-date: 2026-11-19 12:08:07
+date: 2026-11-21 11:36:20
 image: 'https://m.media-amazon.com/images/I/51JN9mFPpYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

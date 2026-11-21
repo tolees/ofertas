@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Puffer coat
 - Hood
 - materialFabricComposition: Outer: 50% Polyester, 50% Recycled Polyester; Lining: 100% Polyester; Padding: 100% Polyester
-- Puffer coat
 - Hidden side zip fastening
 
 [🛒 Visítala!!!]({{< param buyurl >}})

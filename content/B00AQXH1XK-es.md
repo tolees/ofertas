@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Regleta enchufe con interruptor
-- Corriente Máxima: 16A // Tensión: 230V
-- Regleta enchufe con 5 tomas
 - Potencia Máxima: 3.500W
 - Longitud del cable: 1,5 metros
+- Corriente Máxima: 16A // Tensión: 230V
+- Regleta enchufe con interruptor
+- Regleta enchufe con 5 tomas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00AQXH1XK{{</world>}}

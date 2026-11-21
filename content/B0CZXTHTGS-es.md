@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 100% poliamida (reciclada)
-- Bolsillo trasero con solapa
 - Cintura elástica con cierre de cordón elástico
 - Corte holgado
+- Bolsillo trasero con solapa
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZXTHTGS{{</world>}}

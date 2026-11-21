@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 🙋🏻‍♀️ PARA QUIÉN ES ADECUADO: hábitos alimenticios incorrectos, dietas monótonas carentes de frutas y verduras, condiciones de enfermedad aguda o crónica, y en todas las situaciones de deficiencia de algunos nutrientes que pueden hacer necesario complementar con sustancias naturales con importantes beneficios de la salud
-- INGREDIENTES: las hojas de espinaca tienen una actividad de apoyo y reconstituyente. Las hojas de té tienen una actividad tónica en caso de fatiga física y mental. Las acelgas, alcachofas y hojas de col, tomate, arándano y frutos de arándano tienen actividad antioxidante.
-- 📖 UTILIZACIÓN: el producto puede tomarse tal cual o diluido en agua o zumo de frutas.
 - 👉🏻 SUPLEMENTO ALIMENTARIO: Greenmix Lem de Lemuria es totalmente natural a base de extractos de plantas y frutas ricos en polifenoles
 - ✨ LEMURIA: nació en Italia en 1990 y utiliza ingredientes naturales y orgánicos para sus productos, respetando la salud y el medio ambiente. Los productos Lemuria utilizan excipientes biodinámicos y sofisticadas técnicas de análisis para mantener todos los principios de las plantas y la integridad de las materias primas.
+- 📖 UTILIZACIÓN: el producto puede tomarse tal cual o diluido en agua o zumo de frutas.
+- INGREDIENTES: las hojas de espinaca tienen una actividad de apoyo y reconstituyente. Las hojas de té tienen una actividad tónica en caso de fatiga física y mental. Las acelgas, alcachofas y hojas de col, tomate, arándano y frutos de arándano tienen actividad antioxidante.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01M3N3QXF{{</world>}}

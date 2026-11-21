@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cordones
-- Empeine sintético y textil
-- Horma clásica
-- Suela de goma
 - Forro textil
+- Horma clásica
+- Empeine sintético y textil
+- Suela de goma
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FB3ZFYJ2{{</world>}}

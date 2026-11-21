@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- FUNCIONALIDAD: Aumenta la longitud y la densidad de las pestañas. La Biotina promueve el crecimiento en el folículo piloso y aporta efecto voluminizador
 - COMPLEMENTA: Para maximizar los resultados, se recomienda el uso de Pilopeptan Intensive y Pilopeptan Woman Comprimidos
 - APORTA: Testado dermatológica y oftalmológicamente: primeros resultados tras 30 días de aplicación. La Vitamina E protege las células frente al daño oxidativo y ayuda a mantener la salud del folículo. Doble aplicador para una mayor precisión. Fórmula hipoalergénica. Compatible con el uso de lentes de contacto
 - PROPÓSITO: Serum potenciador de pestañas y cejas formulado con activos biotecnológicos innovadores que actuan directamente sobre la regulación de ciclo del pelo y la estimulación la síntesis de queratina para activar el crecimiento de las pestañas y las cejas. Contiene activos biotecnológicos innovadores que modulan el ciclo de crecimiento del pelo estimulando la fase anágena
-- FUNCIONALIDAD: Aumenta la longitud y la densidad de las pestañas. La Biotina promueve el crecimiento en el folículo piloso y aporta efecto voluminizador
 - BENEFICIOS: Mejora la densidad de las cejas poco pobladas. El Pantenol restaura la hidratación proporcionando grosor y elasticidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

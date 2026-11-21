@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Corte clásico
-- Dobladillo trasero ligeramente más corto
-- 55% algodón / 36% poliéster (reciclado) / 9% viscosa
-- Cierre de cremallera y capucha ajustable con cordón
 - Contiene al menos un 70% de material reciclado y renovable
 - Bolsillos tipo canguro
+- Cierre de cremallera y capucha ajustable con cordón
+- 55% algodón / 36% poliéster (reciclado) / 9% viscosa
+- Dobladillo trasero ligeramente más corto
 - Puños y dobladillo de canalé
 - Hombros con la costura caída
 

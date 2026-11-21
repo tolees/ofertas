@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tirador de tela en el talón
-- Parte de nobuk sintético
-- Suela de goma de aspecto vulcanizado
 - Horma clásica
+- Suela de goma de aspecto vulcanizado
+- Parte de nobuk sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0788BKMQS{{</world>}}

@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pelo de corte plano.
-- Duo Fibre Powder Brush
-- Vegan friendly.
-- Resultado capas suaves y ligeras.
-- Tipo de pelo: sintético
 - Brocha DUO de doble fibra.
 - Perfecta para aplicar y difuminar polvos minerales.
+- Pelo de corte plano.
+- Tipo de pelo: sintético
+- Vegan friendly.
+- Resultado capas suaves y ligeras.
+- Duo Fibre Powder Brush
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07RYTXY2Q{{</world>}}

@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - __Waterproofing:__ Durable Water Repellent [DWR] fabric treatment to keep you dry and protected from the elements
 - Coating: Micro Repel water repellent coating keeps fabric light and quick drying
-- __Fabric:__ Recycled polyester surf suede fabric
 - __Fit:__ Layback fit
+- __Fabric:__ Recycled polyester surf suede fabric
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C8YY6SBW{{</world>}}

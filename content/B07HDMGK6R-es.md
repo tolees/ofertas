@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Long Sleeves
+- Denim jacket
 - materialFabricComposition: 98% Cotton, 2% Elastane
 - Spread Collar
-- Denim jacket
 - Care Label:
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

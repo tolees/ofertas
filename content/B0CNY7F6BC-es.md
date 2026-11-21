@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantilla cómoda con amortiguación
 - Presentan detalles distintivos de la marca
 - Suela flexible con tracción
+- Plantilla cómoda con amortiguación
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CNY7F6BC{{</world>}}

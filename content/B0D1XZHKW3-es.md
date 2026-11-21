@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Zip fly
-- 5 pockets
-- G-Star label at the back
 - An original look
+- G-Star label at the back
+- 5 pockets
+- Zip fly
 - Provides comfort
 
 [🛒 Aquí!!!]({{< param buyurl >}})

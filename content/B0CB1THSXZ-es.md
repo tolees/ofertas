@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior de malla diseñada con ribete metálico y cordones frontales
 - Fabricado con materiales 100% veganos
+- Parte superior de malla diseñada con ribete metálico y cordones frontales
 - Amortiguación de espuma Vapor ultraligera
 - Skechers Plantilla acolchada de espuma viscoelástica
 

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mezcla de especias chai tradicional con cascara de cacao
 - Cascara cacao, canela, regaliz, algarroba, cebada malteada cacao magro, cardamomo, jengibre, clavo, pimienta negra, ext. Vainilla
+- Mezcla de especias chai tradicional con cascara de cacao
 - Union del cacao con dulce regaliz, jenjibre picante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

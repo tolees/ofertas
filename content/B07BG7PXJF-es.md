@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - NANO CABLE
-- Cable usb nano cable usb3.0 a/m - a/h 3.0m negro
 - Negro
+- Cable usb nano cable usb3.0 a/m - a/h 3.0m negro
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07BG7PXJF{{</world>}}

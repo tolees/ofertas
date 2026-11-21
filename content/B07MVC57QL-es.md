@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Parte superior baja
-- Masculino
 - Producto para todo el año
 - 58360 BKW
+- Masculino
+- Parte superior baja
 - DYNAMIGHT
 
 [🛒 Visítala!!!]({{< param buyurl >}})

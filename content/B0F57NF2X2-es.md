@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Logotipo impreso en posición en la parte delantera
 - Manga corta y corte entallado
+- Logotipo impreso en posición en la parte delantera
 - Camiseta esencial de cuello redondo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

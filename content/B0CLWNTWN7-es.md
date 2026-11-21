@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Forro reflectante Omni-Heat
 - Parte superior textil impermeable con superposiciones sintéticas para protección y apoyo. Cuello con forro polar y textil para mayor comodidad. Encaje elástico para un fácil ajuste. Aislamiento de 200 g.
+- Forro reflectante Omni-Heat
 - Goma de tracción Omni-Grip que no deja marcas
 - Entresuela ligera Techlite para una comodidad duradera, amortiguación superior y alto retorno de energía
 - Construcción transpirable impermeable Omni-Tech

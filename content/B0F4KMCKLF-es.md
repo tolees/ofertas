@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido acanalado completo
 - Tommy Hilfiger Marca:
+- Tejido acanalado completo
 - Puños abatibles
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- materialFabricComposition: 100% Nylon
 - Print
-- Jacket
 - Regular Fit
+- materialFabricComposition: 100% Nylon
+- Jacket
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D97BKZH8{{</world>}}

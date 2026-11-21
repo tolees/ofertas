@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PACK PARA USO PROLONGADO. Formato 2 x 200 ml pensado para un uso continuado durante periodos de alta exposición solar
-- ACABADO SECO Y EFECTO MATIFICANTE. Ideal para pieles mixtas o grasas que buscan una protección solar sin brillo ni sensación pegajosa
-- RESISTENTE AL AGUA Y AL SUDOR. Adecuado para actividades al aire libre, ayudando a mantener la protección en condiciones de calor y humedad
 - CON ACTIVOS ANTIOXIDANTES Y CALMANTES. Incluye vitamina E, pantenol, alantoína y extractos vegetales que contribuyen al cuidado de la piel
+- ACABADO SECO Y EFECTO MATIFICANTE. Ideal para pieles mixtas o grasas que buscan una protección solar sin brillo ni sensación pegajosa
 - TEXTURA LIGERA Y TRANSPARENTE. Facilita una aplicación rápida y uniforme en el cuerpo, sin dejar marcas visibles sobre la piel
+- RESISTENTE AL AGUA Y AL SUDOR. Adecuado para actividades al aire libre, ayudando a mantener la protección en condiciones de calor y humedad
+- PACK PARA USO PROLONGADO. Formato 2 x 200 ml pensado para un uso continuado durante periodos de alta exposición solar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GXWDBXH5{{</world>}}

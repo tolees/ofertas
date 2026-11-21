@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maybelline New York Lash Sensational Sky High Volumen y Longitud Negro | Cepillo Flexible Longitud sin Límites Volumen Redefinido Pestañas Definidas Uso Diario Lash Sensational Sky High'
-date: 2026-11-18 02:50:31
+date: 2026-11-20 20:55:39
 image: 'https://m.media-amazon.com/images/I/21RYpSVVCVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08P4YPB8Q/?tag=tolees-21'
 descuento: '49.19'
-average: '7.277175572519055'
+average: '7.2669924812029789'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

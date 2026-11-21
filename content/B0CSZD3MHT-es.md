@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mango largo
-- Con capucha
-- Longitud estándar
 - Puños acanalados
+- Longitud estándar
 - Ajuste normal
+- Con capucha
+- Mango largo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CSZD3MHT{{</world>}}

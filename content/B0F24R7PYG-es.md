@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Esfera: Caja redonda de acero inoxidable plomizo con esfera verde y blanca pulida y cepillada con acabado de CD.
-- Correa de reloj: Brazalete de acero inoxidable resistente plomizo; los eslabones se pueden quitar para un ajuste personalizado.
-- Resistente al agua: Hasta 30 m: Resiste salpicaduras o inmersiones breves en agua, pero no es adecuado para nadar o ducharse; 3 ATM.
 - Caja y movimiento: caja de 54 mm, brazalete de 26 mm de ancho, cristal mineral resistente a arañazos, movimiento de cuarzo preciso con pantalla analógica con tres agujas y fecha, importado.
+- Esfera: Caja redonda de acero inoxidable plomizo con esfera verde y blanca pulida y cepillada con acabado de CD.
+- Resistente al agua: Hasta 30 m: Resiste salpicaduras o inmersiones breves en agua, pero no es adecuado para nadar o ducharse; 3 ATM.
+- Correa de reloj: Brazalete de acero inoxidable resistente plomizo; los eslabones se pueden quitar para un ajuste personalizado.
 - Atrevida, irónica y nunca tímida, Diesel no sigue las tendencias, las crea. Con un aspecto distintivo y una voz única, Diesel hace avanzar constantemente el estilo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

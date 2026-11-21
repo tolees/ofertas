@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'S.Pellegrino - Agua mineral natural con gas 6 botellas 1L | Agua con gas en pack formato grande ideal para consumo diario bebida refrescante ligera perfecta para acompañar comidas'
-date: 2026-11-19 18:48:13
+date: 2026-11-21 01:46:24
 image: 'https://m.media-amazon.com/images/I/51M1TwpmftL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B003RRXGL8/?tag=tolees-21'
 descuento: '35.34'
-average: '6.025'
+average: '5.9655555555555564'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

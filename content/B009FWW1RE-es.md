@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - OCASIÓN: Cîroc es idóneo para todas las celebraciones, de día o de noche; desde grandes hitos hasta momentos cotidianos, Cîroc Coconut hace cada ocasión especial
+- CARACTERÍSTICAS ÚNICAS: Cîroc Coconut es un vodka con un sabor de lujo infusionado con esencia de coco y sabores de frutas tropicales para ofrecer una experiencia de sabor deliciosamente exótica
 - REGALO: Un regalo idóneo para celebrar momentos importantes o cotidianos
 - ELABORACIÓN: Elaborado con vodka destilado cinco veces a partir de uvas francesas de elevada calidad, este vodka con sabor es un testimonio de la artesanía de lujo
-- CARACTERÍSTICAS ÚNICAS: Cîroc Coconut es un vodka con un sabor de lujo infusionado con esencia de coco y sabores de frutas tropicales para ofrecer una experiencia de sabor deliciosamente exótica
-- CÓMO SERVIRLO: ¿Por qué no probar un refrescante CÎROC Côte du Coco? Añade 40ml de CÎROC Coconut, 25ml de jugo de lima, 20ml de Creme De Banane, 50ml de soda de lima mexicana a una copa de vino (sin la soda), añade mucho hielo, completa con soda, remueve para combinar y decora con una rodaja de lima y uvas congeladas
 - NOTAS DE CATA: Cîroc Coconut Vodka tiene un rico sabor a coco dulce y cremoso con un toque de frutas tropicales
+- CÓMO SERVIRLO: ¿Por qué no probar un refrescante CÎROC Côte du Coco? Añade 40ml de CÎROC Coconut, 25ml de jugo de lima, 20ml de Creme De Banane, 50ml de soda de lima mexicana a una copa de vino (sin la soda), añade mucho hielo, completa con soda, remueve para combinar y decora con una rodaja de lima y uvas congeladas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B009FWW1RE{{</world>}}

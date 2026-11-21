@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec Vinoteca Bolero GrandSommelier 1250 CoolCrystal. Bodega para 12 botellas enfriamiento termoeléctrico silenciosa con 35 dB temperatura regulable de 8-18ºC panel táctil y luz LED interior.'
-date: 2026-11-19 06:20:45
+date: 2026-11-21 00:48:15
 image: 'https://m.media-amazon.com/images/I/416T7fr7BoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DJ3453ZS/?tag=tolees-21'
 descuento: '52.95'
-average: '119.97800000000001'
+average: '116.75333333333334'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

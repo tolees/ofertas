@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CALIDAD NOCILLA ✅🍯: Con el respaldo de la famosa marca Nocilla, estas barritas te ofrecen una experiencia deliciosa y llena de sabor en cada momento, ideales para compartir o disfrutar solo.
-- La siguiente información se aplica a cada unidad del paquete
 - NOCILLA COOKIES & CREAM 🍪🍫: Disfruta de una combinación única de barritas con trocitos crujientes de galleta de cacao, rellenas de suave crema de leche y avellanas.
 - SABOR DELICIOSO 🍪🍫: Disfruta de una combinación única de galleta crujiente, crema de leche y avellanas, con trocitos de galleta de cacao y un toque de chocolate en cada barrita. Ideal para meriendas, descansos o como postre.
+- La siguiente información se aplica a cada unidad del paquete
+- CALIDAD NOCILLA ✅🍯: Con el respaldo de la famosa marca Nocilla, estas barritas te ofrecen una experiencia deliciosa y llena de sabor en cada momento, ideales para compartir o disfrutar solo.
 - TEXTURA INIGUALABLE 🤩🥄: Una cobertura crujiente con un suave y cremoso relleno interior que combina perfectamente con los trozos de galleta de cacao para una experiencia única en cada bocado.
 - PRÁCTICAS Y PORTÁTILES 🎒🍴: Pack de 6 barritas, ideales para llevar como snack o merienda en cualquier momento del día. Fáciles de disfrutar y mantener frescas gracias a su envase individual en distintivo color rojo con el logotipo de Nocilla, fácil de identificar y almacenar.
 

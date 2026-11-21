@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Entresuela de plataforma bien acolchada para mayor apoyo
 - Ajuste relajado para un ajuste cómodo y espacioso en los dedos y el antepié
+- Entresuela de plataforma bien acolchada para mayor apoyo
 - Suela de tracción flexible
 - Parte superior de malla diseñada con cordones en la parte delantera
 

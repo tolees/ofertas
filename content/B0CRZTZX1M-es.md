@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tirantes y escote ribeteados
-- Ribete elástico con el logotipo en el bajo
 - Proporciona comodidad
 - Una mirada original
 - Espalda de nadador
+- Tirantes y escote ribeteados
+- Ribete elástico con el logotipo en el bajo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CRZTZX1M{{</world>}}

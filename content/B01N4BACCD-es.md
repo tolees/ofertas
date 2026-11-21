@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Medidas: 220x105 cm.
 - Foulard TOUS Kaos modelo Devore en color tejano.
+- Medidas: 220x105 cm.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01N4BACCD{{</world>}}

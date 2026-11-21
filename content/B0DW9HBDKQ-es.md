@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Manga: Larga
-- Fit: Balloon
 - Desigual
-- Cuello: en V
 - Cierre: de botones
+- Manga: Larga
+- Cuello: en V
 - Estampado Paisley
+- Fit: Balloon
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DW9HBDKQ{{</world>}}

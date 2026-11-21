@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tiene detalles distintivos de la marca
-- Gorra con visera
 - Accesorio básico y versátil
+- Gorra con visera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FDGCGGWQ{{</world>}}

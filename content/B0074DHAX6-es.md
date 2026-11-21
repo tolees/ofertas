@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Correa de acero inoxidable plateada
-- Resistente al agua de hasta 50 m: portátil mientras nadan en aguas poco profundas
 - Caso redondo de acero inoxidable, con una esfera negra
+- Resistente al agua de hasta 50 m: portátil mientras nadan en aguas poco profundas
+- Correa de acero inoxidable plateada
 - Caja de 50 mm, ancho de bracelete 24 mm, cristal mineral, movimiento de cuarzo con pantalla de cronógrafo analógico, importada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

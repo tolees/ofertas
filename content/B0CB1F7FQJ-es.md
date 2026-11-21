@@ -28,15 +28,15 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tobillo clásico Bootcut
-- Composición: 80% algodón, 18% poliéster, 2% elastano
-- Instrucciones de cuidado: lavable a máquina
-- Una pierna estrecha desde el muslo hasta la rodilla
-- Número de modelo: W28BJX386
 - Jeans Pantalones Largos
 - Ajuste: Bootfit
-- Tipo de estiramiento: elasticidad media
+- Una pierna estrecha desde el muslo hasta la rodilla
+- Composición: 80% algodón, 18% poliéster, 2% elastano
+- Instrucciones de cuidado: lavable a máquina
+- Número de modelo: W28BJX386
+- Tobillo clásico Bootcut
 - Ropa EarthWash
+- Tipo de estiramiento: elasticidad media
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CB1F7FQJ{{</world>}}

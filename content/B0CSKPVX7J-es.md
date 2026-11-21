@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ergonómico
 - Máxima comodidad
+- Ergonómico
 - Detalles refinados
 
 [🛒 Visítala!!!]({{< param buyurl >}})

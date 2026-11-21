@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Amortiguación ligera de EVA
 - Comodidad cotidiana
+- Amortiguación ligera de EVA
 - Parte superior transpirable
 - Suela duradera para correr en carretera
 - Excelente relación calidad-precio

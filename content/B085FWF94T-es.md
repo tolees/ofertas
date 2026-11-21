@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mango porta-puntas en la versión magnética para facilitar el posicionamiento de los tornillos
-- Con sistema anti-rodamiento hexagonal para evitar que la herramienta ruede
-- Mango ergonómico bicomponente tipo kraftform para un trabajo muy preciso
-- Para puntas de 1/4“ según la norma din iso 1173 c 6, 3
 - Una forma corta y compacta para trabajos en entornos de montaje muy estrechos
+- Mango ergonómico bicomponente tipo kraftform para un trabajo muy preciso
+- Con sistema anti-rodamiento hexagonal para evitar que la herramienta ruede
+- Para puntas de 1/4“ según la norma din iso 1173 c 6, 3
+- Mango porta-puntas en la versión magnética para facilitar el posicionamiento de los tornillos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B085FWF94T{{</world>}}

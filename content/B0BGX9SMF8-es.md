@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Amortiguación en el talón y la puntera
 - Refuerzo en el arco plantar
+- Largo por el tobillo
 - Costuras anatómicas en la puntera
 - Tres pares por paquete
-- Largo por el tobillo
-- Amortiguación en el talón y la puntera
 - 62% algodón / 36% poliéster reciclado / 1% elastán / 1% nailon reciclado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Protección óptima para pieles sensibles: nuestra leche protectora Sensitive SPF50+ ofrece una protección muy alta contra los rayos UVA y UVB, evitando las quemaduras solares y protegiendo la piel de los efectos nocivos de la exposición al sol
-- Hidratación y suavidad para la piel: enriquecida con monoï de Tahití, la leche protectora deja la piel suave e hidratada, protegiéndola del sol y manteniéndola suave y nutrida. Resistente al agua y no grasa
 - Formulación respetuosa con el medio ambiente: la fórmula contiene filtros fotoestables de alto rendimiento seleccionados en el marco del enfoque Ocean Respect. De este modo, el producto contribuye a preservar la vida y los ecosistemas marinos
+- Hidratación y suavidad para la piel: enriquecida con monoï de Tahití, la leche protectora deja la piel suave e hidratada, protegiéndola del sol y manteniéndola suave y nutrida. Resistente al agua y no grasa
 - Hipoalergénico: su fórmula suave y específica permite un uso seguro incluso en las pieles más sensibles. Sin perfume, el protector solar es hipoalergénico, lo que reduce el riesgo de reacciones alérgicas
+- Protección óptima para pieles sensibles: nuestra leche protectora Sensitive SPF50+ ofrece una protección muy alta contra los rayos UVA y UVB, evitando las quemaduras solares y protegiendo la piel de los efectos nocivos de la exposición al sol
 - Hecho en Francia: creamos, producimos y comercializamos 100% de nuestros productos en Francia. De alta tolerancia, respetan todas las pieles, incluso las sensibles y son hipoalergénicos, sin parabenos y formulados bajo control farmacéutico y dermatológico
 
 [🛒 Aquí!!!]({{< param buyurl >}})

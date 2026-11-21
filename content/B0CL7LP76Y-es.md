@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura : Talle medio
-- Corte : Ajuste relajado con cintura media, muslo, rodillas y parte baja holgados
 - Bolsillos : Bolsillos traseros, Bolsillos delanteros, Bolsillos laterales
 - Artículo : Pantalones de ajuste relajado
+- Corte : Ajuste relajado con cintura media, muslo, rodillas y parte baja holgados
+- Cintura : Talle medio
 - Cierre : Bragueta con cremallera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

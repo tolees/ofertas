@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Acero
-- Negro
-- troquelado para 12 XLR hembra de Universal "D Tipo de
 - Contenido del envío: rackbl final, 12 Nylon Bridas
 - Ideal para paneles de conexión
+- Negro
+- troquelado para 12 XLR hembra de Universal "D Tipo de
+- Acero
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B004BR2U7E{{</world>}}

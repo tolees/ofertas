@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Espuma viscoelástica refrigerada por aire
-- Flex
-- Ultra Go
 - Lavable a máquina
 - Almohada para el talón
+- Ultra Go
+- Flex
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FDCGFK3H{{</world>}}

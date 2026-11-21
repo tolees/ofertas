@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ligereza
-- Almohadón
 - Zapatos deportivos
+- Almohadón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BNJM9GND{{</world>}}

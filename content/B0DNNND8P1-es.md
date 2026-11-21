@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con un tejido suave
 - Detalles distintivos de la marca
+- Con un tejido suave
 - Dobladillo y puños acanalados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

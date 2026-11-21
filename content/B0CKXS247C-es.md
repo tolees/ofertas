@@ -28,16 +28,16 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte clásico
-- Mediasuela Bounce 2.0
 - Cierre de cordones
-- Forro textil
+- Corte clásico
 - Peso: 306 g (talla 42 1/2)
-- Suela de goma
-- Empeine de malla
-- Plantilla Cloudfoam Plus
-- Drop: 5 mm (talón: 29 mm / antepié: 24 mm)
 - Drop de la mediasuela: 5 mm (talón: 29 mm, antepié: 24 mm)
+- Forro textil
+- Plantilla Cloudfoam Plus
+- Suela de goma
+- Mediasuela Bounce 2.0
+- Drop: 5 mm (talón: 29 mm / antepié: 24 mm)
+- Empeine de malla
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CKXS247C{{</world>}}

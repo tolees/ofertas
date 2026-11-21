@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - materialFabricComposition: 100% Nylon
 - Print
-- Regular Fit
 - Jacket
+- Regular Fit
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D97F9JC5{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Prenda para varones adultos
 - Traje de baño
 - Tiene detalles distintivos de la marca
+- Prenda para varones adultos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B6C7FC5R{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Soporte para dos monitores de hasta 30 pulgadas cada uno, con sistema pasacables, adecuado para un ambiente de trabajo óptimo
 - Pivot 90°, VESA minimum 75 x 75mm, maximum 100 x 100mm
+- Soporte para dos monitores de hasta 30 pulgadas cada uno, con sistema pasacables, adecuado para un ambiente de trabajo óptimo
 - Una solución óptima para tener un escritorio extendido de dos monitores
 - Con altavoces
 - Este soporte permite una amplia variedad de regulaciones

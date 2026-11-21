@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Armani Exchange
+- Bolsa de compras
+- Piel sintética
 - Blanco
 - 1/23 PRIMAVERA VERANO 2023
-- Piel sintética
-- Bolsa de compras
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BMQF5TW1{{</world>}}

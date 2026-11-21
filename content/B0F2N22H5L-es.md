@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dermatológicamente testado No comedogénico Sin ingredientes de origen animal
 - Hidratante, sensorial y cómoda, como un producto de cuidado de la piel, refresca, unifica el cutis y proporciona al rostro un aspecto radiante y perfeccionado
-- Textura hidratante, ligera e imperceptible con un acabado natural, muy agradable sobre la piel
 - Con un 96 % de ingredientes derivados de materias primas de origen natural
 - Fórmula vegana, 88 % sostenible, enriquecida con agua de azahar sostenible, ácido hialurónico y vitamina C
+- Dermatológicamente testado No comedogénico Sin ingredientes de origen animal
+- Textura hidratante, ligera e imperceptible con un acabado natural, muy agradable sobre la piel
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F2N22H5L{{</world>}}

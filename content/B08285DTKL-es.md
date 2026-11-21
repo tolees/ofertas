@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Longitud 38 cm - corto
-- Short de natación para hombre
-- Slip interior de malla y cordón de ajuste en la cintura
 - Bolsillo trasero
+- Longitud 38 cm - corto
+- Slip interior de malla y cordón de ajuste en la cintura
 - Bolsillos de acceso lateral
+- Short de natación para hombre
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08285DTKL{{</world>}}

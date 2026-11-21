@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Fit: Regular
+- Desigual
 - Cierre: de cremallera
 - Cuello: de Camisa
-- Desigual
-- Bolsillo frontal
-- Fit: Regular
 - Estampado de cuadros
+- Bolsillo frontal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DW9HSSQX{{</world>}}

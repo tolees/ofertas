@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estampado : Estampa en la parte delantera del producto
-- Artículo : Sudadera con capucha
-- Bolsillos : Bolsillo canguro
-- Corte : Corte relaxed
 - Manga : Manga larga
 - Mangas : Sisa en disminución
+- Corte : Corte relaxed
+- Estampado : Estampa en la parte delantera del producto
+- Bolsillos : Bolsillo canguro
+- Artículo : Sudadera con capucha
 - Cuello : Capucha
 
 [🛒 Comprar!!!]({{< param buyurl >}})

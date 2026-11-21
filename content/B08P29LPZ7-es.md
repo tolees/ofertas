@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- OB E FO SRC
-- Antideslizante
-- EN ISO 20347:2012
 - Espuma viscoelástica
+- Antideslizante
+- OB E FO SRC
+- EN ISO 20347:2012
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08P29LPZ7{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre: Cordones
 - Tipo de tacón: Plano
 - Revestimiento: Sintético
+- Cierre: Cordones
 - Material de la suela: Sintético
 - Material exterior: Cuero
 

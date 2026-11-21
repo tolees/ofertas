@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillos traseros con cierre de solapa
 - Varios bolsillos, incluyendo bolsillos cargo con cremallera
-- Elástico cómodo
+- Bolsillos traseros con cierre de solapa
 - Cierre de botones y cremallera
+- Elástico cómodo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4XKCF99{{</world>}}

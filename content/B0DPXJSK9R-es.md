@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mediasuela con amortiguación
-- Suela de goma vulcanizada
-- Horma clásica
-- Forro textil
 - Cierre de cordones
+- Suela de goma vulcanizada
 - Parte superior de piel
+- Mediasuela con amortiguación
+- Forro textil
+- Horma clásica
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DPXJSK9R{{</world>}}

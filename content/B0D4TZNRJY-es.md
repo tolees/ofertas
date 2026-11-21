@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Combina detalles de diseño de alto rendimiento con estilo urbano.
 - Máximo agarre en el campo
+- Combina detalles de diseño de alto rendimiento con estilo urbano.
 - zapato de fútbol
 
 [🛒 Comprar!!!]({{< param buyurl >}})

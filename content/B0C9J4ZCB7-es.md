@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fermeture en dentelle
 - Pointe ronde
+- Fermeture en dentelle
 - Semelle : caoutchouc
 
 [🛒 Visítala!!!]({{< param buyurl >}})

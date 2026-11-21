@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Instrucciones de cuidado: lavable a máquina
-- Polo informal
 - Tipo de estiramiento: no elástico
 - Ajuste: regular
+- Instrucciones de cuidado: lavable a máquina
 - Composición: 100% algodón
+- Polo informal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6NJM56G{{</world>}}

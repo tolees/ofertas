@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puma Detalles de la marca en la parte superior, talón y lengüeta
 - Suela de goma
-- Puma Tira en los lados lateral y medial
 - Entresuela de goma
+- Puma Tira en los lados lateral y medial
+- Puma Detalles de la marca en la parte superior, talón y lengüeta
 - Parte superior de piel sintética
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

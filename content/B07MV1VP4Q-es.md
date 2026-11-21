@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro Gaming- Taboo Familia Juego de Mesa Multicolor E4941105'
-date: 2026-11-20 00:44:55
+date: 2026-11-21 01:23:52
 image: 'https://m.media-amazon.com/images/I/51DujtZJRnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MV1VP4Q/?tag=tolees-21'
 descuento: '35.20'
-average: '21.921297709923763'
+average: '21.854661654135438'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

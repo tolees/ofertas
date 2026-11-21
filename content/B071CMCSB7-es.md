@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- 🌿 FÓRMULA CON ACEITES ESENCIALES BIO: Contiene lavanda, eucalipto citronado, citronela, palmarosa, geranio rosado, clavo, jengibre y tea-tree, junto con Citriodiol, ingrediente natural repelente.
 - 🦟 REPELENTE NATURAL CONTRA MOSQUITOS: Protección natural contra mosquitos europeos y tropicales, ideal para el uso familiar.
 - ✨ RESPETA LA PIEL: Con perfume agradable, no reseca la piel y no es fotosensibilizante, adecuado para uso familiar.
 - 👶 MODO DE USO PARA BEBÉS: Para niños de 6 a 30 meses, aplicar solo en brazos y piernas, 1-2 veces al día, evitando manos y rostro.
-- 🌿 FÓRMULA CON ACEITES ESENCIALES BIO: Contiene lavanda, eucalipto citronado, citronela, palmarosa, geranio rosado, clavo, jengibre y tea-tree, junto con Citriodiol, ingrediente natural repelente.
 - ⏱ PROTECCIÓN HASTA 7 HORAS: Testado en laboratorio independiente y eficaz hasta 7 horas frente a mosquitos portadores de enfermedades como dengue, zika o chikungunya.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

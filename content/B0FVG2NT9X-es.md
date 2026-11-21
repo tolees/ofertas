@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- (1) Prueba instrumental
 - Para cabello liso y brillante: completa tu rutina de queratina Liss con el spray alisador Diamond Liss de Garnier Fructis para un cabello perfectamente liso sin encrespamiento, brillante y protegido de la humedad.
 - El paquete incluye: 1 spray de alisado Diamond Liss, 150 ml
-- Complejo brillante para un resultado brillante: la fórmula combina la potencia de un complejo de alisado con queratina vegetal y aceite de argán para un brillo de diamante 100H, antiencrespamiento 72H y 5 cabellos más lisos (1).
 - CÓMO UTILIZAR EL ESPRAY: Después de la rutina de queratina Liss con champú y máscara, aplique el spray Diamond Liss uniformemente sobre el cabello húmedo. Proceda al cepillado en secciones. El calor del secador de pelo es necesario para activar la fórmula.
+- Complejo brillante para un resultado brillante: la fórmula combina la potencia de un complejo de alisado con queratina vegetal y aceite de argán para un brillo de diamante 100H, antiencrespamiento 72H y 5 cabellos más lisos (1).
+- (1) Prueba instrumental
 - Protege tu cabello del calor: el spray Diamond Liss se activa con el calor de un secador de pelo y su efecto de protección contra el calor protege tu cabello hasta 230 °C. Para obtener los mejores resultados, termina el peinado con una plancha.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

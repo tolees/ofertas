@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Capucha con cordones escondida en el cuello
 - Abierto con cremallera
 - Tejido polar en el interior
-- Capucha con cordones escondida en el cuello
 - Bolsillos con botón a presión y cierre con solapa
 
 [🛒 Visítala!!!]({{< param buyurl >}})

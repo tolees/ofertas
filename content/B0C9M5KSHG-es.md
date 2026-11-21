@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Disponible en más colores para que combine con tu estilo
-- Protege tus cripto y nfts de los hackers: Nuestro chip seguro certificado mantiene las claves de tus monedas y nfts protegidas y sin conexión.
-- Gestiona tus nfts de forma segura dentro del ecosistema fortificado de ledger: Aprueba transacciones con nfts que comprendes y en las que puedes confiar, gracias a la firma visible.
-- En conjunto con ledger live, la aplicación para todo lo que necesitas para tus cripto: Accede al universo de dapps y servicios cripto. Controla y gestiona tus cripto y nfts en cuestión de segundos de forma sencilla y segura.
 - Todos tus activos digitales en un mismo lugar: Gestiona miles de monedas, como bitcoin, ethereum y muchas más.
+- Protege tus cripto y nfts de los hackers: Nuestro chip seguro certificado mantiene las claves de tus monedas y nfts protegidas y sin conexión.
+- Disponible en más colores para que combine con tu estilo
+- En conjunto con ledger live, la aplicación para todo lo que necesitas para tus cripto: Accede al universo de dapps y servicios cripto. Controla y gestiona tus cripto y nfts en cuestión de segundos de forma sencilla y segura.
+- Gestiona tus nfts de forma segura dentro del ecosistema fortificado de ledger: Aprueba transacciones con nfts que comprendes y en las que puedes confiar, gracias a la firma visible.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C9M5KSHG{{</world>}}

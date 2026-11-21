@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Nuestros nuevos jeans de corte recto realzan cualquier armario al instante.
 - Combínalos con un suéter o camiseta insertada para lucir genial durante todo el año.
+- Nuestros nuevos jeans de corte recto realzan cualquier armario al instante.
 - Con la cintura favorecedora y corte y cadera estrecha, hace que sea una auténtica pierna recta desde el muslo hasta el tobillo, con una longitud más corta.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

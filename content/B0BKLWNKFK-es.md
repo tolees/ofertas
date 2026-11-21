@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Compartimento principal grande
 - CREMALLERA YKK
-- Tejido principal impermeable
 - Aproximadamente 28L
+- Tejido principal impermeable
 - Compartimento frontal con cremallera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

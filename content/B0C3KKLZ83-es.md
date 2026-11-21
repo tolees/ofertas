@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre de cordones
 - Horma clásica
 - Forro textil
 - Parte superior de piel sintética
+- Cierre de cordones
 - Puntera reforzada
 - Suela de goma
 

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Professional 18V System. Máximo rendimiento. Máxima libertad. Todas nuestras baterías son compatibles con las herramientas nuevas o existentes Bosch Professional de la misma tensión
-- Potente: gracias a la corriente de aire que alcanza los 270 km/h (75 m/s), caudal de aire: 2,0 m³/min - 120 m³/h
-- Versátil y flexible: los cuatro adaptadores ofrecen diferentes posibilidades de uso de la herramienta, incluso como soplador de hojas
-- Autonomía de funcionamiento en las dos velocidades: velocidad 1: 9 min por Ah; velocidad 2: 5 min por Ah
 - Incluye: GBL 18V-120, 4 adaptadores, boquilla estándar, tubo de prolongación, boquilla de profundidad, depósito de recogida de polvo
+- Potente: gracias a la corriente de aire que alcanza los 270 km/h (75 m/s), caudal de aire: 2,0 m³/min - 120 m³/h
+- Autonomía de funcionamiento en las dos velocidades: velocidad 1: 9 min por Ah; velocidad 2: 5 min por Ah
+- Versátil y flexible: los cuatro adaptadores ofrecen diferentes posibilidades de uso de la herramienta, incluso como soplador de hojas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01K4GC03O{{</world>}}

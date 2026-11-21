@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pantene Pro-V Hydra Revitaliza Champú + Mascarilla + Tratamiento Pelo Seco | 300ml+135ml Hidratación y Nutrición'
-date: 2026-11-12 09:40:41
+date: 2026-11-20 16:34:43
 image: 'https://m.media-amazon.com/images/I/41kxwpnRlkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FPLS4MV4/?tag=tolees-21'
 descuento: '36.86'
-average: '12.43'
+average: '12.386'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

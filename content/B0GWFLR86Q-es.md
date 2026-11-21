@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte Regular Fit, cierre mediante cremallera oculta por tapeta y botón.
-- Bermuda de hombre lisa de tejido 97% algodón y 3% elastán.
-- Incluye cinturón de canvas.
 - Tiene dos bolsillos laterales y bolsillos traseros.Trabillas para el cinturón y tiene el chapón del logo cosido encima del bolsillo trasero.
+- Corte Regular Fit, cierre mediante cremallera oculta por tapeta y botón.
+- Incluye cinturón de canvas.
+- Bermuda de hombre lisa de tejido 97% algodón y 3% elastán.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GWFLR86Q{{</world>}}

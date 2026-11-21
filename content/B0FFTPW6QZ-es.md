@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hecho de mezclilla a rayas inspirado en el archivo lavado en un lavado ligero con un tinte suave
-- Material: 100% algodón
 - Estilo vintage recto con una cintura ultra alta y un ajuste espacioso a través de las piernas con detalles en los bolsillos frontales aplicados
+- Material: 100% algodón
+- Hecho de mezclilla a rayas inspirado en el archivo lavado en un lavado ligero con un tinte suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FFTPW6QZ{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalones cortos PACER 3SKNIT PS NEGRO/BLANCO
-- Los productos deportivos de la marca adidas están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
 - Compra una talla más pequeña
+- Los productos deportivos de la marca adidas están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
+- Pantalones cortos PACER 3SKNIT PS NEGRO/BLANCO
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQWHKN85{{</world>}}

@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Corte informal
 - Costuras de cuentas en dobladillo, cuello y puños
-- Hombro caído
 - Cuello redondo
+- Hombro caído
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DN3FK3GM{{</world>}}

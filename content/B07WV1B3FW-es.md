@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Perfecto para la oficina, en tu tiempo libre o para ocasiones festivas
 - abierto para llevar
-- Brazos largos de 3/4 con efecto arrugado
 - Cuello de solapa
 - Fantástica chaqueta para mujer para looks elegantes
+- Brazos largos de 3/4 con efecto arrugado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07WV1B3FW{{</world>}}

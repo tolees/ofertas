@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cuenta con la tecnología DRY Mix que aleja el sudor de la piel
-- Short de equipamiento
 - Tiene una cintura elástica
 - Logotipo de Joma en la pierna izquierda
+- Short de equipamiento
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00IXMC4QA{{</world>}}

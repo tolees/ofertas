@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte clásico
-- Material Principal: 100% Poliéster(100% Reciclado)
-- Cintura totalmente elástica
 - Material de secado rápido con tecnología transpirable
 - Confección en tejido técnico
+- Cintura totalmente elástica
+- Corte clásico
+- Material Principal: 100% Poliéster(100% Reciclado)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F54HRWPN{{</world>}}

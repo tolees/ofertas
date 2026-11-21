@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin controles complicados y sin necesidad de pilas: capturar un sonido profesional es tan sencillo como conectar y grabar
-- Increíblemente compacto y ligero, con solo 80 mm de longitud y un peso de 39 g, el VideoMicro II cabe en cualquier mochila, equipo de cámara y bolso de mano
 - Micrófono de cañón ultra compacto para cámara que mejora instantáneamente la calidad de audio de tus videos
-- Montura de zapata incorporada y gestión de cables para mantener tu configuración minimalista y ordenada.
 - Construcción resistente con un cuerpo totalmente metálico y componentes de calidad profesional
-- Todo lo necesario para grabaciones profesionales, incluyendo parabrisas de espuma de lujo y de piel sintética, y cables para dispositivos TRS y TRRS
-- Innovador sistema de montaje de aislamiento HELIX protege tu audio de golpes, choques y ruidos por manejo
 - El patrón de captación altamente direccional asegura que captures claramente a tu sujeto y nada más.
+- Increíblemente compacto y ligero, con solo 80 mm de longitud y un peso de 39 g, el VideoMicro II cabe en cualquier mochila, equipo de cámara y bolso de mano
+- Sin controles complicados y sin necesidad de pilas: capturar un sonido profesional es tan sencillo como conectar y grabar
+- Montura de zapata incorporada y gestión de cables para mantener tu configuración minimalista y ordenada.
+- Innovador sistema de montaje de aislamiento HELIX protege tu audio de golpes, choques y ruidos por manejo
+- Todo lo necesario para grabaciones profesionales, incluyendo parabrisas de espuma de lujo y de piel sintética, y cables para dispositivos TRS y TRRS
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BM8HQL6L{{</world>}}

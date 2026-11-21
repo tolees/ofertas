@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Hombre Terrex Skychaser Ax5 Hiking Shoes Collegiate Green/Grey One/Grey Five 44 2/3 EU'
-date: 2026-11-19 21:55:38
+date: 2026-11-21 02:24:54
 image: 'https://m.media-amazon.com/images/I/31I-Hu5jo4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aplicar antes de la exposición solar y renovar frecuentemente, después de nadar, sudar o secarse con una toalla.
 - Fotocorrector diario con color que ayuda a proteger contra los rayos UVB/UVA, IR-A y la polución. Formulado con Cellox-B3 Tech y moléculas correctoras dermatológicas para tratar arrugas, manchas y mejorar la elasticidad.
+- Aplicar antes de la exposición solar y renovar frecuentemente, después de nadar, sudar o secarse con una toalla.
 - Mejora arrugas, líneas de expresión y manchas. Ayuda con los signos de la edad y la elasticidad de la piel.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

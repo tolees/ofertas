@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hot Wheels Monster Trucks RC Tiger Shark Climber | Camión teledirigido de gran escala con 3 modos de juego: carreras escalada y acrobacias JFR39'
-date: 2026-11-19 06:56:32
+date: 2026-11-20 23:32:36
 image: 'https://m.media-amazon.com/images/I/51bRnV-3j3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DMWF97XF/?tag=tolees-21'
 descuento: '44.58'
-average: '44.993333333333332'
+average: '43.442499999999996'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

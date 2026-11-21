@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Composición del material: 78% algodón, 20% algodón reciclado, 2% elastano
-- El porcentaje elástico garantiza u gran comodidad
 - Pantalones chinos ajustados
+- El porcentaje elástico garantiza u gran comodidad
+- Composición del material: 78% algodón, 20% algodón reciclado, 2% elastano
 - Lavado enzimático para mayor suavidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

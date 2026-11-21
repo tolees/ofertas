@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Neutrogena Hydro Boost Fluido Hidratante SPF 50 Crema Solar Facial 50 ml | Con Ácido Hialurónico y Niacinamida Sin Fragancia No Comedogénica Protección UVA/UVB No Grasa Para Todo Tipo de Piel'
-date: 2026-11-19 08:11:32
+date: 2026-11-20 17:05:29
 image: 'https://m.media-amazon.com/images/I/41qHay4t+mL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0D9NL89YN/?tag=tolees-21'
 descuento: '66.64'
-average: '11.733999999999957'
+average: '11.664464285714244'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

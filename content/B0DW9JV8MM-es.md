@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Desigual
 - Color: Liso
-- Bolsillos laterales
 - Fit: Cargo
-- Cierre: de cremallera y botón
+- Desigual
 - Grandes bolsillos en las perneras
+- Bolsillos laterales
+- Cierre: de cremallera y botón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DW9JV8MM{{</world>}}

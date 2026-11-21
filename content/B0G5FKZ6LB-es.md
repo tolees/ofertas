@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La siguiente información se aplica a cada unidad del paquete
 - Contenido: 1 difusor y 2 recambios
-- El insecticida eléctrico líquido antimosquitos Kill Paff no tiene olor, es eficaz frente al mosquito tigre y transmisores de enfermedades tropicales
+- La siguiente información se aplica a cada unidad del paquete
 - Se puede usarse con las ventanas abiertas y la luz encendida
+- El insecticida eléctrico líquido antimosquitos Kill Paff no tiene olor, es eficaz frente al mosquito tigre y transmisores de enfermedades tropicales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G5FKZ6LB{{</world>}}

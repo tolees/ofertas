@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Botín con caña de 10 cm y tacón de 6 cm. Suela de goma antideslizante
-- [Nuestra Marca]: REFRESH con estilo fresco y juvenil. Calzado versátil y moderno diseñado para quienes buscan estar siempre a la moda sin renunciar a la comodidad.
 - Botín de mujer, de la marca Refresh. Fabricado en material que imita a la piel con detalle calado decorativo
+- [Nuestra Marca]: REFRESH con estilo fresco y juvenil. Calzado versátil y moderno diseñado para quienes buscan estar siempre a la moda sin renunciar a la comodidad.
+- Botín con caña de 10 cm y tacón de 6 cm. Suela de goma antideslizante
 - Cremallera exterior decorativa. Cierre mediante cremallera interior
 
 [🛒 Aquí!!!]({{< param buyurl >}})

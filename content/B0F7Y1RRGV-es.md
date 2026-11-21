@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Taurus - Plancha de Vapor 3200W Golpe Vapor 220g Antical Suela X-Slide'
-date: 2026-09-21 18:36:36
+title: 'Taurus Geyser Eco 3200 Plancha de Vapor 3200W Golpe 220 g/min Suela XL | Vapor continuo 50 g/min depósito 340 ml suela X-Slide antical y antigoteo'
+date: 2026-11-21 02:50:22
 image: 'https://m.media-amazon.com/images/I/31l7AAPOEsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0F7Y1RRGV-es Taurus - Plancha de Vapor 3200W Golpe Vapor 220g Antical...'
+slug: 'B0F7Y1RRGV-es Taurus Geyser Eco 3200 Plancha de Vapor 3200W Golpe 220...'
 sku: 'B0F7Y1RRGV-es'
 tags: [ '🇪🇸', ]
-actualPrice: 35.9 EUR
+actualPrice: 38.21 EUR
 currency: EUR
-price: 35.9
+price: 38.21
 comparePrice: 69.99 EUR
-prodname: 'Taurus - Plancha de Vapor 3200W Golpe Vapor 220g Antical Suela X-Slide'
+prodname: 'Taurus Geyser Eco 3200 Plancha de Vapor 3200W Golpe 220 g/min Suela XL | Vapor continuo 50 g/min depósito 340 ml suela X-Slide antical y antigoteo'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F7Y1RRGV/?tag=tolees-21'
-descuento: '48.71'
-average: '35.6933333333333'
+descuento: '45.41'
+average: '35.816097560975578'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cuenta con dos bolsillos laterales
 - Con una silueta de línea larga
 - Acabado con un cinturón
-- Cuenta con dos bolsillos laterales
 - Una gabardina informal
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

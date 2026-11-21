@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Jeans rectos de cintura baja con una cintura más ancha y detalle de 2 botones en la parte central delantera
-- El ajuste se basa en nuestro estilo icónico Venus
 - Viene en una mezclilla elástica vintage cómoda
+- El ajuste se basa en nuestro estilo icónico Venus
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FGJS5VP9{{</world>}}

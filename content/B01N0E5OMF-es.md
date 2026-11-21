@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Tiny Bear II Bunting Mono Polar para Junior Unisex Chalk talla 6/12'
-date: 2026-11-19 14:37:18
+date: 2026-11-20 23:25:05
 image: 'https://m.media-amazon.com/images/I/31omSVu8I+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

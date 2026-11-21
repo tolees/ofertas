@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Clásica puntera con forma de T
-- Horma clásica
-- Cierre de cordones
 - Empeine de ante y nailon
+- Horma clásica
+- Clásica puntera con forma de T
+- Cierre de cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DMPHYLT1{{</world>}}

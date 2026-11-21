@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Empeine textil y de malla
 - Horma clásica
 - Forro textil
 - Cierre de cordones
-- Empeine textil y de malla
 - Sistema Torsion
 
 [🛒 Comprar!!!]({{< param buyurl >}})

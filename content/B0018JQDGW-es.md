@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Recipiente en cristal borosilicato
+- Capacidad: para 8 tazas
 - Presentación: caja individual/regalo
-- Recipiente en cristal borosilicato
 - Para usar con café molido
+- Recipiente en cristal borosilicato
+- Recipiente en cristal borosilicato
 - Capacidad: para 8 tazas
 - Fabricación en Europa
-- Capacidad: para 8 tazas
 - Para usar con café molido
 
 [🛒 Aquí!!!]({{< param buyurl >}})

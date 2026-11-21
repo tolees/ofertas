@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material transpirable con zonas reguladoras de la humedad
 - Colección: Pasajeros
+- Material transpirable con zonas reguladoras de la humedad
 - Patrón: monocolor
 - Calidad suave y antibacteriana, también apto para pieles sensibles
 

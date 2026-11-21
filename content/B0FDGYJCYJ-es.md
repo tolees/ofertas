@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con una correa ajustable
 - LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
 - Tu gorra de béisbol favorita para todos los días. Hemos diseñado nuestra gorra Flexfit Housemark Logo con un fit que no pasa de moda, una correa ajustable y nuestro distintivo logo.
+- Con una correa ajustable
 - Acabada con nuestro distintivo logotipo
 - Una gorra de béisbol para el día a día
 

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - ✔️ Incluye dos paneles frontales (cristal templado y rejilla de malla)
+- ✔️ Compatible con disipadores de CPU de hasta 185mm, tarjetas gráficas de hasta 360 mm y fuentes de alimentación de hasta 220 mm
 - ✔️ Compatible con placas base de conector oculto de ASUS y MSI
 - ✔️ Admite hasta 7 ventiladores de 120 mm o 5 de 140 mm y radiadores de hasta 360 mm
-- ✔️ Compatible con disipadores de CPU de hasta 185mm, tarjetas gráficas de hasta 360 mm y fuentes de alimentación de hasta 220 mm
 - ✔️ Chasis de torre media para placas base Mini ITX, Micro ATX, ATX y E-ATX
 
 [🛒 Aquí!!!]({{< param buyurl >}})

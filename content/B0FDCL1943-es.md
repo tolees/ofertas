@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Lavable a máquina
 - Plantilla Goga Mat refrigerada por aire
+- Lavable a máquina
 - Amortiguación ultraligera
 - Slip-Ins integrados
 - Almohada para el talón

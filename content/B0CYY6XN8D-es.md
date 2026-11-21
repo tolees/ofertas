@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Capucha con cordón ajustable
 - Contiene al menos un 70% de materiales reciclados y renovables
-- Corte clásico
-- Puños y dobladillo de canalé
 - Interior cepillado
 - 70% algodón / 30% poliéster (reciclado)
 - Contiene al menos un 70% de materiales reciclados y renovables
+- Capucha con cordón ajustable
+- Corte clásico
 - Bolsillo canguro
+- Puños y dobladillo de canalé
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CYY6XN8D{{</world>}}

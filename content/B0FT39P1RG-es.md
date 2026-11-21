@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantilla textil
 - Suela de goma
+- Plantilla textil
 - Cordones
 - Empeine textil y sintético
 

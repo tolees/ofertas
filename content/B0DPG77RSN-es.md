@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Woven label
 - Material: 280 g/m2 doble de franela hecha de algodón y poliéster reciclado
+- Woven label
 - Billabong Arch logo embroidery at chest
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colgate Kit Blanqueador Max White Purple: Pasta + Sérum'
-date: 2026-11-12 14:06:50
+date: 2026-11-20 16:58:43
 image: 'https://m.media-amazon.com/images/I/41aXYtXUnxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

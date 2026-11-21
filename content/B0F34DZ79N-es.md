@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Corte clásico
+- Cordones
 - Suela de goma que no deja huella
 - Plantilla textil
-- Cordones
 - Empeine textil y sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})

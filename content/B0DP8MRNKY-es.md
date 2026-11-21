@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FUPT Tira LED TV Tira de Luces de 5m Con Pilas Para 5050 RGB color variable LED y control remoto para cine en casa cocina dormitorio salón'
-date: 2026-11-19 12:41:35
+date: 2026-11-20 21:48:56
 image: 'https://m.media-amazon.com/images/I/51QR4QDWQjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DP8MRNKY/?tag=tolees-21'
 descuento: '40.10'
-average: '8.4266666666666659'
+average: '8.3549999999999987'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

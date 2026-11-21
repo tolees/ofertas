@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Historia de intriga.
 - Dificultad progresiva.
-- Exploración de puzzles.
 - Mecánicas variadas.
+- Exploración de puzzles.
 - Desafío intelectual.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material exterior: sintético
-- Suela: goma
-- Con cordones
 - Material interior: sintético
+- Con cordones
+- Suela: goma
+- Material exterior: sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07M6ZNM4P{{</world>}}

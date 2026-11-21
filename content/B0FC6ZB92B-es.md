@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Su perfección no es casual
 - LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
 - Acabada con un emblemático diseño gráfico
+- Su perfección no es casual
 - Una prenda suave con el clásico cuello redondo que combina con todo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Corte : Corte relaxed
+- Mangas : Hombros caídos
 - Artículo : Sudadera con capucha
 - Manga : Manga larga
-- Bolsillos : Bolsillo canguro
-- Mangas : Hombros caídos
 - Cuello : Capucha
-- Corte : Corte relaxed
+- Bolsillos : Bolsillo canguro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09JSK95RR{{</world>}}

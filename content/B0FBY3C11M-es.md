@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte entallado
 - Diseño clásico de cuello redondo y manga corta
+- Corte entallado
 - Tejido de algodón suave para comodidad diaria
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Material principal: 59% algodón, 37% poliéster (100% reciclado), 3% elastano, 1% poliamida (100% reciclado)
 - Tres pares por paquete
 - Diseño con amortiguación
-- Material principal: 59% algodón, 37% poliéster (100% reciclado), 3% elastano, 1% poliamida (100% reciclado)
 - Media caña
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

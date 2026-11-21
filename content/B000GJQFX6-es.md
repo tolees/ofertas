@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 1-2/día
 - Aminoácido esencial
 - Los aminoácidos son la base de las proteínas
 - No sustituyen una dieta variada, equilibrada y estilo de vida sano
 - Apto para veganos, vegetarianos y kosher
-- 1-2/día
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B000GJQFX6{{</world>}}

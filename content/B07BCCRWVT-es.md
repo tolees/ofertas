@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'L Oréal Professionnel Metal Detox Champú Antirrotura Sin Sulfatos 300ml | Champú sin sulfatos Antirrotura. Aporta fuerza suavidad y brillo. Para todo tipo de cabello. Ideal en zonas de agua dura.'
-date: 2026-11-20 02:28:44
+date: 2026-11-21 14:34:27
 image: 'https://m.media-amazon.com/images/I/31aZAleakRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BCCRWVT/?tag=tolees-21'
 descuento: '51.10'
-average: '18.644931506849389'
+average: '18.572533333333404'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

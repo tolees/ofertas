@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre: botón
 - Blusa para mujer de la marca danesa. ONLY
+- Cierre: botón
 - 100 % algodón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

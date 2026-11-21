@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Holgado
 - Bolsillo de ojal en contraste
 - Malla de punto para mejor transpirabilidad
-- Felino PUMA
 - de punto en el frontal del calcetín
+- Felino PUMA
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B078T5XPN5{{</world>}}

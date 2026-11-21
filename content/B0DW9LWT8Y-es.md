@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - La esencia de The Art Company representada en estos zapatos. Comodidad y diseño complementado con el espíritu libre, inconformista y urbano de nuestra marca. Cálzate tus Art y sal a disfrutar del mundo. The art company shoes, metropolitan shoes.
-- Forro de Microfibra
 - REMOVABLE MICROFIBER INSOLE
+- Forro de Microfibra
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DW9LWT8Y{{</world>}}

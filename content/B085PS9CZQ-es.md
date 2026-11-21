@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye las tres expansiones, un multijugador remodelado, una IU modernizada, un editor de mapas, una galería adicional de cinemáticas y más de 7 horas de música remasterizada de Frank Klepacki.
 - Los miembros del equipo del antiguo Westwood Studios han remasterizado Command & Conquer y Red Alert en 4k en Petroglyph Games
+- Incluye las tres expansiones, un multijugador remodelado, una IU modernizada, un editor de mapas, una galería adicional de cinemáticas y más de 7 horas de música remasterizada de Frank Klepacki.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B085PS9CZQ{{</world>}}

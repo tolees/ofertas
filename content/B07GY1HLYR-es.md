@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca:dekora
-- Velas balón y bota de fútbol para decoración
 - Decoración del hogar
+- Velas balón y bota de fútbol para decoración
+- Marca:dekora
 - Country of origin:spain
-- Velas con base de metal, Accesorios para velas
 - Juegos de velas, Juegos
+- Velas con base de metal, Accesorios para velas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07GY1HLYR{{</world>}}

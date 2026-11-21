@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño de un solo compartimento
-- Cremallera principal
 - Logotipo frontal
+- Cremallera principal
+- Diseño de un solo compartimento
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08YS4VCZ4{{</world>}}

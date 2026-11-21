@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MODO DE USO: Se recomienda tomar 1 vial al día en ayunas, preferiblemente, diluido en agua, leche o zumo de fruta.
-- COMPLEMENTOS, JALEA REAL. Miel, Jalea Real, Magnesio, Extracto seco de Guaraná, Lecitina. Sin azúcares ni colorantes
-- ETIQUETAS: Este producto es apto para celíacos. Además, no contiene azúcares ni colorantes
 - PROPIEDADES: No lleva azúcares añadidos, sólo contiene edulcorante natural (glucósidos de esteviol), extraídos de las hojas de la planta Stevia rebaudiana bertoni
+- COMPLEMENTOS, JALEA REAL. Miel, Jalea Real, Magnesio, Extracto seco de Guaraná, Lecitina. Sin azúcares ni colorantes
+- MODO DE USO: Se recomienda tomar 1 vial al día en ayunas, preferiblemente, diluido en agua, leche o zumo de fruta.
 - BENEFICIOS: Ayuda a disminuir el cansancio y la fatiga
+- ETIQUETAS: Este producto es apto para celíacos. Además, no contiene azúcares ni colorantes
 - Aporte extra para cuidar el sistema inmune en el día a día. Además, Vitalpur Estudio proporciona una ayuda al estudio ayudando a mejorar la concentración
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

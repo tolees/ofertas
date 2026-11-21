@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Descubre todas las marcas de EMP!
-- Básicos
 - Camisa manga Corta con las siguientes características:
 - Ajuste : Regular
+- Descubre todas las marcas de EMP!
 - Camisa || Ajuste normal || Color intenso || Material duradero
+- Básicos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09H2M8HQJ{{</world>}}

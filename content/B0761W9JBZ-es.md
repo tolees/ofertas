@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Neutrogena Norwegian Formula Lip Protector SPF 20 2 x 4 8 g | Para labios agrietados protección UVA/UVB repara hidrata y calma con manteca de cacao aplicación incolora stick'
-date: 2026-11-18 16:34:17
+date: 2026-11-21 03:25:20
 image: 'https://m.media-amazon.com/images/I/41jRp2e+JFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0761W9JBZ/?tag=tolees-21'
 descuento: '41.19'
-average: '5.3133333333333317'
+average: '5.2728301886792437'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

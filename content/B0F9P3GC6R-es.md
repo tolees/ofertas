@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Sudadera
 - Alta calidad
 - Cómodo
-- Sudadera
 - Tecnología Dri-FIT
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

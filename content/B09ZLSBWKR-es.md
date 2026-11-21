@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Personaliza tus libros en esta vuelta al cole con este pack 16 pegatinas Minions y dale un toque personal a tu material escolar. Unas etiquetas adhesivas con el tamaño perfecto para que puedas identificar tus objetos personales
-- ERIK - Calidad y diseño es lo que nos caracteriza. Especializados en papelería, merchandising y póster con las licencias más actuales del mercado
 - Fabricado en un material de calidad con un acabado brillo que se adaptará a tus superficies
 - Unos adhesivos escolares perfectos para personalizar e identificar tus libros, libretas, agendas y todo lo que quieras
+- ERIK - Calidad y diseño es lo que nos caracteriza. Especializados en papelería, merchandising y póster con las licencias más actuales del mercado
+- Personaliza tus libros en esta vuelta al cole con este pack 16 pegatinas Minions y dale un toque personal a tu material escolar. Unas etiquetas adhesivas con el tamaño perfecto para que puedas identificar tus objetos personales
 - En su interior podrás encontrar dos hojas de 8 pegatinas a todo color con un tamañao cada una de 8x4 cm. Con este set de pegatinas escolares rectangulares podrás personalizar 16 accesorios de tu papeleria escolar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

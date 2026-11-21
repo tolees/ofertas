@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Etiqueta de G-STAR Originals en la parte delantera de la cadera
 - Bolsillos con cremallera en el muslo
-- Bragueta de cremallera
 - Bolsillos traseros
+- Bragueta de cremallera
+- Etiqueta de G-STAR Originals en la parte delantera de la cadera
 - Bolsillos insertados
 
 [🛒 Visítala!!!]({{< param buyurl >}})

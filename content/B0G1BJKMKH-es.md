@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Filtro de luz y protección de la privacidad: La textura de lino semitranslúcida suaviza la luz solar intensa, protege los muebles del blanqueamiento y, al mismo tiempo, mantiene la privacidad. Crea un ambiente cálido y acogedor sin espacios oscuros.
-- De fácil mantenimiento: lavado delicado a 30°C, reducir el centrifugado, secar a baja temperatura. No usar lejía. Planchar a una temperatura máxima de Ligera diferencia de color debido a la representación en pantalla o lotes posibles.
 - 1Diseño botánico único: gracias a la técnica de tejido jacquard de alta calidad y la impresión digital, nuestras cortinas muestran motivos vibrantes de hojas y flores. Este diseño inspirado en la naturaleza añade un toque elegante a cualquier habitación – ideal para un estilo rústico, retro o moderno en el salón, dormitorio o cocina.
-- Contenido del envío: 2 paneles por paquete (132 x 260 cm por panel). 8 ojales metálicos (4 cm de diámetro) aptos para todas las barras de cortina estándar. Fácil montaje y funcionamiento uniforme.
+- De fácil mantenimiento: lavado delicado a 30°C, reducir el centrifugado, secar a baja temperatura. No usar lejía. Planchar a una temperatura máxima de Ligera diferencia de color debido a la representación en pantalla o lotes posibles.
+- Filtro de luz y protección de la privacidad: La textura de lino semitranslúcida suaviza la luz solar intensa, protege los muebles del blanqueamiento y, al mismo tiempo, mantiene la privacidad. Crea un ambiente cálido y acogedor sin espacios oscuros.
 - Cortinas de lino natural: Nuestras cortinas florales de 15% lino y 85% poliéster combinan el encanto rústico del campo con la funcionalidad moderna. El lino proporciona una transpirabilidad natural, mientras que el poliéster garantiza resistencia a las arrugas y durabilidad – suave al tacto, cae sin esfuerzo y con poca tendencia a arrugarse.
+- Contenido del envío: 2 paneles por paquete (132 x 260 cm por panel). 8 ojales metálicos (4 cm de diámetro) aptos para todas las barras de cortina estándar. Fácil montaje y funcionamiento uniforme.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G1BJKMKH{{</world>}}

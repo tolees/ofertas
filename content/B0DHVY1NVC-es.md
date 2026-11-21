@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Parte superior de cuero y textil
 - Cierre de cordones
-- Corte regular
-- Suela de goma
 - Forro textil
+- Suela de goma
+- Corte regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHVY1NVC{{</world>}}

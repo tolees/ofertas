@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- No incluye bombilla
 - Lámpara de pie Marley en metal níquel mate con interruptor
-- Bombillas exclusivas para luminarias. Bombilla recomendada 1x GU10 máx. 5 vatios
 - La lámpara tiene una altura de 151 cm y una proyección de 39 cm. El foco se puede girar y girar, de modo que la lámpara se puede utilizar de varias maneras.
+- No incluye bombilla
+- Bombillas exclusivas para luminarias. Bombilla recomendada 1x GU10 máx. 5 vatios
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09BG2ST5W{{</world>}}

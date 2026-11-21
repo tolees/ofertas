@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Talle medio
+- Corte clásico
+- 55% algodón / 36% poliéster (reciclado) / 9% viscosa
 - Bolsillos frontales
 - Cintura elástica con cordón
 - Puños elásticos
-- 55% algodón / 36% poliéster (reciclado) / 9% viscosa
-- Corte clásico
-- Talle medio
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZXTMPBF{{</world>}}

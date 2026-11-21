@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Suela: goma
 - Material exterior: piel
-- Material interior: sintético
 - Cordones
+- Material interior: sintético
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08GPT5MKK{{</world>}}

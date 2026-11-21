@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Medidas: longitud: 525 mm, ancho: 24 mm, altura: 11.95 mm
-- Acabado: cepillado
 - Color plata
+- Medidas: longitud: 525 mm, ancho: 24 mm, altura: 11.95 mm
 - Material: Acero inoxidable
 - Tipo de cierre: cierre de langosta
+- Acabado: cepillado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B1JTYQ54{{</world>}}

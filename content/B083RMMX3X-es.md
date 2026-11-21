@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Manga corta
-- Logotipo PUMA Cat en la parte derecha del pecho
-- Algodón 100 %
 - Al comprar productos de algodón de PUMA, apoyas un cultivo de algodón más sostenible. Más información en PUMA.COM/FOREVERBETTER
 - Cuello redondo
+- Algodón 100 %
+- Manga corta
+- Logotipo PUMA Cat en la parte derecha del pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B083RMMX3X{{</world>}}

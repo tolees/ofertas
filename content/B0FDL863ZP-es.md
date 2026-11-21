@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estilo informal
 - Cuello tipo polo
+- Estilo informal
 - Manga corta
 
 [🛒 Aquí!!!]({{< param buyurl >}})

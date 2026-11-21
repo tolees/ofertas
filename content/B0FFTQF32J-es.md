@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pequeña marca en la manga; ajuste regular
 - Polo de piqué liso, cuello y puños acanalados con detalle de contraste
+- Pequeña marca en la manga; ajuste regular
 - Marca en el interior de la solapa central
 
 [🛒 Visítala!!!]({{< param buyurl >}})

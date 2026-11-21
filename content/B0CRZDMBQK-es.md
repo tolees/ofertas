@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una mirada original
 - Parte trasera con bolsillos con ribete
+- Una mirada original
 - Bolsillos insertados
 - Proporciona comodidad
 - Cierre de botones y cremallera

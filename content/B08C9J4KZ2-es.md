@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Traje de baño
 - Tiene detalles distintivos de la marca "Quiksilver"
+- Traje de baño
 - Para uso diario
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 0,27 kg de peso y 6 L de volumen
 - 100% poliamida
-- 20,5 cm de alto x 23 cm de ancho x 12,5 cm de profundidad
-- Fiambrera
+- 0,27 kg de peso y 6 L de volumen
 - Repele el agua
+- Fiambrera
+- 20,5 cm de alto x 23 cm de ancho x 12,5 cm de profundidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07V3M7LNZ{{</world>}}

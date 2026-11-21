@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela: Otros Materiales
-- Empeine: Cuero / Otros Materiales
-- Forro Y Plantilla: Otros Materiales / Textil
 - Cordones
+- Empeine: Cuero / Otros Materiales
+- Suela: Otros Materiales
 - Horma clásica
+- Forro Y Plantilla: Otros Materiales / Textil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F2GKG951{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Basic ML Cropped Tank Top Wmn
-- Logotipo impreso en la parte delantera
 - Corte corto
+- Logotipo impreso en la parte delantera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09ZV1LV64{{</world>}}

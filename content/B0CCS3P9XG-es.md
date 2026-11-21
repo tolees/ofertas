@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte superior fabricada con malla de poliéster 70% reciclado y cuello, cintas y cordones fabricados con poliéster 100% reciclado.
 - Borde de cuero recubierto de PU duradero
+- Parte superior fabricada con malla de poliéster 70% reciclado y cuello, cintas y cordones fabricados con poliéster 100% reciclado.
 - Membrana impermeable DryVent
 
 [🛒 Comprar!!!]({{< param buyurl >}})

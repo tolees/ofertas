@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Rápida, limpia y precisa.
-- Serie Acid, color azul translúcido.
-- Cinta correctora en seco con botón pulsador retráctil.
 - Correcciones sobre todo tipo de papel, no deja marcas en fotocopias o fax.
+- Serie Acid, color azul translúcido.
 - 5 mm de ancho x 6 m de largo.
+- Cinta correctora en seco con botón pulsador retráctil.
+- Rápida, limpia y precisa.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09Q5CCLQ3{{</world>}}

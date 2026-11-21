@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bolsillos laterales y un bolsillo trasero en la parte trasera
 - Cintura elástica con cordón para un ajuste cómodo
+- Bolsillos laterales y un bolsillo trasero en la parte trasera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07P12KZLK{{</world>}}

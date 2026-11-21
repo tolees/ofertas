@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte superior de malla transpirable para una comodidad y ventilación óptimas.
 - La robusta suela de goma garantiza un agarre seguro en diversas superficies.
 - Sistema de amortiguación de tensión en la entresuela para una comodidad óptima al correr.
+- Parte superior de malla transpirable para una comodidad y ventilación óptimas.
 - El elegante diseño de Nike combina rendimiento deportivo con estilo moderno.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

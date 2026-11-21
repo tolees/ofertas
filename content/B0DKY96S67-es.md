@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con logotipo
 - Correas de hombro ajustables combinadas con los bolsillos interiores y exteriores con cremallera
+- Con logotipo
 - Resistencia, versatilidad y efecto iridiscente
 
 [🛒 Visítala!!!]({{< param buyurl >}})

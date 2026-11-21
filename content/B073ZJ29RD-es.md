@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Color plata
-- Capacidad de 32 GB
 - Gracias a USB 3.0, el stick alcanza tasas de transferencia de datos de hasta 70 MB / s
 - Conector USB-C y USB 3.0
+- Capacidad de 32 GB
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B073ZJ29RD{{</world>}}

@@ -28,15 +28,15 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Vaso graduado, capacidad 1,5 l
+- Alimentación: AC 220-240 V ~ 50/60 Hz
 - 4 cuchillas de acero inoxidable
-- Dimensiones (L x H x P): 20 x 38 x 17 cm
 - Peso: 1,6 litros
+- Dispositivo de seguridad
 - Potencia: 500 W
 - Pies antideslizantes
 - 2 velocidades + pulsos
-- Vaso graduado, capacidad 1,5 l
-- Alimentación: AC 220-240 V ~ 50/60 Hz
-- Dispositivo de seguridad
+- Dimensiones (L x H x P): 20 x 38 x 17 cm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07VM9QDC2{{</world>}}

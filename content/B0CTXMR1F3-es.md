@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - ENVASE: contiene 240 comprimidos que deben conservarse en un lugar fresco y seco
-- MODO DE EMPLEO: tomar 6 comprimidos una vez al día con agua u otras bebidas durante el día o después del entrenamiento. No exceder la dosis diaria recomendada
-- COMPOSICIÓN: Essential AMINO contiene los 9 aminoácidos esenciales para el ser humano: Lisina, Triptófano, Fenilalanina, Treonina, Metionina, Leucina, Isoleucina y Valina
-- ESSENTIAL AMINO: 8 aminoácidos esenciales procedentes de la fermentación de plantas para maximizar la biodisponibilidad y minimizar los residuos nitrogenados
 - AMMINOÁCIDOS ESENCIALES: ideal para favorecer la síntesis proteica y el desarrollo de la masa muscular gracias a la relación l-leucina, l-isoleucina, l-valina de 4:1:1. Un valioso apoyo para todos los deportistas
+- ESSENTIAL AMINO: 8 aminoácidos esenciales procedentes de la fermentación de plantas para maximizar la biodisponibilidad y minimizar los residuos nitrogenados
+- COMPOSICIÓN: Essential AMINO contiene los 9 aminoácidos esenciales para el ser humano: Lisina, Triptófano, Fenilalanina, Treonina, Metionina, Leucina, Isoleucina y Valina
+- MODO DE EMPLEO: tomar 6 comprimidos una vez al día con agua u otras bebidas durante el día o después del entrenamiento. No exceder la dosis diaria recomendada
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CTXMR1F3{{</world>}}

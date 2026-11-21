@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Malla diseñada
-- Espuma viscoelástica refrigerada por aire
 - Espuma viscoelástica
 - Lavable a máquina
+- Espuma viscoelástica refrigerada por aire
+- Malla diseñada
 - Vegano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

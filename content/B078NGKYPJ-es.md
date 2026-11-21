@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CTAS LIFT CLEAN OX
 - Baja
-- 561681C
 - Para todo el año
+- CTAS LIFT CLEAN OX
 - Femenino
+- 561681C
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B078NGKYPJ{{</world>}}

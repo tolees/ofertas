@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mallas interiores
-- Tejido ripstop con inserciones de malla
-- Tecnología CLIMA365
-- Corte clásico
-- 100% poliéster (100% reciclado)
 - Bolsillos laterales con cremallera
+- Mallas interiores
+- Corte clásico
+- Tecnología CLIMA365
+- 100% poliéster (100% reciclado)
+- Tejido ripstop con inserciones de malla
 - Cintura elástica con cordón
 
 [🛒 Comprar!!!]({{< param buyurl >}})

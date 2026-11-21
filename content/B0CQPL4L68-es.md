@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hecho con materiales resistentes al agua.
 - Bandolera de 23 cm x 27 cm x 7 cm fabricada en Poliéster.
 - Compartimento principal acolchado para llevar la Tablet protegida.
+- Hecho con materiales resistentes al agua.
 - Bandolera ajustable para mayor comodidad
 - Bolsillo frontal y bolsillo trasero, ambos con cierre de cremallera para objetos más pequeños.
 

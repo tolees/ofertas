@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec Secador de Pelo Compacto IoniCare Dry&Keratin Olive. 1200W 107000RPM Motor Brushless Función Iónica Cabezal con Tecnología NutriEssence y Púas Duras Cabezal Concentrador Verde'
-date: 2026-11-11 21:13:18
+date: 2026-11-21 14:54:57
 image: 'https://m.media-amazon.com/images/I/41CE-ZRf6WL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FKT988BZ/?tag=tolees-21'
 descuento: '67.24'
-average: '27.185714285714287'
+average: '26.650000000000002'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

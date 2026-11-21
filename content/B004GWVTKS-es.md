@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Buen comportamiento viscosidad-temperatura
-- Disminuye los ruidos de funcionamiento
 - Excelente protección anticorrosiva
+- Disminuye los ruidos de funcionamiento
+- Buen comportamiento viscosidad-temperatura
 - Excelente protección contra el desgaste
 
 [🛒 Comprar!!!]({{< param buyurl >}})

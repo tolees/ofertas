@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela de goma vulcanizada
-- Mediasuela con amortiguación
-- Cierre de cordones
-- Forro textil
 - Empeine de piel sintética
+- Suela de goma vulcanizada
 - Horma clásica
+- Cierre de cordones
+- Mediasuela con amortiguación
+- Forro textil
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C59BXMZL{{</world>}}

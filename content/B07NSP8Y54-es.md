@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 2 conectores jack 3.5 hembra de 3 pines (audio y micrófono) en el otro extremo
-- Fabricado con conductores de cobre de alta calidad
 - 1 conector jack 3.5 macho de 4 pines en un extremo
+- Fabricado con conductores de cobre de alta calidad
 - Longitud: 30 cm
+- 2 conectores jack 3.5 hembra de 3 pines (audio y micrófono) en el otro extremo
 - Color: negro
 
 [🛒 Comprar!!!]({{< param buyurl >}})

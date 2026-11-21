@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Guess Core Extra Slim Tee - Camiseta Hombre Cuello Redondo Manga Larga | Camiseta de Algodón Corte Extra Slim Cuello Redondo Manga Larga Estampado Decorativo Guess Camiseta de Hombre'
-date: 2026-11-16 08:30:28
+date: 2026-11-21 04:15:47
 image: 'https://m.media-amazon.com/images/I/31StoGzc7IL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

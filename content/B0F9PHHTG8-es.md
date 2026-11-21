@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ideal para deportes y actividades informales.
 - Parte de la colección Nike Park 26
-- Fácil de combinar con diferentes conjuntos
 - Diseño clásico de cuello polo
 - Hecho de tela ligera y transpirable
+- Fácil de combinar con diferentes conjuntos
+- Ideal para deportes y actividades informales.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F9PHHTG8{{</world>}}

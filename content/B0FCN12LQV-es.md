@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Chaqueta Barbour Corta Con Cuello Camisero De Cordure, Bolsillos De Parche Con Botones Automáticos
 - Chaqueta Barbour
+- Chaqueta Barbour Corta Con Cuello Camisero De Cordure, Bolsillos De Parche Con Botones Automáticos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FCN12LQV{{</world>}}

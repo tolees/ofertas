@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Corte ajustado
 - Tejido Infinitex
 - 78% poliamida (reciclada) / 22% elastano
-- Corte ajustado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CZ4D3DBP{{</world>}}

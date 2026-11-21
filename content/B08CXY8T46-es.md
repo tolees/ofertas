@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tienen cintura alta
 - Vaqueros para mujer con un ajuste cómodo
+- Tienen cintura alta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08CXY8T46{{</world>}}

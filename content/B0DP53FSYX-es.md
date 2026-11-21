@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gallina Blanca Caldo Gourmet de Pescado con Bogavante 100% Natural 1L | Sin conservantes Bajo en Grasa y Sin Gluten'
-date: 2026-11-13 23:23:14
+date: 2026-11-21 01:46:05
 image: 'https://m.media-amazon.com/images/I/41r3iVJ-YJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DP53FSYX/?tag=tolees-21'
 descuento: '36.79'
-average: '2.1849999999999974'
+average: '2.1522222222222198'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

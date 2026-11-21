@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Recuadro de color a juego con la tapa malva pastel
-- 80 hojas con rayado 5x5
-- Papel Optik Paper: un papel exclusivo de Oxford único por su opacidad, lisura y satinado. La tinta no traspasa de un lado a otro ni se dispersa, resistente a la presión del lápiz y al borrado.
 - Formato a4+
+- 80 hojas con rayado 5x5
 - Tapa extradura, máxima resistencia y protección de las hojas, y con un tacto suave
+- Recuadro de color a juego con la tapa malva pastel
+- Papel Optik Paper: un papel exclusivo de Oxford único por su opacidad, lisura y satinado. La tinta no traspasa de un lado a otro ni se dispersa, resistente a la presión del lápiz y al borrado.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07PCDDQSV{{</world>}}

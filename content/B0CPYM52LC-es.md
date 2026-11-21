@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 100% algodón
 - Logotipo en el frente
+- 100% algodón
 - ajuste regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})

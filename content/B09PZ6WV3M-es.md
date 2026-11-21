@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Revestimiento: Sintético
 - Material exterior: Lona
+- Revestimiento: Sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09PZ6WV3M{{</world>}}

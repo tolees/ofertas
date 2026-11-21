@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logotipo del felino de PUMA en la pernera izquierda
 - dryCELL: tecnología de PUMA con propiedades repelentes de la humedad que te ayudan a mantenerte seco y cómodo
 - Tejido de elastano para una elasticidad duradera
+- Logotipo del felino de PUMA en la pernera izquierda
 - Material de compresión para mejorar el rendimiento
 
 [🛒 Aquí!!!]({{< param buyurl >}})

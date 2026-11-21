@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ángulo de liberación: 10 grados.
-- Hecho de latón de alta resistencia.
-- Patrón de 2 pernos
-- Ajuste de 2 mm izquierdo y derecho.
 - Cuñas incluidas.
+- Patrón de 2 pernos
+- Hecho de latón de alta resistencia.
+- Ajuste de 2 mm izquierdo y derecho.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07GSHH8QJ{{</world>}}

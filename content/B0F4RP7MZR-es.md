@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 100% algodón
+- Cuello redondo
 - Gran logotipo de las 3 bandas en el pecho
 - Corte clásico
-- Cuello redondo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F4RP7MZR{{</world>}}

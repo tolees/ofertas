@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Contiene al menos un 70% de material reciclado y renovable
 - Cierre de cordones
 - Bolsillos laterales
-- Contiene al menos un 70% de material reciclado y renovable
-- Bolsillos tipo cargo
 - Corte clásico
 - 70% algodón / 30% poliéster (reciclado)
+- Bolsillos tipo cargo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D1NNLGQ1{{</world>}}

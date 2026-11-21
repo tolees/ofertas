@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'POCO C95 Pro smartphone de 8+256 GB azul 7500 mAh y carga de 45 W | Pantalla inmersiva de 6 9" a 120 Hz potente Helio G91-Ultra HyperOS 3'
-date: 2026-11-19 08:13:49
+date: 2026-11-21 01:41:14
 image: 'https://m.media-amazon.com/images/I/41GpGh-8LqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0HGGDSN4T/?tag=tolees-21'
 descuento: '36.37'
-average: '233.23333333333335'
+average: '231.43846153846155'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

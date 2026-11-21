@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Carrete para manguera
-- Carrete de bobinado
 - Para instalar en la pared
+- Carrete de bobinado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B000PC2AZQ{{</world>}}

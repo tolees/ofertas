@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte recto de inspiración vintage con un talle ultra alto y un ajuste espacioso a través de las piernas
-- 100% algodón
 - Corte en un aspecto abierto de mezclilla rígida azul pepe desteñido
+- 100% algodón
+- Corte recto de inspiración vintage con un talle ultra alto y un ajuste espacioso a través de las piernas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FFTVPPWC{{</world>}}

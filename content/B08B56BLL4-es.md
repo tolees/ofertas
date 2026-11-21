@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Asiento basculable
+- Pistón de clase 4
 - Ruedas de nailon y base de metal
 - Materiales premium y extra suaves
-- Pistón de clase 4
 - Reposabrazos ajustable 4D
 
 [🛒 Comprar!!!]({{< param buyurl >}})

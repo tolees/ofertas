@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela de tracción flexible
 - Ajuste relajado para un ajuste cómodo y espacioso en los dedos y el antepié
+- Suela de tracción flexible
 - Parte superior de malla diseñada con cordones en la parte delantera
 - Entresuela de plataforma bien acolchada para mayor apoyo
 

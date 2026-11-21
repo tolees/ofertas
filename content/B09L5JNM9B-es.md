@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Padded Insole
 - Classic Fit
+- Padded Insole
 - Padded Collar
 - Puma Branding
 

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compatible con todos los volantes add-on de Thrustmaster
+- Compatible con los juegos de pedales Thrustmaster T-LCM Pedals, T3PM, T3PA y T3PA-PRO (se venden por separado)
 - Fuente de alimentación Turbo Power para el impresionante servomotor de 40 vatios de la base
 - Tecnología magnética patentada H.E.A.R.T para lograr una precisión quirúrgica que no disminuirá con el tiempo
+- Compatible con todos los volantes add-on de Thrustmaster
 - Compatible con PC
 - Servomotor sin escobillas que produce un Force Feedback potente, preciso y sensible
-- Compatible con los juegos de pedales Thrustmaster T-LCM Pedals, T3PM, T3PA y T3PA-PRO (se venden por separado)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09HV6T1XK{{</world>}}

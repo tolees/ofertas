@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Sin tacon
-- Cierre con tirador
 - Punto redondo
+- Cierre con tirador
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DSR17VRN{{</world>}}

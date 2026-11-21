@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro: por defecto
-- Género: Pelota
-- Marca: Hummel
-- Extras: por defecto
 - Equipo: default
+- Marca: Hummel
+- Género: Pelota
+- Forro: por defecto
+- Extras: por defecto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D5DD365X{{</world>}}

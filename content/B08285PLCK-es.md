@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Slip interior de malla y cordón de ajuste en la cintura
 - Tipo de fábrica: 100% Poliéster
-- Longitud 38 cm - corto
-- Bolsillos de acceso lateral
+- Slip interior de malla y cordón de ajuste en la cintura
 - Bolsillo trasero
+- Bolsillos de acceso lateral
+- Longitud 38 cm - corto
 - Short de natación para hombre
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

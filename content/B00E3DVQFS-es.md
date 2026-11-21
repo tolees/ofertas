@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Se incluye: x1 paquete de 4 pilas recargables Duracell, tamaño: AA, capacidad: 2500 mAh, voltaje: 1,2 V, tipo: NiMH, longitud: 50,5 mm, diámetro: 14,5 mm
-- NUESTRA PILA RECARGABLE N.º 1 EN DURACIÓN POR CARGA*: Aumenta la vida útil de los dispositivos de alto consumo con estas potentes pilas de 2500 mAh AA NiMH de Duracell
-- EMBALAJE SOSTENIBLE: El embalaje de las pilas con 0 % de plástico es 100 % reciclable
 - * Para pilas recargables de tamaño AA, por carga en el mismo dispositivo, hasta las primeras 300 cargas. ** Las pilas no utilizadas son recargables tras 10 años de almacenamiento. Garantía comercial. *** Retienen hasta el 80 % de la carga tras 12 meses, cuando no están en uso
-- 10 AÑOS DE VIDA ÚTIL GARANTIZADA EN SU EMBALAJE**
 - MANTIENEN LA CARGA HASTA 12 MESES, cuando no están en uso***. Vienen precargadas y listas para su uso
+- EMBALAJE SOSTENIBLE: El embalaje de las pilas con 0 % de plástico es 100 % reciclable
+- Se incluye: x1 paquete de 4 pilas recargables Duracell, tamaño: AA, capacidad: 2500 mAh, voltaje: 1,2 V, tipo: NiMH, longitud: 50,5 mm, diámetro: 14,5 mm
 - DISFRUTA DE HORAS DE USO EN DISPOSITIVOS DE ALTO RENDIMIENTO: Con cientos de ciclos de recarga, consigue horas y horas de potencia para tus mandos de videojuegos inalámbricos, juguetes y cámaras digitales. Aptas para dispositivos que funcionan con pilas AA según recomendación del fabricante.
+- NUESTRA PILA RECARGABLE N.º 1 EN DURACIÓN POR CARGA*: Aumenta la vida útil de los dispositivos de alto consumo con estas potentes pilas de 2500 mAh AA NiMH de Duracell
+- 10 AÑOS DE VIDA ÚTIL GARANTIZADA EN SU EMBALAJE**
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00E3DVQFS{{</world>}}

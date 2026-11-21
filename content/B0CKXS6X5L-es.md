@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mediasuela de EVA
-- Forro textil
 - Empeine textil con puntera reforzada
+- Forro textil
+- Mediasuela de EVA
 - Cierre de cordones
 - Horma clásica
 

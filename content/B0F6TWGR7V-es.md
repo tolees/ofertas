@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - ● Un vibrante mundo en 2D – Explora un reino bellamente ilustrado, repleto de cultos de magos, criaturas mágicas y secretos ocultos.
+- ● Elecciones dinámicas – Hazte amigo o traiciona a magos de élite, moldeando tus relaciones e influyendo en la historia.
 - ● Hechicería caótica – Domina una gran variedad de hechizos, pero ten cuidado: lanzar magia puede provocar consecuencias impredecibles y, a menudo, hilarantes.
 - Folly of The Wizards Edición Estandar - Nintendo Switch
-- ● Elecciones dinámicas – Hazte amigo o traiciona a magos de élite, moldeando tus relaciones e influyendo en la historia.
 - ● Rejugabilidad infinita – Vive mazmorras generadas de forma procedimental, colecciona más de 100 objetos únicos y explora 10 regiones diversas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

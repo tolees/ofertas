@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'L Oréal Paris Revitalift Filler Crema Hidratante Día Nº1 con SPF 50 50ml'
-date: 2026-11-10 09:02:13
+date: 2026-11-20 16:16:15
 image: 'https://m.media-amazon.com/images/I/41A77iDPlUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B094TYNC9T/?tag=tolees-21'
 descuento: '46.29'
-average: '14.600427350427355'
+average: '14.561764705882357'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

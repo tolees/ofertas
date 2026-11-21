@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Desodorante y antitranspirante formulado con aloe vera ideal para pieles sensibles: mayor eficacia y máximo respeto para la piel.
-- Tecnología DeoControl Soft Skin: - Extracto de Boswellia como activo antiirritante y antiinflamatorio - Activo MicroControl: equilibra la flora cutánea para regular el olor corporal - Extracto vegetal "talc free" como astringente - Con antritranspirantes de última generación que ofrecen un máximo respeto para la piel
 - Sin alcohol Sin talco: no obstruye el poro Sin colorantes
+- Tecnología DeoControl Soft Skin: - Extracto de Boswellia como activo antiirritante y antiinflamatorio - Activo MicroControl: equilibra la flora cutánea para regular el olor corporal - Extracto vegetal "talc free" como astringente - Con antritranspirantes de última generación que ofrecen un máximo respeto para la piel
 - Hipoalergénico Testado dermatológicamente Eficacia 24h
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

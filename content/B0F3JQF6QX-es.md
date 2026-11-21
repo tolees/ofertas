@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Acción para un jugador. Usa contramedidas (tácticas defensivas y armas) para protegerte y derrotar a los enemigos.
 - Compatible con las consolas Atari (2600+, 7800+ y 7800)
 - Combate intenso y de alta velocidad.
 - Múltiples sistemas de armas para elegir.
 - Imágenes clásicas de pixel art.
+- Acción para un jugador. Usa contramedidas (tácticas defensivas y armas) para protegerte y derrotar a los enemigos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F3JQF6QX{{</world>}}

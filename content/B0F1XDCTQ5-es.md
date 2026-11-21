@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantilla textil sintética
 - Horma clásica
-- Cordones
 - Empeine de piel
+- Plantilla textil sintética
+- Cordones
 - Suela de goma Cold Cement
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

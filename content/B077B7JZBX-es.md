@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Visión Nocturna por infrarrojos
 - Indicador visual del nivel acústico, notificaciones y control de sonido, movimiento y temperatura
+- Grabación de vídeo y toma de imágenes manuales
+- Visión Nocturna por infrarrojos
 - Tecnología inalámbrica 2.4GHz FHSS (para visualización local) y conectividad inalámbrica wifi (para una visualización remota)
 - Alcance de hasta 300 m o convertir su smartphone o tableta conectados a internet en una cámara vigilabebés con vídeo para controlar a su bebé desde cualquier lugar.
-- Grabación de vídeo y toma de imágenes manuales
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B077B7JZBX{{</world>}}

@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Horma clásica
-- Amortiguación LIGHTMOTION
 - Suela Adiwear
-- Cierre de cordones
-- Forro textil y sintético
-- Empeine de malla sintética y textil
 - Peso: 291 g (talla 42 2/3)
+- Horma clásica
+- Forro textil y sintético
+- Amortiguación LIGHTMOTION
 - Drop: 9 mm (talón: 33 mm / antepié: 24 mm)
+- Empeine de malla sintética y textil
+- Cierre de cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DHXJKHQ4{{</world>}}

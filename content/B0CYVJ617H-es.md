@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre de cordones
 - Plantilla OrthoLite
-- Empeine de malla con refuerzos sintéticos
-- Amortiguación LIGHTMOTION
+- Cierre de cordones
 - Horma clásica
+- Amortiguación LIGHTMOTION
+- Empeine de malla con refuerzos sintéticos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CYVJ617H{{</world>}}

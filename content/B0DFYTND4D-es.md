@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo TNF a base de agua en el pecho y el hombro.
 - Cuello acanalado con pequeño triángulo, dobladillo y puños acanalados.
+- Logotipo TNF a base de agua en el pecho y el hombro.
 - Ajuste regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- para la piel seca a muy seca
 - Dermocosméticos de la Farmacia (PZN: 11678159)
 - Loción para aplicar sobre la piel
 - cuidado médico de la piel de alta calidad
-- para la piel seca a muy seca
 - Fabricante: Beiersdorf AG Eucerin, Deutschland
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tanga de goma colgada en la caja de zapatos y logotipo clásico en la tanga y la plantilla
 - 80 % goma, 20 % polvo de calcio
 - Bay Beach Sun W Sandalia con suela de EVA
+- Tanga de goma colgada en la caja de zapatos y logotipo clásico en la tanga y la plantilla
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FFV7BVD8{{</world>}}

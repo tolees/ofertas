@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Fire TV Cube Última generación | Reproductor multimedia en streaming con control por voz a través de Alexa Wi-Fi 6E y Ultra HD 4K encuentra series más rápido con Alexa+'
-date: 2026-11-17 10:22:33
+date: 2026-11-21 02:24:45
 image: 'https://m.media-amazon.com/images/I/31NhjAxevIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09BZWZS6S-es Amazon Fire TV Cube Última generación | Reproductor...'
 sku: 'B09BZWZS6S-es'
 tags: [ '🇪🇸', ]
-actualPrice: 129.99 EUR
+actualPrice: 123.14 EUR
 currency: EUR
-price: 129.99
+price: 123.14
 comparePrice: 229.99 EUR
 prodname: 'Amazon Fire TV Cube Última generación | Reproductor multimedia en streaming con control por voz a través de Alexa Wi-Fi 6E y Ultra HD 4K encuentra series más rápido con Alexa+'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09BZWZS6S/?tag=tolees-21'
-descuento: '43.48'
-average: '129.7361344537795'
+descuento: '46.46'
+average: '129.62710743801455'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

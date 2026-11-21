@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño ligero
 - zapatos de skate
+- Diseño ligero
 - Estilo retro
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Manga: Larga
-- Bolsillos frontales
-- Color: Multicolor
 - Cierre: de Botón
+- Color: Multicolor
 - Desigual
 - Cuello: de Camisa
+- Manga: Larga
+- Bolsillos frontales
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DW9HYK7H{{</world>}}

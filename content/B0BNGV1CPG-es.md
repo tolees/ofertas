@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre de botón y cremallera
-- Corte de pierna ancha
 - Tiro medio con elástico
-- Composición del material: 80% algodón, 20% poliéster
+- Cierre de botón y cremallera
 - Jeans holgados
+- Corte de pierna ancha
+- Composición del material: 80% algodón, 20% poliéster
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BNGV1CPG{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pintalabios cremoso mate permanente
 - Su fórmula combina la tecnología de pigmentos intensos para un acabado mate
 - Tiene una textura cremosa hidratante que aguanta todo el día sin resecar
+- Pintalabios cremoso mate permanente
 - Pintalabios de larga duración, hidratación y suavidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo de metal
-- Ojales de
-- Mezcla de piel nobuck y nailon balístico
 - Cordones redondos
 - Forro Shearling
+- Mezcla de piel nobuck y nailon balístico
+- Logotipo de metal
+- Ojales de
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B098F95PDC{{</world>}}

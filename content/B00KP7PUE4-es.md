@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Agradable olor
 - Incluye lendrera
 - Actúa de forma mecánica ahogando y deshidratando el piojo, de esta forma es menos probable que se generen resistencias al producto
 - La fórmula de doble acción del Champú Paranix 2en1 no solo ahoga los piojos y las liendres sino que también los deshidrata
 - Resulta cómodo de utilizar porque al mismo tiempo lava el cabello
+- Agradable olor
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00KP7PUE4{{</world>}}

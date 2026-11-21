@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- En la parte interior de la portada encontramos una cuadrícula pensada para anotar en ella el horario del curso escolar.
-- Libreta A4 con tapa extradura y encuadernación en espiral, con 240 páginas cuadriculadas y microperforadas, en su interior, lo que facilita arrancar sus páginas para archivarlas después en un carpesano.
 - Cuenta con la certificación FSC, que garantiza que ha sido fabricada con papel proveniente de bosques gestionados de forma responsable.
 - Además, incluye una hoja de pegatinas.
+- Libreta A4 con tapa extradura y encuadernación en espiral, con 240 páginas cuadriculadas y microperforadas, en su interior, lo que facilita arrancar sus páginas para archivarlas después en un carpesano.
+- En la parte interior de la portada encontramos una cuadrícula pensada para anotar en ella el horario del curso escolar.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F7GP85ZN{{</world>}}

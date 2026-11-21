@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Adecuado para regalar
-- Sensación cálida en el ambiente
 - Vela aromática
+- Sensación cálida en el ambiente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07DJ2CD31{{</world>}}

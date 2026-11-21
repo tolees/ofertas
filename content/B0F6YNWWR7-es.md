@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material principal: felpa francesa
 - Cierre: cremallera
+- Corte: estándar
 - Cuello: cuello alto
 - Manga larga
-- Corte: estándar
+- Material principal: felpa francesa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F6YNWWR7{{</world>}}
