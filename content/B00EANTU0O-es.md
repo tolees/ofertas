@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'Pepe-jeans'
+date: 2026-08-30 22:18:12
+image: 'https://m.media-amazon.com/images/I/31-q3jUEf3L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B00EANTU0O-es Pepe-jeans'
+sku: 'B00EANTU0O-es'
+tags: [ '🇪🇸', ]
+actualPrice: 12.86 EUR
+currency: EUR
+price: 12.86
+comparePrice: 29.9 EUR
+prodname: 'Pepe-jeans'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B00EANTU0O/?tag=tolees-21'
+descuento: '56.99'
+average: '15.6777777777779'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- MANGA CORTA: El cuello redondo añade un toque de elegancia y es óptima para cualquier ocasión
+- DETALLES DE PEPE JEANS: Distínguete con el maxi logo PEPE JEANS impreso en la parte delantera, para mostrar tu estilo con confianza
+- T-SHIRT REGULAR FIT: Con un ajuste regular, esta camiseta ofrece un ajuste clásico y versátil
+- Materiales sostenibles: fabricada íntegramente en algodón sostenible, esta camiseta no solo es cómoda, sino también respetuosa con el medio ambiente
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B00EANTU0O{{</world>}}

@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'BIC Bolgrafo de Gel Punta Media 0 7 mm Tinta de Secado Ultrarrpido - Color Negro paquete de 12 uds'
+date: 2026-09-08 09:34:09
+image: 'https://m.media-amazon.com/images/I/51e3LItJgSL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B07822JQTH-es BIC Bolgrafo de Gel Punta Media 0 7 mm Tinta de Secado...'
+sku: 'B07822JQTH-es'
+tags: [ '🇪🇸', ]
+actualPrice: 10.71 EUR
+currency: EUR
+price: 10.71
+comparePrice: 17.05 EUR
+prodname: 'BIC Bolgrafo de Gel Punta Media 0 7 mm Tinta de Secado Ultrarrpido - Color Negro paquete de 12 uds'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B07822JQTH/?tag=tolees-21'
+descuento: '37.18'
+average: '10.86625'
+---
+
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Este bolígrafo de gel de punta media cuenta con una tinta de secado ultrarrápido que no gotea ni mancha, ideal para personas zurdas.
+- Esta caja contiene 12 bolígrafos en el clásico color negro.
+- El agarre integral del cuerpo se ha diseñado para optimizar el manejo y proporcionar el máximo confort.
+- Tiene un práctico sistema de punta retráctil con un solo clic.
+- Esta tinta gel luminosa se desliza por la página con una fluidez inusual
+
+[🛒 Visítala!!!]({{< param buyurl >}})
+{{<world>}}B07822JQTH{{</world>}}

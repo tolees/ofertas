@@ -1,0 +1,35 @@
+---
+layout: post
+title: 'Adidas Unisex Adulto Mercedes - AMG Petronas Formula One Team Snapback Star Trucker Cap Black/White XS'
+date: 2026-05-28 19:41:06
+image: 'https://m.media-amazon.com/images/I/41ediIM20nL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0DB2FVS5L-es Adidas Unisex Adulto Mercedes - AMG Petronas Formula One...'
+sku: 'B0DB2FVS5L-es'
+tags: [ '🇪🇸', ]
+actualPrice: 19.48 EUR
+currency: EUR
+price: 19.48
+comparePrice: 40.0 EUR
+prodname: 'Adidas Unisex Adulto Mercedes - AMG Petronas Formula One Team Snapback Star Trucker Cap Black/White XS'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0DB2FVS5L/?tag=tolees-21'
+descuento: '51.30'
+average: '21.4316666666667'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- 92% poliéster (reciclado) / 8% elastano
+- Visera curvada
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B0DB2FVS5L{{</world>}}

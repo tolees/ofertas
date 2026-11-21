@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'PUMA teamRISE Short Prism Violet Whi USS'
+date: 2026-08-17 09:18:27
+image: 'https://m.media-amazon.com/images/I/31tytz2aTWL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B096B3QJBX-es PUMA teamRISE Short Prism Violet Whi USS'
+sku: 'B096B3QJBX-es'
+tags: [ '🇪🇸', ]
+actualPrice: 10.49 EUR
+currency: EUR
+price: 10.49
+comparePrice: 17.95 EUR
+prodname: 'PUMA teamRISE Short Prism Violet Whi USS'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B096B3QJBX/?tag=tolees-21'
+descuento: '41.56'
+average: '10.49'
+---
+
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Ropa deportiva Multicolor de la marca Puma
+- Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
+- Los productos deportivos de la marca Puma están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
+- Pantalón corto teamRISE Short Prism Violet-Puma Whi
+- Pantalón corto para practicar Tiempo libre y sportwear de unisex adulto
+
+[🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B096B3QJBX{{</world>}}

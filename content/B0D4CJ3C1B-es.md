@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Columbia Women s Newton Wander Waterproof Mid Rise Trekking and Hiking Boots Elk/Sunset Red 3'
+date: 2026-08-28 05:14:38
+image: 'https://m.media-amazon.com/images/I/31NCHEp6KTL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0D4CJ3C1B-es Columbia Women s Newton Wander Waterproof Mid Rise...'
+sku: 'B0D4CJ3C1B-es'
+tags: [ '🇪🇸', ]
+actualPrice: 59.7 EUR
+currency: EUR
+price: 59.7
+comparePrice: 120.0 EUR
+prodname: 'Columbia Women s Newton Wander Waterproof Mid Rise Trekking and Hiking Boots Elk/Sunset Red 3'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0D4CJ3C1B/?tag=tolees-21'
+descuento: '50.25'
+average: '64.1'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Con una parte superior de ante y un diseño transpirable Omni-Tech, así como goma de tracción Omni-Grip para una mayor estabilidad.
+- Contenido: 1x Columbia Bota de Montaña Newton Wander para Mujer, Talla: 36 EU, Color: Marrón
+- Estas botas, que combinan un diseño atrevido con la tecnología más avanzada, son perfectas para las aventuras en la naturaleza.
+- Con una entresuela Techlite, cúpulas de deflexión y ranuras flexibles para mayor comodidad, puedes estar preparado para cualquier aventura.
+- Botas de senderismo Columbia Newton Wander para mujer, fabricadas para senderos escarpados y condiciones húmedas, ideales para aventuras emocionantes.
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B0D4CJ3C1B{{</world>}}

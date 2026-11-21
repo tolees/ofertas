@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'Levi s 501 Original Shorts Pantalones Cortos Hombre 5 PM Shorts At The Mission 28W'
+date: 2026-11-02 20:47:33
+image: 'https://m.media-amazon.com/images/I/318cZu1WHBL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0CNHPSSNL-es Levi s 501 Original Shorts Pantalones Cortos Hombre 5 PM...'
+sku: 'B0CNHPSSNL-es'
+tags: [ '🇪🇸', ]
+actualPrice: 25.8 EUR
+currency: EUR
+price: 25.8
+comparePrice: 65.0 EUR
+prodname: 'Levi s 501 Original Shorts Pantalones Cortos Hombre 5 PM Shorts At The Mission 28W'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0CNHPSSNL/?tag=tolees-21'
+descuento: '60.31'
+average: '28.7066666666667'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B0CNHPSSNL{{</world>}}

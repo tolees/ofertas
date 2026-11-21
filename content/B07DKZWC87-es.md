@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Columbia Gorra Unisex PFG Fish Flag Mesh Snap Back'
+date: 2026-08-15 08:44:11
+image: 'https://m.media-amazon.com/images/I/41uMH1MfD5S._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B07DKZWC87-es Columbia Gorra Unisex PFG Fish Flag Mesh Snap Back'
+sku: 'B07DKZWC87-es'
+tags: [ '🇪🇸', ]
+actualPrice: 14.14 EUR
+currency: EUR
+price: 14.14
+comparePrice: 35.0 EUR
+prodname: 'Columbia Gorra Unisex PFG Fish Flag Mesh Snap Back'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B07DKZWC87/?tag=tolees-21'
+descuento: '59.60'
+average: '12.368'
+---
+
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Material exterior: 98% algodón, 2% elastán
+- Contenido: 1x Columbia Gorra Unisex PFG Fish Flag Mesh Snap Back, Color: Titanium, White (Gris), Talla: Talla única
+- PFG Fish Flag Mesh Snapback cuenta con una parte posterior de malla transpirable para mejorar el flujo de aire, manteniéndote fresco durante tus aventuras, adornada con el distintivo diseño de la bandera del pez.
+- Diseñado para la pesca, pero se puede llevar para otras aventuras y salidas por la ciudad
+- Cierre a presión ajustable, ajuste de corona estándar, con el diseño de bandera de pez exclusivo de Columbia
+
+[🛒 Visítala!!!]({{< param buyurl >}})
+{{<world>}}B07DKZWC87{{</world>}}

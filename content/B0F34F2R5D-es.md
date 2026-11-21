@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'UA Assert 11'
+date: 2026-07-31 23:46:22
+image: 'https://m.media-amazon.com/images/I/31wkWzEOsgL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0F34F2R5D-es UA Assert 11'
+sku: 'B0F34F2R5D-es'
+tags: [ '🇪🇸', ]
+actualPrice: 38.99 EUR
+currency: EUR
+price: 38.99
+comparePrice: 65.0 EUR
+prodname: 'UA Assert 11'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0F34F2R5D/?tag=tolees-21'
+descuento: '40.02'
+average: '38.99'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Tipo de cordón: Atado estándar
+- Suela exterior de goma duradera que aporta tracción y durabilidad con ranuras flexibles estratégicamente colocadas para ayudar en el despegue
+- Parte superior de malla deportiva con revestimientos de piel resistentes para una mayor dimensión y sujeción en la parte media del pie
+- Amortiguación Charged+ en la mediasuela para una suavidad y una comodidad inigualables durante todo el día
+- Plantilla suave y antimicrobiana para una comodidad superior que se adapta al pie
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B0F34F2R5D{{</world>}}

@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Rimmel London | Multitasker Bronzing Stick | Corrector de maquillaje | Tono Tan 003 | 4.5g'
+date: 2026-07-30 11:19:17
+image: 'https://m.media-amazon.com/images/I/31WvinnR4DL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0DNTWD8PL-es Rimmel London | Multitasker Bronzing Stick | Corrector de...'
+sku: 'B0DNTWD8PL-es'
+tags: [ '🇪🇸', ]
+actualPrice: 5.63 EUR
+currency: EUR
+price: 5.63
+comparePrice: 15.9 EUR
+prodname: 'Rimmel London | Multitasker Bronzing Stick | Corrector de maquillaje | Tono Tan 003 | 4.5g'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0DNTWD8PL/?tag=tolees-21'
+descuento: '64.59'
+average: '7.865'
+---
+
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Úsalo solo o añádelo a tu rutina de maquillaje
+- Bronzer y controur stick para conseguir un efecto esculpido y bronceado glow
+- Viene en formato stick para que te lo puedas llevar a todas partes
+- Fórmula ultra cremosa y muy fácil de difuminar
+- Con vitamina C y E para conseguir una piel más suave e hidratada
+
+[🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B0DNTWD8PL{{</world>}}

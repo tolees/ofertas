@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'OPI Infinite Shine Base Coat Efecto Gel Base Coat para Uñas de Larga Duración con Tecnología Precurada de Gel 15 ml'
+date: 2026-08-09 22:44:41
+image: 'https://m.media-amazon.com/images/I/41bgH7kbvCL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0CRFRXWNL-es OPI Infinite Shine Base Coat Efecto Gel Base Coat para...'
+sku: 'B0CRFRXWNL-es'
+tags: [ '🇪🇸', ]
+actualPrice: 8.69 EUR
+currency: EUR
+price: 8.69
+comparePrice: 21.25 EUR
+prodname: 'OPI Infinite Shine Base Coat Efecto Gel Base Coat para Uñas de Larga Duración con Tecnología Precurada de Gel 15 ml'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0CRFRXWNL/?tag=tolees-21'
+descuento: '59.11'
+average: '8.69'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- OPI: Para profesionales y para cuidarte en casa, con colores atrevidos y productos que miman tus uñas. El regalo perfecto para un cumpleaños, un detalle especial o simplemente para darte un capricho.
+- EFECTO GEL: Un esmalte con acabado efecto gel y la comodidad de un esmalte tradicional. Sin lámpara UV, sin complicaciones: color intenso que no se desvanece y aplicación uniforme gracias a nuestro pincel OPI Pro-Wide.
+- MODO DE USO: Aplica una capa de Infinite Shine Base Coat, seguida de dos capas finas de color y sella tu manicura con una capa de Infinite Shine Top Coat.
+- ESMALTE DE UÑAS DE LARGA DURACIÓN: Un esmalte de larga duración, perfecto para brillar en temporada de fiestas. Tu manicura, impecable día tras día, sin perder el brillo, ni el esmalte.
+- ESMALTE DE UÑAS: Disfruta de la duración de una manicura efecto gel, ¡sin complicaciones! Su tecnología de gel precurado ofrece hasta 11 días de color impecable, con la comodidad de un esmalte OPI tradicional.
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B0CRFRXWNL{{</world>}}
