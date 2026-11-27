@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Rimmel London Kind & Free Multi-Stick 001 - Caramel Dusk 5g'
+date: 2026-08-25 07:02:23
+image: 'https://m.media-amazon.com/images/I/21qsLHk1GdL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0C7WH3YY7-es Rimmel London Kind & Free Multi-Stick 001 - Caramel Dusk 5g'
+sku: 'B0C7WH3YY7-es'
+tags: [ '🇪🇸', ]
+actualPrice: 7.95 EUR
+currency: EUR
+price: 7.95
+comparePrice: 15.06 EUR
+prodname: 'Rimmel London Kind & Free Multi-Stick 001 - Caramel Dusk 5g'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0C7WH3YY7/?tag=tolees-21'
+descuento: '47.21'
+average: '7.639'
+---
+
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Para un color construible que puedes controlar, añade capas para intensidad
+- Fórmula nutritiva e hidratante
+- Fórmula 100% vegana, respetuosas con los animales y con el planeta, libre de fragancias, aceites e ingredientes de origen animal
+- Descubre los 5 tonos disponibles
+- Fácil de aplicar en párpados, mejillas y labios
+
+[🛒 Visítala!!!]({{< param buyurl >}})
+{{<world>}}B0C7WH3YY7{{</world>}}

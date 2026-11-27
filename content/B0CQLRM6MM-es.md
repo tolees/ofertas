@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'Munich Gresca 2.0 01 Zapatillas Casual para Hombre Adulto Azul 39 EU'
+date: 2026-11-08 14:26:23
+image: 'https://m.media-amazon.com/images/I/31PA08TLakL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0CQLRM6MM-es Munich Gresca 2.0 01 Zapatillas Casual para Hombre Adulto...'
+sku: 'B0CQLRM6MM-es'
+tags: [ '🇪🇸', ]
+actualPrice: 47.5 EUR
+currency: EUR
+price: 47.5
+comparePrice: 95.0 EUR
+prodname: 'Munich Gresca 2.0 01 Zapatillas Casual para Hombre Adulto Azul 39 EU'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0CQLRM6MM/?tag=tolees-21'
+descuento: '50.00'
+average: '47.5'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B0CQLRM6MM{{</world>}}

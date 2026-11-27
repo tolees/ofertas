@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Sneakers Beige Tipo Espadrille para Mujer LIZARDA'
+date: 2026-08-15 15:18:47
+image: 'https://m.media-amazon.com/images/I/41WyuQ3pLOL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0999GHF6N-es Sneakers Beige Tipo Espadrille para Mujer LIZARDA'
+sku: 'B0999GHF6N-es'
+tags: [ '🇪🇸', ]
+actualPrice: 39.96 EUR
+currency: EUR
+price: 39.96
+comparePrice: 69.95 EUR
+prodname: 'Sneakers Beige Tipo Espadrille para Mujer LIZARDA'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0999GHF6N/?tag=tolees-21'
+descuento: '42.87'
+average: '35.34875'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- MATERIALES RECICLADOS - Para todo tipo de ocasiones; Fabricadas con materiales reciclados y transpirables que ofrecen frescura y bienestar, además de contribuir al cuidado del medio ambiente con procesos sostenibles
+- DISEÑO MODERNO Y FUNCIONAL - Zapatos Gioseppo; Diseñadas con materiales resistentes y acabados que aportan un toque de sofisticación, pensadas para cualquier ocasión con estilo y funcionalidad
+- GENIALES PARA COMBINAR CON CUALQUIER LOOK - Zapatos confortables; Pensadas para mujeres dinámicas que buscan una combinación de estilo y funcionalidad, pensadas para cualquier ocasión desde el día hasta la noche
+- CONFORT EN TODO MOMENTO - Glamurosas y cómodas; Su plantilla ergonómica y acolchada garantiza confort en cada pisada, permitiendo un uso prolongado sin molestias, idóneo para quienes buscan comodidad todo el día
+- DISEÑO ESPAÑOL - Gioseppo presenta una propuesta de calzado creada en España, destacando por su diseño cuidado y materiales resistentes, idóneoes para cualquier ocasión
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B0999GHF6N{{</world>}}

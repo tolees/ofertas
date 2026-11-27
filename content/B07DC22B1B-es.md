@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'Puma Vikky Stacked L Zapatillas Mujer White White 38 EU'
+date: 2026-11-22 20:33:56
+image: 'https://m.media-amazon.com/images/I/31IK2bJ8hZL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B07DC22B1B-es Puma Vikky Stacked L Zapatillas Mujer White White 38 EU'
+sku: 'B07DC22B1B-es'
+tags: [ '🇪🇸', ]
+actualPrice: 29.18 EUR
+currency: EUR
+price: 29.18
+comparePrice: 64.95 EUR
+prodname: 'Puma Vikky Stacked L Zapatillas Mujer White White 38 EU'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B07DC22B1B/?tag=tolees-21'
+descuento: '55.07'
+average: '36.495000000000005'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B07DC22B1B{{</world>}}

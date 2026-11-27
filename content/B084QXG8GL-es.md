@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'ghd Helios - Secador de Pelo Profesional Ligero Secado Rápido - Azul'
+date: 2026-08-13 15:05:55
+image: 'https://m.media-amazon.com/images/I/41olOZ9z9uL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B084QXG8GL-es ghd Helios - Secador de Pelo Profesional Ligero Secado...'
+sku: 'B084QXG8GL-es'
+tags: [ '🇪🇸', ]
+actualPrice: 142.99 EUR
+currency: EUR
+price: 142.99
+comparePrice: 229.0 EUR
+prodname: 'ghd Helios - Secador de Pelo Profesional Ligero Secado Rápido - Azul'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B084QXG8GL/?tag=tolees-21'
+descuento: '37.56'
+average: '144.097105263158'
+---
+
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Diseño ergonómico y equilibrado. Cable de longitud profesional.
+- Secador profesional con revolucionaria tecnología Aeroprecis para un uso más intuitivo y un secado más preciso. Incluye boquilla contorneada de precisión.
+- Potencia variable y control de temperatura. Incluye botón de aire frío.
+- ghd helios azul incorpora un motor profesional de larga duración y sin escobillas que proporciona un caudal de aire a 120km/h para un secado profesional en tiempo récord.
+- Avanzada tecnología acústica para un rendimiento más silencioso
+
+[🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B084QXG8GL{{</world>}}

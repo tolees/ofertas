@@ -1,0 +1,36 @@
+---
+layout: post
+title: 'Ballarini Salina sartén 28cm'
+date: 2026-08-24 10:17:39
+image: 'https://m.media-amazon.com/images/I/31p+4lpNElL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B07R5G8LNP-es Ballarini Salina sartén 28cm'
+sku: 'B07R5G8LNP-es'
+tags: [ '🇪🇸', ]
+actualPrice: 46.6 EUR
+currency: EUR
+price: 46.6
+comparePrice: 93.95 EUR
+prodname: 'Ballarini Salina sartén 28cm'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B07R5G8LNP/?tag=tolees-21'
+descuento: '50.40'
+average: '54.5433333333335'
+---
+
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Apto para lavavajillas
+- Superficie antiadherente
+- Producto de calidad óptima
+
+[🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B07R5G8LNP{{</world>}}

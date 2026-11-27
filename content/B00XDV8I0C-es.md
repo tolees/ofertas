@@ -1,0 +1,43 @@
+---
+layout: post
+title: 'Raid Insecticida Electrico líquido doble recambios 2 unidades 90 noches'
+date: 2026-08-05 05:18:17
+image: 'https://m.media-amazon.com/images/I/51bs0EZc3uL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B00XDV8I0C-es Raid Insecticida Electrico líquido doble recambios 2...'
+sku: 'B00XDV8I0C-es'
+tags: [ '🇪🇸', ]
+actualPrice: 4.6 EUR
+currency: EUR
+price: 4.6
+comparePrice: 7.71 EUR
+prodname: 'Raid Insecticida Electrico líquido doble recambios 2 unidades 90 noches'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B00XDV8I0C/?tag=tolees-21'
+descuento: '40.34'
+average: '4.6'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Los recambios eléctricos con compatibles con los aparatos eléctricos de Raid
+- Se puede colocar en casa en una habitación interior con bebes o mascotas
+- Insecticida eléctrico inoloro: con dos recambios de 45 noches, proporciona un total de 90 noches (8 horas por noche) de protección rápida y constante contra los mosquitos comunes y tigre
+- Función repelente: Repele y protege en espacios de hasta 30 metros cúbicos
+- Producto es apto para el público general (no uso exclusivo profesional)
+- Cada cargador de 45 noches se puede dejar conectado durante todo el día completo en vez de solamente 8 horas cada noche, en este caso tendría una duración de aproximadamente 15 días completos
+- Incluye dos recambios de 45 noches
+- Elimina hasta los mosquitos que no se ven
+- Eficacia probada incluso con la ventana abierta y las luces encendidas en el hogar
+- Peligro Muy tóxico para los organismos acuáticos, con efectos nocivos duraderos. Muy tóxico para los organismos acuáticos. Puede ser mortal en caso de ingestión y penetración en las vías respiratorias. Utilice los biocidas de forma segura. Lea siempre la etiqueta y la información sobre el biocida antes de usarlo. UFI: 5G3M-E0N4-MYS3. Etiquetado conforme al Reglamento (UE) Nº 1272/2008 (CLP).
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B00XDV8I0C{{</world>}}

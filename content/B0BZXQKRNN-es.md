@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Under Armour UA W Charged Surge 4 Deportivas de mujer ligeras y transpirables zapatillas para correr color negro/gris antracita/blanco'
+date: 2026-09-02 21:40:25
+image: 'https://m.media-amazon.com/images/I/312xenoXMlL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0BZXQKRNN-es Under Armour UA W Charged Surge 4 Deportivas de mujer...'
+sku: 'B0BZXQKRNN-es'
+tags: [ '🇪🇸', ]
+actualPrice: 28.49 EUR
+currency: EUR
+price: 28.49
+comparePrice: 60.0 EUR
+prodname: 'Under Armour UA W Charged Surge 4 Deportivas de mujer ligeras y transpirables zapatillas para correr color negro/gris antracita/blanco'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0BZXQKRNN/?tag=tolees-21'
+descuento: '52.52'
+average: '28.49'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Pisada reactiva – Zapatos de deporte con mediasuela Charged Cushioning que absorbe los impactos y ofrece un gran impulso y retorno de la energía.
+- Diseño duradero – Estas zapatillas acolchadas tienen suela de goma con patrón de tracción único para aumentar la durabilidad.
+- Cómodo calzado deportivo – Zapatillas de running con amortiguación mejorada alrededor del tobillo para ofrecer la sujeción necesaria.
+- Zapatillas transpirables – Calzado para mujer con parte superior de malla que regula la temperatura durante las carreras.
+- Material y forma – Under Armour UA W Charged Surge 4 Zapatillas de deporte para mujer hechas de 68% textil, 32% sintético y suela de 100% goma.
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B0BZXQKRNN{{</world>}}

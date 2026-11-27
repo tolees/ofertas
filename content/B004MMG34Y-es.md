@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'Sony MDRE9LPB - Auriculares de Botón Color Negro Intraurales Alámbrico'
+date: 2026-11-14 20:04:57
+image: 'https://m.media-amazon.com/images/I/21KxdLjxCEL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B004MMG34Y-es Sony MDRE9LPB - Auriculares de Botón Color Negro...'
+sku: 'B004MMG34Y-es'
+tags: [ '🇪🇸', ]
+actualPrice: 4.99 EUR
+currency: EUR
+price: 4.99
+comparePrice: 8.0 EUR
+prodname: 'Sony MDRE9LPB - Auriculares de Botón Color Negro Intraurales Alámbrico'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B004MMG34Y/?tag=tolees-21'
+descuento: '37.62'
+average: '4.777177419354814'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+
+[🛒 Comprar!!!]({{< param buyurl >}})
+{{<world>}}B004MMG34Y{{</world>}}

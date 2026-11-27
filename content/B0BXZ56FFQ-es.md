@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Skechers Hombre Summits High Range Slip-In ENTRENADOR Black Mesh/Charcoal 39.5 EU Large'
+date: 2026-08-10 03:51:34
+image: 'https://m.media-amazon.com/images/I/417RfRvDuqL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0BXZ56FFQ-es Skechers Hombre Summits High Range Slip-In ENTRENADOR...'
+sku: 'B0BXZ56FFQ-es'
+tags: [ '🇪🇸', ]
+actualPrice: 49.95 EUR
+currency: EUR
+price: 49.95
+comparePrice: 84.95 EUR
+prodname: 'Skechers Hombre Summits High Range Slip-In ENTRENADOR Black Mesh/Charcoal 39.5 EU Large'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0BXZ56FFQ/?tag=tolees-21'
+descuento: '41.20'
+average: '50.6166666666667'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Fabricado con materiales 100% veganos
+- El exclusivo cojín de talón mantiene el pie firmemente en su lugar
+- Lavable en lavadora
+- Skechers Plantilla de confort acolchada de espuma viscoelástica refrigerada por aire
+- Skechers Calzoncillos manos libres para un ajuste fácil
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B0BXZ56FFQ{{</world>}}

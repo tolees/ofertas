@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'Dragon Ball Xenoverse 2'
+date: 2026-09-15 18:52:14
+image: 'https://m.media-amazon.com/images/I/51XduSEG27L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0D14S1CN8-es Dragon Ball Xenoverse 2'
+sku: 'B0D14S1CN8-es'
+tags: [ '🇪🇸', ]
+actualPrice: 12.31 EUR
+currency: EUR
+price: 12.31
+comparePrice: 21.99 EUR
+prodname: 'Dragon Ball Xenoverse 2'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0D14S1CN8/?tag=tolees-21'
+descuento: '44.02'
+average: '15.0563636363636'
+---
+
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+
+[🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B0D14S1CN8{{</world>}}

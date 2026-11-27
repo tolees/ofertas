@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Parker IM Pluma estilográfica | Azul mate | Plumín fino con recambio de tinta azul | Caja de regalo'
+date: 2026-08-27 15:31:19
+image: 'https://m.media-amazon.com/images/I/31c-9yyUh3L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B01LYP5UV9-es Parker IM Pluma estilográfica | Azul mate | Plumín fino...'
+sku: 'B01LYP5UV9-es'
+tags: [ '🇪🇸', ]
+actualPrice: 24.49 EUR
+currency: EUR
+price: 24.49
+comparePrice: 45.38 EUR
+prodname: 'Parker IM Pluma estilográfica | Azul mate | Plumín fino con recambio de tinta azul | Caja de regalo'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B01LYP5UV9/?tag=tolees-21'
+descuento: '46.03'
+average: '27.14'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Su forma cómoda y ergonómica se combina con la artesanía superior de PARKER para evocar la rica herencia de la marca
+- Diseños elegantes, refinados y consolidados que se combinan con una silueta moderna y cónica
+- El plumín fino de acero inoxidable duradero ofrece una experiencia de escritura fiable y personal
+- Acabado lacado en azul mate complementado con llamativos detalles cromados y el característico clip con flecha de PARKER
+- Un regalo asequible pero sofisticado, su pluma estilográfica se presenta en una caja de regalo PARKER con un cartucho de tinta azul QUINK largo
+
+[🛒 Comprar!!!]({{< param buyurl >}})
+{{<world>}}B01LYP5UV9{{</world>}}

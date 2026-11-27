@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'PUMA Zapatillas de Running Pounce Lite 2 Unisex 42 Misty Pink White'
+date: 2026-09-01 19:05:03
+image: 'https://m.media-amazon.com/images/I/31bG5gJkb2L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0FV8RVJ6R-es PUMA Zapatillas de Running Pounce Lite 2 Unisex 42 Misty...'
+sku: 'B0FV8RVJ6R-es'
+tags: [ '🇪🇸', ]
+actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
+comparePrice: 55.0 EUR
+prodname: 'PUMA Zapatillas de Running Pounce Lite 2 Unisex 42 Misty Pink White'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0FV8RVJ6R/?tag=tolees-21'
+descuento: '45.47'
+average: '29.99'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Promedio de kilómetros: 800 km
+- Ajuste: estándar
+- Pronación: neutra
+- Diseñado para: running
+- Cierre: cordones
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B0FV8RVJ6R{{</world>}}

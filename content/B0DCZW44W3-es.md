@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'American Tourister Hello Cabin - Spinner S Expandible Hand Luggage 55 cm 39/45 L Black Onyx Black'
+date: 2026-08-05 17:58:48
+image: 'https://m.media-amazon.com/images/I/31ApDmHYWFL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0DCZW44W3-es American Tourister Hello Cabin - Spinner S Expandible Hand...'
+sku: 'B0DCZW44W3-es'
+tags: [ '🇪🇸', ]
+actualPrice: 78.93 EUR
+currency: EUR
+price: 78.93
+comparePrice: 179.0 EUR
+prodname: 'American Tourister Hello Cabin - Spinner S Expandible Hand Luggage 55 cm 39/45 L Black Onyx Black'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0DCZW44W3/?tag=tolees-21'
+descuento: '55.91'
+average: '83.21'
+---
+
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Compartimento de almacenamiento delantero: con compartimento acolchado para portátil de 15,6", compartimento para tablet de 10,5", compartimento para teléfono móvil y un bolsillo para cables con cremallera. Asegure su portátil y su tableta con el cierre elástico suave al tacto del bolsillo frontal, con sutil logotipo de marca incorporado.
+- Viaje seguro: cerradura TSA de 3 dígitos integrada con doble cierre para el compartimento principal y frontal.
+- Interior: correas cruzadas elásticas en el compartimento inferior y un divisor forrado con cremallera con 2 bolsillos de malla adicionales proporcionan la máxima comodidad de almacenamiento.
+- Construcción duradera de PP: carcasa de polipropileno resistente con textura 3D en ciertos lugares empotrados. La textura 3D viene con formas hexagonales detalladas con efecto 3D que aumentan la resistencia a los arañazos.
+- Spinner 55 Extensible (equipaje de mano: 2 días de viaje): 40 x 22 x 55 cm, 39/45 L, 2,80 kg
+
+[🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B0DCZW44W3{{</world>}}

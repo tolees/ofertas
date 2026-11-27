@@ -1,0 +1,36 @@
+---
+layout: post
+title: 'SALOMON ALPHAGLIDE Gore-Tex Impermeables Zapatillas de Senderismo para Mujer'
+date: 2026-08-01 12:06:36
+image: 'https://m.media-amazon.com/images/I/415lrQ0XXgL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0FC3MW9FN-es SALOMON ALPHAGLIDE Gore-Tex Impermeables Zapatillas de...'
+sku: 'B0FC3MW9FN-es'
+tags: [ '🇪🇸', ]
+actualPrice: 64.99 EUR
+currency: EUR
+price: 64.99
+comparePrice: 120.0 EUR
+prodname: 'SALOMON ALPHAGLIDE Gore-Tex Impermeables Zapatillas de Senderismo para Mujer'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0FC3MW9FN/?tag=tolees-21'
+descuento: '45.84'
+average: '64.99'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Agarre versátil: Desarrollada con All Terrain Contagrip para lograr mayor adherencia y confianza en la más amplia variedad de superficies
+- Pisada reactiva: Con la cantidad exacta de amortiguación y espuma Fuze Foam para absorber las vibraciones y reducir la fatiga muscular sin añadir peso de más
+- Sujeción del pie y protección: La pala ofrece una sujeción del pie ceñida y precisa alrededor de la zona del talón y luce una malla antipartículas y tejidos de alta resistencia
+
+[🛒 Comprar!!!]({{< param buyurl >}})
+{{<world>}}B0FC3MW9FN{{</world>}}

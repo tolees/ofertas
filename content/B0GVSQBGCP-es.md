@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'Vaseline Sérum Labial Gluta-Hya Juicy Peach 10ml. Con ácido hialurónico tripéptido tecnología Glutaglow y SPF15. Color volumen y protección. Hidratación al instante y acabado gloss no pegajoso.'
+date: 2026-11-13 06:57:58
+image: 'https://m.media-amazon.com/images/I/31b+JC7Rk2L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0GVSQBGCP-es Vaseline Sérum Labial Gluta-Hya Juicy Peach 10ml. Con...'
+sku: 'B0GVSQBGCP-es'
+tags: [ '🇪🇸', ]
+actualPrice: 4.99 EUR
+currency: EUR
+price: 4.99
+comparePrice: 8.99 EUR
+prodname: 'Vaseline Sérum Labial Gluta-Hya Juicy Peach 10ml. Con ácido hialurónico tripéptido tecnología Glutaglow y SPF15. Color volumen y protección. Hidratación al instante y acabado gloss no pegajoso.'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0GVSQBGCP/?tag=tolees-21'
+descuento: '44.49'
+average: '4.99'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B0GVSQBGCP{{</world>}}
