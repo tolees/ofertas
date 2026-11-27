@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- PETROL INDUSTRIES Men Shorts Denim M-ROS-SHO005 Oil Green XXL
 - Check
 - Slim Fit
-- PETROL INDUSTRIES Men Shorts Denim M-ROS-SHO005 Oil Green XXL
 - 42% Cotton, 30% Cotton (organic), 27% Polyester, 1% Elastane
 
 [🛒 Visítala!!!]({{< param buyurl >}})

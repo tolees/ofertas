@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Skechers Diseño Max Cushioning para una comodidad y soporte excepcionales
-- NRT Natural Rocker Technology para una transición suave del talón a la punta
 - Espuma Skechers ultra ligera para mayor comodidad
+- NRT Natural Rocker Technology para una transición suave del talón a la punta
 - Entresuela ligera y sensible ULTRA LIGHT
 - Skechers Plantilla transpirable Goga Mat refrigerada por aire con amortiguación de alto rebote
 

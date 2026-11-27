@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- 1400 W DE POTENCIA: Potencia de 1400 W para el funcionamiento del aparato.
 - 1,75 L DE CAPACIDAD: Capacidad de 1,75 litros para su uso en la cocina.
 - ACABADO INOX: Acabado en color inox en la superficie exterior del producto.
-- 1400 W DE POTENCIA: Potencia de 1400 W para el funcionamiento del aparato.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09H7K18HC{{</world>}}

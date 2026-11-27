@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Totalmente forrado
 - Embalaje: caja
+- Totalmente forrado
 - Cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})

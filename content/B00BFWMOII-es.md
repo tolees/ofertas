@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- VOLTAJE: 12V
-- CAPACIDAD: 50Ah
 - LONGITUD: 207MM ANCHO: 175 MM ALTURA: 190 MM
+- CAPACIDAD: 50Ah
 - POSITIVO A LA DERECHA
 - INTENSIDAD DE ARRANQUE (CCA): 450 A (EN)
+- VOLTAJE: 12V
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00BFWMOII{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Elden Ring Tarnished Edition'
-date: 2026-11-24 20:03:56
+date: 2026-11-26 23:56:38
 image: 'https://m.media-amazon.com/images/I/41TCU6K+EpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0H44WGVQJ/?tag=tolees-21'
 descuento: '35.18'
-average: '71.104615384615428'
+average: '70.336417910447807'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

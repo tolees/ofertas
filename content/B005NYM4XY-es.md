@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Altura: 150 mm.
-- 1 unidad.
-- Ancho: 325 mm.
 - Material: acero inoxidable.
+- Ancho: 325 mm.
+- 1 unidad.
+- Altura: 150 mm.
 - Longitud: 265 mm.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

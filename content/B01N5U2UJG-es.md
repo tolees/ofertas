@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- ✔️ Color: Azul.
+- ✔️ Frecuencia: 13.56 MHz.
 - ✔️ Este producto incluye un E-Book que proporciona información útil sobre cómo comenzar su proyecto, ayuda con una configuración rápida y ahorra tiempo en el proceso de configuración. Proporcionamos una serie de ejemplos de aplicación, guías de instalación completas y bibliotecas.
 - ✔️ 5 chips RFID por juego - ideal para las normas de control de acceso corporativo.
-- ✔️ Frecuencia: 13.56 MHz.
-- ✔️ Color: Azul.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01N5U2UJG{{</world>}}

@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Parte superior de malla de ingeniería renovada con soporte específico
 - Acolchado extra grueso para una comodidad superior
-- Suela reforzada para mayor durabilidad.
 - Ideal para entrenamientos largos y recuperación.
+- Suela reforzada para mayor durabilidad.
 - DNA LOFT v3 actualizado para una mayor ligereza
 
 [🛒 Aquí!!!]({{< param buyurl >}})

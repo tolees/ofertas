@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cintura ancha
 - Corte regular
+- Cintura ancha
 - Dardos delanteros
 
 [🛒 Comprar!!!]({{< param buyurl >}})

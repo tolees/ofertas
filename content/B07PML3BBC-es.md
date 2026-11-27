@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Medidas: tamaño estándar
-- Básicos
-- Pantalones cortos con las siguientes características:
 - Pantalones cortos || Merch para fans y divertido || Patrón: Liso
 - Descubre todas las marcas de EMP!
+- Pantalones cortos con las siguientes características:
+- Básicos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07PML3BBC{{</world>}}

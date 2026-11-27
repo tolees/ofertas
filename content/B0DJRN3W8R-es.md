@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Jersey individual
 - Cuello redondo
+- Corte regular
 - Manga corta
 - Longitud regular
-- Corte regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DJRN3W8R{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Chino trousers
+- Normal rise
 - materialFabricComposition: 68% Polyester, 29% Viscose, 3% Elastane
 - Care Label:
-- Normal rise
 - Slim Fit
-- Chino trousers
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07ZJM7PYK{{</world>}}

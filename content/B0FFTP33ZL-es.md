@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Múltiples tallas y longitudes de entrepierna: Disponible en tallas 4-16 y longitudes de entrepierna para un ajuste a medida.
 - Colección SS27MC: Parte de la colección.
-- Mezcla de tejido premium: Hecho de 100% algodón para comodidad, flexibilidad y durabilidad.
 - Estilo característico: Camisa de popelina de manga larga con detalles de contraste en el interior. Bordado de contraste de color en el pecho.
+- Mezcla de tejido premium: Hecho de 100% algodón para comodidad, flexibilidad y durabilidad.
+- Múltiples tallas y longitudes de entrepierna: Disponible en tallas 4-16 y longitudes de entrepierna para un ajuste a medida.
 - Popelina: Construcción de tejido auténtica con aspecto y sensación premium.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

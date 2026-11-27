@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hecho de material duradero y ligero
-- El tejido de punto índigo es extremadamente cómodo
-- Pantalones vaqueros clásicos y sin complicaciones
-- Ajuste cómodo: muslos anchos que dan comodidad
-- Corte cargo
 - Composición: 75% algodón, 23% poliéster, 2% elastano
+- El tejido de punto índigo es extremadamente cómodo
+- Hecho de material duradero y ligero
+- Corte cargo
+- Ajuste cómodo: muslos anchos que dan comodidad
+- Pantalones vaqueros clásicos y sin complicaciones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09Y91KFPX{{</world>}}

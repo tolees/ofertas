@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AONAT Shut The Box Juego de Madera Juego de Dados con Números y Fichas Abatibles Clásico Juego de Mesa para 4 Jugadores Juego Familiar para Niños y Adultos Juego Educativo con 8 Dados'
-date: 2026-11-25 13:49:10
+date: 2026-11-26 16:44:01
 image: 'https://m.media-amazon.com/images/I/4140dL+T2BL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G G213 Prodigy Teclado Gaming | RGB LIGHTSYNC retroiluminadas resistente a salpicaduras personalizables controles multimedia QWERTY ES - Negro'
-date: 2026-11-20 13:40:44
+date: 2026-11-26 08:41:40
 image: 'https://m.media-amazon.com/images/I/41Yz5u7yGTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01L6L44NU/?tag=tolees-21'
 descuento: '50.01'
-average: '48.906988416988462'
+average: '48.800344827586251'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

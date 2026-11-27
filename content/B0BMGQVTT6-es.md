@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Su aplicador en forma de máscara permite una aplicación fácil para principiantes en 1 solo paso
 - Consigue unas cejas rellenas y controladas, y un look natural de larga duración hasta 36H
+- Su aplicador en forma de máscara permite una aplicación fácil para principiantes en 1 solo paso
 - Gel para unas cejas rellenas a prueba de todo Tattoo Brow Gel 36H de Maybelline New York
 - Fórmula Tattoo: resiste agua, roces, y sudor hasta 36H de duración
 - Aplica la máscara de cejas Tattoo Brow Gel con el cepillo a lo largo de la ceja, rellenando los huequitos

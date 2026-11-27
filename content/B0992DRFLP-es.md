@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Bolsillos con botón a presión y cierre con solapa
-- Abierto con cremallera
 - Capucha con cordones escondida en el cuello
+- Abierto con cremallera
 - Tejido polar en el interior
 
 [🛒 Visítala!!!]({{< param buyurl >}})

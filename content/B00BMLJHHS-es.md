@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Descubre todas las marcas de EMP!
-- Camisa || Puños de las mangas || Cuello Redondo Cuello Camiseta || Parche de etiqueta
 - Ajuste : Regular
-- Camisa de Franela con las siguientes características:
 - Ropa casual, Ropa Rockera
+- Camisa || Puños de las mangas || Cuello Redondo Cuello Camiseta || Parche de etiqueta
+- Camisa de Franela con las siguientes características:
+- Descubre todas las marcas de EMP!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00BMLJHHS{{</world>}}

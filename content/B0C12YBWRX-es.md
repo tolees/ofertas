@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Under Armour Camiseta UA Sportstyle para Hombre con Logotipo actualizado Negro y Blanco L'
-date: 2026-11-25 17:53:47
-image: 'https://m.media-amazon.com/images/I/31xo-Wi67BL._SL500_._SL400_.jpg'
+date: 2026-11-27 11:33:49
+image: 'https://m.media-amazon.com/images/I/31cHfeLSFdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0C12YBWRX/?tag=tolees-21'
 descuento: '50.00'
-average: '17.395'
+average: '16.596666666666668'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cinta firmada en el interior del cuello
 - Cuello y puños de punto acanalado
+- Cinta firmada en el interior del cuello
 - Cierre con dos botones
 
 [🛒 Aquí!!!]({{< param buyurl >}})

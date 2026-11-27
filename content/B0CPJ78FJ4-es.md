@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Algo alguien tú y esas cosas que pasan Romántica Contemporánea'
-date: 2026-09-25 20:31:36
+date: 2026-11-27 01:39:16
 image: 'https://m.media-amazon.com/images/I/41fgHR1O1OL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CPJ78FJ4/?tag=tolees-21'
 descuento: '46.29'
-average: '7.27333333333333'
+average: '7.5899999999999972'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

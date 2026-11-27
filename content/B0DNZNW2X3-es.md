@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Puertos de ventilación
 - Correas de talón giratorias para un ajuste más seguro
 - Increíblemente ligeros y divertidos de llevar
-- Puertos de ventilación
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DNZNW2X3{{</world>}}

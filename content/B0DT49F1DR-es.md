@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ligera y de secado rápido
 - Pliegue de movimiento en la espalda para mayor comodidad
 - Protección fiable contra la radiación solar intensa
+- Ligera y de secado rápido
 - Bolsillo en el pecho con botón
 - Tratada con HeiQ Fresh: tecnología natural que reduce los malos olores
 

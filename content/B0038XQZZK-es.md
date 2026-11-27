@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Enclavamiento instalado para evitar que el cajón se caiga
 - Ideal para su uso en el taller o en el hogar
+- Enclavamiento instalado para evitar que el cajón se caiga
 - 30 cajones hecho de material de plástico resistente al impacto
 - El gabinete tiene agujeros ranurados para facilitar el montaje en la pared
 

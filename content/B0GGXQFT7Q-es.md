@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Baseus FC41 145W 25000mAh Powerbank Laptop Schnellladen Power Bank mit 2 integrierte USB-C Kabel Externe Handyakkus für MacBook Pro iPhone 17/16/15 DELL HP SteamDeck Samsung Negro'
-date: 2026-11-24 12:23:10
+date: 2026-11-26 08:49:42
 image: 'https://m.media-amazon.com/images/I/31aj606f9CL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GGXQFT7Q/?tag=tolees-21'
 descuento: '43.00'
-average: '60.205000000000034'
+average: '59.610666666666695'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

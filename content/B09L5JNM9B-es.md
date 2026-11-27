@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Puma Branding
+- Padded Collar
 - Classic Fit
 - Padded Insole
-- Padded Collar
-- Puma Branding
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09L5JNM9B{{</world>}}

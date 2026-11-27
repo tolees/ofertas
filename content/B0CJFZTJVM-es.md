@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Under Armour UA Knit Track Suit Conjunto de deporte para hombre chándal cómodo y suave color gris brezo/negro'
-date: 2026-11-21 01:23:44
+date: 2026-11-26 23:14:36
 image: 'https://m.media-amazon.com/images/I/31h3Y3eHm-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0CJFZTJVM-es Under Armour UA Knit Track Suit Conjunto de deporte para...'
 sku: 'B0CJFZTJVM-es'
 tags: [ '🇪🇸', ]
-actualPrice: 46.25 EUR
+actualPrice: 37.5 EUR
 currency: EUR
-price: 46.25
+price: 37.5
 comparePrice: 75.0 EUR
 prodname: 'Under Armour UA Knit Track Suit Conjunto de deporte para hombre chándal cómodo y suave color gris brezo/negro'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CJFZTJVM/?tag=tolees-21'
-descuento: '38.33'
-average: '45.856'
+descuento: '50.00'
+average: '44.463333333333338'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

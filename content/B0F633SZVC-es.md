@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Perforaciones en la plantilla que aportan mayor ventilación
-- Cierre: Sin cordones
 - Tipo de talón: plano
-- Ancho: estándar
+- Cierre: Sin cordones
 - Tipo de puntera: abierta
+- Ancho: estándar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F633SZVC{{</world>}}

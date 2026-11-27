@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ajuste regular
-- Logotipo en el frente
 - 100% algodón
+- Logotipo en el frente
+- ajuste regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CPYM52LC{{</world>}}

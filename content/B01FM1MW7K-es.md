@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Contiene cera de carnauba
-- Recomendado para usar sobre: carrocería, aluminios y fibra de carbono
-- No deja marcas
-- Deja un acabado brillante
 - Envase en spray para una cómoda aplicación
+- No deja marcas
+- Recomendado para usar sobre: carrocería, aluminios y fibra de carbono
+- Deja un acabado brillante
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01FM1MW7K{{</world>}}

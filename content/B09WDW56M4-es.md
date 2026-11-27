@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gigaset Comfort 520 Teléfono DECT Inalámbrico Agenda Grande Negro Titanio | [Versión Española]'
-date: 2026-11-21 17:32:53
+date: 2026-11-26 17:54:12
 image: 'https://m.media-amazon.com/images/I/41Z-WWqPNGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09WDW56M4/?tag=tolees-21'
 descuento: '36.45'
-average: '49.101764705882395'
+average: '48.615263157894773'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

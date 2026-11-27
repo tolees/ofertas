@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- HH Power-Stride
 - HH Pro-Guard
-- HH Max-Vent
 - HH Secado rápido
+- HH Power-Stride
+- HH Max-Vent
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B6D7V6QK{{</world>}}

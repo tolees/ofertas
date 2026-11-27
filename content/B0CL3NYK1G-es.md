@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - AEROREADY
-- Diseño estilizado con ajuste de compresión
-- Corte ajustado
-- 73% poliéster (reciclado) / 27% elastano
 - Escote redondeado
+- Corte ajustado
+- Diseño estilizado con ajuste de compresión
+- 73% poliéster (reciclado) / 27% elastano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CL3NYK1G{{</world>}}

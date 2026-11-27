@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cierre con cordones
 - Diseño bajo
 - Suela de goma
-- Cierre con cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D1YD5YD7{{</world>}}

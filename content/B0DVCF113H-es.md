@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Desigual
 - Cuello: Redondo
-- Detalles bordados
 - Manga: Larga
+- Desigual
 - Colección AW25
+- Detalles bordados
 - Detalles en glitter
 
 [🛒 Aquí!!!]({{< param buyurl >}})

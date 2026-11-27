@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- No lavar: uno o varios de los materiales que componen estas zapatillas no son lavables, por lo que recomendamos no lavar este modelo.
 - Zapatillas unisex fabricadas en España en nylon con piezas superpuestas de serraje. V de victoria lateral y pieza trasera en blanco en contraste. Cierre mediante cordones al tono. Suela de PVC elaborada con aceites vegetales en lugar de minerales, reduciendo así el impacto medioambiental.
+- No lavar: uno o varios de los materiales que componen estas zapatillas no son lavables, por lo que recomendamos no lavar este modelo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D8Y3K1S8{{</world>}}

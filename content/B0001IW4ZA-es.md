@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Bloque de tope de aluminio lacado
 - Para modeladores, manualidades y todos los trabajos ligeros
 - Base lacada de negro
 - Ajuste manual de la profundidad y la distorsión del hierro
-- Bloque de tope de aluminio lacado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0001IW4ZA{{</world>}}

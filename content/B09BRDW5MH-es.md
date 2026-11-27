@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Neutral
+- Peso: 180 g
 - Completa impermeabilidad
 - Entresuela de EVA y banda de rodadura de TPR
 - Puntera cerrada para la protección de los dedo
-- Suede
-- Peso: 180 g
-- Neutral
 - Cordones Fast Lace
+- Suede
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09BRDW5MH{{</world>}}

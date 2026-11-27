@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- A prueba de fugas cuando está cerrado
 - Con aislamiento al vacío de boca ancha con tapa de popote
+- A prueba de fugas cuando está cerrado
 - Fabricado en material duradero, es rellenable y reutilizable
 
 [🛒 Comprar!!!]({{< param buyurl >}})

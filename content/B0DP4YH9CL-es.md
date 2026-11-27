@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con la gama más amplia del mercado, Prima es Nº1 en salsas Cero sin azúcares añadidos.
 - La siguiente información se aplica a cada unidad del paquete
-- Dale un toque irresistible a tus perritos calientes
-- Misma receta ahora envasada en botella 25% reciclada
 - Dale chispa a tus platos y saborea la vida disfrutando con los tuyos. Prima, Salseo del bueno.
 - Todo el sabor de nuestra mostaza Prima, elaborada con semillas de Mostaza en grano recién molidas a la piedra, ahora también sin azúcares añadidos. Sin gluten, sin lactosa y apta para veganos.
+- Con la gama más amplia del mercado, Prima es Nº1 en salsas Cero sin azúcares añadidos.
+- Dale un toque irresistible a tus perritos calientes
+- Misma receta ahora envasada en botella 25% reciclada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DP4YH9CL{{</world>}}

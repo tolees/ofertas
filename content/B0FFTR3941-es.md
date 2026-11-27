@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Hecho de algodón con un ala curvada y una correa trasera ajustable para un ajuste personalizado
-- Pepe Jeans Logotipo bordado en la parte delantera en un tono claro, añadiendo un toque distintivo y elegante
 - Gorra estilo béisbol
+- Pepe Jeans Logotipo bordado en la parte delantera en un tono claro, añadiendo un toque distintivo y elegante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FFTR3941{{</world>}}

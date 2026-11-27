@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Correa de piel en color negro
 - Caja tipo barril de acero inoxidable con esfera negra y azul
+- Correa de piel en color negro
 - Resistente al agua hasta 30 m: resiste las salpicaduras de agua
 - Caja de 42 mm, correa de 22 mm de ancho, cristal mineral, movimiento de cuarzo con pantalla analógica con cronógrafo, importado
 

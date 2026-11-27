@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- 100% poliéster (reciclado)
+- Compra 1 talla más pequeña
 - Bolsillos laterales con cremallera
 - AEROREADY
-- Compra 1 talla más pequeña
-- 100% poliéster (reciclado)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BJ9JV2P9{{</world>}}

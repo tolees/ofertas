@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Garza Power - Regleta Circular con 6 enchufes + 2 USB | Ladrón múltiple 1.4 Metros | con Interruptor y guardacable | Cable H05W-F 3G | Color Naranja'
-date: 2026-11-11 21:10:24
+date: 2026-11-26 15:19:06
 image: 'https://m.media-amazon.com/images/I/51IMwHwxfLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

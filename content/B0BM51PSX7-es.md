@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Suela: etilvinilacetato
 - Forma del tacón: sin tacón
+- Parte superior: cuero
 - Material interior: N/A
 - Cierre: pull-on
-- Parte superior: cuero
-- Suela: etilvinilacetato
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BM51PSX7{{</world>}}

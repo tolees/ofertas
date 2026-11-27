@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre cremallera interna
 - suela tipo track 3 cm
-- forro piel y licra
 - Bota de piel serraje
+- Cierre cremallera interna
+- forro piel y licra
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DSWCZZLP{{</world>}}

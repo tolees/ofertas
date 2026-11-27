@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- cuidado médico de la piel de alta calidad
 - Fabricante: Pierre Fabre Pharma GmbH, Deutschland
 - Crema para uso en la piel
-- para el cuidado de la piel
+- cuidado médico de la piel de alta calidad
 - Dermocosméticos de la Farmacia (PZN: 16507801)
+- para el cuidado de la piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08XYV3YGB{{</world>}}

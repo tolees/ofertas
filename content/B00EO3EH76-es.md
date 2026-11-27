@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye 2 baquetas.
 - Teclas metálicas de colores.
-- Práctica funda de transporte con asa para un fácil transporte.
 - 25 teclas (con un rango g5-g7).
+- Práctica funda de transporte con asa para un fácil transporte.
+- Incluye 2 baquetas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00EO3EH76{{</world>}}

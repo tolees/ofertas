@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Punto 100% algodón
 - Cuello redondo de canalé
 - Corte clásico
+- Punto 100% algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CL2VF9PN{{</world>}}

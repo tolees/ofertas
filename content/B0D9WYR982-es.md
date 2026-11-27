@@ -30,10 +30,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Corte : Pantalones cortos vaqueros extra holgados con entrepierna caída y abertura suelta en la pierna
 - Bolsillos : Bolsillos traseros, Bolsillo relojero, Bolsillos delanteros
-- Cintura : Tiro alto
+- Cierre : Bragueta de botones
 - Artículo : Pantalones cortos extra holgados
 - Klavado/acabado : Lavado a la piedra para un acabado desgastado y desteñido
-- Cierre : Bragueta de botones
+- Cintura : Tiro alto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D9WYR982{{</world>}}

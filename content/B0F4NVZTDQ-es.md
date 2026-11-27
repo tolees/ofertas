@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Manga larga
 - Cierres con botones en la parte delantera
+- Manga larga
 - Monograma bordado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- tejido gofrado
-- Gorro Sea Gear
 - Un gorro de inspiración retro
 - Artículos entregados: 1x Helly Hansen Unisex Sea Gear Beanie - Beanies OFFWHITE STD
+- Gorro Sea Gear
 - Logotipo de equipo de mar
+- tejido gofrado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08LP1YHLG{{</world>}}

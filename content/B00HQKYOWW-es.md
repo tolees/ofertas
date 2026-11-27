@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Alto rendimiento
 - Perfecto para la carga de la batería de servicio durante el viaje
 - Tensión de entrada y de salida con separación galvánica
-- Alto rendimiento
 - Ideal para estabilización de tensión
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tipo de estiramiento: Medium Stretch
-- Jeans Pantalones Largos
+- Ajuste: llamarada
 - Composición: 70% algodón 29 por ciento poliéster 1 por ciento elastano
 - Instrucciones de cuidado: lavable a máquina
-- Ajuste: llamarada
+- Jeans Pantalones Largos
+- Tipo de estiramiento: Medium Stretch
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D6RQYR2Q{{</world>}}

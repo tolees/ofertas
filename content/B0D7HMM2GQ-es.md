@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Potencia - el martillo perforador de 950 W dispone de un mecanismo de impacto neumático para propulsión potente y vía un robusto tope de profundidad de perforación para agujeros perforados exactos.
-- Velocidad de giro regulable - la electrónica de velocidad de giro permite no solo un inicio de perforación suave, como también una adaptación óptima a cada material.
-- Manipulación - la empuñadura adicional se fija de forma segura por estriado y, gracias al diseño ergonómico con superficies de agarre suave, el martillo perforador se adapta cómodamente a la mano.
-- SDS-Plus - la recepción SDS-Plus permite un cambio rápido y sin herramientas de distintas brocas y cinceles.
 - Inclusive maletín – el martillo perforador TC-RH 28 3F de Einhell se entrega en un práctica maletín de transporte y almacenamiento E-Box.
-- Equipo 3en1 - el potente martillo perforador TC-RH 28 3F de Einhell reúne tres funciones en un aparato: perforación, perforación con percusión y cincelado con fijación.
 - Intensidad de impacto - el martillo perforador trabaja con una intensidad de impacto de 3,5 J a través del material más duro y crea una potencia de perforación hasta 28 mm en hormigón.
+- Equipo 3en1 - el potente martillo perforador TC-RH 28 3F de Einhell reúne tres funciones en un aparato: perforación, perforación con percusión y cincelado con fijación.
+- Potencia - el martillo perforador de 950 W dispone de un mecanismo de impacto neumático para propulsión potente y vía un robusto tope de profundidad de perforación para agujeros perforados exactos.
+- SDS-Plus - la recepción SDS-Plus permite un cambio rápido y sin herramientas de distintas brocas y cinceles.
+- Manipulación - la empuñadura adicional se fija de forma segura por estriado y, gracias al diseño ergonómico con superficies de agarre suave, el martillo perforador se adapta cómodamente a la mano.
+- Velocidad de giro regulable - la electrónica de velocidad de giro permite no solo un inicio de perforación suave, como también una adaptación óptima a cada material.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D7HMM2GQ{{</world>}}

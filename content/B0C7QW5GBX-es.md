@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricado en España
-- Recolectadas a mano
-- Listo para consumir
 - Aceitunas verdes rellenas de pasta de anchoa en salmuera
+- Listo para consumir
+- Recolectadas a mano
 - Este envase contiene aproximadamente 14 porciones
+- Fabricado en España
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C7QW5GBX{{</world>}}

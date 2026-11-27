@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Agradable sensación en la piel
 - Fragancia personal
+- Agradable sensación en la piel
 - Modelo: 1170395
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello redondo
 - Estructura de felpa
-- 55 % algodón, 36% poliéster (100 % reciclado), 9 % viscosa
 - Corte holgado
+- 55 % algodón, 36% poliéster (100 % reciclado), 9 % viscosa
 - Logotipo de 3 barras impreso en goma
+- Cuello redondo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F4RJD8J2{{</world>}}

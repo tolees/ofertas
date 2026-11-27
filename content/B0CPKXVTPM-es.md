@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Monster High x Wednesday Addams Muñeca | Muñeca de coleccionista Wednesday con uniforme negro de Nevermore Dedos accesorios y soporte HXJ04'
-date: 2026-11-23 14:27:20
+date: 2026-11-26 17:22:57
 image: 'https://m.media-amazon.com/images/I/51EZZFu77PL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0CPKXVTPM-es Monster High x Wednesday Addams Muñeca | Muñeca de...'
 sku: 'B0CPKXVTPM-es'
 tags: [ '🇪🇸', ]
-actualPrice: 24.08 EUR
+actualPrice: 31.33 EUR
 currency: EUR
-price: 24.08
+price: 31.33
 comparePrice: 54.99 EUR
 prodname: 'Monster High x Wednesday Addams Muñeca | Muñeca de coleccionista Wednesday con uniforme negro de Nevermore Dedos accesorios y soporte HXJ04'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CPKXVTPM/?tag=tolees-21'
-descuento: '56.21'
-average: '31.342380952381035'
+descuento: '43.03'
+average: '31.341818181818262'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

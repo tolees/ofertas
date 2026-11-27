@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Con certificación Öko-Tex Standard 100, número de prueba: 14.0.49629
-- Ajuste cómodo JP1880
 - Corte especial hasta 10 XL
+- Ajuste cómodo JP1880
 - Piqué, estructura fina transpirable, muy agradable
 - Cuello de polo deportivo
 

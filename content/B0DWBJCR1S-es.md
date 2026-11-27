@@ -30,10 +30,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Cuello: Redondo
 - Fit: Regular
-- Desigual
+- Tejido ligero
 - Manga: Larga
 - Color: Liso
-- Tejido ligero
+- Desigual
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DWBJCR1S{{</world>}}

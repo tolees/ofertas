@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mapa del mundo
-- Figura de Coen Purearts (23 cm)
 - Compendio del mundo. 60 páginas con tapa dura
-- Juego base
 - Steelbook
+- Figura de Coen Purearts (23 cm)
+- Juego base
+- Mapa del mundo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0GYV5424M{{</world>}}

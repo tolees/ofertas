@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- entresuela de EVA
 - Inserto NB Comfort
+- entresuela de EVA
 - Parte superior en material sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})

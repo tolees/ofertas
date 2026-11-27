@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tela: terciopelo de algodón grueso
 - Tamaño: 160 x 80 cm / 63 x 31 pulgadas.
+- Tela: terciopelo de algodón grueso
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FCS9G9XV{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bragueta de cremallera
 - Cuello alzado
+- Bragueta de cremallera
 - Cuello alzado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Presentan un estilo informal
 - Detalles distintivos de la marca
+- Presentan un estilo informal
 - Diseño ligero y cómodo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Entresuela de apoyo que absorbe los golpes
 - Plantilla acolchada y cómoda
+- Entresuela de apoyo que absorbe los golpes
 - Suela de tracción flexible
 
 [🛒 Visítala!!!]({{< param buyurl >}})

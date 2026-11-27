@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tres pares por paquete
-- Costuras anatómicas en la puntera
 - Refuerzo en el arco plantar
+- Costuras anatómicas en la puntera
+- Tres pares por paquete
 - Amortiguación en el talón y la puntera
 - Largo por el tobillo
 

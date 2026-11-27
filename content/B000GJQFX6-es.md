@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apto para veganos, vegetarianos y kosher
-- Aminoácido esencial
 - No sustituyen una dieta variada, equilibrada y estilo de vida sano
+- Apto para veganos, vegetarianos y kosher
 - 1-2/día
 - Los aminoácidos son la base de las proteínas
+- Aminoácido esencial
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B000GJQFX6{{</world>}}

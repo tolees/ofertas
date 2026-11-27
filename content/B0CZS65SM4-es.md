@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillos laterales y en los extremos con cremallera
-- Exterior: 100% poliéster (reciclado); Interior: 100% elastómero termoplástico
 - Dimensiones: 20 cm x 45 cm x 23 cm
 - Capacidad: 24 l
+- Bolsillos laterales y en los extremos con cremallera
+- Exterior: 100% poliéster (reciclado); Interior: 100% elastómero termoplástico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZS65SM4{{</world>}}

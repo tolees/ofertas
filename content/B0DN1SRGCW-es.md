@@ -29,13 +29,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Wrinkle-free stretch cotton blend fabric
-- Flexible Comfort Waistband
-- Zip fly
 - Dockers Herren SIGNATURE KHAKI STRAIGHT FIT PANTS PANTS
 - Welt pockets
+- Zip fly
+- Flexible Comfort Waistband
+- Refined chino pants with no wrinkle technology
 - Signature Khaki Straight
 - Straight fit
-- Refined chino pants with no wrinkle technology
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DN1SRGCW{{</world>}}

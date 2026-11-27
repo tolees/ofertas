@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Little Nightmares II Enhanced Edition'
-date: 2026-11-24 17:08:14
+date: 2026-11-26 10:34:05
 image: 'https://m.media-amazon.com/images/I/41YUNSz6PhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GWDGHCQH/?tag=tolees-21'
 descuento: '40.83'
-average: '22.559999999999921'
+average: '22.07599999999993'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

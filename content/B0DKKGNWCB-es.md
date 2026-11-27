@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- materialFabricComposition: 61% Polyester, 39% Cotton
 - Long Sleeves
-- Zip Hoodie
 - Relaxed Fit
+- Zip Hoodie
+- materialFabricComposition: 61% Polyester, 39% Cotton
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DKKGNWCB{{</world>}}

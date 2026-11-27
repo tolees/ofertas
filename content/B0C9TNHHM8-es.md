@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Color: negro
+- Instrucciones de cuidado: lavable a máquina
+- Composición: 100% algodón
 - Ajuste: corte regular
 - Camiseta informal
-- Composición: 100% algodón
-- Instrucciones de cuidado: lavable a máquina
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C9TNHHM8{{</world>}}

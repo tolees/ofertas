@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Plataforma PowerShare. Batería extraíble e intercambiable con todas las herramientas eléctricas y de jardín de la gama 20V y 40V (2x20V) de Worx
 - Diseño innovador compacto y muy ligero con máxima potencia
 - Lleva 2 modos de operación permitiendo potenciar la velocidad de aire o el volumen de aire expulsado
+- Motor Brushless (sin escobillas), que proporciona mayor potencia, autonomía y vida útil del motor
 - Dos velocidades para optimizar el tiempo de utilización o el rendimiento.
 - Nueva tecnología Leafjet Siphon que aporta un mayor volumen de aire para una mayor rendimiento
-- Motor Brushless (sin escobillas), que proporciona mayor potencia, autonomía y vida útil del motor
 - Indicador de carga de nivel de batería
-- Plataforma PowerShare. Batería extraíble e intercambiable con todas las herramientas eléctricas y de jardín de la gama 20V y 40V (2x20V) de Worx
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B098XPP8QQ{{</world>}}

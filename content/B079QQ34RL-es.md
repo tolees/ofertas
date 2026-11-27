@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Reloj Analógico Multifuncional de Cuarzo para Hombres con Correa de Silicona Acero Inoxidable o Cuero Subesferas para Día y Fecha Resistente al Agua hasta 5ATM.'
-date: 2026-11-25 16:47:50
+date: 2026-11-27 00:13:29
 image: 'https://m.media-amazon.com/images/I/41B8yrVkebL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B079QQ34RL/?tag=tolees-21'
 descuento: '47.57'
-average: '128.8980622837378'
+average: '128.65718213058494'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

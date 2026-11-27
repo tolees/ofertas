@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Descripción del producto: Anillo Luxenter Fadino en aleación de metal con cuarzo hidrotermal ónix y acabado en oro amarillo de 18K. La colección África es la línea perfecta para mujeres con personalidad, que no temen arriesgar y lucir piezas con carácter propio. Un diseño sofisticado y llamativo, ideal para resaltar cualquier look con un toque de exclusividad y elegancia.
 - Descripción técnica: Material: Aleación de metal Piedra: Cuarzo hidrotermal ónix Color: Morado y dorado Acabado: Oro amarillo de 18k Talla 16
+- Descripción del producto: Anillo Luxenter Fadino en aleación de metal con cuarzo hidrotermal ónix y acabado en oro amarillo de 18K. La colección África es la línea perfecta para mujeres con personalidad, que no temen arriesgar y lucir piezas con carácter propio. Un diseño sofisticado y llamativo, ideal para resaltar cualquier look con un toque de exclusividad y elegancia.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CVLC9VDN{{</world>}}

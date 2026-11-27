@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre de botones
-- Una mirada original
-- Un ajuste cómodo
 - Largo regular
 - Cuello de polo
+- Una mirada original
+- Cierre de botones
+- Un ajuste cómodo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FJRRKX7B{{</world>}}

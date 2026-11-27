@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suelas flexibles y mayor comodidad
 - CHROME FREE INTERIOR
-- La esencia de The Art Company representada en estos zapatos. Comodidad y diseño complementado con el espíritu libre, inconformista y urbano de nuestra marca. Cálzate tus Art y sal a disfrutar del mundo. The art company shoes, metropolitan shoes.
 - Forro de Microfibra
+- La esencia de The Art Company representada en estos zapatos. Comodidad y diseño complementado con el espíritu libre, inconformista y urbano de nuestra marca. Cálzate tus Art y sal a disfrutar del mundo. The art company shoes, metropolitan shoes.
+- Suelas flexibles y mayor comodidad
 - REMOVABLE MICROFIBER INSOLE
 
 [🛒 Aquí!!!]({{< param buyurl >}})

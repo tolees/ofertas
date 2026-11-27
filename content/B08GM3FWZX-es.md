@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Contenido: 1x bolsa de 16 anclajes metálicos FWA 8X80
-- Principales ventajas: el anclaje FWA de acero galvanizado de buena calidad permite ahorro de tiempo debido a la instalación a través y la profundidad reducida del taladro; tamibén permite uso de menos fijaciones debido a la alta capacidad de carga
 - Tecnología: el anillo plástico adicional permite asegurar la expansión en superficies de hormigón incluso si la base de anclaje presenta superficies irregulares
 - Aplicaciones: para la fijación de estructuras metálicas, barandillas, soportes, escaleras de mano, bandejas de cables, máquinas, escaleras mecánicas, prebabricados de hormigón, fachadas, carpintería metálica, construcciones de madera
+- Principales ventajas: el anclaje FWA de acero galvanizado de buena calidad permite ahorro de tiempo debido a la instalación a través y la profundidad reducida del taladro; tamibén permite uso de menos fijaciones debido a la alta capacidad de carga
 - Modo de empleo: Realizar agujero en el hormigón con broca de 8 mm de diámetro, limpiar el agujero, introducir el anclaje ayudandose de un martillo, apretar según el par de apriete que viene indicado en la caja del producto
 
 [🛒 Aquí!!!]({{< param buyurl >}})

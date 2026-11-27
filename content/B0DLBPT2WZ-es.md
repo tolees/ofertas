@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tongue y cuello acolchados.
-- Logotipo de la marca.
 - Chunky Shoe-laces (plus one additional set of contrast colour shoelaces).
+- Logotipo de la marca.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DLBPT2WZ{{</world>}}

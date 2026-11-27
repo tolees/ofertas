@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela exterior AHAR+ duradera
-- PureGEL evolucionado para una comodidad superior
-- Ideal para entrenamientos diarios y distancias medias.
 - FF BLAST para un mayor retorno de energía
+- Suela exterior AHAR+ duradera
+- Ideal para entrenamientos diarios y distancias medias.
+- PureGEL evolucionado para una comodidad superior
 - Parte superior transpirable y ligera.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ojales bordados
-- Cierre de velcro
 - Material: algodón
-- Seis paneles
 - Unisex
+- Cierre de velcro
+- Ojales bordados
+- Seis paneles
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01CCL0A4A{{</world>}}

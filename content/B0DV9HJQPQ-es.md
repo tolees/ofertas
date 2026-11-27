@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Costuras posteriores curvadas
 - Cintura de talle medio
+- Costuras posteriores curvadas
 - Swoosh reflectante
-- Cuerpo: 80 % poliéster/20 % spandex. Paneles: 92 % poliéster/8 % spandex. Malla: 81 % poliéster/19 % spandex. Forro del refuerzo: 100 % poliéster.
 - Este producto no está diseñado para su uso como equipo de protección individual (EPI)
+- Cuerpo: 80 % poliéster/20 % spandex. Paneles: 92 % poliéster/8 % spandex. Malla: 81 % poliéster/19 % spandex. Forro del refuerzo: 100 % poliéster.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DV9HJQPQ{{</world>}}

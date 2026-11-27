@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cierre de cordones
 - Puntera redondeada
 - Diseño minimalista y sencillo con comodidad para todo el día
-- Cierre de cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F63C4KRC{{</world>}}

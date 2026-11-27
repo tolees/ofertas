@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Barrera preventiva contra el fuego, actúa como cortafuegos. Extinción total del fuego, no se vuelve a reactivar una vez apagado. Corta el humo de forma inmediata, evitando intoxicación.
 - Sistemas sencillos de aplicación como pulverizadores, mochila de extinción o un equipo autónomo de extinción.
 - Entre 50 y 100 veces más rápido que el agua. Se necesita poca cantidad para extinguir el fuego: 1 litro de Ecofire equivale a 20 litros de agua. La caducidad del producto llega hasta los 5 años, siempre y cuando se mantengan las condiciones óptimas de almacenamiento.
 - Pulverizador Ecofire Home de 1 litros con pistol manual preparado para uso doméstico. Recomendado para extinción de incendios de grandes superficies. NO MEZCLAR CON AGUA.
+- Barrera preventiva contra el fuego, actúa como cortafuegos. Extinción total del fuego, no se vuelve a reactivar una vez apagado. Corta el humo de forma inmediata, evitando intoxicación.
 - EFECTIVO CONTRA FUEGOS TIPO ABCDK. 100% ecológico, biodegradable y orgánico. Agente de extinción y prevención de incendios, inocuo para el ser humano y animales. Actúa como aislante térmico, no transmite el calor.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

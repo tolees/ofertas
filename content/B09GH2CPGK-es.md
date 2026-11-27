@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Altura elevada de cuña de 1,6 pulgadas / 41 mm, medida desde el suelo hasta el reposatalones
 - Personalizable con amuletos Jibbitz en la parte superior y la correa trasera
-- Es pequeño. Elige una talla más si es entre tallas.
 - Confort icónico de Crocs: ligero. Flexible. Comodidad de 360 grados.
 - Misma parte superior Classic Clogging
+- Es pequeño. Elige una talla más si es entre tallas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09GH2CPGK{{</world>}}

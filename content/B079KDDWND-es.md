@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 9Forty - Ajustable
-- Material de lona duradero
-- Escudo bordado para el orgullo del equipo
 - Marca: New Era
+- Escudo bordado para el orgullo del equipo
+- Material de lona duradero
 - Ojales para una alta transpirabilidad
+- 9Forty - Ajustable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B079KDDWND{{</world>}}

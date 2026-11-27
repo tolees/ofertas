@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Invicta Pro Diver Reloj Cuarzo para Hombre de acero inoxidable - 40mm'
-date: 2026-11-13 09:58:25
+date: 2026-11-26 15:01:57
 image: 'https://m.media-amazon.com/images/I/411TlJXvTyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FCLBWD9/?tag=tolees-21'
 descuento: '39.34'
-average: '73.480500000000163'
+average: '71.708636363636515'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

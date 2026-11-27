@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello: de Camisa
-- Desigual
 - Estampado Arty
-- Cierre: de Botón
 - Fit: Regular
+- Cuello: de Camisa
+- Cierre: de Botón
 - Manga: Larga
+- Desigual
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DW9HD6QT{{</world>}}

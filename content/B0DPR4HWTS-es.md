@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Estrella mágica de Yumetaro: ¡arma y utensilio a la vez!
-- ¡Al fin ha vuelto Yumetaro, el pequeño yokai verde!
 - ¡Vidas infinitas y numerosos puntos de control para un desafío con garantías!
 - ¡Banda sonora magistral del legendario David Wise!
+- ¡Al fin ha vuelto Yumetaro, el pequeño yokai verde!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DPR4HWTS{{</world>}}

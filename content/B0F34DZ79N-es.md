@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cordones
-- Suela de goma que no deja huella
 - Corte clásico
+- Suela de goma que no deja huella
 - Empeine textil y sintético
 - Plantilla textil
+- Cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F34DZ79N{{</world>}}

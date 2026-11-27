@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Plug and Play: no es necesario instalar ningún controlador, compatibilidad Windows/Mac
-- ppp Resolution 1000dpi – Cable USB de 1,15 m.
-- 3 teclas con rueda scroll – Sensor óptico con efecto visual
-- Diseño comapatto para una presa cómoda y cómodo
 - Garantía de 2 años EWENT en el producto. Help desk dedicado Italia
+- ppp Resolution 1000dpi – Cable USB de 1,15 m.
+- Diseño comapatto para una presa cómoda y cómodo
+- 3 teclas con rueda scroll – Sensor óptico con efecto visual
+- Plug and Play: no es necesario instalar ningún controlador, compatibilidad Windows/Mac
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01N47OI2O{{</world>}}

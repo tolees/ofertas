@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Under Armour Hombre UA HG Armour Comp Mock LS Shirt'
-date: 2026-11-22 06:21:32
+date: 2026-11-26 17:30:01
 image: 'https://m.media-amazon.com/images/I/31K5vOLIYbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08LNZMGQK/?tag=tolees-21'
 descuento: '53.02'
-average: '24.6'
+average: '23.438'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

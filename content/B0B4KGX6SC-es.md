@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nombre de la categoría de productos: Fútbol para hombre largo
 - teamCUP - Pantalones casuales
-- Número de modelo del producto: 657988
+- Nombre de la categoría de productos: Fútbol para hombre largo
 - Marca del producto: PUMA
+- Número de modelo del producto: 657988
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B4KGX6SC{{</world>}}

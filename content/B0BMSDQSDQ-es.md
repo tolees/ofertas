@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Klavado/acabado : Lavado a la piedra para un acabado desgastado y desteñido
-- Bolsillos : Bolsillos traseros, Bolsillo relojero, Bolsillos delanteros
 - Cintura : Tiro alto
-- Corte : Vaqueros de corte cónico con tiro regular, muslo relajado, rodilla regular, abertura delgada en la pierna
+- Bolsillos : Bolsillos traseros, Bolsillo relojero, Bolsillos delanteros
 - Cierre : Bragueta con cremallera
+- Corte : Vaqueros de corte cónico con tiro regular, muslo relajado, rodilla regular, abertura delgada en la pierna
 - Artículo : Vaqueros de corte comfort
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

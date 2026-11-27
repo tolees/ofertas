@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sintético
-- Enhebrar
-- Sin tacón
 - Caucho
+- Sin tacón
 - poliéster
+- Enhebrar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B4NV1XJJ{{</world>}}

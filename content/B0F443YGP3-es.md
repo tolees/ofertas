@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estampado : Estampa en la parte delantera del producto, Estampado con pigmentos para un acabado delicado en los tejidos más ligeros
-- Cuello : Cuello redondo
+- Mangas : Sisa en disminución
 - Corte : Corte relaxed
 - Manga : Manga larga
+- Estampado : Estampa en la parte delantera del producto, Estampado con pigmentos para un acabado delicado en los tejidos más ligeros
 - Artículo : Sudadera
-- Mangas : Sisa en disminución
+- Cuello : Cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F443YGP3{{</world>}}

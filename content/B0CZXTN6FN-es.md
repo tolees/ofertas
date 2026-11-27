@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puños de canalé
 - Contiene al menos un 70% de material reciclado y renovable
+- Puños de canalé
 - 55% algodón / 36% poliéster (reciclado) / 9% viscosa
+- Corte clásico
 - Cierre de cordón
 - Perneras ajustadas
-- Corte clásico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZXTN6FN{{</world>}}

@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Artículo : Camiseta
+- Corte : Corte relaxed
 - Cuello : Cuello redondo
+- Artículo : Camiseta
 - Mangas : Sisa en disminución
+- Estampado : Estampa en la parte delantera del producto, Estampado con pigmentos para un acabado delicado en los tejidos más ligeros
 - Modo de vida : Tradicional
 - Manga : Manga corta
-- Corte : Corte relaxed
-- Estampado : Estampa en la parte delantera del producto, Estampado con pigmentos para un acabado delicado en los tejidos más ligeros
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F8KYXWMN{{</world>}}

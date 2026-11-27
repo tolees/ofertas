@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forma rectangular modificada unisex que proporciona un aspecto elegante.
 - El contraste de color en las patillas crea un efecto de fantasía.
+- Forma rectangular modificada unisex que proporciona un aspecto elegante.
+- La montura RXable se puede utilizar con lentes graduadas
 - Lentes Eastman Tritan Renew, un material que utiliza un 50% de poliéster reciclado derivado de residuos plásticos en el proceso de fabricación.
 - Accesorio universal y tallas S disponibles.
 - Ligero y duradero gracias a su material de acetato y resina vegetal, alternativa menos contaminante respecto a los plásticos estándar
-- La montura RXable se puede utilizar con lentes graduadas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CX5LHDTY{{</world>}}

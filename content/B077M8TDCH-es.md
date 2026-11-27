@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Zapatillas Smash v2 L Unisex White-Black 40 EU'
-date: 2026-11-20 02:16:54
+date: 2026-11-27 08:47:53
 image: 'https://m.media-amazon.com/images/I/31ENeuDizkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B077M8TDCH/?tag=tolees-21'
 descuento: '53.63'
-average: '28.655733333333227'
+average: '28.57324675324665'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

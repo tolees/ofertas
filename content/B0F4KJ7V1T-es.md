@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puños redondos de un botón
-- Cuello abotonado
-- Tecnología Flex
 - Pliegues en la parte trasera
+- Tecnología Flex
+- Cuello abotonado
+- Puños redondos de un botón
 - Popelina de algodón melocotón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

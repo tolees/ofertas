@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Pantalones de mezclilla ajustados de cintura alta
-- Lavado gris desteñido
 - 92 % algodón, 6 % poliéster, 2 % elastano
+- Lavado gris desteñido
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DTJDP7TC{{</world>}}

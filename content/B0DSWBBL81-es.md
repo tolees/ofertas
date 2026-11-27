@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Provides comfort
 - Button fly
+- Inset pockets, including coin pocket
 - An original look
 - A comfortable fit
-- Inset pockets, including coin pocket
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DSWBBL81{{</world>}}

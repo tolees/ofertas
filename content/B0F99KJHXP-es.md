@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre con cordones ajustable para un ajuste personalizado.
 - Parte superior de cuero, tela sintética y malla que garantiza durabilidad y un aspecto deportivo.
+- Cierre con cordones ajustable para un ajuste personalizado.
 - Suela de goma para mayor agarre y durabilidad.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

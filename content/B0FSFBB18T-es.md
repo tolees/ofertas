@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- PRECAUCIONES: Mantener a temperatura inferior a 25°C. Evitar el contacto con los ojos. Solo para uso externo. Mantener fuera del alcance de los niños.
+- TEXTURA LIGERA: Fórmula no comedogénica con almidón de tapioca que proporciona un acabado mate y controla el brillo durante todo el día.
 - TRATAMIENTO FACIAL: Fluido clínico matificante para el tratamiento del acné, especialmente formulado para pieles grasas y mixtas con tendencia acnéica.
 - INGREDIENTES ACTIVOS: Contiene ácido salicílico y carnitina que ayudan a reducir las imperfecciones y controlar el exceso de grasa en la piel.
 - MODO DE USO: Aplicar una fina capa sobre el rostro limpio y seco. Contenido neto de 40ml para un uso prolongado.
-- PRECAUCIONES: Mantener a temperatura inferior a 25°C. Evitar el contacto con los ojos. Solo para uso externo. Mantener fuera del alcance de los niños.
-- TEXTURA LIGERA: Fórmula no comedogénica con almidón de tapioca que proporciona un acabado mate y controla el brillo durante todo el día.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FSFBB18T{{</world>}}

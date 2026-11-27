@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Spinner 55 equipaje de mano: viaje de 2 días: 40 x 20 x 55 cm, 34 L, 2,90 kg
 - Fabricado en Europa
+- Spinner 55 equipaje de mano: viaje de 2 días: 40 x 20 x 55 cm, 34 L, 2,90 kg
 - Punto de tracción de doble tubo con niveaux de talla y tubos de punto de rueda de aluminio y ruedas dobles con función fluida
 - Función TSA integrada en la cerradura principal para viajeros con total seguridad y etiqueta identificativa integrada
 - Sistema de verificación de 3 puntos que permite a los viajeros verificar su valor y proteger sus efectos personales

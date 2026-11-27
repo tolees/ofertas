@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño icónico de los años 60 y 70 en Gran Bretaña
-- Timbre tradicional auténtico
-- Compatible con los sistemas de telefonía actuales, menús digitales, etc.
 - Funciona con todo de tipo de redes de comunicaciones del hogar como pueden ser BT o Virgin
 - Tradicional diseño de disco para marcar y cable en espiral
+- Diseño icónico de los años 60 y 70 en Gran Bretaña
+- Compatible con los sistemas de telefonía actuales, menús digitales, etc.
+- Timbre tradicional auténtico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B008MV41CC{{</world>}}

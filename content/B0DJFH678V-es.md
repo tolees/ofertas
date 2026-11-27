@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Corte clásico con talle medio
+- Tejido transpirable
+- Cierre de cremallera y cuello alzado
 - 100% poliéster (reciclado)
+- CLIMACOOL
+- Puños y dobladillo de canalé
+- Diseño con bloques de color
 - Chaqueta con bolsillos tipo canguro y pantalón con bolsillos laterales
 - Cintura elástica con cordón
-- Cierre de cremallera y cuello alzado
-- Tejido transpirable
-- CLIMACOOL
-- Corte clásico con talle medio
-- Diseño con bloques de color
-- Puños y dobladillo de canalé
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DJFH678V{{</world>}}

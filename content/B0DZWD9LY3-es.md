@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- No usar lejía. No meter en la secadora. No lavar en seco.
-- Bolsa portatodo con cierre de cremallera y asa para llevarla de forma más cómoda alrededor de la muñeca
 - Planchar a baja temperatura
+- Bolsa portatodo con cierre de cremallera y asa para llevarla de forma más cómoda alrededor de la muñeca
+- No usar lejía. No meter en la secadora. No lavar en seco.
 - Su divertido mensaje hace que resulte ideal para regalar a mujeres que son madre, pero también a muchos otros tipos de personas
 - Indicaciones: lavar en agua fría
 

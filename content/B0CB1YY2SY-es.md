@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Panel en los hombros, costura con forma en vertical
-- Cuello de camisa
 - Puño alto, botones a presión
+- Cuello de camisa
 - Bolsillos con cierre de botón a presión en el pecho
 - Cierre de botones a presión
 

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello redondo de canalé
 - Punto 100% algodón
 - Corte clásico
+- Cuello redondo de canalé
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CL2SP7Z6{{</world>}}

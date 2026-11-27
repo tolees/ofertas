@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Primegreen
-- Diseño ligero
-- Talla única
 - Cordón ajustable
 - 100% poliéster (100% reciclado)
+- Talla única
+- Diseño ligero
+- Primegreen
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F5BH9YCB{{</world>}}

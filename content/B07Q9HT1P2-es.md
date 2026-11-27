@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Crema BB ultraligera
-- Protege la piel del fotoenvejecimiento.
 - hidratante
+- Protege la piel del fotoenvejecimiento.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07Q9HT1P2{{</world>}}

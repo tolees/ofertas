@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Zapatilla deportiva
 - Adecuada para uso diario
 - Cierre con cordones
-- Zapatilla deportiva
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FDFJ179X{{</world>}}

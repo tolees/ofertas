@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Plain
+- Leather
 - materialFabricComposition: Upper: 100% Cow Leather; Sole: 100% Rubber; Inner: 100% Cow Leather; Insole: 100% Cow Leather
 - Boots
-- Leather
-- Plain
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07CTHKBCP{{</world>}}

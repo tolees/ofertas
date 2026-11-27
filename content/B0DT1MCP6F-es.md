@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'UA Assert 11'
-date: 2026-11-19 20:30:53
+date: 2026-11-26 15:34:36
 image: 'https://m.media-amazon.com/images/I/31a36JAEYHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

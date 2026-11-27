@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Acabado con pierna acampanada
 - Para esos días en los que un jean ceñido no funciona
 - Tiro alto que se ajusta a la cintura
-- Acabado con pierna acampanada
 - Este producto es original Levis
 
 [🛒 Comprar!!!]({{< param buyurl >}})

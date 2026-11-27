@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maybelline New York Super Lock Gel Fijador de Cejas Acabado Transparente | Acabado Transparente Sin Sensación Pegajosa Cejas Peinadas al Instante Cepillo Incorporado Sin Grumos Super Lock'
-date: 2026-11-14 16:02:04
+date: 2026-11-26 07:31:41
 image: 'https://m.media-amazon.com/images/I/313xm7sd3yL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CWS16Y87/?tag=tolees-21'
 descuento: '45.59'
-average: '6.4327272727272584'
+average: '6.3474285714285585'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

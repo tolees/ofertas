@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Nuestros jeans de pierna recta son ajustados y cortados cerca de la pierna
 - Cintura de forma más alta
+- Nuestros jeans de pierna recta son ajustados y cortados cerca de la pierna
 - Favorecedores y cómodos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

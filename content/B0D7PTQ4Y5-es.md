@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Ideales a partir de 7 años, estos juguetes de construcción ayudan a fomentar la creatividad y a desarrollar la capacidad de resolución de problemas
 - Las piezas pueden combinarse con todos los conjuntos de construcción de Pokémon de MEGA y son compatibles con las principales marcas
 - Officially licensed by The Pokémon Company International
-- Ideales a partir de 7 años, estos juguetes de construcción ayudan a fomentar la creatividad y a desarrollar la capacidad de resolución de problemas
 - Conjunto Poké Ball con dos Pokémon construibles y dos Poké Ball
 - Incluye los populares Pokémon Pikachu y Ditto
 

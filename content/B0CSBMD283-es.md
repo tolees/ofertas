@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ligeras
 - Diseño de una sola pieza para una mayor comodidad
+- Ligeras
 - Suela de tracción
 
 [🛒 Aquí!!!]({{< param buyurl >}})

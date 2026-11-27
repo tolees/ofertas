@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenor Frescor Flores Silvestres 8x700 ml.'
-date: 2026-11-14 12:03:38
+date: 2026-11-26 11:30:02
 image: 'https://m.media-amazon.com/images/I/51SPy-t4PQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FDQT1FVK/?tag=tolees-21'
 descuento: '47.39'
-average: '20.658888888888935'
+average: '20.592000000000041'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Material: 95% algodón, 5% elastano
-- Ajuste cómodo
 - Jeans casuales
+- Ajuste cómodo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BNBXHLYC{{</world>}}

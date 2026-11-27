@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PUMA Detalles de la marca
-- Corte ergonómico
 - Bajos por encima de la rodilla
+- PUMA Detalles de la marca
 - Corte estándar
+- Corte ergonómico
 - Cintura alta
 
 [🛒 Comprar!!!]({{< param buyurl >}})

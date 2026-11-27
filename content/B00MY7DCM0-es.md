@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100% Natural
 - Potencia la hidratación
-- Mezcla de sabores
 - ALL PROFITS TO THE PLANET: Propiedad de la organización sin ánimo de lucro Fondazione Capellino, Almo Nature reinvierte el 100% de sus beneficios en la protección de la biodiversidad y los derechos de los animales.
+- Mezcla de sabores
+- 100% Natural
 - Alto porcentaje de carne y pescado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

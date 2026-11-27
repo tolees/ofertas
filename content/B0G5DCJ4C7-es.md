@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - ¡Perfecto para gozar de tu momento Haribo!
-- Geles dulces
 - La siguiente información se aplica a cada unidad del paquete
+- Geles dulces
 - Deliciosas piezas con forma de tubito con exterior rojo sabor Fresa recubiertos de pica e interior de pasta de azúcar sabor nata.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

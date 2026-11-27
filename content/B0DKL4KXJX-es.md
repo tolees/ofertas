@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Detalle
 - Zapatillas deportivas
 - Red
 - Composición: 100% malla
+- Detalle
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DKL4KXJX{{</world>}}

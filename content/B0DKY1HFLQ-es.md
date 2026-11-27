@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detalles bordados
-- Ojetes bordados
 - Botones
 - Composición: 100 % algodón
+- Detalles bordados
+- Ojetes bordados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DKY1HFLQ{{</world>}}

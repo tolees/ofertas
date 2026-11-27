@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ADIDAS | BodyCare Relaunch Active Start | Gel de ducha | 400 ML'
-date: 2026-11-25 17:02:35
+date: 2026-11-26 21:40:51
 image: 'https://m.media-amazon.com/images/I/41J-VX-POQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BN8FKY44/?tag=tolees-21'
 descuento: '39.34'
-average: '2.4075862068965526'
+average: '2.3716129032258073'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

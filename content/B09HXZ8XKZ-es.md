@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Formulado sin parabenos. Infusionado con aceite de Mango
-- Lápiz labial ligero acabado mate que no reseca
 - Aplicador preciso con sacapuntas incorporado
 - Cobertura total de color intenso mate
 - Resistente al agua, a prueba de roces y besos
+- Lápiz labial ligero acabado mate que no reseca
+- Formulado sin parabenos. Infusionado con aceite de Mango
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09HXZ8XKZ{{</world>}}

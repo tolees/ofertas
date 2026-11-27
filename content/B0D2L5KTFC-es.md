@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conjunto coordinado
 - Tiene detalles distintivos de la marca
+- Conjunto coordinado
 - Adecuado para uso diario
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

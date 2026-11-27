@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Talla: 31 EU
 - Tipo de producto: ZAPATOS
+- Talla: 31 EU
 - Color: negro
 - Diseño liviano
 - Marca: Skechers

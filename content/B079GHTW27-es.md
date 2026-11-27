@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Breathable mesh
 - High-performance shoe
 - QuickDry mesh
 - Flexible rubber outsole
+- Breathable mesh
 - Streamlined design with multi-zone traction
 
 [🛒 Visítala!!!]({{< param buyurl >}})

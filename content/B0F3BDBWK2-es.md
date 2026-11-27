@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cámara Mini 2K+ Blink última generación Cámara de seguridad doméstica con enchufe resolución de vídeo 2K zoom de 4 aumentos visión nocturna en color Compatible con Alexa 1 cámara'
-date: 2026-11-24 20:52:26
+date: 2026-11-27 09:31:54
 image: 'https://m.media-amazon.com/images/I/21YQ-WEWenL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F3BDBWK2/?tag=tolees-21'
 descuento: '55.57'
-average: '23.507857142857105'
+average: '23.386551724137892'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Incluye componentes de soporte.
 - De fácil colocación e instalación.
-- Sirve para mantener la distancia de seguridad entre el cliente y el vendedor.
+- Incluye componentes de soporte.
 - La mampara es hecha en policarbonato en lugar de acrílico porque el policarbonato tiene capacidad para soportar altas temperaturas térmicas, tiene más resistencia, durabilidad y calidad.
-- Peso: 3500gr.
+- Sirve para mantener la distancia de seguridad entre el cliente y el vendedor.
 - Mampara protectora para mostrador de policarbonato transparente de 3mm.
+- Peso: 3500gr.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B087YRQSXY{{</world>}}

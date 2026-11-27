@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Camisa de Franela con las siguientes características:
 - Básicos, Ropa casual, Ropa de Calle
 - Camisa || Puños de las mangas || Cuello Redondo Cuello Camiseta || Interior afelpado
-- Ajuste : Regular
 - Descubre todas las marcas de EMP!
+- Ajuste : Regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07WP91XWM{{</world>}}

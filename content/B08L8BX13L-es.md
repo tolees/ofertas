@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Nuestro jamón de cebo ibérico se cura durante un largo proceso de más de 24 meses, de los cuales los ocho últimos se dedican al reposo en nuestras bodegas, donde adquiere los aromas y matices característicos del buen jamón ibérico
 - olo Jamón y Sal. 100% Natural, sin aditivos
-- Jamón de cebo procedente de cerdos ibéricos, lo que quiere decir que su madre es ibérica pura y su padre Duroc.
-- Advertencia de seguridad: Conservar en lugar fresco y seco a menos de 22ºC
 - Maletín de jamón ibérico de cebo, hecho de cartón, pesa 700g y tiene asa para un fácil transporte.
 - Instrucciones para su uso adecuado: Apto para todos; adecuado para tentempiés, comidas y cenas
+- Advertencia de seguridad: Conservar en lugar fresco y seco a menos de 22ºC
 - Maletín con 10 sobres de Jamón de Cebo Ibérico envasados al vacío
-- Nuestro jamón de cebo ibérico se cura durante un largo proceso de más de 24 meses, de los cuales los ocho últimos se dedican al reposo en nuestras bodegas, donde adquiere los aromas y matices característicos del buen jamón ibérico
+- Jamón de cebo procedente de cerdos ibéricos, lo que quiere decir que su madre es ibérica pura y su padre Duroc.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08L8BX13L{{</world>}}

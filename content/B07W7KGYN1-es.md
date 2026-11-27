@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech MK295 Silent QWERTY Español - Negro | Combo teclado y ratón inalámbricos SilentTouch seguimiento óptico 90% menos ruido'
-date: 2026-11-22 09:53:23
+date: 2026-11-26 21:05:08
 image: 'https://m.media-amazon.com/images/I/315dmBt5JfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07W7KGYN1-es Logitech MK295 Silent QWERTY Español - Negro | Combo...'
 sku: 'B07W7KGYN1-es'
 tags: [ '🇪🇸', ]
-actualPrice: 22.23 EUR
+actualPrice: 22.2 EUR
 currency: EUR
-price: 22.23
+price: 22.2
 comparePrice: 34.99 EUR
 prodname: 'Logitech MK295 Silent QWERTY Español - Negro | Combo teclado y ratón inalámbricos SilentTouch seguimiento óptico 90% menos ruido'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W7KGYN1/?tag=tolees-21'
-descuento: '36.47'
-average: '28.062542372881357'
+descuento: '36.55'
+average: '27.964833333333331'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

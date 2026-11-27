@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cordones
-- Forro textil
 - Corte clásico
+- Forro textil
+- Cordones
 - Empeine de piel sintética
 - Suela de goma tipo copa elevada
 

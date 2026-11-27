@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Speed Champions Coche Deportivo Ferrari SF90 XX Stradale 77254 | Juguetes para niños de 9+ años maqueta de coche con minifigura coleccionable de piloto regalo de cumpleaños 339 piezas'
-date: 2026-11-24 21:42:31
+date: 2026-11-27 10:17:11
 image: 'https://m.media-amazon.com/images/I/51kEeZyQJjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FPXK52K8/?tag=tolees-21'
 descuento: '35.73'
-average: '21.416666666666586'
+average: '21.153076923076849'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

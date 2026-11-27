@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Puma Logotipo de gato en la puntera y la lengüeta
 - Suela de goma para mayor agarre
 - Bota baja
+- Puma Logotipo de gato en la puntera y la lengüeta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DJ9NMDY7{{</world>}}

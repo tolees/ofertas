@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ofrecen una comodidad óptima
 - Con tejido ligero y suave
+- Ofrecen una comodidad óptima
 - Cintura elástica con logo en la parte delantera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

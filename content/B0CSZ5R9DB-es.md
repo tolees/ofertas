@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ravensburger - Puzzle 3D BB-8 Star Wars 99 Piezas +8 años | Puzzle 3D BB-8 Star Wars de 99 piezas maqueta para montar para niños +8 años ideal como regalo para fans de Star Wars.'
-date: 2026-11-25 07:33:06
+date: 2026-11-26 07:56:56
 image: 'https://m.media-amazon.com/images/I/41Aon9ofP7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CSZ5R9DB/?tag=tolees-21'
 descuento: '46.37'
-average: '16.916250000000051'
+average: '16.702222222222268'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

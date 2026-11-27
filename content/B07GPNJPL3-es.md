@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Skechers Delson Axton Zapatilla Baja Hombre Dark Brown 43 EU'
-date: 2026-03-11 12:05:46
-image: 'https://m.media-amazon.com/images/I/41gBLy8a8XL._SL500_._SL400_.jpg'
+title: 'Skechers Hombre Delson Axton Trainers Dark Brown Leather 43 EU'
+date: 2026-11-27 08:11:28
+image: 'https://m.media-amazon.com/images/I/41cqK79TCML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07GPNJPL3-es Skechers Delson Axton Zapatilla Baja Hombre Dark Brown 43 EU'
+slug: 'B07GPNJPL3-es Skechers Hombre Delson Axton Trainers Dark Brown Leather...'
 sku: 'B07GPNJPL3-es'
 tags: [ '🇪🇸', ]
-actualPrice: 56.48 EUR
+actualPrice: 49.19 EUR
 currency: EUR
-price: 56.48
+price: 49.19
 comparePrice: 89.95 EUR
-prodname: 'Skechers Delson Axton Zapatilla Baja Hombre Dark Brown 43 EU'
+prodname: 'Skechers Hombre Delson Axton Trainers Dark Brown Leather 43 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GPNJPL3/?tag=tolees-21'
-descuento: '37.21'
-average: '60.5428571428571'
+descuento: '45.31'
+average: '58.019999999999968'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,6 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Smooth leather
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07GPNJPL3{{</world>}}

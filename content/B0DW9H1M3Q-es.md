@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Desigual
-- Largo: Midi
 - Manga: Larga
+- Largo: Midi
 - Cuello: Redondo
-- Color: Liso
 - Fit: Regular
+- Color: Liso
+- Desigual
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DW9H1M3Q{{</world>}}

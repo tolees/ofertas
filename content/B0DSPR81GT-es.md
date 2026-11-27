@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La funda se fija a tu edredón existente con cierres integrados para mantenerlo en su lugar (edredón no incluido).
 - Juego de funda nórdica de 180TC algodón orgánico con edredón y funda de almohada a juego.
+- La funda se fija a tu edredón existente con cierres integrados para mantenerlo en su lugar (edredón no incluido).
+- Medidas del producto: Funda nórdica para cama de 90: 135 x 200 cm. Funda: 50 x 80 cm.
 - Certificado OEKO-TEX y testado para sustancias nocivas, cumpliendo los más altos estándares de seguridad y medio ambiente. Certificado para GOTS, asegurando que cumplen los rigurosos estándares globales para textiles orgánicos.
 - Hecho con algodón orgánico 100% certificado por la Norma Textil Orgánica Global (GOTS)
 - Certificado STANDARD 100 de OEKO-TEX, que exige que los productos textiles se prueben con una lista de más de 1000 productos químicos para limitar los que pueden ser perjudiciales para la salud humana
-- Medidas del producto: Funda nórdica para cama de 90: 135 x 200 cm. Funda: 50 x 80 cm.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DSPR81GT{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 4 taladros de archivo compatibles con carpetas de 2 y 4 anillas, Europeanbinder y archivadores palanca
 - Cuadrícula 4mm x 4mm con margen
 - Paquete retractilado de 120 hojas sueltas
-- EU Ecolabel: certificación que garantiza la minimización de la huella ambiental en cada paso del ciclo de vida del producto
 - Papel Optik Paper: un papel exclusivo de Oxford único por su opacidad, lisura y satinado. La tinta no traspasa de un lado a otro ni se dispersa, resistente a la presión del lápiz y al borrado
+- 4 taladros de archivo compatibles con carpetas de 2 y 4 anillas, Europeanbinder y archivadores palanca
+- EU Ecolabel: certificación que garantiza la minimización de la huella ambiental en cada paso del ciclo de vida del producto
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00XUA3HJS{{</world>}}

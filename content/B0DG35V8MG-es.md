@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fabricado en material duradero, es rellenable y reutilizable
 - Apto para lavavajillas
+- Fabricado en material duradero, es rellenable y reutilizable
 - Compatible con portavasos y a prueba de fugas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

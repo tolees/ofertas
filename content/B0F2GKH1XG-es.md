@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Mediasuela de EVA
 - Empeine textil con puntera reforzada
 - Forro textil
 - Cierre de cordones
-- Mediasuela de EVA
 - Horma clásica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

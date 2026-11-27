@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Parte superior de cuero con superposiciones sintéticas.
-- Marca PUMA en la lengüeta
-- Cierre de cordones para un ajuste cómodo
-- Suela de goma texturizada
 - Logotipo de PUMA N° 2 en el lateral
+- Marca PUMA en la lengüeta
+- Suela de goma texturizada
+- Cierre de cordones para un ajuste cómodo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09YY6N2YV{{</world>}}

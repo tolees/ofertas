@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ETIQUETAS: Este producto es apto para celíacos
-- MODO DE USO: Consumir una perla al día, preferiblemente con la comida. Por dosis diaria se obtienen 3,35mg de Vitamina E
-- No siempre conseguimos mantener los niveles de colesterol en el nivel más saludable. El Omega 3-6-9 de Drasanvi es una gran ayuda para esos casos, ya que contribuye a mantener los niveles de colesterol en sangre
-- COMPLEMENTOS, NUTRABASICOS. Aceite de pescado rico en Omega 3, Aceite de Onagra, Aceite de Lino, Vitamina E
 - BENEFICIOS: Contribuye a manetener niveles normales de colesterol sanguíneo
 - PROPIEDADES: Se han utilizado extractos estandarizados, esto quiere decir que los principios activos son constantes a lo largo del tiempo
+- No siempre conseguimos mantener los niveles de colesterol en el nivel más saludable. El Omega 3-6-9 de Drasanvi es una gran ayuda para esos casos, ya que contribuye a mantener los niveles de colesterol en sangre
+- ETIQUETAS: Este producto es apto para celíacos
+- COMPLEMENTOS, NUTRABASICOS. Aceite de pescado rico en Omega 3, Aceite de Onagra, Aceite de Lino, Vitamina E
+- MODO DE USO: Consumir una perla al día, preferiblemente con la comida. Por dosis diaria se obtienen 3,35mg de Vitamina E
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07VJJZ834{{</world>}}

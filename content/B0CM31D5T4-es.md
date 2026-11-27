@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CON ROSCA Tapa de cierre con rosca asegurando una mejor conservación de alimentos
-- Cumple con la normativa de Seguridad en Plásticos
-- APTO Para lavavajillas, nevera, congelador y microondas, desde -40ºC a 100º
-- LIBRE DE BPA Fabricado con plásicos de alta calidad libre de BPA y tóxicos
-- MEDIDAS 12 x 12 x 12,5 cm
-- Fabricado en España con sello de garantía TATAY
 - La siguiente información se aplica a cada unidad del paquete
+- APTO Para lavavajillas, nevera, congelador y microondas, desde -40ºC a 100º
+- Fabricado en España con sello de garantía TATAY
+- Cumple con la normativa de Seguridad en Plásticos
+- MEDIDAS 12 x 12 x 12,5 cm
+- CON ROSCA Tapa de cierre con rosca asegurando una mejor conservación de alimentos
+- LIBRE DE BPA Fabricado con plásicos de alta calidad libre de BPA y tóxicos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CM31D5T4{{</world>}}

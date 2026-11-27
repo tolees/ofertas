@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material de la montura: Metal, TR90; Color de la montura: Negro, Plateado; Color de la varilla: Negro
-- En esta versión del diseño Classic Rounded, las lentes polarizadas oscuras y las patillas y los aros superiores negros brillantes contrastan con el puente de metal plateado pulido y los aros inferiores en relieve
-- Modelo Unisex; Medidas: Frontal 137;4 mm, Varillas 145 mm, Puente 19 mm, Alto 50 mm
-- Gafas de sol polarizadas: Reduce los reflejos superficiales y la fatiga ocular proporcionando nitidez y contrastes superiores; Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes fabricadas en material bio tac polarizado; protección 100 % UV; Color de la lente: Negro; Apariencia de la lente: Sólida
 - Producto original Hawkers; la caja incluye funda en microfibra y caja
+- En esta versión del diseño Classic Rounded, las lentes polarizadas oscuras y las patillas y los aros superiores negros brillantes contrastan con el puente de metal plateado pulido y los aros inferiores en relieve
+- Material de la montura: Metal, TR90; Color de la montura: Negro, Plateado; Color de la varilla: Negro
+- Gafas de sol polarizadas: Reduce los reflejos superficiales y la fatiga ocular proporcionando nitidez y contrastes superiores; Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes fabricadas en material bio tac polarizado; protección 100 % UV; Color de la lente: Negro; Apariencia de la lente: Sólida
+- Modelo Unisex; Medidas: Frontal 137;4 mm, Varillas 145 mm, Puente 19 mm, Alto 50 mm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D2J6TRQ7{{</world>}}

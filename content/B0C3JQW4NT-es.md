@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte superior de piel sintética
 - Suela de goma
+- Parte superior de piel sintética
+- Cierre de cordones
 - Puntera reforzada
 - Horma clásica
 - Forro textil
-- Cierre de cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C3JQW4NT{{</world>}}

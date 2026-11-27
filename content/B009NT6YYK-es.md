@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dimensiones abierto: H76 P90 A70/92 cm - Dimensiones cerrado: H76 P45 A70/92 cm
-- Los espacios que ofrece permiten tener siempre todo a la mano para servir un aperitivo, una cena importante o un tentempié. Cerrada, permanece de pie y mantiene botellas y vasos en su lugar
-- Los carritos están realizados con gran atención en la elección de los materiales. Fácil de desplazar gracias a las ruedas giratorias
-- Carrito mesa de madera portaplatos con superficie superior extensible
-- Cada balda puede sostener un peso máximo de 5 kg
 - Provisto de cestos extraíbles de acero que pueden colocarse arriba o abajo al lado de las baldas. Ruedas giratorias engomadas, de las cuales dos con freno
+- Carrito mesa de madera portaplatos con superficie superior extensible
+- Los carritos están realizados con gran atención en la elección de los materiales. Fácil de desplazar gracias a las ruedas giratorias
+- Los espacios que ofrece permiten tener siempre todo a la mano para servir un aperitivo, una cena importante o un tentempié. Cerrada, permanece de pie y mantiene botellas y vasos en su lugar
 - Estructura de madera maciza, aglomerado revestido y cestos de metal
+- Dimensiones abierto: H76 P90 A70/92 cm - Dimensiones cerrado: H76 P45 A70/92 cm
+- Cada balda puede sostener un peso máximo de 5 kg
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B009NT6YYK{{</world>}}

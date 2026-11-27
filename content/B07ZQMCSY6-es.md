@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La pantalla de la lámpara es negra por fuera y dorada por dentro; el diámetro de la pantalla de la lámpara es de 105 mm; disponibles también en esta serie b0751jvccl (primera luz de pared), b0751fds6t (segunda luz de techo), b0751h3h58 (tercera luz de techo) y b07tzgpb5z (luz colgante)
-- Los puntos en elegante aspecto retro/ vintage son ideales como lámpara de sala de estar o lámpara de dormitorio
-- Foco de techo moderno de 4 luces, de metal
 - La potencía máxima de la lámpara es de 4 x 40 vatios (casquillo e14); las bombillas no están incluidas en la entrega; por supuesto, es posible utilizar lámparas led con una potencía mucho menor
+- La pantalla de la lámpara es negra por fuera y dorada por dentro; el diámetro de la pantalla de la lámpara es de 105 mm; disponibles también en esta serie b0751jvccl (primera luz de pared), b0751fds6t (segunda luz de techo), b0751h3h58 (tercera luz de techo) y b07tzgpb5z (luz colgante)
 - Los focos son giratorios e inclinables y, por lo tanto, ajustables individualmente; dimensiones de la lámpara de la sala de estar: 790 x 190 mm (largo x alto), 105 mm de diámetro (cabezal)
+- Foco de techo moderno de 4 luces, de metal
+- Los puntos en elegante aspecto retro/ vintage son ideales como lámpara de sala de estar o lámpara de dormitorio
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07ZQMCSY6{{</world>}}

@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 100% poliamida
-- Peso de 0,13 kg y volumen de 1 litro
 - Repele el agua
-- 10 cm de alto x 23 cm de ancho x 7 cm de profundidad
+- Peso de 0,13 kg y volumen de 1 litro
 - Estuche para bolígrafo
+- 10 cm de alto x 23 cm de ancho x 7 cm de profundidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07V3M67NP{{</world>}}

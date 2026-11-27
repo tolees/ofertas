@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Composición: Sintético
 - Material exterior: Sintético
 - Material de la suela: Goma
+- Composición: Sintético
 - Revestimiento: Sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hombre
 - New Era Gorro
+- SOMBRERO
 - poliéster
 - 30 x 24 x 18 cm
-- SOMBRERO
+- Hombre
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B002F7O0WA{{</world>}}

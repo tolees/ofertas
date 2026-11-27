@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- La lámpara tiene una altura de 151 cm y una proyección de 39 cm. El foco se puede girar y girar, de modo que la lámpara se puede utilizar de varias maneras.
 - Bombillas exclusivas para luminarias. Bombilla recomendada 1x GU10 máx. 5 vatios
 - Lámpara de pie Marley en metal níquel mate con interruptor
 - No incluye bombilla
-- La lámpara tiene una altura de 151 cm y una proyección de 39 cm. El foco se puede girar y girar, de modo que la lámpara se puede utilizar de varias maneras.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09BG2ST5W{{</world>}}

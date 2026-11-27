@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- COMODIDAD CLÁSICA DE ALGODÓN: El tejido 100% algodón proporciona suavidad de forma natural y comodidad durante todo el día
 - CORTE AJUSTADO: corte ajustado en los hombros, las mangas, el pecho y la cintura
-- CAMISETA INTERIOR DE CUELLO REDONDO: camiseta interior informal que ofrece comodidad y funcionalidad para el uso diario
+- COMODIDAD CLÁSICA DE ALGODÓN: El tejido 100% algodón proporciona suavidad de forma natural y comodidad durante todo el día
 - LONGITUD DE LA PRENDA: 74cm desde el lado del cuello en la talla M de España
 - DETALLES: mangas largas y dobladillo recto rematado con costuras flexibles supersuaves. El cuello redondo está reforzado para mayor durabilidad y tiene una etiqueta estampada en la parte trasera
+- CAMISETA INTERIOR DE CUELLO REDONDO: camiseta interior informal que ofrece comodidad y funcionalidad para el uso diario
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F6NM6BRH{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logo
 - Pack de 3
 - Alto porcentaje de algodón
+- Logo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CRL24T13{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'EA SPORTS FC™ 27 - Edición Estándar - Nintendo Switch|Cartucho físico | Videojuegos | Castellano'
-date: 2026-11-24 13:58:38
+date: 2026-11-26 11:37:48
 image: 'https://m.media-amazon.com/images/I/51YukCMPtmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0H7K5Y8TS-es EA SPORTS FC™ 27 - Edición Estándar - Nintendo...'
 sku: 'B0H7K5Y8TS-es'
 tags: [ '🇪🇸', ]
-actualPrice: 28.02 EUR
+actualPrice: 28.0 EUR
 currency: EUR
-price: 28.02
+price: 28.0
 comparePrice: 51.9 EUR
 prodname: 'EA SPORTS FC™ 27 - Edición Estándar - Nintendo Switch|Cartucho físico | Videojuegos | Castellano'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0H7K5Y8TS/?tag=tolees-21'
-descuento: '46.01'
-average: '47.749310344827663'
+descuento: '46.05'
+average: '47.091000000000079'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

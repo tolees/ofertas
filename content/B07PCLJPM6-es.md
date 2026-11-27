@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre: Cordones
 - Revestimiento: Sintético
+- Cierre: Cordones
 - Material de la suela: Caucho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

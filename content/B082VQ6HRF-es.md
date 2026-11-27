@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Apto para pieles sensibles – Formulado para minimizar el riesgo de alergias, este champú neutro es hipoalergénico**, ideal para la piel atópica, y con un pH equilibrado
+- No Llores Más – Tan suave con los ojos como el agua pura, este champú para niños evita las lágrimas y los picores en los ojos durante el baño y facilita el aclarado
+- Champú sin parabenos – Diseñado con hidratantes de origen natural, este champú bebé limpia el cabello y el cuerpo cabelludo, y no contiene parabenos ni colorantes
 - Champú Johnson Baby – Formulado para limpiar, suavizar, desencrespar y dar brillo, este champú contiene un 94% de ingredientes de origen natural*, para un pelo más sano
 - Testado por pediatras – La calidad de los champús y productos para bebés, recién nacidos y niños de Johnsons Baby está rigurosamente avalada por pediatras y dermatólogos
-- Champú sin parabenos – Diseñado con hidratantes de origen natural, este champú bebé limpia el cabello y el cuerpo cabelludo, y no contiene parabenos ni colorantes
-- No Llores Más – Tan suave con los ojos como el agua pura, este champú para niños evita las lágrimas y los picores en los ojos durante el baño y facilita el aclarado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B082VQ6HRF{{</world>}}

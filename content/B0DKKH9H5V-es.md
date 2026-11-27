@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips 1000 Airfryer - Freidora de Aire doble cesta 7 1L 10 en 1 Negro | Divisor extraíble 10 modos en 1 90% menos grasa tecnología Rapid Air app de recetas HomeID NA154/00'
-date: 2026-11-21 15:36:49
+date: 2026-11-26 14:38:27
 image: 'https://m.media-amazon.com/images/I/31gBdDDFv7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DKKH9H5V/?tag=tolees-21'
 descuento: '39.35'
-average: '97.215'
+average: '96.755714285714291'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

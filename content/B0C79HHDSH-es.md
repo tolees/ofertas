@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Lencería
-- Para mujer
 - Pure Micro N Café Latte
+- Para mujer
+- Lencería
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C79HHDSH{{</world>}}

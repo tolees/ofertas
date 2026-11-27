@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - con cuero artificial de alta calidad
-- gofrado adicional
+- con capacidad para 300 fotos en el formato 10x15 cm
 - con el bolsillo archivo para un CD o las tiras de negativos
 - álbum para enchufar de gran valor
 - espacio para etiquetado
-- con capacidad para 300 fotos en el formato 10x15 cm
+- gofrado adicional
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B003J2BWXU{{</world>}}

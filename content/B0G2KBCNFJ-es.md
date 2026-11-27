@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ring Intercom Video última gen. y Cámara interior gratis | Descuento aplicado en ambos artículos al finalizar la compra. Equivale a recibir la Cámara interior sin coste adicional.'
-date: 2026-11-25 08:06:30
+date: 2026-11-26 10:39:33
 image: 'https://m.media-amazon.com/images/I/21AR303gz3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

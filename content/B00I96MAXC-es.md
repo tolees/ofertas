@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 270 W de potencia
+- 270 W de potencia
 - Bol, tapa interior y cuchilla aptas para el lavavajillas
-- Funciona por presión, sistema 1,2,3
 - Bol graduado con capacidad útil de 0.25 l
-- 270 W de potencia
-- Bol graduado con capacidad útil de 0.6 l
 - Bol, tapa interior y cuchilla aptas para el lavavajillas
-- 270 W de potencia
+- Bol graduado con capacidad útil de 0.6 l
 - Sistema de seguridad permanente, la picadora solo funciona con la tapa encajada
+- Funciona por presión, sistema 1,2,3
 - Funciona por presión, sistema 1,2,3
 - Componentes incluidos: tazón extraible
 - Sistema de seguridad permanente, la picadora solo funciona con la tapa encajada

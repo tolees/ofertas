@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Preparación rápida: 30-40 minutos
-- Cuenco extraíble
-- 8 a 12 horas en el congelador
-- Tapa transparente con apertura
 - Capacidad: 2 litros
-- Apagado automático
-- Potencia: 12 W
 - Velocidad del motor: 30 rpm
+- Tapa transparente con apertura
+- 8 a 12 horas en el congelador
+- Preparación rápida: 30-40 minutos
+- Potencia: 12 W
+- Cuenco extraíble
 - Cuerpo de acero inoxidable
+- Apagado automático
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B096KTC6VW{{</world>}}

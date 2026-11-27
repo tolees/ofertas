@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Smart 36 Flex California Khaki Skinny
-- Features Hidden Security Pockets with a concealed zipper and coin compartment
 - Smart 36 Flex stretches vertically and horizontally for maximum flexibility and movement
-- Zip fly
+- Features Hidden Security Pockets with a concealed zipper and coin compartment
+- Smart 36 Flex California Khaki Skinny
 - Skinny Fit
+- Zip fly
 - Made with our world-famous and bestselling Smart 36 Flex
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

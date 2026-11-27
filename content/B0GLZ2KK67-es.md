@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NESCAFÉ Espresso Concentrate Black 500 ml | Café concentrado líquido sin azúcar ideal para preparar iced coffees y lattes con preparación rápida en casa'
-date: 2026-11-20 03:59:11
+date: 2026-11-26 23:15:17
 image: 'https://m.media-amazon.com/images/I/418eaPl47gL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GLZ2KK67/?tag=tolees-21'
 descuento: '39.08'
-average: '3.9574999999999925'
+average: '3.8866666666666601'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

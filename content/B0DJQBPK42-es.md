@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Una figura de acción coleccionable para adultos y niños
-- El producto llega en su caja; soporte base incluido
 - Basado en el Anime Japonés Dragon Ball Z es una figura hecha en PVC diseñada y moldeada mano
 - Producto llega en su caja sellada
+- El producto llega en su caja; soporte base incluido
+- Una figura de acción coleccionable para adultos y niños
 - Siéntete parte del mundo de la colección y los Animes con esta figura que viene empaquetada en un embalaje
 
 [🛒 Visítala!!!]({{< param buyurl >}})

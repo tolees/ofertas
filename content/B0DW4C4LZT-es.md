@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillos : Bolsillos traseros, Bolsillos delanteros
-- Artículo : Pantalones de ajuste relajado
-- Detalles de la pierna : Dobladillos arremangados
-- Corte : Ajuste relajado con cintura media, muslo, rodillas y parte baja holgados
 - Cintura : Talle medio
 - Cierre : Bragueta con cremallera
+- Artículo : Pantalones de ajuste relajado
+- Detalles de la pierna : Dobladillos arremangados
+- Bolsillos : Bolsillos traseros, Bolsillos delanteros
+- Corte : Ajuste relajado con cintura media, muslo, rodillas y parte baja holgados
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DW4C4LZT{{</world>}}

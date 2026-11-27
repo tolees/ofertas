@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Perforaciones en la puntera
 - Con una plantilla cómoda
 - Logo de la marca en el talón
+- Perforaciones en la puntera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D2KWH33H{{</world>}}

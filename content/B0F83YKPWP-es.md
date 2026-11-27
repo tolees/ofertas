@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Corte: estándar
 - Talle: medio
+- Bolsillos: bolsillos con cremallera
 - Largo: estándar
 - Material principal: tejido spacer
-- Corte: estándar
-- Bolsillos: bolsillos con cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F83YKPWP{{</world>}}

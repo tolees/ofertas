@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Raincoat
 - materialFabricComposition: Outer: 100% Polyester; Lining: 100% Polyester
-- Care Label:
+- Raincoat
 - Hood with String Regulation
 - Detail
+- Care Label:
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08KW4L2Q9{{</world>}}

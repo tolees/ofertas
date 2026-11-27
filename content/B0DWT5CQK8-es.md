@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Bolsillo exterior trasero
+- Color: Liso
 - Cierre: de Cremallera
 - Varios compartimentos interiores
 - Estilo: Bandolera
-- Bolsillo exterior trasero
-- Color: Liso
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DWT5CQK8{{</world>}}

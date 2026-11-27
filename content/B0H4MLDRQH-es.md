@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Diseño ligero para una carrera más eficiente.
-- Entresuela de EVA para una amortiguación óptima.
 - Adecuado para sesiones de entrenamiento diarias y competiciones.
+- Entresuela de EVA para una amortiguación óptima.
 - Suela exterior de goma resistente que proporciona una excelente tracción en diversas superficies.
 - Sistema de ventilación optimizado para mantener los pies frescos.
 

@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura elástica Flex Comfort Waistband para una mayor elasticidad
-- Pantalones chinos refinados con tecnología Smart 360 Flex
-- Crafted Khaki Slim Tapered
-- Bragueta con cremallera
 - Tejido de algodón ultraelástico para una máxima flexibilidad y comodidad
-- Cuenta con un bolsillo de seguridad con cremallera oculto y un compartimento para monedas
+- Crafted Khaki Slim Tapered
 - Slim Tapered fit
+- Bragueta con cremallera
+- Pantalones chinos refinados con tecnología Smart 360 Flex
+- Cintura elástica Flex Comfort Waistband para una mayor elasticidad
+- Cuenta con un bolsillo de seguridad con cremallera oculto y un compartimento para monedas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CM48YL1Y{{</world>}}

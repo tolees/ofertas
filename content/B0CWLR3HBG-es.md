@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 🛡️ DEFENSAS NATURALES: El Jarabe Garganta Pranarôm contribuye a reforzar las defensas naturales del organismo y a mantener un buen estado de forma.
 - 🌱 FÓRMULA CON ACEITES ESENCIALES BIO: A base de una sinergia de Aceites Esenciales 100% puros, naturales e integrales. Su fórmula asocia la miel con los Aceites Esenciales de Pino silvestre, Menta verde y Ravintsara.
-- 👨👩👧👦 PARA TODA LA FAMILIA: Formulado sin gluten, el Jarabe Garganta AROMAFORCE es apto para niños a partir de 6 años.
-- 🌿 SUAVIZA LAS VÍAS RESPIRATORIAS: El Jarabe Garganta Miel y Ravintsara está especialmente formulado para apoyar las vías respiratorias y suavizar la garganta de toda la familia.
 - 🔬 PRANARÔM, LA CIENCIA DE LOS ACEITES ESENCIALES: El laboratorio Pranarôm, experto en Aceites Esenciales, propone soluciones innovadoras y naturales elaboradas a partir de Aceites Esenciales quimiotipados 100% puros, integrales y biológicos.
+- 👨👩👧👦 PARA TODA LA FAMILIA: Formulado sin gluten, el Jarabe Garganta AROMAFORCE es apto para niños a partir de 6 años.
+- 🛡️ DEFENSAS NATURALES: El Jarabe Garganta Pranarôm contribuye a reforzar las defensas naturales del organismo y a mantener un buen estado de forma.
+- 🌿 SUAVIZA LAS VÍAS RESPIRATORIAS: El Jarabe Garganta Miel y Ravintsara está especialmente formulado para apoyar las vías respiratorias y suavizar la garganta de toda la familia.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CWLR3HBG{{</world>}}

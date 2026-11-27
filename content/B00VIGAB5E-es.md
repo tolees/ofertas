@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- VIDRIO BOROSILICATO RESISTENTE: la aceitera Vitamino de TESCOMA está fabricada con vidrio de borosilicato, un material conocido por su alta resistencia y durabilidad frente al uso diario. Este tipo de vidrio soporta mejor los cambios de temperatura y mantiene intactas las propiedades del aceite, vinagre u otros líquidos, ofreciendo un recipiente seguro, higiénico y duradero para tu cocina.
-- FÁCIL DE LIMPIAR Y DISEÑO ELEGANTE: apta para lavavajillas, lo que facilita una limpieza rápida tras cada uso. Su diseño moderno y funcional la convierte en un accesorio práctico y elegante que se adapta fácilmente a cualquier cocina.
-- TAMAÑO PRÁCTICO: con una capacidad aproximada de 250 ml, es ideal para almacenar aceite de oliva, vinagre, salsas o aderezos. Sus dimensiones de 8 x 20 cm permiten un manejo cómodo y una colocación práctica en la cocina o en la mesa.
 - VERTEDOR DE SILICONA ANTIGOTEO: incorpora un práctico vertedor de silicona con tapa de plástico resistente que permite servir el aceite de forma controlada y precisa. Su diseño facilita dosificar la cantidad exacta al cocinar o aliñar ensaladas, evitando goteos y derrames tanto en la cocina como en la mesa.
+- TAMAÑO PRÁCTICO: con una capacidad aproximada de 250 ml, es ideal para almacenar aceite de oliva, vinagre, salsas o aderezos. Sus dimensiones de 8 x 20 cm permiten un manejo cómodo y una colocación práctica en la cocina o en la mesa.
+- VIDRIO BOROSILICATO RESISTENTE: la aceitera Vitamino de TESCOMA está fabricada con vidrio de borosilicato, un material conocido por su alta resistencia y durabilidad frente al uso diario. Este tipo de vidrio soporta mejor los cambios de temperatura y mantiene intactas las propiedades del aceite, vinagre u otros líquidos, ofreciendo un recipiente seguro, higiénico y duradero para tu cocina.
 - IDEAL PARA COCINA Y MESA: su diseño práctico y elegante la hace perfecta tanto para cocinar como para servir en la mesa. Ideal para aliñar ensaladas, verduras, carnes o pescados y para el emplatado. Permite aplicar la cantidad justa de aceite, reduciendo el exceso de grasa sin perder sabor.
+- FÁCIL DE LIMPIAR Y DISEÑO ELEGANTE: apta para lavavajillas, lo que facilita una limpieza rápida tras cada uso. Su diseño moderno y funcional la convierte en un accesorio práctico y elegante que se adapta fácilmente a cualquier cocina.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00VIGAB5E{{</world>}}

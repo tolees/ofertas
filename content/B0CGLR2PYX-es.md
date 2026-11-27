@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Transpirable
-- Suave
-- Elástico en 2 direcciones
-- Salewas pantalones softshell Durastretch para hombre, ligeros, de secado rápido y resistentes a la abrasión, para speed hiking. Los pantalones están disponibles en modelo largo, regular y corto
 - ---
+- Elástico en 2 direcciones
 - Repele el agua
+- Suave
+- Salewas pantalones softshell Durastretch para hombre, ligeros, de secado rápido y resistentes a la abrasión, para speed hiking. Los pantalones están disponibles en modelo largo, regular y corto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CGLR2PYX{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B iO 10 Cepillos de Dientes Eléctricos Negros Pack de 2 | Cepillo Dental con 4 Cabezales 7 Modos de Cepillado Tecnología iO Sense Carga Rápida Seguimiento con App'
-date: 2026-11-22 08:28:10
+date: 2026-11-27 08:38:20
 image: 'https://m.media-amazon.com/images/I/51tYyg5guDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

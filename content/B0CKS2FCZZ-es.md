@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Corte clásico
 - Plantilla OrthoLite
+- Forro textil
 - Cierre de cordones
 - Empeine de malla
-- Forro textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CKS2FCZZ{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Confeccionadas con pespunte. Tacto suave. Larga duración. Color blanco
 - Sábanas encimera blancas con tejido de algodón 100%
+- Para camas desde 90 cm hasta 180/200 cm
 - Sábanas encimeras de hostelería de la marca Burrito Blanco
 - Composición: 100% Algodón
-- Para camas desde 90 cm hasta 180/200 cm
-- Confeccionadas con pespunte. Tacto suave. Larga duración. Color blanco
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07PWF3K3P{{</world>}}

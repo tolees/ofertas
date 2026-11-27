@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Se pueden abrir las puertas traseras y la ventana lateral
 - Adecuado a partir de 3 años
-- Equipado con luz y sonido para poder acudir rápidamente a las emergencias.
 - Sistema de giro libre de ruedas. Pilas incluidas 2 x 1,5V R06
 - Con señal vertical desplegable en el techo
-- Se pueden abrir las puertas traseras y la ventana lateral
 - Furgón de la Guardia Civil Ford Transit de 28cm
+- Equipado con luz y sonido para poder acudir rápidamente a las emergencias.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09SLR7WXH{{</world>}}

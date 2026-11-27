@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Apto para lavavajillas
-- Acero inoxidable 18/10
 - Acabado brillante
+- Acero inoxidable 18/10
+- Apto para lavavajillas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B010DH3O2U{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Auténtica grasa de caballo con fórmula impermeabilizante.
 - Materiales de muy alta calidad
 - Marca: Búfalo
-- Auténtica grasa de caballo con fórmula impermeabilizante.
 - Color: Incolor
 
 [🛒 Aquí!!!]({{< param buyurl >}})

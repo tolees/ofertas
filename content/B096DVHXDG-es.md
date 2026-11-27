@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ADVENTURE-READY TEE: Men’s short sleeve top designed for running, hiking, or city walks—ideal for active days on the trail or in town
-- ECO MATERIALS & EASY CARE: Made from 50% recycled polyester with UV shield and anti-odour tech—machine wash cold gentle, tumble dry low
-- CONTENTS: 1x Columbia Thistletown Hills Short Sleeve Knit Top, Mens, Size: M, Colour: Collegiate Navy Heather
-- HIGH-PERFORMANCE COMFORT: Stretch fabric with Omni-Wick tech keeps you cool and dry, allowing freedom of movement and sweat control
 - STYLE IT YOUR WAY: Pair with shorts or jeans—sporty fit, nature-inspired patterns, and subtle reflective accents for versatile style
+- CONTENTS: 1x Columbia Thistletown Hills Short Sleeve Knit Top, Mens, Size: M, Colour: Collegiate Navy Heather
+- ECO MATERIALS & EASY CARE: Made from 50% recycled polyester with UV shield and anti-odour tech—machine wash cold gentle, tumble dry low
+- ADVENTURE-READY TEE: Men’s short sleeve top designed for running, hiking, or city walks—ideal for active days on the trail or in town
+- HIGH-PERFORMANCE COMFORT: Stretch fabric with Omni-Wick tech keeps you cool and dry, allowing freedom of movement and sweat control
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B096DVHXDG{{</world>}}

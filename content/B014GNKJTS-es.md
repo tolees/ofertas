@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Estilo: Dlites Fresh Start Wide
+- Ligero; tacón integrado de 1 1/4 pulgadas.
 - Material exterior: plantilla acolchada de espuma viscoelástica refrigerada por aire
 - País de origen: China, peso leggero
-- Ligero; tacón integrado de 1 1/4 pulgadas.
-- Estilo: Dlites Fresh Start Wide
 - Suela flexible
 
 [🛒 Comprar!!!]({{< param buyurl >}})

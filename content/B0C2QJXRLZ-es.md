@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Zapatillas óptimales para tiempo libre y sportwear
 - Suave y transpirable
+- Zapatillas óptimales para tiempo libre y sportwear
 - Práctico y cómodo
 - Detalles distintivos de la marca
 

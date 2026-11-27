@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100% polipropileno.
-- Con cremallera.
-- Los bordes de las mangas y las perneras completan con puños de punto, por lo que el traje de protección ofrece una mejor estanqueidad.
 - Gramaje: 40 g/m².
+- Los bordes de las mangas y las perneras completan con puños de punto, por lo que el traje de protección ofrece una mejor estanqueidad.
+- Con cremallera.
+- 100% polipropileno.
 - Capucha completa con goma.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

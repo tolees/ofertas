@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Versátil paleta de colores: con su moderna paleta de colores, el Kirey proporciona un toque elegante que combina con cualquier atuendo veraniego
-- Gran selección de colores
 - Ideal para uso informal, paseos por la playa o viajes por la ciudad. Combina con vestidos, pantalones cortos o vaqueros por igual y complementa cualquier atuendo de verano.
 - Correa adicional: la correa adicional que se extiende por el pie no solo le da a esta chanclas un aspecto fresco, sino que también aumenta la comodidad
+- Gran selección de colores
+- Versátil paleta de colores: con su moderna paleta de colores, el Kirey proporciona un toque elegante que combina con cualquier atuendo veraniego
 - Plantilla antideslizante
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

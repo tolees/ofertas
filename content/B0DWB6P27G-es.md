@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estampado Art
-- Tejido ligero
+- Manga: Larga
 - Desigual
 - Fit: Regular
-- Manga: Larga
+- Tejido ligero
+- Estampado Art
 - Cuello: Redondo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manera fácil de configurar, sistema de bloqueo de liberación rápida y armarios para el uso rapido y fácil
-- Altura máxima: 50 cm / 20 pulgadas
 - Material: Aluminio
-- Peso: 12.23oz / 350g
+- Altura máxima: 50 cm / 20 pulgadas
+- Manera fácil de configurar, sistema de bloqueo de liberación rápida y armarios para el uso rapido y fácil
 - Máx. Carga: 2kg
+- Peso: 12.23oz / 350g
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00IGQWQSY{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips i9000 Prestige Ultra Afeitadora Eléctrica Hombre Máquina de Afeitar Barba en Seco y Húmedo Tecnología SkinIQ Pro Base de Carga Recargable Estuche Premium Centro de limpieza XP9404/31'
-date: 2026-11-24 14:03:17
+date: 2026-11-26 11:10:35
 image: 'https://m.media-amazon.com/images/I/51ofp-PsRkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DT6PZD5L/?tag=tolees-21'
 descuento: '50.00'
-average: '286.91076923076918'
+average: '281.98799999999994'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

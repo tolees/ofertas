@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Horma clásica
 - Suela de goma cosida
-- Cierre de cordones
 - Forro sintético
+- Cierre de cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09VSZ8X8B{{</world>}}

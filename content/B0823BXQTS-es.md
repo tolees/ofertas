@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ventilación dinámica del interior
+- Refrigera hasta 25 °C por debajo de la temperatura ambiente, conserva el calor hasta +65 °C por encima
 - Ventilador resistente al desgaste
 - Cómoda nevera a 12 V CC y 230 V CA
-- Refrigera hasta 25 °C por debajo de la temperatura ambiente, conserva el calor hasta +65 °C por encima
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0823BXQTS{{</world>}}

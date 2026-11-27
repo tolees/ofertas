@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- V-26
 - CELESTE
+- V-26
 - SANDALIAS PLANAS
 - ANCHO
 - MUJER

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Adecuado para uso diario
 - Estilo informal
+- Adecuado para uso diario
 - Jersey de manga larga
 
 [🛒 Comprar!!!]({{< param buyurl >}})

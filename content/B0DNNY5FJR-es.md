@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detalles distintivos de la marca
 - Con pierna recta
+- Detalles distintivos de la marca
 - Diseño suave y cómodo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

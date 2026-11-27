@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Chaqueta y pantalón: Puños y dobladillo de canalé
-- 100% poliéster (reciclado)
+- Pantalón: Cintura elástica con cordón
+- Corte clásico con talle medio
 - Chaqueta y pantalón: Bolsillos frontales
 - Cierre de cremallera y cuello alzado
-- Corte clásico con talle medio
-- Pantalón: Cintura elástica con cordón
+- Chaqueta y pantalón: Puños y dobladillo de canalé
+- 100% poliéster (reciclado)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4XZVSGS{{</world>}}

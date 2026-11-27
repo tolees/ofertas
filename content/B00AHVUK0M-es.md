@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Con tapón rosca y botón a presión
-- Mantiene horas los líquidos fríos o calientes
 - Fabricado en acero inoxidable y plástico
+- Mantiene horas los líquidos fríos o calientes
 - Termo de 0,35 litros
 - Tapa sirve como taza
 

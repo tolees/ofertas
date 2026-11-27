@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Media suela de EVA retro.
-- PCF = Pro Comfort Foam Insock.
 - Material protegido.
+- PCF = Pro Comfort Foam Insock.
+- Media suela de EVA retro.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DLBQ7WR7{{</world>}}

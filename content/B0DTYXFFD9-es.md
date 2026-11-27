@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Altura tacón: 1,5 cm
+- Material : piel
 - suela flexible
 - bailarina con tachas y de piel
-- Material : piel
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DTYXFFD9{{</world>}}

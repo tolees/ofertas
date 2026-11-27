@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Telas con spandex
 - Tipo de fábrica: 95% Algodón, 5% Elastán
-- Diseño estructurado de 6 paneles
 - Bordado en 3D en el centro del frente
+- Diseño estructurado de 6 paneles
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B078T9BCJS{{</world>}}

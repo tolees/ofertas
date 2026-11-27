@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fácil de limpiar. No es apto para lavavajillas.
-- Capacidad: 1,4 L.
 - Ideal para preparación de alimentos, no transmite sabores ni olores.
 - Bol cónico GARINOX fabricado en acero inoxidable de alta calidad con acabado brillante.
 - Dimensiones: 20 cm / 7,5 cm(h).
+- Capacidad: 1,4 L.
+- Fácil de limpiar. No es apto para lavavajillas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B000SLZ18C{{</world>}}

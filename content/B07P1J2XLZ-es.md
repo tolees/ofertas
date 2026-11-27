@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Altura del tacón: 2 cm
-- Forma del talón: plano
 - Material interior: sintético
-- Cierre: cordones
-- Suela: Caucho
+- Forma del talón: plano
 - Parte superior: cuero
+- Suela: Caucho
+- Altura del tacón: 2 cm
+- Cierre: cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07P1J2XLZ{{</world>}}

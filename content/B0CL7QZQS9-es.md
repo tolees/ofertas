@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACK & JONES Jjiglenn Jjoriginal SQ 260 Noos Slim Fit Jeans Azul Denim. 34W / 32L'
-date: 2026-11-25 11:24:10
+date: 2026-11-26 12:59:34
 image: 'https://m.media-amazon.com/images/I/31CobHRLweL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0CL7QZQS9-es JACK & JONES Jjiglenn Jjoriginal SQ 260 Noos Slim Fit...'
 sku: 'B0CL7QZQS9-es'
 tags: [ '🇪🇸', ]
-actualPrice: 14.94 EUR
+actualPrice: 13.99 EUR
 currency: EUR
-price: 14.94
+price: 13.99
 comparePrice: 29.99 EUR
 prodname: 'JACK & JONES Jjiglenn Jjoriginal SQ 260 Noos Slim Fit Jeans Azul Denim. 34W / 32L'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CL7QZQS9/?tag=tolees-21'
-descuento: '50.18'
-average: '15.426842105263155'
+descuento: '53.35'
+average: '15.289999999999997'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

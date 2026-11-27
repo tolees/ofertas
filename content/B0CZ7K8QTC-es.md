@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - AEROREADY
-- 100% poliéster (reciclado)
 - Corte clásico
+- 100% poliéster (reciclado)
 - Cierre de cremallera y cuello alzado
 - Bolsillos con cremallera
 

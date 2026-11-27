@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Dimensiones del paquete: 5.8 L x 49.79 H x 19.1 W (centimeters)
-- Medidas: 7 x 1 x 13 cm
 - Color: acero
+- Medidas: 7 x 1 x 13 cm
 - Fácil de usar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

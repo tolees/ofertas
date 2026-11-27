@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Un lienzo en blanco para la expresión propia
-- Jeans azules originales desde 1873
-- Este producto es original Levis
 - Con su emblemático corte recto y su característica bragueta con botones
+- Este producto es original Levis
+- Jeans azules originales desde 1873
+- Un lienzo en blanco para la expresión propia
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B2BX2XS4{{</world>}}

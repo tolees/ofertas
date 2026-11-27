@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello: en V
 - Fit: Regular
-- Cierre: de Botón
 - Manga: Larga
+- Cierre: de Botón
 - Estampado a rayas
+- Cuello: en V
 - Desigual
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

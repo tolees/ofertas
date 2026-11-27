@@ -29,13 +29,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Material de la suela: Caucho
-- Altura del tacón: 3 centímetros
-- Tipo de tacón: Plano
 - Composición: Textil
-- Revestimiento: Sintético
 - Anchura del zapato: Medium
-- Material exterior: Sintético
+- Tipo de tacón: Plano
+- Revestimiento: Sintético
 - Cierre: Cordones
+- Material exterior: Sintético
+- Altura del tacón: 3 centímetros
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07FF7SNLM{{</world>}}

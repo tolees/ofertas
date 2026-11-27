@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Anillo acabado oro 18K - Umlasu
 - Material: Plata de ley 925Acabado: RodioPiedra: Circonita onixAncho: 10mmLargo: 30mmPeso: 2,85 gr
+- Anillo acabado oro 18K - Umlasu
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4XGNQXX{{</world>}}

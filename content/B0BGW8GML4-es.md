@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño:
 - Buena relación calidad-precio
+- Diseño:
 - Producto duradero y de buena calidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

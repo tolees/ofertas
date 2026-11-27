@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL City Life 71202 Ambulancia con luz y Sonido Juguete para niños a Partir de 4 años'
-date: 2026-11-25 10:21:11
+date: 2026-11-27 06:03:38
 image: 'https://m.media-amazon.com/images/I/51LsDN6tHbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BKQP7DSS/?tag=tolees-21'
 descuento: '41.51'
-average: '43.304615384615353'
+average: '42.903902439024364'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

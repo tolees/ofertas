@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- REEBOK REEBOK ROYAL PRIME 2 WHITE/WHITE/BLACK 36.5 BOYS
 - Suela exterior de goma resistente al desgaste que proporciona una respuesta duradera
 - Parte superior de material sintético
+- REEBOK REEBOK ROYAL PRIME 2 WHITE/WHITE/BLACK 36.5 BOYS
 - Suela exterior de goma resistente al desgaste que proporciona una respuesta duradera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

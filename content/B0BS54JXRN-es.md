@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Blazer de un solo pecho con solapa que cae
 - Se cierra con dos botones
 - Bolsillos con solapa y un solo bolsillo en el pecho
-- Blazer de un solo pecho con solapa que cae
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BS54JXRN{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte clásico
 - Cierre de cremallera y capucha ajustable con cordón
-- 55% algodón / 36% poliéster (reciclado) / 9% viscosa
+- Corte clásico
 - Hombros con la costura caída
+- 55% algodón / 36% poliéster (reciclado) / 9% viscosa
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CZP8K3M3{{</world>}}

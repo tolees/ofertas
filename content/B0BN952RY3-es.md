@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fácil de usar y almacenar: apilable con tapas para un almacenamiento óptimo. Las cajas están diseñadas sin asas para ahorrar espacio.
 - Cajas versátiles: ingeniosa tapa de cristal, que ofrece doble funcionalidad como placa. Se puede quitar para permitir la cocción a fuego lento utilizando la base y la tapa.
 - CAJAS Y TAPAS CERTIFICADAS SIN PLASTICOS*: Fabricadas en Francia, nuestras cajas y tapas están hechas de vidrio de borosilicato, resistentes a temperaturas de -40 °C hasta +300 °C. *El sello de silicona no contiene ningún material petroquímico.
-- Mantenimiento simplificado: nuestros platos y tapas son aptos para lavavajillas para una limpieza sin esfuerzo
+- Fácil de usar y almacenar: apilable con tapas para un almacenamiento óptimo. Las cajas están diseñadas sin asas para ahorrar espacio.
 - Materiales higiénicos: sello extraíble para una fácil limpieza. El vidrio de borosilicato no retiene manchas ni olores.
+- Mantenimiento simplificado: nuestros platos y tapas son aptos para lavavajillas para una limpieza sin esfuerzo
 - Juego de 3 cajas de vidrio de tamaño idéntico: Este juego incluye 3 cajas con tapas de vidrio (L: 19 cm, An: 14 cm, Al: 5 cm, Capacidad: 0,8L)
 
 [🛒 Aquí!!!]({{< param buyurl >}})

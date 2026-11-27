@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con la clásica combinación de crocante galleta y el delicioso sabor del chocolate, hacen de estas galletas el descanso más tierno y dulce del día.
 - El práctico paquete en formato rollo de las galletas Milka Choco Pause con su textura crujiente y el delicioso chocolate en su interior, son excelentes para disfrutar y compartir con familia y amigos, en desayunos, para picar como snack o en meriendas escolares para los niños. Prueba también a acompañar las galletas Milka con tus postres favoritos y en recetas de repostería.
-- El pack de 18 tubos de crujientes galletas Milka Choco Pause rellenas con una capa de crema de chocolate entre dos clásicas galletas, son ideales para un dulce tentempié, perfectos para servir solos o con leche, o para acompañar al café o té.
+- Con la clásica combinación de crocante galleta y el delicioso sabor del chocolate, hacen de estas galletas el descanso más tierno y dulce del día.
 - Milka es un producto tradicional. Por ello, desde hace más de 100 años utilizamos exclusivamente leche de la región de los Alpes para nuestro chocolate. Comprobamos cada litro de leche que recibimos de nuestros proveedores para aseguramos de que proviene al 100% de los valles y altos valles de los Alpes y la región subalpina.
+- El pack de 18 tubos de crujientes galletas Milka Choco Pause rellenas con una capa de crema de chocolate entre dos clásicas galletas, son ideales para un dulce tentempié, perfectos para servir solos o con leche, o para acompañar al café o té.
 - Hacemos nuestro delicioso chocolate con cacao obtenido a través de nuestro programa de sostenibilidad Cocoa Life. Cocoa Life es el programa global de Milka para el cultivo de cacao sostenible, centrado en la sostenibilidad del cacao como negocio próspero, en las comunidades del cacao empoderadas e inclusivas, y en conservar y regenerar los bosques.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

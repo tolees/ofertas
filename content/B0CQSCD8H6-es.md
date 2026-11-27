@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Parte superior textil
 - Cierre con cordones
 - Acolchado ligero
 - Acolchado ligero
-- Parte superior textil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CQSCD8H6{{</world>}}

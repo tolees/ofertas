@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Protege el cabello de la deshidratación
+- Fijación fuerte
+- Espuma fijadora y volumizante
 - Aplicar sobre el pelo húmedo
 - Combínalo con los champús, los acondicionadores y las mascarillas de Wella Profesionals para un cabello cuidado y con acabado profesional
-- Espuma fijadora y volumizante
 - Protección contra el calor del secador
-- Fijación fuerte
 - Aporta volumen
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

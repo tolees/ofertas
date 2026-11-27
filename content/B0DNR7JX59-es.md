@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Interior forrado con bolsillo con cremallera y bolsillos abiertos.
 - Tamaño compacto con línea suave.
 - Cuero martillado con logotipo frontal.
+- Interior forrado con bolsillo con cremallera y bolsillos abiertos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DNR7JX59{{</world>}}

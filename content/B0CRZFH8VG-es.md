@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Bolsillos traseros con solapa, cierre a presión oculto
-- Bajo ajustable con cinta integrada
 - Bolsillos insertados con ribete en el borde
 - Bolsillos tipo cargo con botón a presión oculto en el muslo, bolsillo con cremallera detrás
+- Bajo ajustable con cinta integrada
 - Bragueta de cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Jeans Pantalones Largos
+- Tipo de estiramiento: baja elasticidad
 - Composición: 56 por ciento algodón 25 por ciento poliéster 13 por ciento lyocell 5 por ciento elastomultiester 1 por ciento elastano
 - Instrucciones de cuidado: lavable a máquina
 - Ajuste: Auténtico Slim
-- Tipo de estiramiento: baja elasticidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DR36XD6G{{</world>}}

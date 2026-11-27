@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material principal: felpa francesa
-- Cuello: cuello alto
-- Corte: estándar
 - Manga larga
+- Corte: estándar
 - Cierre: cremallera
+- Cuello: cuello alto
+- Material principal: felpa francesa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F6YMC7Q4{{</world>}}

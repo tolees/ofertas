@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bragueta de botones
-- Bolsillos reforzados con remaches insertados y bolsillo para monedas en el interior
 - Bolsillos traseros
+- Bolsillos reforzados con remaches insertados y bolsillo para monedas en el interior
 - Etiqueta de G-STAR Originals tejida en la parte trasera
+- Bragueta de botones
 - Refuerzos en los talones y rodilleras
 
 [🛒 Comprar!!!]({{< param buyurl >}})

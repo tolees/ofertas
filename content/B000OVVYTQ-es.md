@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Disponible en 38 tonos cremosos
-- Aceite de rosa mosqueta, ceras y aceites preciosos
-- Una cremosidad inigualable, gracias a la combinación de aceite de rosa mosqueta, ceras y aceites preciosos
 - Colores intensos que nacen de los pigmentos puros. Los colores más icónicos, del rojo pasión al nude clásico y rosas románticos
+- Una cremosidad inigualable, gracias a la combinación de aceite de rosa mosqueta, ceras y aceites preciosos
+- Aceite de rosa mosqueta, ceras y aceites preciosos
 - Rubias, morenas, castañas; pieles claras u oscuras; para cada una de ellas existe el tono adecuado que sublimará la belleza natural de los labios con un resplandor hermoso
+- Disponible en 38 tonos cremosos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000OVVYTQ{{</world>}}

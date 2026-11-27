@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste regular
-- Ofrece comodidad y libertad de movimiento
 - Cuello redondo
+- Ofrece comodidad y libertad de movimiento
 - Tejido suave y cálido
+- Ajuste regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08QZLP17S{{</world>}}

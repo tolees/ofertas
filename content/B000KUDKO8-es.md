@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Authorised Stockist
 - Genuine Product
+- Authorised Stockist
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B000KUDKO8{{</world>}}

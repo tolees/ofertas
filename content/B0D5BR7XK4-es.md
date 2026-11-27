@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Plantillas suaves y cómodas
-- Ribete con logotipo
 - Cordones y cierre de velcro
+- Ribete con logotipo
+- Plantillas suaves y cómodas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D5BR7XK4{{</world>}}

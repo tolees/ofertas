@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Patillas regulables para un ajuste perfecto
-- Lentes Eastman Tritan Renew, un material que utiliza un 50% de poliéster reciclado derivado de residuos plásticos en el proceso de fabricación
-- La montura RXable permite el uso de lentes graduadas
-- Bioacetato, un nuevo material de base biológica que pretende subrayar la atención de la marca por el medioambiente.
 - Esta forma rectangular modificada tiene una actitud contemporánea.
 - Tamaño grande y ajuste global
+- La montura RXable permite el uso de lentes graduadas
+- Patillas regulables para un ajuste perfecto
+- Bioacetato, un nuevo material de base biológica que pretende subrayar la atención de la marca por el medioambiente.
+- Lentes Eastman Tritan Renew, un material que utiliza un 50% de poliéster reciclado derivado de residuos plásticos en el proceso de fabricación
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CX5HTYN7{{</world>}}

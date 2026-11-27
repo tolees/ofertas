@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Naturalmente con cafeína gracias al mate, ideal como alternativa ligera al café.
 - Producto de calidad de SELEN con ingredientes naturales y equilibrados.
-- Apoya el metabolismo y puede ayudar en un estilo de vida activo.
 - Té de hierbas refrescante con mate y manzana: estimulante y con un sabor afrutado.
+- Naturalmente con cafeína gracias al mate, ideal como alternativa ligera al café.
+- Apoya el metabolismo y puede ayudar en un estilo de vida activo.
 - Cada porción está envasada por separado para mantener la frescura y el aroma completo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

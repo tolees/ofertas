@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Drawcord adjustable hem.
-- Omni-Tech waterproof/breathable fully seam sealed.
-- Adjustable sleeve cuffs.
-- Drawcord adjustable hood.
 - Zippered chest and hand pockets.
+- Omni-Tech waterproof/breathable fully seam sealed.
+- Drawcord adjustable hood.
+- Adjustable sleeve cuffs.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0GFPTP83H{{</world>}}

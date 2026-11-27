@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Aquaphor Bálsamo Reparador Cutáneo 45ml'
-date: 2026-11-25 07:24:53
+date: 2026-11-26 21:57:26
 image: 'https://m.media-amazon.com/images/I/31j0qOawd6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B011OJ4RJK/?tag=tolees-21'
 descuento: '39.22'
-average: '8.1566666666666663'
+average: '7.9445454545454535'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

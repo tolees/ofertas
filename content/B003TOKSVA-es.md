@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Contiene pescado blanco
-- Alimentos para mascotas
 - Para felinos
+- Alimentos para mascotas
+- Contiene pescado blanco
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B003TOKSVA{{</world>}}

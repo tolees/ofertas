@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela exterior: suela de goma
 - Material exterior: TPR suave y resistente al agua
+- Suela exterior: suela de goma
 - Forro de microfibra
 - Suela antideslizante con logotipo
 - Plantilla Hydrobound ultrasuave con contornos anatómicamente correctos

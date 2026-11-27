@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Surfola Cámara WiFi Interior 1080P Audio Bidireccional y Visión Nocturna | WiFi de 2 4 GHz audio bidireccional detección de movimiento y sonido giro manual microSD no incluida nube opcional'
-date: 2026-11-19 09:00:59
+date: 2026-11-27 11:03:34
 image: 'https://m.media-amazon.com/images/I/41hJdoXd+DL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FX4BWFK4/?tag=tolees-21'
 descuento: '42.25'
-average: '10.870000000000001'
+average: '10.790000000000001'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

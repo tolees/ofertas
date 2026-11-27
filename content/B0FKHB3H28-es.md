@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fisura – Felpudo entrada casa “The jungle”. Felpudo de coco original. | Felpudo con base antideslizante de PVC. Felpudo interior de leopardo. Alfombra entrada casa divertida. 70 x 40 cm'
-date: 2026-11-25 13:48:59
+date: 2026-11-26 22:19:54
 image: 'https://m.media-amazon.com/images/I/51tcGsxs1NL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

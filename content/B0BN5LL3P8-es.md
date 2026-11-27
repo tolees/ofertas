@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre de cremallera
 - Cuello alto
 - Patrón todo over
 - Bolsillo tipo canguro
+- Cierre de cremallera
 - Dobladillo recto
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Fórmula alisadora: enriquecido con cadenas de Aminoácidos, este champú limpia suavemente mientras remodela y refuerza activamente la estructura de queratina del cabello para una suavidad duradera.
 - Suavidad e hidratación instantáneas: actúa para suavizar e hidratar el cabello de inmediato, dejándolo sedoso y fácil de manejar, además de aportar un brillo instantáneo.
-- La base para un cabello liso: como primer paso de la rutina Keratin Alpha Sleek, este champú prepara el cabello para los tratamientos posteriores, sentando la base para resultados suaves y manejables.
-- Limpieza suave sin sulfatos: elaborado sin tensioactivos sulfatados, esta fórmula profesional ofrece una limpieza suave pero eficaz, adecuada para todo tipo de cabello, sin eliminar la hidratación natural.
 - Contenido: 1 x L’Oréal Professionnel Keratin Alpha Sleek, Champú Sin Sulfatos para Alisado y Control del Frizz, Hidratación, Suavidad y Brillo, Apto para Cabello Teñido y Encrespado, 300 ml
+- Limpieza suave sin sulfatos: elaborado sin tensioactivos sulfatados, esta fórmula profesional ofrece una limpieza suave pero eficaz, adecuada para todo tipo de cabello, sin eliminar la hidratación natural.
+- La base para un cabello liso: como primer paso de la rutina Keratin Alpha Sleek, este champú prepara el cabello para los tratamientos posteriores, sentando la base para resultados suaves y manejables.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0GFMN1Z3W{{</world>}}

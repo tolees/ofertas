@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ECOVACS T90S Pro Omni Robot Aspirador y Fregasuelos 40 000 Pa | OZMO Roller Gen3 Rodillo de fregado autolavable limpieza de bordes navegación con IA PowerBoost estación todo en uno'
-date: 2026-11-24 11:41:15
+date: 2026-11-27 11:53:04
 image: 'https://m.media-amazon.com/images/I/31I20BaOzeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0H94KQLMJ/?tag=tolees-21'
 descuento: '37.55'
-average: '565.66666666666663'
+average: '549.0'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

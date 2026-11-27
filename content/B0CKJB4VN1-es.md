@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Corte estándar
 - Forro de malla
 - Con cordones
 - Parte superior de ante
-- Corte estándar
 - Suela de goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Vegano
 - Lavable a máquina
 - Espuma viscoelástica refrigerada por aire
-- Vegano
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FDCHZX2G{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Para disfrazarte de tu personaje favorito
-- Disfraz infantil para Halloween
 - Marca: Rubies
+- Para disfrazarte de tu personaje favorito
 - Presentación en bolsa con percha
+- Disfraz infantil para Halloween
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0813RSKYF{{</world>}}

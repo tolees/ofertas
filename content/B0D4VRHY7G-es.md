@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Diseño de 5 bolsillos
-- Corte recto
-- Tira de botones
 - Mid Rise
 - Programa Core
+- Tira de botones
+- Corte recto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D4VRHY7G{{</world>}}

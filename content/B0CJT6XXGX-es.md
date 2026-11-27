@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tipo de cordones: lazada estándar
-- Parte superior de malla transpirable con superposiciones de cuero y película para mayor apoyo y durabilidad
 - La entresuela de EVA proporciona una amortiguación suave y ligera
 - Suela duradera con patrón de tracción de espiga para movimiento y control en la cancha
+- Parte superior de malla transpirable con superposiciones de cuero y película para mayor apoyo y durabilidad
 - Altura del cuello de corte bajo para una sensación ligera y sensible
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

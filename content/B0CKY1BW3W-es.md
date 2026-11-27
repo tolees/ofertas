@@ -29,12 +29,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Forro textil
-- Empeine de malla con mezcla de materiales
-- Refuerzo de goma en el talón
-- Suela Adiwear
-- Amortiguación LIGHTMOTION
 - Cierre de cordones con detalles textiles
+- Suela Adiwear
+- Refuerzo de goma en el talón
 - Horma clásica
+- Empeine de malla con mezcla de materiales
+- Amortiguación LIGHTMOTION
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CKY1BW3W{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ethernet
-- Cables ópticos
 - RJ45
 - 20 m
+- Ethernet
+- Cables ópticos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BZ54B8S2{{</world>}}

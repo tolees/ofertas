@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Superior de cuero
 - Entresuela de espuma
+- Superior de cuero
 - Banda de rodadura de goma
 
 [🛒 Comprar!!!]({{< param buyurl >}})

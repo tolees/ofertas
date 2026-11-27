@@ -29,12 +29,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Es una adorable conejita saltarina y dulce con sonidos graciosos; le encanta que la acaricies; no podrás separarte de ella, ni ella de ti tampoco
-- A partir de 18 meses, funciona con 3 pilas LR6 (AA) no incluidas
-- Llámala dulcemente y se pondrá a dar saltitos, pero no grites demasiado o se asustará
-- Además, mueve sus orejitas como las conejitas de verdad - es monísima
-- Contribuyen a que los niños empiecen a aceptar y comprender emociones complejas combinando diversión, empatía y compasión
 - Perfecto para regalar a niños +18 meses
 - Juega y cuida de Betsy, tu pequeña y mimosa conejita; Betsy, reacciona a los sonidos caminando y moviendo las orejas
+- A partir de 18 meses, funciona con 3 pilas LR6 (AA) no incluidas
+- Además, mueve sus orejitas como las conejitas de verdad - es monísima
+- Llámala dulcemente y se pondrá a dar saltitos, pero no grites demasiado o se asustará
+- Contribuyen a que los niños empiecen a aceptar y comprender emociones complejas combinando diversión, empatía y compasión
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0788XQ6BM{{</world>}}

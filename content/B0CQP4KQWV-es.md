@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela TR (goma termoplástica) antideslizante y flexible
 - Parte superior de cuero de origen responsable
+- Suela TR (goma termoplástica) antideslizante y flexible
 - Calcetín de cuero transpirable
 
 [🛒 Comprar!!!]({{< param buyurl >}})

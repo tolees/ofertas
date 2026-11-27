@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Color de la joyería de oro
 - Ocasión- Casual
-- Material de joyería: latón
-- Cierre joya - Cierre langosta
 - Tipo de joyería - Pulsera
+- Cierre joya - Cierre langosta
+- Material de joyería: latón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQNY31XY{{</world>}}

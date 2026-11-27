@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Pantalón corto con cintura elastica ajustable
 - Camiseta de manga corta
 - Set de dos piezas
-- Pantalón corto con cintura elastica ajustable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BVBJZ82D{{</world>}}

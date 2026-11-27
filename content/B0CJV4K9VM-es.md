@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Banda superior sintética
-- Plataforma de EVA
 - Horma clásica
-- Forro textil
-- Plantilla moldeada de PU
 - Suela de EVA
+- Plantilla moldeada de PU
+- Forro textil
+- Plataforma de EVA
+- Banda superior sintética
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CJV4K9VM{{</world>}}

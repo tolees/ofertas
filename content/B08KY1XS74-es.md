@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Display LCD
+- Programación diaria y semanal
+- Bloqueo del selector
 - Incluye ruedas y soporte de pared
 - Sin fluidos: tecnología seca
-- 6 elementos
-- 4 modos de funcionamiento: confort, económico, anti hielo, standby
-- Bloqueo del selector
 - Emisor térmico con 1200W de potencia
+- 6 elementos
 - Temperatura ajustable de 5 a 35°C
-- Programación diaria y semanal
 - Interruptor marcha/paro
+- Display LCD
+- 4 modos de funcionamiento: confort, económico, anti hielo, standby
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08KY1XS74{{</world>}}

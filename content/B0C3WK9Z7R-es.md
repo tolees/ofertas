@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela firme
 - Parte superior textil revestida
 - Corte regular
+- Suela firme
 - ¡Nota! Es pequeño. Según los datos de devolución, te recomendamos una talla más. (Si por lo contrario usas talla 40, mejor pide 40 2/3)
 - Construcción sin cordones
 

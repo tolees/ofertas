@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Under Armour UA Charged Surge 4 Zapatos de deporte para hombre ligeras y transpirables deportivas de hombre color negro/gris antracita/blanco'
-date: 2026-11-12 19:45:14
+title: 'Zapatillas de running Under Armour UA Charged Surge 4 para hombre | Zapatillas de running para asfalto malla transpirable entresuela Charged Cushioning'
+date: 2026-11-26 23:44:45
 image: 'https://m.media-amazon.com/images/I/414ZwHiA0-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0BZXMVK68-es Under Armour UA Charged Surge 4 Zapatos de deporte para...'
+slug: 'B0BZXMVK68-es Zapatillas de running Under Armour UA Charged Surge 4 para...'
 sku: 'B0BZXMVK68-es'
 tags: [ '🇪🇸', ]
-actualPrice: 34.49 EUR
+actualPrice: 30.99 EUR
 currency: EUR
-price: 34.49
+price: 30.99
 comparePrice: 60.0 EUR
-prodname: 'Under Armour UA Charged Surge 4 Zapatos de deporte para hombre ligeras y transpirables deportivas de hombre color negro/gris antracita/blanco'
+prodname: 'Zapatillas de running Under Armour UA Charged Surge 4 para hombre | Zapatillas de running para asfalto malla transpirable entresuela Charged Cushioning'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BZXMVK68/?tag=tolees-21'
-descuento: '42.52'
-average: '34.987241379310312'
+descuento: '48.35'
+average: '34.729354838709647'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

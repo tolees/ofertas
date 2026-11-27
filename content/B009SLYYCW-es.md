@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Johnnie Walker Gold label Reserve Whisky escocés blended 700 ml el embalaje puede variar'
-date: 2026-11-10 19:15:44
+date: 2026-11-26 18:47:34
 image: 'https://m.media-amazon.com/images/I/41qzQ8OXr-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B009SLYYCW/?tag=tolees-21'
 descuento: '37.17'
-average: '38.640625000000156'
+average: '38.502200000000151'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Instrucciones de cuidado: apto para lavadora
 - Jeans Pantalones Largos
 - Ajuste: regular
-- Tipo de estiramiento: alta elasticidad
 - Composición: 55 por ciento algodón 30 por ciento lyocell 13 por ciento poliéster 2 por ciento elastano
-- Instrucciones de cuidado: apto para lavadora
+- Tipo de estiramiento: alta elasticidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6NL5V5P{{</world>}}

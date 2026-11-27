@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Unisex Kids Zapatilla Runfalcon 5'
-date: 2026-11-04 19:27:25
+date: 2026-11-26 14:12:11
 image: 'https://m.media-amazon.com/images/I/21n0DNSKX2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CKXTT233/?tag=tolees-21'
 descuento: '40.02'
-average: '28.982'
+average: '28.65'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

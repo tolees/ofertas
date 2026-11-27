@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Información legal: en los vehículos de 12/24 V, los faros adicionales deben instalarse en pares
 - Haz puntual (Spot Beam) para una mejor iluminación de campo lejano: hasta 190 metros de iluminación
 - Compacto y robusto: lente de policarbonato irrompible para uso intensivo
+- Información legal: en los vehículos de 12/24 V, los faros adicionales deben instalarse en pares
 - Temperatura ambiente: -30 ° C a 60 ° C! Controlador integrado y sistema de gestión térmica para una mayor vida útil
 - OSRAM LEDriving faro adicional "Lightbar SX180-SP": faro auxiliar LED resistente, duradero y compatible con ECE para en la carretera con 6.000 Kelvin, 1.300 lúmenes, 6 LED OSRAM
 

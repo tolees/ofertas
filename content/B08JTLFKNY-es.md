@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Un acabado repelente al agua duradero brinda protección contra la humedad ligera y la saturación de la tela.
 - Bolsillo interno en el pecho
+- Un acabado repelente al agua duradero brinda protección contra la humedad ligera y la saturación de la tela.
 - 100% nailon
 
 [🛒 Aquí!!!]({{< param buyurl >}})

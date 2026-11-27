@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Humectante de piel
 - Agradable sensación en la piel
 - Con fórmula exclusiva de Shiseido
+- Humectante de piel
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00ASQ8H9C{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Trabilla para colgarla en el interior
 - Capucha desmontable con la parte delantera alzada y cordones ajustables
-- Bolsillos con ribete en la cintura, botón a presión oculto
 - Ribete elástico en las mangas y el bajo
+- Trabilla para colgarla en el interior
+- Bolsillos con ribete en la cintura, botón a presión oculto
 - Cierre de cremallera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

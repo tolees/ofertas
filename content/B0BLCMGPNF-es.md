@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Construcción de bota media
 - Cuello acolchado
 - Empeine de gamuza
+- Construcción de bota media
 - PUMA Logotipo de gato en el talón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

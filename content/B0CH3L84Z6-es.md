@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La siguiente información se aplica a cada unidad del paquete
-- Ideal para viajes, aporta beneficio inmediata.
-- nan AfterSun Soothing Cooling Lotion 200 Ml – Other Beauty auténtico y reconocido.
-- Presentación práctica de alta calidad, fácil de usar y llevar contigo.
-- Disfruta de una experiencia de elegancia con cada aplicación.
 - nan fragancia premium con toque elegante.
+- Disfruta de una experiencia de elegancia con cada aplicación.
+- La siguiente información se aplica a cada unidad del paquete
+- nan AfterSun Soothing Cooling Lotion 200 Ml – Other Beauty auténtico y reconocido.
+- Ideal para viajes, aporta beneficio inmediata.
+- Presentación práctica de alta calidad, fácil de usar y llevar contigo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CH3L84Z6{{</world>}}

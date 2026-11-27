@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Talle: media
 - Largo: normal
-- Corte: normal
 - Material principal: punto plano
+- Corte: normal
+- Talle: media
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DJDJ1N77{{</world>}}

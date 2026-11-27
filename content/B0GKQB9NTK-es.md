@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Talla única: 55 cm
 - __Tejido:__Tejido en sarga mezcla de 65% poliéster reciclado 35% poliéster
-- __construcción:__ construcción de 6 paneles con forma de J
+- Talla única: 55 cm
 - __Visera:__ visera curva
+- __construcción:__ construcción de 6 paneles con forma de J
 - __Marca:__ parche de cuero con el logo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Botones de goma en la suela exterior para mayor agarre
 - Entresuela Unilite para una comodidad y apoyo ligeros
+- Botones de goma en la suela exterior para mayor agarre
 - OrthoLite - Plantilla acolchada
 - Parte superior de piel nobuck y malla
 

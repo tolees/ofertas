@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Electrolux Serie 300 Horno Multifunción 65 L Clase A EOH3H00BX | Limpieza AquaClean; 65 L 7 funciones clase A'
-date: 2026-11-23 19:21:07
+date: 2026-11-26 08:37:26
 image: 'https://m.media-amazon.com/images/I/41I5qatiFuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CWHHSXP3/?tag=tolees-21'
 descuento: '42.94'
-average: '230.81700000000069'
+average: '229.58047619047687'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

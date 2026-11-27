@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - __Otras características:__ Puente de nailon finamente tejido hecho de fibras de nailon recicladas
-- Entresuela: entresuela de EVA reciclada con contorno preformado con soporte integrado en el talón, el arco y el antepié
 - Suela exterior: __ suela de goma optimizada con goma reciclada y narices con logotipo en varios ángulos para mayor agarre
+- Entresuela: entresuela de EVA reciclada con contorno preformado con soporte integrado en el talón, el arco y el antepié
 - Material exterior: ante reciclado
 - __Plantilla: plantilla moldeada por compresión, antideslizante y texturizada de EVA reciclado
 

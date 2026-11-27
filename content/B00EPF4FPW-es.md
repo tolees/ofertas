@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Más manejables
-- Duraderos
 - Metálicos
+- Duraderos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00EPF4FPW{{</world>}}

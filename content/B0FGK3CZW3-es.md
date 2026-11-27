@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Color: Verde
 - Colección primavera-verano
 - Hecho en: Marruecos
-- Color: Verde
 - Vestido sin mangas de la colección mujer
 - 93 % poliéster, 7 % elastano
 

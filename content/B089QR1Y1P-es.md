@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Comodidad para el día a día
-- La base adecuado para look
 - De secado rápido
+- La base adecuado para look
+- Comodidad para el día a día
 - Tela elástica
 - Hecho con tela reciclada
 

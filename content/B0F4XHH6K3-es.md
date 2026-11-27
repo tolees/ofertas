@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Confección en piqué
+- Corte clásico
+- Mallas interiores de 7,62 cm para mayor cobertura
 - Estampado bordado de adidas
 - Cintura elástica
-- Mallas interiores de 7,62 cm para mayor cobertura
-- Corte clásico
-- 100% algodón
-- Cintura de talle medio
 - Ribetes de colores
+- Confección en piqué
+- Cintura de talle medio
+- 100% algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F4XHH6K3{{</world>}}

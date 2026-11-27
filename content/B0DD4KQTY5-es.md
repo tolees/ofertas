@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Capacidad: 30 cl.
-- Taza de cerámica con algunas de las mayores atracciones turísticas de la ciudad de Madrid.
 - Indicaciones: apta para microondas. Si bien es apta para lavavajillas, se recomienda el lavado a mano para que el diseño se mantenga perfecto durante más tiempo.
+- Taza de cerámica con algunas de las mayores atracciones turísticas de la ciudad de Madrid.
+- Capacidad: 30 cl.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DD4KQTY5{{</world>}}

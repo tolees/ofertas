@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puños acanalados
+- Escote acanalado y inserto
 - G-Star RAW bordado en el pecho
 - Etiqueta tejida G-Star Originals en la costura lateral inferior
-- Escote acanalado y inserto
 - Ranuras laterales
+- Puños acanalados
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DSWJHBQW{{</world>}}

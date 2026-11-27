@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - pantalones cortos deportivos
-- Tecnología Dri-Fit
 - Logotipo de Nike
+- Tecnología Dri-Fit
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07WLLKTLW{{</world>}}

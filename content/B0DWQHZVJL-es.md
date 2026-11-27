@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Construye sus casas Haz que se muden a casas prefabricadas o diseña de cero un hogar de ensueño con más de 1000 artículos
 - Define el estilo de tus Sims con diferentes atuendos y fórjales una personalidad monstruosa o santurrona asignándoles rasgos
-- A todo el mundo le gusta disfrutar de espacios abiertos, habitaciones cómodas, montones de ventanas y muebles bonitos, Pero puede que poner una bañera de hidromasaje o una cama en forma de corazón en mitad del salón también tenga su punto
 - Crea tus Sims Diseña la personalidad, las habilidades y el aspecto de tus Sims, Crea un personaje totalmente original o haz uno a tu imagen y semejanza, ¡O a la de tus familiares y amistades!
+- A todo el mundo le gusta disfrutar de espacios abiertos, habitaciones cómodas, montones de ventanas y muebles bonitos, Pero puede que poner una bañera de hidromasaje o una cama en forma de corazón en mitad del salón también tenga su punto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DWQHZVJL{{</world>}}

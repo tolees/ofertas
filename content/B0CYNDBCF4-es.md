@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Empeine Fiberskin sintético
-- Lengüeta perforada
-- Suela para césped natural seco/multisuperficie
-- Forro textil
 - Horma clásica
 - Cierre de cordones
+- Forro textil
+- Lengüeta perforada
+- Suela para césped natural seco/multisuperficie
+- Empeine Fiberskin sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CYNDBCF4{{</world>}}

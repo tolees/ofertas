@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ingredientes seleccionados
-- Corrector polvo-crema 02 sand sante
-- Alta calidad
 - Brand: Sante
+- Ingredientes seleccionados
+- Alta calidad
+- Corrector polvo-crema 02 sand sante
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B086TKV2YP{{</world>}}

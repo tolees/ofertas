@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte holgado
 - Mangas con puños
 - Contiene al menos un 70% de material reciclado y renovable
-- 55% algodón / 36% poliéster (reciclado) / 9% viscosa
 - Bolsillos frontales
+- Corte holgado
+- 55% algodón / 36% poliéster (reciclado) / 9% viscosa
 - Cintura elástica
 - Cremallera y cuello mao
 

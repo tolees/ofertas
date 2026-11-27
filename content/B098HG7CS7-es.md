@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Beinabschluss: weit
 - Extras: Kordelzug
-- Ausschnitt: default
 - Futter: default
+- Ausschnitt: default
 - Gattung: Hose
 
 [🛒 Visítala!!!]({{< param buyurl >}})

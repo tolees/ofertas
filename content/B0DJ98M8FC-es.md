@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Empeine de malla ligera
-- Tipo de puntera: redondeada
-- Cierre: de cordones
 - Ancho: estándar
+- Cierre: de cordones
 - Tipo de talón: plano
+- Tipo de puntera: redondeada
+- Empeine de malla ligera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DJ98M8FC{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Trunks 7-Pack Trunks Black l Black L'
-date: 2026-11-19 17:17:10
+date: 2026-11-26 11:02:56
 image: 'https://m.media-amazon.com/images/I/31nt-Jm2PEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T5SJMZ4/?tag=tolees-21'
 descuento: '40.01'
-average: '29.129565217391289'
+average: '29.198399999999985'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

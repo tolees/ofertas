@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cremalleras en la espinilla
-- Pequeña abertura en la parte trasera con botones de vástago, anchura regulable
 - Bolsillos insertados, bolsillo monedero hacia el interior, bolsillos traseros
 - Cierre con cremallera
+- Pequeña abertura en la parte trasera con botones de vástago, anchura regulable
 - Anilla llavero en la cintura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

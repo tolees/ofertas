@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para uso diario
 - Pantalón corto
+- Para uso diario
 - Tiene detalles distintivos de la marca "NIKE"
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

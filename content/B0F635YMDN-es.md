@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ojales de doble capa
 - Suela de goma
-- Perforaciones en la puntera
+- Ojales de doble capa
 - Material de efecto piel abatanada en el exterior
+- Perforaciones en la puntera
 - Entresuela de goma
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

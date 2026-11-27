@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Peso ligero
 - Espuma viscoelástica
 - Detalle del logotipo
-- Peso ligero
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C15F4XND{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre de velcro
-- PIEL
-- Suela original tipo waffle
 - Panel deportivo en la puntera
+- Cierre de velcro
+- Suela original tipo waffle
 - Brooklyn LS está inspirado en los clásicos de Vans con una influencia de estilo de zapatos de cancha. Incorpora una puntera deportiva y una forma más adaptada a la fila de los ojos.
+- PIEL
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FYQSZX8P{{</world>}}

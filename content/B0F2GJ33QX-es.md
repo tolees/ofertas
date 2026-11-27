@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cierre de cordones
-- Horma clásica
 - Empeine de malla con refuerzos sintéticos
+- Horma clásica
 - Amortiguación LIGHTMOTION
 - Plantilla OrthoLite
 

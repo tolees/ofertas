@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Contiene al menos un 20% de material reciclado
 - Forro textil
 - Empeine de malla
-- Forro textil
-- Contiene al menos un 20% de material reciclado
 - Mediasuela y suela combinadas de EVA
 - Corte clásico
+- Forro textil
 - Cierre de cordones con correa superior autoadherente
 
 [🛒 Comprar!!!]({{< param buyurl >}})

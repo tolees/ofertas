@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Mediasuela con amortiguación
 - Forro textil
-- Parte superior de piel revestida
-- Cierre de cordones
 - Horma clásica
+- Cierre de cordones
+- Parte superior de piel revestida
 - Suela de goma vulcanizada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

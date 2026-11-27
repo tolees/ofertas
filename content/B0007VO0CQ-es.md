@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El resistente acero inoxidable
 - Gruesos, finos y nuez moscada / ralladura caras de rejilla
 - Apto para lavavajillas
+- El resistente acero inoxidable
 - Material: acero inoxidable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

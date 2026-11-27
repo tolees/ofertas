@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material de fácil cuidado y forrado
-- Tira de botones
 - Bolsillos laterales
+- Tira de botones
+- Material de fácil cuidado y forrado
 - Cuello de solapa y cuello en V
 
 [🛒 Aquí!!!]({{< param buyurl >}})

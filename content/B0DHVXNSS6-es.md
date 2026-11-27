@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Empeine textil y sintético
 - Suela sintética
-- Forro textil
-- Horma clásica
 - Amortiguación Cloudfoam
+- Horma clásica
+- Forro textil
+- Empeine textil y sintético
 - Contiene al menos un 20% de material reciclado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

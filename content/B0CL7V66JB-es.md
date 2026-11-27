@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Jersey de punto
 - Diseño moderno
 - Ajuste cómodo
 - Hecho de material duradero y ligero
-- Jersey de punto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CL7V66JB{{</world>}}

@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tamaño: Cuarto (A5) 19 x 24 cm , adecuado para hojas de tamaño estándar y documentos comunes.
-- Diseño: Incluye tres solapas internas que mantienen los documentos en su lugar y gomas elásticas ubicadas en las esquinas, asegurando que la carpeta permanezca cerrada.
-- Marca : Liderpapel
 - Material: Fabricada en cartón pintado de 540 g/m², proporciona una estructura robusta y duradera sin sacrificar ligereza. El cartón pintado ofrece cierta resistencia a la humedad y al desgaste diario.
-- Valor de una unidad /carpeta
+- Marca : Liderpapel
 - Color: Azul, ideal para facilitar su identificación y clasificar visualmente los documentos si se utilizan varias carpetas de diferentes colores.
+- Tamaño: Cuarto (A5) 19 x 24 cm , adecuado para hojas de tamaño estándar y documentos comunes.
+- Valor de una unidad /carpeta
+- Diseño: Incluye tres solapas internas que mantienen los documentos en su lugar y gomas elásticas ubicadas en las esquinas, asegurando que la carpeta permanezca cerrada.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00GY2JP2W{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Adecuado para todos los taladros con montaje rápido SDS
-- Con punta de metal duro resistente a martillos para un alto rendimiento de taladrado y una larga vida útil
 - Adecuado para hormigón duro, piedra natural, piedra artificial y mampostería
+- Con punta de metal duro resistente a martillos para un alto rendimiento de taladrado y una larga vida útil
+- Adecuado para todos los taladros con montaje rápido SDS
 - Taladro para hormigón para colocar tacos de forma rápida y sencilla
 
 [🛒 Aquí!!!]({{< param buyurl >}})

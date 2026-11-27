@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Mujer Essentials 3-Stripes Track Suit Black M'
-date: 2026-11-24 23:08:55
+date: 2026-11-26 16:04:03
 image: 'https://m.media-amazon.com/images/I/31FCdZuA8YL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CZPR3RK9/?tag=tolees-21'
 descuento: '57.21'
-average: '41.187692307692309'
+average: '40.385'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

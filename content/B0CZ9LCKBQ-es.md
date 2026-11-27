@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Corte clásico
 - 100% poliéster (reciclado)
 - AEROREADY
-- Corte clásico
 - Espacio para personalizarla
 
 [🛒 Comprar!!!]({{< param buyurl >}})

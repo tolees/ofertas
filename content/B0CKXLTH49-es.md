@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- ambos tamaños incluyen los modelos CLASSIC-K COMPACT y EXPLORER;
+- Kit completo compuesto por casco, juego de ferrata y arnés.
 - El modelo de casco varía según la talla: Eclipse (S-M) o GALAXY (M-L);
 - El producto se envía en una bolsa de malla.
-- Kit completo compuesto por casco, juego de ferrata y arnés.
-- ambos tamaños incluyen los modelos CLASSIC-K COMPACT y EXPLORER;
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CKXLTH49{{</world>}}

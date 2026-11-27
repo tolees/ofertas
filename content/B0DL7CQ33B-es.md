@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Horma clásica
 - Forro textil
 - Empeine de material sintético
-- Suela de goma
 - Cierre de cordones
+- Suela de goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DL7CQ33B{{</world>}}

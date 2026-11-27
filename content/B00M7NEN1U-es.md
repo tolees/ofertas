@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'Fossil Virginia Reloj para mujer movimiento de cuarzo con correa de acero o piel Tono oro rosa y tono perla con purpurina 30MM'
-date: 2026-08-20 00:00:54
-image: 'https://m.media-amazon.com/images/I/41-ollxM7eL._SL500_._SL400_.jpg'
+date: 2026-11-27 00:02:07
+image: 'https://m.media-amazon.com/images/I/41QZTk7hlWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B00M7NEN1U-es Fossil Virginia Reloj para mujer movimiento de cuarzo con...'
 sku: 'B00M7NEN1U-es'
 tags: [ '🇪🇸', ]
-actualPrice: 98.7 EUR
+actualPrice: 44.55 EUR
 currency: EUR
-price: 98.7
+price: 44.55
 comparePrice: 179.0 EUR
 prodname: 'Fossil Virginia Reloj para mujer movimiento de cuarzo con correa de acero o piel Tono oro rosa y tono perla con purpurina 30MM'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00M7NEN1U/?tag=tolees-21'
-descuento: '44.86'
-average: '98.7'
+descuento: '75.11'
+average: '71.625'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,6 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se presenta en lata Fossil ilustrada de coleccionista (varios diseños)
-- Tamaño de caja: 30 mm; Grosor de la caja: 9 mm
-- Ancho de la correa: 14 mm; circunferencia de la correa: 185 +/- 5 mm
-- Movimiento: cuarzo; Material de la correa: acero inoxidable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00M7NEN1U{{</world>}}

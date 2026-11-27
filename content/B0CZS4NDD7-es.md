@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste: corte normal
 - Camiseta clásica y sencilla
+- Ajuste: corte normal
 - Cuello: redondo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

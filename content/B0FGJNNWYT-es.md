@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mezclilla elástica cómoda con un índigo claro usado en lavado vintage
-- 99 % algodón, 1 % elastano
 - Jeans cónicos con cintura alta
+- 99 % algodón, 1 % elastano
+- Mezclilla elástica cómoda con un índigo claro usado en lavado vintage
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FGJNNWYT{{</world>}}

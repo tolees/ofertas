@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Longitud: longitud estándar
 - Ajuste: ajustado
 - Colección: primavera verano 20
+- Longitud: longitud estándar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07MZ1M1BR{{</world>}}

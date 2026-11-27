@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - parte superior delgada hecha de una mezcla de cueros
-- punta perforada
 - Banda de rodadura adherente y resistente a la abrasión
+- punta perforada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D9KMJK9W{{</world>}}

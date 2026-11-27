@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte clásico
-- Tejido técnico 100% poliéster reciclado
-- Puños elásticos
 - Bolsillos frontales con cremallera
+- Puños elásticos
+- Tejido técnico 100% poliéster reciclado
+- Corte clásico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BQWM8JPW{{</world>}}

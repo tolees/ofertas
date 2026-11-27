@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Estee lauder double wear foundation spf10 sand (58782)
-- Base de maquillaje Estee Lauder
 - Base de maquillaje Maquillaje Mujer
+- Base de maquillaje Estee Lauder
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B001JD9VMU{{</world>}}

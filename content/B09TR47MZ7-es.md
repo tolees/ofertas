@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Fragancia elegante
-- Producto de calidad óptima
 - Adecuado para regalar
+- Producto de calidad óptima
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09TR47MZ7{{</world>}}

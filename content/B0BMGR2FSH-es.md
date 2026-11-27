@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - TENSIÓN ARTERIAL: Contienen DHA y EPA, que contribuyen a mantener una tensión arterial normal. El efecto beneficioso se obtiene con una ingesta diaria de 3 g de DHA y EPA, es decir, cuatro perlas al día. No deben superarse los 5 g diarios de EPA y DHAA combinados.
+- CORAZÓN: Contiene EPA y DHA, que contribuyen al funcionamiento normal del corazón. El efecto beneficioso se obtiene con una ingesta diaria de 250 mg de EPA y DHA, es decir, una perla al día.
 - TRIGLICÉRIDOS: Contiene DHA y EPA, que contribuyen a mantener unos niveles normal de triglicéridos en la sangre. El efecto beneficioso se obtiene con una ingesta diaria de 2 g de DHA y EPA, es decir, tres perlas al día. No deber superarse los 5 g diarios de EPA y DHA combinados.
 - PLAMECA: comprometidos con tu bienestar desde 1984. Ponemos a tu alcance productos naturales, seguros, innovadores, eficaces y de calidad porque nos apasiona la fitoterapia y porque queremos mejorar día a día para ser más sostenibles y mejores para ti, para todos y para nuestro planeta.
 - CEREBRO Y VISTA: Contiene DHA, que contribuye a mantener el funcionamiento normal del cerebro y de la visión. el efecto beneficioso se obtiene con una ingesta diaria de 250 mg de DHA, es decir, una perla al día.
-- CORAZÓN: Contiene EPA y DHA, que contribuyen al funcionamiento normal del corazón. El efecto beneficioso se obtiene con una ingesta diaria de 250 mg de EPA y DHA, es decir, una perla al día.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BMGR2FSH{{</world>}}

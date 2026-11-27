@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Elegante gorra de los New York Yankees de New Era
-- Modelo 9Twenty: visera curvada, corona desestructurada, cierre strapback
 - Características especiales: Bordado del logotipo del equipo en la parte delantera
+- Modelo 9Twenty: visera curvada, corona desestructurada, cierre strapback
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKHKRJLR{{</world>}}

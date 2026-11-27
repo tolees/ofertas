@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tobillo acolchado
 - Etiqueta tejida en la lengüeta
 - Parte superior de cuero
-- Tobillo acolchado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CHX7LNJ8{{</world>}}

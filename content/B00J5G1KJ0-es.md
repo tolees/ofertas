@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El colutorio logra una acción prolongada gracias a su excipiente bioadhesivo
 - Enjuage bucal que logra una Higiene bucodental diaria en situaciones de riesgo de gingivitis (inflamación y sangrado de encías) o encías delicadas
-- Tecnología PerioPlus Treatment Tech: reduce el sangrado y reduce el riesgo de enfermedades de las encías
 - Reduce la colonización de bacterias, inhibe la formación de biofilm y produce una triple acción antiplaca consiguiendo así una profunda limpieza bucal
+- Tecnología PerioPlus Treatment Tech: reduce el sangrado y reduce el riesgo de enfermedades de las encías
+- El colutorio logra una acción prolongada gracias a su excipiente bioadhesivo
 - Enjuague bucal sin alcohol sin gluten
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

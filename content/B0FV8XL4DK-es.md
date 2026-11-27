@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 📏 Especificaciones – Medidas: 17 x 25 x 2 cm. Material: 100% poliéster.
-- 📔 Portadocumentos y libro de nacimiento – Modelo Paddington de Pasito a pasito, acolchado y resistente, ideal para guardar documentación del bebé.
 - 🌿 Material seguro y de alta calidad – Fabricado en 100% poliéster, libre de colorantes azoicos, ftalatos y sustancias nocivas. Lavable a mano o a máquina a 30ºC.
 - 🧴 Interior forrado con bolsillos – Facilita la organización de papeles médicos y documentos importantes del bebé.
 - 🔒 Cierre de cremallera seguro – Protege documentos y mantiene todo ordenado en su interior.
+- 📔 Portadocumentos y libro de nacimiento – Modelo Paddington de Pasito a pasito, acolchado y resistente, ideal para guardar documentación del bebé.
+- 📏 Especificaciones – Medidas: 17 x 25 x 2 cm. Material: 100% poliéster.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FV8XL4DK{{</world>}}

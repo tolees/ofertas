@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pantene Pro-V Repara y Protege Champú para Pelo Seco y Dañado 2x1L | Limpia los Enlaces Capilares Sin Siliconas Tecnología Active Nutri-Plex'
-date: 2026-11-22 19:52:13
+date: 2026-11-26 19:34:24
 image: 'https://m.media-amazon.com/images/I/41E77ABZbdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DGGB6NY1/?tag=tolees-21'
 descuento: '37.81'
-average: '16.669583333333332'
+average: '16.5996'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- materialFabricComposition: Outer: 100% Polyester; Lining: 100% Polyester; Padding: 100% Polyester
 - Detachable Hood
 - Care Label:
-- materialFabricComposition: Outer: 100% Polyester; Lining: 100% Polyester; Padding: 100% Polyester
-- Polyester lining for a comfortable feel
 - Puffer jacket
+- Polyester lining for a comfortable feel
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CMQNG5S1{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Lavable a máquina
-- Cierre adaptable
 - Plantilla de espuma viscoelástica refrigerada por aire
+- Cierre adaptable
 - Zapatillas de malla con plantilla de espuma viscoelástica refrigerada por aire
+- Lavable a máquina
 - Skechers Manos libres
 
 [🛒 Aquí!!!]({{< param buyurl >}})

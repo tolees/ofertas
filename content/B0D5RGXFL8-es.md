@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto deportivo
 - Cómodo de usar
+- Producto deportivo
 - Mejora tu experiencia deportiva
 
 [🛒 Aquí!!!]({{< param buyurl >}})

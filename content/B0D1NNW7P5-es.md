@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 84 % poliéster (reciclado), 16 % elastano
-- Ajustadas
 - AEROREADY
+- Ajustadas
 - Cintura elástica
+- 84 % poliéster (reciclado), 16 % elastano
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D1NNW7P5{{</world>}}

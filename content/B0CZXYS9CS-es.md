@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte clásico
-- Pantalón corto: cintura elástica
 - Contiene al menos un 70% de material reciclado y renovable
+- Pantalón corto: cintura elástica
 - Camiseta: cuello redondo
 - 100% algodón
+- Corte clásico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZXYS9CS{{</world>}}

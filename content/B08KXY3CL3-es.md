@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACK & JONES Jjeoxford Shirt L/S S21 Noos Camisa Hombre Navy Blazer XL'
-date: 2026-11-19 17:33:53
+date: 2026-11-27 12:08:36
 image: 'https://m.media-amazon.com/images/I/31l20OjoNeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08KXY3CL3/?tag=tolees-21'
 descuento: '55.72'
-average: '19.999166666666667'
+average: '19.482307692307693'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

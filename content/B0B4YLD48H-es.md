@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Confección en 2 capas
+- Artículos entregados: 1x helly hansen mens hp racing lifaloft hooded jkt - ins jacket navy xl
 - Cremallera ykk
+- Confección en 2 capas
 - Lifaloft
 - Cordón ajustable en el dobladillo
-- Artículos entregados: 1x helly hansen mens hp racing lifaloft hooded jkt - ins jacket navy xl
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B4YLD48H{{</world>}}

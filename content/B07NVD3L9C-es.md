@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Óptimo para fans del anime y del modelismo japonés
+- Figura compacta y detallada para regalar o coleccionar
 - Inspirado en el personaje de Dragon Ball Z
 - Instrucciones claras para facilitar el montaje
-- Figura compacta y detallada para regalar o coleccionar
 - Construye a Piccolo con bloques en miniatura
 
 [🛒 Comprar!!!]({{< param buyurl >}})

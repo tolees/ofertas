@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- AMD Wraith Stealth Cooler
 - AMD Ryzen 5 9600
+- AMD Wraith Stealth Cooler
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FHDXP318{{</world>}}

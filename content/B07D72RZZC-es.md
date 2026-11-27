@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Horma clásica
 - Diseño auténtico: El auténtico estilo Samba
-- Forro de piel sintética; suela de goma color caramelo
-- Parte superior de piel granulada con refuerzos de ante y detalles dorados
+- Horma clásica
 - Suela vintage: El dibujo de la suela con punto de pivote se inspira en el calzado de fútbol vintage
+- Parte superior de piel granulada con refuerzos de ante y detalles dorados
+- Forro de piel sintética; suela de goma color caramelo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07D72RZZC{{</world>}}

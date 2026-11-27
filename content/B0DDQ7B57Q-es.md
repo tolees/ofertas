@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- - Protege la piel.
-- - Vitamina E.
 - La siguiente información se aplica a cada unidad del paquete
 - - Aloe Vera.
+- - Vitamina E.
+- - Protege la piel.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DDQ7B57Q{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo bordado
-- 47% poliéster reciclado, 30% algodón orgánico, 23% algodón reciclado
 - Correa ajustable del mismo tejido con hebilla plateada en el lateral
+- 47% poliéster reciclado, 30% algodón orgánico, 23% algodón reciclado
+- Logotipo bordado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CHZ2MTZ6{{</world>}}

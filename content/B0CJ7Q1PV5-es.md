@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Slip-Ins
-- Plantilla Goga Mat contorneada
 - Tecnología Goga Mat
+- Plantilla Goga Mat contorneada
+- Slip-Ins
 - Lavable a máquina
 - Ultra Go
 

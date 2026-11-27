@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Material exterior: sintético
 - Material único: goma
+- Tipo de tacón: plano
 - Tipo de cierre: cordones
 - Material interior: textil
-- Tipo de tacón: plano
 - Material de la plantilla: goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

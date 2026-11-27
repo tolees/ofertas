@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ⭐ Café de Especialidad - Todos los cafés en grano del pack son cafés de alta calidad, con más de 80 puntos SCA (Specialty Coffee Association)
 - 🌎 Origen único - Todos los granos de café provienen de fincas de orígenes únicos de cada país
-- 🌱 Ingredientes - Café en Grano Natural, 100% Arábica
 - ✨ Café Blend, mezcla de diferentes cafés de origen y sabor únicos creada por nuestra Q grader y cofundadora, Bea Mesas
+- 🌱 Ingredientes - Café en Grano Natural, 100% Arábica
+- ⭐ Café de Especialidad - Todos los cafés en grano del pack son cafés de alta calidad, con más de 80 puntos SCA (Specialty Coffee Association)
 - 💚 Pack de cafés para verdaderos amantes del café. Nuestros cafés más ácidos y exóticos de Rwanda, Sumatra y México. Pack que incluye 3 bolsas de café de 500 gramos cada una
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - HIDRATACIÓN DURADERA: desmaquillante facial con Microbiome Recovery Complex, refuerza la barrera cutánea y restablece el bienestar de la piel
-- PIELES INTOLERANTES: limpiador facial indicado para todo tipo de pieles, incluido sensibles e intolerantes; hipoalergénico
 - LIMPIEZA y FRESCOR: con delicados activos que limpian y desmaquillan en profundidad, eliminando incluso el maquillaje resistente al agua
 - OJOS SENSIBLES: desmaquillante de ojos y contorno, apto para ojos sensibles y usuarios de lentillas; testado bajo control dermatológico y oftalmológico
+- PIELES INTOLERANTES: limpiador facial indicado para todo tipo de pieles, incluido sensibles e intolerantes; hipoalergénico
 - SUAVE y TONIFICADA: agua micelar que respeta el pH fisiológico de la piel y ayuda a protegerla frente al estrés ambiental
 
 [🛒 Aquí!!!]({{< param buyurl >}})

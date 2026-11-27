@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Suela: Otros Materiales
-- Empeine: Otros Materiales / Textil
-- Forro Y Plantilla: Textil
-- Cordones
 - Horma clásica
+- Cordones
+- Forro Y Plantilla: Textil
+- Empeine: Otros Materiales / Textil
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F1WZY4C4{{</world>}}

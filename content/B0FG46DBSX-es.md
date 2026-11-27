@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko POP! Star Wars: Mandalorian & Grogu - Clang | Merchandising Oficial - Figura de Vinilo Coleccionable para Decoración - Regalo Friki de Cumpleaños'
-date: 2026-11-25 10:24:25
+date: 2026-11-27 07:06:21
 image: 'https://m.media-amazon.com/images/I/41AcnyEi4wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

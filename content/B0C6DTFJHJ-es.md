@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela exterior: suela de goma
 - Material superior: __ Empeine de goma con pin de metal oxidado
 - Plantilla de goma texturizada
+- Suela exterior: suela de goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C6DTFJHJ{{</world>}}

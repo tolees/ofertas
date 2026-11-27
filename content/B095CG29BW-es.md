@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cómo se juega: dividíos en dos equipos y escoged cada uno vuestro personaje favorito de FRIENDS. Responded correctamente a las preguntas usado el botón "Central" si creéis que es FALSO y el botón "Perk" si creéis que es VERDADERO. ¡Quién consiga más puntos gana el juego!
-- El juego dispone de 500 afirmaciones sobre la mítica serie ¿serás capaz de responder bien a todas? "Chandler tiene miedo a los sujetadores". "Joey es el más joven de los seis". "Ross no comparte su comida".
-- Recomendado a partir de 13 años. Funciona con 3 pilas AAA (incluidas)
 - La Master Fan (locutora) formulará afirmaciones a las que deberéis responder con "verdadero" o "falso" y os propondrá retos. ¡Ella se ocupa también de guardar los puntos de cada equipo! ¡Oh Dios mio!
 - ¿Eres un verdadero fan de Friends? ¿Conoces bien a Rachel, Joey, Monica, Chandler, Phoebe y Ross? Entra en estado de "Unagi" y demuéstralo contestando correctamente todas las preguntas de este divertido juego por equipos
+- Recomendado a partir de 13 años. Funciona con 3 pilas AAA (incluidas)
+- El juego dispone de 500 afirmaciones sobre la mítica serie ¿serás capaz de responder bien a todas? "Chandler tiene miedo a los sujetadores". "Joey es el más joven de los seis". "Ross no comparte su comida".
+- Cómo se juega: dividíos en dos equipos y escoged cada uno vuestro personaje favorito de FRIENDS. Responded correctamente a las preguntas usado el botón "Central" si creéis que es FALSO y el botón "Perk" si creéis que es VERDADERO. ¡Quién consiga más puntos gana el juego!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B095CG29BW{{</world>}}

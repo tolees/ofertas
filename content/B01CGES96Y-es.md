@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Ideal para niños: Adecuado para niños a partir de 12 meses en juegos al aire libre o en casa, actividades en el jardín y viajes familiares de corta distancia
 - Aplicación simple: Fórmula de textura ligera, no pegajosa y de secado rápido; ideal para uso diario en actividades al aire libre
-- Protección 3 en 1: Actúa de inmediato y dura hasta 7 horas. Niños y adultos a partir de 1 año; dermatológicamente testado. Pieles normales y sensibles; aroma agradable; ¡INSECTOS OFF! ¡AVENTURA ON!
 - Protección familiar: Fórmula adecuada para toda la familia; eficaz frente a mosquitos, incluido el mosquito tigre
+- Protección 3 en 1: Actúa de inmediato y dura hasta 7 horas. Niños y adultos a partir de 1 año; dermatológicamente testado. Pieles normales y sensibles; aroma agradable; ¡INSECTOS OFF! ¡AVENTURA ON!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01CGES96Y{{</world>}}

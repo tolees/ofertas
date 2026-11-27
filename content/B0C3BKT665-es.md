@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Klavado/acabado : Lavado a la piedra para un acabado desgastado y desteñido
+- Artículo : Corte loose
 - Cintura : Tiro alto
 - Bolsillos : Bolsillos traseros, Bolsillo relojero, Bolsillos delanteros
-- Artículo : Corte loose
 - Corte : Vaqueros holgados de tiro alto, muslo relajado, rodilla holgada, abertura de pierna holgada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

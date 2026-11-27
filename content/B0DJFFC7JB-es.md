@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tecnología transpirable
 - Fiel a la talla
 - 86% poliéster (reciclado) / 14% elastán
-- Tecnología transpirable
 - AEROREADY
 - Detalles reflectantes
 

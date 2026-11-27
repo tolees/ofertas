@@ -29,14 +29,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 4 cuchillas de acero inoxidable
+- Dimensiones (L x H x P): 20 x 38 x 17 cm
+- Peso: 1,6 litros
+- Dispositivo de seguridad
 - Vaso graduado, capacidad 1,5 l
 - 2 velocidades + pulsos
 - Potencia: 500 W
-- Alimentación: AC 220-240 V ~ 50/60 Hz
-- Peso: 1,6 litros
 - Pies antideslizantes
-- Dimensiones (L x H x P): 20 x 38 x 17 cm
-- Dispositivo de seguridad
+- Alimentación: AC 220-240 V ~ 50/60 Hz
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07VM9QDC2{{</world>}}

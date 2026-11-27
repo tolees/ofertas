@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- De la marca PARLE
-- Fabulosa galleta de chocolate H&S de la marca PARLE
-- Calidad superior
-- País de origen: India
 - Contenido: 1 x 112 gram
+- País de origen: India
+- Fabulosa galleta de chocolate H&S de la marca PARLE
+- De la marca PARLE
+- Calidad superior
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01BJ9OMFO{{</world>}}

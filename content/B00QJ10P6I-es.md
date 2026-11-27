@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hecho de acero al cromo vanadio
-- Función carraca con 72 dientes
 - Ángulo de ajuste extra pequeño 5°
+- Hecho de acero al cromo vanadio
 - Contenido de suministro: llave combinada con carraca 8 mm, longitud 89 mm | llave combinada con carraca 9 mm, longitud 95 mm | llave combinada con carraca 10 mm, longitud 97 mm | llave combinada con carraca 11 mm, longitud 100 mm | llave combinada con carraca 12 mm, longitud 102 mm | llave combinada con carraca 13 mm, longitud 109 mm | llave combinada con carraca 14 mm, longitud 115 mm | llave combinada con carraca 15 mm, longitud 119 mm | llave combinada con carraca 16 mm, longitud 123 mm | llave combinada con carraca 17 mm, longitud 129 mm | llave combinada con carraca 18 mm, longitud 132 mm | llave combinada con carraca 19 mm, longitud 141 mm
-- Tratamiento superficial: cromado, alto brillo
+- Función carraca con 72 dientes
 - Carraca articulada 180°
+- Tratamiento superficial: cromado, alto brillo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00QJ10P6I{{</world>}}

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Nos oponemos a los experimentos con animales; cosnova aparece internacionalmente con essence y CATRICE tanto en PETA Alemania como en PETA
 - Péptidos nutritivos e hidratantes
-- Textura brillante con una ligera pigmentación
-- La siguiente información se aplica a cada unidad del paquete
-- Dar volumen, brillante
+- Nos oponemos a los experimentos con animales; cosnova aparece internacionalmente con essence y CATRICE tanto en PETA Alemania como en PETA
 - Acabado ultrabrillante
+- La siguiente información se aplica a cada unidad del paquete
+- Textura brillante con una ligera pigmentación
+- Dar volumen, brillante
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F6YWHMK3{{</world>}}

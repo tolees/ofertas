@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- para la protección de la piel contra los rayos UV
-- Dermocosméticos de la Farmacia (PZN: 17293360)
-- cuidado médico de la piel de alta calidad
-- Fabricante: Pierre Fabre Pharma GmbH, Deutschland (Producto Original desde Alemania)
 - Crema para uso en la piel
+- Fabricante: Pierre Fabre Pharma GmbH, Deutschland (Producto Original desde Alemania)
+- para la protección de la piel contra los rayos UV
+- cuidado médico de la piel de alta calidad
+- Dermocosméticos de la Farmacia (PZN: 17293360)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B003AKXH7K{{</world>}}

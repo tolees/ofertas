@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Textura ligera y no pegajosa para una sensación cómoda
 - Acabado brillante y con destellos, con aroma afrutado a fresa
 - Aplicador práctico para una aplicación sencilla y un impulso de brillo inmediato
-- Brillo de labios voluminizador con extracto de chile para unos labios visiblemente más llenos
+- Textura ligera y no pegajosa para una sensación cómoda
 - Uso versátil: solo para un look natural o sobre perfilador para más intensidad
+- Brillo de labios voluminizador con extracto de chile para unos labios visiblemente más llenos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FK5N57XF{{</world>}}

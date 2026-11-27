@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Volvo VCC RBS0-2AE
 - Ofrece altos niveles de eficiencia de combustible y rendimiento a baja temperatura
-- Especificaciones ACEA C5
 - Lubricante sintético 0W-20, para gasolina y diésel de automoción, esta aprobado para su uso en vehículos Volvo, que requieren VCC RBS0-2AE.
+- Especificaciones ACEA C5
+- Volvo VCC RBS0-2AE
 - Castrol EDGE con Fluid TITANIUM patentado transforma su estructura física para ser más fuerte bajo presión para mantener el metal separado y reduce la fricción para lograr el máximo rendimiento del motor cuando más lo necesita
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

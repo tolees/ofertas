@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Hombros con la costura caída
+- Cuello redondo
 - Corte clásico
 - Material Principal: 70% Algodón / 30% Poliéster(100% Reciclado) / Parte Del Cordoncillo: 95% Algodón / 5% Elastano
-- Cuello redondo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D19K2FT4{{</world>}}

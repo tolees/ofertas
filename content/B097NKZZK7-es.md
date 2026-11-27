@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Ayuda a mejorar la paciencia y las habilidades sociales de los niños
 - Kit fácil de montar
 - HGUC
-- Ayuda a mejorar la paciencia y las habilidades sociales de los niños
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B097NKZZK7{{</world>}}

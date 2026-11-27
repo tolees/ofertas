@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tejido transpirable
-- Ajuste regular
 - Tela suave
 - Tiene detalles distintivos de la marca
+- Ajuste regular
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08QZ5C4V5{{</world>}}

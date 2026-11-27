@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cómodos de llevar
 - Pantalón short con un tejido ligero
 - Tiene detalles distintivos de la marca
-- Cómodos de llevar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BTDVVL17{{</world>}}

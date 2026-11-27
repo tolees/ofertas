@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuero martillado con logotipo frontal.
 - Interior forrado con bolsillo con cremallera y bolsillos abiertos.
+- Cuero martillado con logotipo frontal.
 - Tamaño compacto con línea suave.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

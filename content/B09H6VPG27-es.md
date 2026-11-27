@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tela suave
-- Sudadera de manga larga
-- Detalles distintivos de la marca
 - Ajuste regular
+- Tela suave
+- Detalles distintivos de la marca
+- Sudadera de manga larga
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09H6VPG27{{</world>}}

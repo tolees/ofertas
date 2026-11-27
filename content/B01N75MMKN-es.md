@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 5 PAQUETES DE 28 CÁPSULAS - 140 cápsulas de aluminio compatibles con las cafeteras Senseo.
 - CAFÉ 100% CERTIFICADO - Las cápsulas Marcilla son elaboradas con café obtenido de fincas Rainforest Alliance que contribuye a mejorar la vida de los agricultores.
 - CÁPSULA ESPRESSO - La cápsula tiene el tamaño indicado para poder preparar un café espresso para disfrutar solo o con base de leche como el capuchino o el latte.
+- 5 PAQUETES DE 28 CÁPSULAS - 140 cápsulas de aluminio compatibles con las cafeteras Senseo.
 - CAFÉ GRAN AROMA DESCAFEINADO - Café descafeinado de tueste natural.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

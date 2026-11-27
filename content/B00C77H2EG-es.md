@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Familiarización con la música
 - Ejercita el ritmo y la imaginación
+- Familiarización con la música
 - Favorece la desinhibición
 
 [🛒 Visítala!!!]({{< param buyurl >}})

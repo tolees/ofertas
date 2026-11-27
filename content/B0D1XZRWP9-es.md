@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- An original look
-- G-Star label at the back
-- Zip fly
 - 5 pockets
+- Zip fly
+- An original look
 - Provides comfort
+- G-Star label at the back
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D1XZRWP9{{</world>}}

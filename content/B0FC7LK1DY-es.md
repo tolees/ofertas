@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- UN BÁSICO IMPRESCINDIBLE EN TU ARMARIO: Cuello redondo y corte regular para llevar sola o como capa base.
-- HECHA PARA PERDURAR: Algodón resistente y construcción robusta para conservar forma y comodidad.
 - 100% ALGODÓN ORGÁNICO: camiseta lisa para hombre suave con la piel confeccionada con algodón 100% orgánico.
 - QUÉ RECIBIRÁS: 1 camiseta Columbia de algodón orgánico para hombre, CSC Basic Tee, camiseta minimalista para hombre, Color: Negro, Talla: XS
+- HECHA PARA PERDURAR: Algodón resistente y construcción robusta para conservar forma y comodidad.
+- UN BÁSICO IMPRESCINDIBLE EN TU ARMARIO: Cuello redondo y corte regular para llevar sola o como capa base.
 - SENCILLA Y ESTILIZADA: Logotipo discreto de Columbia y diseño limpio para un look moderno y versátil.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

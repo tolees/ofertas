@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Provides comfort
 - An original look
+- Provides comfort
+- G-Star label at the back
 - Zip fly
 - 5 pockets
-- G-Star label at the back
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D1XZHKW3{{</world>}}

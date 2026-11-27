@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - En tejido elástico
-- Leggings deportivos tiro alto
 - Leggings deportivos Nike con logo
+- Leggings deportivos tiro alto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C9TTNPW6{{</world>}}

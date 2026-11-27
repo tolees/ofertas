@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Hecho de acero al cromo vanadio
+- Cromado, cabezas pulidas
 - Llave fijas dobles 6x7 - 8x9 - 10x11 - 12x13 - 14x15 - 16x17 - 18x19 - 20x22 mm
-- En bolsa enrollable de vinilo
 - Forjado en caliente
 - Din 3110
-- Cromado, cabezas pulidas
-- Hecho de acero al cromo vanadio
+- En bolsa enrollable de vinilo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B001ILEA0Q{{</world>}}

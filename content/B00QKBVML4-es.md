@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Russell Hobbs Plancha de Vapor Power Steam Ultra 3100 W 210 g 20630-56 | Para un Planchado Rápido Vapor Continuo 70 g Suela Cerámica Antical Antigoteo Depósito 300 ml'
-date: 2026-11-25 12:52:18
+date: 2026-11-27 10:23:00
 image: 'https://m.media-amazon.com/images/I/51YKTJ1GF6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QKBVML4/?tag=tolees-21'
 descuento: '51.07'
-average: '41.836567164179023'
+average: '41.435217391304271'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

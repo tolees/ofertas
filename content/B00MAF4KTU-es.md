@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Listo para usar
+- Excelente comportamiento en la reflexión
 - No perjudicial para la salud
 - 100% sin aceite
-- Listo para usar
-- Fabricado en Alemania
-- Cantidad 10 l
 - Ideal para utilizar en televisión, teatro, escenario y discoteca
-- Excelente comportamiento en la reflexión
-- Líquido especial de base acuosa de muy alta calidad para máquinas de neblina
+- Cantidad 10 l
 - Biodegradable
+- Fabricado en Alemania
+- Líquido especial de base acuosa de muy alta calidad para máquinas de neblina
 - Inodoro
 
 [🛒 Comprar!!!]({{< param buyurl >}})

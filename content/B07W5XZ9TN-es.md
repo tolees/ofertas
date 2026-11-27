@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ajuste estándar
-- Camisa de manga larga
 - Tecnología Dri-Fit
+- Camisa de manga larga
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07W5XZ9TN{{</world>}}

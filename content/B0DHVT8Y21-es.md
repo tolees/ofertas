@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Empeine sintético y textil
 - Forro textil
-- Cierre de cordones
-- Refuerzo de goma en el talón
 - Horma clásica
+- Refuerzo de goma en el talón
+- Cierre de cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHVT8Y21{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nuestro planeta importa: reciclado
 - Espuma viscoelástica refrigerada por aire
-- Ajuste relajado
+- Nuestro planeta importa: reciclado
 - Vegano
+- Ajuste relajado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DBNMPK5L{{</world>}}

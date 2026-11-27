@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Género : unisex adultos
 - Marca : Schwarzkopf
+- Género : unisex adultos
 - Tipo de producto: laca
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

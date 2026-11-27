@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- BODY BEBÉ NIÑO: Conjunto de 4 bodies de algodón de manga corta de algodón ligero, ideal para la primavera y el otoño. Consulta la "Tabla de tallas" y la imagen "Guía de tallas" para elegir la talla adecuada
 - A LA MODA: El paquete incluye dos bodies con estampado completo y dos bodies de color sólido, decorados con lindos animalitos. Estas prendas Chicco son lavables a máquina para una completa higiene
+- BODY BEBÉ NIÑO: Conjunto de 4 bodies de algodón de manga corta de algodón ligero, ideal para la primavera y el otoño. Consulta la "Tabla de tallas" y la imagen "Guía de tallas" para elegir la talla adecuada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08XK2S6XM{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Grupo Erik Garfield Cuaderno A5 punteado | Merchandising Oficial: Journaling notebook A5 Bloc de notas Bullet journal con Marcapáginas y Tapa Dura 192 págs'
-date: 2026-11-16 16:17:29
+date: 2026-11-26 21:48:35
 image: 'https://m.media-amazon.com/images/I/41H6-Oz9zxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Enfoque manual
 - Campo de visión diagonal de 180°. Con revestimiento UMC anti-reflectante
 - Para cámaras compactas sin espejo de tipo Micro Cuatro Tercios, ojo de pez
+- Enfoque manual
 - Objetivo fotográfico para Micro 4/3 (Silver)
 - Parasol integrado
 

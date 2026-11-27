@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- TEXTIL - FIBRA VEGETAL
 - Brooklyn LS está inspirado en los clásicos de Vans con una influencia de estilo de zapatos de cancha. Cuenta con una puntera deportiva y una forma más cómoda para la fila de ojos.
 - Suela original de gofre
 - Cierre de velcro
 - Panel deportivo en la puntera
+- TEXTIL - FIBRA VEGETAL
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FYQTR1V3{{</world>}}

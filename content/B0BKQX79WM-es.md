@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL City Life 71203 Helicóptero de Rescate Juguete para niños a Partir de 4 años'
-date: 2026-11-19 07:08:11
+date: 2026-11-26 23:23:57
 image: 'https://m.media-amazon.com/images/I/51+OFb27QiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BKQX79WM/?tag=tolees-21'
 descuento: '41.61'
-average: '35.230555555555625'
+average: '34.626500000000064'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

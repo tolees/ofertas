@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ancho: estándar
 - Tipo de puntera: redondeada
+- Ancho: estándar
 - Tipo de talón: plano
 - Suela de interior de perfil bajo en goma que no deja marcas y entresuela de EVA
 - Cierre: de cordones

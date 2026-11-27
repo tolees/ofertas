@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 🌱 ¡ECOFRIENDLY! Juego de mesa y cartas impresas en la Unión Europea con papel de bosques gestionados de forma sostenible.
-- 😈 ¡NUEVA VERSIÓN! La segunda edición del juego de fiesta más vendido. 480 cartas y retos aún más picantes para sacar la peor versión de tus amigos.
-- 🍑 ¡SINVERGÜENZA TOTAL! 400 preguntas y 80 cartas especiales con acciones locas. Ideal para noches épicas con amigos.
 - 😂 ¡8 SEGUNDOS DE LOCURA! Descubre los pensamientos más atrevidos de tus amigos. El juego perfecto para reír sin parar en fiestas y reuniones.
+- 🌱 ¡ECOFRIENDLY! Juego de mesa y cartas impresas en la Unión Europea con papel de bosques gestionados de forma sostenible.
 - 🎁 ¡REGALO ORIGINAL! De 2 a 10 jugadores, +16 años y partidas de 15–60 min. Perfecto para cumpleaños, despedidas y fiestas inolvidables.
+- 🍑 ¡SINVERGÜENZA TOTAL! 400 preguntas y 80 cartas especiales con acciones locas. Ideal para noches épicas con amigos.
+- 😈 ¡NUEVA VERSIÓN! La segunda edición del juego de fiesta más vendido. 480 cartas y retos aún más picantes para sacar la peor versión de tus amigos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08H13QHZR{{</world>}}

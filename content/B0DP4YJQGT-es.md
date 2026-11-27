@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La combinación óptima, lo mejor del mar y lo mejor de la tierra
 - Se debe conservar en un lugar fresco y seco
+- La combinación óptima, lo mejor del mar y lo mejor de la tierra
 - Adecuado para toda la familia
 - Atún claro en aceite de oliva virgen extra
 - La siguiente información se aplica a cada unidad del paquete

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La icónica superficie de rodadura de DC
-- Orificios de ventilación para mayor transpirabilidad
 - Suela de copa
+- La icónica superficie de rodadura de DC
 - Cuello y lengüeta acolchados de espuma para mayor comodidad y apoyo
+- Orificios de ventilación para mayor transpirabilidad
 - Parte superior de cuero nobuck y piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})

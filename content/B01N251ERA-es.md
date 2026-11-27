@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Sordina para violín
 - Amortigua el sonido
-- Metálico con apagador de plástico
 - Se puede montar fácilmente
+- Metálico con apagador de plástico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01N251ERA{{</world>}}

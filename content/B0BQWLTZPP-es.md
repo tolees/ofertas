@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillos frontales con cremallera
-- Tejido técnico 100% poliéster reciclado
 - Puños elásticos
+- Bolsillos frontales con cremallera
 - Corte clásico
+- Tejido técnico 100% poliéster reciclado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQWLTZPP{{</world>}}

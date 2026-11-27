@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DKNY Pantuflas para hombre | Cómodas pantuflas de gamuza para hombre con forro de piel sintética cálido | Pantuflas tipo mule | suaves y transpirables | Disponible en negro gris bronceado y azul'
-date: 2026-11-24 18:03:34
+date: 2026-11-27 07:12:53
 image: 'https://m.media-amazon.com/images/I/41JQQEjROzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DKJMSKPW/?tag=tolees-21'
 descuento: '52.37'
-average: '36.375000000000007'
+average: '31.553333333333338'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

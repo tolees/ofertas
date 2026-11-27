@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Unisex niños Tensaur Sport 3.0 Kids Regular Fit Shoes Core Black/Core Black/Reflective Black 33 EU'
-date: 2026-11-23 23:03:26
+date: 2026-11-26 14:08:54
 image: 'https://m.media-amazon.com/images/I/31xr4MCZbdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

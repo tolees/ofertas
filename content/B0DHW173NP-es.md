@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cierre de cordones
 - Suela con compuesto de caucho Continental
-- Mediasuela de EVA LIGHTMOTION
 - Empeine de tejido ripstop con refuerzos
-- Plantilla OrthoLite
 - Horma clásica
 - Peso: 350 g (talla 38 2/3)
-- Cierre de cordones
+- Plantilla OrthoLite
+- Mediasuela de EVA LIGHTMOTION
 - Desnivel de la mediasuela: 10 mm (talón: 32 mm, antepié: 22 mm)
 
 [🛒 Aquí!!!]({{< param buyurl >}})

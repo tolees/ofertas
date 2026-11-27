@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido Twistknit
+- Contiene al menos un 70 % de material reciclado y renovable
+- 100 % poliéster (71 % reciclado)
+- Freshrite Polygiene que evita el mal olor
 - Factor de protección solar (FPS)
 - Tecnología transpirable
-- 100 % poliéster (71 % reciclado)
-- Cuello redondo
-- Refuerzos en la sisa
-- Freshrite Polygiene que evita el mal olor
 - Corte clásico
-- Contiene al menos un 70 % de material reciclado y renovable
+- Tejido Twistknit
+- Refuerzos en la sisa
+- Cuello redondo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZ9JMWJQ{{</world>}}

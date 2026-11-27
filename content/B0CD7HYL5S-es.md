@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre: mosquetón
-- Material: Acero inoxidable pulido con chapado iónico oro amarillo
 - Collar femenino de Calvin Klein
 - Longitud del collar: 40,6 cm y 6 cm de extensor
+- Material: Acero inoxidable pulido con chapado iónico oro amarillo
+- Cierre: mosquetón
 - Decorada con logo Calvin Klein grabado en la barra
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

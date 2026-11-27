@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El ajuste se basa en nuestro estilo icónico Venus y se ensancha justo por encima de la rodilla hasta una abertura inferior de 21 pulgadas
-- Confeccionados en un denim elástico cómodo con aspecto lavado a piedra azul claro
 - Cintura media acampanada con una cintura más ancha y detalle de 2 botones en la parte central delantera
+- Confeccionados en un denim elástico cómodo con aspecto lavado a piedra azul claro
+- El ajuste se basa en nuestro estilo icónico Venus y se ensancha justo por encima de la rodilla hasta una abertura inferior de 21 pulgadas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FGJNWCYR{{</world>}}

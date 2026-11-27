@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 55% algodón / 36% poliéster (reciclado) / 9% viscosa
 - Diseño con capucha
 - Puños y dobladillo de canalé
-- Contiene al menos un 70% de material reciclado y renovable
-- Bolsillo canguro
 - Corte clásico
+- Bolsillo canguro
+- 55% algodón / 36% poliéster (reciclado) / 9% viscosa
+- Contiene al menos un 70% de material reciclado y renovable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZVL9CX4{{</world>}}

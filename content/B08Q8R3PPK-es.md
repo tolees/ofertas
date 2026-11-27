@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- zapatos de baloncesto
 - Amortiguación
 - estilo retro
-- zapatos de baloncesto
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08Q8R3PPK{{</world>}}

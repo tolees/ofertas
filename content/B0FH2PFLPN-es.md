@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Polo
 - Composición: 100% algodón
+- Polo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FH2PFLPN{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ofrece comodidad y libertad de movimiento
-- JACK & JONES apoya la iniciativa Better Cotton usando algodón orgánico o reciclado
-- Pantalones cortos
 - Pantalones chinos de corte estándar
+- Pantalones cortos
+- JACK & JONES apoya la iniciativa Better Cotton usando algodón orgánico o reciclado
+- Ofrece comodidad y libertad de movimiento
 - Composición del material: 98 % algodón, 2 % elastano
 - Bragueta de botones
 

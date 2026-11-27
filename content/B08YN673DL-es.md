@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Decorada con bandera de Tommy Hilfiger esmaltada en el cierre
-- Brazalete trenzado en piel masculino de Tommy Hilfiger
 - Cierre: magnético
 - Circunferencia interna: 19 cm
+- Decorada con bandera de Tommy Hilfiger esmaltada en el cierre
+- Brazalete trenzado en piel masculino de Tommy Hilfiger
 - Piel trenzada negra con cierre de Acero inoxidable
 
 [🛒 Aquí!!!]({{< param buyurl >}})

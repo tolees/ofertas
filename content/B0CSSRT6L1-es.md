@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aprieta la palanca del asa para activar la hélice e imitar a un helicóptero de verdad para “volar” al rescate.
-- Sobrevuela la escena, gira la manivela para bajar el gancho y luego encájalo en un vehículo a escala 1:64. Lleva el vehículo dentro y continúa con la misión.
-- Transforma el helicóptero en un centro de control de misiones que cuenta con una pantalla GPS activada por el coche.
-- En el helicóptero caben hasta 4 coches a escala 1:64. (Los vehículos adicionales se venden por separado).
 - Incluye una ambulancia metalizada a escala 1:64 para disfrutar de una experiencia de juego completa que a los niños y las niñas a partir de 3 años les encantará.
+- En el helicóptero caben hasta 4 coches a escala 1:64. (Los vehículos adicionales se venden por separado).
+- Sobrevuela la escena, gira la manivela para bajar el gancho y luego encájalo en un vehículo a escala 1:64. Lleva el vehículo dentro y continúa con la misión.
 - ¡El Helicóptero de rescate a gran escala de Matchbox está listo para dejar que los peques vuelen y salven la situación!
+- Aprieta la palanca del asa para activar la hélice e imitar a un helicóptero de verdad para “volar” al rescate.
+- Transforma el helicóptero en un centro de control de misiones que cuenta con una pantalla GPS activada por el coche.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CSSRT6L1{{</world>}}

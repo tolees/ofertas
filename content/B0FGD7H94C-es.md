@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Incluye 1 mes gratis de VIP Pass: desbloquea más de 180 canciones adicionales.
-- Canta con los vídeos musicales oficiales para vivir una experiencia auténtica
 - Hasta 4 jugadores: perfecto para fiestas y reuniones familiares
+- Canta con los vídeos musicales oficiales para vivir una experiencia auténtica
 - 4 emocionantes modos de juego para jugar solo o en grupo
 - Utiliza tu smartphone como micrófono con la aplicación complementaria gratuita
 

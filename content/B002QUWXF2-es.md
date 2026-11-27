@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Aminoácido no esencial
 - No contiene azúcares, sal ni almidón
 - Apto para veganos, vegetarianos y kosher
 - Participa en el metabolismo muscular
-- Aminoácido no esencial
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B002QUWXF2{{</world>}}

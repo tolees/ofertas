@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Un ajuste cómodo
-- Manga corta
-- Una mirada original
 - Detalles gráficos en el pecho
+- Una mirada original
+- Manga corta
 - Cuello redondo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

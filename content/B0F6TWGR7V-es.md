@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ● Rejugabilidad infinita – Vive mazmorras generadas de forma procedimental, colecciona más de 100 objetos únicos y explora 10 regiones diversas.
 - ● Un vibrante mundo en 2D – Explora un reino bellamente ilustrado, repleto de cultos de magos, criaturas mágicas y secretos ocultos.
-- ● Hechicería caótica – Domina una gran variedad de hechizos, pero ten cuidado: lanzar magia puede provocar consecuencias impredecibles y, a menudo, hilarantes.
-- ● Elecciones dinámicas – Hazte amigo o traiciona a magos de élite, moldeando tus relaciones e influyendo en la historia.
 - Folly of The Wizards Edición Estandar - Nintendo Switch
+- ● Rejugabilidad infinita – Vive mazmorras generadas de forma procedimental, colecciona más de 100 objetos únicos y explora 10 regiones diversas.
+- ● Elecciones dinámicas – Hazte amigo o traiciona a magos de élite, moldeando tus relaciones e influyendo en la historia.
+- ● Hechicería caótica – Domina una gran variedad de hechizos, pero ten cuidado: lanzar magia puede provocar consecuencias impredecibles y, a menudo, hilarantes.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F6TWGR7V{{</world>}}

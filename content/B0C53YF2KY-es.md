@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Parte de piel revestida
 - Mediasuela con amortiguación
 - Horma clásica
-- Parte de piel revestida
 - Forro textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})

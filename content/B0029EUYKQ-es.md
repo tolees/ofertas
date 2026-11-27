@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- para cuidado especial del subpelo
 - asa plástico, agarre antideslizante de goma
-- púas redondeadas, cuidado delicado del pelo
 - 2 cm de longitud de las púas
+- para cuidado especial del subpelo
+- púas redondeadas, cuidado delicado del pelo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0029EUYKQ{{</world>}}

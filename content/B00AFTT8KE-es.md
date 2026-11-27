@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Fossil Virginia Reloj para mujer movimiento de cuarzo con correa de acero o piel Tono oro rosa y blanco con purpurina 30MM'
-date: 2026-11-17 19:26:47
+title: 'Fossil Virginia Cuarzo Reloj con brillantes para mujer de acero inoxidable tres manecillas Oro rosa'
+date: 2026-11-26 14:59:39
 image: 'https://m.media-amazon.com/images/I/412wqGnGHRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00AFTT8KE-es Fossil Virginia Reloj para mujer movimiento de cuarzo con...'
+slug: 'B00AFTT8KE-es Fossil Virginia Cuarzo Reloj con brillantes para mujer de...'
 sku: 'B00AFTT8KE-es'
 tags: [ '🇪🇸', ]
-actualPrice: 72.59 EUR
+actualPrice: 68.0 EUR
 currency: EUR
-price: 72.59
+price: 68.0
 comparePrice: 169.0 EUR
-prodname: 'Fossil Virginia Reloj para mujer movimiento de cuarzo con correa de acero o piel Tono oro rosa y blanco con purpurina 30MM'
+prodname: 'Fossil Virginia Cuarzo Reloj con brillantes para mujer de acero inoxidable tres manecillas Oro rosa'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AFTT8KE/?tag=tolees-21'
-descuento: '57.05'
-average: '87.894054054054209'
+descuento: '59.76'
+average: '86.873846153846301'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

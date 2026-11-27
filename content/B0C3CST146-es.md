@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ADVERTENCIAS DE USO – Inserte el forro solo con comida encima; no precalentar la freidora vacía para evitar que el aire levante el papel hacia la resistencia
-- PAPEL ALIMENTARIO SEGURO – Pulpa de madera virgen con revestimiento antiadherente de grado alimenticio; libre de BPA y blanqueantes; resiste hasta 220 °C sin alterar sabores u olores
 - COCINA LIMPIA – Superficie impermeable y antigrasa que evita residuos; desechable, reduce el tiempo de limpieza de la freidora de aire
+- PAPEL ALIMENTARIO SEGURO – Pulpa de madera virgen con revestimiento antiadherente de grado alimenticio; libre de BPA y blanqueantes; resiste hasta 220 °C sin alterar sabores u olores
+- ADVERTENCIAS DE USO – Inserte el forro solo con comida encima; no precalentar la freidora vacía para evitar que el aire levante el papel hacia la resistencia
 - USO VERSÁTIL – Ideal para horno, freidora de aire, asados, cocción al vapor, microondas o servicio de mesa; perfecto para el hogar, barbacoas, camping y fiestas
 - COMPATIBLE CON CESTAS DE 3-5 L – Forro redondo o cuadrado Ø 16 cm interior / Ø 20 cm exterior; adecuado para Cosori, Ninja, Chefman, Philips y la mayoría de las freidoras de aire de 3-5 l
 

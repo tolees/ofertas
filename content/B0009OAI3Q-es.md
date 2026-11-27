@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- GREEN TEA EAU PARFUM Fragancia original de té verde que revitaliza y transporta. Llena de vida, despierta los sentidos, da energía al cuerpo y reaviva el espíritu con frescura chispeante
+- CONSEJOS DE USO Rocía en puntos de pulso sin frotar. Aplica sobre piel hidratada para fijar mejor el aroma y controla la cantidad para no excederte
 - NOTAS FLORALES Con esencias naturales y notas florales como el té verde y la bergamota, esta fragancia te transporta a una aventura que rebosa felicidad y energía y que reduce el estrés
 - RECOMENDACIONES Complementa tu rutina con Green Tea Honey Drops. Hidrata y revitaliza tu piel mientras disfrutas de la frescura sensorial del té verde con Green Tea Eau Parfum
 - FRESCURA Y VITALIDAD Con té verde y bergamota, esta fragancia ofrece una experiencia olfativa revitalizante. Frescura vegetal con toque cítrico que despiertan los sentidos con energía y vitalidad
-- GREEN TEA EAU PARFUM Fragancia original de té verde que revitaliza y transporta. Llena de vida, despierta los sentidos, da energía al cuerpo y reaviva el espíritu con frescura chispeante
-- CONSEJOS DE USO Rocía en puntos de pulso sin frotar. Aplica sobre piel hidratada para fijar mejor el aroma y controla la cantidad para no excederte
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0009OAI3Q{{</world>}}

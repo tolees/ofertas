@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño deportivo con cordones
 - Skechers Plantilla acolchada de espuma viscoelástica
 - Entresuela acolchada de aire Skech-Air
+- Diseño deportivo con cordones
 - Parte de malla y sintética
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mangas con dobladillo, no fijas
 - G-Star Estampado RAW en el pecho
-- Cuello acanalado, inserto acanalado
 - Etiqueta tejida G-Star RAW en la costura lateral
+- Cuello acanalado, inserto acanalado
+- Mangas con dobladillo, no fijas
 - Aberturas laterales
 
 [🛒 Visítala!!!]({{< param buyurl >}})

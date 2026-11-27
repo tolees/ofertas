@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gotas iluminadoras en un tono universal
-- Nos oponemos a los experimentos con animales; cosnova aparece internacionalmente con essence y CATRICE tanto en PETA Alemania como en PETA
 - Hidratar/humectar; cuidado; natural; brillante; luminoso; rociado
+- Nos oponemos a los experimentos con animales; cosnova aparece internacionalmente con essence y CATRICE tanto en PETA Alemania como en PETA
 - Deja un sutil acabado brillante
+- Gotas iluminadoras en un tono universal
 - Enriquecido con ácido hialurónico y niacinamidas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

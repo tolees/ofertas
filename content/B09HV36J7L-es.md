@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Corte (corte: corte estándar
-- Gorilla Wear, La marca de culturismo, fitness, estilo de vida y artes marciales
-- Pantalones cortos transpirables para entrenamiento y ocio
-- Instrucciones de cuidado: lavar a 30 °C, lavado normal, no usar lejía, no secar en secadora, no planchar en caliente (110 °C), precaución al planchar con vapor, no lavar en seco
 - Color: negro
+- Pantalones cortos transpirables para entrenamiento y ocio
+- Gorilla Wear, La marca de culturismo, fitness, estilo de vida y artes marciales
+- Instrucciones de cuidado: lavar a 30 °C, lavado normal, no usar lejía, no secar en secadora, no planchar en caliente (110 °C), precaución al planchar con vapor, no lavar en seco
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09HV36J7L{{</world>}}

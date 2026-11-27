@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta de manga corta
 - Ofrece comodidad
+- Camiseta de manga corta
 - Estilo informal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tela suave
-- Material resistente y duradero
 - Producto adecuado para los días de verano
+- Material resistente y duradero
+- Tela suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B6BZXG59{{</world>}}

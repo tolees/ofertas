@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Descubre todas las marcas de EMP!
 - Básicos
-- Ajuste : Normal
-- Cortavientos con las siguientes características:
 - Cortavientos || Ajuste normal || Color intenso || Material duradero
+- Cortavientos con las siguientes características:
+- Ajuste : Normal
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08HR2GKNG{{</world>}}

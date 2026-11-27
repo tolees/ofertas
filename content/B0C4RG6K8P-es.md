@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Lavable a máquina
+- Cierre adaptable
+- Tenis Gore & Strap con pared lateral temática
 - Ligeras
 - Temático
-- Cierre adaptable
-- Lavable a máquina
-- Tenis Gore & Strap con pared lateral temática
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C4RG6K8P{{</world>}}

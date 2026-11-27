@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Chaqueta recta larga
 - Malla fina
 - Cuello con gruñido
-- Chaqueta recta larga
 - 2 bolsillos
 - Manga larga
 

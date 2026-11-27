@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Color: Liso
-- Desigual
 - Regular Waist
-- Bolsillos delanteros y traseros
-- Largo: Largo
 - Fit: Flare
+- Bolsillos delanteros y traseros
+- Desigual
+- Largo: Largo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DW9KPW4Y{{</world>}}

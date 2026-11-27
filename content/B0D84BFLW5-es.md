@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste ancho
-- Skech-Air
 - Espuma viscoelástica refrigerada por aire
+- Skech-Air
+- Ajuste ancho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D84BFLW5{{</world>}}

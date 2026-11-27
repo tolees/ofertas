@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Gancho magnético sin estuche o con estuche Mag Safe
 - El paquete incluye: Cargador de baterías portátil, Cable USB-C to USB-C, Instrucciones.
-- Capacidad: 5 000 mAh
+- Gancho magnético sin estuche o con estuche Mag Safe
 - Compatible con tecnología Mag Safe
+- Capacidad: 5 000 mAh
 - Carga inalámbrica de 7,5 W
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'RENOVA Pañuelos de Bolsillo Sensitive 4 Capas 6 Paquetes Lavanda | 6 paquetes de 9 pañuelos 4 capas extrasuaves papel blanco perfume de lavanda 21 x 21 cm'
-date: 2026-11-20 18:35:59
+date: 2026-11-26 11:39:46
 image: 'https://m.media-amazon.com/images/I/418iVgi2DpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N4EEEVB/?tag=tolees-21'
 descuento: '54.24'
-average: '1.109130434782605'
+average: '1.0851999999999966'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

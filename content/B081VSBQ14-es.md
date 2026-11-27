@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Longitud estándar
 - Cintura media
+- Longitud estándar
 - Cómodo de llevar y suave al tacto
 
 [🛒 Comprar!!!]({{< param buyurl >}})

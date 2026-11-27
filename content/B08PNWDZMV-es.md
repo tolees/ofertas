@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Recuerdos siempre a la vista: te hacen revivir los momentos más memorables con tus seres queridos
 - Detalles: el marco mide 14 x 19, viene con paspartú de 9 x 13 cm y sirve para fotos de 13 x 18 cm
-- Para colocar de pie: portarretratos para exponer fotografías, postales, dibujos sobre estantes
 - Para la pared: estos portafotos también se pueden colgar tanto apaisados como en formato vertical
+- Recuerdos siempre a la vista: te hacen revivir los momentos más memorables con tus seres queridos
+- Para colocar de pie: portarretratos para exponer fotografías, postales, dibujos sobre estantes
 - Set: estos 2 marcos de fotos de diseño clásico de color negro son perfectos para todos los espacios
 
 [🛒 Aquí!!!]({{< param buyurl >}})

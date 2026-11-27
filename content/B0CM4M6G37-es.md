@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Smart 36 Flex stretches vertically and horizontally for maximum flexibility and movement
 - Smart 36 Flex California Khaki Slim
-- Zip fly
-- Features Hidden Security Pockets with a concealed zipper and coin compartment
-- Made with our world-famous and bestselling Smart 36 Flex
+- Smart 36 Flex stretches vertically and horizontally for maximum flexibility and movement
 - Slim Fit
+- Zip fly
+- Made with our world-famous and bestselling Smart 36 Flex
+- Features Hidden Security Pockets with a concealed zipper and coin compartment
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CM4M6G37{{</world>}}

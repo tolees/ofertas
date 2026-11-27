@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ofrece comodidad
-- Zapatilla deportiva
 - Cierre con cordones
+- Zapatilla deportiva
+- Ofrece comodidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FC2SVW1Z{{</world>}}

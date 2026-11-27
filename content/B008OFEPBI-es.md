@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cable USB 2.0 adecuado para móviles y cámaras digitales
-- Conector tipo A Macho y Micro USB tipo B Macho
 - Longitud del cable 0.8 m
+- Conector tipo A Macho y Micro USB tipo B Macho
+- Cable USB 2.0 adecuado para móviles y cámaras digitales
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B008OFEPBI{{</world>}}

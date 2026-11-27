@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Cuello alzado y cierre de cremallera hasta el pecho
 - Corte clásico
-- AEROREADY
 - 100% poliéster (reciclado)
+- AEROREADY
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CZ7FRL97{{</world>}}

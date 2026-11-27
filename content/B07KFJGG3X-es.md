@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Un ajuste cómodo
-- Una mirada original
-- Cierre de botones
 - Proporciona comodidad
+- Cierre de botones
+- Una mirada original
+- Un ajuste cómodo
 - Cuello de polo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

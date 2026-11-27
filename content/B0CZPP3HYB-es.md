@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillos frontales en la chaqueta y el pantalón
-- Cintura elástica con cordón
-- Tiro medio
-- Corte clásico
 - Cierre de cremallera y cuello alzado
+- Cintura elástica con cordón
+- Bolsillos frontales en la chaqueta y el pantalón
 - Puños y dobladillo de canalé
 - 100% poliéster (reciclado)
+- Tiro medio
+- Corte clásico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CZPP3HYB{{</world>}}

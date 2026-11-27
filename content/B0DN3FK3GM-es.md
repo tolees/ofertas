@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte informal
-- Costuras de cuentas en dobladillo, cuello y puños
 - Hombro caído
+- Costuras de cuentas en dobladillo, cuello y puños
+- Corte informal
 - Cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

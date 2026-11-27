@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Elastic waistband with lanyard
+- Regular fit
 - Breathable fabric
 - Care instructions: Machine Wash
-- Regular fit
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08NYFPGQ8{{</world>}}

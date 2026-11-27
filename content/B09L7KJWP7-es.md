@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Fuente natural de calcio
+- Sin colorantes ni conservantes, según la legislación vigente
 - No necesita frío
 - Sin azúcares añadidos, contiene azúcares naturalmente presentes
 - Lácteo infantil adaptado desde los 6 meses
-- Sin colorantes ni conservantes, según la legislación vigente
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09L7KJWP7{{</world>}}

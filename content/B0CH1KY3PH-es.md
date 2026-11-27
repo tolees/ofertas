@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aplica con su aplicador automático donde desees
-- Acabado Smokey
 - Lápiz de ojos efecto tatuaje semi-permanente
-- Tattoo Liner Smokey viene con un sacapuntas incorporado dentro de la esponja difuminadora
+- Acabado Smokey
+- Aplica con su aplicador automático donde desees
 - La siguiente información se aplica a cada unidad del paquete
+- Tattoo Liner Smokey viene con un sacapuntas incorporado dentro de la esponja difuminadora
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CH1KY3PH{{</world>}}

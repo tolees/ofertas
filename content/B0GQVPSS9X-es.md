@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'iRobot Roomba 115 Combo Robot Aspirador y friegasuelos 2 en 1 Potencia de succión de 15000 Pascales Cepillo Lateral Flexible Mopa de fregado extendida Navegación Clearview LiDAR App Blanco'
-date: 2026-11-25 18:06:33
+date: 2026-11-27 07:03:17
 image: 'https://m.media-amazon.com/images/I/315N7UVcgUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GQVPSS9X/?tag=tolees-21'
 descuento: '48.19'
-average: '135.25499999999843'
+average: '135.02333333333183'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

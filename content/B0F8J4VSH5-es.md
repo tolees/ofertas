@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Unidad Dynamic Air de doble cámara para una transición suave
 - Parte superior de malla multicapa para mayor ligereza y transpirabilidad.
+- Unidad Dynamic Air de doble cámara para una transición suave
 - Suela de goma para tracción
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

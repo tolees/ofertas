@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 100% poliéster (reciclado)
 - Cintura elástica con cordón
-- AEROREADY
 - Corte clásico
+- 100% poliéster (reciclado)
+- AEROREADY
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CZB1758T{{</world>}}

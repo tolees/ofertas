@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LG 55QNED82B6B - Smart TV QNED EVO AI 55" 4K Sin Reflejos 94% 2026 | QNED EVO MiniLED Smart TV WebOS 26 Procesador α8 AI Gen3 VRR 144Hz HDR10 y Dolby Digital Plus Negro'
-date: 2026-11-20 10:17:07
+date: 2026-11-26 18:21:25
 image: 'https://m.media-amazon.com/images/I/41ItwZvBJjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GVDVBZT8/?tag=tolees-21'
 descuento: '41.01'
-average: '536.96833333333336'
+average: '530.11571428571426'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

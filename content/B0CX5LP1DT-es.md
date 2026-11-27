@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantilla suave
-- Totalmente afelpadas
 - Zapatillas de casa
+- Totalmente afelpadas
+- Plantilla suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CX5LP1DT{{</world>}}

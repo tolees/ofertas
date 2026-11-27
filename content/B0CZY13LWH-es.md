@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre con botón y cremallera
-- Trabillas para cinturón
 - Pantalón vaquero corto
+- Trabillas para cinturón
+- Cierre con botón y cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CZY13LWH{{</world>}}

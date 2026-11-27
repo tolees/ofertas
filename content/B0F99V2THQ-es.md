@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Ajuste relajado que ofrece una espalda holgada, silueta a la moda
-- Suave construcción 100% algodón para una comodidad transpirable y todo el día
 - Gráfico de graffiti brillante de estrás para un edgy, ambiente urbano
+- Suave construcción 100% algodón para una comodidad transpirable y todo el día
 - Té de declaración que añade la atención a cualquier atuendo informal
 - Cuello redondo clásico y mangas cortas para un estilo versátil
 

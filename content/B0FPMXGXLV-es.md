@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko Pop! Star Wars: Mandalorian & Grogu | Merchandising Oficial - Figura de Vinilo Coleccionable para Decoración - Regalo Friki de Cumpleaños'
-date: 2026-11-25 13:54:41
+date: 2026-11-27 07:36:16
 image: 'https://m.media-amazon.com/images/I/41ZAkgfT79L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FPMXGXLV/?tag=tolees-21'
 descuento: '50.00'
-average: '9.995000000000001'
+average: '9.33'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

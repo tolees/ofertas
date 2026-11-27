@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La pieza se puede vestir fácilmente de manera formal o informal
 - La cintura es media alta
+- La pieza se puede vestir fácilmente de manera formal o informal
 - Aspecto elegante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cuello: Redondo
+- Cierre: de Botón
 - Fit: Regular
 - Estampado Arty
 - Manga: Larga
-- Cuello: Redondo
-- Cierre: de Botón
 - Desigual
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

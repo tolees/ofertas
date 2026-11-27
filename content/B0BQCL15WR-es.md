@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Marca lineal ubicada en el centro con el texto "New Balance"
-- Marca Big N
 - Suela acolchada inspirada en las zapatillas de trail running 355
+- Marca Big N
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQCL15WR{{</world>}}

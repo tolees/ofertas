@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Empeine de ante
-- Forro textil
-- Cierre de cordones
 - Horma clásica
+- Forro textil
+- Empeine de ante
+- Cierre de cordones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FTSG16L5{{</world>}}

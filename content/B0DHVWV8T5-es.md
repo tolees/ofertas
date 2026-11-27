@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cierre de cordones
-- Plantilla OrthoLite
 - Empeine de tejido ripstop con refuerzos
 - Horma clásica
+- Plantilla OrthoLite
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHVWV8T5{{</world>}}

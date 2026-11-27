@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ring Videotimbre 2K cableado Wired Video Doorbell 2K última gen. | Timbre con cámara Retinal 2K zoom de hasta 6 aumentos Prueba gratuita de 30 días de suscripción Ring'
-date: 2026-11-19 10:55:20
+date: 2026-11-26 09:53:45
 image: 'https://m.media-amazon.com/images/I/213ftv+imGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FJJM9R3Z/?tag=tolees-21'
 descuento: '50.01'
-average: '44.434444444444537'
+average: '43.99000000000008'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

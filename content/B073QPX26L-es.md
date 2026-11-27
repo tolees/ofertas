@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Es adecuado también para un uso exterior.
 - Listo para su uso
 - Acción larga duración, gracias a su fórmula micro-encapsulée.
-- Es adecuado también para un uso exterior.
 - Para todo tipo de insectos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

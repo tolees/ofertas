@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Embalaje: caja
 - Cintura expuesta
+- Embalaje: caja
 - Tiro regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})

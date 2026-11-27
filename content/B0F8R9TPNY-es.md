@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Forro interior sintético
 - Parte superior de cuero con acabado suave.
+- Forro interior sintético
 - Tacón bajo para uso diario.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

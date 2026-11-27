@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre de cordones
-- Mediasuela con amortiguación
-- Contiene al menos un 20% de material reciclado
-- Suela de goma vulcanizada
-- Horma clásica
-- Forro textil
 - Empeine de ante
 - Suela de goma vulcanizada
+- Horma clásica
+- Contiene al menos un 20% de material reciclado
+- Mediasuela con amortiguación
+- Suela de goma vulcanizada
+- Forro textil
+- Cierre de cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CKLX2YTX{{</world>}}

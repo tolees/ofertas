@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Forro textil
 - Suela de goma que no deja marcas
 - La parte superior contiene al menos un 50% de material reciclado
-- Forro textil
 - Parte superior de piel sintética
 - Fiel a la talla
 

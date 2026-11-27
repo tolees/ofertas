@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ajustes completos para confort: altura regulable, respaldo reclinable entre 90-120°, giro 360°, y función de bloqueo para adaptarse a tu postura.
+- Reposabrazos abatibles y cojines ajustables: los reposabrazos se plegan 90° para facilitar el acceso bajo mesas o escritorios, dispone de ajuste lumbar y cervical
+- Estilo versátil para oficina o gaming: disponible en versión clásica negra o en tonos pastel (blanco/gris, blanco/beige, blanco/turquesa, blanco/rosa), adaptándose a cualquier ambiente.
 - Diseño ergonómico premium: la silla DRIFT DRAIR35 combina una robusta estructura con malla tensada de alta calidad, ideal para largas jornadas frente al PC.
 - Desplazamiento silencioso y estable: base de nailon de 60 cm, pistón de gas Clase 3, ruedas de nailon + PU que permiten un movimiento fluido sin ruidos.
-- Estilo versátil para oficina o gaming: disponible en versión clásica negra o en tonos pastel (blanco/gris, blanco/beige, blanco/turquesa, blanco/rosa), adaptándose a cualquier ambiente.
-- Reposabrazos abatibles y cojines ajustables: los reposabrazos se plegan 90° para facilitar el acceso bajo mesas o escritorios, dispone de ajuste lumbar y cervical
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0G1T6LT3F{{</world>}}

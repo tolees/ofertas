@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Broca para piedra Extreme
 - Con vástago de 3 caras
 - Extremadamente robusto y duradero resistente a la perforación
-- Broca para piedra Extreme
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00N7EVJOM{{</world>}}

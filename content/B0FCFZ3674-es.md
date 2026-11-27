@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Libreta A4 con encuadernación grapada, con 48 hojas pautadas en su interior.
 - En la parte interior de la portada encontramos una cuadrícula pensada para anotar en ella el horario del curso escolar.
 - Cuenta con la certificación FSC, que garantiza que ha sido fabricada con papel proveniente de bosques gestionados de forma responsable.
+- Libreta A4 con encuadernación grapada, con 48 hojas pautadas en su interior.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FCFZ3674{{</world>}}

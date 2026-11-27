@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Featuring a stitch on version of the iconic FILA flag on the side.
 - Un clásico moderno.
+- Featuring a stitch on version of the iconic FILA flag on the side.
 - Clásica silueta baja de baloncesto.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

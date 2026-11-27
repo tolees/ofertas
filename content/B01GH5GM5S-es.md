@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Under Armour Tech Polo'
-date: 2026-11-21 02:17:34
+date: 2026-11-26 15:33:09
 image: 'https://m.media-amazon.com/images/I/31Y5MAF2HvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GH5GM5S/?tag=tolees-21'
 descuento: '50.00'
-average: '21.12'
+average: '21.580000000000002'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

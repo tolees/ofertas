@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Puma Women s St Miler Rose Sneaker Frosted Ivory Puma White Gum 40.5 EU'
-date: 2026-11-04 21:32:51
+date: 2026-11-26 14:29:16
 image: 'https://m.media-amazon.com/images/I/31HWw3+hCUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DJC5XM6B/?tag=tolees-21'
 descuento: '39.97'
-average: '36.490588235294084'
+average: '36.753684210526281'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

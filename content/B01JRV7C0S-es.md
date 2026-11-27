@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corona contorneada ajustada con visera curvada frontal
-- 100% poliéster tejido en marrón del equipo oficial
 - Tipo de deporte: No aplicable (colecciones de temporada)
+- 100% poliéster tejido en marrón del equipo oficial
+- Corona contorneada ajustada con visera curvada frontal
 - Nombre del departamento: Unisex
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

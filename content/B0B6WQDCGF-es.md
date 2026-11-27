@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricante: LOreal Deutschland GmbH Geschäftsbereich VICHY, Deutschland
-- contra el sudor y el olor corporal
-- Producto para la higiene personal de la farmacia (PZN: 17627223)
 - producto de atención médica de alta calidad
 - Solución para la aplicación bajo las axilas
+- contra el sudor y el olor corporal
+- Producto para la higiene personal de la farmacia (PZN: 17627223)
+- Fabricante: LOreal Deutschland GmbH Geschäftsbereich VICHY, Deutschland
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B6WQDCGF{{</world>}}

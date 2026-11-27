@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estilo retro
 - Detalles de cuero y fantasía
+- Estilo retro
 - Zapatillas deportivas/zapatillas de correr
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Instrucciones de cuidado: apto para lavadora
 - Pantalón Largo
-- Composición: 96 por ciento algodón 4 por ciento elastano
 - Tipo de estiramiento: baja elasticidad
+- Composición: 96 por ciento algodón 4 por ciento elastano
+- Instrucciones de cuidado: apto para lavadora
 - Ajuste: Slim Straight
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

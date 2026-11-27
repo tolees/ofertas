@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Amortiguación óptima para correr
 - Detalles de la marca Puma
+- Amortiguación óptima para correr
 - Ofrece comodidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

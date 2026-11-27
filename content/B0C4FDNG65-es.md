@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adecuado para múltiples ocasiones
 - Tiene detalles distintivos de la marca
+- Adecuado para múltiples ocasiones
 - Pantalón largo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

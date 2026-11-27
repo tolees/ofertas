@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalla LCD (modo 24h)
-- Radio digital am/FM
-- Memoria para 20 emisoras (10 emisoras am y 10 emisoras FM)
-- Altavoz incorporado; función sleep y snooze
 - Clip para sujeción y cinta para ajuste de mano
+- Memoria para 20 emisoras (10 emisoras am y 10 emisoras FM)
+- Pantalla LCD (modo 24h)
+- Altavoz incorporado; función sleep y snooze
+- Radio digital am/FM
 - Fuente de alimentación: Funciona con pilas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

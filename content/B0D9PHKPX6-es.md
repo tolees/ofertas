@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Perfil Pill Pattern
-- Lengüeta y entrada acolchadas
 - Lengüeta de malla ligera
+- Lengüeta y entrada acolchadas
 - Orificios de ventilación
+- Perfil Pill Pattern
 - Parte superior de cuero, nobuck o gamuza [dependiendo del color]
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

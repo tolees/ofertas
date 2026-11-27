@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido ligero de secado rápido
-- Cintura elástica con cordón interior
-- Corte clásico
+- Calzoncillo interior
 - 100 % poliéster (reciclado)
 - Tiro medio
+- Tejido ligero de secado rápido
+- Corte clásico
+- Cintura elástica con cordón interior
 - Bolsillos laterales
-- Calzoncillo interior
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DLKLCVTP{{</world>}}

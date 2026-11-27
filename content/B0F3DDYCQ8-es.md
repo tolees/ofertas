@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Corte ajustado
-- Cintura alta
-- 77% poliéster (100% reciclado), 23% elastano
 - Tejido de punto
+- 77% poliéster (100% reciclado), 23% elastano
+- Cintura alta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F3DDYCQ8{{</world>}}

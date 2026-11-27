@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido suave y ligero
-- Ortega libertad de movimientos
 - Diseño ligero que ofrece comodidad
 - Pantalón corto deportivo
+- Ortega libertad de movimientos
+- Tejido suave y ligero
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B59FBYNT{{</world>}}

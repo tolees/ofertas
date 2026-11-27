@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Compatibles con materiales de dibujo y boceto que permitan suavizar sus trazos, como los pasteles, las ceras, el carboncillo o el grafito.
-- Difuminadores ideales para dibujos y creaciones artísticas a nivel profesional y amateur.
-- Barras para difuminar idóneos para crear transiciones de color, degradados y otros efectos.
 - De tamaño y peso ligeros, para un manejo cómodo y ágil sobre el papel y los materiales de dibujo.
+- Difuminadores ideales para dibujos y creaciones artísticas a nivel profesional y amateur.
 - Conjunto de 4 lápices para difuminar de distintos diámetros: 1, 2, 4 y 6.
+- Barras para difuminar idóneos para crear transiciones de color, degradados y otros efectos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00KVJW5VW{{</world>}}

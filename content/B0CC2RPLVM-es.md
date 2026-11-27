@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cómodos
 - Logotipo de la marca
+- Cómodos
 - Cierre de cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jabra Evolve2 Buds Auriculares Bluetooth Intraaurales Inalámbricos Cancelación Activa de Ruido y Tecnología MultiSensor con 4 Micrófonos Certificados para MS Teams Negro'
-date: 2026-11-16 08:48:31
+date: 2026-11-26 09:23:05
 image: 'https://m.media-amazon.com/images/I/41UHNsTqq4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

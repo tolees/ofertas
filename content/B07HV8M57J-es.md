@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Aberturas laterales
 - Pantalón interior fijo
 - Cintura alta con goma interior
+- Aberturas laterales
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07HV8M57J{{</world>}}

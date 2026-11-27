@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Horma clásica
-- Empeine de piel sintética y malla
 - Puntera Adituff
-- Diseño transpirable
 - Cierre de cordones
+- Diseño transpirable
+- Empeine de piel sintética y malla
+- Horma clásica
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZ11ZPC5{{</world>}}

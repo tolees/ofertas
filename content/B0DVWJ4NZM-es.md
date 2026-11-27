@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El elegante diseño de Nike combina rendimiento deportivo con estilo moderno.
 - La robusta suela de goma garantiza un agarre seguro en diversas superficies.
+- El elegante diseño de Nike combina rendimiento deportivo con estilo moderno.
 - Sistema de amortiguación de tensión en la entresuela para una comodidad óptima al correr.
 - Parte superior de malla transpirable para una comodidad y ventilación óptimas.
 

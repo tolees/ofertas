@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Material: platos hondos y de postre de porcelana decorada; platos hondos de cerámica.
-- Decoraciones mix & match.
 - Aptos para lavavajillas y microondas.
 - Composición: 6 platos llanos Ø 27 cm. 6 platos hondos Ø 20,5 cm; 6 platos de postre Ø 20,5 cm.
+- Decoraciones mix & match.
 - Vajilla de 18 piezas, ideal para 6 personas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

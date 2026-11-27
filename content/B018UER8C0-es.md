@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Piscina redonda desmontable INTEX con aro superior hinchable de la línea Easy Set, medidas: 396x84 cm, capacidad: 7.290 litros y 4 personas mayores de 6 años
 - Para una óptima utilización y durabilidad de la piscina desmontable y tubular se recomienda seguir las recomendaciones del manual INTEX
-- Lona tricapa Super-Tough que da mayor resistencia y durabilidad, de fácil instalación: extender en terreno firme y nivelado, inflar anillo y llenar con agua
 - No incluye depuradora pero dispone de conexiones de 32 mm de diámetro para poder instalársela
+- Lona tricapa Super-Tough que da mayor resistencia y durabilidad, de fácil instalación: extender en terreno firme y nivelado, inflar anillo y llenar con agua
 - Lista para ser usada en unos 10 minutos, con tapón de vaciado conectable a manguera de jardín para facilitar el desagüe en zonas alejadas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ✅ CARACTERÍSTICAS: Tejido 100% algodón extra suave.Fácil planchado.Es recomendable lavar antes del primer uso.Larga duración.Alto colchón de 32cm..Una sola funda de almohada de 90,105,135 cm y dos fundas de almohadas para camas de 150/160,160,180 y 200cm..Estampación a una sola cara.
 - 🛏️ PRODUCTO: Conjunto de sábanas esencialmente primaveral. Sábana con delicado estampado de flores campestres en tonos rosas, vainilla y un acento de fucsia. Las hojas en agua y verdes, perfiles de ramitas en verde grisaceo, pintan un cuadro fresco y vibrante. Tanto la encimera como la almohada presentan una aplicación color agua en los embozos, realzados con un ribete en verde medio. La sábana bajera, de confección ajustable, en color verde agua.
 - 🫧 MANTENIMIENTO: Lavar a máquina con programa delicado y temperatura máxima de 40º. No usar lejía. Planchar a temperatura media. No limpiar en seco. Secado a máquina, ciclo normal
 - 📏 MEDIDAS DEL CONJUNTO: Una encimera de 240x270 cm. .Dos fundas de almohadas de 50x85 cm. .Una sábana bajera ajustable de 150-160x190/200cm. Disponible en más medidas.
 - 🧵 MATERIAL: El tejido sobre el que está confeccionada esta sábana es de 100 %algodón con 144 hilos. Un producto de calidad, avalado por Burrito Blanco. Se recomienda un lavadito suave inicial para que adquiera sus características de tacto y suavidad definitivas.
+- ✅ CARACTERÍSTICAS: Tejido 100% algodón extra suave.Fácil planchado.Es recomendable lavar antes del primer uso.Larga duración.Alto colchón de 32cm..Una sola funda de almohada de 90,105,135 cm y dos fundas de almohadas para camas de 150/160,160,180 y 200cm..Estampación a una sola cara.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FHX1JPV6{{</world>}}

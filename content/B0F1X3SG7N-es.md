@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Forro Y Plantilla: Textil
 - Empeine: Otros Materiales / Textil
+- Cordones
 - Horma clásica
 - Suela: Otros Materiales
-- Cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F1X3SG7N{{</world>}}

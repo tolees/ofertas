@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Desigual
-- Fit: Regular
 - Confeccionado con materiales sostenibles
-- Manga: Larga
 - Con Capucha
+- Fit: Regular
+- Manga: Larga
 - Efecto superposición
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

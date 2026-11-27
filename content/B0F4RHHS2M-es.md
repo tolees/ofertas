@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 100% algodón
-- Pequeño logotipo debajo
-- Tejido de punto
-- Corte clásico
 - Gran inscripción de inspiración universitaria en el pecho
 - Cuello redondo
+- Pequeño logotipo debajo
+- Corte clásico
+- 100% algodón
+- Tejido de punto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F4RHHS2M{{</world>}}

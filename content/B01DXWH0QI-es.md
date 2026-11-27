@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Impresionante cubertería de la colección Munich de Bergner
-- El set se compone de: 6 cucharas de sopa (20 cms); 6 tenedores (20 cms.); 6 cuchillos de mesa (23 cms.); 6 cucharillas de postre/café (14 cms.)
 - Una colección impresionante para tu mesa
+- El set se compone de: 6 cucharas de sopa (20 cms); 6 tenedores (20 cms.); 6 cuchillos de mesa (23 cms.); 6 cucharillas de postre/café (14 cms.)
 - Está fabricada en acero inoxidable pulido, y está revestido de titanio en color negro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Corto
 - Park III Short NB
 - 100% poliéster
-- Corto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07WC5QHZT{{</world>}}

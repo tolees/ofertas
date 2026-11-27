@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye juego base y extras digitales
 - Una nueva perspectiva del fútbol
+- Incluye juego base y extras digitales
 - Acción intensa y tácticas complejas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

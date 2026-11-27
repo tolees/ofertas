@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Para un mayor disfrute se recomienda consumir entre 4º y 6º C.
+- Mahou 0,0 Tostada en pack de 24 botellas de vidrio de 25 centilitros sin alcohol.
 - Mahou 0,0 Tostada tiene un color tostado con reflejos dorados oscuros o ámbar, de aspecto brillante y con un espuma cremosa y blanquecina. Es una cerveza Amber Lager 0,0% alcohol hecha para los que quieren disfrutar de una experiencia 100% cervecera.
 - Elaborada a partir de maltas con un grado mayor de tueste que responsables del color y de los aromas a cereal tostado, variedades de lúpulo amargas y semiaromáticas de origen europeo y con agua con un nivel de sales minerales optimizado para conseguir extraer y potenciar los aromas y sabores de todas las materias primas.
-- Mahou 0,0 Tostada en pack de 24 botellas de vidrio de 25 centilitros sin alcohol.
 - Su sabor tiene un carácter maltoso con sensaciones a mosto, grano y malta tostada al final. Destacan también las notas complejas de los aceites de lúpulo junto a recuerdos de levadura. En boca es ligera con un cuerpo y amargor suave y elegante, ligeramente seca y con un regusto dulce con un punto de acidez. Perfil aromático moderado a cereal, con notas iniciales de mosto complementadas con sabores a malta, caramelo y café; se perciben aromas de lúpulo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

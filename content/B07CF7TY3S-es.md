@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Nuevo color
 - Formato Fº
 - 80 hojas con cuadrícula 4mm x 4mm con margen
+- Nuevo color
 - Espiral simple negra
 - Tapa plástico, resistencia y ligereza en uno. Cantos romos para evitar que las tapas se deterioren
 

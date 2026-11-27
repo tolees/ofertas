@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- producto 2: Para reparar las puntas partidas. como acondicionador sin enjuagar, deslízalo sobre el cabello con estática como sea necesario.
+- producto 1: …
 - producto 1: …
 - producto 2: Permite definir la textura y el modelado del cabello en forma facil
-- producto 1: …
-- producto 2: Utilízalo sobre el cabello húmedo o seco
-- producto 1: …
 - producto 2: El restaurador de puntas partidas y acondicionador sin enjuagar, suaviza y protege tu cabello.
+- producto 2: Utilízalo sobre el cabello húmedo o seco
+- producto 2: Para reparar las puntas partidas. como acondicionador sin enjuagar, deslízalo sobre el cabello con estática como sea necesario.
+- producto 1: …
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BJDC9XCJ{{</world>}}

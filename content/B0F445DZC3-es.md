@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Largo/talla : Corto
-- Puños : Puños de velcro
-- Modo de vida : Al aire libre
-- Cierre : Cierre con cordón
 - Artículo : Chaqueta
-- Bolsillos : Bolsillos delanteros
 - Funcionalidad : Resistente al viento
-- Manga : Manga larga
 - Forro : Forro de poliéster para una sensación cómoda
+- Largo/talla : Corto
+- Bolsillos : Bolsillos delanteros
+- Manga : Manga larga
+- Modo de vida : Al aire libre
+- Puños : Puños de velcro
+- Cierre : Cierre con cordón
 - Cuello : Capucha con cordón de ajuste
 
 [🛒 Aquí!!!]({{< param buyurl >}})

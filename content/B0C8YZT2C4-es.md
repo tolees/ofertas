@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- __Collection:__ Everyday collection
-- Water repellent
 - __Fit:__ Straight leg fit
 - Coating: PFC free hydrophobic treatment
+- __Collection:__ Everyday collection
+- Water repellent
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C8YZT2C4{{</world>}}

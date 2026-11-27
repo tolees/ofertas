@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nueva Amazon Alexa Tablet 8 4 GB de RAM 64 GB tablet compacta de 8 7″ con pantalla de gran nitidez batería de larga duración con Google Play diseñada para Alexa+ Grafito'
-date: 2026-11-23 09:00:57
+date: 2026-11-27 08:03:18
 image: 'https://m.media-amazon.com/images/I/31GQ3ARVWiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FL9QBGYJ/?tag=tolees-21'
 descuento: '50.43'
-average: '114.2475'
+average: '114.198'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

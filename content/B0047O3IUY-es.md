@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material exterior: Cuero
 - Cierre: Velcro
+- Material exterior: Cuero
 - Revestimiento: Tela
 
 [🛒 Aquí!!!]({{< param buyurl >}})

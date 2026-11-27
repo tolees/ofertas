@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Este producto se fabrica desde la producción de raspados y el tejido retirado waste, un paso a paso para fabricar circulares
 - __Coating:__ PFC free hydrophobic treatment
+- Este producto se fabrica desde la producción de raspados y el tejido retirado waste, un paso a paso para fabricar circulares
 - Resistente al agua:
 - Material: 100% poliéster reciclado
 

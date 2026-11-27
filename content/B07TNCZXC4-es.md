@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Formas redondeadas
-- Tumbona de baño
 - Dos ventosas aseguran el Babycoon al fondo de la bañera
-- Libre en sus movimientos
 - Desde el nacimiento hasta los 8 meses
+- Tumbona de baño
+- Formas redondeadas
+- Libre en sus movimientos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07TNCZXC4{{</world>}}

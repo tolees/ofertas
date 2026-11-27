@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Back welt pockets
+- An original look
 - Provides comfort
 - Zip & button closure
 - Side pockets
-- An original look
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D8WMDM9F{{</world>}}

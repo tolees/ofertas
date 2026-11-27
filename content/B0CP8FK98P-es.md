@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con tacones
 - Cierre de cremallera
 - Sandalias
+- Con tacones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CP8FK98P{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forro textil y sintético
 - Cierre de cordones
-- Amortiguación LIGHTMOTION
 - Horma clásica
+- Amortiguación LIGHTMOTION
 - Empeine de malla sintética y textil
+- Forro textil y sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CYT83KPD{{</world>}}

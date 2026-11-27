@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bota de lluvia impermeable
 - Ligero y divertido de llevar
 - Fácil de poner y quitar
+- Bota de lluvia impermeable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DW4JY9CK{{</world>}}

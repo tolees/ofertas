@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Con su probado diseño separador de dedos y suela plana, estos modelos son un compañero cómodo de verano: aireado, ligero y sencillo.
-- Las correas finas y negras llevan un discreto relieve Ipanema, típico del perfil de marca moderno, deportivo y elegante.
 - El discreto estampado Leo a lo largo del borde de la suela le da a estas chanclas un aspecto moderno y pone un toque elegante sin ser intrusivo.
+- Las correas finas y negras llevan un discreto relieve Ipanema, típico del perfil de marca moderno, deportivo y elegante.
 - Ya sea para pasear por el paseo marítimo, en el parque o en la playa, estas chanclas son la elección perfecta para los días cálidos y un atuendo informal.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

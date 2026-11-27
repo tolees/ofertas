@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Materiales resistentes
 - Alta calidad
 - De la marca Vans
-- Materiales resistentes
 - Diseno funcional
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

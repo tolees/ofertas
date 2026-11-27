@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuentan con un estilo casual
 - Presentan detalles distintivos de la marca
 - Suela deportiva y antideslizante
+- Cuentan con un estilo casual
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CWVGBYW9{{</world>}}

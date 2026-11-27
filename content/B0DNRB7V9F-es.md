@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 100% poliéster (reciclado)
-- Cintura elástica con cordón
 - Corte clásico
+- Cintura elástica con cordón
 - Tejido elástico
 
 [🛒 Comprar!!!]({{< param buyurl >}})

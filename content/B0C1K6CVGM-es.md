@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conveniente para un uso diario
 - Camiseta polo con logo
 - Detalles de la marca
+- Conveniente para un uso diario
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C1K6CVGM{{</world>}}

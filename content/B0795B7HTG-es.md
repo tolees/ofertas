@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Impermeables WP 10000
 - Relleno en guata CMP Feel Warm Flat
 - Costuras encintadas
 - Tejido super élastico sin PFC
 - Cortaviento y respirable MVP 5000
+- Impermeables WP 10000
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0795B7HTG{{</world>}}

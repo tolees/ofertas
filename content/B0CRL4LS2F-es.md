@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Gant bordado gráfico en el pecho
 - Puños acanalados, dobladillo y escote
+- Gant bordado gráfico en el pecho
 - Corte estándar
 - Cuello redondo
 

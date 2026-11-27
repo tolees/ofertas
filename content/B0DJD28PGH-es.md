@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HAWKERS Gafas de Sol DIVINE para hombre y mujer'
-date: 2026-11-21 21:52:27
+date: 2026-11-26 18:57:02
 image: 'https://m.media-amazon.com/images/I/210j0MuXGXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DJD28PGH/?tag=tolees-21'
 descuento: '65.01'
-average: '17.234'
+average: '16.985000000000003'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

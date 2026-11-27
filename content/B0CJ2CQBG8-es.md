@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Contenido: 1 x WELEDA Crema Pañal de Caléndula
+- Cuidado para la piel del bebé: Los extractos de Caléndula y Manzanilla BIO calman y regeneran irritaciones y rojeces. Estos son especialmente adecuados para la piel en contacto con el pañal
+- Tipo de piel: sensible
 - Materia prima exclusiva para su piel: La versátil flor de Caléndula se cultiva y procesa en la sede de Weleda en Alemania para productos de bebé, cosméticos y medicamentos
-- La siguiente información se aplica a cada unidad del paquete
+- Contenido: 1 x WELEDA Crema Pañal de Caléndula
 - No obstruye los poros: El óxido de Zinc tiene propiedades aislantes y absorbentes, mientras la Cera de Abeja refuerza esta acción formando una fina capa protectora que no obstruye los poros
 - Excelente calidad WELEDA: Con Extracto de Flores de Caléndula BIO y Aceite de Almendra Dulce BIO
-- Tipo de piel: sensible
-- Cuidado para la piel del bebé: Los extractos de Caléndula y Manzanilla BIO calman y regeneran irritaciones y rojeces. Estos son especialmente adecuados para la piel en contacto con el pañal
+- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CJ2CQBG8{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Chaqueta: cremallera completa
 - Lavar a máquina
-- Pantalones: cintura elástica con cordón.
 - Cuerpo: 100% poliéster
+- Pantalones: cintura elástica con cordón.
+- Chaqueta: cremallera completa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DTKNTT2B{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'EZVIZ Mirilla Digital de Puerta con Pantalla Táctil a Color de 4.3 Cámara Video Timbre Inalámbrico Monitor con Batería Recargable 4600mAh PIR Detección de Movimiento Audio Bidireccional Modelo CP4'
-date: 2026-11-16 11:38:17
+date: 2026-11-27 09:56:28
 image: 'https://m.media-amazon.com/images/I/31jZfm00WeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09PDFWFJJ/?tag=tolees-21'
 descuento: '35.30'
-average: '143.21689655172349'
+average: '142.76482993197215'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

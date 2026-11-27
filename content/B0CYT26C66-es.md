@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela con banda de rodadura de goma antiabrasión que permite un agarre excepcional durante la carrera.
 - Ideal para quienes buscan unas zapatillas ligeras y rápidas para carreras de Triatlón y Ironman
+- Suela con banda de rodadura de goma antiabrasión que permite un agarre excepcional durante la carrera.
 - Entresuela compuesta de Flytefoam con antepié optimizado y diseño curvo que garantiza un empuje constante y un rodamiento óptimo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

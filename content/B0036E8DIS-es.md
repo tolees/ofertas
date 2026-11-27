@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Medidas: 54 x 18 x 10 centímetros
-- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
-- Aspersor de Riego de la marca Kärcher
 - Referencia: S7136911
+- Aspersor de Riego de la marca Kärcher
+- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
+- Medidas: 54 x 18 x 10 centímetros
 - Color: Multicolor
 
 [🛒 Aquí!!!]({{< param buyurl >}})

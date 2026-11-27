@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Manga larga
 - Chaqueta de plumón
 - Cuello alto
-- Manga larga
 - Composición: Exterior: 60% Poliéster, 40% Nylon; Forro: 100% Poliéster; Padding: 100% Poliéster
 
 [🛒 Comprar!!!]({{< param buyurl >}})

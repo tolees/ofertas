@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Punto 53% poliéster reciclado / 47% acrílico
-- Talla única
 - Tacto suave
 - Diseño clásico
 - Borde con vuelta
+- Punto 53% poliéster reciclado / 47% acrílico
+- Talla única
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZCDSG5D{{</world>}}

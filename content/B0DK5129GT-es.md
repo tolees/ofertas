@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Horma clásica
 - Forro textil
 - Suela de goma
+- Amortiguación LIGHTMOTION
 - Empeine de malla técnica con refuerzos de ante
 - Cierre de cordones
-- Amortiguación LIGHTMOTION
+- Horma clásica
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DK5129GT{{</world>}}

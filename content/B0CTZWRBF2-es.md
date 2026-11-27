@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Luces de colores. Par estéreo IPX6. Ajute de graves y agudos.
-- USB, entrada Aux. 2 x Mic jacks
 - Más de 10 horas de música. Display indicador de la carga de batería
+- Luces de colores. Par estéreo IPX6. Ajute de graves y agudos.
 - Altavoz Bluetooth portatil con 300W de salida.
+- USB, entrada Aux. 2 x Mic jacks
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CTZWRBF2{{</world>}}

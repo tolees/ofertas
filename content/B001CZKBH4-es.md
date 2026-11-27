@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Gran Calidad y Resistente
 - Tipo/Base: HB4 12V55W P22d C1
+- Gran Calidad y Resistente
 - Marca: Philips
 
 [🛒 Comprar!!!]({{< param buyurl >}})

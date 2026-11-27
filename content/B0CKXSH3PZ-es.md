@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Empeine textil con puntera reforzada
-- Horma clásica
-- Suela Traxion
 - Drop: 10 mm (talón: 27 mm / antepié: 17 mm)
+- Empeine textil con puntera reforzada
+- RAIN.RDY
+- Horma clásica
+- Contiene al menos un 20% de material reciclado y renovable
 - Forro textil
 - Mediasuela de EVA
+- Suela Traxion
 - Peso: 390 g (talla 42 2/3)
-- Contiene al menos un 20% de material reciclado y renovable
-- RAIN.RDY
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CKXSH3PZ{{</world>}}

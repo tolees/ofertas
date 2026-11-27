@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Medidas: longitud: 220 mm, ancho: 17.5 mm, altura: 20 mm
 - Material: acero inoxidable
 - Color plata
-- Medidas: longitud: 220 mm, ancho: 17.5 mm, altura: 20 mm
 - Tipo de cierre: aro
 - Acabado: cepillado
 

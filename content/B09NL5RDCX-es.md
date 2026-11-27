@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cordones
 - Parte superior de malla tejida
+- Cordones
 - Ajuste perfecto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

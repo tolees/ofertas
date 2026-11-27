@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Sneaker tipo bailarina abierta
+- terciopelo
 - elástico en el empeine
 - plantilla extraíble
-- terciopelo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DTYVY79Z{{</world>}}

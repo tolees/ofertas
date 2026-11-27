@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Modo de vida : Tradicional
-- Corte : Ajuste relajado con entrepierna baja, muslo holgado y parte baja holgada
-- Cintura : Talle medio
 - Artículo : Pantalones de ajuste relajado
-- Cierre : Cierre de cordón
+- Modo de vida : Tradicional
 - Bolsillos : Bolsillos traseros, Bolsillos laterales
+- Cintura : Talle medio
+- Corte : Ajuste relajado con entrepierna baja, muslo holgado y parte baja holgada
+- Cierre : Cierre de cordón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DKK3K38M{{</world>}}

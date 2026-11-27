@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un corte slim moderno con espacio para moverse
-- Diseño tradicional de 5 bolsillos
 - Denim clásico con stretch para comodidad durante todo el día
+- Diseño tradicional de 5 bolsillos
+- Un corte slim moderno con espacio para moverse
 - Cintura interior flexible con logos repetidos tejidos
 - Un básico limpio y estilizado para el armario, ideal como alternativa a los jeans skinny
 

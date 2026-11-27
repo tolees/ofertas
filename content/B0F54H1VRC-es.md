@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dermatológicamente probada
 - Apta para pieles sensibles.
+- Dermatológicamente probada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F54H1VRC{{</world>}}

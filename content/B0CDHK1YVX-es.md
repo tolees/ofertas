@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- __Bolsillos:__ bolsillo para monedas en el exterior
 - __Dimensiones:__ 9 [h] x 16.7 [w] x 3.4 [d] cm
+- Placa metálica ROXY
 - __Tejido:__ Tejido de cuero sintético impreso
 - Ranuras interiores para tarjetas
-- Placa metálica ROXY
-- __Bolsillos:__ bolsillo para monedas en el exterior
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CDHK1YVX{{</world>}}

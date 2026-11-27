@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Neutrogena Ultra Sheer Crema Invisible Hidratante SPF50 50 ml | Crema de Sol Facial 24 h Hidratación Resistente al Agua Protección 50 UVB/UVA No Grasa Sin Perfume Hipoalergénica'
-date: 2026-11-11 18:41:50
+date: 2026-11-26 22:04:44
 image: 'https://m.media-amazon.com/images/I/41S8g50v4tL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FX37PBLC/?tag=tolees-21'
 descuento: '64.59'
-average: '10.783103448275945'
+average: '10.610645161290401'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

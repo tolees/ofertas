@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Medidas nevera (alto x ancho x profundo): 176 x 54,5 x 55 cm
 - Iluminación LED: consigue una visibilidad óptima en el interior del frigorífico sin alterar la temperatura de los alimentos
+- Prestaciones y comodidad: puertas reversibles, altura ajustable, ruedas y tiradores integrados.
+- Medidas nevera (alto x ancho x profundo): 176 x 54,5 x 55 cm
 - Almacena todos los alimentos y bebidas que necesites en silencio: con capacidad total de 260L y 39dba de nivel de sonoridad
 - Conserva tus alimentos más tiempo, con la función Super Cooling: para aumentar el frescor, alcanzar la temperatura óptima rápidamente y preservar por periodos más largos.
-- Prestaciones y comodidad: puertas reversibles, altura ajustable, ruedas y tiradores integrados.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B2J4J7LG{{</world>}}

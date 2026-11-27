@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- punta perforada
 - Etiqueta tejida en la lengüeta
+- punta perforada
 - Marca "New Balance" en el cuello del talón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Revestimiento de ante
-- Horma estándar
-- Cierre de cordones
 - Suela de goma
 - Textura gruesa en la entresuela
+- Horma estándar
+- Revestimiento de ante
+- Cierre de cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FHJBXC34{{</world>}}

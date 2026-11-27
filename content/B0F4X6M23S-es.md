@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Manga larga
-- Bragueta de cremallera
-- Elástico cómodo
 - Cuello alzado
+- Bragueta de cremallera
+- Manga larga
+- Elástico cómodo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F4X6M23S{{</world>}}

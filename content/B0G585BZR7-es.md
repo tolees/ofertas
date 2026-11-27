@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- SEGURIDAD: Cumplen la normativa para su aplicación en tablero hueco con una resistencia al hilo incandescente igual o superior a los 850ºC.
-- La siguiente información se aplica a cada unidad del paquete
-- LIBRE DE HALÓGENOS: Su superficie destaca por ser libre de halógenos, por su resistencia al fuego y su capacidad para no propagarlo en caso de incendio.
 - ESPECIFICACIONES: Caja empotrar para mecanismos | 67x45 mm | Triple
-- RECOMENDACIONES: Si no supiesen instalarlo, aconsejamos que contacten con un electricista certificado
 - FACILIDAD: Nuestras cajas de registro especiales para paredes de pladur aseguran un perfecto acabado y una instalación rápida, sencilla y segura.
+- La siguiente información se aplica a cada unidad del paquete
+- SEGURIDAD: Cumplen la normativa para su aplicación en tablero hueco con una resistencia al hilo incandescente igual o superior a los 850ºC.
+- RECOMENDACIONES: Si no supiesen instalarlo, aconsejamos que contacten con un electricista certificado
+- LIBRE DE HALÓGENOS: Su superficie destaca por ser libre de halógenos, por su resistencia al fuego y su capacidad para no propagarlo en caso de incendio.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0G585BZR7{{</world>}}

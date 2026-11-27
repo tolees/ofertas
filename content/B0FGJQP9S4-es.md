@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 90 % algodón, 8 % poliéster, 2 % elastano
 - Jeans ajustados de cintura baja, bolsillo detallado para monedas, una cintura más ancha con detalle de 2 botones y bolsillo trasero redondeado para un trasero favorecedor
 - Estos jeans son una versión moderna de nuestro icónico estilo Venus; vienen en una mezclilla elástica cómoda de aspecto lavado a piedra azul claro
+- 90 % algodón, 8 % poliéster, 2 % elastano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FGJQP9S4{{</world>}}

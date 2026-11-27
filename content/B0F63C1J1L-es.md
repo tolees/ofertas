@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Empeine de ante
-- Suela de goma
 - Ajuste normal
 - Formstrip de PUMA en el lado exterior
 - Con cordones
+- Suela de goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F63C1J1L{{</world>}}

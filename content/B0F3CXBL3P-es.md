@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gimoka bebida soluble de PISTACHO cappuccino - 50 Cápsulas de Aluminio - Compatibles con Máquinas de Café Nespresso* para uso doméstico - Producido en Italia - 5 paquetes de 10'
-date: 2026-11-20 06:55:19
+date: 2026-11-26 17:54:00
 image: 'https://m.media-amazon.com/images/I/41+YeasIIRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

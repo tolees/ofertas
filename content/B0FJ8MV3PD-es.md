@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Marca G-STAR Originals en la parte delantera
 - Espalda de malla transpirable para ventilación
-- Parte delantera con paneles con acabado vaquero
 - Cierre con clip ajustable, para un ajuste seguro
+- Marca G-STAR Originals en la parte delantera
 - Visera curvada para protección solar
+- Parte delantera con paneles con acabado vaquero
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FJ8MV3PD{{</world>}}

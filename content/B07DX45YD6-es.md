@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Newskill EOS Ratón Gaming RGB Sensor Óptico 16000 dpi Ajustables Negro | 10 perfiles configurables por software con modos de iluminación RGB. Sensor óptico profesional de alta precisión.'
-date: 2026-11-21 14:22:03
+date: 2026-11-26 15:05:15
 image: 'https://m.media-amazon.com/images/I/21FBqJDfIkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DX45YD6/?tag=tolees-21'
 descuento: '66.26'
-average: '35.709999999999987'
+average: '34.882307692307684'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

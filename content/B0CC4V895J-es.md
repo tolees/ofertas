@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ligero, cómodo y moderno
 - Material: textil
+- Ligero, cómodo y moderno
 - Skechers Nombre del estilo: SPORTS
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

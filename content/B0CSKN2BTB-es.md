@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beurer MG 24 Masajeador con función de calor'
-date: 2026-11-25 08:08:25
+date: 2026-11-26 12:21:00
 image: 'https://m.media-amazon.com/images/I/417qnR46dfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cintura elástica
-- 2 unidades
 - Tejido suave y ligero
+- 2 unidades
 - Diseño danés infantil y juvenil unisex de la marca NAME IT
 - Material: mezcla de algodón y elastano para una máxima comodidad y durabilidad
+- Cintura elástica
 - Transpirable
 
 [🛒 Comprar!!!]({{< param buyurl >}})

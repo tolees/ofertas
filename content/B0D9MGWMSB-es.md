@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bordado de G-STAR debajo de la cadera
-- Proporciona comodidad
-- Una mirada original
 - Bolsillos con ribete por delante
 - Cintura elástica con cordón en el interior
+- Una mirada original
+- Bordado de G-STAR debajo de la cadera
+- Proporciona comodidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D9MGWMSB{{</world>}}

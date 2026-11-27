@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello de piel acolchado
 - Longitud ajustable, tirantes anchos y cómodos
+- Cuello de piel acolchado
 - Con costuras totalmente selladas y confeccionada con tejidos tratados especialmente, esta prenda protege en condiciones húmedas y lluviosas
 - Sujetador reductor que reduce visualmente el volumen del pecho en una talla
 

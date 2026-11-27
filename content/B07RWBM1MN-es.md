@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Neutrogena Fórmula Noruega Crema Corporal con Aceite de Almendras 400 ml | Crema Hidratante Corporal con Tecnología Pro-Ceramida y Glicerina Absorción Inmediata 72h de Hidratación Para Piel Seca'
-date: 2026-11-21 00:01:18
+date: 2026-11-26 20:49:47
 image: 'https://m.media-amazon.com/images/I/31hEgzTrvQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RWBM1MN/?tag=tolees-21'
 descuento: '47.27'
-average: '7.1073958333333414'
+average: '7.0688775510204156'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

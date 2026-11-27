@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Classic batwing infant hat bodysuit bootie set 3pc Bebé-Niños Rojo Levis Red 0-6 meses'
-date: 2026-11-16 17:44:28
+date: 2026-11-26 22:14:57
 image: 'https://m.media-amazon.com/images/I/31LQRkfCOWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B083SSQW61/?tag=tolees-21'
 descuento: '50.19'
-average: '14.826666666666668'
+average: '14.689000000000002'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

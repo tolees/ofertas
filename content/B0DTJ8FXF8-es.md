@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - COMPATIBLE: Combina con otros sobres o juguetes Washy para expandir tu colección.
-- MULTIMODO: Dos modos de juego en un solo set: baño relajante o spa completo. ​🛀
-- ACCESORIOS COMPLETOS: Incluye cepillos, toallas y elementos decorativos para ambientar.
 - SPA LÚX: Jacuzzi y zona spa para mimar a tus cachorros Washy al estilo wellness 🧖‍♂️
+- ACCESORIOS COMPLETOS: Incluye cepillos, toallas y elementos decorativos para ambientar.
+- MULTIMODO: Dos modos de juego en un solo set: baño relajante o spa completo. ​🛀
 - INMERSIÓN interactiva: Sumerge los cachorros, observa como se desvela su raza y cuídalos con mimo 💦.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

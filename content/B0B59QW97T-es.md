@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Lavar a mano
-- Cuello redondo
-- Manga corta
 - Marca: Nike
+- Manga corta
+- Cuello redondo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B59QW97T{{</world>}}

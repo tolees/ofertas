@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Cordones elásticos con correa superior autoadherente
 - Horma clásica
 - Forro textil
-- Empeine textil
 - Forro textil
+- Empeine textil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CYM98QGP{{</world>}}

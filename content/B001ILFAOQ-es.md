@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Carcasa y tapa de lató
 - Para proteger la sonda de prueba con una tapa enroscable
 - Con pinza de cocodrilo | sonda de prueba de acero inoxidable
-- Tensión de funcionamiento: 6 - 24 v | longitud: 125 mm
 - Para la localización de cortocircuitos e interrupciones
+- Carcasa y tapa de lató
+- Tensión de funcionamiento: 6 - 24 v | longitud: 125 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B001ILFAOQ{{</world>}}

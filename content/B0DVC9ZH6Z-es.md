@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estampado Arty
-- Manga: Larga
 - Desigual
-- Cuello: Redondo
+- Manga: Larga
+- Estampado Arty
 - Combinación de colores
 - Fit: Slim
+- Cuello: Redondo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DVC9ZH6Z{{</world>}}

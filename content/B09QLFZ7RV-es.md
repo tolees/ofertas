@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello redondo clásico: Escote atemporal para estilo versátil.
-- Tejido de algodón stretch: Fabricado con 95% algodón y 5% elastano para comodidad, flexibilidad y retención de forma.
-- Estilo de manga corta: Ideal para uso diario y clima cálido.
-- Diseño Slim Fit: Silueta ajustada para un aspecto favorecedor y moderno.
 - Colección Pepe Jeans London: Parte de la colección SS27, combinando estilo esencial con comodidad cotidiana.
+- Diseño Slim Fit: Silueta ajustada para un aspecto favorecedor y moderno.
+- Cuello redondo clásico: Escote atemporal para estilo versátil.
+- Estilo de manga corta: Ideal para uso diario y clima cálido.
+- Tejido de algodón stretch: Fabricado con 95% algodón y 5% elastano para comodidad, flexibilidad y retención de forma.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09QLFZ7RV{{</world>}}

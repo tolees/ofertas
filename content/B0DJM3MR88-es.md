@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte clásico
 - 100 % poliéster (reciclado)
-- CLIMAWARM
+- Corte clásico
 - Cierre de cremallera
+- CLIMAWARM
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DJM3MR88{{</world>}}

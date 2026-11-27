@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Solo se necesita 1 cápsula al día. De una empresa familiar fundada en 1930. Producido en una instalación certificada bajo estrictas medidas de control de calidad. 100 % curcumina sin añadidos, rellenos artificiales ni aglutinantes. Apto para veganos. Sin gluten, productos lácteos ni soja.
-- Favorece la gestión de las respuestas inflamatorias
-- Ayuda a mantener la resistencia a las alergias
 - Ofrece importantes propiedades antioxidantes
+- Ayuda a mantener la resistencia a las alergias
+- Favorece la gestión de las respuestas inflamatorias
 - Ayuda a mantener la eficacia del sistema inmunitario
+- Solo se necesita 1 cápsula al día. De una empresa familiar fundada en 1930. Producido en una instalación certificada bajo estrictas medidas de control de calidad. 100 % curcumina sin añadidos, rellenos artificiales ni aglutinantes. Apto para veganos. Sin gluten, productos lácteos ni soja.
 - Himalaya Turmeric 95 es una combinación de polvo de rizoma de cúrcuma y extracto de rizoma de cúrcuma con un 95 % de curcuminoides, incluida la curcumina.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

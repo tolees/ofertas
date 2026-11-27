@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Short sleeves
-- V-neck
 - Regular fit
+- V-neck
 - Deep V-Neck Tee
+- Short sleeves
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C7WCFZWG{{</world>}}

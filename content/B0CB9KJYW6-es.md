@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lengüeta de contraste en el talón
-- Zapatos de correr retro con combinaciones de colores frescos
-- Logotipo clásico en el lateral
 - Icónico isotipo lateral y estabilizador personalizado
+- Lengüeta de contraste en el talón
+- Logotipo clásico en el lateral
+- Zapatos de correr retro con combinaciones de colores frescos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB9KJYW6{{</world>}}

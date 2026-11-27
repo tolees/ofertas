@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Espuma viscoelástica refrigerada por aire
 - Skech-Air
+- Espuma viscoelástica refrigerada por aire
 - Ajuste de cuña
 
 [🛒 Aquí!!!]({{< param buyurl >}})

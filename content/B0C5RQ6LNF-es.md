@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- HEAT.RDY
-- FORMOTION
 - 85% poliéster reciclado / 10% nailon reciclado / 5% elastán
 - Largo hasta el tobillo
 - Diseño ajustado
+- FORMOTION
+- HEAT.RDY
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C5RQ6LNF{{</world>}}

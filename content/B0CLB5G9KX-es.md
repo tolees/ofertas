@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - La suela de goma proporciona tracción y durabilidad
-- Logotipo icónico F-BOX en el tamaño
 - Silueta clásica de tenis
+- Logotipo icónico F-BOX en el tamaño
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CLB5G9KX{{</world>}}

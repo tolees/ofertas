@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Suela de goma vulcanizada
-- Mediasuela con amortiguación
-- Parte superior de piel
 - Compra 1 talla más grande
+- Parte superior de piel
+- Mediasuela con amortiguación
 - Forro textil
 
 [🛒 Aquí!!!]({{< param buyurl >}})

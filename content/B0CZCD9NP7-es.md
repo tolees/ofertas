@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño clásico
-- Punto 53% poliéster reciclado / 47% acrílico
 - Tacto suave
+- Punto 53% poliéster reciclado / 47% acrílico
 - Borde con vuelta
+- Diseño clásico
 - Talla única
 
 [🛒 Visítala!!!]({{< param buyurl >}})

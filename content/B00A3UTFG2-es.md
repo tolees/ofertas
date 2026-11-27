@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fabricadas en vidrio
 - Set de tazas
+- Fabricadas en vidrio
 - Aptas café e infusiones
 - Con asa inoxidable
 

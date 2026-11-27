@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Producto de calidad óptima
-- Fácil de aplicar
 - Efecto tiza
+- Fácil de aplicar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B015NKPS3K{{</world>}}

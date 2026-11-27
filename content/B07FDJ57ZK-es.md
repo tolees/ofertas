@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Material duro Nike
-- Au calidad 93060 0 100 White (93060-100)
 - Gorro de natación Natación Unisex
+- Au calidad 93060 0 100 White (93060-100)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07FDJ57ZK{{</world>}}

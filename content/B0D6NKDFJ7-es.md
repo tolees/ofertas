@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Ajuste: recto
 - Cierre: cremallera y botón
 - Pantalones vaqueros, pantalones largos
-- Ajuste: recto
 - Instrucciones de cuidado: lavable a máquina
 - Composición: 78% algodón, 20% poliéster, 2% elastano
 

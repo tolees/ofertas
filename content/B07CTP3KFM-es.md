@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- DETALLES DEL ENVÍO: Maui Moisture Revive & Hydrate + Shea Butter Shampoo, champú reparador para pelo seco y encrespado, con manteca de karité, vegano, sin sulfatos ni siliconas, vegano, 1 x 385 ml
+- HIDRATACIÓN PROFUNDA: Este champú hidratante sin sulfatos está formulado con manteca de karité, aceite de coco y aceite de macadamia, ingredientes nutritivos y que dejan el cabello suave
 - PARA TODO TIPO DE CABELLO: Este shampoo anti-frizz vegano es ideal también para rizos y ondas, ya que nutre y suaviza en profundidad aportando un aspecto sano
 - RUTINA COMPLETA: Combina este champú nutritivo con el acondicionador y la mascarilla Moisture Revive & Hydrate + Shea Butter para maximizar la hidratación y controlar el encrespamiento
-- HIDRATACIÓN PROFUNDA: Este champú hidratante sin sulfatos está formulado con manteca de karité, aceite de coco y aceite de macadamia, ingredientes nutritivos y que dejan el cabello suave
-- DETALLES DEL ENVÍO: Maui Moisture Revive & Hydrate + Shea Butter Shampoo, champú reparador para pelo seco y encrespado, con manteca de karité, vegano, sin sulfatos ni siliconas, vegano, 1 x 385 ml
 - FÓRMULA REVITALIZANTE: Gracias a su fórmula superhidratante, este champú para pelo seco devuelve una melena luminosa, suave y visiblemente revitalizada
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Entresuela ligera y flexible que absorbe los golpes
 - Parte superior de malla con panel frontal de encaje elástico
+- Entresuela ligera y flexible que absorbe los golpes
 - Suela de tracción flexible
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior en piel
 - Cierre con cordones
+- Parte superior en piel
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09BFVYCL6{{</world>}}

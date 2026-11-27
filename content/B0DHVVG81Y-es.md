@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Drop de la mediasuela: 10 mm (talón: 32 mm, antepié: 22 mm)
+- Peso: 440 g (talla 42 2/3)
 - Plantilla OrthoLite y membrana de GORE-TEX
 - Cordones
-- Peso: 440 g (talla 42 2/3)
-- Suela de goma
-- Drop de la mediasuela: 10 mm (talón: 32 mm, antepié: 22 mm)
-- Mediasuela de EVA LIGHTMOTION
 - Horma clásica
 - Empeine de tejido ripstop con refuerzos
+- Suela de goma
+- Mediasuela de EVA LIGHTMOTION
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHVVG81Y{{</world>}}

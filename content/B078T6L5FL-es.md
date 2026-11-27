@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puntera y talón de algodón para comodidad
 - Bolsillo de ojal en contraste
+- Puntera y talón de algodón para comodidad
 - Calcetines de fútbol
 - Malla de punto para mejor transpirabilidad
 

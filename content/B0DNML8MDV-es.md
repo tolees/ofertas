@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Stain Defender: Non-PFAS performance technology repels water-based stains
-- Two patch pockets and one welt breast pocket
-- Signature Blazer Jacket
 - Regular fit
-- Long sleeves
 - Dockers Herren SIGNATURE REFINED BLAZER SHIRT
+- Signature Blazer Jacket
+- Long sleeves
+- Two patch pockets and one welt breast pocket
+- Stain Defender: Non-PFAS performance technology repels water-based stains
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DNML8MDV{{</world>}}

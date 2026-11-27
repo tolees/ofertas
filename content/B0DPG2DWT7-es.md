@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bolsillo y bolsillos laterales con cremallera
 - Cremallera completa con ajuste regular
+- Bolsillo y bolsillos laterales con cremallera
 - Diseño flexible y detalles reflectantes
 
 [🛒 Visítala!!!]({{< param buyurl >}})

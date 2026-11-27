@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Disponible en cuatro colores: Negro, Azul Vaquero, Verde Agave y Lavanda.
-- La funda se pliega para que puedas leer cómodamente sujetando el Kindle con una sola mano y no hace falta quitarla para cargar el dispositivo.
-- Diseñada para adaptarse a la perfección al Kindle Paperwhite (únicamente compatible con el modelo de 11.ª generación).
-- Se abre y se cierra como la tapa de un libro, y activa o pone en suspensión el Kindle automáticamente.
-- La funda de tela tolera la exposición al agua y es el complemento ideal para el Kindle Paperwhite, ya que te permite leer en más lugares.
-- Diseño fino y ligero para que puedas leer durante horas con total comodidad.
 - La tapa con imanes mantiene la funda firmemente cerrada.
+- Disponible en cuatro colores: Negro, Azul Vaquero, Verde Agave y Lavanda.
+- La funda de tela tolera la exposición al agua y es el complemento ideal para el Kindle Paperwhite, ya que te permite leer en más lugares.
+- La funda se pliega para que puedas leer cómodamente sujetando el Kindle con una sola mano y no hace falta quitarla para cargar el dispositivo.
+- Diseño fino y ligero para que puedas leer durante horas con total comodidad.
+- Se abre y se cierra como la tapa de un libro, y activa o pone en suspensión el Kindle automáticamente.
+- Diseñada para adaptarse a la perfección al Kindle Paperwhite (únicamente compatible con el modelo de 11.ª generación).
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08VZCBWN8{{</world>}}

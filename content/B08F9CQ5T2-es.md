@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Altura de la plataforma: 4,7 cm
 - Nuestras líneas soldadas Goodyear están selladas con calor a 700 °C y reforzadas con nuestras costuras exclusivas.
 - 60% Cuero 40% Tela
+- Altura de la plataforma: 4,7 cm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08F9CQ5T2{{</world>}}

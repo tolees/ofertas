@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Compatibilidad con PC (Windows XP/Vista/7/8) y Xbox One.
 - Force Feedback perfecto y súper fluido. Sensibles realistas y sin latencia.
-- BASE FORCE FEEDBACK DE 900° CON MOTOR BRUSHLESS DE CLASE INDUSTRIAL.
 - Tecnología H.E.A.R.T HallEffect AccuRate Technology, que incorpora un sensor magnético sin contactos. La precisión no disminuye con el tiempo.
 - Sistema Thrustmaster Quick Release: permite cambiar rápidamente los volantes de carreras.
-- Compatibilidad con PC (Windows XP/Vista/7/8) y Xbox One.
+- BASE FORCE FEEDBACK DE 900° CON MOTOR BRUSHLESS DE CLASE INDUSTRIAL.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B013WB0OL8{{</world>}}

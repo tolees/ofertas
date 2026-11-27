@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este producto no es un juguete y no es aconsejable su uso por menores de 6 años por ser de pequeñas dimensiones
 - Con panel solar
+- Este producto no es un juguete y no es aconsejable su uso por menores de 6 años por ser de pequeñas dimensiones
 - Está hecho de plástico y viene en un blister de plástico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- __Dimensiones:__ 15.5 (alto) x 25 (ancho) x 15 (profundidad) cm
 - Gancho para colgar
-- __Compartimentos/cierre:__ compartimento principal con cremallera, bolsillo frontal
 - __Capacidad:__ 6 L
+- __Dimensiones:__ 15.5 (alto) x 25 (ancho) x 15 (profundidad) cm
+- __Compartimentos/cierre:__ compartimento principal con cremallera, bolsillo frontal
 - __Tejido:__ semi PU y poliéster reciclado [600D]
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

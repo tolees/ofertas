@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- materialFabricComposition: 78% Cotton, 20% Recycled Cotton, 2% Elastane
 - Straight fit jeans
 - Slim Fit
-- materialFabricComposition: 78% Cotton, 20% Recycled Cotton, 2% Elastane
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D43Q1RRV{{</world>}}

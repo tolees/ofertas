@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte clásico con talle medio
 - Cierre de cremallera y cuello alzado
-- Chaqueta y pantalón: Bolsillos frontales
+- Corte clásico con talle medio
 - 100% poliéster (reciclado)
+- Chaqueta y pantalón: Bolsillos frontales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZPNV9ZJ{{</world>}}

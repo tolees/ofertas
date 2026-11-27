@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Detalle elegante con el logo de Joma bordado en la parte inferior de la falda.
 - Diseño tradicional con cintura ajustable para un calce óptimo y flexibilidad.
 - Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
-- Detalle elegante con el logo de Joma bordado en la parte inferior de la falda.
 - Incluye mallas internas confortables para mayor seguridad durante el juego.
 - Confeccionada con 100% poliéster, garantizando elasticidad y transpirabilidad.
 

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Marca: manzana
 - Tipo de producto: TELÉFONO CELULAR
+- Marca: manzana
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BNLXTK3P{{</world>}}

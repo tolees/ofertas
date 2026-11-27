@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tiene sabor a naranja
 - A base de maltodextrina y fructosa
+- Tiene sabor a naranja
 - Adecuado para las etapas finales de la actividad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

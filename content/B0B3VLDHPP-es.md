@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ofrece comodidad
 - Calzoncillos en punto elástico
+- Ofrece comodidad
 - Cintura elástica con logotipo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

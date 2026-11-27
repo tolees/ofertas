@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello: con capucha
-- Conscious by Nature:__ GRS Reciclated Cotton
-- Colección Mainline
 - Ajuste: __ Ajuste normal
+- Colección Mainline
+- Conscious by Nature:__ GRS Reciclated Cotton
+- Cuello: con capucha
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DPG8Q34L{{</world>}}

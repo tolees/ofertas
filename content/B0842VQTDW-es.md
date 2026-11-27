@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Básicos
 - Pantalones cortos || Merch para fans y divertido || Patrón: Liso
-- Pantalones cortos con las siguientes características:
-- Descubre todas las marcas de EMP!
 - Medidas: tamaño estándar
+- Básicos
+- Descubre todas las marcas de EMP!
+- Pantalones cortos con las siguientes características:
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0842VQTDW{{</world>}}

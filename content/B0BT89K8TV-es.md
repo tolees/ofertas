@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL City Life 71327 Colegio Edificio Escolar sin barreras con Ascensor Juguetes para niños a Partir de 4 años'
-date: 2026-11-25 10:07:29
+date: 2026-11-26 18:15:26
 image: 'https://m.media-amazon.com/images/I/51Qh+FTJnmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BT89K8TV/?tag=tolees-21'
 descuento: '41.50'
-average: '78.72346153846155'
+average: '78.113928571428588'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

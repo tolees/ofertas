@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CeraVe Loción Hidratante Intensiva Hydro-Urea™ y 3 ceramidas 473 ml | Restaura la barrera cutánea hidrata profundamente y alivia la picazón causada por la piel seca.'
-date: 2026-11-12 16:51:45
+date: 2026-11-26 07:57:59
 image: 'https://m.media-amazon.com/images/I/41zMgA2r6zL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F19H9JTR/?tag=tolees-21'
 descuento: '38.43'
-average: '15.86166666666667'
+average: '15.618571428571432'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

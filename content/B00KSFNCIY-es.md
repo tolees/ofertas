@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Ambientador en lata tipo gel
 - Capacidad de 100 gramos
 - Aroma chicle
-- Ambientador en lata tipo gel
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00KSFNCIY{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- [TEXTURA ATERCIOPELADA QUE SE FUNDE CON LA PIEL] : Su rica textura aterciopelada se funde suavemente con la piel, proporcionando un acabado hidratado, nutrido y ligero, sin sensación pesada.
-- [COMBINACIÓN DE INGREDIENTES PARA UNA PIEL LUMINOSA] : Con Niacinamida para ayudar a mejorar el aspecto del tono de la piel, Agua de Piña para suavizar delicadamente la apariencia de la textura y Glutatión para favorecer una piel más luminosa y uniforme.
-- [MEJORA EL TONO Y LA TEXTURA] : Ayuda a mejorar el aspecto del tono desigual y de la piel apagada, favoreciendo una piel visiblemente más lisa y uniforme con el uso continuo.
-- [COMPLEJO VITA PARA UNA PIEL RADIANTE] : Formulada con un complejo Vita diseñado para ayudar a revitalizar la piel y devolver luminosidad a las pieles con aspecto cansado, para un brillo saludable y natural.
 - [CUIDADO ILUMINADOR E HIDRATANTE] : Proporciona una hidratación que potencia la luminosidad mientras ayuda a mantener el equilibrio de hidratación de la piel, dejándola fresca, confortable y sin sensación de sequedad.
+- [COMBINACIÓN DE INGREDIENTES PARA UNA PIEL LUMINOSA] : Con Niacinamida para ayudar a mejorar el aspecto del tono de la piel, Agua de Piña para suavizar delicadamente la apariencia de la textura y Glutatión para favorecer una piel más luminosa y uniforme.
+- [TEXTURA ATERCIOPELADA QUE SE FUNDE CON LA PIEL] : Su rica textura aterciopelada se funde suavemente con la piel, proporcionando un acabado hidratado, nutrido y ligero, sin sensación pesada.
+- [COMPLEJO VITA PARA UNA PIEL RADIANTE] : Formulada con un complejo Vita diseñado para ayudar a revitalizar la piel y devolver luminosidad a las pieles con aspecto cansado, para un brillo saludable y natural.
+- [MEJORA EL TONO Y LA TEXTURA] : Ayuda a mejorar el aspecto del tono desigual y de la piel apagada, favoreciendo una piel visiblemente más lisa y uniforme con el uso continuo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FKT1HY9K{{</world>}}

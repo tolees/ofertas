@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una historia de emoción frente a razón
 - Un camino marcado por la venganza
 - Un sistema de combate espectacular
+- Una historia de emoción frente a razón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G3B3V6VN{{</world>}}

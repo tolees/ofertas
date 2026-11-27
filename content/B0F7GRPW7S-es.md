@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Libreta A4 con tapa extradura y encuadernación en espiral, con 240 páginas cuadriculadas y microperforadas, en su interior, lo que facilita arrancar sus páginas para archivarlas después en un carpesano.
+- Además, incluye una hoja de pegatinas.
 - Cuenta con la certificación FSC, que garantiza que ha sido fabricada con papel proveniente de bosques gestionados de forma responsable.
 - En la parte interior de la portada encontramos una cuadrícula pensada para anotar en ella el horario del curso escolar.
-- Además, incluye una hoja de pegatinas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F7GRPW7S{{</world>}}

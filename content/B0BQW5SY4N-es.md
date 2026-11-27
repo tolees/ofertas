@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Diseño New Lift
-- Tejido transpirable
 - Punto 92% poliéster reciclado / 8% elastán
 - AEROREADY
+- Tejido transpirable
 - Compra 1 talla más pequeña
 
 [🛒 Comprar!!!]({{< param buyurl >}})

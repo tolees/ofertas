@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Raglan sleeves
 - Dri-Fit Technology
+- Raglan sleeves
 - Stretch fabric
 
 [🛒 Aquí!!!]({{< param buyurl >}})

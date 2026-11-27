@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gorro con pequeño logotipo impreso
-- Práctico y cómodo
 - Material: poliéster
+- Práctico y cómodo
+- Gorro con pequeño logotipo impreso
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XX66NSG{{</world>}}

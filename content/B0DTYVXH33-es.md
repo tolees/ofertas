@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mocasin gioseppo
-- Tachas
 - planta acolchada
 - Altura tacón: 2,5 cm.
+- Mocasin gioseppo
+- Tachas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DTYVXH33{{</world>}}

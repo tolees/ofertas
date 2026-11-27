@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Composición: 69 por ciento Bci Cotton 31 por ciento Lyocell
-- Ajuste: corte de pierna ancha
 - Cierre: cierre de cremallera y botón
+- Ajuste: corte de pierna ancha
 - Vaqueros Pantalones Largos
 - Instrucciones de cuidado: apto para lavadora
 

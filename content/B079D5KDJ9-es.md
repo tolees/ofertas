@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Capacidad de 360 ml
 - Medidas de la copa: 20 x 7.5 cm
+- Capacidad de 360 ml
 - Apta para microondas y lavavajillas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

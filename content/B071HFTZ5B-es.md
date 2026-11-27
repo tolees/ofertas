@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Proporciona comodidad
 - Bajo recto
 - Sisa ribeteada
+- Proporciona comodidad
 - Bordado de G-Star RAW en el pecho
 - Cuello ribeteado
 

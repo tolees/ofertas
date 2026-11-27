@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Analoge Fliegeruhr im Edelstahl-Gehäuse
-- bauhaus, aviation, Herrenarmbanduhr, Unisex
 - Blaues Ziffernblatt mit beigen, nachts leuchtenden Zahlen/Indices, Leuchtzeigern
 - Mineral K1 safety glass
+- bauhaus, aviation, Herrenarmbanduhr, Unisex
+- Analoge Fliegeruhr im Edelstahl-Gehäuse
 - Japanisches Quarz-Uhrwerk Citizen-Miyota 6S21
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

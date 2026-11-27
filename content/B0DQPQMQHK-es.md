@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Caja redonda de acero inoxidable con esfera azul
 - Caja de 44 mm, ancho de banda de 18 mm, cristal mineral, movimiento de cuarzo con cronógrafo analógico, importado
+- Caja redonda de acero inoxidable con esfera azul
 - Resistente al agua hasta 50 m: se puede llevar al nadar en aguas poco profundas
 - Tipo de garantía:Fabricante; 2 años de garantía
 - Plata, brazalete de acero inoxidable

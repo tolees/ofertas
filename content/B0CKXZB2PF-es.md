@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Forro textil
 - Empeine de piel
-- Puntera reforzada
 - Cierre de cordones
+- Puntera reforzada
 - Horma clásica
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sierra
-- Cuchillo
-- Carne
 - Acero
+- Carne
+- Cuchillo
+- Sierra
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B072WVPLZQ{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fabricado con tejido Nike Dri-FIT para una óptima gestión de la humedad.
-- Diseño ligero y transpirable para una máxima comodidad durante el juego.
-- Parte de la colección PARK 26
 - Ideal para su uso en entrenamientos y partidos de fútbol.
+- Parte de la colección PARK 26
+- Diseño ligero y transpirable para una máxima comodidad durante el juego.
+- Fabricado con tejido Nike Dri-FIT para una óptima gestión de la humedad.
 - Material duradero para una larga vida útil
 
 [🛒 Comprar!!!]({{< param buyurl >}})

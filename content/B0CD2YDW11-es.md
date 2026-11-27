@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ACCESORIOS PARA LLEVAR: ¡Descubre tu pulsera Eggzania dentro de tu huevo Yolkie!
-- YOLKIES: Nuevos en Rainboville, estos divertidos Rainbocorns de tamaño pequeño son los amigos de bolsillo perfectos.
-- COLECCIÓNALOS TODOS: Hay seis peluches Eggzania Mini Mania y seis Yolkies a juego para coleccionar.
 - DIEZ SORPRESAS POR DESCUBRIR: ¡Rainbocorns Eggzania contiene más de diez sorpresas insuperables!
+- COLECCIÓNALOS TODOS: Hay seis peluches Eggzania Mini Mania y seis Yolkies a juego para coleccionar.
+- YOLKIES: Nuevos en Rainboville, estos divertidos Rainbocorns de tamaño pequeño son los amigos de bolsillo perfectos.
+- ACCESORIOS PARA LLEVAR: ¡Descubre tu pulsera Eggzania dentro de tu huevo Yolkie!
 - DESPEGA Y DESCUBRE: Despega el corazón de tu Rainbocorn para descubrir lo que ama.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

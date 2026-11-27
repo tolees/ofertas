@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pata Negra Roble Vino Tinto D.O Ribera del Duero - Caja de 6 Botellas x 750 ml'
-date: 2026-11-15 10:49:41
+date: 2026-11-26 11:35:11
 image: 'https://m.media-amazon.com/images/I/511HkQnXbWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DCS6D3L/?tag=tolees-21'
 descuento: '47.41'
-average: '25.03772727272727'
+average: '24.526249999999997'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

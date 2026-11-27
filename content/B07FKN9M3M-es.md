@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tiene detalles distintivos de la marca
 - Tejido elástico para mayor comodidad
 - Equipación deportiva de la marca Joma
+- Tiene detalles distintivos de la marca
 - El diseño otorga libertad a los movimientos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

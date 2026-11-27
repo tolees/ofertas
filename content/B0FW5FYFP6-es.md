@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Con vitamina A, D3 y E
+- Con biotina
+- Sin colorantes, sabores, conservantes ni azúcares artificiales
 - Desarrollado por nutricionistas expertos en alimentos para mascotas
 - Enriquecido con vitaminas y minerales
-- Sin colorantes, sabores, conservantes ni azúcares artificiales
-- Con biotina
-- Con vitamina A, D3 y E
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FW5FYFP6{{</world>}}

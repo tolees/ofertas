@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste clásico
-- Tecnología Goga Mat
 - MF refrigerado por aire
+- Tecnología Goga Mat
 - Goga Mat Arch
+- Ajuste clásico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08TMLXDRZ{{</world>}}

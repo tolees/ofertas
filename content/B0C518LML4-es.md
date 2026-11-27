@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🔬 ACEITES ESENCIALES HECT: Aceites esenciales quimiotipados, con composición controlada.
-- 🌿 ACEITES ESENCIALES BIO: Contiene menta de campo, copaiba, lavanda aspic, tomillo, anís estrellado, eucalipto limón y gaulteria.
-- 🌿 CONFORT MUSCULAR Y ARTICULAR: Ayuda a aliviar músculos y articulaciones en caso de rigidez o tensión.
 - ❄️ EFECTO FRÍO INMEDIATO: Proporciona una sensación de frescor inmediato tras la aplicación.
 - 💧 MODO DE USO: Pulverizar sobre las zonas sensibles hasta 3 veces al día y masajear hasta su absorción. No utilizar en menores de 15 años.
+- 🌿 ACEITES ESENCIALES BIO: Contiene menta de campo, copaiba, lavanda aspic, tomillo, anís estrellado, eucalipto limón y gaulteria.
+- 🔬 ACEITES ESENCIALES HECT: Aceites esenciales quimiotipados, con composición controlada.
+- 🌿 CONFORT MUSCULAR Y ARTICULAR: Ayuda a aliviar músculos y articulaciones en caso de rigidez o tensión.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C518LML4{{</world>}}

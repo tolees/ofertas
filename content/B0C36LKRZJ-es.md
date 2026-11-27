@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta de alta calidad para uso diario
 - Cuello de polo: cuello de moda que también ofrece protección cuando está plegado
+- Camiseta de alta calidad para uso diario
 - Logotipo bordado: le da a la camiseta un toque individual y moderno
 - Corte normal: proporciona un ajuste cómodo y libertad de movimiento
 

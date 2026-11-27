@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Puños con cierre de botón sin ojales
-- Proporciona comodidad
-- Cuello de camisa con trabilla en el interior
 - Una mirada original
+- Cuello de camisa con trabilla en el interior
+- Proporciona comodidad
 - Proporciona comodidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Switches mecánicos Outemu Red: lineales, ergonómicos y silenciosos, con tecnología antighosting hasta 6 teclas y durabilidad de hasta 50 millones de pulsaciones.
-- Iluminación RGB personalizable: retroiluminación completa, con control de intensidad, dirección, velocidad y color mediante software intuitivo.
 - Conectividad flexible: funciona por Bluetooth o conexión USB 2.0, permitiendo versatilidad en distintos dispositivos.
+- Iluminación RGB personalizable: retroiluminación completa, con control de intensidad, dirección, velocidad y color mediante software intuitivo.
 - Diseño ultracompacto: teclado mini mecánico en formato 65%, compatible con Windows, Mac, iOS, Linux y Android, ideal para ahorrar espacio y setups compactos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

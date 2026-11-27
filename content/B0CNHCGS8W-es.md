@@ -30,13 +30,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Diseñado para comodidad, estilo y versatilidad
 - Lo llamamos perfecto porque lo es—y sería muy largo decir versátil, ultra-cómodo y duradero.
-- Se llama perfecto por una razón
-- Un cuello redondo clásico y suave que combina con todo
-- ELASTICIDAD: 0% SIN ELASTICIDAD - Espera un ajuste muy ceñido inicialmente. Se aflojará con el tiempo pero no recuperará su forma. Perfecto para un look de denim clásico y rígido.
-- ETIQUETA ROJA LEVIS: Existen diferentes variaciones de nuestra conocida etiqueta roja. Algunas dicen LEVIS, otras dicen Levis, algunas no muestran la marca en absoluto. Para ediciones especiales, a veces incluso cambiamos el color.
-- MATERIAL: 100% ALGODÓN
 - DISEÑO CLÁSICO LEVIS: Las camisetas casuales como nuestra Camiseta Perfect fueron hechas para combinar con jeans, especialmente una tan cómoda y bien construida.
+- ETIQUETA ROJA LEVIS: Existen diferentes variaciones de nuestra conocida etiqueta roja. Algunas dicen LEVIS, otras dicen Levis, algunas no muestran la marca en absoluto. Para ediciones especiales, a veces incluso cambiamos el color.
+- Se llama perfecto por una razón
+- MATERIAL: 100% ALGODÓN
+- ELASTICIDAD: 0% SIN ELASTICIDAD - Espera un ajuste muy ceñido inicialmente. Se aflojará con el tiempo pero no recuperará su forma. Perfecto para un look de denim clásico y rígido.
 - La modelo mide 173 cm, Cintura 25", Lleva una talla S
+- Un cuello redondo clásico y suave que combina con todo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CNHCGS8W{{</world>}}

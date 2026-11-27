@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estilo de meter con un cierre de empeine ajustable
 - Suela de tracción flexible
+- Estilo de meter con un cierre de empeine ajustable
 - Plantilla ligera y acolchada y cómoda
 
 [🛒 Aquí!!!]({{< param buyurl >}})

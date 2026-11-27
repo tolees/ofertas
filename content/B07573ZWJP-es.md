@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diámetro: 130
 - 3 voies
 - Fabricado en Vietnam
 - 3 voies
+- Diámetro: 130
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07573ZWJP{{</world>}}

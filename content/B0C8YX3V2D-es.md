@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- __Fabric:__ Polyester fabric
 - Metal embossed tip
 - Adjustable and reversible strap
-- __Fabric:__ Polyester fabric
 - Bottle opener
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo lineal en el refuerzo del talón y la lengüeta
-- Horma clásica
-- 3 bandas laterales
 - Empeine textil y sintético
 - Estructura Cold Cement
-- Plantilla textil
+- Logotipo lineal en el refuerzo del talón y la lengüeta
+- 3 bandas laterales
 - Suela de goma
+- Horma clásica
+- Plantilla textil
 - Cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

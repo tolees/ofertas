@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP 15 Ordenador portátil 15 6" FHD Ryzen 5 16GB 512SSD Windows 11 | 15-fc1008nsx Windows 11 Home QWERTY Español Plata Sin Cargador Incluido'
-date: 2026-11-24 18:38:17
+date: 2026-11-26 13:00:03
 image: 'https://m.media-amazon.com/images/I/41dzCp1XzmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0H4ZJ6MD7/?tag=tolees-21'
 descuento: '36.88'
-average: '632.33333333333337'
+average: '627.57142857142867'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

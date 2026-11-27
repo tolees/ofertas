@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello acanalado
-- Una mirada original
 - Estampado de G-Star RAW en la parte delantera
-- Estampado fotográfico en la parte trasera
+- Una mirada original
 - Proporciona comodidad
+- Estampado fotográfico en la parte trasera
+- Cuello acanalado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CRZH41QF{{</world>}}

@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material de la suela: 100% TPU
 - La Mundial 2.0 es el rediseño del icónico modelo Mundial fabricado en la historica fábrica de Munich en Capellades (Igualada) con piel de canguro
-- Forrada con nylon hidrofugado de alta densidad
-- Limpieza y cuidados: A las zapatillas Munich no les gusta ni la lavadora ni la secadora porque las estropean
-- Con la X de Munich visible
-- Calzado unisex adulto deportivo con cordones
 - Con tacos
+- Limpieza y cuidados: A las zapatillas Munich no les gusta ni la lavadora ni la secadora porque las estropean
+- Material de la suela: 100% TPU
+- Calzado unisex adulto deportivo con cordones
+- Con la X de Munich visible
+- Forrada con nylon hidrofugado de alta densidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CPPPJJ86{{</world>}}

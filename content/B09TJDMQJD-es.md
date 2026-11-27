@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Sujeción: sujeción baja
-- Tirantes: tirantes ajustables con lazada
 - Diseño: diseño de triángulo
+- Tirantes: tirantes ajustables con lazada
 - Tejido: Tejido reciclado, elástico, suave y resistente al cloro
 - Acolchado: Almohadillas extraíbles
 

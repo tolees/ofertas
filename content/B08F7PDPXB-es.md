@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Compatible exclusivamente con controladoras ARGB integradas en placa base.
-- Módulos LED triples
-- Instalación magnética y adhesiva
 - Iluminación LED ARGB
+- Instalación magnética y adhesiva
+- Módulos LED triples
+- Compatible exclusivamente con controladoras ARGB integradas en placa base.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08F7PDPXB{{</world>}}

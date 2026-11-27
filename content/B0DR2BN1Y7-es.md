@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con 160 páginas pautadas de 90gsm y un espacio en su parte superior para añadir la fecha. Estas páginas cuentan con la certificación FSC, que garantiza que el papel proviene de bosques gestionados de forma responsable.
 - Libreta de tamaño A5, con portada en plástico con un bonito estampado. Su encuadernación es a base de unos aros de plástico, de gran tamaño, que permiten extraer páginas y luego volverlas a poner.
+- Con 160 páginas pautadas de 90gsm y un espacio en su parte superior para añadir la fecha. Estas páginas cuentan con la certificación FSC, que garantiza que el papel proviene de bosques gestionados de forma responsable.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DR2BN1Y7{{</world>}}

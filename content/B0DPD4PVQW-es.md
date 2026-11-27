@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El 100% del cuero de este producto proviene de curtidurías que reciben la certificación Leather Working Group Gold o Silver
 - Elaborado en piel con relieve de serpiente y suela.
 - Tacón apilado de 3 pulgadas
+- El 100% del cuero de este producto proviene de curtidurías que reciben la certificación Leather Working Group Gold o Silver
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DPD4PVQW{{</world>}}

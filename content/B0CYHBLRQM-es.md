@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CREATE/POT STUDIO/Olla de aluminio de Ø20cm con revestimiento cerámico terracota/Antiadherente apta para todo tipo de cocinas resistente y duradera fácil de limpiar libre de PFOA'
-date: 2026-11-23 08:29:28
+date: 2026-11-26 08:56:23
 image: 'https://m.media-amazon.com/images/I/21ROpv0gwLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

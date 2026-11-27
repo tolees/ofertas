@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Le ayudará a afilar sus uñas en un entorno controlado
-- De tacto suave
 - Hecho con cuerda de sisal y marco de peluche
-- Alfombra-rascador para evitar que nuestro gato rasque los muebles
+- De tacto suave
 - Medida: 55 x 35 cm
+- Alfombra-rascador para evitar que nuestro gato rasque los muebles
+- Le ayudará a afilar sus uñas en un entorno controlado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01AV9PCKC{{</world>}}

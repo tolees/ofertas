@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Composición de 100 percent poliéster
-- Material ligero y suave en la piel
 - Cuenta con tecnología DRY MIX para controlar la humedad corporal
+- Material ligero y suave en la piel
 - Camiseta diseñada en cuello redondo
+- Composición de 100 percent poliéster
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01CSTE3VM{{</world>}}

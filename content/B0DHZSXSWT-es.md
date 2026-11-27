@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cordones
-- Horma clásica
-- Forro textil
 - Empeine de material sintético
+- Forro textil
+- Horma clásica
+- Cordones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHZSXSWT{{</world>}}

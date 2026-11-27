@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ribete de cinta tejida con remache en una manga
-- Una mirada original
-- Originals de G-STAR tejidos en la costura lateral inferior
 - Cuello acanalado
+- Originals de G-STAR tejidos en la costura lateral inferior
+- Una mirada original
+- Ribete de cinta tejida con remache en una manga
 - Proporciona comodidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

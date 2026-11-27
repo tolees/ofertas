@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Suela acanalada.
-- Talón rígido.
 - Punta redondeada y suave.
+- Talón rígido.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D763MBZZ{{</world>}}

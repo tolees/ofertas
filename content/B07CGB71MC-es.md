@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Material de polipropileno duradero y sin ácidos
-- País de origen: Estados Unidos
 - Número de modelo: 85298
 - Sostiene tarjetas en fundas protectoras de baraja
+- País de origen: Estados Unidos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07CGB71MC{{</world>}}

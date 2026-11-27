@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro sintético
-- Suela de goma
 - Parte superior de piel sintética
 - Fiel a la talla
+- Suela de goma
+- Forro sintético
 - La parte superior contiene al menos un 50% de material reciclado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

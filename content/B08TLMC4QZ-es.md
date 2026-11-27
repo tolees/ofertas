@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Medidas: tamaño estándar
-- Descubre todas las marcas de EMP!
-- Pantalones cortos || Merch para fans y divertido || Patrón: Liso
-- Ropa de Calle
 - Pantalones cortos con las siguientes características:
+- Ropa de Calle
+- Pantalones cortos || Merch para fans y divertido || Patrón: Liso
+- Descubre todas las marcas de EMP!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08TLMC4QZ{{</world>}}

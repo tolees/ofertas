@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Versátil y funcional: Perfecto para interiores y exteriores: trabajar, descansar, hacer deporte, viajar o simplemente relajarse en casa en días fríos.
 - Tejido térmico con forro polar suave: Interior cepillado que mantiene el calor corporal y brinda una sensación agradable sobre la piel, ideal para climas fríos.
-- Diseño ajustado y femenino: Corte ceñido que se adapta al cuerpo sin apretar, perfecto para llevar debajo de otras prendas sin añadir volumen.
 - Transpirable y elástico: Tejido ligero y elástico en cuatro direcciones que favorece el movimiento natural, manteniendo la comodidad durante todo el día.
+- Diseño ajustado y femenino: Corte ceñido que se adapta al cuerpo sin apretar, perfecto para llevar debajo de otras prendas sin añadir volumen.
 - Conjunto completo: camiseta y pantalón: Incluye parte superior de manga larga y pantalón largo. Ideal como primera capa térmica o para usar como pijama de invierno.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

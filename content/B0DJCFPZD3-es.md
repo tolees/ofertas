@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Construcción de EVA para un ajuste cómodo
 - Puma Logotipo de gato en la parte superior
+- Construcción de EVA para un ajuste cómodo
 - Moldeado de doble densidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

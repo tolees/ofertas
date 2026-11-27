@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con detalles de pana
 - Acabado resistente al agua
+- Con detalles de pana
 - Bolsillos de parche
 
 [🛒 Visítala!!!]({{< param buyurl >}})

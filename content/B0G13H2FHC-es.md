@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jjlupo - Chaqueta amortiguadora'
-date: 2026-11-21 19:13:13
+date: 2026-11-27 09:44:35
 image: 'https://m.media-amazon.com/images/I/31gpq9-zvfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

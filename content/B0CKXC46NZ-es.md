@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte : Corte loose
 - Artículo : Pantalones chinos
+- Corte : Corte loose
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKXC46NZ{{</world>}}

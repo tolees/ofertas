@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OasiSmile C2 Irrigador Dental Portátil 350ML Irrigador Bucal Profesional | Tecnología DIY Autoajustable 5 Boquillas y 4 Modos Para Ortodoncia y Encías Sensibles IPX7 Recargable para Viaje y Hogar'
-date: 2026-11-20 16:32:26
+date: 2026-11-27 08:22:43
 image: 'https://m.media-amazon.com/images/I/41noWFsHXmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

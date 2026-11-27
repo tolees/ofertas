@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - MULTIFUNCIONAL: La freidora de aire de 6 L cuenta con una pantalla digital con 8 programas preestablecidos personalizables por el usuario, un temporizador de 60 minutos y temperatura regulable de 80° a 200°.
 - LIMPIEZA: los accesorios de cocción se pueden lavar en el lavavajillas; el cuerpo de la freidora solo se debe limpiar a mano con un paño suave ligeramente humedecido.
-- DISEÑO VINTAGE: La freidora de aire de 6 L Azul Cielo Iridea forma parte de la amplia gama de pequeños electrodomésticos Tognana, disponibles en varios colores con un look retro y atractivo, para un estilo vintage colorido y a la moda.
-- CAPACIDAD: con una capacidad de 6 L para servir en cantidades generosas, ideal para cocinar sin añadir aceite
 - SEGURIDAD: la freidora de aire cuenta con protección contra sobrecalentamiento, sistema de corte de alimentación cuando la cesta se separa de la base y pies antideslizantes
+- CAPACIDAD: con una capacidad de 6 L para servir en cantidades generosas, ideal para cocinar sin añadir aceite
+- DISEÑO VINTAGE: La freidora de aire de 6 L Azul Cielo Iridea forma parte de la amplia gama de pequeños electrodomésticos Tognana, disponibles en varios colores con un look retro y atractivo, para un estilo vintage colorido y a la moda.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FPDFF8H9{{</world>}}

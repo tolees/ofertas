@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Goma
-- Sin cierre
 - Sintético
+- Sin cierre
+- Goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MYQEBCR{{</world>}}

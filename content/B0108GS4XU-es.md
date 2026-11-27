@@ -29,13 +29,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Protección de sobrecarga de rearme
-- Enrollacables Brico de 4 tomas Schuko con asa para transporte
-- Sistema de protección infantil
-- Amperios/Voltaje: 13A / 230V
-- Potencia máxima: 3000 W
-- Cable HO5VV - F 3G 1.5 mm de 50 metros de largo
-- Apto para uso en bricolaje y jardinería
 - Color negro-rojo
+- Apto para uso en bricolaje y jardinería
+- Potencia máxima: 3000 W
+- Sistema de protección infantil
+- Enrollacables Brico de 4 tomas Schuko con asa para transporte
+- Cable HO5VV - F 3G 1.5 mm de 50 metros de largo
+- Amperios/Voltaje: 13A / 230V
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0108GS4XU{{</world>}}

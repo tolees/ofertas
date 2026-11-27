@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Parte superior sintética con forro suave que se adapta al pie
-- Ancho del zapato: corte normal
-- Tipo de tacón: plano
 - Bota baja
+- Ancho del zapato: corte normal
+- Parte superior sintética con forro suave que se adapta al pie
+- Tipo de tacón: plano
 - Suela ligera de TPU con tachuelas cónicas. Apto para su uso en césped firme, natural y artificial
 
 [🛒 Aquí!!!]({{< param buyurl >}})

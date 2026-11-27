@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Apto para lavado en lavavajillas
 - Marca de Lacor
 - Utensilio de cocina
 - Hecho de melamina
+- Apto para lavado en lavavajillas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B017LTSGPI{{</world>}}

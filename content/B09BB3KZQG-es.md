@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- En nariz se presenta intenso y complejo con mezcla de aroma de fruta madura con toques tostados y especiados adquiridos en su paso por barrica
-- Estructurado, sabor afrutado con fondo de moras.
 - D.O Ribera del Duero. Variedades de uva: Tinto / 100%Tinta del país (Tempranillo)
 - Rojo picota intenso con tonos violáceos.
+- En nariz se presenta intenso y complejo con mezcla de aroma de fruta madura con toques tostados y especiados adquiridos en su paso por barrica
+- Estructurado, sabor afrutado con fondo de moras.
 - Maridaje: Todo tipo de carnes rojas y quesos de media curación.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

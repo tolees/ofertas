@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manga : Manga larga
-- Cuello : Cuello de camisa
 - Cierre : Cierre de botones
-- Artículo : Camisa
 - Modo de vida : Tradicional
-- Corte : Corte regular
 - Puños : Puños abotonados
+- Corte : Corte regular
+- Cuello : Cuello de camisa
+- Manga : Manga larga
+- Artículo : Camisa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQQSLK6L{{</world>}}

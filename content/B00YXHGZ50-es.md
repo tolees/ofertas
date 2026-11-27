@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Las pilas son aptas para todos los cargadores convencionales de Ni - MH y aplicaciones estándar del mercado
 - Las pilas Varta Accu son robustas contra la sobrecarga y la descarga más profunda, y destacan especialmente por sus altos ciclos y su larga duración
-- Blíster de 4 unidades Rechargeable Mignon AAA con una capacidad nominal de 800 mAh cada una
-- Incluye: blíster de 2 unidades VARTA Recharge Accu Phone AAA 800 mAh
 - Pila de Ni - Mh de calidad prémium para teléfonos inalámbricos analógicos y digitales. Recargable sin efecto de memoria
+- Incluye: blíster de 2 unidades VARTA Recharge Accu Phone AAA 800 mAh
+- Blíster de 4 unidades Rechargeable Mignon AAA con una capacidad nominal de 800 mAh cada una
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00YXHGZ50{{</world>}}

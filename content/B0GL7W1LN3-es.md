@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Puerto USB-C Power Delivery de hasta 30W para carga rápida
+- Diseño ligero y compacto, ideal para el uso diario y viajes
+- Puerto USB-A de 27W con soporte de carga rápida
 - Tecnología GaN para alto rendimiento y mejor gestión térmica
 - Compatible con smartphones, tablets y otros dispositivos
-- Puerto USB-A de 27W con soporte de carga rápida
-- Diseño ligero y compacto, ideal para el uso diario y viajes
-- Puerto USB-C Power Delivery de hasta 30W para carga rápida
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0GL7W1LN3{{</world>}}

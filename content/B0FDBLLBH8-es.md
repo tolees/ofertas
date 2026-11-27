@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Braga Hipster
 - Colección Wild Helanka
+- Braga Hipster
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FDBLLBH8{{</world>}}

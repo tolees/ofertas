@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- plantilla extraíble
-- Altura plataforma: 4 cm
 - forro transpirable
+- Altura plataforma: 4 cm
 - Material : piel
+- plantilla extraíble
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DTYXHD8G{{</world>}}

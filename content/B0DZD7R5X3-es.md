@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Artículo : Sudadera
-- Estampado : Estampa en la parte delantera del producto
 - Corte : Corte loose
 - Manga : Manga larga
+- Artículo : Sudadera
+- Estampado : Estampa en la parte delantera del producto
 - Cuello : Cuello béisbol
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La rosa del desierto, que significa "tenacidad", simboliza vitalidad y esperanza.
-- Las flores son grandes, de un colorido intenso y florecen con frecuencia.
 - Se aceptan devoluciones y cambios, y ofrecemos respuestas en línea en cualquier momento.
+- Las flores son grandes, de un colorido intenso y florecen con frecuencia.
+- La rosa del desierto, que significa "tenacidad", simboliza vitalidad y esperanza.
 - Crece bien en altas temperaturas y con luz solar intensa, es resistente a la sequía y crece con mínimos cuidados.
 - Su vibrante forma, similar a la de una rosa, la convierte en la opción perfecta para balcones o mesas.
 

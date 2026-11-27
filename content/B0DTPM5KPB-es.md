@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Kenton Base M, tenis básicos vulcanizados de corte bajo con parte superior clásica, cuello acolchado
-- 100 % poliuretano
 - Ojal y zorro personalizados, lengüeta de talón de color de contraste con logotipo desde 1973, cómoda plantilla termoformada y extraíble con espuma bidensity, logotipo clásico impreso en lateral y lengüeta
+- 100 % poliuretano
+- Kenton Base M, tenis básicos vulcanizados de corte bajo con parte superior clásica, cuello acolchado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DTPM5KPB{{</world>}}

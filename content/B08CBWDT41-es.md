@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Ofrece comodidad y libertad de movimiento
 - Sin bolsillos
 - Mallas deportivos
-- Ofrece comodidad y libertad de movimiento
 - Cuenta con el logotipo bordado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

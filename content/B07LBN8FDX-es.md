@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Protección total de los elementos a la vez que cómoda en el interior.
 - La capucha puede guardarse en el collar para cuando no llueva.
-- Cinturon desmontable
 - Cremallera frontal YKK con cierre de botón a presión de doble botonadura
+- Cinturon desmontable
 - Bolsillos para las manos con cremallera YKK
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- BANDAS DE SILICONA: Incorpora una banda de silicona para proteger tus pestañas cuando les des curvatura
-- TODO TIPO DE PESTAÑAS: se adapta a distintas formas de pestañas proporcionando curvatura de manera natural y duradera. Si tus pestañas son muy rectas o tienden a ir hacia abajo las curvará creando un efecto “lifting” de la mirada.
-- RETORNO AUTOMÁTICO: su mango ergonómico y retorno automático te resultará más fácil y cómoda su aplicación
 - CURVATURA ESPECTACULAR: accesorio infalible para curvar y alzar las pestañas en un instante. Su diseño ergonómico se adapta fácilmente a la mano y permite ejercer presión con suavidad. Incorpora una banda de silicona para proteger tus pestañas.
 - USO: antes de usarlo, presiona las asas y asegúrate de que ambas partes del cabezal están bien alineadas y las bandas están limpias y bien colocadas. Abrimos el rizapestañas y colocamos las pestañas entre los dos extremos lo más cerca posible del párpado.
+- TODO TIPO DE PESTAÑAS: se adapta a distintas formas de pestañas proporcionando curvatura de manera natural y duradera. Si tus pestañas son muy rectas o tienden a ir hacia abajo las curvará creando un efecto “lifting” de la mirada.
+- BANDAS DE SILICONA: Incorpora una banda de silicona para proteger tus pestañas cuando les des curvatura
+- RETORNO AUTOMÁTICO: su mango ergonómico y retorno automático te resultará más fácil y cómoda su aplicación
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01EHSMY7C{{</world>}}

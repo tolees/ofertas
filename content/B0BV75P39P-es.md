@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cocina con la máxima tranquilidad: con 3 niveles de potencia regulables y una capacidad máxima de extracción de 303,2m3/h, con tan solo 63 dBa asegurando el máximo silencio.
 - Reduce las tareas de mantenimiento y limpieza: gracias al filtro antigrasa con panel de aluminio, que protege el motor, aumenta el rendimiento de la campana y a la vez retiene la grasa de forma óptima. Es de fácil extracción, limpieza y apto para para lavar en el lavavajillas.
+- Campana extractora decorativa de 60cm de ancho: limpia el aire y elimina los olores sin expulsarlo al exterior, con una capacidad de extracción mínima de 220,2 m3/hora y máximo 303,2 m3/hora.
 - Medidas campana extractora (Alto x Ancho x Profundidad): 70,5 – 98,5 x 60 x 28,5cms.
 - Gran visibilidad, con menos consumo eléctrico: las bombilla LED incorporada proporciona una visibilidad óptima de la zona de cocción y tienen una larga durabilidad en comparación con las bombillas tradicionales y un bajo consumo.
-- Campana extractora decorativa de 60cm de ancho: limpia el aire y elimina los olores sin expulsarlo al exterior, con una capacidad de extracción mínima de 220,2 m3/hora y máximo 303,2 m3/hora.
+- Cocina con la máxima tranquilidad: con 3 niveles de potencia regulables y una capacidad máxima de extracción de 303,2m3/h, con tan solo 63 dBa asegurando el máximo silencio.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BV75P39P{{</world>}}

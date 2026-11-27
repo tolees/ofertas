@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Certificado TÜV y GS: protección múltiple y carga automática al llenar
 - Lo que obtienes: 1 cargador USB-C de 30 W, 1 cable de carga USB-C a C de 60 W y 1 m. Si por cualquier razón no estás satisfecho con el producto, te ofrecemos un reemplazo completo o reembolso sin hacer preguntas.
 - Cable USB-C a C de 60W (1m): Carga rápida 3A, transferencia 480Mbps, compatible con iPad e iPhone 17/16/15
 - Amplia compatibilidad: Es adecuado para la mayoría de los dispositivos USB-C de iOS y Android, compatible para el iPad con puerto USB‑C, para los Samsung Galaxy S26/S25/S24/S23/S22/S21 Ultra, para la serie Google Pixel 10/9/8/7/6 y otros modelos principales.
-- Certificado TÜV y GS: protección múltiple y carga automática al llenar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GDPGJZFP{{</world>}}

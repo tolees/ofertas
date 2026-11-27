@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Traje de baño sólido
-- Fabricado con tela de poliéster reciclado de secado rápido, cintura totalmente elástica
 - Logotipo impreso en el lateral, con cordones de la marca y bolsa interior
+- Fabricado con tela de poliéster reciclado de secado rápido, cintura totalmente elástica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FFTPZ8N3{{</world>}}

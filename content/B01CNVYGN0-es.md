@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aporta cuerpo
-- Aceite de peinado ligero
-- Brillo sin apelmazar
-- Combínalo con el champú Dark Oil, el acondicionador Dark Oil y la mascarilla Dark Oil de Sebastian Professionals
-- Contiene aceites de sándalo, cedro y argán
 - Aplicar sobre el cabello seco o húmedo
+- Brillo sin apelmazar
+- Aceite de peinado ligero
+- Contiene aceites de sándalo, cedro y argán
+- Combínalo con el champú Dark Oil, el acondicionador Dark Oil y la mascarilla Dark Oil de Sebastian Professionals
 - Suaviza el cabello hasta 48 horas
+- Aporta cuerpo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01CNVYGN0{{</world>}}

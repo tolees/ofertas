@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- PUMA Formstrip en los lados medial y lateral
 - Suela de goma
 - PUMA No.1 Logo en la lengüeta
 - Entresuela de goma
-- PUMA Formstrip en los lados medial y lateral
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BK993ZLG{{</world>}}

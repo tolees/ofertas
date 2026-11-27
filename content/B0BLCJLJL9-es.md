@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Forro de malla
 - Parte superior sintética y lengüeta con superposiciones sintéticas.
 - Suela de goma que no deja marcas
-- Forro de malla
 - Silueta para correr de perfil bajo
 - entresuela de EVA
 

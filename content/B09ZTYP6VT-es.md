@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cambie la barra guía si la ranura no coincide con la altura de los eslabones de transmisión (que nunca deben tocar la parte inferior) o si el interior de la barra guía está desgastado y hace que la cadena se incline hacia un lado
-- CORTE EFICIENTE, SEGURO Y RÁPIDO: la velocidad de la cadena de 4,2 m/s permite cortes rápidos y limpios; cortar madera nunca ha sido tan fácil. Además, una función de seguridad con dos botones evita el arranque accidental
-- PARA USAR CON CUALQUIER BATERÍA GREENWORKS 40 V, 2 Ah o 4 Ah: paquete especial «solo para herramientas» que se entrega sin batería. Si ya tienes una herramienta Greenworks 40 V, utilice la misma batería para ahorrar espacio y reducir costes y residuos
 - GARANTÍA DE 3 AÑOS - Comprar Greenworks , líder mundial en herramientas eléctricas y tecnología de baterías, conocido a nivel mundial por sus diseños inteligentes, su alto rendimiento y su excepcional servicio al cliente
-- Nota: Asegúrese de comprobar y apretar la cadena antes de usarla.
-- MOTOSIERRA ELÉCTRICA DE 30 CM POTENTE, LIGERA Y COMPACTA: pesa solo 2,6 kg, tiene mangos cómodos y ergonómicos y una guía de cadena de 30 cm que corta troncos y árboles pequeños sin esfuerzo
 - La cadena es fácil de sujetar y se engrasa automáticamente, sin necesidad de herramientas para ajustar la tensión de la cadena. Y permanece lubricada gracias a un sistema de lubricación automática equipado con un gran depósito translúcido de 200 ml.
+- PARA USAR CON CUALQUIER BATERÍA GREENWORKS 40 V, 2 Ah o 4 Ah: paquete especial «solo para herramientas» que se entrega sin batería. Si ya tienes una herramienta Greenworks 40 V, utilice la misma batería para ahorrar espacio y reducir costes y residuos
 - Retire las rebabas de los bordes y nivele los cuchillos con una lima plana
+- Cambie la barra guía si la ranura no coincide con la altura de los eslabones de transmisión (que nunca deben tocar la parte inferior) o si el interior de la barra guía está desgastado y hace que la cadena se incline hacia un lado
+- MOTOSIERRA ELÉCTRICA DE 30 CM POTENTE, LIGERA Y COMPACTA: pesa solo 2,6 kg, tiene mangos cómodos y ergonómicos y una guía de cadena de 30 cm que corta troncos y árboles pequeños sin esfuerzo
+- CORTE EFICIENTE, SEGURO Y RÁPIDO: la velocidad de la cadena de 4,2 m/s permite cortes rápidos y limpios; cortar madera nunca ha sido tan fácil. Además, una función de seguridad con dos botones evita el arranque accidental
+- Nota: Asegúrese de comprobar y apretar la cadena antes de usarla.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09ZTYP6VT{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- logotipo de Nike
 - Camiseta deportiva
+- logotipo de Nike
 - deportes casuales
 
 [🛒 Comprar!!!]({{< param buyurl >}})

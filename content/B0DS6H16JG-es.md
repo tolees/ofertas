@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca bordada en el pecho en contraste
 - Cuello y puños en tejido de concha
+- Marca bordada en el pecho en contraste
 - Polo de manga larga con doble botón en piqué con tinte para prendas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

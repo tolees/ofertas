@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste: corte ajustado que no es ni demasiado apretado ni demasiado ancho.
-- Confección elástica en 4 direcciones que se mueve mejor en cualquier dirección.
 - Pretina de rendimiento con logotipo de la marca de palabras.
 - El tejido de algodón ligero y de alto rendimiento tiene la comodidad del algodón, pero se seca mucho más rápido.
+- Confección elástica en 4 direcciones que se mueve mejor en cualquier dirección.
+- Ajuste: corte ajustado que no es ni demasiado apretado ni demasiado ancho.
 - El dobladillo no se enrolla y costuras sin rozaduras.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

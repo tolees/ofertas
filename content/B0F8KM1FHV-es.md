@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cuello : Polo
-- Manga : Manga corta
 - Modo de vida : Tradicional
-- Artículo : Polo
 - Detalles : Insignia
+- Artículo : Polo
+- Manga : Manga corta
 - Corte : Corte regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

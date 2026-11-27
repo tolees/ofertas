@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte : Corte regular
-- Bolsillos : Bolsillo en la pechera
-- Cuello : Cuello abotonado
 - Cierre : Cierre de botones
 - Manga : Manga larga
+- Bolsillos : Bolsillo en la pechera
+- Corte : Corte regular
 - Artículo : Camisa informal
+- Cuello : Cuello abotonado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08X3QDWMY{{</world>}}

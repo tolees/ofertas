@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Horma clásica
+- Drop: 9 mm (talón: 33 mm / antepié: 24 mm)
+- Empeine de malla sintética y textil
 - Peso: 291 g (talla 42 2/3)
 - Suela Adiwear
-- Drop: 9 mm (talón: 33 mm / antepié: 24 mm)
-- Amortiguación LIGHTMOTION
-- Empeine de malla sintética y textil
 - Forro textil y sintético
 - Cierre de cordones
+- Amortiguación LIGHTMOTION
+- Horma clásica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DHXBW3CV{{</world>}}

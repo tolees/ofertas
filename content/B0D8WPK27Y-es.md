@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Zip & button closure
 - An original look
 - Back welt pockets
+- Zip & button closure
 - Provides comfort
 - Side pockets
 

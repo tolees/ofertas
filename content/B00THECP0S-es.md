@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Magnético
 - Incluye 4 rotuladores
 - Para pizarras blancas
+- Magnético
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00THECP0S{{</world>}}

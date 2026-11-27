@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Resistente al agua hasta 50 m: se puede llevar al nadar en aguas poco profundas
-- Caja redonda de acero inoxidable y esfera plateada
 - Tipo de garantía:Fabricante; 2 años de garantía
 - Plata, brazalete de acero inoxidable
+- Caja redonda de acero inoxidable y esfera plateada
 - Caja de 40 mm, ancho de banda de 20 mm, cristal mineral, movimiento de cuarzo con cronógrafo analógico, importado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

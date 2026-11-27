@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Horma clásica
 - Forro textil
 - Empeine de Fiberskin con estampado Sprintgridcarcasa
+- Horma clásica
 - Suela de goma para moqueta artificial
 
 [🛒 Comprar!!!]({{< param buyurl >}})

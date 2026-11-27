@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Talle alto
+- Bolsillo con cremallera en la parte trasera de la cintura
 - Corte clásico
 - Bolsillos laterales con cremallera
+- 100% poliéster (reciclado)
 - Detalles reflectantes
 - AEROREADY
-- Talle alto
-- 100% poliéster (reciclado)
-- Bolsillo con cremallera en la parte trasera de la cintura
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CKTR4K2B{{</world>}}

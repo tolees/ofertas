@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con este práctico set de 3 se pueden controlar varias habitaciones al mismo tiempo y de este modo protegerlas de la acumulación excesiva de humedad.
-- Dimensiones: 45 x 58 x 13 mm, peso: 31 g. Para su funcionamiento se necesitan 3 x pilas CR2032 (1 por sensor) (incluidas en el envío)
 - El nivel climático interior se representa mediante un símbolo emoji junto a los valores de temperatura y humedad interior. La temperatura se indica en °C.
+- Con este práctico set de 3 se pueden controlar varias habitaciones al mismo tiempo y de este modo protegerlas de la acumulación excesiva de humedad.
 - Contenido del envío: 3 termohigrómetros, 3 pilas CR2032, instrucciones de uso (idioma español no garantizado)
+- Dimensiones: 45 x 58 x 13 mm, peso: 31 g. Para su funcionamiento se necesitan 3 x pilas CR2032 (1 por sensor) (incluidas en el envío)
 - El set de 3 indicadores es termómetro e higrómetro al mismo tiempo. Se utiliza para controlar el ambiente interior y evitar la aparición de moho. Los termohigrómetros pueden colocarse con el soporte integrado o bien colgarse.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MENFORSAN: En Menforsan nos preocupamos por la salud de los animales y el cuidado del planeta, por lo que creamos productos naturales vegan friendly de la mejor calidad.
-- PROTECTOR NATURAL: Protege las almohadillas del frío y del calor, evitando agrietamientos y aumentando la resistencia al roce. El Aloe Vera ayuda con la cicatrización y reparación de las heridas
-- MODO DE EMPLEO: Durante el periodo de adaptación se recomienda aplicar el producto todos los días durante 10-15 días. Durante el periodo de actividad, aplicar el producto 2 o 3 veces a la semana. Para el tratamiento de almohadillas irritadas: una aplicación diaria durante una o dos semanas. Para una mejor aplicación se recomienda tumbar al perro.
 - RECOMENDACIÓN DE USO: Está recomendado para usarlo en perros muy activos (perros de trabajo, deportistas, nerviosos) o aquellos con almohadillas frágiles debido al ambiente (arena o asfalto caliente, nieve, hielo, etc.)
+- PROTECTOR NATURAL: Protege las almohadillas del frío y del calor, evitando agrietamientos y aumentando la resistencia al roce. El Aloe Vera ayuda con la cicatrización y reparación de las heridas
+- MENFORSAN: En Menforsan nos preocupamos por la salud de los animales y el cuidado del planeta, por lo que creamos productos naturales vegan friendly de la mejor calidad.
 - MODO DE EMPLEO: Extender el producto de forma uniforme sobre todas las almohadillas. Evitar que la mascota se lama o ande sobre alfombras o sofás hasta que el producto no esté completamente seco (1-2 minutos).
+- MODO DE EMPLEO: Durante el periodo de adaptación se recomienda aplicar el producto todos los días durante 10-15 días. Durante el periodo de actividad, aplicar el producto 2 o 3 veces a la semana. Para el tratamiento de almohadillas irritadas: una aplicación diaria durante una o dos semanas. Para una mejor aplicación se recomienda tumbar al perro.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09MQVTC1M{{</world>}}

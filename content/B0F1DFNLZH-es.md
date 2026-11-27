@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ariel Detergente Líquido para Lavadora Original Pack 4x50 Lavados | Ariel detergente líquido de ropa para lavadora. Elimina manchas y malos olores en 1 lavado. Pack 4 unidades'
-date: 2026-11-24 01:19:27
+date: 2026-11-27 08:07:11
 image: 'https://m.media-amazon.com/images/I/51EaodosbjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F1DFNLZH/?tag=tolees-21'
 descuento: '36.21'
-average: '39.883571428571408'
+average: '39.690666666666644'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

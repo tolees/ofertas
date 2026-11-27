@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec Máquina de Palomitas Eléctrica Fun&Taste P´Corn Classic. Palomitero 300 W Diseño Retro Olla de Acero Inoxidable de 500 ml Bandeja extraíble Luz Interior Cuchara dosificadora'
-date: 2026-11-12 07:21:22
+date: 2026-11-26 18:17:47
 image: 'https://m.media-amazon.com/images/I/41VytlbEflL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

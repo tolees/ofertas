@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cerveza estilo pilsen
 - La siguiente información se aplica a cada unidad del paquete
 - Con 4.8% de alcohol en volumen
+- Cerveza estilo pilsen
 - Consumirla entre 0 y 3 grados C para obtener sus máximas cualidades
-- De color rubio pajizo y espuma consistente Con ligero aroma frutal y sabor balanceado de dulce de malta y amargor suave
 - Ingredientes: agua, malta de CEBADA, lúpulo, maiz y levadura
+- De color rubio pajizo y espuma consistente Con ligero aroma frutal y sabor balanceado de dulce de malta y amargor suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DP4YVSDX{{</world>}}

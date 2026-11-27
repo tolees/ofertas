@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Fire TV Cube Última generación | Reproductor multimedia en streaming con control por voz a través de Alexa Wi-Fi 6E y Ultra HD 4K encuentra series más rápido con Alexa+'
-date: 2026-11-24 14:58:33
+date: 2026-11-26 10:36:45
 image: 'https://m.media-amazon.com/images/I/31NhjAxevIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09BZWZS6S/?tag=tolees-21'
 descuento: '46.52'
-average: '129.41503999999807'
+average: '129.31401574802962'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

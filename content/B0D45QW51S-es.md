@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Características: Vermut Blanco Superior de Turín, con vino DOC del Piamonte y una selección refinada de hierbas, flores y raíces, cuidadosamente infusionadas para un equilibrio elegante de sabores
 - Sabor: una nariz de complejidad aromática, con notas de ajenjo romano, flores y cítricos, da paso a un paladar especiado y equilibrado
-- Maridaje: para disfrutar puro como digestivo, servido fresco con hielo y una rodaja de limón o naranja
 - Color: la cuidadosa mezcla de vino blanco piamontés y hierbas y especias seleccionadas, confieren un tono amarillo pajizo intenso
 - Canti es un mundo de estilo, tradición y alegría de vivir: desde la búsqueda del Aperitime más envolvente surge 25 Aperitime, la línea para disfrutar del estilo italiano en tu pausa para cócteles
-- Características: Vermut Blanco Superior de Turín, con vino DOC del Piamonte y una selección refinada de hierbas, flores y raíces, cuidadosamente infusionadas para un equilibrio elegante de sabores
+- Maridaje: para disfrutar puro como digestivo, servido fresco con hielo y una rodaja de limón o naranja
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D45QW51S{{</world>}}

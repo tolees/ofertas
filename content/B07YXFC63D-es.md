@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- No Apto Microondas
 - Reciclable , Ecológico , 100% higiénico , Transportable , Material 100% saludable
+- No Apto Microondas
 - Apto lavavajillas , Recomendado lavar a mano
 - Facil de limpiar
 

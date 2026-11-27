@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CORTE AJUSTADO: corte ajustado en los hombros, las mangas, el pecho y la cintura
 - POLO VERSÁTIL: perfecto para salidas informales, la oficina o el campo de golf
+- CORTE AJUSTADO: corte ajustado en los hombros, las mangas, el pecho y la cintura
 - PIQUÉ DE ALGODÓN: el piqué de algodón 100% ofrece textura y transpirabilidad
 - DETALLES: cuello y puños acanalados, solapa con dos botones, aberturas laterales en el bajo y costuras duraderas de doble pespunte
 

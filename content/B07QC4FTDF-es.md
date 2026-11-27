@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- DETALLES: Presenta el clásico diseño de punto trenzado tipo pescador, cuello redondo, manga larga y detalles de canalé en el cuello, los puños y el bajo.
 - JERSEY DE ALGODÓN SUAVE: Este jersey de punto trenzado texturizado, supersuave y de gramaje medio aporta la máxima calidez y comodidad.
 - AJUSTE NORMAL: Ajuste ceñido pero cómodo en pecho, cintura y cadera.
+- DETALLES: Presenta el clásico diseño de punto trenzado tipo pescador, cuello redondo, manga larga y detalles de canalé en el cuello, los puños y el bajo.
 - CLÁSICO JERSEY DE PUNTO TRENZADO: Un jersey moderno, clásico y abrigado, perfecto tanto para un look elegante como informal.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

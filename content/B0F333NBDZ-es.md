@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 40.5 EU
 - 84,28% piel, 9,08% sintético, 6,64% poliéster
+- 40.5 EU
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F333NBDZ{{</world>}}

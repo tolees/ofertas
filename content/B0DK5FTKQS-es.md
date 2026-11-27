@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillos traseros ribeteados, uno con botón y el otro con botones ocultos
-- Bolsillos insertados
 - Trabillas para cinturón en ángulo lateral
 - Etiqueta tejida G-STAR Originals en la parte trasera
+- Bolsillos insertados
+- Bolsillos traseros ribeteados, uno con botón y el otro con botones ocultos
 - Bragueta con cremallera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

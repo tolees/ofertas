@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ofrece protección solar SPF 30 contra rayos UVA/UVB
-- RevitaLift Anti-arrugas y Firmeza incrementa la producción celular y reduce las arrugas
 - Es adecuada para todo tipo de pieles
+- RevitaLift Anti-arrugas y Firmeza incrementa la producción celular y reduce las arrugas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0055WX3OI{{</world>}}

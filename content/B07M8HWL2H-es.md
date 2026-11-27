@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - materialFabricComposition: 69% Cotton, 29% Recycled Polyester, 2% Elastane
-- High rise
+- Skinny Fit
 - Care Label:
 - Skinny fit jeans
-- Skinny Fit
+- High rise
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07M8HWL2H{{</world>}}

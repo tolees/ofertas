@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Puntera reforzada
+- Horma clásica
+- Parte superior de piel sintética
 - Suela de goma
 - Cierre de cordones
-- Parte superior de piel sintética
 - Forro textil
-- Horma clásica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C3KKLZ83{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Lightweight fabric
-- Long sleeves
-- Button fly
 - Shirt collar
+- Long sleeves
 - Provides comfort
+- Lightweight fabric
+- Button fly
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D8WNVN2Y{{</world>}}

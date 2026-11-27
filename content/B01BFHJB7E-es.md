@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Formulado con: una combinación de los activos cosméticos de mayor potencia frente al fotoenvejecimiento como son los ahas y el retinol.
-- Neostrata alta potencia r es un serumgel para el tratamiento intensivo del fotoenvejecimiento y el envejecimiento intrínseco de todos los tipos de piel.
-- Neostrata alta potenica r está indicado como primer paso de los tratamientos médicos antiedad.
 - Con la utilización continuada de neostrata alta potencia r serumgel, se obtiene una piel más lisa, suave, firme y luminosa en poco tiempo.
 - Un completo sistema antioxidante y antiglicante que ayuda a reducir los efectos del envejecimiento intrínseco (debido al paso del tiempo).
+- Neostrata alta potencia r es un serumgel para el tratamiento intensivo del fotoenvejecimiento y el envejecimiento intrínseco de todos los tipos de piel.
+- Neostrata alta potenica r está indicado como primer paso de los tratamientos médicos antiedad.
+- Formulado con: una combinación de los activos cosméticos de mayor potencia frente al fotoenvejecimiento como son los ahas y el retinol.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01BFHJB7E{{</world>}}

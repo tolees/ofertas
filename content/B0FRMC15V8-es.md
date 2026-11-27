@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Todo está en los detalles: 5 ranuras para tarjetas de crédito, 2 compartimentos para billetes, 1 ventana para identificación
+- 10 cm de largo x 2,5 cm de ancho x 3 cm de alto
 - Artesanía de alta calidad: cuero genuino pequeño plegable
 - Esenciales de estilo: 1 bolsillo trasero con cremallera
-- 10 cm de largo x 2,5 cm de ancho x 3 cm de alto
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FRMC15V8{{</world>}}

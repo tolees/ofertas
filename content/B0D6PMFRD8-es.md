@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Entresuela de cuña oculta
 - Skechers Detalle del logotipo
+- Entresuela de cuña oculta
 - Suela de tracción flexible
 
 [🛒 Aquí!!!]({{< param buyurl >}})

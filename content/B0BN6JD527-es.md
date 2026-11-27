@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela: goma
 - Material exterior: sintético
 - Material interior: sintético
+- Suela: goma
 - Forma del tacón: plano
 - Cierre: cremallera
 

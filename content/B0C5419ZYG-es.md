@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte superior de ante
-- Mediasuela con amortiguación
+- Forro textil
 - Suela de goma vulcanizada
+- Parte superior de ante
 - Horma clásica
 - Cierre de cordones
-- Forro textil
+- Mediasuela con amortiguación
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C5419ZYG{{</world>}}

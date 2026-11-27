@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lee Extreme Motion Vaqueros Straight Azul Trip Cr W32/L30 Talla del fabricante: 32/30 para Hombre'
-date: 2026-11-25 14:08:24
+date: 2026-11-26 14:17:47
 image: 'https://m.media-amazon.com/images/I/31+2J0SIdoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JW42CDR/?tag=tolees-21'
 descuento: '57.77'
-average: '34.70000000000001'
+average: '34.296000000000007'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

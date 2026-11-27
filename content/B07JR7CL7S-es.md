@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Candy CCE117/1X Campana extractora 70 CM 3 Niveles de Potencia 65W 305M3/H Filtros de Carbono 2 Paneles Aluminio Antigrasa Iluminación LED 56/62DB Clase C Acero Inoxidable'
-date: 2026-11-21 02:49:17
+date: 2026-11-26 13:38:45
 image: 'https://m.media-amazon.com/images/I/31mKpmmyCML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JR7CL7S/?tag=tolees-21'
 descuento: '49.65'
-average: '82.448421052631559'
+average: '81.825499999999991'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

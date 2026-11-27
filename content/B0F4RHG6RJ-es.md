@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color verde. Composición tejido: poliéster.
 - La serie Lava está inspirada en las erupciones volcánicas y en el movimiento de la roca fundida.
 - Los colores evocan los distintos tonos de este fenómeno geológico y se combinan con dorados que generan un efecto visual sofisticado.
 - Medidas: 22 x 11 x 6,5 cm.
+- Color verde. Composición tejido: poliéster.
 - Estuche portatodo con 3 amplios compartimentos que permiten repartir el contenido.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

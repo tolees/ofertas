@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Acabado con gráficos llamativos de temporada en el lateral y en el bolsillo trasero, para una usabilidad óptima, cuentan con una cintura autoelástica con cordones para mayor ajuste
 - Hecho de tela de jersey de 320 g, estos pantalones cortos cuentan con un ajuste relajado para comodidad durante todo el día
 - 100% algodón
+- Acabado con gráficos llamativos de temporada en el lateral y en el bolsillo trasero, para una usabilidad óptima, cuentan con una cintura autoelástica con cordones para mayor ajuste
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FFTPXQ8R{{</world>}}

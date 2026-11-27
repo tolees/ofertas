@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Talla única
 - Contiene al menos un 50% de material reciclado y renovable
+- Talla única
 - Visera curvada de tamaño medio
 
 [🛒 Aquí!!!]({{< param buyurl >}})

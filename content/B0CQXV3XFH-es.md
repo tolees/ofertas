@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Resistente al agua hasta 50 m: apto para nadar en aguas poco profundas
-- Caja de 36 mm, correa de 16 mm de ancho, cristal mineral, movimiento de cuarzo con pantalla analógica con cronógrafo, importado
-- Correa marrón de piel
 - Caja redonda de acero inoxidable con esfera blanca de nácar
+- Correa marrón de piel
+- Caja de 36 mm, correa de 16 mm de ancho, cristal mineral, movimiento de cuarzo con pantalla analógica con cronógrafo, importado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CQXV3XFH{{</world>}}

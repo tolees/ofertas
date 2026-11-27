@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Silueta de bota baja
 - Perforación en la puntera
-- Solapa del talón de ante
-- Parte superior sintética
 - Cierre de encaje
+- Parte superior sintética
+- Solapa del talón de ante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B082SD6XHP{{</world>}}

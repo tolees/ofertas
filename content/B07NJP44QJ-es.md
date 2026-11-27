@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Revestimiento: Tela
+- Tipo de tacón: Plano
 - Material de la suela: Goma
 - Cierre: Cordones
-- Revestimiento: Tela
 - Material exterior: Lona
-- Tipo de tacón: Plano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07NJP44QJ{{</world>}}

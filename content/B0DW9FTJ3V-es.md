@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Lavable a máquina
 - Espuma viscoelástica refrigerada por aire
+- Lavable a máquina
 - Vegano
 
 [🛒 Aquí!!!]({{< param buyurl >}})

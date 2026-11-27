@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estampado Arty
-- Detalle de logo bordado
-- Cuello: Redondo
 - Manga: Larga
 - Fit: Regular
+- Cuello: Redondo
 - Desigual
+- Detalle de logo bordado
+- Estampado Arty
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DWBCS86Z{{</world>}}

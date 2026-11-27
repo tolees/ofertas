@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tommy hilfiger Logotipo grabado en la entresuela
 - Tommy hilfiger Logotipo en el lateral y la lengüeta
 - Tommy hilfiger Bandera bordada en el talón
+- Tommy hilfiger Logotipo grabado en la entresuela
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F4RTL3WX{{</world>}}

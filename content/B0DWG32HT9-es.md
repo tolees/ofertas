@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye clips de papel, mini subrayadores, una mini libreta, un charm para decorar la espiral de la agenda, minimarcapáginas magnéticos y pegatinas con relieve
 - Dimensiones: 11.5 x 8 x 2.5 cm.
+- Incluye clips de papel, mini subrayadores, una mini libreta, un charm para decorar la espiral de la agenda, minimarcapáginas magnéticos y pegatinas con relieve
 - Kit de decoración Make it magic para personalizar tu agenda
 
 [🛒 Comprar!!!]({{< param buyurl >}})

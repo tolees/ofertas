@@ -28,16 +28,16 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Membrana impermeable RAIN.RDY
-- Forro textil
-- Peso: 193,25 g
 - Empeine de ripstop con refuerzos sintéticos
-- Herramienta adiFIT(R) de medición para un ajuste preciso impreso en la plantilla
-- Horma clásica
+- Forro textil
+- Membrana impermeable RAIN.RDY
+- Peso: 193,25 g
+- Drop: 8 mm (talón: 20 mm / antepié: 12 mm)
 - Suela Traxion
 - Cierre de cordones
+- Horma clásica
 - Contiene al menos un 20% de material reciclado
-- Drop: 8 mm (talón: 20 mm / antepié: 12 mm)
+- Herramienta adiFIT(R) de medición para un ajuste preciso impreso en la plantilla
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CKXX3LB2{{</world>}}

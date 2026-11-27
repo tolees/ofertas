@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tecnología Goga Max
-- Transpirables
-- Hyper Arc
-- Ultra Go
 - Lavable a máquina
+- Tecnología Goga Max
+- Hyper Arc
+- Transpirables
+- Ultra Go
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CH42X74M{{</world>}}

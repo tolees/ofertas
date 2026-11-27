@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cremallera
 - Detalles dorados
+- Cremallera
 - Mochila
 
 [🛒 Comprar!!!]({{< param buyurl >}})

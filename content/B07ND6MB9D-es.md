@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Queda justo por debajo de la cintura
 - Tiene bragueta con cremallera
+- Queda justo por debajo de la cintura
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07ND6MB9D{{</world>}}

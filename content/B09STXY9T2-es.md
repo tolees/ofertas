@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cremallera en el bajo
-- Cintura elástica ajustable mediante cordón
 - Confeccionado en poliéster interlock 100 percent reciclado
 - Bolsillos con cremallera
+- Cintura elástica ajustable mediante cordón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09STXY9T2{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bajo recto
 - Manga larga ligeramente ampliada
-- Construcción con cintas para acortar las mangas
 - Estampado gráfico en la parte delantera
 - Cuello redondo ribeteado
+- Bajo recto
+- Construcción con cintas para acortar las mangas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09Q8Y3GP8{{</world>}}

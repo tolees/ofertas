@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Suela exterior de goma para durabilidad
 - Parte superior en piel de estilo vintage
-- Cierre de cordones
-- Peso ligero
 - Reebok Marca
+- Peso ligero
+- Cierre de cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08X3P2PKF{{</world>}}

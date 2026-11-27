@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Amortiguación ligera y sensible ultra go
 - Plantilla contorneada Goga Mat cómoda
+- Amortiguación ligera y sensible ultra go
 - Suela de tracción flexible
 - Diseño de sandalia de río con correa ajustable en el tobillo
 

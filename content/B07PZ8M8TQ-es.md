@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ajuste : Ancho
-- Básicos, Festival
-- Pantalones de carga || Longitud: Largo || altura de la cintura: normal
 - Pantalones Cargo con las siguientes características:
+- Pantalones de carga || Longitud: Largo || altura de la cintura: normal
+- Básicos, Festival
 - Descubre todas las marcas de EMP!
 
 [🛒 Aquí!!!]({{< param buyurl >}})

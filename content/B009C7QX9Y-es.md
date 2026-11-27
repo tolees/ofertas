@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- País de origen: España
 - Sin Gluten
+- País de origen: España
 - Fabricado en una empresa, que tambien manipula derivados lacteos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

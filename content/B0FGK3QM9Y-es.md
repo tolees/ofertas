@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hecho en: Marruecos
 - Colección primavera-verano
-- 95 % algodón, 5 % elastano
 - Color: Negro
+- Hecho en: Marruecos
 - Vestido sin mangas de la colección mujer
+- 95 % algodón, 5 % elastano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FGK3QM9Y{{</world>}}

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cristal de borosilicato
-- Tamaño ideal para todas la ocasiones
-- Presentación: caja individual/regalo de regalo
 - Apto para lavavajillas
+- Presentación: caja individual/regalo de regalo
+- Tamaño ideal para todas la ocasiones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00OHV8KUU{{</world>}}

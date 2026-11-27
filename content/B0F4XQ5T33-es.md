@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tejido con tecnología transpirable
-- Capucha ajustable
-- Bolsillo con cremallera para el teléfono
-- Logotipo reflectante de Performance
-- Cierre de cremallera
 - Corte clásico
+- Logotipo reflectante de Performance
+- Bolsillo con cremallera para el teléfono
+- Tejido con tecnología transpirable
 - Tejido técnico
 - Largo estándar
+- Capucha ajustable
+- Cierre de cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F4XQ5T33{{</world>}}

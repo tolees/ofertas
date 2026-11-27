@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Jeans ajustados clásicos con uno de nuestros bajos
 - 93 % algodón, 5 % poliéster, 2 % elastano
+- Jeans ajustados clásicos con uno de nuestros bajos
 - Fabricado en un característico denim elástico lavado en auténtico gris medio
 
 [🛒 Aquí!!!]({{< param buyurl >}})

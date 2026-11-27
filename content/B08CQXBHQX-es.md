@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ZAPATOS
-- Color: Amarillo
 - Talla: EU 36
+- Color: Amarillo
+- ZAPATOS
 - Botas de trekking para niños Mishansha: transpirables, para niños y niñas, de color amarillo, talla 36
 
 [🛒 Aquí!!!]({{< param buyurl >}})

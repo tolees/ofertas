@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Compartimento principal con cremallera
 - Colgante de Pac-Man
-- Organización interna
 - Repelente al agua
+- Organización interna
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B083YCPSW8{{</world>}}

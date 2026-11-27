@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantilla recortada de EVA, refuerzo en el talón, ficie de 100 % algodón
-- Forro de lona de algodón
 - Suela de goma, goma EVA tallada en relieve
+- Forro de lona de algodón
+- Plantilla recortada de EVA, refuerzo en el talón, ficie de 100 % algodón
 - Empeine de lona de algodón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

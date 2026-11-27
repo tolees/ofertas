@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseñó apoyar el drenaje del agua
 - Platillo rectangular
 - Varios colores y tamaños complementan la maceta Venezia XL
+- Diseñó apoyar el drenaje del agua
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0851BXS4G{{</world>}}

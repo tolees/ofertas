@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- producto de alta calidad
-- vienen en paquete de 32 unidades
 - pilas alcalinas duraderos
 - recomendado para dispositivos de bajo consumo de batería / uso constante
+- producto de alta calidad
+- vienen en paquete de 32 unidades
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B004EKG3U8{{</world>}}

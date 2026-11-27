@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Multivitaminas y Minerales - 450 Comprimidos Paquete XL - Todas las Vitaminas A B C D3 E Calcio Zinc Selenio – Multivitaminico Activo Completo para Hombre y Mujer Perfecto para compartir'
-date: 2026-11-14 19:03:19
+date: 2026-11-26 17:01:54
 image: 'https://m.media-amazon.com/images/I/312J4tX0KQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B075RCPZ3P/?tag=tolees-21'
 descuento: '40.02'
-average: '14.482040816326455'
+average: '14.384313725490124'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

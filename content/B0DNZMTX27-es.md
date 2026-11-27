@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - El logotipo de la estrella de DC
 - Cordones Ghillie
-- Material exterior: material exterior textil [algodón]
 - Plantilla de EVA para acolchado
+- Material exterior: material exterior textil [algodón]
 - La tecnología Vulc IMPACT-I Inflexion de DC
 
 [🛒 Visítala!!!]({{< param buyurl >}})

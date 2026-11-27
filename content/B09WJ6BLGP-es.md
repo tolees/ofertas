@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- SOBRE NOSOTROS: En Gourmet Latino te ofrecemos una amplia gama de productos de origen Latinoamericano más típicos y con un sabor irresistible. Somos de la opinión de que conformarse con los sabores clásicos ya no es una opción. Te animamos a descubrir nuestros productos más exóticos.
-- FORMATO IDEAL: Esta lonja es utilizada por ciclistas. Su gran aporte calórico hace que sea perfecto para realizar deporte y su formato en barra lo hace ideal para llevar a cualquier salida.
 - MÚLTIPLES BENEFICIOS: Elaborada a base de fruta de guayaba, es rica en vitamina C. Además, en términos nutricionales aporta carbohidratos.
-- RICO EN VITAMINA C: La guayaba es una fruta tropical con un alto valor nutritivo y que posee más vitamina C que cualquier otro cítrico.
 - LONJA DE GUAYABA: Nuestro dulce de guayaba en barra es un dulce típico de Colombia. Tiene un sabor espectacular y una textura esponjosa, lo que hace que se asemeje a la carne de membrillo. ¿Te lo vas a perder?
+- FORMATO IDEAL: Esta lonja es utilizada por ciclistas. Su gran aporte calórico hace que sea perfecto para realizar deporte y su formato en barra lo hace ideal para llevar a cualquier salida.
+- SOBRE NOSOTROS: En Gourmet Latino te ofrecemos una amplia gama de productos de origen Latinoamericano más típicos y con un sabor irresistible. Somos de la opinión de que conformarse con los sabores clásicos ya no es una opción. Te animamos a descubrir nuestros productos más exóticos.
+- RICO EN VITAMINA C: La guayaba es una fruta tropical con un alto valor nutritivo y que posee más vitamina C que cualquier otro cítrico.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09WJ6BLGP{{</world>}}

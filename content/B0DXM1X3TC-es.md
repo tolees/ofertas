@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- RESISTENTE AL AGUA: Agita, pulveriza y aplica antes de tomar el sol. Renueva cada dos horas y tras el baño o secarte con la toalla.
 - BRUMA EN ACEITE: Textura en aceite en formato bruma que se pulveriza con facilidad, nutre la piel y deja un acabado luminoso, cómoda de aplicar sin apenas extenderla.
 - PACK 2 UNIDADES: Incluye dos brumas aceite de 250 ml, práctico para tener una en casa y otra en la bolsa de playa, o para cubrir toda la temporada de sol.
 - PROTECCIÓN MEDIA FPS 30: Factor 30, protección media frente a UVB, UVA e IR-A, para pieles con tolerancia solar media que quieren broncearse con protección.
 - ACTIVA EL BRONCEADO: Con tecnología PureBronze que ayuda a potenciar el bronceado natural de la piel sin autobronceadores, para un tono dorado más rápido y uniforme.
+- RESISTENTE AL AGUA: Agita, pulveriza y aplica antes de tomar el sol. Renueva cada dos horas y tras el baño o secarte con la toalla.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DXM1X3TC{{</world>}}

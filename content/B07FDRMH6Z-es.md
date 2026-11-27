@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte cómodo y fluido
 - Tenga en cuenta que la talla que se encuentra en la etiqueta de cuidado de esta prenda corresponde al tamaño de EE. UU. Utilice las tablas de tallas que se encuentran en la página de detalles del producto para encontrar el tamaño equivalente.
 - Diseñado con un corte bajo y un silueta sugerente que favorece tus curvas
+- Corte cómodo y fluido
 - Una marca de Amazon
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

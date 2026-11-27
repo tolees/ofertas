@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Esta edición tradicional del LD-1000 presenta gráficos especiales en la plantilla que rinden homenaje al legendario club de atletismo.
 - Las telas transpirables se combinan con una suela tipo gofre para crear el estilo de la vieja escuela que te encanta.
+- Esta edición tradicional del LD-1000 presenta gráficos especiales en la plantilla que rinden homenaje al legendario club de atletismo.
 - El icónico tacón acampanado está listo para regresar.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

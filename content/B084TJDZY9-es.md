@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- VERSATILE FIT: Whether youre an icon, influencer, or a myth in the making, discover a facet for every version of yourself. Pre-shrunk for the perfect fit, our tees are meant to be worn daily. With a crew neckline, short sleeves, regular silhouette, and straight hemline, this top is designed for comfort. Casual and classic, its the ideal choice for any occasion. Only good vibes here.
 - OFFICIALLY LICENSED - Discover exeptional style with our officially licensed pop culture designs! Created by our in-house graphic art team, each piece is a proud representation of craftsmanship, meticulously designed and printed in the UK. Showcase your favorite characters and themes, making every wear a statement of your unique style!
-- EFFORTLESS CARE: From school and work to hanging out with mates, our classic tee is tailored for the real world. No complicated care instructions – simply wear, wash, repeat. Launder cold and tumble or hang dry to maintain the longevity of your new favourite shirt.
-- PERFECT GIFTING OPTION: Ideal for sharing the love, our thoughtfully crafted and vividly rendered T-shirts are perfect for any superfan. Kit your loved ones out for their next birthday, holiday, themed event, Christmas or special occasion.
+- VERSATILE FIT: Whether youre an icon, influencer, or a myth in the making, discover a facet for every version of yourself. Pre-shrunk for the perfect fit, our tees are meant to be worn daily. With a crew neckline, short sleeves, regular silhouette, and straight hemline, this top is designed for comfort. Casual and classic, its the ideal choice for any occasion. Only good vibes here.
 - STAR WARS UNISEX T-SHIRT FOR MEN & WOMEN: Crafted from premium ringspun cotton, our T-shirts are the epitome of timeless style. Embrace your individuality with a look as distinct as you are. Created for everyday wear, our tees feature a breathable all-season mid-weight weave, ensuring comfort in a versatile tagless design. Beyond ordinary, our short-sleeve tee is built to last.
+- PERFECT GIFTING OPTION: Ideal for sharing the love, our thoughtfully crafted and vividly rendered T-shirts are perfect for any superfan. Kit your loved ones out for their next birthday, holiday, themed event, Christmas or special occasion.
+- EFFORTLESS CARE: From school and work to hanging out with mates, our classic tee is tailored for the real world. No complicated care instructions – simply wear, wash, repeat. Launder cold and tumble or hang dry to maintain the longevity of your new favourite shirt.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B084TJDZY9{{</world>}}

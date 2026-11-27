@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ribete en otro color alrededor del cuello y en el bolsillo del pecho, Bolsillo en el pecho y para las manos con cierre de cremallera YKK, Metaluxe
-- Logotipo de Helly Hansen estampado en la parte trasera del cuello, Canesú con detalle de cinta en otro color
-- Aislamiento PrimaLoft Black de 133 gm2 en el cuerpo Tratamiento DWR
-- Cremallera delantera YKK Metaluxe, Aislamiento PrimaLoft Black de 100 gm2 en las mangas
 - Tejido impermeable y cortaviento de poliéster
+- Logotipo de Helly Hansen estampado en la parte trasera del cuello, Canesú con detalle de cinta en otro color
+- Ribete en otro color alrededor del cuello y en el bolsillo del pecho, Bolsillo en el pecho y para las manos con cierre de cremallera YKK, Metaluxe
+- Cremallera delantera YKK Metaluxe, Aislamiento PrimaLoft Black de 100 gm2 en las mangas
+- Aislamiento PrimaLoft Black de 133 gm2 en el cuerpo Tratamiento DWR
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01CYUAERC{{</world>}}

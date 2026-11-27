@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - El diseño cuenta con detalles de bolsillo trasero cortado y cosido y bordado de marca en el bolsillo para monedas
-- 99 % algodón, 1 % elastano
 - Estos jeans azul claro con lavado a la piedra ofrecen una silueta ajustada con un corte estrecho en la parte trasera y el muslo
+- 99 % algodón, 1 % elastano
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FGJMVGYW{{</world>}}

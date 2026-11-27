@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Diseño moderno
-- Tejido elástico para mayor comodidad
 - Tiene detalles distintivos de la marca
+- Tejido elástico para mayor comodidad
 - Otorga libertad de movimientos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bolsillos: __ bolsillo para monedas con cremallera exterior
-- __Talla:__ Small [10.7 x 7.5 cm]
-- Etiqueta tejida
-- Ranuras interiores para tarjetas
 - Tejido: poliéster reciclado [600D], pana y lona de algodón
+- __Talla:__ Small [10.7 x 7.5 cm]
+- Ranuras interiores para tarjetas
+- Etiqueta tejida
+- Bolsillos: __ bolsillo para monedas con cremallera exterior
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FCFY22B2{{</world>}}

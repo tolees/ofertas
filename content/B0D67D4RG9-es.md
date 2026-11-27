@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Bolsillos laterales
-- Con un logotipo en contraste en la pierna
 - Longitud más larga, generalmente llega a la mitad del muslo o la rodilla
+- Con un logotipo en contraste en la pierna
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D67D4RG9{{</world>}}

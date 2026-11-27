@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cómodos de llevar
 - Pantalones cortos deportivos
 - Producto de la marca Joma
+- Cómodos de llevar
 - Material de calidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

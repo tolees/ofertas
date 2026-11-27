@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Espejo incorporado para retoques durante todo el día
-- Color intenso
 - Aplicación de tacto de seda creando una película fina y cómoda
 - Respeta la luminosidad del color
+- Espejo incorporado para retoques durante todo el día
+- Color intenso
 - Nueva fórmula Best in class: formulación altamente avanzada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

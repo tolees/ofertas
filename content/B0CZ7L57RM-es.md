@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cintura elástica con cordón
+- Bolsillos laterales con cremallera
 - Corte clásico
 - Puños con cordón elástico ajustable
-- Bolsillos laterales con cremallera
 - 87% poliéster (reciclado) / 13% elastano
+- Cintura elástica con cordón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CZ7L57RM{{</world>}}

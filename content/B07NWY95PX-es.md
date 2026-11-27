@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Diseño ligero que ofrece comodidad
-- Adecuado para correr o para cualquier otra actividad deportiva
 - Cintura elástica ajustable
+- Adecuado para correr o para cualquier otra actividad deportiva
 - Modelo con un diseño simple
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

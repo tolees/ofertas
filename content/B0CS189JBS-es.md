@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillos con ribete en la cintura, botón a presión oculto
 - Cierre de cremallera
 - Ribete elástico en las mangas y el bajo
+- Bolsillos con ribete en la cintura, botón a presión oculto
 - Capucha desmontable con la parte delantera alzada y cordones ajustables
 - Trabilla para colgarla en el interior
 

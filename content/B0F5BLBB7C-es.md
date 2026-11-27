@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ideal para niños deportistas y activos.
 - parte superior de malla colorida y transpirable
 - Amortiguación ligera AMPLIFOAM
 - Cierre de velcro y cordones elásticos
+- Ideal para niños deportistas y activos.
 - Diseño vibrante inspirado en el triatlón
 
 [🛒 Visítala!!!]({{< param buyurl >}})

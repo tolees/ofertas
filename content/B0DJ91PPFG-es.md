@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cierre con cordón
+- Parte superior textil
 - Ancho normal
 - Detalles de la marca PUMA
-- Parte superior textil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJ91PPFG{{</world>}}

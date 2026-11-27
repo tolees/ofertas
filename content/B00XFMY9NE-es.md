@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hellmann s Gran Mayonesa en Tarro pack 2 x 450 ml'
-date: 2026-11-23 22:21:15
+date: 2026-11-26 11:38:34
 image: 'https://m.media-amazon.com/images/I/41nkEQTXXXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XFMY9NE/?tag=tolees-21'
 descuento: '37.29'
-average: '4.6704347826086909'
+average: '4.592799999999996'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estación: Verano
-- Si no sabes cuál es tu talla, te recomendamos: Selecciona tu talla habitual
-- Disfruta De Los Mejores Zapatos De La Marca: Pepe Jeans
-- Composición Exterior:
 - Composición Interior: Textil
+- Estación: Verano
+- Disfruta De Los Mejores Zapatos De La Marca: Pepe Jeans
+- Si no sabes cuál es tu talla, te recomendamos: Selecciona tu talla habitual
+- Composición Exterior:
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B098FG49DY{{</world>}}

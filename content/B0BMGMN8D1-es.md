@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La chaqueta jean original diseñada con una artesanía ior y un cómodo forro sherpa
 - Botones metálicos con la marca de Levi’s y costuras entalladas en “V” que la hacen inmediatamente reconocible
+- La chaqueta jean original diseñada con una artesanía ior y un cómodo forro sherpa
 - Este básico emblemático sienta igual de bien a todo el mundo, incluso en tallas o pequeñas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

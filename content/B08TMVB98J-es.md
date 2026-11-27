@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ajuste: Slim Fit
-- Modelo clásico de 5 bolsillos
-- Cierre: botones
 - Una pieza fresca de verano para cualquier hombre, los pantalones cortos para hombre con aspecto vaquero
+- Modelo clásico de 5 bolsillos
 - Material elástico
+- Cierre: botones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08TMVB98J{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Con cuello redondo, corte regular
 - BOSS Camiseta para hombre Mix & Match
 - De algodón producido de forma responsable
 - Lavable a máquina a 40 °C, apto para secadora
 - BOSS Logotipo bordado en el pecho
-- Con cuello redondo, corte regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C3MZB3XV{{</world>}}

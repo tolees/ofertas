@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Gorro de punto
-- Pernera enrollable
 - Gorro cálido
+- Pernera enrollable
+- Gorro de punto
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00JL8HRSA{{</world>}}

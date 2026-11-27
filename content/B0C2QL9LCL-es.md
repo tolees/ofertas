@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Horma clásica
+- Mediasuela de EVA ligera
 - Cierre de cordones
 - Forro textil
-- Mediasuela de EVA ligera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C2QL9LCL{{</world>}}

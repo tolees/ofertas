@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chicco Bebé-Niños Set 2 Peleles | con Pies Integrados de Algodón NOS 2'
-date: 2026-11-20 15:06:42
+date: 2026-11-26 07:41:45
 image: 'https://m.media-amazon.com/images/I/31A0YG3xECL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

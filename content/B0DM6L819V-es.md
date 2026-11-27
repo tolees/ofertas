@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Puntera reforzada
 - Cierre con cordones
 - Parte superior en ante y nailon
+- Puntera reforzada
 - Tobillo y lengüeta acolchados
 - Con detalles distintivos de la marca
 

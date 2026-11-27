@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño de los años 70 con un toque moderno
-- Empeine de gamuza/malla.
 - Cierre con cordones para un ajuste seguro.
+- Empeine de gamuza/malla.
+- Diseño de los años 70 con un toque moderno
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09K4RVYLR{{</world>}}

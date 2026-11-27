@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material exterior: Sintético
 - Tacón: Plano
 - Tipo de cierre: Velcro
+- Material exterior: Sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08X1HJ53Y{{</world>}}

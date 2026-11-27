@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto de calidad
 - Marca: Playgro
+- Producto de calidad
 - Familia de patos de goma, resistente al agua, sin suciedad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

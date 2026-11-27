@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rowenta Intense Comfort Calefactor 2000 W de potencia SO2350 | Bajo consumo silencioso apagado automático 2 Modos Eco/Turbo Calienta hasta 35m Uso sencillo a diario Color: Negro'
-date: 2026-11-25 16:54:31
+date: 2026-11-27 10:48:47
 image: 'https://m.media-amazon.com/images/I/41uVSfVjbOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FGXYSTLD/?tag=tolees-21'
 descuento: '40.47'
-average: '50.157000000000004'
+average: '49.655454545454546'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

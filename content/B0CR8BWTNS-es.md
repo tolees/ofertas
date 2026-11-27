@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre: cremallera y botón
 - Jeans Pantalones Largos
-- Ajuste: llamarada
+- Cierre: cremallera y botón
 - Instrucciones de cuidado: lavable a máquina
 - Composición: 80 por ciento de algodón 18 por ciento de poliéster y 2 por ciento de elastano
+- Ajuste: llamarada
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CR8BWTNS{{</world>}}

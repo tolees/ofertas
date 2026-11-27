@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Largo/talla : Corto
+- Manga : Manga larga
 - Artículo : Chaqueta softshell
+- Modo de vida : Al aire libre
+- Bolsillos : Bolsillo en el pecho con cierre de cremallera, Bolsillos frontales con cierre de botón
+- Puños : Puños acanalados
 - Cuello : Cuello levantado
 - Detalles : Insignia
-- Manga : Manga larga
-- Bolsillos : Bolsillo en el pecho con cierre de cremallera, Bolsillos frontales con cierre de botón
-- Modo de vida : Al aire libre
-- Puños : Puños acanalados
-- Largo/talla : Corto
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F444YZGM{{</world>}}

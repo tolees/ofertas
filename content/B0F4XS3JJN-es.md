@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Largo normal
 - Tecnología CLIMACOOL
-- 100% poliéster (100% reciclado)
-- Confección en tejido técnico
 - Logotipo reflectante de Performance
 - Cierre de cremallera y capucha ajustable
+- Confección en tejido técnico
+- Largo normal
 - Bolsillo con cremallera para teléfono
+- 100% poliéster (100% reciclado)
 - Costuras Formotion
 - Corte clásico
 

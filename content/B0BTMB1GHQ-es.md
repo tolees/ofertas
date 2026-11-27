@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Modo de empleo: Aplicar sobre la piel limpia de rostro, cuello y escote. Masajear con la yema de los dedos hasta su completa absorción. Uso diario día y noche
-- El Tripéptido permite inhibir las contracciones musculares en el rostro causantes de las arrugas
 - Sérum Total Effect con efecto antiedad global, que difumina visiblemente las arrugas y relaja el rostro. Ideal para pieles maduras
 - Formulado con Tripéptido, que proporciona un efecto antiedad global, difuminando las arrugas, suavizando las líneas de expresión y suavizando el rostro
+- Modo de empleo: Aplicar sobre la piel limpia de rostro, cuello y escote. Masajear con la yema de los dedos hasta su completa absorción. Uso diario día y noche
 - Con este sérum 100% vegano notarás una acción rejuvenecedora en tu piel. Además, está dermatológica y oftalmológicamente testado
+- El Tripéptido permite inhibir las contracciones musculares en el rostro causantes de las arrugas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BTMB1GHQ{{</world>}}

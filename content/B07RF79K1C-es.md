@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pintar y dormir la misma noche.
-- Pintura ecológica.
-- Gran rendimiento más de 10 metros cuadrados por litro y mano.
 - Acabado mate muy lavable
+- Pintura ecológica.
 - Interior
+- Pintar y dormir la misma noche.
+- Gran rendimiento más de 10 metros cuadrados por litro y mano.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07RF79K1C{{</world>}}

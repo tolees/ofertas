@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Poliéster 100 %
-- Corte normal
 - Logotipo del PUMA estampado por transferencia de calor en la pierna izquierda
 - Cinturilla elástica con cordón de ajuste
 - dryCELL: La denominación de PUMA para las propiedades repelentes de la humedad que ayudan a que la piel permanezca seca y cómoda
+- Poliéster 100 %
+- Corte normal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08Z2VCB11{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cordón en la cintura elástica
 - Ajuste regular y relación calidad-precio
+- Cordón en la cintura elástica
 - Material muy cómodo, ligero, de secado rápido y duradero
 
 [🛒 Comprar!!!]({{< param buyurl >}})

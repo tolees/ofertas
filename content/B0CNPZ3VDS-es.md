@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Batería muy versátil: el portamanguera está equipado con una batería POWER FOR ALL de 18 V, que es compatible con este producto y con productos de otras marcas
 - Enrollado automático: gracias a la batería, la manguera de 35 m se retrae automáticamente con pulsar un botón; RollControl+ y la guía de la manguera garantizan una recogida controlada y sin nudos
 - Cómodo y sencillo: gracias a la construcción compacta y con giro de 180° para el montaje en la pared, ya no es necesario agacharse, ensuciarse las manos ni esforzarse para regar
 - Contenido del producto: 1 Portamanguera de pared con batería PowerRoll XL listo para usar Gardena, incl. 1 Manguera de calidad Gardena de 35 m y 13 mm (1/2"), 1 Batería de sistema P4A PBA 18V/45 incl. cargador P4A AL 1810 CV, 1 Manguera de conexión, Piezas del Original Gardena System (conector de grifo, conector de manguera, tope de agua) y 1 Pistola de limpieza, 1 Soporte de pared con tornillos y ayuda para el montaje
+- Batería muy versátil: el portamanguera está equipado con una batería POWER FOR ALL de 18 V, que es compatible con este producto y con productos de otras marcas
 - Material resistente a la intemperie: el almacenamiento de la manguera puede permanecer montado todo el año en la pared exterior, los materiales son resistentes a los rayos UV y a las heladas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

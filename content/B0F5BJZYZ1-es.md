@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ideal para correr y caminar
 - Parte superior de malla ligera y transpirable.
 - AMPLIFOAM mejorado para mayor comodidad
+- Ideal para correr y caminar
 - GEL en el talón para absorción de impactos
 - Suela duradera para entrenamientos diarios.
 

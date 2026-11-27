@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Pantalón largo
 - Composición: 60 por ciento de algodón 38 por ciento de poliéster y 2 por ciento de elastano
 - Ajuste: corte regular
-- Pantalón largo
-- Instrucciones de cuidado: lavable a máquina
 - Cierre: cremallera y botón
+- Instrucciones de cuidado: lavable a máquina
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CRFBSV9R{{</world>}}

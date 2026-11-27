@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CORRECTOR DE LARGA DURACIÓN: Testado bajo control oftalmológico, disimula las ojeras y unifica el tono para un resultado óptimo y de larga duración. Es una prebase de maquillaje ideal para tu rutina de belleza.
 - LANCÔME, LA MARCA FRANCESA DEL BIENESTAR DESDE 1935: Desde 1935, Lancôme ofrece una amplia gama de productos para una rutina de belleza óptima y adaptada a tus necesidades. Descubre todas sus gamas de maquillaje, perfumes y tratamientos en su tienda online.
+- CORRECTOR DE LARGA DURACIÓN: Testado bajo control oftalmológico, disimula las ojeras y unifica el tono para un resultado óptimo y de larga duración. Es una prebase de maquillaje ideal para tu rutina de belleza.
+- TRATAMIENTO ANTIOJERAS E IMPERFECCIONES: Las imperfecciones de la piel se disimulan con Effacernes Longue Tenue, el corrector de ojos de larga duración de Lancôme. Este tratamiento antiojeras también ayuda a unificar el tono para una piel visiblemente calmada.
 - CONSEJOS DE USO: Aplica el corrector evitando el extremo exterior del ojo y la línea de las pestañas para no empequeñecer la mirada. El contorno de ojos queda así más liso. Aplica el corrector sobre el puente de la nariz y las imperfecciones. Difumina con los dedos o con pincel. Utilizar solo o junto con la base de maquillaje.
 - FÓRMULA COMPLETA: Gracias a su fórmula con microdifusores de luz, Effacernes disimula ojeras, líneas finas y sombras bajo los ojos para crear un tono uniforme. También contiene extractos de aciano y camomila con propiedades calmantes y suavizantes.
-- TRATAMIENTO ANTIOJERAS E IMPERFECCIONES: Las imperfecciones de la piel se disimulan con Effacernes Longue Tenue, el corrector de ojos de larga duración de Lancôme. Este tratamiento antiojeras también ayuda a unificar el tono para una piel visiblemente calmada.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01B1WALU4{{</world>}}

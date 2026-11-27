@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Impresión completa
-- Aberturas en la parte inferior en ambos lados
 - Cremallera trasera
+- Aberturas en la parte inferior en ambos lados
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BHWFKGXF{{</world>}}

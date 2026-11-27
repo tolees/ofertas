@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño desenfadado
 - Cuello redondo
 - Este vestido corto tiene un diseño atemporal y es muy cómodo
+- Diseño desenfadado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4NWTKNL{{</world>}}

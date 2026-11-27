@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Malla transpirable y parte superior de TPU
+- La lengüeta de burrito envuelve el pie para mejorar un ajuste natural y la construcción Merrell Barefoot 2 está diseñada para mantener el pie en una posición natural
 - La suela Vibram TC5+ proporciona una tracción excepcional para actividades multideportivas al aire libre, formulada exclusivamente para Merrell
+- Malla transpirable y parte superior de TPU
 - Cordones 100% reciclados, forro de malla transpirable y plantilla de malla
 - Plantilla de espuma EVA integrada 30% reciclada y entresuela FloatPro Foam para una comodidad ligera que dura
-- La lengüeta de burrito envuelve el pie para mejorar un ajuste natural y la construcción Merrell Barefoot 2 está diseñada para mantener el pie en una posición natural
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FBMNVT6G{{</world>}}

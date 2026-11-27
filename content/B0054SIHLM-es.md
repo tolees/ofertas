@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fabricado en francia
-- Facil de limpiar
 - 41cl
+- Facil de limpiar
 - No microondas
+- Fabricado en francia
 - Apto frigorífico
 
 [🛒 Comprar!!!]({{< param buyurl >}})

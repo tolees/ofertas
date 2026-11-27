@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Destaca por su elegante diseño
 - Con el monograma CK en la parte delantera
+- Destaca por su elegante diseño
 - Bolso para colgar al hombro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

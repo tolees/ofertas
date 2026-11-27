@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- - Cristal: Cristal Mineral
-- - Color de la caja: Plata
-- - Material de la Carcasa: Acero inoxidable
-- - Forma de la Carcasa: Redondo
 - Carcasa
+- - Color de la caja: Plata
+- - Cristal: Cristal Mineral
+- - Forma de la Carcasa: Redondo
+- - Material de la Carcasa: Acero inoxidable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09RKQ3H7R{{</world>}}

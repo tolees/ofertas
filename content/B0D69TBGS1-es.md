@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantilla estándar
 - Zapatillas deportivas
+- Plantilla estándar
 - Calzado para hombre
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

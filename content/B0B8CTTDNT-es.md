@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Sudadera polar de dos capas confeccionada 100% poliéster reciclado.
-- Bolsillo en el pecho en G-1000.
 - Exterior estructurado, interior de punto plano.
+- Bolsillo en el pecho en G-1000.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B8CTTDNT{{</world>}}

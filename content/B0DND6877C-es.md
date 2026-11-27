@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ligeras y flexibles y cómodas de 360 grados
 - Croslite Drop-in
+- Ligeras y flexibles y cómodas de 360 grados
 - Comodidad icónica de Crocs
 
 [🛒 Visítala!!!]({{< param buyurl >}})

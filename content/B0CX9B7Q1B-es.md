@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- TECNOLOGÍA SMOOTH & DRY: Su fórmula en aerosol, con tecnología Smooth & Dry, permite una fácil aplicación mientras deja la piel con una sensación suave y seca, ideal para uso diario y actividades como excursiones.
-- DE LA MARCA N.º 1 EN PROTECCIÓN CONTRA MOSQUITOS EN EUROPA: Con el respaldo del SC Johnson Center for Insect Science y más de 65 años de experiencia, Autan Family Care aprovecha este conocimiento para ofrecer protección a quienes buscan un repelente de mosquitos seguro.
 - DERMATOLÓGICAMENTE PROBADO: Autan Spray Protection Plus ha sido revisado y aprobado por la Skin Health Alliance. Puede aplicarse en adultos y niños mayores de 12 años.
-- PROTECCIÓN COMPLETA CONTRA INSECTOS TODOS LOS DÍAS: Autan Multi-insect Spray Seco es el repelente adecuado para una protección total contra las picaduras de insectos. Fórmula probada y eficaz contra mosquitos comunes, tigre, garrapatas y tábanos. Gracias a su fórmula que forma una barrera protectora sobre la piel, Autan te mantiene protegiendo de Mosquitos asociados a los virus Zika, Dengue, Fiebre Amarilla, Chikungunya, Nilo Occidental y Malaria.
+- DE LA MARCA N.º 1 EN PROTECCIÓN CONTRA MOSQUITOS EN EUROPA: Con el respaldo del SC Johnson Center for Insect Science y más de 65 años de experiencia, Autan Family Care aprovecha este conocimiento para ofrecer protección a quienes buscan un repelente de mosquitos seguro.
+- TECNOLOGÍA SMOOTH & DRY: Su fórmula en aerosol, con tecnología Smooth & Dry, permite una fácil aplicación mientras deja la piel con una sensación suave y seca, ideal para uso diario y actividades como excursiones.
 - PROTECCIÓN PROLONGADA: El spray seco Autan Multi Insectos proporciona hasta 8 horas de protección contra mosquitos. Tendrás protección contra insectos hagas lo que hagas: una salida de camping, un paseo alrededor del lago o incluso unas bebidas al aire libre con amigos en verano.
+- PROTECCIÓN COMPLETA CONTRA INSECTOS TODOS LOS DÍAS: Autan Multi-insect Spray Seco es el repelente adecuado para una protección total contra las picaduras de insectos. Fórmula probada y eficaz contra mosquitos comunes, tigre, garrapatas y tábanos. Gracias a su fórmula que forma una barrera protectora sobre la piel, Autan te mantiene protegiendo de Mosquitos asociados a los virus Zika, Dengue, Fiebre Amarilla, Chikungunya, Nilo Occidental y Malaria.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CX9B7Q1B{{</world>}}

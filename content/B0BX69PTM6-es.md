@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior de punto diseñada
 - Suela de tracción flexible
+- Parte superior de punto diseñada
 - Plantilla acolchada y cómoda
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

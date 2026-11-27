@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Capacidad de la copa: xxx cl.
-- En el pack encontramos un espacio para escribir una dedicatoria a mamá, aumentando así la experiencia regalo.
 - Set compuesto por una copa de vino de vidrio y una taza de cerámica, ambas con mensaje dirigido a madres.
+- Capacidad de la copa: xxx cl.
 - Indicaciones: la taza es apta para microondas. Se recomienda lavar a mano tanto la taza como la copa, para que su diseño se mantenga perfecto.
+- En el pack encontramos un espacio para escribir una dedicatoria a mamá, aumentando así la experiencia regalo.
 - Capacidad de la taza: xxx cl.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta clásica con diseño gráfico
+- Cuello redondo
 - 100% algodón
 - Corte casual
 - Con nuestro diseño vintage Batwing
-- Cuello redondo
+- Camiseta clásica con diseño gráfico
 - Lavable a máquina
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Caramelos grageados Deliciosas piezas en forma de cápsula Irresistible sabor a regaliz
 - HARIBO ESPANA S.A.U, Ctra. Girona-Banyoles, KM 14 - 17844 Cornella del Terri (Girona) Espana
+- Caramelos grageados Deliciosas piezas en forma de cápsula Irresistible sabor a regaliz
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CB8XKXJ7{{</world>}}

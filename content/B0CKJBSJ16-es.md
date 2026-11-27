@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Puma Formstrip en el lateral
 - Puma No 2 logo en el lateral
 - Puma Archivo # 1 logo en la pestaña
-- Puma Formstrip en el lateral
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKJBSJ16{{</world>}}

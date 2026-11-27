@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste ajustable 9FORTY
-- Corona de poliéster contorneada en azul del equipo
-- Bandera negra de New Era bordada en el lado izquierdo
 - Correa de velcro ajustable con etiqueta tejida en la parte trasera
+- Ajuste ajustable 9FORTY
+- Bandera negra de New Era bordada en el lado izquierdo
+- Corona de poliéster contorneada en azul del equipo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BWK9LZZN{{</world>}}

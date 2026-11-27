@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Densifica y tonifica el cabello sin aportar peso, hidrata y reequilibra desde las raíces hasta las puntas
 - Mascarilla en gel ligera que corporiza el pelo fino para facilitar el desenredado además de obtener más densidad. Puede aplicarse desde el cuero cabelludo para una sensación de hidratación y elasticidad. El pelo queda con volumen y ligereza.
+- Densifica y tonifica el cabello sin aportar peso, hidrata y reequilibra desde las raíces hasta las puntas
 - Utilizar después del champú Bain Densité Femme Densifique. Retirar el exceso de agua y aplicar sobre el cabello. Repartir de medios a puntas, evitando las raíces. Dejar actuar 5-10 minutos. Emulsionar. Aclarar abundantemente con agua
 
 [🛒 Aquí!!!]({{< param buyurl >}})

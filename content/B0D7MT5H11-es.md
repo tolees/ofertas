@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Nike FQ1833-003 Air MAX Alpha Trainer 6 Hombre Black/Anthracite-Black EU 43'
-date: 2026-11-18 21:33:05
-image: 'https://m.media-amazon.com/images/I/31uFkvFdbdL._SL500_._SL400_.jpg'
+title: 'NIKE Air MAX Alpha Trainer 6 Hombre Workout Shoes Negro 43'
+date: 2026-11-26 08:09:02
+image: 'https://m.media-amazon.com/images/I/31maz8B0R2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0D7MT5H11-es Nike FQ1833-003 Air MAX Alpha Trainer 6 Hombre...'
+slug: 'B0D7MT5H11-es NIKE Air MAX Alpha Trainer 6 Hombre Workout Shoes Negro 43'
 sku: 'B0D7MT5H11-es'
 tags: [ '🇪🇸', ]
 actualPrice: 53.99 EUR
 currency: EUR
 price: 53.99
 comparePrice: 89.99 EUR
-prodname: 'Nike FQ1833-003 Air MAX Alpha Trainer 6 Hombre Black/Anthracite-Black EU 43'
+prodname: 'NIKE Air MAX Alpha Trainer 6 Hombre Workout Shoes Negro 43'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0D7MT5H11/?tag=tolees-21'
 descuento: '40.00'
-average: '63.707272727272745'
+average: '62.897500000000022'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

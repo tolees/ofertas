@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parka funcional con capucha ajustable con cremallera
-- ajuste lateral de la cintura, cremallera de 2 vías
-- Impregnación sin PFA, buena para usted y el medio ambiente
 - 10.000 mm de columna de agua, costuras selladas, impermeable
+- ajuste lateral de la cintura, cremallera de 2 vías
+- Parka funcional con capucha ajustable con cremallera
+- Impregnación sin PFA, buena para usted y el medio ambiente
 - Transpirable (3.000 g/m²/24 h), cortaviento
 
 [🛒 Comprar!!!]({{< param buyurl >}})

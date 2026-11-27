@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte clásico recto más estrecho en las piernas
-- Dos bolsillos con ribete cilíndrico y solapa En La parte trasera
 - Bolsillo lateral en la parte delantera
 - Cintura fija con cierre de cremallera y botón
+- Corte clásico recto más estrecho en las piernas
+- Dos bolsillos con ribete cilíndrico y solapa En La parte trasera
 - Longitud 53.3 cm - corto
 
 [🛒 Aquí!!!]({{< param buyurl >}})

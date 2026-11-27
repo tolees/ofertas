@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Esmalte de uñas resistente a roturas
 - Tono marrón oscuro
 - Aplicación fácil
-- Manicura con hasta 7 días de duración
 - Acabado brillante y uniforme
 - Utiliza tu tono favorito con el Base Coat y Top Coat OPI Nail Lacquer
 - Resultados profesionales
+- Esmalte de uñas resistente a roturas
+- Manicura con hasta 7 días de duración
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B092K7WHQV{{</world>}}

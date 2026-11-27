@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material : piel
 - deportivo con metalizado y brillos
 - plantilla extraíble y acolchada
+- Material : piel
 - forro transpirable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

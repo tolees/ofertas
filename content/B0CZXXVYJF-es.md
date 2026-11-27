@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dobladillo trasero ligeramente más largo
+- 100% algodón
+- Corte clásico
 - Costuras laterales abiertas
 - Contiene al menos un 70% de material reciclado y renovable
-- 100% algodón
+- Dobladillo trasero ligeramente más largo
 - Cuello de polo con dos botones
-- Corte clásico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZXXVYJF{{</world>}}

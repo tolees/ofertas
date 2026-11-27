@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Color: claro, rosa brillante con reflejos violetas. Nariz: aparece con gran sutileza, fresco con aromas de pequeños frutos rojos y frutas exóticas. Boca: goloso y redondo con aromas de bayas silvestres. Una maravillosa complejidad aromática apuntalada por una fina frescura. Temperatura de servicio: de 8 a 10 °C.
 - Región: vino rosado del Valle del Loira. Variedad de uva: Cabernet Franc.
 - Plessis-Duval expresa toda la dulzura del Valle del Loira en este Cabernet dAnjou afrutado y elegante.
-- Color: claro, rosa brillante con reflejos violetas. Nariz: aparece con gran sutileza, fresco con aromas de pequeños frutos rojos y frutas exóticas. Boca: goloso y redondo con aromas de bayas silvestres. Una maravillosa complejidad aromática apuntalada por una fina frescura. Temperatura de servicio: de 8 a 10 °C.
 - Maridaje: perfecto para todas las ocasiones de degustación, desde barbacoas a bufés, sin olvidar los picnics. Un acompañamiento ideal para aperitivos, ensaladas de verano, postres y macedonias
 - Formato Bag in Box (o BIB) de 3 litros: a diferencia del cubi, puede conservarse hasta 8 semanas después de su apertura, lo que permite consumir el Plessis-Duval Cabernet dAnjou en diferentes momentos.
 

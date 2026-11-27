@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Bolsillos ocultos
+- 3 bandas inclinadas
 - 100% poliéster (100% reciclado)
 - Bolsillo trasero con cremallera
-- 3 bandas inclinadas
 - Tecnología CLIMA365
 - Cordón
-- Bolsillos ocultos
 - Corte clásico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

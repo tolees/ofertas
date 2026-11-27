@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Producto presentado en un inconfundible estuche de regalo Parker
 - Cuerpo lacado en azul mate Primrose, inspirado en Londres
-- Este bolígrafo ligero y simplificado cuenta con un diseño retráctil que permite su apertura con un característico clic
 - Equipado con tecnología de tinta Quinkflow para una escritura más fluida, limpia y homogénea
+- Este bolígrafo ligero y simplificado cuenta con un diseño retráctil que permite su apertura con un característico clic
 - El icónico bolígrafo Jotter con un cuerpo más grande, perfecto para todos aquellos que disfrutan de la comodidad que ofrece un bolígrafo de mayor tamaño
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Su tecnología DUALOCK se adhiere como un imán y se fija, formando un potente campo de fuerza de protección frente al desgaste.
 - Castrol MAGNATEC Hybrid ayuda a proteger frente a la casuística específica que suponen un reto en la lubricación de vehículos híbridos.
-- Castrol MAGNATEC Hybrid supera la especificación HYSPEC, el nuevo estándar de Castrol para evaluar el rendimiento de la lubricación en híbridos*.
+- Su tecnología DUALOCK se adhiere como un imán y se fija, formando un potente campo de fuerza de protección frente al desgaste.
 - Especificaciones: API SP ILSAC GF-6
+- Castrol MAGNATEC Hybrid supera la especificación HYSPEC, el nuevo estándar de Castrol para evaluar el rendimiento de la lubricación en híbridos*.
 - *A través de áreas críticas de contaminación, intermitencia de funcionamiento del motor y eficiencia del sistema.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

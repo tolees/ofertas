@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Suela de tracción flexible
 - Skechers Plantilla cómoda de espuma viscoelástica refrigerada por aire
 - Entresuela de airbag visible Skech-Air
-- Suela de tracción flexible
 - Diseño clásico de tenis de moda con cordones
 - Parte superior Durabuck con ribete de gamuza en el talón
 

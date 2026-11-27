@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro textil y sintético
+- Amortiguación Lightstrike
 - Empeine textil y sintético
-- Drop: 6,5 mm (talón: 34,9 mm / antepié: 28,4 mm)
+- Cierre de cordones
 - Peso: 270 g (talla 42 2/3)
 - Horma clásica
-- Amortiguación Lightstrike
-- Cierre de cordones
+- Drop: 6,5 mm (talón: 34,9 mm / antepié: 28,4 mm)
 - Suela de goma y TPU para todo tipo de superficies
 - Contiene al menos un 20% de material reciclado
+- Forro textil y sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHGVSV6Y{{</world>}}

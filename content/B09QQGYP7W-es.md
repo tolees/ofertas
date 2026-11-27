@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Extras: por defecto
-- Marca: Under Armour
 - Bajos de pierna: estrechos
+- Marca: Under Armour
+- Extras: por defecto
 - Género: Pantalones
 - Forro: por defecto
 

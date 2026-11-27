@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Turtle Beach Rematch Mando inalámbrico Nintendo Switch 2 Lite | Negro/rojo Nintendo Switch OLED palancas TMR bat. recargable 40 h 2 botones traseros asignables controles de movimiento'
-date: 2026-11-25 13:11:56
+date: 2026-11-27 06:21:29
 image: 'https://m.media-amazon.com/images/I/31qsNh75xrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

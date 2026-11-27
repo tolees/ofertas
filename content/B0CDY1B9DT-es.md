@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye 250 bolas
-- Juego de pelotas
 - Colores surtidos
+- Juego de pelotas
+- Incluye 250 bolas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CDY1B9DT{{</world>}}

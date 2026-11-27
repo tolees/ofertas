@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Collab
-- Goldcrown
 - Espuma viscoelástica refrigerada por aire
 - Skech-Air
+- Collab
+- Goldcrown
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DW9GFTG2{{</world>}}

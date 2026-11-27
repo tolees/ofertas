@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo de la marca
 - Bragueta con botón y cremallera
 - Estilo de cinco bolsillos
+- Logotipo de la marca
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C5DBMWBV{{</world>}}

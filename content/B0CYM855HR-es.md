@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cordones elásticos con correa superior autoadherente
+- Forro textil
 - Empeine textil
 - Horma clásica
-- Forro textil
-- Cordones elásticos con correa superior autoadherente
 - Forro textil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

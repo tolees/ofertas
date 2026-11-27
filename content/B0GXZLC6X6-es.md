@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tapas de plástico; extra ligeras y resistentes
+- Distribución: Día página
 - A juego con los cuadernos y carpetas de la gama Live & Go
 - 2 Hojas de pegatinas para poder personalizar la agenda
 - Compatible con Scribzee para sincronizar tus citas y deberes con tu teléfono
-- Distribución: Día página
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GXZLC6X6{{</world>}}

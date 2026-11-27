@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Plantilla extraíble
-- Calzado fácil de poner
 - Cinta adhesiva única
+- Calzado fácil de poner
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C66K51ZM{{</world>}}

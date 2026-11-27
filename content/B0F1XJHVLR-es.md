@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Empeine textil
 - Mediasuela REPETITOR
+- Empeine textil
 - Forro textil
-- Horma clásica
-- Suela de goma
 - Cierre de cordones
+- Suela de goma
+- Horma clásica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F1XJHVLR{{</world>}}

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Puños de canalé
-- 55% algodón / 36% poliéster (reciclado) / 9% viscosa
 - Perneras ajustadas
 - Contiene al menos un 70% de material reciclado y renovable
+- 55% algodón / 36% poliéster (reciclado) / 9% viscosa
 - Corte clásico
 - Cierre de cordón
 

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Desigual
-- Manga: Larga
-- Cuello: Mao
-- Bolsillos delanteros
 - Color: Liso
 - Fit: Regular
+- Manga: Larga
+- Cuello: Mao
+- Desigual
+- Bolsillos delanteros
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DW9GJZT8{{</world>}}

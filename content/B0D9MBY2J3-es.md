@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Rueda de desplazamiento multifunción 4D con inclinación | Precisión dinámica con sensor óptico con 26 000 ppp/650 pps (16,5 m/s)
 - Iluminación RGB AIMO programable de tres zonas | Cable trenzado USB-A PhantomFlex sin arrastres
-- Resistencia de los interruptores de larga duración: 100 millones de clics | Deslizamientos de PTFE puro con tratamiento de calor para dar movimientos suaves
 - Botones pretensados para hacer clic suaves y rápidos | Interruptores ópticos TITAN para darte una sensación táctil con velocidad óptica
+- Resistencia de los interruptores de larga duración: 100 millones de clics | Deslizamientos de PTFE puro con tratamiento de calor para dar movimientos suaves
 - Forma ergonómica para manos medianas y grandes y para todo tipo de agarres. | Diseño de múltiples botones con 23 funciones programables
 
 [🛒 Aquí!!!]({{< param buyurl >}})

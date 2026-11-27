@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Exterior: 100% poliéster (reciclado); Interior: 100% poliéster (reciclado)
-- Dobladillo con cordón elástico ajustable
 - Cierre de cremallera, cuello alto y capucha
+- Exterior: 100% poliéster (reciclado); Interior: 100% poliéster (reciclado)
+- Bolsillos para las manos con cremallera
 - CLIMAPROOF
 - Corte clásico
-- Bolsillos para las manos con cremallera
+- Dobladillo con cordón elástico ajustable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D17QSRDZ{{</world>}}

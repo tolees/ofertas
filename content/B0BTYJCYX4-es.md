@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mediasuela de EVA
-- Suela Traxion
-- Plantilla OrthoLite
 - Plantilla Adifit que mide la longitud del pie para asegurar un ajuste perfecto
+- Plantilla OrthoLite
+- Mediasuela de EVA
 - Compra 1 talla más grande
+- Suela Traxion
 - El empeine contiene al menos un 50% de material reciclado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

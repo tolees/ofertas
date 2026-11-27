@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte clásico
-- Refuerzos en la sisa
-- Contiene al menos un 70 % de material reciclado y renovable
-- Factor de protección solar (FPS)
 - 100 % poliéster (71 % reciclado)
-- Freshrite Polygiene que evita el mal olor
 - CLIMACOOL
+- Freshrite Polygiene que evita el mal olor
 - Tecnología transpirable
+- Contiene al menos un 70 % de material reciclado y renovable
+- Refuerzos en la sisa
+- Factor de protección solar (FPS)
 - Media cremallera y cuello corto
+- Corte clásico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZ9H56WG{{</world>}}

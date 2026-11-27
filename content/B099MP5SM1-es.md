@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detalles distintivos de la marca
-- Mochila de diseño casual
 - Compartimento principal con cremallera y bolsillo frontal con cremallera
+- Mochila de diseño casual
+- Detalles distintivos de la marca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B099MP5SM1{{</world>}}

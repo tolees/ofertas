@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Disponen de una suave amortiguación
 - Con una plantilla cómoda
 - Presentan un estilo informal
+- Disponen de una suave amortiguación
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CKJ691W9{{</world>}}

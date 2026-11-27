@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sudadera con capucha desmontable
 - PEPE JEANS AMMY SHORT DULWICH Ladies XS
+- Sudadera con capucha desmontable
 - Estilo Puffer
 
 [🛒 Visítala!!!]({{< param buyurl >}})

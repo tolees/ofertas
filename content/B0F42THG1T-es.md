@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Elija su vehículo en el selector para comprobar su compatibilidad con el producto.
-- OSRAM Lámpara de mano
 - Lámpara De Taller, Linterna De Inspección, Linterna De Taller, Linterna De Mecánico, Lámpara Portátil Para Taller Mecánico, Lámpara De Inspección, Lámpara Para Taller Mecánico:
+- OSRAM Lámpara de mano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F42THG1T{{</world>}}

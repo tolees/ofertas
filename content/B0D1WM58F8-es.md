@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Diseño clásico de tenis de moda con cordones
-- Entresuela de airbag visible Skech-Air
 - Parte superior Durabuck con ribete de gamuza en el talón
+- Entresuela de airbag visible Skech-Air
 - Skechers Plantilla cómoda de espuma viscoelástica refrigerada por aire
 - Suela de tracción flexible
 

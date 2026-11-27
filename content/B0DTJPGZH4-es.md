@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Botín Dissy Etnic W fabricado en piel de ante de vaca con forro cálido y plantilla, costuras pesadas de contraste de color
-- Suela de plataforma y parche de goma con logotipo clásico en la parte posterior
 - 100% gamuza de vaca
+- Suela de plataforma y parche de goma con logotipo clásico en la parte posterior
+- Botín Dissy Etnic W fabricado en piel de ante de vaca con forro cálido y plantilla, costuras pesadas de contraste de color
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DTJPGZH4{{</world>}}

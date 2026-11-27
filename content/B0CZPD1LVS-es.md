@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Corte ajustado
-- Bolsillos laterales con cremallera
 - 87% poliéster (reciclado) / 13% elastano
 - Puños con cordón elástico ajustable
+- Bolsillos laterales con cremallera
 - Cintura elástica con cordón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

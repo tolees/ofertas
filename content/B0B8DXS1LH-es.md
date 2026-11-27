@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello alto y bien ajustado
 - 2 bolsillos laterales con cremallera
-- Secado rápido y transpirable
-- Contenido de poliéster reciclado
 - Forro polar Polartec Power Grid ligero y muy elástico con excelente gestión de la humedad
+- Cuello alto y bien ajustado
+- Contenido de poliéster reciclado
+- Secado rápido y transpirable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B8DXS1LH{{</world>}}

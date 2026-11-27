@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Fragancia fresca y floral
-- Para chicas dispuestas a revelar su belleza interior y a conseguir un equilibrio vital
 - Para hacerte sentir especial y con ganas de vivir la vida y divertirte
+- Para chicas dispuestas a revelar su belleza interior y a conseguir un equilibrio vital
 - Eau de Toilette 50 ml
 - Aroma con toques de magnolia y almizcle.
 

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dimensiones: 16,5 x 16,5 x 6 cm
-- Bolso bandolera infantil pequeño
 - Compartimento único y cierre con imán
+- Bolso bandolera infantil pequeño
 - Correa al hombro ajustable de 130 cm
 - Forro interior
+- Dimensiones: 16,5 x 16,5 x 6 cm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CNDFDMLV{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pintura acrilica
-- Colores surtidos
 - 6 botes
+- Colores surtidos
+- Pintura acrilica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00J4V73BA{{</world>}}

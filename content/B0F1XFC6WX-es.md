@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Empeine de nobuk sintético
-- La parte superior contiene al menos un 50% de material reciclado
 - Horma clásica
+- Empeine de nobuk sintético
 - Tirador de tela en el talón
-- Cierre de cordones
 - Suela de goma de aspecto vulcanizado
+- La parte superior contiene al menos un 50% de material reciclado
+- Cierre de cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F1XFC6WX{{</world>}}

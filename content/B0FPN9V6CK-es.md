@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko Pop! Football: Bayern Munich - Berni The Bear | Merchandising Oficial - Figura de Vinilo Coleccionable para Decoración - Regalo Friki de Cumpleaños'
-date: 2026-11-25 10:24:38
+date: 2026-11-26 12:39:25
 image: 'https://m.media-amazon.com/images/I/417MDN1qJxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

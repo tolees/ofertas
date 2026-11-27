@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bordado de G-STAR en el pecho
 - Cuello de polo
-- Cuello y puños acanalados
-- Proporciona comodidad
+- Bordado de G-STAR en el pecho
 - Aberturas laterales
+- Proporciona comodidad
+- Cuello y puños acanalados
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D8WNWZSF{{</world>}}

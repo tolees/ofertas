@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec Freidora de Aire con Cesta de Cristal Cecofry&Glass Crunchy M Plus | Cesta de Cristal Transparente Control Visibilidad 360º Pantalla Táctil Digital Programas Automáticos Cocinado Saludable'
-date: 2026-11-24 12:35:29
+date: 2026-11-26 08:59:39
 image: 'https://m.media-amazon.com/images/I/41t8QXRqTvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

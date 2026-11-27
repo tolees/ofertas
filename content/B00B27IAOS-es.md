@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Medidas: tamaño estándar
+- Descubre todas las marcas de EMP!
 - Pantalones cortos con las siguientes características:
 - Festival, Ropa casual, Ropa Rockera
-- Descubre todas las marcas de EMP!
-- Medidas: tamaño estándar
 - Pantalones cortos Vintage || Merch para fans y divertido || Patrón: Liso
 
 [🛒 Visítala!!!]({{< param buyurl >}})

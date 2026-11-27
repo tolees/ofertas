@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PROTECTOR SOLAR
 - Coche eléctrico infantil de 12 V con control remoto, 2,4 G, carga máxima de 50 kg, luces LED, bocina musical y funciones USB (gris)
+- PROTECTOR SOLAR
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F9P5HXLM{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 99 % algodón, 1 % elastano
 - Un clásico vaquero ajustado de cinco bolsillos
 - Es estrecho a través del asiento y el muslo para una silueta moderna
+- 99 % algodón, 1 % elastano
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FGJPYJ2P{{</world>}}

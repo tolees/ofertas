@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Eso significa que si uno establece un objetivo, ayudaremos a aplastarlo
 - Under Armour La misión es simple: hacer una mejor
+- Eso significa que si uno establece un objetivo, ayudaremos a aplastarlo
 - Puños acanalados, cuello y dobladillo inferior
 
 [🛒 Comprar!!!]({{< param buyurl >}})

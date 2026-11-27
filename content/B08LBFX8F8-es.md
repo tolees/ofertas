@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sin olor.
+- Uso interior y exterior.
 - Certificado de uso en juguetes.
 - Multisuperficie: madera, cartón, escayola, papel, cartón, lienzo y otros soportes porosos.
-- Uso interior y exterior.
 - Pintura al agua permanente adecuada para trabajos de artesanía y manualidades.
+- Sin olor.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08LBFX8F8{{</world>}}

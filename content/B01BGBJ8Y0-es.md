@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Webcam HD Logitech C270 720p/30fps Micro con Reducción de Ruido - Negro | Llamadas de vídeo panorámicas Corrección automática de luz Clip universal USB PC/Mac/Portátil/Chromebook'
-date: 2026-11-20 13:39:13
+date: 2026-11-27 12:12:22
 image: 'https://m.media-amazon.com/images/I/31t43eeYL3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BGBJ8Y0/?tag=tolees-21'
 descuento: '57.16'
-average: '21.8197142857145'
+average: '21.692056074766565'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

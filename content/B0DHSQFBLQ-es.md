@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela Sprintplate 360 para césped natural seco / multisuperficie
 - Horma clásica
-- Empeine HybridTouch
 - Forro textil
+- Suela Sprintplate 360 para césped natural seco / multisuperficie
+- Empeine HybridTouch
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHSQFBLQ{{</world>}}

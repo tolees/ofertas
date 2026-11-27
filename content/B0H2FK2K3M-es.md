@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Medidas y montaje (AnchoxProfxAlto): 715,5 x 205,8 x 450,5 mm con peana y 715,5 x 69,6 x 425 mm sin peana; VESA 100 x 100 para pared.
-- CONECTIVIDAD COMPLETA PARA EL HOGAR: 4 HDMI 2.1 compatibles con VRR, ALLM y eARC, 2 USB 2.0, WiFi 5, Bluetooth 5.1, Ethernet LAN, salida de auriculares, entrada compuesta e interfaz CI
 - PANTALLA FULL HD CON HDR10: Disfruta de una calidad de imagen clara y detallada con resolución Full HD, mejorada con la tecnología HDR10 para colores más vivos y un contraste superior.
 - GOOGLE TV CON CHROMECAST INTEGRADO: Accede a tus apps, series, películas y contenidos favoritos sin depender de dispositivos externos.
 - CADA SONIDO PERFECTAMENTE EQUILIBRADO: Siente cada sonido gracias a la tecnología Dolby Audio, que crea una atmósfera envolvente para una experiencia auditiva inmersiva en películas, series y videojuegos.
+- Medidas y montaje (AnchoxProfxAlto): 715,5 x 205,8 x 450,5 mm con peana y 715,5 x 69,6 x 425 mm sin peana; VESA 100 x 100 para pared.
+- CONECTIVIDAD COMPLETA PARA EL HOGAR: 4 HDMI 2.1 compatibles con VRR, ALLM y eARC, 2 USB 2.0, WiFi 5, Bluetooth 5.1, Ethernet LAN, salida de auriculares, entrada compuesta e interfaz CI
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0H2FK2K3M{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 82 % poliéster (reciclado), 18 % elastano
 - Corte clásico
+- 82 % poliéster (reciclado), 18 % elastano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DJFNT8HW{{</world>}}

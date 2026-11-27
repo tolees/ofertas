@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MÁS VISIÓN, MÁS INFORMACIÓN, MÁS PROTECCIÓN: Guarda los vídeos durante más de 180 días para volver a verlos cuando quieras, recibe alertas cuando se detectan personas y mucho más con un plan Ring Home (vendido por separado).
-- OBTÉN UNA ALIMENTACIÓN CONSTANTE: la Cámara exterior Plus se conecta al cableado a través de una conexión Power-Over-Ethernet fiable y te ofrece una alimentación constante para proteger tu hogar.
-- PONLA DONDE MÁS LA NECESITES: Colócala sobre una mesa, o instálala en la pared o en el techo con el soporte incluido, y escoge entre varias opciones de alimentación.
-- NO PASES POR ALTO LOS DETALLES QUE IMPORTAN: Observa cada detalle en 2K con total claridad y con la mejor calidad de imagen de Ring.
 - CONÉCTALA A ALEXA: Escucha notificaciones personalizadas en dispositivos Echo Dot, ve las imágenes que capta la cámara en dispositivos Echo Show y disfruta de las posibilidades que te brindan el combinar la monitorización del hogar con el control por voz de dispositivos con Alexa compatibles.
 - VISIBILIDAD DEL ATARDECER AL AMANECER: Colores y detalles en 2K prácticamente a oscuras gracias a la visión con poca luz. Basta con un punto de luz cercano en la calle para tener una visión clara y en color a cualquier hora.
+- PONLA DONDE MÁS LA NECESITES: Colócala sobre una mesa, o instálala en la pared o en el techo con el soporte incluido, y escoge entre varias opciones de alimentación.
+- OBTÉN UNA ALIMENTACIÓN CONSTANTE: la Cámara exterior Plus se conecta al cableado a través de una conexión Power-Over-Ethernet fiable y te ofrece una alimentación constante para proteger tu hogar.
+- MÁS VISIÓN, MÁS INFORMACIÓN, MÁS PROTECCIÓN: Guarda los vídeos durante más de 180 días para volver a verlos cuando quieras, recibe alertas cuando se detectan personas y mucho más con un plan Ring Home (vendido por separado).
+- NO PASES POR ALTO LOS DETALLES QUE IMPORTAN: Observa cada detalle en 2K con total claridad y con la mejor calidad de imagen de Ring.
 - HABLA CON TUS VISITAS: Ve y responde a los eventos activos gracias al vídeo en directo y la comunicación bidireccional.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

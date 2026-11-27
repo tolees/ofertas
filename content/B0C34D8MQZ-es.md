@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Banda de rodadura adherente y resistente a la abrasión
 - punta perforada
+- Banda de rodadura adherente y resistente a la abrasión
 - parte superior delgada hecha de una mezcla de cueros
 
 [🛒 Aquí!!!]({{< param buyurl >}})

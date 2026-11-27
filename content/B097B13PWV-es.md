@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI MPG Velox 100R Caja PC Mid-Tower - Capacidad para Placa Base Puerta de Vidrio Templado 4 Ventiladores ARGB 120mm Mystic Light Soporta 2 Radiadores de 360mm & Ventilación Lateral Opcional'
-date: 2026-11-25 15:18:45
+date: 2026-11-27 00:18:18
 image: 'https://m.media-amazon.com/images/I/41Sw082yqtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B097B13PWV/?tag=tolees-21'
 descuento: '50.00'
-average: '95.706666666666663'
+average: '90.849090909090904'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

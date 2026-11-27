@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Camiseta
-- Composición: 100% algodón
 - Instrucciones de cuidado: lavable a máquina
+- Composición: 100% algodón
 - Tipo de estiramiento: no elástico
 - Ajuste: Slim
 

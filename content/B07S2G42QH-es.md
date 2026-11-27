@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Este producto es original Levis
-- Tiene un diseño casual
 - Adecuada para días calurosos
 - Ofrece una comodidad óptima
+- Este producto es original Levis
+- Tiene un diseño casual
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07S2G42QH{{</world>}}

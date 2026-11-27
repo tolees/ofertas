@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Prenda para mujeres adultas
-- Camiseta de uso diario
 - Tiene detalles distintivos de la marca
+- Camiseta de uso diario
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B6977HTX{{</world>}}

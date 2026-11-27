@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Clásica puntera con forma de T
+- Cierre de cordones
 - Horma clásica
 - Suela de goma
-- Cierre de cordones
-- Clásica puntera con forma de T
 - Empeine de piel sintética y ante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

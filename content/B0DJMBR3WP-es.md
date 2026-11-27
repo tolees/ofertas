@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Descripción del producto: Pendientes Luxenter Warlah en aleación de metal con circonita rubí y acabado en oro amarillo de 18K. La colección África Basic encarna la sencillez refinada con piezas atemporales de líneas suaves y un brillo sofisticado. Diseñados para el uso diario, pero también ideales para ocasiones especiales, estos pendientes combinan elegancia y versatilidad en una joya imprescindible.
 - Descripción técnica: Material: Aleación de metal Piedra: Circonita rubí Color: Dorado Acabado: Oro amarillo de 18k Diámetro: 9 mm
+- Descripción del producto: Pendientes Luxenter Warlah en aleación de metal con circonita rubí y acabado en oro amarillo de 18K. La colección África Basic encarna la sencillez refinada con piezas atemporales de líneas suaves y un brillo sofisticado. Diseñados para el uso diario, pero también ideales para ocasiones especiales, estos pendientes combinan elegancia y versatilidad en una joya imprescindible.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DJMBR3WP{{</world>}}

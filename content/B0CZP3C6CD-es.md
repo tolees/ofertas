@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello redondo
-- Material Principal: 100% Algodón / Parte Del Cordoncillo: 95% Algodón / 5% Elastano
-- Logo de 3 bandas en pecho
 - Corte clásico
+- Cuello redondo
+- Logo de 3 bandas en pecho
+- Material Principal: 100% Algodón / Parte Del Cordoncillo: 95% Algodón / 5% Elastano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZP3C6CD{{</world>}}

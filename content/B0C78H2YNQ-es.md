@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Para labios suaves e hidratados
-- Con un acabado brillante y un toque de color
-- Hidratar/humectar; cuidado; con grasas; brillante; rociado
 - Con ácido hialurónico, aceite de jojoba, vitamina E y aceite de meadowfoam
 - Nos oponemos a los experimentos con animales; cosnova aparece internacionalmente con essence y CATRICE tanto en PETA Alemania como en PETA
+- Hidratar/humectar; cuidado; con grasas; brillante; rociado
+- Con un acabado brillante y un toque de color
+- Para labios suaves e hidratados
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C78H2YNQ{{</world>}}

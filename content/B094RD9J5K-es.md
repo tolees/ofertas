@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- JACK & JONES apoya la iniciativa Better Cotton usando algodón orgánico o reciclado
-- Cintura baja
-- Vaqueros Ajustados
 - Corte ajustado
+- Cintura baja
 - Composición: 98% algodón, 2% elastano
+- JACK & JONES apoya la iniciativa Better Cotton usando algodón orgánico o reciclado
+- Vaqueros Ajustados
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B094RD9J5K{{</world>}}

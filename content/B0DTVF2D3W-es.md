@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Confeccionado con materiales sostenibles
 - Efecto superposición
-- Manga: Larga
 - Fit: Regular
+- Confeccionado con materiales sostenibles
 - Con Capucha
+- Manga: Larga
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DTVF2D3W{{</world>}}

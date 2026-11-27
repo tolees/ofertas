@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Etiqueta tejida sobre el bolsillo ribeteado en la nalga
 - Modelo de corte regular con cintura media y pierna recta
+- Etiqueta tejida sobre el bolsillo ribeteado en la nalga
 - Fácil de combinar con diferentes atuendos
 - Los pantalones chinos REGULAR TWILL CHINOS de Gant
 - Hecho de sarga de algodón con elástico cómodo

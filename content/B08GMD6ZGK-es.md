@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asmodee 7 Wonders Juego de Civilizaciones Ganador de Varios Premios | Juego de Mesa a Partir de 10 Años de 3 a 7 Jugadores 30 Minutos por Partida Español'
-date: 2026-11-19 11:21:59
+date: 2026-11-26 20:51:20
 image: 'https://m.media-amazon.com/images/I/51eOx638-XL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GMD6ZGK/?tag=tolees-21'
 descuento: '36.05'
-average: '36.304230769230962'
+average: '36.09629629629648'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

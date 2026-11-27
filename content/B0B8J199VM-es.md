@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Función de deriva: movimiento lateral y diagonal.
-- ¡Descubre el coche dinosaurio teledirigido Lexibook que nada puede detener!
-- Arranque de un cuarto de vuelta y movimiento de 360° gracias al mecanismo de las ruedas. Úsalo en todas partes. Coche todoterreno gracias a sus suspensiones amortiguadoras.
+- Increíble efecto de luz. El dinosaurio también escupe humo y ruge como un dinosaurio de verdad.
+- Alimentación: 1 batería recargable (incluida) + 2 pilas LR6 / AA (no incluidas).
+- Un dinosaurio sobre cuatro ruedas que va a 12 km/h: ¡nunca antes visto!
 - Frecuencia de 2,4 GHz para optimizar el alcance y reducir en gran medida los problemas de interferencias.
 - Uso duradero gracias a la batería recargable y al cable USB incluidos. Alimentación: 1 batería recargable (incluida) + 2 pilas LR6 / AA (no incluidas). Tiempo de carga: 2-3 horas / Tiempo de reproducción: 20 minutos.
+- Función de deriva: movimiento lateral y diagonal.
 - Programable: Programe hasta 16 acciones. ¡El coche se ejecutará! Incluso puedes añadir música.
-- Un dinosaurio sobre cuatro ruedas que va a 12 km/h: ¡nunca antes visto!
-- Increíble efecto de luz. El dinosaurio también escupe humo y ruge como un dinosaurio de verdad.
+- Arranque de un cuarto de vuelta y movimiento de 360° gracias al mecanismo de las ruedas. Úsalo en todas partes. Coche todoterreno gracias a sus suspensiones amortiguadoras.
+- ¡Descubre el coche dinosaurio teledirigido Lexibook que nada puede detener!
 - A partir de los 6 años. Escala: 01/16.
-- Alimentación: 1 batería recargable (incluida) + 2 pilas LR6 / AA (no incluidas).
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B8J199VM{{</world>}}

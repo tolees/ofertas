@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello: Redondo
-- Manga: Larga
 - Confeccionado con materiales sostenibles
 - Combinación de colores
+- Cuello: Redondo
 - Fit: Regular
+- Manga: Larga
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DTV82ZX8{{</world>}}

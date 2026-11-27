@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Punta redonda
 - Logotipo de la marca
+- Punta redonda
 - Cierre de encaje
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Color: Liso
-- Ligeramente largo
-- Manga: Larga
 - Cuello: Redondo
+- Manga: Larga
 - Fit: Regular
+- Ligeramente largo
+- Color: Liso
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DWBMX3H3{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Bomba eléctrica de 220/240 V integrada con sistema 2-1, tiempo hinchado: 1,45 minutos
+- Colchón para uso una persona, peso máximo que soporta 136 kg
 - Colchón de la gama Dura-Beam estándar tiene acabado con forma de almohada, superficie flocada, bordes redondeados y 5 láminas verticales
 - Fiber-Tech: tecnología de miles de fibras de poliéster de óptima resistencia que no se estiran ni con el tiempo ni por el uso, ofreciendo estabilidad duradera
-- Colchón para uso una persona, peso máximo que soporta 136 kg
-- Bomba eléctrica de 220/240 V integrada con sistema 2-1, tiempo hinchado: 1,45 minutos
 - Colchón hinchable INTEX con tecnología Fiber-Tech de la gama Dura-Beam Standard modelo Pillow Rest Mid-Rise, medidas: 99 x 191 x 30 cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})

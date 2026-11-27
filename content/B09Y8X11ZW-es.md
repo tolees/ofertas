@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vaqueros de corte holgado
 - Elástico adicional
+- Vaqueros de corte holgado
 - Cinco bolsillos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Anillo acabado oro 18k - Firiel
 - Material: Aleacion de metal●Acabado: Oro amarillo de 18k● Ancho: 20,8mm
+- Anillo acabado oro 18k - Firiel
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F3Y2WRYZ{{</world>}}

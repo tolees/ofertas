@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte : Vaqueros ajustados con talla media, muslo fino, rodilla fina, apertura ajustada en la pierna
-- Klavado/acabado : Lavado a la piedra para un acabado desgastado y desteñido
-- Bolsillos : Bolsillos traseros, Bolsillo relojero, Bolsillos delanteros
-- Cintura : Tiro bajo
-- Artículo : Jeans de corte slim
 - Cierre : Bragueta con cremallera
+- Artículo : Jeans de corte slim
+- Corte : Vaqueros ajustados con talla media, muslo fino, rodilla fina, apertura ajustada en la pierna
+- Bolsillos : Bolsillos traseros, Bolsillo relojero, Bolsillos delanteros
+- Klavado/acabado : Lavado a la piedra para un acabado desgastado y desteñido
+- Cintura : Tiro bajo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08X3QHZRP{{</world>}}

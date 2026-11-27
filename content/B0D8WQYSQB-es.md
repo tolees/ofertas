@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Proporciona comodidad
 - Etiqueta de G-STAR en la parte trasera hecha de un tejido de papel que imita a la piel
-- Cinco bolsillos, bolsillo para monedas trasladado hacia el interior
 - Bolsillos con solapa en el muslo con botones a presión ocultos
+- Cinco bolsillos, bolsillo para monedas trasladado hacia el interior
 - Bragueta de cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

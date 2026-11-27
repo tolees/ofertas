@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Largo: estándar
 - Bolsillos: laterales
-- Corte: estándar
-- Material principal: felpa francesa
+- Largo: estándar
 - Cremallera inversa
+- Material principal: felpa francesa
+- Corte: estándar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F83YQZM7{{</world>}}

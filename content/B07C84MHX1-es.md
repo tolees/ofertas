@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fácil intercambio de estándar bombillas, auténtico repuestos para una bombilla de 40 W (aplicaciones exteriores solo en luminarias adecuadas)
-- Larga duración – hasta 15000 horas y hasta 100000 ciclos
 - Inmediatamente plena luz, sin tiempo de calentamiento
 - Consumo de energía 6 kWh/1000 h en 470 lm
+- Fácil intercambio de estándar bombillas, auténtico repuestos para una bombilla de 40 W (aplicaciones exteriores solo en luminarias adecuadas)
 - Luz blanca cálida para bien convienen y relajarse en sala de estar, dormitorio, y habitación
+- Larga duración – hasta 15000 horas y hasta 100000 ciclos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07C84MHX1{{</world>}}

@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - AJUSTE PERFECTO: Las zapatillas sneakers con cordones de Tommy Jeans son superllamativas y se adaptan perfectamente al pie.
 - MODA URBANA REINTERPRETADA: Para acercar las populares prendas de los 90 a las nuevas generaciones, Tommy Jeans se inspira en los iconos del hip-hop de aquella época. Apostando por prendas de alta calidad y diseños modernos con mucho denim.
-- MATERIAL DEL ALTA CALIDAD: Material exterior compuesto por 90 % piel y 10 % poliuretano.
 - PARA CUALQUIER OCASIÓN: Las zapatillas deportivas combinan a la perfección con tu look diario. El material de alta calidad garantiza mucha comodidad durante todo el día.
+- MATERIAL DEL ALTA CALIDAD: Material exterior compuesto por 90 % piel y 10 % poliuretano.
 - DISEÑO PREMIUM: Estas sencillas sneaker flatform convencen por su diseño estilizado y su suela ancha. Los detalles distintivos de Tommy Jeans y la bandera Tommy en el lateral completan el calzado.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

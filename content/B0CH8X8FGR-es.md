@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Reposamuñecas desmontable magnético: un reposamanos magnético agrega fácilmente un lugar cómodo para descansar las manos, con una simple fijación magnética
-- Controles multimedia magistrales: Controle el volumen y más con un dial multifuncional y un botón multimedia programable, personalizable con iCUE
 - Placa superior de aluminio robusta: la placa superior de aluminio duradera ofrece una capa adicional de estabilidad y estilo
+- Controles multimedia magistrales: Controle el volumen y más con un dial multifuncional y un botón multimedia programable, personalizable con iCUE
+- Reposamuñecas desmontable magnético: un reposamanos magnético agrega fácilmente un lugar cómodo para descansar las manos, con una simple fijación magnética
 - Hermosa experiencia de teclado mecánico: los interruptores mecánicos lineales CORSAIR Red pre-lubricados ofrecen pulsaciones de teclas suaves y receptivas, amplificadas por dos capas de atenuación de sonido para juegos y escritura extremadamente satisfactorios
 - ABS Painted Keycaps: Las teclas pintadas ABS resistentes y resistentes no se agrietarán bajo presión
 

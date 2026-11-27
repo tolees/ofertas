@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 2 ajustes de calor: termostato / 1000W
 - función antihielo 2000W
 - protección del agua que gotea IP21
 - habitación Termostato de seguridad
-- 2 ajustes de calor: termostato / 1000W
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B016IGIEOI{{</world>}}

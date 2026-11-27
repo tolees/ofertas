@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contenido: 1x Columbia Gorra Unisex, Mesh Snap Back, Color: Naranja (Tuscan, Dark Stone, Dark Mountain), Talla: O/S, Art.: 1652541
-- Diseño clásico de gorra con visera ligeramente curvada y botón en la parte superior, 98 % de algodón y 2 % de elastano
 - Agradable flujo de aire gracias a la construcción de malla en la parte posterior, Cierre regulable posterior a presión para personalizar el ajuste.
+- Contenido: 1x Columbia Gorra Unisex, Mesh Snap Back, Color: Naranja (Tuscan, Dark Stone, Dark Mountain), Talla: O/S, Art.: 1652541
 - Gorra de malla ideal para un día de aventuras al aire libre, ya sea en el bosque, el mar o por el vecindario
+- Diseño clásico de gorra con visera ligeramente curvada y botón en la parte superior, 98 % de algodón y 2 % de elastano
 - Bordado en forma de montaña en el lado izquierdo, Logo de Columbia en la parte delantera
 
 [🛒 Comprar!!!]({{< param buyurl >}})

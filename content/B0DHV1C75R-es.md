@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro textil
 - Empeine Hybridfeel con elementos Strikescale
-- Suela Controlplate multisuperficie
 - Horma clásica
+- Forro textil
+- Suela Controlplate multisuperficie
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHV1C75R{{</world>}}

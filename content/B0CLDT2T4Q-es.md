@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Composición del material: capa exterior: 100 % poliéster; acolchado: 100 % poliéster; forro: 100 % poliéster
 - Chaqueta acolchada
+- Composición del material: capa exterior: 100 % poliéster; acolchado: 100 % poliéster; forro: 100 % poliéster
 - Corte regular
 - Manga larga
 

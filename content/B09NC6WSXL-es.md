@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- País de origen: LK
 - Impresión de alto contraste
 - Interior cepillado suave
 - Con puños acanalados
 - Delicada mezcla de algodón
+- País de origen: LK
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09NC6WSXL{{</world>}}

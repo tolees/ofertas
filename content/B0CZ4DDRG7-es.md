@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tejido Infinitex
 - Corte ajustado
-- Espalda con tirantes en V
 - 78% poliamida (reciclada) / 22% elastano
+- Espalda con tirantes en V
+- Tejido Infinitex
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CZ4DDRG7{{</world>}}

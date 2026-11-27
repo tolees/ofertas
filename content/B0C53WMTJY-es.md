@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Forro textil
-- Parte superior de ante
 - Cierre de cordones
+- Parte superior de ante
 - Horma clásica
 
 [🛒 Aquí!!!]({{< param buyurl >}})

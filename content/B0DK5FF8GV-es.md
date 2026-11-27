@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aberturas laterales
+- G-Star Bordado en el pecho
 - Cierre de botón
 - Diseño acanalado en el cuello y los dobladillos de las mangas
-- G-Star Bordado en el pecho
 - Cuello polo
+- Aberturas laterales
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DK5FF8GV{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- MÁSCARA LABIAL: suaviza y acondiciona intensamente los labios mientras duermes
 - BURTS BEES CUIDADO LABIAL: El óptimo bálsamo labial para labios secos
 - TRATAMIENTO LABIAL NOCTURNO: aplíquelo sobre los labios limpios siempre que sea necesario o antes de acostarse para obtener resultados óptimos, úselo después de aplicar el exfoliante labial Burts Bees para despertarse con los labios más suaves de la historia
 - INGREDIENTES NUTRITIVOS Y EFICACES: 100% de origen natural, con ceramidas y aceites nutritivos de jojoba y ricino para nutrir e hidratar profundamente los labios
-- MÁSCARA LABIAL: suaviza y acondiciona intensamente los labios mientras duermes
 - REPARACIÓN DE LABIOS: Esta máscara para dormir ayuda a restaurar la humedad de la piel y ayuda a reducir la aparición de líneas finas, dejando los labios suaves y tersos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

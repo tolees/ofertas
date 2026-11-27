@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mallas cortas unisex para running
 - Cómodas de llevar
 - Material de calidad
+- Mallas cortas unisex para running
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C37GCHD9{{</world>}}

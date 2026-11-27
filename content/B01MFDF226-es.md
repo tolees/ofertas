@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Purina Gourmet Perle Delicias en Salsa Comida Húmeda para Gato con Pollo y Buey 60 sobres de 85g'
-date: 2026-11-24 13:59:44
+date: 2026-11-27 10:29:41
 image: 'https://m.media-amazon.com/images/I/41-fJM0h82L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MFDF226/?tag=tolees-21'
 descuento: '45.81'
-average: '21.990000000000059'
+average: '21.740000000000052'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

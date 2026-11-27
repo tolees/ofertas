@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tejanos con las siguientes características:
 - Vaqueros Mujer || Merch para fans y divertido || Patrón: Liso
 - Medidas: tamaño estándar
 - Descubre todas las marcas de EMP!
 - Básicos, Ropa casual, Ropa de Calle
-- Tejanos con las siguientes características:
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00UR7COAU{{</world>}}

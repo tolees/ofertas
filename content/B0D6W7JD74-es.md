@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cepillo ovalado grande para volumen: Diseñado para crear volumen y cuerpo en el cabello.
-- Tecnología iónica que reduce el encrespamiento para lograr un cabello suave y manejable, con 2 configuraciones de calor y función de aire frío para secados precisos y perfectos.
-- Potencia de 1000W de alto rendimiento: Para un secado rápido y eficaz.
 - Boquilla de secado: Facilita un secado preciso y controlado.
+- Cepillo ovalado grande para volumen: Diseñado para crear volumen y cuerpo en el cabello.
+- Potencia de 1000W de alto rendimiento: Para un secado rápido y eficaz.
+- Tecnología iónica que reduce el encrespamiento para lograr un cabello suave y manejable, con 2 configuraciones de calor y función de aire frío para secados precisos y perfectos.
 - Accesorio alisador: Para obtener un cabello liso y sin encrespamiento
 
 [🛒 Comprar!!!]({{< param buyurl >}})

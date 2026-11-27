@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aplicar sobre la piel limpia la cantidad indicada en cada zona, antes de la exposición solar o tras el tratamiento.
 - Piel hidratada, barrera cutánea protegida, daño por radiación UV en el ADN reparado. No comedogénico. Sin perfume.
 - Crema hidratante que previene el desarrollo de la queratosis clínica y el cáncer de piel no melanoma, con protección de amplio espectro frente a radiación UVB y UVA. Enriquecida con Niacinamida y Pantenol. Para todo tipo de piel.
+- Aplicar sobre la piel limpia la cantidad indicada en cada zona, antes de la exposición solar o tras el tratamiento.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09XF75KVB{{</world>}}

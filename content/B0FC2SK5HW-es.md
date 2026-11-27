@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ANCHO MEDIO: Ajuste estándar adecuado para la mayoría de formas de pie.
-- SUELA DE GOMA: Suela duradera que ofrece agarre y tracción fiables.
-- CIERRE CON CORDONES: Ajuste regulable para una sujeción segura y personalizada.
-- DISEÑO COURT HERITAGE: Silueta clásica inspirada en el tenis con detalles llamativos para un look moderno y dinámico.
 - TALÓN PLANO: Diseño equilibrado para comodidad y estabilidad natural.
+- SUELA DE GOMA: Suela duradera que ofrece agarre y tracción fiables.
+- DISEÑO COURT HERITAGE: Silueta clásica inspirada en el tenis con detalles llamativos para un look moderno y dinámico.
+- ANCHO MEDIO: Ajuste estándar adecuado para la mayoría de formas de pie.
+- CIERRE CON CORDONES: Ajuste regulable para una sujeción segura y personalizada.
 - FORRO INTERIOR SINTÉTICO: Interior suave para un uso cómodo diario.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

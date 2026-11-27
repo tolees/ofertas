@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Compartimento principal con cremallera
-- Repelente al agua
 - Colgante de Pac-Man
 - Organización interna
+- Repelente al agua
+- Compartimento principal con cremallera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07TWSQZWS{{</world>}}

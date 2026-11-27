@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello alzado
-- Cierre de cremallera
 - Una mirada original
+- Cuello alzado
 - Tela gruesa
+- Cierre de cremallera
 - Proporciona comodidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

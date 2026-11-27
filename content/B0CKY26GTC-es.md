@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puntera reforzada
-- Horma clásica
 - Forro textil
+- Horma clásica
+- Puntera reforzada
 - Suela de goma
 - Forro textil
 - Empeine textil

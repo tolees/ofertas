@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material exterior: lona
-- Material interior: textil
-- Forma del talón: plano
-- Cierre: cordones
 - Suela: Caucho
+- Material exterior: lona
+- Forma del talón: plano
+- Material interior: textil
+- Cierre: cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B098FF3FQH{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con un ajuste cómodo
 - Presentan un estilo informal
+- Con un ajuste cómodo
 - Detalles distintivos de la marca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

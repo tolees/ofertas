@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta básico
-- Estilo informal
-- Medidas: tamaño estándar
 - Ajuste regular
+- Camiseta básico
+- Medidas: tamaño estándar
+- Estilo informal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07PJLC4YD{{</world>}}

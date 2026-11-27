@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Manga larga y puños acanalados
 - Gráfico del logotipo bordado en la parte delantera
+- Manga larga y puños acanalados
 - Diseño con capucha y cierre de cordón
 
 [🛒 Comprar!!!]({{< param buyurl >}})

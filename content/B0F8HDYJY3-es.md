@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Hogwarts Legacy ist ein fesselndes Open-World Action-Rollenspiel, das in der Welt spielt, die erstmals in den Harry Potter Büchern vorgestellt wurde
-- Die Welt der Zauberei wartet auf dich. Erkunde frei Hogwarts, Hogsmeade, den Verbotenen Wald und das umliegende Land
-- Erlebe Hogwarts im 19. Jahrhundert. Dein Charakter ist ein Schüler, der den Schlüssel zu einem uralten Geheimnis besitzt
 - Erlebe die Welt der Zauberei in einer vergessenen Ära, um eine verborgene Wahrheit aus der Vergangenheit aufzudecken
+- Erlebe Hogwarts im 19. Jahrhundert. Dein Charakter ist ein Schüler, der den Schlüssel zu einem uralten Geheimnis besitzt
+- Die Welt der Zauberei wartet auf dich. Erkunde frei Hogwarts, Hogsmeade, den Verbotenen Wald und das umliegende Land
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F8HDYJY3{{</world>}}

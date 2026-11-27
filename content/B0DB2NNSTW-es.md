@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Empeine de malla
 - Lengüeta de fuelle para que no entre tierra
+- Empeine de malla
 - Protector de cordones elástico
 
 [🛒 Visítala!!!]({{< param buyurl >}})

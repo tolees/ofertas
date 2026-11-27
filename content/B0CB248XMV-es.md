@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- No es resistente al agua
 - Utilizado como casual
 - Corte regular
-- No es resistente al agua
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CB248XMV{{</world>}}

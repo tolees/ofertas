@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El estuche incluye un pincel sintético nº3
-- Pastillas de acuarela Giotto de colores luminosos, intensos y cubrientes
-- Muy funcional: la tapa del estuche puede usarse cómo paleta para mezclar colores
 - Colores ricos en pigmentos, que se mantienen mejor una vez secos
-- La forma de la nueva pastilla de acuarela evita la dispersión del agua
+- Muy funcional: la tapa del estuche puede usarse cómo paleta para mezclar colores
+- Pastillas de acuarela Giotto de colores luminosos, intensos y cubrientes
+- El estuche incluye un pincel sintético nº3
 - La siguiente información se aplica a cada unidad del paquete
+- La forma de la nueva pastilla de acuarela evita la dispersión del agua
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F5HV44JD{{</world>}}

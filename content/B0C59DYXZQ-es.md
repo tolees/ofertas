@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Horma clásica
-- Forro textil
 - Empeine de piel sintética
+- Forro textil
+- Horma clásica
 - Cierre de cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

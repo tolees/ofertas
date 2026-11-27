@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Acabado con un estampado único
 - Una sudadera con capucha básica y cómoda
+- Acabado con un estampado único
 - Tacto suave, ni fino ni grueso
 
 [🛒 Comprar!!!]({{< param buyurl >}})

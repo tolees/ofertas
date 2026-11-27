@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elija su vehículo en el selector para comprobar su compatibilidad con el producto.
 - Protecton Producto de limpieza para neumáticos
+- Elija su vehículo en el selector para comprobar su compatibilidad con el producto.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0187DUGJ6{{</world>}}

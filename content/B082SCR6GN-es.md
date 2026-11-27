@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - 💫 Bruma fresca y ligera para perfumar suavemente la piel
 - 🧴 Aroma delicado que evoca un jardín en flor
 - 🌹 Notas envolventes de jazmín y rosa con fondo empolvado
-- 👗 Ideal para un toque sofisticado a cualquier hora del día
 - 🌸 Fragancia floral y dulce con elegancia femenina
+- 👗 Ideal para un toque sofisticado a cualquier hora del día
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B082SCR6GN{{</world>}}

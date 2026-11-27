@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Combinación de tejidos
+- Cuello: Redondo
 - Confeccionado con materiales sostenibles
 - Desigual
 - Manga: Larga
-- Combinación de tejidos
-- Cuello: Redondo
 - Fit: Regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})

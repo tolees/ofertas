@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Efecto: Mesa de MDF marrón oscuro imitación de madera con patas metálicas negras - Estilo industrial
-- Medidas mesita de noche (Al x An x Fondo): aprox. 60 x 60 x 31,5 cm - Montaje fácil con guía
 - Mesa de centro: 2 estantes, compartimento interior y bolsillo lateral de 5 huecos para libros y deco
+- Medidas mesita de noche (Al x An x Fondo): aprox. 60 x 60 x 31,5 cm - Montaje fácil con guía
 - Práctico: mesa auxiliar con enchufes y puertos USB; carga móviles, tabletas y lámparas
 - Versátil: como mesa auxiliar junto al sofá o al escritorio, o mesita de noche.
 

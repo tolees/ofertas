@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pequeño logotipo impreso en el lado izquierdo, cordón de marca; sin costuras laterales y sin bolsillos delanteros, bolsillo trasero de parche y bolsillo interno
 - Fabricado con tela de poliéster reciclado de secado rápido, cintura totalmente elástica
+- Pequeño logotipo impreso en el lado izquierdo, cordón de marca; sin costuras laterales y sin bolsillos delanteros, bolsillo trasero de parche y bolsillo interno
 - Traje de baño sólido de 34 cm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

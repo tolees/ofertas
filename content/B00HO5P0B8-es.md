@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Lengüeta acolchada y entrada para mayor comodidad.
+- Material exterior de piel.
 - Transpirable gracias a las perforaciones.
 - Perfil DC "Pill Pattern".
 - Detalles DC Shoe
-- Material exterior de piel.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00HO5P0B8{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Un sistema de combate espectacular
 - Un camino marcado por la venganza
 - Una historia de emoción frente a razón
-- Un sistema de combate espectacular
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0G3B293NF{{</world>}}

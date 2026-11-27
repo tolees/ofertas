@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - VÉGÉTALIEN ET SANS CRUAUTÉ : Ne contient aucun ingrédient dorigine animale et a été approuvé par PETA comme étant sans test sur les animaux
-- DISPONIBLE EN 3 NUANCES: Pop - une belle pêche parfaite pour les tons de peau clairs; Juicy - un nude rose parfait pour les tons de peau clairs à moyens; Flush - un rouge cerise vif parfait pour les tons de peau plus foncés.
-- PASTÈQUE PARFUMÉE: Infusé avec de l’extrait de graines de pastèque, ce blush mélangeable sent la pastèque douce
 - FINITION DEWY: Cette teinte rosée subtile donne une finition magnifique et est super mélangeable, ce qui signifie que vous pouvez construire le niveau de teinte qui vous convient!
 - DISPONIBLE EN 3 NUANCES: Pop - une belle pêche parfaite pour les tons de peau clairs; Juicy - un nude rose parfait pour les tons de peau clairs à moyens; Flush - un rouge cerise vif parfait pour les tons de peau plus foncés.
 - La siguiente información se aplica a cada unidad del paquete
+- PASTÈQUE PARFUMÉE: Infusé avec de l’extrait de graines de pastèque, ce blush mélangeable sent la pastèque douce
+- DISPONIBLE EN 3 NUANCES: Pop - une belle pêche parfaite pour les tons de peau clairs; Juicy - un nude rose parfait pour les tons de peau clairs à moyens; Flush - un rouge cerise vif parfait pour les tons de peau plus foncés.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0GSXZW22P{{</world>}}

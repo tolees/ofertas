@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Secador Pelo Profesional Iónico Hair Dryer secado rápido de salón sin encrespamiento con difusor y concentradoras 3 temperaturas 2 velocidades y aire frío'
-date: 2026-11-25 06:45:40
+date: 2026-11-26 18:57:14
 image: 'https://m.media-amazon.com/images/I/41yzAy3pRPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

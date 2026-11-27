@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sensilis Rouge Fondant es una barra de labios hidratante con acabado luminoso y cobertura media que nutre en profundidad y aporta un efecto brillante, jugoso y voluptuoso. Su tono Red permite lucir unos labios radiantes y suaves sin sensación de sequedad.
 - Enriquecida con aceite de rosa mosqueta y ácido hialurónico, hidrata intensamente, suaviza los labios agrietados y mantiene un tono uniforme y luminoso. Gracias a la vitamina E, protege frente a los radicales libres. Su color vibrante ofrece un acabado jugoso y confortable durante horas.
 - Aplica directamente sobre los labios desde el centro hacia las comisuras para lograr una cobertura uniforme. Reaplica tantas veces como sea necesario para mantener el color, la hidratación y el brillo. Ideal para usar a diario o sobre otro labial para potenciar el efecto luminoso.
+- Sensilis Rouge Fondant es una barra de labios hidratante con acabado luminoso y cobertura media que nutre en profundidad y aporta un efecto brillante, jugoso y voluptuoso. Su tono Red permite lucir unos labios radiantes y suaves sin sensación de sequedad.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FWKYPMDG{{</world>}}

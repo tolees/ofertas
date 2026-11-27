@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte clásico
-- Tejido transpirable
-- AEROREADY
 - Diseño New Lift
+- Corte clásico
+- AEROREADY
 - 70% poliéster (reciclado) / 30% algodón
+- Tejido transpirable
 - Tejido transpirable
 
 [🛒 Aquí!!!]({{< param buyurl >}})

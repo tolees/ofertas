@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - V-26
 - MUJER
-- SANDALIAS PLANAS
 - MARINO
+- SANDALIAS PLANAS
 - ANCHO
 
 [🛒 Aquí!!!]({{< param buyurl >}})

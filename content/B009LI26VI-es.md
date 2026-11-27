@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Diámetro: 6 cm
 - Madera
 - Debido a los diferentes ajustes de pantalla, los colores pueden variar.
-- Diámetro: 6 cm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B009LI26VI{{</world>}}

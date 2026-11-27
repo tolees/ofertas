@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Zapatillas de Running Pounce Lite 2 Unisex 42 Black Cool Dark Gray'
-date: 2026-11-25 07:21:19
+date: 2026-11-26 19:16:21
 image: 'https://m.media-amazon.com/images/I/31igC490I6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FV92X74T/?tag=tolees-21'
 descuento: '49.95'
-average: '29.259999999999998'
+average: '28.68333333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Molinillo de pimienta
 - Sistema luminoso
+- Molinillo de pimienta
 - Táctil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

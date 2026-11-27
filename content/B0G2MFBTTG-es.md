@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela de goma duradera para una tracción óptima.
 - Diseño ligero para movimientos rápidos y ágiles.
+- Suela de goma duradera para una tracción óptima.
 - Mediasuela con tecnología GEL para una excelente amortiguación.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

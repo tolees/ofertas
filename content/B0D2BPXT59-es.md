@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Banda de rodadura adherente y resistente a la abrasión
 - parte superior delgada hecha de una mezcla de cueros
+- Banda de rodadura adherente y resistente a la abrasión
 - punta perforada
 
 [🛒 Comprar!!!]({{< param buyurl >}})

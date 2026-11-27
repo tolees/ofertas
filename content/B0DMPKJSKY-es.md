@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Leather upper
-- High-abrasion-resistant rubber outsole Textile lining
 - EVA midsole
 - Lace closure
+- Leather upper
+- High-abrasion-resistant rubber outsole Textile lining
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DMPKJSKY{{</world>}}

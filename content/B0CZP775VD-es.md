@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Capucha con cordón ajustable
-- Hombros con la costura caída
+- Bolsillo canguro
 - Puños y dobladillo de canalé
 - 70% algodón / 30% poliéster (reciclado)
-- Bolsillo canguro
+- Hombros con la costura caída
 - Corte clásico
+- Capucha con cordón ajustable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZP775VD{{</world>}}

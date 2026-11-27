@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Amortiguación con tecnología GEL para una óptima absorción de impactos.
 - Plantilla extraíble para una comodidad personalizada.
+- Amortiguación con tecnología GEL para una óptima absorción de impactos.
 - Parte superior de malla transpirable para mantener los pies frescos y secos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

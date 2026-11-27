@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Horma clásica
 - La parte superior contiene al menos un 50% de material reciclado
+- Cierre de cordones
 - Empeine de nobuk sintético
 - Tirador de tela en el talón
-- Cierre de cordones
+- Horma clásica
 - Suela de goma de aspecto vulcanizado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

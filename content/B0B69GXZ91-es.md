@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- CUELLO REDONDO DE CANALÉ: EL top de tirantes combina un diseño depurado con un estilo informal y moderno; El cuello redondo de canalé fino y el bajo recto confieren a la camiseta un look atemporal
 - COMBINACIONES INFINITAS: Puedes usar la prenda sola o combinarla con un jersey, esta camiseta básica es una prenda imprescindible para todos los días; Óptima tanto para conjuntos casual chic como elegantes
 - MARC OߴPOLO DENIM: La línea urbana de Marc OߴPolo es sinónimo de estilo casual urbano con influencia escandinava; Los materiales sostenibles y los cortes modernos crean looks versátiles que encarnan la autenticidad y el estilo individual: la libertad de ser auténtico
 - ALGODÓN ORGÁNICO: Prenda confeccionada en 94 % algodón orgánico certificado y 6 % elastano que convence por su suavidad y comodidad y su calidad sostenible; Se puede lavar a máquina en un programa para prendas delicadas a 30 °
-- CUELLO REDONDO DE CANALÉ: EL top de tirantes combina un diseño depurado con un estilo informal y moderno; El cuello redondo de canalé fino y el bajo recto confieren a la camiseta un look atemporal
 - SLIM FIT: El corte óptimo y femenino crean una silueta favorecedora; La camiseta slim fit es ajustada y tiene un corte estrecho a la vez que ofrece una libertad de movimiento plena
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

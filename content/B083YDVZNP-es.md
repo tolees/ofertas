@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kipling Art M Bolsa Grande Bolsas Black Noir Negro'
-date: 2026-11-19 04:21:11
+date: 2026-11-26 11:45:59
 image: 'https://m.media-amazon.com/images/I/31MZHP7vngL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B083YDVZNP/?tag=tolees-21'
 descuento: '50.86'
-average: '51.144999999999996'
+average: '51.715999999999994'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

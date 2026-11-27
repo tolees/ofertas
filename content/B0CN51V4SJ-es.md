@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre de rosca con boquilla retráctil
-- 100% polietileno
-- Capacidad: 0,5 l
 - Dimensiones: 23,5 cm x 7 cm
+- 100% polietileno
+- Cierre de rosca con boquilla retráctil
+- Capacidad: 0,5 l
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CN51V4SJ{{</world>}}

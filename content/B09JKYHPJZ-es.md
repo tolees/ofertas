@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hombres
-- Pantalones de forro polar para hombre
 - 1373362-410-MD
+- Pantalones de forro polar para hombre
+- Hombres
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09JKYHPJZ{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Helly Hansen Hombres Parka pura Negro XL'
-date: 2026-11-19 23:48:46
+date: 2026-11-26 19:13:16
 image: 'https://m.media-amazon.com/images/I/31xSCm6uY6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08LZ1HT13/?tag=tolees-21'
 descuento: '40.63'
-average: '154.28666666666666'
+average: '163.20999999999998'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

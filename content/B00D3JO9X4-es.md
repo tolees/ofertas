@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fijación brida y horquilla
-- Frecuencia 460 - 790 mhz
-- Compatible 4g; ancho de banda adaptado al nuevo standard uhf
-- Dimensiones ancho=13cm x profundo=11, 5cm x alto=59cm
-- Esta antena amplificada posee una banda pasante adaptada al nuevo standard uhf (ancho de banda uhf más corto). Permite la recepción de señal tdt reduciendo las perturbaciones potenciales asociadas al 4g
-- Para instalar en mástil o en la barra del balcón
-- Capuchón aislante extraíble para toma f; alimentación 230v50hz/ 12v
 - Super discreta con sólo 11, 5cm de grosor pasará desapercibida en tu balcón
+- Esta antena amplificada posee una banda pasante adaptada al nuevo standard uhf (ancho de banda uhf más corto). Permite la recepción de señal tdt reduciendo las perturbaciones potenciales asociadas al 4g
+- Dimensiones ancho=13cm x profundo=11, 5cm x alto=59cm
+- Fijación brida y horquilla
+- Capuchón aislante extraíble para toma f; alimentación 230v50hz/ 12v
+- Para instalar en mástil o en la barra del balcón
+- Compatible 4g; ancho de banda adaptado al nuevo standard uhf
+- Frecuencia 460 - 790 mhz
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00D3JO9X4{{</world>}}

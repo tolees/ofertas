@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pulsera Gorys acabada en oro amarillo 18k
 - Material: Plata de ley 925Acabado: RodioPiedra: Circonita brillanteDiámetro: 7mmCierre: PresiónPeso: 3 gr
+- Pulsera Gorys acabada en oro amarillo 18k
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F4XGGT87{{</world>}}

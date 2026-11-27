@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Perfecto para organizar y llevar recogidos los lapices y bolígrafos.
 - De Joumma Bags
 - Tamaño perfecto para llevarlo en la mochila, carterón o bolso.
+- Perfecto para organizar y llevar recogidos los lapices y bolígrafos.
 - Estuche de 22cm x 7 cm x 3 cm fabricado en Poliéster.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

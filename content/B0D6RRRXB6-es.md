@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tipo de estiramiento: Medium Stretch
-- Instrucciones de cuidado: lavable a máquina
 - Jeans Pantalones Largos
+- Instrucciones de cuidado: lavable a máquina
 - Ajuste: Slim
 - Composición: 81 por ciento algodón 18 por ciento poliéster 1 por ciento elastano
 

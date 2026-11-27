@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Ajuste y apariencia contemporáneos
 - Nueva costura de hombro curvada
 - 52% algodón, 45% poliéster, 3% elastano
 - Etiqueta principal tejida en la parte posterior del cuello
-- Ajuste y apariencia contemporáneos
 - Cuello y puños de canalé de punto
 
 [🛒 Visítala!!!]({{< param buyurl >}})

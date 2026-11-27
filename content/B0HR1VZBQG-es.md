@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Portátil Convertible 2 en 1 Laptop 15 6 pulgadas i5 7Y54 16G RAM SSD 512GB | Hasta 3 2GHz pantalla táctil con giro de 360 grados para usarlo como portátil soporte tienda o tableta'
-date: 2026-11-24 18:12:15
+date: 2026-11-26 16:23:47
 image: 'https://m.media-amazon.com/images/I/51KJOhyiCeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Mezcla de piel nobuck y nailon balístico
-- Forro Shearling
 - Ojales de
 - Logotipo de metal
+- Forro Shearling
 - Cordones redondos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

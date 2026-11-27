@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - 1.6 pulgadas | Zapatos de plataforma de 4,1 cm para mujer: Agrega altura adicional sin comprometer la comodidad por la que son conocidos los Crocs.
 - Iconic Crocs Comfort: Experimenta la comodidad ligera, flexible y de 360 grados para usar todo el día.
-- Encuentra tu talla: Recomendamos aumentar la talla (por ejemplo, si eres 7.5, talla hasta 8)
 - Compre con confianza: Los productos Crocs están respaldados por nuestra garantía del fabricante de 90 días para alta calidad y autenticidad. Se aplican términos y condiciones.
+- Encuentra tu talla: Recomendamos aumentar la talla (por ejemplo, si eres 7.5, talla hasta 8)
 - Brillo con estilo: Terminado con un tratamiento de purpurina en todo, perfecto para hacer una declaración dondequiera que vayas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

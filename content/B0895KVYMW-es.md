@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Bolsillos: bolsillos laterales; cierre: cierre frontal con cremallera
 - Capucha: capucha totalmente forrada y acolchada; tejido interior: acolchado total con forro de tela a juego
 - Parche Roxy de tela en la manga; petate plegable con tela a juego
-- Bolsillos: bolsillos laterales; cierre: cierre frontal con cremallera
 - Tejido: poliéster repelente al agua [37 g/M2]; corte: corte normal, clásico, cómodo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Disfruta de una experiencia de elegancia con cada aplicación.
 - MARC JACOBS Marc Jacobs Perfect Intense Edp Sp 50 Ml – Other Beauty auténtico y reconocido.
-- Ideal para ocasiones especiales, aporta comodidad inmediata.
 - MARC JACOBS perfume premium con calidad garantizada.
+- Ideal para ocasiones especiales, aporta comodidad inmediata.
 - Presentación versátil de alta calidad, fácil de usar y llevar contigo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

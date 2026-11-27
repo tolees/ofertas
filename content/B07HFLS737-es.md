@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Antideslizante mango
 - HB (con 2, 2 mm de diámetro
 - De madera con certificado PEFC
 - Estrecho vástago
+- Antideslizante mango
 - Triangular ergonómica de lápiz para diestros
 
 [🛒 Visítala!!!]({{< param buyurl >}})

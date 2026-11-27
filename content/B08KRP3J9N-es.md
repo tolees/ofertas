@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre: cremallera
 - Chaqueta bomber para hombre en tallas grandes
+- Cierre: cremallera
 - Bolsillo lateral con cremallera
 
 [🛒 Comprar!!!]({{< param buyurl >}})

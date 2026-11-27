@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Diseñada con un fit relajado inspirado en la moda urbana
 - Confeccionada con un tejido de punto suave
 - LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
-- Diseñada con un fit relajado inspirado en la moda urbana
 - Una camiseta de manga larga para diario
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

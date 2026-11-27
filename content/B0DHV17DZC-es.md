@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Forro textil
 - Empeine sintético suave
-- Corte clásico
 - Suela multisuperficie
+- Forro textil
+- Corte clásico
 - Lengüeta perforada
 
 [🛒 Visítala!!!]({{< param buyurl >}})

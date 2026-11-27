@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte superior de cuero
 - Tobillo acolchado
+- Parte superior de cuero
 - Etiqueta tejida en la lengüeta
 
 [🛒 Comprar!!!]({{< param buyurl >}})

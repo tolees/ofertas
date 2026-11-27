@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Chaqueta polar versátil para mujer, Ideal para senderismo, correr y otras actividades al aire libre, o como capa intermedia para climas fríos, Ajuste activo
-- Ofrece una calidez y comodidad excepcionales gracias a su tejido de poliéster 100 % Sherpa Nubby
 - Contenido: 1x Columbia Chaqueta Polar con Cremallera para Mujer, Panorama II, Color: Marrón (Dark Stone), Talla: L, Art.: 2085883
+- Ofrece una calidez y comodidad excepcionales gracias a su tejido de poliéster 100 % Sherpa Nubby
+- Chaqueta polar versátil para mujer, Ideal para senderismo, correr y otras actividades al aire libre, o como capa intermedia para climas fríos, Ajuste activo
 - Práctica cremallera completa, 2 bolsillos laterales para mantener las manos calentitas
 - Protección adicional contra el viento y el frío gracias al diseño de cuello alto
 

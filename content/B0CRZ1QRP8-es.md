@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dermatológicamente confirmado: el fluido muestra una excelente compatibilidad con la piel y es adecuado como cuidado básico para personas con neurodermatitis y psoriasis.
 - Sin caspa y saludable: la fórmula equilibradora con piroctona olamina y aceite de árbol de té mejora el estado del cuero cabelludo con el uso regular, reduce la caspa y previene la nueva caspa.
 - Cuidado intenso: el fluido especialmente diseñado calma intensamente el cuero cabelludo seco y propenso a la caspa sin necesidad de enjuagar. Ideal para un cuidado sostenible del cuero cabelludo.
+- Dermatológicamente confirmado: el fluido muestra una excelente compatibilidad con la piel y es adecuado como cuidado básico para personas con neurodermatitis y psoriasis.
 - Se une a la humedad: los minerales naturales del Mar Muerto, el pantenol y la niacinamida ayudan a retener la humedad en la piel y actúan eficazmente contra la descamación. Para un cuero cabelludo notablemente cuidado.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

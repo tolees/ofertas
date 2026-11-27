@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Mujer Breaknet Sleek Shoes Off White/FTWR White/Core Black 36 2/3 EU'
-date: 2026-07-27 08:25:03
+date: 2026-11-27 09:17:28
 image: 'https://m.media-amazon.com/images/I/31+Mg42QYeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0FT3WPK3L-es adidas Mujer Breaknet Sleek Shoes Off White/FTWR...'
 sku: 'B0FT3WPK3L-es'
 tags: [ '🇪🇸', ]
-actualPrice: 30.0 EUR
+actualPrice: 27.0 EUR
 currency: EUR
-price: 30.0
+price: 27.0
 comparePrice: 60.0 EUR
 prodname: 'adidas Mujer Breaknet Sleek Shoes Off White/FTWR White/Core Black 36 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FT3WPK3L/?tag=tolees-21'
-descuento: '50.00'
-average: '30.0'
+descuento: '55.00'
+average: '28.5'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,6 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forro textil
-- Empeine de piel y material sintético
-- Cordones
-- Horma clásica
-- Suela de goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FT3WPK3L{{</world>}}

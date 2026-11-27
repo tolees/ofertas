@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tejido de algodón suave para comodidad diaria
 - Diseño clásico de cuello redondo y manga corta
 - Corte entallado
-- Tejido de algodón suave para comodidad diaria
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FBY13T8K{{</world>}}

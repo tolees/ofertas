@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hilo de tinte pigmentado con jacquard de pepe jeans en el puño
 - 94 % algodón, 3 % lana, 3 % cachemira
+- Hilo de tinte pigmentado con jacquard de pepe jeans en el puño
 - Suéter de cuello redondo con costuras lisas de calibre 12
 
 [🛒 Comprar!!!]({{< param buyurl >}})

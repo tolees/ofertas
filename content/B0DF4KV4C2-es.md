@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Lavable a máquina
-- Parte superior de ajuste elástico
 - Amortiguación ultraligera
+- Parte superior de ajuste elástico
 - Skechers Plantilla acolchada de espuma viscoelástica refrigerada por aire
 - Skechers Manos libres sin cordones para un ajuste fácil. Exclusiva almohada para el talón que mantiene tu pie en su lugar de forma segura
 

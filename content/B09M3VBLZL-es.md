@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ONLBLUSH Cintura Media Corte Flared Vaqueros Azul L/32 | Corte flared fit Casual Proceso suave a una temperatura máxima de 40°C'
-date: 2026-11-25 15:34:39
+date: 2026-11-26 15:43:31
 image: 'https://m.media-amazon.com/images/I/31H6rBIVmrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09M3VBLZL/?tag=tolees-21'
 descuento: '68.21'
-average: '25.12'
+average: '22.8125'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

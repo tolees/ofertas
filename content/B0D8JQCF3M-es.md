@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
-- Acabada con nuestro estampado vintage batwing
 - Confeccionada con un corte holgado
+- Acabada con nuestro estampado vintage batwing
 - Una camiseta clásica estampada
 
 [🛒 Aquí!!!]({{< param buyurl >}})

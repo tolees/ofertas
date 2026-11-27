@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B iO 6N Cepillo de Dientes Eléctrico con 2 Cabezales Negro | Cepillo Dental con Sensor de Presión 5 Modos de Cepillado con Blanqueamiento Dental Estuche de Viaje Diseñado por Braun'
-date: 2026-11-23 19:22:00
+date: 2026-11-27 06:17:16
 image: 'https://m.media-amazon.com/images/I/51suX8FxZ+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0B5FHVZD1/?tag=tolees-21'
 descuento: '40.01'
-average: '133.19767441860532'
+average: '132.60888888888954'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

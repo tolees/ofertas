@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Goma incluida en la parte trasera del bolí gramos afo y en el tapón.
-- Trazo de 0,7 milimetros.
-- Oops es el bolígrafo borrable con tinta termosensible.
 - CARIOCA diseña en Italia productos para desarrollar la creatividad de los niños.
+- Goma incluida en la parte trasera del bolí gramos afo y en el tapón.
+- Oops es el bolígrafo borrable con tinta termosensible.
+- Trazo de 0,7 milimetros.
 - Empuñadura ergonómica triangular antideslizante que ayuda a mejorar la escritura.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

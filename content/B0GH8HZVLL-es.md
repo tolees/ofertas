@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- __Marca:__ logo serigrafiado Roxy
-- __Tejido:__ tejido de poliéster
-- __Cierre:__ Cierre trasero ajustable
 - __Visera:__ visera curva
+- __Tejido:__ tejido de poliéster
+- __Marca:__ logo serigrafiado Roxy
 - __Medidas:__ 53 cm
+- __Cierre:__ Cierre trasero ajustable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0GH8HZVLL{{</world>}}

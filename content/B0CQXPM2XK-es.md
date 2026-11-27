@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Bebida de vino
 - Beber con moderación
 - Imponente rojo granate; su aroma nos obsequia con ahumados, pan de higos, toffee y cuero; en boca es intenso y se expande a medida que lo degustamos; taninos todavía vivos
-- Bebida de vino
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CQXPM2XK{{</world>}}

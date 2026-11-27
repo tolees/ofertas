@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marleylámpara de techo 2 focos, metal, color marrón
-- El foco es giratorio y orientable, por lo que se puede utilizar de forma flexible
 - Bombilla exclusiva bombilla recomendada 2 x gu10 máx 35 w
 - La lámpara tiene un ancho de 30 cm
 - Sin bombilla
+- Marleylámpara de techo 2 focos, metal, color marrón
+- El foco es giratorio y orientable, por lo que se puede utilizar de forma flexible
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07PDG1QTB{{</world>}}

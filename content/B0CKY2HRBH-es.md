@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Horma clásica
 - Suela sintética
 - Forro textil
 - Plantilla Cloudfoam Comfort
-- Horma clásica
-- Empeine de malla
 - Forro textil
+- Empeine de malla
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CKY2HRBH{{</world>}}

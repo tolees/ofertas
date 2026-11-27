@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tiene detalles distintivos de la marca
 - El diseño otorga libertad a los movimientos
+- Tiene detalles distintivos de la marca
 - Equipacion deportiva
 - Material resistente y duradero
 

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Grado 10
 - Tarjeta de memoria SD
 - Capacidad de 4 GB
+- Grado 10
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B008XWZRVE{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bolsillos laterales
 - Corte clásico
 - Cierre de cremallera y cuello alzado
 - Tejido polar 100% poliéster reciclado
+- Bolsillos laterales
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CYY5HF2B{{</world>}}

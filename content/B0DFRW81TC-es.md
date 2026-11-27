@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ofrece comodidad
 - Parte superior de ante
+- Ofrece comodidad
 - Zapatilla deportiva clásica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

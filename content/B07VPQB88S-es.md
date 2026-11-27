@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aberturas laterales
 - Proporciona comodidad
 - Cuello redondo
+- Aberturas laterales
 - Una mirada original
 - Manga corta
 

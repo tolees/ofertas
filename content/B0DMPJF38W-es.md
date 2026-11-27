@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Entresuela de EVA
+- Empeine de piel
 - Cierre de cordones
 - Suela de goma resistente a la abrasión y forro textil
-- Empeine de piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DMPJF38W{{</world>}}

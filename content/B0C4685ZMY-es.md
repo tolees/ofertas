@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Calzoncillo interior de malla
-- 100% poliéster (reciclado)
-- Bolsillos en las costuras laterales
-- Corte clásico
 - Cintura elástica con cordón
+- 100% poliéster (reciclado)
+- Corte clásico
+- Calzoncillo interior de malla
+- Bolsillos en las costuras laterales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C4685ZMY{{</world>}}

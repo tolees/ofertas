@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mediasuela de EVA para una amortiguación ligera
 - Suela de caucho para adecuada durabilidad y agarre
+- Mediasuela de EVA para una amortiguación ligera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08VN8M49Q{{</world>}}

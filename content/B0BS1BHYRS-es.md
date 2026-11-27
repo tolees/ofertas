@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Etiqueta de G-STAR Originals tejida en el bajo
 - Un ajuste cómodo
 - Una mirada original
-- Proporciona comodidad
 - Cuello acanalado
+- Proporciona comodidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BS1BHYRS{{</world>}}

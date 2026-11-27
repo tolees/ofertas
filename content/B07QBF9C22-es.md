@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ★ Material: 7 impulsores de plástico. POM, cuerpo de bomba de acero inoxidable 201, salida es SS304, motor es 100% alambre de cobre, motor de aceite, material de tornillo es SS y caucho
 - ★ Perfecto para aplicaciones domésticas y de servicios públicos de transferir agua de un lugar a otro
-- ★ tamaño del artículo: 112*13*20
 - ★ Aplicación: Ideal para el suministro de agua del pueblo, familia, granja, camping, etc.
+- ★ tamaño del artículo: 112*13*20
+- ★ Material: 7 impulsores de plástico. POM, cuerpo de bomba de acero inoxidable 201, salida es SS304, motor es 100% alambre de cobre, motor de aceite, material de tornillo es SS y caucho
 - ★ Garantía de un año （ Atención: los defectos debidos a un uso incorrecto de la bomba no se encuentran dentro de la garantía)
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tacón de 1 1/4 pulgadas
+- Suela de tracción flexible
 - Parte superior de punto diseñada con cordones decorativos
 - Skechers Plantilla acolchada de espuma viscoelástica refrigerada por aire
-- Suela de tracción flexible
+- Tacón de 1 1/4 pulgadas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B3MGXXS4{{</world>}}

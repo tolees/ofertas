@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillos para almacenamiento práctico de objetos pequeños
-- Cintura elástica para un ajuste cómodo y fácil
 - Ligeros y transpirables para días calurosos
+- Cintura elástica para un ajuste cómodo y fácil
+- Bolsillos para almacenamiento práctico de objetos pequeños
 - Versátiles para actividades informales o días de playa
 - Diseño moderno con corte estilizado
 

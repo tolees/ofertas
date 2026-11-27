@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cierre de cordones
+- Horma clásica
 - Mediasuela con amortiguación para una pisada cómoda
 - Forro sintético
-- Horma clásica
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BGGW3J5C{{</world>}}

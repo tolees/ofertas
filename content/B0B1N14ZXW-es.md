@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Plantilla OrthoLite con Memory Tech
-- REEBOK REEBOK GLIDE RIPPLE CBLACK/CBLACK/ROSGOL 39 WOMENS
 - Parte superior de material sintético
+- REEBOK REEBOK GLIDE RIPPLE CBLACK/CBLACK/ROSGOL 39 WOMENS
+- Plantilla OrthoLite con Memory Tech
 - Plantilla OrthoLite con Memory Tech
 
 [🛒 Comprar!!!]({{< param buyurl >}})

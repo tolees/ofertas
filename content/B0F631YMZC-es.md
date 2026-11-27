@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Estilo deportivo
 - Adecuadas para uso diario
 - Cierre con cordones
-- Estilo deportivo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F631YMZC{{</world>}}

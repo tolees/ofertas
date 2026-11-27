@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TATAY Bolsa Térmica Porta Alimentos 1 5 L Fiambrera Hérmetica 0 5L Incluida | Bolsa Térmica Porta Alimentos | Medidas 21 5x9x12 cm | Triple Capa Aislante | Cuerpo Semirrígido | Impermeable - Urban Negro'
-date: 2026-11-23 22:03:02
+date: 2026-11-26 09:26:07
 image: 'https://m.media-amazon.com/images/I/51Sg8I+OyZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00V4PQY3C/?tag=tolees-21'
 descuento: '52.32'
-average: '10.620769230769222'
+average: '10.284666666666659'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

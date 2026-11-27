@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Clarks Sandals, Saltway Trail, Dark Brown Lea, 9 (Men)
 - Textil
 - Caucho
 - Plano
+- Clarks Sandals, Saltway Trail, Dark Brown Lea, 9 (Men)
 - Velcro
 
 [🛒 Comprar!!!]({{< param buyurl >}})

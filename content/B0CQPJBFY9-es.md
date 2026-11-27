@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte superior de cuero duradero
-- Calcetín de cuero transpirable
 - Fácil de poner y
+- Calcetín de cuero transpirable
+- Parte superior de cuero duradero
 - Suela TPR (caucho termoplástico) que ofrece un agarre estable
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Isabel Atún Aceite Girasol - Paquete de 6 x 65 gr - Total: 390 gr'
-date: 2026-11-18 13:50:51
+date: 2026-11-26 09:33:15
 image: 'https://m.media-amazon.com/images/I/51Qc5WtfnbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ '🇪🇸', ]
 actualPrice: 3.44 EUR
 currency: EUR
 price: 3.44
-comparePrice: 5.78 EUR
+comparePrice: 8.9 EUR
 prodname: 'Isabel Atún Aceite Girasol - Paquete de 6 x 65 gr - Total: 390 gr'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IU8XQJ0/?tag=tolees-21'
-descuento: '40.48'
-average: '4.532'
+descuento: '61.35'
+average: '4.0633333333333335'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre de cremallera y capucha
-- Bolsillos laterales
-- Corte clásico con talle medio
-- Contiene al menos un 70% de material reciclado y renovable
-- Bolsillos tipo canguro
-- Cintura elástica con cordón
-- Puños y dobladillo de canalé
 - 70% algodón / 30% poliéster (reciclado)
+- Bolsillos tipo canguro
+- Cierre de cremallera y capucha
+- Corte clásico con talle medio
+- Puños y dobladillo de canalé
+- Cintura elástica con cordón
+- Bolsillos laterales
+- Contiene al menos un 70% de material reciclado y renovable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CZXZ7NFZ{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello abotonado
-- Longitud estándar
 - Puños redondeados
+- Longitud estándar
+- Cuello abotonado
 - Corte estándar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Empeine de piel
 - Suela de tracción flexible
 - Skechers Detalle del logotipo
-- Empeine de piel
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BYBN77NH{{</world>}}

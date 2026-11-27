@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- HIDRATACIÓN, POROS Y TEXTURA DE LA PIEL 7 péptidos veganos, Oligo HA y niacinamida ayudan a hidratar intensamente la piel, suavizar la apariencia de la textura y mejorar el aspecto de los poros.
-- BOOSTER DE PRIMER PASO CON 7 PÉPTIDOS El booster serum ligero se utiliza después de la limpieza como primer paso de cuidado y ayuda a preparar la piel para los siguientes productos.
 - RUTINA ANTI-EDAD SENCILLA Aplicar primero el Peptide Booster Serum y después usar Collagen 100 para cuidar la pérdida de elasticidad, la sequedad, las líneas finas y la textura irregular.
-- COLLAGEN 100 PARA FIRMEZA La Collagen 100 Ampoule con colágeno hidrolizado, adenosina, péptidos, pantenol y Centella Asiatica ayuda a hidratar la piel y a que las líneas finas se vean mejor cuidadas.
 - DUO PARA FIRMEZA Y ELASTICIDAD Un set de cosmética coreana con 7 Vegan Peptide Booster Serum y Collagen 100 Ampoule, desarrollado para una piel más firme, elástica e hidratada.
+- BOOSTER DE PRIMER PASO CON 7 PÉPTIDOS El booster serum ligero se utiliza después de la limpieza como primer paso de cuidado y ayuda a preparar la piel para los siguientes productos.
+- COLLAGEN 100 PARA FIRMEZA La Collagen 100 Ampoule con colágeno hidrolizado, adenosina, péptidos, pantenol y Centella Asiatica ayuda a hidratar la piel y a que las líneas finas se vean mejor cuidadas.
+- HIDRATACIÓN, POROS Y TEXTURA DE LA PIEL 7 péptidos veganos, Oligo HA y niacinamida ayudan a hidratar intensamente la piel, suavizar la apariencia de la textura y mejorar el aspecto de los poros.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0GQXF343C{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Better Leather
 - Material exterior: 81% piel de cerdo - 19% piel de vaca
 - Color: beige medio
 - Forro: 78% tejido (100% PET reciclado) - 22% piel de vaca
+- Better Leather
 - Suela: 100% caucho vulcanizado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

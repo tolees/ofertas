@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Color: Liso
 - Con capucha
-- Bolsillos frontales
-- Fit: Utility
 - Desigual
+- Bolsillos frontales
 - Manga: Larga
+- Fit: Utility
+- Color: Liso
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DTV7Q9F3{{</world>}}

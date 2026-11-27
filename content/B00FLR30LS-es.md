@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de talla: talla estándar
 - hombre
-- Tipo de tacón: Plano
-- Caña baja
 - Cierre: Cordones
+- Tipo de tacón: Plano
 - Hummel
+- Caña baja
+- Tipo de talla: talla estándar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00FLR30LS{{</world>}}

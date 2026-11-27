@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre autoadherente
-- Suela de goma que no deja marcas
 - Horma clásica
+- Suela de goma que no deja marcas
+- Cierre autoadherente
 - Forro textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})

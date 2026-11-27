@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte cónico
 - Cierre de cremallera
+- Corte cónico
 - Cintura media
 
 [🛒 Visítala!!!]({{< param buyurl >}})

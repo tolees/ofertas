@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Helly Hansen Hombres Chaqueta aislante Crew 2.0 Ébano L'
-date: 2026-10-25 16:08:33
+date: 2026-11-27 09:50:46
 image: 'https://m.media-amazon.com/images/I/31nvfW0YaiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08LZ1RC1Y-es Helly Hansen Hombres Chaqueta aislante Crew 2.0 Ébano L'
 sku: 'B08LZ1RC1Y-es'
 tags: [ '🇪🇸', ]
-actualPrice: 85.38 EUR
+actualPrice: 83.25 EUR
 currency: EUR
-price: 85.38
+price: 83.25
 comparePrice: 180.0 EUR
 prodname: 'Helly Hansen Hombres Chaqueta aislante Crew 2.0 Ébano L'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08LZ1RC1Y/?tag=tolees-21'
-descuento: '52.57'
-average: '90.346'
+descuento: '53.75'
+average: '88.318571428571431'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

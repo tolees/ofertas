@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Fit: Loose
-- Manga: Larga
-- Desigual
-- Escote en V
 - Color: Liso
+- Desigual
+- Manga: Larga
+- Escote en V
 - Detalle de volante en el cuello
 
 [🛒 Comprar!!!]({{< param buyurl >}})

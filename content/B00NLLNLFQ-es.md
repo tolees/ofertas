@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte frontal estable.
 - Parte inferior de la visera de color liso.
+- Parte frontal estable.
 - Patrón de cuadros.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Turtle Beach Rematch Core Mando de juegos con cable con licencia XBOX & PC | Negro XBOX Series X|S XBOX One control de audio palanca Hall-Effect motor de vibr./gatillo de impulso'
-date: 2026-11-22 13:06:51
+date: 2026-11-26 20:10:20
 image: 'https://m.media-amazon.com/images/I/412wC9ozKfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GTBVX67G/?tag=tolees-21'
 descuento: '43.35'
-average: '19.626363636363632'
+average: '19.406666666666659'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

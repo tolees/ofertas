@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tamaño folio con 13 posiciones
 - Con tarjetero interior y tarjeta
 - Carpeta separadora de polipropileno con rayado vertical
+- Tamaño folio con 13 posiciones
 - Color azul con cierre de gomas
 - Con etiquetas para los visores: abecedario, meses y personalizable
 

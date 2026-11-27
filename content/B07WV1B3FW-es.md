@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello de solapa
 - Fantástica chaqueta para mujer para looks elegantes
-- abierto para llevar
+- Cuello de solapa
 - Brazos largos de 3/4 con efecto arrugado
 - Perfecto para la oficina, en tu tiempo libre o para ocasiones festivas
+- abierto para llevar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07WV1B3FW{{</world>}}

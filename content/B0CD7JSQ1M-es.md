@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Circunferencia interna: 16 cm con extensor 25 mm
 - Decorada con logo Calvin Klein grabado en la barra
 - Pulsera femenino regulable de Calvin Klein
 - Cierre: Deslizante
+- Circunferencia interna: 16 cm con extensor 25 mm
 - Material: Acero inoxidable pulido con chapado iónico oro amarillo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

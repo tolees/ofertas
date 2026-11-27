@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- MASCARILLA NUTRITIVA Y LIGERA: La mascarilla Dark Oil de Sebastian Professional deja un cabello profundamente nutrido.
-- NUTRICIÓN LIGERA: Deja el cabello nutrido y sorprendentemente ligero.
 - FRAGANCIA IRRESISTIBLE: Deja el cabello con una fragancia cautivadora.
-- PARA TODO TIPO DE CABELLO: Una mascarilla profundamente nutritiva ideal para todo tipo de cabello.
 - BRILLO: Haz que tu cabello brille sin límites y úsalo como parte de tu rutina Dark Oil.
+- MASCARILLA NUTRITIVA Y LIGERA: La mascarilla Dark Oil de Sebastian Professional deja un cabello profundamente nutrido.
+- PARA TODO TIPO DE CABELLO: Una mascarilla profundamente nutritiva ideal para todo tipo de cabello.
+- NUTRICIÓN LIGERA: Deja el cabello nutrido y sorprendentemente ligero.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0G59HGTP4{{</world>}}

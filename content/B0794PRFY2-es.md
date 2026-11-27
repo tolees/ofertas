@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Adecuada para actividades deportivas
 - Suela con tracción de goma antideslizante
 - Zapatillas casual
+- Adecuada para actividades deportivas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0794PRFY2{{</world>}}

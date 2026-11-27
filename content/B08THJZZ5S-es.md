@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Este producto es un producto continente. Los productos continentes son luminarias que pueden desmontarse para permitir la verificación independiente de las fuentes luminosas que contienen.
+- La pantalla de tela de la lámpara de mesa de una llama es negra y en el interior dorada y tiene un diámetro de 20 cm.
+- La lámpara de cama tiene un interruptor de cable con enchufe plano (encendido/apagado) con una longitud de 140 cm.
 - El iluminador no está incluido. Puedes hacer una selección individual aquí. Preste atención a un enchufe E27 y una potencia máxima de 40 W
 - La lámpara de mesa tiene una base de metal negro mate con un suave deslizamiento de fieltro en la parte inferior.
-- La lámpara de cama tiene un interruptor de cable con enchufe plano (encendido/apagado) con una longitud de 140 cm.
-- La pantalla de tela de la lámpara de mesa de una llama es negra y en el interior dorada y tiene un diámetro de 20 cm.
 - Es adecuada como lámpara decorativa en el salón, pasillo, comedor o dormitorio con estilo retro y vintage.
-- Este producto es un producto continente. Los productos continentes son luminarias que pueden desmontarse para permitir la verificación independiente de las fuentes luminosas que contienen.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08THJZZ5S{{</world>}}

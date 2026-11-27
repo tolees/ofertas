@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Omni-Wick.
 - Ventilado.
-- Secado rápido.
 - Soporte para caña.
+- Secado rápido.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00261DXXC{{</world>}}

@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Esta crema de baño limpia la piel del bebé, además de mantenerla suave y aterciopelada
 - Su combinación de aceites de sésamo y de almendra dulce BIO, nutre y suaviza la piel, previniendo la sequedad cutánea
-- Crema 100% natural que se pone en el agua y sin necesidad de aclarado. Es ideal para los primeros baños del bebé
 - Posee Caléndula que tiene propiedades suavizantes y apoya la regeneración de la piel
+- Crema 100% natural que se pone en el agua y sin necesidad de aclarado. Es ideal para los primeros baños del bebé
 - Agitar antes de usar y añadir un poco al agua y mezclarlo con la mano. No es necesario aclarar debido a sus ingredientes naturales evitan que la piel se reseque
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

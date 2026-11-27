@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Talle bajo con cobertura media
-- Elástico suave al tacto
 - Tejido suave y elástico de mezcla de algodón y modal
+- Elástico suave al tacto
 - Biquini
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Aspecto monocromático para un estilo versátil.
-- Archivo de hummel.
-- Construcción de cobre para mayor resistencia.
 - Detalles de ante para el look
+- Aspecto monocromático para un estilo versátil.
+- Construcción de cobre para mayor resistencia.
+- Archivo de hummel.
 - Zapatillas ligeras en colores vivos con detalles de ante.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

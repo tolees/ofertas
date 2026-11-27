@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste regular
 - Detalles distintivos de la marca
 - Amplia libertad de movimiento
+- Ajuste regular
 - Tela suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

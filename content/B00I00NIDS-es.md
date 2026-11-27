@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Diseño moderno y funcional
+- Adecuado para dos jugadores
 - Marca: Learning Resources
 - Producto de calidad
-- Adecuado para dos jugadores
-- Diseño moderno y funcional
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00I00NIDS{{</world>}}

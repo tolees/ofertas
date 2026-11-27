@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre frontal de 3 botones
 - Bolsillo de trabajo en el lado izquierdo del pecho
 - Aberturas laterales en la costura del dobladillo
+- Cierre frontal de 3 botones
 - Manga corta
-- Cuello en punto de canalé que no se enrolla
 - Piqué
+- Cuello en punto de canalé que no se enrolla
 - Loose Fit
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

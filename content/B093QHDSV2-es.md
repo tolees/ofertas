@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estética retro
 - Sistema de amortiguación de última generación
 - Diseño híbrido de carreteras y senderos
 - Ligero y transpirable, ideal para el uso diario.
+- Estética retro
 - Disponible en varios tamaños para un ajuste perfecto.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

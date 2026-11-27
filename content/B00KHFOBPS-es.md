@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WMF Favorit - Sartén 20 cm Acero Inoxidable Cromargan® Sin Revestimiento'
-date: 2026-11-23 08:57:34
+date: 2026-11-26 13:22:40
 image: 'https://m.media-amazon.com/images/I/31uZhKwyq0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KHFOBPS/?tag=tolees-21'
 descuento: '60.84'
-average: '29.672999999999977'
+average: '29.378571428571405'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'COSRX Tónico Sérum de 6X Peptidos Collagen Booster Niacinamida y Ácido Hialurónico Esencia Facial Potenciadora de Renovación Cutánea para Todo Tipo de Piel Libre de Parabenos Korean Skincare'
-date: 2026-11-23 22:04:19
+date: 2026-11-26 08:50:26
 image: 'https://m.media-amazon.com/images/I/31ThorNdS4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CCJ3SRB9/?tag=tolees-21'
 descuento: '44.40'
-average: '15.7775'
+average: '15.402000000000001'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

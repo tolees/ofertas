@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre: de cordones
-- Tipo de talón: plano
 - Tipo de puntera: redondeada
 - Ancho: estándar
 - Piel GripControl Pro que ofrece un control decisivo sobre el balón
+- Cierre: de cordones
+- Tipo de talón: plano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DJ918VZM{{</world>}}

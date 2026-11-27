@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pantalón corto
 - Para uso diario
+- Pantalón corto
 - Tiene detalles distintivos de la marca "Under Armour"
 
 [🛒 Visítala!!!]({{< param buyurl >}})

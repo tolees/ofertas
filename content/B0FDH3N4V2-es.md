@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mattel Jurassic World Hammond Collection Figura Sinoceratops | Figura de acción articulada de JW de lujo gran tamaño cola articulada JKG88'
-date: 2026-11-19 18:46:28
+date: 2026-11-26 14:07:33
 image: 'https://m.media-amazon.com/images/I/41f2sbyDxoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

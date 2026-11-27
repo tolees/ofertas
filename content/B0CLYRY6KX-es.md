@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'EcoTools Blurring Blender Esponja Difuminadora para Maquillaje Facial | Accesorio de Belleza de Doble Punta para Cara Contorno de Ojos y Nariz con Base Líquida Crema y Barra Acabado Natural'
-date: 2026-11-10 16:40:11
+date: 2026-11-27 07:19:12
 image: 'https://m.media-amazon.com/images/I/41UGoM-56EL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CLYRY6KX/?tag=tolees-21'
 descuento: '46.20'
-average: '3.1724999999999972'
+average: '3.0759999999999979'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

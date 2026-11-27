@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela de goma
+- Forro sintético
 - Cierre de cordones
 - Empeine sintético
-- Forro sintético
+- Suela de goma
 - Horma clásica
 
 [🛒 Visítala!!!]({{< param buyurl >}})

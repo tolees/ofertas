@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HyperX Cloud III S - Auriculares Gaming inalámbricos Bluetooth 2.4Ghz PC PS5 Xbox Drivers 53 mm DTS micrófono 10mm batería hasta 200h Negro'
-date: 2026-11-24 20:32:37
+date: 2026-11-26 19:04:40
 image: 'https://m.media-amazon.com/images/I/31fTrHKg6HL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0F6NZWPTC-es HyperX Cloud III S - Auriculares Gaming inalámbricos...'
 sku: 'B0F6NZWPTC-es'
 tags: [ '🇪🇸', ]
-actualPrice: 92.99 EUR
+actualPrice: 89.99 EUR
 currency: EUR
-price: 92.99
+price: 89.99
 comparePrice: 149.99 EUR
 prodname: 'HyperX Cloud III S - Auriculares Gaming inalámbricos Bluetooth 2.4Ghz PC PS5 Xbox Drivers 53 mm DTS micrófono 10mm batería hasta 200h Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F6NZWPTC/?tag=tolees-21'
-descuento: '38.00'
-average: '104.7261111111125'
+descuento: '40.00'
+average: '103.9505263157908'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

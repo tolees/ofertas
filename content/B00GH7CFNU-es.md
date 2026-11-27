@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño en Cubo Vertical Profesional: Formato de cubo vertical para una atractiva imagen de cuidado profesional.
-- Fibra FSC: 90% Virgen, 10% Reciclada: 90% fibra virgen, 10% fibra reciclada. Producido con madera certificada por FSC (Forest Stewardship Council)
 - 12 Estuches x 56 Hojas (672 Total): Hojas dos capas, blancas. Tam. hoja indiv.: 20 cm (L) x 20 cm (An). (672 total)
+- Fibra FSC: 90% Virgen, 10% Reciclada: 90% fibra virgen, 10% fibra reciclada. Producido con madera certificada por FSC (Forest Stewardship Council)
 - Con Bálsamo Protector: Enriquecidos con bálsamo protector para mayor suavidad y cuidado de la piel
+- Diseño en Cubo Vertical Profesional: Formato de cubo vertical para una atractiva imagen de cuidado profesional.
 - Calidad Kleenex con Toque de Lujo: Marca Kleenex de confianza con un toque de lujo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

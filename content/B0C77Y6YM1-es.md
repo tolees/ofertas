@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Puntera perforada
+- Logotipo en el talón deportivo inspirado en los archivos
 - Trabilla en el talón
 - Rayas laterales
-- Logotipo en el talón deportivo inspirado en los archivos
-- Puntera perforada
 - Un modelo distintivo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

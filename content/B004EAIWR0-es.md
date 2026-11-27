@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DON JULIO tequila reposado 700 ml'
-date: 2026-11-19 00:52:33
+date: 2026-11-26 23:18:03
 image: 'https://m.media-amazon.com/images/I/51PqjEvdZ3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B004EAIWR0/?tag=tolees-21'
 descuento: '36.39'
-average: '44.562244897959168'
+average: '44.378627450980382'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

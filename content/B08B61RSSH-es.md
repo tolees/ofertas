@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte ajustado
 - Trabillas para
+- Corte ajustado
 - Hasta el tobillo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

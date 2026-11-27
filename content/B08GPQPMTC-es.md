@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cordones
-- Material interior: sintético
-- Material exterior: piel
 - Suela: goma
+- Cordones
+- Material exterior: piel
+- Material interior: sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08GPQPMTC{{</world>}}

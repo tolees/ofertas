@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Plantilla OrthoLite
+- Parte superior en piel
+- REEBOK REEBOK COURT ADVANCE FTWWHT/CDGRY2/FTWWHT 44.5 UNISEX
 - Suela resistente de goma
 - Microburbujas DMX en la entresuela
-- Parte superior en piel
-- Plantilla OrthoLite
-- REEBOK REEBOK COURT ADVANCE FTWWHT/CDGRY2/FTWWHT 44.5 UNISEX
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B1MZXTJ2{{</world>}}

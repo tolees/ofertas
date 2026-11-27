@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Fabricación Goodyear
 - Plantilla extraíble
-- Cierre de cordones
 - Botas unisex
+- Cierre de cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DW9HZWB6{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- [ESCENARIOS APLICABLES] - Esta sudadera es perfecta para hacer footing, correr, senderismo, ciclismo, entrenamiento y diversas actividades al aire libre.
 - [SECADO RÁPIDO] - El diseño de secado rápido absorbe el sudor de la piel y se evapora rápidamente, manteniéndote fresco durante todo el entrenamiento.
-- [CAMISETA CLÁSICA] - Color liso, corte limpio, cuello redondo, sencilla y versátil. Sin etiqueta en el cuello para mayor libertad de movimiento.
 - [LIGERA Y ELÁSTICA] - Calidad superior, no se deforma; elástica en 4 direcciones, diseño ligero, libertad de movimiento.
+- [CAMISETA CLÁSICA] - Color liso, corte limpio, cuello redondo, sencilla y versátil. Sin etiqueta en el cuello para mayor libertad de movimiento.
+- [ESCENARIOS APLICABLES] - Esta sudadera es perfecta para hacer footing, correr, senderismo, ciclismo, entrenamiento y diversas actividades al aire libre.
 - [MATERIAL] - Tejido de poliéster de alta calidad. Fresco, ligero, elástico y transpirable para un confort óptimo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Suela de goma
 - Empeine de material sintético
+- Cordones
 - Plantilla textil
 - Horma clásica
-- Cordones
-- Suela de goma
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F2GHMXFB{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Marca: BULLDOG SECURITY
-- Tipo de producto: SAUCE
 - Bull-Dog Vegetal y salsa de frutas salsa tonkatsu 500 ml
 - Tamaño: 500 ml Paquete de 1
+- Tipo de producto: SAUCE
+- Marca: BULLDOG SECURITY
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0012YZP9Y{{</world>}}

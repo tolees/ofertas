@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Brand: ARMANI EXCHANGE
-- Articolo: Cardigan
-- Cremallera
 - Lavar a máquina
 - Suéter
+- Articolo: Cardigan
 - Algodón
+- Cremallera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B081W37NLF{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pequeña "P" bordada en la parte posterior
 - Gorra de sarga lavada con logotipo de Pepe Jeans en la parte delantera
+- Pequeña "P" bordada en la parte posterior
 - 100% algodón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

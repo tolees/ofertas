@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cierre: Cremallera
-- Material Ripstop de alta calidad, forro interior de malla
-- Capucha con cordón, mangas con puños
 - Lavado a máquina
 - Chaqueta
+- Material Ripstop de alta calidad, forro interior de malla
 - Manga larga
+- Capucha con cordón, mangas con puños
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08HR2BKNY{{</world>}}

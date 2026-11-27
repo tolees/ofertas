@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Lavable a
-- Entresuela ligera y flexible que absorbe los golpes
 - Skechers Plantilla acolchada de espuma viscoelástica
+- Entresuela ligera y flexible que absorbe los golpes
 - Zapatillas deportivas con diseño de deslizamiento
 - Parte superior de punto de malla suave y plana con cordones elásticos en la parte delantera
 

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tu perfil de escucha personal: da forma a tu audio con Personi-Fi 2.0, dotado de herramientas de personalización interactivas que proporcionan una curva de sonido hecha para ti
-- Sin interrupciones: disfruta de hasta 70h de música con una sola carga o bien obtén 5 h adicionales con una carga de 5 min y realiza llamadas nítidas con los auriculares supraaurales JBL Tour One M3
 - Llamadas nítidas: con 8 micrófonos y la cancelación de ruido True Adaptative 2.0, estos auriculares reducen el ruido no deseado; utiliza Ambient Aware y Talk Thru para determinar cuánto sonido exterior escuchar
+- Sin interrupciones: disfruta de hasta 70h de música con una sola carga o bien obtén 5 h adicionales con una carga de 5 min y realiza llamadas nítidas con los auriculares supraaurales JBL Tour One M3
 - Conéctate como quieras: empareja los cascos inalambricos con dos dispositivos Bluetooth, usa un cable USB-C o bien usa la app JBL para conectarlos a otros dispositivos Auracast como la TV o tu consola de juegos
 - Sumérgete en el sonido JBL Pro: dotados de un sonido hi-res envolvente, de un audio JBL Spatial 360 y de potentes drivers de 40 mm, estos cascos inalámbricos también son aptos para gaming y pc
 

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela de goma para un agarre óptimo en diferentes superficies.
 - La combinación de cuero y tela asegura durabilidad y transpirabilidad.
+- Suela de goma para un agarre óptimo en diferentes superficies.
 - Diseño inspirado en las siluetas clásicas de Jordan para una apariencia icónica.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

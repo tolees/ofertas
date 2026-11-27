@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Pantalón de entrenamiento
 - Duradero y resistente
 - Fabricado en material cómodo
-- Pantalón de entrenamiento
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C4FDBCL6{{</world>}}

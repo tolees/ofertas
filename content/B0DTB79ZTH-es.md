@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Sonicare 7100 cepillo dental eléctrico sónico con aplicación 4 modos de cepillado y 3 niveles de intensidad alerta de presión SmarTimer blanco HX7420/08 [Nueva Tecnología]'
-date: 2026-11-20 09:34:32
+date: 2026-11-26 16:35:41
 image: 'https://m.media-amazon.com/images/I/41GBNbs8B4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DTB79ZTH/?tag=tolees-21'
 descuento: '43.48'
-average: '184.98999999999975'
+average: '173.98999999999981'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

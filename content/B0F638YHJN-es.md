@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ancho: estándar
 - Obermaterial: Leder, Textil; Futter: Textil; Einlegesohle: Textil; Laufsohle: Gummi
-- Tipo de talón: plano
 - Tipo de puntera: redondeada
+- Ancho: estándar
 - Cierre: de cordones
+- Tipo de talón: plano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F638YHJN{{</world>}}

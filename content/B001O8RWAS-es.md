@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fragancia para hombre.
-- Gran durabilidad sobre la piel
 - Con Alcohol
+- Gran durabilidad sobre la piel
+- Fragancia para hombre.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B001O8RWAS{{</world>}}

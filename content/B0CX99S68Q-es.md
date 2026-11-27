@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Gráficos anime de gran calidad
-- Un escenario de la historia exclusivo
-- Espectaculares combates 3 vs 3
 - Increibles características en línea
+- Espectaculares combates 3 vs 3
+- Un escenario de la historia exclusivo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CX99S68Q{{</world>}}

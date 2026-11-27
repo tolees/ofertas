@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Comodidad y estilo
 - Material resistente
+- Comodidad y estilo
 - Estructura ligera y flexible
 
 [🛒 Comprar!!!]({{< param buyurl >}})

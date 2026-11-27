@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CORTE ESTÁNDAR: corte ajustado en los hombros, el pecho y la cintura
 - POLO DEPORTIVO: diseñado para jugar al golf y como ropa deportiva
-- DETALLES: Solapa con tres botones, cuello acanalado, tela que absorbe la humedad y aberturas laterales para mayor movilidad
 - PIQUÉ DE SECADO RÁPIDO: el piqué de poliéster ofrece una superficie texturizada y absorbe la humedad para ofrecer comodidad en movimiento
+- CORTE ESTÁNDAR: corte ajustado en los hombros, el pecho y la cintura
+- DETALLES: Solapa con tres botones, cuello acanalado, tela que absorbe la humedad y aberturas laterales para mayor movilidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B096YR1M7S{{</world>}}

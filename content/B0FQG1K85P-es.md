@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Esta correa es neutra en carbono. La correa Loop Trail contiene un 30 % de materiales en peso reciclados y el 100 % de la electricidad empleada en su fabricación procede de energía limpia.
 - Además, el 50 % o más de los productos Apple Watch neutros en carbono no se envía por transporte aéreo.
+- Esta correa es neutra en carbono. La correa Loop Trail contiene un 30 % de materiales en peso reciclados y el 100 % de la electricidad empleada en su fabricación procede de energía limpia.
 - La correa Loop Trail, ultrafina y ligera, está confeccionada en un nailon suave que ofrece mayor elasticidad y comodidad. Y como incluye una lengüeta para ajustarla rápidamente, queda ceñida a la muñeca.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Amortiguación Lightstrike en el talón
+- Mediasuela de EVA
 - Horma clásica
 - Paneles acolchados en la lengüeta y alrededor del tobillo
-- Empeine textil
-- Mediasuela de EVA
 - Suela Adiwear que no deja marcas
-- Amortiguación Lightstrike en el talón
+- Empeine textil
 - Contiene al menos un 20% de material reciclado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

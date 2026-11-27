@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Plantilla textil
-- Mediasuela DREAMSTRIKE
-- Cordones
 - Empeine textil
 - Horma clásica
+- Cordones
+- Plantilla textil
+- Mediasuela DREAMSTRIKE
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F2FZV3WT{{</world>}}

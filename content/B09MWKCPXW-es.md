@@ -30,10 +30,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Composición del material: 60% algodón, 20% viscosa, 20% nailon
 - Ajuste: holgado
+- Ajuste cómodo
+- Durabilidad con material sostenible
 - JACK & JONES apoya la iniciativa Better Cotton usando algodón orgánico o reciclado
 - Prenda de diseño ligero de la marca Jack&Jones para moda masculina
-- Durabilidad con material sostenible
-- Ajuste cómodo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09MWKCPXW{{</world>}}

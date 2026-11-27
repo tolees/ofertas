@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- LECHE desnatada (94%), azúcar, café en polvo (0,5%), aroma natural de café, colorante (caramelo natural), cacao magro (0,3%) estabilizantes (citrato tripotásico y goma gelana) aroma y vitaminas A y D.
 - Pruébalo frío o caliente Mezcla de cafés arábica y robusta y el punto justo de cacao Despertarse nunca fue tan fácil
+- LECHE desnatada (94%), azúcar, café en polvo (0,5%), aroma natural de café, colorante (caramelo natural), cacao magro (0,3%) estabilizantes (citrato tripotásico y goma gelana) aroma y vitaminas A y D.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B081ZCR2Q5{{</world>}}

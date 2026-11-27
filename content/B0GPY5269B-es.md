@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CONECTA CON QUIÉN ESTÉ AHÍ: ve, escucha y habla en tiempo real con la persona que esté en tu puerta principal gracias al vídeo en directo y a la comunicación bidireccional.
-- ESCUCHA LAS ALERTAS DEL VIDEOTIMBRE EN TODA TU CASA: combina Battery Video Doorbell (2.ª gen.), gris jaspeado, moca mate o blanco jaspeado con Chime (3.ª gen.), blanca, para recibir una notificación en el interior cuando alguien llame al timbre o se detecte movimiento.
 - RETINAL 2K CON ZOOM MEJORADO DE HASTA 6 AUMENTOS: desde vistas amplias hasta un enfoque más preciso, la nitidez se mantiene intacta cada vez que amplíes.
-- AÑADE CHIME (3.ª gen.): añade Chime (3.ª gen.) para escuchar el sonido del timbre de Ring más alto y claro desde cualquier rincón de tu casa. Para recibir notificaciones, enchúfala a una toma de corriente estándar, instálala de forma sencilla y conéctala al instante mediante wifi o Bluetooth.
-- VINCÚLALA CON ALEXA: escucha notificaciones personalizadas desde Echo Dot, accede al vídeo con Echo Show y mantén tu hogar protegido en modo manos libres con una selección de dispositivos compatibles con Alexa.
-- ESCUCHA LAS ALERTAS EN TIEMPO REAL CON CLARIDAD: gracias al altavoz mejorado de Chime, las alertas se reproducen por toda la casa con un sonido claro.
 - CARGA FÁCILMENTE TU SISTEMA DE SEGURIDAD DE LA PUERTA PRINCIPAL: solo tienes que insertar la herramienta de extracción incluida para separar tu Battery Video Doorbell (2.ª gen.) de la pared y, a continuación, cargar la batería integrada con el cable USB-C.
+- ESCUCHA LAS ALERTAS DEL VIDEOTIMBRE EN TODA TU CASA: combina Battery Video Doorbell (2.ª gen.), gris jaspeado, moca mate o blanco jaspeado con Chime (3.ª gen.), blanca, para recibir una notificación en el interior cuando alguien llame al timbre o se detecte movimiento.
 - MÁS INFORMACIÓN. MÁS CONOCIMIENTO. MÁS PROTECCIÓN: guarda tus vídeos grabados hasta 180 días para volver a verlos en cualquier momento, recibe alertas cuando se detecten personas y mucho más con una suscripción a Ring (a la venta por separado).
+- VINCÚLALA CON ALEXA: escucha notificaciones personalizadas desde Echo Dot, accede al vídeo con Echo Show y mantén tu hogar protegido en modo manos libres con una selección de dispositivos compatibles con Alexa.
+- AÑADE CHIME (3.ª gen.): añade Chime (3.ª gen.) para escuchar el sonido del timbre de Ring más alto y claro desde cualquier rincón de tu casa. Para recibir notificaciones, enchúfala a una toma de corriente estándar, instálala de forma sencilla y conéctala al instante mediante wifi o Bluetooth.
+- ESCUCHA LAS ALERTAS EN TIEMPO REAL CON CLARIDAD: gracias al altavoz mejorado de Chime, las alertas se reproducen por toda la casa con un sonido claro.
+- CONECTA CON QUIÉN ESTÉ AHÍ: ve, escucha y habla en tiempo real con la persona que esté en tu puerta principal gracias al vídeo en directo y a la comunicación bidireccional.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0GPY5269B{{</world>}}

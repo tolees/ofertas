@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Certificación Cybenetics Gold: Eficiencia de hasta el 91%, lo que se traduce en un menor consumo de energía, menos ruido y temperaturas más bajas
+- Compatible con ATX 3.1: Cumple con el estándar de alimentación ATX 3.1 de Intel, admite PCIe 5.1 y resiste picos de alimentación transitorios
 - Cables en relieve con peines de perfil bajo: Los cables en relieve, elegantes y ultraflexibles, tienen un aspecto estupendo y facilitan la instalación y conexión de la RMx
 - Conector nativo 12V-2x6: Garantiza la compatibilidad con las tarjetas gráficas más recientes con una conexión directa de la GPU a la fuente de alimentación, sin necesidad de adaptador
+- Certificación Cybenetics Gold: Eficiencia de hasta el 91%, lo que se traduce en un menor consumo de energía, menos ruido y temperaturas más bajas
 - Totalmente modular: Fuente de alimentación fiable y eficiente de bajo ruido con cableado totalmente modular, para que sólo tenga que conectar los cables que necesita su sistema
-- Compatible con ATX 3.1: Cumple con el estándar de alimentación ATX 3.1 de Intel, admite PCIe 5.1 y resiste picos de alimentación transitorios
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D9C3P46P{{</world>}}

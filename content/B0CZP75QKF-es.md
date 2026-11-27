@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillo canguro
-- 71% algodón / 29% poliéster (reciclado)
 - Diseño con capucha
 - Corte clásico
+- Bolsillo canguro
+- 71% algodón / 29% poliéster (reciclado)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZP75QKF{{</world>}}

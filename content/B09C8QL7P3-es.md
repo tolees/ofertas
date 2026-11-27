@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Babaria - Crema Reafirmante Corporal | Crema Hidratante Corporal Y Firmeza | Body Milk Para Pieles Sensibles | Aloe Vera Y Vitamina E | Rápida Absorción - 400 Ml'
-date: 2026-11-24 21:41:22
+date: 2026-11-26 20:19:22
 image: 'https://m.media-amazon.com/images/I/310CCqQpr+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09C8QL7P3/?tag=tolees-21'
 descuento: '48.49'
-average: '1.6630555555555588'
+average: '1.656578947368424'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela de goma duradera
 - Empeine de piel
 - Perfil de corte bajo
+- Suela de goma duradera
 - Logotipo de archivo y caja de ventana
 
 [🛒 Visítala!!!]({{< param buyurl >}})

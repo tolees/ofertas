@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Bragueta de cremallera
+- Bolsillos traseros de parche
+- Pernera ajustada, que se estrecha ligeramente hacia el tobillo
 - Talle alto
 - Remaches de refuerzo en los bolsillos delanteros, bolsillo para monedas oculto
-- Pernera ajustada, que se estrecha ligeramente hacia el tobillo
-- Bolsillos traseros de parche
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09Y9FDR88{{</world>}}

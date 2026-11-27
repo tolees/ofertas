@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Tirantes anchos, ergonómicos y acolchados que se adaptan perfectamente a la espalda y banda trasera para incorporarla al trolley cuando viajes. Con puerto USB integrado con cable para conectar a una batería externa.
 - Hecho con materiales resistentes al agua.
-- Mochila de 25 cm x 37 cm x 10 cm fabricada en poliéster.
 - Doble compartimento principal con espacio específico para ordenador de hasta 13,3 pulgadas y otro para tablet. Con puerto USB integrado con cable para conectar a una batería externa.
+- Mochila de 25 cm x 37 cm x 10 cm fabricada en poliéster.
 - Bolsillo frontal con cierre cremallera, con dos espacios para guardar accesorios.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

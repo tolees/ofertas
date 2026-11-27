@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Parte de tela con revestimientos sintéticos
 - Una zapatilla inspirada en nuestros archivos con toques de color
+- Parte de tela con revestimientos sintéticos
 - Forro de tela con cierre de cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})

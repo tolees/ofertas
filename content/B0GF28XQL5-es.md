@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JTF Irrigador Bucal Eléctrico 300ML 3+1 Modos Irrigador Dental 6 Boquillas IPX7 Portatil Limpiador Dental para Ortodoncia/Encías Sensibles -Limpieza Dientes de Hogar Entusiastas Salud Ora Negro'
-date: 2026-11-23 15:09:31
+date: 2026-11-26 19:25:30
 image: 'https://m.media-amazon.com/images/I/41feibWDY6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GF28XQL5/?tag=tolees-21'
 descuento: '38.41'
-average: '18.862'
+average: '18.796666666666663'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

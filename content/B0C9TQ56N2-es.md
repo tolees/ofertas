@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Composición: 100% algodón
 - Cuidado: lavable a máquina
 - Color: negro
 - Camiseta casual
-- Composición: 100% algodón
 - Corte: regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})

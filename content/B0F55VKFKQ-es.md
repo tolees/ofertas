@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Capucha con cordón ajustable
 - Contiene al menos un 70% de materiales reciclados y renovables
-- Primegreen
-- Interior cepillado
+- 70% algodón / 30% poliéster (reciclado)
 - Corte clásico
 - Bolsillo canguro
-- 70% algodón / 30% poliéster (reciclado)
-- Capucha con cordón ajustable
+- Primegreen
+- Interior cepillado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F55VKFKQ{{</world>}}

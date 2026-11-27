@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- BIENESTAR PARA NADAR BIEN: este bañador conserva la forma elegante y una cintura con cordón interior que aportan comodidad durante las clases y el entrenamiento. Ahora, se confecciona con un 50 % de materiales reciclados. Es ideal para las sesiones largas o cortas en la piscina
-- CALIDAD Y COMODIDAD: nuestro popular bañador corto junior, ahora mucho más ecológico. Hemos actualizado este traje de baño clásico usando nuestro superduradero tejido Eco Endurance+, que mantiene la esperada comodidad y libertad de movimiento
 - CAUSAMOS SENSACIÓN: desde que se fundó nuestra empresa en Australia en 1928, nos apasiona la vida dentro y alrededor del agua. Nuestro propósito es inspirar a la gente para que nade, ya sea para entrenar, competir, hacer fitness o divertirse, de modo que disfrute de los momentos en el agua todavía más
+- CALIDAD Y COMODIDAD: nuestro popular bañador corto junior, ahora mucho más ecológico. Hemos actualizado este traje de baño clásico usando nuestro superduradero tejido Eco Endurance+, que mantiene la esperada comodidad y libertad de movimiento
+- BIENESTAR PARA NADAR BIEN: este bañador conserva la forma elegante y una cintura con cordón interior que aportan comodidad durante las clases y el entrenamiento. Ahora, se confecciona con un 50 % de materiales reciclados. Es ideal para las sesiones largas o cortas en la piscina
 - Secado rápido: se seca rápidamente después del entrenamiento de natación
 - TEJIDO ECO POWER: nuestro tejido Endurance+ es totalmente resistente al cloro, se seca rápido y es duradero. Está reciclado en un 50 %: uno de los hilos está elaborado en un 100 % con residuos de posconsumo, como botellas de plástico recicladas
 

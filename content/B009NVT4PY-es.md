@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Transparente
 - Flexible
 - Fuerte
-- Transparente
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B009NVT4PY{{</world>}}

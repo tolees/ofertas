@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Looks de tendencia
 - NEXT - la marca inglesa para el hogar y la familia
 - Prácticos multipacks
 - Siempre fáciles de conjuntar y combinar
+- Looks de tendencia
 - Básicos encantadores
 
 [🛒 Visítala!!!]({{< param buyurl >}})

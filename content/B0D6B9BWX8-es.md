@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Capacidad de inmersión de 0 a 42 mm
-- Lámpara LED para indicar el desbloqueo
 - Función antireinicio
-- Botón de bloqueo/desbloqueo con modo de espera de encendido/apagado
-- Lámpara de advertencia de alta temperatura
-- Portabrocas de 6 / 6,35 mm / ¼"
 - Ajuste de profundidad suave y preciso, mecanismo de cremallera y piñón
+- Botón de bloqueo/desbloqueo con modo de espera de encendido/apagado
+- Portabrocas de 6 / 6,35 mm / ¼"
 - Interruptor de encendido de botón
+- Lámpara de advertencia de alta temperatura
+- Capacidad de inmersión de 0 a 42 mm
 - Base cuadrada de plástico transparente para una visión clara del borde a recortar; 82 x 90 mm y carcasa de plástico
+- Lámpara LED para indicar el desbloqueo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D6B9BWX8{{</world>}}

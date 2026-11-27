@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Combate Dinámico: Tres héroes únicos intercambiables en tiempo real.
-- Mundo Inmenso y Diverso: Desde Desiertos hasta Bosques Nevados.
-- Wings of Endless - Deluxe Edition incluye: Juego Físico + Póster a Doble Cara + Banda Sonora.
-- Numerosas Misiones Secundarias: Descubre más sobre el mundo de "Wings of Endless".
 - Historia Fascinante: Revela los secretos de una Guerra Ancestral.
+- Wings of Endless - Deluxe Edition incluye: Juego Físico + Póster a Doble Cara + Banda Sonora.
+- Mundo Inmenso y Diverso: Desde Desiertos hasta Bosques Nevados.
+- Numerosas Misiones Secundarias: Descubre más sobre el mundo de "Wings of Endless".
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GT5HYM1D{{</world>}}

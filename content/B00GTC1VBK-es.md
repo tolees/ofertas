@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Se puede utilizar con cualquier tipo de altavoz provisto de un orificio de montaje o se puede fijar directamente a la carcasa de madera o plástico del altavoz
-- Soporte de pared y techo para altavoces de instalación de hasta 10 kg
 - Se suministra con un cable de acero de seguridad de 20 cm de largo
 - Se ajusta con mucha en todos los ejes y se puede orientar en cualquier dirección
+- Soporte de pared y techo para altavoces de instalación de hasta 10 kg
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00GTC1VBK{{</world>}}

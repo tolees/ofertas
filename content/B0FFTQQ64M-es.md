@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Pepe Jeans Logotipo bordado en la parte delantera en un tono claro, añadiendo un toque distintivo y elegante
-- Gorra estilo béisbol
 - Hecho de algodón con un ala curvada y una correa trasera ajustable para un ajuste personalizado
+- Gorra estilo béisbol
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FFTQQ64M{{</world>}}

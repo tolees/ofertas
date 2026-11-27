@@ -30,12 +30,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Manga : Manga larga
 - Acolchado : Acolchado de poliéster para una mayor suavidad y comodidad
+- Cierre : Cierre de cremallera
 - Puños : Puños acanalados
 - Funcionalidad : Hidrófugo
-- Cuello : Capucha con cordón de ajuste
-- Artículo : Chaqueta corta acolchada
-- Cierre : Cierre de cremallera
 - Forro : Forro de poliéster para una sensación cómoda
+- Artículo : Chaqueta corta acolchada
+- Cuello : Capucha con cordón de ajuste
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DKJWXBVG{{</world>}}

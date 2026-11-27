@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s New Duncan Cinturón Unisex adulto Marrón Dark Brown 100'
-date: 2026-11-24 21:43:47
+date: 2026-11-26 07:14:36
 image: 'https://m.media-amazon.com/images/I/51YCAUInfyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XFNT7GT/?tag=tolees-21'
 descuento: '71.57'
-average: '17.778461538461553'
+average: '16.73466666666668'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

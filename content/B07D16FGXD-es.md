@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Spray profesional de peinado ligero con fijación natura; proporciona protección contra la humedad, rayos UV y el calor; con una cautivadora nueva fragancia inspirada en la individualidad
 - Consigue una fijación ligera y de rápido secado para tu cabello con Eimi Mistify Me; formulado con tecnología micro-mist que permite una difusión mas suave y homogénea del producto en el cabello
+- Spray profesional de peinado ligero con fijación natura; proporciona protección contra la humedad, rayos UV y el calor; con una cautivadora nueva fragancia inspirada en la individualidad
 - Rociar sobre el peinado realizado para obtener una fijación suave y movimiento
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

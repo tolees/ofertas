@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 100% poliéster (reciclado)
-- Cierre de cremallera y capucha con gorro impermeable interior
-- Puños parcialmente elásticos
 - Tecnología RAIN.RDY de doble capa
 - Bolsillos laterales con cremallera
+- Puños parcialmente elásticos
+- 100% poliéster (reciclado)
+- Cierre de cremallera y capucha con gorro impermeable interior
 - Corte clásico
 
 [🛒 Aquí!!!]({{< param buyurl >}})

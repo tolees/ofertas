@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ofrece comodidad y libertad de movimiento
-- Columbia Midweight Tight capa base ajustada para niños
 - Tiene detalles distintivos de la marca
+- Columbia Midweight Tight capa base ajustada para niños
 - Equipación deportiva de la marca Columbia
+- Ofrece comodidad y libertad de movimiento
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B3QJHL63{{</world>}}

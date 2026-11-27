@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Star Wars The Mandalorian Máscara electrónica con Frases y Efectos de Sonido Disfraz Infantil Juguetes para niños y niñas a Partir de 5 años'
-date: 2026-11-20 20:46:54
+date: 2026-11-27 07:28:15
 image: 'https://m.media-amazon.com/images/I/41UuUj-Qo9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FCYV7VGQ/?tag=tolees-21'
 descuento: '38.58'
-average: '25.1625'
+average: '24.428'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

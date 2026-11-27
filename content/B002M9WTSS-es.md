@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- LUBRICANTE BIO - Nuestro gel lubricante BIOglide plus Ginseng combina una mayor y duradera capacidad de deslizamiento con los beneficios estimulantes del ginseng y ingredientes certificados y naturales
-- 100% NATURAL - El gel está libre de fragancias, colorantes y conservantes sintéticos, y es adecuado para aplicaciones anales, vaginales y orales, así como para su uso con condones y juguetes sexuales
-- ¡BIOglide de JOYDIVISION es para todos los que valoran lo natural! Nuestros productos orgánicos certificados se fabrican en Alemania bajo los más altos estándares de calidad y han sido dermatológicamente probados
 - MUY AMIGABLE CON LA PIEL - El lubricante a base de agua tiene una textura sedosamente hidratante y es muy bien tolerado por la piel. Es vegano, pH optimizado, soluble en agua y libre de grasa
+- LUBRICANTE BIO - Nuestro gel lubricante BIOglide plus Ginseng combina una mayor y duradera capacidad de deslizamiento con los beneficios estimulantes del ginseng y ingredientes certificados y naturales
+- ¡BIOglide de JOYDIVISION es para todos los que valoran lo natural! Nuestros productos orgánicos certificados se fabrican en Alemania bajo los más altos estándares de calidad y han sido dermatológicamente probados
+- 100% NATURAL - El gel está libre de fragancias, colorantes y conservantes sintéticos, y es adecuado para aplicaciones anales, vaginales y orales, así como para su uso con condones y juguetes sexuales
 - A BASE DE AGUA - El lubricante neutro BIO es a base de agua, lo que proporciona excelentes propiedades de lubricación, no deja manchas, no es pegajoso y es fácil de lavar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

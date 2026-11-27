@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Axe
-- Ocasiones: Halloween, fiesta de terror, fiesta medieval, fiestas temáticas, espectáculos, actuaciones, dr, rpg, larp, cosplay
-- 45 cm aprox
 - Arma de plástico
+- Axe
+- 45 cm aprox
+- Ocasiones: Halloween, fiesta de terror, fiesta medieval, fiestas temáticas, espectáculos, actuaciones, dr, rpg, larp, cosplay
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07DNH3VBP{{</world>}}

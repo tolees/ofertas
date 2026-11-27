@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Soundcore Q20i de Anker Cascos Bluetooth con ANC Híbrida Hi-Res 40H | Personalización vía App Modo Transparencia y Graves Profundos'
-date: 2026-11-22 10:12:51
+date: 2026-11-26 14:50:47
 image: 'https://m.media-amazon.com/images/I/31DqjnHtv8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0C3HCD34R/?tag=tolees-21'
 descuento: '40.01'
-average: '35.263249999999879'
+average: '35.198148148148029'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

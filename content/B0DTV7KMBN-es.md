@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estampado a rayas
-- Combinación de colores
-- Desigual
-- Manga: Larga
-- Fit: Regular
 - Cuello: Redondo
+- Fit: Regular
+- Desigual
+- Combinación de colores
+- Estampado a rayas
+- Manga: Larga
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DTV7KMBN{{</world>}}

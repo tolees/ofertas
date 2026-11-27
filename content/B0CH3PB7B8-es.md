@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pasta de dientes 97% natural Biomed Calcimax | Reparación de esmalte y protección contra caries | Apto para veganos sin SLES 3x100 g Pack de 3'
-date: 2026-11-15 08:25:45
+date: 2026-11-26 20:25:22
 image: 'https://m.media-amazon.com/images/I/518rEabsT+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CH3PB7B8/?tag=tolees-21'
 descuento: '37.39'
-average: '10.226153846153908'
+average: '10.161851851851912'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

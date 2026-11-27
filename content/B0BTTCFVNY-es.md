@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Capucha ajustable mediante cordones
 - Detalles distintivos de la marca
+- Capucha ajustable mediante cordones
 - Sudadera con cierre de cremallera frontal
 - Con bolsillos laterales
 

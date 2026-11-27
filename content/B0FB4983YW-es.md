@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Suela anatómica y flexible
-- Sandalia abierta ligera y transpirable
 - Diseño contemporáneo y glamuroso
+- Sandalia abierta ligera y transpirable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FB4983YW{{</world>}}

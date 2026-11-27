@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estampado : Estampado de goma para un tacto suave
-- Cuello : Cuello redondo
 - Manga : Manga corta
 - Artículo : Camiseta
+- Estampado : Estampado de goma para un tacto suave
 - Corte : Corte standard
+- Cuello : Cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B28MTFTG{{</world>}}

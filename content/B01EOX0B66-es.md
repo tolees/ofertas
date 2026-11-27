@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Helly Hansen Hombres Chaqueta Dubliner Azul Marino L'
-date: 2026-11-25 14:54:43
+date: 2026-11-26 16:16:50
 image: 'https://m.media-amazon.com/images/I/31muA7XEQgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EOX0B66/?tag=tolees-21'
 descuento: '55.00'
-average: '73.379347826087042'
+average: '72.853125000000091'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

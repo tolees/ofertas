@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- revitalizante
 - Frasco de al menos un 90% de plástico reciclado
 - Vegano
 - Aceite de cardo y aroma a flor de cerezo
 - Etiqueta de plástico 100 % reciclado (de los cuales 50% residuos industriales)
+- revitalizante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CHBLYQ6P{{</world>}}

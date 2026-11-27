@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Nota: El ancho del producto, incluido soportes, es de 130 cm; El tejido mide 127 cm de ancho (1,5 cm menos a cada lado aprox.); El largo del producto abierto completamente más el mecanismo mide 235 cm; Solo el tejido mide 230 cm
-- Estor enrollable 100% poliéster con Mecanismo y cadena de PVC en color blanco
 - Estor enrollable de estilo moderno y elegante que bloquea totalmente la entrada de luz, perfecto para todo tipo de estancias: Salón, Cocina, Habitaciones, Baño u Oficina, Fácil limpieza con un trapo ligeramente húmedo
+- Estor enrollable 100% poliéster con Mecanismo y cadena de PVC en color blanco
 - Opciones de instalación: colgar, atornillar a techo o pared con tacos y tornillos que enviamos.
+- Nota: El ancho del producto, incluido soportes, es de 130 cm; El tejido mide 127 cm de ancho (1,5 cm menos a cada lado aprox.); El largo del producto abierto completamente más el mecanismo mide 235 cm; Solo el tejido mide 230 cm
 - Incluye: sistema seguridad infantil, tacos, tornillos, soportes, contrapeso e instrucciones de instalación, Regulación mediante mecanismo de cadena, Diseñado en ESPAÑA por ZEBRA TEXTIL, S.L.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

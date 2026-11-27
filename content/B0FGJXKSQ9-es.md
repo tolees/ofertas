@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Catrice Paleta de coloretes Blur Balm Blush Palette de gran pigmentación resultado inmediato natural luminoso 6g'
-date: 2026-11-17 11:02:32
+date: 2026-11-26 21:46:53
 image: 'https://m.media-amazon.com/images/I/31dBlr4KooL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

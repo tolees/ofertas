@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Espacio para colocar los cubiertos de lékué. + servilleta o lo que se desee
+- Cubiertos no incluidos
+- Bpa free
 - Incluye: dos recipientes con sus tapas, una tapa extra y una banda para unir los dos recipientes
 - Válvula para el uso en el microondas. Para calentar, se debe abrir la tapita de silicona.
-- Bpa free
-- Cubiertos no incluidos
+- Espacio para colocar los cubiertos de lékué. + servilleta o lo que se desee
 - Ideas para un menú semanal, incluido en el pack
 
 [🛒 Comprar!!!]({{< param buyurl >}})

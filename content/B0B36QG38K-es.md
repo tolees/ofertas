@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Formula 100% vegana que incluye ácido hialurónico, escualeno y un complejo hidratante
 - Acabado radiante y natural
+- Formula 100% vegana que incluye ácido hialurónico, escualeno y un complejo hidratante
 - Larga duración
 - Disponible en 4 colores vivos y de fácil difuminado
 - Nuevo colorete que cuida y mejora tu piel

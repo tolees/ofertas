@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela de agarre duradero Goodyear
 - Zapato de cancha
+- Suela de agarre duradero Goodyear
 - Zapatillas clásicas adecuadas para pickleball
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

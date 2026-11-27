@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior en piel
 - REEBOK CLUB C 85 FTWWHT/CHALK/KINBLU 39 UNISEX
 - Entresuela resistente de goma
-- Sensación suave
 - Suela exterior de goma muy resistente al desgaste
+- Parte superior en piel
+- Sensación suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB8MY81G{{</world>}}

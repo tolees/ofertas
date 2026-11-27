@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Gran obra de arte en la parte posterior y etiqueta tejida con logotipo insertado en la costura lateral
 - Sudadera de cuello redondo en tela cepillada con pequeñas ilustraciones en la parte superior del pecho
+- Gran obra de arte en la parte posterior y etiqueta tejida con logotipo insertado en la costura lateral
 - Acabado de carbono melocotón
 
 [🛒 Visítala!!!]({{< param buyurl >}})

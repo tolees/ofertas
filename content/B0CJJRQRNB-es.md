@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Impermeable
 - NO INFLAMABLE
 - Alta resistencia
-- Transpirable
 - Suave y cómodo
+- Impermeable
+- Transpirable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CJJRQRNB{{</world>}}

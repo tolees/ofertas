@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Disponible en varios colores y diseños
+- Hecho de materiales suaves y duraderos.
 - Cómodo cuello redondo.
 - Camisetas versátiles para cualquier ocasión
-- Hecho de materiales suaves y duraderos.
 - Ideal para combinar con vaqueros o pantalones cortos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

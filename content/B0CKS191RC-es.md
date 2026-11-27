@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro textil
-- Mediasuela Cloudfoam
-- Cierre de cordones
-- Suela Adiwear
-- Empeine de malla
-- Plantilla OrthoLite
-- Horma clásica
-- Peso: 304 g (talla 42 2/3)
 - Drop: 10 mm (talón: 33 mm / antepié: 23 mm)
+- Peso: 304 g (talla 42 2/3)
+- Plantilla OrthoLite
+- Suela Adiwear
+- Horma clásica
+- Forro textil
+- Cierre de cordones
+- Mediasuela Cloudfoam
+- Empeine de malla
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKS191RC{{</world>}}

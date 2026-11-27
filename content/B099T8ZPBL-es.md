@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela ancha con relieve y logotipo con texto.
 - Puntera de goma asimétrica
-- Lengua de espuma visible
-- Texto "New Balance" en ángulo en la lengüeta del talón
 - Entresuela de EVA
+- Lengua de espuma visible
+- Suela ancha con relieve y logotipo con texto.
+- Texto "New Balance" en ángulo en la lengüeta del talón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B099T8ZPBL{{</world>}}

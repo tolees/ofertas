@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Características del producto: óptima eficacia luminosa, hasta 120 lm/W
-- El producto tiene la fuente de luz extraíble; estos productos pueden desmontarte para revisar de forma separada la fuente de luz contenida
-- Tipo de protección: ip65
 - Ángulo de apertura: 115
 - Tecnología LED más novedosa y sostenible, no incluye bombilla normal
+- El producto tiene la fuente de luz extraíble; estos productos pueden desmontarte para revisar de forma separada la fuente de luz contenida
+- Tipo de protección: ip65
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B082BCLTW6{{</world>}}

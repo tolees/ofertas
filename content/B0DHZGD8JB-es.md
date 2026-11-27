@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Empeine de malla
-- Refuerzo de goma en el talón
 - Forro textil
-- Amortiguación LIGHTMOTION
+- Empeine de malla
 - Horma clásica
+- Amortiguación LIGHTMOTION
+- Refuerzo de goma en el talón
 - Suela Adiwear
 
 [🛒 Aquí!!!]({{< param buyurl >}})

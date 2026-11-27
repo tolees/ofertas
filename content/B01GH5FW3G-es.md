@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello del mismo tejido
-- La tecnología antiolores previene el crecimiento de microbios responsables de olor
-- Solapa de 3 botones
 - Material que capilariza el sudor y se seca rápidamente
+- La tecnología antiolores previene el crecimiento de microbios responsables de olor
+- Cuello del mismo tejido
 - Tejido texturizado suave, ligero y transpirable
+- Solapa de 3 botones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01GH5FW3G{{</world>}}

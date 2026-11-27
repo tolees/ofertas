@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello con punta de punto plano
-- Ventilación lateral
 - Solapa de botones
+- Ventilación lateral
+- Cuello con punta de punto plano
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CBQLHZ37{{</world>}}

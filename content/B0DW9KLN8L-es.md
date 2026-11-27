@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estampado de Mickey Mouse
+- Maga: Corta
 - Desigual
+- Confeccionado con materiales sostenibles
 - Cuello: Redondo
 - Estampado Arty
-- Confeccionado con materiales sostenibles
-- Maga: Corta
+- Estampado de Mickey Mouse
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DW9KLN8L{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Entresuela de goma
 - Detalles de la marca PUMA en el exterior, el talón y la lengüeta
-- Suela de goma
 - Exterior de piel sintética
+- Entresuela de goma
+- Suela de goma
 - Formstrip de PUMA en el lateral interior y exterior
 
 [🛒 Visítala!!!]({{< param buyurl >}})

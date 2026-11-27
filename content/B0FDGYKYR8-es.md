@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolso bandolera
-- Acabado liso
 - Cierre de cremallera
+- Acabado liso
+- Bolso bandolera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FDGYKYR8{{</world>}}

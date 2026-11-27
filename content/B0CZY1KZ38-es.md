@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Contiene al menos un 70% de material reciclado y renovable
+- Camiseta: cuello redondo
 - 100% algodón
 - Corte clásico
-- Camiseta: cuello redondo
 - Pantalón corto: cintura elástica
+- Contiene al menos un 70% de material reciclado y renovable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CZY1KZ38{{</world>}}

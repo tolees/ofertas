@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro textil
-- Suela sintética
 - Cierre de cordones
-- Mediasuela Cloudfoam
 - Horma clásica
+- Suela sintética
+- Mediasuela Cloudfoam
 - Empeine de malla con detalles de ante y material sintético
+- Forro textil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D73VSR6Y{{</world>}}

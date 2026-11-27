@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Número de modelo: 084335
 - PUMA Orbita 6 MS
+- Número de modelo: 084335
 - Color: Puma blanco-puma rojo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

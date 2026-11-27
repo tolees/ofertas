@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cierre: semental
 - Chaqueta de traje
 - Elástica
-- Corto
-- Cierre: semental
 - Material: 55% poliéster, 40% poliéster, 5% elastano
+- Corto
 - Chaqueta informal
 
 [🛒 Comprar!!!]({{< param buyurl >}})

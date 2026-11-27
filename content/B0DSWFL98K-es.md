@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Escote acanalado y inserto
 - Etiqueta tejida G-Star Originals en la costura lateral inferior
-- Proporciona comodidad
+- Escote acanalado y inserto
 - Ranuras laterales
+- Proporciona comodidad
 - G-Star RAW bordado en el pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Telefono móvil
-- Color: negro
 - Capacidad: 128 GB
+- Color: negro
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CK1793QK{{</world>}}

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Narrativas ramificadas
-- ¡Montones de juegos de palabras!
 - 100 personajes con los que puedes tener citas
 - Al menos 3 finales por cada candidato romántico
+- ¡Montones de juegos de palabras!
 - Voces completas para cada personaje
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

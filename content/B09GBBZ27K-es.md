@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Correa ajustable para un ajuste personalizado y seguro.
 - Diseño moderno con suela elevada para un toque de estilo.
+- Correa ajustable para un ajuste personalizado y seguro.
 - Plantilla LiteRide para una amortiguación superior.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

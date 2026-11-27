@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- 100 % poliamida
 - PEPE JEANS SALLY LONG MERLOT RED L
 - Detallado con información técnica de la prenda impresa en la cara interior, un tirador de cremallera de goma de la marca y un parche de goma de la marca en la manga izquierda
-- 100 % poliamida
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DTJB4NFX{{</world>}}

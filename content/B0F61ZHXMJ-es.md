@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- pH 5,5: Respeto al pH natural de la piel, promueve barrera protectora.
-- Fórmula 50ml: Ideal para uso diario, fácil de llevar y aplicar.
-- Sebamed es una marca de confianza que se esfuerza continuamente para proporcionar productos que cuidan la piel de manera efectiva. Garantía sello ECARF.
-- Cuidado suave: Sebamed, para pieles delicadas de bebé, dermotestada y segura.
 - La siguiente información se aplica a cada unidad del paquete
+- Fórmula 50ml: Ideal para uso diario, fácil de llevar y aplicar.
+- Cuidado suave: Sebamed, para pieles delicadas de bebé, dermotestada y segura.
 - Protección facial: Barrera contra la sequedad y elementos externos.
+- Sebamed es una marca de confianza que se esfuerza continuamente para proporcionar productos que cuidan la piel de manera efectiva. Garantía sello ECARF.
+- pH 5,5: Respeto al pH natural de la piel, promueve barrera protectora.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F61ZHXMJ{{</world>}}

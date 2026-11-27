@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Lo hacemos con innovación de rendimiento y zapatos, camisas y herramientas digitales que cambian el juego y empujan los límites de lo que creías posible
 - Forro polar de mezcla de algodón ultrasuave con interior cepillado para mayor calidez
+- Lo hacemos con innovación de rendimiento y zapatos, camisas y herramientas digitales que cambian el juego y empujan los límites de lo que creías posible
 - Under Armour La misión de la camiseta es simple: hacerte mejor
 - Puños acanalados, cuello y dobladillo inferior
 

@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - AJUSTE: Corte regular para comodidad y movilidad
 - SHORTS DE ENTRENAMIENTO LIGEROS: Diseñados para velocidad, ventilación y libertad de movimiento
 - TEJIDO SUAVE Y TRANSPIRABLE: Construcción de poliéster tejido 100 % para caída ligera y flexible
-- ESTILO ATLÉTICO: Color negro clásico con detalles de diseño bloqueado para un look definido y listo para el rendimiento
 - IDEAL PARA: Sesiones de entrenamiento y ejercicios de alta intensidad
+- ESTILO ATLÉTICO: Color negro clásico con detalles de diseño bloqueado para un look definido y listo para el rendimiento
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FFH7TCV1{{</world>}}

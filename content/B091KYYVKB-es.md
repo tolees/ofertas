@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【PROTECCIÓN DE SEGURIDAD】: Estas tomas de corriente protegen a tu familia contra descargas eléctricas.
-- 【ESTÁNDAR】: Calificación de 16 A, tamaño 157 mm x 86 mm. Nuestras tomas de corriente se pueden instalar en una caja empotrada de 60 mm de diámetro. La profundidad de la caja debe ser de al menos 25 mm.
 - 【ALTA CALIDAD】: La toma de corriente BSEED está fabricada con ABS ignífugo y un panel táctil resistente al agua hecho de cristal templado.
+- 【ESTÁNDAR】: Calificación de 16 A, tamaño 157 mm x 86 mm. Nuestras tomas de corriente se pueden instalar en una caja empotrada de 60 mm de diámetro. La profundidad de la caja debe ser de al menos 25 mm.
+- 【PROTECCIÓN DE SEGURIDAD】: Estas tomas de corriente protegen a tu familia contra descargas eléctricas.
 - 【DISEÑO MODERNO Y ELEGANTE】: Un diseño sorprendente y artístico que dará un toque de elegancia a tu hogar. Ideal para casas, oficinas, hoteles, hospitales, fábricas y otros lugares.
 - 【FÁCIL INSTALACIÓN】: Para instalar la toma de corriente, conecte el cable de fase (marcado con "L"), el neutro (marcado con "N") y la tierra (marcado con "〨"). Si es necesario, la placa frontal se puede desmontar y volver a ensamblar fácilmente para acceder a las partes internas.
 

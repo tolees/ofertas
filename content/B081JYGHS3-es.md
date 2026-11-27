@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Gorra con ajuste posterior a presión para hombre
 - Características incluyen: diseño estructurado de 5 paneles con cierre ajustable a presión
+- Gorra con ajuste posterior a presión para hombre
 - Parche con estampado de alta densidad y cierre ajustable con corchete de plástico
 - Tejido en sarga de algodón
 - Visera semi-curvada

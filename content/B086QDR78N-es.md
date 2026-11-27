@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ajustable a tu ropa preferida
-- Tiene detalles distintivos de la marca
 - Cuenta con un diseño ligero
+- Tiene detalles distintivos de la marca
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B086QDR78N{{</world>}}

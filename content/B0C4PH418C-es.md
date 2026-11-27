@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre : Cierre de botones
 - Corte : Corte slim
-- Artículo : Camisa
-- Manga : Manga larga
 - Modo de vida : Tradicional
 - Cuello : Cuello de camisa
+- Cierre : Cierre de botones
+- Manga : Manga larga
+- Artículo : Camisa
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C4PH418C{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sabor FRESÓN, FRESA ÁCIDA, MERMELADA DE FRESA
 - OSITOS DE ORO FRESA MIX 1Kg - Nuestros icónicos Ositos de Oro cumplen 100 años y, para celebrarlo, lanzamos una ¡EDICIÓN ESPECIAL ANIVERSARIO! Disfruta de un delicioso surtido de diferentes sabores a fresa en una misma bolsa!
+- Sabor FRESÓN, FRESA ÁCIDA, MERMELADA DE FRESA
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CPQ54ZCT{{</world>}}

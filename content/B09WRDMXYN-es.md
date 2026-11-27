@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tiene punta cubierta
-- Cierre con cordones
 - Presentan tacón plano
+- Cierre con cordones
+- Tiene punta cubierta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09WRDMXYN{{</world>}}

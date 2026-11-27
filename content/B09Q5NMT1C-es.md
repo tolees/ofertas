@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aporta hidratación a la piel
-- Vitamina E
 - Contiene antioxidantes
+- Vitamina E
+- Aporta hidratación a la piel
 - Ácidos esenciales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

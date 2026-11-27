@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Baseus Security S1 Lite Solocam Camara Vigilancia WiFi Exterior Solar IP67 | Camara IP Seguridad Bateria 2K 135° Visión Nocturna a Color Sin Cargos Detección Humana Compatible con Alexa y Google'
-date: 2026-11-24 16:16:26
+date: 2026-11-26 06:25:07
 image: 'https://m.media-amazon.com/images/I/31ZaxdPZQ9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FBS622C7/?tag=tolees-21'
 descuento: '40.01'
-average: '39.636470588235333'
+average: '39.43388888888893'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

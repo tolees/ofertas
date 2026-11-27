@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello: redondo
 - Camiseta clásica y sencilla
+- Cuello: redondo
 - Ajuste: corte normal
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fundas y tapicería de espuma transpirables
-- 2 cojines extraíbles para soporte lumbar y cervical
 - Compartimento para el banco de energía
 - Iluminación RGB con 300 modos de iluminación y mando a distancia
+- 2 cojines extraíbles para soporte lumbar y cervical
+- Fundas y tapicería de espuma transpirables
 - Asiento con ajuste de altura (45-55 cm) continuo y respaldo con ángulo de inclinación ajustable (90-135°)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

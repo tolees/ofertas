@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 100% Compuesto
-- Manga larga
-- Para hombres
 - Lavar a mano
+- Manga larga
+- 100% Compuesto
+- Para hombres
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B59LMGHD{{</world>}}

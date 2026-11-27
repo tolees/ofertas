@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Play-Doh Mi Hornito de Pasteles'
-date: 2026-11-19 08:08:03
+date: 2026-11-26 22:43:31
 image: 'https://m.media-amazon.com/images/I/51KJoR3BBlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DNGBHK93/?tag=tolees-21'
 descuento: '42.87'
-average: '22.927857142857143'
+average: '22.560624999999998'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

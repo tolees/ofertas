@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Siteme WiFi 6 malla AX3000
 - Proporciona una conexión WiFi estable y potente
+- Siteme WiFi 6 malla AX3000
 - Aspecto compacto y elegante
 
 [🛒 Aquí!!!]({{< param buyurl >}})

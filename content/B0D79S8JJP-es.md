@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Atlas Black
 - Mochilas para hombre, mujer y niño The Indian Face Atlas Black
 - Mochilas
-- Atlas Black
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D79S8JJP{{</world>}}

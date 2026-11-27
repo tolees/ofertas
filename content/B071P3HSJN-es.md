@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Iluminación led
-- Cri80
-- 15000 h de vida útil
 - Material: sintético
+- Cri80
+- Iluminación led
+- 15000 h de vida útil
 - 1300 lúmenes
 
 [🛒 Aquí!!!]({{< param buyurl >}})

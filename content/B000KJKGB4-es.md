@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tizas para pizarra de colores intensos
-- Fácil de borrar
 - No producen polvo ni arena
 - Envoltura de papel
+- Fácil de borrar
+- Tizas para pizarra de colores intensos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B000KJKGB4{{</world>}}

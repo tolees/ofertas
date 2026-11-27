@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricado en el Reino Unido
-- Imágenes paso a paso para seguir
-- Hojas preimpresas para facilitar su uso
-- Set de actividades de acuarela opaca/témpera con el temática de gato
 - Optimo para artistas principiantes
+- Imágenes paso a paso para seguir
+- Fabricado en el Reino Unido
+- Set de actividades de acuarela opaca/témpera con el temática de gato
+- Hojas preimpresas para facilitar su uso
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BLHWQ245{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela de goma flexible con tracción
 - Media suela contorneada con absorción de impactos
+- Suela de goma flexible con tracción
 - Talón de 3,2 cm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

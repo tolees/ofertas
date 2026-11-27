@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Aplicar dos veces al día, por la mañana y/o por la tarde.
 - Reduce los signos de sequedad cutánea, restaurando la elasticidad y suavizando la piel.
+- Aplicar dos veces al día, por la mañana y/o por la tarde.
 - Hidratante con 10 % de urea alivia piel seca de inmediato, protegiendo durante 48 horas. Mejora la apariencia, elimina zonas ásperas y escamosas. Adecuada para piel propensa a queratosis pilaris, xerosis y psoriasis.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

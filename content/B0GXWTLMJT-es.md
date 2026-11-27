@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'iRobot Roomba Plus 575 Combo + Base AutoWash multifunción 25KPa Mopas DualClean PerfectEdge Lava y Seca con Calor IA Precision Vision SmartClean Clearview Pro LiDAR 90 Días Autonomía Blanco'
-date: 2026-11-22 15:37:48
+date: 2026-11-27 09:11:22
 image: 'https://m.media-amazon.com/images/I/31gVfpKBY2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GXWTLMJT/?tag=tolees-21'
 descuento: '45.78'
-average: '432.33333333333286'
+average: '426.9999999999996'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

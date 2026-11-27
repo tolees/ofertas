@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - AEROREADY
+- Corte clásico
 - 100% poliéster (reciclado)
 - Cintura elástica con cordón
-- Corte clásico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZ9T2TQ5{{</world>}}

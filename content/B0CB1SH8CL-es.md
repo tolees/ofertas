@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Confort
-- Cierre de encaje
 - Punta redonda
+- Cierre de encaje
+- Confort
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CB1SH8CL{{</world>}}

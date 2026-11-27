@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Talla única
-- Cómoda de llevar
 - Gorra deportiva para hombre
+- Cómoda de llevar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C8Z37ZPY{{</world>}}

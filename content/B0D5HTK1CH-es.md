@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Pack de 2 para hombre
 - Tela elástica de algodón suave
 - Contiene algodón orgánico
 - Cinturilla cómoda
-- Pack de 2 para hombre
 - Fabricado con al menos un 51% de algodón orgánico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

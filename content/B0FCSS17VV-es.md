@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Jean
 - Vaquero Rto
+- Jean
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FCSS17VV{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Molde alto para diferentes tipos de grosor
 - Set compuesto por molde y prensador
+- Molde alto para diferentes tipos de grosor
 - Prensador de acero inoxidable con pomo ergonómico
 
 [🛒 Visítala!!!]({{< param buyurl >}})

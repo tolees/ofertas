@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene detalles distintivos de la marca
 - Pantalones largos deportivos
+- Tiene detalles distintivos de la marca
 - Ofrece comodidad y libertad de movimiento
 - Cintura elástica ajustable con cordón
 

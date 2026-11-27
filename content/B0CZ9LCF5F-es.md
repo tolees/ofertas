@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido transpirable
-- CLIMACOOL
+- Refuerzos bajo las sisas
 - Diseño de secado rápido
+- Tejido transpirable
+- 100% poliéster (reciclado)
+- CLIMACOOL
 - Costuras de los hombros desplazadas hacia atrás
 - Corte clásico
-- Refuerzos bajo las sisas
-- 100% poliéster (reciclado)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZ9LCF5F{{</world>}}

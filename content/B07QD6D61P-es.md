@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cada set contiene 10 cajas regalo de 4 ceras Giotto
 - Descubre los otros productos Party Gifts: Acuarelas, Rotuladores, Lápices
+- Cada set contiene 10 cajas regalo de 4 ceras Giotto
 - Caja regalo idónea para las fiestas para niños
 - Cada caja se puede personalizar con el nombre del invitado
 - Las ceras Giotto son redondas, de colores vivos y cubrientes

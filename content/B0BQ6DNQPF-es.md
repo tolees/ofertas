@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta deportiva
 - deportes casuales
+- Camiseta deportiva
 - logotipo de Nike
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

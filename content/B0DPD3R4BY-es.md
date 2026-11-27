@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre de hebilla
-- zapato de tacón alto
 - 100% cuero
+- zapato de tacón alto
+- Cierre de hebilla
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DPD3R4BY{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Complejo concentrado en activos reductores específicos
 - Favorece la reducción de las acumulaciones de grasa localizada
+- Complejo concentrado en activos reductores específicos
 - Favorece el drenaje del exceso de líquidos
 - Para mujeres con adiposidad localizada en caderas, muslos y cintura
 

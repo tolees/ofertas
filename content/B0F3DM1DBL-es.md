@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Visera curvada
-- Talla única
-- CLIMACOOL
 - Cinta transpirable para el sudor de la frente
 - 100% poliéster (reciclado)
-- Estructura de cinco paneles
+- Talla única
 - Cierre ajustable en la nuca
+- CLIMACOOL
+- Estructura de cinco paneles
+- Visera curvada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F3DM1DBL{{</world>}}

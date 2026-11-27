@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido Infinitex Fitness
 - Material Externo: 78% Poliamida(100% Reciclado) / 22% Elastano / Forro: 88% Poliéster(100% Reciclado) / 12% Elastano
+- Tejido Infinitex Fitness
 - Corte ajustado
 - Cuello redondo
 

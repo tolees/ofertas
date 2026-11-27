@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fácil de aplicar
-- Deslizamiento fácil
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - Para un maquillaje óptimo
+- Fácil de aplicar
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Deslizamiento fácil
 - La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Comprar!!!]({{< param buyurl >}})

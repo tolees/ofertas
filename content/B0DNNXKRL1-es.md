@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Dos bolsillos frontales para un estilo clásico
-- Levis XX Chino Authentic Relaxed, no los llames caquis. Estos pantalones son suaves, tienen una pierna y corte rectos y cuentan con un elegante fit estándar en el muslo.
 - LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
+- Levis XX Chino Authentic Relaxed, no los llames caquis. Estos pantalones son suaves, tienen una pierna y corte rectos y cuentan con un elegante fit estándar en el muslo.
 - Una versión moderna del chino clásico
 - Fit versátil holgado en el muslo
 

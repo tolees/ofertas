@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aberturas laterales para una mayor libertad de movimiento
-- Capucha con cordón
 - Motivo de letras TRUE
-- Dos bolsillos
+- Capucha con cordón
 - Tela de sudadera suave y confortable
+- Aberturas laterales para una mayor libertad de movimiento
+- Dos bolsillos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DMT3TG4X{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Los refrescos con sabores La Casera contienen cero azúcares añadidos
-- Refresco con gas de naranja con cero azúcares añadidos
-- El refresco con gas de naranja ideal para cualquier ocasión
 - Sabor naranja. Una bebida refrescante que combina bien con comidas
+- Refresco con gas de naranja con cero azúcares añadidos
 - Bebida ideal para tomar con mucho hielo y una rodaja de limón
+- El refresco con gas de naranja ideal para cualquier ocasión
+- Los refrescos con sabores La Casera contienen cero azúcares añadidos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FZLGZFB9{{</world>}}

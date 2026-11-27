@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Con tejido cepillado
 - Puños, cuello y dobladillo acanalados
 - Corte holgado
-- Con tejido cepillado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CL6YR93D{{</world>}}

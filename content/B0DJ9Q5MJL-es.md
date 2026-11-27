@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre: de cordones
+- Tipo de talón: plano
 - Ancho: estándar
 - Detalles de la marca PUMA
-- Tipo de talón: plano
+- Cierre: de cordones
 - Tipo de puntera: redondeada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

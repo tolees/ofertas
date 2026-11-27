@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fondo perforado para una ventilación correcta y patas antideslizantes para la máxima estabilidad
 - Cama de plástico para perros con cómodo apoyo para el mentón, adecuada para perros de tamaño mediano; Dimensiones totales: 82 x 59,5 x h 25 cm; Dimensiones internas útiles: 74 x 48 cm
-- Disponible en diferentes colores y medidas
 - Modelo aconsejado para perros y gatos. Las dimensiones útiles para tu mascota son: 74 cm longitud x 48 cm ancho.
+- Disponible en diferentes colores y medidas
+- Fondo perforado para una ventilación correcta y patas antideslizantes para la máxima estabilidad
 - Confortable forma redondeada con bordes altos y parte frontal rebajada para un fácil acceso
 
 [🛒 Aquí!!!]({{< param buyurl >}})

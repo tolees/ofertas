@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 100% poliéster (reciclado)
+- Tejido transpirable AEROREADY
+- Compra 1 talla más grande
+- Puños y dobladillo elásticos
 - Puños y dobladillo elásticos
 - Bolsillos frontales de ojal
-- Tejido transpirable AEROREADY
-- 100% poliéster (reciclado)
-- Puños y dobladillo elásticos
-- Compra 1 talla más grande
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09T6SM1HH{{</world>}}

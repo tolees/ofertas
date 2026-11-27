@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Una sudadera con capucha básica y cómoda
 - Tacto suave, ni fino ni grueso
+- Una sudadera con capucha básica y cómoda
 - Acabado con un estampado único
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Panel con inserción de malla cortada y cosida
-- dryCELL: La denominación de PUMA para las propiedades repelentes de la humedad que ayudan a que la piel permanezca seca y cómoda
 - Cuello redondo
+- dryCELL: La denominación de PUMA para las propiedades repelentes de la humedad que ayudan a que la piel permanezca seca y cómoda
+- Panel con inserción de malla cortada y cosida
 - Costura lateral orientada hacia delante para mejorar la silueta
 - Contiene material reciclado: Producto elaborado con fibras recicladas. Una de las soluciones de PUMA para reducir el impacto ambiental
 

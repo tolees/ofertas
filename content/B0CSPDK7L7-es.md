@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste relajado
 - Cuello redondo
 - Manga larga
+- Ajuste relajado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CSPDK7L7{{</world>}}

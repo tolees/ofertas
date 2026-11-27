@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sin mangas
 - Cerrado alto
+- Sin mangas
 - Chaleco
 - Composición: 100% poliéster
 

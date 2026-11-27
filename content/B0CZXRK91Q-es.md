@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'adidas Uomo Essential Three Stripes French Terry Pant Black/White M'
-date: 2026-03-24 20:13:36
-image: 'https://m.media-amazon.com/images/I/21TPtCaMxRL._SL500_._SL400_.jpg'
+title: 'adidas Hombre Essential Three Stripes French Terry Pants Black/White M'
+date: 2026-11-26 14:53:43
+image: 'https://m.media-amazon.com/images/I/21LHrwXa-EL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0CZXRK91Q-es adidas Uomo Essential Three Stripes French Terry Pant...'
+slug: 'B0CZXRK91Q-es adidas Hombre Essential Three Stripes French Terry Pants...'
 sku: 'B0CZXRK91Q-es'
 tags: [ '🇪🇸', ]
-actualPrice: 24.49 EUR
+actualPrice: 17.99 EUR
 currency: EUR
-price: 24.49
+price: 17.99
 comparePrice: 50.0 EUR
-prodname: 'adidas Uomo Essential Three Stripes French Terry Pant Black/White M'
+prodname: 'adidas Hombre Essential Three Stripes French Terry Pants Black/White M'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CZXRK91Q/?tag=tolees-21'
-descuento: '51.02'
-average: '23.99'
+descuento: '64.02'
+average: '21.99'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,6 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Perneras ajustadas
-- 55% algodón / 36% poliéster (reciclado) / 9% viscosa
-- Puños de canalé
-- Corte clásico
-- Contiene al menos un 70% de material reciclado y renovable
-- Cierre de cordón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZXRK91Q{{</world>}}

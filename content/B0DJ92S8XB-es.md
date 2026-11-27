@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela de TPU multisuelo diseñada para tracción en césped y césped artificial
 - Cuello de punto de corte bajo que proporciona un ajuste cómodo y de apoyo alrededor del tobillo
+- Suela de TPU multisuelo diseñada para tracción en césped y césped artificial
 - Parte superior de malla ligera reforzada con piel GripControl para el control de la pelota
 
 [🛒 Aquí!!!]({{< param buyurl >}})

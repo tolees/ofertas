@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Revestimiento: Malla
-- Cierre: Velcro
 - Material exterior: Cuero
+- Cierre: Velcro
+- Revestimiento: Malla
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B004D9G4XG{{</world>}}

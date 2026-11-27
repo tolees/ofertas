@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beyblade X Arena de Combate Beystadium portátil'
-date: 2026-11-19 04:11:42
+date: 2026-11-26 09:15:52
 image: 'https://m.media-amazon.com/images/I/51EFVGDU2dL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0D87P1RKS/?tag=tolees-21'
 descuento: '38.35'
-average: '20.884999999999998'
+average: '20.542857142857141'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

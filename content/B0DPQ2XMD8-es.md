@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ALGODÓN 100 %: Prenda confeccionada en algodón 100 %. El tejido es resistente, mantiene la forma y resulta muy cómodo.
 - LEVIS: Desde 1873, Levis es sinónimo de originalidad, saber hacer y calidad duradera. La marca combina tradición e innovación. Levis Tab puede variar en su diseño: todos los productos con Tab son originales, independientemente de logotipo o color.
-- BÁSICO VERSÁTIL: Ideal para usar todos los días, sola o debajo de chaquetas u overshirts. Este polo puede combinarse de muchas maneras.
-- ESTILO ATEMPORAL: El polo Authentic Polo para hombre representa el auténtico estilo Levis. Gracias a su cuello de polo y líneas limpias combina funcionalidad con un diseño atractivo que nunca pasa de moda.
 - RELAXED FIT: Prenda de corte holgado y ajuste cómodo.
+- ALGODÓN 100 %: Prenda confeccionada en algodón 100 %. El tejido es resistente, mantiene la forma y resulta muy cómodo.
+- ESTILO ATEMPORAL: El polo Authentic Polo para hombre representa el auténtico estilo Levis. Gracias a su cuello de polo y líneas limpias combina funcionalidad con un diseño atractivo que nunca pasa de moda.
+- BÁSICO VERSÁTIL: Ideal para usar todos los días, sola o debajo de chaquetas u overshirts. Este polo puede combinarse de muchas maneras.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DPQ2XMD8{{</world>}}

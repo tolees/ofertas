@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Lavable a
 - Slip-ins
+- Vegano
 - Espuma de memoria
 - Almohadilla para talón
-- Lavable a
-- Vegano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DW9FDDDW{{</world>}}

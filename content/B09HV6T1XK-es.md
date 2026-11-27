@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compatible con PC
-- Tecnología magnética patentada H.E.A.R.T para lograr una precisión quirúrgica que no disminuirá con el tiempo
 - Servomotor sin escobillas que produce un Force Feedback potente, preciso y sensible
+- Compatible con PC
 - Compatible con los juegos de pedales Thrustmaster T-LCM Pedals, T3PM, T3PA y T3PA-PRO (se venden por separado)
-- Compatible con todos los volantes add-on de Thrustmaster
 - Fuente de alimentación Turbo Power para el impresionante servomotor de 40 vatios de la base
+- Compatible con todos los volantes add-on de Thrustmaster
+- Tecnología magnética patentada H.E.A.R.T para lograr una precisión quirúrgica que no disminuirá con el tiempo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09HV6T1XK{{</world>}}

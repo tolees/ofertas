@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con cordones
-- Suela de goma
-- Material sintético
-- Ajuste normal
 - Detalles de la marca PUMA
+- Con cordones
+- Material sintético
+- Suela de goma
+- Ajuste normal
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F6335PCW{{</world>}}

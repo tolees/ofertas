@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forro textil
-- Horma clásica
-- Suela de goma que no deja marcas
 - La parte superior contiene al menos un 50% de material reciclado
+- Suela de goma que no deja marcas
+- Horma clásica
+- Forro textil
 - Parte superior de piel sintética
 
 [🛒 Aquí!!!]({{< param buyurl >}})

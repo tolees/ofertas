@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forro textil
-- Cordones elásticos y cierre autoadherente
+- Empeine de piel
 - Horma clásica
 - Puntera de ante
-- Empeine de piel
+- Forro textil
+- Cordones elásticos y cierre autoadherente
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CKXVQ93C{{</world>}}

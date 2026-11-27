@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compartimento delantero con cremallera
-- Apertura con cremallera bidireccional
 - Bolsillo lateral con cremallera para los zapatos
 - Dimensiones: 32 cm (profundidad) / 29,5 cm (altura)
+- Compartimento delantero con cremallera
+- Apertura con cremallera bidireccional
 - Bolsillo lateral de malla
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

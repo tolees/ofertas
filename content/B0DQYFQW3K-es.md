@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Composición: 48 por ciento algodón 48 por ciento modal 4 por ciento elastano
-- Ajuste: Slim
 - Camiseta
+- Ajuste: Slim
 - Instrucciones de cuidado: lavable a máquina
+- Composición: 48 por ciento algodón 48 por ciento modal 4 por ciento elastano
 - Tipo de estiramiento: no elástico
 
 [🛒 Aquí!!!]({{< param buyurl >}})

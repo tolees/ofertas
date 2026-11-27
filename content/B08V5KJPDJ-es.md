@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Soporte de pecho medio
 - Correas regulares para mayor apoyo y comodidad.
 - Cierre de Pull On
+- Soporte de pecho medio
 - Apertura estándar de la pierna
 - Correas regulares para mayor apoyo y comodidad.
 

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Adecuado para uso en canchas interiores y superficies de gimnasio
 - Cuello de malla ligero para transpirabilidad y movilidad del tobillo
+- Adecuado para uso en canchas interiores y superficies de gimnasio
 - Parte superior sintética diseñada con zonas de agarre texturizadas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

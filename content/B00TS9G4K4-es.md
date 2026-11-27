@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para cámaras con sensor Full Frame como APS-C
-- Con revestimiento UMC anti-reflectante
 - Enfoque manual
 - Incluye parasol extraíble
 - Montura para Fuji X
+- Con revestimiento UMC anti-reflectante
 - Compatible con filtros de 72mm
+- Para cámaras con sensor Full Frame como APS-C
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00TS9G4K4{{</world>}}

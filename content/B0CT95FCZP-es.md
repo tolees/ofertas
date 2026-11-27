@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Conexión por cable (USB) - Configuración del teclado sin software
 - Tecnología Hot Swap para intercambiar los switches
 - Compatible con Windows, Android y Mac
-- Conexión por cable (USB) - Configuración del teclado sin software
 - Teclas con retroiluminación RGB con 20 efectos / Full antighosting
 - Teclado mecánico con switches mecánicos lubricados
 

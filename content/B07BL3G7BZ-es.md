@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material de la suela: Sintético
-- Tipo de tacón: Plano
-- Cierre: Cordones
 - Material exterior: Cuero
-- Composición: Empeine de malla/ante
+- Material de la suela: Sintético
 - Revestimiento: Tela
+- Tipo de tacón: Plano
+- Composición: Empeine de malla/ante
+- Cierre: Cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07BL3G7BZ{{</world>}}

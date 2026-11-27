@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 17 cm
 - Cascanueces forjado en acero inoxidable
-- Con muelle
 - Para partir frutos secos
+- Con muelle
+- 17 cm
 - También se puede usar como rompe mariscos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

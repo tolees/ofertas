@@ -31,9 +31,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Memoria extrema para optimizar el rendimiento de tu cámara de acción o dron
 - Puedes emparejarla con las tarjetas SanDisk Professional PRO-READER SD y microSD para alcanzar máximas velocidades (se venden por separado)
 - Fabricadas para ser usadas en condiciones extremas: resistentes a temperatura, agua, golpes y rayos X
-- Velocidades de escritura de hasta 90 MB/s
 - Añádela a tu dron o cámara de acción para que puedas captar y revivir la emoción con detalles realistas gracias al vídeo UHD 4K mientras ahorras tiempo al transferir archivos multimedia con velocidades de lectura de hasta 190 MB/s con la tecnología QuickFlow de SanDisk.
 - Rendimiento de vídeo de alta calidad que ofrece grabación y reproducción de vídeos 4K UHD y Full HD
+- Velocidades de escritura de hasta 90 MB/s
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09X7BQB4J{{</world>}}

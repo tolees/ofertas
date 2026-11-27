@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- MODO DE EMPLEO: diluir 20 ml en un vaso de agua y tomar dos veces al día, preferentemente entre las comidas. Agitar bien el frasco antes de usar
-- PRÁCTICO: compuesto líquido para diluir en agua, también conveniente para una óptima hidratación. Adecuado para combinar con un estilo de vida saludable y la actividad física
 - ACCIÓN: bebida agradable que actúa desde el interior del organismo, favoreciendo la diuresis, ayudando a la depuración y a la eliminación del exceso de líquidos y toxinas que provocan retención de líquidos, hinchazón y celulitis
-- DIURICELL: drenante con acción purificante, antiinflamatoria e indispensable para reducir las piernas hinchadas y estimular la función microcirculatoria
+- PRÁCTICO: compuesto líquido para diluir en agua, también conveniente para una óptima hidratación. Adecuado para combinar con un estilo de vida saludable y la actividad física
 - EXTRACTOS VEGETALES: con bromelina, pilosella, extractos de abedul blanco, rusco, ortosifón, vara de oro y naranjo amargo, garantiza una acción drenante y contrarresta la retención de líquidos y el edema de tobillo
+- MODO DE EMPLEO: diluir 20 ml en un vaso de agua y tomar dos veces al día, preferentemente entre las comidas. Agitar bien el frasco antes de usar
+- DIURICELL: drenante con acción purificante, antiinflamatoria e indispensable para reducir las piernas hinchadas y estimular la función microcirculatoria
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B087X8JXHV{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fórmula purificante avanzada – Formulado con 1% ácido salicílico y 0.6% piroctona olamina, este champú probado dermatológicamente deja el cabello hidratado, suave y fresco
-- Repara y alivia la descamación – Su acción exfoliante cuero cabelludo aporta resultados inmediatos en el cuero cabelludo propenso a la caspa o la descamación, dejándolo limpio y fresco
-- Resultados inmediatos – Este champú picor cuero cabelludo, con una textura cremosa y una rica espuma, mejora la hidratación del cuero cabelludo, dejándolo libre de caspa
 - Detalles del envío – Neutrogena T/GEL Champú Anticaspa Cabello Seco, jabón hidratante anticaspa que alivia el cuero cabelludo, repara el pelo seco, desarrollado con dermatólogos, 1 x 250 ml
+- Fórmula purificante avanzada – Formulado con 1% ácido salicílico y 0.6% piroctona olamina, este champú probado dermatológicamente deja el cabello hidratado, suave y fresco
+- Resultados inmediatos – Este champú picor cuero cabelludo, con una textura cremosa y una rica espuma, mejora la hidratación del cuero cabelludo, dejándolo libre de caspa
+- Repara y alivia la descamación – Su acción exfoliante cuero cabelludo aporta resultados inmediatos en el cuero cabelludo propenso a la caspa o la descamación, dejándolo limpio y fresco
 - Hidratación profunda – Este champú hidratante ayuda a aliviar la sequedad, la tirantez y la descamación, y su fórmula hidrata el cabello seco gracias a su rica espuma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

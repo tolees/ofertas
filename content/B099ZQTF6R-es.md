@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alimentación a través de puertos USB
 - Carcasa de aluminio de alta calidad y resistente
+- Velocidad de transferencia de hasta 5 GB/s
 - Conexión USB 3.0 con cable incluido
 - Carcasa de aluminio compatible con discos duros de 2.5" SATA I, II y III de hasta 9.5 mm de alto
-- Velocidad de transferencia de hasta 5 GB/s
+- Alimentación a través de puertos USB
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B099ZQTF6R{{</world>}}

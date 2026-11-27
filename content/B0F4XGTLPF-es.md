@@ -29,12 +29,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 100% poliéster (100% reciclado)
+- Mallas interiores
+- Tecnología CLIMA365
+- Bolsillos laterales con cremallera
 - Corte clásico
 - Cintura elástica con cordón
 - Tejido ripstop con inserciones de malla
-- Bolsillos laterales con cremallera
-- Mallas interiores
-- Tecnología CLIMA365
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4XGTLPF{{</world>}}

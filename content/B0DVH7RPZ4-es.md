@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Color: Multicolor
-- Cuello: de Camisa
 - Desigual
+- Cuello: de Camisa
+- Manga: Larga
 - Fit: Regular
 - Cierre: de Botón
-- Manga: Larga
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DVH7RPZ4{{</world>}}

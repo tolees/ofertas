@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Clarks Shoes, Tivoli Zip, Off White Lea, 6 (Women)
 - Ajustado y flexible
+- Clarks Shoes, Tivoli Zip, Off White Lea, 6 (Women)
 - Cierre de cremallera fácil de llevar y
 
 [🛒 Visítala!!!]({{< param buyurl >}})

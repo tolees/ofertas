@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo de Nike en el frente
-- Tela Suave
 - Corte normal
+- Tela Suave
+- Logotipo de Nike en el frente
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CPJJ5FWD{{</world>}}

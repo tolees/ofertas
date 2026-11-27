@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ligeras
-- Suela de tracción flexible
 - Plantilla acolchada y cómoda
+- Suela de tracción flexible
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CL7HX3LR{{</world>}}

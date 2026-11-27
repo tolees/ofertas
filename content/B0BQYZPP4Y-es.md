@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para corregir rápidamente los fallos al aplicar el esmalte
-- Sin acetona
 - Nos oponemos a los experimentos con animales; cosnova aparece internacionalmente con essence y CATRICE tanto en PETA Alemania como en PETA
+- Para corregir rápidamente los fallos al aplicar el esmalte
 - Corrector del esmalte en formato rotulador
+- Sin acetona
 - Expresión del resultado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

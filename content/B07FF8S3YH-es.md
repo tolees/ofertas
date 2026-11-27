@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Suela de tracción de goma flexible
+- Tacón de 1 pulgada
 - Diseño de tenis de entrenamiento atlético con cordones
 - Parte superior de cuero liso, sintético y malla
-- Tacón de 1 pulgada
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07FF8S3YH{{</world>}}

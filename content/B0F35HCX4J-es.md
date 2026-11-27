@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material que capilariza el sudor y se seca rápidamente
-- Bolsillos laterales abiertos
 - Tejido de punto suave y ligero que proporciona una comodidad y transpirabilidad superiores
 - Bajo contorneado para un ajuste más favorecedor y una mayor libertad de movimiento
+- Bolsillos laterales abiertos
+- Material que capilariza el sudor y se seca rápidamente
 - Cintura elástica visible de talle bajo con logotipo renovado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

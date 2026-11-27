@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cómodo ajuste.
 - Logotipo de Alpha Industries en la camiseta.
+- Cómodo ajuste.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B06ZYTJX7Z{{</world>}}

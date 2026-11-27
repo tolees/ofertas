@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- punto
-- Ajuste estándar
 - Manga corta
-- Largo estándar
+- Ajuste estándar
 - Cuello redondo
+- punto
+- Largo estándar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DTFT4CRY{{</world>}}

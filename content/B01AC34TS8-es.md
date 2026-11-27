@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- REPARACIÓN BED HEAD RESURRECTION: este champú y acondicionador para cabello seco y dañado restaura la hidratación, reduce el encrespamiento y fortalece las fibras debilitadas para un cabello sedoso
-- CONTROL DEL ENCRESPAMIENTO: este champú con fórmula nutritiva ayuda a reparar el daño, fortalecer el cabello, suavizar el encrespamiento y reducir las puntas abiertas en cada lavado
-- PROTECCIÓN DEL COLOR: este dúo de champú y acondicionador nutritivo ayuda a mantener la intensidad del color mientras repara el cabello tratado químicamente
-- MODO DE USO: masajea sobre el cabello mojado y aclara bien. Después aplica el acondicionador en medios y puntas, deja actuar 3–5 minutos y aclara para un cabello revitalizado y nutrido
 - CUIDADO CAPILAR PROFESIONAL EN CASA: Bed Head by TIGI Resurrection Duo revitaliza el cabello apagado con fórmulas profesionales que aportan suavidad y brillo efecto salón desde casa
+- PROTECCIÓN DEL COLOR: este dúo de champú y acondicionador nutritivo ayuda a mantener la intensidad del color mientras repara el cabello tratado químicamente
+- CONTROL DEL ENCRESPAMIENTO: este champú con fórmula nutritiva ayuda a reparar el daño, fortalecer el cabello, suavizar el encrespamiento y reducir las puntas abiertas en cada lavado
+- REPARACIÓN BED HEAD RESURRECTION: este champú y acondicionador para cabello seco y dañado restaura la hidratación, reduce el encrespamiento y fortalece las fibras debilitadas para un cabello sedoso
+- MODO DE USO: masajea sobre el cabello mojado y aclara bien. Después aplica el acondicionador en medios y puntas, deja actuar 3–5 minutos y aclara para un cabello revitalizado y nutrido
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01AC34TS8{{</world>}}

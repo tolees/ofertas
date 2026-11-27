@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Forro textil
-- Amortiguación LIGHTMOTION
-- Suela de goma
 - Empeine de malla técnica con refuerzos de ante
+- Suela de goma
+- Amortiguación LIGHTMOTION
 - Cierre de cordones
 - Horma clásica
 

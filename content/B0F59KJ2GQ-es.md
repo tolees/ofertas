@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Loción ligera para rostro y cuello con alta protección solar SPF 50. Protege, hidrata y ayuda a restaurar la barrera cutánea. Con 3 ceramidas esenciales, Niacinamida, Vitamina E y Tecnología MVE. Para piel normal a seca.
 - Aplicar cada mañana en piel limpia y seca de rostro y cuello. Para exposición solar intensa, usar protector solar.
 - Piel protegida de rayos UVA y UVB y de partículas contaminantes. Textura no grasa. No comedogénica, sin perfume.
 - La siguiente información se aplica a cada unidad del paquete
-- Loción ligera para rostro y cuello con alta protección solar SPF 50. Protege, hidrata y ayuda a restaurar la barrera cutánea. Con 3 ceramidas esenciales, Niacinamida, Vitamina E y Tecnología MVE. Para piel normal a seca.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F59KJ2GQ{{</world>}}

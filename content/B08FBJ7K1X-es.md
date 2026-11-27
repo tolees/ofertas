@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela flexible
 - Forro de tela suave
+- Suela flexible
 - Material: cuero nubuck
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

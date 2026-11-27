@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Empeine de material sintético
 - Suela de goma
-- Cordones
-- Plantilla de espuma con memoria
+- Empeine de material sintético
 - Horma clásica
 - Plantilla textil
+- Cordones
+- Plantilla de espuma con memoria
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F2FCTT6B{{</world>}}

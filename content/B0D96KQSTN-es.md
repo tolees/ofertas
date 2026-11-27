@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Versátiles para actividades informales o días de playa
 - Ligeros y transpirables para días calurosos
-- Diseño moderno con corte estilizado
 - Cintura elástica para un ajuste cómodo y fácil
+- Diseño moderno con corte estilizado
 - Bolsillos para almacenamiento práctico de objetos pequeños
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

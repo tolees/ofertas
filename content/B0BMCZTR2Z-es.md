@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Hombros bajos
 - Tacto suave
-- Corte holgado hasta la cadera
 - Escote: cuello redondo
 - Fantástico jersey para mujer con diseño de rayas
-- Hombros bajos
+- Corte holgado hasta la cadera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BMCZTR2Z{{</world>}}

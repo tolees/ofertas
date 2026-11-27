@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color de la lente: ahumado
+- Tamaño: 145 mm-20 mm-53 mm
+- Forma: cuadrada
 - Color del marco: negro mate
 - TOM FORD FT0711-N FAUSTO matte black 53
-- Forma: cuadrada
-- Tamaño: 145 mm-20 mm-53 mm
+- Color de la lente: ahumado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B5Y1JMJJ{{</world>}}

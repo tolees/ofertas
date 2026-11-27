@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Traje de baño de diseño moderno
-- Tiene detalles distintivos de la marca
 - De secado rápido
+- Tiene detalles distintivos de la marca
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B6G49M3Y{{</world>}}

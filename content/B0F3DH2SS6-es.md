@@ -29,12 +29,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Talle alto
-- CLIMACOOL
 - Corte ajustado
-- 80% poliéster (reciclado) / 20% elastano
-- Cintura elástica
 - Tejido LYCRA ADAPTIV
 - Tejido suave Adisoft
+- 80% poliéster (reciclado) / 20% elastano
+- Cintura elástica
+- CLIMACOOL
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F3DH2SS6{{</world>}}

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ajuste clásico
-- MF refrigerado por aire
 - Goga Mat Arch
+- MF refrigerado por aire
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08QZP6YJB{{</world>}}

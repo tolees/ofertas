@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Materiales transpirables
-- Ligeros y acolchados
 - Suela: goma de longitud completa; entresuela: EVA de alto rendimiento; parte superior: talón y ojal moldeados; cierre: cordones; puntera redondeada
+- Ligeros y acolchados
+- Materiales transpirables
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F638ZVFH{{</world>}}

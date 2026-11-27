@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material de jersey de algodón de 150 g
-- Logotipo serigrafiado
-- Cuello redondo
-- Ajuste atlético diseñado para desnatar tu pecho, cintura y cadera, perfecto para un movimiento activo con un ajuste que no es demasiado apretado
 - Manga corta
+- Ajuste atlético diseñado para desnatar tu pecho, cintura y cadera, perfecto para un movimiento activo con un ajuste que no es demasiado apretado
+- Material de jersey de algodón de 150 g
+- Cuello redondo
+- Logotipo serigrafiado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09N9VWR6K{{</world>}}

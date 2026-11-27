@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Chaqueta de forro polar
+- Corte cuadrado
 - Corte Color-Block
 - Ajuste regular
 - Cuello alto con cierre a presión
-- Corte cuadrado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B086Y2J9DV{{</world>}}

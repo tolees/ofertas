@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'medicube PDRN Collagen Gua Sha Neck Wrinkle Cream - Firming Contour Care | Built-In Gua Sha Massager with Volufiline 5% - For the Look of Fine Lines Jawline Neck Décolleté Korean Skincare 3.17 oz'
-date: 2026-11-23 10:10:24
+date: 2026-11-27 06:37:46
 image: 'https://m.media-amazon.com/images/I/31bgwTQvXmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

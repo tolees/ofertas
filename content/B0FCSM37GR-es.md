@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Costura exterior: 45,7 cm de largo
 - Cintura y cierre: __ Cinturón clásico cómodo con cierre de cordón fijo
 - Ajuste: pierna recta
 - __Revestimiento:__ TRATAMIENTO HIDROFÓBICO SIN PFC
+- Costura exterior: 45,7 cm de largo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FCSM37GR{{</world>}}

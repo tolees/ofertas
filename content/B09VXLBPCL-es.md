@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - ALUMINIO FUNDIDO: fabricadas en aluminio fundido de 4.5 mm de calidad con recubrimiento antiadherente tricapa libre de PFOA aplicado en 3 capas con un espesor de 30-40 micras y totalmente respetuoso con el medio ambiente.
-- SUPERFICIE RESISTENTE: sartenes de superficie resistente con resistencia a la deformación. De fácil manejo, óptimas para aquellas personas que busquen un compromiso de calidad y peso.
 - APTA PARA TODO TIPO DE COCINAS: aptas para todo tipo de cocinas, incluida la inducción. Aptas para lavavajillas. Sistema full induction, sin agujeros, con diámetro inferior en contacto con la inducción: 19 cm.
+- SUPERFICIE RESISTENTE: sartenes de superficie resistente con resistencia a la deformación. De fácil manejo, óptimas para aquellas personas que busquen un compromiso de calidad y peso.
 - MANGO ERGONÓMICO: mango de baquelita con silicona de color amarillo para un agarre seguro y cómodo.
 - SUPERFICIE ANTIADHERENTE: Estas sartenes están elaboradas con un recubrimiento antiadherente de calidad sin PFOA, que evita que los alimentos se peguen al fondo, consiguiendo deliciosas recetas.
 

@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Cremallera completa
 - 100% nylon
-- Capucha oculta
 - Bolsillos laterales
+- Capucha oculta
 - Logos bordados
 
 [🛒 Aquí!!!]({{< param buyurl >}})

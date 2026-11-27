@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Geles dulces
 - Conservar en lugar fresco y seco
 - Intenso sabor a regaliz
-- Geles dulces
 - Deliciosas piezas de regaliz negro enrolladas en forma de disco
 
 [🛒 Aquí!!!]({{< param buyurl >}})

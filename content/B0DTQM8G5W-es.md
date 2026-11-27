@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsa para la playa con un compartimento cerrado con cremallera
 - Dimensiones: 17 x 52 x 37 cm
 - Dos asas superiores para llevar al hombro o en la mano
+- Bolsa para la playa con un compartimento cerrado con cremallera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DTQM8G5W{{</world>}}

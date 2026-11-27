@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Rf & Am Alarma
-- Guepardo
 - Número de páginas impresas: 250
-- De alto rendimiento
+- Guepardo
+- Rf & Am Alarma
 - Dispositivos compatibles: Epson Stylus SX600FW
+- De alto rendimiento
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01NAMU2O3{{</world>}}

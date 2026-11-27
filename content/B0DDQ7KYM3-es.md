@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 以下の情報は単品あたりの情報です。
-- Productos de calidad a precio reducido
-- Innovadora, juvenil y llena de vida
-- Marca Nº1 en Europa
 - La siguiente información se aplica a cada unidad del paquete
+- Innovadora, juvenil y llena de vida
+- Productos de calidad a precio reducido
+- Marca Nº1 en Europa
+- 以下の情報は単品あたりの情報です。
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DDQ7KYM3{{</world>}}

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Peso 5 1 kg.
-- Porta-herramientas sds-max.
 - Maletín.
+- Porta-herramientas sds-max.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B004PR81ZU{{</world>}}

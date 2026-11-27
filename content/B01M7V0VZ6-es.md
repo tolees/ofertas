@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Con regulador de presión del vapor y tapón y pistola de seguridad
 - Cuenta con 13 accesorios incluyendo una pistola de vapor para poder limpiar toda la casa con máxima profundidad
 - Limpiador a vapor con presión de vapor de 5 bares y depósito de agua de 1,6 litros
-- Con regulador de presión del vapor y tapón y pistola de seguridad
 - Compartimento transparente en la base para guardar los 13 accesorios
 - Indicador luminoso on/off e indicador luminoso listo para usar; tiempo de calentamiento 8 minutos
 

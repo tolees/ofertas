@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vaqueros || Merch para fans y divertido || Patrón: Liso
-- Medidas: tamaño estándar
 - Básicos, Ropa casual, Ropa de Calle
-- Descubre todas las marcas de EMP! El regalo de Navidad perfecto
 - Tejanos con las siguientes características:
+- Medidas: tamaño estándar
+- Descubre todas las marcas de EMP! El regalo de Navidad perfecto
+- Vaqueros || Merch para fans y divertido || Patrón: Liso
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07G3YVH5J{{</world>}}

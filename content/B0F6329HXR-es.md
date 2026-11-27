@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre con cordones
 - Adecuadas para uso diario
+- Cierre con cordones
 - Estilo deportivo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

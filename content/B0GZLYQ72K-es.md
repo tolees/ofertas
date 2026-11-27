@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Planta aromática, usada principalmente como condimento culinario
-- Siembra en primavera
-- Cosecha cuando se observe la aparición de las primeras flores en junio a septiembre
-- Cultivo de asiento aclarando a 30 cm de distancia
 - La siguiente información se aplica a cada unidad del paquete
+- Cultivo de asiento aclarando a 30 cm de distancia
+- Siembra en primavera
+- Planta aromática, usada principalmente como condimento culinario
+- Cosecha cuando se observe la aparición de las primeras flores en junio a septiembre
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0GZLYQ72K{{</world>}}

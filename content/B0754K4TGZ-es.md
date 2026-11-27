@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Dispositivos compatibles: ET7700
-- Producto de alta calidad marca epson
 - Color magenta
 - 5000 lados
 - Número de páginas impresas: 5000
+- Producto de alta calidad marca epson
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0754K4TGZ{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Skechers SUMMITS-AZE DESPLAZANTE
 - 149937 NVPR
 - Parte superior baja
 - Mujer
+- Skechers SUMMITS-AZE DESPLAZANTE
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BG266YJG{{</world>}}

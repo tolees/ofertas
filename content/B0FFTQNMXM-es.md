@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estampado frontal y trasero
 - 100% algodón
+- Estampado frontal y trasero
 - Camiseta regular de manga corta de punto individual
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

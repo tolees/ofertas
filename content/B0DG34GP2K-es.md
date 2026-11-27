@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Botella con un diseño apto para portavasos
 - Fabricada en material duradero, es rellenable y reutilizable
 - A prueba de fugas cuando está cerrada
+- Botella con un diseño apto para portavasos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DG34GP2K{{</world>}}

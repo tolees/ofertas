@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- DISEÑO ICÓNICO: Mini-stick retroiluminado sobre bases AVA* y Sol-R*.
-- EMPUÑADURA AMBIDEXTRA Y CÓMODA: Reposamanos y reposapulgares intercambiables.
-- PRECISIÓN DE LOS EJES: Precisión H.E.A.R.T. (HallEffect AccuRate Technology) de 16 bits, incluido el eje Z.
-- BASES DE THRUSTMASTER COMPATIBLES: Optimizada para bases AVA* y Sol-R*. (*se venden por separado)
 - EL ARTE DE LA CONFIGURACIÓN DEL ESPACIO: Se proporcionan 2 levas STAR para modificar la curva del eje de la empuñadura en la base AVA.*
+- PRECISIÓN DE LOS EJES: Precisión H.E.A.R.T. (HallEffect AccuRate Technology) de 16 bits, incluido el eje Z.
+- EMPUÑADURA AMBIDEXTRA Y CÓMODA: Reposamanos y reposapulgares intercambiables.
+- BASES DE THRUSTMASTER COMPATIBLES: Optimizada para bases AVA* y Sol-R*. (*se venden por separado)
+- DISEÑO ICÓNICO: Mini-stick retroiluminado sobre bases AVA* y Sol-R*.
 - LA EMPUÑADURA PERFECTA PARA CONQUISTAR LAS ESTRELLAS: 21 botones de acción en el flightstick, incluidos 2 gatillos, 2 hat switches, 1 mini-stick y 1 rueda para el pulgar.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

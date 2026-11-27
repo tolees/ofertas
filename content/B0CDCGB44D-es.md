@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Forma cuadrada unisex que crea un aspecto distintivo
 - Las lentes espejadas realzan la modernidad de este modelo
-- La montura RXable se puede utilizar con lentes graduadas
 - Ajuste global y tamaños s disponibles
+- La montura RXable se puede utilizar con lentes graduadas
 - Resina de origen vegetal, una alternativa más limpia que los plásticos estándar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

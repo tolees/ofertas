@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tacón: tacón mediano
 - Color: negro
 - Material interior: tela
-- Material de la suela: goma
 - Material externo: piel
+- Tacón: tacón mediano
+- Material de la suela: goma
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07MZZKH5F{{</world>}}

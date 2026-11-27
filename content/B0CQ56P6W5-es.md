@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Respuesta de frecuencia: 6 Hz – 22,000 Hz Impedancia: Activo 470 ohmios / Pasivo 60 ohmios
 - Optima resolución de audio con Sennheiser Signature Sound: disfrute de la calidad musical durante todo el día gracias al sistema de transductores de 42 mm inspirado en los audiófilos y aptX Adaptive
 - Sonido personalizado a través del Sennheiser Aplicación Smart Contro: ajusta el sonido a tus preferencias de escucha individuales a través del ecualizador integrado, los ajustes preestablecidos y los modos de sonido, para disfrutar de una experiencia de sonido optima
-- Respuesta de frecuencia: 6 Hz – 22,000 Hz Impedancia: Activo 470 ohmios / Pasivo 60 ohmios
 - Sumérjase en su música: gracias a la Cancelación Activa de Ruido de los auriculares, podrá mantenerse libre de distracciones y, con el Modo de Transparencia Ajustable, permanecerá en contacto con el mundo que le rodea
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

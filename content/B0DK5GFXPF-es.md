@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【Set de cuidado de la piel】Un completo conjunto de 5 piezas para el cuidado facial, que incluye limpiador facial, tónico, suero, crema hidratante y crema para los ojos. Gracias a la combinación de ingredientes seguros y efectivos, este producto satisface completamente las necesidades de hidratación, regeneración y vitalidad de tu piel
+- 【Reparación de la piel】El extracto de aloe, el extracto de té verde y la vitamina C tienen propiedades calmantes, ayudan en la reparación post-solar y alivian las irritaciones cutáneas, estimulando la producción de colágeno y mejorando la elasticidad, ralentizando así el proceso de envejecimiento cutáneo
 - 【Piel hidratada】La niacinamida y el extracto de Cladosiphon okamuranus, ricos en vitaminas y aminoácidos, ayudan a mantener la hidratación de la piel, regulan la secreción sebácea y mejoran la homogeneidad del tono de la piel, mejorando la tolerancia cutánea
 - 【Fórmula suave】Apta para todo tipo de pieles, incluidas las secas, grasas y sensibles. Después de su uso, la piel no se siente seca o tirante. Usándolo regularmente, se puede obtener una piel brillante y más elástica, radiante y llena de vida
-- 【Reparación de la piel】El extracto de aloe, el extracto de té verde y la vitamina C tienen propiedades calmantes, ayudan en la reparación post-solar y alivian las irritaciones cutáneas, estimulando la producción de colágeno y mejorando la elasticidad, ralentizando así el proceso de envejecimiento cutáneo
+- 【Set de cuidado de la piel】Un completo conjunto de 5 piezas para el cuidado facial, que incluye limpiador facial, tónico, suero, crema hidratante y crema para los ojos. Gracias a la combinación de ingredientes seguros y efectivos, este producto satisface completamente las necesidades de hidratación, regeneración y vitalidad de tu piel
 - 【Regalo elegante】Este producto para el cuidado facial viene en una caja de regalo elegante, perfecta como regalo para cumpleaños, San Valentín, Día de la Madre, Acción de Gracias, Navidad y otras ocasiones festivas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Protector de piedra de goma
 - Entresuela con amortiguación EVA de doble densidad
 - Parte superior de corte bajo hecha de cuero duradero, liberando el tobillo
-- Protector de piedra de goma
 - Suela superior que proporciona un excelente nivel de comodidad anatómica
 - Suela Vibram MULAZ dedicada al montañismo, precisa y llamativa
 

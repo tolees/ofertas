@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Poliéster reciclado
 - Corte normal
 - Impresión a base de agua
+- Poliéster reciclado
 - Tecnología Bee Cool
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

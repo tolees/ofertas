@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ofrece comodidad
 - Estilo deportivo
 - Cierre con cordones
+- Ofrece comodidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DVCGXG23{{</world>}}

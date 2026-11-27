@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Piratas del Caribe 1-5 Pirates of the Caribbean Blu-ray Pack: La Maldicion de la Perla Negra El Cofre del Hombre Muerto En el fin del Mundo En Mareas Misteriosas La Venganza de Salazar'
-date: 2026-11-25 17:54:39
+date: 2026-11-27 07:31:41
 image: 'https://m.media-amazon.com/images/I/41uXLT55zHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09HYC8ZYT/?tag=tolees-21'
 descuento: '40.01'
-average: '32.720666666666588'
+average: '32.59608695652166'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

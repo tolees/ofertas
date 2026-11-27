@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Archivos
-- Suela exterior de goma
 - Entresuela de EVA
+- Suela exterior de goma
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CMR2QWQ9{{</world>}}

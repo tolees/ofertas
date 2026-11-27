@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Composición del material: 78% algodón, 20% algodón reciclado, 2% elastano
-- Color liso
 - Pantalón
+- Color liso
+- Composición del material: 78% algodón, 20% algodón reciclado, 2% elastano
 - Corte holgado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

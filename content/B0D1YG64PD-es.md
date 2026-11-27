@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bota baja
 - Plantilla Softfoam Plus
 - Puma Detalles de la marca
+- Bota baja
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D1YG64PD{{</world>}}

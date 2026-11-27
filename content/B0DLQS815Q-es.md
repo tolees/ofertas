@@ -29,15 +29,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cremallera central de 2 vías
-- Puños ajustables en las mangas
-- Cola caída
+- Puños cómodos con agujero para el pulgar.
 - Bolsillos con cremallera
 - Forro polar
-- Cintura ajustable con cordón
 - Capucha ajustable con cordón
-- Puños cómodos con agujero para el pulgar.
 - Solapa frontal central
+- Cola caída
 - Omni-Tech impermeable/transpirable con costuras selladas
+- Cintura ajustable con cordón
+- Puños ajustables en las mangas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DLQS815Q{{</world>}}

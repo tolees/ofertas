@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello acanalado
-- Un aspecto original
 - Ofrece comodidad
 - Estampado G-STAR en el pecho
+- Un aspecto original
+- Cuello acanalado
 - Etiqueta G-STAR tejida en la costura lateral inferior
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela de goma inyectada
 - Plantilla de lona
 - Parte superior de lona
+- Suela de goma inyectada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07SCB259M{{</world>}}

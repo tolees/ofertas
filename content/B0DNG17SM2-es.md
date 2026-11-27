@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Legami - Metro de pared Dream Big Little One metro colgante para medir la altura de los niños hasta 160 cm 41 pegatinas incluidas con listones de madera tema Space'
-date: 2026-09-10 15:44:12
+date: 2026-11-26 07:09:31
 image: 'https://m.media-amazon.com/images/I/41cbhCxMbeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

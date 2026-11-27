@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior de malla suave y ligera
 - Líneas de malla elevadas
+- Parte superior de malla suave y ligera
 - Innovador diseño, orientación y colocación
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

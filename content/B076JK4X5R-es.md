@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Spray profesional para el cabello con fijación ligera; protección del calor hasta 220º; aporta suavidad y brillo
-- Protege el cabello del calor de las herramientas de styling con Wella Professionals Eimi Thermal Image; nutre el cabello y lo protege del calor hasta 220° C
 - Agita bien el spray EIMI Thermal Image y mantenlo a distancia.Pulveriza mechón a mechón sobre el cabello seco antes de de peinar con las herramientas térmicas
+- Protege el cabello del calor de las herramientas de styling con Wella Professionals Eimi Thermal Image; nutre el cabello y lo protege del calor hasta 220° C
+- Spray profesional para el cabello con fijación ligera; protección del calor hasta 220º; aporta suavidad y brillo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B076JK4X5R{{</world>}}

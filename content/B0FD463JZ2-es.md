@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - OSFM = 56 cm
-- Roxy Logotipo bordado
 - Tela: sarga de algodón reciclado
 - Visera/ala: visera curvada
+- Roxy Logotipo bordado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FD463JZ2{{</world>}}

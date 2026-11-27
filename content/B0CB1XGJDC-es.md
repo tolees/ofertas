@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Proporciona comodidad
+- Botones sin ojales a los lados
 - Bolsillos insertados, bolsillos traseros
 - Tirantes ajustables con hebillas
-- Botones sin ojales a los lados
-- Proporciona comodidad
 - Bolsillos delanteros con botones a presión
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

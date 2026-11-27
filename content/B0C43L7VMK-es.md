@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ribetes elásticos
 - Cierre de cremallera y cuello alzado
-- Exterior: tejido técnico 100% poliéster reciclado
-- Relleno: 80% plumón de pato / 20% plumas
 - Bolsillos frontales con botón a presión
+- Relleno: 80% plumón de pato / 20% plumas
 - Corte clásico
+- Ribetes elásticos
+- Exterior: tejido técnico 100% poliéster reciclado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C43L7VMK{{</world>}}

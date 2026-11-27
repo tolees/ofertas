@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Forro textil
-- Parte de malla
-- Mediasuela Cloudfoam
 - Horma clásica
+- Mediasuela Cloudfoam
+- Parte de malla
+- Forro textil
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C3JJXZV4{{</world>}}

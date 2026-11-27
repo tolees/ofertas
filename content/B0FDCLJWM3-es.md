@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Suela de tracción flexible
-- Altura del tacón: 3/4 pulgadas
 - Parte superior Duraleather con superposiciones de gamuza de piel de cerdo
+- Altura del tacón: 3/4 pulgadas
 - Espuma viscoelástica refrigerada por aire Skechers Air Cooled Memory Foam proporciona alivio de presión, comodidad instantánea y transpirabilidad.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

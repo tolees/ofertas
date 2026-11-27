@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillos laterales
 - Longitud más corta, típicamente llegando a la mitad del muslo
+- Bolsillos laterales
 - Logotipo de Champion en la pernera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

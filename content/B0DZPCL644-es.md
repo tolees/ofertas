@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte superior de gamuza, malla y nailon.
 - Diseño inspirado en la tradición de los modelos de los años 70 para un look clásico.
+- Parte superior de gamuza, malla y nailon.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DZPCL644{{</world>}}

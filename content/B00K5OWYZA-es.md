@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tipo de tacón: Plano
 - Composición: Parte superior 100% algodón, Suela de caucho
-- Revestimiento: Tela
-- Material exterior: Tela
 - Material de la suela: Caucho
 - Anchura del zapato: Normal
-- Tipo de tacón: Plano
 - Cierre: Cordones
+- Material exterior: Tela
+- Revestimiento: Tela
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00K5OWYZA{{</world>}}

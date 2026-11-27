@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estampado a rayas
-- Fit: Regular
-- Manga: Larga
-- Cierre: de Botón
 - Desigual
 - Cuello: en V
+- Estampado a rayas
+- Cierre: de Botón
+- Fit: Regular
+- Manga: Larga
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DWBCB77V{{</world>}}

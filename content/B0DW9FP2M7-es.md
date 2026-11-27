@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Largo; Midi
-- Desigual
-- Cuello: Redondo
 - Manga: Corta
-- Fit: Slim
+- Cuello: Redondo
 - Estampado Arty
+- Largo; Midi
+- Fit: Slim
+- Desigual
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DW9FP2M7{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se puede construir dos modelos: volquete y excavadora
-- Un bonito camión especialmente diseñado para los niños más pequeños
-- Una vez montado, enciende el motor y conduce el camión con el mando
-- Monta tu camión con el destornillador siguiendo las instrucciones paso a paso
 - Incluye: instrucciones ilustradas en color; se requiere el uso de 2 pilas lr06, no incluidas; edad recomendada: 3 años
+- Un bonito camión especialmente diseñado para los niños más pequeños
+- Se puede construir dos modelos: volquete y excavadora
+- Monta tu camión con el destornillador siguiendo las instrucciones paso a paso
+- Una vez montado, enciende el motor y conduce el camión con el mando
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0895BFJJQ{{</world>}}

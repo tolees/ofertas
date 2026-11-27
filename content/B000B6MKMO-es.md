@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hot Wheels Pack de 10 Modelos Pueden Variar | Multipack de 10 camiones y coches en escala 1:64 colección instantánea para niños y coleccionistas 54886'
-date: 2026-11-24 19:20:49
+date: 2026-11-26 17:31:49
 image: 'https://m.media-amazon.com/images/I/51PSP+eQm7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B000B6MKMO/?tag=tolees-21'
 descuento: '40.02'
-average: '16.316751592356791'
+average: '16.300062893081865'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

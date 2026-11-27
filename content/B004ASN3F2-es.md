@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- De textura extra fina, disponible en 12 colores luminosos muy cubrientes y de óptimo rendimiento
-- Pigmentos de calidad superior, óptimos para trabajos de ilustración
 - La parte transparente del estuche se puede utilizar como paleta y es muy fácil de limpiar
+- Pigmentos de calidad superior, óptimos para trabajos de ilustración
 - Témperas en tubo de 12 ml de pura creatividad
+- De textura extra fina, disponible en 12 colores luminosos muy cubrientes y de óptimo rendimiento
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B004ASN3F2{{</world>}}

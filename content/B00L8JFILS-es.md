@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Álbum XL Acuarela 300 g/m², de calidad óptima para el estudiante
-- Este papel presenta un grano fino y es libre de ácido
-- Tamaño A4 (30 Hojas)
 - Ideal para una amplia variedad de técnicas húmedas
+- Álbum XL Acuarela 300 g/m², de calidad óptima para el estudiante
+- Tamaño A4 (30 Hojas)
+- Este papel presenta un grano fino y es libre de ácido
 - Su formulación en superficie asegura una excelente capacidad de borrado en húmedo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Modelo: Flying V Crew Teerpa20232023 Longitud: Longitud estándar. Colección: Primavera Verano 20. Modelo: FL. Camiseta Ying V Crew
-- Colección: primavera-verano 20
 - Longitud: longitud estándar
+- Colección: primavera-verano 20
+- Modelo: Flying V Crew Teerpa20232023 Longitud: Longitud estándar. Colección: Primavera Verano 20. Modelo: FL. Camiseta Ying V Crew
 - Camiseta Vans WM PLYING V CREW Tee VN0A3UP4BLK Donna Nera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

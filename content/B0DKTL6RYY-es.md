@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- INGREDIENTES NATURALES: Su fórmula contiene por Keratina vegetal, extracto de Girasol y jugo de Aloe Vera de agricultura biológica. Es libre de parabenos, siliconas, ftalatos, cocamide DEA y PEGs
+- MODO DE USO: Aplicar sobre el cabello húmedo dando un ligero masaje. Dejar actuar unos minutos y enjuagar con abundante agua. No es necesario usar guantes, pero se recomienda lavar cuidadosamente con jabón neutro la piel tras su uso
 - La siguiente información se aplica a cada unidad del paquete
 - BENEFICIOS: Su alta compatibilidad dérmica reaviva el color del cabello natural y teñido, mientras lo protege de la radiación solar gracias a su filtro UV
-- MODO DE USO: Aplicar sobre el cabello húmedo dando un ligero masaje. Dejar actuar unos minutos y enjuagar con abundante agua. No es necesario usar guantes, pero se recomienda lavar cuidadosamente con jabón neutro la piel tras su uso
 - CHAMPÚ UNISEX: Apto para hombres y mujeres con cabello natural o teñido
-- INGREDIENTES NATURALES: Su fórmula contiene por Keratina vegetal, extracto de Girasol y jugo de Aloe Vera de agricultura biológica. Es libre de parabenos, siliconas, ftalatos, cocamide DEA y PEGs
 - CHAMPÚ COLOURSAFE: Con pigmento que protege y reaviva el color del cabello castaño, aportando suavidad y un brillo más luminoso
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

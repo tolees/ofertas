@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - __Parte superior: __ Correas de plástico trenzadas
-- __Plantilla: __ Plantilla de EVA suave con letras Roxy grabadas
 - __Suela: __ Suela TPR con detalles ROXY
+- __Plantilla: __ Plantilla de EVA suave con letras Roxy grabadas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07DY7LN88{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- materialFabricComposition: Outer: 55% Polyester, 40% Recycled Wool, 5% Other Fibres; Lining: 100% Polyester
 - Regular Fit
 - Spread collar
-- materialFabricComposition: Outer: 55% Polyester, 40% Recycled Wool, 5% Other Fibres; Lining: 100% Polyester
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CLDTY7HV{{</world>}}

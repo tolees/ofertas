@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - MODO DE EMPLEO: Tomar 1 cápsula por cada hora de ejercicio intenso acompañada de 150 – 200 ml. de agua o Iso-Energy.
-- ALERGENOS: Puede contener trazas de leche, soja, gluten y huevo.
 - CON VITAMINA D Y B1: Además de minerales, hemos añadido a nuestra fórmula un extra de vitamina D y B1.
 - BENEFICIOS: Evita la deshidratación al mejorar la absorción de agua y mantiene los niveles de sales óptimos en entrenamientos incluso de larga duración.
 - SALT CAPS de Victory Endurance perteneciente a Weider, compañía global pionera en nutrición deportiva y especializada con más de 83 años ofreciendo calidad e innovación.
+- ALERGENOS: Puede contener trazas de leche, soja, gluten y huevo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00GSR318C{{</world>}}

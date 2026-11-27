@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Back flap button pockets
-- Adjustable hem
-- Cargo-inspired front pockets
 - Zip fly
 - Provides comfort
+- Adjustable hem
+- Back flap button pockets
+- Cargo-inspired front pockets
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CRZG9DV7{{</world>}}

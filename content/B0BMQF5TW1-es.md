@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Blanco
 - Piel sintética
 - Bolsa de compras
+- Blanco
 - Armani Exchange
 - 1/23 PRIMAVERA VERANO 2023
 

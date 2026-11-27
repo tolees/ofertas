@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto de calidad óptima
 - Complementa la alimentación habitual
 - Cuidado personal
+- Producto de calidad óptima
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08HND4R7J{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Correa cómoda y fácil de ajustar
-- Tejido duradero
-- Riñonera deportiva
 - Se puede llevar en la cintura, cruzando el cuerpo o sobre el hombro
+- Correa cómoda y fácil de ajustar
+- Riñonera deportiva
+- Tejido duradero
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B094DYRFTN{{</world>}}

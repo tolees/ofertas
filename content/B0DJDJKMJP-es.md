@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 6 paneles con ojales bordados
-- Corte regular
-- Pin de metal con el logotipo de PUMA Cat
 - Gorra estructurada
+- Corte regular
+- 6 paneles con ojales bordados
+- Pin de metal con el logotipo de PUMA Cat
 - Correa trasera ajustable de
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pantalones chinos para hombre, con cremallera, ajustados, cintura media
 - Pack de 2, bolsillos laterales, trabillas para cinturón, porcentaje elástico
+- Pantalones chinos para hombre, con cremallera, ajustados, cintura media
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CQC7DQPW{{</world>}}

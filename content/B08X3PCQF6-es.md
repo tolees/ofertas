@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con cremallera
-- JACK & JONES apoya la iniciativa Better Cotton usando algodón orgánico o reciclado
 - Cárdigan deportivo con logotipo
+- Con cremallera
 - Con capucha
-- Durabilidad con material sostenible
+- JACK & JONES apoya la iniciativa Better Cotton usando algodón orgánico o reciclado
 - Hecha de mezcla de algodón suave
+- Durabilidad con material sostenible
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08X3PCQF6{{</world>}}

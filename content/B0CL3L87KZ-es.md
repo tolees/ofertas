@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Talle alto
 - 53% algodón / 47% poliéster (reciclado)
 - Cierre de cremallera y cuello alzado
 - Chaqueta con puños de canalé y dobladillo elástico
-- Talle alto
 - Chaqueta de corte entallado y pantalón de corte clásico
 
 [🛒 Visítala!!!]({{< param buyurl >}})

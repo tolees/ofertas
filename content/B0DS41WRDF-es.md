@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Logotipo PUMA n.º 1 en la lengüeta
-- Ojetera de diseño actualizado
-- Exterior de ante
 - Cuello acolchado y pespunteado
+- Ojetera de diseño actualizado
 - Cierre de cordones para un ajuste perfecto
+- Exterior de ante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DS41WRDF{{</world>}}

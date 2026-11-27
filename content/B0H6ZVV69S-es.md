@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'REDMI 17 5G 4+256GB Naranja 7500mAh carga 45 W | Snapdragon® 4 Gen 5 con 5G Corning® Gorilla® Glass 7i pantalla inmersiva de 6 9" cámara dual AI de 50 MP'
-date: 2026-11-20 08:31:46
+date: 2026-11-26 15:40:30
 image: 'https://m.media-amazon.com/images/I/41c8RIbUaCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0H6ZVV69S/?tag=tolees-21'
 descuento: '35.50'
-average: '229.09846153846115'
+average: '227.01285714285677'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

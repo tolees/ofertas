@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillos
 - Encased elastic at waistband and ankle hems
-- Tejido orgánico: algodón terry fleece
+- Bolsillos
 - Contrasted bands at side legs with coloured piping
+- Tejido orgánico: algodón terry fleece
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DPG63GHG{{</world>}}

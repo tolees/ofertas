@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Desigual
-- Combinación de colores
-- Largo: Largo
-- Confeccionado con materiales sostenibles
 - Cintura elástica
+- Combinación de colores
+- Confeccionado con materiales sostenibles
+- Largo: Largo
+- Desigual
 - Colección AW25
 
 [🛒 Aquí!!!]({{< param buyurl >}})

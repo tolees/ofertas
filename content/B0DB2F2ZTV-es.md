@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Paneles traseros y laterales de malla
-- Logotipo del equipo Mercedes - AMG Petronas Formula One Team
-- Cierre ajustable
 - 100% poliéster (reciclado)
+- Logotipo del equipo Mercedes - AMG Petronas Formula One Team
+- Paneles traseros y laterales de malla
+- Cierre ajustable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DB2F2ZTV{{</world>}}

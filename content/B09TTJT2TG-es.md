@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 93% Algodón Orgánico - 7% Elastano
 - Fabricado en un proceso de producción sostenible, ecológico y transpirante
+- 93% Algodón Orgánico - 7% Elastano
 - Libre de pesticidas y solo con agua de lluvia
 - Malla larga de algodón orgánico
 

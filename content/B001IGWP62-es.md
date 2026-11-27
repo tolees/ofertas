@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Zapatilla de gimnasia para gimnasia, baile, salto
-- Control optimo
 - Parte superior de cuero sintético suave que se ajusta con precisión
+- Control optimo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B001IGWP62{{</world>}}

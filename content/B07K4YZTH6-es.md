@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Modelo: STHT10266-0
 - Cúter AutoLock 18mm
+- Modelo: STHT10266-0
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07K4YZTH6{{</world>}}

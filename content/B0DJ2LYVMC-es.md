@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material Principal: 93% Algodón / 7% Elastano
 - Corte ajustado
+- Material Principal: 93% Algodón / 7% Elastano
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DJ2LYVMC{{</world>}}

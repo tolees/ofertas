@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Diseño transpirable
 - Horma clásica
-- Puntera Adituff
 - Empeine de piel sintética y malla
+- Puntera Adituff
 - Cierre de cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

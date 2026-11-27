@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Lavar a máquina
-- Mango largo
 - Enhebrar
 - algodón
+- Lavar a máquina
+- Mango largo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09RJMFKFW{{</world>}}

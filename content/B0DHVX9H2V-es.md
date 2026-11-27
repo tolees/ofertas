@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte regular
-- Forro textil
-- Cierre de cordones
 - Suela de goma
 - Parte superior de cuero y textil
+- Corte regular
+- Cierre de cordones
+- Forro textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DHVX9H2V{{</world>}}

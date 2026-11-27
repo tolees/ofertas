@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans Ward Zapatillas Mujer Black and White 39 EU'
-date: 2026-11-19 09:49:05
+date: 2026-11-26 11:35:46
 image: 'https://m.media-amazon.com/images/I/41YAUQyylhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B078PHC6YZ/?tag=tolees-21'
 descuento: '47.60'
-average: '49.318775510203992'
+average: '48.925882352941088'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

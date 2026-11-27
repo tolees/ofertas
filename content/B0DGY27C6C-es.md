@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tognana Caledona servicio de platos de 18 piezas para 6 personas porcelana multicolor.'
-date: 2026-11-21 16:31:29
+date: 2026-11-26 23:41:36
 image: 'https://m.media-amazon.com/images/I/41-TzddhO3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DGY27C6C/?tag=tolees-21'
 descuento: '46.51'
-average: '47.985'
+average: '47.983333333333334'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los recambios eléctricos con compatibles con los aparatos eléctricos de Raid
-- Se puede colocar en casa en una habitación interior con bebes o mascotas
-- Insecticida eléctrico inoloro: con dos recambios de 45 noches, proporciona un total de 90 noches (8 horas por noche) de protección rápida y constante contra los mosquitos comunes y tigre
 - Función repelente: Repele y protege en espacios de hasta 30 metros cúbicos
-- Producto es apto para el público general (no uso exclusivo profesional)
-- Cada cargador de 45 noches se puede dejar conectado durante todo el día completo en vez de solamente 8 horas cada noche, en este caso tendría una duración de aproximadamente 15 días completos
-- Incluye dos recambios de 45 noches
-- Elimina hasta los mosquitos que no se ven
-- Eficacia probada incluso con la ventana abierta y las luces encendidas en el hogar
+- Los recambios eléctricos con compatibles con los aparatos eléctricos de Raid
 - Peligro Muy tóxico para los organismos acuáticos, con efectos nocivos duraderos. Muy tóxico para los organismos acuáticos. Puede ser mortal en caso de ingestión y penetración en las vías respiratorias. Utilice los biocidas de forma segura. Lea siempre la etiqueta y la información sobre el biocida antes de usarlo. UFI: 5G3M-E0N4-MYS3. Etiquetado conforme al Reglamento (UE) Nº 1272/2008 (CLP).
+- Insecticida eléctrico inoloro: con dos recambios de 45 noches, proporciona un total de 90 noches (8 horas por noche) de protección rápida y constante contra los mosquitos comunes y tigre
+- Cada cargador de 45 noches se puede dejar conectado durante todo el día completo en vez de solamente 8 horas cada noche, en este caso tendría una duración de aproximadamente 15 días completos
+- Elimina hasta los mosquitos que no se ven
+- Producto es apto para el público general (no uso exclusivo profesional)
+- Se puede colocar en casa en una habitación interior con bebes o mascotas
+- Incluye dos recambios de 45 noches
+- Eficacia probada incluso con la ventana abierta y las luces encendidas en el hogar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XDV8I0C{{</world>}}

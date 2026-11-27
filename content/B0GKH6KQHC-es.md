@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Garnier Vitamina C Wonder Tint Fluido Todo en 1 BB Cream Tono Medio 40ml | Acción Anti -Manchas Unificador Textura Ultraligera Acabado No Graso Niacinamida Glicerina Vitamina C'
-date: 2026-11-20 17:15:55
+date: 2026-11-27 07:23:43
 image: 'https://m.media-amazon.com/images/I/31E1SpDY0HL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GKH6KQHC/?tag=tolees-21'
 descuento: '48.43'
-average: '11.387000000000008'
+average: '11.145454545454552'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

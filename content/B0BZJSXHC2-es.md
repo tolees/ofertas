@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Creado por Richard Garfield, uno de los autores más importantes del mundo de los juegos de mesa: The Gathering, Bunny Kingdom
 - Versión cooperativa del juego de mesa superventas King Of Tokyo / New York
 - En esta versión de King Of Tokyo deberemos luchar juntos contra los monstruos de la isla volcánica, que luce impresionante en mesa
-- Creado por Richard Garfield, uno de los autores más importantes del mundo de los juegos de mesa: The Gathering, Bunny Kingdom
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BZJSXHC2{{</world>}}

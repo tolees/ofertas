@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 10 años de energía almacenada, VARTA Consumer Batteries GmbH está certificada según las normas internacionales DIN EN ISO 9001 y DIN EN ISO 14001
 - Pila alcalina potente y estanca, calidad "Made in Germany"
+- 10 años de energía almacenada, VARTA Consumer Batteries GmbH está certificada según las normas internacionales DIN EN ISO 9001 y DIN EN ISO 14001
 - Pilas de calidad superior, que proporcionan energía potente y duradera para dispositivos con alto consumo de energía.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Elástico cómodo
+- Cuello de pico
 - Proporciona comodidad
 - Manga corta
-- Cuello de pico
 - Una mirada original
-- Elástico cómodo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CRZHF7QV{{</world>}}

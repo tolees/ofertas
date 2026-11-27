@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Uso versátil
-- Alta calidad
-- Calce profundo: un calce más espacioso y de cobertura total
-- Esposado
 - Parche con logo tejido
+- Alta calidad
+- Uso versátil
+- Esposado
+- Calce profundo: un calce más espacioso y de cobertura total
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BGY9SS51{{</world>}}

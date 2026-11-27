@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Baja
 - hombre
+- Baja
+- Tipo de talla: talla estándar
 - Tipo de tacón: Plano
 - Cierre: Cordones
 - Hummel
-- Tipo de talla: talla estándar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01M7VJG71{{</world>}}

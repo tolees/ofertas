@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- RIB en las mangas y en la parte inferior
 - Bolsillos tipo canguro en la parte delantera
 - Sudadera con capucha
-- RIB en las mangas y en la parte inferior
-- Cómodo jersey de algodón y poliéster
 - Logotipo ROXY en lámina en la parte delantera
+- Cómodo jersey de algodón y poliéster
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BGQ7FR2B{{</world>}}

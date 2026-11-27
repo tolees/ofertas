@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta de manga corta para adulto
 - Corte holgado
+- Camiseta de manga corta para adulto
 - Cuello redondo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Goldcrown - Tenis de moda con estampado de entresuela
 - Colaboración James Goldcrown
+- Goldcrown - Tenis de moda con estampado de entresuela
 - Plantilla de espuma viscoelástica refrigerada por aire
 
 [🛒 Comprar!!!]({{< param buyurl >}})

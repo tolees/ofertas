@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - La ranura de drenaje del cuchillo protege las cuchillas y los dedos
 - Ranura para cuchillo adecuada para cuchillas de hasta 11 cm (4 1/4 pulgadas)
-- Base drenante integrada con caño de vertido
 - Desmonta para facilitar la limpieza
+- Base drenante integrada con caño de vertido
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C61Z7PSP{{</world>}}

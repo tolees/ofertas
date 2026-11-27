@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Licencia oficial de Nintendo
 - Personaliza tu juego con los botones traseros con doble programación
-- Ajusta fácilmente el volumen del juego con el panel D del controlador
-- Ocho zonas de iluminación RGB con cuatro modos preestablecidos
 - Utiliza el conector de 3,5 mm para disfrutar del audio en todos los juegos y del chat USB en los que sean compatibles
+- Ocho zonas de iluminación RGB con cuatro modos preestablecidos
+- Licencia oficial de Nintendo
+- Ajusta fácilmente el volumen del juego con el panel D del controlador
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CBNMWFQL{{</world>}}

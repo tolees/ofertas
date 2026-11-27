@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sistema 3F: Nuestro sistema 3F conecta el sistema de cordones con la suela y el talón para garantizar que la flexibilidad, sujeción y adaptación sean máximas
 - Suela exterior: Vibram WTC
 - Flex Collar: Mediante a su forma curva, la caña anatómica posibilita que el tobillo posea un adecuado margen de desplazamiento hacia atrás y que los rápidos descensos a grandes pasos seancómodos
+- Sistema 3F: Nuestro sistema 3F conecta el sistema de cordones con la suela y el talón para garantizar que la flexibilidad, sujeción y adaptación sean máximas
 - Bota de montaña para hombre para el trekking alpino de verano, ligera, con empeine de ante resistente y protección GORE-TEX
 - Peso de un solo zapato: 700g
 

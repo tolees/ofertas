@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Corte recto en la pierna
-- 99 % algodón, 1 % elastano
 - Detalles de cinco bolsillos
+- 99 % algodón, 1 % elastano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DTJB6WZM{{</world>}}

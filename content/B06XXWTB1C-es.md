@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tratamiento antiacné con SPF30 para pieles grasas, mixtas o con tendencia acneica. Corrige imperfecciones, previene brotes y equilibra el microbioma cutáneo con Aqua Posae Filiformis y otros ingredientes clave.
 - Aplicar cada mañana sobre el rostro limpio. Idóneo como base de maquillaje por su textura fluida e hidratante.
+- Tratamiento antiacné con SPF30 para pieles grasas, mixtas o con tendencia acneica. Corrige imperfecciones, previene brotes y equilibra el microbioma cutáneo con Aqua Posae Filiformis y otros ingredientes clave.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B06XXWTB1C{{</world>}}

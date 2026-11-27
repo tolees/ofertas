@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela de goma
-- Revestimiento de ante
 - Horma estándar
+- Revestimiento de ante
 - Cierre de cordones
+- Suela de goma
 - Textura gruesa en la entresuela
 
 [🛒 Visítala!!!]({{< param buyurl >}})

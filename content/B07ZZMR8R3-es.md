@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cierre : Con cordones
-- Artículo : Zapatillas
 - Suela : Suela de goma
 - Puntera : Punta redonda
+- Artículo : Zapatillas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07ZZMR8R3{{</world>}}

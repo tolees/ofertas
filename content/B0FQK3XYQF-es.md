@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Una figura coleccionable para adultos y niños
-- Producto llega en su caja sellada
-- Siéntete parte del mundo de la colección y los Animes con esta figura que viene empaquetada en un embalaje ecológico
-- Producto Importado Legalmente y con licencia Banpresto, el producto llega en su caja; soporte base incluido
 - Basado en el Anime Japonés Dragon Ball es una figura hecha en PVC diseñada y moldeada mano
+- Producto llega en su caja sellada
+- Producto Importado Legalmente y con licencia Banpresto, el producto llega en su caja; soporte base incluido
+- Siéntete parte del mundo de la colección y los Animes con esta figura que viene empaquetada en un embalaje ecológico
+- Una figura coleccionable para adultos y niños
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FQK3XYQF{{</world>}}

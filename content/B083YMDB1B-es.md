@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Rosa, Blau, Lila und Glitzer – einfach die schönsten Farben aussuchen, Granulat mischen und in die Diamant-Formen gießen.
-- Los productos internacionales tienen términos separados, se venden desde el extranjero y pueden diferir de los productos locales, incluyendo ajuste, calificaciones de edad e idioma del producto, etiquetado o instrucciones.
 - Mit diesem Kreativset entwerfen Mädchen ab 8 Jahren ganz schnell ihre eigenen Kristallanhänger für tolle Halsketten, Traumfänger oder Armbänder.
+- Los productos internacionales tienen términos separados, se venden desde el extranjero y pueden diferir de los productos locales, incluyendo ajuste, calificaciones de edad e idioma del producto, etiquetado o instrucciones.
+- Rosa, Blau, Lila und Glitzer – einfach die schönsten Farben aussuchen, Granulat mischen und in die Diamant-Formen gießen.
 - Die farbige Anleitung erklärt jeden Arbeitsschritt ganz genau und zeigt in übersichtlichen Bildern, was zu tun ist.
 - Ein kreatives KOSMOS Experimentierset für Bastelnachmittage und Kindergeburtstage mit Freunden und Geschwistern.
 

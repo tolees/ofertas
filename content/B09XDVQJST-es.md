@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Membrana impermeable GORE-TEX, transpirabilidad excepcional y rendimiento impermeable
 - Puntera protectora y suela de goma Vibram TC5+
-- Piel de cerdo y parte superior de malla
 - Cordones 100% reciclados, correas y forro de malla
+- Membrana impermeable GORE-TEX, transpirabilidad excepcional y rendimiento impermeable
+- Piel de cerdo y parte superior de malla
 - La lengüeta de fuelle mantiene fuera los desechos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Zapatillas Skyrocket Lite 2 Jr Niños Black-White-Silver 37 EU | Amortiguación ligera PUMALITE y cordones FIT PLUS para mayor comodidad en carretera'
-date: 2026-11-20 07:51:00
+date: 2026-11-27 02:02:18
 image: 'https://m.media-amazon.com/images/I/41oofAS5EHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

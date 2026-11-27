@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La nueva Atari 2600+ Pac-Man Anniversary Edition se funda en el legado de la consola original con mejoras de calidad de vida como un puerto HDMI, carga USB y múltiples modos de pantalla.
+- Viene incluido con 2 juegos de Pac-Man en un cartucho, y un mando CX40+ inalámbrico
 - Celebra el 45 aniversario del icónico comecocos Pac-Man con la colaboración licenciadada de Bandai Namco con Atari
 - El espacio cartucho es compatible con versiones anteriores de cientos de juegos anteriores de las Atari 2600 y 7800 originales.
-- Viene incluido con 2 juegos de Pac-Man en un cartucho, y un mando CX40+ inalámbrico
+- La nueva Atari 2600+ Pac-Man Anniversary Edition se funda en el legado de la consola original con mejoras de calidad de vida como un puerto HDMI, carga USB y múltiples modos de pantalla.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FJM9562P{{</world>}}

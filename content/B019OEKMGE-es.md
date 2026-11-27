@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Prenda de vestimenta
 - Para uso diario
+- Prenda de vestimenta
 - Tiene destalles distintivos de la marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})

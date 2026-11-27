@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puntera Adituff
-- Cierre de cordones
 - Empeine de piel sintética y malla
+- Cierre de cordones
 - Horma clásica
 - Diseño transpirable
+- Puntera Adituff
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZ13VH5F{{</world>}}

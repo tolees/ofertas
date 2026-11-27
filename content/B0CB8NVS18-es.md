@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Entresuela Floatride completa
 - Cuña medial y clip en el talón de TPU para estabilidad y soporte
+- Entresuela Floatride completa
 - Recomendadas para: sesiones de running intensas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

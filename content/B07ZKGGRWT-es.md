@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Zapatillas casual para hombre
-- PLATEADO
 - 60%FABRIC- 40%PU
+- PLATEADO
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07ZKGGRWT{{</world>}}

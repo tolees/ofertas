@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Carcasa de acero inoxidable: la carcasa de acero inoxidable es resistente y le da al reloj un elegante brillo plateado.
 - 43,0 x 11,5 mm de diámetro
+- Carcasa de acero inoxidable: la carcasa de acero inoxidable es resistente y le da al reloj un elegante brillo plateado.
 - Correa de metal: la pulsera de metal de alta calidad garantiza la máxima comodidad en la muñeca gracias a su cierre desplegable plano con correa de seguridad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

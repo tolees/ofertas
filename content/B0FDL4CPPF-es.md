@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Piqué de algodón elástico
 - Cinta distintiva en la parte interior del cuello
 - Tapeta de dos botones
+- Piqué de algodón elástico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FDL4CPPF{{</world>}}

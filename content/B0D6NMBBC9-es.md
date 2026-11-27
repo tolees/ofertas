@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Composición: 98 por ciento de algodón y 2 por ciento de elastano
 - Jeans Pantalones Largos
 - Ajuste: Slim Straight
 - Instrucciones de cuidado: apto para lavadora
 - Tipo de estiramiento: Medium Stretch
+- Composición: 98 por ciento de algodón y 2 por ciento de elastano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D6NMBBC9{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Horma clásica
-- Empeine de malla con acabado que repele el agua y detalles reflectantes
-- Forro textil
 - Banda de refuerzo
+- Horma clásica
+- Forro textil
+- Empeine de malla con acabado que repele el agua y detalles reflectantes
 - Cierre de cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})

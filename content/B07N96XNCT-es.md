@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Longitud 53.3 cm - corto
 - Corte clásico recto más estrecho en las piernas
 - Bolsillo lateral en la parte delantera
+- Longitud 53.3 cm - corto
 - Cintura fija con cierre de cremallera y botón
 - Dos bolsillos con ribete cilíndrico y solapa En La parte trasera
 

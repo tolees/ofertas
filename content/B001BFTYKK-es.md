@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Brillantina creativa para numerosos materiales. Para crear fotos, tarjetas de felicitación, papel de envolver, marcos de fotos y mucho más con brillantes efectos centelleantes.
 - El tubo extrablando con boquilla de precisión permite decorar de forma limpia y precisa, y es ideal para las manos pequeñas.
-- No gotea ni deja hilos
-- Lavable a 30º.Dermatologicamente testado.
 - Sin disolventes.
+- Brillantina creativa para numerosos materiales. Para crear fotos, tarjetas de felicitación, papel de envolver, marcos de fotos y mucho más con brillantes efectos centelleantes.
+- Lavable a 30º.Dermatologicamente testado.
+- No gotea ni deja hilos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B001BFTYKK{{</world>}}

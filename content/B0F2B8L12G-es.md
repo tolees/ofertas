@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cordones
-- Mediasuela CLOUDFOAM
-- Horma clásica
-- Plantilla textil
 - Empeine de material sintético
+- Plantilla textil
+- Mediasuela CLOUDFOAM
+- Cordones
+- Horma clásica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F2B8L12G{{</world>}}

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Con chicane y looping
-- Longitud de la pista: 4,9 m
 - Coches incluidos: Sonic Speed Star + Shadow Dark Reaper
-- Escala: 1:43, edad: 6+
 - Medidas montado: 150 x 92 cm
+- Escala: 1:43, edad: 6+
+- Longitud de la pista: 4,9 m
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BZSFPNBV{{</world>}}

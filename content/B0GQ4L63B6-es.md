@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pato Discos Activos WC Edición Limitada Hibiscus Hyperspace Limpia Refresca y Perfuma el Inodoro Eficacia 360° 2 Recambios = 12 discos'
-date: 2026-11-25 16:47:58
+date: 2026-11-26 21:02:38
 image: 'https://m.media-amazon.com/images/I/51q8seA4bJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GQ4L63B6/?tag=tolees-21'
 descuento: '35.06'
-average: '4.2347368421052627'
+average: '4.2019047619047614'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

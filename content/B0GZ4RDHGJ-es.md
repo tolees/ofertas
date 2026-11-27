@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - ●● PROMESA NUTRIMEA ●● Nuestros complementos se desarrollan con el apoyo de un departamento de I+D y un comité de expertos en medicina, investigación y trazabilidad. Están elaborados bajo estrictos estándares de calidad ISO 22000, HACCP y GMP.
-- ●● CÁPSULAS DE ORIGEN VEGETAL Y CALIDAD PREMIUM ●● Cápsulas vegetales fáciles de tragar, formuladas con ingredientes cuidadosamente seleccionados para responder a las expectativas de quienes buscan un complemento alimenticio de alta calidad.
 - ●● 300 MG DE NR, FUENTE DE VITAMINA B3 ●● La nicotinamida ribósido aporta 126 mg de vitamina B3, equivalentes al 786 % de los Valores de Referencia de Nutrientes (VRN). La vitamina B3 contribuye al metabolismo energético normal, al funcionamiento normal del sistema nervioso y a reducir el cansancio y la fatiga.
+- ●● CÁPSULAS DE ORIGEN VEGETAL Y CALIDAD PREMIUM ●● Cápsulas vegetales fáciles de tragar, formuladas con ingredientes cuidadosamente seleccionados para responder a las expectativas de quienes buscan un complemento alimenticio de alta calidad.
 - ●● CON TRANS-RESVERATROL, TMG Y ZINC ●● La fórmula está enriquecida con trans-resveratrol procedente de Polygonum cuspidatum, TMG (trimetilglicina) y zinc. El zinc contribuye a la síntesis normal del ADN, al funcionamiento normal del sistema inmunitario y a proteger las células frente al estrés oxidativo.
 - ●● FÓRMULA PREMIUM DE NAD+ Y NICOTINAMIDA RIBÓSIDO ●● Cada dosis diaria de 2 cápsulas aporta 100 mg de NAD+, 300 mg de nicotinamida ribósido (NR), 150 mg de trans-resveratrol, 150 mg de TMG (trimetilglicina) y 5 mg de zinc. Una fórmula completa que combina ingredientes seleccionados por su calidad y complementariedad.
 

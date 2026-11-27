@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Telescopio para Adultos Principiantes Apertura de 70 mm 400 mm Soporte AZ Completo Multicapa Refractor telescopio de Viaje con trípode Adaptador de teléfono White'
-date: 2026-11-25 11:48:55
+date: 2026-11-26 21:56:30
 image: 'https://m.media-amazon.com/images/I/41hirIma+YL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DPYWZ124/?tag=tolees-21'
 descuento: '57.15'
-average: '35.99'
+average: '34.275714285714287'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

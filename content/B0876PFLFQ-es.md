@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Under Armour Hombre UA Knit Track Suit Shirt'
-date: 2026-11-25 06:08:20
+date: 2026-11-26 07:28:10
 image: 'https://m.media-amazon.com/images/I/31QU0-HuQbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0876PFLFQ/?tag=tolees-21'
 descuento: '50.00'
-average: '38.906379310344903'
+average: '38.859500000000075'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

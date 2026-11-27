@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La siguiente información se aplica a cada unidad del paquete
-- ALIENTO FRESCO: Neutraliza olores y mantiene la boca del perro saludable.
-- USO SEGURO: Fórmula adaptada a perros de todas las razas y tamaños.
 - RUTINA DIARIA: Ideal para complementar la higiene bucal con cepillado regular.
-- CUIDADO DENTAL: Pasta sabor ternera que ayuda a prevenir placa y sarro.
+- USO SEGURO: Fórmula adaptada a perros de todas las razas y tamaños.
+- La siguiente información se aplica a cada unidad del paquete
 - COMPROMISO CON EL BIENESTAR ANIMAL: Con más de 50 años de experiencia, Trixie se ha consolidado como líder en productos de alta calidad para el cuidado de las mascotas, destacando por su enfoque en la sostenibilidad y su colaboración con organizaciones globales que promueven el bienestar animal.
+- ALIENTO FRESCO: Neutraliza olores y mantiene la boca del perro saludable.
+- CUIDADO DENTAL: Pasta sabor ternera que ayuda a prevenir placa y sarro.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CH2GM7L1{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalones cortos chinos
 - Cierre de cremallera
-- Composición del material: 73% algodón, 25% lino, 2% elastano
 - Corte normal
+- Pantalones cortos chinos
+- Composición del material: 73% algodón, 25% lino, 2% elastano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CC3XFTVQ{{</world>}}

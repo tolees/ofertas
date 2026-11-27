@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- VILEDA: Como los reales! Reproducción fiel de productos icónicos de la marca Vileda
 - Edad: Para niños a partir de 3 años
+- VILEDA: Como los reales! Reproducción fiel de productos icónicos de la marca Vileda
 - TALLA: Altura del mango 65 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})

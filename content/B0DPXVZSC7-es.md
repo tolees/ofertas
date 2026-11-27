@@ -31,8 +31,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - RUTINA DE CUIDADO DEL CABELLO: Para obtener los mejores resultados, úsalo con el champú ULTIMATE SMOOTH, el acondicionador o el sérum Miracle Oil. Ideal para el cuidado personal o como regalo de belleza.
 - PRODUCTOS ANTIENCRESPAMIENTO: Con Escualano y Omega 9 para nutrir profundamente las fibras capilares desde el interior y restaurarlas en el exterior. Dermatológicamente probado y adecuado para cabellos teñidos.
 - FRAGANCIA PARA EL CABELLO: Mascarilla para el cabello con notas de jazmín, vainilla, bergamota, melocotón y sándalo. Enamórate de su aroma floral con cada uso.
-- CÓMO SE UTILIZA: Aplica la mascarilla capilar sobre el cabello limpio y húmedo, y deja actuar de 5 a 10 minutos. Su textura cremosa la hace ideal para un tratamiento capilar profundo semanal.
 - MASCARILLA CAPILAR: Tratamiento nutritivo semanal para el cabello apagado, dañado y encrespado. Al usar el sérum Miracle Oil, nutre en solo 30 segundos y la suavidad dura hasta 3 días*.
+- CÓMO SE UTILIZA: Aplica la mascarilla capilar sobre el cabello limpio y húmedo, y deja actuar de 5 a 10 minutos. Su textura cremosa la hace ideal para un tratamiento capilar profundo semanal.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DPXVZSC7{{</world>}}

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Oftalmologicamente testeada, apta para ojos sensibles y libre de fragancias
-- A prueba de grumos y manchas
 - Fórmula 100% vegana fabricada con ceras naturales de bayas, candelila y carnaúba.
 - Volumen modulable, capa tras capa; Tus pestañas, ¡a tu manera!
+- A prueba de grumos y manchas
 - Goupillon fabricado con fibras BIO
 
 [🛒 Comprar!!!]({{< param buyurl >}})

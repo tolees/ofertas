@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Herramientas elevadas
 - Parte superior textil
-- Suela de goma
 - Capas superpuestas de gamuza
+- Suela de goma
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DJ9LSSV7{{</world>}}

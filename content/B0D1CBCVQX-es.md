@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- materialFabricComposition: 100% Polyester
-- Long Sleeves
 - Baseball
+- Long Sleeves
+- materialFabricComposition: 100% Polyester
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D1CBCVQX{{</world>}}

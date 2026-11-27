@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Material exterior: Sintético
-- Flexibilidad
 - Revestimiento: Sintético
 - Fácil de llevar para un confort optimo
+- Flexibilidad
 - Transpirable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

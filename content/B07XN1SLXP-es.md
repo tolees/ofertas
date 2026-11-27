@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tamaño: 770 unidades. (26,9 cm x 17,5 cm x 10,4 cm)
 - Conjunto de Bloques de Construcción de la Casa Blanca
 - Casa Blanca es perfecta para constructores de 12 años en adelante
-- Tamaño: 770 unidades. (26,9 cm x 17,5 cm x 10,4 cm)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07XN1SLXP{{</world>}}

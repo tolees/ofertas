@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cortaúñas con recogeuñas
-- Dimension de 5 cm
-- Con lima cromada
 - Producto de alta calidad
+- Con lima cromada
+- Dimension de 5 cm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01I2Y7OLI{{</world>}}

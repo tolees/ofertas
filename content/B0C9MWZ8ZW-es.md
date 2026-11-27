@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Este producto hidrata la piel, evitando que se reseque y que el cuerpo produzca un exceso de grasa que podría provocar más brotes.
 - Una innovadora crema hidratante que aclara las imperfecciones, nutre y suaviza la textura de la piel para conseguir un cutis más sano.
 - Esta fórmula no es comedogénica y no obstruye los poros.
+- Este producto hidrata la piel, evitando que se reseque y que el cuerpo produzca un exceso de grasa que podría provocar más brotes.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C9MWZ8ZW{{</world>}}

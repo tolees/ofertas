@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Bailarinas efecto charol con elástico, punta fina y suela track estilo «balletcore»
 - Altura tacón 2 cm
-- Plantilla de piel curtida de forma sostenible muy acolchada
 - La hilatura de los tejidos del forro tienen sello de garantía certificada Global Recycle Standard (GRS)
+- Plantilla de piel curtida de forma sostenible muy acolchada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CV4BFYBT{{</world>}}

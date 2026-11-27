@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre: cordones
 - Parte superior: sintética
+- Cierre: cordones
 - Suela: goma
 
 [🛒 Comprar!!!]({{< param buyurl >}})

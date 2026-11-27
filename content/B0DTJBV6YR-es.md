@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100 % algodón
-- Suéter de cuello redondo de alta calidad
 - Logotipo bordado en el lado izquierdo del pecho
+- Suéter de cuello redondo de alta calidad
+- 100 % algodón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DTJBV6YR{{</world>}}

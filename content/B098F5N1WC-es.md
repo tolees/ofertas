@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - calzado deportivo nike
-- Entresuela de espuma para una amortiguación duradera
 - Resistente y ligero
+- Entresuela de espuma para una amortiguación duradera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B098F5N1WC{{</world>}}

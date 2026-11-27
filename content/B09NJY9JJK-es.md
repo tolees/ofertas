@@ -30,10 +30,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Bombilla no incluida en el producto
 - Efecto de iluminación bidireccional para la iluminación general del jardín
-- Disfruta del ahorro energético de los LED sin sacrificar la calidad de la luz; ahorra más del 80% de energía sustituyendo tus bombillas halógenas o incandescentes actuales
-- Confiere un toque vintage a tus espacios exteriores con este farol de pared antracita en aluminio de Philips; el difusor de cristal y el diseño retro crean una atmósfera elegante que encaja a la perfección con tu estilo personal
-- Cambia el ambiente de la habitación para adaptarlo a tus actividades; con los focos LED Philips SceneSwitch, puedes cambiar fácilmente el ajuste de luz, de una luz brillante y natural a un brillo cálido y acogedor; no se requiere regulador ni una instalación adicional; lo único que necesitas es tu interruptor actual
 - Diseñada en Europa, esta lámpara tiene un diseño que ayuda a crear un aspecto tradicional en el exterior
+- Disfruta del ahorro energético de los LED sin sacrificar la calidad de la luz; ahorra más del 80% de energía sustituyendo tus bombillas halógenas o incandescentes actuales
+- Cambia el ambiente de la habitación para adaptarlo a tus actividades; con los focos LED Philips SceneSwitch, puedes cambiar fácilmente el ajuste de luz, de una luz brillante y natural a un brillo cálido y acogedor; no se requiere regulador ni una instalación adicional; lo único que necesitas es tu interruptor actual
+- Confiere un toque vintage a tus espacios exteriores con este farol de pared antracita en aluminio de Philips; el difusor de cristal y el diseño retro crean una atmósfera elegante que encaja a la perfección con tu estilo personal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09NJY9JJK{{</world>}}

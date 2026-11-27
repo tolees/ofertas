@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Máxima protección contra los rayos UV
 - Personalizado con gráficos exclusivos que son siempre nuevos y atractivos: princesas Disney
 - Medidas 44x35 cm
 - Par de cortinas laterales para coches de niñas Disney Princess
-- Máxima protección contra los rayos UV
 - Fácil fijación al cristal gracias a las ventosas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

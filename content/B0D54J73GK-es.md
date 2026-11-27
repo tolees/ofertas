@@ -29,12 +29,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Puños y dobladillo acanalados
-- Ajuste estándar
-- Lavado a máquina
-- Cuello redondo
-- 94% algodón 4% poliamida 2% elastano
-- Un suéter versátil para todos los días
 - Con nuestro famoso logotipo Housemark
+- 94% algodón 4% poliamida 2% elastano
+- Ajuste estándar
+- Un suéter versátil para todos los días
+- Cuello redondo
+- Lavado a máquina
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D54J73GK{{</world>}}

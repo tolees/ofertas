@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Conexión inalámbrica de 2,4 GHz de gran fiabilidad, trabaja sin limitaciones, hasta 10 m (30 pies)
 - Sensor óptico de 1200 PPP, preciso y veloz
-- Sistemas operativos compatibles: compatible con todas las plataformas de ordenadores portátiles y de sobremesa con el puerto USB y Windows Vista/7/8/10 disponible
 - Tecnología LED azul, para trabajar en cualquier superficie
-- Dimensiones mínimas 101 x 60 x 25,3 mm y peso: 0,05 kg
 - Con hasta 16 meses de duración de una sola batería AA, supera los limites
+- Dimensiones mínimas 101 x 60 x 25,3 mm y peso: 0,05 kg
+- Sistemas operativos compatibles: compatible con todas las plataformas de ordenadores portátiles y de sobremesa con el puerto USB y Windows Vista/7/8/10 disponible
+- Conexión inalámbrica de 2,4 GHz de gran fiabilidad, trabaja sin limitaciones, hasta 10 m (30 pies)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01L3ZP2MG{{</world>}}

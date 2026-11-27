@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Compatible con Scribzee para sincronizar tus citas y deberes con tu teléfono
-- Agenda con Pizarra Blanca en el interior de las 2 tapas: ideal para cálculos, esquemas, dictados,… ¡Escribe, borra y vuelve a escribir!.
-- Distribución: Semana Vista
 - 2 Hojas de pegatinas para poder personalizar la agenda
+- Compatible con Scribzee para sincronizar tus citas y deberes con tu teléfono
+- Distribución: Semana Vista
+- Agenda con Pizarra Blanca en el interior de las 2 tapas: ideal para cálculos, esquemas, dictados,… ¡Escribe, borra y vuelve a escribir!.
 - Interior NUDE azul: un interior limpio y depurado para poder planificar y organizar el curso
 
 [🛒 Comprar!!!]({{< param buyurl >}})

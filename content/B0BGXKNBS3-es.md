@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tres pares por paquete
-- Largo clásico
 - Refuerzo en el arco plantar
 - Costuras anatómicas en la puntera
+- Largo clásico
+- Tres pares por paquete
 - Paneles acolchados en la puntera y el talón
 
 [🛒 Aquí!!!]({{< param buyurl >}})

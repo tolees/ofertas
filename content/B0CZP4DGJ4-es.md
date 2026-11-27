@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Material Principal: 100% Algodón / Parte Del Cordoncillo: 95% Algodón / 5% Elastano
-- Corte clásico
 - Logo de 3 bandas en pecho
 - Cuello redondo
+- Corte clásico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZP4DGJ4{{</world>}}

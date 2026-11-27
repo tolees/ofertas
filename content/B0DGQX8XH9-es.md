@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 15 tonos de sombras de ojos de gran pigmentación Incluyendo un eyeliner en pastilla
-- Con una variedad de acabados: mates, shimmer y metálicos
-- Para looks naturales y llamativos
 - De gran pigmentación; brillante; reluciente; color intenso; escarchado; metalizado; mate
+- Con una variedad de acabados: mates, shimmer y metálicos
+- 15 tonos de sombras de ojos de gran pigmentación Incluyendo un eyeliner en pastilla
+- Para looks naturales y llamativos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DGQX8XH9{{</world>}}

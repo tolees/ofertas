@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Skechers Plantilla acolchada de espuma viscoelástica refrigerada por aire
 - Ajuste relajado para un ajuste cómodo y espacioso en los dedos y el antepié
+- Skechers Plantilla acolchada de espuma viscoelástica refrigerada por aire
 - Goma Goodyear
 - Antideslizante en condiciones húmedas y secas
 - Troqueladas

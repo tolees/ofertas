@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Horma clásica
-- Suela de goma que no deja marcas
-- Parte de piel sintética
 - Forro textil
+- Horma clásica
+- Parte de piel sintética
+- Suela de goma que no deja marcas
 - Cierre de cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

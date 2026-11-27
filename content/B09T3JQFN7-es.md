@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 100% poliéster interlock
 - Short con cintura elástica ajustable mediante cordón
-- Set de dos piezas
 - Camiseta de manga corta con contraste de color en hombros y cuello
+- Set de dos piezas
+- 100% poliéster interlock
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09T3JQFN7{{</world>}}

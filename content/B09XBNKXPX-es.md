@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HAWKERS Gafas de Sol ONE POLARIZED para hombre y mujer'
-date: 2026-11-22 06:50:37
+date: 2026-11-26 15:27:11
 image: 'https://m.media-amazon.com/images/I/21F-cKRrUlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09XBNKXPX/?tag=tolees-21'
 descuento: '63.52'
-average: '18.531666666666666'
+average: '18.228461538461538'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

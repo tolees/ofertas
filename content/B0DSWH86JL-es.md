@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- G-Star RAW Insignia en el pecho
+- Cuello de polo
 - Aberturas laterales
 - Cierre de botón
-- G-Star RAW Insignia en el pecho
 - Diseño acanalado en cuello y dobladillos
-- Cuello de polo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DSWH86JL{{</world>}}

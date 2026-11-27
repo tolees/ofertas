@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Puños y cintura acanalados
 - Una mirada original
-- Cuello acanalado
-- Bordado de G-Star RAW en el pecho
+- Puños y cintura acanalados
 - Proporciona comodidad
+- Bordado de G-Star RAW en el pecho
+- Cuello acanalado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CS17TH9M{{</world>}}

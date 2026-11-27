@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricado con materiales de alta calidad.
 - Suela de goma
+- Fabricado con materiales de alta calidad.
 - Logotipo de New Balance en el lateral y la espalda.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

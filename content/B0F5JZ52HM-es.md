@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - LONGITUD: 41,9cm desde el lateral del cuello en la talla 3 años de España; 55,9cm en la talla 8 años de España
-- ESENCIALES DE USO DIARIO: camisetas de manga corta con cuello redondo perfectas para el uso diario
 - CORTE HOLGADO: corte holgado y cómodo en todo el cuerpo
-- DETALLES: escote redondeado con etiqueta estampada para una comodidad sin etiquetas
 - ALGODÓN JERSEY: algodón jersey 100 %, ligero y supersuave. El algodón ofrece una elasticidad y transpirabilidad naturales, por lo que resulta cómodo de llevar durante todo el año
+- DETALLES: escote redondeado con etiqueta estampada para una comodidad sin etiquetas
+- ESENCIALES DE USO DIARIO: camisetas de manga corta con cuello redondo perfectas para el uso diario
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F5JZ52HM{{</world>}}

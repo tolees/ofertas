@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fijación: Cremallera
-- Forro: textil
-- Suela: sintética
-- Top: Sintético
 - Altura del talón: 2,5 cm
+- Forro: textil
+- Fijación: Cremallera
+- Top: Sintético
+- Suela: sintética
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07LBDN5W2{{</world>}}

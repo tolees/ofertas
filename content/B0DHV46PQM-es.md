@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Lengüeta plegable
+- Horma clásica
 - Empeine Hybridfeel con elementos Strikescale
 - Suela Controlplate multisuperficie
-- Horma clásica
 - Forro textil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

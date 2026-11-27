@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con un ajuste estrecho
 - Pantalones chinos para hombre
+- Con un ajuste estrecho
 - Forma de pierna cónica
 - Corte delgado en el muslo sin que quede demasiado apretado
 

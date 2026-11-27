@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre: cierre de cremallera y botón
 - Ajuste: ajuste ajustado
+- Cierre: cierre de cremallera y botón
 - Composición: 79 por ciento algodón Bci - 15 por ciento lyocell - 4 por ciento elastomultiéster - 2 por ciento de elastano
-- Instrucciones de cuidado: apto para lavadora
 - Vaqueros Pantalones Largos
+- Instrucciones de cuidado: apto para lavadora
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BZTK8V38{{</world>}}

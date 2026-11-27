@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Puños de nervadura en el cuello, la cintura y las muñecas
+- Cable del túnel para ajustar el ancho del capó
 - Forro interior cepillado
 - Logotipo grande en el pecho
-- Cable del túnel para ajustar el ancho del capó
-- Puños de nervadura en el cuello, la cintura y las muñecas
 - Etiqueta con bandera en el dobladillo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

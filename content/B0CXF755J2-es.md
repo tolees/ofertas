@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Comparte con otros
-- Cualquiera puede jugar
 - Crea a tu manera
+- Cualquiera puede jugar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CXF755J2{{</world>}}

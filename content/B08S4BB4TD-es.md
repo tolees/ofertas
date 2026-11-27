@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte de tela con revestimientos sintéticos
 - Una zapatilla inspirada en nuestros archivos con toques de color
 - Forro de tela con cierre de cordones
+- Parte de tela con revestimientos sintéticos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08S4BB4TD{{</world>}}

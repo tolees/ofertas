@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material : Plástico y hoja de acero inoxidable
-- Longitud : 15 cm.
 - Garantía : 2 años
+- Material : Plástico y hoja de acero inoxidable
 - Anchura : 7 cm
-- Pelapatatas "Y" Confort
 - La siguiente información se aplica a cada unidad del paquete
+- Longitud : 15 cm.
+- Pelapatatas "Y" Confort
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G591QJLG{{</world>}}

@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Bolsillo canguro
-- Contiene al menos un 70% de material reciclado y renovable
+- Capucha con cordón ajustable
 - Interior cepillado
 - Felpa 70% algodón / 30% poliéster reciclado
-- Capucha con cordón ajustable
 - Corte holgado
+- Contiene al menos un 70% de material reciclado y renovable
 - Puños y dobladillo de canalé
 
 [🛒 Aquí!!!]({{< param buyurl >}})

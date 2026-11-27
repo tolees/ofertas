@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Papel de color blanco natural de 370 g/m²
 - Su elevado gramaje lo convierte en un papel todoterreno de resistencia a cualquier técnica húmeda
-- Muy bien encolado, de grano ligero
+- Papel de color blanco natural de 370 g/m²
 - El auténtico papel de pintura
 - Idóneo para acuarela escolar, témpera y gouache
+- Muy bien encolado, de grano ligero
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00JMCYEHC{{</world>}}

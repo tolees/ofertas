@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Joseph Joseph Multi-Grip Mandolina de cocina Cortador de verduras manual ajustable con agarre de precisión y tres grosores de corte Verde'
-date: 2026-11-19 07:26:11
+date: 2026-11-26 15:21:39
 image: 'https://m.media-amazon.com/images/I/316gwi41+7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YGZYLG8/?tag=tolees-21'
 descuento: '44.04'
-average: '12.3675'
+average: '12.908333333333333'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

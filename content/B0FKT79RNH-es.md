@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Rueda por las eras
 - Una brillante y nueva aventura de Katamari Damacy te espera
+- Rueda por las eras
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FKT79RNH{{</world>}}

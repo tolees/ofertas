@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillos estilo Oeste en el pecho con botones sin ojales
-- Etiqueta trasera de G-STAR hecha de tejido de papel imitando al cuero
+- Bolsillos con ribete en la cintura
 - Cuello plano, trabilla en el interior
 - Cierre de botón sin ojales
-- Bolsillos con ribete en la cintura
+- Etiqueta trasera de G-STAR hecha de tejido de papel imitando al cuero
+- Bolsillos estilo Oeste en el pecho con botones sin ojales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB1XFH5Q{{</world>}}

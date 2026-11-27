@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Capacidad de hasta 256 GB
-- Potente tolerancia a los golpes
 - Potencia de 3 vatios
+- Potente tolerancia a los golpes
+- Capacidad de hasta 256 GB
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0093RN1OS{{</world>}}

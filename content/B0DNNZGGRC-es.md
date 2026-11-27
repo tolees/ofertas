@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Entallado gradual hasta el tobillo
-- Tacto suave y agradable
-- Elástico añadido para proporcionar una mayor comodidad
 - Lavado a máquina
+- Elástico añadido para proporcionar una mayor comodidad
+- Tacto suave y agradable
+- Entallado gradual hasta el tobillo
 - Pantalones chinos de corte estándar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

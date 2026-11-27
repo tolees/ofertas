@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Armani Exchange Relojes de hombre Movimiento de cuarzo multifunción y caja de 44 mm con correa de acero inoxidable Tono dorado y negro azabache'
-date: 2026-11-18 21:55:22
+date: 2026-11-26 11:06:12
 image: 'https://m.media-amazon.com/images/I/51yUnPWOWVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B008MXO0EE/?tag=tolees-21'
 descuento: '40.48'
-average: '110.3469999999998'
+average: '108.37818181818163'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

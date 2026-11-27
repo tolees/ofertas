@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 30 Horas de reproducción
 - Micrófono Integrado
+- 30 Horas de reproducción
 - Carga rápida
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalones cortos de senderismo para hombre, Mezcla de algodón y protección solar
 - Contenido: 1x Columbia Hombre Pantalón corto Flex Roc Utility, Color: Marrón (Delta), Talla: 30, Art.: 2072761
-- Corte regular con una entrepierna de 8"/10", Lavable a máquina
+- Pantalones cortos de senderismo para hombre, Mezcla de algodón y protección solar
 - Bolsillos de seguridad con cremallera, Bolsillos para las manos y posteriores con cierre
+- Corte regular con una entrepierna de 8"/10", Lavable a máquina
 - Confeccionado con la tecnología Omni-Shade UPF 50, Protección del sol
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Garantía de 10 años ( 5 años en la capa antiadherente )
+- Hecho de vidrio borosilicato dando de alta resistencia al choque térmico
 - on unas asas antiadherentes que evitan poner el guante dentro de la fuente, facilitan la extracción de la fuente del horno
 - Apta para el horno , congelador , lavavajillas y microondas Segura
-- Hecho de vidrio borosilicato dando de alta resistencia al choque térmico
-- Garantía de 10 años ( 5 años en la capa antiadherente )
 - Resistente a las manchas no retiene sabores
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

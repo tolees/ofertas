@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ravensburger - Minecraft Heroes of The Village Juego 7+ 2-4 Jugadores | Juego de mesa familiar Minecraft Heroes of the Village para 2-4 jugadores recomendado desde 7 años y para partidas en grupo.'
-date: 2026-11-20 15:20:10
+date: 2026-11-26 14:48:47
 image: 'https://m.media-amazon.com/images/I/51qqGuVsQQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09T6XXM61/?tag=tolees-21'
 descuento: '41.11'
-average: '30.759999999999998'
+average: '30.258620689655171'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

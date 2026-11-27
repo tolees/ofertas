@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cordones
-- Peso: 431,4 g
 - Plantilla textil
-- Amortiguación Lightmotion
-- Suela con compuesto de caucho Continental
-- Drop de la mediasuela: 12 mm (talón: 32 mm / antepié: 20 mm)
-- Empeine sintético y textil
 - Calzado con tecnología GORE-TEX
+- Drop de la mediasuela: 12 mm (talón: 32 mm / antepié: 20 mm)
+- Cordones
 - Horma clásica
+- Peso: 431,4 g
+- Suela con compuesto de caucho Continental
+- Empeine sintético y textil
+- Amortiguación Lightmotion
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F2GLF74J{{</world>}}

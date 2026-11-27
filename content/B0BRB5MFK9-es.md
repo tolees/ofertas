@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ▶ Con interruptores iluminados ▶ Ideal para usar en la oficina, el salón o el estudio ▶ Longitud del cable: 1,5 m (3G x 1,00 mm²)
-- ▶ Interruptor iluminado independiente para cada toma
-- ▶ Regleta de alta calidad para conectar hasta cinco aparatos eléctricos
-- ▶ 5 tomas E francesas (no Schuko) dispuestas a 45° - para facilitar el acceso - Apta para uso universal
 - ▶ Fusible de seguridad infantil integrado que garantiza la máxima seguridad.
+- ▶ Interruptor iluminado independiente para cada toma
+- ▶ Con interruptores iluminados ▶ Ideal para usar en la oficina, el salón o el estudio ▶ Longitud del cable: 1,5 m (3G x 1,00 mm²)
+- ▶ 5 tomas E francesas (no Schuko) dispuestas a 45° - para facilitar el acceso - Apta para uso universal
+- ▶ Regleta de alta calidad para conectar hasta cinco aparatos eléctricos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BRB5MFK9{{</world>}}

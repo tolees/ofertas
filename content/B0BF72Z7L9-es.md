@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Light-Up Marquee
 - WiFi LIVE online play
+- Light-Up Marquee
 - Headphone jack
 - Includes 8 classic games
 - Matching Riser

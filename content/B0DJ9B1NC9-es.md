@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Recomendado para: pisada neutra
 - Tipo de puntera: redondeada
-- Cierre: de cordones
 - Tipo de talón: plano
+- Cierre: de cordones
+- Recomendado para: pisada neutra
 - Ajuste: estándar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

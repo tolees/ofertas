@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- POROS, TEXTURA Y LUMINOSIDAD Los péptidos veganos, Oligo HA, niacinamida y vitamina C ayudan a refinar la apariencia de los poros, suavizar la textura áspera y hacer que el tono luzca más radiante.
-- BOOSTER DE PRIMER PASO CON 7 PÉPTIDOS El Peptide Booster Serum se utiliza después de la limpieza como primer paso de cuidado y ayuda a preparar la piel para los siguientes productos.
 - RUTINA GLOW PARA PIEL APAGADA Aplicar primero el Peptide Booster Serum y después usar la Real Vitamin C Ampoule. Por la noche, la ampolla de vitamina C puede mezclarse con una crema para utilizarla como glow sleeping mask.
-- 19 % DE VITAMINA C PURA La Real Vitamin C Ampoule contiene un 19 % de vitamina C pura en una fórmula anhidra y ayuda a cuidar visiblemente la piel apagada, las manchas oscuras, el tono irregular y la falta de luminosidad.
 - PEPTIDE & VITAMIN C GLOW DUO Un set de cosmética coreana con 7 Vegan Peptide Booster Serum y Real Vitamin C Ampoule, desarrollado para aportar hidratación, glow, una piel más suave y un tono más uniforme.
+- BOOSTER DE PRIMER PASO CON 7 PÉPTIDOS El Peptide Booster Serum se utiliza después de la limpieza como primer paso de cuidado y ayuda a preparar la piel para los siguientes productos.
+- POROS, TEXTURA Y LUMINOSIDAD Los péptidos veganos, Oligo HA, niacinamida y vitamina C ayudan a refinar la apariencia de los poros, suavizar la textura áspera y hacer que el tono luzca más radiante.
+- 19 % DE VITAMINA C PURA La Real Vitamin C Ampoule contiene un 19 % de vitamina C pura en una fórmula anhidra y ayuda a cuidar visiblemente la piel apagada, las manchas oscuras, el tono irregular y la falta de luminosidad.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0GQYJM64Y{{</world>}}

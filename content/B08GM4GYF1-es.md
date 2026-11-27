@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los sistemas Back UPS UPS de APC son la protección óptima contra fluctuaciones y cortes de energía
 - Color: negro
+- Los sistemas Back UPS UPS de APC son la protección óptima contra fluctuaciones y cortes de energía
 - Fácil de usar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

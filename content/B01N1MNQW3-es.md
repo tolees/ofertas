@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Parte encima de piel suave
 - Plantilla moldeada para confort
 - Logo de archivo y logotipo enmarcado
-- Parte encima de piel suave
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01N1MNQW3{{</world>}}

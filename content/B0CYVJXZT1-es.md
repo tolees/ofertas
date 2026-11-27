@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro textil
+- Horma clásica
+- La parte superior contiene al menos un 50% de material reciclado
+- Suela Traxion
 - Parte superior de malla con refuerzos sintéticos para una mayor resistencia al desgaste
 - Lengüeta reforzada
-- Horma clásica
-- Suela Traxion
-- La parte superior contiene al menos un 50% de material reciclado
+- Forro textil
 - Mediasuela de EVA
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

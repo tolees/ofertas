@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Baratza Vario W+ Molinillo Eléctrico de Café en Grano Negro | Muelas Planas de Acero de 54 mm Báscula Integrada Dosificación por Peso'
-date: 2026-11-24 22:09:19
+date: 2026-11-26 10:53:58
 image: 'https://m.media-amazon.com/images/I/41tjjnzlKxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

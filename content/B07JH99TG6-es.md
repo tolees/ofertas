@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playstation Uncharted Collection Hits - Versión 17'
-date: 2026-11-22 09:54:20
+date: 2026-11-26 08:22:38
 image: 'https://m.media-amazon.com/images/I/51aQQIUvpXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JH99TG6/?tag=tolees-21'
 descuento: '44.97'
-average: '12.157654320987808'
+average: '12.103253012048343'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

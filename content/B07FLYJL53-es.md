@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Impedancia: 32ohm
 - Respuesta de frecuencia (Hz – KHz): 20 Hz-20kHz
-- Imán: neodimio
 - Botón de respuesta y micrófono
 - Longitud (cm): 1.5
+- Imán: neodimio
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07FLYJL53{{</world>}}

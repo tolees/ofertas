@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Colección SS27MC: Parte de la colección.
-- Estilo distintivo: Camisa de popelina de manga larga con detalles contrastantes en el interior. Bordado de contraste de color en el pecho.
 - Mezcla de tejido premium: Hecho de 100% algodón para comodidad, flexibilidad y durabilidad.
+- Colección SS27MC: Parte de la colección.
 - Popelina: Construcción de tejido auténtica con un aspecto y sensación premium.
+- Estilo distintivo: Camisa de popelina de manga larga con detalles contrastantes en el interior. Bordado de contraste de color en el pecho.
 - Múltiples tallas y largos de pierna: Disponible en tallas 4-16 y largos de pierna para un ajuste a medida.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Collab
 - Espuma viscoelástica refrigerada por aire
+- Collab
 - Goldcrown
-- Skech-Air
 - Segundo encaje
+- Skech-Air
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DSTR6C1R{{</world>}}

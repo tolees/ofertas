@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- en 6 motivos diferentes
-- SE puede utilizar en Horno microondas
 - material: Porcelana New de hueso.
+- SE puede utilizar en Horno microondas
+- en 6 motivos diferentes
 - perfectas para degustar té, infusiones, Café Americano, Marrón
 - SE pueden lavar en el Lavavajillas.
 

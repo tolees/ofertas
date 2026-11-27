@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela de goma
 - Estructura diseñada para ofrecer un ajuste cómodo y un soporte efectivo durante el uso diario, actividades deportivas o tiempo libre.
+- Suela de goma
 - Ranuras flexibles que siguen el movimiento del pie.
 - Ajuste estructurado y de soporte
 - El reconocible estilo NIKE combinado con materiales de calidad diseñados para garantizar durabilidad, ligereza y rendimiento a lo largo del tiempo.

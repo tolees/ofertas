@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- SM-A047FZKUEUB
 - 0
+- SM-A047FZKUEUB
 - 0
 - 0
 

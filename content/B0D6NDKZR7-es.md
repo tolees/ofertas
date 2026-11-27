@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Plantilla extraíble
 - La suela permite que los pies respiren de forma natural
+- Plantilla extraíble
 - Rápido y fácil de poner
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LORVENA Secador de Pelo Profesional Iónico 160.000 RPM Secado Rápido 1600W | 4 Temperaturas 3 Velocidades Aire Frío Boquilla Magnética Control NTC Filtro Extraíble para Rizos y Alisado'
-date: 2026-11-24 14:20:56
+date: 2026-11-26 08:49:23
 image: 'https://m.media-amazon.com/images/I/41ydSExHvzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GXVCW7YW/?tag=tolees-21'
 descuento: '51.13'
-average: '29.763333333333339'
+average: '29.230000000000004'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

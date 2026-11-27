@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cómodo
+- Libertad de movimiento
 - Corte perfecto
 - Alta calidad
-- Libertad de movimiento
-- Cómodo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FHBGJ9Z1{{</world>}}

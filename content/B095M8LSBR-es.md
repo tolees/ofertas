@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- FÁCILES DE RECONOCER: tiene su tamaño imprimido de lectura fácil en el mango, tanto en el sistema métrico como en unidades americanas
-- APTAS PARA EL LAVAVAJILLAS: para un lavado fácil
 - JUEGO DE 4 TAZAS MEDIDORAS: Incluye medidas de: ¼ taza (59 ml), ? taza (79 ml), ½ taza (118 ml), y 1 taza (237 ml)
+- APTAS PARA EL LAVAVAJILLAS: para un lavado fácil
+- FÁCILES DE RECONOCER: tiene su tamaño imprimido de lectura fácil en el mango, tanto en el sistema métrico como en unidades americanas
 - FÁCILES DE GUARDAR: las tazas están diseñadas para apilarse y mantenerse unidas para que no se pierdan gracias a su anilla
 
 [🛒 Aquí!!!]({{< param buyurl >}})

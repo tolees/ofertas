@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Casual
 - no es resistente al agua
 - Cordones cierre
-- Plano tipo de tacón
 - No Strap
+- Casual
 - material de suela: Caucho
+- Plano tipo de tacón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DTQ62Y3T{{</world>}}

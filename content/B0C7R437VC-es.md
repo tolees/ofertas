@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TESMED TE-880R Plus TENS EMS y Masaje Recargable | Con 73 programas 2 personalizables y uso con 8 electrodos.'
-date: 2026-11-21 11:10:32
+date: 2026-11-26 19:51:34
 image: 'https://m.media-amazon.com/images/I/41Goha3CpfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0C7R437VC/?tag=tolees-21'
 descuento: '60.40'
-average: '60.09'
+average: '59.8175'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

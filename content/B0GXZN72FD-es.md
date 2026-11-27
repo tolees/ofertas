@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 2 Hojas de pegatinas para poder personalizar la agenda
 - Agenda con Pizarra Blanca en el interior de las 2 tapas: ideal para cálculos, esquemas, dictados,… ¡Escribe, borra y vuelve a escribir!.
+- 2 Hojas de pegatinas para poder personalizar la agenda
+- Distribución: Día página
 - Compatible con Scribzee para sincronizar tus citas y deberes con tu teléfono
 - Interior NUDE azul: un interior limpio y depurado para poder planificar y organizar el curso
-- Distribución: Día página
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0GXZN72FD{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye: Cuchilla para cortacésped Rotak 43 (43cm)
 - La cuchilla afilada no es adecuada para Rotak 43 LI
-- Accesorio de metal, hoja para cortacéspedes
 - Con función colectora de hojas
+- Accesorio de metal, hoja para cortacéspedes
+- Incluye: Cuchilla para cortacésped Rotak 43 (43cm)
 - Cuchilla afilada para cortacésped Rotak 43
 
 [🛒 Comprar!!!]({{< param buyurl >}})

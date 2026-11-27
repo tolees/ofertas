@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Russell Hobbs Tostadora Colours Plus+ Roja 2 Ranuras Anchas 26554-56 | 6 Niveles de Tueste Levantar y Mirar Descongelar Recalentar y Cancelar Calientapanecillos Extraíble'
-date: 2026-11-23 07:14:22
+date: 2026-11-26 09:44:09
 image: 'https://m.media-amazon.com/images/I/41vdS+Pmm7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CBTYD14Q/?tag=tolees-21'
 descuento: '47.56'
-average: '32.646666666666732'
+average: '32.266000000000055'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

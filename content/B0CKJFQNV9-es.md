@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Tobillo
-- Caucho
 - Puma Club II
+- Caucho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CKJFQNV9{{</world>}}

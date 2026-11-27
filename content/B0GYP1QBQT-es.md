@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Ideal para mantener las herramientas siempre listas con cargas eficientes.
 - Indicadores luminoso de carga para saber cuando las baterías están completamente cargadas
-- Diseño con raíles que permite una rápida y sencilla colocación
 - Compatible con las baterías de 21V para herramientas Cecotec
 - Cargador de sobremesa doble de 2.4A
+- Diseño con raíles que permite una rápida y sencilla colocación
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GYP1QBQT{{</world>}}

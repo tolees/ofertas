@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Brand: Arquivet
 - Snack premium para perros con sabores variados, en bote de 300 gramos
 - Siempre como parte de una dieta equilibrada
+- Brand: Arquivet
 - Puede utilizarlo como snack de bienvenida o como recompensa durante el entrenamiento
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

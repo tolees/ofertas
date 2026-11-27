@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Empeine de Fiberskin con estampado Sprintgrid
 - Forro textil
-- Horma clásica
 - Suela multisuperficie
+- Horma clásica
+- Empeine de Fiberskin con estampado Sprintgrid
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHSNV5QM{{</world>}}

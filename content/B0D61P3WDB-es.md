@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Rodamiento revolucionario
 - Elegante silueta de dos correas
+- Rodamiento revolucionario
 - Base ligera de croslite
 
 [🛒 Aquí!!!]({{< param buyurl >}})

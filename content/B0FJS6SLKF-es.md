@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Un ajuste cómodo
 - Cuello Granddad
-- Manga larga
 - Contiene detalles gráficos
+- Manga larga
 - Cierre de botones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material: algodón
 - Placket frontal de botón
+- Material: algodón
 - Quiksilver embroidery
 - Collar de autofabric
 

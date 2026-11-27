@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hard disk.size : 512.0 GB
 - 16GB 512GB 16IN W11PRO
 - Item dimensions : 0.0 inches
 - Human interface input : touch screen
 - Display.size : 16.0 inches
+- Hard disk.size : 512.0 GB
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CKQWB9HN{{</world>}}

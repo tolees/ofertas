@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Under Armour Ua Gl Foundation Update Ss Camiseta Castlerock M Hombre'
-date: 2026-11-21 22:02:37
+date: 2026-11-26 23:14:46
 image: 'https://m.media-amazon.com/images/I/31l7HLblmuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CJWLJMTD/?tag=tolees-21'
 descuento: '50.00'
-average: '15.025'
+average: '14.683333333333334'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

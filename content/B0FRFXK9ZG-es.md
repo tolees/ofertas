@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- AROMAS ICÓNICOS DE AUSSIE: Deliciosas fragancias tropicales con notas de maracuyá, naranja y leche de coco, para un pelo que huele a gloria
-- PARA MEJORES RESULTADOS: Completa con el Acondicionador Deeep Moisture de Aussie o el Acondicionador 3 Minute Miracle para una hidratación más intensa, ¡tu pelo te lo agradecerá!
-- CRUELTY FREE Y VEGANO: Aussie es reconocida por PETA como una marca Cruelty Free animal y, ¿adivina qué? ¡Este champú también es vegano!
-- LIMPIA E HIDRATA: Hidratae tu pelo con este champú ultra-hidratante. Di adiós a las melenas secas y hola a un pelo hidratado
 - MEZCLAS INCREÍBLES DE ACEITES: Enriquecido con aceites de Jojoba, Coco y Nuez de Macadamia australiana, este champú ultra rico aporta intensa hidratación al pelo seco, dejándolo suave, sedoso y liso
+- PARA MEJORES RESULTADOS: Completa con el Acondicionador Deeep Moisture de Aussie o el Acondicionador 3 Minute Miracle para una hidratación más intensa, ¡tu pelo te lo agradecerá!
+- LIMPIA E HIDRATA: Hidratae tu pelo con este champú ultra-hidratante. Di adiós a las melenas secas y hola a un pelo hidratado
+- AROMAS ICÓNICOS DE AUSSIE: Deliciosas fragancias tropicales con notas de maracuyá, naranja y leche de coco, para un pelo que huele a gloria
+- CRUELTY FREE Y VEGANO: Aussie es reconocida por PETA como una marca Cruelty Free animal y, ¿adivina qué? ¡Este champú también es vegano!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FRFXK9ZG{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Forro textil
-- Suela de goma vulcanizada
 - Empeine de ante
+- Suela de goma vulcanizada
 - Horma clásica
+- Forro textil
 - Cordones elásticos y correa autoadherente
 
 [🛒 Visítala!!!]({{< param buyurl >}})

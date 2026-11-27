@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 4 bolsillos para acceso rápido a pertenencias importantes, 1 bolsillo de seguridad con cremallera para pertenencias importantes
-- Pantalón hasta la rodilla de mujer para excursionismo, running o trail running, Ajuste activo
-- Repele el agua y las manchas gracias a la tecnología Omni-Shield
 - 1x Columbia Saturday Trail, Pantalones cortos de senderismo para mujer, Fibra sintética, Gris (India Ink), W6/L10, Art. 1579881
+- Pantalón hasta la rodilla de mujer para excursionismo, running o trail running, Ajuste activo
+- 4 bolsillos para acceso rápido a pertenencias importantes, 1 bolsillo de seguridad con cremallera para pertenencias importantes
+- Repele el agua y las manchas gracias a la tecnología Omni-Shield
 - Mayor protección solar gracias a la tecnología Omni-Shade con protección UPF 50 para la piel incluso en los días más soleados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

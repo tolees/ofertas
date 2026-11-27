@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Primer fotoprotector anti-manchas que unifica con Clari-Tech Complex. Disponible en tonalidades light y medium
+- Modo de empleo: Aplicar uniformemente en la cara al menos 30 minutos antes de tomar el sol. Reaplicar con frecuencia
 - Oftalmológicamente testado. Clínica y dermatológicamente testado. Testado en Níquel, Cobalto, Cromo, Paladio y Mercurio
 - Tratamiento protector y preventivo de la hiperpigmentación cutánea, con una textura aterciopelada formulada para contrarrestar la formación de manchas
 - Producto formulado sin alcohol ni derivados del trigo. Hipoalergénico y no comedogénico
-- Modo de empleo: Aplicar uniformemente en la cara al menos 30 minutos antes de tomar el sol. Reaplicar con frecuencia
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0863JKVZS{{</world>}}

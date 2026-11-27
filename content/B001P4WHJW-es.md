@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ron Flor de Caña Centenario 12 años 1 botella 70 cl'
-date: 2026-11-20 05:08:51
+date: 2026-11-26 19:35:53
 image: 'https://m.media-amazon.com/images/I/41AyJ8VwSwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B001P4WHJW/?tag=tolees-21'
 descuento: '36.78'
-average: '23.814736842105454'
+average: '23.756494845361011'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Selección del día de la semana y determinación del momento y duración de cada ciclo de riego
-- Conexión de agua que gira libremente
 - Función de seguridad: cuando la batería se agota, cierra la válvula y se detiene el caudal de agua
+- Conexión de agua que gira libremente
+- Selección del día de la semana y determinación del momento y duración de cada ciclo de riego
 - Indicación del estado de la batería y función de memoria para el cambio de batería
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

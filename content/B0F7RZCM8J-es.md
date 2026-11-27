@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Comfortable fit
-- Lightweight
 - 4 pack
 - Keeps hair out of face
+- Lightweight
+- Comfortable fit
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F7RZCM8J{{</world>}}

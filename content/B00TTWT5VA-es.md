@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apósitos adhesivos CALLICIDAS para proteger y tratar los callos, callosidades y ojos de gallo.
-- ELIMINA suavemente la callosidad gracias a su pastilla de ÁCIDO SALICÍLICO.
-- Caja de 12 apósitos callicidas 2 x 7 cm.
-- SE MANTIENE sobre la callosidad durante todo el día gracias a su SOPORTE ADHESIVO.
 - PROTEGE y evita las presiones dolorosas y la fricción con el zapato gracias a su DISCO ANTI-PRESIÓN.
+- Caja de 12 apósitos callicidas 2 x 7 cm.
+- ELIMINA suavemente la callosidad gracias a su pastilla de ÁCIDO SALICÍLICO.
+- SE MANTIENE sobre la callosidad durante todo el día gracias a su SOPORTE ADHESIVO.
+- Apósitos adhesivos CALLICIDAS para proteger y tratar los callos, callosidades y ojos de gallo.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00TTWT5VA{{</world>}}

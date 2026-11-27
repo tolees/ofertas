@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lámpara indicadora
-- En práctica caja plegable de 10 unidades
 - Calidad de primer equipamiento y excelente rentabilidad
+- En práctica caja plegable de 10 unidades
+- Lámpara indicadora
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B001QP5HA6{{</world>}}

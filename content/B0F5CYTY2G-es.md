@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Snoop Dogg
-- Espuma de vapor
 - Collab
+- Snoop Dogg
 - Vegano
+- Espuma de vapor
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F5CYTY2G{{</world>}}

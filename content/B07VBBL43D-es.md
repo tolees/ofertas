@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Outer material: sintético
 - Lining: sintético
 - Sole material: sintético
 - Shoe width: normale
-- Outer material: sintético
 - Closure: encaje
 
 [🛒 Aquí!!!]({{< param buyurl >}})

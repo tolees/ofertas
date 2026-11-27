@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Parte superior de piel sintética vegana
+- LiteRide: Revolucionaria suavidad y comodidad
 - Cobertura de puntera de goma
 - Suela Croslite con cápsulas de tracción de goma
-- LiteRide: Revolucionaria suavidad y comodidad
 - Ajuste ajustable. Ventana de malla transpirable
 - Estilo actualizado con detalles de costura
 

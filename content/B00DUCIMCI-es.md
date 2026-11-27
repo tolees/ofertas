@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Fossil Reloj para Hombre Coachman Movimiento cronógrafo de Cuarzo Caja de Acero Inoxidable Plateado de 44mm con Correa de Piel auténtica CH2891'
-date: 2026-11-23 11:59:26
+title: 'Fossil Coachman Cuarzo Cronógrafo Reloj de Pulsera para Hombre Correa de Cuero'
+date: 2026-11-26 08:02:36
 image: 'https://m.media-amazon.com/images/I/41bpaZAu3GL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00DUCIMCI-es Fossil Reloj para Hombre Coachman Movimiento cronógrafo de...'
+slug: 'B00DUCIMCI-es Fossil Coachman Cuarzo Cronógrafo Reloj de Pulsera para...'
 sku: 'B00DUCIMCI-es'
 tags: [ '🇪🇸', ]
-actualPrice: 72.63 EUR
+actualPrice: 68.0 EUR
 currency: EUR
-price: 72.63
+price: 68.0
 comparePrice: 169.0 EUR
-prodname: 'Fossil Reloj para Hombre Coachman Movimiento cronógrafo de Cuarzo Caja de Acero Inoxidable Plateado de 44mm con Correa de Piel auténtica CH2891'
+prodname: 'Fossil Coachman Cuarzo Cronógrafo Reloj de Pulsera para Hombre Correa de Cuero'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DUCIMCI/?tag=tolees-21'
-descuento: '57.02'
-average: '97.915714285714159'
+descuento: '59.76'
+average: '96.742549019607722'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

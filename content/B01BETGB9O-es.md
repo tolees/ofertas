@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Michael Kors Reloj Bradshaw para Mujer Movimiento cronógrafo de Cuarzo de 43 mm con Correa de Acero Inoxidable Tono Oro y Tono Oro Rosa'
-date: 2026-11-18 13:24:17
-image: 'https://m.media-amazon.com/images/I/31pkDZA7tjL._SL500_._SL400_.jpg'
+date: 2026-11-26 09:36:26
+image: 'https://m.media-amazon.com/images/I/414+jat2KoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BETGB9O/?tag=tolees-21'
 descuento: '58.00'
-average: '159.09148936169979'
+average: '158.39354166666436'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

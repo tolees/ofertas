@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Doble pantalla para temperatura interior y exterior
-- Rango interior: -10+50ºC. Rango exterior: -50+70ºC
 - Sonda exterior y cable de 2 metros
+- Rango interior: -10+50ºC. Rango exterior: -50+70ºC
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B000EOQ9TS{{</world>}}

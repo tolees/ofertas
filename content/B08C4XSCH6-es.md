@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Artículos entregados: 1x Helly Hansen Womens W Lifa Active Pant - Basleayer Pant BLACK XL
 - Confección en 2 capas
+- Artículos entregados: 1x Helly Hansen Womens W Lifa Active Pant - Basleayer Pant BLACK XL
 - Excelente capacidad para gestionar la humedad
 - Producto bluesign
 

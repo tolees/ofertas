@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL | My Life | Café de Gatos | Juguetes para niños | Figuras de Animales | para niños a Partir de 4 años | 71744'
-date: 2026-11-25 14:12:00
+date: 2026-11-26 22:41:41
 image: 'https://m.media-amazon.com/images/I/51cFomD0N5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DPJ86GWS/?tag=tolees-21'
 descuento: '36.01'
-average: '17.331666666666649'
+average: '17.139999999999986'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

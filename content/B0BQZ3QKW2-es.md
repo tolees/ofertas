@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Referencia: S05119386
-- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
 - Perfilador de Labios de la marca Catrice
+- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
 - Medidas: 1,5 x 1,5 x 9,5 centímetros
 - Color: Multicolor
 

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo en relieve en el talón
 - Silueta limpia
+- Logotipo en relieve en el talón
 - Cierre de cordones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

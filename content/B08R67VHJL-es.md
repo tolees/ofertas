@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Marcadores de pizarra blanca Lumocolor
-- Estuche exclusivo STAEDTLER box reutilizable con 4 marcadores de punta redonda; azul claro, verde claro, rosa, negro
 - La tinta Dry Safe significa que los bolígrafos se pueden dejar sin tapa durante días sin secarse
+- Marcadores de pizarra blanca Lumocolor
 - Se puede limpiar en seco de pizarras blancas y superficies como vidrio y porcelana sin dejar rastro
+- Estuche exclusivo STAEDTLER box reutilizable con 4 marcadores de punta redonda; azul claro, verde claro, rosa, negro
 - Secado rápido, poco olor
 
 [🛒 Visítala!!!]({{< param buyurl >}})

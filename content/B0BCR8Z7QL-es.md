@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Echo Hub: cuadro de mandos de Hogar digital de 8“ con una interfaz rediseñada con personalizaciones y Alexa+ compatible con miles de dispositivos'
-date: 2026-11-23 09:43:24
+date: 2026-11-26 14:06:53
 image: 'https://m.media-amazon.com/images/I/21GKyWyaD0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BCR8Z7QL/?tag=tolees-21'
 descuento: '60.00'
-average: '127.39740740740891'
+average: '125.70428571428717'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

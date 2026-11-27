@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela resistente para deportes escolares
 - Ideal para niños y niñas activos
-- Amortiguación AMPLIFOAM para una comodidad que dura todo el día
 - Parte superior de malla transpirable diseñada
+- Suela resistente para deportes escolares
+- Amortiguación AMPLIFOAM para una comodidad que dura todo el día
 - GEL en el talón para mayor estabilidad articular
 
 [🛒 Comprar!!!]({{< param buyurl >}})

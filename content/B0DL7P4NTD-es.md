@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Horma clásica
 - Cierre de cordones
-- Forro textil
-- Sistema Torsion
+- Horma clásica
 - Empeine textil y de malla
+- Sistema Torsion
+- Forro textil
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DL7P4NTD{{</world>}}

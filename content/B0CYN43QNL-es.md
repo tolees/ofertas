@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Contiene al menos un 20% de material reciclado
-- Horma clásica
-- Empeine sintético
-- Suela de goma para campos de moqueta
 - Forro textil
+- Suela de goma para campos de moqueta
+- Empeine sintético
+- Horma clásica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CYN43QNL{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Respirable
 - Corte normal
 - Tecnología Dri-Fit
-- Respirable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01B1MQX74{{</world>}}

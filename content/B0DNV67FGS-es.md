@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Plantilla de espuma viscoelástica refrigerada por aire
-- Cierre adaptable
 - Manos libres
+- Cierre adaptable
 - Tenis elásticos sin cordones con plantilla de espuma viscoelástica refrigerada por aire
 
 [🛒 Visítala!!!]({{< param buyurl >}})

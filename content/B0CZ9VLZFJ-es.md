@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material Principal: 100% Poliéster(100% Reciclado)
 - AEROREADY
 - Cintura elástica con cordón
 - Corte clásico
+- Material Principal: 100% Poliéster(100% Reciclado)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZ9VLZFJ{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Calendario familiar de pared o de nevera, ya que su parte trasera es magnética y permite colgarlo en la puerta del frigorífico, o bien en la pared.
 - Incluye también una frase motivadora para cada mes del año, 4 hojas de pegatinas, 1 bolígrafo, 1 bloc de notas adhesivas y 1 bloc de notas para la lista de la compra.
-- Certificado FSC, lo que garantiza que ha sido fabricado con papel proveniente de bosques gestionados de forma responsable.
-- Calendario 2026 de pared para nevera con imán con diseño único y lleno de personalidad.
 - Con columnas en cada uno de los meses para anotar arriba el nombre de cada miembro de la familia e ir indicando debajo las tareas o citas de cada uno de ellos.
+- Calendario familiar de pared o de nevera, ya que su parte trasera es magnética y permite colgarlo en la puerta del frigorífico, o bien en la pared.
+- Calendario 2026 de pared para nevera con imán con diseño único y lleno de personalidad.
+- Certificado FSC, lo que garantiza que ha sido fabricado con papel proveniente de bosques gestionados de forma responsable.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FPMMXT12{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fácil de usar
-- Buena calidad con rendimiento
 - DVD-R DATA LIFE 4.7GB 16X MATT SIVER SUR
+- Buena calidad con rendimiento
+- Fácil de usar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07B9DSNCP{{</world>}}

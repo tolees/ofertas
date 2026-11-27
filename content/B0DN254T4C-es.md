@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Compatible con el uso del preservativo y con juguetes de silicona
-- Gel lubricante Control Chocolate íntimo de base acuosa para la sequedad vaginal y genital
-- Gel lubricante con aroma a Chocolate: la tentación en la que hay que caer; el complemento idóneo para cualquier relación
 - El contacto oral con el lubricante no supone un riesgo
 - Botella de 75 ml para un más uso
+- Gel lubricante Control Chocolate íntimo de base acuosa para la sequedad vaginal y genital
+- Gel lubricante con aroma a Chocolate: la tentación en la que hay que caer; el complemento idóneo para cualquier relación
+- Compatible con el uso del preservativo y con juguetes de silicona
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DN254T4C{{</world>}}

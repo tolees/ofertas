@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- EK30Y|30 años
 - Combinación de colores rosa y beige vibrante con estampado de hojas tropicales para un estilo sobresaliente
 - La tela repelente al agua mantiene tus pertenencias protegidas de la lluvia ligera
-- EK30Y|30 años
 - Tela repelente al agua
 - Diseño compacto perfecto para llevar lo esencial del día a día
 

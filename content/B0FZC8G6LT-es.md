@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- EK30Y|30 años
 - Elegante diseño estampado de hojas en tonos negros y grises.
 - Tamaño compacto ideal para lo esencial del día a día.
-- La tela repelente al agua mantiene el contenido protegido de la lluvia ligera.
 - Tela repelente al agua
-- EK30Y|30 años
+- La tela repelente al agua mantiene el contenido protegido de la lluvia ligera.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FZC8G6LT{{</world>}}

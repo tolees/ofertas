@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro textil
-- Horma clásica
-- Amortiguación LIGHTMOTION
 - Cierre de cordones con detalles textiles
 - Empeine de malla con mezcla de materiales
+- Amortiguación LIGHTMOTION
+- Forro textil
+- Horma clásica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CYTDQL6Y{{</world>}}

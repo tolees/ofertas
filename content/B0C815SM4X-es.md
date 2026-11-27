@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Castrol Fork Oil está recomendado para amortiguadores de suspensión montados en motocicletas de carretera ó todo terreno, incluido motocross y en otros equipos de carretera de fabricantes japoneses, europeos y asiáticos.
 - Un mejor rendimiento de suspensión en un amplio rango de temperaturas.
+- Castrol Fork Oil está recomendado para amortiguadores de suspensión montados en motocicletas de carretera ó todo terreno, incluido motocross y en otros equipos de carretera de fabricantes japoneses, europeos y asiáticos.
 - Castrol Fork Oil 15W es un fluido mineral avanzado para suspensiones diseñado para proporcionar un rendimiento de amortiguación superior en todo tipo de suspensiones ya sean de carretera ó todo terreno.
-- Rápida liberación de aire evitando así una caida de rendimiento.
 - Protección frente al desgaste de los componentes de la suspensión.
+- Rápida liberación de aire evitando así una caida de rendimiento.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C815SM4X{{</world>}}

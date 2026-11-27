@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillo: bolsillos para las manos
 - Tela: elástica, softshell en 4 direcciones
-- Características: trabillas para cinturón
 - Obra de arte - Logotipo de impresión HH
+- Bolsillo: bolsillos para las manos
+- Características: trabillas para cinturón
 - Artículos entregados: 1 x Helly Hansen Brono Softshell Shorts - Short Pebble 2XL
 
 [🛒 Comprar!!!]({{< param buyurl >}})

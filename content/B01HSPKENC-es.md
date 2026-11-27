@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sistema nervioso saludable: Ayuda al correcto funcionamiento del sistema nervioso, promoviendo bienestar y equilibrio diario
-- Alta dosis y formato práctico: 100 comprimidos con 250 mg de magnesio por unidad, fácil de integrar en tu rutina diaria
-- Apoyo muscular diario: El magnesio contribuye al funcionamiento normal de los músculos, ideal para personas activas o deportistas
 - Energía y metabolismo: Contribuye a un metabolismo energético normal, ayudando a combatir la fatiga física y mental
+- Apoyo muscular diario: El magnesio contribuye al funcionamiento normal de los músculos, ideal para personas activas o deportistas
+- Alta dosis y formato práctico: 100 comprimidos con 250 mg de magnesio por unidad, fácil de integrar en tu rutina diaria
 - Reduce el cansancio y la fatiga: Perfecto para quienes sienten agotamiento frecuente o necesitan un refuerzo mineral
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

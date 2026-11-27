@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Candy Collection - Una nueva colección vibrante y moderna para niñas amantes de la creatividad y los colores de moda. Los colores suaves y los estampados de ensueño evocan el mundo de los dulces y las hadas.
-- Envase reutilizable
 - Incluye 1 lápiz de grafito con cuerpo plateado y un pincel de pelo sintético
+- Envase reutilizable
+- Candy Collection - Una nueva colección vibrante y moderna para niñas amantes de la creatividad y los colores de moda. Los colores suaves y los estampados de ensueño evocan el mundo de los dulces y las hadas.
 - Pintura extrafina para pósters
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

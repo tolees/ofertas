@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - MARINO
 - V-26
-- MUJER
-- ANCHO
 - SANDALIAS PLANAS
+- ANCHO
+- MUJER
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FNY6JQCC{{</world>}}

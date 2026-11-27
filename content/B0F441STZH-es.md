@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Detalles : Detalles de bordado
 - Cuello : Polo
 - Artículo : Polo
-- Detalles : Detalles de bordado
 - Corte : Corte regular
 - Manga : Manga corta
 - Cierre : Cierre de botones

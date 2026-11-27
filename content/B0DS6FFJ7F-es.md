@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello y puños de tejido Shell
-- Logotipo bordado en el pecho en contraste
 - Polo de Manga Larga de Piqué con Doble Botones y Color de Prenda
+- Logotipo bordado en el pecho en contraste
+- Cuello y puños de tejido Shell
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DS6FFJ7F{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dockers Herren ULTIMATE SHIRT SLIM SHIRT
 - Ultimate Shirt Slim
-- Mitered patch pocket
 - Long sleeves
+- Dockers Herren ULTIMATE SHIRT SLIM SHIRT
 - Slim fit
+- Mitered patch pocket
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DNMKJPW7{{</world>}}

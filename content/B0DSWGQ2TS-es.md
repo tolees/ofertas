@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fabricado en Italia
-- Apto para dietas vegetarianas y veganas
-- Este envase contiene aproximadamente 6 porciones
-- Conservar en un lugar fresco y seco
-- La siguiente información se aplica a cada unidad del paquete
 - Pasta alimenticia de semola integral de trigo duro
+- La siguiente información se aplica a cada unidad del paquete
+- Este envase contiene aproximadamente 6 porciones
+- Apto para dietas vegetarianas y veganas
+- Fabricado en Italia
+- Conservar en un lugar fresco y seco
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DSWGQ2TS{{</world>}}

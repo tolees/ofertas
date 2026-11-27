@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color: Cobre
-- Cinturón
 - Composición: 100% cuero
+- Cinturón
 - Ajuste: ajuste múltiple
+- Color: Cobre
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C9TN5BRQ{{</world>}}

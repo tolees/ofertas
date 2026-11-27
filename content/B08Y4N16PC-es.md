@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Proporciona una limpieza óptima
-- Marca: Erborian
 - Producto de cuidado personal
 - Apto para todo tipo de piel
+- Proporciona una limpieza óptima
+- Marca: Erborian
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08Y4N16PC{{</world>}}

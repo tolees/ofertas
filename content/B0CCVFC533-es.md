@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Care Label:
 - Zip Hoodie
 - Relaxed Fit
+- Care Label:
 - materialFabricComposition: 61% Polyester, 39% Cotton
 - Long Sleeves
 

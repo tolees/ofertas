@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - POTENCIA DE 18W: El plafon led techo proporciona una iluminación eficiente y brillante para cualquier espacio con Luminosidad de 100lm y Color Blanco Frío 6000K
-- ALTA EFICIENCIA (100LM/W): Gracias a la tecnología DOB, ofrece un bajo consumo energético y un alto rendimiento lumínico. Ahorro de energía superior al 80%.
-- MEDIDAS: Ø226x35mm, plafon techo con diseño minimalista: Elegante y discreto, deal para interiores modernos.
 - DIFUSOR OPAL DE POLICARBONATO: Diseño especial de la estructura con la disipación de calor excelente, ángulo de visión 120
+- ALTA EFICIENCIA (100LM/W): Gracias a la tecnología DOB, ofrece un bajo consumo energético y un alto rendimiento lumínico. Ahorro de energía superior al 80%.
 - IDEAL PARA PROFESIONALES Y PARTICULARES: Perfecto para hogares, oficinas, cocinas, pasillos, y baños, adaptándose a diferentes necesidades de iluminación.
+- MEDIDAS: Ø226x35mm, plafon techo con diseño minimalista: Elegante y discreto, deal para interiores modernos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00OZRMOCQ{{</world>}}

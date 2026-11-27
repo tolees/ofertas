@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Contiene al menos un 20% de material reciclado y renovable
-- Peso: 335,5 g (talla 38 2/3)
 - Forro textil
+- Mediasuela de EVA
 - Empeine textil y sintético con refuerzos sin costuras
 - Suela con compuesto de caucho Continental
+- Peso: 335,5 g (talla 38 2/3)
+- Contiene al menos un 20% de material reciclado y renovable
 - Lengüeta reforzada y membrana GORE-TEX
-- Mediasuela de EVA
 - Horma clásica
 - Drop: 17 mm (talón: 27 mm / antepié: 10 mm)
 

@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Horma clásica
-- Suela de goma
-- Mediasuela REPETITOR
-- Media caña
-- Forro textil
 - Talón de TPU
+- Horma clásica
+- Forro textil
+- Suela de goma
+- Media caña
 - Empeine de tela y material sintético
+- Mediasuela REPETITOR
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHW1PHMD{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto de calidad óptima
 - Para un maquillaje óptimo
+- Producto de calidad óptima
 - Fácil de aplicar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

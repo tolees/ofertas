@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'NIKE Men s Air MAX Alpha 6 Gymnastics Shoe Black White Black 10.5 UK'
-date: 2026-09-22 10:30:12
-image: 'https://m.media-amazon.com/images/I/314ENW+9K2L._SL500_._SL400_.jpg'
+title: 'NIKE Air MAX Alpha Trainer 6 Hombre Workout Shoes Negro 45.5'
+date: 2026-11-26 17:53:39
+image: 'https://m.media-amazon.com/images/I/31maz8B0R2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0DB28F7QC-es NIKE Men s Air MAX Alpha 6 Gymnastics Shoe Black White...'
+slug: 'B0DB28F7QC-es NIKE Air MAX Alpha Trainer 6 Hombre Workout Shoes Negro 45.5'
 sku: 'B0DB28F7QC-es'
 tags: [ '🇪🇸', ]
-actualPrice: 49.49 EUR
+actualPrice: 53.99 EUR
 currency: EUR
-price: 49.49
+price: 53.99
 comparePrice: 89.99 EUR
-prodname: 'NIKE Men s Air MAX Alpha 6 Gymnastics Shoe Black White Black 10.5 UK'
+prodname: 'NIKE Air MAX Alpha Trainer 6 Hombre Workout Shoes Negro 45.5'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DB28F7QC/?tag=tolees-21'
-descuento: '45.01'
-average: '49.49'
+descuento: '40.00'
+average: '51.74'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

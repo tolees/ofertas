@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - An original look
+- Zip & button closure
 - Side pockets
 - Back welt pockets
 - Provides comfort
-- Zip & button closure
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D8WMR22T{{</world>}}

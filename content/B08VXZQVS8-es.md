@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Para todo tipo de piel, incluso piel sensible. Oil Control: controla la oleosidad de la piel grasa.
-- Con Pep Q10 y Collagen Booster peptide, combate la pérdida de colágeno y ayuda a revertir los signos visibles del fotoenvejecimiento.
 - Alta protección solar facial en crema que protege la piel de la polución y de la radiación UVB/UVA.
+- Con Pep Q10 y Collagen Booster peptide, combate la pérdida de colágeno y ayuda a revertir los signos visibles del fotoenvejecimiento.
+- Para todo tipo de piel, incluso piel sensible. Oil Control: controla la oleosidad de la piel grasa.
 - Unifica el tono, disimula imperfecciones e hidrata la piel intensamente.
 - Su fórmula con DNA Repairsomes ayuda a reparar el daño solar acumulado a nivel celular.
 

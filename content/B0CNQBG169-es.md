@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Presenta un estilo casual
 - Detalles distintivos de la marca
+- Presenta un estilo casual
 - Ofrece una comodidad óptima
 
 [🛒 Comprar!!!]({{< param buyurl >}})

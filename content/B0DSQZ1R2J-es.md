@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tiene detalles distintivos de la marca
 - Camiseta de manga larga para hombre
+- Tiene detalles distintivos de la marca
 - Comodidad óptima
 
 [🛒 Visítala!!!]({{< param buyurl >}})

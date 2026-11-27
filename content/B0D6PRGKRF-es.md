@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tenis de malla con cordones
 - Vegano
+- Tenis de malla con cordones
 - Skechers Plantilla cómoda de espuma viscoelástica
 - Lavable a máquina
 

@@ -30,10 +30,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Largo: Midi
 - Sin mangas
-- Estampado geomñetrico
-- Fit: Regular
 - Desigual
+- Fit: Regular
 - Cuello: Redondo
+- Estampado geomñetrico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DWB3BL2G{{</world>}}

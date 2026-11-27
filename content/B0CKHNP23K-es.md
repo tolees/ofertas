@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Elegante gorra de los Los Angeles Dodgers de New Era
 - Características especiales: Bordado del logotipo del equipo en la parte delantera
+- Elegante gorra de los Los Angeles Dodgers de New Era
 - Modelo 9Twenty: visera curvada, corona desestructurada, cierre strapback
 
 [🛒 Aquí!!!]({{< param buyurl >}})

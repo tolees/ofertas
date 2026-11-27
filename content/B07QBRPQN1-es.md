@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tambor de cable con protección contra sobrecalentamiento y enchufes con protección contra el contacto accidental y descargas eléctricas
 - Tambor de cable para interior con 2 tomas de carga USB con un corriente de carga total de máx. 2100 mA para una carga rápida
 - Enrollacalbes doméstico de 3 metros de longitud de cable (H05VV-F 3G1, 5) con 3 enchufes con toma de tierra y 2 tomas de carga USB, enchufes con tapa de cierre automático
 - Volumen de suministro: 1x Comfort-Line enrollacables doméstico con 3 tomas de corriente, 2 tomas de carga USB y 3m de cable - en la máxima calidad de brennenstuhl
 - Tambor para cable doméstico con práctico anillo giratorio para un manejo sencillo, enchufes protegidas contra la entrada de polvo y suciedad
+- Tambor de cable con protección contra sobrecalentamiento y enchufes con protección contra el contacto accidental y descargas eléctricas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07QBRPQN1{{</world>}}

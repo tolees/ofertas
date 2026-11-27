@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cómodo de llevar
 - Este es un producto auténtico y original Geox
 - asegura un ajuste óptimo
-- Cómodo de llevar
 - Este estilo ha sido producido de manera sostenible
 
 [🛒 Comprar!!!]({{< param buyurl >}})

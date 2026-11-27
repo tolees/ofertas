@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- SOBRE JOSERA: contamos con más de 75 años de experiencia en alimentación prémium para mascotas. Nuestra prioridad es darte la mejor calidad para la salud, digestión y felicidad de tu peludo. Poseemos con estrictos certificados de calidad que nos avalan.
-- ALIMENTO PARA GATOS ALÉRGICOS: ideal para gatos con alergias de origen alimenticio o ambiental, que necesitan eliminar de su dieta componentes concretos. La mayoría de alergias alimentarias las causan los cereales, por ello, los excluimos de esta fórmula.
-- PIENSO SIN CEREALES: disminuye las posibilidades de sufrir alergias, ya que se elaboran con ingredientes naturales y sin gluten, cereales, colorantes ni saborizantes. Por esto, al prevenir reacciones inflamatorias en el estómago, facilitan la digestión.
-- FAVORECE EL PELO Y LA PIEL: en animales con alergias, la alimentación es clave para mantenerlas a raya. Así pues, los ácidos grasos omega 3 del salmón, apoyan el fortalecimiento de la dermis del animal, aumentando el brillo, suavidad y fuerza del pelaje.
 - FÁCIL DIGESTIÓN: sabemos lo importante que es tu mascota, por eso empleamos materias primas de alta calidad, con la que conseguimos este producto gourmet. Este alimento facilita una mejor digestión, incluso para gatos con un sistema intestinal sensible.
+- SOBRE JOSERA: contamos con más de 75 años de experiencia en alimentación prémium para mascotas. Nuestra prioridad es darte la mejor calidad para la salud, digestión y felicidad de tu peludo. Poseemos con estrictos certificados de calidad que nos avalan.
+- FAVORECE EL PELO Y LA PIEL: en animales con alergias, la alimentación es clave para mantenerlas a raya. Así pues, los ácidos grasos omega 3 del salmón, apoyan el fortalecimiento de la dermis del animal, aumentando el brillo, suavidad y fuerza del pelaje.
+- PIENSO SIN CEREALES: disminuye las posibilidades de sufrir alergias, ya que se elaboran con ingredientes naturales y sin gluten, cereales, colorantes ni saborizantes. Por esto, al prevenir reacciones inflamatorias en el estómago, facilitan la digestión.
+- ALIMENTO PARA GATOS ALÉRGICOS: ideal para gatos con alergias de origen alimenticio o ambiental, que necesitan eliminar de su dieta componentes concretos. La mayoría de alergias alimentarias las causan los cereales, por ello, los excluimos de esta fórmula.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00LLT9MJY{{</world>}}

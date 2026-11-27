@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye conexión de grifos y filtro previo
 - Proporciona riego preciso según demanda
+- Incluye conexión de grifos y filtro previo
 - Con pantalla extraíble para una programación conveniente
 - Tiempo de riego máximo de 120 min
 

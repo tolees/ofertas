@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Ligeras
-- Skechers Detalle del logotipo
 - Cómodos
+- Skechers Detalle del logotipo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C76ZXFD7{{</world>}}

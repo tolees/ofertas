@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Enfamil Complete 2 ha sido la primera leche de continuación en aportar un nivel del 0.3 % de DHA (Omega 3), que contribuye al desarrollo visual normal de tu bebé hasta los 12 meses de edad
+- Crecimiento: contiene Calcio y vitamina D, para el desarrollo de los huesos, así como Zinc que es esencial para el crecimiento
 - Ayuda a su sistema inmunitario: Gracias a su contenido en vitaminas A, C y D que favorecen el normal funcionamiento del sistema inmunitario
 - Desarollo cognitivo: contiene Hierro y Ala, un ácido graso esencial que contribuye al desarrollo cognitivo normal
+- Enfamil Complete 2 ha sido la primera leche de continuación en aportar un nivel del 0.3 % de DHA (Omega 3), que contribuye al desarrollo visual normal de tu bebé hasta los 12 meses de edad
 - Evidencia científica: Enfamil es experto en evidencia científica, así lo demuestran los resultados de 14 publicaciones que apoyan que el DHA presente en Enfamil 1 y 2; Euromonitor International Ltd, Packaged Food 2018ed, ventas en valor a PVP, datos 2017, Enfa representa las ventas agregadas a nivel GBN; Enfamil, Enfagrow, Enfapro, Enfakid, Enfanitas, Enfalac
-- Crecimiento: contiene Calcio y vitamina D, para el desarrollo de los huesos, así como Zinc que es esencial para el crecimiento
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07TZXMX3Z{{</world>}}

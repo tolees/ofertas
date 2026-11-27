@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Parte superior fina hecha de una mezcla de cueros
 - punta perforada
+- Parte superior fina hecha de una mezcla de cueros
 - Banda de rodadura adherente y resistente a la abrasión
 
 [🛒 Visítala!!!]({{< param buyurl >}})

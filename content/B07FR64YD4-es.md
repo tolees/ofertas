@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mayor control gracias a la selección de par y la dirección de giro ajustable
-- Sencillo manejo gracias a la función Push&Go
 - Con un práctico cargador micro USB para obtener unos tiempos de carga breves y opciones de conexión flexibles
 - Ajuste preciso gracias a la selección de apriete manual
+- Sencillo manejo gracias a la función Push&Go
+- Mayor control gracias a la selección de par y la dirección de giro ajustable
 - Incluye: Atornillador a batería PushDrive, cargador micro USB, juego de 32 puntas, caja de almacenamiento
 
 [🛒 Comprar!!!]({{< param buyurl >}})

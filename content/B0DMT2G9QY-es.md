@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con una amortiguación óptima
-- Disponen de un diseño cómodo
 - Ligeras y transpirables
+- Disponen de un diseño cómodo
+- Con una amortiguación óptima
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DMT2G9QY{{</world>}}

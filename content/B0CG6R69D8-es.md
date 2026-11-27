@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Material único: etilvinilacetato
 - Material interior: sintético
 - Material exterior: acetato de etileno-vinilo (EVA)
-- Material único: etilvinilacetato
 - Tipo de cierre: sin cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})

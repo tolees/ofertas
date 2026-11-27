@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Corte : Corte regular
 - Cierre : Cremallera de un cuarto
-- Cuello : Cuello alto
 - Artículo : Jersey de punto
 - Puños : Puños acanalados
+- Cuello : Cuello alto
 - Manga : Manga larga
 - Modo de vida : Tradicional
 

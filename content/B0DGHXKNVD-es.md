@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple Cargador MagSafe 1 m '
-date: 2026-11-23 07:03:48
+date: 2026-11-26 18:13:03
 image: 'https://m.media-amazon.com/images/I/216fJlg5F+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DGHXKNVD/?tag=tolees-21'
 descuento: '38.80'
-average: '31.993333333333339'
+average: '31.492500000000003'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

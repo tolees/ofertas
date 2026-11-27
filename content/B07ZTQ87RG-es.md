@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - CONSEJOS PARA EL USO: Para maximizar la eficiencia energética, debes colocar alimentos y bebidas preenfriados en la nevera y colocarla en un lugar sombreado y bien ventilado. Abre la tapa solo cuando sea necesario y ciérrala rápidamente para minimizar la pérdida de frío.
 - RENDIMIENTO DE ENFRIAMIENTO EFICIENTE: La Mirabelle MM24 DC puede bajar la temperatura hasta 15 °C por debajo de la temperatura ambiente. Gracias al aislamiento de alta calidad, el contenido se mantiene fresco durante varias horas incluso sin fuente de alimentación.
-- LIGERA Y PORTÁTIL: Con un peso de solo 2,5 kg y un asa plegable, la Mirabelle MM24 DC es fácil de transportar. Sus dimensiones compactas (39,3 x 23,3 x 40 cm) la hacen ideal para uso móvil.
 - APLICACIONES VERSÁTILES: Esta nevera es ideal para su uso en coches y camiones. Puede funcionar con 12 V DC y se adapta perfectamente detrás del asiento del conductor o del pasajero, lo que permite un acceso conveniente durante el viaje.
 - FUNCIONES FÁCILES DE USAR: La nevera tiene una tapa desmontable que se mantiene en su lugar por el asa cuando está cerrada. Se incluye un cable de conexión de 12 V para el encendedor de cigarrillos.
+- LIGERA Y PORTÁTIL: Con un peso de solo 2,5 kg y un asa plegable, la Mirabelle MM24 DC es fácil de transportar. Sus dimensiones compactas (39,3 x 23,3 x 40 cm) la hacen ideal para uso móvil.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07ZTQ87RG{{</world>}}

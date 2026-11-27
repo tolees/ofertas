@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Horma Fisiológica
 - Planta inTech antibacterias
-- Protectores
 - Cordones y cremallera
+- Protectores
+- Horma Fisiológica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D9YLJ531{{</world>}}

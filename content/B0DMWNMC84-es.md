@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ligeras y cómodas
 - Con una amortiguación óptima
 - Detalles distintivos de la marca
+- Ligeras y cómodas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DMWNMC84{{</world>}}

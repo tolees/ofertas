@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela de goma
-- Empeine de material sintético
-- Cierre de cordón elástico con correas autoadherentes
 - Forro de material sintético
 - Horma clásica
+- Suela de goma
+- Cierre de cordón elástico con correas autoadherentes
+- Empeine de material sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DHZH7H9R{{</world>}}

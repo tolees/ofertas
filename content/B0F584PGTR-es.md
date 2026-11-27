@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cómoda entresuela de EVA con dos líneas de color diferentes en el talón, suela de goma bicolor personalizada y logotipo clásico impreso en el lateral
 - Bexley Urban M - Tenis para correr con piezas superiores de combinación de colores y materiales
 - Forro de cuello de contraste de color, ojal técnico y lengüeta en el talón con división de costura, logotipo "5,011.4 cm en el talón
+- Cómoda entresuela de EVA con dos líneas de color diferentes en el talón, suela de goma bicolor personalizada y logotipo clásico impreso en el lateral
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F584PGTR{{</world>}}

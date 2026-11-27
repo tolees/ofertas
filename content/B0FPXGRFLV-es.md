@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Speed Champions Coche de Carreras Audi Revolut F1 Team R26 - 77259 | Juguetes para niños de 10+ años maqueta de coche de Fórmula 1 con minifigura de piloto regalo de cumpleaños 216 piezas'
-date: 2026-11-24 21:42:11
+date: 2026-11-27 10:16:54
 image: 'https://m.media-amazon.com/images/I/51IJj2d-FZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FPXGRFLV/?tag=tolees-21'
 descuento: '39.30'
-average: '18.803225806451625'
+average: '18.596000000000007'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

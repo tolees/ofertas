@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Plataforma powershare: batería extraíble e intercambiable con todas las herramientas eléctricas y de jardín de la gama 20v de worx
 - Bloqueo del husillo para facilitar el cambio de disco
-- Carcasa de engranaje de metal para mayor durabilidad de la herramienta
-- Diseño estrecho y compacto para un manejo optimo y seguro
 - Empuñadura auxiliar de 2 posiciones para mayor comodidad de agarre
+- Diseño estrecho y compacto para un manejo optimo y seguro
+- Carcasa de engranaje de metal para mayor durabilidad de la herramienta
+- Plataforma powershare: batería extraíble e intercambiable con todas las herramientas eléctricas y de jardín de la gama 20v de worx
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07RB57DXP{{</world>}}

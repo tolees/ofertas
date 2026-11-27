@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Jersey de largo clásico con capucha
-- Ajuste regular
 - Bordado en el frente
+- Ajuste regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DFC3V269{{</world>}}

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Amortiguación LIGHTMOTION
-- Refuerzo de goma en el talón
-- Suela de goma Adiwear
-- Forro textil
-- Horma clásica
 - Empeine sintético y textil
+- Forro textil
+- Amortiguación LIGHTMOTION
+- Horma clásica
+- Suela de goma Adiwear
+- Refuerzo de goma en el talón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHVVZ6VD{{</world>}}

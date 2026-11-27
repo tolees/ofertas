@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre: Sin Cordones
 - Material exterior: Sintético
+- Cierre: Sin Cordones
 - Material de la suela: Caucho
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mediasuela CLOUDFOAM
-- Suela de goma
 - Empeine textil y sintético
-- Plantilla textil
 - Horma clásica
+- Suela de goma
+- Mediasuela CLOUDFOAM
 - Cordones
+- Plantilla textil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F2BH3FSJ{{</world>}}

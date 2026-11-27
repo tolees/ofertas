@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ofrecen amortiguación y comodidad durante todo el día
 - Detalles distintivos de la marca
+- Ofrecen amortiguación y comodidad durante todo el día
 - Suela con una tracción óptima
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- GEL LIMPIADOR FACIAL: Elimina las impurezas que quedan en la piel. Al entrar en contacto con agua, el gel se activa y se convierte en espuma. ¡Limpiador diario perfecto para rutina de mañana o noche!
+- VEGANO Y CRUELTY FREE: 3INA es una marca de maquillaje española que fabrica en Europa. Todos nuestros productos son veganos, libres de parabenos y sin crueldad animal.
 - PURIFICA + REFRESCA + SUAVIZA: Este tónico facial para la piel previene la deshidratación, a la vez que la tonifica, refresca y purifica, para una piel sana y equilibrada.
 - LIGERA: la textura tipo sorbete de esta crema hidratante, es ultraligera y de rápida absorción, proporciona suavidad y una sensación calmante a la piel sin tener una sensación de grasa en el rostro
-- GEL LIMPIADOR FACIAL: Elimina las impurezas que quedan en la piel. Al entrar en contacto con agua, el gel se activa y se convierte en espuma. ¡Limpiador diario perfecto para rutina de mañana o noche!
 - 2 % DE BETAÍNA NATURAL: Un monohidrato que se extrae de la remolacha azucarera y equilibra el agua de la piel para prevenir la deshidratación, a la vez que la protege de los daños del ambiente.
-- VEGANO Y CRUELTY FREE: 3INA es una marca de maquillaje española que fabrica en Europa. Todos nuestros productos son veganos, libres de parabenos y sin crueldad animal.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CV46Z9LH{{</world>}}

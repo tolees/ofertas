@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tendedero radial con base de tres patas extraíbles que garantizan su estabilidad
-- Dimensiones abierto: H121 P112 A112 cm Dimensiones cerrado: H171 P17 A14 cm
-- Provisto de 18 radios independientes y extraíbles
 - Estructura ligera y estable haya y PVC
+- Provisto de 18 radios independientes y extraíbles
 - Cerrado, ocupa muy poco espacio
+- Dimensiones abierto: H121 P112 A112 cm Dimensiones cerrado: H171 P17 A14 cm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B015WNQ2HE{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Su uso regular, deja la piel con un aspecto radiante y unos poros visiblemente afinados
-- Aplicar mañana y noche
-- Para pieles grasas, con imperfecciones y mixta
 - Limpiador facial de grano fino a base de enzimas con un ligero efecto exfoliante
+- Su uso regular, deja la piel con un aspecto radiante y unos poros visiblemente afinados
+- Para pieles grasas, con imperfecciones y mixta
+- Aplicar mañana y noche
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BPSJ3LT4{{</world>}}

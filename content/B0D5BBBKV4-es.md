@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta escotada
-- Estilo limpio y moderno
-- Banda bajo el pecho con nombre de la marca para una sujeción ligera
 - La tecnología Cooling HeiQ Smart Temp se ajusta a tu temperatura corporal para una comodidad continua
+- Estilo limpio y moderno
+- Camiseta escotada
+- Banda bajo el pecho con nombre de la marca para una sujeción ligera
 - Combínalo con los estilos de braguitas a juego
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Fotoprotector facial respetuoso con el medio ambiente de textura aterciopelado, indicado para pieles secas
 - Clínica y oftalmológicamente testado en ojos sensibles y en usuarios que usan lentes de contacto. Testado en Níquel, Cobalto, Cromo, Paladio y Mercurio
 - Acción hidratante y elastizante para devolver el máximo confort a la piel del rostro, protege la piel dejándola suave y tersa
 - Producto Hipoalergénico y no comedogénico
-- Fotoprotector facial respetuoso con el medio ambiente de textura aterciopelado, indicado para pieles secas
 - Modo de empleo: Aplicar generosamente sobre la piel del rostro de manera uniforme al menos 30 minutos antes de la exposición solar. Repita con frecuencia
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

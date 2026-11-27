@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Goma cuadrada suave de caucho sintético tipo miga de pan. El sacapuntas dispone de una cuchilla de acero afilada y resistente, ideal para todo tipo de lápices.
 - Sacapuntas con cuchilla de seguridad: este sistema evita que se pueda separar la hoja del cuerpo del sacapuntas.
-- Diseño original creado por el propio departamento de I+D de MILAN.
+- Goma cuadrada suave de caucho sintético tipo miga de pan. El sacapuntas dispone de una cuchilla de acero afilada y resistente, ideal para todo tipo de lápices.
 - Combinación de goma de borrar y sacapuntas doble (uno estándar y otro MAXI) con depósito. Diseño COMPACT, serie 1918, color rosa.
+- Diseño original creado por el propio departamento de I+D de MILAN.
 - Incluye 2 gomas de borrar 430 de recambio.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Excelencia aprobada por atletas – En TCA, diseñamos nuestra ropa deportiva con las aportaciones de los mejores atletas y entrenadores, garantizando rendimiento y durabilidad. Desde los entrenamientos diarios hasta el uso cotidiano, nuestro equipamiento deportivo te acompaña en todo momento. Supera tus límites con TCA, diseñado para atletas, hecho para todos.
 - Excelencia Aprobada por Atletas – Diseñado en estrecha colaboración con atletas profesionales y entrenadores para garantizar una calidad óptima. ¿Tienes una pregunta o un problema? Nos comprometemos a resolverlo en 24 horas. ¿Necesitas devolver o cambiar un artículo? Tienes 30 días para hacerlo.
+- Excelencia aprobada por atletas – En TCA, diseñamos nuestra ropa deportiva con las aportaciones de los mejores atletas y entrenadores, garantizando rendimiento y durabilidad. Desde los entrenamientos diarios hasta el uso cotidiano, nuestro equipamiento deportivo te acompaña en todo momento. Supera tus límites con TCA, diseñado para atletas, hecho para todos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08VDCRLYF{{</world>}}

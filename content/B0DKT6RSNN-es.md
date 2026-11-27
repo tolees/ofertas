@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Corte normal
-- Dobladillo elástico
 - Puños elásticos
+- Dobladillo elástico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DKT6RSNN{{</world>}}

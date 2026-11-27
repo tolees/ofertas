@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Horno de cocina
 - Requiere instalación
+- Horno de cocina
 - En color blanco
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Nuestro planeta importa: reciclado
-- Zancada suave
-- Alfombrilla Goga refrigerada por aire
-- Trail
 - Repelente al agua
+- Zancada suave
+- Nuestro planeta importa: reciclado
+- Trail
+- Alfombrilla Goga refrigerada por aire
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DP7TCZPK{{</world>}}

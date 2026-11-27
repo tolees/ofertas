@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cifrado WPA2/WPA para proteger tus conexiones inalámbricas
-- Velocidades WiFi de hasta 300 Mbps
 - Conexiones de doble banda para mayor flexibilidad y menos interferencias
+- Velocidades WiFi de hasta 300 Mbps
+- Cifrado WPA2/WPA para proteger tus conexiones inalámbricas
 - Diseño compacto y práctico
 - Fácil configuración, fácil operación
 

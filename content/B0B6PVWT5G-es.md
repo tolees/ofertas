@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- __Fit:__ Snug fit
-- Chlorine resistant
-- __UV protection:__ UPF 50 sun protection
 - Moisture wicking
+- __UV protection:__ UPF 50 sun protection
+- Chlorine resistant
+- __Fit:__ Snug fit
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B6PVWT5G{{</world>}}

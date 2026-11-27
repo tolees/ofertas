@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre de gancho y ojal con cremallera
 - Pantalones chinos
 - Rejuvenecido
 - Composición: 64% viscosa, 31% poliéster, 5% elastano
+- Cierre de gancho y ojal con cremallera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DC6BPHST{{</world>}}

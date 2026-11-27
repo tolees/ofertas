@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- De la marca Givenchy.
 - Este producto está indicado para hSombras.
 - Las notas olfativas principales de este producto son amaderado y cítrico.
-- De la marca Givenchy.
 - Contiene 100 ml.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Fórmula pura sin concesiones: vegana, sin siliconas ni parabenos, testada dermatológicamente para garantizar la mejor tolerancia cutánea.
 - Apto para todo tipo de pieles: se absorbe rápidamente sin dejar sensación pegajosa, ideal para el cuidado diario incluso de pieles sensibles.
-- Hidratación y suavidad durante 24 horas: leche corporal nutritiva que hidrata intensamente la piel y la mantiene suave durante mucho tiempo.
 - Sea Salt Coconut: una exuberante fragancia de coco cremoso y sal marina aireada con delicadas notas de vainilla.
 - Con aceite de almendras, aloe y provitamina B5. Textura rica con ingredientes nutritivos que refuerzan la barrera cutánea y tienen un efecto regenerador.
+- Hidratación y suavidad durante 24 horas: leche corporal nutritiva que hidrata intensamente la piel y la mantiene suave durante mucho tiempo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FSLLD41R{{</world>}}

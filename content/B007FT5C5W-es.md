@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Características de manga completo cuidado
-- Tapa de cierre hermético
 - Tarro de conservación y almacenamiento
 - Se puede lavar en lavavajillas
+- Tapa de cierre hermético
+- Características de manga completo cuidado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B007FT5C5W{{</world>}}

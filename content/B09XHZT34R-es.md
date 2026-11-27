@@ -28,19 +28,19 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- VEGANO Y LIBRE DE CRUELDAD: No contiene ningún ingrediente derivado de animales. Aprobado por PETA como Animal Test Free
-- VEGANO Y LIBRE DE CRUELDAD: No contiene ningún ingrediente derivado de animales. Aprobado por PETA como Animal Test Free
 - DISPONIBLE EN 30 TONOS: F0.5 es para tonos de piel claros con un matiz rosa
-- Item shape: Loción
 - ACABADO MATE: Formulado para ser libre de aceite y brillo, dejando la piel con un acabado mate
-- COBERTURA DE MEDIO a COMPLETO: Esta base de medio a completo es transpirable y construible, con un 20% más de pigmento que facilita la construcción y la mezcla dependiendo de la cobertura que desee
-- Estilo más adecuado para: unisex
-- 16 HORAS DE DESGASTE: Enriquecida con niacinamida, esta base es a prueba de pliegues, a prueba de vida y a prueba de manchas, al tiempo que proporciona 16 horas de desgaste duradero del día a la noche
-- ACABADO MATE: Formulado para ser libre de aceite y brillo, dejando la piel con un acabado mate
-- Rango de edad: Adulto
-- COBERTURA DE MEDIO A COMPLETO: Esta base de medio a completo es transpirable y construible, con un 20% más de pigmento que facilita la construcción y la mezcla dependiendo de la cobertura que desee.
 - 16 HORAS DE DESGASTE: Enriquecida con niacinamida, esta base es a prueba de pliegues, a prueba de vida y a prueba de manchas, al tiempo que proporciona 16 horas de desgaste duradero del día a la noche.
+- 16 HORAS DE DESGASTE: Enriquecida con niacinamida, esta base es a prueba de pliegues, a prueba de vida y a prueba de manchas, al tiempo que proporciona 16 horas de desgaste duradero del día a la noche
+- COBERTURA DE MEDIO a COMPLETO: Esta base de medio a completo es transpirable y construible, con un 20% más de pigmento que facilita la construcción y la mezcla dependiendo de la cobertura que desee
+- COBERTURA DE MEDIO A COMPLETO: Esta base de medio a completo es transpirable y construible, con un 20% más de pigmento que facilita la construcción y la mezcla dependiendo de la cobertura que desee.
+- ACABADO MATE: Formulado para ser libre de aceite y brillo, dejando la piel con un acabado mate
+- VEGANO Y LIBRE DE CRUELDAD: No contiene ningún ingrediente derivado de animales. Aprobado por PETA como Animal Test Free
+- Item shape: Loción
+- Rango de edad: Adulto
+- Estilo más adecuado para: unisex
 - DISPONIBLE EN 30 TONOS: F0.5 es para tonos de piel claros con un matiz rosa
+- VEGANO Y LIBRE DE CRUELDAD: No contiene ningún ingrediente derivado de animales. Aprobado por PETA como Animal Test Free
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09XHZT34R{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material: Acero inoxidable
-- Medidas: 7.4 mm x 7.4 mm x 2.5 mm
 - Acabado: cepillado
+- Material: Acero inoxidable
 - Tipo de cierre: publicación
 - Color: oro rosa
+- Medidas: 7.4 mm x 7.4 mm x 2.5 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01DPNUTOU{{</world>}}

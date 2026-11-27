@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Solapa de gamuza en el tal
 - Perforación en la puntera
+- Solapa de gamuza en el tal
 - Parte superior de piel sintética
 
 [🛒 Visítala!!!]({{< param buyurl >}})

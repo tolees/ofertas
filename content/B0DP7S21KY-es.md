@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela de goma de tracción flexible
 - Parte superior Duraleather con superposiciones de gamuza de cerdo
+- Suela de goma de tracción flexible
 - Skechers Detalle del logotipo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

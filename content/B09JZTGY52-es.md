@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Gorro de punto
 - engañado
-- 50% acrílico y 50% poliéster - reciclado
 - insignias
+- Gorro de punto
+- 50% acrílico y 50% poliéster - reciclado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09JZTGY52{{</world>}}

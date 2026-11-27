@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tejido transpirable AEROREADY
-- 84% poliéster reciclado / 11% algodón / 5% elastán
 - Largo hasta la rodilla
+- 84% poliéster reciclado / 11% algodón / 5% elastán
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B42FYMNH{{</world>}}

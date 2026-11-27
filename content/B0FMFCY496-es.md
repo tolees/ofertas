@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de cierre: sin cierre
 - Marca: Generic
 - Pantalones deportivos para hombre, cintura elástica con bolsillos, transpirables, ligeros
+- Tipo de cierre: sin cierre
 - Instrucciones de cuidado: lavar a máquina
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

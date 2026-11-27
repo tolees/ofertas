@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - La filtración avanzada en toda la máquina atrapa el 99,97 % del polvo fino de hasta 0,3 micras.¹
 - Potente recogida en todo tipo de suelos.
 - Sin bolsas que comprar y sin pérdida de succión.
-- Tecnología Ball para un fácil manejo.
 - Con filtro lavable de por vida.
+- Tecnología Ball para un fácil manejo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DF328NYW{{</world>}}

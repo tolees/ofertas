@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- __Construcción: __ Construcción de 6 paneles
 - __Visera: __ visera curva
 - __Cierre: __cierre a presión
 - __Tejido: __ Tejido mezcla de poliéster y algodón
-- __Construcción: __ Construcción de 6 paneles
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DB2V8WXP{{</world>}}

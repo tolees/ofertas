@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello acolchado para mayor comodidad y soporte del tobillo.
 - Suela de caucho vulcanizado para una tracción superior.
+- Cuello acolchado para mayor comodidad y soporte del tobillo.
 - Diseño clásico con logotipo distintivo para un estilo inconfundible.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

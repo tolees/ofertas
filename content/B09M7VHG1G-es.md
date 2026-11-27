@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cadera: Corte slim
-- Cintura regulable
 - Bolsillos practicos
 - Suave tejido vaquero de punto
+- Cadera: Corte slim
+- Cintura regulable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09M7VHG1G{{</world>}}

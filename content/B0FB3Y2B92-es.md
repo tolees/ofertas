@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Refuerzo y estabilizador del talón de TPU
-- Empeine de malla
 - Forro textil
 - Suela de goma
+- Refuerzo y estabilizador del talón de TPU
 - Horma clásica
+- Empeine de malla
 - Cierre de cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})

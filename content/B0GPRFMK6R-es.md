@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Siente cada tecla: Comodidad superior con un recorrido de 1.3 mm, inspirado en la legendaria sensación de escritura ThinkPad
 - Ergonomía pensada en ti: Diseño optimizado con keycaps de 15 mm y un key pitch de 18 mm para una escritura más natural, precisa y sin esfuerzo
 - Control total al alcance de tu mano: Navegación suave y precisa gracias a su trackpad multitáctil de alta respuesta
-- Acelera tu productividad: Doce Teclas de acceso directo te ayudan a agilizar tus tareas permitiéndote trabajar con mayor fluidez desde el primer momento
 - Inteligencia al instante: Acceso inmediato a herramientas de IA gracias a una Smart Key pensada en acelerar tu flujo de trabajo
+- Siente cada tecla: Comodidad superior con un recorrido de 1.3 mm, inspirado en la legendaria sensación de escritura ThinkPad
+- Acelera tu productividad: Doce Teclas de acceso directo te ayudan a agilizar tus tareas permitiéndote trabajar con mayor fluidez desde el primer momento
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GPRFMK6R{{</world>}}

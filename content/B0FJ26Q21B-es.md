@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- TOP ASIMÉTRICO
 - TOP CON CINTURA FRUNCIDA
+- TOP ASIMÉTRICO
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FJ26Q21B{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Amortiguación
 - Máximo confort
+- Amortiguación
 - Ligereza
 
 [🛒 Visítala!!!]({{< param buyurl >}})

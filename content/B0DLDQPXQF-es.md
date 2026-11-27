@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Conjunto de edición especial de Little People Collector que celebra la icónica comedia de terror de 1988, “Bitelchús”.
-- Para adultos, fans de la película y coleccionistas.
-- Incluye a Bitelchús en su traje icónico, a Lydia Deetz sosteniendo el Manual para el recién fallecido, y a Barbara y Adam Maitland en su forma más aterradora.
-- Cada figura mide más de 6,35cm de alto y tiene el estilo característico de algún personaje de la película
 - ¡Saca tu lado más fan! El conjunto viene en una caja decorativa con ventana inspirada en el estilo icónico de “Bitelchús”, además de detalles ocultos que los fans pueden ir descubriendo.
+- Cada figura mide más de 6,35cm de alto y tiene el estilo característico de algún personaje de la película
+- Incluye a Bitelchús en su traje icónico, a Lydia Deetz sosteniendo el Manual para el recién fallecido, y a Barbara y Adam Maitland en su forma más aterradora.
+- Para adultos, fans de la película y coleccionistas.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DLDQPXQF{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compra una talla más pequeña
 - Logotipo de Adidas en la parte delantera
+- Compra una talla más pequeña
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B096P1WLMW{{</world>}}

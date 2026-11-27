@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Puma Detalles de la marca
 - Construcción de corte bajo sin cordones
 - Ajuste regular a estrecho
-- Puma Detalles de la marca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D1YJW46J{{</world>}}

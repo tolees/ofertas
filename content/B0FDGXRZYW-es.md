@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Logo metálico
 - Bolso reporter con bandolera
 - Cierre con cremallera
-- Logo metálico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FDGXRZYW{{</world>}}

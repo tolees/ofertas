@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Ajuste: estándar
 - Diseñado para: running
 - Pronación: neutra
 - Cierre: cordones
 - Promedio de kilómetros: 800 km
-- Ajuste: estándar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FV95WG4V{{</world>}}

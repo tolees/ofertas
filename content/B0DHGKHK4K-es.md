@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte superior de piel revestida
-- Forro textil
 - Horma clásica
 - Cierre de cordones
+- Forro textil
+- Parte superior de piel revestida
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DHGKHK4K{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rexona Maximum Protection Desodorante en Crema Antitranspirante para Mujer Soft Solid Stress Control 45ml - Pack de 6'
-date: 2026-11-21 20:34:18
+date: 2026-11-26 08:08:38
 image: 'https://m.media-amazon.com/images/I/41lQWlOXhRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0767F5TQH/?tag=tolees-21'
 descuento: '39.60'
-average: '17.978823529411741'
+average: '17.974736842105244'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

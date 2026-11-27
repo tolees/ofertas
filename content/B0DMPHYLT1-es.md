@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Horma clásica
-- Clásica puntera con forma de T
 - Empeine de ante y nailon
 - Cierre de cordones
+- Clásica puntera con forma de T
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DMPHYLT1{{</world>}}

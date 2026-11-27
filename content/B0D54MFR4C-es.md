@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cuello redondo
-- Ajuste holgado
 - Manga corta
+- Ajuste holgado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D54MFR4C{{</world>}}

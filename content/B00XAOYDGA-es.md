@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Perfecto para inspirar y respirar
 - Caramelos balsámicos sin azúcar
-- Conservar en un lugar fresco y seco
+- Perfecto para inspirar y respirar
 - Suave efecto balsámico
+- Conservar en un lugar fresco y seco
 - Caramelo duro sin azúcar de limón y melisa
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Diseñado para complementar a la perfección la estética de una placa base ROG
 - Placa fría Asetek y bomba gen7 V2 armada con un motor robusto que proporciona el máximo rendimiento de refrigeración
 - Los tubos reforzados y revestidos proporcionan una mayor durabilidad
-- Diseñado para complementar a la perfección la estética de una placa base ROG
 - Bloque de agua con logotipo ROG giratorio en 360° y más de 10 efectos de iluminación Aura personalizados
 - Ventiladores ROG ARGB de gran calidad con gran flujo de aire, acústica optimizada y tecnología 0dB
 

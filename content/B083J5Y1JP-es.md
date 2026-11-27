@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'G-STAR Sudadera Premium Core Hooded Zip para Hombre Negro dk black D16122-C235-6484 L'
-date: 2026-11-22 10:39:17
+date: 2026-11-27 06:59:33
 image: 'https://m.media-amazon.com/images/I/31iLkcHqTEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B083J5Y1JP/?tag=tolees-21'
 descuento: '59.82'
-average: '44.997222222222234'
+average: '44.513500000000015'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

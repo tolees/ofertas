@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Líneas verticales más anchas en el talón
-- PUMA Tira en los lados medial y lateral
-- PUMA Logotipo de gato en el talón
 - Parte superior de cuero con empeine perforado
+- PUMA Logotipo de gato en el talón
+- PUMA Tira en los lados medial y lateral
+- Líneas verticales más anchas en el talón
 - Entresuela y suela de goma
 
 [🛒 Visítala!!!]({{< param buyurl >}})

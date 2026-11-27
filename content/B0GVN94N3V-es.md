@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello alto, múltiples bolsillos tipo cargo con tapeta y cierre mediante cremallera oculta por tapeta con botones tipo snap.
+- Manga larga terminada en puño con tira abotonada y cintura ajustable mediante cordón.
 - Corte Regular Fit.
 - Chaqueta confeccionada en algodón con elastán para una mayor comodidad.
-- Manga larga terminada en puño con tira abotonada y cintura ajustable mediante cordón.
+- Cuello alto, múltiples bolsillos tipo cargo con tapeta y cierre mediante cremallera oculta por tapeta con botones tipo snap.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0GVN94N3V{{</world>}}

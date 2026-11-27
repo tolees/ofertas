@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Manga larga con ribetes
 - Bajo recto con ribete elástico
-- Cuello alzado, trabilla en el interior
 - Bolsillos en la cintura
 - Proporciona comodidad
-- Manga larga con ribetes
+- Cuello alzado, trabilla en el interior
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB1TPLQM{{</world>}}

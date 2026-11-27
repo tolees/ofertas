@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Colección AW25
 - Desigual
 - Manga: Larga
-- Detalles bordados
 - Detalles en glitter
 - Cuello: Redondo
+- Colección AW25
+- Detalles bordados
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DVC9ZMB2{{</world>}}

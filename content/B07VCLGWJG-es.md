@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Zapatos de skate de perfil bajo
 - Forro textil con plantilla acolchada
 - Cordones frontales con ojales de metal
 - Cuello acolchado
-- Zapatos de skate de perfil bajo
 - Parte superior de lona
 
 [🛒 Visítala!!!]({{< param buyurl >}})

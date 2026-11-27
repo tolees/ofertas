@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- A LA MODA: El paquete incluye un pantalón de color azul oscuro, uno azul y uno gris. Tienen un diseño impreso moderno y están hechos de tela suave
 - PANTALONES NIÑO: Práctico set de 3 pantalones, ideales para un atuendo deportivo primaveral y otoñal. Abre la sección "Tabla de tallas" y consulta la imagen "Guía de tallas" para elegir la talla adecuada
+- A LA MODA: El paquete incluye un pantalón de color azul oscuro, uno azul y uno gris. Tienen un diseño impreso moderno y están hechos de tela suave
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DM9M3HZ3{{</world>}}

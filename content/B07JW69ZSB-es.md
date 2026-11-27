@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cazadora invierno || Ajuste normal || Color intenso || Material duradero
-- Básicos
-- Ajuste : Normal
 - Chaqueta de Invierno con las siguientes características:
 - Descubre todas las marcas de EMP!
+- Cazadora invierno || Ajuste normal || Color intenso || Material duradero
+- Ajuste : Normal
+- Básicos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07JW69ZSB{{</world>}}

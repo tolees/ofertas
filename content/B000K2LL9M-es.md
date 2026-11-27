@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - En cartucho de plástico práctico
-- Garantía de 10 años
-- Juego de puntas de destornillador de 113 piezas
 - De A2 de alta calidad- acero de herramienta preparado
+- Juego de puntas de destornillador de 113 piezas
+- Garantía de 10 años
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B000K2LL9M{{</world>}}

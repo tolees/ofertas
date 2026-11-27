@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 55% leather+35% textile+10% TPU
 - Zapatillas casual para hombre
 - AMARILLO
+- 55% leather+35% textile+10% TPU
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C2W2GP6Q{{</world>}}

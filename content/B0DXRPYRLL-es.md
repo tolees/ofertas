@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Instrucciones de lavado: Humedecer con un paño, limpiar con un cepillo suave con jabón neutro y aclarar de nuevo con un paño. Dejar secar al sol.
-- Composición: 85% Piel sintética + 15% Textil
-- Color: Negro Negro
-- Tipo de cierre: Cordones
-- Deporte: Fútbol
-- Público: Unisex
-- Suela: AG
-- Material de la suela: TPU
 - Tecnologías: Estrobel, MG Outsole, Polyurethane, Pro Lace
 - Tallaje correcto, elige tu talla habitual
+- Público: Unisex
+- Instrucciones de lavado: Humedecer con un paño, limpiar con un cepillo suave con jabón neutro y aclarar de nuevo con un paño. Dejar secar al sol.
+- Deporte: Fútbol
+- Suela: AG
+- Material de la suela: TPU
+- Composición: 85% Piel sintética + 15% Textil
+- Tipo de cierre: Cordones
+- Color: Negro Negro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DXRPYRLL{{</world>}}

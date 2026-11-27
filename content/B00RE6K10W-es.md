@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre de botón y volar
 - Bolsillos estándar con solapas adicionales en la parte trasera
-- Pantalón Chino pantalones de Dockers
+- Cierre de botón y volar
 - Pierna Slim Fit
 - Classic Heritage diseño
+- Pantalón Chino pantalones de Dockers
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00RE6K10W{{</world>}}

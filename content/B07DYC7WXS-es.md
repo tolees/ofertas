@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Empeine: empeine con bridas de sintético
-- Asiento plantar: EVA suave con inscripción ROXY grabada
 - Suela exterior: suela de TPR con inscripción ROXY
+- Asiento plantar: EVA suave con inscripción ROXY grabada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07DYC7WXS{{</world>}}

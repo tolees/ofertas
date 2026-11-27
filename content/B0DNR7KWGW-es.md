@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Detalles de metal en tono dorado
-- Bolso de hombro
 - 22,9 cm de ancho x 12,7 cm de alto x 6,4 cm de profundidad
+- Bolso de hombro
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DNR7KWGW{{</world>}}

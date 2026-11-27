@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro textil
 - Parte superior de ripstop con refuerzos sintéticos
-- Mediasuela de EVA ligera
-- Suela Traxion
 - Compra 1 talla más grande
+- Suela Traxion
+- Mediasuela de EVA ligera
+- Forro textil
 - La parte superior contiene al menos un 50% de material reciclado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Maga: Corta
-- Desigual
+- Fit: Regular
 - Cuello: Redondo
 - Detalles en strass
-- Fit: Regular
+- Maga: Corta
 - Estampado Arty
+- Desigual
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DW9JH3TR{{</world>}}

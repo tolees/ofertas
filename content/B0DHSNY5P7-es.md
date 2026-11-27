@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Empeine de Fiberskin con estampado Sprintgrid
-- Forro textil
-- Suela de goma para césped artificial
 - Horma clásica
+- Suela de goma para césped artificial
+- Forro textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DHSNY5P7{{</world>}}

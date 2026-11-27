@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- MICROPOSO: deja respirar la madera; aplicación y mantenimiento fácil; preserva el aspecto natural de la madera
 - V33, el origen de tus proyectos
-- Alta resistencia al agua clorada y los rayos UV
 - PROTECCIÓN ANTI MANCHAS y anti grasa
+- Alta resistencia al agua clorada y los rayos UV
+- MICROPOSO: deja respirar la madera; aplicación y mantenimiento fácil; preserva el aspecto natural de la madera
 - Aspecto: Mate, Secado entre dos capas: 15 min, Secado completo: 24h, herramientas: pincel, trapo, Limpieza : Aguarrás
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hecho en: China
-- Colección primavera-verano
-- Color: Blanco roto
-- 60 % algodón, 40 % acrílico
 - Sweater de la colección mujer
+- Colección primavera-verano
+- 60 % algodón, 40 % acrílico
+- Hecho en: China
+- Color: Blanco roto
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FGJP3DHG{{</world>}}

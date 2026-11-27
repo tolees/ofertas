@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- tejido: tejido de algodón puro
-- Corte: corte normal, clásico, cómodo
-- cintura: falsa bragueta
 - Longitud : longitud 43 cm - corto
+- tejido: tejido de algodón puro
+- cintura: falsa bragueta
+- Corte: corte normal, clásico, cómodo
 - lavado:tejido lavado al ácido con un aspecto original
 
 [🛒 Visítala!!!]({{< param buyurl >}})

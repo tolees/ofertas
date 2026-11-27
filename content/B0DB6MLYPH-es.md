@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro Gaming Monopoly Harry Potter Juego de Mesa Diversión con Familia y Amigos Multijuador Fantasía Tablero de Castillo de Hogwarts Gryffindor Ravenclaw Idea de Regalo'
-date: 2026-11-25 17:05:12
+date: 2026-11-26 21:02:07
 image: 'https://m.media-amazon.com/images/I/6149PudS1FL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DB6MLYPH/?tag=tolees-21'
 descuento: '37.79'
-average: '30.990909090909092'
+average: '30.740833333333335'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

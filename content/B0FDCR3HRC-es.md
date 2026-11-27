@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Lavable a
 - Ultra Go
-- Espuma viscoelástica refrigerada por aire
 - Almohadilla para talón
 - Flex
-- Lavable a
+- Espuma viscoelástica refrigerada por aire
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FDCR3HRC{{</world>}}

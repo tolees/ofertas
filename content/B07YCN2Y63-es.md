@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logotipo de Levis en la parte delantera y a lo largo de la manga
 - Ajuste regular
+- Logotipo de Levis en la parte delantera y a lo largo de la manga
 - Forro de malla para óptimo ventilación
 
 [🛒 Aquí!!!]({{< param buyurl >}})

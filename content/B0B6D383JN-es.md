@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cuello y puños acanalados
-- Aberturas laterales
-- Cuello de polo
 - Proporciona comodidad
+- Aberturas laterales
 - Bordado de G-STAR en el pecho
+- Cuello de polo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B6D383JN{{</world>}}

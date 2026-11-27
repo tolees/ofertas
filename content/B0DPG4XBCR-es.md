@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsos: __ bolsillos laterales
 - Hood: Fully lined and padded hood
 - Lining: Fully lined and padded
+- Bolsos: __ bolsillos laterales
 - Material: nailon reciclado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

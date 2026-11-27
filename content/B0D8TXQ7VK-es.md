@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - FRAGANCIA FLORAL: Con un suave aroma floral de rosa, jazmín y sándalo
 - CUIDADO CAPILAR: Reaviva el cabello rubio y lo llena de vida. Para mejores resultados, úsalo con el champú BLONDE RECHARGE
-- FÓRMULA ENERGIZANTE: Con vitamina E para refrescar los tonos rubios fríos y el cabello con mechas
 - ACONDICIONADOR: Acondicionador matizador del color que reaviva el cabello rubio y aporta suavidad y brillo
+- FÓRMULA ENERGIZANTE: Con vitamina E para refrescar los tonos rubios fríos y el cabello con mechas
 - PIGMENTOS VIOLETAS: Pigmentos que reavivan los tonos rubios y reducen los reflejos amarillentos del cabello
 
 [🛒 Visítala!!!]({{< param buyurl >}})

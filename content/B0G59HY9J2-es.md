@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - PROTECCIÓN TÉRMICA: Spray protector para todo tipo de cabello.
-- SPRAY DE BRILLO Y PROTECCIÓN TÉRMICA: Sebastian Professional Trilliant es un spray acondicionador con un sutil brillo radiante.
 - TECNOLOGÍA DE BRILLO: Formulado con un complejo de brillo para el cabello que se activa al agitar.
-- ACONDICIONAMIENTO SUAVE: Deja un acabado brillante y acondiciona suavemente el cabello.
+- SPRAY DE BRILLO Y PROTECCIÓN TÉRMICA: Sebastian Professional Trilliant es un spray acondicionador con un sutil brillo radiante.
 - PROTECCIÓN TÉRMICA: Protege el cabello de las herramientas térmicas de styling.
+- ACONDICIONAMIENTO SUAVE: Deja un acabado brillante y acondiciona suavemente el cabello.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0G59HY9J2{{</world>}}

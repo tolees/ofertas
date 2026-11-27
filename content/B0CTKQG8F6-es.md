@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La entresuela de espuma está diseñada para brindar comodidad y soporte.
 - El tejido transpirable ofrece la frescura adecuada.
+- La entresuela de espuma está diseñada para brindar comodidad y soporte.
 - Banda de rodadura de goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

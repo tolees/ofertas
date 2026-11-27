@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello redondo clásico para un estilo atemporal.
-- Características: Corte ajustado, logotipo bordado, cuello redondo, mangas cortas
-- Mangas cortas para facilitar la superposición de capas y mayor comodidad.
-- Material: 100% algodón orgánico
-- Etiqueta con el logotipo tejido en el dobladillo trasero para una marca discreta.
-- Perfecto para looks casuales inspirados en la moda urbana.
 - Logotipo de Karl Lagerfeld Jeans bordado en el pecho
+- Etiqueta con el logotipo tejido en el dobladillo trasero para una marca discreta.
+- Material: 100% algodón orgánico
 - Color: Blanco
 - Silueta ajustada para un look moderno y elegante.
+- Características: Corte ajustado, logotipo bordado, cuello redondo, mangas cortas
+- Mangas cortas para facilitar la superposición de capas y mayor comodidad.
+- Perfecto para looks casuales inspirados en la moda urbana.
+- Cuello redondo clásico para un estilo atemporal.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CP4DRTSL{{</world>}}

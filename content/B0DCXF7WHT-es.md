@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Avanzada batería de iones de litio de 1900 mAh que puede usarse como batería de repuesto o adicional a la que se incluye con la HERO13 Black
 - Permite a tu GoPro funcionar a temperaturas bajo cero, hasta -10 °C
+- Avanzada batería de iones de litio de 1900 mAh que puede usarse como batería de repuesto o adicional a la que se incluye con la HERO13 Black
 - Compatibilidad: HERO13 Black
 - Qué incluye: Batería Enduro
 

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El producto dispone de 4 pisos
 - Es fácil de montar
+- El producto dispone de 4 pisos
 - Dimensiones del producto: 60 x 16 x 95 cm
 - Permite ahorrar espacio en la casa
 

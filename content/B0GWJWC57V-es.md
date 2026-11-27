@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft Surface Pro 13" | Snapdragon X2 Plus | 16GB RAM 256GB SSD | 13" LCD Touchscreen | Copilot+ PC | Platino | Windows 11 Home | Último Modelo 12a edición'
-date: 2026-11-20 04:57:54
+date: 2026-11-26 12:23:39
 image: 'https://m.media-amazon.com/images/I/31TVQHIIBSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0GWJWC57V-es Microsoft Surface Pro 13" | Snapdragon X2 Plus | 16GB RAM...'
 sku: 'B0GWJWC57V-es'
 tags: [ '🇪🇸', ]
-actualPrice: 1070.25 EUR
+actualPrice: 1070.0 EUR
 currency: EUR
-price: 1070.25
+price: 1070.0
 comparePrice: 1649.0 EUR
 prodname: 'Microsoft Surface Pro 13" | Snapdragon X2 Plus | 16GB RAM 256GB SSD | 13" LCD Touchscreen | Copilot+ PC | Platino | Windows 11 Home | Último Modelo 12a edición'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GWJWC57V/?tag=tolees-21'
-descuento: '35.10'
-average: '1184.625'
+descuento: '35.11'
+average: '1146.4166666666667'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

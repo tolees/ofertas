@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Contrafuerte del talón reforzado.
-- Punta suave y redondeada.
 - Suela acanalada.
+- Punta suave y redondeada.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0G26QPH2V{{</world>}}

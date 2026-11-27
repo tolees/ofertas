@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- 98 % algodón, 2 % elastano
 - La pierna cónica se ajusta perfectamente a la cintura
 - Auténtica mezclilla elástica azul medio
-- 98 % algodón, 2 % elastano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DTJ94LTQ{{</world>}}

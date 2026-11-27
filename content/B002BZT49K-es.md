@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contiene recetas
 - Se puede usar en lavavajillas
+- Contiene recetas
 - Silicona platino 100%
 - Las propiedades antiadherentes de la silicona fácil itan el desmoldado y limpieza del molde
 

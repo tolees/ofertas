@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Puma Tira en los lados medial y lateral
-- Perforaciones en la puntera
 - Ojales de doble capa
+- Perforaciones en la puntera
+- Puma Tira en los lados medial y lateral
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BLCM74HG{{</world>}}

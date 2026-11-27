@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño híbrido de camino/sendero
-- Sistema de amortiguación de última generación
 - Estética retro
+- Sistema de amortiguación de última generación
+- Diseño híbrido de camino/sendero
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B093QKF63F{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tejido diseñado y parte superior sintética con cordones frontales
 - Altura del tacón: 1 1/4 pulgadas
+- Tejido diseñado y parte superior sintética con cordones frontales
 - Amortiguación de espuma de vapor ultraligera
 - Suela de tracción flexible
 

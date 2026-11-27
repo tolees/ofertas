@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Resultados. Este sérum deja la piel renovada en solo 9 días, con -16% de arrugas en 1 mes, + 20% de luminosidad, -15% de sebo y -20% de TEWK en 20 minutos
-- Acción y textura. Cuenta con doble acción exfoliante y antiedad. Su textura es líquida, la cual permite que cualquier forma cosmética pueda penetrar y absorberse correctamente
+- Modo de uso. Aplicar diariamente por la noche. Al inicio utilizarlo con noches alternas. Se recomienda usar el sérum después de realizar la doble limpieza
 - Formulación. Tiene 13% de ácidos libres, 8% es de ácido glicólico y 5% de ácido mandélico. Está enriquecido con Ectoína y Tazmann Pepper, que mantienen la función barrera y la acción antiinflamatoria, ayudando con el estado óptimo la piel
 - Prep 4+ Drops. Es un sérum acelarador exfoliante que mejora la renovación celular y ayuda a prevenir los signos de envejecimiento. Es apto para todo tipo de pieles
-- Modo de uso. Aplicar diariamente por la noche. Al inicio utilizarlo con noches alternas. Se recomienda usar el sérum después de realizar la doble limpieza
+- Acción y textura. Cuenta con doble acción exfoliante y antiedad. Su textura es líquida, la cual permite que cualquier forma cosmética pueda penetrar y absorberse correctamente
+- Resultados. Este sérum deja la piel renovada en solo 9 días, con -16% de arrugas en 1 mes, + 20% de luminosidad, -15% de sebo y -20% de TEWK en 20 minutos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DXFW4GKW{{</world>}}

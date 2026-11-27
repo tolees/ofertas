@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Puerta reversible
 - Clase Energetica E
 - 192 kWh/año
-- Congelador Vertical
 - Altura 143.5 cm
+- Congelador Vertical
+- Puerta reversible
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CN3FMTPH{{</world>}}

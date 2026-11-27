@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Limpio y reluciente
 - Tecnología antigoteo
 - Elimina hasta el 100 % de los restos de jabón
+- Limpio y reluciente
 - Fabricado con electricidad 100 % renovable
 - Botella reciclable
 

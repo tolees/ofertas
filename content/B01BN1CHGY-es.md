@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Contiene ácido láctico y glucógeno apto para su uso durante el embarazo o la menstruación
+- Para un uso adecuado de este gel vaginal se recomienda usar un tubo de GinecanesBalance a diario durante 7 días antes de acostarse
+- Gel vaginal para tratar los síntomas de la vaginosis bacteriana (VB) mediante el restablecimiento del equilibrio del pH y la flora vaginal
 - Sin conservantes y sin hormonas
 - El gel vaginal Ginecanesbalance es eficaz para el tratamiento de los síntomas principales asociados a la VB, como olor desagradable, flujo vaginal anormal y molestias en la vagina
-- Gel vaginal para tratar los síntomas de la vaginosis bacteriana (VB) mediante el restablecimiento del equilibrio del pH y la flora vaginal
-- Para un uso adecuado de este gel vaginal se recomienda usar un tubo de GinecanesBalance a diario durante 7 días antes de acostarse
-- Contiene ácido láctico y glucógeno apto para su uso durante el embarazo o la menstruación
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01BN1CHGY{{</world>}}

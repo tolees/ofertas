@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TATAY Porta Embutidos Fresh 17x3 2x25 2 cm Set de 4 Estándar Apilable | Porta Embutidos | Set de 4 Piezas | Lavavajillas Microondas Nevera y Congelador | Tapa Extraíble | Sin BPA | Colores Pastel'
-date: 2026-11-22 23:57:03
+date: 2026-11-27 10:18:03
 image: 'https://m.media-amazon.com/images/I/31ix1M6PgEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0D9B67WJS/?tag=tolees-21'
 descuento: '42.38'
-average: '10.456666666666667'
+average: '10.290000000000001'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

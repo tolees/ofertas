@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mejora tu experiencia deportiva
 - Camiseta deportiva
+- Mejora tu experiencia deportiva
 - Cómoda de llevar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

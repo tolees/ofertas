@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Zapatos para mujer
 - Plantilla extraíble
 - Suela softlight
 - Forro de Microfibra
+- Zapatos para mujer
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DW9MH223{{</world>}}

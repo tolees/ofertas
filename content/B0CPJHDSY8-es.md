@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Amortiguación ultraligera
-- Plantilla Goga Mat refrigerada por aire
-- Sendero
 - Nuestro planeta importa: reciclado
+- Plantilla Goga Mat refrigerada por aire
+- Amortiguación ultraligera
+- Sendero
 - Resistente al agua
 
 [🛒 Aquí!!!]({{< param buyurl >}})

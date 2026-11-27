@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello con escote redondo abierto y serigrafía en parte delantera
 - Corte normal
-- Clásico
 - Cómodo
+- Cuello con escote redondo abierto y serigrafía en parte delantera
+- Clásico
 - Tejido: tejido ligero con caída mezcla de viscosa poliéster
 
 [🛒 Comprar!!!]({{< param buyurl >}})

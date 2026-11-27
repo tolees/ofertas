@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Largo justo por encima de la rodilla
-- Tacto suave y agradable
-- Elástico añadido para proporcionar una mayor comodidad
-- Este producto es original Levis
 - Chino Short de corte estándar
+- Elástico añadido para proporcionar una mayor comodidad
+- Largo justo por encima de la rodilla
+- Este producto es original Levis
+- Tacto suave y agradable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B29NJ19N{{</world>}}

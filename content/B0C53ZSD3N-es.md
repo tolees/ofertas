@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Cierre de cordones
 - Horma clásica
-- Parte superior de piel
 - Forro textil
+- Parte superior de piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C53ZSD3N{{</world>}}

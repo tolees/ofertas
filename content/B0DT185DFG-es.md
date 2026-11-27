@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricado en varilla de acero pintado gris antracita con separadores en plástico gris.
-- El montaje se realiza en el lateral izquierdo del mueble mediante dos guías de rodillo con extracción total y cierre amortiguado. Compatible con tableros de 16, 18 y 19 mm.
-- Cuenta con una regulación total de la puerta; siendo ±2,5 mm en los laterales, ±2,25 mm de profundidad y hasta 13 mm de altura. El deslizamiento es fluido y silencioso, ideal para el uso diario.
 - El botellero extraíble dispone de tres niveles de almacenamiento y tres separadores en la cesta inferior, lo que permite organizar las botellas de forma eficiente. Es la solución ideal para optimizar el espacio en los módulos inferiores de la cocina, especialmente en espacios reducidos.
+- El montaje se realiza en el lateral izquierdo del mueble mediante dos guías de rodillo con extracción total y cierre amortiguado. Compatible con tableros de 16, 18 y 19 mm.
 - Compatible con módulos de un ancho interior mínimo de 162 mm, profundidad mínima de 460 mm y altura de 800mm. Tiene una capacidad de carga de hasta 30 kg.
+- Cuenta con una regulación total de la puerta; siendo ±2,5 mm en los laterales, ±2,25 mm de profundidad y hasta 13 mm de altura. El deslizamiento es fluido y silencioso, ideal para el uso diario.
+- Fabricado en varilla de acero pintado gris antracita con separadores en plástico gris.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DT185DFG{{</world>}}

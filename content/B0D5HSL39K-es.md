@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tracción de goma zonificada
 - PUMA Detalles de la marca
+- Tracción de goma zonificada
 - Plantilla Softfoam Plus
 
 [🛒 Comprar!!!]({{< param buyurl >}})

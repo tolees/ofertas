@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Polo de piqué
 - Cuello polo
-- Lavar a máquina
-- Material: 100% algodón
 - Cierre a presión
 - Polo
+- Polo de piqué
+- Material: 100% algodón
+- Lavar a máquina
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FCSJG8JM{{</world>}}

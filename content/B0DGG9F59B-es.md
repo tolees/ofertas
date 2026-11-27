@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pantene Pro-V Repara y Protege Mascarilla de Pelo Protectora de Keratina Tratamiento Hidratante Cabello 3x300ml'
-date: 2026-11-22 12:16:31
+date: 2026-11-26 23:34:50
 image: 'https://m.media-amazon.com/images/I/41WFvKcQJvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DGG9F59B/?tag=tolees-21'
 descuento: '40.76'
-average: '10.394905660377376'
+average: '10.339818181818197'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

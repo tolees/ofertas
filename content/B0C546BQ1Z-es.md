@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte clásico
 - Detalles reflectantes
 - Cinta en el interior de la nuca para una mayor suavidad
-- 86% poliéster (reciclado) / 14% elastán
-- AEROREADY
 - Detalles reflectantes
+- Corte clásico
+- AEROREADY
+- 86% poliéster (reciclado) / 14% elastán
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C546BQ1Z{{</world>}}

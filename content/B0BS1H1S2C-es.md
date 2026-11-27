@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'El Dia de la Bestia Blu-ray + DVD con Documental'
-date: 2026-11-25 07:38:47
+date: 2026-11-27 09:31:44
 image: 'https://m.media-amazon.com/images/I/41LGDLDjonL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BS1H1S2C/?tag=tolees-21'
 descuento: '40.03'
-average: '10.51199999999997'
+average: '10.439523809523781'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

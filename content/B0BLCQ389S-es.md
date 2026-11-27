@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Tacón extragrueso
 - Plantilla cómoda diseñada para proporcionar una amortiguación suave
 - Perforaciones en la puntera
-- Tacón extragrueso
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BLCQ389S{{</world>}}

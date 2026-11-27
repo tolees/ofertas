@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre de cordones
-- Parte superior de nobuk sintético
-- Horma clásica
 - Forro textil
+- Cierre de cordones
 - Mediasuela de aspecto vulcanizado
+- Horma clásica
+- Parte superior de nobuk sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CKY2BV3N{{</world>}}

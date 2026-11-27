@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Con capucha
 - Manga larga
-- Con bolsillo frontal
 - Durabilidad con material sostenible
 - JACK & JONES apoya la iniciativa Better Cotton usando algodón orgánico o reciclado
+- Con bolsillo frontal
 - Sudadera de ajuste regular
-- Con capucha
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07B69D4PL{{</world>}}

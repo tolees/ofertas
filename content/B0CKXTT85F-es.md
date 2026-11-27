@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Horma clásica
 - Forro textil
-- Cierre con correas autoadherentes
+- Forro textil
 - Empeine textil
 - Mediasuela Cloudfoam
-- Forro textil
-- Horma clásica
+- Cierre con correas autoadherentes
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKXTT85F{{</world>}}

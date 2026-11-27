@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips OneBlade Original 360 cuchillas compatibles con todos los mangos OneBlade y Pro 5 unidades modelo QP450/50'
-date: 2026-11-25 12:43:30
+date: 2026-11-27 08:08:06
 image: 'https://m.media-amazon.com/images/I/51qpTbqNxCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GMHCMVCP/?tag=tolees-21'
 descuento: '39.66'
-average: '39.990000000000016'
+average: '39.573333333333345'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

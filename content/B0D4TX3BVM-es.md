@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- zapato de fútbol
 - Máximo agarre en el campo
+- zapato de fútbol
 - Combina detalles de diseño de alto rendimiento con estilo urbano.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

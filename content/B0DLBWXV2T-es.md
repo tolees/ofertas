@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Robusto ankle-boot.
 - Ojales hexagonales.
+- Robusto ankle-boot.
 - Logotipo de la marca Strong Debossed.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

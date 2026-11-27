@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ausschnitt: default
 - Futter: default
 - Gattung: Mütze
-- Mannschaft: default
 - Extras: Schild gebogen
+- Mannschaft: default
+- Ausschnitt: default
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09WCQT1LQ{{</world>}}

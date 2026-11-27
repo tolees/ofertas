@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Para mujeres
 - En color blanco
+- Para mujeres
 - Sombrero de vestimento
 
 [🛒 Visítala!!!]({{< param buyurl >}})

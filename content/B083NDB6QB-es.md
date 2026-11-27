@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Protector de mentón
-- Hilos AMANN: calidad alemana
 - YKK VISLON
+- Protector de mentón
 - Artículos entregados: 1x Helly Hansen Kids Unisex K Champ Reversible Jacket - Midlayer NAVY 2
+- Hilos AMANN: calidad alemana
 - Bolsillos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

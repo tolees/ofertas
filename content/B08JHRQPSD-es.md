@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Preparados con ingredientes naturales seleccionados de calidad
-- Alimento completo y equilibrado
-- Mini Filetes cocinados lentamente
-- Sin colorantes, aromatizantes y conservantes artificiales añadidos
 - Alimento completo para gatos adultos
+- Sin colorantes, aromatizantes y conservantes artificiales añadidos
+- Mini Filetes cocinados lentamente
+- Alimento completo y equilibrado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08JHRQPSD{{</world>}}

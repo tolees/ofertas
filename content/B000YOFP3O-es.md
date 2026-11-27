@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Weleda - Leche Corporal de Caléndula para Bebé Hidrata Nutre Calma y Protege Apto para Pieles Sensibles - 200 ml'
-date: 2026-03-12 18:47:58
-image: 'https://m.media-amazon.com/images/I/31uhG0WF4lL._SL500_._SL400_.jpg'
+title: 'Weleda Bebé - Leche Corporal de Caléndula Crema Hidratante Cuerpo 200 ml | Almendra Dulce BIO Aceite de Sésamo Textura Ligera Rápida Absorción Después del Baño Piel Seca Uso Diario'
+date: 2026-11-26 09:01:55
+image: 'https://m.media-amazon.com/images/I/31erXXw3nML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B000YOFP3O-es Weleda - Leche Corporal de Caléndula para Bebé Hidrata...'
+slug: 'B000YOFP3O-es Weleda Bebé - Leche Corporal de Caléndula Crema Hidratante...'
 sku: 'B000YOFP3O-es'
 tags: [ '🇪🇸', ]
-actualPrice: 8.81 EUR
+actualPrice: 9.64 EUR
 currency: EUR
-price: 8.81
+price: 9.64
 comparePrice: 14.95 EUR
-prodname: 'Weleda - Leche Corporal de Caléndula para Bebé Hidrata Nutre Calma y Protege Apto para Pieles Sensibles - 200 ml'
+prodname: 'Weleda Bebé - Leche Corporal de Caléndula Crema Hidratante Cuerpo 200 ml | Almendra Dulce BIO Aceite de Sésamo Textura Ligera Rápida Absorción Después del Baño Piel Seca Uso Diario'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B000YOFP3O/?tag=tolees-21'
-descuento: '41.07'
-average: '9.60266666666671'
+descuento: '35.52'
+average: '9.6031137724551332'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,6 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Posee aceite de sésamo y extractos de caléndula BIO que calman, alivian, nutren y previenen la sequedad cutánea
-- Es de textura ligera y rápida absorción, por lo que penetra fácilmente sin dejar una capa aceitosa
-- Esta leche corporal se encarga de favorecer las funciones protectoras naturales de la piel del bebé
-- Suave leche corporal 100% natural que hidrata, nutre, suaviza y calma la delicada piel del bebé
-- Después del baño, aplicar la leche corporal por todo el cuerpo del bebé dando un suave masaje hasta su total absorción
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B000YOFP3O{{</world>}}

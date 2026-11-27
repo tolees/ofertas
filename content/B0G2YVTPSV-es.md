@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Suela TrailTack reforzada para mayor agarre
-- Ideal para corredores de resistencia.
 - Amortiguación DNA LOFT v3 más gruesa
+- Ideal para corredores de resistencia.
 - Parte superior técnica transpirable y ligera.
 - Apoyo en senderos largos y ultra
 

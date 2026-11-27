@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Under Armour La misión de la camiseta es simple: hacer que una sea mejor
 - Buena calidad y rendimiento
 - Eso significa que si uno establece un objetivo, ayudaremos a aplastarlo
-- Under Armour La misión de la camiseta es simple: hacer que una sea mejor
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BGVRQSDN{{</world>}}

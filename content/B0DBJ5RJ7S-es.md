@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bandolera ajustable
-- 2 bolsillos frontales con cremallera
 - Bolsillcon cremallera
+- 2 bolsillos frontales con cremallera
+- Bandolera ajustable
 - 2 bolsillos frontales abiertos
 - Compartimento principal con cremallera con: bolsillo con cremallera, compartimentos para teléfono, bolígrafo y cartera, clip para llaves
 

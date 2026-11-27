@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estudiada fórmula con turba, fibra de coco, perlita, material vegetal compostado, activador de raíces y fertilizante, otorga una gran esponjosidad
 - Paqueteage Weight: 26.0 kilograms
 - Composición: mezcla de fibra de coco, turba rubia, turba negra, material vegetal compostado, materia orgánica y perlita
+- Estudiada fórmula con turba, fibra de coco, perlita, material vegetal compostado, activador de raíces y fertilizante, otorga una gran esponjosidad
 - Ideal para cultivar todo tipo de plantas tanto en condiciones de interior coo de exterior
 - Fuente de alimentación: con Alimentación de Aire
 

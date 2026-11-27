@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Ojal y zorro personalizados
+- Tenis básicos vulcanizados de corte bajo
 - Logotipo clásico en el lateral
 - Cuello y talón de color de contraste
-- Tenis básicos vulcanizados de corte bajo
-- Ojal y zorro personalizados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BS41DZRY{{</world>}}

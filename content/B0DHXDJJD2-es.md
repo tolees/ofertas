@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Forro textil
-- Suela de goma
 - Empeine textil
 - Horma clásica
+- Suela de goma
 - Mediasuela REPETITOR
 
 [🛒 Visítala!!!]({{< param buyurl >}})

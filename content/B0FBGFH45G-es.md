@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- UPPER LIMPIO: Diseño minimalista que combina fácilmente con cualquier atuendo.
-- CIERRE DE CORDONES: Ajuste seguro con cordones tradicionales para comodidad durante todo el día.
 - SUPERPOSICIÓN EN EL TALÓN: Proporciona soporte y un área sutil para acentos de color.
+- CIERRE DE CORDONES: Ajuste seguro con cordones tradicionales para comodidad durante todo el día.
+- UPPER LIMPIO: Diseño minimalista que combina fácilmente con cualquier atuendo.
 - SILUETA INSPIRADA EN LA CANCHA: Diseño clásico de tenis para un look elegante y atemporal.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

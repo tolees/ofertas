@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Collab
+- Goldcrown
 - Skech-Air
 - Espuma viscoelástica refrigerada por aire
 - Ajuste de cuña
-- Goldcrown
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DW9FJJXW{{</world>}}

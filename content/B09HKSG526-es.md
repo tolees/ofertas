@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte clásico con cintura de talle medio
 - Bolsillos en las costuras laterales
 - Apoya a Better Cotton Initiative
-- Puños de canalé
-- Puños de canalé
+- Corte clásico con cintura de talle medio
 - 70% algodón / 30% poliéster (reciclado)
+- Puños de canalé
 - Perneras ajustadas
+- Puños de canalé
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09HKSG526{{</world>}}

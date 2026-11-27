@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Zapatillas Club II Era Unisex Black-White-Gold 42 EU'
-date: 2026-11-25 14:02:58
+date: 2026-11-27 09:44:23
 image: 'https://m.media-amazon.com/images/I/31CrmyASOkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CKJJZGS1/?tag=tolees-21'
 descuento: '54.67'
-average: '34.219999999999956'
+average: '33.785454545454506'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

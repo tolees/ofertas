@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Arcos Juego de 6 Cuchillos Mondadores Acero Inoxidable 100 mm | Set de cuchillos de cocina para pelar con mango de polipropileno apto para lavavajillas. Serie Nova. Color negro.'
-date: 2026-11-24 07:28:19
+date: 2026-11-27 10:17:36
 image: 'https://m.media-amazon.com/images/I/41Rgv6b7iML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B072FGV2YH/?tag=tolees-21'
 descuento: '43.76'
-average: '12.169072164948229'
+average: '12.145252525252305'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

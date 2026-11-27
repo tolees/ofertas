@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Alzaos juntos
-- Enfréntate a la noche
 - Conviértete en héroe
+- Enfréntate a la noche
+- Alzaos juntos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DWXZ9Z27{{</world>}}

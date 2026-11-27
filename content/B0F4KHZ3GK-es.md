@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pequeño bolsillo delantero
 - Sarga de algodón elástico
+- Pequeño bolsillo delantero
+- Cinta distintiva en la cadera
 - Cierre de cremallera con botón
 - Dos bolsillos ribeteados en diagonal en la cintura
-- Cinta distintiva en la cadera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F4KHZ3GK{{</world>}}

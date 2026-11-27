@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vegano
-- Almohada para el talón
 - Lavable a máquina
+- Vegano
 - Espuma viscoelástica refrigerada por aire
+- Almohada para el talón
 - Slip-Ins
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -30,10 +30,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Manga: Larga
 - Fit: Regular
-- Cierre: de Botón
-- Desigual
 - Cuello: en V
+- Desigual
 - Estampado a rayas
+- Cierre: de Botón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DWBJLZRF{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene manga corta
 - Tejido: tejido suave, elástico y resistente
 - De secado rápido
+- Tiene manga corta
 - Serigrafía estampada en el pecho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

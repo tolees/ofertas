@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fluval Waste Control se activa inmediatamente cuando se introduce en el acuario
-- Se emplea un riguroso proceso de aislamiento y fermentación en el desarrollo de los productos para asegurar una pureza óptima
-- Su uso regular a largo plazo ayudará a prevenir el establecimiento de bacterias indeseables
 - El uso regular de Fluval Waste Control favorecerá a un agua clara
+- Fluval Waste Control se activa inmediatamente cuando se introduce en el acuario
+- Su uso regular a largo plazo ayudará a prevenir el establecimiento de bacterias indeseables
+- Se emplea un riguroso proceso de aislamiento y fermentación en el desarrollo de los productos para asegurar una pureza óptima
 - Calidad superior del producto, no contiene bacterias negativas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 60 Gummies
-- Complemento nutricional clínicamente testado
 - Número de modelo del producto: WGU.101143
+- Complemento nutricional clínicamente testado
 - convierte el entrenamiento en tu forma de vida
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

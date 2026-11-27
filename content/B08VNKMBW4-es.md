@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Composición: 100% algodón
-- Polo de corte entallado
-- Estilo clásico de polo
 - Con tejido de piqué clásico
+- Composición: 100% algodón
+- Estilo clásico de polo
+- Polo de corte entallado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08VNKMBW4{{</world>}}

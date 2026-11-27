@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Es cómodo de llevar todo el día
-- Lavable a máquina, lavar en agua fría y no usar blanqueador
 - Combínalo con tus jeans o pantalones cortos favoritos para un aspecto casual y elegante
+- Lavable a máquina, lavar en agua fría y no usar blanqueador
+- Es cómodo de llevar todo el día
 - Las camisetas y sudaderas de manga larga con cuello redondo cuentan con un ajuste cómodo y holgado
 - Muy suave, cómodo y cercano a tu piel
 

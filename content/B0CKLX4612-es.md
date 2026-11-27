@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre de cordones
-- Parte superior de piel
-- Forro textil
 - Horma clásica
+- Cierre de cordones
+- Forro textil
+- Parte superior de piel
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CKLX4612{{</world>}}

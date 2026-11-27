@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cómodas plantillas para hundirse
 - Correa trasera icónica para mayor funcionalidad
+- Cómodas plantillas para hundirse
 - Suela de goma para mayor agarre
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Composición: 100% algodón
-- Camisa tejida
-- Instrucciones de cuidado: lavable a máquina
 - Ajuste: regular
+- Camisa tejida
 - Tipo de estiramiento: baja elasticidad
+- Instrucciones de cuidado: lavable a máquina
+- Composición: 100% algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D6RQ9GGN{{</world>}}

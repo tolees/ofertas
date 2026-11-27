@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Lentes Eastman Tritan Renew, un material que utiliza un 50% de poliéster reciclado derivado de residuos plásticos en el proceso de fabricación
 - Forma rectangular modificada unisex para un look contemporáneo
+- La montura RXable se puede utilizar con lentes graduadas
 - Ajuste global y tamaños grandes disponibles
 - Realizadas con Eastman Acetate Renew, un material sostenible fabricado a partir de materiales de base biológica y reciclados certificados, y patillas de resina de base vegetal, una alternativa más limpia a los plásticos estándar.
-- La montura RXable se puede utilizar con lentes graduadas
+- Lentes Eastman Tritan Renew, un material que utiliza un 50% de poliéster reciclado derivado de residuos plásticos en el proceso de fabricación
 - Las atrevidas patillas llevan el icónico logotipo cK Monogram grabado en dos colores.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Estampado Arty
 - Manga: Larga
 - Fit: Regular
-- Cuello: Redondo
-- Cierre: de Botón
 - Desigual
-- Estampado Arty
+- Cierre: de Botón
+- Cuello: Redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DW9J3D78{{</world>}}

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Muy útil para la oficina
-- De la marca Brother
 - Tipo de producto: cinta laminada
 - De color negro sobre claro
+- De la marca Brother
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B004YJLVI8{{</world>}}

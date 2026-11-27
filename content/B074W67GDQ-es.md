@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- No usar en lentes de contacto blandas
 - Contiene un componente patentado que para mantener la humectabilidad de la lente
-- Siga siempre las recomendaciones de uso y reemplazo proporcionadas por su profesional de la visión
 - Lávese y séquese las manos antes de manipular las lentes No utilice agua del grifo, mineral ni saliva para limpiar las lentes de contacto Utilice solución para limpiar y desinfectar las lentes de contacto
+- Siga siempre las recomendaciones de uso y reemplazo proporcionadas por su profesional de la visión
+- No usar en lentes de contacto blandas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B074W67GDQ{{</world>}}

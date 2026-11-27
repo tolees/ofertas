@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mercancía con licencia oficial de Star Wars.
-- Pijama para niños de Star Wars: The Mandalorian.
-- ¡Los fanáticos de The Mandalorian amarán llevar este pijama!
 - En conjunto con pantalones de pijama cómodos con un estampado completo de la silueta de Jaing Head, el logo de Star Wars y el casco del Mandaloriano.
+- Mercancía con licencia oficial de Star Wars.
+- ¡Los fanáticos de The Mandalorian amarán llevar este pijama!
+- Pijama para niños de Star Wars: The Mandalorian.
 - ¡Este top manga larga azul viene con el casco del Mandaloriano!
 
 [🛒 Aquí!!!]({{< param buyurl >}})

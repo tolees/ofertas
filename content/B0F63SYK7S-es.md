@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Puntera redondeada
 - Goma Protread que proporciona durabilidad y gran tracción
+- Puntera redondeada
 - Correa Fit Plus para un amplio bloqueo de cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})

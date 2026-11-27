@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mediasuela de EVA para una amortiguación superior y una comodidad duradera.
 - Suela de goma para una tracción óptima en diversas superficies.
+- Mediasuela de EVA para una amortiguación superior y una comodidad duradera.
 - Parte superior de malla transpirable para mantener los pies frescos y secos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Seca al aire, por lo que se debe guardar herméticamente para conservarla correctamente
+- Recibirás 1 bote de 460 gramos de Soft Dough. No tóxica, inocua, pero con sabor desagradable para evitar su ingestión.
 - Pasta blanda para niños y niñas a partir de 2 años ideal para la iniciación al mundo del modelaje ya que es blanda, flexible, fácil de amasar, mezclar, cortar y moldear.
 - Textura suave, fresca y muy agradable. Contiene gluten.
 - Con el Soft Dough de Jovi se pueden explorar diferentes técnicas con los dedos, con moldes o con diferentes herramientas.
-- Recibirás 1 bote de 460 gramos de Soft Dough. No tóxica, inocua, pero con sabor desagradable para evitar su ingestión.
-- Seca al aire, por lo que se debe guardar herméticamente para conservarla correctamente
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0025Y7DYU{{</world>}}

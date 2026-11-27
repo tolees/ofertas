@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'COSYLAND Alfombra Bebé Acolchada Plegable XPE Reversible Tapete de Juegos | Infantil Antideslizante e Impermeable para Suelo Colchoneta Bebé Animales Dormidos Zorro y Oso Pardo 200 x 180 x 1 cm'
-date: 2026-11-24 17:26:37
+date: 2026-11-26 21:33:44
 image: 'https://m.media-amazon.com/images/I/41odeo8BYXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GTYXW6X5/?tag=tolees-21'
 descuento: '41.70'
-average: '32.36'
+average: '32.453333333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

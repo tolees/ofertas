@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Corte clásico
+- Suela de goma tipo copa elevada
 - Forro textil
 - Empeine de piel sintética
-- Suela de goma tipo copa elevada
 - Cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

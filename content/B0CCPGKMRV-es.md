@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aplicar sobre cabello húmedo o seco.
 - Pegamento para un agarre ultra fuerte para un peinado extremo y un acabado duradero
+- Aplicar sobre cabello húmedo o seco.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CCPGKMRV{{</world>}}

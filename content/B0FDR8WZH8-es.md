@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Compatible con la aplicación SCRIBZEE, escanea tu notas con la app y podrás consultar tu agenda desde cualquier sitio
+- Interior: semana vista en castellano con cabecera y fecha bien visible. Espacio QuickNotes para priorizar lo esencial. Avance de planning de la semana para remarcar lo que está por venir. Calendario mensual en cada semana y número de la semana en curso. Un espacio para notas libres al final de la agenda.
+- Tapa extradura removible: para poder reutilizarla el año que viene y sólo tener que comprar el recambio. Espiral blanco y uñero microperforado para fácil acceso al la semana
 - Agenda Oxford anual A5 (15x21 cm) semana vista - 12 meses, de enero a diciembre 2026
 - Papel OptikPaper, para una escritura suave, y cómoda en ambas caras del papel ya que la tinta no traspasa
-- Tapa extradura removible: para poder reutilizarla el año que viene y sólo tener que comprar el recambio. Espiral blanco y uñero microperforado para fácil acceso al la semana
-- Interior: semana vista en castellano con cabecera y fecha bien visible. Espacio QuickNotes para priorizar lo esencial. Avance de planning de la semana para remarcar lo que está por venir. Calendario mensual en cada semana y número de la semana en curso. Un espacio para notas libres al final de la agenda.
+- Compatible con la aplicación SCRIBZEE, escanea tu notas con la app y podrás consultar tu agenda desde cualquier sitio
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FDR8WZH8{{</world>}}

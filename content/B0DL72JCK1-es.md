@@ -29,12 +29,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Empeine sintético
+- Suela de goma
 - Horma clásica
 - Forro textil
-- Lengüeta de malla
 - Mediasuela de EVA más gruesa en la mitad posterior
+- Lengüeta de malla
 - Sin cordones
-- Suela de goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DL72JCK1{{</world>}}

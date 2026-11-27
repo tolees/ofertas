@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido ligero
 - Ajuste cómodo para el uso diario
+- Tejido ligero
 - Cuello polo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

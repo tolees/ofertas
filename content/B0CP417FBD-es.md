@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Play-Doh Pack de Colores Fabulosos con 9 Colores Plastilina Multicolor No Tóxica Niños y Niñas de 2 Años o Más'
-date: 2026-11-24 00:17:42
+date: 2026-11-26 11:48:29
 image: 'https://m.media-amazon.com/images/I/51oJvAEuiGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CP417FBD/?tag=tolees-21'
 descuento: '38.49'
-average: '9.5562499999999737'
+average: '9.3822222222222003'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

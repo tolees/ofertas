@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Marca británica para el cuidado de la piel y spa, con terapias y productos clínicamente testados para la cara y el cuerpo
 - Sus extractos de fucus y girasol remineralizan y acondicionan
 - Exfolia y purifica la piel cansada y apagada. No abrasivo. La piel queda suave, revitalizada y radiante
+- Marca británica para el cuidado de la piel y spa, con terapias y productos clínicamente testados para la cara y el cuerpo
 - 1,4 ml
 - Purifica y regenera las pieles sensibles y cansadas
 

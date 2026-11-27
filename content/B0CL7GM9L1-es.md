@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'JACK & JONES Jjiglenn Jjoriginal SQ 260 Noos Slim Fit Jeans Azul Denim. 33W / 32L'
-date: 2026-07-12 20:05:06
-image: 'https://m.media-amazon.com/images/I/31CobHRLweL._SL500_._SL400_.jpg'
+title: 'Vaqueros Slim Fit JACK & JONES JJIGLENN JJORIGINAL SQ 260 Azul Denim 33W/32L'
+date: 2026-11-26 23:38:20
+image: 'https://m.media-amazon.com/images/I/31tQCxSSx-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0CL7GM9L1-es JACK & JONES Jjiglenn Jjoriginal SQ 260 Noos Slim Fit...'
+slug: 'B0CL7GM9L1-es Vaqueros Slim Fit JACK & JONES JJIGLENN JJORIGINAL SQ 260...'
 sku: 'B0CL7GM9L1-es'
 tags: [ '🇪🇸', ]
-actualPrice: 15.99 EUR
+actualPrice: 13.99 EUR
 currency: EUR
-price: 15.99
+price: 13.99
 comparePrice: 29.99 EUR
-prodname: 'JACK & JONES Jjiglenn Jjoriginal SQ 260 Noos Slim Fit Jeans Azul Denim. 33W / 32L'
+prodname: 'Vaqueros Slim Fit JACK & JONES JJIGLENN JJORIGINAL SQ 260 Azul Denim 33W/32L'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CL7GM9L1/?tag=tolees-21'
-descuento: '46.68'
-average: '16.1421052631579'
+descuento: '53.35'
+average: '15.937142857142861'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,13 +28,6 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillos : Bolsillos traseros, Bolsillo relojero, Bolsillos delanteros
-- Artículo : Jeans de corte slim
-- Corte : Vaqueros ajustados con talla media, muslo fino, rodilla fina, apertura ajustada en la pierna
-- Cintura : Tiro bajo
-- Cierre : Bragueta de botones
-- Klavado/acabado : Lavado a la piedra para un acabado desgastado y desteñido
-- Modo de vida : Tradicional
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CL7GM9L1{{</world>}}

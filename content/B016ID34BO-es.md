@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- [Dimensiones] 65 D x 61 W x 87.5-98 H cm
 - [Tejido duradero] Cubre tanto el acolchado del asiento como el acolchado del respaldo, que está perfilado para dar más apoyo.
-- [Ergonómica] Silla ergonómica de respaldo recto y asiento acolchados para disfrutar de una comodidad y un apoyo corporal óptimos durante todo el día.
 - Con ruedas de presión que bloquean el movimiento de la silla cuando no está en uso.
 - Capacidad de carga máxima: 110 kg; instrucciones de montaje incluidas.
+- [Dimensiones] 65 D x 61 W x 87.5-98 H cm
+- [Ergonómica] Silla ergonómica de respaldo recto y asiento acolchados para disfrutar de una comodidad y un apoyo corporal óptimos durante todo el día.
 - [Ajustable] Ajuste de la altura del asiento neumático y giro de 360 grados.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

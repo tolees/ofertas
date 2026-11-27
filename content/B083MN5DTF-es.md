@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Gafas de sol de forma cuadrada para hombre y mujer
+- Lentes polarizadas de triacetato
 - Logotipo verde en las patillas
 - Frente en policarbonato habano oscuro
-- Lentes polarizadas de triacetato
 - Patillas de policarbonato habano oscuro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

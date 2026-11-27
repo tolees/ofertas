@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cómodo de llevar
 - Pantalones deportivos
+- Cómodo de llevar
 - Mejora tu experiencia deportiva
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

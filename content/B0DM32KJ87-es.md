@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela exterior de goma con tacos
 - Logotipo N sobredimensionado
+- Suela exterior de goma con tacos
 - Parte superior de ante y sintético
 
 [🛒 Visítala!!!]({{< param buyurl >}})

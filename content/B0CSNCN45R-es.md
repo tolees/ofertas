@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Polo de manga larga con doble botón
 - Fabricado con 100% algodón sostenible
 - Corte entallado
-- Polo de manga larga con doble botón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CSNCN45R{{</world>}}

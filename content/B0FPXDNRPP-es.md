@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Harry Potter Casa de Luna Lovegood 76467 | Juguetes para niños de 10+ años ladrillo con luz 5 minifiguras y decoración de dormitorio regalo de cumpleaños 764 piezas'
-date: 2026-11-24 17:51:29
+date: 2026-11-27 10:16:07
 image: 'https://m.media-amazon.com/images/I/51ITZh4YJiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FPXDNRPP/?tag=tolees-21'
 descuento: '40.00'
-average: '75.016341463414733'
+average: '73.680666666666753'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

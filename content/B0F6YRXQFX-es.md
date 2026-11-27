@@ -30,10 +30,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - La siguiente información se aplica a cada unidad del paquete
 - Con un acabado brillante y un toque de color
+- Nos oponemos a los experimentos con animales; cosnova aparece internacionalmente con essence y CATRICE tanto en PETA Alemania como en PETA
+- Para labios suaves e hidratados
 - Con ácido hialurónico, aceite de jojoba, vitamina E y aceite de meadowfoam
 - Hidratar/humectar; cuidado; con grasas; brillante; rociado
-- Para labios suaves e hidratados
-- Nos oponemos a los experimentos con animales; cosnova aparece internacionalmente con essence y CATRICE tanto en PETA Alemania como en PETA
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F6YRXQFX{{</world>}}

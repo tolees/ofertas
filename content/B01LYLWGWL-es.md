@@ -31,9 +31,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Tipo de tacón: Plano
 - Tipo de talla: talla estándar
 - Material exterior: Sintético
-- Material de la suela: Caucho
-- Revestimiento: Sintético
 - Cierre: Cordones
+- Revestimiento: Sintético
+- Material de la suela: Caucho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01LYLWGWL{{</world>}}

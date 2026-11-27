@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Zip fly
 - An original look
 - 5 pockets
-- Zip fly
 - Provides comfort
 - G-Star label at the back
 

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tipo de estiramiento: alta elasticidad
+- Instrucciones de cuidado: lavable a máquina
 - Ajuste: corte bootcut
 - Composición: 78% algodón, 20% poliéster, 2% elastano
 - Jeans Pantalones Largos
-- Tipo de estiramiento: alta elasticidad
-- Instrucciones de cuidado: lavable a máquina
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C9MSH4W8{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Contiene al menos un 70% de material reciclado y renovable
+- Sudadera: cuello redondo
 - 70% algodón / 30% poliéster (reciclado)
 - Corte clásico
 - Pantalón: cintura elástica
-- Sudadera: cuello redondo
+- Contiene al menos un 70% de material reciclado y renovable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CZPP7DGP{{</world>}}

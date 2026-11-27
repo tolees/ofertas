@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte regular para uso diario
-- Algodón suave
 - Cuello polo
+- Algodón suave
+- Corte regular para uso diario
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4QLWCNS{{</world>}}

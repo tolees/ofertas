@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Plantilla textil
 - Horma clásica
+- Plantilla textil
 - Empeine textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})

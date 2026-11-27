@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cierre de gancho y bucle
-- Suela de goma
 - Entresuela de goma
 - Parte superior de cuero sintético
+- Suela de goma
 - Franja característica de PUMA en los lados medial y lateral
 
 [🛒 Comprar!!!]({{< param buyurl >}})

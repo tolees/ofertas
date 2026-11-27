@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Braga alta, hasta la cintura, con efecto reductor y push up
 - con detalle de logo WS en la espalda
+- Braga alta, hasta la cintura, con efecto reductor y push up
 - Estiliza tu silueta y es perfecto para llevar bajo las prendas que más se ciñen al cuerpo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

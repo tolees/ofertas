@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Elástico
 - Una alternativa refinada y moderna a los jeans rectos
-- Se coloca debajo de la cintura Estilo de cinco bolsillos
 - Este producto es original Levis
 - Espacio adicional para mayor comodidad
+- Elástico
+- Se coloca debajo de la cintura Estilo de cinco bolsillos
 - Ajuste regular a través del muslo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

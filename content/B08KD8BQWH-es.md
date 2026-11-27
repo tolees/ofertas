@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- 100 % poliéster
+- Lavable a máquina
 - abrigo; con capucha; acogedor; cremallera
 - Chaqueta para mujer, de piel de peluche, chaqueta de peluche
-- Lavable a máquina
-- 100 % poliéster
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08KD8BQWH{{</world>}}

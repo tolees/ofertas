@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - MULTIUSOS 3 EN 1: colorete líquido modulable para ojos, labios y mejillas. Un imprescindible para crear un look monocromático. Úsalo sobre la marcha para retocar tu look en cualquier momento.
 - NUTRICIÓN CON COLOR: colorete infusionado con aceites botánicoscomo: aceite de almendras dulces, aceite de maracuyá y Monoi de Tahití para nutrir, hidratar y suavizar la sequedad de piel y labios.
+- VEGANO Y CRUELTY FREE: 3INA es una marca de maquillaje española que fabrica en Europa. Todos nuestros productos son veganos, libres de parabenos y sin crueldad animal.
 - MATE NATURAL: coloretes en tonos marrones, rosas y colores intensos para esculpir y definir tus rasgos, para todos los tonos de piel. Combínalo con The Level Up Mascara para un look natural.
 - PIGMENTOS MODULABLES: la fórmula sedosa de este colorete líquido se funde a la perfección con la piel y ofrece una cobertura modulable, desde un suave rubor hasta un look de color intenso.
-- VEGANO Y CRUELTY FREE: 3INA es una marca de maquillaje española que fabrica en Europa. Todos nuestros productos son veganos, libres de parabenos y sin crueldad animal.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BYH2V67W{{</world>}}

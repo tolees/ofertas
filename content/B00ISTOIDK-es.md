@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cobertor rectangular para piscinas desmontables Intex de las líneas Small y Prisma Frame
 - Cobertor para piscinas rectangulares de medidas 460 x 226 cm y con voladizo de 20 cm; Peso cobertor: 3.4 kg
+- Cobertor rectangular para piscinas desmontables Intex de las líneas Small y Prisma Frame
 - De color azul marino, está fabricado con vinilo resistente de 0;18 mm; El cobertor tiene pequeños orificios de drenaje para evitar acumulaciones de agua
 - Compatible con la referencia: 28273
 - Incluye cuerda para sujetar el cobertor a la piscina ante situaciones climatológicas adversas como el viento

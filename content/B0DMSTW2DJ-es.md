@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Amortiguación cómoda
 - Para uso cotidiano
 - Inspirada en los modelos de running de los años 70
+- Amortiguación cómoda
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DMSTW2DJ{{</world>}}

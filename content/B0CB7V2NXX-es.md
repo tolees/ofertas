@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Forro textil
-- Cierre con cordones
-- Entresuela y suela de goma
 - Parte superior en piel de pleno grano
+- Cierre con cordones
+- Forro textil
+- Entresuela y suela de goma
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CB7V2NXX{{</world>}}

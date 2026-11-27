@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello estilo polo
 - JACK & JONES apoya la iniciativa Better Cotton usando algodón orgánico o reciclado
-- Con camiseta clásica de piqué
-- Tiene detalles distintivos de la marca
-- Durabilidad con material sostenible
 - Polo de corte entallado
+- Con camiseta clásica de piqué
+- Durabilidad con material sostenible
+- Cuello estilo polo
+- Tiene detalles distintivos de la marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B079CDBSGJ{{</world>}}

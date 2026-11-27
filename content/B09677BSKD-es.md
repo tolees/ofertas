@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño versátil: Cuello redondo de manga corta con pequeño logo bordado JxJ en el pecho; ideal para el día a día o el tiempo libre
-- Regular Fit: Corte recto y cómodo que proporciona libertad de movimiento sin perder la silueta ni el estilo
 - 100% algodón: Tejido natural suave al tacto que garantiza transpirabilidad y comodidad durante todo el día
 - Pack de 5 camisetas: Incluye 5 unidades en colores blanco, gris, caqui, marino y negro para combinar con cualquier look
+- Regular Fit: Corte recto y cómodo que proporciona libertad de movimiento sin perder la silueta ni el estilo
 - Fácil cuidado: Lavable a máquina hasta 40°C; secar colgado en vertical y planchar a temperatura máxima de 150°C
+- Diseño versátil: Cuello redondo de manga corta con pequeño logo bordado JxJ en el pecho; ideal para el día a día o el tiempo libre
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09677BSKD{{</world>}}

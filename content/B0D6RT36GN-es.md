@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Composición: 94 por ciento de algodón 5 por ciento elastomultiéster 1 por ciento de elastano
-- Instrucciones de cuidado: lavable a máquina
 - Ajuste: Slim Tapered
+- Instrucciones de cuidado: lavable a máquina
+- Composición: 94 por ciento de algodón 5 por ciento elastomultiéster 1 por ciento de elastano
 - Tipo de estiramiento: Medium Stretch
 - Jeans Pantalones Largos
 

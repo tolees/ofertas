@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Vida al aire libre
-- Hornillo para acampada
 - Estufa portátil
+- Hornillo para acampada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000PJH5TK{{</world>}}

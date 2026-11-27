@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Su tipo de mango es negro fabricado en aluminio.
 - Con acabado interior antiadherente y acabado exterior en mate.
+- Su tipo de mango es negro fabricado en aluminio.
 - Es apto para todo tipo de fuegos incluido el de inducción.
 - Su diseño permite una cocina a diario.
 - Plancha asador 34x26cm inducción San Ignacio.

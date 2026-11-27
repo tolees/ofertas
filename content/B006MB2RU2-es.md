@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Capacidad: 4 l para 2 kg patatas
-- Resistencia sumergida
 - Totalmente desmontable
-- Posición de escurrido del aceite
 - Decoración en inox en el panel de control
 - Piloto luminoso y regulador de temperatura
+- Posición de escurrido del aceite
+- Resistencia sumergida
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B006MB2RU2{{</world>}}

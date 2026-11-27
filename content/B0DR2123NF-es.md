@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste: relajado
 - Pantalón largo
 - Composición: 60 por ciento de algodón 38 por ciento de poliéster y 2 por ciento de elastano
 - Instrucciones de cuidado: lavable a máquina
+- Ajuste: relajado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DR2123NF{{</world>}}

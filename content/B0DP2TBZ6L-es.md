@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- En la línea de baloncesto de la marca Jordan, la Heir Series es la zapatilla de perfil más bajo, característica que facilita la carrera y los cambios de dirección propios del baloncesto femenino.
 - Una expresión de la influencia del baloncesto femenino en el baloncesto de todo el mundo, la nueva silueta de la serie Heir permite a cada atleta rendir al máximo.
+- En la línea de baloncesto de la marca Jordan, la Heir Series es la zapatilla de perfil más bajo, característica que facilita la carrera y los cambios de dirección propios del baloncesto femenino.
 - Ajuste estándar, máxima comodidad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

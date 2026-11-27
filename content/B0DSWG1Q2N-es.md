@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Panel de hombro, detalle de bucle debajo
-- Cuello de camisa
 - Bolsillos con solapa en el pecho
+- Panel de hombro, detalle de bucle debajo
 - Puños, cierre de botón ajustable
+- Cuello de camisa
 - Cierre de botón
 
 [🛒 Visítala!!!]({{< param buyurl >}})

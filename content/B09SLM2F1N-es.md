@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Estimula la regeneración celular profunda
 - Por la mañana y por la noche, aplicar en el rostro y en el cuello con un ligero masaje; combina la crema con el concentrado y el contorno de ojos RIGENERA para un ritual completo con buenos resultados
-- Crema fundente, nutre la piel sin recargarla
 - Reduce las arrugas y afina la textura de la piel
+- Crema fundente, nutre la piel sin recargarla
 - SIN ingredientes de origen animal, siliconas, alérgenos del perfume o alcohol
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

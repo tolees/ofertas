@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cuello : Cuello italiano
 - Artículo : Abrigo
 - Largo/talla : Largo por las rodillas
-- Forro : Forro de poliéster para una sensación cómoda
-- Bolsillos : Bolsillos delanteros
-- Cuello : Cuello italiano
 - Modo de vida : Negocio, Formal
+- Forro : Forro de poliéster para una sensación cómoda
 - Cierre : Cierre de botones
+- Bolsillos : Bolsillos delanteros
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DQM47HQ8{{</world>}}

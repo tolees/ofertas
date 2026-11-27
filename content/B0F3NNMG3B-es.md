@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Corte clásico
 - 100% poliéster (100% reciclado)
 - Confección en tejido de punto
-- Corte clásico
 - Cuello con cierre de botones
 
 [🛒 Aquí!!!]({{< param buyurl >}})

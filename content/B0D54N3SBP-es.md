@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Marca: American Tourister
 - Trolley American Tourister DASHPOP rosa unisex - MG5-90002
 - Color: A490 Rosa Azúcar
+- Marca: American Tourister
 - Tipo de producto: SUITCASE
 
 [🛒 Aquí!!!]({{< param buyurl >}})

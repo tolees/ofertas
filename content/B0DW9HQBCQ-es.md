@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Espuma viscoelástica refrigerada por aire
 - Lavable a máquina
 - Vegano
+- Espuma viscoelástica refrigerada por aire
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DW9HQBCQ{{</world>}}

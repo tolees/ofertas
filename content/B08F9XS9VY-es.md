@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela de tracción flexible
 - Parte delantera elástica con cordones y correa de velcro
+- Suela de tracción flexible
+- Entresuela visible con amortiguación de aire
 - Malla transpirable y parte sintética
 - Plantilla acolchada y cómoda
-- Entresuela visible con amortiguación de aire
 - Diseño ligero de tenis sin cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

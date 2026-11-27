@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Libre de parabenos: El gel de ducha ha sido elaborado conscientemente sin parabenos
-- Original Source: Capturamos la intensidad que la naturaleza tiene para ofrecer. Original Source se elabora con fragancias 100 % naturales. Nos inspiramos en la naturaleza —en aromas potentes y colores vibrantes— y nuestra misión es compartir experiencias sensoriales frescas en cada ducha.
-- 100 % vegano y libre de crueldad animal. Original Source está orgullosamente certificado como vegano y mostramos el logotipo en todos nuestros productos. Los productos se prueban en nosotros, nunca en animales. Esta fragancia ha sido desarrollada para ofrecer una experiencia de ducha que estimule los sentidos con una intensa sensación natural.
 - Pack múltiple de gel de ducha: Prolonga tu dosis diaria de paraíso tropical y naturaleza con este pack de 6 geles de ducha de 500 ml.
 - La fuerza de la naturaleza: Hemos esperado 82 amaneceres británicos para dejar madurar nuestras frambuesas antes de prensarlas con vainilla en cada botella. A cada gel de ducha se le añade una fragancia 100 % natural. Un gel que ayuda a que tu piel se sienta suave y desprenda un aroma a vainilla cremosa y frambuesa dulce.
+- Original Source: Capturamos la intensidad que la naturaleza tiene para ofrecer. Original Source se elabora con fragancias 100 % naturales. Nos inspiramos en la naturaleza —en aromas potentes y colores vibrantes— y nuestra misión es compartir experiencias sensoriales frescas en cada ducha.
+- 100 % vegano y libre de crueldad animal. Original Source está orgullosamente certificado como vegano y mostramos el logotipo en todos nuestros productos. Los productos se prueban en nosotros, nunca en animales. Esta fragancia ha sido desarrollada para ofrecer una experiencia de ducha que estimule los sentidos con una intensa sensación natural.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00D4R5JJ8{{</world>}}

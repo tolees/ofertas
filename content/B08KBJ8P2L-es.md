@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Original release of `Mona Bone Jakon came a new sound that forged Cat Stevens signature sound
-- Stevens, Cat
-- Paul Samwell-Smith, the album features "Lady DArbanville" as well as fan favorites "I Wish, I Wish" and "Maybe Youre Right"
 - "Katmandu" features Peter Gabriel on flute! 50 years on, Mona Bone Jakon still sound as fresh as the day it was recorded
+- Stevens, Cat
+- Original release of `Mona Bone Jakon came a new sound that forged Cat Stevens signature sound
+- Paul Samwell-Smith, the album features "Lady DArbanville" as well as fan favorites "I Wish, I Wish" and "Maybe Youre Right"
 - Presented here as a brand new 2020 remastered version on CD as well as in a new 2020 Mix (by David Hefti)
 
 [🛒 Visítala!!!]({{< param buyurl >}})

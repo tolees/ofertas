@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Sonicare DiamondClean 9000 cepillo dental eléctrico paquete doble cepillo dental sónico con aplicación sensor de presión vaso de carga negro y oro rosa modelo HX9914/61'
-date: 2026-11-25 14:16:24
+date: 2026-11-27 11:33:26
 image: 'https://m.media-amazon.com/images/I/41vHmX36MtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0B722CTNL/?tag=tolees-21'
 descuento: '64.00'
-average: '210.13285714285715'
+average: '207.51173913043479'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

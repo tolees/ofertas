@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela de goma para tracción
 - Máxima comodidad
+- Suela de goma para tracción
 - Cierre de cordones
 - Plantilla OrthoLite
 

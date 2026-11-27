@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Corte entallado
 - 100% poliéster (100% reciclado)
 - Cierre de cremallera
-- Corte entallado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F3JH6J9G{{</world>}}

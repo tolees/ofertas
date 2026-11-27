@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- corte ajustado
 - Camisa de manga larga
 - Tecnología Dri-Fit
-- corte ajustado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C9TL73J4{{</world>}}

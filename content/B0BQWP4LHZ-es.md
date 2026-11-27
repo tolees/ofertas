@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 75% algodón / 22% poliéster reciclado / 2% elastán / 1% nailon reciclado
 - Largo clásico
 - Tres pares por paquete
+- 75% algodón / 22% poliéster reciclado / 2% elastán / 1% nailon reciclado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BQWP4LHZ{{</world>}}

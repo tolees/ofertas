@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - ALTO FACTOR DE CONFORT. Esta cama para perros particularmente suave y tierna no debe faltar en ningún hogar. La base antideslizante con protuberancias antideslizantes asegura un agarre óptimo y el diseño moderno es realmente llamativo.
-- FÁCIL LIMPIEZA. Este cojín para perros es muy fácil de cuidar y se puede lavar a mano.
 - DIVERSIDAD. Para una elección óptima, nuestra cesta para perros está disponible en diferentes colores y tamaños.
+- FÁCIL LIMPIEZA. Este cojín para perros es muy fácil de cuidar y se puede lavar a mano.
 - PRÁCTICO COJÍN REVERSIBLE. El cojín de suelo extraíble fabricado en dos materiales diferentes hace que la comodidad y el diseño variable de esta cesta sean perfectos. A tu perro le encantará su almohadilla para acurrucarse.
 - ENTRADA CÓMODA. La entrada baja facilita la entrada y salida. Salida para perros de todos los tamaños y así favorece el bienestar.
 

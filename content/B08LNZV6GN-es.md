@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ausschnitt: Stehkragen
-- Futter: default
+- Mannschaft: default
 - Gattung: Unterwäsche
 - Extras: default
-- Mannschaft: default
+- Futter: default
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08LNZV6GN{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PRANAROM Aromapic Antimosquitos BIO Difusión 10 ml – Citronela y Geranio | Mezcla ecológica con citronela y geranio. Repelente natural para un verano tranquilo.'
-date: 2026-10-28 18:06:36
+date: 2026-11-26 22:17:15
 image: 'https://m.media-amazon.com/images/I/41P8aCWv4aL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QPW2YMS/?tag=tolees-21'
 descuento: '61.63'
-average: '4.345'
+average: '4.3266666666666662'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

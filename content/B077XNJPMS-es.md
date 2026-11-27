@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material que capilariza el sudor y se seca rápidamente
 - UA Tech es nuestro equipo de entrenamiento original: suelto, ligero y te mantiene fresco
+- Material que capilariza el sudor y se seca rápidamente
 - Nuevo ajuste entallado y bajo contorneado
 - Tejido UA Tech de secado rápido, ultrasuave y de tacto más natural
 

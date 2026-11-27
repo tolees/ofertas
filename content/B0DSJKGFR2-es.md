@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Running
-- 95% poliéster reciclado - 5% Elastano
 - Unisex - Braga de cuello
+- 95% poliéster reciclado - 5% Elastano
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DSJKGFR2{{</world>}}

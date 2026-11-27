@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se desliza sobre los labios, se difumina y los realza con suaves matices y suaves brillos
-- Se puede aplicar varias veces a lo largo del día y es perfecto para llevarlo a cualquier parte
 - Textura emoliente y sensorial con acabado satinado
 - Tan práctico como un labial, tan luminoso como un brillo. Un bálsamo deliciosamente brillante de color intenso, inspirado en el juego de caramelos más famoso del mundo, para mimar los labios en cualquier momento
+- Se puede aplicar varias veces a lo largo del día y es perfecto para llevarlo a cualquier parte
+- Se desliza sobre los labios, se difumina y los realza con suaves matices y suaves brillos
 - Dermatológicamente testado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

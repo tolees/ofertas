@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Zapatos para correr
 - Tecnología del sistema de torsión
+- Zapatos para correr
 - Fitcounter Sagomato contraparte
 
 [🛒 Visítala!!!]({{< param buyurl >}})

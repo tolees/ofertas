@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Marca: NGK
 - La siguiente información se aplica a cada unidad del paquete
 - Producto de alta calidad, con diseño funcional
-- Marca: NGK
 - Estilo: Específico en función del vehículo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

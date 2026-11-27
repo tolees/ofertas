@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- PRANAROM, experto en la ciencia de los Aceites Esenciales, ofrece desde hace más de 30 años soluciones específicas, óptimas y naturales para mantener a toda la familia con buena salud a diario
 - ACEITE ESENCIAL AEQT (QUIMOTIPADO): El sello AEQT es muestra de calidad seleccionando plantas botánicamente certificadas garantizando un aceite esencial 100% puro y natural para tu bienestar
-- CUIDARSE DE OTRA MANERA CON Allergoforce Cápsulas Confort Ojos y Nariz
 - Allergoforce Cápsulas Confort Ojos y Nariz
+- CUIDARSE DE OTRA MANERA CON Allergoforce Cápsulas Confort Ojos y Nariz
+- PRANAROM, experto en la ciencia de los Aceites Esenciales, ofrece desde hace más de 30 años soluciones específicas, óptimas y naturales para mantener a toda la familia con buena salud a diario
 - CÁPSULAS CON ACEITES ESENCIALES 100% naturales que incluyen el de manzanilla alemana, beneficioso en caso de irritaciones
 
 [🛒 Visítala!!!]({{< param buyurl >}})

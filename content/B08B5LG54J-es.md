@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Reverse
-- Care Label:
 - Coat
 - Detail
 - materialFabricComposition: Outer: 100% Polyester; Lining: 100% Polyester
+- Care Label:
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08B5LG54J{{</world>}}

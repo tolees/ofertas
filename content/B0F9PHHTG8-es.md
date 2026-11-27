@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Hecho de tela ligera y transpirable
 - Ideal para deportes y actividades informales.
 - Parte de la colección Nike Park 26
 - Fácil de combinar con diferentes conjuntos
 - Diseño clásico de cuello polo
-- Hecho de tela ligera y transpirable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F9PHHTG8{{</world>}}

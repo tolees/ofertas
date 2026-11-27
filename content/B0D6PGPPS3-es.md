@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Slip-Ins integrados
 - Slip-Ins
 - Espuma viscoelástica
+- Slip-Ins integrados
 - Vegano
 
 [🛒 Aquí!!!]({{< param buyurl >}})

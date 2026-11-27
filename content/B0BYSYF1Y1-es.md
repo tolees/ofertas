@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Completa el resto de la colección
-- Decoración para fiestas y cumpleaños. Ideal para regalar
 - Completa el resto de la colección. Producto oficial
+- Decoración para fiestas y cumpleaños. Ideal para regalar
 - Este set regalo incluye 4 figuras no artciuladas de los personajes del libro El Monstruo de Colores, de Anna Llenas (Calma, Alegria, Amor y Nuna)
 - Figura no articulada pintada a mano. Las figuras de acción fomentan la creatividad y la imaginación
 
